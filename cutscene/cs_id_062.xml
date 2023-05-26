@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="P01">Where is Lord Kaliga?</Text>
+	<Text label="P02">The lord is in the vault.</Text>
+	<Text label="P03">Is that so? Tell him that I have Maga&apos;s Potion.</Text>
+	<Text label="P04">And what of Kromede?</Text>
+	<Text label="P05">Tell the lord Robstin and Kromede have both been...dealt with.</Text>
+	<Text label="P06">Understood.</Text>
+</CutSceneText>

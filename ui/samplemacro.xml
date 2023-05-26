@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<sample_macro>
+	<macro>
+		<command>/AutomaticSelection</command>
+		<command>/Shout Attack [%Target]!</command>
+		<command>/Attack</command>
+		<name>Attack</name>
+		<icon>1</icon>
+		<desc>Shouts the name of the automatically selected target and starts attacking them.</desc>
+	</macro>
+	<macro>
+		<command>/Select [%Group1]</command>
+		<command>/Skill Healing Light I</command>
+		<command>/Delay 2</command>
+		<command>/Select [%PreviousTarget]</command>
+		<name>Heal Ally</name>
+		<icon>2</icon>
+		<desc>Heals Group Member 1 and then reselects the previous target.</desc>
+	</macro>
+	<macro>
+		<command>/Select [%Group1]</command>
+		<command>/Group Attack [%TargetOfTarget] targeted by [%Group1]!</command>
+		<command>/Attack</command>
+		<name>Assist</name>
+		<icon>3</icon>
+		<desc>Attacks the target selected by group member 1.</desc>
+	</macro>
+	<macro>
+		<command>/AutomaticSelection</command>
+		<command>/Quickbar 1 1 1</command>
+		<command>/Delay 3</command>
+		<command>/Quickbar 1 1 2</command>
+		<name>Multi-Skills</name>
+		<icon>4</icon>
+		<desc>Uses the skills registered in the first and second slots of the quickbar in succession.</desc>
+	</macro>
+	<macro>
+		<command>/Variable 1 Blessing of Health I</command>
+		<command>/Select [%Group1]</command>
+		<command>/Skill [%Variable1]</command>
+		<command>/Delay 2</command>
+		<command>/Select [%Group2]</command>
+		<command>/Skill [%Variable1]</command>
+		<command>/Delay 2</command>
+		<command>/Select [%Group3]</command>
+		<command>/Skill [%Variable1]</command>
+		<command>/Delay 2</command>
+		<command>/Select [%Group4]</command>
+		<command>/Skill [%Variable1]</command>
+		<command>/Delay 2</command>
+		<command>/Select [%Group5]</command>
+		<command>/Skill [%Variable1]</command>
+		<command>/Delay 2</command>
+		<name>Variables</name>
+		<icon>1</icon>
+		<desc>Registers a skill in Variable1 and then applies it to the entire group.</desc>
+	</macro>
+</sample_macro>

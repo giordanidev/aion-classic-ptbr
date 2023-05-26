@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="URI00">I&apos;m glad to see you!</Text>
+	<Text label="URI01">I called you here because I have an important mission for you.</Text>
+	<Text label="SOL02">...?</Text>
+	<Text label="URI03">Haha, you seem surprised that I called you so suddenly.</Text>
+	<Text label="URI04">I&apos;ve been keeping an eye on your skills and I have a mission that I can&apos;t use any troops to carry out. It must be carried out in secret.</Text>
+	<Text label="URI05">My Second Officer Kalain will brief you on the exact nature of the plan.</Text>
+	<Text label="CALLA06">We have received information that Tursin Orcs are mass producing siege weapons. They&apos;re also making catapults like those used by the Elyos.</Text>
+	<Text label="URI07">The pesky Orcs are planning to attack again.</Text>
+	<Text label="URI08">Close combat is no problem for our knights and courageous Red Flame Squad, but siege weapons make things trickier.</Text>
+	<Text label="URI09">Which is why you have to infiltrate their camp and defuse the siege weapons.</Text>
+	<Text label="SO10">On my own?</Text>
+	<Text label="URI11">Haha, don&apos;t worry about it. I&apos;ve found a way to do it.</Text>
+	<Text label="CALLA12">Go to the magic shop in Tijerid Harbour and find a witch who goes by the name of Drenon Mines.</Text>
+	<Text label="CALLA13">She is the most talented witch in Tijerid. She will give you something useful to help defuse the Orcs&apos; siege weapons.</Text>
+	<Text label="URI14">Once you have obtained the item from Drenon, you will meet a friend called Burdon in the Howling Hell.</Text>
+	<Text label="URI15">He will explain the next part of the plan to you in more detail.</Text>
+	<Text label="SOL16">I understand.</Text>
+	<Text label="URI17">Good luck!</Text>
+	<Text label="URI18">Did you defuse all the siege weapons? Good work! I knew my eyes were good.</Text>
+	<Text label="URI19">I have another new mission for you.</Text>
+	<Text label="CALLA20A">We have received information that all of the Orcs&apos; siege weapons are being made by Engineer Kobolds.</Text>
+	<Text label="CALLA20B">There is no point in us destroying the siege weapons unless we take out these Kobolds too. The Kobolds will produce new weapons.</Text>
+	<Text label="URI21">We have received reports that the Engineer Kobolds are working near the siege weapons.</Text>
+	<Text label="CALLA22">We have information that the Kobolds live near the place where they manufacture the siege weapons.</Text>
+	<Text label="CALLA23">We don&apos;t know exactly how many Kobolds live there. You need to capture one of them.</Text>
+	<Text label="URI24">Again, it is important that we don&apos;t mobilize large numbers of troops so we don&apos;t draw attention to ourselves. Those dumb goblins could lead the Engineer Kobolds straight to a hideout.</Text>
+	<Text label="URI25">The plan is that we first capture one of these Engineer Kobolds and find out about the technology they are using. Only then can we mobilise troops and destroy them.</Text>
+	<Text label="CALLA26">It will be tricky to capture a Kobold alive on your own. If you manage to lure the Kobold out, the Red Flame Squad will take care of him.</Text>
+	<Text label="URI27">Burdon will give you more information.</Text>
+	<Text label="URI28">I will reward you richly if you complete this mission successfully.</Text>
+	<Text label="SOL29">I&apos;ll do my best.</Text>
+	<Text label="URI30">I believe in you.</Text>
+	<Text label="URI31">I&apos;ve heard of your great feats. You did a great job this time too.</Text>
+	<Text label="CALLA32">Yurid gave you a large reward for your success. To great cooperation!</Text>
+	<Text label="URI33">I think it has started already...</Text>
+	<Text label="CALLA34">I already took care of it. They are hiding somewhere in the Barat Forge Caverns.</Text>
+	<Text label="URI35">And the ringleaders are really from the Tower of Light? The troops of fortress soldiers have discovered something.</Text>
+	<Text label="CALLA36">We must act swiftly. As soon as we have his position...</Text>
+	<Text label="URI37">Can we take care of it quietly?</Text>
+	<Text label="CALLA38">How about entrusting this mission to [%username]?</Text>
+	<Text label="URI39">OK, he isn&apos;t a knight so he won&apos;t attract too much suspicion.</Text>
+	<Text label="URI40">But more importantly, are you sure they are items from Yudenil?</Text>
+	<Text label="URI41">The tests have been completed. The effect is amazing, hahaha...</Text>
+</CutSceneText>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<category>
+	<faq>
+		<question>Character Stuck</question>
+		<answer>Normal playing is impossible because the character is trapped in a specific area and cannot move, or the character is moved to the same coordinate repeatedly (rubber-banding). Try returning to the obelisk using the Return skill, or press &lt;Space Bar&gt; to jump. If jumping or using the Return skill does not solve the problem, press the Write Petition button below to write a petition and submit using the Submit Petition button.</answer>
+	</faq>
+	<faq>
+		<question>Character Unable to Login</question>
+		<answer>&quot;Character unable to log in&quot; refers to a situation in which all or some of the characters on the account cannot log into the game. If none of your account&apos;s characters can log into the game, please refer to the guide displayed at the bottom of the login screen. You can also ask for help on our website. If only some of the account&apos;s characters cannot log into the game, login with another character, click on &quot;Write Petition&quot; and enter the names of the characters that require assistance.</answer>
+	</faq>
+	<faq>
+		<question>Moving to Another Area from a City</question>
+		<answer>To move to other areas from [%dic:STR_DIC_ELA07] or [%dic:STR_DIC_ELA08], use the teleporter found at the entrance to the city.</answer>
+	</faq>
+</category>

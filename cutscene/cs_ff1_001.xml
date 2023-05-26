@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="SOL0">(All the catapults appear to have been rendered harmless.)</Text>
+	<Text label="ORC0A">Bhrfixalyegliuwgef!!!!!</Text>
+	<Text label="ORC0B">Wadanka!!!</Text>
+	<Text label="ORC0C">Kalwbxslkefahiwe!!!!</Text>
+	<Text label="BODE0">That was dangerous. You should be grateful that I arrived in time to rescue you.</Text>
+	<Text label="SOL00">Thank you very much.</Text>
+	<Text label="BODE01">My family&apos;s archery skills are second to none.</Text>
+	<Text label="SOL02">Yes, you are uniquely skilled in battle. But who are you...?</Text>
+	<Text label="BODE03">Oh, I forgot to introduce myself. I&apos;m Keidian, the Knight&apos;s Staff Officer.</Text>
+	<Text label="BODE04">Yurid sent me to protect you. I&apos;m late because I was held up on the way here.</Text>
+	<Text label="BODE05">If I&apos;d arrived any later, Yurid would have been mad at me.</Text>
+	<Text label="SOL06">Keidian... I&apos;ve heard that name somewhere before...</Text>
+	<Text label="BODE07">Really? Haha! I&apos;m pretty famous here in Tijerid. I&apos;m flattered.</Text>
+	<Text label="SOL08">No, that&apos;s not it...</Text>
+	<Text label="BODE09">Eh?</Text>
+	<Text label="SOL10">Quite by chance, somebody gave me a letter and it had your name on it.</Text>
+	<Text label="BODE11">Yes? Hand it over quick...</Text>
+	<Text label="BODE12">How... How can this be?</Text>
+	<Text label="BODE13">Have you shown this to anyone else?</Text>
+	<Text label="SOL14">No, not a soul. But...</Text>
+	<Text label="BODE15">I&apos;ve gotta get back. Forget that you ever saw this letter, and that you showed it to me.</Text>
+	<Text label="SOL16">...</Text>
+	<Text label="BODE17">I&apos;m telling you this in your own best interest. Well...</Text>
+</CutSceneText>

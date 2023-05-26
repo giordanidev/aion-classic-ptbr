@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="P01">You&apos;ll find Windstreams where the atmospheric pressure varies.</Text>
+	<Text label="P02">They&apos;ll take you from one place to another very quickly.</Text>
+	<Text label="P03">Just jump into the stream and let the wind carry you.</Text>
+	<Text label="P04">If you want out before the stream ends, just change direction and slip out.</Text>
+	<Text label="P05">Inggison has many Windstreams....</Text>
+	<Text label="P06">Some might even lead to hidden areas.</Text>
+</CutSceneText>

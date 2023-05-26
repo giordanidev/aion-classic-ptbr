@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="P01">Ah, a living being...! Surely the Light has answered my prayers!</Text>
+	<Text label="P02">You! Why do you appear to Trou, the priest, and trouble his dreams?</Text>
+	<Text label="P03">I need one who still lives in the world...</Text>
+	<Text label="P04">to be the instrument of my revenge.</Text>
+	<Text label="P05">We asked Nerison for help when the Krall threatened,</Text>
+	<Text label="P06">but he refused our pleas for reinforcements.</Text>
+	<Text label="P07">The Krall overran the Manor and slaughtered us.</Text>
+	<Text label="P08">Because of Nerison we are all dead.</Text>
+	<Text label="P09">Help me, Daeva!</Text>
+	<Text label="P10">Make Nerison pay for what he did!</Text>
+</CutSceneText>

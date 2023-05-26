@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="JE0">So what happened...</Text>
+	<Text label="JE00">Peiti, something has disappeared here! Have you been stealing again?</Text>
+	<Text label="PET01">What are you talking about? I&apos;m forever losing things, but this time it&apos;s different!</Text>
+	<Text label="JE02">I can forgive mistakes, but not lies!</Text>
+	<Text label="PET03">That&apos;s taking it one step too far! Are you trying to accuse me of something before you know the full facts?</Text>
+	<Text label="JE04">Hey, wait a sec!</Text>
+	<Text label="JE05">It was actually Gais, the wretch...</Text>
+	<Text label="PET06">Never mind. I&apos;ve heard it all from him already.</Text>
+	<Text label="JE07">Ah... Understood...</Text>
+	<Text label="PET8">Don&apos;t you have anything to say to me?</Text>
+	<Text label="JE09">I&apos;m sorry! I don&apos;t know how to put things right again.</Text>
+	<Text label="PET10">Never mind. You&apos;re forgiven because you made a genuine apology.</Text>
+	<Text label="JE11">Really?</Text>
+	<Text label="PET12">Yes. I&apos;m actually the one who is always clumsy. And you&apos;ve always helped me out.</Text>
+	<Text label="JE13">Well, but...</Text>
+	<Text label="PET14">This makes us even. I&apos;ve never told you how grateful I am.</Text>
+</CutSceneText>

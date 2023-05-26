@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="P01">We are in the Abyss to defend Asmodae against the Balaur,</Text>
+	<Text label="P02">and to conquer Elysea once and for all.</Text>
+	<Text label="P03">To accomplish these things, we must seize power in the Abyss</Text>
+	<Text label="P04">by capturing key fortresses here in Reshanta.</Text>
+	<Text label="P05">We need to control nine fortresses in all,</Text>
+	<Text label="P06">each with immense strategic value.</Text>
+	<Text label="P07">The closer a fortress is to Reshanta&apos;s heart, the more valuable to us--and the Elyos.</Text>
+	<Text label="P08">A Guardian General leads the defenders of each fortress.</Text>
+	<Text label="P09">You&apos;ll see the General on your map when it appears inside the fortress.</Text>
+	<Text label="P10">If your Legion defeats the Guardian General and captures the fortress,</Text>
+	<Text label="P11">you&apos;ll gain Abyss Points, lots of Kinah,</Text>
+	<Text label="P12">and the usual spoils of war.</Text>
+	<Text label="P13">But such rewards don&apos;t come easy....</Text>
+	<Text label="P14">The Elyos Guardians are tough,</Text>
+	<Text label="P15">and the Balaur legions are even tougher.</Text>
+	<Text label="P16">It will take every ounce of will you and your brethren possess.</Text>
+	<Text label="P17">But on the day we claim Teminon Landing for Asmodae, our sacrifice will be worthwhile.</Text>
+</CutSceneText>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="P01">Would you believe me if I said that you could carry an Obelisk onto the battlefield</Text>
+	<Text label="P02">so you cannot die in battle? Well, it is true.</Text>
+	<Text label="P03">There are portable Obelisks known as Kisks.</Text>
+	<Text label="P04">You can use a Kisk to set up a resurrection bind point on the battlefield.</Text>
+	<Text label="P05">Your bind point will be wherever you place the Kisk.</Text>
+	<Text label="P06">But you must remember, a Kisk doesn&apos;t last forever,</Text>
+	<Text label="P07">and depending on the size of the Kisk, only so many Daevas can bind their souls to it.</Text>
+	<Text label="P08">Despite those limits, a Kisk is essential when you lay siege to a fortress.</Text>
+	<Text label="P09">If your Kisk is destroyed, your Daevas will resurrect at the permanent Obelisk to which they last bound their souls.</Text>
+	<Text label="P10">Those Daevas cannot swiftly return to the battlefield, so your siege might falter.</Text>
+	<Text label="P11">Therefore, you must do whatever you can to keep the Kisk safe from harm.</Text>
+	<Text label="P12">
+	</Text>
+</CutSceneText>

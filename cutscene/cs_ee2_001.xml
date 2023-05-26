@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="Self">Hmm, that worries me.</Text>
+	<Text label="Warr1">Isn&apos;t power the defining feature of an adventurer?</Text>
+	<Text label="Warr2">You can&apos;t do without it when fighting monsters.</Text>
+	<Text label="Warr3">Not everyone is adept at handling weapons.</Text>
+	<Text label="Cler1">Tsk, will you stop bragging about your power...?</Text>
+	<Text label="Cler2">The cleric is the best class anyway!</Text>
+	<Text label="Cler3">An adventurer enjoys a great reputation.</Text>
+	<Text label="Mage1">Magic is the best option for a hero.</Text>
+	<Text label="Mage2">Nobody can ever pick on a magician.</Text>
+	<Text label="Scou1">Tsk, you fool... Haven&apos;t you heard that scouts are hot property at the moment?</Text>
+	<Text label="Scou2">Who would want to get involved in such an old-fashioned job?</Text>
+	<Text label="Scou3">Speedy scouts are the only people who can find out secrets.</Text>
+	<Text label="Every">What?!</Text>
+	<Text label="Nare1">Warrior</Text>
+	<Text label="Nare2">Cleric</Text>
+	<Text label="Nare3">Mage</Text>
+	<Text label="Nare4">Scout</Text>
+</CutSceneText>

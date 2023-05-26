@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="Vellus00">Tursin Orcs are attacking at the front...</Text>
+	<Text label="Reahl01">You&apos;re back! How did it go?</Text>
+	<Text label="SOL02">I managed to defeat the Captain...</Text>
+	<Text label="Reahl03">Yes? But...?</Text>
+	<Text label="SOL04">He said that Shandu is up to something... And that it&apos;s already too late.</Text>
+	<Text label="Vellus05">Bah! The Orcs are history. They attacked us and now they&apos;ve been annihilated.</Text>
+	<Text label="SOL06">An unknown poison is being made in the Duaguru village...</Text>
+	<Text label="Reahl07">Poison?</Text>
+	<Text label="Vellus08">The Orcs&apos; weapons were infused with poison.</Text>
+	<Text label="Reahl09">That&apos;s the only thing the Orcs have going for them...</Text>
+	<Text label="Vellus10">I&apos;m grateful for your assistance. Let&apos;s raise a toast!</Text>
+</CutSceneText>

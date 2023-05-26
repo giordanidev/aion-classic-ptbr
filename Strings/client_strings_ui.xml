@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-16" ?>
+
 <strings>
 	<string>
 		<id>40000</id>
@@ -878,27 +879,27 @@
 	<string>
 		<id>240012</id>
 		<name>STR_NPCTAP_TESTSELL1</name>
-		<body>One-handed Weapon</body>
+		<body>Arma de uma mão</body>
 	</string>
 	<string>
 		<id>240013</id>
 		<name>STR_NPCTAP_TESTSELL2</name>
-		<body>Magic Weapon</body>
+		<body>Arma mágica</body>
 	</string>
 	<string>
 		<id>240014</id>
 		<name>STR_NPCTAP_TESTSELL3</name>
-		<body>Two-handed Weapon</body>
+		<body>Arma de duas mãos</body>
 	</string>
 	<string>
 		<id>240015</id>
 		<name>STR_NPCTAP_TESTSELL4</name>
-		<body>Melee Weapon</body>
+		<body>Arma branca</body>
 	</string>
 	<string>
 		<id>240016</id>
 		<name>STR_NPCTAP_TESTSELL5</name>
-		<body>Weapon Warehouse</body>
+		<body>Armazenamento de Armas</body>
 	</string>
 	<string>
 		<id>240017</id>
@@ -1110,92 +1111,92 @@
 	<string>
 		<id>240060</id>
 		<name>STR_TOOLTIP_LORE</name>
-		<body>Only one can be carried</body>
+		<body>Só um pode ser carregado</body>
 	</string>
 	<string>
 		<id>240061</id>
 		<name>STR_TOOLTIP_SOUL_BOUND_NEED</name>
-		<body>Soul Binding Available</body>
+		<body>'Soul Binding' disponível</body>
 	</string>
 	<string>
 		<id>240062</id>
 		<name>STR_TOOLTIP_SOUL_BOUND_DONE</name>
-		<body>Soul Bound Item</body>
+		<body>Item 'Soul Bound'</body>
 	</string>
 	<string>
 		<id>240063</id>
 		<name>STR_TOOLTIP_TEMPORARY</name>
-		<body>Temporary Item</body>
+		<body>Item temporário</body>
 	</string>
 	<string>
 		<id>240064</id>
 		<name>STR_TOOLTIP_EXCHANGE</name>
-		<body>Untradeable</body>
+		<body>Não negociável</body>
 	</string>
 	<string>
 		<id>240065</id>
 		<name>STR_TOOLTIP_CHARACTERWAREHOUSE</name>
-		<body>Unstorable</body>
+		<body>Não armazenável</body>
 	</string>
 	<string>
 		<id>240066</id>
 		<name>STR_TOOLTIP_ACCOUNTWAREHOUSE</name>
-		<body>Unstorable in Account Warehouse</body>
+		<body>Não pode ser guardado no Armazén da Conta</body>
 	</string>
 	<string>
 		<id>240067</id>
 		<name>STR_TOOLTIP_BREAKABLE</name>
-		<body>Indestructible</body>
+		<body>Indestrutível</body>
 	</string>
 	<string>
 		<id>240068</id>
 		<name>STR_TOOLTIP_NO_ENCHANT</name>
-		<body>Unenhanceable</body>
+		<body>Não pode ser melhorado</body>
 	</string>
 	<string>
 		<id>240069</id>
 		<name>STR_TOOLTIP_WEAPON</name>
-		<body>Weapon</body>
+		<body>Arma</body>
 	</string>
 	<string>
 		<id>240070</id>
 		<name>STR_TOOLTIP_ARMOR</name>
-		<body>Armour</body>
+		<body>Armadura</body>
 	</string>
 	<string>
 		<id>240071</id>
 		<name>STR_TOOLTIP_SHIELD</name>
-		<body>Shield</body>
+		<body>Escudo</body>
 	</string>
 	<string>
 		<id>240072</id>
 		<name>STR_TOOLTIP_ACCESSORY</name>
-		<body>Accessory</body>
+		<body>Accessório</body>
 	</string>
 	<string>
 		<id>240073</id>
 		<name>STR_TOOLTIP_FOOD</name>
-		<body>Food</body>
+		<body>Comida</body>
 	</string>
 	<string>
 		<id>240074</id>
 		<name>STR_TOOLTIP_ARROW</name>
-		<body>Arrow</body>
+		<body>Flecha</body>
 	</string>
 	<string>
 		<id>240075</id>
 		<name>STR_TOOLTIP_ONEHAND</name>
-		<body>One-handed Weapon</body>
+		<body>Arma de uma mão</body>
 	</string>
 	<string>
 		<id>240076</id>
 		<name>STR_TOOLTIP_LEFTHAND</name>
-		<body>Off-hand Weapon</body>
+		<body>Arma secundária</body>
 	</string>
 	<string>
 		<id>240077</id>
 		<name>STR_TOOLTIP_TWOHAND</name>
-		<body>Two-handed Weapon</body>
+		<body>Arma de duas mãos</body>
 	</string>
 	<string>
 		<id>240078</id>
@@ -1210,7 +1211,7 @@
 	<string>
 		<id>240080</id>
 		<name>STR_TOOLTIP_QUEST_ITEM</name>
-		<body>Quest Item</body>
+		<body>Item de quest</body>
 	</string>
 	<string>
 		<id>240081</id>
@@ -1230,7 +1231,7 @@
 	<string>
 		<id>240084</id>
 		<name>STR_TOOLTIP_POTION</name>
-		<body>Potion</body>
+		<body>Poção</body>
 	</string>
 	<string>
 		<id>240085</id>
@@ -1245,12 +1246,12 @@
 	<string>
 		<id>240087</id>
 		<name>STR_TOOLTIP_MISC_ITEM</name>
-		<body>Other</body>
+		<body>Outros</body>
 	</string>
 	<string>
 		<id>240088</id>
 		<name>STR_TOOLTIP_ESSENCE</name>
-		<body>Essence</body>
+		<body>Essência</body>
 	</string>
 	<string>
 		<id>240089</id>
@@ -1355,22 +1356,22 @@
 	<string>
 		<id>240109</id>
 		<name>STR_TOOLTIP_TOGGLE</name>
-		<body>Toggle</body>
+		<body>Mudar</body>
 	</string>
 	<string>
 		<id>240110</id>
 		<name>STR_TOOLTIP_ACTIVE</name>
-		<body>Active</body>
+		<body>Ativo</body>
 	</string>
 	<string>
 		<id>240111</id>
 		<name>STR_TOOLTIP_PASSIVE</name>
-		<body>Passive</body>
+		<body>Passivo</body>
 	</string>
 	<string>
 		<id>240112</id>
 		<name>STR_TOOLTIP_TARGET</name>
-		<body>Target</body>
+		<body>Álvo</body>
 	</string>
 	<string>
 		<id>240113</id>
@@ -1380,7 +1381,7 @@
 	<string>
 		<id>240114</id>
 		<name>STR_TOOLTIP_PARTY</name>
-		<body>Group Member</body>
+		<body>Membro do Grupo</body>
 	</string>
 	<string>
 		<id>240115</id>
@@ -1390,27 +1391,27 @@
 	<string>
 		<id>240116</id>
 		<name>STR_TOOLTIP_SINGLETARGET</name>
-		<body>Selected Target</body>
+		<body>Álvo selecionado</body>
 	</string>
 	<string>
 		<id>240117</id>
 		<name>STR_TOOLTIP_AREA</name>
-		<body>Area around caster.</body>
+		<body>Área ao redor do conjurador.</body>
 	</string>
 	<string>
 		<id>240118</id>
 		<name>STR_TOOLTIP_PHYSICALWEAPON</name>
-		<body>Available when equipped with a weapon.</body>
+		<body>Disponível quando uma arma está equipada.</body>
 	</string>
 	<string>
 		<id>240119</id>
 		<name>STR_TOOLTIP_MAGICALWEAPON</name>
-		<body>Available when equipped with a magic weapon.</body>
+		<body>Disponível quando uma arma mágica está equipada.</body>
 	</string>
 	<string>
 		<id>240120</id>
 		<name>STR_TOOLTIP_ALLWEAPON</name>
-		<body>Can use all weapons.</body>
+		<body>Pode usar todas as armas.</body>
 	</string>
 	<string>
 		<id>240121</id>
@@ -1510,17 +1511,17 @@
 	<string>
 		<id>240140</id>
 		<name>STR_WINDOW_STATUS</name>
-		<body>Profile</body>
+		<body>Perfil</body>
 	</string>
 	<string>
 		<id>240141</id>
 		<name>STR_WINDOW_EQUIP</name>
-		<body>Inventory</body>
+		<body>Inventário</body>
 	</string>
 	<string>
 		<id>240142</id>
 		<name>STR_WINDOW_SKILL</name>
-		<body>Skills</body>
+		<body>Habilidades</body>
 	</string>
 	<string>
 		<id>240143</id>
@@ -1530,67 +1531,67 @@
 	<string>
 		<id>240144</id>
 		<name>STR_WINDOW_ZONEMAP</name>
-		<body>Zone Map</body>
+		<body>Mapa</body>
 	</string>
 	<string>
 		<id>240145</id>
 		<name>STR_WINDOW_WORLDMAP</name>
-		<body>World Map</body>
+		<body>Mapa do Mundo</body>
 	</string>
 	<string>
 		<id>240146</id>
 		<name>STR_WINDOW_COMMUNITY</name>
-		<body>Community</body>
+		<body>Comunidade</body>
 	</string>
 	<string>
 		<id>240147</id>
 		<name>STR_WINDOW_BAZAAR</name>
-		<body>Private Store</body>
+		<body>Loja Privada</body>
 	</string>
 	<string>
 		<id>240148</id>
 		<name>STR_WINDOW_HISTORY</name>
-		<body>History</body>
+		<body>Logs</body>
 	</string>
 	<string>
 		<id>240149</id>
 		<name>STR_WINDOW_SYSTEM</name>
-		<body>System Menu</body>
+		<body>Menu do Sistema</body>
 	</string>
 	<string>
 		<id>240150</id>
 		<name>STR_WINDOW_PARTY</name>
-		<body>Group</body>
+		<body>Grupo</body>
 	</string>
 	<string>
 		<id>240151</id>
 		<name>STR_WINDOW_ALLIANCE</name>
-		<body>Alliance</body>
+		<body>Aliança</body>
 	</string>
 	<string>
 		<id>240152</id>
 		<name>STR_WINDOW_GUILD</name>
-		<body>Legion</body>
+		<body>Legião</body>
 	</string>
 	<string>
 		<id>240153</id>
 		<name>STR_WINDOW_FRIEND</name>
-		<body>Friends</body>
+		<body>Amigos</body>
 	</string>
 	<string>
 		<id>240154</id>
 		<name>STR_RANKTITLE_0</name>
-		<body>Newbie</body>
+		<body>Noob</body>
 	</string>
 	<string>
 		<id>240155</id>
 		<name>STR_RANKTITLE_1</name>
-		<body>Trainee</body>
+		<body>Iniciante</body>
 	</string>
 	<string>
 		<id>240156</id>
 		<name>STR_RANKTITLE_2</name>
-		<body>Professional</body>
+		<body>Profissional</body>
 	</string>
 	<string>
 		<id>240157</id>
@@ -1600,12 +1601,12 @@
 	<string>
 		<id>240158</id>
 		<name>STR_RANKTITLE_4</name>
-		<body>Specialist</body>
+		<body>Especialista</body>
 	</string>
 	<string>
 		<id>240159</id>
 		<name>STR_RANKTITLE_5</name>
-		<body>Brigade General</body>
+		<body>General</body>
 	</string>
 	<string>
 		<id>240160</id>
@@ -1630,12 +1631,12 @@
 	<string>
 		<id>240164</id>
 		<name>STR_QUALITY_COMMON</name>
-		<body>Common Item</body>
+		<body>Item 'Common'</body>
 	</string>
 	<string>
 		<id>240165</id>
 		<name>STR_QUALITY_RARE</name>
-		<body>Superior Item</body>
+		<body>Item 'Superior'</body>
 	</string>
 	<string>
 		<id>240166</id>
@@ -1700,32 +1701,32 @@
 	<string>
 		<id>240178</id>
 		<name>STR_NPCTAP_1HWEAPON</name>
-		<body>One-handed</body>
+		<body>Uma mão</body>
 	</string>
 	<string>
 		<id>240179</id>
 		<name>STR_NPCTAP_2HWEAPON</name>
-		<body>Two-handed</body>
+		<body>Duas mãos</body>
 	</string>
 	<string>
 		<id>240180</id>
 		<name>STR_NPCTAP_MARTIALWEAPON</name>
-		<body>Melee Two-handed</body>
+		<body>Arma branca de duas mãos</body>
 	</string>
 	<string>
 		<id>240181</id>
 		<name>STR_NPCTAP_RANGEWEAPON</name>
-		<body>Ranged</body>
+		<body>Longo alcançe</body>
 	</string>
 	<string>
 		<id>240182</id>
 		<name>STR_NPCTAP_AMMO</name>
-		<body>Ammunition</body>
+		<body>Munição</body>
 	</string>
 	<string>
 		<id>240183</id>
 		<name>STR_NPCTAP_CLOTHESARMOR</name>
-		<body>Clothing</body>
+		<body>Fantasias</body>
 	</string>
 	<string>
 		<id>240184</id>
@@ -1765,32 +1766,32 @@
 	<string>
 		<id>240191</id>
 		<name>STR_NPCTAP_SHIELD</name>
-		<body>Shield</body>
+		<body>Escudo</body>
 	</string>
 	<string>
 		<id>240192</id>
 		<name>STR_NPCTAP_ACCESSORY</name>
-		<body>Accessory</body>
+		<body>Acessório</body>
 	</string>
 	<string>
 		<id>240193</id>
 		<name>STR_NPCTAP_FOOD</name>
-		<body>Food</body>
+		<body>Comida</body>
 	</string>
 	<string>
 		<id>240194</id>
 		<name>STR_NPCTAP_POTION</name>
-		<body>Potion</body>
+		<body>Poção</body>
 	</string>
 	<string>
 		<id>240195</id>
 		<name>STR_NPCTAP_SCROLL</name>
-		<body>Scroll</body>
+		<body>Pergaminho</body>
 	</string>
 	<string>
 		<id>240196</id>
 		<name>STR_NPCTAP_PET</name>
-		<body>Pet Accessory</body>
+		<body>Acessório do Pet</body>
 	</string>
 	<string>
 		<id>240197</id>
@@ -1800,12 +1801,12 @@
 	<string>
 		<id>240198</id>
 		<name>STR_NPCTAP_MATERIAL</name>
-		<body>Materials</body>
+		<body>Materiais</body>
 	</string>
 	<string>
 		<id>240199</id>
 		<name>STR_NPCTAP_ESSCENCE</name>
-		<body>Essence</body>
+		<body>Essência</body>
 	</string>
 	<string>
 		<id>240200</id>
@@ -1820,12 +1821,12 @@
 	<string>
 		<id>240202</id>
 		<name>STR_BUTTON_PAUSE</name>
-		<body>Stop</body>
+		<body>Parar</body>
 	</string>
 	<string>
 		<id>240203</id>
 		<name>STR_GUILD_WRITE_DATE</name>
-		<body>Announcement Date</body>
+		<body>Data do anúncio</body>
 	</string>
 	<string>
 		<id>240204</id>
@@ -1935,27 +1936,27 @@
 	<string>
 		<id>240225</id>
 		<name>STR_OPTION_QUALITY1</name>
-		<body>Highest</body>
+		<body>Máxima</body>
 	</string>
 	<string>
 		<id>240226</id>
 		<name>STR_OPTION_QUALITY2</name>
-		<body>High</body>
+		<body>Alta</body>
 	</string>
 	<string>
 		<id>240227</id>
 		<name>STR_OPTION_QUALITY3</name>
-		<body>Middle</body>
+		<body>Média</body>
 	</string>
 	<string>
 		<id>240228</id>
 		<name>STR_OPTION_QUALITY4</name>
-		<body>Low</body>
+		<body>Baixa</body>
 	</string>
 	<string>
 		<id>240229</id>
 		<name>STR_OPTION_QUALITY5</name>
-		<body>Lowest</body>
+		<body>Mais baixa</body>
 	</string>
 	<string>
 		<id>240230</id>
@@ -2494,47 +2495,47 @@
 	<string>
 		<id>240338</id>
 		<name>STR_UI_SEARCH_IN_SOLE_PLAYING</name>
-		<body>Available</body>
+		<body>Disponível</body>
 	</string>
 	<string>
 		<id>240339</id>
 		<name>STR_UI_SEARCH_WISH_PARTY</name>
-		<body>Looking for Group</body>
+		<body>Procurando Grupo</body>
 	</string>
 	<string>
 		<id>240340</id>
 		<name>STR_UI_SEARCH_IN_PARTY</name>
-		<body>Party in Progress</body>
+		<body>Em um Grupo</body>
 	</string>
 	<string>
 		<id>240341</id>
 		<name>STR_POPUP_WHISPER</name>
-		<body>Whisper</body>
+		<body>Sussurrar</body>
 	</string>
 	<string>
 		<id>240342</id>
 		<name>STR_POPUP_MAKE_FRIEND</name>
-		<body>Invite Friend</body>
+		<body>Adicionar Amigo</body>
 	</string>
 	<string>
 		<id>240343</id>
 		<name>STR_POPUP_BLOCK</name>
-		<body>Block</body>
+		<body>Bloquear</body>
 	</string>
 	<string>
 		<id>240344</id>
 		<name>STR_PLAYERINFO_NOT_ACQUIRED_TITLE</name>
-		<body>[Title not acquired]</body>
+		<body>[Título não adquirido]</body>
 	</string>
 	<string>
 		<id>240345</id>
 		<name>STR_QUEST_STEP_FINISHED</name>
-		<body>(Completed)</body>
+		<body>(Completada)</body>
 	</string>
 	<string>
 		<id>240346</id>
 		<name>STR_QUEST_STEP_NOT_FINISHED</name>
-		<body>(Incomplete)</body>
+		<body>(Não completada)</body>
 	</string>
 	<string>
 		<id>240348</id>
@@ -2749,67 +2750,67 @@
 	<string>
 		<id>900028</id>
 		<name>STR_KEYMAP_TOGGLEDIALOG_INVENTORY</name>
-		<body>Inventory</body>
+		<body>Inventário</body>
 	</string>
 	<string>
 		<id>900029</id>
 		<name>STR_KEYMAP_TOGGLEDIALOG_QUEST</name>
-		<body>Quests</body>
+		<body>Tarefas</body>
 	</string>
 	<string>
 		<id>900030</id>
 		<name>STR_KEYMAP_TOGGLEDIALOG_SKILL</name>
-		<body>Skills</body>
+		<body>Habilidades</body>
 	</string>
 	<string>
 		<id>900031</id>
 		<name>STR_KEYMAP_TOGGLEDIALOG_SYSTEM_MENU</name>
-		<body>System Menu</body>
+		<body>Menu do Sistema</body>
 	</string>
 	<string>
 		<id>900032</id>
 		<name>STR_KEYMAP_TOGGLEDIALOG_CHAR_STATUS</name>
-		<body>Profile</body>
+		<body>Perfil</body>
 	</string>
 	<string>
 		<id>900033</id>
 		<name>STR_KEYMAP_TOGGLEDIALOG_PARTY</name>
-		<body>Minimise Group</body>
+		<body>Minimizar Grupo</body>
 	</string>
 	<string>
 		<id>900034</id>
 		<name>STR_KEYMAP_TOGGLEDIALOG_PERSONAL_SHOP</name>
-		<body>Private Store</body>
+		<body>Loja Privada</body>
 	</string>
 	<string>
 		<id>900035</id>
 		<name>STR_KEYMAP_TOGGLEDIALOG_ZONE_MAP</name>
-		<body>Zone Map</body>
+		<body>Mapa Local</body>
 	</string>
 	<string>
 		<id>900036</id>
 		<name>STR_KEYMAP_TOGGLEDIALOG_WORLD_MAP</name>
-		<body>World Map</body>
+		<body>Mapa do Mundo</body>
 	</string>
 	<string>
 		<id>900037</id>
 		<name>STR_KEYMAP_TOGGLEDIALOG_GUILD_INFO</name>
-		<body>Legion</body>
+		<body>Legião</body>
 	</string>
 	<string>
 		<id>900038</id>
 		<name>STR_KEYMAP_TOGGLEDIALOG_PARTY_ALLIANCE</name>
-		<body>Alliance</body>
+		<body>Aliança</body>
 	</string>
 	<string>
 		<id>900039</id>
 		<name>STR_KEYMAP_SELECTPARTYMEMBER_0</name>
-		<body>Select Yourself</body>
+		<body>Selecionar você mesmo</body>
 	</string>
 	<string>
 		<id>900040</id>
 		<name>STR_KEYMAP_SELECTPARTYMEMBER_1</name>
-		<body>Select Group Member 1</body>
+		<body>Selecionar 1º Membro do Grupo</body>
 	</string>
 	<string>
 		<id>900041</id>
@@ -2834,47 +2835,47 @@
 	<string>
 		<id>900045</id>
 		<name>STR_KEYMAP_AUTOTARGET_PC</name>
-		<body>Select Nearest Ally</body>
+		<body>Selecionar Aliado Próximo</body>
 	</string>
 	<string>
 		<id>900046</id>
 		<name>STR_KEYMAP_AUTOTARGET_NPC_ATTACKABLE</name>
-		<body>Select Nearest Enemy</body>
+		<body>Selecionar Inimigo Próximo</body>
 	</string>
 	<string>
 		<id>900047</id>
 		<name>STR_KEYMAP_AUTOTARGET_ANY</name>
-		<body>Select Nearest Target</body>
+		<body>Selecionar Alvo Próximo</body>
 	</string>
 	<string>
 		<id>900048</id>
 		<name>STR_KEYMAP_ASSIST</name>
-		<body>Select Target&apos;s Target</body>
+		<body>Selecionar o Alvo do meu Alvo</body>
 	</string>
 	<string>
 		<id>900049</id>
 		<name>STR_KEYMAP_SWITCHWEAPON</name>
-		<body>Change Weapon</body>
+		<body>Mudar Arma</body>
 	</string>
 	<string>
 		<id>900050</id>
 		<name>STR_KEYMAP_JUMP</name>
-		<body>Standing Jump</body>
+		<body>Pular/Planar</body>
 	</string>
 	<string>
 		<id>900051</id>
 		<name>STR_KEYMAP_MODEWALK</name>
-		<body>Walk/Run</body>
+		<body>Caminahr/Correr</body>
 	</string>
 	<string>
 		<id>900052</id>
 		<name>STR_KEYMAP_MODEREST</name>
-		<body>Rest/Normal</body>
+		<body>Sentar/Normal</body>
 	</string>
 	<string>
 		<id>900053</id>
 		<name>STR_KEYMAP_MODECOMBAT</name>
-		<body>Combat/Normal</body>
+		<body>Combate/Normal</body>
 	</string>
 	<string>
 		<id>900054</id>
@@ -2884,32 +2885,32 @@
 	<string>
 		<id>900055</id>
 		<name>STR_KEYMAP_STARTWHISPERREPLY</name>
-		<body>Reply to Whisper</body>
+		<body>Responder Sussurro</body>
 	</string>
 	<string>
 		<id>900056</id>
 		<name>STR_KEYMAP_TRADE</name>
-		<body>Request Trade</body>
+		<body>Requisitar Troca</body>
 	</string>
 	<string>
 		<id>900057</id>
 		<name>STR_KEYMAP_TOGGLEUISYSTEM</name>
-		<body>Hide/Show UI</body>
+		<body>Esconder/Mostrar 'UI'</body>
 	</string>
 	<string>
 		<id>900058</id>
 		<name>STR_KEYMAP_SCREENSHOT</name>
-		<body>Save Screen Shot</body>
+		<body>Salvar Imagem da Tela</body>
 	</string>
 	<string>
 		<id>900059</id>
 		<name>STR_KEYMAP_CAMNORMALIZE</name>
-		<body>View Opposite Angle</body>
+		<body>Olhar para o ângulo oposto</body>
 	</string>
 	<string>
 		<id>900060</id>
 		<name>STR_KEYMAP_GLIDE</name>
-		<body>Toggle Gliding</body>
+		<body>Alternar Planar</body>
 	</string>
 	<string>
 		<id>900061</id>
@@ -2986,12 +2987,12 @@
 	<string>
 		<id>900079</id>
 		<name>STR_KEYMAP_PRESS</name>
-		<body>Pressing</body>
+		<body>Apertando</body>
 	</string>
 	<string>
 		<id>900080</id>
 		<name>STR_KEYMAP_RELEASE</name>
-		<body>Releasing</body>
+		<body>Soltando</body>
 	</string>
 	<string>
 		<id>900081</id>
@@ -3141,22 +3142,22 @@
 	<string>
 		<id>900110</id>
 		<name>STR_KEYMAP_TAKEOFF</name>
-		<body>Fly</body>
+		<body>Voar</body>
 	</string>
 	<string>
 		<id>900111</id>
 		<name>STR_KEYMAP_LAND</name>
-		<body>Land</body>
+		<body>Pousar</body>
 	</string>
 	<string>
 		<id>900112</id>
 		<name>STR_KEYMAP_WEAPON_BOOST</name>
-		<body>Toggle Power Shard</body>
+		<body>Alternar 'Power Shard'</body>
 	</string>
 	<string>
 		<id>900211</id>
 		<name>STR_KEYMAP_KEYBOARD_DISABLE</name>
-		<body>Reset</body>
+		<body>Resetar</body>
 	</string>
 	<string>
 		<id>900212</id>
@@ -3166,12 +3167,12 @@
 	<string>
 		<id>900213</id>
 		<name>STR_OPTION_TAB_GAMESETTING</name>
-		<body>Game Options</body>
+		<body>Opções do Jogo</body>
 	</string>
 	<string>
 		<id>900214</id>
 		<name>STR_OPTION_TAB_AVSETTING</name>
-		<body>Graphics Options</body>
+		<body>Opções de Gráfico</body>
 	</string>
 	<string>
 		<id>900215</id>
@@ -3181,12 +3182,12 @@
 	<string>
 		<id>900216</id>
 		<name>STR_COMMON_YES</name>
-		<body>Yes</body>
+		<body>Sim</body>
 	</string>
 	<string>
 		<id>900217</id>
 		<name>STR_COMMON_NO</name>
-		<body>No</body>
+		<body>Não</body>
 	</string>
 	<string>
 		<id>900218</id>
@@ -3201,7 +3202,7 @@
 	<string>
 		<id>900220</id>
 		<name>STR_QUEST_NAME_E3_Tizerid_1</name>
-		<body>Quest Title</body>
+		<body>Título da Tarefa</body>
 	</string>
 	<string>
 		<id>900221</id>
