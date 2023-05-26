@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<client_error_msgs>
+	<client_error_msg>
+		<id>1</id>
+		<name>ERR_TITLE</name>
+		<body>Aion</body>
+	</client_error_msg>
+	<client_error_msg>
+		<id>1000</id>
+		<name>ERR_CREATE_3DENGINE_FAILED</name>
+		<body>3D engine creation has failed.</body>
+	</client_error_msg>
+	<client_error_msg>
+		<id>1001</id>
+		<name>ERR_CHECK_DIRECTX_LIBRARY_FAILED</name>
+		<body>AION cannot be run using the installed version of DirectX.\nA version as of June 2008 (or later) is required.\nYou can download the current version from https://www.microsoft.com/en-gb/.</body>
+	</client_error_msg>
+	<client_error_msg>
+		<id>1002</id>
+		<name>ERR_CHECK_SHADER_SUPPORT_FAILED</name>
+		<body>A driver that supports Pixelshader 1.1 or a newer version is required to start AION. \nSee the system requirements on the AION website.\n http://aionfreetoplay.com</body>
+	</client_error_msg>
+	<client_error_msg>
+		<id>1003</id>
+		<name>ERR_CHECK_SOUNDSYSTEM_FAILED</name>
+		<body>A DirectX sound error has been detected.\n\nit can be fixed in the following way:\n1) Select &quot;Execute&quot; in the start menu.\n2) Enter the term &apos;dxdiag&apos; and confirm.\n3) Select &quot;Sounds&quot;.\n4) Set the hardware driver to &apos;standard&apos;.\n5) Click &quot;Exit&quot;.\n6) Start AION again.</body>
+	</client_error_msg>
+	<client_error_msg>
+		<id>1004</id>
+		<name>ERR_CREATE_DEFAULT_FONT_FAILED</name>
+		<body>The font required to start AION could not be created.</body>
+	</client_error_msg>
+	<client_error_msg>
+		<id>1005</id>
+		<name>ERR_CREATE_ENTITYSYSTEM_FAILED</name>
+		<body>EntitySystem creation has failed.</body>
+	</client_error_msg>
+	<client_error_msg>
+		<id>1006</id>
+		<name>ERR_CREATE_FONTSYSTEM_FAILED</name>
+		<body>FontSystem creation has failed.</body>
+	</client_error_msg>
+	<client_error_msg>
+		<id>1007</id>
+		<name>ERR_CREATE_GAME_FAILED</name>
+		<body>Unable to start the game.</body>
+	</client_error_msg>
+	<client_error_msg>
+		<id>1008</id>
+		<name>ERR_CREATE_GAMESYSTEM_FAILED</name>
+		<body>GameSystem creation has failed.</body>
+	</client_error_msg>
+	<client_error_msg>
+		<id>1009</id>
+		<name>ERR_CREATE_INPUTSYSTEM_FAILED</name>
+		<body>InputSystem creation has failed.</body>
+	</client_error_msg>
+	<client_error_msg>
+		<id>1010</id>
+		<name>ERR_CREATE_MOVIESYSTEM_FAILED</name>
+		<body>MoveSystem creation has failed.</body>
+	</client_error_msg>
+	<client_error_msg>
+		<id>1011</id>
+		<name>ERR_CREATE_MUSICSYSTEM_FAILED</name>
+		<body>MusicSystem creation has failed.</body>
+	</client_error_msg>
+	<client_error_msg>
+		<id>1012</id>
+		<name>ERR_CREATE_PHYSICSYSTEM_FAILED</name>
+		<body>PhysicSystem creation has failed.</body>
+	</client_error_msg>
+	<client_error_msg>
+		<id>1013</id>
+		<name>ERR_CREATE_SOUNDSYSTEM_FAILED</name>
+		<body>SoundSystem creation has failed.</body>
+	</client_error_msg>
+	<client_error_msg>
+		<id>1014</id>
+		<name>ERR_FIND_SUITABLE_D3DDEVICE_FAILED</name>
+		<body>Driver for Aion was not found</body>
+	</client_error_msg>
+	<client_error_msg>
+		<id>1015</id>
+		<name>ERR_GET_3DENGINE_INTERFACE_FAILED</name>
+		<body>Engine interface was not found.</body>
+	</client_error_msg>
+	<client_error_msg>
+		<id>1016</id>
+		<name>ERR_GET_ENTITYSYSTEM_INTERFACE_FAILED</name>
+		<body>EntitySystem interface was not found.</body>
+	</client_error_msg>
+	<client_error_msg>
+		<id>1017</id>
+		<name>ERR_GET_FONTSYSTEM_INTERFACE_FAILED</name>
+		<body>FontSystem interface was not found.</body>
+	</client_error_msg>
+	<client_error_msg>
+		<id>1018</id>
+		<name>ERR_GET_GAMESYSTEM_INTERFACE_FAILED</name>
+		<body>GameSystem interface was not found.</body>
+	</client_error_msg>
+	<client_error_msg>
+		<id>1019</id>
+		<name>ERR_GET_MOVIESYSTEM_INTERFACE_FAILED</name>
+		<body>MoveSystem interface was not found.</body>
+	</client_error_msg>
+	<client_error_msg>
+		<id>1020</id>
+		<name>ERR_GET_PHYSICSYSTEM_INTERFACE_FAILED</name>
+		<body>PhysicSystem interface was not found.</body>
+	</client_error_msg>
+	<client_error_msg>
+		<id>1021</id>
+		<name>ERR_GET_SOUNDSYSTEM_INTERFACE_FAILED</name>
+		<body>SoundSystem interface was not found.</body>
+	</client_error_msg>
+	<client_error_msg>
+		<id>1022</id>
+		<name>ERR_INIT_3DENGINE_FAILED</name>
+		<body>Engine resetting has failed.</body>
+	</client_error_msg>
+	<client_error_msg>
+		<id>1023</id>
+		<name>ERR_INIT_3DENVIRONMENT_FAILED</name>
+		<body>Unable to configure graphics driver.</body>
+	</client_error_msg>
+	<client_error_msg>
+		<id>1024</id>
+		<name>ERR_INIT_GAME_FAILED</name>
+		<body>Could not start the game.</body>
+	</client_error_msg>
+	<client_error_msg>
+		<id>1025</id>
+		<name>ERR_NO_RENDER_SPECIFIED</name>
+		<body>Renderer has not been defined.</body>
+	</client_error_msg>
+	<client_error_msg>
+		<id>1026</id>
+		<name>ERR_UPDATE_GRAPHIC_DRIVER_NVIDIA_196_75</name>
+		<body>NVIDIA graphics driver version 196.75 may cause the graphics card to overheat. Please install the current version.</body>
+	</client_error_msg>
+</client_error_msgs>

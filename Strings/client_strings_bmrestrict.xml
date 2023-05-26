@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<strings>
+	<string>
+		<id>1700000</id>
+		<name>STR_BM_MSG_TEST</name>
+		<body>You are a [%bm_account_type] and cannot wear %0. Purchase a Gold Pack in the shop to unlock the function. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+	<string>
+		<id>1700001</id>
+		<name>STR_BM_MSG_EQUIP_ITEM_RESTRICT_01</name>
+		<body>You are a [%bm_account_type] and cannot wear %0. Purchase a Gold Pack in the shop to unlock the function. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>1</display_type>
+	</string>
+	<string>
+		<id>1700002</id>
+		<name>STR_MSG_F2P_GET_EXP_BOOST_VITAL_BONUS</name>
+		<body>You have gained %num1 XP from %0 (Powerful Energy of Repose %num2).</body>
+		<message_type>60</message_type>
+		<display_type>1</display_type>
+	</string>
+	<string>
+		<id>1700003</id>
+		<name>STR_MSG_F2P_GET_EXP_BOOST_VITAL_MAKEUP_BONUS</name>
+		<body>You have gained %num1 XP from %0 (Powerful Energy of Repose %num2, Energy of Salvation %num3).</body>
+		<message_type>60</message_type>
+		<display_type>1</display_type>
+	</string>
+	<string>
+		<id>1700004</id>
+		<name>STR_MSG_F2P_COMBAT_MU_EXP_GAIN_BOOST_VITAL_BONUS</name>
+		<body>You have gained %0 (Powerful Energy of Repose %num1).</body>
+		<message_type>60</message_type>
+		<display_type>1</display_type>
+	</string>
+	<string>
+		<id>1700005</id>
+		<name>STR_MSG_F2P_COMBAT_MU_EXP_GAIN_BOOST_VITAL_MAKEUP_BONUS</name>
+		<body>You have gained %0 (Powerful Energy of Repose %num1, Energy of Salvation %num2).</body>
+		<message_type>60</message_type>
+		<display_type>1</display_type>
+	</string>
+	<string>
+		<id>1700006</id>
+		<name>STR_MSG_F2P_GET_EXP2_BOOST_VITAL_BONUS</name>
+		<body>You have gained %num0 XP (Powerful Energy of Repose %num1).</body>
+		<message_type>60</message_type>
+		<display_type>1</display_type>
+	</string>
+	<string>
+		<id>1700007</id>
+		<name>STR_MSG_F2P_GET_EXP2_BOOST_VITAL_MAKEUP_BONUS</name>
+		<body>You have gained %num0 XP (Powerful Energy of Repose %num1, Energy of Salvation %num2).</body>
+		<message_type>60</message_type>
+		<display_type>1</display_type>
+	</string>
+	<string>
+		<id>1700008</id>
+		<name>STR_MSG_F2P_EQUIP_ITEM_RESTRICT</name>
+		<body>You are a [%bm_account_type] and cannot wear %0. Purchase a Gold Pack in the shop to unlock the function. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+	<string>
+		<id>1700009</id>
+		<name>STR_MSG_F2P_COMBINE_ITEM_RESTRICT</name>
+		<body>You are a [%bm_account_type] and cannot accept any more tasks. Purchase a Gold Pack in the shop to unlock the function. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+	<string>
+		<id>1700010</id>
+		<name>STR_MSG_F2P_ITEM_DECOMPOSE_DAY_RESTRICT</name>
+		<body>You are a [%bm_account_type] and can extract a maximum of %num0 items per week. Purchase a Gold Pack in the shop to remove the limitation. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+	<string>
+		<id>1700011</id>
+		<name>STR_MSG_F2P_GATHER_DAY_RESTRICT</name>
+		<body>You are a [%bm_account_type] and can gather a maximum of %num0 Essence per week. Purchase a Gold Pack in the shop to extract more. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+	<string>
+		<id>1700012</id>
+		<name>STR_MSG_F2P_GATHER_SKILL_LEVEL_RESTRICT</name>
+		<body>You are a [%bm_account_type] and can only gather items that require an Essencetapping Skill below %0 points. Purchase a Gold Pack in the shop to remove the limitation. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+	<string>
+		<id>1700013</id>
+		<name>STR_MSG_F2P_EXTRACT_GATHER_DAY_RESTRICT</name>
+		<body>You are a [%bm_account_type] and can extract a maximum of %num0 Aether per week. Purchase a Gold Pack in the shop to remove the limitation. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+	<string>
+		<id>1700014</id>
+		<name>STR_MSG_F2P_EXTRACT_GATHER_SKILL_LEVEL_RESTRICT</name>
+		<body>You are a [%bm_account_type] and can only gather Vortices that require a Aethertapping Skill below %0 points. Purchase a Gold Pack in the shop to remove the limitation. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+	<string>
+		<id>1700015</id>
+		<name>STR_MSG_F2P_SELLGOLD_DAY_RESTRICT</name>
+		<body>You are a [%bm_account_type] and can only sell items equivalent to a maximum of %0 Kinah per day. Purchase a Gold Pack in the shop to remove the limitation. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+	<string>
+		<id>1700016</id>
+		<name>STR_MSG_F2P_VENDOR_SELL_RESTRICT</name>
+		<body>You are a [%bm_account_type] and have limited access to the Trade Broker functions. Purchase a Gold Pack in the shop to remove the limitation. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+	<string>
+		<id>1700017</id>
+		<name>STR_MSG_F2P_VENDOR_BUY_RESTRICT</name>
+		<body>You are [%bm_account_type] and have limited access to the Trade Broker functions. You can unlock these functions by purchasing certain shop items. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+	<string>
+		<id>1700018</id>
+		<name>STR_MSG_F2P_LEVEL_UP_RESTRICT</name>
+		<body>You’re still a [%bm_account_type] and cannot reach a higher level than %0. Take a look at the shop, where you can find items that enable you to reach the next levels. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+	<string>
+		<id>1700019</id>
+		<name>STR_MSG_F2P_GUILD_CREATE_RESTRICT</name>
+		<body>You are a [%bm_account_type] and cannot create a legion. Purchase a Gold Pack in the shop to unlock this function. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+	<string>
+		<id>1700020</id>
+		<name>STR_MSG_F2P_GUILD_WAREHOUSE_USE_RESTRICT</name>
+		<body>You are a [%bm_account_type] and not allowed to use the Legion Warehouse. Purchase a Gold Pack in the shop to unlock this function. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+	<string>
+		<id>1700021</id>
+		<name>STR_MSG_F2P_EXCHANGE_RESTRICT</name>
+		<body>You are a [%bm_account_type] and cannot trade with other players. Purchase a Gold Pack in the shop to unlock the function. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+	<string>
+		<id>1700022</id>
+		<name>STR_MSG_F2P_EXCHANGE_KINA_RESTRICT</name>
+		<body>You are a [%bm_account_type] and cannot trade Kinah with other players. Purchase a Gold Pack in the shop to unlock the function. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+	<string>
+		<id>1700023</id>
+		<name>STR_MSG_F2P_EXCHANGE_ITEM_RESTRICT</name>
+		<body>You are a [%bm_account_type] and cannot trade items with other players. Purchase a Gold Pack in the shop to unlock the function. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+	<string>
+		<id>1700024</id>
+		<name>STR_MSG_F2P_PERSONAL_SHOP_OPEN_RESTRICT</name>
+		<body>You are a [%bm_account_type] and cannot open a private store. Purchase a Gold Pack in the shop to remove the limitation. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+	<string>
+		<id>1700025</id>
+		<name>STR_MSG_F2P_PERSONAL_SHOP_BUY_RESTRICT</name>
+		<body>You are a [%bm_account_type] and cannot access private stores. Purchase a Gold Pack in the shop to remove the limitation. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+	<string>
+		<id>1700026</id>
+		<name>STR_MSG_F2P_MAIL_WRITE_RESTRICT</name>
+		<body>You are a [%bm_account_type] and cannot send letters. Purchase a Gold Pack in the shop to remove the limitation. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+	<string>
+		<id>1700027</id>
+		<name>STR_MSG_F2P_MAIL_WRITE_WITH_ITEM_RESTRICT</name>
+		<body>You are a [%bm_account_type] and cannot attach items or Kinah to a letter. Purchase a Gold Pack in the shop to remove the limitation. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+	<string>
+		<id>1700028</id>
+		<name>STR_MSG_F2P_MAIL_WRITE_ONLY_TO_FRIENDS</name>
+		<body>You are a [%bm_account_type] and can only send a letter without items and Kinah attached to users who are on your friend list. Purchase a Gold Pack in the shop to remove the limitation. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+	<string>
+		<id>1700029</id>
+		<name>STR_MSG_F2P_CHAT_RESTRICT</name>
+		<body>You are a [%bm_account_type] and only have limited chat possibilites. Purchase a Gold Pack to use the chat without limitations. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+	<string>
+		<id>1700030</id>
+		<name>STR_MSG_F2P_SHOUT_RESTRICT</name>
+		<body>You are a [%bm_account_type] and cannot shout. Purchase a Gold Pack in the shop to unlock this function. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+	<string>
+		<id>1700031</id>
+		<name>STR_MSG_F2P_WHISPER_RESTRICT</name>
+		<body>You are a [%bm_account_type] and can only whisper to other players that are on your friend list. Purchase a Gold Pack in the shop to remove the limitation. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+	<string>
+		<id>1700032</id>
+		<name>STR_MSG_F2P_WHISPER_EXCEPT_FRIENDS_RESTRICT</name>
+		<body>You are a [%bm_account_type] and can only whisper to other players that are on your friend list. Purchase a Gold Pack in the shop to remove the limitation. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+	<string>
+		<id>1700033</id>
+		<name>STR_MSG_F2P_CHANNEL_CHAT_RESTRICT</name>
+		<body>You are a [%bm_account_type] and cannot join this chat&apos;s channel. Purchase a Gold Pack in the shop to unlock the function. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+	<string>
+		<id>1700034</id>
+		<name>STR_MSG_F2P_VENDOR_VENDOR_USE_RESTRICT</name>
+		<body>You are a [%bm_account_type] and have limited access to the Trade Broker functions. Purchase a Gold Pack in the shop to remove the limitation. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+	<string>
+		<id>1700035</id>
+		<name>STR_MSG_F2P_WAREHOUSE_USE_RESTRICT</name>
+		<body>You are a [%bm_account_type] and cannot access a private warehouse. Purchase a Gold Pack in the shop to remove the limitation. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+	<string>
+		<id>1700036</id>
+		<name>STR_MSG_F2P_CHAR_SLOT_RESTRICT</name>
+		<body>You’re still [%bm_account_type] and cannot create any more characters. Take a look at the shop, where you can find items that enable you to create more characters. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+	<string>
+		<id>1700037</id>
+		<name>STR_MSG_F2P_TRADEGOLD_DAY_RESTRICT</name>
+		<body>You are a [%bm_account_type] and allowed to trade a maximum of %0 Kinah per day. Purchase a Gold Pack in the shop to remove the limitation. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+	<string>
+		<id>1700038</id>
+		<name>STR_MSG_F2P_QUEST_ACQUIRE_RESTRICT</name>
+		<body>You are a [%bm_account_type] and cannot accept any more quests. Purchase a Gold Pack in the shop to remove the limitation. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+	<string>
+		<id>1700039</id>
+		<name>STR_MSG_F2P_PARTY_SEARCH_RESTRICT</name>
+		<body>You are a [%bm_account_type] and cannot post messages for recruiting team members or for entering a group. Purchase a Gold Pack in the shop to remove the limitation. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+	<string>
+		<id>1700040</id>
+		<name>STR_F2P_MSG_NOTICE_PACK_EXPIRE_TIME</name>
+		<body>The %1 effect will be over in %DURATIONTIME0.</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+	<string>
+		<id>1700041</id>
+		<name>STR_F2P_MSG_WARNING_PACK_EXPIRE_TIME</name>
+		<body>The %0 effect will be over in %DURATIONTIME0. You will be unable to use boosting effect or some game functions. Purchase a Gold Pack in the shop to unlock all functions. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+	<string>
+		<id>1700042</id>
+		<name>STR_F2P_MSG_PACK_EXPIRED</name>
+		<body>The %0 effect will be over in %DURATIONTIME0. You will be unable to use boosting effect or some game functions. Purchase a Gold Pack in the shop to unlock all functions. [%shoplink]</body>
+		<message_type>53</message_type>
+		<display_type>3</display_type>
+	</string>
+</strings>
