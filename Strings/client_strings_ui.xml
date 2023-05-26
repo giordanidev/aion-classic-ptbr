@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-16" ?>
-
+<?xml version="1.0" encoding="UTF-8" ?>
 <strings>
 	<string>
 		<id>40000</id>
@@ -9,7 +8,7 @@
 	<string>
 		<id>40001</id>
 		<name>STR_ALREADY_LOGIN</name>
-		<body>Your account is being disconnected from the server.</body>
+		<body>Sua conta está sendo desconectada do servidor.</body>
 	</string>
 	<string>
 		<id>50000</id>
@@ -149,12 +148,12 @@
 	<string>
 		<id>50027</id>
 		<name>STR_ENSLAVE_RESURRECT_PET_DO_YOU_ACCEPT_PAY</name>
-		<body>Resurrection of %0 (Level %1) requires &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina2&lt;/font&gt;. Do you wish to proceed?</body>
+		<body>Ressurreição de %0 (Nível %1) requires &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina2&lt;/font&gt;. Quer continuar?</body>
 	</string>
 	<string>
 		<id>50028</id>
 		<name>STR_DUEL_DO_YOU_ACCEPT_REQUEST</name>
-		<body>%0 has challenged you to a duel. Do you accept?</body>
+		<body>%0 te desafiou para um duelo. Voçê aceita?</body>
 	</string>
 	<string>
 		<id>50029</id>
@@ -164,37 +163,37 @@
 	<string>
 		<id>50030</id>
 		<name>STR_DUEL_DO_YOU_WITHDRAW_REQUEST</name>
-		<body>Do you want to withdraw your challenge to %0?</body>
+		<body>Você quer cancelar o pedido de duelo para %0?</body>
 	</string>
 	<string>
 		<id>60000</id>
 		<name>STR_PARTY_DO_YOU_ACCEPT_INVITATION</name>
-		<body>%0 has invited you to join a group. Accept the invitation?</body>
+		<body>%0 te convidou para entrar em um grupo. Você aceita o convite?</body>
 	</string>
 	<string>
 		<id>60001</id>
 		<name>STR_PARTY_ONLY_LEADER_CAN_CHANGE_PARTY_FORMATION</name>
-		<body>Only the group leader can change the group formation.</body>
+		<body>Somente o líder do grupo pode mudar a formação.</body>
 	</string>
 	<string>
 		<id>60002</id>
 		<name>STR_PARTY_TOO_FAST_CHANGE_PARTY_FORMATION</name>
-		<body>You cannot change the group formation again within five minutes of the last change.</body>
+		<body>Você não pode mudar a formação do grupo novamente dentro de 5 minutos da última mudança.</body>
 	</string>
 	<string>
 		<id>60003</id>
 		<name>STR_PARTY_IMPOSSIBLE_PARTY_FORMATION</name>
-		<body>This group formation is not available because your group doesn&apos;t meet the Class Requirements.</body>
+		<body>Esta formação de grupo não está disponível porque o seu grupo não tem os Requisitos de Classes.</body>
 	</string>
 	<string>
 		<id>60004</id>
 		<name>STR_PARTY_FORMATION_CHANGED_TO_IT</name>
-		<body>Your group formation has been changed to %0.</body>
+		<body>A sua formação de grupo mudou para %0.</body>
 	</string>
 	<string>
 		<id>60005</id>
 		<name>STR_PARTY_FORMATION_TYPE_NONE</name>
-		<body>Not in use.</body>
+		<body>Não está em uso.</body>
 	</string>
 	<string>
 		<id>60006</id>
@@ -4392,42 +4391,42 @@
 	<string>
 		<id>900458</id>
 		<name>STR_LEVEL_CHAR</name>
-		<body>Level %0</body>
+		<body>Nível %0</body>
 	</string>
 	<string>
 		<id>900459</id>
 		<name>STR_LEVEL_SKILL</name>
-		<body>Level %0</body>
+		<body>Nível %0</body>
 	</string>
 	<string>
 		<id>900460</id>
 		<name>STR_ITEMINFO_TYPE</name>
-		<body>Type</body>
+		<body>Tipo</body>
 	</string>
 	<string>
 		<id>900461</id>
 		<name>STR_ITEMINFO_DAMAGE</name>
-		<body>Attack</body>
+		<body>Ataque</body>
 	</string>
 	<string>
 		<id>900462</id>
 		<name>STR_ITEMINFO_USE_PERMISSION</name>
-		<body>%0 is available</body>
+		<body>%0 está disponível</body>
 	</string>
 	<string>
 		<id>900463</id>
 		<name>STR_ITEMINFO_GATHER_TOOL</name>
-		<body>Gathering Tool</body>
+		<body>Ferramenta de Coleta</body>
 	</string>
 	<string>
 		<id>900464</id>
 		<name>STR_ITEMINFO_DAMAGE_REDUCTION</name>
-		<body>Damage Reduction</body>
+		<body>Redução de Dano</body>
 	</string>
 	<string>
 		<id>900465</id>
 		<name>STR_DEFEND_PHYSICAL</name>
-		<body>Physical Def</body>
+		<body>Def. Física</body>
 	</string>
 	<string>
 		<id>900466</id>
@@ -4437,22 +4436,22 @@
 	<string>
 		<id>900467</id>
 		<name>STR_TOOLTIP_FLY_NOT_ALLOWED_AREA</name>
-		<body>You cannot fly in this area.</body>
+		<body>Você não pode voar nesta área.</body>
 	</string>
 	<string>
 		<id>900468</id>
 		<name>STR_TOOLTIP_FLY_ALLOWED_AREA</name>
-		<body>You can fly in this area.</body>
+		<body>Você pode voar nesta área.</body>
 	</string>
 	<string>
 		<id>900469</id>
 		<name>STR_TOOLTIP_FLYING</name>
-		<body>You are flying.</body>
+		<body>Você está voando.</body>
 	</string>
 	<string>
 		<id>900470</id>
 		<name>STR_TOOLTIP_FLY_TIME</name>
-		<body>Flight Time</body>
+		<body>Tempo de Vôo</body>
 	</string>
 	<string>
 		<id>900471</id>
@@ -4497,77 +4496,77 @@
 	<string>
 		<id>900479</id>
 		<name>STR_TOOLTIP_TOOLPICK</name>
-		<body>Pick</body>
+		<body>Pegar</body>
 	</string>
 	<string>
 		<id>900480</id>
 		<name>STR_TOOLTIP_ATKDELAY_FAST</name>
-		<body>Fast %0 Strike Weapon</body>
+		<body>Arma Rápida %0 Strike</body>
 	</string>
 	<string>
 		<id>900481</id>
 		<name>STR_TOOLTIP_ATKDELAY_NORMAL</name>
-		<body>Normal %0 Strike Weapon</body>
+		<body>Arma %0 Strikes</body>
 	</string>
 	<string>
 		<id>900482</id>
 		<name>STR_TOOLTIP_ATKDELAY_SLOW</name>
-		<body>Slow %0 Strike Weapon</body>
+		<body>Arma Lenta %0 Strikes</body>
 	</string>
 	<string>
 		<id>900483</id>
 		<name>STR_TOOLTIP_ATKDELAY_VERYSLOW</name>
-		<body>Very Slow %0 Strike Weapon</body>
+		<body>Arma Muito Lenta %0 Strikes</body>
 	</string>
 	<string>
 		<id>900484</id>
 		<name>STR_TOOLTIP_USE_LEVEL</name>
-		<body>Available for Level %0 or higher</body>
+		<body>Disponível para o Nível %0 ou maior</body>
 	</string>
 	<string>
 		<id>900485</id>
 		<name>STR_TOOLTIP_USE_CLASS_LEVEL</name>
-		<body>Available for %0 Level %1 or higher</body>
+		<body>Disponível para %0 Nível %1 ou maior</body>
 	</string>
 	<string>
 		<id>900486</id>
 		<name>STR_TOOLTIP_USE_CLASS</name>
-		<body>Useable by %0</body>
+		<body>Pode ser usado por %0</body>
 	</string>
 	<string>
 		<id>900487</id>
 		<name>STR_TOOLTIP_EAR</name>
-		<body>Earrings</body>
+		<body>Brinco</body>
 	</string>
 	<string>
 		<id>900488</id>
 		<name>STR_TOOLTIP_NECK</name>
-		<body>Necklace</body>
+		<body>Colar</body>
 	</string>
 	<string>
 		<id>900489</id>
 		<name>STR_TOOLTIP_FINGER</name>
-		<body>Ring</body>
+		<body>Anel</body>
 	</string>
 	<string>
 		<id>900490</id>
 		<name>STR_TOOLTIP_WAIST</name>
-		<body>Belt</body>
+		<body>Cinto</body>
 	</string>
 	<string>
 		<id>900491</id>
 		<name>STR_TOOLTIP_BACK</name>
-		<body>Cloak</body>
+		<body>Capa</body>
 	</string>
 	<string>
 		<id>900492</id>
 		<name>STR_TOOLTIP_HEAD</name>
-		<body>Head</body>
+		<body>Capacete</body>
 	</string>
 	<string>
 		<id>900493</id>
 		<name>STR_TOOLTIP_EQUIPITEM</name>
-		<body>Equipped Item</body>
+		<body>Item Equipado</body>
 	</string>
 	<string>
 		<id>900494</id>
@@ -4577,32 +4576,32 @@
 	<string>
 		<id>900495</id>
 		<name>STR_CONFIRM_LOOT</name>
-		<body>%0 is an untradable item. Are you sure you want to acquire it?</body>
+		<body>%0 não pode ser trocado. Você tem certeza que quer adquirir?</body>
 	</string>
 	<string>
 		<id>900496</id>
 		<name>STR_TOOLTIP_NOCASTDELAY</name>
-		<body>Cast Instantly</body>
+		<body>Conjurar Instantâneamente</body>
 	</string>
 	<string>
 		<id>900497</id>
 		<name>STR_TOOLTIP_CHAINSKILL</name>
-		<body>Chains</body>
+		<body>Sequências</body>
 	</string>
 	<string>
 		<id>900498</id>
 		<name>STR_TOOLTIP_CASTDELAY</name>
-		<body>Cast Time</body>
+		<body>Tempo de Conjuração</body>
 	</string>
 	<string>
 		<id>900499</id>
 		<name>STR_L2AUTH_S_ALL_OK</name>
-		<body>Everything is OK.</body>
+		<body>Tudo está OK.</body>
 	</string>
 	<string>
 		<id>900500</id>
 		<name>STR_L2AUTH_S_DATABASE_FAIL</name>
-		<body>System error.</body>
+		<body>Erro de sistema.</body>
 	</string>
 	<string>
 		<id>900501</id>
@@ -4627,17 +4626,17 @@
 	<string>
 		<id>900505</id>
 		<name>STR_L2AUTH_S_NO_SERVER_LIST</name>
-		<body>No game server is available to the authorization server.</body>
+		<body>O 'servidor do jogo' não está disponível no 'servidor de autorização'.</body>
 	</string>
 	<string>
 		<id>900506</id>
 		<name>STR_L2AUTH_S_ALREADY_LOGIN</name>
-		<body>You are already logged in.</body>
+		<body>Você já está conectado.</body>
 	</string>
 	<string>
 		<id>900507</id>
 		<name>STR_L2AUTH_S_SERVER_DOWN</name>
-		<body>The selected server is down and you cannot access it.</body>
+		<body>O servidor selecionado não está disponível e você não pode acessá-lo.</body>
 	</string>
 	<string>
 		<id>900508</id>
@@ -4657,42 +4656,42 @@
 	<string>
 		<id>900511</id>
 		<name>STR_L2AUTH_S_BLOCKED_IP</name>
-		<body>You cannot access the game through this IP.</body>
+		<body>Você não pode acessar o jogo com esse IP.</body>
 	</string>
 	<string>
 		<id>900512</id>
 		<name>STR_L2AUTH_S_DELETE_CHARACTER_OK</name>
-		<body>Deleted the character</body>
+		<body>Removeu o personagem</body>
 	</string>
 	<string>
 		<id>900513</id>
 		<name>STR_L2AUTH_S_CREATE_CHARACTER_OK</name>
-		<body>Created the character</body>
+		<body>Criou o personagem</body>
 	</string>
 	<string>
 		<id>900514</id>
 		<name>STR_L2AUTH_S_INVALID_NAME</name>
-		<body>Invalid character name</body>
+		<body>Nome inválido</body>
 	</string>
 	<string>
 		<id>900515</id>
 		<name>STR_L2AUTH_S_INVALID_GENDER</name>
-		<body>Invalid character info</body>
+		<body>Informações de personagem inválidas</body>
 	</string>
 	<string>
 		<id>900516</id>
 		<name>STR_L2AUTH_S_INVALID_CLASS</name>
-		<body>Invalid character info (class)</body>
+		<body>Informações de personagem inválidas (classe)</body>
 	</string>
 	<string>
 		<id>900517</id>
 		<name>STR_L2AUTH_S_INVALID_ATTR</name>
-		<body>Invalid character attribute</body>
+		<body>Atributo de personagem inválido</body>
 	</string>
 	<string>
 		<id>900518</id>
 		<name>STR_L2AUTH_S_MAX_CHAR_NUM_OVER</name>
-		<body>Exceeds the maximum number of characters</body>
+		<body>Excede o número máximo de personagens</body>
 	</string>
 	<string>
 		<id>900519</id>
@@ -4717,7 +4716,7 @@
 	<string>
 		<id>900523</id>
 		<name>STR_L2AUTH_S_TIME_EXHAUSTED</name>
-		<body>Usage time has expired</body>
+		<body>Tempo de uso expirou</body>
 	</string>
 	<string>
 		<id>900524</id>
@@ -4732,87 +4731,87 @@
 	<string>
 		<id>900526</id>
 		<name>STR_CHAT_REMOVETAB_MSG</name>
-		<body>Do you want to delete the %0 tab?</body>
+		<body>Você quer remover a aba %0?</body>
 	</string>
 	<string>
 		<id>900527</id>
 		<name>STR_CHAT_CHANGENAME_MSG</name>
-		<body>What&apos;s the new name of the %0 tab?</body>
+		<body>Qual é o novo nome da aba %0?</body>
 	</string>
 	<string>
 		<id>900528</id>
 		<name>STR_CHAT_REMOVE</name>
-		<body>Delete</body>
+		<body>Remover</body>
 	</string>
 	<string>
 		<id>900529</id>
 		<name>STR_CHAT_CHANGE</name>
-		<body>Change</body>
+		<body>Mudar</body>
 	</string>
 	<string>
 		<id>900530</id>
 		<name>STR_TOOLTIP_SKILL_STAT_STR</name>
-		<body>Power</body>
+		<body>Poder</body>
 	</string>
 	<string>
 		<id>900531</id>
 		<name>STR_TOOLTIP_SKILL_STAT_VIT</name>
-		<body>Health</body>
+		<body>Vida</body>
 	</string>
 	<string>
 		<id>900532</id>
 		<name>STR_TOOLTIP_SKILL_STAT_AGI</name>
-		<body>Accuracy</body>
+		<body>Precisão</body>
 	</string>
 	<string>
 		<id>900533</id>
 		<name>STR_TOOLTIP_SKILL_STAT_DEX</name>
-		<body>Agility</body>
+		<body>Agilidade</body>
 	</string>
 	<string>
 		<id>900534</id>
 		<name>STR_TOOLTIP_SKILL_STAT_KNO</name>
-		<body>Knowledge</body>
+		<body>Conhecimento</body>
 	</string>
 	<string>
 		<id>900535</id>
 		<name>STR_TOOLTIP_SKILL_STAT_WIL</name>
-		<body>Will</body>
+		<body>Determinação</body>
 	</string>
 	<string>
 		<id>900536</id>
 		<name>STR_TOOLTIP_SKILL_STAT_STRVIT</name>
-		<body>Power and Health</body>
+		<body>Poder e Vida</body>
 	</string>
 	<string>
 		<id>900537</id>
 		<name>STR_TOOLTIP_SKILL_STAT_AGIDEX</name>
-		<body>Accuracy and Agility</body>
+		<body>Precisão e Agilidade</body>
 	</string>
 	<string>
 		<id>900538</id>
 		<name>STR_TOOLTIP_SKILL_STAT_KNOWIL</name>
-		<body>Knowledge and Will</body>
+		<body>Conhecimento e Determinação</body>
 	</string>
 	<string>
 		<id>900539</id>
 		<name>STR_TOOLTIP_SKILL_STAT_ERWATER</name>
-		<body>Water Resist</body>
+		<body>Resistência à Água</body>
 	</string>
 	<string>
 		<id>900540</id>
 		<name>STR_TOOLTIP_SKILL_STAT_ERAIR</name>
-		<body>Wind Resist</body>
+		<body>Resistência à Vento</body>
 	</string>
 	<string>
 		<id>900541</id>
 		<name>STR_TOOLTIP_SKILL_STAT_EREARTH</name>
-		<body>Earth Resist</body>
+		<body>Resistência à Terra</body>
 	</string>
 	<string>
 		<id>900542</id>
 		<name>STR_TOOLTIP_SKILL_STAT_ERFIRE</name>
-		<body>Fire Resist</body>
+		<body>Resistência à Fogo</body>
 	</string>
 	<string>
 		<id>900543</id>
@@ -4827,97 +4826,97 @@
 	<string>
 		<id>900545</id>
 		<name>STR_TOOLTIP_SKILL_STAT_ALLRESIST</name>
-		<body>All Elemental Defence</body>
+		<body>Defesa de todos os elementais</body>
 	</string>
 	<string>
 		<id>900546</id>
 		<name>STR_TOOLTIP_SKILL_STAT_MAXHP</name>
-		<body>Maximum HP</body>
+		<body>HP Máxima</body>
 	</string>
 	<string>
 		<id>900547</id>
 		<name>STR_TOOLTIP_SKILL_STAT_HPREGEN</name>
-		<body>Natural Healing</body>
+		<body>Cura Natural</body>
 	</string>
 	<string>
 		<id>900548</id>
 		<name>STR_TOOLTIP_SKILL_STAT_MAXMP</name>
-		<body>Maximum MP</body>
+		<body>MP Máxima</body>
 	</string>
 	<string>
 		<id>900549</id>
 		<name>STR_TOOLTIP_SKILL_STAT_MPREGEN</name>
-		<body>Natural Mana Treatment</body>
+		<body>Cura Natural de Mana</body>
 	</string>
 	<string>
 		<id>900550</id>
 		<name>STR_TOOLTIP_SKILL_STAT_MAXDP</name>
-		<body>Maximum DP</body>
+		<body>DP Máxima</body>
 	</string>
 	<string>
 		<id>900551</id>
 		<name>STR_TOOLTIP_SKILL_STAT_CURDP</name>
-		<body>Current DP</body>
+		<body>DP Atual</body>
 	</string>
 	<string>
 		<id>900552</id>
 		<name>STR_TOOLTIP_SKILL_STAT_SPEED</name>
-		<body>Speed</body>
+		<body>Velocidade</body>
 	</string>
 	<string>
 		<id>900553</id>
 		<name>STR_TOOLTIP_SKILL_STAT_PHYATTACK</name>
-		<body>Physical Attack</body>
+		<body>Ataque Físico</body>
 	</string>
 	<string>
 		<id>900554</id>
 		<name>STR_TOOLTIP_SKILL_STAT_PHYDEFEND</name>
-		<body>Physical Def</body>
+		<body>Def. Física</body>
 	</string>
 	<string>
 		<id>900555</id>
 		<name>STR_TOOLTIP_SKILL_STAT_MAGATTACK</name>
-		<body>Magical Attack</body>
+		<body>Ataque Mágico</body>
 	</string>
 	<string>
 		<id>900556</id>
 		<name>STR_TOOLTIP_SKILL_STAT_MAGDEFEND</name>
-		<body>Magic Resist</body>
+		<body>Resist. Mágica</body>
 	</string>
 	<string>
 		<id>900557</id>
 		<name>STR_TOOLTIP_SKILL_STAT_ATTACKRANGE</name>
-		<body>Atk Range</body>
+		<body>Dist. Ataque</body>
 	</string>
 	<string>
 		<id>900558</id>
 		<name>STR_TOOLTIP_SKILL_STAT_ATTACKDELAY</name>
-		<body>Atk. Speed</body>
+		<body>Vel. Ataque</body>
 	</string>
 	<string>
 		<id>900559</id>
 		<name>STR_TOOLTIP_SKILL_STAT_HITACCURACY</name>
-		<body>Accuracy</body>
+		<body>Precisão</body>
 	</string>
 	<string>
 		<id>900560</id>
 		<name>STR_TOOLTIP_SKILL_STAT_DODGE</name>
-		<body>Evasion</body>
+		<body>Evasão</body>
 	</string>
 	<string>
 		<id>900561</id>
 		<name>STR_TOOLTIP_SKILL_STAT_PARRY</name>
-		<body>Parry</body>
+		<body>Esquiva</body>
 	</string>
 	<string>
 		<id>900562</id>
 		<name>STR_TOOLTIP_SKILL_STAT_BLOCK</name>
-		<body>Block</body>
+		<body>Bloqueio</body>
 	</string>
 	<string>
 		<id>900563</id>
 		<name>STR_TOOLTIP_SKILL_STAT_CRITICAL</name>
-		<body>Crit Strike</body>
+		<body>Dano Crítico</body>
 	</string>
 	<string>
 		<id>900564</id>
@@ -4927,22 +4926,22 @@
 	<string>
 		<id>900565</id>
 		<name>STR_TOOLTIP_SKILL_STAT_ALLPARA</name>
-		<body>All Stats</body>
+		<body>Estatísticas</body>
 	</string>
 	<string>
 		<id>900566</id>
 		<name>STR_TOOLTIP_SKILL_STAT_MAGCRITICAL</name>
-		<body>Crit Spell</body>
+		<body>Mágico Crítico</body>
 	</string>
 	<string>
 		<id>900567</id>
 		<name>STR_TOOLTIP_SKILL_STAT_CONCENTRATION</name>
-		<body>Concentration</body>
+		<body>Concentração</body>
 	</string>
 	<string>
 		<id>900568</id>
 		<name>STR_TOOLTIP_SKILL_STAT_MAXFLYTIME</name>
-		<body>Flight Time</body>
+		<body>Tenpo de Vôo</body>
 	</string>
 	<string>
 		<id>900569</id>
@@ -4952,32 +4951,32 @@
 	<string>
 		<id>900570</id>
 		<name>STR_TOOLTIP_SKILL_STAT_ARPOISION</name>
-		<body>Poison Resist</body>
+		<body>Resistência à Veneno</body>
 	</string>
 	<string>
 		<id>900571</id>
 		<name>STR_TOOLTIP_SKILL_STAT_ARBLEED</name>
-		<body>Bleed Resist</body>
+		<body>Resistência à Sangramento</body>
 	</string>
 	<string>
 		<id>900572</id>
 		<name>STR_TOOLTIP_SKILL_STAT_ARPARALYZE</name>
-		<body>Paralysis Resistance</body>
+		<body>Resistência à Paralisia</body>
 	</string>
 	<string>
 		<id>900573</id>
 		<name>STR_TOOLTIP_SKILL_STAT_ARSLEEP</name>
-		<body>Sleep Resist</body>
+		<body>Resistência ao 'Sono'</body>
 	</string>
 	<string>
 		<id>900574</id>
 		<name>STR_TOOLTIP_SKILL_STAT_ARROOT</name>
-		<body>Immobilization Resist</body>
+		<body>Resistência à Imobilização</body>
 	</string>
 	<string>
 		<id>900575</id>
 		<name>STR_TOOLTIP_SKILL_STAT_ARBLIND</name>
-		<body>Blind Resist</body>
+		<body>Resistência à 'Cegueira'</body>
 	</string>
 	<string>
 		<id>900576</id>
@@ -5052,7 +5051,7 @@
 	<string>
 		<id>900590</id>
 		<name>STR_TOOLTIP_SKILL_STAT_ARALL</name>
-		<body>All Altered State Resist</body>
+		<body>Resistência à todos os estados alterados</body>
 	</string>
 	<string>
 		<id>900591</id>
@@ -5162,12 +5161,12 @@
 	<string>
 		<id>900612</id>
 		<name>STR_TOOLTIP_SKILL_SUBTYPE_ATTACK</name>
-		<body>Attack Skills</body>
+		<body>Habilidades de Ataque</body>
 	</string>
 	<string>
 		<id>900613</id>
 		<name>STR_TOOLTIP_SKILL_SUBTYPE_HEAL</name>
-		<body>Healing Skills</body>
+		<body>Habilidades de Cura</body>
 	</string>
 	<string>
 		<id>900614</id>
@@ -5177,12 +5176,12 @@
 	<string>
 		<id>900615</id>
 		<name>STR_TOOLTIP_SKILL_SUBTYPE_BUFF</name>
-		<body>Buff Skills</body>
+		<body>Habilidades de 'Buff'</body>
 	</string>
 	<string>
 		<id>900616</id>
 		<name>STR_TOOLTIP_SKILL_SUBTYPE_DEBUFF</name>
-		<body>Debuff Skills</body>
+		<body>Habilidades de 'Debuff'</body>
 	</string>
 	<string>
 		<id>900617</id>
@@ -5197,7 +5196,7 @@
 	<string>
 		<id>900619</id>
 		<name>STR_TOOLTIP_SKILL_ABNORMAL_ROOT</name>
-		<body>Immobilization</body>
+		<body>Imobilização</body>
 	</string>
 	<string>
 		<id>900620</id>
@@ -5292,32 +5291,32 @@
 	<string>
 		<id>900638</id>
 		<name>STR_TOOLTIP_SKILL_COND_PHHIT</name>
-		<body>Physical Attack</body>
+		<body>Ataque Físico</body>
 	</string>
 	<string>
 		<id>900639</id>
 		<name>STR_TOOLTIP_SKILL_COND_MAHIT</name>
-		<body>Magic Attack</body>
+		<body>Ataque Mágico</body>
 	</string>
 	<string>
 		<id>900640</id>
 		<name>STR_TOOLTIP_SKILL_TARGET_PARTY</name>
-		<body>Group</body>
+		<body>Grupo</body>
 	</string>
 	<string>
 		<id>900641</id>
 		<name>STR_TOOLTIP_SKILL_TARGET_ALLIANCE</name>
-		<body>Alliance</body>
+		<body>Aliança</body>
 	</string>
 	<string>
 		<id>900642</id>
 		<name>STR_TOOLTIP_SKILL_TARGET_GUILD</name>
-		<body>Legion</body>
+		<body>Legião</body>
 	</string>
 	<string>
 		<id>900643</id>
 		<name>STR_TOOLTIP_SKILL_TARGET_AREA</name>
-		<body>Region</body>
+		<body>Região</body>
 	</string>
 	<string>
 		<id>900644</id>
@@ -5332,127 +5331,127 @@
 	<string>
 		<id>900646</id>
 		<name>STR_TOOLTIP_SKILL_TARGET_TYPE_PHYSICAL</name>
-		<body>Physical</body>
+		<body>Físico</body>
 	</string>
 	<string>
 		<id>900647</id>
 		<name>STR_TOOLTIP_SKILL_TARGET_TYPE_MAGICAL</name>
-		<body>Magical</body>
+		<body>Mágico</body>
 	</string>
 	<string>
 		<id>900648</id>
 		<name>STR_LOOT_TAKEALL</name>
-		<body>Take All</body>
+		<body>Pegar Todos</body>
 	</string>
 	<string>
 		<id>900649</id>
 		<name>STR_LOOT_CANCEL</name>
-		<body>Close</body>
+		<body>Fechar</body>
 	</string>
 	<string>
 		<id>900650</id>
 		<name>STR_TOOLTIP_SKILL_CONDITION_PHYSICS</name>
-		<body>Physical Weapon</body>
+		<body>Arma Física</body>
 	</string>
 	<string>
 		<id>900651</id>
 		<name>STR_TOOLTIP_SKILL_CONDITION_CLOSE</name>
-		<body>Melee Weapon</body>
+		<body>Arma Branca</body>
 	</string>
 	<string>
 		<id>900652</id>
 		<name>STR_TOOLTIP_SKILL_CONDITION_TWOHAND</name>
-		<body>Two-handed Weapon</body>
+		<body>Arma de duas mãos</body>
 	</string>
 	<string>
 		<id>900653</id>
 		<name>STR_BUY_SELL_OK_BUY</name>
-		<body>Buy</body>
+		<body>Comprar</body>
 	</string>
 	<string>
 		<id>900654</id>
 		<name>STR_BUY_SELL_OK_SELL</name>
-		<body>Sell</body>
+		<body>Vender</body>
 	</string>
 	<string>
 		<id>900655</id>
 		<name>STR_BUY_SELL_REMAIN_BASKET_CLOSEDIALOG</name>
-		<body>There are items left in your Shopping Cart. Are you sure you want to close the window?</body>
+		<body>Ainda há itens no seu Carrinho de Compras. Tem certeza que você quer fechar a janela?</body>
 	</string>
 	<string>
 		<id>900656</id>
 		<name>STR_BUY_SELL_REMAIN_BASKET_CHANGETAB</name>
-		<body>Your Shopping Cart will be emptied if you change the tab.</body>
+		<body>Seu Carrinho de Compras vai ser esvaziado se você mudar a aba.</body>
 	</string>
 	<string>
 		<id>900657</id>
 		<name>STR_GUILD_MEMBER_COUNT</name>
-		<body>%num0 (Max. Members: %num2, Online: %num1)</body>
+		<body>%num0 (Máx. de Membros: %num2, Online: %num1)</body>
 	</string>
 	<string>
 		<id>900658</id>
 		<name>STR_CRAFT_MAKER_NAME</name>
-		<body>Creator: %0</body>
+		<body>Criador: %0</body>
 	</string>
 	<string>
 		<id>900659</id>
 		<name>STR_TOOLTIP_PROC_ENABLE</name>
-		<body>Godstone Socket enabled</body>
+		<body>Possível adicionar Godstone</body>
 	</string>
 	<string>
 		<id>900660</id>
 		<name>STR_TOOLTIP_PROC_RECEIVED</name>
-		<body>Given Godstone Info</body>
+		<body>Informação da Godstone</body>
 	</string>
 	<string>
 		<id>900661</id>
 		<name>STR_GUILD_MENU_INVITE</name>
-		<body>Invite to Legion</body>
+		<body>Convidar para a Legião</body>
 	</string>
 	<string>
 		<id>900662</id>
 		<name>STR_GUILD_MENU_VIEW_RIGHT</name>
-		<body>View Permissions</body>
+		<body>Ver Permissões</body>
 	</string>
 	<string>
 		<id>900663</id>
 		<name>STR_GUILD_MENU_SET_RIGHT</name>
-		<body>Set Permissions</body>
+		<body>Def. Permissões</body>
 	</string>
 	<string>
 		<id>900664</id>
 		<name>STR_GUILD_MENU_CHANGE_TITLE</name>
-		<body>Change Title</body>
+		<body>Mudar Título</body>
 	</string>
 	<string>
 		<id>900665</id>
 		<name>STR_GUILD_MENU_BANISH</name>
-		<body>Kick from Legion</body>
+		<body>Banir da Legião</body>
 	</string>
 	<string>
 		<id>900666</id>
 		<name>STR_GUILD_MENU_WORDS</name>
-		<body>Self Intro</body>
+		<body>Introdução</body>
 	</string>
 	<string>
 		<id>900667</id>
 		<name>STR_GUILD_MENU_LEAVE</name>
-		<body>Leave Legion</body>
+		<body>Sair da Legião</body>
 	</string>
 	<string>
 		<id>900668</id>
 		<name>STR_GUILD_MENU_CHANGE_INTO_OFFICER</name>
-		<body>Promote %0</body>
+		<body>Promover %0</body>
 	</string>
 	<string>
 		<id>900669</id>
 		<name>STR_GUILD_MENU_CHANGE_INTO_MEMBER</name>
-		<body>Demote %0</body>
+		<body>Rebaixar %0</body>
 	</string>
 	<string>
 		<id>900670</id>
 		<name>STR_GUILD_MENU_HANDOVER_MASTER</name>
-		<body>Appoint new Brigade General</body>
+		<body>Apontar o novo Líder da Legião</body>
 	</string>
 	<string>
 		<id>900671</id>
@@ -5462,27 +5461,27 @@
 	<string>
 		<id>900672</id>
 		<name>STR_GUILD_MENU_CHANGE_NICKNAME</name>
-		<body>Change Nickname</body>
+		<body>Mudar Apelido</body>
 	</string>
 	<string>
 		<id>900673</id>
 		<name>STR_GUILD_CHANGE_NICKNAME</name>
-		<body>&lt;p&gt;Please enter a nickname for %0.&lt;/p&gt;&#xA;&lt;p&gt;&lt;max. 10 characters&gt;&lt;/p&gt;</body>
+		<body>&lt;p&gt;Por favor, digite o novo apelido para %0.&lt;/p&gt;&#xA;&lt;p&gt;&lt;máx. 10 letras&gt;&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>900674</id>
 		<name>STR_GUILD_CHANGE_TITLE</name>
-		<body>Do you want to change %0&apos;s title from %1 to %2?</body>
+		<body>Você quer alterar o título de %0 de %1 para %2?</body>
 	</string>
 	<string>
 		<id>900675</id>
 		<name>STR_GUILD_DO_YOU_ACCEPT_GUILD</name>
-		<body>&lt;p&gt;%1 of %0 legion is inviting you to his/her legion.&lt;/p&gt;&#xA;&lt;p&gt;Will you accept the invitation?&lt;/p&gt;</body>
+		<body>&lt;p&gt;%1 da legião %0 está te convidando para a legião dele/dela.&lt;/p&gt;&#xA;&lt;p&gt;Você aceita o convite?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>900676</id>
 		<name>STR_GUILD_CHANGE_COMMENT</name>
-		<body>&lt;p&gt;Please enter your introduction.&lt;/p&gt;&#xA;&lt;p&gt;&lt;max. 32 characters&gt;&lt;/p&gt;</body>
+		<body>&lt;p&gt;Por favor, escreva a sua introdução.&lt;/p&gt;&#xA;&lt;p&gt;&lt;máx. 32 caractéres&gt;&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>900677</id>
@@ -5492,47 +5491,47 @@
 	<string>
 		<id>900678</id>
 		<name>STR_GUILD_LEVELUP_MEMBER_COND</name>
-		<body>Over %num0</body>
+		<body>Acima de %num0</body>
 	</string>
 	<string>
 		<id>900679</id>
 		<name>STR_GUILD_LEVELUP_POINT_COND</name>
-		<body>Over %num0 points</body>
+		<body>Acima de %num0 pontos</body>
 	</string>
 	<string>
 		<id>900680</id>
 		<name>STR_GUILD_LEVELUP_NO_COND</name>
-		<body>No limit</body>
+		<body>Sem limite</body>
 	</string>
 	<string>
 		<id>900681</id>
 		<name>STR_GUILD_LEVELUP_MSG</name>
-		<body>&lt;p&gt;Levels up the Legion.&lt;/p&gt;&#xA;&lt;p&gt;Current Legion Level: %0&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;Requirements for Level Up&lt;/p&gt;&#xA;&lt;p&gt;Fee: &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%1&lt;/font&gt;&lt;/p&gt;&#xA;&lt;p&gt;Minimum Participants: %num2&lt;/p&gt;&#xA;&lt;p&gt;Contribution Points: %num3&lt;/p&gt;</body>
+		<body>&lt;p&gt;Sobe o nível da Legião.&lt;/p&gt;&#xA;&lt;p&gt;Nível: %0&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;Requerimentos para subir&lt;/p&gt;&#xA;&lt;p&gt;Taxa: &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%1&lt;/font&gt;&lt;/p&gt;&#xA;&lt;p&gt;Mínimo de participantes: %num2&lt;/p&gt;&#xA;&lt;p&gt;Pontos de Contribuição (AP): %num3&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>900682</id>
 		<name>STR_GUILD_LEVELUP</name>
-		<body>Level Up</body>
+		<body>Subir Nível</body>
 	</string>
 	<string>
 		<id>900683</id>
 		<name>STR_WAREHOUSE_PERSONAL</name>
-		<body>Warehouse (%0/%1)</body>
+		<body>Armazén (%0/%1)</body>
 	</string>
 	<string>
 		<id>900684</id>
 		<name>STR_WAREHOUSE_ACCOUNT</name>
-		<body>Account Warehouse (%0/%1)</body>
+		<body>Armazén da Conta (%0/%1)</body>
 	</string>
 	<string>
 		<id>900685</id>
 		<name>STR_WAREHOUSE_GUILD</name>
-		<body>Legion Warehouse (%0/%1)</body>
+		<body>Armazén da Legião (%0/%1)</body>
 	</string>
 	<string>
 		<id>900686</id>
 		<name>STR_WAREHOUSE_EXPAND_WARNING</name>
-		<body>&lt;p&gt;To expand the cube you need &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt; Kinah.&lt;/p&gt;&#xA;&lt;p&gt;Do you want to expand it?&lt;/p&gt;</body>
+		<body>&lt;p&gt;Para expandir o cuvo você precisa de &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt; Kinah.&lt;/p&gt;&#xA;&lt;p&gt;Você quer expandir?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>900687</id>
@@ -5547,17 +5546,17 @@
 	<string>
 		<id>900689</id>
 		<name>STR_GUILD_YEAR_OVER</name>
-		<body>Over 1 year</body>
+		<body>Mais de 1 ano</body>
 	</string>
 	<string>
 		<id>900690</id>
 		<name>STR_GUILD_MONTH</name>
-		<body>%0 months</body>
+		<body>%0 meses</body>
 	</string>
 	<string>
 		<id>900691</id>
 		<name>STR_GUILD_DAY</name>
-		<body>%0 days</body>
+		<body>%0 dias</body>
 	</string>
 	<string>
 		<id>900692</id>
@@ -5572,7 +5571,7 @@
 	<string>
 		<id>900694</id>
 		<name>STR_GUILD_ONLINE</name>
-		<body>Connected</body>
+		<body>Conectado</body>
 	</string>
 	<string>
 		<id>900695</id>
@@ -5592,22 +5591,22 @@
 	<string>
 		<id>900698</id>
 		<name>STR_GUILD_EVENT_JOIN_MEMBER</name>
-		<body>%0 has joined the Legion.</body>
+		<body>%0 entrou na Legião.</body>
 	</string>
 	<string>
 		<id>900699</id>
 		<name>STR_GUILD_EVENT_LEAVE_MEMBER</name>
-		<body>%0 has left the Legion.</body>
+		<body>%0 saiu da Legião.</body>
 	</string>
 	<string>
 		<id>900700</id>
 		<name>STR_GUILD_EVENT_LEVELUP</name>
-		<body>The Legion was leveled up to %0.</body>
+		<body>O nível da Legião subiu para %0.</body>
 	</string>
 	<string>
 		<id>900701</id>
 		<name>STR_GUILD_EVENT_CHANGE_MASTER</name>
-		<body>%0 was appointed as the new Legion Brigade General.</body>
+		<body>%0 foi apontado como o novo Líder da Legião.</body>
 	</string>
 	<string>
 		<id>900702</id>
@@ -5681,47 +5680,47 @@
 	<string>
 		<id>900717</id>
 		<name>STR_TOOLTIP_SKILL_STAT_ARSTUN_LIKE</name>
-		<body>Stun, Knock Back, Stumble, Spin, and Aether&apos;s Hold Resists</body>
+		<body>Resistência à Stun, Knock Back, Stumble, Spin, e Aether&apos;s Hold</body>
 	</string>
 	<string>
 		<id>900718</id>
 		<name>STR_TOOLTIP_SKILL_STAT_ARPHYSICAL_AB</name>
-		<body>Physical Altered State Resist</body>
+		<body>Resistência à Alteração de Estados Físicos</body>
 	</string>
 	<string>
 		<id>900719</id>
 		<name>STR_TOOLTIP_SKILL_STAT_ARMENTAL_AB</name>
-		<body>Mental Altered State Resist</body>
+		<body>Resistência à Alteração de Estados Mentais</body>
 	</string>
 	<string>
 		<id>900720</id>
 		<name>STR_TOOLTIP_SKILL_STAT_ACTIVE_DEFEND</name>
-		<body>Evasion, Parry, Block</body>
+		<body>Evadir, Desviar, Bloquear</body>
 	</string>
 	<string>
 		<id>900721</id>
 		<name>STR_KEYMAP_TOGGLEDIALOG_WHO</name>
-		<body>Find Friends</body>
+		<body>Procurar Amigos</body>
 	</string>
 	<string>
 		<id>900722</id>
 		<name>STR_KEYMAP_TOGGLEDIALOG_INVENTORY_LARGE</name>
-		<body>Delete</body>
+		<body>Remover</body>
 	</string>
 	<string>
 		<id>900723</id>
 		<name>STR_WINDOW_WHO</name>
-		<body>Find Friends</body>
+		<body>Procurar Amigos</body>
 	</string>
 	<string>
 		<id>900724</id>
 		<name>STR_POPUP_PLAYER_INFO_OTHER</name>
-		<body>View Detail</body>
+		<body>Ver Detalhes</body>
 	</string>
 	<string>
 		<id>900725</id>
 		<name>STR_GUILD_NO_ORDER</name>
-		<body>No Rank</body>
+		<body>Sem Rank</body>
 	</string>
 	<string>
 		<id>900726</id>
@@ -5730,22 +5729,22 @@
 	<string>
 		<id>900727</id>
 		<name>STR_LEVEL</name>
-		<body>Level</body>
+		<body>Nível</body>
 	</string>
 	<string>
 		<id>900728</id>
 		<name>STR_CLASS</name>
-		<body>Class</body>
+		<body>Classe</body>
 	</string>
 	<string>
 		<id>900729</id>
 		<name>STR_RACE</name>
-		<body>Race</body>
+		<body>Raça</body>
 	</string>
 	<string>
 		<id>900730</id>
 		<name>STR_GUILD</name>
-		<body>Legion</body>
+		<body>Legião</body>
 	</string>
 	<string>
 		<id>900731</id>
@@ -5755,17 +5754,17 @@
 	<string>
 		<id>900732</id>
 		<name>STR_SELECT_STAGE_DELETE_NOW</name>
-		<body>Confirm Delete</body>
+		<body>Confirmar Remoção</body>
 	</string>
 	<string>
 		<id>900733</id>
 		<name>STR_SELECT_STAGE_MSG_INPUT_DELETE_NOW</name>
-		<body>If you delete your character, the items in your inventory, private warehouse and mail box will also be deleted. If you still wish to delete your character, please enter &apos;%0&apos;.</body>
+		<body>Se você remover o personagem, os itens no inventário, armazén privado e 'mail' também serão removidos. Se você ainda quer remover seu personagem, por favor escreva &apos;%0&apos;.</body>
 	</string>
 	<string>
 		<id>900734</id>
 		<name>STR_SELECT_STAGE_DELETED_CHAR</name>
-		<body>(Character to be deleted)</body>
+		<body>(Persoangem à ser removido)</body>
 	</string>
 	<string>
 		<id>900735</id>
@@ -5775,17 +5774,17 @@
 	<string>
 		<id>900736</id>
 		<name>STR_SELECT_STAGE_DELETE</name>
-		<body>Delete</body>
+		<body>Remover</body>
 	</string>
 	<string>
 		<id>900737</id>
 		<name>STR_SELECT_STAGE_RESTORE</name>
-		<body>Restore</body>
+		<body>Restaurar</body>
 	</string>
 	<string>
 		<id>900738</id>
 		<name>STR_UI_EMOTION_MORE</name>
-		<body>View more...</body>
+		<body>Ver mais...</body>
 	</string>
 	<string>
 		<id>900739</id>
@@ -5795,12 +5794,12 @@
 	<string>
 		<id>900740</id>
 		<name>STR_CHAT_MODE_ZONE</name>
-		<body>Region</body>
+		<body>Região</body>
 	</string>
 	<string>
 		<id>900741</id>
 		<name>STR_CHAT_MODE_TRADE</name>
-		<body>Trade</body>
+		<body>Trocar</body>
 	</string>
 	<string>
 		<id>900742</id>
@@ -5810,42 +5809,42 @@
 	<string>
 		<id>900743</id>
 		<name>STR_CHAT_MODE_CHANNEL</name>
-		<body>Channel %0</body>
+		<body>Canal %0</body>
 	</string>
 	<string>
 		<id>900744</id>
 		<name>STR_CHAT_MODE_CHAT_ROOM</name>
-		<body>Channel</body>
+		<body>Canal</body>
 	</string>
 	<string>
 		<id>900745</id>
 		<name>STR_CHAT_MODE_PARTY</name>
-		<body>Group</body>
+		<body>Grupo</body>
 	</string>
 	<string>
 		<id>900746</id>
 		<name>STR_CHAT_MODE_ALLIANCE</name>
-		<body>Alliance</body>
+		<body>Aliança</body>
 	</string>
 	<string>
 		<id>900747</id>
 		<name>STR_CHAT_MODE_GUILD</name>
-		<body>Legion</body>
+		<body>Legião</body>
 	</string>
 	<string>
 		<id>900748</id>
 		<name>STR_CHAT_MODE_WHISPER</name>
-		<body>Whisper to %0</body>
+		<body>Sussurrar para %0</body>
 	</string>
 	<string>
 		<id>900749</id>
 		<name>STR_CHAT_MODE_SHOUT</name>
-		<body>Shout</body>
+		<body>Gritar</body>
 	</string>
 	<string>
 		<id>900750</id>
 		<name>STR_CHAT_MODE_GENERAL</name>
-		<body>Say</body>
+		<body>Falar</body>
 	</string>
 	<string>
 		<id>900751</id>
@@ -5855,7 +5854,7 @@
 	<string>
 		<id>900752</id>
 		<name>STR_ZONEMAP_ZONE_SELECT</name>
-		<body>Please select a zone.</body>
+		<body>Por favor, selecione um local.</body>
 	</string>
 	<string>
 		<id>900753</id>
@@ -5955,12 +5954,12 @@
 	<string>
 		<id>900772</id>
 		<name>STR_CRAFTWINDOW_METALWEAPON</name>
-		<body>Metal Weapon</body>
+		<body>Arma de Metal</body>
 	</string>
 	<string>
 		<id>900773</id>
 		<name>STR_CRAFTWINDOW_MISC</name>
-		<body>Other</body>
+		<body>Outros</body>
 	</string>
 	<string>
 		<id>900774</id>
@@ -5975,12 +5974,12 @@
 	<string>
 		<id>900776</id>
 		<name>STR_CRAFTWINDOW_SHIELD</name>
-		<body>Shield</body>
+		<body>Escudo</body>
 	</string>
 	<string>
 		<id>900777</id>
 		<name>STR_CRAFTWINDOW_ACCESSORY</name>
-		<body>Accessory</body>
+		<body>Acessórios</body>
 	</string>
 	<string>
 		<id>900778</id>
@@ -5995,27 +5994,27 @@
 	<string>
 		<id>900780</id>
 		<name>STR_CRAFTWINDOW_CLOTH</name>
-		<body>Costume</body>
+		<body>Fantasias</body>
 	</string>
 	<string>
 		<id>900781</id>
 		<name>STR_CRAFTWINDOW_TREEWEAPON</name>
-		<body>Wooden Weapon</body>
+		<body>Arma de Madeira</body>
 	</string>
 	<string>
 		<id>900782</id>
 		<name>STR_CRAFTWINDOW_MAGICWEAPON</name>
-		<body>Magic Weapon</body>
+		<body>Arma Mágica</body>
 	</string>
 	<string>
 		<id>900783</id>
 		<name>STR_CRAFTWINDOW_POTION</name>
-		<body>Potion</body>
+		<body>Poção</body>
 	</string>
 	<string>
 		<id>900784</id>
 		<name>STR_CRAFTWINDOW_SCROLL</name>
-		<body>Scroll</body>
+		<body>Pergaminho</body>
 	</string>
 	<string>
 		<id>900785</id>
@@ -6025,12 +6024,12 @@
 	<string>
 		<id>900786</id>
 		<name>STR_CRAFTWINDOW_FOOD</name>
-		<body>Cooking</body>
+		<body>Cozinhar</body>
 	</string>
 	<string>
 		<id>900787</id>
 		<name>STR_CRAFTWINDOW_MATERIAL_CONVERT</name>
-		<body>Convert Material</body>
+		<body>Converter Material</body>
 	</string>
 	<string>
 		<id>900788</id>
@@ -6045,57 +6044,57 @@
 	<string>
 		<id>900790</id>
 		<name>STR_CHAT_TAB_MENU_ADD</name>
-		<body>Add Tab</body>
+		<body>Adicionar Aba</body>
 	</string>
 	<string>
 		<id>900791</id>
 		<name>STR_CHAT_TAB_MENU_REMOVE</name>
-		<body>Delete Tab</body>
+		<body>Remover Aba</body>
 	</string>
 	<string>
 		<id>900792</id>
 		<name>STR_CHAT_TAB_MENU_RENAME</name>
-		<body>Change Tab Name</body>
+		<body>Mudar o Nome da Aba</body>
 	</string>
 	<string>
 		<id>900793</id>
 		<name>STR_CHAT_TAB_MENU_COLOR_MSG</name>
-		<body>Change Message Colour</body>
+		<body>Mudar a Cor da Mensagem</body>
 	</string>
 	<string>
 		<id>900794</id>
 		<name>STR_CHAT_TAB_MENU_OPTION</name>
-		<body>Tab Options</body>
+		<body>Opções de Aba</body>
 	</string>
 	<string>
 		<id>900795</id>
 		<name>STR_CRAFTWINDOW_REQUIRE_DP</name>
-		<body>Required DP: %num0 DP</body>
+		<body>DP Necessária: %num0 DP</body>
 	</string>
 	<string>
 		<id>900796</id>
 		<name>STR_TOOLTIP_SKILL_CHAIN_PROB</name>
-		<body>Activate Next Skill</body>
+		<body>Próxima Habilidade à ser Ativada</body>
 	</string>
 	<string>
 		<id>900797</id>
 		<name>STR_CRAFT_GRADE1</name>
-		<body>Amateur</body>
+		<body>Amador</body>
 	</string>
 	<string>
 		<id>900798</id>
 		<name>STR_CRAFT_GRADE2</name>
-		<body>Novice</body>
+		<body>Novato</body>
 	</string>
 	<string>
 		<id>900799</id>
 		<name>STR_CRAFT_GRADE3</name>
-		<body>Apprentice</body>
+		<body>Aprendiz</body>
 	</string>
 	<string>
 		<id>900800</id>
 		<name>STR_CRAFT_GRADE4</name>
-		<body>Journeyman</body>
+		<body>Artista</body>
 	</string>
 	<string>
 		<id>900801</id>
@@ -6110,17 +6109,17 @@
 	<string>
 		<id>900803</id>
 		<name>STR_MSG_SHARE_QUEST</name>
-		<body>%0 has offered to share [%questname] quest. Do you want to accept it?</body>
+		<body>%0 ofereceu para compartilhar a tarefa [%questname]. Você aceita?</body>
 	</string>
 	<string>
 		<id>900804</id>
 		<name>STR_MISSION_COMPLETED</name>
-		<body>Done</body>
+		<body>Completada</body>
 	</string>
 	<string>
 		<id>900805</id>
 		<name>STR_TOOLTIP_PHYSICAL</name>
-		<body>Physical</body>
+		<body>Físico</body>
 	</string>
 	<string>
 		<id>900806</id>
@@ -6135,22 +6134,22 @@
 	<string>
 		<id>900808</id>
 		<name>STR_WINDOW_PETITION</name>
-		<body>Help</body>
+		<body>Ajuda</body>
 	</string>
 	<string>
 		<id>900809</id>
 		<name>STR_WINDOW_ITEMMALL</name>
-		<body>Shop</body>
+		<body>Loja</body>
 	</string>
 	<string>
 		<id>900810</id>
 		<name>STR_KEYMAP_MOVEHIGH</name>
-		<body>Vertical Incline</body>
+		<body>Subir</body>
 	</string>
 	<string>
 		<id>900811</id>
 		<name>STR_KEYMAP_MOVELOW</name>
-		<body>Descend</body>
+		<body>Descer</body>
 	</string>
 	<string>
 		<id>900812</id>
@@ -6165,102 +6164,102 @@
 	<string>
 		<id>900814</id>
 		<name>STR_KEYMAP_TOGGLEDIALOG_PETITION</name>
-		<body>Player Support</body>
+		<body>Suporte ao Jogador</body>
 	</string>
 	<string>
 		<id>900815</id>
 		<name>STR_KEYMAP_TITLE_MOVE</name>
-		<body>Move</body>
+		<body>Mover</body>
 	</string>
 	<string>
 		<id>900816</id>
 		<name>STR_KEYMAP_TITLE_COMBAT</name>
-		<body>Combat</body>
+		<body>Combate</body>
 	</string>
 	<string>
 		<id>900817</id>
 		<name>STR_KEYMAP_TITLE_PARTY</name>
-		<body>Group</body>
+		<body>Grupo</body>
 	</string>
 	<string>
 		<id>900818</id>
 		<name>STR_KEYMAP_TITLE_DIALOG</name>
-		<body>Window</body>
+		<body>Janela</body>
 	</string>
 	<string>
 		<id>900819</id>
 		<name>STR_KEYMAP_ETC</name>
-		<body>Actions</body>
+		<body>Ações</body>
 	</string>
 	<string>
 		<id>900820</id>
 		<name>STR_POPUP_MAKING</name>
-		<body>Crafting</body>
+		<body>Construíndo</body>
 	</string>
 	<string>
 		<id>900821</id>
 		<name>STR_POPUP_GATHER</name>
-		<body>Gathering</body>
+		<body>Coletando</body>
 	</string>
 	<string>
 		<id>900822</id>
 		<name>STR_POPUP_LOOT</name>
-		<body>Loot Distribution Method</body>
+		<body>Método de Distribuição de 'Loot'</body>
 	</string>
 	<string>
 		<id>900823</id>
 		<name>STR_ITEM_PRICE_SETPRICE</name>
-		<body>Please enter the selling price.</body>
+		<body>Por favor, defina o preço de venda.</body>
 	</string>
 	<string>
 		<id>900824</id>
 		<name>STR_ITEM_PRICE_EXCHANGE</name>
-		<body>How much do you want to register?</body>
+		<body>Quanto você quer registrar?</body>
 	</string>
 	<string>
 		<id>900825</id>
 		<name>STR_WINDOW_SERVICE</name>
-		<body>Support</body>
+		<body>Suporte</body>
 	</string>
 	<string>
 		<id>900826</id>
 		<name>STR_CHAT_ROOM_JOINED_MEMBERS</name>
-		<body>Participant List</body>
+		<body>Lista de Participantes</body>
 	</string>
 	<string>
 		<id>900827</id>
 		<name>STR_CHAT_ROOM_BAN_MEMBER_LIST</name>
-		<body>Banned List</body>
+		<body>Lista de Banidos</body>
 	</string>
 	<string>
 		<id>900828</id>
 		<name>STR_OPTION_SOUND_FEMALE</name>
-		<body>Female</body>
+		<body>Feminino</body>
 	</string>
 	<string>
 		<id>900829</id>
 		<name>STR_OPTION_SOUND_MALE</name>
-		<body>Male</body>
+		<body>Masculino</body>
 	</string>
 	<string>
 		<id>900830</id>
 		<name>STR_OPTION_SOUND_SYSTEM_DEFAULT</name>
-		<body>Voice 1</body>
+		<body>Voz 1</body>
 	</string>
 	<string>
 		<id>900831</id>
 		<name>STR_OPTION_SOUND_SYSTEM_FRIEND</name>
-		<body>Voice 2</body>
+		<body>Voz 2</body>
 	</string>
 	<string>
 		<id>900832</id>
 		<name>STR_CHAT_ROOM_CHANNELNAME_1</name>
-		<body>Region</body>
+		<body>Região</body>
 	</string>
 	<string>
 		<id>900833</id>
 		<name>STR_CHAT_ROOM_CHANNELNAME_2</name>
-		<body>Trade</body>
+		<body>Trocar</body>
 	</string>
 	<string>
 		<id>900834</id>
@@ -6270,27 +6269,27 @@
 	<string>
 		<id>900835</id>
 		<name>STR_CHAT_ROOM_CHANNELNAME_4</name>
-		<body>Private Channel</body>
+		<body>Canal Privado</body>
 	</string>
 	<string>
 		<id>900836</id>
 		<name>STR_FINISHED_QUEST_TOTAL</name>
-		<body>Completed Quests: %0</body>
+		<body>Tarefas Finalizadas: %0</body>
 	</string>
 	<string>
 		<id>900837</id>
 		<name>STR_TOOLTIP_SKILL_STAT_PMATTACK</name>
-		<body>Physical and Magical Attack</body>
+		<body>Ataque Mágico e Físico</body>
 	</string>
 	<string>
 		<id>900838</id>
 		<name>STR_TOOLTIP_SKILL_STAT_PMDEFEND</name>
-		<body>Physical, All Elemental Defences</body>
+		<body>Físico, Todas as Defesas Elementais</body>
 	</string>
 	<string>
 		<id>900839</id>
 		<name>STR_BUDDYLIST_ADD_BUDDY</name>
-		<body>Add Friend</body>
+		<body>Adicionar Amigo</body>
 	</string>
 	<string>
 		<id>900840</id>
@@ -6320,27 +6319,27 @@
 	<string>
 		<id>900845</id>
 		<name>STR_BUDDYLIST_STATE_OFFLINE</name>
-		<body>Invisible</body>
+		<body>Invisível</body>
 	</string>
 	<string>
 		<id>900846</id>
 		<name>STR_BUDDYLIST_STATE_AWAY</name>
-		<body>Busy</body>
+		<body>Ocupado</body>
 	</string>
 	<string>
 		<id>900847</id>
 		<name>STR_BUDDYLIST_BUSY</name>
-		<body>Busy in game</body>
+		<body>Ocupado no jogo</body>
 	</string>
 	<string>
 		<id>900848</id>
 		<name>STR_BLOCKLIST_NAME</name>
-		<body>Name</body>
+		<body>Nome</body>
 	</string>
 	<string>
 		<id>900849</id>
 		<name>STR_BLOCKLIST_MEMO</name>
-		<body>Memo</body>
+		<body>Memor.</body>
 	</string>
 	<string>
 		<id>900850</id>
@@ -6405,7 +6404,7 @@
 	<string>
 		<id>900862</id>
 		<name>STR_BLOCKLIST_UNBLOCK_BUTTON</name>
-		<body>Unblock</body>
+		<body>Desbloquear</body>
 	</string>
 	<string>
 		<id>900863</id>
@@ -6430,17 +6429,17 @@
 	<string>
 		<id>900867</id>
 		<name>STR_WINDOW_MACRO</name>
-		<body>Macro</body>
+		<body>Macros</body>
 	</string>
 	<string>
 		<id>900868</id>
 		<name>STR_WINDOW_CHANNEL</name>
-		<body>Change Channel</body>
+		<body>Mudar Canal</body>
 	</string>
 	<string>
 		<id>900869</id>
 		<name>STR_KEYMAP_TOGGLEDIALOG_MACRO</name>
-		<body>Macro</body>
+		<body>Macros</body>
 	</string>
 	<string>
 		<id>900870</id>
@@ -6475,37 +6474,37 @@
 	<string>
 		<id>900876</id>
 		<name>STR_TOOLTIP_CANNOT_SELL_TO_NPC</name>
-		<body>Unsellable</body>
+		<body>Não pode vender</body>
 	</string>
 	<string>
 		<id>900877</id>
 		<name>STR_BUDDYLIST_TODAYWORD</name>
-		<body>Note</body>
+		<body>Nota</body>
 	</string>
 	<string>
 		<id>900878</id>
 		<name>STR_BUDDYLIST_INPUT_CHARACTER_NAME</name>
-		<body>Enter Name</body>
+		<body>Digite o Nome</body>
 	</string>
 	<string>
 		<id>900879</id>
 		<name>STR_BUDDYLIST_NEW_MEMO</name>
-		<body>Memo</body>
+		<body>Memor.</body>
 	</string>
 	<string>
 		<id>900880</id>
 		<name>STR_TOOLTIP_SKILLBOOK</name>
-		<body>Skill Book</body>
+		<body>Livro de Habilidade</body>
 	</string>
 	<string>
 		<id>900881</id>
 		<name>STR_TOOLTIP_RECIPE</name>
-		<body>Craft Method</body>
+		<body>Método de Criação</body>
 	</string>
 	<string>
 		<id>900882</id>
 		<name>STR_POPUP_TURNOFF_ABNORMAL_STATUS</name>
-		<body>Remove Altered State</body>
+		<body>Remove Estado Alterado</body>
 	</string>
 	<string>
 		<id>900883</id>
@@ -6535,12 +6534,12 @@
 	<string>
 		<id>900888</id>
 		<name>STR_HTML_REWARD_HEAD</name>
-		<body>&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;button font_xml=&quot;v3_quest_reward&quot; width=&quot;340&quot; height=&quot;28&quot; skin=&quot;v4_npcdlg_reward_button&quot; icon=&quot;v4_npcdlg_reward&quot; align=&quot;left&quot;&gt;Basic Reward&lt;/button&gt;&lt;/p&gt;&lt;listview width=&quot;340&quot; itemHeight=&quot;40&quot; selectable=&quot;true&quot; skin=&quot;v4_listview_quest&quot;&gt;</body>
+		<body>&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;button font_xml=&quot;v3_quest_reward&quot; width=&quot;340&quot; height=&quot;28&quot; skin=&quot;v4_npcdlg_reward_button&quot; icon=&quot;v4_npcdlg_reward&quot; align=&quot;left&quot;&gt;Recompensa Básica&lt;/button&gt;&lt;/p&gt;&lt;listview width=&quot;340&quot; itemHeight=&quot;40&quot; selectable=&quot;true&quot; skin=&quot;v4_listview_quest&quot;&gt;</body>
 	</string>
 	<string>
 		<id>900889</id>
 		<name>STR_HTML_SHOW_SEL_REWARD_HEAD</name>
-		<body>&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;button font_xml=&quot;v3_quest_reward&quot; width=&quot;340&quot; height=&quot;28&quot; skin=&quot;v4_npcdlg_reward_button&quot; icon=&quot;v4_npcdlg_reward&quot; align=&quot;left&quot;&gt;Optional Reward&lt;/button&gt;&lt;/p&gt;</body>
+		<body>&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;button font_xml=&quot;v3_quest_reward&quot; width=&quot;340&quot; height=&quot;28&quot; skin=&quot;v4_npcdlg_reward_button&quot; icon=&quot;v4_npcdlg_reward&quot; align=&quot;left&quot;&gt;Recompensa Opcional&lt;/button&gt;&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>900890</id>
@@ -6555,27 +6554,27 @@
 	<string>
 		<id>900892</id>
 		<name>STR_ITEM_PRICE_DLG_ADD_GOLD_TITLE</name>
-		<body>Transfer Kinah</body>
+		<body>Transferir Kinah</body>
 	</string>
 	<string>
 		<id>900893</id>
 		<name>STR_ITEM_PRICE_DLG_ADD_GOLD_TEXT</name>
-		<body>Please enter the amount of Kinah you want to transfer.</body>
+		<body>Por favor, digite a quantidade de Kinah que você quer transferir.</body>
 	</string>
 	<string>
 		<id>900894</id>
 		<name>STR_TOOLTIP_LEARNED_SKILLBOOK</name>
-		<body>You have already learned this skill.</body>
+		<body>Você já aprendeu esta habilidade.</body>
 	</string>
 	<string>
 		<id>900895</id>
 		<name>STR_TOOLTIP_LEARNED_RECIPE</name>
-		<body>You have already learned this design.</body>
+		<body>Você já aprendeu este 'design'.</body>
 	</string>
 	<string>
 		<id>900896</id>
 		<name>STR_HTML_SELECT_SEL_REWARD_HEAD</name>
-		<body>&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;button font_xml=&quot;v3_quest_reward&quot; width=&quot;340&quot; height=&quot;28&quot; skin=&quot;v4_npcdlg_reward_button&quot; icon=&quot;v4_npcdlg_reward&quot; align=&quot;left&quot;&gt;Additional Reward (please select)&lt;/button&gt;</body>
+		<body>&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;button font_xml=&quot;v3_quest_reward&quot; width=&quot;340&quot; height=&quot;28&quot; skin=&quot;v4_npcdlg_reward_button&quot; icon=&quot;v4_npcdlg_reward&quot; align=&quot;left&quot;&gt;Recompensa Adicional (selecione)&lt;/button&gt;</body>
 	</string>
 	<string>
 		<id>900897</id>
@@ -6585,27 +6584,27 @@
 	<string>
 		<id>900898</id>
 		<name>STR_TOOLTIP_CLOTH</name>
-		<body>Costume</body>
+		<body>Fantasia</body>
 	</string>
 	<string>
 		<id>900899</id>
 		<name>STR_TOOLTIP_LEATHER</name>
-		<body>Leather Armour</body>
+		<body>Armadura Leather</body>
 	</string>
 	<string>
 		<id>900900</id>
 		<name>STR_TOOLTIP_CHAIN</name>
-		<body>Chain Armour</body>
+		<body>Armadura Chain</body>
 	</string>
 	<string>
 		<id>900901</id>
 		<name>STR_TOOLTIP_PLATE</name>
-		<body>Plate Armour</body>
+		<body>Armadura Plate</body>
 	</string>
 	<string>
 		<id>900902</id>
 		<name>STR_TOOLTIP_ROBE</name>
-		<body>Cloth Armour</body>
+		<body>Armadura Cloth</body>
 	</string>
 	<string>
 		<id>900903</id>
@@ -6660,7 +6659,7 @@
 	<string>
 		<id>900913</id>
 		<name>STR_HTML_QUEST_REWARD_HEAD</name>
-		<body>&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;font font_xml=&quot;v3_quest_subtitle&quot;&gt;Basic Reward&lt;/font&gt;&lt;/p&gt;</body>
+		<body>&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;font font_xml=&quot;v3_quest_subtitle&quot;&gt;Recompensa Básica&lt;/font&gt;&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>900914</id>
@@ -6675,7 +6674,7 @@
 	<string>
 		<id>900916</id>
 		<name>STR_HTML_QUEST_SELECTABLE_REWARD_HEAD</name>
-		<body>&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;font font_xml=&quot;v3_quest_subtitle&quot;&gt;Optional Reward&lt;/font&gt;&lt;/p&gt;</body>
+		<body>&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;font font_xml=&quot;v3_quest_subtitle&quot;&gt;Recompensa Opcional&lt;/font&gt;&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>900917</id>
@@ -6690,7 +6689,7 @@
 	<string>
 		<id>900919</id>
 		<name>STR_AVAILABLE_CHAR_NAME</name>
-		<body>You can use the name.</body>
+		<body>Você pode usar este nome.</body>
 	</string>
 	<string>
 		<id>900920</id>
@@ -6705,12 +6704,12 @@
 	<string>
 		<id>900922</id>
 		<name>STR_SKILL_TOOLTIP_NON_CHAINED_CHAINSKILL</name>
-		<body>Special Chain</body>
+		<body>Sequência Especial</body>
 	</string>
 	<string>
 		<id>900923</id>
 		<name>STR_SKILL_TOOLTIP_NON_CHAINED_CHAINSKILL_CUR</name>
-		<body>Special Chain Skill (current status)</body>
+		<body>Sequência Especial de Habilidade (estatus atual)</body>
 	</string>
 	<string>
 		<id>900924</id>
@@ -6770,17 +6769,17 @@
 	<string>
 		<id>900935</id>
 		<name>STR_PETITION_FORMAT</name>
-		<body>Title: %0\nPetition Text:\n%1\n%2\n%3\n%4\n</body>
+		<body>Título: %0\nTexto da petição:\n%1\n%2\n%3\n%4\n</body>
 	</string>
 	<string>
 		<id>900936</id>
 		<name>STR_PETITION_CATEGORY_NONE</name>
-		<body>Choose Category</body>
+		<body>Selecione a Categoria</body>
 	</string>
 	<string>
 		<id>900937</id>
 		<name>STR_PETITION_CATEGORY_MOVE</name>
-		<body>Immobilization</body>
+		<body>Imobilização</body>
 	</string>
 	<string>
 		<id>900938</id>
@@ -6790,22 +6789,22 @@
 	<string>
 		<id>900939</id>
 		<name>STR_WINDOW_GM</name>
-		<body>GM Tool</body>
+		<body>Ferramenta do GM</body>
 	</string>
 	<string>
 		<id>900940</id>
 		<name>STR_TOOLTIP_SKILL_STAT_STRAGIKNO</name>
-		<body>Power, Accuracy, Knowledge</body>
+		<body>Poder, Precisão, Conhecimento</body>
 	</string>
 	<string>
 		<id>900941</id>
 		<name>STR_TOOLTIP_SKILL_STAT_VITDEXWIL</name>
-		<body>Health, Agility, Will</body>
+		<body>Vida, Agilidade, Determinação</body>
 	</string>
 	<string>
 		<id>900942</id>
 		<name>STR_TOOLTIP_PETITION_SUBMIT_NOTICE</name>
-		<body>&lt;html&gt;&lt;body&gt;&lt;font font_xml=&quot;default&quot;&gt;&lt;p&gt;Your petition is being submitted&lt;/p&gt;&lt;p&gt;No.%0&lt;/p&gt;&lt;p&gt;Approximate waiting time: %1&lt;/p&gt;&lt;/font&gt;&lt;body&gt;&lt;/html&gt;</body>
+		<body>&lt;html&gt;&lt;body&gt;&lt;font font_xml=&quot;default&quot;&gt;&lt;p&gt;Sua petição está sendo enviada&lt;/p&gt;&lt;p&gt;No.%0&lt;/p&gt;&lt;p&gt;Tempo aproximado: %1&lt;/p&gt;&lt;/font&gt;&lt;body&gt;&lt;/html&gt;</body>
 	</string>
 	<string>
 		<id>900943</id>
@@ -7005,32 +7004,32 @@
 	<string>
 		<id>900982</id>
 		<name>STR_SKILL_INFO_ACTIVE</name>
-		<body>Active</body>
+		<body>Ativa</body>
 	</string>
 	<string>
 		<id>900983</id>
 		<name>STR_SKILL_INFO_PASSIVE</name>
-		<body>Passive</body>
+		<body>Passiva</body>
 	</string>
 	<string>
 		<id>900984</id>
 		<name>STR_SKILL_INFO_CHAINSTART</name>
-		<body>Activation</body>
+		<body>Ativação</body>
 	</string>
 	<string>
 		<id>900985</id>
 		<name>STR_SKILL_INFO_CHAINSPECIAL</name>
-		<body>Special Chain</body>
+		<body>Sequência Especial</body>
 	</string>
 	<string>
 		<id>900986</id>
 		<name>STR_SKILL_INFO_CHAINSKILL</name>
-		<body>Chain Skills</body>
+		<body>Habilidades de Sequência</body>
 	</string>
 	<string>
 		<id>900987</id>
 		<name>STR_SKILL_INFO_CONDSKILL</name>
-		<body>Conditional</body>
+		<body>Condicional</body>
 	</string>
 	<string>
 		<id>900988</id>
@@ -7040,7 +7039,7 @@
 	<string>
 		<id>900989</id>
 		<name>STR_RESIST</name>
-		<body>Resistance</body>
+		<body>Resistência</body>
 	</string>
 	<string>
 		<id>900990</id>
@@ -7055,12 +7054,12 @@
 	<string>
 		<id>900992</id>
 		<name>STR_SKILL_INFO_LEARN_AUTO</name>
-		<body>Automatic</body>
+		<body>Automático</body>
 	</string>
 	<string>
 		<id>900993</id>
 		<name>STR_SKILL_INFO_LEARN_BOOK</name>
-		<body>Skill Book</body>
+		<body>Livro de Habilidade</body>
 	</string>
 	<string>
 		<id>900994</id>
@@ -7070,7 +7069,7 @@
 	<string>
 		<id>900995</id>
 		<name>STR_TOOLTIP_DISTANCE</name>
-		<body>Ranged</body>
+		<body>Distância</body>
 	</string>
 	<string>
 		<id>900996</id>
@@ -7250,12 +7249,12 @@
 	<string>
 		<id>901032</id>
 		<name>STR_WAIT_CHAR_DELETING</name>
-		<body>Deletion pending.</body>
+		<body>Remoção pendente.</body>
 	</string>
 	<string>
 		<id>901033</id>
 		<name>STR_WAIT_CHAR_DELETING_TIME</name>
-		<body>Remaining time</body>
+		<body>Tempo restante</body>
 	</string>
 	<string>
 		<id>901034</id>
@@ -7280,7 +7279,7 @@
 	<string>
 		<id>901038</id>
 		<name>STR_CHANNEL</name>
-		<body>Channel</body>
+		<body>Canal</body>
 	</string>
 	<string>
 		<id>901039</id>
@@ -7360,12 +7359,12 @@
 	<string>
 		<id>901054</id>
 		<name>STR_SERVER_DOWN</name>
-		<body>Down</body>
+		<body>Offline</body>
 	</string>
 	<string>
 		<id>901055</id>
 		<name>STR_SERVER_FREE</name>
-		<body>Recommended</body>
+		<body>Recomendado</body>
 	</string>
 	<string>
 		<id>901056</id>
@@ -7375,7 +7374,7 @@
 	<string>
 		<id>901057</id>
 		<name>STR_SERVER_CROWDED</name>
-		<body>Full</body>
+		<body>Cheio</body>
 	</string>
 	<string>
 		<id>901058</id>
@@ -7475,17 +7474,17 @@
 	<string>
 		<id>901077</id>
 		<name>STR_KEYMAP_TOGGLEOTHERCHARS</name>
-		<body>Hide/Show Other PCs</body>
+		<body>Esconder/Mostrar outros jogadores</body>
 	</string>
 	<string>
 		<id>901078</id>
 		<name>STR_SKILL_EFFECT_MSG_HATE_UP</name>
-		<body>Increase</body>
+		<body>Aumenta</body>
 	</string>
 	<string>
 		<id>901079</id>
 		<name>STR_SKILL_EFFECT_MSG_HATE_DOWN</name>
-		<body>Decrease</body>
+		<body>Diminui</body>
 	</string>
 	<string>
 		<id>901081</id>
@@ -7560,27 +7559,27 @@
 	<string>
 		<id>901099</id>
 		<name>STR_KEYMAP_TOGGLEDIALOG_ALPHA_MAP</name>
-		<body>Transparent Map</body>
+		<body>Mapa Transparente</body>
 	</string>
 	<string>
 		<id>901100</id>
 		<name>STR_TOOLTIP_SKILL_SUBTYPE_SUMMON</name>
-		<body>Summon Skills</body>
+		<body>Habilidades de 'Summon'</body>
 	</string>
 	<string>
 		<id>901101</id>
 		<name>STR_TOOLTIP_SKILL_SUBTYPE_SUMMON_TRAP</name>
-		<body>Trap Skills</body>
+		<body>Habilidades de Armadilha</body>
 	</string>
 	<string>
 		<id>901102</id>
 		<name>STR_TOOLTIP_SKILL_SUBTYPE_HOMING</name>
-		<body>Summon Skills</body>
+		<body>Habilidades de 'Summon'</body>
 	</string>
 	<string>
 		<id>901103</id>
 		<name>STR_TOOLTIP_SKILL_SUBTYPE_ALL</name>
-		<body>All Skills</body>
+		<body>Todas as Habilidades</body>
 	</string>
 	<string>
 		<id>901104</id>
@@ -7635,132 +7634,132 @@
 	<string>
 		<id>901140</id>
 		<name>STR_ATTACK_LEFT</name>
-		<body>Off Hand</body>
+		<body>Mão Secundária</body>
 	</string>
 	<string>
 		<id>901141</id>
 		<name>STR_ATTACK_RIGHT</name>
-		<body>Main Hand</body>
+		<body>Mão Principal</body>
 	</string>
 	<string>
 		<id>901142</id>
 		<name>STR_TOOLTIP_WEAPON_BOOST_NUM</name>
-		<body>Power Shard (Right Hand: %num0, Left Hand: %num1)</body>
+		<body>Power Shard (Mão Direita: %num0, Mão Esquerda: %num1)</body>
 	</string>
 	<string>
 		<id>901143</id>
 		<name>STR_POPUP_BINDING_STONE</name>
-		<body>Register Bind Point</body>
+		<body>Registrar Ponto de Nascimento</body>
 	</string>
 	<string>
 		<id>901144</id>
 		<name>STR_POPUP_USE</name>
-		<body>Use</body>
+		<body>Usar</body>
 	</string>
 	<string>
 		<id>901145</id>
 		<name>STR_POPUP_CHAIR</name>
-		<body>Sit Down</body>
+		<body>Sentar</body>
 	</string>
 	<string>
 		<id>901146</id>
 		<name>STR_TOOLTIP_GAUGE_EXP_WITH_TEMP</name>
-		<body>XP: %num0/%num1 (Recoverable : %num2)</body>
+		<body>XP: %num0/%num1 (Recuperável : %num2)</body>
 	</string>
 	<string>
 		<id>901147</id>
 		<name>STR_TOOLTIP_FLYGAUGE_HOTKEY_TAKEOFF</name>
-		<body>Fly</body>
+		<body>Voar</body>
 	</string>
 	<string>
 		<id>901148</id>
 		<name>STR_TOOLTIP_FLYGAUGE_HOTKEY_LAND</name>
-		<body>Land</body>
+		<body>Pousar</body>
 	</string>
 	<string>
 		<id>901149</id>
 		<name>STR_TOOLTIP_FLYGAUGE_HOTKEY_NOSET</name>
-		<body>Not specified</body>
+		<body>Não especificado</body>
 	</string>
 	<string>
 		<id>901150</id>
 		<name>STR_TOOLTIP_FLYGAUGE_HOTKEY_UP</name>
-		<body>Rise</body>
+		<body>Subir</body>
 	</string>
 	<string>
 		<id>901151</id>
 		<name>STR_TOOLTIP_FLYGAUGE_HOTKEY_DOWN</name>
-		<body>Fall</body>
+		<body>Descer</body>
 	</string>
 	<string>
 		<id>901152</id>
 		<name>STR_TOOLTIP_FLYGAUGE_HOTKEY_LOCK</name>
-		<body>Lock Altitude</body>
+		<body>Travar Altitude</body>
 	</string>
 	<string>
 		<id>901153</id>
 		<name>STR_TOOLTIP_RECIPE_OUTPUT</name>
-		<body>Crafting Result</body>
+		<body>Resultado da Criação</body>
 	</string>
 	<string>
 		<id>901154</id>
 		<name>STR_TOOLTIP_RECIPE_INPUT</name>
-		<body>Required Materials</body>
+		<body>Materiais Necessários</body>
 	</string>
 	<string>
 		<id>901155</id>
 		<name>STR_TOOLTIP_FORTRESS_OWNER_RACE</name>
-		<body>Conquering Faction</body>
+		<body>Facção Ocupante</body>
 	</string>
 	<string>
 		<id>901156</id>
 		<name>STR_TOOLTIP_FORTRESS_OWNER_GUILD</name>
-		<body>Conquering Legion</body>
+		<body>Legião Ocupante</body>
 	</string>
 	<string>
 		<id>901157</id>
 		<name>STR_TOOLTIP_FORTRESS_PVP_TIMER</name>
-		<body>Remaining time</body>
+		<body>Tempo restante</body>
 	</string>
 	<string>
 		<id>901158</id>
 		<name>STR_TOOLTIP_FORTRESS_CUR_PVP</name>
-		<body>Current State</body>
+		<body>Estado Atual</body>
 	</string>
 	<string>
 		<id>901159</id>
 		<name>STR_TOOLTIP_ARTIFACT_NAME</name>
-		<body>Artefact Name</body>
+		<body>Nome do Artefato</body>
 	</string>
 	<string>
 		<id>901160</id>
 		<name>STR_TOOLTIP_FORTRESS_ABYSS_NAME</name>
-		<body>Fortress Name</body>
+		<body>Nome da Fortaleza</body>
 	</string>
 	<string>
 		<id>901161</id>
 		<name>STR_TOOLTIP_FORTRESS_PVP_ON</name>
-		<body>Vulnerable</body>
+		<body>Vulnerável</body>
 	</string>
 	<string>
 		<id>901162</id>
 		<name>STR_TOOLTIP_FORTRESS_PVP_OFF</name>
-		<body>Invulnerable</body>
+		<body>Não vulnerável</body>
 	</string>
 	<string>
 		<id>901163</id>
 		<name>STR_QUEST_PREPARE_REWARD</name>
-		<body>Done</body>
+		<body>Feito</body>
 	</string>
 	<string>
 		<id>901164</id>
 		<name>STR_TOOLTIP_SKILL_STAT_MAX_FP</name>
-		<body>Flight Time</body>
+		<body>Tempo de Vôo</body>
 	</string>
 	<string>
 		<id>901165</id>
 		<name>STR_TOOLTIP_SKILL_STAT_FP_REGEN</name>
-		<body>Natural Flight Serum</body>
+		<body>Cura Natural de Vôo</body>
 	</string>
 	<string>
 		<id>901166</id>
@@ -7770,17 +7769,17 @@
 	<string>
 		<id>901167</id>
 		<name>STR_VENDOR_KIND_WEAPON</name>
-		<body>Weapon</body>
+		<body>Arma</body>
 	</string>
 	<string>
 		<id>901168</id>
 		<name>STR_VENDOR_KIND_SWORD</name>
-		<body>Sword</body>
+		<body>Espada</body>
 	</string>
 	<string>
 		<id>901169</id>
 		<name>STR_VENDOR_KIND_DAGGER</name>
-		<body>Dagger</body>
+		<body>Adaga</body>
 	</string>
 	<string>
 		<id>901170</id>
@@ -7795,7 +7794,7 @@
 	<string>
 		<id>901172</id>
 		<name>STR_VENDOR_KIND_BOOK</name>
-		<body>Spellbook</body>
+		<body>Livro de magias</body>
 	</string>
 	<string>
 		<id>901173</id>
@@ -7810,22 +7809,22 @@
 	<string>
 		<id>901175</id>
 		<name>STR_VENDOR_KIND_STAFF</name>
-		<body>Staff</body>
+		<body>Cetro</body>
 	</string>
 	<string>
 		<id>901176</id>
 		<name>STR_VENDOR_KIND_BOW</name>
-		<body>Bow</body>
+		<body>Arco</body>
 	</string>
 	<string>
 		<id>901177</id>
 		<name>STR_VENDOR_KIND_ARMOR</name>
-		<body>Armour</body>
+		<body>Armadura</body>
 	</string>
 	<string>
 		<id>901178</id>
 		<name>STR_VENDOR_KIND_CLOTH</name>
-		<body>Clothing</body>
+		<body>Fantasia</body>
 	</string>
 	<string>
 		<id>901179</id>
@@ -7850,67 +7849,67 @@
 	<string>
 		<id>901183</id>
 		<name>STR_VENDOR_KIND_TORSO</name>
-		<body>Jacket</body>
+		<body>Jaqueta</body>
 	</string>
 	<string>
 		<id>901184</id>
 		<name>STR_VENDOR_KIND_HAND</name>
-		<body>Gloves</body>
+		<body>Luva</body>
 	</string>
 	<string>
 		<id>901185</id>
 		<name>STR_VENDOR_KIND_SHOULDER</name>
-		<body>Pauldrons</body>
+		<body>Ombro</body>
 	</string>
 	<string>
 		<id>901186</id>
 		<name>STR_VENDOR_KIND_LEG</name>
-		<body>Pants</body>
+		<body>Calça</body>
 	</string>
 	<string>
 		<id>901187</id>
 		<name>STR_VENDOR_KIND_FOOT</name>
-		<body>Shoes</body>
+		<body>Botas</body>
 	</string>
 	<string>
 		<id>901188</id>
 		<name>STR_VENDOR_KIND_SHIELD</name>
-		<body>Shield</body>
+		<body>Escudo</body>
 	</string>
 	<string>
 		<id>901189</id>
 		<name>STR_VENDOR_KIND_ACCESSARY</name>
-		<body>Accessory</body>
+		<body>Acessório</body>
 	</string>
 	<string>
 		<id>901190</id>
 		<name>STR_VENDOR_KIND_EAR</name>
-		<body>Earrings</body>
+		<body>Brinco</body>
 	</string>
 	<string>
 		<id>901191</id>
 		<name>STR_VENDOR_KIND_NECK</name>
-		<body>Necklace</body>
+		<body>Colar</body>
 	</string>
 	<string>
 		<id>901192</id>
 		<name>STR_VENDOR_KIND_FINGER</name>
-		<body>Ring</body>
+		<body>Anel</body>
 	</string>
 	<string>
 		<id>901193</id>
 		<name>STR_VENDOR_KIND_WAIST</name>
-		<body>Belt</body>
+		<body>Cinto</body>
 	</string>
 	<string>
 		<id>901194</id>
 		<name>STR_VENDOR_KIND_HEAD</name>
-		<body>Headgear</body>
+		<body>Capacete</body>
 	</string>
 	<string>
 		<id>901195</id>
 		<name>STR_VENDOR_KIND_SKILL</name>
-		<body>Skill related</body>
+		<body>Relacionado a habilidades</body>
 	</string>
 	<string>
 		<id>901196</id>
@@ -7920,17 +7919,17 @@
 	<string>
 		<id>901197</id>
 		<name>STR_VENDOR_KIND_LEARN_BOOK</name>
-		<body>Skill Book</body>
+		<body>Livro de Habilidade</body>
 	</string>
 	<string>
 		<id>901198</id>
 		<name>STR_VENDOR_KIND_MAKING</name>
-		<body>Craft</body>
+		<body>Criação</body>
 	</string>
 	<string>
 		<id>901199</id>
 		<name>STR_VENDOR_KIND_MAKING_MATERIAL</name>
-		<body>Materials</body>
+		<body>Materiais</body>
 	</string>
 	<string>
 		<id>901200</id>
@@ -7940,32 +7939,32 @@
 	<string>
 		<id>901201</id>
 		<name>STR_VENDOR_KIND_CONSUMABLE</name>
-		<body>Consumables</body>
+		<body>Consumíveis</body>
 	</string>
 	<string>
 		<id>901202</id>
 		<name>STR_VENDOR_KIND_CONSUMABLE_FOOD</name>
-		<body>Food</body>
+		<body>Comida</body>
 	</string>
 	<string>
 		<id>901203</id>
 		<name>STR_VENDOR_KIND_CONSUMABLE_POTION</name>
-		<body>Potion</body>
+		<body>Poção</body>
 	</string>
 	<string>
 		<id>901204</id>
 		<name>STR_VENDOR_KIND_CONSUMABLE_MAGICAL</name>
-		<body>Scroll</body>
+		<body>Pergaminho</body>
 	</string>
 	<string>
 		<id>901205</id>
 		<name>STR_VENDOR_KIND_CONSUMABLE_MOD</name>
-		<body>Modify</body>
+		<body>Modificar</body>
 	</string>
 	<string>
 		<id>901206</id>
 		<name>STR_VENDOR_KIND_MISC</name>
-		<body>Other</body>
+		<body>Outros</body>
 	</string>
 	<string>
 		<id>901207</id>
@@ -7975,12 +7974,12 @@
 	<string>
 		<id>901208</id>
 		<name>STR_NO_WEAPON</name>
-		<body>No Weapon</body>
+		<body>Sem Arma</body>
 	</string>
 	<string>
 		<id>901209</id>
 		<name>STR_HTML_QUEST_RECIPE_TITLE</name>
-		<body>&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;font font_xml=&quot;v3_quest_subtitle&quot;&gt;Design Information&lt;/font&gt;&lt;/p&gt;</body>
+		<body>&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;font font_xml=&quot;v3_quest_subtitle&quot;&gt;Informações do Design&lt;/font&gt;&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901210</id>
@@ -7990,7 +7989,7 @@
 	<string>
 		<id>901211</id>
 		<name>STR_HTML_DIALOG_RECIPE_TITLE</name>
-		<body>&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;button font_xml=&quot;v3_quest_reward&quot; width=&quot;320&quot; height=&quot;28&quot; skin=&quot;v4_npcdlg_reward_button&quot; icon=&quot;v4_npcdlg_reward&quot; align=&quot;left&quot;&gt;Design Information&lt;/button&gt;&lt;/p&gt;</body>
+		<body>&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;button font_xml=&quot;v3_quest_reward&quot; width=&quot;320&quot; height=&quot;28&quot; skin=&quot;v4_npcdlg_reward_button&quot; icon=&quot;v4_npcdlg_reward&quot; align=&quot;left&quot;&gt;Informações do Design&lt;/button&gt;&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901212</id>
@@ -8000,197 +7999,197 @@
 	<string>
 		<id>901213</id>
 		<name>STR_MAKING_COMBINE_TASK</name>
-		<body>Work Order</body>
+		<body>Ordem de Trabalho</body>
 	</string>
 	<string>
 		<id>901214</id>
 		<name>STR_TOOLTIP_ITEM_CHANGE_SKIN</name>
-		<body>Modified Appearance</body>
+		<body>Modificar Aparência</body>
 	</string>
 	<string>
 		<id>901215</id>
 		<name>STR_Abyssrank_light_01</name>
-		<body>Soldier, Rank 9</body>
+		<body>Soldado, Rank 9</body>
 	</string>
 	<string>
 		<id>901216</id>
 		<name>STR_Abyssrank_light_02</name>
-		<body>Soldier, Rank 8</body>
+		<body>Soldado, Rank 8</body>
 	</string>
 	<string>
 		<id>901217</id>
 		<name>STR_Abyssrank_light_03</name>
-		<body>Soldier, Rank 7</body>
+		<body>Soldado, Rank 7</body>
 	</string>
 	<string>
 		<id>901218</id>
 		<name>STR_Abyssrank_light_04</name>
-		<body>Soldier, Rank 6</body>
+		<body>Soldado, Rank 6</body>
 	</string>
 	<string>
 		<id>901219</id>
 		<name>STR_Abyssrank_light_05</name>
-		<body>Soldier, Rank 5</body>
+		<body>Soldado, Rank 5</body>
 	</string>
 	<string>
 		<id>901220</id>
 		<name>STR_Abyssrank_light_06</name>
-		<body>Soldier, Rank 4</body>
+		<body>Soldado, Rank 4</body>
 	</string>
 	<string>
 		<id>901221</id>
 		<name>STR_Abyssrank_light_07</name>
-		<body>Soldier, Rank 3</body>
+		<body>Soldado, Rank 3</body>
 	</string>
 	<string>
 		<id>901222</id>
 		<name>STR_Abyssrank_light_08</name>
-		<body>Soldier, Rank 2</body>
+		<body>Soldado, Rank 2</body>
 	</string>
 	<string>
 		<id>901223</id>
 		<name>STR_Abyssrank_light_09</name>
-		<body>Soldier, Rank 1</body>
+		<body>Soldado, Rank 1</body>
 	</string>
 	<string>
 		<id>901224</id>
 		<name>STR_Abyssrank_light_10</name>
-		<body>Army 1-Star Officer</body>
+		<body>Oficial 1-Estrela</body>
 	</string>
 	<string>
 		<id>901225</id>
 		<name>STR_Abyssrank_light_11</name>
-		<body>Army 2-Star Officer</body>
+		<body>Oficial 2-Estrelas</body>
 	</string>
 	<string>
 		<id>901226</id>
 		<name>STR_Abyssrank_light_12</name>
-		<body>Army 3-Star Officer</body>
+		<body>Oficial 3-Estrelas</body>
 	</string>
 	<string>
 		<id>901227</id>
 		<name>STR_Abyssrank_light_13</name>
-		<body>Army 4-Star Officer</body>
+		<body>Oficial 4-Estrelas</body>
 	</string>
 	<string>
 		<id>901228</id>
 		<name>STR_Abyssrank_light_14</name>
-		<body>Army 5-Star Officer</body>
+		<body>Oficial 5-Estrelas</body>
 	</string>
 	<string>
 		<id>901229</id>
 		<name>STR_Abyssrank_light_15</name>
-		<body>General</body>
+		<body>Major</body>
 	</string>
 	<string>
 		<id>901230</id>
 		<name>STR_Abyssrank_light_16</name>
-		<body>Great General</body>
+		<body>Coronel</body>
 	</string>
 	<string>
 		<id>901231</id>
 		<name>STR_Abyssrank_light_17</name>
-		<body>Commander</body>
+		<body>Comandante</body>
 	</string>
 	<string>
 		<id>901232</id>
 		<name>STR_Abyssrank_light_18</name>
-		<body>Governor</body>
+		<body>Governador</body>
 	</string>
 	<string>
 		<id>901233</id>
 		<name>STR_Abyssrank_dark_01</name>
-		<body>Soldier, Rank 9</body>
+		<body>Soldado, Rank 9</body>
 	</string>
 	<string>
 		<id>901234</id>
 		<name>STR_Abyssrank_dark_02</name>
-		<body>Soldier, Rank 8</body>
+		<body>Soldado, Rank 8</body>
 	</string>
 	<string>
 		<id>901235</id>
 		<name>STR_Abyssrank_dark_03</name>
-		<body>Soldier, Rank 7</body>
+		<body>Soldado, Rank 7</body>
 	</string>
 	<string>
 		<id>901236</id>
 		<name>STR_Abyssrank_dark_04</name>
-		<body>Soldier, Rank 6</body>
+		<body>Soldado, Rank 6</body>
 	</string>
 	<string>
 		<id>901237</id>
 		<name>STR_Abyssrank_dark_05</name>
-		<body>Soldier, Rank 5</body>
+		<body>Soldado, Rank 5</body>
 	</string>
 	<string>
 		<id>901238</id>
 		<name>STR_Abyssrank_dark_06</name>
-		<body>Soldier, Rank 4</body>
+		<body>Soldado, Rank 4</body>
 	</string>
 	<string>
 		<id>901239</id>
 		<name>STR_Abyssrank_dark_07</name>
-		<body>Soldier, Rank 3</body>
+		<body>Soldado, Rank 3</body>
 	</string>
 	<string>
 		<id>901240</id>
 		<name>STR_Abyssrank_dark_08</name>
-		<body>Soldier, Rank 2</body>
+		<body>Soldado, Rank 2</body>
 	</string>
 	<string>
 		<id>901241</id>
 		<name>STR_Abyssrank_dark_09</name>
-		<body>Soldier, Rank 1</body>
+		<body>Soldado, Rank 1</body>
 	</string>
 	<string>
 		<id>901242</id>
 		<name>STR_Abyssrank_dark_10</name>
-		<body>Army 1-Star Officer</body>
+		<body>Oficial 1-Estrela</body>
 	</string>
 	<string>
 		<id>901243</id>
 		<name>STR_Abyssrank_dark_11</name>
-		<body>Army 2-Star Officer</body>
+		<body>Oficial 2-Estrelas</body>
 	</string>
 	<string>
 		<id>901244</id>
 		<name>STR_Abyssrank_dark_12</name>
-		<body>Army 3-Star Officer</body>
+		<body>Oficial 3-Estrelas</body>
 	</string>
 	<string>
 		<id>901245</id>
 		<name>STR_Abyssrank_dark_13</name>
-		<body>Army 4-Star Officer</body>
+		<body>Oficial 4-Estrelas</body>
 	</string>
 	<string>
 		<id>901246</id>
 		<name>STR_Abyssrank_dark_14</name>
-		<body>Army 5-Star Officer</body>
+		<body>Oficial 5-Estrelas</body>
 	</string>
 	<string>
 		<id>901247</id>
 		<name>STR_Abyssrank_dark_15</name>
-		<body>General</body>
+		<body>Major</body>
 	</string>
 	<string>
 		<id>901248</id>
 		<name>STR_Abyssrank_dark_16</name>
-		<body>Great General</body>
+		<body>Coronel</body>
 	</string>
 	<string>
 		<id>901249</id>
 		<name>STR_Abyssrank_dark_17</name>
-		<body>Commander</body>
+		<body>Comandante</body>
 	</string>
 	<string>
 		<id>901250</id>
 		<name>STR_Abyssrank_dark_18</name>
-		<body>Governor</body>
+		<body>Governador</body>
 	</string>
 	<string>
 		<id>901251</id>
 		<name>STR_HTML_QUEST_TASK_PRODUCT</name>
-		<body>&lt;p&gt; %0 ---- %1 pieces&lt;/p&gt;</body>
+		<body>&lt;p&gt; %0 ---- %1 peças&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901252</id>
@@ -8220,17 +8219,17 @@
 	<string>
 		<id>901257</id>
 		<name>STR_UI_FORCE_CHECK_READY</name>
-		<body>This process checks the battle readiness of the Alliance.</body>
+		<body>Este processo verifica se todos estão prontos na Aliança.</body>
 	</string>
 	<string>
 		<id>901258</id>
 		<name>STR_UI_FORCE_CHECKED_READY</name>
-		<body>%0 is asking whether you are battle-ready.</body>
+		<body>%0 está perguntando se você está pronto para a batalha!</body>
 	</string>
 	<string>
 		<id>901259</id>
 		<name>STR_MSGBOX_FORCE_LEAVE</name>
-		<body>Do you want to leave the Alliance?</body>
+		<body>Você quer sair da Aliança?</body>
 	</string>
 	<string>
 		<id>901260</id>
@@ -8265,32 +8264,32 @@
 	<string>
 		<id>901266</id>
 		<name>STR_POPUP_LEAVE</name>
-		<body>Leave</body>
+		<body>Sair</body>
 	</string>
 	<string>
 		<id>901267</id>
 		<name>STR_POPUP_PROMOTE</name>
-		<body>Appoint</body>
+		<body>Apontar</body>
 	</string>
 	<string>
 		<id>901268</id>
 		<name>STR_POPUP_DEMOTE</name>
-		<body>Demote</body>
+		<body>Rebaixar</body>
 	</string>
 	<string>
 		<id>901269</id>
 		<name>STR_POPUP_CHANGE_LEADER</name>
-		<body>Leader</body>
+		<body>Líder</body>
 	</string>
 	<string>
 		<id>901270</id>
 		<name>STR_POPUP_BANISH</name>
-		<body>Kick</body>
+		<body>Remover</body>
 	</string>
 	<string>
 		<id>901271</id>
 		<name>STR_POPUP_INVITE</name>
-		<body>Invite to Group</body>
+		<body>Convidar para o Grupo</body>
 	</string>
 	<string>
 		<id>901272</id>
@@ -8325,12 +8324,12 @@
 	<string>
 		<id>901278</id>
 		<name>STR_UI_FORCE_GROUP_TITLE</name>
-		<body>Group %0</body>
+		<body>Grupo %0</body>
 	</string>
 	<string>
 		<id>901279</id>
 		<name>STR_CHAT_MODE_PARTY_ALERT</name>
-		<body>Group Notification</body>
+		<body>Notificações de Grupo</body>
 	</string>
 	<string>
 		<id>901280</id>
@@ -8365,32 +8364,32 @@
 	<string>
 		<id>901286</id>
 		<name>STR_TOOLTIP_SKILL_ABNORMAL_NOFLY</name>
-		<body>Unable to Fly</body>
+		<body>Não é possível voar</body>
 	</string>
 	<string>
 		<id>901287</id>
 		<name>STR_TOOLTIP_SKILL_STAT_FLYSPEED</name>
-		<body>Flight Speed</body>
+		<body>Velocidade de vôo</body>
 	</string>
 	<string>
 		<id>901288</id>
 		<name>STR_POPUP_TACTICS_SIGN_SET</name>
-		<body>Choose Brand</body>
+		<body>Escolha uma Marcação</body>
 	</string>
 	<string>
 		<id>901289</id>
 		<name>STR_POPUP_TACTICS_SIGN_SIGN</name>
-		<body>Brand</body>
+		<body>Marcação</body>
 	</string>
 	<string>
 		<id>901290</id>
 		<name>STR_POPUP_TACTICS_SIGN_NUMBER</name>
-		<body>Number</body>
+		<body>Número</body>
 	</string>
 	<string>
 		<id>901291</id>
 		<name>STR_POPUP_TACTICS_SIGN_CANCEL</name>
-		<body>Unbrand</body>
+		<body>Desmarcar</body>
 	</string>
 	<string>
 		<id>901292</id>
@@ -8620,7 +8619,7 @@
 	<string>
 		<id>901337</id>
 		<name>STR_POS_LINK_TEXT</name>
-		<body>Location</body>
+		<body>Localização</body>
 	</string>
 	<string>
 		<id>901338</id>
@@ -8630,17 +8629,17 @@
 	<string>
 		<id>901339</id>
 		<name>STR_PARTY_MENU_LOOT_FREE_FOR_ALL</name>
-		<body>(Free for All)</body>
+		<body>(Livre Para Todos)</body>
 	</string>
 	<string>
 		<id>901340</id>
 		<name>STR_PARTY_MENU_LOOT_ROUND_ROBIN</name>
-		<body>(Round Robin)</body>
+		<body>(Rotação)</body>
 	</string>
 	<string>
 		<id>901341</id>
 		<name>STR_PARTY_MENU_LOOT_LEADER_ONLY</name>
-		<body>(Group Leader)</body>
+		<body>(Líder do Grupo)</body>
 	</string>
 	<string>
 		<id>901342</id>
@@ -8650,47 +8649,47 @@
 	<string>
 		<id>901343</id>
 		<name>STR_HTML_SHOW_REWARD_HEAD</name>
-		<body>&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;button font_xml=&quot;v3_quest_reward&quot; width=&quot;340&quot; height=&quot;28&quot; skin=&quot;v4_npcdlg_reward_button&quot; icon=&quot;v4_npcdlg_reward&quot; align=&quot;left&quot;&gt;Basic Reward&lt;/button&gt;&lt;/p&gt;</body>
+		<body>&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;button font_xml=&quot;v3_quest_reward&quot; width=&quot;340&quot; height=&quot;28&quot; skin=&quot;v4_npcdlg_reward_button&quot; icon=&quot;v4_npcdlg_reward&quot; align=&quot;left&quot;&gt;Recompensa Básica&lt;/button&gt;&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901344</id>
 		<name>STR_TUTORIAL_TITLE_CONTROL</name>
-		<body>Move</body>
+		<body>Mover</body>
 	</string>
 	<string>
 		<id>901345</id>
 		<name>STR_TUTORIAL_TITLE_QUEST</name>
-		<body>Quest</body>
+		<body>Tarefa</body>
 	</string>
 	<string>
 		<id>901346</id>
 		<name>STR_TUTORIAL_TITLE_COMBAT</name>
-		<body>Combat</body>
+		<body>Combate</body>
 	</string>
 	<string>
 		<id>901347</id>
 		<name>STR_TUTORIAL_TITLE_VILLIGE</name>
-		<body>Bind Point</body>
+		<body>Ponto de Nascimento</body>
 	</string>
 	<string>
 		<id>901348</id>
 		<name>STR_TUTORIAL_TITLE_MISSION</name>
-		<body>Campaign</body>
+		<body>Campanha</body>
 	</string>
 	<string>
 		<id>901349</id>
 		<name>STR_TUTORIAL_TITLE</name>
-		<body>Help for Beginners</body>
+		<body>Ajuda para Iniciantes</body>
 	</string>
 	<string>
 		<id>901350</id>
 		<name>STR_HTML_FAQ_BACK</name>
-		<body>&lt;p&gt;&lt;a href=&quot;back&quot;&gt;Back to List&lt;/a&gt;&lt;/p&gt;</body>
+		<body>&lt;p&gt;&lt;a href=&quot;back&quot;&gt;Voltar para a Lista&lt;/a&gt;&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901351</id>
 		<name>STR_HTML_FAQ_LIST</name>
-		<body>- FAQ List - &lt;/p&gt;</body>
+		<body>- Lista de FAQ - &lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901352</id>
@@ -8700,7 +8699,7 @@
 	<string>
 		<id>901353</id>
 		<name>STR_INVINCIBLE</name>
-		<body>Still loading.</body>
+		<body>Ainda carregando.</body>
 	</string>
 	<string>
 		<id>901354</id>
@@ -8710,7 +8709,7 @@
 	<string>
 		<id>901355</id>
 		<name>STR_TOOLTIP_FLYGAUGE_IS_FLYING</name>
-		<body>(Flying)</body>
+		<body>(Voando)</body>
 	</string>
 	<string>
 		<id>901356</id>
@@ -8720,7 +8719,7 @@
 	<string>
 		<id>901357</id>
 		<name>STR_TOOLTIP_PET_MODE_AUTO</name>
-		<body>Automatic</body>
+		<body>Automático</body>
 	</string>
 	<string>
 		<id>901358</id>
@@ -8735,32 +8734,32 @@
 	<string>
 		<id>901360</id>
 		<name>STR_TUTORIAL_TITLE_TALK</name>
-		<body>Chat</body>
+		<body>Bate-papo</body>
 	</string>
 	<string>
 		<id>901361</id>
 		<name>STR_TUTORIAL_TITLE_LOOT</name>
-		<body>Loot</body>
+		<body>'Loot'</body>
 	</string>
 	<string>
 		<id>901362</id>
 		<name>STR_TUTORIAL_TITLE_SKILL_DIALOG</name>
-		<body>Skills</body>
+		<body>Habilidades</body>
 	</string>
 	<string>
 		<id>901363</id>
 		<name>STR_TUTORIAL_TITLE_PARTY</name>
-		<body>Group</body>
+		<body>Grupo</body>
 	</string>
 	<string>
 		<id>901364</id>
 		<name>STR_TUTORIAL_TITLE_CHAT</name>
-		<body>Channel</body>
+		<body>Canal</body>
 	</string>
 	<string>
 		<id>901365</id>
 		<name>STR_TUTORIAL_TITLE_FLYMODE</name>
-		<body>Fly</body>
+		<body>Voar</body>
 	</string>
 	<string>
 		<id>901366</id>
@@ -8930,7 +8929,7 @@
 	<string>
 		<id>901399</id>
 		<name>STR_CHAT_MODE_ALERT</name>
-		<body>Alert</body>
+		<body>Alerta</body>
 	</string>
 	<string>
 		<id>901400</id>
@@ -8940,12 +8939,12 @@
 	<string>
 		<id>901401</id>
 		<name>STR_CHAR_MODE_CMD_ALERT</name>
-		<body>Alert</body>
+		<body>Alerta</body>
 	</string>
 	<string>
 		<id>901402</id>
 		<name>STR_TOOLTIP_GUILDWAREHOUSE</name>
-		<body>Unstorable in Legion Warehouse</body>
+		<body>Não pode colocar no Armazén da Legião</body>
 	</string>
 	<string>
 		<id>901403</id>
@@ -8960,17 +8959,17 @@
 	<string>
 		<id>901405</id>
 		<name>STR_GAUGE_NPC_TALKING</name>
-		<body>In use</body>
+		<body>Em uso</body>
 	</string>
 	<string>
 		<id>901406</id>
 		<name>STR_GAUGE_CONVERT</name>
-		<body>Converting</body>
+		<body>Convertendo</body>
 	</string>
 	<string>
 		<id>901407</id>
 		<name>STR_GAUGE_OPTION_GIVE</name>
-		<body>Socketing Manastone</body>
+		<body>Adicionando Manastone</body>
 	</string>
 	<string>
 		<id>901408</id>
@@ -8980,72 +8979,72 @@
 	<string>
 		<id>901409</id>
 		<name>STR_GAUGE_ITEM_DECOMPOSE</name>
-		<body>Extracting</body>
+		<body>Extraíndo</body>
 	</string>
 	<string>
 		<id>901412</id>
 		<name>STR_KEYMAP_SELECT_PET</name>
-		<body>Select Pet</body>
+		<body>Selecione o Pet</body>
 	</string>
 	<string>
 		<id>901413</id>
 		<name>STR_POPUP_PERSONAL_SHOP</name>
-		<body>Private Store</body>
+		<body>Loja Privada</body>
 	</string>
 	<string>
 		<id>901414</id>
 		<name>STR_ABYSS_NO_RANK</name>
-		<body>No Rank</body>
+		<body>Sem Rank</body>
 	</string>
 	<string>
 		<id>901415</id>
 		<name>STR_INVEN_NAME_0</name>
-		<body>Default Cube</body>
+		<body>Cubo Principal</body>
 	</string>
 	<string>
 		<id>901416</id>
 		<name>STR_INVEN_NAME_1</name>
-		<body>Cube 1</body>
+		<body>Cubo 1</body>
 	</string>
 	<string>
 		<id>901417</id>
 		<name>STR_INVEN_NAME_2</name>
-		<body>Cube 2</body>
+		<body>Cubo 2</body>
 	</string>
 	<string>
 		<id>901418</id>
 		<name>STR_INVEN_NAME_3</name>
-		<body>Cube 3</body>
+		<body>Cubo 3</body>
 	</string>
 	<string>
 		<id>901419</id>
 		<name>STR_INVEN_NAME_4</name>
-		<body>Cube 4</body>
+		<body>Cubo 4</body>
 	</string>
 	<string>
 		<id>901420</id>
 		<name>STR_INVEN_NAME_5</name>
-		<body>Cube 5</body>
+		<body>Cubo 5</body>
 	</string>
 	<string>
 		<id>901421</id>
 		<name>STR_INVEN_NAME_6</name>
-		<body>Cube 6</body>
+		<body>Cubo 6</body>
 	</string>
 	<string>
 		<id>901422</id>
 		<name>STR_INVEN_NAME_7</name>
-		<body>Cube 7</body>
+		<body>Cubo 7</body>
 	</string>
 	<string>
 		<id>901423</id>
 		<name>STR_INVEN_NAME_8</name>
-		<body>Cube 8</body>
+		<body>Cubo 8</body>
 	</string>
 	<string>
 		<id>901424</id>
 		<name>STR_UI_LOOT_TITLE_ROLL</name>
-		<body>Roll Dice</body>
+		<body>Rolar</body>
 	</string>
 	<string>
 		<id>901425</id>
@@ -9055,17 +9054,17 @@
 	<string>
 		<id>901426</id>
 		<name>STR_UI_LOOT_REMAIN_TIME</name>
-		<body>Remaining time: %0 sec</body>
+		<body>Tempo restante: %0 seg</body>
 	</string>
 	<string>
 		<id>901427</id>
 		<name>STR_UI_LOOT_BUTTON_ROLL</name>
-		<body>Roll Dice</body>
+		<body>Rolar</body>
 	</string>
 	<string>
 		<id>901428</id>
 		<name>STR_UI_LOOT_BUTTON_ACCOUNT</name>
-		<body>Enter Amount</body>
+		<body>Digite o Valor</body>
 	</string>
 	<string>
 		<id>901429</id>
@@ -9075,7 +9074,7 @@
 	<string>
 		<id>901430</id>
 		<name>STR_MSGBOX_LOOT_ACCOUNT_TITLE</name>
-		<body>Enter Amount</body>
+		<body>Digite o Valor</body>
 	</string>
 	<string>
 		<id>901431</id>
@@ -9085,12 +9084,12 @@
 	<string>
 		<id>901432</id>
 		<name>STR_POSLINK_MENU_DELETE</name>
-		<body>Delete</body>
+		<body>Remover</body>
 	</string>
 	<string>
 		<id>901433</id>
 		<name>STR_POSLINK_MENU_DELETE_ALL</name>
-		<body>Delete All</body>
+		<body>Remover Todos</body>
 	</string>
 	<string>
 		<id>901434</id>
@@ -9100,27 +9099,27 @@
 	<string>
 		<id>901435</id>
 		<name>STR_POSLINK_MENU_RENAME</name>
-		<body>Change Name</body>
+		<body>Alterar Nome</body>
 	</string>
 	<string>
 		<id>901436</id>
 		<name>STR_MSGBOX_LOOT_INFO</name>
-		<body>Set Default Distribution: %0</body>
+		<body>Nova Distribuição: %0</body>
 	</string>
 	<string>
 		<id>901437</id>
 		<name>STR_MSGBOX_LOOT_INFO_TITLE</name>
-		<body>Distribution Settings</body>
+		<body>Opções de Distribuição</body>
 	</string>
 	<string>
 		<id>901438</id>
 		<name>STR_UI_LOOT_OPTION</name>
-		<body>Distribution Settings</body>
+		<body>Opções de Distribuição</body>
 	</string>
 	<string>
 		<id>901439</id>
 		<name>STR_UI_LOOT_INFO</name>
-		<body>Confirm Distribution</body>
+		<body>Confirmar Distribuição</body>
 	</string>
 	<string>
 		<id>901440</id>
