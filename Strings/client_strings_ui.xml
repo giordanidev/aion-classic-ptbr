@@ -7024,7 +7024,7 @@
 	<string>
 		<id>900986</id>
 		<name>STR_SKILL_INFO_CHAINSKILL</name>
-		<body>Habilidades de Sequência</body>
+		<body>Sequência de Habilidades</body>
 	</string>
 	<string>
 		<id>900987</id>
@@ -7564,7 +7564,7 @@
 	<string>
 		<id>901100</id>
 		<name>STR_TOOLTIP_SKILL_SUBTYPE_SUMMON</name>
-		<body>Habilidades de 'Summon'</body>
+		<body>Habilidades de Invocação</body>
 	</string>
 	<string>
 		<id>901101</id>
@@ -7574,7 +7574,7 @@
 	<string>
 		<id>901102</id>
 		<name>STR_TOOLTIP_SKILL_SUBTYPE_HOMING</name>
-		<body>Habilidades de 'Summon'</body>
+		<body>Habilidades de Invocação</body>
 	</string>
 	<string>
 		<id>901103</id>
@@ -7909,22 +7909,22 @@
 	<string>
 		<id>901195</id>
 		<name>STR_VENDOR_KIND_SKILL</name>
-		<body>Relacionado a habilidades</body>
+		<body>Habilidades</body>
 	</string>
 	<string>
 		<id>901196</id>
 		<name>STR_VENDOR_KIND_STIGMA</name>
-		<body>Stigma</body>
+		<body>Stigmas</body>
 	</string>
 	<string>
 		<id>901197</id>
 		<name>STR_VENDOR_KIND_LEARN_BOOK</name>
-		<body>Livro de Habilidade</body>
+		<body>Livros</body>
 	</string>
 	<string>
 		<id>901198</id>
 		<name>STR_VENDOR_KIND_MAKING</name>
-		<body>Criação</body>
+		<body>Craft</body>
 	</string>
 	<string>
 		<id>901199</id>
@@ -7934,7 +7934,7 @@
 	<string>
 		<id>901200</id>
 		<name>STR_VENDOR_KIND_MAKING_RECIPE</name>
-		<body>Design</body>
+		<body>Designs</body>
 	</string>
 	<string>
 		<id>901201</id>
