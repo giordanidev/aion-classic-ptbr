@@ -1135,12 +1135,12 @@
 	<string>
 		<id>240065</id>
 		<name>STR_TOOLTIP_CHARACTERWAREHOUSE</name>
-		<body>Não armazenável</body>
+		<body>Não pode guardar</body>
 	</string>
 	<string>
 		<id>240066</id>
 		<name>STR_TOOLTIP_ACCOUNTWAREHOUSE</name>
-		<body>Não pode ser guardado no Armazén da Conta</body>
+		<body>Não pode ser guardado no Ba&uacute; da Conta</body>
 	</string>
 	<string>
 		<id>240067</id>
@@ -5516,17 +5516,17 @@
 	<string>
 		<id>900683</id>
 		<name>STR_WAREHOUSE_PERSONAL</name>
-		<body>Armazén (%0/%1)</body>
+		<body>Ba&uacute; (%0/%1)</body>
 	</string>
 	<string>
 		<id>900684</id>
 		<name>STR_WAREHOUSE_ACCOUNT</name>
-		<body>Armazén da Conta (%0/%1)</body>
+		<body>Ba&uacute; da Conta (%0/%1)</body>
 	</string>
 	<string>
 		<id>900685</id>
 		<name>STR_WAREHOUSE_GUILD</name>
-		<body>Armazén da Legião (%0/%1)</body>
+		<body>Ba&uacute; da Legião (%0/%1)</body>
 	</string>
 	<string>
 		<id>900686</id>
