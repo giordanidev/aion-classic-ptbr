@@ -9436,7 +9436,7 @@
 		<name>STR_ABYSS_REWARD_MAIL_OCCUPY_SENDER_LIGHT</name>
 		<body>Quartel-General de Sanctum</body>
 	</string>
-	<string>soldado de elite
+	<string>
 		<id>901503</id>
 		<name>STR_ABYSS_REWARD_MAIL_OCCUPY_TITLE_LIGHT</name>
 		<body>Aviso de Recompensa da Guerra</body>
@@ -10364,7 +10364,7 @@
 	<string>
 		<id>901689</id>
 		<name>STR_DESTROY_CASH_ITEM_CONFIRM</name>
-		<body>Você realmente deseja &lt;font color=&quot;ff0000&quot;&gt;DESTRUIR&lt;/font&gt; &lt;cor da fonte="ff0000"&gt; %0&lt;/font&gt;%?&lt;br&gt;&#xA;Este item não pode ser restaurado depois de destruído.</body>
+		<body>Você realmente deseja &lt;font color=&quot;ff0000&quot;&gt;DESTRUIR&lt;/font&gt; &lt;font color="ff0000"&gt; %0&lt;/font&gt;%?&lt;br&gt;&#xA;Este item não pode ser restaurado depois de destruído.</body>
 	</string>
 	<string>
 		<id>901690</id>
