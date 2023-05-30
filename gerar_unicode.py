@@ -1,45 +1,63 @@
-import sys
-import codecs
+import sys, os, codecs, shutil, subprocess
 
 def encode():
     files = [
-        ".\\PAK\\data\\strings\\client_strings_ui.xml",
-        ".\\PAK\\data\\strings\\stringtable_dialog.xml",
-        ".\\PAK\\data\\cutscene\\cs_ab1_001.xml"
+        "strings\\client_strings_ui.xml",
+        "strings\\stringtable_dialog.xml",
+        "cutscene\\cs_ab1_001.xml"
     ]
-    #path = ".\\strings"
-    #basename = "client_strings_ui_test.xml"
-    #filename = path + "\\" + basename
-    #file = open(filename, "rt")
+
     for filename in files:
-        print(filename)
-        f = codecs.open(filename, encoding='utf-8')
+        orig = ".\\"+filename
+        dest = ".\\PAK\\data_ptBR\\"+filename
+
+        print(f"Verifying if file exists: {dest}")
+        if os.path.isfile(dest):
+            print("File exists, removing.")
+            os.remove(dest)
+            print("File removed.")
+        else:
+            print("File doesn't exists.")
+        print(f"Copying orig: {orig} -> dest: {dest}")
+        shutil.copy2(orig, dest)
+        print("Copy success!")
+
+        f = codecs.open(dest, encoding='utf-8')
         contents = f.read()
         f.close
 
         char_unicode = {
-            "º": "&ordm;",
-            "ª": "&ordf;",
-            "à": "&agrave;",
-            "á": "&aacute;",
-            "â": "&acirc;",
-            "ã": "&atilde;",
+            "º": "&ordm;", "ª": "&ordf;",
+            "À": "&Agrave;", "Á": "&Aacute;", "Â": "&Acirc;", "Ã": "&Atilde;",
+            "à": "&agrave;", "á": "&aacute;", "â": "&acirc;", "ã": "&atilde;",
+            "Ç": "&Ccedil;",
             "ç": "&ccedil;",
-            "é": "&eacute;",
-            "ê": "&ecirc;",
+            "É": "&Eacute;", "Ê": "&Ecirc;",
+            "é": "&eacute;", "ê": "&ecirc;",
+            "Í": "&Iacute;",
             "í": "&iacute;",
-            "ó": "&oacute;",
-            "ô": "&ocirc;",
-            "õ": "&otilde;",
+            "Ó": "&Oacute;", "Ô": "&Ocirc;", "Õ": "&Otilde;",
+            "ó": "&oacute;", "ô": "&ocirc;", "õ": "&otilde;",
+            "Ú": "&Uacute;",
             "ú": "&uacute;",
-            "&apos;": "'",
-            "´": "'",
-            "`": "'"
+            "&apos;": "'", "´": "'", "`": "'"
         }
 
         contents="".join((char_unicode.get(x, x) for x in contents))
+        print("Replaced letters successfully!")
 
         f = open(filename, 'w', encoding='utf-8')
         f.write(contents)
+        print("File saved successfully!")
+
+    subprocess.check_call([r".\\Aion Encdec.exe", "-r data_ptBR.pak"])
+
+    print("Repacked successfully!")
+
+    print(f"Installing orig: '.\\REPACK\\data_ptBR.pak' -> dest: 'E:\\JOGOS\\aionclassic\\l10n\\ENG\\data\\data_ptBR.pak'")
+    shutil.copy2(".\\REPACK\\data_ptBR.pak", "E:\\JOGOS\\aionclassic\\l10n\\ENG\\data\\data_ptBR.pak")
+    shutil.copy2(".\\REPACK\\data_ptBR.pak", ".\\teste\\data_ptBR.pak")
+
+    print("Installed successfully!")
 
 encode()
