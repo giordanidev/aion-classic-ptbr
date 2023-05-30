@@ -54,9 +54,18 @@ def encode():
 
     print("Repacked successfully!")
 
-    print(f"Installing orig: '.\\REPACK\\data_ptBR.pak' -> dest: 'E:\\JOGOS\\aionclassic\\l10n\\ENG\\data\\data_ptBR.pak'")
-    shutil.copy2(".\\REPACK\\data_ptBR.pak", "E:\\JOGOS\\aionclassic\\l10n\\ENG\\data\\data_ptBR.pak")
-    shutil.copy2(".\\REPACK\\data_ptBR.pak", ".\\teste\\data_ptBR.pak")
+    orig_repack = ".\\REPACK\\data_ptBR.pak"
+    dest_repack = "E:\\JOGOS\\aionclassic\\l10n\\ENG\\data\\data_ptBR.pak"
+    dest_test = ".\\teste\\data_ptBR.pak"
+
+    print(f"Installing orig_repack: {orig_repack} -> dest_repack: '{dest_repack}'")
+    if os.path.isfile(dest_repack):
+            os.remove(dest_repack)
+    shutil.copy2(orig_repack, dest_repack)
+    
+    if os.path.isfile(dest_test):
+            os.remove(dest_test)
+    shutil.copy2(orig_repack, dest_test)
 
     print("Installed successfully!")
 
