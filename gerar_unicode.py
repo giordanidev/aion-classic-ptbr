@@ -46,7 +46,7 @@ def encode():
         contents="".join((char_unicode.get(x, x) for x in contents))
         print("Replaced letters successfully!")
 
-        f = open(filename, 'w', encoding='utf-8')
+        f = open(dest, 'w', encoding='utf-8')
         f.write(contents)
         print("File saved successfully!")
 
@@ -62,7 +62,7 @@ def encode():
     if os.path.isfile(dest_repack):
             os.remove(dest_repack)
     shutil.copy2(orig_repack, dest_repack)
-    
+
     if os.path.isfile(dest_test):
             os.remove(dest_test)
     shutil.copy2(orig_repack, dest_test)
