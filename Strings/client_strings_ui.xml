@@ -148,7 +148,7 @@
 	<string>
 		<id>50027</id>
 		<name>STR_ENSLAVE_RESURRECT_PET_DO_YOU_ACCEPT_PAY</name>
-		<body>Ressurreição de %0 (Nível %1) requer &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina2&lt;/font&gt;. Quer continuar?</body>
+		<body>Ressurreição de %0 (Nível %1) requer &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina2&lt;/font&gt;. deseja continuar?</body>
 	</string>
 	<string>
 		<id>50028</id>
@@ -243,7 +243,7 @@
 	<string>
 		<id>80000</id>
 		<name>STR_GUILD_CREATE_DO_YOU_ACCEPT_PAY</name>
-		<body>Criar uma Legião custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt; Kinah. Deseja continuar?</body>
+		<body>Criar uma Legião custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt;. Deseja continuar?</body>
 	</string>
 	<string>
 		<id>80001</id>
@@ -273,7 +273,7 @@
 	<string>
 		<id>80006</id>
 		<name>STR_GUILD_DO_YOU_LEAVE</name>
-		<body>Você tem certeza que quer sair da Legião %0?</body>
+		<body>Você tem certeza que deseja sair da Legião %0?</body>
 	</string>
 	<string>
 		<id>80007</id>
@@ -293,7 +293,7 @@
 	<string>
 		<id>80010</id>
 		<name>STR_GUILD_CHANGE_LEVEL_DO_YOU_ACCEPT_PAY</name>
-		<body>Subir o nível custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt; Kinah. Deseja continuar?</body>
+		<body>Subir o nível custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt;. Deseja continuar?</body>
 	</string>
 	<string>
 		<id>80011</id>
@@ -323,47 +323,47 @@
 	<string>
 		<id>90004</id>
 		<name>STR_ASK_EXTEND_INVENTORY_CONFIRM</name>
-		<body>Aumentar para o Cubo nível %0 custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina1&lt;/font&gt; Kinah. Prosseguir? Expansões de Cubo adicionais estão disponíveis na Loja: [%shoplink].</body>
+		<body>Aumentar para o Cubo nível %0 custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina1&lt;/font&gt;. Prosseguir? Expansões de Cubo adicionais estão disponíveis na Loja: [%shoplink].</body>
 	</string>
 	<string>
 		<id>90005</id>
 		<name>STR_ASK_EXTEND_CHAR_WAREHOUSE_CONFIRM</name>
-		<body>Aumentar o nível do Baú para %0 custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina1&lt;/font&gt; Kinah. Continuar?</body>
+		<body>Aumentar o nível do Baú para %0 custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina1&lt;/font&gt;. Continuar?</body>
 	</string>
 	<string>
 		<id>90006</id>
 		<name>STR_ASK_EXTEND_ACCOUNT_WAREHOUSE_CONFIRM</name>
-		<body>Aumentar o nível do Baú da Conta para %0 custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina1&lt;/font&gt; Kinah. Continuar?</body>
+		<body>Aumentar o nível do Baú da Conta para %0 custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina1&lt;/font&gt;. Continuar?</body>
 	</string>
 	<string>
 		<id>95000</id>
 		<name>STR_DECOMPOSE_ITEM_DO_YOU_EXTRACT_ITEM</name>
-		<body>&lt;p&gt;Você quer extrair Pedras de Encantamento de '%0'?&lt;/p&gt;&#xA;&lt;p&gt;Após a conclusão &lt;font color=&quot;ff0000&quot;&gt;%0&lt;/font&gt; será &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDO&lt;/font&gt;.&lt;/p&gt;</body>
+		<body>&lt;p&gt;Você deseja extrair Pedras de Encantamento de '%0'?&lt;/p&gt;&#xA;&lt;p&gt;Após a conclusão &lt;font color=&quot;ff0000&quot;&gt;%0&lt;/font&gt; será &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDO&lt;/font&gt;.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>95001</id>
 		<name>STR_ENCHANT_ITEM_DO_YOU_WANT_ENCHANT_ITEM</name>
-		<body>&lt;p&gt;Você quer Encantar '%0'?&lt;/p&gt;&#xA;&lt;p&gt;Se o processo falhar, o nível de Encantamento do item vai ser REDUZIDO por 1.&lt;/p&gt;</body>
+		<body>&lt;p&gt;Você deseja Encantar '%0'?&lt;/p&gt;&#xA;&lt;p&gt;Se o processo falhar, o nível de Encantamento do item vai ser REDUZIDO por 1.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>95002</id>
 		<name>STR_GIVE_ITEM_OPTION_DO_YOU_WANT_GIVE_OPTION</name>
-		<body>Você quer melhorar o item '%0' com a 'Manastone' '%1'?</body>
+		<body>Você deseja melhorar o item '%0' com a 'Manastone' '%1'?</body>
 	</string>
 	<string>
 		<id>95003</id>
 		<name>STR_GIVE_ITEM_OPTION_DO_YOU_WANT_GIVE_OPTION_WITH_WARNING</name>
-		<body>&lt;p&gt;Você quer melhorar o item '%0' com a 'Manastone' &apos;%1&apos;?&lt;/p&gt;&#xA;&lt;p&gt;Se o processo falhar, todas as 'manastones' encaixadas no item '%0' serão &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDAS&lt;/font&gt;.&lt;/p&gt;</body>
+		<body>&lt;p&gt;Você deseja melhorar o item '%0' com a 'Manastone' &apos;%1&apos;?&lt;/p&gt;&#xA;&lt;p&gt;Se o processo falhar, todas as 'manastones' encaixadas no item '%0' serão &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDAS&lt;/font&gt;.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>95004</id>
 		<name>STR_REMOVE_ITEM_OPTION_DO_YOU_WANT_REMOVE_OPTION</name>
-		<body>&lt;p&gt;Remover a 'Manastone' '%1' do item '%0' custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%num2&lt;/font&gt; Kinah. &lt;/p&gt;&#xA;&lt;p&gt;Você quer remover a 'Manastone'?&lt;/p&gt;</body>
+		<body>&lt;p&gt;Remover a 'Manastone' '%1' do item '%0' custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%num2&lt;/font&gt;. &lt;/p&gt;&#xA;&lt;p&gt;Você quer remover a 'Manastone'?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>95005</id>
 		<name>STR_CHANGE_ITEM_SKIN_DO_YOU_WANT_CHANGE_SKIN</name>
-		<body>&lt;p&gt;Modificar a aparência do item '%0' custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%num2&lt;/font&gt; Kinah. Uma vez concluído, o item &lt;font color=&quot;ff0000&quot;&gt;%1&lt;/font&gt; será &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDO&lt;/font&gt;.&lt;/p&gt;</body>
+		<body>&lt;p&gt;Modificar a aparência do item '%0' custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%num2&lt;/font&gt; Uma vez concluído, o item &lt;font color=&quot;ff0000&quot;&gt;%1&lt;/font&gt; será &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDO&lt;/font&gt;.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>95006</id>
@@ -373,7 +373,7 @@
 	<string>
 		<id>95007</id>
 		<name>STR_GIVE_ITEM_PROC_DO_YOU_WANT_GIVE_PROC</name>
-		<body>&lt;p&gt;Melhorar '%0' com a Godstone '%1' custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%num2&lt;/font&gt; Kinah.&lt;/p&gt;&#xA;&lt;p&gt;Qualquer Godstone previamente encaixada será substituída.&lt;/p&gt;&#xA;&lt;p&gt;Prosseguir?&lt;/p&gt;</body>
+		<body>&lt;p&gt;Melhorar '%0' com a Godstone '%1' custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%num2&lt;/font&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Qualquer Godstone previamente encaixada será substituída.&lt;/p&gt;&#xA;&lt;p&gt;Prosseguir?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>95008</id>
@@ -388,12 +388,12 @@
 	<string>
 		<id>140000</id>
 		<name>STR_GATHER_SKILLUP_CONFIRM</name>
-		<body>Aumentar o nível de Coleta para '%0' custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina1&lt;/font&gt; Kinah. Tem certeza que deseja prosseguir?</body>
+		<body>Aumentar o nível de Coleta para '%0' custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina1&lt;/font&gt;. Tem certeza que deseja prosseguir?</body>
 	</string>
 	<string>
 		<id>140001</id>
 		<name>STR_COMBINE_SKILLUP_CONFIRM</name>
-		<body>Aumentar o nível de 'Combine (não identificado)' para '%0' custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina1&lt;/font&gt; Kinah. Tem certeza que deseja prosseguir?</body>
+		<body>Aumentar o nível de 'Combine (não identificado)' para '%0' custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina1&lt;/font&gt;. Tem certeza que deseja prosseguir?</body>
 	</string>
 	<string>
 		<id>140002</id>
@@ -418,7 +418,7 @@
 	<string>
 		<id>160001</id>
 		<name>STR_VENDOR_CONFIRM_SELL</name>
-		<body>Você está vendendo este item por &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt; Kinah. Esse será o seu item registrado de número %num1, então uma taxa de registro nível %2 será aplicada. Sendo assim, a nova taxa é &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina3&lt;/font&gt; Kinah. Continuar?</body>
+		<body>Você está vendendo este item por &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt;. Esse será o seu item registrado de número %num1, então uma taxa de registro nível %2 será aplicada. Sendo assim, a nova taxa é &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina3&lt;/font&gt;. Continuar?</body>
 	</string>
 	<string>
 		<id>160002</id>
@@ -428,7 +428,7 @@
 	<string>
 		<id>160003</id>
 		<name>STR_VENDOR_BUY_CONFIRM_PURCHASE</name>
-		<body>O preço de compra é &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt; Kinah. Comprar?</body>
+		<body>O preço de compra é &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt; Comprar?</body>
 	</string>
 	<string>
 		<id>160005</id>
@@ -463,17 +463,17 @@
 	<string>
 		<id>160011</id>
 		<name>STR_ASK_RECOVER_EXPERIENCE</name>
-		<body>&lt;p&gt;Você pode restaurar a experiência e remover o efeito de ressurreição se sua alma for curada. A 'cura da alma' requer &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt; Kinah.&lt;/p&gt;&#xA;&lt;p&gt;Você quer curar sua alma?&lt;/p&gt;</body>
+		<body>&lt;p&gt;Você pode restaurar a experiência e remover o efeito de ressurreição se sua alma for curada. A 'cura da alma' requer &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Você quer curar sua alma?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>160012</id>
 		<name>STR_ASK_REGISTER_RESURRECT_POINT</name>
-		<body>Salvar a ressurreição neste local custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt; Kinah. Prosseguir?</body>
+		<body>Salvar a ressurreição neste local custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt;. Prosseguir?</body>
 	</string>
 	<string>
 		<id>160013</id>
 		<name>STR_TELEPORT_NEED_CONFIRM</name>
-		<body>Viajar para %0 custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina1&lt;/font&gt; Kinah. Prosseguir?</body>
+		<body>Viajar para %0 custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina1&lt;/font&gt;. Prosseguir?</body>
 	</string>
 	<string>
 		<id>160014</id>
@@ -503,7 +503,7 @@
 	<string>
 		<id>160019</id>
 		<name>STR_ASK_PASS_BY_DIRECT_PORTAL</name>
-		<body>Você quer se teletransportar pelo Rift?</body>
+		<body>Você deseja se teletransportar pelo Rift?</body>
 	</string>
 	<string>
 		<id>160020</id>
@@ -533,7 +533,7 @@
 	<string>
 		<id>160029</id>
 		<name>STR_TELEPORT_NEED_CONFIRM2</name>
-		<body>Viajar para %0 custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina1&lt;/font&gt; Kinah. Prosseguir?</body>
+		<body>Viajar para %0 custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina1&lt;/font&gt;. Prosseguir?</body>
 	</string>
 	<string>
 		<id>160030</id>
@@ -733,7 +733,7 @@
 	<string>
 		<id>230034</id>
 		<name>STR_CMD_HELP_DESC</name>
-		<body>- Lista de Comandos - \nSussurrar: &apos;[nome do personagem] [mensagem], Gritar: ![mensagem], Chat de Grupo: #[mensagem], Chat da Legião: @[mensagem], Chat de Trocas: $[mensagem], Convidar para o Grupo: /Invite [nome do personagem], Sair do Grupo: /Leave, Expulsar do Grupo: /Kick [nome do personagem], Convidar para a Legião: /InviteToLegion [nome do personagem], Sair da Legião: /LeaveLegion, Expulsar da Legião: /KickFromLegion [nome do personagem]</body>
+		<body>- Lista de Comandos - \nMensagem Privada: &apos;[nome do personagem] [mensagem], Gritar: ![mensagem], Chat de Grupo: #[mensagem], Chat da Legião: @[mensagem], Chat de Trocas: $[mensagem], Convidar para o Grupo: /Invite [nome do personagem], Sair do Grupo: /Leave, Expulsar do Grupo: /Kick [nome do personagem], Convidar para a Legião: /InviteToLegion [nome do personagem], Sair da Legião: /LeaveLegion, Expulsar da Legião: /KickFromLegion [nome do personagem]</body>
 	</string>
 	<string>
 		<id>230035</id>
@@ -1210,7 +1210,7 @@
 	<string>
 		<id>240080</id>
 		<name>STR_TOOLTIP_QUEST_ITEM</name>
-		<body>Item de quest</body>
+		<body>Item de Tarefa</body>
 	</string>
 	<string>
 		<id>240081</id>
@@ -1370,7 +1370,7 @@
 	<string>
 		<id>240112</id>
 		<name>STR_TOOLTIP_TARGET</name>
-		<body>Álvo</body>
+		<body>Alvo</body>
 	</string>
 	<string>
 		<id>240113</id>
@@ -1390,12 +1390,12 @@
 	<string>
 		<id>240116</id>
 		<name>STR_TOOLTIP_SINGLETARGET</name>
-		<body>Álvo selecionado.</body>
+		<body>Alvo selecionado.</body>
 	</string>
 	<string>
 		<id>240117</id>
 		<name>STR_TOOLTIP_AREA</name>
-		<body>Área ao redor do conjurador.</body>
+		<body>Área ao redor do 'caster'.</body>
 	</string>
 	<string>
 		<id>240118</id>
@@ -1410,12 +1410,12 @@
 	<string>
 		<id>240120</id>
 		<name>STR_TOOLTIP_ALLWEAPON</name>
-		<body>Pode usar todas as armas.</body>
+		<body>Pode usar com todas as armas.</body>
 	</string>
 	<string>
 		<id>240121</id>
 		<name>STR_TOOLTIP_REQUIRED_SWORD</name>
-		<body>Disponível quando equipado com uma espada.</body>
+		<body>Disponível quando equipado com uma Espada.</body>
 	</string>
 	<string>
 		<id>240122</id>
@@ -1425,22 +1425,22 @@
 	<string>
 		<id>240123</id>
 		<name>STR_TOOLTIP_REQUIRED_DAGGER</name>
-		<body>Disponível quando equipado com uma adaga.</body>
+		<body>Disponível quando equipado com uma Adaga.</body>
 	</string>
 	<string>
 		<id>240124</id>
 		<name>STR_TOOLTIP_REQUIRED_MACE</name>
-		<body>Disponível quando equipado com uma mace.</body>
+		<body>Disponível quando equipado com uma Mace.</body>
 	</string>
 	<string>
 		<id>240125</id>
 		<name>STR_TOOLTIP_REQUIRED_ORB</name>
-		<body>Disponível quando equipado com um orb.</body>
+		<body>Disponível quando equipado com um Orb.</body>
 	</string>
 	<string>
 		<id>240126</id>
 		<name>STR_TOOLTIP_REQUIRED_BOOK</name>
-		<body>Disponível quando equipado com um livro de feitiços.</body>
+		<body>Disponível quando equipado com um Livro de Feitiços.</body>
 	</string>
 	<string>
 		<id>240127</id>
@@ -1450,12 +1450,12 @@
 	<string>
 		<id>240128</id>
 		<name>STR_TOOLTIP_REQUIRED_WAND</name>
-		<body>Disponível quando equipado com um cetro.</body>
+		<body>Disponível quando equipado com um Cetro.</body>
 	</string>
 	<string>
 		<id>240129</id>
 		<name>STR_TOOLTIP_REQUIRED_TWOHANDEDSWORD</name>
-		<body>Disponível quando equipado com uma espada longa.</body>
+		<body>Disponível quando equipado com uma Espada Longa.</body>
 	</string>
 	<string>
 		<id>240130</id>
@@ -1465,17 +1465,17 @@
 	<string>
 		<id>240131</id>
 		<name>STR_TOOLTIP_REQUIRED_SCYTHE</name>
-		<body>Disponível quando equipado com uma foice.</body>
+		<body>Disponível quando equipado com uma Foice.</body>
 	</string>
 	<string>
 		<id>240132</id>
 		<name>STR_TOOLTIP_REQUIRED_POLEARM</name>
-		<body>Disponível quando equipado com uma foice.</body>
+		<body>Disponível quando equipado com uma Foice.</body>
 	</string>
 	<string>
 		<id>240133</id>
 		<name>STR_TOOLTIP_REQUIRED_STAFF</name>
-		<body>Disponível quando equipado com um cetro.</body>
+		<body>Disponível quando equipado com um Cetro.</body>
 	</string>
 	<string>
 		<id>240134</id>
@@ -1495,7 +1495,7 @@
 	<string>
 		<id>240137</id>
 		<name>STR_TOOLTIP_REQUIRED_BOW</name>
-		<body>Disponível quando equipado com um arco.</body>
+		<body>Disponível quando equipado com um Arco.</body>
 	</string>
 	<string>
 		<id>240138</id>
@@ -2509,7 +2509,7 @@
 	<string>
 		<id>240341</id>
 		<name>STR_POPUP_WHISPER</name>
-		<body>Sussurrar</body>
+		<body>Mensagem Privada</body>
 	</string>
 	<string>
 		<id>240342</id>
@@ -2879,12 +2879,12 @@
 	<string>
 		<id>900054</id>
 		<name>STR_KEYMAP_STARTCHAT</name>
-		<body>Enter Dialog</body>
+		<body>Iniciar Chat</body>
 	</string>
 	<string>
 		<id>900055</id>
 		<name>STR_KEYMAP_STARTWHISPERREPLY</name>
-		<body>Responder Sussurro</body>
+		<body>Responder Mensagem Privada</body>
 	</string>
 	<string>
 		<id>900056</id>
@@ -3376,7 +3376,7 @@
 	<string>
 		<id>900255</id>
 		<name>STR_ATTACK</name>
-		<body>Dano</body>
+		<body>Dano Físico</body>
 	</string>
 	<string>
 		<id>900256</id>
@@ -3876,7 +3876,7 @@
 	<string>
 		<id>900355</id>
 		<name>STR_PERSONAL_SHOP_MSG_EXCESSIVE_PRICE</name>
-		<body>O preço deste item está acima do normal. Tem certeza que quer comprar?</body>
+		<body>O preço deste item está acima do normal. Tem certeza que deseja comprar?</body>
 	</string>
 	<string>
 		<id>900356</id>
@@ -3891,7 +3891,7 @@
 	<string>
 		<id>900358</id>
 		<name>STR_MAIL_CONFIRM_SENDING</name>
-		<body>A taxa dos correios é de &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt; Kinah. Deseja enviar a carta para %1?</body>
+		<body>A taxa dos correios é de &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt;. Deseja enviar a carta para %1?</body>
 	</string>
 	<string>
 		<id>900359</id>
@@ -4406,7 +4406,7 @@
 	<string>
 		<id>900461</id>
 		<name>STR_ITEMINFO_DAMAGE</name>
-		<body>Dano</body>
+		<body>Dano Físico</body>
 	</string>
 	<string>
 		<id>900462</id>
@@ -4521,12 +4521,12 @@
 	<string>
 		<id>900484</id>
 		<name>STR_TOOLTIP_USE_LEVEL</name>
-		<body>Disponível para o Nível %0 ou acima</body>
+		<body>Disponível para o nível %0 ou acima</body>
 	</string>
 	<string>
 		<id>900485</id>
 		<name>STR_TOOLTIP_USE_CLASS_LEVEL</name>
-		<body>Disponível para %0 Nível %1 ou acima</body>
+		<body>Disponível para %0 nível %1 ou acima</body>
 	</string>
 	<string>
 		<id>900486</id>
@@ -4576,12 +4576,12 @@
 	<string>
 		<id>900495</id>
 		<name>STR_CONFIRM_LOOT</name>
-		<body>'%0' não pode ser trocado. Você tem certeza que quer adquirir?</body>
+		<body>'%0' não pode ser trocado. Você tem certeza que deseja adquirir?</body>
 	</string>
 	<string>
 		<id>900496</id>
 		<name>STR_TOOLTIP_NOCASTDELAY</name>
-		<body>Conjurar Instantâneamente</body>
+		<body>Cast Instantâneo</body>
 	</string>
 	<string>
 		<id>900497</id>
@@ -4591,7 +4591,7 @@
 	<string>
 		<id>900498</id>
 		<name>STR_TOOLTIP_CASTDELAY</name>
-		<body>Tempo de Conjuração</body>
+		<body>Tempo de Cast</body>
 	</string>
 	<string>
 		<id>900499</id>
@@ -5046,7 +5046,7 @@
 	<string>
 		<id>900589</id>
 		<name>STR_TOOLTIP_SKILL_STAT_AROPENAREIAL</name>
-		<body>Aether&apos;s Hold Resist</body>
+		<body>Aether's Hold Resist</body>
 	</string>
 	<string>
 		<id>900590</id>
@@ -5376,7 +5376,7 @@
 	<string>
 		<id>900655</id>
 		<name>STR_BUY_SELL_REMAIN_BASKET_CLOSEDIALOG</name>
-		<body>Ainda há itens no seu Carrinho de Compras. Tem certeza que você quer fechar a janela?</body>
+		<body>Ainda há itens no seu Carrinho de Compras. Tem certeza que você deseja fechar a janela?</body>
 	</string>
 	<string>
 		<id>900656</id>
@@ -5471,7 +5471,7 @@
 	<string>
 		<id>900674</id>
 		<name>STR_GUILD_CHANGE_TITLE</name>
-		<body>Você quer alterar o título de %0 de %1 para %2?</body>
+		<body>Você deseja alterar o título de %0 de %1 para %2?</body>
 	</string>
 	<string>
 		<id>900675</id>
@@ -5516,22 +5516,22 @@
 	<string>
 		<id>900683</id>
 		<name>STR_WAREHOUSE_PERSONAL</name>
-		<body>Ba&uacute; (%0/%1)</body>
+		<body>Baú (%0/%1)</body>
 	</string>
 	<string>
 		<id>900684</id>
 		<name>STR_WAREHOUSE_ACCOUNT</name>
-		<body>Ba&uacute; da Conta (%0/%1)</body>
+		<body>Baú da Conta (%0/%1)</body>
 	</string>
 	<string>
 		<id>900685</id>
 		<name>STR_WAREHOUSE_GUILD</name>
-		<body>Ba&uacute; da Legião (%0/%1)</body>
+		<body>Baú da Legião (%0/%1)</body>
 	</string>
 	<string>
 		<id>900686</id>
 		<name>STR_WAREHOUSE_EXPAND_WARNING</name>
-		<body>&lt;p&gt;Para expandir o cuvo você precisa de &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt; Kinah.&lt;/p&gt;&#xA;&lt;p&gt;Você quer expandir?&lt;/p&gt;</body>
+		<body>&lt;p&gt;Para expandir o cubo você precisa de &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt;.&lt;/p&gt;&#xA;&lt;p&gt; Você deseja expandir?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>900687</id>
@@ -5680,7 +5680,7 @@
 	<string>
 		<id>900717</id>
 		<name>STR_TOOLTIP_SKILL_STAT_ARSTUN_LIKE</name>
-		<body>Resistência à Stun, Knock Back, Stumble, Spin, e Aether&apos;s Hold</body>
+		<body>Resistência à Stun, Knock Back, Stumble, Spin, e Aether's Hold</body>
 	</string>
 	<string>
 		<id>900718</id>
@@ -5759,7 +5759,7 @@
 	<string>
 		<id>900733</id>
 		<name>STR_SELECT_STAGE_MSG_INPUT_DELETE_NOW</name>
-		<body>Se você remover o personagem, os itens no inventário, baú privado e 'mail' também serão removidos. Se você ainda quer remover seu personagem, por favor escreva &apos;%0&apos;.</body>
+		<body>Se você remover o personagem, os itens no inventário, baú privado e 'mail' também serão removidos. Se você ainda deseja remover seu personagem, por favor escreva &apos;%0&apos;.</body>
 	</string>
 	<string>
 		<id>900734</id>
@@ -5834,7 +5834,7 @@
 	<string>
 		<id>900748</id>
 		<name>STR_CHAT_MODE_WHISPER</name>
-		<body>Sussurrar para %0</body>
+		<body>Mensagem Privada para %0</body>
 	</string>
 	<string>
 		<id>900749</id>
@@ -6069,12 +6069,12 @@
 	<string>
 		<id>900795</id>
 		<name>STR_CRAFTWINDOW_REQUIRE_DP</name>
-		<body>DP Necessária: %num0 DP</body>
+		<body>DP Necessária: %num0</body>
 	</string>
 	<string>
 		<id>900796</id>
 		<name>STR_TOOLTIP_SKILL_CHAIN_PROB</name>
-		<body>Chance de Ativar a\nPróxima Habilidade</body>
+		<body>Ativar Próx. Habil.</body>
 	</string>
 	<string>
 		<id>900797</id>
@@ -6154,7 +6154,7 @@
 	<string>
 		<id>900812</id>
 		<name>STR_KEYMAP_TOGGLEDIALOG_PROPHET</name>
-		<body>Book of Prophecy</body>
+		<body>Livro de Profecia</body>
 	</string>
 	<string>
 		<id>900813</id>
@@ -6214,7 +6214,7 @@
 	<string>
 		<id>900824</id>
 		<name>STR_ITEM_PRICE_EXCHANGE</name>
-		<body>Quanto você quer registrar?</body>
+		<body>Quanto você deseja registrar?</body>
 	</string>
 	<string>
 		<id>900825</id>
@@ -6354,7 +6354,7 @@
 	<string>
 		<id>900852</id>
 		<name>STR_CRAFT_ADDSKILL_CONFIRM</name>
-		<body>To upgrade the %0 skill, you need &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina1&lt;/font&gt;. Are you sure you want to upgrade the skill?</body>
+		<body>Para atualizar a habilidade %0, você precisa de &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina1&lt;/font&gt;. Tem certeza de que deseja atualizar a habilidade?</body>
 	</string>
 	<string>
 		<id>900853</id>
@@ -6559,7 +6559,7 @@
 	<string>
 		<id>900893</id>
 		<name>STR_ITEM_PRICE_DLG_ADD_GOLD_TEXT</name>
-		<body>Por favor, digite a quantidade de Kinah que você quer transferir.</body>
+		<body>Por favor, digite a quantidade de Kinah que você deseja transferir.</body>
 	</string>
 	<string>
 		<id>900894</id>
@@ -6609,27 +6609,27 @@
 	<string>
 		<id>900903</id>
 		<name>STR_MSG_DO_INPUT_GUILD_BANISH_NAME</name>
-		<body>Please enter the name of the Legion member you want to kick out.</body>
+		<body>Digite o nome do membro da Legião que você deseja expulsar.</body>
 	</string>
 	<string>
 		<id>900904</id>
 		<name>STR_PARTY_READER_CHANGE</name>
-		<body>Are you sure you want to change the group leader to %0?</body>
+		<body>Tem certeza de que deseja alterar o líder do grupo para %0?</body>
 	</string>
 	<string>
 		<id>900905</id>
 		<name>STR_PARTY_MEMBER_BANISH_CHECK</name>
-		<body>Are you sure you want to kick %0 from the group?</body>
+		<body>Tem certeza de que deseja expulsar %0 do grupo?</body>
 	</string>
 	<string>
 		<id>900906</id>
 		<name>STR_KEYMAP_OVERLAP_INFO</name>
-		<body>This shortcut key is already being used for [%0].</body>
+		<body>Esta tecla de atalho já está sendo usada para [%0].</body>
 	</string>
 	<string>
 		<id>900907</id>
 		<name>STR_HTML_QUEST_HEAD</name>
-		<body>&lt;p&gt;&lt;font font_xml=&quot;v3_quest_title&quot;&gt;Level %d %s&lt;/font&gt;&lt;/p&gt;</body>
+		<body>&lt;p&gt;&lt;font font_xml=&quot;v3_quest_title&quot;&gt;Nível %d %s&lt;/font&gt;&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>900908</id>
@@ -6834,32 +6834,32 @@
 	<string>
 		<id>900948</id>
 		<name>STR_HTML_QUEST_NO_SUMMARY</name>
-		<body>&lt;html&gt;&lt;body&gt;&lt;p&gt;&lt;font font_xml=&quot;quest_summary&quot;&gt;Cannot load the data for the selected quest.&lt;/font&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</body>
+		<body>&lt;html&gt;&lt;body&gt;&lt;p&gt;&lt;font font_xml=&quot;quest_summary&quot;&gt;Não é possível carregar os dados da missão selecionada.&lt;/font&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</body>
 	</string>
 	<string>
 		<id>900949</id>
 		<name>STR_HTML_QUEST_WAITING_MISSION</name>
-		<body>&lt;html&gt;&lt;body&gt;&lt;p&gt;&lt;font font_xml=&quot;quest_summary&quot;&gt;You must complete all the campaign quests in %0 to continue.&lt;/font&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</body>
+		<body>&lt;html&gt;&lt;body&gt;&lt;p&gt;&lt;font font_xml=&quot;quest_summary&quot;&gt;Você deve completar todas as missões de Campanha em %0 para continuar.&lt;/font&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</body>
 	</string>
 	<string>
 		<id>900950</id>
 		<name>STR_HTML_QUEST_WAITING_MISSION_CONCRETE</name>
-		<body>&lt;html&gt;&lt;body&gt;&lt;p&gt;&lt;font font_xml=&quot;quest_summary&quot;&gt;You must complete the %0 campaign quest to continue.&lt;/font&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</body>
+		<body>&lt;html&gt;&lt;body&gt;&lt;p&gt;&lt;font font_xml=&quot;quest_summary&quot;&gt;Você deve completar a missão de Campanha %0 para continuar.&lt;/font&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</body>
 	</string>
 	<string>
 		<id>900951</id>
 		<name>STR_TOOLTIP_SKILL_ATTACK_TYPE_PHYSICAL</name>
-		<body>Physical Attack Skill</body>
+		<body>Habilidade de Dano Físico</body>
 	</string>
 	<string>
 		<id>900952</id>
 		<name>STR_TOOLTIP_SKILL_ATTACK_TYPE_MAGICAL</name>
-		<body>Magical Attack Skill</body>
+		<body>Habilidade de Dano Mágico</body>
 	</string>
 	<string>
 		<id>900953</id>
 		<name>STR_TOOLTIP_SKILL_ATTACK_TYPE_ALL</name>
-		<body>All Attack Skills</body>
+		<body>Todas as Habilidades de Ataque</body>
 	</string>
 	<string>
 		<id>900954</id>
@@ -6869,7 +6869,7 @@
 	<string>
 		<id>900955</id>
 		<name>STR_TOOLTIP_SKILL_EFFECT_TARGET_CASTOR_PARTY</name>
-		<body>Caster and Group Member</body>
+		<body>Caster e membro do grupo</body>
 	</string>
 	<string>
 		<id>900956</id>
@@ -6984,22 +6984,22 @@
 	<string>
 		<id>900978</id>
 		<name>STR_LOGIN_ERROR_FORBIDDEN_NAME</name>
-		<body>Please try another name.</body>
+		<body>Por favor, tente outro nome.</body>
 	</string>
 	<string>
 		<id>900979</id>
 		<name>STR_LOGIN_ERROR_RESERVED_NAME</name>
-		<body>Please try another name.</body>
+		<body>Por favor, tente outro nome.</body>
 	</string>
 	<string>
 		<id>900980</id>
 		<name>STR_LOGIN_ERROR_HAS_MULTIPLE_RACE</name>
-		<body>You cannot create characters from multiple factions on the same server.</body>
+		<body>Você não pode criar personagens de várias facções no mesmo servidor.</body>
 	</string>
 	<string>
 		<id>900981</id>
 		<name>STR_TRADE_WARNING_ABYSS_RANKDOWN</name>
-		<body>If you confirm the purchase, your Abyss rank will drop. Do you want to continue?</body>
+		<body>Se você confirmar a compra, seu Abyss Rank cairá. Você deseja continuar?</body>
 	</string>
 	<string>
 		<id>900982</id>
@@ -7154,7 +7154,7 @@
 	<string>
 		<id>901012</id>
 		<name>STR_TOOLTIP_STORELIST_ITEM</name>
-		<body>Private Store Items</body>
+		<body>Itens de Loja Privada</body>
 	</string>
 	<string>
 		<id>901013</id>
@@ -8079,12 +8079,12 @@
 	<string>
 		<id>901229</id>
 		<name>STR_Abyssrank_light_15</name>
-		<body>Major</body>
+		<body>General</body>
 	</string>
 	<string>
 		<id>901230</id>
 		<name>STR_Abyssrank_light_16</name>
-		<body>Coronel</body>
+		<body>General de Divisão</body>
 	</string>
 	<string>
 		<id>901231</id>
@@ -8094,7 +8094,7 @@
 	<string>
 		<id>901232</id>
 		<name>STR_Abyssrank_light_18</name>
-		<body>Governador</body>
+		<body>Marechal</body>
 	</string>
 	<string>
 		<id>901233</id>
@@ -8229,7 +8229,7 @@
 	<string>
 		<id>901259</id>
 		<name>STR_MSGBOX_FORCE_LEAVE</name>
-		<body>Você quer sair da Aliança?</body>
+		<body>Você deseja sair da Aliança?</body>
 	</string>
 	<string>
 		<id>901260</id>
@@ -8939,12 +8939,12 @@
 	<string>
 		<id>901401</id>
 		<name>STR_CHAR_MODE_CMD_ALERT</name>
-		<body>Alerta</body>
+		<body>/Alert</body>
 	</string>
 	<string>
 		<id>901402</id>
 		<name>STR_TOOLTIP_GUILDWAREHOUSE</name>
-		<body>Não pode colocar no Baú da Legião</body>
+		<body>Não pode guardar no Baú da Legião</body>
 	</string>
 	<string>
 		<id>901403</id>
@@ -10770,7 +10770,7 @@
 	<string>
 		<id>901775</id>
 		<name>STR_TOOLTIP_ITEMINFO_QUEST</name>
-		<body>Quest</body>
+		<body>Tarefa</body>
 	</string>
 	<string>
 		<id>901776</id>
@@ -10785,82 +10785,82 @@
 	<string>
 		<id>901778</id>
 		<name>STR_TOOLTIP_SKILLINFO_COST_START</name>
-		<body>Casting Cost</body>
+		<body>Custo de Uso</body>
 	</string>
 	<string>
 		<id>901779</id>
 		<name>STR_TOOLTIP_SKILLINFO_COST_END</name>
-		<body>Usage Cost</body>
+		<body>Custo de Uso</body>
 	</string>
 	<string>
 		<id>901780</id>
 		<name>STR_TOOLTIP_SLAYER_LIGHT_G1_NAME</name>
-		<body>Azphel&apos;s Curse</body>
+		<body>Maldição de Azphel</body>
 	</string>
 	<string>
 		<id>901781</id>
 		<name>STR_TOOLTIP_SLAYER_LIGHT_G2_NAME</name>
-		<body>Azphel&apos;s Divine Punishment</body>
+		<body>Castigo Divino de Azphel</body>
 	</string>
 	<string>
 		<id>901782</id>
 		<name>STR_TOOLTIP_SLAYER_DARK_G1_NAME</name>
-		<body>Ariel&apos;s Curse</body>
+		<body>Maldição de Ariel</body>
 	</string>
 	<string>
 		<id>901783</id>
 		<name>STR_TOOLTIP_SLAYER_DARK_G2_NAME</name>
-		<body>Ariel&apos;s Divine Punishment</body>
+		<body>Castigo Divino de Ariel</body>
 	</string>
 	<string>
 		<id>901784</id>
 		<name>STR_TOOLTIP_SLAYER_LIGHT_G1_BODY</name>
-		<body>You defeated countless low-level targets in Asmodae, and have been cursed by Azphel for your deeds. You cannot use a Rift because you are cursed. The curse will lift if Jucleas cleanses you, or if you just wait for a while.</body>
+		<body>Você derrotou inúmeros alvos de baixo nível em Asmodae e foi amaldiçoado por Azphel por seus atos. Você não pode usar um Rift porque está amaldiçoado. A maldição será suspensa se Jucleas purificar você ou se você esperar um pouco.</body>
 	</string>
 	<string>
 		<id>901785</id>
 		<name>STR_TOOLTIP_SLAYER_LIGHT_G2_BODY</name>
-		<body>You defeated countless low-level targets in Asmodae, and have now succumbed to Azphel’s Infernal Blaze. You cannot use the Rift, and you cannot revive at a Kisk in Asmodae. The Infernal Blaze will lift if Jucleas cleanses you, or if you just wait for a while.</body>
+		<body>Você derrotou inúmeros alvos de baixo nível em Asmodae e agora sucumbiu ao Infernal Blaze de Azphel. Você não pode usar o Rift e não pode reviver em um Kisk em Asmodae. O Infernal Blaze vai desaparecer se Jucleas purificar você, ou se você esperar um pouco.</body>
 	</string>
 	<string>
 		<id>901786</id>
 		<name>STR_TOOLTIP_SLAYER_DARK_G1_BODY</name>
-		<body>You defeated countless low-level targets in Elysea, and have been cursed by Ariel for your deeds. You cannot use a Rift because you are cursed. The curse will lift if Balder cleanses you, or if you just wait for a while.</body>
+		<body>Você derrotou inúmeros alvos de baixo nível em Elysea e foi amaldiçoado por Ariel por seus atos. Você não pode usar um Rift porque está amaldiçoado. A maldição será suspensa se Balder purificar você ou se você esperar um pouco.</body>
 	</string>
 	<string>
 		<id>901787</id>
 		<name>STR_TOOLTIP_SLAYER_DARK_G2_BODY</name>
-		<body>You defeated countless low-level targets in Elysea, and have now succumbed to Ariel’s Infernal Blaze. You cannot use the Rift, and you cannot revive at a Kisk in Elysea. The Infernal Blaze will lift if Balder cleanses you, or if you just wait for a while.</body>
+		<body>Você derrotou inúmeros alvos de baixo nível em Elysea e agora sucumbiu ao Infernal Blaze de Ariel. Você não pode usar o Rift e não pode reviver em um Kisk em Elysea. A maldição será suspensa se Balder purificar você ou se você esperar um pouco.</body>
 	</string>
 	<string>
 		<id>901788</id>
 		<name>STR_TITLE_SLAYER_LIGHT_G1</name>
-		<body>Cursed Intruder</body>
+		<body>Intruso Amaldiçoado</body>
 	</string>
 	<string>
 		<id>901789</id>
 		<name>STR_TITLE_SLAYER_LIGHT_G2</name>
-		<body>Divinely Punished Intruder</body>
+		<body>Intruso Divinamente Punido</body>
 	</string>
 	<string>
 		<id>901790</id>
 		<name>STR_TITLE_SLAYER_DARK_G1</name>
-		<body>Cursed Intruder</body>
+		<body>Intruso Amaldiçoado</body>
 	</string>
 	<string>
 		<id>901791</id>
 		<name>STR_TITLE_SLAYER_DARK_G2</name>
-		<body>Divinely Punished Intruder</body>
+		<body>Intruso Divinamente Punido</body>
 	</string>
 	<string>
 		<id>901792</id>
 		<name>STR_TOOLTIP_MISSION</name>
-		<body>Campaign Item</body>
+		<body>Item de Campanha</body>
 	</string>
 	<string>
 		<id>901793</id>
 		<name>STR_TOOLTIP_QUEST_COLLECT</name>
-		<body>Quest Collection Item</body>
+		<body>Item Coletado em Missões</body>
 	</string>
 	<string>
 		<id>901794</id>
@@ -10870,12 +10870,12 @@
 	<string>
 		<id>901795</id>
 		<name>STR_TITLE_SLAYER_LIGHT_G0</name>
-		<body>Elyos Intruder Level 0</body>
+		<body>Intruso Elyos Nível 0</body>
 	</string>
 	<string>
 		<id>901796</id>
 		<name>STR_TITLE_SLAYER_DARK_G0</name>
-		<body>Asmodian Intruder Level 0</body>
+		<body>Intruso Asmodian Nível 0</body>
 	</string>
 	<string>
 		<id>901797</id>
@@ -19031,7 +19031,7 @@
 	<string>
 		<id>904248</id>
 		<name>STR_CLASSIC_ACCOUNT_MEMBERSHIP</name>
-		<body>Siel’s Energy Ticket</body>
+		<body>Siel's Energy Ticket</body>
 	</string>
 	<string>
 		<id>904249</id>
@@ -19056,7 +19056,7 @@
 	<string>
 		<id>904253</id>
 		<name>STR_CLASSIC_ACCOUNT_TRIAL_REMAIN</name>
-		<body>Siel’s Energy activation time (free)</body>
+		<body>Siel's Energy activation time (free)</body>
 	</string>
 	<string>
 		<id>904254</id>
@@ -19236,22 +19236,22 @@
 	<string>
 		<id>904289</id>
 		<name>STR_CLASSIC_ACCOUNT_MEMBERSHIP_TOOLTIP</name>
-		<body>Siel’s Energy</body>
+		<body>Siel's Energy</body>
 	</string>
 	<string>
 		<id>904290</id>
 		<name>STR_CLASSIC_ACCOUNT_PCROOM_TOOLTIP</name>
-		<body>Siel’s Energy</body>
+		<body>Siel's Energy</body>
 	</string>
 	<string>
 		<id>904291</id>
 		<name>STR_CLASSIC_ACCOUNT_TRIAL_TOOLTIP</name>
-		<body>Siel’s Energy</body>
+		<body>Siel's Energy</body>
 	</string>
 	<string>
 		<id>904292</id>
 		<name>STR_CLASSIC_ACCOUNT_TRIAL_FATIGUE_TOOLTIP</name>
-		<body>Siel’s Energy</body>
+		<body>Siel's Energy</body>
 	</string>
 	<string>
 		<id>904293</id>
@@ -19546,7 +19546,7 @@
 	<string>
 		<id>904351</id>
 		<name>STR_S2_Pass_Daily_02_DESC</name>
-		<body>You won’t receive any AP while Siel’s Energy is inactive.</body>
+		<body>You won’t receive any AP while Siel's Energy is inactive.</body>
 	</string>
 	<string>
 		<id>904352</id>
@@ -19976,7 +19976,7 @@
 	<string>
 		<id>904437</id>
 		<name>STR_S3_Pass_Daily_02_DESC</name>
-		<body>You won’t receive any AP while Siel’s Energy is inactive.</body>
+		<body>You won’t receive any AP while Siel's Energy is inactive.</body>
 	</string>
 	<string>
 		<id>904438</id>
@@ -20841,7 +20841,7 @@
 	<string>
 		<id>904610</id>
 		<name>STR_S4_Pass_Daily_02_DESC</name>
-		<body>You won’t receive any AP while Siel’s Energy is inactive.</body>
+		<body>You won’t receive any AP while Siel's Energy is inactive.</body>
 	</string>
 	<string>
 		<id>904611</id>
@@ -21551,7 +21551,7 @@
 	<string>
 		<id>904752</id>
 		<name>STR_S5_Pass_Daily_02_DESC</name>
-		<body>You won’t receive any AP while Siel’s Energy is inactive.</body>
+		<body>You won’t receive any AP while Siel's Energy is inactive.</body>
 	</string>
 	<string>
 		<id>904753</id>
@@ -22346,7 +22346,7 @@
 	<string>
 		<id>904911</id>
 		<name>STR_S6_Pass_Daily_02_DESC</name>
-		<body>You won’t receive any AP while Siel’s Energy is inactive.</body>
+		<body>You won’t receive any AP while Siel's Energy is inactive.</body>
 	</string>
 	<string>
 		<id>904912</id>
@@ -23051,7 +23051,7 @@
 	<string>
 		<id>905052</id>
 		<name>STR_S7_Pass_Daily_02_DESC</name>
-		<body>You won’t receive any AP while Siel’s Energy is inactive.</body>
+		<body>You won’t receive any AP while Siel's Energy is inactive.</body>
 	</string>
 	<string>
 		<id>905053</id>
@@ -23861,7 +23861,7 @@
 	<string>
 		<id>905214</id>
 		<name>STR_S8_Pass_Daily_02_DESC</name>
-		<body>You won’t receive any AP while Siel’s Energy is inactive.</body>
+		<body>You won’t receive any AP while Siel's Energy is inactive.</body>
 	</string>
 	<string>
 		<id>905215</id>
@@ -24591,7 +24591,7 @@
 	<string>
 		<id>905360</id>
 		<name>STR_S9_Pass_Daily_02_DESC</name>
-		<body>You won’t receive any AP while Siel’s Energy is inactive.</body>
+		<body>You won’t receive any AP while Siel's Energy is inactive.</body>
 	</string>
 	<string>
 		<id>905361</id>
@@ -25341,7 +25341,7 @@
 	<string>
 		<id>905510</id>
 		<name>STR_S9_Event_Pass_Sesson_01_DESC</name>
-		<body>You won’t receive any AP while Siel’s Energy is inactive.</body>
+		<body>You won’t receive any AP while Siel's Energy is inactive.</body>
 	</string>
 	<string>
 		<id>905511</id>
@@ -25697,7 +25697,7 @@
 	<string>
 		<id>905581</id>
 		<name>STR_S10_Pass_Daily_02_DESC</name>
-		<body>You won’t receive any AP while Siel’s Energy is inactive.</body>
+		<body>You won’t receive any AP while Siel's Energy is inactive.</body>
 	</string>
 	<string>
 		<id>905582</id>
@@ -26402,7 +26402,7 @@
 	<string>
 		<id>905722</id>
 		<name>STR_S11_Pass_Daily_02_DESC</name>
-		<body>You won’t receive any AP while Siel’s Energy is inactive.</body>
+		<body>You won’t receive any AP while Siel's Energy is inactive.</body>
 	</string>
 	<string>
 		<id>905723</id>
@@ -27199,7 +27199,7 @@
 	<string>
 		<id>905881</id>
 		<name>STR_WORLD_S3_Pass_Daily_02_DESC</name>
-		<body>You won’t receive any AP while Siel’s Energy is inactive.</body>
+		<body>You won’t receive any AP while Siel's Energy is inactive.</body>
 	</string>
 	<string>
 		<id>905882</id>
@@ -27714,7 +27714,7 @@
 	<string>
 		<id>905984</id>
 		<name>STR_S12_Pass_Daily_02_DESC</name>
-		<body>You won’t receive any AP while Siel’s Energy is inactive.</body>
+		<body>You won’t receive any AP while Siel's Energy is inactive.</body>
 	</string>
 	<string>
 		<id>905985</id>
@@ -28406,7 +28406,7 @@
 	<string>
 		<id>906121</id>
 		<name>STR_S12_Event_Pass_Sesson_01_DESC</name>
-		<body>You won’t receive any AP while Siel’s Energy is inactive.</body>
+		<body>You won’t receive any AP while Siel's Energy is inactive.</body>
 		<message_type>어비스 포인트 30,000 획득</message_type>
 	</string>
 	<string>
@@ -28663,7 +28663,7 @@
 	<string>
 		<id>906168</id>
 		<name>STR_S5_WORLD_Pass_Daily_02_DESC</name>
-		<body>You won’t receive any AP while Siel’s Energy is inactive.</body>
+		<body>You won’t receive any AP while Siel's Energy is inactive.</body>
 	</string>
 	<string>
 		<id>906169</id>
@@ -29433,7 +29433,7 @@
 	<string>
 		<id>906322</id>
 		<name>STR_S13_Pass_Daily_02_DESC</name>
-		<body>You won’t receive any AP while Siel’s Energy is inactive.</body>
+		<body>You won’t receive any AP while Siel's Energy is inactive.</body>
 	</string>
 	<string>
 		<id>906323</id>
@@ -30449,7 +30449,7 @@
 	<string>
 		<id>906525</id>
 		<name>STR_S14_Pass_Daily_02_DESC</name>
-		<body>You won’t receive any Abyss Points while Siel’s Energy is deactivated.</body>
+		<body>You won’t receive any Abyss Points while Siel's Energy is deactivated.</body>
 	</string>
 	<string>
 		<id>906526</id>
@@ -31124,7 +31124,7 @@
 	<string>
 		<id>906660</id>
 		<name>STR_S14_Event_Pass_Sesson_01_DESC</name>
-		<body>You won’t receive any Abyss Points while Siel’s Energy is deactivated.</body>
+		<body>You won’t receive any Abyss Points while Siel's Energy is deactivated.</body>
 	</string>
 	<string>
 		<id>906661</id>
@@ -31719,7 +31719,7 @@
 	<string>
 		<id>906779</id>
 		<name>STR_S6_WORLD_Pass_Daily_02_DESC</name>
-		<body>You won’t receive any AP while Siel’s Energy is inactive.</body>
+		<body>You won’t receive any AP while Siel's Energy is inactive.</body>
 	</string>
 	<string>
 		<id>906780</id>
@@ -31984,7 +31984,7 @@
 	<string>
 		<id>906833</id>
 		<name>STR_CLASSIC_ACCOUNT_ITEM_TOOLTIP</name>
-		<body>Siel’s Energy</body>
+		<body>Siel's Energy</body>
 	</string>
 	<string>
 		<id>906834</id>
@@ -32149,7 +32149,7 @@
 	<string>
 		<id>906866</id>
 		<name>STR_S16_Event_Pass_Sesson_01_DESC</name>
-		<body>You won’t receive any Abyss Points while Siel’s Energy is deactivated.</body>
+		<body>You won’t receive any Abyss Points while Siel's Energy is deactivated.</body>
 	</string>
 	<string>
 		<id>906867</id>
@@ -32379,7 +32379,7 @@
 	<string>
 		<id>906912</id>
 		<name>STR_S7_WORLD_Pass_Daily_02_DESC</name>
-		<body>You cannot receive any AP as long as Siel’s Energy is inactive.</body>
+		<body>You cannot receive any AP as long as Siel's Energy is inactive.</body>
 	</string>
 	<string>
 		<id>906913</id>
@@ -32614,7 +32614,7 @@
 	<string>
 		<id>906959</id>
 		<name>STR_CLASSIC_ACCOUNT_ITEM_REMAIN</name>
-		<body>Siel’s Energy activation time</body>
+		<body>Siel's Energy activation time</body>
 	</string>
 	<string>
 		<id>906960</id>
@@ -32689,7 +32689,7 @@
 	<string>
 		<id>906974</id>
 		<name>STR_CLASSIC_ACCOUNT_ITEM_USE_CONFIRM</name>
-		<body>Do you really want to use %0? &lt;br&gt;Siel’s Energy (Ticket) will remove &lt;font color=&quot;ff0000&quot;&gt;double&lt;/font&gt;&lt;br&gt;the amount of time that this item adds when used.</body>
+		<body>Do you really want to use %0? &lt;br&gt;Siel's Energy (Ticket) will remove &lt;font color=&quot;ff0000&quot;&gt;double&lt;/font&gt;&lt;br&gt;the amount of time that this item adds when used.</body>
 	</string>
 	<string>
 		<id>906975</id>
@@ -33389,7 +33389,7 @@
 	<string>
 		<id>907186</id>
 		<name>STR_TOOLTIP_PROMOTION_PAID_CIEL_ACCOUNT</name>
-		<body>Siel’s Energy Ticket</body>
+		<body>Siel's Energy Ticket</body>
 	</string>
 	<string>
 		<id>907187</id>
@@ -34989,7 +34989,7 @@
 	<string>
 		<id>907737</id>
 		<name>STR_S5_US_Event_Pass_Sesson_01_DESC</name>
-		<body>You won’t receive any Abyss Points while Siel’s Energy is deactivated.</body>
+		<body>You won’t receive any Abyss Points while Siel's Energy is deactivated.</body>
 	</string>
 	<string>
 		<id>907738</id>
@@ -35184,7 +35184,7 @@
 	<string>
 		<id>907945</id>
 		<name>STR_S16_CN_Event_Pass_Sesson_01_DESC</name>
-		<body>You won’t receive any Abyss Points while Siel’s Energy is deactivated.</body>
+		<body>You won’t receive any Abyss Points while Siel's Energy is deactivated.</body>
 	</string>
 	<string>
 		<id>907946</id>

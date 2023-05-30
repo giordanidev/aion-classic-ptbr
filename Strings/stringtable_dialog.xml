@@ -3,17 +3,17 @@
 	<string>
 		<id>900001</id>
 		<name>STR_LOBBY_USER_AGREEMENT__TITLE</name>
-		<body>User Agreement</body>
+		<body>Termo de Acordo do Usuário</body>
 	</string>
 	<string>
 		<id>900002</id>
 		<name>STR_LOBBY_USER_AGREEMENT__YES</name>
-		<body>Accept</body>
+		<body>Aceitar</body>
 	</string>
 	<string>
 		<id>900003</id>
 		<name>STR_LOBBY_USER_AGREEMENT__NO</name>
-		<body>Reject</body>
+		<body>Rejeitar</body>
 	</string>
 	<string>
 		<id>900100</id>
@@ -23,12 +23,12 @@
 	<string>
 		<id>900101</id>
 		<name>STR_LOBBY_LOGIN__ACCOUNT</name>
-		<body>Account</body>
+		<body>Conta</body>
 	</string>
 	<string>
 		<id>900102</id>
 		<name>STR_LOBBY_LOGIN__PASSWORD</name>
-		<body>Password</body>
+		<body>Senha</body>
 	</string>
 	<string>
 		<id>900103</id>
@@ -38,22 +38,22 @@
 	<string>
 		<id>900104</id>
 		<name>STR_LOBBY_LOGIN__CREATE_ACCOUNT</name>
-		<body>New Account</body>
+		<body>Nova Conta</body>
 	</string>
 	<string>
 		<id>900105</id>
 		<name>STR_LOBBY_LOGIN__QUIT</name>
-		<body>Quit</body>
+		<body>Sair</body>
 	</string>
 	<string>
 		<id>900106</id>
 		<name>STR_LOBBY_LOGIN__OPTION</name>
-		<body>Options</body>
+		<body>Opções</body>
 	</string>
 	<string>
 		<id>900107</id>
 		<name>STR_LOBBY_LOGIN__CREDIT</name>
-		<body>Credits</body>
+		<body>Créditos</body>
 	</string>
 	<string>
 		<id>900108</id>
@@ -63,92 +63,92 @@
 	<string>
 		<id>900109</id>
 		<name>STR_LOBBY_LOGIN__NOTICE</name>
-		<body>Announcement</body>
+		<body>Anúncio</body>
 	</string>
 	<string>
 		<id>900200</id>
 		<name>STR_LOBBY_SERVER__TITLE</name>
-		<body>Select Server</body>
+		<body>Selecionar Servidor</body>
 	</string>
 	<string>
 		<id>900201</id>
 		<name>STR_LOBBY_SERVER__NAME</name>
-		<body>Server Name</body>
+		<body>Nome do Servidor</body>
 	</string>
 	<string>
 		<id>900202</id>
 		<name>STR_LOBBY_SERVER__CHARACTER_COUNT</name>
-		<body>Characters</body>
+		<body>Personagens</body>
 	</string>
 	<string>
 		<id>900203</id>
 		<name>STR_LOBBY_SERVER__STATUS</name>
-		<body>Capacity</body>
+		<body>Capacidade</body>
 	</string>
 	<string>
 		<id>900204</id>
 		<name>STR_LOBBY_SERVER__START</name>
-		<body>Select Server</body>
+		<body>Selecionar Servidor</body>
 	</string>
 	<string>
 		<id>900205</id>
 		<name>STR_LOBBY_SERVER__QUIT</name>
-		<body>Quit</body>
+		<body>Sair</body>
 	</string>
 	<string>
 		<id>900206</id>
 		<name>STR_LOBBY_SERVER__LANGUAGE</name>
-		<body>Language</body>
+		<body>Idioma</body>
 	</string>
 	<string>
 		<id>900207</id>
 		<name>STR_LOBBY_SERVER__GMT</name>
-		<body>Time Zone</body>
+		<body>Fuso Horário</body>
 	</string>
 	<string>
 		<id>900300</id>
 		<name>STR_LOBBY_SELECT__SERVER_LIST</name>
-		<body>Select Server</body>
+		<body>Selecionar Servidor</body>
 	</string>
 	<string>
 		<id>900301</id>
 		<name>STR_LOBBY_SELECT__TITLE</name>
-		<body>Character Selection</body>
+		<body>Seleção de Personagem</body>
 	</string>
 	<string>
 		<id>900302</id>
 		<name>STR_LOBBY_SELECT__START</name>
-		<body>Start</body>
+		<body>Começar</body>
 	</string>
 	<string>
 		<id>900303</id>
 		<name>STR_LOBBY_SELECT__CREATE_CHARACTER</name>
-		<body>Create</body>
+		<body>Criar</body>
 	</string>
 	<string>
 		<id>900304</id>
 		<name>STR_LOBBY_SELECT__DELETE</name>
-		<body>Delete</body>
+		<body>Excluir</body>
 	</string>
 	<string>
 		<id>900305</id>
 		<name>STR_LOBBY_SELECT__RESTORE</name>
-		<body>Restore</body>
+		<body>Restaurar</body>
 	</string>
 	<string>
 		<id>900306</id>
 		<name>STR_LOBBY_SELECT__QUIT</name>
-		<body>Quit</body>
+		<body>Sair</body>
 	</string>
 	<string>
 		<id>900400</id>
 		<name>STR_LOBBY_CREATE__TITLE</name>
-		<body>Create Character</body>
+		<body>Criar Personagem</body>
 	</string>
 	<string>
 		<id>900500</id>
 		<name>STR_LOBBY_CREATE__RACE_TITLE</name>
-		<body>Select Faction</body>
+		<body>Selecionar Facção</body>
 	</string>
 	<string>
 		<id>900501</id>
@@ -163,122 +163,122 @@
 	<string>
 		<id>900503</id>
 		<name>STR_LOBBY_CREATE__RACE_PREV</name>
-		<body>Previous</body>
+		<body>Anterior</body>
 	</string>
 	<string>
 		<id>900504</id>
 		<name>STR_LOBBY_CREATE__RACE_NEXT</name>
-		<body>Next</body>
+		<body>Próximo</body>
 	</string>
 	<string>
 		<id>900505</id>
 		<name>STR_LOBBY_CREATE__RACE_CANCEL</name>
-		<body>Cancel</body>
+		<body>Cancelar</body>
 	</string>
 	<string>
 		<id>900506</id>
 		<name>STR_LOBBY_CREATE__RACE_QUIT</name>
-		<body>Quit</body>
+		<body>Sair</body>
 	</string>
 	<string>
 		<id>900600</id>
 		<name>STR_LOBBY_CREATE__CLASS_TITLE</name>
-		<body>Select Class</body>
+		<body>Selecionar Classe</body>
 	</string>
 	<string>
 		<id>900601</id>
 		<name>STR_LOBBY_CREATE__CLASS_PREV</name>
-		<body>Previous</body>
+		<body>Anterior</body>
 	</string>
 	<string>
 		<id>900602</id>
 		<name>STR_LOBBY_CREATE__CLASS_NEXT</name>
-		<body>Next</body>
+		<body>Próximo</body>
 	</string>
 	<string>
 		<id>900603</id>
 		<name>STR_LOBBY_CREATE__CLASS_CANCEL</name>
-		<body>Cancel</body>
+		<body>Cancelar</body>
 	</string>
 	<string>
 		<id>900604</id>
 		<name>STR_LOBBY_CREATE__CLASS_QUIT</name>
-		<body>Quit</body>
+		<body>Sair</body>
 	</string>
 	<string>
 		<id>900700</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_TITLE</name>
-		<body>Customize Character</body>
+		<body>Personalizar Personagem</body>
 	</string>
 	<string>
 		<id>900701</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_PREV</name>
-		<body>Previous</body>
+		<body>Anterior</body>
 	</string>
 	<string>
 		<id>900702</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_NEXT</name>
-		<body>Create</body>
+		<body>Criar</body>
 	</string>
 	<string>
 		<id>900703</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_CANCEL</name>
-		<body>Cancel</body>
+		<body>Cancelar</body>
 	</string>
 	<string>
 		<id>900704</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_QUIT</name>
-		<body>Quit</body>
+		<body>Sair</body>
 	</string>
 	<string>
 		<id>900705</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_NAME</name>
-		<body>Character Name</body>
+		<body>Nome do Personagem</body>
 	</string>
 	<string>
 		<id>900706</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_NAME_CHECK</name>
-		<body>Check Name</body>
+		<body>Verificar Nome</body>
 	</string>
 	<string>
 		<id>900707</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_RANDOM</name>
-		<body>Random</body>
+		<body>Aleatório</body>
 	</string>
 	<string>
 		<id>900708</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_RESET</name>
-		<body>Reset</body>
+		<body>Reiniciar</body>
 	</string>
 	<string>
 		<id>900709</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_VOICE</name>
-		<body>Voice</body>
+		<body>Voz</body>
 	</string>
 	<string>
 		<id>900710</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_LISTEN</name>
-		<body>Listen</body>
+		<body>Escutar</body>
 	</string>
 	<string>
 		<id>900711</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD</name>
-		<body>Select Face</body>
+		<body>Selecionar Rosto</body>
 	</string>
 	<string>
 		<id>900712</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_BASIC</name>
-		<body>Basic</body>
+		<body>Básico</body>
 	</string>
 	<string>
 		<id>900713</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL</name>
-		<body>Advanced</body>
+		<body>Avançado</body>
 	</string>
 	<string>
 		<id>900714</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_BODY</name>
-		<body>Select Body Frame</body>
+		<body>Selecionar Formato do Corpo</body>
 	</string>
 	<string>
 		<id>900715</id>
