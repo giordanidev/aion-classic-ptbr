@@ -5576,17 +5576,17 @@
 	<string>
 		<id>900695</id>
 		<name>STR_GUILD_MSG_CREATE_EMBLEM</name>
-		<body>&lt;p&gt;Your Legion Emblem must be 256x256 pixels in size. You can only upload files called emblem.bmp (24 bit) or emblem.tga (32 bit).&lt;/p&gt;&lt;p&gt;Copy the Legion Emblem file into the AION folder and click ‘OK’.&lt;/p&gt;</body>
+		<body>&lt;p&gt;O Emblema da Legião deve ter exatamente 256x256 pixels de tamanho. Você só pode enviar arquivos com o nome 'emblem.bmp' (24 bits) ou 'emblem.tga' (32 bits).&lt;/p&gt;&lt;p&gt;Copie o arquivo para a pasta principal do AION e clique em 'OK'.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>900696</id>
 		<name>STR_GUILD_MSG_CHANGE_EMBLEM</name>
-		<body>&lt;p&gt;Your Legion Emblem must be 256x256 pixels in size. You can only upload files called emblem.bmp (24 bit) or emblem.tga (32 bit).&lt;/p&gt;&lt;p&gt;Copy the Legion Emblem file into the AION folder and click ‘OK’.&lt;/p&gt;</body>
+		<body>&lt;p&gt;O Emblema da Legião deve ter exatamente 256x256 pixels de tamanho. Você só pode enviar arquivos com o nome 'emblem.bmp' (24 bits) ou 'emblem.tga' (32 bits).&lt;/p&gt;&lt;p&gt;Copie o arquivo para a pasta principal do AION e clique em 'OK'.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>900697</id>
 		<name>STR_GUILD_EVENT_CREATE</name>
-		<body>Create Legion</body>
+		<body>Criar Legião</body>
 	</string>
 	<string>
 		<id>900698</id>
@@ -5611,12 +5611,12 @@
 	<string>
 		<id>900702</id>
 		<name>STR_GUILD_EVENT_CREATE_EMBLEM</name>
-		<body>The Legion emblem was registered.</body>
+		<body>O emblema da Legião foi adicionado.</body>
 	</string>
 	<string>
 		<id>900703</id>
 		<name>STR_GUILD_EVENT_CHANGE_EMBLEM</name>
-		<body>The Legion emblem was modified.</body>
+		<body>O emblema da Legião foi modificado.</body>
 	</string>
 	<string>
 		<id>900704</id>
@@ -5637,22 +5637,22 @@
 	<string>
 		<id>900708</id>
 		<name>STR_GUILD_EVENT_RESERVED4</name>
-		<body>You have acquired %qina0 as a reward for defending %1.</body>
+		<body>Você adquiriu %qina0 como recompensa por defender %1.</body>
 	</string>
 	<string>
 		<id>900709</id>
 		<name>STR_GUILD_EVENT_RESERVED5</name>
-		<body>You have acquired %qina0 as a reward for occupying %1.</body>
+		<body>Você adquiriu %qina0 como recompensa por ocupar %1.</body>
 	</string>
 	<string>
 		<id>900710</id>
 		<name>STR_GUILD_EVENT_RESERVED6</name>
-		<body>The Legion name has been changed from %0 to %1.</body>
+		<body>O nome da Legião foi alterado de %0 para %1.</body>
 	</string>
 	<string>
 		<id>900711</id>
 		<name>STR_GUILD_EVENT_RESERVED7</name>
-		<body>The character name has been changed from %0 to %1.</body>
+		<body>O nome do personagem foi alterado de %0 para %1.</body>
 	</string>
 	<string>
 		<id>900712</id>
@@ -5695,7 +5695,7 @@
 	<string>
 		<id>900720</id>
 		<name>STR_TOOLTIP_SKILL_STAT_ACTIVE_DEFEND</name>
-		<body>Evadir, Desviar, Bloquear</body>
+		<body>Evadir, Parry, Block</body>
 	</string>
 	<string>
 		<id>900721</id>
@@ -5769,7 +5769,7 @@
 	<string>
 		<id>900735</id>
 		<name>STR_SELECT_STAGE_DATE_TO_DELETED</name>
-		<body>Start Standby Delete</body>
+		<body>Iniciar Processo de Exclusão</body>
 	</string>
 	<string>
 		<id>900736</id>
@@ -5789,7 +5789,7 @@
 	<string>
 		<id>900739</id>
 		<name>STR_MSG_EMBLEM_REGISTER</name>
-		<body>The emblem registration fee is &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt;. Do you want to continue?</body>
+		<body>A taxa de registro do emblema é &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt;. Você deseja continuar?</body>
 	</string>
 	<string>
 		<id>900740</id>
@@ -5849,7 +5849,7 @@
 	<string>
 		<id>900751</id>
 		<name>STR_CHAT_MODE_CMD_SHOUT</name>
-		<body>Shout,Sho,Sh,Yell,Y</body>
+		<body>Shout,Sho,Sh,Yell,Y,Gritar</body>
 	</string>
 	<string>
 		<id>900752</id>
@@ -5859,42 +5859,42 @@
 	<string>
 		<id>900753</id>
 		<name>STR_CHAT_CMD_GENERAL</name>
-		<body>/Say</body>
+		<body>/Say,/Falar</body>
 	</string>
 	<string>
 		<id>900754</id>
 		<name>STR_CHAT_CMD_PARTY</name>
-		<body>/Group</body>
+		<body>/Group,/Grupo</body>
 	</string>
 	<string>
 		<id>900755</id>
 		<name>STR_CHAT_CMD_ALLIANCE</name>
-		<body>/Alliance</body>
+		<body>/Alliance,/Aliança</body>
 	</string>
 	<string>
 		<id>900756</id>
 		<name>STR_CHAT_CMD_GUILD</name>
-		<body>/Legion</body>
+		<body>/Legion,/Legião</body>
 	</string>
 	<string>
 		<id>900757</id>
 		<name>STR_CHAT_CMD_YELL</name>
-		<body>/Shout</body>
+		<body>/Shout,/Gritar</body>
 	</string>
 	<string>
 		<id>900758</id>
 		<name>STR_CHAT_CMD_WHISPER</name>
-		<body>/Whisper</body>
+		<body>/Whisper,/MP</body>
 	</string>
 	<string>
 		<id>900759</id>
 		<name>STR_CMD_ROLL</name>
-		<body>/Dice,/Roll</body>
+		<body>/Dice,/Roll,/Rolar</body>
 	</string>
 	<string>
 		<id>900760</id>
 		<name>STR_CMD_CHAT_ROOM_JOIN</name>
-		<body>/JoinChannel,/Join,/CJoin,/ChatJoin</body>
+		<body>/JoinChannel,/Join,/CJoin,/ChatJoin,/Entrar</body>
 	</string>
 	<string>
 		<id>900761</id>
@@ -5909,7 +5909,7 @@
 	<string>
 		<id>900763</id>
 		<name>STR_CMD_CHAT_ROOM_CHAT</name>
-		<body>/Chat,/Talk</body>
+		<body>/Chat,/Talk,/Falar,/Say</body>
 	</string>
 	<string>
 		<id>900764</id>
@@ -5979,7 +5979,7 @@
 	<string>
 		<id>900777</id>
 		<name>STR_CRAFTWINDOW_ACCESSORY</name>
-		<body>Acessórios</body>
+		<body>Acessório</body>
 	</string>
 	<string>
 		<id>900778</id>
@@ -5994,7 +5994,7 @@
 	<string>
 		<id>900780</id>
 		<name>STR_CRAFTWINDOW_CLOTH</name>
-		<body>Fantasias</body>
+		<body>Fantasia</body>
 	</string>
 	<string>
 		<id>900781</id>
@@ -6034,7 +6034,7 @@
 	<string>
 		<id>900788</id>
 		<name>STR_CRAFTWINDOW_GRADE_CONVERT</name>
-		<body>Change Grade</body>
+		<body>Alterar Raridade</body>
 	</string>
 	<string>
 		<id>900789</id>
@@ -6104,7 +6104,7 @@
 	<string>
 		<id>900802</id>
 		<name>STR_TOOLTIP_SKILL_EFFECT_OPENAERIAL</name>
-		<body>Aether&apos;s Hold</body>
+		<body>Aether's Hold</body>
 	</string>
 	<string>
 		<id>900803</id>
@@ -6124,12 +6124,12 @@
 	<string>
 		<id>900806</id>
 		<name>STR_TOOLTIP_MAGICALLIGHT</name>
-		<body>Light</body>
+		<body>Luz</body>
 	</string>
 	<string>
 		<id>900807</id>
 		<name>STR_TOOLTIP_MAGICALDARK</name>
-		<body>Darkness</body>
+		<body>Escuridão</body>
 	</string>
 	<string>
 		<id>900808</id>
@@ -6279,12 +6279,12 @@
 	<string>
 		<id>900837</id>
 		<name>STR_TOOLTIP_SKILL_STAT_PMATTACK</name>
-		<body>Ataque Mágico e Físico</body>
+		<body>Dano Mágico e Físico</body>
 	</string>
 	<string>
 		<id>900838</id>
 		<name>STR_TOOLTIP_SKILL_STAT_PMDEFEND</name>
-		<body>Físico, Todas as Defesas Elementais</body>
+		<body>Defesa Física, Todas as Defesas Elementais</body>
 	</string>
 	<string>
 		<id>900839</id>
@@ -6294,22 +6294,22 @@
 	<string>
 		<id>900840</id>
 		<name>STR_BUDDYLIST_ENTER_CHARACTER_NAME</name>
-		<body>Enter the name of a character you want to list as a friend.</body>
+		<body>Digite o nome do personagem que você deseja adicionar como amigo.</body>
 	</string>
 	<string>
 		<id>900841</id>
 		<name>STR_BUDDYLIST_ADD_BUDDY_REQUEST</name>
-		<body>%0 wants to list you as a friend. Do you want to accept it?</body>
+		<body>%0 deseja adicioná-lo como amigo. Você aceita?</body>
 	</string>
 	<string>
 		<id>900842</id>
 		<name>STR_BUDDYLIST_CMD_ADD_BUDDY</name>
-		<body>/Friend</body>
+		<body>/Friend,/Amigo</body>
 	</string>
 	<string>
 		<id>900843</id>
 		<name>STR_BUDDYLIST_CMD_REMOVE_BUDDY</name>
-		<body>/DeleteFriend,/DelFriend</body>
+		<body>/DeleteFriend,/DelFriend,/RemoverAmigo</body>
 	</string>
 	<string>
 		<id>900844</id>
@@ -6339,17 +6339,17 @@
 	<string>
 		<id>900849</id>
 		<name>STR_BLOCKLIST_MEMO</name>
-		<body>Memor.</body>
+		<body>Motivo</body>
 	</string>
 	<string>
 		<id>900850</id>
 		<name>STR_BLOCKLIST_CMD_BLOCK</name>
-		<body>/Block,/Ignore</body>
+		<body>/Block,/Ignore,/Bloquear</body>
 	</string>
 	<string>
 		<id>900851</id>
 		<name>STR_BLOCKLIST_CMD_UNBLOCK</name>
-		<body>/Undo,/Unblock,/DelIgnore</body>
+		<body>/Undo,/Unblock,/DelIgnore,/Desbloquear</body>
 	</string>
 	<string>
 		<id>900852</id>
@@ -6369,12 +6369,12 @@
 	<string>
 		<id>900855</id>
 		<name>STR_MACRO_USE</name>
-		<body>/Use</body>
+		<body>/Use,/Usar</body>
 	</string>
 	<string>
 		<id>900856</id>
 		<name>STR_MACRO_SHORTCUT</name>
-		<body>/Quickbar</body>
+		<body>/Quickbar,/Barra</body>
 	</string>
 	<string>
 		<id>900857</id>
@@ -6384,22 +6384,22 @@
 	<string>
 		<id>900858</id>
 		<name>STR_MACRO_CHAT_NORMAL</name>
-		<body>/Say</body>
+		<body>/Say,/Falar</body>
 	</string>
 	<string>
 		<id>900859</id>
 		<name>STR_MACRO_CHAT_GUILD</name>
-		<body>/Legion,/g</body>
+		<body>/Legion,/g,/Legião</body>
 	</string>
 	<string>
 		<id>900860</id>
 		<name>STR_MACRO_CHAT_PARTY</name>
-		<body>/Group</body>
+		<body>/Group,/Grupo</body>
 	</string>
 	<string>
 		<id>900861</id>
 		<name>STR_MACRO_TARGET</name>
-		<body>/Select</body>
+		<body>/Select,/Selecionar</body>
 	</string>
 	<string>
 		<id>900862</id>
@@ -6409,22 +6409,22 @@
 	<string>
 		<id>900863</id>
 		<name>STR_BUDDYLIST_CMD_ADD_BUDDY_ENG</name>
-		<body>/Friend</body>
+		<body>/Friend,/Amigo</body>
 	</string>
 	<string>
 		<id>900864</id>
 		<name>STR_BUDDYLIST_CMD_REMOVE_BUDDY_ENG</name>
-		<body>/DeleteFriend,/DelFriend</body>
+		<body>/DeleteFriend,/DelFriend,/RemoverAmigo</body>
 	</string>
 	<string>
 		<id>900865</id>
 		<name>STR_BLOCKLIST_CMD_BLOCK_ENG</name>
-		<body>/Ignore</body>
+		<body>/Ignore,/Block,/Bloquear</body>
 	</string>
 	<string>
 		<id>900866</id>
 		<name>STR_BLOCKLIST_CMD_UNBLOCK_ENG</name>
-		<body>/DelIgnore</body>
+		<body>/DelIgnore,/Unblock,/Desbloquear</body>
 	</string>
 	<string>
 		<id>900867</id>
@@ -6449,22 +6449,22 @@
 	<string>
 		<id>900871</id>
 		<name>STR_MACRO_CHAT_ALLIANCE</name>
-		<body>/Alliance,/a</body>
+		<body>/Alliance,/a,/Aliança</body>
 	</string>
 	<string>
 		<id>900872</id>
 		<name>STR_MACRO_CHAT_SHOUT</name>
-		<body>/Shout</body>
+		<body>/Shout,/Gritar</body>
 	</string>
 	<string>
 		<id>900873</id>
 		<name>STR_MACRO_ATTACK</name>
-		<body>/Attack</body>
+		<body>/Attack,/Atacar</body>
 	</string>
 	<string>
 		<id>900874</id>
 		<name>STR_MACRO_CHANGEWEAPON</name>
-		<body>/ChangeWeaponSet</body>
+		<body>/ChangeWeaponSet,/MudarArma</body>
 	</string>
 	<string>
 		<id>900875</id>
@@ -6474,12 +6474,12 @@
 	<string>
 		<id>900876</id>
 		<name>STR_TOOLTIP_CANNOT_SELL_TO_NPC</name>
-		<body>Não pode vender</body>
+		<body>Não pode vender para NPC</body>
 	</string>
 	<string>
 		<id>900877</id>
 		<name>STR_BUDDYLIST_TODAYWORD</name>
-		<body>Nota</body>
+		<body>Mensagem do dia!</body>
 	</string>
 	<string>
 		<id>900878</id>
@@ -6489,7 +6489,7 @@
 	<string>
 		<id>900879</id>
 		<name>STR_BUDDYLIST_NEW_MEMO</name>
-		<body>Memor.</body>
+		<body>Mensagem</body>
 	</string>
 	<string>
 		<id>900880</id>
@@ -6549,7 +6549,7 @@
 	<string>
 		<id>900891</id>
 		<name>STR_CHAT_ROOM_CMD_JOIN_VOICE</name>
-		<body>/Voice</body>
+		<body>/Voice,/Voz</body>
 	</string>
 	<string>
 		<id>900892</id>
@@ -6614,7 +6614,7 @@
 	<string>
 		<id>900904</id>
 		<name>STR_PARTY_READER_CHANGE</name>
-		<body>Tem certeza de que deseja alterar o líder do grupo para %0?</body>
+		<body>Tem certeza de que deseja passar o líder do grupo para %0?</body>
 	</string>
 	<string>
 		<id>900905</id>
@@ -6814,12 +6814,12 @@
 	<string>
 		<id>900944</id>
 		<name>STR_CHAT_ROOM_CMD_VOICE_PARTY</name>
-		<body>/VoiceChat</body>
+		<body>/VoiceChat,/ChatdeVoz</body>
 	</string>
 	<string>
 		<id>900945</id>
 		<name>STR_CHAT_ROOM_CMD_VOICE_PARTY_ENG</name>
-		<body>/VoiceChat</body>
+		<body>/VoiceChat,/ChatdeVoz</body>
 	</string>
 	<string>
 		<id>900946</id>
@@ -7239,12 +7239,12 @@
 	<string>
 		<id>901029</id>
 		<name>STR_TOOLTIP_SKILL_LEARN_LEVEL</name>
-		<body>Acquired Level %0</body>
+		<body>Adquirida no Nível %0</body>
 	</string>
 	<string>
 		<id>901030</id>
 		<name>STR_TOOLTIP_SKILL_CANT_LEARN</name>
-		<body>Not a class skill</body>
+		<body>Não é uma habilidade de classe</body>
 	</string>
 	<string>
 		<id>901032</id>
@@ -7264,7 +7264,7 @@
 	<string>
 		<id>901035</id>
 		<name>STR_HOUR</name>
-		<body> h</body>
+		<body>h</body>
 	</string>
 	<string>
 		<id>901036</id>
@@ -7309,52 +7309,52 @@
 	<string>
 		<id>901044</id>
 		<name>STR_EXP</name>
-		<body>XP</body>
+		<body>EXP</body>
 	</string>
 	<string>
 		<id>901045</id>
 		<name>STR_BUY_REMAIN_BASKET_CLOSEDIALOG</name>
-		<body>There are some items left in your shopping cart. Are you sure you want to close the window?</body>
+		<body>Restam alguns itens em seu carrinho de compras. Tem certeza de que deseja fechar a janela?</body>
 	</string>
 	<string>
 		<id>901046</id>
 		<name>STR_BUY_REMAIN_BASKET_CHANGETAB</name>
-		<body>All items in your shopping cart will be lost if you change the tab.</body>
+		<body>Todos os itens do seu carrinho de compras serão perdidos se você mudar a guia.</body>
 	</string>
 	<string>
 		<id>901047</id>
 		<name>STR_BUY_REMAIN_BASKET_RETURN</name>
-		<body>There are some items left in your shopping cart. Are you sure you want to go back to the previous step?</body>
+		<body>Restam alguns itens em seu carrinho de compras. Tem certeza de que deseja voltar para a etapa anterior?</body>
 	</string>
 	<string>
 		<id>901048</id>
 		<name>STR_SELL_REMAIN_BASKET_CLOSEDIALOG</name>
-		<body>There are some items left in your sales list. Are you sure you want to close the window?</body>
+		<body>Restam alguns itens na sua lista de vendas. Tem certeza de que deseja fechar a janela?</body>
 	</string>
 	<string>
 		<id>901049</id>
 		<name>STR_SELL_REMAIN_BASKET_CHANGETAB</name>
-		<body>The sales list will be emptied if you change the tab.</body>
+		<body>A lista de vendas será esvaziada se você mudar a guia.</body>
 	</string>
 	<string>
 		<id>901050</id>
 		<name>STR_SELL_REMAIN_BASKET_RETURN</name>
-		<body>There are still items in your sales list. Are you sure you want to go back to the previous step?</body>
+		<body>Ainda há itens em sua lista de vendas. Tem certeza de que deseja voltar para a etapa anterior?</body>
 	</string>
 	<string>
 		<id>901051</id>
 		<name>STR_MACRO_WHISPER</name>
-		<body>/Whisper</body>
+		<body>/Whisper,/MP</body>
 	</string>
 	<string>
 		<id>901052</id>
 		<name>STR_KEYMAP_DOUBLEKEYMAPINFO</name>
-		<body>A shortcut key with a name over 7 letters long will not be displayed in the start menu.</body>
+		<body>Uma tecla de atalho com um nome com mais de 7 letras não será exibida no menu Iniciar.</body>
 	</string>
 	<string>
 		<id>901053</id>
 		<name>STR_KEYMAP_REJECTED_INFO</name>
-		<body>The key is not allowed. Please enter another key.</body>
+		<body>Esta tecla não é permitida. Insira outra tecla.</body>
 	</string>
 	<string>
 		<id>901054</id>
@@ -7379,37 +7379,37 @@
 	<string>
 		<id>901058</id>
 		<name>STR_CMD_CHAT_ROOM_MENU_CREATE</name>
-		<body>/CreateChannel [channel name] [password]</body>
+		<body>/CreateChannel [nome do canal] [senha]</body>
 	</string>
 	<string>
 		<id>901059</id>
 		<name>STR_CMD_CHAT_ROOM_MENU_JOIN</name>
-		<body>/JoinChannel [channel name] [password]</body>
+		<body>/JoinChannel [nome do canal] [senha]</body>
 	</string>
 	<string>
 		<id>901060</id>
 		<name>STR_CMD_CHAT_ROOM_MENU_LEAVE</name>
-		<body>/LeaveChannel [number]</body>
+		<body>/LeaveChannel [número]</body>
 	</string>
 	<string>
 		<id>901061</id>
 		<name>STR_CMD_CHAT_ROOM_MENU_BOSS_BAN</name>
-		<body>/BanFromChannel [number] [character name]</body>
+		<body>/BanFromChannel [número] [nome do personagem]</body>
 	</string>
 	<string>
 		<id>901062</id>
 		<name>STR_CMD_CHAT_ROOM_MENU_BOSS_UNBAN</name>
-		<body>/UnbanFromChannel [number] [character name]</body>
+		<body>/UnbanFromChannel [número] [nome do personagem]</body>
 	</string>
 	<string>
 		<id>901063</id>
 		<name>STR_CMD_CHAT_ROOM_MENU_BOSS_CHANGEPASSWORD</name>
-		<body>/ChangeChannelPassword [number] [password]</body>
+		<body>/ChangeChannelPassword [número] [senha]</body>
 	</string>
 	<string>
 		<id>901064</id>
 		<name>STR_CMD_CHAT_ROOM_MENU_BOSS_PROMOTE</name>
-		<body>/ChangeChannelLeader [number] [character name]</body>
+		<body>/ChangeChannelLeader [número] [nome do personagem]</body>
 	</string>
 	<string>
 		<id>901065</id>
@@ -7434,12 +7434,12 @@
 	<string>
 		<id>901069</id>
 		<name>STR_CHAT_CMD_SUB_CHANNEL1</name>
-		<body>/1 Say</body>
+		<body>/1 Falar</body>
 	</string>
 	<string>
 		<id>901070</id>
 		<name>STR_CHAT_CMD_SUB_CHANNEL2</name>
-		<body>/2 Trade</body>
+		<body>/2 Trocas</body>
 	</string>
 	<string>
 		<id>901071</id>
@@ -7449,12 +7449,12 @@
 	<string>
 		<id>901072</id>
 		<name>STR_TOOLTIP_CANNOT_SPLIT_ITEM</name>
-		<body>Cannot Split</body>
+		<body>Não pode dividir</body>
 	</string>
 	<string>
 		<id>901073</id>
 		<name>STR_CHAT_TAB_MENU_ADD_MSG</name>
-		<body>Enter a name for the new tab.</body>
+		<body>Insira um nome para a nova guia.</body>
 	</string>
 	<string>
 		<id>901074</id>
@@ -7469,7 +7469,7 @@
 	<string>
 		<id>901076</id>
 		<name>STR_KEYMAP_TOGGLEWORDBALLOON</name>
-		<body>Hide/Show Speech</body>
+		<body>Esconder/Mostrar Fala</body>
 	</string>
 	<string>
 		<id>901077</id>
@@ -7489,72 +7489,72 @@
 	<string>
 		<id>901081</id>
 		<name>STR_KEYMAP_QUICKBAR_EXTRA_0</name>
-		<body>Third Quickbar #1</body>
+		<body>Terceira Barra #1</body>
 	</string>
 	<string>
 		<id>901082</id>
 		<name>STR_KEYMAP_QUICKBAR_EXTRA_1</name>
-		<body>Third Quickbar #2</body>
+		<body>Terceira Barra #2</body>
 	</string>
 	<string>
 		<id>901083</id>
 		<name>STR_KEYMAP_QUICKBAR_EXTRA_2</name>
-		<body>Third Quickbar #3</body>
+		<body>Terceira Barra #3</body>
 	</string>
 	<string>
 		<id>901084</id>
 		<name>STR_KEYMAP_QUICKBAR_EXTRA_3</name>
-		<body>Third Quickbar #4</body>
+		<body>Terceira Barra #4</body>
 	</string>
 	<string>
 		<id>901085</id>
 		<name>STR_KEYMAP_QUICKBAR_EXTRA_4</name>
-		<body>Third Quickbar #5</body>
+		<body>Terceira Barra #5</body>
 	</string>
 	<string>
 		<id>901086</id>
 		<name>STR_KEYMAP_QUICKBAR_EXTRA_5</name>
-		<body>Third Quickbar #6</body>
+		<body>Terceira Barra #6</body>
 	</string>
 	<string>
 		<id>901087</id>
 		<name>STR_KEYMAP_QUICKBAR_EXTRA_6</name>
-		<body>Third Quickbar #7</body>
+		<body>Terceira Barra #7</body>
 	</string>
 	<string>
 		<id>901088</id>
 		<name>STR_KEYMAP_QUICKBAR_EXTRA_7</name>
-		<body>Third Quickbar #8</body>
+		<body>Terceira Barra #8</body>
 	</string>
 	<string>
 		<id>901089</id>
 		<name>STR_KEYMAP_QUICKBAR_EXTRA_8</name>
-		<body>Third Quickbar #9</body>
+		<body>Terceira Barra #9</body>
 	</string>
 	<string>
 		<id>901090</id>
 		<name>STR_KEYMAP_QUICKBAR_EXTRA_9</name>
-		<body>Third Quickbar #10</body>
+		<body>Terceira Barra #10</body>
 	</string>
 	<string>
 		<id>901091</id>
 		<name>STR_KEYMAP_QUICKBAR_EXTRA_10</name>
-		<body>Third Quickbar #11</body>
+		<body>Terceira Barra #11</body>
 	</string>
 	<string>
 		<id>901092</id>
 		<name>STR_KEYMAP_QUICKBAR_EXTRA_11</name>
-		<body>Third Quickbar #12</body>
+		<body>Terceira Barra #12</body>
 	</string>
 	<string>
 		<id>901093</id>
 		<name>STR_KEYMAP_TITLE_QUICKBAR</name>
-		<body>Quickbar</body>
+		<body>Barra</body>
 	</string>
 	<string>
 		<id>901098</id>
 		<name>STR_GUILD_INVITE_COMMENT</name>
-		<body>Enter the name of the character you want to invite to your legion.</body>
+		<body>Digite o nome do personagem que você deseja convidar para sua Legião.</body>
 	</string>
 	<string>
 		<id>901099</id>
@@ -7584,52 +7584,52 @@
 	<string>
 		<id>901104</id>
 		<name>STR_KEYMAP_CHANGE_QUICKBAR_0</name>
-		<body>Select Quickbar Line 1</body>
+		<body>Selecionar Barra 1</body>
 	</string>
 	<string>
 		<id>901105</id>
 		<name>STR_KEYMAP_CHANGE_QUICKBAR_1</name>
-		<body>Select Quickbar Line 2</body>
+		<body>Selecionar Barra 2</body>
 	</string>
 	<string>
 		<id>901106</id>
 		<name>STR_KEYMAP_CHANGE_QUICKBAR_2</name>
-		<body>Select Quickbar Line 3</body>
+		<body>Selecionar Barra 3</body>
 	</string>
 	<string>
 		<id>901107</id>
 		<name>STR_KEYMAP_CHANGE_QUICKBAR_3</name>
-		<body>Select Quickbar Line 4</body>
+		<body>Selecionar Barra 4</body>
 	</string>
 	<string>
 		<id>901108</id>
 		<name>STR_KEYMAP_CHANGE_QUICKBAR_4</name>
-		<body>Select Quickbar Line 5</body>
+		<body>Selecionar Barra 5</body>
 	</string>
 	<string>
 		<id>901109</id>
 		<name>STR_KEYMAP_CHANGE_QUICKBAR_5</name>
-		<body>Select Quickbar Line 6</body>
+		<body>Selecionar Barra 6</body>
 	</string>
 	<string>
 		<id>901110</id>
 		<name>STR_KEYMAP_CHANGE_QUICKBAR_6</name>
-		<body>Select Quickbar Line 7</body>
+		<body>Selecionar Barra 7</body>
 	</string>
 	<string>
 		<id>901111</id>
 		<name>STR_KEYMAP_CHANGE_QUICKBAR_7</name>
-		<body>Select Quickbar Line 8</body>
+		<body>Selecionar Barra 8</body>
 	</string>
 	<string>
 		<id>901112</id>
 		<name>STR_KEYMAP_CHANGE_QUICKBAR_8</name>
-		<body>Select Quickbar Line 9</body>
+		<body>Selecionar Barra 9</body>
 	</string>
 	<string>
 		<id>901113</id>
 		<name>STR_KEYMAP_CHANGE_QUICKBAR_9</name>
-		<body>Select Quickbar Line 0</body>
+		<body>Selecionar Barra 0</body>
 	</string>
 	<string>
 		<id>901140</id>
@@ -7649,7 +7649,7 @@
 	<string>
 		<id>901143</id>
 		<name>STR_POPUP_BINDING_STONE</name>
-		<body>Registrar Ponto de Nascimento</body>
+		<body>Registrar Ponto de Renascimento</body>
 	</string>
 	<string>
 		<id>901144</id>
@@ -7664,7 +7664,7 @@
 	<string>
 		<id>901146</id>
 		<name>STR_TOOLTIP_GAUGE_EXP_WITH_TEMP</name>
-		<body>XP: %num0/%num1 (Recuperável : %num2)</body>
+		<body>EXP: %num0/%num1 (Recuperável : %num2)</body>
 	</string>
 	<string>
 		<id>901147</id>
@@ -7794,17 +7794,17 @@
 	<string>
 		<id>901172</id>
 		<name>STR_VENDOR_KIND_BOOK</name>
-		<body>Livro de feitiços</body>
+		<body>Livro de Feitiços</body>
 	</string>
 	<string>
 		<id>901173</id>
 		<name>STR_VENDOR_KIND_TWOHANDSWORD</name>
-		<body>Greatsword</body>
+		<body>Espada Longa</body>
 	</string>
 	<string>
 		<id>901174</id>
 		<name>STR_VENDOR_KIND_POLEARM</name>
-		<body>Polearm</body>
+		<body>Foice</body>
 	</string>
 	<string>
 		<id>901175</id>
@@ -7849,7 +7849,7 @@
 	<string>
 		<id>901183</id>
 		<name>STR_VENDOR_KIND_TORSO</name>
-		<body>Jaqueta</body>
+		<body>Peitoral</body>
 	</string>
 	<string>
 		<id>901184</id>
@@ -7924,7 +7924,7 @@
 	<string>
 		<id>901198</id>
 		<name>STR_VENDOR_KIND_MAKING</name>
-		<body>Craft</body>
+		<body>Criação</body>
 	</string>
 	<string>
 		<id>901199</id>
@@ -8169,12 +8169,12 @@
 	<string>
 		<id>901247</id>
 		<name>STR_Abyssrank_dark_15</name>
-		<body>Major</body>
+		<body>General</body>
 	</string>
 	<string>
 		<id>901248</id>
 		<name>STR_Abyssrank_dark_16</name>
-		<body>Coronel</body>
+		<body>General da Divisão</body>
 	</string>
 	<string>
 		<id>901249</id>
@@ -8184,7 +8184,7 @@
 	<string>
 		<id>901250</id>
 		<name>STR_Abyssrank_dark_18</name>
-		<body>Governador</body>
+		<body>Marechal</body>
 	</string>
 	<string>
 		<id>901251</id>
@@ -8194,12 +8194,12 @@
 	<string>
 		<id>901252</id>
 		<name>STR_CMD_FORCE_INVITE</name>
-		<body>/InviteToAlliance,/AInvite,/AllianceInvite</body>
+		<body>/InviteToAlliance,/AInvite,/AllianceInvite,/ConvidarAliança,/ConvidarParaAliança</body>
 	</string>
 	<string>
 		<id>901253</id>
 		<name>STR_CMD_FORCE_LEAVE</name>
-		<body>/LeaveAlliance,/ALeave</body>
+		<body>/LeaveAlliance,/ALeave,/SairAliança,/SairDaAliança</body>
 	</string>
 	<string>
 		<id>901254</id>
@@ -8209,12 +8209,12 @@
 	<string>
 		<id>901255</id>
 		<name>STR_MSGBOX_FORCE_INVITE</name>
-		<body>%0 has invited you to join an Alliance. Do you want to accept it?</body>
+		<body>%0 convidou você para se juntar a uma aliança. Você aceita?</body>
 	</string>
 	<string>
 		<id>901256</id>
 		<name>STR_MSGBOX_FORCE_INVITE_PARTY</name>
-		<body>&lt;p&gt;%0 has invited your group to join the Alliance.&lt;/p&gt;&#xA;&lt;p&gt;Your party will be &lt;font color=&quot;ff0000&quot;&gt;disbanded&lt;/font&gt; if you accept the invitation.&lt;/p&gt;&#xA;&lt;p&gt;Do you want to accept the invitation?&lt;/p&gt;</body>
+		<body>&lt;p&gt;%0 convidou seu grupo para se juntar à Aliança.&lt;/p&gt;&#xA;&lt;p&gt;Seu grupo será &lt;font color=&quot;ff0000&quot;&gt;DESFEITO&lt;/font&gt; se aceitar o convite.&lt;/p&gt;&#xA;&lt;p&gt;Deseja aceitar o convite?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901257</id>
@@ -8234,32 +8234,32 @@
 	<string>
 		<id>901260</id>
 		<name>STR_MSGBOX_FORCE_CHANGE_LEADER</name>
-		<body>Do you want to make %0 the Alliance captain?</body>
+		<body>Você quer fazer de %0 o capitão da Aliança?</body>
 	</string>
 	<string>
 		<id>901261</id>
 		<name>STR_MSGBOX_FORCE_BANISH</name>
-		<body>Do you want to kick %0 out of the Alliance?</body>
+		<body>Você quer expulsar %0 da Aliança?</body>
 	</string>
 	<string>
 		<id>901262</id>
 		<name>STR_MSGBOX_FORCE_PROMOTE</name>
-		<body>Do you want to appoint %0 as the Alliance vice captain?</body>
+		<body>Deseja nomear %0 como vice-capitão da Aliança?</body>
 	</string>
 	<string>
 		<id>901263</id>
 		<name>STR_MSGBOX_FORCE_DEMOTE</name>
-		<body>Do you want to demote %0 to an Alliance member?</body>
+		<body>Deseja rebaixar %0 a membro da Aliança?</body>
 	</string>
 	<string>
 		<id>901264</id>
 		<name>STR_POPUP_FORCE_INVITE</name>
-		<body>Invite to Alliance</body>
+		<body>Convidar para Aliança</body>
 	</string>
 	<string>
 		<id>901265</id>
 		<name>STR_POPUP_FORCE_BANISH</name>
-		<body>Ban from Alliance</body>
+		<body>Expulsar da Aliança</body>
 	</string>
 	<string>
 		<id>901266</id>
@@ -8284,32 +8284,32 @@
 	<string>
 		<id>901270</id>
 		<name>STR_POPUP_BANISH</name>
-		<body>Remover</body>
+		<body>Expulsar</body>
 	</string>
 	<string>
 		<id>901271</id>
 		<name>STR_POPUP_INVITE</name>
-		<body>Convidar para o Grupo</body>
+		<body>Convidar para Grupo</body>
 	</string>
 	<string>
 		<id>901272</id>
 		<name>STR_HTML_DIALOG_COMPONENT_TITLE</name>
-		<body>&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;button font_xml=&quot;v3_quest_reward&quot; width=&quot;320&quot; height=&quot;28&quot; skin=&quot;v4_npcdlg_reward_button&quot; icon=&quot;v4_npcdlg_reward&quot; align=&quot;left&quot;&gt;Supplied Materials&lt;/button&gt;&lt;/p&gt;&lt;listview width=&quot;320&quot; itemHeight=&quot;40&quot; selectable=&quot;true&quot; skin=&quot;v4_listview_quest&quot;&gt;</body>
+		<body>&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;button font_xml=&quot;v3_quest_reward&quot; width=&quot;320&quot; height=&quot;28&quot; skin=&quot;v4_npcdlg_reward_button&quot; icon=&quot;v4_npcdlg_reward&quot; align=&quot;left&quot;&gt;Materiais Fornecidos&lt;/button&gt;&lt;/p&gt;&lt;listview width=&quot;320&quot; itemHeight=&quot;40&quot; selectable=&quot;true&quot; skin=&quot;v4_listview_quest&quot;&gt;</body>
 	</string>
 	<string>
 		<id>901273</id>
 		<name>STR_HTML_DIALOG_PRODUCT_TITLE</name>
-		<body>&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;button font_xml=&quot;v3_quest_reward&quot; width=&quot;320&quot; height=&quot;28&quot; skin=&quot;v4_npcdlg_reward_button&quot; icon=&quot;v4_npcdlg_reward&quot; align=&quot;left&quot;&gt;Requested Goods&lt;/button&gt;&lt;/p&gt;&lt;listview width=&quot;320&quot; itemHeight=&quot;40&quot; selectable=&quot;true&quot; skin=&quot;v4_listview_quest&quot;&gt;</body>
+		<body>&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;button font_xml=&quot;v3_quest_reward&quot; width=&quot;320&quot; height=&quot;28&quot; skin=&quot;v4_npcdlg_reward_button&quot; icon=&quot;v4_npcdlg_reward&quot; align=&quot;left&quot;&gt;Mercadorias Solicitadas&lt;/button&gt;&lt;/p&gt;&lt;listview width=&quot;320&quot; itemHeight=&quot;40&quot; selectable=&quot;true&quot; skin=&quot;v4_listview_quest&quot;&gt;</body>
 	</string>
 	<string>
 		<id>901274</id>
 		<name>STR_HTML_QUEST_COMPONENT_TITLE</name>
-		<body>&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;font font_xml=&quot;v3_quest_subtitle&quot;&gt;Supplied Materials&lt;/font&gt;&lt;/p&gt;</body>
+		<body>&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;font font_xml=&quot;v3_quest_subtitle&quot;&gt;Materiais Fornecidos&lt;/font&gt;&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901275</id>
 		<name>STR_HTML_QUEST_PRODUCT_TITLE</name>
-		<body>&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;font font_xml=&quot;v3_quest_subtitle&quot;&gt;Requested Goods&lt;/font&gt;&lt;/p&gt;</body>
+		<body>&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;font font_xml=&quot;v3_quest_subtitle&quot;&gt;Mercadorias Solicitadas&lt;/font&gt;&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901276</id>
@@ -8319,7 +8319,7 @@
 	<string>
 		<id>901277</id>
 		<name>STR_MSG_CANNOT_LEAVE_FORCE_DURING_PATH_FLYING</name>
-		<body>You cannot leave the Alliance during teleport.</body>
+		<body>Você não pode deixar a Aliança durante o teletransporte.</body>
 	</string>
 	<string>
 		<id>901278</id>
@@ -8344,7 +8344,7 @@
 	<string>
 		<id>901282</id>
 		<name>STR_CHAT_MODE_FORCE_ALERT</name>
-		<body>Alliance Notification</body>
+		<body>Notificação de Aliança</body>
 	</string>
 	<string>
 		<id>901283</id>
@@ -8359,7 +8359,7 @@
 	<string>
 		<id>901285</id>
 		<name>STR_MSG_NOT_ENOUGH_KINA</name>
-		<body>You don&apos;t have enough Kinah. It costs %num0 Kinah.</body>
+		<body>Você não tem Kinah suficiente. Custa %num0 Kinah.</body>
 	</string>
 	<string>
 		<id>901286</id>
@@ -8369,7 +8369,7 @@
 	<string>
 		<id>901287</id>
 		<name>STR_TOOLTIP_SKILL_STAT_FLYSPEED</name>
-		<body>Velocidade de vôo</body>
+		<body>Vel. de Vôo</body>
 	</string>
 	<string>
 		<id>901288</id>
@@ -8394,207 +8394,207 @@
 	<string>
 		<id>901292</id>
 		<name>STR_MSGBOX_FORCE_INVITE_OTHER</name>
-		<body>Enter the name of the character you want to invite to your Alliance.</body>
+		<body>Digite o nome do personagem que deseja convidar para sua Aliança.</body>
 	</string>
 	<string>
 		<id>901293</id>
 		<name>STR_POPUP_TACTICS_SIGN_DEFAULT</name>
-		<body>Select Default Brand</body>
+		<body>Selecione a marcação padrão</body>
 	</string>
 	<string>
 		<id>901294</id>
 		<name>STR_POPUP_FORCE_PROMOTE</name>
-		<body>Appoint Alliance Vice Captain</body>
+		<body>Nomear Vice-Capitão da Aliança</body>
 	</string>
 	<string>
 		<id>901295</id>
 		<name>STR_POPUP_FORCE_LEAVE</name>
-		<body>Leave Alliance</body>
+		<body>Sair da Aliança</body>
 	</string>
 	<string>
 		<id>901296</id>
 		<name>STR_POPUP_FORCE_DEMOTE</name>
-		<body>Demote to Alliance Member</body>
+		<body>Rebaixar a Membro da Aliança</body>
 	</string>
 	<string>
 		<id>901297</id>
 		<name>STR_POPUP_FORCE_CHANGE_LEADER</name>
-		<body>Make Alliance Captain</body>
+		<body>Tornar Capitão da Aliança</body>
 	</string>
 	<string>
 		<id>901298</id>
 		<name>STR_MSG_TITLE_VENDOR_FAIL</name>
-		<body>The brokered item cannot be canceled as your Inventory (Cube) is full.</body>
+		<body>O item negociado não pode ser cancelado porque seu Inventário (Cubo) está cheio.</body>
 	</string>
 	<string>
 		<id>901299</id>
 		<name>STR_POPUP_TACTICS_SIGN_SET_DEFAULT</name>
-		<body>Set Default Brand</body>
+		<body>Definir marcação padrão</body>
 	</string>
 	<string>
 		<id>901300</id>
 		<name>STR_KEYMAP_FORCE_SELECT_1</name>
-		<body>Select Group Member 1</body>
+		<body>Selecionar Membro do Grupo 1</body>
 	</string>
 	<string>
 		<id>901301</id>
 		<name>STR_KEYMAP_FORCE_SELECT_2</name>
-		<body>Select Group Member 2</body>
+		<body>Selecionar Membro do Grupo 2</body>
 	</string>
 	<string>
 		<id>901302</id>
 		<name>STR_KEYMAP_FORCE_SELECT_3</name>
-		<body>Select Group Member 3</body>
+		<body>Selecionar Membro do Grupo 3</body>
 	</string>
 	<string>
 		<id>901303</id>
 		<name>STR_KEYMAP_FORCE_SELECT_4</name>
-		<body>Select Group Member 4</body>
+		<body>Selecionar Membro do Grupo 4</body>
 	</string>
 	<string>
 		<id>901304</id>
 		<name>STR_KEYMAP_FORCE_SELECT_5</name>
-		<body>Select Group Member 5</body>
+		<body>Selecionar Membro do Grupo 5</body>
 	</string>
 	<string>
 		<id>901305</id>
 		<name>STR_KEYMAP_FORCE_SELECT_6</name>
-		<body>Select Group Member 6</body>
+		<body>Selecionar Membro do Grupo 6</body>
 	</string>
 	<string>
 		<id>901306</id>
 		<name>STR_KEYMAP_FORCE_SELECT_7</name>
-		<body>Select Group Member 1</body>
+		<body>Selecionar Membro do Grupo 1</body>
 	</string>
 	<string>
 		<id>901307</id>
 		<name>STR_KEYMAP_FORCE_SELECT_8</name>
-		<body>Select Group Member 2</body>
+		<body>Selecionar Membro do Grupo 2</body>
 	</string>
 	<string>
 		<id>901308</id>
 		<name>STR_KEYMAP_FORCE_SELECT_9</name>
-		<body>Select Group Member 3</body>
+		<body>Selecionar Membro do Grupo 3</body>
 	</string>
 	<string>
 		<id>901309</id>
 		<name>STR_KEYMAP_FORCE_SELECT_10</name>
-		<body>Select Group Member 4</body>
+		<body>Selecionar Membro do Grupo 4</body>
 	</string>
 	<string>
 		<id>901310</id>
 		<name>STR_KEYMAP_FORCE_SELECT_11</name>
-		<body>Select Group Member 5</body>
+		<body>Selecionar Membro do Grupo 5</body>
 	</string>
 	<string>
 		<id>901311</id>
 		<name>STR_KEYMAP_FORCE_SELECT_12</name>
-		<body>Select Group Member 6</body>
+		<body>Selecionar Membro do Grupo 6</body>
 	</string>
 	<string>
 		<id>901312</id>
 		<name>STR_KEYMAP_FORCE_SELECT_13</name>
-		<body>Select Group Member 1</body>
+		<body>Selecionar Membro do Grupo 1</body>
 	</string>
 	<string>
 		<id>901313</id>
 		<name>STR_KEYMAP_FORCE_SELECT_14</name>
-		<body>Select Group Member 2</body>
+		<body>Selecionar Membro do Grupo 2</body>
 	</string>
 	<string>
 		<id>901314</id>
 		<name>STR_KEYMAP_FORCE_SELECT_15</name>
-		<body>Select Group Member 3</body>
+		<body>Selecionar Membro do Grupo 3</body>
 	</string>
 	<string>
 		<id>901315</id>
 		<name>STR_KEYMAP_FORCE_SELECT_16</name>
-		<body>Select Group Member 4</body>
+		<body>Selecionar Membro do Grupo 4</body>
 	</string>
 	<string>
 		<id>901316</id>
 		<name>STR_KEYMAP_FORCE_SELECT_17</name>
-		<body>Select Group Member 5</body>
+		<body>Selecionar Membro do Grupo 5</body>
 	</string>
 	<string>
 		<id>901317</id>
 		<name>STR_KEYMAP_FORCE_SELECT_18</name>
-		<body>Select Group Member 6</body>
+		<body>Selecionar Membro do Grupo 6</body>
 	</string>
 	<string>
 		<id>901318</id>
 		<name>STR_KEYMAP_FORCE_SELECT_19</name>
-		<body>Select Group Member 1</body>
+		<body>Selecionar Membro do Grupo 1</body>
 	</string>
 	<string>
 		<id>901319</id>
 		<name>STR_KEYMAP_FORCE_SELECT_20</name>
-		<body>Select Group Member 2</body>
+		<body>Selecionar Membro do Grupo 2</body>
 	</string>
 	<string>
 		<id>901320</id>
 		<name>STR_KEYMAP_FORCE_SELECT_21</name>
-		<body>Select Group Member 3</body>
+		<body>Selecionar Membro do Grupo 3</body>
 	</string>
 	<string>
 		<id>901321</id>
 		<name>STR_KEYMAP_FORCE_SELECT_22</name>
-		<body>Select Group Member 4</body>
+		<body>Selecionar Membro do Grupo 4</body>
 	</string>
 	<string>
 		<id>901322</id>
 		<name>STR_KEYMAP_FORCE_SELECT_23</name>
-		<body>Select Group Member 5</body>
+		<body>Selecionar Membro do Grupo 5</body>
 	</string>
 	<string>
 		<id>901323</id>
 		<name>STR_KEYMAP_FORCE_SELECT_24</name>
-		<body>Select Group Member 6</body>
+		<body>Selecionar Membro do Grupo 6</body>
 	</string>
 	<string>
 		<id>901324</id>
 		<name>STR_KEYMAP_TITLE_FORCE_PARTY_1</name>
-		<body>Alliance - Group1</body>
+		<body>Aliança - Grupo1</body>
 	</string>
 	<string>
 		<id>901325</id>
 		<name>STR_KEYMAP_TITLE_FORCE_PARTY_2</name>
-		<body>Alliance - Group2</body>
+		<body>Aliança - Grupo2</body>
 	</string>
 	<string>
 		<id>901326</id>
 		<name>STR_KEYMAP_TITLE_FORCE_PARTY_3</name>
-		<body>Alliance - Group3</body>
+		<body>Aliança - Grupo3</body>
 	</string>
 	<string>
 		<id>901327</id>
 		<name>STR_KEYMAP_TITLE_FORCE_PARTY_4</name>
-		<body>Alliance - Group4</body>
+		<body>Aliança - Grupo4</body>
 	</string>
 	<string>
 		<id>901328</id>
 		<name>STR_KEYMAP_TITLE_TACTICS_SIGN</name>
-		<body>Brand</body>
+		<body>Marcação</body>
 	</string>
 	<string>
 		<id>901329</id>
 		<name>STR_KEYMAP_TACTICS_SIGN_DEFAULT</name>
-		<body>Show Default Brand</body>
+		<body>Mostrar Marcação Padrão</body>
 	</string>
 	<string>
 		<id>901330</id>
 		<name>STR_KEYMAP_TACTICS_SIGN_NUMBER</name>
-		<body>Show Number %0</body>
+		<body>Mostrar Número %0</body>
 	</string>
 	<string>
 		<id>901331</id>
 		<name>STR_KEYMAP_TACTICS_SIGN_SIGNAL</name>
-		<body>Show Brand %0</body>
+		<body>Mostrar Marcação %0</body>
 	</string>
 	<string>
 		<id>901332</id>
 		<name>STR_MACRO_TACTICS_SIGN</name>
-		<body>/Sign,/FSign,/PSign,/Brand,/b</body>
+		<body>/Sign,/FSign,/PSign,/Brand,/b,/Marcação</body>
 	</string>
 	<string>
 		<id>901333</id>
@@ -8604,17 +8604,17 @@
 	<string>
 		<id>901334</id>
 		<name>STR_TOOLTIP_FORTRESS_ABYSS_RANK</name>
-		<body>Floating Island Grade:</body>
+		<body>Grau de Ilha Flutuante:</body>
 	</string>
 	<string>
 		<id>901335</id>
 		<name>STR_MSG_BANNED_CHAR_NAME</name>
-		<body>The character name includes forbidden words.</body>
+		<body>O nome do personagem inclui palavras proibidas.</body>
 	</string>
 	<string>
 		<id>901336</id>
 		<name>STR_MSG_INVALID_CHAR_NAME</name>
-		<body>The character name includes invalid letters.</body>
+		<body>O nome do personagem inclui letras inválidas.</body>
 	</string>
 	<string>
 		<id>901337</id>
@@ -8624,7 +8624,7 @@
 	<string>
 		<id>901338</id>
 		<name>STR_LOOT_NO_RIGHT</name>
-		<body>You are not authorized to examine the corpse.</body>
+		<body>Você não está autorizado a examinar o cadáver.</body>
 	</string>
 	<string>
 		<id>901339</id>
@@ -8694,7 +8694,7 @@
 	<string>
 		<id>901352</id>
 		<name>STR_MSGBOX_TUTORIAL_CLEAR_TEMP</name>
-		<body>The Tutorial has been reset. This is a test only function.</body>
+		<body>O Tutorial foi redefinido. Esta é uma função apenas de teste.</body>
 	</string>
 	<string>
 		<id>901353</id>
@@ -8704,7 +8704,7 @@
 	<string>
 		<id>901354</id>
 		<name>STR_MOVE_PORTAL_ERROR_INVALID_RACE</name>
-		<body>You cannot use it because you belong to a different faction.</body>
+		<body>Você não pode usá-lo porque pertence a uma facção diferente.</body>
 	</string>
 	<string>
 		<id>901355</id>
@@ -8714,7 +8714,7 @@
 	<string>
 		<id>901356</id>
 		<name>STR_TOOLTIP_PET_MODECHANGE</name>
-		<body>%0 State</body>
+		<body>%0 Estado</body>
 	</string>
 	<string>
 		<id>901357</id>
@@ -8734,12 +8734,12 @@
 	<string>
 		<id>901360</id>
 		<name>STR_TUTORIAL_TITLE_TALK</name>
-		<body>Bate-papo</body>
+		<body>Chat</body>
 	</string>
 	<string>
 		<id>901361</id>
 		<name>STR_TUTORIAL_TITLE_LOOT</name>
-		<body>'Loot'</body>
+		<body>Loot</body>
 	</string>
 	<string>
 		<id>901362</id>
@@ -8769,12 +8769,12 @@
 	<string>
 		<id>901367</id>
 		<name>STR_CMD_ATTR_CLEAR</name>
-		<body>Clear,Reset</body>
+		<body>Clear,Reset,Limpar</body>
 	</string>
 	<string>
 		<id>901368</id>
 		<name>STR_CMD_LEAVE</name>
-		<body>/Leave</body>
+		<body>/Leave,/Sair</body>
 	</string>
 	<string>
 		<id>901369</id>
@@ -8784,7 +8784,7 @@
 	<string>
 		<id>901370</id>
 		<name>STR_CMD_CHANGE_LEADER</name>
-		<body>/Entrust,/Leader</body>
+		<body>/Entrust,/Leader,/Líder</body>
 	</string>
 	<string>
 		<id>901371</id>
@@ -8799,27 +8799,27 @@
 	<string>
 		<id>901373</id>
 		<name>STR_CMD_LEADERONLY</name>
-		<body>/Captain,/Master</body>
+		<body>/Captain,/Master,/LíderLoot</body>
 	</string>
 	<string>
 		<id>901374</id>
 		<name>STR_CMD_PARTY_LEADERONLY</name>
-		<body>/GroupLeader,/GroupLeaderLoot</body>
+		<body>/GroupLeader,/GroupLeaderLoot,/LíderDoGrupo</body>
 	</string>
 	<string>
 		<id>901375</id>
 		<name>STR_CMD_FORCE_PROMOTE</name>
-		<body>/Appoint,/AppointViceCaptain,/Promote,/FPromote,[%chatcmd:/promote]</body>
+		<body>/Appoint,/AppointViceCaptain,/Promote,/FPromote,/Promover,[%chatcmd:/promote]</body>
 	</string>
 	<string>
 		<id>901376</id>
 		<name>STR_CMD_FORCE_DEMOTE</name>
-		<body>/Demote,/DemoteToMember,/FDemote</body>
+		<body>/Demote,/DemoteToMember,/FDemote,/Rebaixar</body>
 	</string>
 	<string>
 		<id>901377</id>
 		<name>STR_CMD_FORCE_READY</name>
-		<body>/Ready,/BattleReady,/AReady</body>
+		<body>/Ready,/BattleReady,/AReady,/Pronto</body>
 	</string>
 	<string>
 		<id>901378</id>
@@ -8839,27 +8839,27 @@
 	<string>
 		<id>901381</id>
 		<name>STR_CMD_FOLLOW</name>
-		<body>/Follow</body>
+		<body>/Follow,/Seguir</body>
 	</string>
 	<string>
 		<id>901382</id>
 		<name>STR_CMD_INSPECTION</name>
-		<body>/Examine,/ExamineClosely,/Inspect</body>
+		<body>/Examine,/ExamineClosely,/Inspect,/Examinar</body>
 	</string>
 	<string>
 		<id>901383</id>
 		<name>STR_CMD_TRADE</name>
-		<body>/Trade</body>
+		<body>/Trade,/Trocar</body>
 	</string>
 	<string>
 		<id>901384</id>
 		<name>STR_CMD_DUEL</name>
-		<body>/Duel</body>
+		<body>/Duel,/Duelo</body>
 	</string>
 	<string>
 		<id>901385</id>
 		<name>STR_CMD_YIELD</name>
-		<body>/Surrender,/Abstain,/GiveUp,/Yield</body>
+		<body>/Surrender,/Abstain,/GiveUp,/Yield,/Desistir</body>
 	</string>
 	<string>
 		<id>901386</id>
@@ -8879,27 +8879,27 @@
 	<string>
 		<id>901389</id>
 		<name>STR_CMD_LOGOUT</name>
-		<body>/LogOut,/Disconnect,/LogOff,/Camp</body>
+		<body>/LogOut,/Disconnect,/LogOff,/Camp,/Desconectar</body>
 	</string>
 	<string>
 		<id>901390</id>
 		<name>STR_CMD_EXIT</name>
-		<body>/Exit,/Quit</body>
+		<body>/Exit,/Quit,/Sair</body>
 	</string>
 	<string>
 		<id>901391</id>
 		<name>STR_CMD_PLAYTIME</name>
-		<body>/PlayingTime,/PlayTime,/Played</body>
+		<body>/PlayingTime,/PlayTime,/Played,/Jogando</body>
 	</string>
 	<string>
 		<id>901392</id>
 		<name>STR_CMD_TIME</name>
-		<body>/Time,/TimeTemp</body>
+		<body>/Time,/TimeTemp,/Horas</body>
 	</string>
 	<string>
 		<id>901393</id>
 		<name>STR_CMD_FLY</name>
-		<body>/Flight,/FlightMode,/Fly,/FlyMode</body>
+		<body>/Flight,/FlightMode,/Fly,/FlyMode,/Voar</body>
 	</string>
 	<string>
 		<id>901394</id>
@@ -8909,7 +8909,7 @@
 	<string>
 		<id>901395</id>
 		<name>STR_CMD_GUILD_NOTICE</name>
-		<body>/Notice,/LegionNotice,/GNotice,/GMOTD,/GuildNotice</body>
+		<body>/Notice,/LegionNotice,/GNotice,/GMOTD,/GuildNotice,/Notícia</body>
 	</string>
 	<string>
 		<id>901396</id>
@@ -8919,7 +8919,7 @@
 	<string>
 		<id>901397</id>
 		<name>STR_MSG_RECONNECT_AUTH_FAILED</name>
-		<body>Failed to reconnect to the authorization server.</body>
+		<body>Falha ao reconectar ao servidor de autorização.</body>
 	</string>
 	<string>
 		<id>901398</id>
@@ -8934,12 +8934,12 @@
 	<string>
 		<id>901400</id>
 		<name>STR_CHAT_CMD_ALERT</name>
-		<body>/Alert</body>
+		<body>/Alert,/Alerta</body>
 	</string>
 	<string>
 		<id>901401</id>
 		<name>STR_CHAR_MODE_CMD_ALERT</name>
-		<body>/Alert</body>
+		<body>/Alert,/Alerta</body>
 	</string>
 	<string>
 		<id>901402</id>
@@ -8949,12 +8949,12 @@
 	<string>
 		<id>901403</id>
 		<name>STR_POPUP_PARTY_START_VOICECHAT</name>
-		<body>Use voice chatting</body>
+		<body>Usar chat por voz</body>
 	</string>
 	<string>
 		<id>901404</id>
 		<name>STR_POPUP_PARTY_END_VOICECHAT</name>
-		<body>Stop voice chatting</body>
+		<body>Parar chat por voz</body>
 	</string>
 	<string>
 		<id>901405</id>
@@ -8974,7 +8974,7 @@
 	<string>
 		<id>901408</id>
 		<name>STR_GAUGE_ITEM_ENCHANT</name>
-		<body>Enchanting</body>
+		<body>Encantando</body>
 	</string>
 	<string>
 		<id>901409</id>
@@ -9049,7 +9049,7 @@
 	<string>
 		<id>901425</id>
 		<name>STR_UI_LOOT_TITLE_ACCOUNT</name>
-		<body>Bidding</body>
+		<body>Oferta</body>
 	</string>
 	<string>
 		<id>901426</id>
@@ -9069,7 +9069,7 @@
 	<string>
 		<id>901429</id>
 		<name>STR_MSGBOX_LOOT_ACCOUNT_MSG</name>
-		<body>Please enter the amount to be settled.</body>
+		<body>Por favor, insira o valor a ser ofertado.</body>
 	</string>
 	<string>
 		<id>901430</id>
@@ -9079,7 +9079,7 @@
 	<string>
 		<id>901431</id>
 		<name>STR_MSGBOX_LOOT_ACCOUNT_CONFIRM</name>
-		<body>You have entered %0. Click OK if this is correct.</body>
+		<body>Você digitou %0. Clique em OK se estiver correto.</body>
 	</string>
 	<string>
 		<id>901432</id>
@@ -9094,7 +9094,7 @@
 	<string>
 		<id>901434</id>
 		<name>STR_POSLINK_MENU_INSERT_TO_CHAT</name>
-		<body>Enter in Chat Window</body>
+		<body>Digitar na janela de chat</body>
 	</string>
 	<string>
 		<id>901435</id>
@@ -9124,112 +9124,112 @@
 	<string>
 		<id>901440</id>
 		<name>STR_MSGBOX_EXPRESS_MAIL_CLOSE_CONFIRM_MSG</name>
-		<body>Once you close this window, Express Mail will be unavailable for a while. Are you sure you want to close the window?</body>
+		<body>Depois de fechar esta janela, o Mail Expresso ficará indisponível por um tempo. Tem certeza de que deseja fechar a janela?</body>
 	</string>
 	<string>
 		<id>901441</id>
 		<name>STR_MSGBOX_POSLINK_RENAME</name>
-		<body>Name this marked location.</body>
+		<body>Nomear este local marcado.</body>
 	</string>
 	<string>
 		<id>901442</id>
 		<name>STR_MSGBOX_POSLINK_DELETE_ALL</name>
-		<body>Are you sure you want to delete all marked locations?</body>
+		<body>Tem certeza de que deseja excluir todos os locais marcados?</body>
 	</string>
 	<string>
 		<id>901443</id>
 		<name>STR_OPTION_SOUND_SYSTEM_DEFAULT_E</name>
-		<body>Voice 3</body>
+		<body>Voz 3</body>
 	</string>
 	<string>
 		<id>901444</id>
 		<name>STR_OPTION_SOUND_SYSTEM_FRIEND_E</name>
-		<body>Voice 4</body>
+		<body>Voz 4</body>
 	</string>
 	<string>
 		<id>901445</id>
 		<name>STR_POPUP_PARTY_CHANNEL</name>
-		<body>Change to Group Leader Channel</body>
+		<body>Mudar para o canal do líder do grupo</body>
 	</string>
 	<string>
 		<id>901446</id>
 		<name>STR_MSGBOX_SPLIT_PARTY_MSG</name>
-		<body>&lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt; will be distributed among group members. Do you want to continue?</body>
+		<body>&lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt; será distribuído entre os membros do Grupo. Você deseja continuar?</body>
 	</string>
 	<string>
 		<id>901447</id>
 		<name>STR_MSGBOX_SPLIT_FORCE_MSG</name>
-		<body>&lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt; will be distributed among Alliance members. Do you want to continue?</body>
+		<body>&lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt; será distribuído entre os membros da Aliança. Você deseja continuar?</body>
 	</string>
 	<string>
 		<id>901448</id>
 		<name>STR_SKILL_INFO_LEARN_STIGMA</name>
-		<body>Normal Stigma</body>
+		<body>Stigma Normal</body>
 	</string>
 	<string>
 		<id>901449</id>
 		<name>STR_TIME_LEFT</name>
-		<body>%0 left</body>
+		<body>%0 restante</body>
 	</string>
 	<string>
 		<id>901450</id>
 		<name>STR_COOLTIME_LEFT</name>
-		<body>cooldown time: %0 left</body>
+		<body>tempo de recarga: %0 restante</body>
 	</string>
 	<string>
 		<id>901451</id>
 		<name>STR_UI_LOOT_OPTION_RANK_JUNK</name>
-		<body>Misc. or above</body>
+		<body>Todos</body>
 	</string>
 	<string>
 		<id>901452</id>
 		<name>STR_UI_LOOT_OPTION_RANK_COMMON</name>
-		<body>Common or above</body>
+		<body>Common ou acima</body>
 	</string>
 	<string>
 		<id>901453</id>
 		<name>STR_UI_LOOT_OPTION_RANK_RARE</name>
-		<body>Superior or above</body>
+		<body>Superior ou acima</body>
 	</string>
 	<string>
 		<id>901454</id>
 		<name>STR_UI_LOOT_OPTION_RANK_LEGEND</name>
-		<body>Heroic or above</body>
+		<body>Heroic ou acima</body>
 	</string>
 	<string>
 		<id>901455</id>
 		<name>STR_UI_LOOT_OPTION_RANK_UNIQUE</name>
-		<body>Fabled or above</body>
+		<body>Fabled ou acima</body>
 	</string>
 	<string>
 		<id>901456</id>
 		<name>STR_UI_LOOT_OPTION_RANK_EPIC</name>
-		<body>Eternal or above</body>
+		<body>Eternal ou acima</body>
 	</string>
 	<string>
 		<id>901457</id>
 		<name>STR_UI_CHAT_MENU_LOCK</name>
-		<body>Lock Chat Window</body>
+		<body>Bloquear janela de Chat</body>
 	</string>
 	<string>
 		<id>901458</id>
 		<name>STR_UI_CHAT_MENU_UNLOCK</name>
-		<body>Unlock Chat Window</body>
+		<body>Desbloquear janela de Chat</body>
 	</string>
 	<string>
 		<id>901459</id>
 		<name>STR_UI_CHAT_MENU_DEFAULT_OPTION</name>
-		<body>Reset Chat Window</body>
+		<body>Redefinir janela de Chat</body>
 	</string>
 	<string>
 		<id>901460</id>
 		<name>STR_UI_CHAT_MENU_FONT_SIZE</name>
-		<body>Font Size</body>
+		<body>Tamanho da Letra</body>
 	</string>
 	<string>
 		<id>901461</id>
 		<name>STR_UI_CHAT_MENU_FONT_SIZE_LARGE</name>
-		<body>Big</body>
+		<body>Grande</body>
 	</string>
 	<string>
 		<id>901462</id>
@@ -9239,7 +9239,7 @@
 	<string>
 		<id>901463</id>
 		<name>STR_UI_CHAT_MENU_FONT_SIZE_SMALL</name>
-		<body>Small</body>
+		<body>Pequena</body>
 	</string>
 	<string>
 		<id>901464</id>
@@ -9249,32 +9249,32 @@
 	<string>
 		<id>901465</id>
 		<name>STR_MAGICAL_SKILL_BOOST</name>
-		<body>Magic Boost</body>
+		<body>Dano Mágico</body>
 	</string>
 	<string>
 		<id>901466</id>
 		<name>STR_TOOLTIP_FORTRESS_NEX_PVP</name>
-		<body>Fortress condition after %0</body>
+		<body>Condição da Fortaleza após %0</body>
 	</string>
 	<string>
 		<id>901467</id>
 		<name>STR_UI_LOOT_PARTY_LEADER_ONLY</name>
-		<body>Leader</body>
+		<body>Líder</body>
 	</string>
 	<string>
 		<id>901468</id>
 		<name>STR_UI_LOOT_FORCE_LEADER_ONLY</name>
-		<body>Captain Loot</body>
+		<body>Loot do Capitão</body>
 	</string>
 	<string>
 		<id>901469</id>
 		<name>STR_MSGBOX_RACE_CONFIRM</name>
-		<body>You have selected %0. If you have an %0 character, you cannot create an %1 character. Do you want to continue?</body>
+		<body>Você selecionou %0. Se você tiver um personagem %0, não poderá criar um personagem %1. Você deseja continuar?</body>
 	</string>
 	<string>
 		<id>901470</id>
 		<name>STR_TRADE_WARNING_ABYSS_USER_RANKDOWN</name>
-		<body>If you purchase it, your Abyss rank for the next season can be lowered. Do you want to continue the trade?</body>
+		<body>Se você comprar, seu Rank de Abyss para a próxima temporada pode ser reduzido. Deseja continuar?</body>
 	</string>
 	<string>
 		<id>901471</id>
@@ -9284,87 +9284,87 @@
 	<string>
 		<id>901472</id>
 		<name>STR_MSGBOX_LOGIN_ACCOUNT_ITEM</name>
-		<body>There are %0 charged items that you have not received yet. Do you want to acquire the charged items with %1?</body>
+		<body>Existem %0 itens cobrados que você ainda não recebeu. Deseja adquirir os itens cobrados com %1?</body>
 	</string>
 	<string>
 		<id>901473</id>
 		<name>STR_TOOLTIP_SKILL_STAT_ALLSPEED</name>
-		<body>Movement Speed, Flight Speed</body>
+		<body>Velocidade de Movimento, Velocidade de Voo</body>
 	</string>
 	<string>
 		<id>901474</id>
 		<name>STR_MENU_COPY_TO_MEMO</name>
-		<body>Copy to Memo Pad</body>
+		<body>Copiar para bloco de notas</body>
 	</string>
 	<string>
 		<id>901475</id>
 		<name>STR_MENU_MEMO</name>
-		<body>Memo Pad</body>
+		<body>Bloco de Notas</body>
 	</string>
 	<string>
 		<id>901476</id>
 		<name>STR_WINDOW_ABYSS_RANK</name>
-		<body>Abyss Ranking</body>
+		<body>Ranking do Abyss</body>
 	</string>
 	<string>
 		<id>901477</id>
 		<name>STR_ABYSS_RANK_NEW</name>
-		<body>New</body>
+		<body>Novo</body>
 	</string>
 	<string>
 		<id>901478</id>
 		<name>STR_ITEM_COOLING_TIME</name>
-		<body>Reuse Time</body>
+		<body>Tempo de Reuso</body>
 	</string>
 	<string>
 		<id>901479</id>
 		<name>STR_MSGBOX_SPLIT_PARTY_MSG_ENTER_GOLD</name>
-		<body>Split how much Kinah among group members?.</body>
+		<body>Dividir quanto Kinah entre os membros do Grupo?</body>
 	</string>
 	<string>
 		<id>901480</id>
 		<name>STR_MSGBOX_SPLIT_FORCE_MSG_ENTER_GOLD</name>
-		<body>Split how much Kinah among Alliance members?</body>
+		<body>Dividir quanto Kinah entre os membros da Aliança?</body>
 	</string>
 	<string>
 		<id>901481</id>
 		<name>STR_PARTY_MENU_SPLIT_PARTY</name>
-		<body>Distribute Cash to Group</body>
+		<body>Distribuir Kinah para o Grupo</body>
 	</string>
 	<string>
 		<id>901482</id>
 		<name>STR_PARTY_MENU_SPLIT_FORCE</name>
-		<body>Distribute Cash to Alliance</body>
+		<body>Distribuir Kinah para a Aliança</body>
 	</string>
 	<string>
 		<id>901483</id>
 		<name>STR_TOOLTIP_OTHER_CHANNEL</name>
-		<body>%0 (Channel %1)</body>
+		<body>%0 (Canal %1)</body>
 	</string>
 	<string>
 		<id>901484</id>
 		<name>STR_MAGICAL_HIT_ACCURACY</name>
-		<body>Magical Acc</body>
+		<body>Precisão Mágica</body>
 	</string>
 	<string>
 		<id>901485</id>
 		<name>STR_TOOLTIP_SKILL_STAT_ED_WATER</name>
-		<body>Water Resist</body>
+		<body>Resistência à Água</body>
 	</string>
 	<string>
 		<id>901486</id>
 		<name>STR_TOOLTIP_SKILL_STAT_ED_AIR</name>
-		<body>Wind Resist</body>
+		<body>Resistência à Vento</body>
 	</string>
 	<string>
 		<id>901487</id>
 		<name>STR_TOOLTIP_SKILL_STAT_ED_EARTH</name>
-		<body>Earth Resist</body>
+		<body>Resistência à Terra</body>
 	</string>
 	<string>
 		<id>901488</id>
 		<name>STR_TOOLTIP_SKILL_STAT_ED_FIRE</name>
-		<body>Fire Resist</body>
+		<body>Resistência à Fogo</body>
 	</string>
 	<string>
 		<id>901489</id>
@@ -9379,12 +9379,12 @@
 	<string>
 		<id>901491</id>
 		<name>STR_TOOLTIP_SKILL_STAT_ED_ALL</name>
-		<body>All Elemental Defences</body>
+		<body>Resistência à Todos os Elementais</body>
 	</string>
 	<string>
 		<id>901492</id>
 		<name>STR_TOOLTIP_SKILL_STAT_MAGRESIST</name>
-		<body>Magic Resist</body>
+		<body>Resist. Mágica</body>
 	</string>
 	<string>
 		<id>901493</id>
@@ -9394,162 +9394,162 @@
 	<string>
 		<id>901494</id>
 		<name>STR_PARTY_MSG_LOOT_DIST_ROLL</name>
-		<body>Roll Dice</body>
+		<body>Rolar Dado</body>
 	</string>
 	<string>
 		<id>901495</id>
 		<name>STR_PARTY_MSG_LOOT_DIST_GOLD</name>
-		<body>Bidding</body>
+		<body>Oferta</body>
 	</string>
 	<string>
 		<id>901496</id>
 		<name>STR_UI_ABYSS_RANK_UPDATE_MSG</name>
-		<body>This information was updated %0.</body>
+		<body>Esta informação foi atualizada em %0.</body>
 	</string>
 	<string>
 		<id>901497</id>
 		<name>STR_POPUP_PARTY_SKIN_CHANGE</name>
-		<body>Zoom in/out Group Window</body>
+		<body>Ampliar/Diminuir janela de Grupo</body>
 	</string>
 	<string>
 		<id>901498</id>
 		<name>STR_ABYSS_REWARD_RANK_1</name>
-		<body>Hero Decoration</body>
+		<body>Decoração de Herói</body>
 	</string>
 	<string>
 		<id>901499</id>
 		<name>STR_ABYSS_REWARD_RANK_2</name>
-		<body>Medal</body>
+		<body>Medalha</body>
 	</string>
 	<string>
 		<id>901500</id>
 		<name>STR_ABYSS_REWARD_RANK_3</name>
-		<body>Elite Soldier</body>
+		<body>Soldado de Elite</body>
 	</string>
 	<string>
 		<id>901501</id>
 		<name>STR_ABYSS_REWARD_RANK_4</name>
-		<body>Veteran Soldier</body>
+		<body>Soldado Veterano</body>
 	</string>
 	<string>
 		<id>901502</id>
 		<name>STR_ABYSS_REWARD_MAIL_OCCUPY_SENDER_LIGHT</name>
-		<body>Sanctum Headquarters</body>
+		<body>Quartel-General de Sanctum</body>
 	</string>
-	<string>
+	<string>soldado de elite
 		<id>901503</id>
 		<name>STR_ABYSS_REWARD_MAIL_OCCUPY_TITLE_LIGHT</name>
-		<body>Siege Reward Notice</body>
+		<body>Aviso de Recompensa da Guerra</body>
 	</string>
 	<string>
 		<id>901504</id>
 		<name>STR_ABYSS_REWARD_MAIL_OCCUPY_HEADER_LIGHT</name>
-		<body>We Elyos have achieved an overwhelming victory in siege warfare for occupying %2 at %1 on %0.</body>
+		<body>Nós, Elyos, alcançamos uma vitória esmagadora na guerra da Fortaleza por ocupar %2 em %1 em %0.</body>
 	</string>
 	<string>
 		<id>901505</id>
 		<name>STR_ABYSS_REWARD_MAIL_OCCUPY_BODY_LIGHT</name>
-		<body>\n\nAs a reward for your %0-level achievement in combat, you are awarded as follows:</body>
+		<body>\n\nComo recompensa por sua conquista de nível %0 em combate, você recebe o seguinte:</body>
 	</string>
 	<string>
 		<id>901506</id>
 		<name>STR_ABYSS_REWARD_MAIL_OCCUPY_TAIL_LIGHT</name>
-		<body>\n\n- Fasimedes, Governor of Sanctum</body>
+		<body>\n\n- Fasimedes, Governador de Sanctum</body>
 	</string>
 	<string>
 		<id>901507</id>
 		<name>STR_ABYSS_REWARD_MAIL_OCCUPY_SENDER_DARK</name>
-		<body>Pandaemonium Headquarters</body>
+		<body>Quartel-General de Pandaemonium</body>
 	</string>
 	<string>
 		<id>901508</id>
 		<name>STR_ABYSS_REWARD_MAIL_OCCUPY_TITLE_DARK</name>
-		<body>Siege Reward Notice</body>
+		<body>Aviso de Recompensa da Guerra</body>
 	</string>
 	<string>
 		<id>901509</id>
 		<name>STR_ABYSS_REWARD_MAIL_OCCUPY_HEADER_DARK</name>
-		<body>We Asmodians have achieved an overwhelming victory in siege warfare for occupying %2 at %1 on %0.</body>
+		<body>Nós, Asmodians, alcançamos uma vitória esmagadora na guerra da Fortaleza por ocupar %2 em %1 em %0.</body>
 	</string>
 	<string>
 		<id>901510</id>
 		<name>STR_ABYSS_REWARD_MAIL_OCCUPY_BODY_DARK</name>
-		<body>\n\nAs a reward for your %0-level achievement in combat, you are awarded as follows:</body>
+		<body>\n\nComo recompensa por sua conquista de nível %0 em combate, você recebe o seguinte:</body>
 	</string>
 	<string>
 		<id>901511</id>
 		<name>STR_ABYSS_REWARD_MAIL_OCCUPY_TAIL_DARK</name>
-		<body>\n\n- Vidar, Governor of Pandaemonium</body>
+		<body>\n\n- Vidar, Governador de Pandaemonium</body>
 	</string>
 	<string>
 		<id>901512</id>
 		<name>STR_ABYSS_REWARD_MAIL_DEFENSE_SENDER_LIGHT</name>
-		<body>Sanctum Headquarters</body>
+		<body>Quartel-General de Sanctum</body>
 	</string>
 	<string>
 		<id>901513</id>
 		<name>STR_ABYSS_REWARD_MAIL_DEFENSE_TITLE_LIGHT</name>
-		<body>Reward Statement</body>
+		<body>Declaração de Recompensa</body>
 	</string>
 	<string>
 		<id>901514</id>
 		<name>STR_ABYSS_REWARD_MAIL_DEFENSE_HEADER_LIGHT</name>
-		<body>For your achievements in siege warfare for occupying %2 at %1 on %0,</body>
+		<body>Por suas conquistas na guerra de Fortaleza por ocupar %2 em %1 em %0,</body>
 	</string>
 	<string>
 		<id>901515</id>
 		<name>STR_ABYSS_REWARD_MAIL_DEFENSE_BODY_LIGHT</name>
-		<body>you are awarded the following reward money.</body>
+		<body>você recebe o seguinte Kinah de recompensa.</body>
 	</string>
 	<string>
 		<id>901516</id>
 		<name>STR_ABYSS_REWARD_MAIL_DEFENSE_TAIL_LIGHT</name>
-		<body>\n\n- Fasimedes, Governor of Sanctum</body>
+		<body>\n\n- Fasimedes, Governador de Sanctum</body>
 	</string>
 	<string>
 		<id>901517</id>
 		<name>STR_ABYSS_REWARD_MAIL_DEFENSE_SENDER_DARK</name>
-		<body>Pandaemonium Headquarters</body>
+		<body>Quartel-General de Pandaemonium</body>
 	</string>
 	<string>
 		<id>901518</id>
 		<name>STR_ABYSS_REWARD_MAIL_DEFENSE_TITLE_DARK</name>
-		<body>Reward Statement</body>
+		<body>Declaração de Recompensa</body>
 	</string>
 	<string>
 		<id>901519</id>
 		<name>STR_ABYSS_REWARD_MAIL_DEFENSE_HEADER_DARK</name>
-		<body>For your achievements in siege warfare for occupying %2 at %1 on %0,</body>
+		<body>Por suas conquistas na guerra de Fortaleza por ocupar %2 em %1 em %0,</body>
 	</string>
 	<string>
 		<id>901520</id>
 		<name>STR_ABYSS_REWARD_MAIL_DEFENSE_BODY_DARK</name>
-		<body>you are awarded the following reward money.</body>
+		<body>você recebe o seguinte Kinah de recompensa.</body>
 	</string>
 	<string>
 		<id>901521</id>
 		<name>STR_ABYSS_REWARD_MAIL_DEFENSE_TAIL_DARK</name>
-		<body>\n\n- Vidar, Governor of Pandaemonium</body>
+		<body>\n\n- Vidar, Governador de Pandaemonium</body>
 	</string>
 	<string>
 		<id>901522</id>
 		<name>STR_UI_GUILD_REWARD_TYPE_OCCUPATION</name>
-		<body>Occupy</body>
+		<body>Ocupando</body>
 	</string>
 	<string>
 		<id>901523</id>
 		<name>STR_UI_GUILD_REWARD_TYPE_DEFENSE</name>
-		<body>Defence</body>
+		<body>Defendendo</body>
 	</string>
 	<string>
 		<id>901524</id>
 		<name>STR_UI_WHO_WORLD_ALL</name>
-		<body>All Regions</body>
+		<body>Todas as Regiões</body>
 	</string>
 	<string>
 		<id>901525</id>
 		<name>STR_UI_WHO_WORLD_CURRENT</name>
-		<body>Current Region</body>
+		<body>Região Atual</body>
 	</string>
 	<string>
 		<id>901526</id>
@@ -9559,62 +9559,62 @@
 	<string>
 		<id>901527</id>
 		<name>STR_CASH_ITEM_MAIL_PURCHASE</name>
-		<body>%2 the Black Cloud Merchants purchased at %0 %1 has been delivered.</body>
+		<body>%2 os Black Cloud Merchants comprados em %0 %1 foram entregues.</body>
 	</string>
 	<string>
 		<id>901528</id>
 		<name>STR_CASH_ITEM_MAIL_GIFT</name>
-		<body>%1 on the %0 server gave you %2 as a gift.</body>
+		<body>%1 no servidor %0 deu a você %2 de presente.</body>
 	</string>
 	<string>
 		<id>901529</id>
 		<name>STR_LOCAL_DATE_FORMAT</name>
-		<body>yyyy year M month d day</body>
+		<body>yyyy ano M mês d dia</body>
 	</string>
 	<string>
 		<id>901530</id>
 		<name>STR_LOCAL_TIME_FORMAT</name>
-		<body>tt H hour m minute</body>
+		<body>tt H hora m minuto</body>
 	</string>
 	<string>
 		<id>901531</id>
 		<name>STR_LOCAL_TIME_FORMAT_NOMINUTE</name>
-		<body>tt H hour</body>
+		<body>tt H hora</body>
 	</string>
 	<string>
 		<id>901532</id>
 		<name>STR_MSGBOX_LOGIN_ACCOUNT_ITEM_CONFIRM</name>
-		<body>If the item is given to %0, other characters cannot use the item. Are you sure you want to acquire the item with %0?</body>
+		<body>Se o item for dado a %0, outros personagens não poderão usar o item. Tem certeza de que deseja adquirir o item com %0?</body>
 	</string>
 	<string>
 		<id>901533</id>
 		<name>STR_TOOLTIP_EXPIRED_DATE</name>
-		<body>Remaining time</body>
+		<body>Tempo restante</body>
 	</string>
 	<string>
 		<id>901534</id>
 		<name>STR_EXPIRED_DATE_FORMAT</name>
-		<body>Remaining time: %0</body>
+		<body>Tempo restante: %0</body>
 	</string>
 	<string>
 		<id>901535</id>
 		<name>STR_TOOLTIP_CASH_ITEM</name>
-		<body>Black Cloud Traders&apos; Commodities</body>
+		<body>Black Cloud Traders' Commodities</body>
 	</string>
 	<string>
 		<id>901536</id>
 		<name>STR_QUEST_RANDOM_REWARD</name>
-		<body>Unknown</body>
+		<body>Desconhecido</body>
 	</string>
 	<string>
 		<id>901537</id>
 		<name>STR_CMD_ACCUSE</name>
-		<body>/ReportAutoHunting,/Accuse,/Report</body>
+		<body>/ReportAutoHunting,/Accuse,/Report,/Reportar</body>
 	</string>
 	<string>
 		<id>901538</id>
 		<name>STR_MSGBOX_ACCUSE_CONFIRM</name>
-		<body>Are you sure you want to report %0? A wrong accusation can inflict harm on the player.</body>
+		<body>Tem certeza de que deseja denunciar %0? Uma acusação errada pode causar danos ao jogador injustamente.</body>
 	</string>
 	<string>
 		<id>901539</id>
@@ -9624,62 +9624,62 @@
 	<string>
 		<id>901540</id>
 		<name>STR_TOOLTIP_SKILL_STAT_PVP_ATTACK_RATIO</name>
-		<body>Inflicts %num0 additional damage on a player of the opposing group.</body>
+		<body>Inflige %num0 de dano adicional a um jogador do grupo adversário.</body>
 	</string>
 	<string>
 		<id>901541</id>
 		<name>STR_TOOLTIP_SKILL_STAT_PVP_DEFEND_RATIO</name>
-		<body>It gives you %num0 additional defence effect against an attack by a player of the opposing group.</body>
+		<body>Dá a você %num0 efeito de defesa adicional contra um ataque de um jogador do grupo adversário.</body>
 	</string>
 	<string>
 		<id>901542</id>
 		<name>STR_LIGHT_TITLE_Down01</name>
-		<body>Ariel&apos;s Blessing</body>
+		<body>Bênção de Ariel</body>
 	</string>
 	<string>
 		<id>901543</id>
 		<name>STR_LIGHT_TITLE_Down01_DESC</name>
-		<body>Ariel, Lady of Elysea, bestows this faction effect upon all Elysians when the influence ratio is unfavourable.&#xA;Deals an extra 8%% damage and reduces damage taken by 4%% when you attack a player character.</body>
+		<body>Ariel, Dama de Elysea, concede esse efeito de facção a todos os Elysians quando a taxa de influência é desfavorável.&#xA;Causa 8%% de dano extra e reduz o dano recebido em 4%% quando você ataca outro jogador.</body>
 	</string>
 	<string>
 		<id>901544</id>
 		<name>STR_LIGHT_TITLE_Down02_DESC</name>
-		<body>Ariel, Lady of Elysea, bestows this faction effect upon all Elysians when the influence ratio is unfavourable.&#xA;Deals an extra 8%% damage and reduces damage taken by 6%% when you attack a player character.</body>
+		<body>Ariel, Dama de Elysea, concede esse efeito de facção a todos os Elysians quando a taxa de influência é desfavorável.&#xA;Causa 8%% de dano extra e reduz o dano recebido em 6%% quando você ataca outro jogador.</body>
 	</string>
 	<string>
 		<id>901545</id>
 		<name>STR_LIGHT_TITLE_Down03_DESC</name>
-		<body>Ariel, Lady of Elysea, bestows this faction effect upon all Elysians when the influence ratio is unfavourable.&#xA;Deals an extra 8%% damage and reduces damage taken by 8%% when you attack a player character.</body>
+		<body>Ariel, Dama de Elysea, concede esse efeito de facção a todos os Elysians quando a taxa de influência é desfavorável.&#xA;Causa 8%% de dano extra e reduz o dano recebido em 8%% quando você ataca outro jogador.</body>
 	</string>
 	<string>
 		<id>901546</id>
 		<name>STR_Dark_TITLE_Down01</name>
-		<body>Blessing of Azphel</body>
+		<body>Bênção de Azphel</body>
 	</string>
 	<string>
 		<id>901547</id>
 		<name>STR_Dark_TITLE_Down01_DESC</name>
-		<body>Azphel, Lord of Asmodae, bestows this faction effect upon all Asmodians when the influence ratio is unfavourable.&#xA;Deals an extra 8%% damage and reduces damage taken by 4%% when you attack a player character.</body>
+		<body>Azphel, Lorde de Asmodae, concede esse efeito de facção a todos os Asmodians quando a taxa de influência é desfavorável.&#xA;Causa 8%% de dano extra e reduz o dano recebido em 4%% quando você ataca outro jogador.</body>
 	</string>
 	<string>
 		<id>901548</id>
 		<name>STR_Dark_TITLE_Down02_DESC</name>
-		<body>Azphel, Lord of Asmodae, bestows this faction effect upon all Asmodians when the influence ratio is unfavourable.&#xA;Deals an extra 8%% damage and reduces damage taken by 6%% when you attack a player character.</body>
+		<body>Azphel, Lorde de Asmodae, concede esse efeito de facção a todos os Asmodians quando a taxa de influência é desfavorável.&#xA;Causa 8%% de dano extra e reduz o dano recebido em 6%% quando você ataca outro jogador.</body>
 	</string>
 	<string>
 		<id>901549</id>
 		<name>STR_Dark_TITLE_Down03_DESC</name>
-		<body>Azphel, Lord of Asmodae, bestows this faction effect upon all Asmodians when the influence ratio is unfavourable.&#xA;Deals an extra 8%% damage and reduces damage taken by 8%% when you attack a player character.</body>
+		<body>Azphel, Lorde de Asmodae, concede esse efeito de facção a todos os Asmodians quando a taxa de influência é desfavorável.&#xA;Causa 8%% de dano extra e reduz o dano recebido em 8%% quando você ataca outro jogador.</body>
 	</string>
 	<string>
 		<id>901550</id>
 		<name>STR_ENTER_OTP</name>
-		<body>Enter the OTP number.</body>
+		<body>Digite o número OTP.</body>
 	</string>
 	<string>
 		<id>901551</id>
 		<name>STR_CREATE_CHAR_ONLY_MSG</name>
-		<body>You already have the maximum number of characters allowed on this server. You can still look at character creation options, but you will not be able to save.</body>
+		<body>Você já tem o número máximo de personagens permitidos neste servidor. Você ainda pode ver as opções de criação de personagem, mas não poderá salvar.</body>
 	</string>
 	<string>
 		<id>901552</id>
@@ -9689,22 +9689,22 @@
 	<string>
 		<id>901553</id>
 		<name>STR_CHARACTER_SLOT_FULL</name>
-		<body>You cannot create any more characters.</body>
+		<body>Você não pode criar mais personagens.</body>
 	</string>
 	<string>
 		<id>901554</id>
 		<name>STR_REMAIN_TIME</name>
-		<body>The remaining playing time is %0.</body>
+		<body>O tempo de jogo restante é %0.</body>
 	</string>
 	<string>
 		<id>901555</id>
 		<name>STR_TOOLTIP_CRAFT_GRADE5</name>
-		<body>Can be learned by experts or above</body>
+		<body>Pode ser aprendido por experts ou acima</body>
 	</string>
 	<string>
 		<id>901556</id>
 		<name>STR_MENU_WEB_AZIT</name>
-		<body>Aion Forum</body>
+		<body>Aion Fórum</body>
 	</string>
 	<string>
 		<id>901557</id>
@@ -9714,72 +9714,72 @@
 	<string>
 		<id>901558</id>
 		<name>STR_MENU_WEB_POWERBOOK</name>
-		<body>Game Guide</body>
+		<body>Guia do Jogo</body>
 	</string>
 	<string>
 		<id>901559</id>
 		<name>STR_TOOLTIP_TARGET_AREA</name>
-		<body>Area within a Radius of Target</body>
+		<body>Área ao redor do Alvo</body>
 	</string>
 	<string>
 		<id>901560</id>
 		<name>STR_TOOLTIP_POINT</name>
-		<body>Specified Location</body>
+		<body>Local especificado</body>
 	</string>
 	<string>
 		<id>901561</id>
 		<name>STR_CANNOT_DO_WHILE_TALKING</name>
-		<body>This skill cannot be used while chatting.</body>
+		<body>Esta habilidade não pode ser usada durante a conversa.</body>
 	</string>
 	<string>
 		<id>901562</id>
 		<name>STR_MSG_CONNECTION_FAIL</name>
-		<body>Cannot connect to the server.</body>
+		<body>Não é possível conectar ao servidor.</body>
 	</string>
 	<string>
 		<id>901563</id>
 		<name>STR_CHAT_ROOM_JOINED_MEMBERS_FORMAT</name>
-		<body>Name: %0 Class: %1 Level: %2 Gender: %3      %4</body>
+		<body>Nome: %0 Classe: %1 Nível: %2 Gênero: %3      %4</body>
 	</string>
 	<string>
 		<id>901564</id>
 		<name>STR_CANNOT_DO_WHILE_USING_ITEM</name>
-		<body>This skill cannot be used while using an item.</body>
+		<body>Esta habilidade não pode ser usada enquanto estiver usando um item.</body>
 	</string>
 	<string>
 		<id>901565</id>
 		<name>STR_ITEM_CANNOT_BE_USED_WHILE_MOVING</name>
-		<body>This item cannot be used during movement.</body>
+		<body>Este item não pode ser usado durante o movimento.</body>
 	</string>
 	<string>
 		<id>901566</id>
 		<name>STR_RESURRECT_DESC_RP</name>
-		<body>&lt;p align=&quot;left&quot;&gt;If you click the OK button, you will resurrect immediately at %0.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Within %1 minutes, other people can resurrect you at the current spot.&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Se você clicar no botão OK, ressuscitará imediatamente em %0.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Em até %1 minutos, outras pessoas podem ressuscitá-lo no local atual.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901567</id>
 		<name>STR_RESURRECT_DESC_BIND_STONE</name>
-		<body>&lt;p align=&quot;left&quot;&gt;You will resurrect at the Kisk in %0&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt; unless you choose another resurrection method within %1 minute(s).&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Resurrection Wait Time: 10 seconds (%2 seconds remaining)&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Você ressuscitará no Kisk em %0&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt; a menos que você escolha outro método de ressurreição em %1 minuto(s).&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Tempo de espera da ressurreição: %2 segundos restantes&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901568</id>
 		<name>STR_RESURRECT_DESC_SKILL</name>
-		<body>&lt;p align=&quot;left&quot;&gt;You can resurrect on the spot using a resurrection skill.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;You must choose a resurrection method within %0 minutes.&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Você pode ressuscitar neste local usando uma habilidade de ressurreição.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Você deve escolher um método de ressurreição em %0 minutos.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901569</id>
 		<name>STR_RESURRECT_DESC_ITEM</name>
-		<body>&lt;p align=&quot;left&quot;&gt;You can resurrect on the spot using %0.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;You must choose a resurrection method within %1 minute(s).&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Você pode ressuscitar neste local usando %0.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Você deve escolher um método de ressurreição em %1 minuto(s).&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901570</id>
 		<name>STR_RESURRECT_DESC_OTHER</name>
-		<body>&lt;p align=&quot;left&quot;&gt;%0 wishes to resurrect you using %1. Will you accept?&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;You must decide within %2 minutes.&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;%0 deseja ressuscitá-lo usando %1. Aceita?&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Você deve decidir em %2 minutos.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901571</id>
 		<name>STR_RESURRECT_BUTTON_RP</name>
-		<body>Obelisk</body>
+		<body>Obelisco</body>
 	</string>
 	<string>
 		<id>901572</id>
@@ -9789,12 +9789,12 @@
 	<string>
 		<id>901573</id>
 		<name>STR_RESURRECT_BUTTON_DEFAULT</name>
-		<body>Cancel</body>
+		<body>Cancelar</body>
 	</string>
 	<string>
 		<id>901574</id>
 		<name>STR_RESURRECT_POINT_NONE</name>
-		<body>Unregistered Bind Point</body>
+		<body>Local de Ressurreição não registrado</body>
 	</string>
 	<string>
 		<id>901575</id>
@@ -9809,47 +9809,47 @@
 	<string>
 		<id>901577</id>
 		<name>STR_RESURRECT_TITLE_SKILL</name>
-		<body>Skill Resurrection</body>
+		<body>Habilidade Ressurreição</body>
 	</string>
 	<string>
 		<id>901578</id>
 		<name>STR_RESURRECT_TITLE_ITEM</name>
-		<body>Item</body>
+		<body>item</body>
 	</string>
 	<string>
 		<id>901579</id>
 		<name>STR_CMD_INSTANT_DUNGEON_COOLTIME</name>
-		<body>/CheckEntry</body>
+		<body>/CheckEntry,/Entradas</body>
 	</string>
 	<string>
 		<id>901580</id>
 		<name>STR_CMD_INSTANT_DUNGEON_COOLTIME_PARTY</name>
-		<body>/CheckGroupEntry</body>
+		<body>/CheckGroupEntry,/EntradasGrupo</body>
 	</string>
 	<string>
 		<id>901581</id>
 		<name>STR_CMD_INSTANT_DUNGEON_COOLTIME_FORCE</name>
-		<body>/CheckAllianceEntry</body>
+		<body>/CheckAllianceEntry,/EntradasAliança</body>
 	</string>
 	<string>
 		<id>901582</id>
 		<name>STR_CAN_ENTER_INSTANT_DUNGEON</name>
-		<body>Entering Allowed</body>
+		<body>Entrada Permitida</body>
 	</string>
 	<string>
 		<id>901583</id>
 		<name>STR_CANT_GOTO_CREATE_CHAR</name>
-		<body>You cannot create a character.</body>
+		<body>Você não pode criar um personagem.</body>
 	</string>
 	<string>
 		<id>901584</id>
 		<name>STR_OPTION_AV_INFO_SHADER_MODEL</name>
-		<body>The client must be restarted to apply the selected changes.\nThe skin colour will not be displayed properly at lower levels.</body>
+		<body>O cliente deve ser reiniciado para aplicar as alterações selecionadas.\nA cor da pele não será exibida corretamente em níveis inferiores.</body>
 	</string>
 	<string>
 		<id>901585</id>
 		<name>STR_OPTION_AV_INFO_FIXED_FRAMERATE</name>
-		<body>You must disable the Fixed FPS option completely before you can change certain options.</body>
+		<body>Você deve desabilitar completamente a opção FPS Fixo antes de poder alterar determinadas opções.</body>
 	</string>
 	<string>
 		<id>901586</id>
@@ -9864,7 +9864,7 @@
 	<string>
 		<id>901588</id>
 		<name>STR_CMD_CHAT_ROOM_MENU_ALERT</name>
-		<body>/ChannelNotification [channel name] [message]</body>
+		<body>/ChannelNotification [nome do canal] [mensagem]</body>
 	</string>
 	<string>
 		<id>901589</id>
@@ -9874,22 +9874,22 @@
 	<string>
 		<id>901590</id>
 		<name>STR_TUTORIAL_TITLE_QUEST2</name>
-		<body>Quest</body>
+		<body>Tarefas</body>
 	</string>
 	<string>
 		<id>901591</id>
 		<name>STR_TUTORIAL_TITLE_COMBAT2</name>
-		<body>Combat</body>
+		<body>Combate</body>
 	</string>
 	<string>
 		<id>901592</id>
 		<name>STR_TUTORIAL_TITLE_EQUIP</name>
-		<body>Equipping Items</body>
+		<body>Equipando Itens</body>
 	</string>
 	<string>
 		<id>901593</id>
 		<name>STR_TUTORIAL_TITLE_CHAIN_SKILL</name>
-		<body>Chain Skills</body>
+		<body>habilidades em Sequência</body>
 	</string>
 	<string>
 		<id>901594</id>
@@ -9909,7 +9909,7 @@
 	<string>
 		<id>901597</id>
 		<name>STR_FAQ_WEB_AIONPOWER_BUTTON</name>
-		<body>Game Guide</body>
+		<body>Guia do Jogo</body>
 	</string>
 	<string>
 		<id>901598</id>
@@ -10114,82 +10114,82 @@
 	<string>
 		<id>901638</id>
 		<name>STR_TOOLTIP_QUEST_REQUIREMENT</name>
-		<body>Quest Item</body>
+		<body>Item de Tarefa</body>
 	</string>
 	<string>
 		<id>901639</id>
 		<name>STR_HTML_QUEST_WAITING_MISSION_BY_LEVEL</name>
-		<body>&lt;html&gt;&lt;body&gt;&lt;p&gt;&lt;font font_xml=&quot;quest_summary&quot;&gt;You can start at level %0.&lt;/font&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</body>
+		<body>&lt;html&gt;&lt;body&gt;&lt;p&gt;&lt;font font_xml=&quot;quest_summary&quot;&gt;Você pode começar no nível %0.&lt;/font&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</body>
 	</string>
 	<string>
 		<id>901640</id>
 		<name>STR_MSG_AUTH_CONNECTION_FAIL</name>
-		<body>Cannot connect to the authorization server.</body>
+		<body>Não é possível conectar ao servidor de autorização.</body>
 	</string>
 	<string>
 		<id>901641</id>
 		<name>STR_SOCK_ERR_STARTUP</name>
-		<body>Cannot find the winsock.dll file.</body>
+		<body>Não foi possível localizar o arquivo winsock.dll.</body>
 	</string>
 	<string>
 		<id>901642</id>
 		<name>STR_SOCK_ERR_BAD_VERSION</name>
-		<body>The version of winsock.dll is not correct.</body>
+		<body>A versão do arquivo winsock.dll não está correta.</body>
 	</string>
 	<string>
 		<id>901643</id>
 		<name>STR_SOCK_ERR_CREATE</name>
-		<body>Socket Creation Error</body>
+		<body>Erro de criação de socket</body>
 	</string>
 	<string>
 		<id>901644</id>
 		<name>STR_SOCK_ERR_GET_HOST</name>
-		<body>Address Error</body>
+		<body>Erro de Address</body>
 	</string>
 	<string>
 		<id>901645</id>
 		<name>STR_WAIT_TO_CHANGE_CHANNEL</name>
-		<body>%0 seconds until channel change.</body>
+		<body>%0 segundos até mudar de canal.</body>
 	</string>
 	<string>
 		<id>901646</id>
 		<name>STR_CHARACTER_DELETE_OBT</name>
-		<body>Are you sure you want to delete this character?</body>
+		<body>Tem certeza de que deseja excluir este personagem?</body>
 	</string>
 	<string>
 		<id>901647</id>
 		<name>STR_MENU_WEB_ITEMMALL</name>
-		<body>AION Shop</body>
+		<body>Loja do AION</body>
 	</string>
 	<string>
 		<id>901648</id>
 		<name>STR_TOOLTIP_PARTY_ZONE_TITLE</name>
-		<body>Region</body>
+		<body>Região</body>
 	</string>
 	<string>
 		<id>901649</id>
 		<name>STR_TOOLTIP_PARTY_SAME_ZONE</name>
-		<body>%0 (%1 Channel)</body>
+		<body>%0 (%1 Canal)</body>
 	</string>
 	<string>
 		<id>901650</id>
 		<name>STR_TOOLTIP_PARTY_OTHER_CHANNEL</name>
-		<body>On another channel.</body>
+		<body>Em outro canal.</body>
 	</string>
 	<string>
 		<id>901651</id>
 		<name>STR_MENU_WEB_SHOP</name>
-		<body>AION Shop</body>
+		<body>Loja do AION</body>
 	</string>
 	<string>
 		<id>901652</id>
 		<name>STR_MSG_AUTO_DISCONNECTED</name>
-		<body>You have been disconnected due to being AFK for a long time.</body>
+		<body>Você foi desconectado por estar AFK por muito tempo.</body>
 	</string>
 	<string>
 		<id>901653</id>
 		<name>STR_L2AUTH_S_AGREE_GAME</name>
-		<body>You must agree to the Aion game service agreement to proceed.</body>
+		<body>Você deve concordar com o contrato de serviço do Aion para continuar.</body>
 	</string>
 	<string>
 		<id>901654</id>
@@ -10199,7 +10199,7 @@
 	<string>
 		<id>901655</id>
 		<name>STR_L2AUTH_S_WAITING_SECEDE</name>
-		<body>Waiting to leave</body>
+		<body>Esperando para sair</body>
 	</string>
 	<string>
 		<id>901656</id>
@@ -10234,42 +10234,42 @@
 	<string>
 		<id>901662</id>
 		<name>STR_WAIT_REMAIN_TIME</name>
-		<body>About %0</body>
+		<body>Sobre %0</body>
 	</string>
 	<string>
 		<id>901663</id>
 		<name>STR_WAIT_CALCULATING</name>
-		<body>Now calculating.</body>
+		<body>Calculando.</body>
 	</string>
 	<string>
 		<id>901664</id>
 		<name>STR_WAITING</name>
-		<body>Waiting... The server is full.</body>
+		<body>Aguardando... O servidor está cheio.</body>
 	</string>
 	<string>
 		<id>901666</id>
 		<name>STR_UI_ABYSS_USER_RANK_DEFAULT_MSG</name>
-		<body>No character has yet accumulated enough Abyss points.</body>
+		<body>Nenhum personagem acumulou pontos de Abyss suficientes ainda.</body>
 	</string>
 	<string>
 		<id>901667</id>
 		<name>STR_UI_ABYSS_LEGION_RANK_DEFAULT_MSG</name>
-		<body>No Legion has yet accumulated enough contribution points.</body>
+		<body>Nenhuma Legião acumulou pontos de Abyss suficientes ainda.</body>
 	</string>
 	<string>
 		<id>901668</id>
 		<name>STR_TOOLTIP_BUY_DURATION_NO_LIMIT_TEMP</name>
-		<body>in costume</body>
+		<body>em fantasia</body>
 	</string>
 	<string>
 		<id>901669</id>
 		<name>STR_RACE_RESTRICT_ALL</name>
-		<body>New players cannot create characters on that server.&lt;br&gt;If you already have a character on that server, you may create additional characters of the same race.</body>
+		<body>Novos jogadores não podem criar personagens neste servidor.&lt;br&gt;Se você já tem um personagem neste servidor, você pode criar personagens adicionais da mesma raça.</body>
 	</string>
 	<string>
 		<id>901670</id>
 		<name>STR_RACE_RESTRICT_ONE</name>
-		<body>You cannot create an %1 character on that server.&lt;br&gt;If you already have a character on that server, you can create additional characters of the same race.</body>
+		<body>Você não pode criar um personagem %1 nesse servidor.&lt;br&gt;Se você já tem um personagem nesse servidor, você pode criar personagens adicionais da mesma Facção.</body>
 	</string>
 	<string>
 		<id>901671</id>
@@ -10359,22 +10359,22 @@
 	<string>
 		<id>901688</id>
 		<name>STR_DESTROY_CASH_ITEM</name>
-		<body>&lt;font color=&quot;ff0000&quot;&gt;%0&lt;/font&gt; is an item of the Black Cloud Traders. Enter &apos;%1&apos; to &lt;font color=&quot;ff0000&quot;&gt;destroy&lt;/font&gt;.</body>
+		<body>&lt;font color=&quot;ff0000&quot;&gt;%0&lt;/font&gt; é um item dos Black Cloud Traders. Digite &apos;%1&apos; para &lt;font color="ff0000"&gt;DESTRUIR&lt;/font&gt;.</body>
 	</string>
 	<string>
 		<id>901689</id>
 		<name>STR_DESTROY_CASH_ITEM_CONFIRM</name>
-		<body>Do you really want to &lt;font color=&quot;ff0000&quot;&gt;destroy&lt;/font&gt; &lt;font color=&quot;ff0000&quot;&gt; %0&lt;/font&gt;%?&lt;br&gt;&#xA;This item cannot be restored once destroyed.</body>
+		<body>Você realmente deseja &lt;font color=&quot;ff0000&quot;&gt;DESTRUIR&lt;/font&gt; &lt;cor da fonte="ff0000"&gt; %0&lt;/font&gt;%?&lt;br&gt;&#xA;Este item não pode ser restaurado depois de destruído.</body>
 	</string>
 	<string>
 		<id>901690</id>
 		<name>STR_DESTROY_CASH_ITEM_NOW</name>
-		<body>Confirm Delete</body>
+		<body>Confirmar Destruição</body>
 	</string>
 	<string>
 		<id>901691</id>
 		<name>STR_VENDOR_CANT_RESULT</name>
-		<body>Please search again with more specific keywords.</body>
+		<body>Pesquise novamente com palavras-chave mais específicas.</body>
 	</string>
 	<string>
 		<id>901692</id>
@@ -10394,37 +10394,37 @@
 	<string>
 		<id>901695</id>
 		<name>STR_ACCUSE_UPGRADE_1_LEVEL</name>
-		<body>You entered into the Phase 1 Restriction state because auto hunting reports have been received. The Phase 1 Restriction does not do any harm on your play. But more reports will increase the level of restriction, which will affect your XP and item acquisition.&lt;br&gt;&#xA;You can use the &apos;/Restriction&apos; command to see your restriction phase and the release time.&lt;br&gt;&#xA;Enter &apos;%0&apos; in the input window after you check the message.</body>
+		<body>Você entrou no estado de Restrição de Fase 1 porque foram recebidas denúncias contra a sua conta. A Restrição de Fase 1 não causa nenhum dano ao seu jogo. Porém, mais relatórios aumentarão o nível de restrição, o que afetará sua aquisição de EXP e itens.&lt;br&gt;&#xA;Você pode usar o comando &apos;/Restrição&apos; para ver sua Fase de restrição e o tempo de liberação. &lt;br&gt;&#xA;Digite &apos;%0&apos; depois de ler a mensagem.</body>
 		<display_type>8</display_type>
 	</string>
 	<string>
 		<id>901696</id>
 		<name>STR_ACCUSE_UPGRADE_2_LEVEL</name>
-		<body>You entered Phase 2 Restriction because of reports against your account. Phase 2 Restriction lowers your XP, Kinah and Abyss Point Rates as well as your Gathering and Extraction Success Rates. If your Restriction Phase increases due to more reports, your play will become more limited.&lt;br&gt;&#xA;You can use &apos;/Restriction&apos; command to see the Restriction Phase and release time. &lt;br&gt;&#xA;Enter &apos;%0&apos; in the input window after you check the message.</body>
+		<body>Você entrou no estado de Restrição de Fase 2 porque foram recebidas denúncias contra a sua conta. A Restrição de Fase 2 reduz suas taxas de EXP, Kinah e Abyss Points, bem como suas taxas de sucesso de coleta e extração. Se sua Fase de Restrição aumentar devido a mais denúncias, seu jogo ficará mais limitado.&lt;br&gt;&#xA;Você pode usar o comando &apos;/Restrição&apos; para ver sua Fase de restrição e o tempo de liberação. &lt;br&gt;&#xA;Digite &apos;%0&apos; depois de ler a mensagem.</body>
 		<display_type>8</display_type>
 	</string>
 	<string>
 		<id>901697</id>
 		<name>STR_ACCUSE_UPGRADE_3_LEVEL</name>
-		<body>You entered Phase 3 Restriction because of reports against your account. While you are in Phase 3 Restriction, you cannot acquire rewards, and your XP, Kinah and Abyss Points as well as Gathering and Extraction Success Rates will continue to decrease. You are also banned from joining a Group or Alliance. You will face even greater restrictions should the reports continue to accumulate.&lt;br&gt;You can use &apos;/Restriction&apos; command to see your current Restriction Phase and release time.&lt;br&gt;Enter &apos;%0&apos; in the input window after you have checked the message.</body>
+		<body>Você entrou no estado de Restrição de Fase 3 porque foram recebidas denúncias contra a sua conta. Enquanto você estiver na Restrição de Fase 3, não poderá adquirir recompensas, e seus pontos de EXP, Kinah e Abyss, bem como as Taxas de Sucesso de Coleta e Extração continuarão a diminuir. Você também está proibido de ingressar em um Grupo ou Aliança. Você enfrentará restrições ainda maiores caso as denúncias continuem a se acumular.&lt;br&gt;Você pode usar o comando &apos;/Restrição&apos; para ver sua Fase de restrição e o tempo de liberação. &lt;br&gt;&#xA;Digite &apos;%0&apos; depois de ler a mensagem.</body>
 		<display_type>8</display_type>
 	</string>
 	<string>
 		<id>901698</id>
 		<name>STR_ACCUSE_UPGRADE_4_LEVEL</name>
-		<body>You entered Phase 4 Restriction because of reports against your account. While you are in Phase 4 Restriction, you cannot acquire rewards, XP, Kinah or Abyss Points, and you will be unable to gather or extract items. You are also banned from joining a Group or Alliance.&lt;br&gt;&#xA;You can use &apos;/Restriction&apos; command to see your current Restriction Phase and release time.&lt;br&gt;&#xA;Enter &apos;%0&apos; in the input window after you have checked the message.</body>
+		<body>Você entrou no estado de Restrição de Fase 4 porque foram recebidas denúncias contra a sua conta. Enquanto você estiver na Restrição de Fase 4, não poderá adquirir recompensas, EXP, Kinah ou Abyss Points, e não poderá coletar ou extrair itens. Você também está proibido de ingressar em um Grupo ou Aliança.&lt;br&gt;&#xA;Você pode usar o comando &apos;/Restrição&apos; para ver sua Fase de restrição e o tempo de liberação. &lt;br&gt;&#xA;Digite &apos;%0&apos; depois de ler a mensagem.</body>
 		<display_type>8</display_type>
 	</string>
 	<string>
 		<id>901699</id>
 		<name>STR_ACCUSE_DEGRADE_LEVEL</name>
-		<body>Your restriction phase has been lowered to %num0 as you played fair for a certain period of time. Please continue to play fair in the future.&lt;br&gt;&#xA;You can use the &apos;/Restriction&apos; command to see your restriction phase and release time.</body>
+		<body>Sua Fase de Restrição foi reduzida para %num0, pois você jogou limpo por um determinado período de tempo. Por favor, continue a jogar limpo no futuro.&lt;br&gt;&#xA;Você pode usar o comando &apos;/Restrição&apos; para ver sua Fase de restrição e o tempo de liberação.</body>
 		<display_type>4</display_type>
 	</string>
 	<string>
 		<id>901700</id>
 		<name>STR_CMD_ACCUSE_INFO</name>
-		<body>/Restriction</body>
+		<body>/Restriction,/Restrição</body>
 	</string>
 	<string>
 		<id>901701</id>
@@ -10434,28 +10434,28 @@
 	<string>
 		<id>901702</id>
 		<name>STR_ACCUSE_DEGRADE_NORMAL_LEVEL</name>
-		<body>You are no longer Restricted as you played fair for a certain period of time. Please continue to play fair in the future.&lt;br&gt;&#xA;You can use &apos;/Restriction&apos; command to see your restriction phase and the release time.</body>
+		<body>Você não está mais Restrito, pois você jogou limpo por um determinado período de tempo. Por favor, continue a jogar limpo no futuro.&lt;br&gt;&#xA;Você pode usar o comando &apos;/Restrição&apos; para ver sua Fase de restrição e o tempo de liberação.</body>
 		<display_type>4</display_type>
 	</string>
 	<string>
 		<id>901703</id>
 		<name>STR_ACCUSE_TITLE</name>
-		<body>Restriction</body>
+		<body>Restrição</body>
 	</string>
 	<string>
 		<id>901704</id>
 		<name>STR_UNDO_SKIN_CHANGE_CONFIRM</name>
-		<body>&lt;p&gt;You need &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%num1&lt;/font&gt; to remove the appearance modification on %0.&lt;/p&gt;&#xA;&lt;p&gt;Would you like to restore the appearance?&lt;/p&gt;</body>
+		<body>&lt;p&gt;Você precisa de &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%num1&lt;/font&gt; para remover a modificação de aparência em %0.&lt;/p&gt;&#xA;&lt;p&gt;Deseja restaurar a aparência?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901705</id>
 		<name>STR_WINDOW_INGAMESHOP</name>
-		<body>AION Shop</body>
+		<body>Loja do AION</body>
 	</string>
 	<string>
 		<id>901706</id>
 		<name>STR_INGAMESHOP_NOT_ENOUGH_CASH</name>
-		<body>You do not have enough %0.</body>
+		<body>Você não tem %0 suficiente.</body>
 	</string>
 	<string>
 		<id>901707</id>
@@ -10470,7 +10470,7 @@
 	<string>
 		<id>901710</id>
 		<name>STR_TOOLTIP_NO_CHANGE_SKIN</name>
-		<body>Cannot modify appearance</body>
+		<body>Não é possível modificar a aparência</body>
 	</string>
 	<string>
 		<id>901711</id>
@@ -10485,12 +10485,12 @@
 	<string>
 		<id>901713</id>
 		<name>STR_TOOLTIP_LEARNED_EMOTION</name>
-		<body>You have already learned this emote.</body>
+		<body>Você já aprendeu este emote.</body>
 	</string>
 	<string>
 		<id>901714</id>
 		<name>STR_TOOLTIP_LEARNED_TITLE</name>
-		<body>You have already learned this title.</body>
+		<body>Você já tem este título.</body>
 	</string>
 	<string>
 		<id>901715</id>
@@ -10500,17 +10500,17 @@
 	<string>
 		<id>901716</id>
 		<name>STR_VENDOR_NO_ITEM</name>
-		<body>Search came up with no results.</body>
+		<body>A pesquisa não apresentou resultados.</body>
 	</string>
 	<string>
 		<id>901717</id>
 		<name>STR_VENDOR_TOO_MUCH_ITEM</name>
-		<body>Your search conditions are too general. Please be more specific with your search conditions.</body>
+		<body>Seus filtros de pesquisa são muito gerais. Por favor, seja mais específico.</body>
 	</string>
 	<string>
 		<id>901718</id>
 		<name>STR_VENDOR_ROOT_CATEGORY</name>
-		<body>Please choose a category, or enter the search conditions.</body>
+		<body>Por favor, escolha uma categoria ou insira os filtros de pesquisa.</body>
 	</string>
 	<string>
 		<id>901719</id>
@@ -10525,47 +10525,47 @@
 	<string>
 		<id>901721</id>
 		<name>STR_SUMMON_PARTY_DO_YOU_ACCEPT_REQUEST</name>
-		<body>&lt;p align=&quot;left&quot;&gt;%0 is about to summon you using %1. Will you accept?&lt;/p&gt;&#xA;&lt;p&gt;&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;You must decide in %2 seconds.&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;%0 está prestes a te sumonar usando %1. Aceita?&lt;/p&gt;&#xA;&lt;p&gt;&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Você deve decidir em %2 segundos.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901722</id>
 		<name>STR_TOOLTIP_ITEM_OPTION_LEVEL</name>
-		<body>Grade</body>
+		<body>Raridade</body>
 	</string>
 	<string>
 		<id>901723</id>
 		<name>STR_TOOLTIP_ITEM_OPTION_LEVEL_VALUE</name>
-		<body>Level %0</body>
+		<body>Nível %0</body>
 	</string>
 	<string>
 		<id>901724</id>
 		<name>STR_KEYMAP_TOGGLE_ITEM_SHOP</name>
-		<body>AION Shop</body>
+		<body>Loja do AION</body>
 	</string>
 	<string>
 		<id>901725</id>
 		<name>STR_KEYMAP_AUTOTARGET_SIGN</name>
-		<body>Brand Target</body>
+		<body>Marcar Alvo</body>
 	</string>
 	<string>
 		<id>901726</id>
 		<name>STR_KEYMAP_TACTICS_SIGN_SELECT_DEFAULT</name>
-		<body>Select Default Brand Target</body>
+		<body>Selecionar o Alvo Marcado</body>
 	</string>
 	<string>
 		<id>901727</id>
 		<name>STR_KEYMAP_TACTICS_SIGN_SELECT_NUMBER</name>
-		<body>Select Number %0</body>
+		<body>Selecionar Número %0</body>
 	</string>
 	<string>
 		<id>901728</id>
 		<name>STR_KEYMAP_TACTICS_SIGN_SELECT_SIGNAL</name>
-		<body>Select Brand %0</body>
+		<body>Selecionar Marcação %0</body>
 	</string>
 	<string>
 		<id>901729</id>
 		<name>STR_KEYMAP_TITLE_TACTICS_SIGN_SELECT</name>
-		<body>Brand Target</body>
+		<body>Alvo Marcado</body>
 	</string>
 	<string>
 		<id>901730</id>
@@ -10590,17 +10590,17 @@
 	<string>
 		<id>901739</id>
 		<name>STR_HTML_QUEST_EXTRA_REWARD_HEAD</name>
-		<body>&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;font font_xml=&quot;v3_quest_subtitle&quot;&gt;Additional reward when completed %0 times&lt;/font&gt;&lt;/p&gt;</body>
+		<body>&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;font font_xml=&quot;v3_quest_subtitle&quot;&gt;Recompensa adicional ao completar %0 vezes&lt;/font&gt;&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901740</id>
 		<name>STR_HTML_SHOW_EXTRA_REWARD_HEAD</name>
-		<body>&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;button font_xml=&quot;v3_quest_reward&quot; width=&quot;340&quot; height=&quot;28&quot; skin=&quot;v4_npcdlg_reward_button&quot; icon=&quot;v4_npcdlg_reward&quot; align=&quot;left&quot;&gt;Additional reward when completed %0 times&lt;/button&gt;&lt;/p&gt;</body>
+		<body>&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;button font_xml=&quot;v3_quest_reward&quot; width=&quot;340&quot; height=&quot;28&quot; skin=&quot;v4_npcdlg_reward_button&quot; icon=&quot;v4_npcdlg_reward&quot; align=&quot;left&quot;&gt;Recompensa adicional ao completar %0 vezes&lt;/button&gt;&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901741</id>
 		<name>STR_VENDOR_KIND_ENCHANT</name>
-		<body>Enchantment Stone</body>
+		<body>Pedra de Encantamento</body>
 	</string>
 	<string>
 		<id>901742</id>
@@ -10615,17 +10615,17 @@
 	<string>
 		<id>901744</id>
 		<name>STR_VENDOR_KIND_DYE</name>
-		<body>Dye</body>
+		<body>Tinta</body>
 	</string>
 	<string>
 		<id>901745</id>
 		<name>STR_TACTICS_SIGN</name>
-		<body>Show Brand %0</body>
+		<body>Mostrar Marcação %0</body>
 	</string>
 	<string>
 		<id>901746</id>
 		<name>STR_TACTICS_SIGN_SELECT</name>
-		<body>Select Brand %0</body>
+		<body>Selecionar Marcação %0</body>
 	</string>
 	<string>
 		<id>901747</id>
@@ -10635,42 +10635,42 @@
 	<string>
 		<id>901748</id>
 		<name>STR_TOOLTIP_VITALPOINT_NAME</name>
-		<body>Energy of Repose</body>
+		<body>Energia de Repouso</body>
 	</string>
 	<string>
 		<id>901749</id>
 		<name>STR_TOOLTIP_VITALPOINT_BODY</name>
-		<body>You feel rested and energetic. You gain %0%% additional XP, and your item drop rate increases by %1%%.</body>
+		<body>Você se sente descansado e com energia. Você ganha %0%% de EXP adicional e sua taxa de obtenção de itens aumenta em %1%%.</body>
 	</string>
 	<string>
 		<id>901750</id>
 		<name>STR_TOOLTIP_VITALPOINT_RECHARGE</name>
-		<body>State of Repletion</body>
+		<body>Estado de Repleção</body>
 	</string>
 	<string>
 		<id>901751</id>
 		<name>STR_EDIT_CHAR_ALL_CONFIRM</name>
-		<body>&lt;p&gt;Pressing OK changes your face and body frame to the currently selected options.&lt;/p&gt;&#xA;&lt;p&gt;Will you take this appearance?&lt;/p&gt;</body>
+		<body>&lt;p&gt;Pressionar OK altera a forma do rosto e do corpo do seu personagem para as opções atualmente selecionadas.&lt;/p&gt;&#xA;&lt;p&gt;Você aceita alterar para esta aparência?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901752</id>
 		<name>STR_EDIT_CHAR_ALL_CANT_NO_ITEM</name>
-		<body>&lt;p&gt;You can only use this when you have a Plastic Surgery Ticket. It is available in the [%shoplink].&lt;/p&gt;</body>
+		<body>&lt;p&gt;Você só pode usar isso quando tiver um Ticket de Cirurgia Plástica. Está disponível no [%shoplink].&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901753</id>
 		<name>STR_EDIT_CHAR_GENDER_CONFIRM</name>
-		<body>&lt;p&gt;Pressing OK changes your face, body frame and gender to the currently selected options.&lt;/p&gt;&#xA;&lt;p&gt;Will you change to this appearance and gender?&lt;/p&gt;</body>
+		<body>&lt;p&gt;Pressionar OK altera seu rosto, estrutura corporal e gênero para as opções atualmente selecionadas.&lt;/p&gt;&#xA;&lt;p&gt;Você deseja mudar para esta aparência e gênero?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901754</id>
 		<name>STR_EDIT_CHAR_GENDER_CANT_NO_ITEM</name>
-		<body>&lt;p&gt;You can only use this when you have a Gender Switch Ticket.&lt;/p&gt;</body>
+		<body>&lt;p&gt;Você só pode usar isso quando tiver um Ticket de Troca de Gênero.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901755</id>
 		<name>STR_BINDSTONE_AUTH_NORMAL</name>
-		<body>%0&apos;s faction</body>
+		<body>Facção de %0</body>
 	</string>
 	<string>
 		<id>901756</id>
@@ -10680,42 +10680,42 @@
 	<string>
 		<id>901757</id>
 		<name>STR_BINDSTONE_AUTH_PARTY</name>
-		<body>%0&apos;s group members</body>
+		<body>Membros do grupo de %0</body>
 	</string>
 	<string>
 		<id>901758</id>
 		<name>STR_BINDSTONE_AUTH_FORCE</name>
-		<body>%0&apos;s Alliance members</body>
+		<body>Membros da Aliança de %0</body>
 	</string>
 	<string>
 		<id>901759</id>
 		<name>STR_BINDSTONE_AUTH_GUILD</name>
-		<body>%0&apos;s Legion members</body>
+		<body>Membros da Legião de %0</body>
 	</string>
 	<string>
 		<id>901760</id>
 		<name>STR_CMD_PING</name>
-		<body>/Ping</body>
+		<body>/Ping,/Latência</body>
 	</string>
 	<string>
 		<id>901761</id>
 		<name>STR_HTML_SHOW_SEL_EXTRA_REWARD_HEAD</name>
-		<body>&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;button font_xml=&quot;v3_quest_reward&quot; width=&quot;340&quot; height=&quot;28&quot; skin=&quot;v4_npcdlg_reward_button&quot; icon=&quot;v4_npcdlg_reward&quot; align=&quot;left&quot;&gt;Additional reward when completed %0 times&lt;/button&gt;&lt;/p&gt;</body>
+		<body>&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;button font_xml=&quot;v3_quest_reward&quot; width=&quot;340&quot; height=&quot;28&quot; skin=&quot;v4_npcdlg_reward_button&quot; icon=&quot;v4_npcdlg_reward&quot; align=&quot;left&quot;&gt;Recompensa adicional ao completar %0 vezes&lt;/button&gt;&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901762</id>
 		<name>STR_HTML_SELECT_SEL_EXTRA_REWARD_HEAD</name>
-		<body>&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;button font_xml=&quot;v3_quest_reward&quot; width=&quot;340&quot; height=&quot;28&quot; skin=&quot;v4_npcdlg_reward_button&quot; icon=&quot;v4_npcdlg_reward&quot; align=&quot;left&quot;&gt;Additional reward (please select) when completed %0 times&lt;/button&gt;&lt;/p&gt;</body>
+		<body>&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;button font_xml=&quot;v3_quest_reward&quot; width=&quot;340&quot; height=&quot;28&quot; skin=&quot;v4_npcdlg_reward_button&quot; icon=&quot;v4_npcdlg_reward&quot; align=&quot;left&quot;&gt;Recompensa adicional (selecione) ao completar %0 vezes&lt;/button&gt;&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901763</id>
 		<name>STR_HTML_QUEST_SEL_EXTRA_REWARD_HEAD</name>
-		<body>&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;font font_xml=&quot;v3_quest_subtitle&quot;&gt;Additional optional reward when completed %0 times&lt;/font&gt;&lt;/p&gt;</body>
+		<body>&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;font font_xml=&quot;v3_quest_subtitle&quot;&gt;Recompensa opcional adicional ao completar %0 vezes&lt;/font&gt;&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901764</id>
 		<name>STR_VENDOR_KIND_MATERIAL_GATHER</name>
-		<body>Gathering</body>
+		<body>Coletando</body>
 	</string>
 	<string>
 		<id>901765</id>
@@ -10725,12 +10725,12 @@
 	<string>
 		<id>901766</id>
 		<name>STR_VENDOR_KIND_MATERIAL_PART</name>
-		<body>Components</body>
+		<body>Componentes</body>
 	</string>
 	<string>
 		<id>901767</id>
 		<name>STR_TOOLTIP_PRIVIEW_CHANGE_MOTION</name>
-		<body>Stance</body>
+		<body>Posição</body>
 	</string>
 	<string>
 		<id>901768</id>
@@ -10740,22 +10740,22 @@
 	<string>
 		<id>901769</id>
 		<name>STR_TOOLTIP_SETITEM_PIECE_BONUS</name>
-		<body>Equip Effect (%0)</body>
+		<body>Bônus de equipamento (%0)</body>
 	</string>
 	<string>
 		<id>901770</id>
 		<name>STR_TOOLTIP_SETITEM_FULLSET_BONUS</name>
-		<body>Set Effect</body>
+		<body>Bônus de Conjunto</body>
 	</string>
 	<string>
 		<id>901771</id>
 		<name>STR_SERVER_LIST</name>
-		<body>Select Server</body>
+		<body>Selecionar Servidor</body>
 	</string>
 	<string>
 		<id>901772</id>
 		<name>STR_ALARM_VIRUS_INFECTION_TITLE</name>
-		<body>Warning</body>
+		<body>Aviso</body>
 	</string>
 	<string>
 		<id>901773</id>
@@ -10765,7 +10765,7 @@
 	<string>
 		<id>901774</id>
 		<name>STR_TOOLTIP_RECIPE_OUTPUT_COMBO</name>
-		<body>Greater Output</body>
+		<body>Resultado Melhorado</body>
 	</string>
 	<string>
 		<id>901775</id>
@@ -10780,7 +10780,7 @@
 	<string>
 		<id>901777</id>
 		<name>STR_TOOLTIP_SKILLINFO_COST_TOGGLE</name>
-		<body>%1 %2%3 (%0 sec)</body>
+		<body>%1 %2%3 (%0 seg)</body>
 	</string>
 	<string>
 		<id>901778</id>
