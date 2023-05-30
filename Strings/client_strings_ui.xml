@@ -4456,7 +4456,7 @@
 	<string>
 		<id>900471</id>
 		<name>STR_TOOLTIP_FLY_COOL_TIME</name>
-		<body>Cooldown</body>
+		<body>Recarga</body>
 	</string>
 	<string>
 		<id>900472</id>
@@ -4946,7 +4946,7 @@
 	<string>
 		<id>900569</id>
 		<name>STR_TOOLTIP_SKILL_STAT_MAXFLYCOOLTIME</name>
-		<body>Cooldown</body>
+		<body>Recarga</body>
 	</string>
 	<string>
 		<id>900570</id>
