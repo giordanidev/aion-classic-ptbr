@@ -8889,7 +8889,7 @@
 	<string>
 		<id>911667</id>
 		<name>STR_ITEM_PRICE_COUNT_DIALOG__BACK</name>
-		<body>←</body>
+		<body>&larr;</body>
 	</string>
 	<string>
 		<id>911668</id>

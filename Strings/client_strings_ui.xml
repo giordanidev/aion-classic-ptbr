@@ -10169,7 +10169,7 @@
 	<string>
 		<id>901649</id>
 		<name>STR_TOOLTIP_PARTY_SAME_ZONE</name>
-		<body>%0 (%1 Canal)</body>
+		<body>%0 (Canal %1)</body>
 	</string>
 	<string>
 		<id>901650</id>
@@ -10379,7 +10379,7 @@
 	<string>
 		<id>901692</id>
 		<name>STR_QUEST_REWARD_EXP</name>
-		<body>%0 XP</body>
+		<body>%0 EXP</body>
 	</string>
 	<string>
 		<id>901693</id>
@@ -10424,7 +10424,7 @@
 	<string>
 		<id>901700</id>
 		<name>STR_CMD_ACCUSE_INFO</name>
-		<body>/Restriction,/Restrição</body>
+		<body>/Restriction,/Restricao</body>
 	</string>
 	<string>
 		<id>901701</id>
@@ -10505,7 +10505,7 @@
 	<string>
 		<id>901717</id>
 		<name>STR_VENDOR_TOO_MUCH_ITEM</name>
-		<body>Seus filtros de pesquisa são muito gerais. Por favor, seja mais específico.</body>
+		<body>Seus filtros de pesquisa são muito brandos. Por favor, seja mais específico.</body>
 	</string>
 	<string>
 		<id>901718</id>
@@ -10740,7 +10740,7 @@
 	<string>
 		<id>901769</id>
 		<name>STR_TOOLTIP_SETITEM_PIECE_BONUS</name>
-		<body>Bônus de equipamento (%0)</body>
+		<body>Bônus de equipamento (%0 peças)</body>
 	</string>
 	<string>
 		<id>901770</id>
@@ -10891,31 +10891,32 @@
 		<id>901799</id>
 		<name>STR_TOOLTIP_MISSION_COLLECT</name>
 		<body>Campaign Quest Collection Item</body>
+		<body>Item de Coleta de Campanha</body>
 	</string>
 	<string>
 		<id>901800</id>
 		<name>STR_TOOLTIP_QUEST_ETC</name>
-		<body>Quest Other Item</body>
+		<body>Outro Item de Tarefas</body>
 	</string>
 	<string>
 		<id>901801</id>
 		<name>STR_SLAYER_DEBUFF_LIGHT_G1</name>
-		<body>Azphel&apos;s Curse</body>
+		<body>Maldição de Azphel</body>
 	</string>
 	<string>
 		<id>901802</id>
 		<name>STR_SLAYER_DEBUFF_LIGHT_G2</name>
-		<body>Azphel&apos;s Divine Punishment</body>
+		<body>Castigo Divino de Azphel</body>
 	</string>
 	<string>
 		<id>901803</id>
 		<name>STR_SLAYER_DEBUFF_DARK_G1</name>
-		<body>Ariel&apos;s Curse</body>
+		<body>Maldição de Ariel</body>
 	</string>
 	<string>
 		<id>901804</id>
 		<name>STR_SLAYER_DEBUFF_DARK_G2</name>
-		<body>Ariel&apos;s Divine Punishment</body>
+		<body>Castigo Divino de Ariel</body>
 	</string>
 	<string>
 		<id>901805</id>
@@ -10925,97 +10926,97 @@
 	<string>
 		<id>901806</id>
 		<name>STR_CANNOT_RESURRECT_DESC_BIND_STONE_FOR_SLAYER_LIGHT</name>
-		<body>&lt;p align=&quot;left&quot;&gt;&lt;font color=&quot;ff0000&quot;&gt;You cannot resurrect at a Kisk in Asmodae until you are freed from %0.&lt;/font&gt;&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;&lt;font color=&quot;ff0000&quot;&gt;Você não pode ressuscitar em um Kisk em Asmodae até ser libertado de %0.&lt;/font&gt;&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901807</id>
 		<name>STR_CANNOT_RESURRECT_DESC_BIND_STONE_FOR_SLAYER_DARK</name>
-		<body>&lt;p align=&quot;left&quot;&gt;&lt;font color=&quot;ff0000&quot;&gt;You cannot resurrect at a Kisk in Elysea until you are freed from %0.&lt;/font&gt;&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;&lt;font color=&quot;ff0000&quot;&gt;Você não pode ressuscitar em um Kisk em Elysea até ser libertado de %0.&lt;/font&gt;&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901808</id>
 		<name>STR_CANNOT_RESURRECT_DESC_BIND_STONE_FOR_SLAYER</name>
-		<body>&lt;p align=&quot;left&quot;&gt;&lt;font color=&quot;505895&quot;&gt;You will resurrect at the Kisk in %0&#xA;unless you choose another resurrection method&#xA;within %1 minute(s).&lt;/font&gt;&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;&lt;font color=&quot;505895&quot;&gt;Resurrection Wait Time: 10 seconds (%2 seconds remaining)&lt;/font&gt;&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;&lt;font color=&quot;505895&quot;&gt;Você ressuscitará no Kisk em %0&#xA;a menos que escolha outro método de ressurreição&#xA;dentro de %1 minuto(s).&lt;/font&gt;&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;&lt;font color=&quot;505895&quot;&gt;Tempo de Espera da Ressurreição: %2 segundos restantes&lt;/font&gt;&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901809</id>
 		<name>STR_EDIT_CHAR_NAME_ENTER_NAME</name>
-		<body>Enter a new name for your character. The current name is &lt;font color=&quot;#90ff00&quot;&gt;%0&lt;/font&gt;.</body>
+		<body>Digite um novo nome para seu personagem. O nome atual é &lt;font color=&quot;#90ff00&quot;&gt;%0&lt;/font&gt;.</body>
 	</string>
 	<string>
 		<id>901810</id>
 		<name>STR_EDIT_GUILD_NAME_ENTER_NAME</name>
-		<body>Enter a new Legion name. The current name is &lt;font color=&quot;#90ff00&quot;&gt;%0&lt;/font&gt;.</body>
+		<body>Insira um novo nome de Legião. O nome atual é &lt;font color=&quot;#90ff00&quot;&gt;%0&lt;/font&gt;.</body>
 	</string>
 	<string>
 		<id>901811</id>
 		<name>STR_EDIT_CHAR_NAME_RECONFIRM</name>
-		<body>&lt;p&gt;The name of the character will be changed to &lt;font color=&quot;#90ff00&quot;&gt;%0&lt;/font&gt;. You will no longer be using the previous name.&lt;/p&gt;&#xA;&lt;p&gt;Do you really want to change the name of the character?&lt;/p&gt;</body>
+		<body>&lt;p&gt;O nome do personagem será alterado para &lt;font color=&quot;#90ff00&quot;&gt;%0&lt;/font&gt;. Você não estará mais usando o nome anterior.&lt;/p&gt;&#xA;&lt;p&gt;Deseja mesmo mudar o nome do personagem?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901812</id>
 		<name>STR_EDIT_GUILD_NAME_RECONFIRM</name>
-		<body>&lt;p&gt;The name of the Legion will be changed to &lt;font color=&quot;#90ff00&quot;&gt;%0&lt;/font&gt;. You will no longer be using the previous name.&lt;/p&gt;&#xA;&lt;p&gt;Do you really want to change the name of the Legion?&lt;/p&gt;</body>
+		<body>&lt;p&gt;O nome da Legião será alterado para &lt;font color=&quot;#90ff00&quot;&gt;%0&lt;/font&gt;. Você não estará mais usando o nome anterior.&lt;/p&gt;&#xA;&lt;p&gt;Deseja mesmo mudar o nome da Legião?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901813</id>
 		<name>STR_GUILD_EVENT_CHANGE_NAME</name>
-		<body>The Legion name has been changed from %0 to %1.</body>
+		<body>O nome da Legião foi alterado de %0 para %1.</body>
 	</string>
 	<string>
 		<id>901814</id>
 		<name>STR_TOOLTIP_PET_DURATION_TIME</name>
-		<body>Duration</body>
+		<body>Duração</body>
 	</string>
 	<string>
 		<id>901815</id>
 		<name>STR_TOOLTIP_BINDSTONE_RESURRECT_POINT</name>
-		<body>Kisk Resurrection Bind Point</body>
+		<body>Ponto de Ressurreição do Kisk</body>
 	</string>
 	<string>
 		<id>901816</id>
 		<name>STR_TOOLTIP_BINDSTONE_DURATION_TIME</name>
-		<body>Active Time</body>
+		<body>Tempo Ativo</body>
 	</string>
 	<string>
 		<id>901817</id>
 		<name>STR_TOOLTIP_BINDSTONE_RESURRECT_NUM</name>
-		<body>Resurrection Times</body>
+		<body>Ressurreições</body>
 	</string>
 	<string>
 		<id>901818</id>
 		<name>STR_TOOLTIP_BINDSTONE_USER_COUNT</name>
-		<body>Member Info</body>
+		<body>Informações dos membros</body>
 	</string>
 	<string>
 		<id>901819</id>
 		<name>STR_TOOLTIP_BINDSTONE_INFO</name>
-		<body>Kisk Info</body>
+		<body>Informações do Kisk</body>
 	</string>
 	<string>
 		<id>901820</id>
 		<name>STR_BINDSTONE_INFO_TOOLTIP</name>
-		<body>Location: %5  Time Remaing: %0  Users: %num1 / %num2  Resurrections Remaining: %num3 / %num4</body>
+		<body>Localização: %5  Tempo Restante: %0  Usuários: %num1 / %num2  Ressurreições Restantes: %num3 / %num4</body>
 	</string>
 	<string>
 		<id>901821</id>
 		<name>STR_TOOLTIP_COMBINE_TASK_COLLECT</name>
-		<body>Work Order Collectible Item</body>
+		<body>Item Colecionável da Ordem de Serviço</body>
 	</string>
 	<string>
 		<id>901822</id>
 		<name>STR_TOOLTIP_COMBINE_TASK_REQUIREMENT</name>
-		<body>Work Order Starting Item</body>
+		<body>Item Inicial da Ordem de Serviço</body>
 	</string>
 	<string>
 		<id>901823</id>
 		<name>STR_EDIT_CHAR_NAME_ENTER_NAME_TITLE</name>
-		<body>Change Name</body>
+		<body>Alterar Nome</body>
 	</string>
 	<string>
 		<id>901824</id>
 		<name>STR_EDIT_GUILD_NAME_ENTER_NAME_TITLE</name>
-		<body>Change Legion Name</body>
+		<body>Alterar Nome da Legião</body>
 	</string>
 	<string>
 		<id>901825</id>
@@ -11050,72 +11051,72 @@
 	<string>
 		<id>901831</id>
 		<name>STR_INDUN_ACCOUNT_INFO_PVE_BUTTON_SUCCEED</name>
-		<body>Enter Boss&apos;s Room</body>
+		<body>Entrar na sala do Chefão</body>
 	</string>
 	<string>
 		<id>901832</id>
 		<name>STR_INDUN_ACCOUNT_INFO_PVE_BUTTON_FAILED</name>
-		<body>Leave Dungeon</body>
+		<body>Sair da Dungeon</body>
 	</string>
 	<string>
 		<id>901833</id>
 		<name>STR_INDUN_ACCOUNT_INFO_PVE_BUTTON_PLAYING</name>
-		<body>Leave Dungeon</body>
+		<body>Sair da Dungeon</body>
 	</string>
 	<string>
 		<id>901834</id>
 		<name>STR_INDUN_ACCOUNT_INFO_PVP_HEAD_SUCCEED</name>
-		<body>&lt;p align=&quot;left&quot;&gt;&lt;font size=&quot;6&quot;&gt;WIN %0 %1 : LOSE %2 %3&lt;/font&gt;&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;&lt;font size=&quot;6&quot;&gt;VITÓRIA %0 %1 : DERROTA %2 %3&lt;/font&gt;&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901835</id>
 		<name>STR_INDUN_ACCOUNT_INFO_PVP_HEAD_FAILED</name>
-		<body>&lt;p align=&quot;left&quot;&gt;&lt;font size=&quot;6&quot;&gt;Campaign Failed&lt;/font&gt;&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;&lt;font size=&quot;6&quot;&gt;A Campanha Falhou&lt;/font&gt;&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901836</id>
 		<name>STR_INDUN_ACCOUNT_INFO_PVP_TAIL_SUCCEED</name>
-		<body>&lt;p align=&quot;left&quot;&gt;&lt;font color=&quot;FF0000&quot; size=&quot;5&quot;&gt;Winner Bonus +AP : %2&lt;/font&gt;&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;&lt;font color=&quot;FF0000&quot; size=&quot;6&quot;&gt;Gained AP %0 %1&lt;/font&gt;&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;&lt;font color=&quot;FF0000&quot; size=&quot;5&quot;&gt;Bônus de Vencedor +AP : %2&lt;/font&gt;&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;&lt;font color=&quot;FF0000&quot; size=&quot;6&quot;&gt;AP Adquirido %0 %1&lt;/font&gt;&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901837</id>
 		<name>STR_INDUN_ACCOUNT_INFO_PVP_TAIL_FAILED</name>
-		<body>&lt;p align=&quot;left&quot;&gt;&lt;font color=&quot;FF0000&quot; size=&quot;6&quot;&gt;Gained AP %0 %1&lt;/font&gt;&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;&lt;font color=&quot;FF0000&quot; size=&quot;6&quot;&gt;AP Adquirido %0 %1&lt;/font&gt;&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901838</id>
 		<name>STR_INDUN_ACCOUNT_INFO_PVP_BUTTON_SUCCEED</name>
-		<body>Leave Dungeon</body>
+		<body>Sair da Dungeon</body>
 	</string>
 	<string>
 		<id>901839</id>
 		<name>STR_INDUN_ACCOUNT_INFO_PVP_BUTTON_FAILED</name>
-		<body>Leave Dungeon</body>
+		<body>Sair da Dungeon</body>
 	</string>
 	<string>
 		<id>901840</id>
 		<name>STR_INDUN_ACCOUNT_INFO_PVP_BUTTON_PLAYING</name>
-		<body>Leave Dungeon</body>
+		<body>Sair da Dungeon</body>
 	</string>
 	<string>
 		<id>901841</id>
 		<name>STR_CHAT_ROOM_PREDEFINED_CHANNELS</name>
-		<body>Lang. Channel</body>
+		<body>Canal de Idioma</body>
 	</string>
 	<string>
 		<id>901842</id>
 		<name>STR_BOOSTCASTINGTIME</name>
-		<body>Casting Spd.</body>
+		<body>Vel. de Cast</body>
 	</string>
 	<string>
 		<id>901843</id>
 		<name>STR_BOOSTHATE</name>
-		<body>Enmity Boost</body>
+		<body>Aumento de Aggro</body>
 	</string>
 	<string>
 		<id>901844</id>
 		<name>STR_MAIL_TITLE_EMPTY</name>
-		<body>No Title</body>
+		<body>Sem Título</body>
 	</string>
 	<string>
 		<id>901845</id>
@@ -11125,57 +11126,57 @@
 	<string>
 		<id>901846</id>
 		<name>STR_MAIL_TITLE_ITEM</name>
-		<body>[Att.] %0 (%num1)</body>
+		<body>[Item] %0 (%num1)</body>
 	</string>
 	<string>
 		<id>901847</id>
 		<name>STR_INSTANT_DUNGEON_ENTER_REQUEST_CONFIRM</name>
-		<body>Do you want to apply for %1 to %0?</body>
+		<body>Deseja se inscrever para %1 a %0?</body>
 	</string>
 	<string>
 		<id>901848</id>
 		<name>STR_INSTANT_DUNGEON_ENTER_GIVEUP_CONFIRM</name>
-		<body>Are you sure you want to abort entering %0?</body>
+		<body>Tem certeza de que deseja cancelar a entrada em %0?</body>
 	</string>
 	<string>
 		<id>901849</id>
 		<name>STR_PARTY_MATCH_JOIN</name>
-		<body>Recruit Group</body>
+		<body>Recrutar Grupo</body>
 	</string>
 	<string>
 		<id>901850</id>
 		<name>STR_PARTY_MATCH_INVITE</name>
-		<body>Invite to Group</body>
+		<body>Convidar para Grupo</body>
 	</string>
 	<string>
 		<id>901851</id>
 		<name>STR_FORCE_MATCH_JOIN</name>
-		<body>Recruit Alliance</body>
+		<body>Recrutar Aliança</body>
 	</string>
 	<string>
 		<id>901852</id>
 		<name>STR_FORCE_MATCH_INVITE</name>
-		<body>Invite to Alliance</body>
+		<body>Convidar para Aliança</body>
 	</string>
 	<string>
 		<id>901853</id>
 		<name>STR_PARTY_MATCH_CREATE</name>
-		<body>Recruit Group</body>
+		<body>Recrutar Grupo</body>
 	</string>
 	<string>
 		<id>901854</id>
 		<name>STR_FORCE_MATCH_CREATE</name>
-		<body>Recruit Alliance</body>
+		<body>Recrutar Aliança</body>
 	</string>
 	<string>
 		<id>901855</id>
 		<name>STR_PARTY_MATCH_INFO</name>
-		<body>Member Info</body>
+		<body>Informações dos Membros</body>
 	</string>
 	<string>
 		<id>901856</id>
 		<name>STR_PARTY_MATCH_MENU_SHOW_INFO</name>
-		<body>Show Member Info</body>
+		<body>Mostrar Inf. dos Membros</body>
 	</string>
 	<string>
 		<id>901857</id>
@@ -11190,7 +11191,7 @@
 	<string>
 		<id>901859</id>
 		<name>STR_STIGMA_REQUIRESKILL</name>
-		<body>Prerequisite Skill</body>
+		<body>Habil. Pré-requisito</body>
 	</string>
 	<string>
 		<id>901860</id>
@@ -11200,12 +11201,12 @@
 	<string>
 		<id>901861</id>
 		<name>STR_MAIL_MSG_FULL</name>
-		<body>&lt;p&gt;You cannot receive any mail as your mailbox is full.&lt;/p&gt;&lt;p&gt;Please delete any unneeded mail.&lt;/p&gt;</body>
+		<body>&lt;p&gt;Você não pode receber nenhum mail porque sua caixa de correio está cheia.&lt;/p&gt;&lt;p&gt;Por favor, exclua qualquer mail desnecessário.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901862</id>
 		<name>STR_INSTANT_DUNGEON_LEAVE_CONFIRM</name>
-		<body>&lt;p&gt;Once you leave %0, you cannot enter it again until the reentry time expires.&lt;/p&gt;&lt;p&gt;Are you sure you want to leave %0?&lt;/p&gt;</body>
+		<body>&lt;p&gt;Depois de sair de %0, você não poderá entrar novamente até que o tempo de reentrada expire.&lt;/p&gt;&lt;p&gt;Tem certeza de que deseja sair de %0?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901863</id>
@@ -11220,92 +11221,92 @@
 	<string>
 		<id>901865</id>
 		<name>STR_PARTY_MATCH_SEARCH_MEMBER</name>
-		<body>[Recruit Group Member]</body>
+		<body>[Recrutar para Grupo]</body>
 	</string>
 	<string>
 		<id>901866</id>
 		<name>STR_FORCE_MATCH_SEARCH_MEMBER</name>
-		<body>[Recruit Alliance Member]</body>
+		<body>[Recrutar para Aliança]</body>
 	</string>
 	<string>
 		<id>901867</id>
 		<name>STR_MATCH_ASK_INVITE</name>
-		<body>[Accept Invitation]</body>
+		<body>[Aceitar Convite]</body>
 	</string>
 	<string>
 		<id>901868</id>
 		<name>STR_INSTANT_DUNGEON_SOLE_ENTER</name>
-		<body>Private Entry</body>
+		<body>Nova Entrada</body>
 	</string>
 	<string>
 		<id>901869</id>
 		<name>STR_INSTANT_DUNGEON_FAST_ENTER</name>
-		<body>Quick Entry</body>
+		<body>Entrada Rápida</body>
 	</string>
 	<string>
 		<id>901870</id>
 		<name>STR_INSTANT_DUNGEON_GROUP_ENTER</name>
-		<body>Group Entry</body>
+		<body>Entrada em Grupo</body>
 	</string>
 	<string>
 		<id>901871</id>
 		<name>STR_INSTANT_DUNGEON_GROUP_ENTER_LEADER</name>
-		<body>Group Entry of %0</body>
+		<body>Entrada em Grupo de %0</body>
 	</string>
 	<string>
 		<id>901872</id>
 		<name>STR_INSTANT_DUNGEON_WAITING_INFO</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Entry Method: %0&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Progress: %1&lt;/p&gt;&#xA;&lt;p&gt;&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Elapsed Wait Time: %DURATIONTIME2 %3&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Método de Entrada: %0&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Progresso: %1&lt;/p&gt;&#xA;&lt;p&gt;&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Tempo de espera decorrido: %DURATIONTIME2 %3&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901873</id>
 		<name>STR_INSTANT_DUNGEON_ENTER_CONFIRM</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Do you want to enter %0?&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Pressing the Enter button teleports you to the selected zone.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Time Remaining: %DURATIONTIME1&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Você quer entrar em %0?&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Pressionar o botão Entrar teletransporta você para a zona selecionada.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Tempo Restante: %DURATIONTIME1&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901874</id>
 		<name>STR_INSTANT_DUNGEON_RESURRECT</name>
-		<body>&lt;p align=&quot;left&quot;&gt;If you click the OK button, you will resurrect immediately at the %0 Starting Point.&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Within %1 minutes, other people can resurrect you at the current spot.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Resurrection Wait Time: 10 seconds (%2 seconds remaining)&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Se você clicar no botão OK, você ressuscitará imediatamente no Ponto de Partida de %0.&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Em até %1 minutos, outras pessoas podem ressuscitá-lo no local atual.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Tempo de Espera da Ressurreição: %2 segundos restantes&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901875</id>
 		<name>STR_INSTANT_DUNGEON_RESURRECT_BUTTON</name>
-		<body>Starting Bind Point Resurrection...</body>
+		<body>Iniciando a Ressurreição no Bind Point...</body>
 	</string>
 	<string>
 		<id>901876</id>
 		<name>STR_INSTANT_DUNGEON_LEAVE</name>
-		<body>Leave Instanced Zone</body>
+		<body>Sair da Zona Instanciada</body>
 	</string>
 	<string>
 		<id>901877</id>
 		<name>STR_EDIT_CHAR_ITEM_USE_CONFIRM</name>
-		<body>&lt;p&gt;Using %0 will change your appearance.&lt;/p&gt;&#xA;&lt;p&gt;Are you sure you want to change your appearance?&lt;/p&gt;</body>
+		<body>&lt;p&gt;Usar %0 mudará sua aparência.&lt;/p&gt;&#xA;&lt;p&gt;Tem certeza de que deseja mudar sua aparência?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901878</id>
 		<name>STR_TOOLTIP_PARTY_WITH_PET</name>
-		<body>Group Member</body>
+		<body>Membro do Grupo</body>
 	</string>
 	<string>
 		<id>901879</id>
 		<name>STR_TOOLTIP_FORCE</name>
-		<body>Alliance Member</body>
+		<body>Membro da Aliança</body>
 	</string>
 	<string>
 		<id>901880</id>
 		<name>STR_TOOLTIP_FORCE_WITH_PET</name>
-		<body>Alliance Member</body>
+		<body>Membro da Aliança</body>
 	</string>
 	<string>
 		<id>901881</id>
 		<name>STR_VENDOR_DAY</name>
-		<body>%0 days</body>
+		<body>%0 dias</body>
 	</string>
 	<string>
 		<id>901882</id>
 		<name>STR_EDIT_CHAR_ITEM_USE_TITLE</name>
-		<body>Appearance Modification</body>
+		<body>Modificação de Aparência</body>
 	</string>
 	<string>
 		<id>901883</id>
