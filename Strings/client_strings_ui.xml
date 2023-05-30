@@ -9639,17 +9639,17 @@
 	<string>
 		<id>901543</id>
 		<name>STR_LIGHT_TITLE_Down01_DESC</name>
-		<body>Ariel, Dama de Elysea, concede esse efeito de facção a todos os Elysians quando a taxa de influência é desfavorável.&#xA;Causa 8%% de dano extra e reduz o dano recebido em 4%% quando você ataca outro jogador.</body>
+		<body>Ariel, Dama de Elysea, concede esse efeito a todos os Elyos quando a taxa de influência é desfavorável.&#xA;Causa 8%% de dano extra e reduz o dano recebido em 4%%. Esse efeito só é válido no PVP.</body>
 	</string>
 	<string>
 		<id>901544</id>
 		<name>STR_LIGHT_TITLE_Down02_DESC</name>
-		<body>Ariel, Dama de Elysea, concede esse efeito de facção a todos os Elysians quando a taxa de influência é desfavorável.&#xA;Causa 8%% de dano extra e reduz o dano recebido em 6%% quando você ataca outro jogador.</body>
+		<body>Ariel, Dama de Elysea, concede esse efeito a todos os Elyos quando a taxa de influência é desfavorável&#xA;Causa 8%% de dano extra e reduz o dano recebido em 6%%. Esse efeito só é válido no PVP.</body>
 	</string>
 	<string>
 		<id>901545</id>
 		<name>STR_LIGHT_TITLE_Down03_DESC</name>
-		<body>Ariel, Dama de Elysea, concede esse efeito de facção a todos os Elysians quando a taxa de influência é desfavorável.&#xA;Causa 8%% de dano extra e reduz o dano recebido em 8%% quando você ataca outro jogador.</body>
+		<body>Ariel, Dama de Elysea, concede esse efeito a todos os Elyos quando a taxa de influência é desfavorável&#xA;Causa 8%% de dano extra e reduz o dano recebido em 8%%. Esse efeito só é válido no PVP.</body>
 	</string>
 	<string>
 		<id>901546</id>
@@ -9659,17 +9659,17 @@
 	<string>
 		<id>901547</id>
 		<name>STR_Dark_TITLE_Down01_DESC</name>
-		<body>Azphel, Lorde de Asmodae, concede esse efeito de facção a todos os Asmodians quando a taxa de influência é desfavorável.&#xA;Causa 8%% de dano extra e reduz o dano recebido em 4%% quando você ataca outro jogador.</body>
+		<body>Azphel, Lorde de Asmodae, concede esse efeito a todos os Asmodians quando a taxa de influência é desfavorável.&#xA;Causa 8%% de dano extra e reduz o dano recebido em 4%%. Esse efeito só é válido no PVP.</body>
 	</string>
 	<string>
 		<id>901548</id>
 		<name>STR_Dark_TITLE_Down02_DESC</name>
-		<body>Azphel, Lorde de Asmodae, concede esse efeito de facção a todos os Asmodians quando a taxa de influência é desfavorável.&#xA;Causa 8%% de dano extra e reduz o dano recebido em 6%% quando você ataca outro jogador.</body>
+		<body>Azphel, Lorde de Asmodae, concede esse efeito a todos os Asmodians quando a taxa de influência é desfavorável.&#xA;Causa 8%% de dano extra e reduz o dano recebido em 6%%. Esse efeito só é válido no PVP.</body>
 	</string>
 	<string>
 		<id>901549</id>
 		<name>STR_Dark_TITLE_Down03_DESC</name>
-		<body>Azphel, Lorde de Asmodae, concede esse efeito de facção a todos os Asmodians quando a taxa de influência é desfavorável.&#xA;Causa 8%% de dano extra e reduz o dano recebido em 8%% quando você ataca outro jogador.</body>
+		<body>Azphel, Lorde de Asmodae, concede esse efeito a todos os Asmodians quando a taxa de influência é desfavorável.&#xA;Causa 8%% de dano extra e reduz o dano recebido em 8%%. Esse efeito só é válido no PVP.</body>
 	</string>
 	<string>
 		<id>901550</id>
