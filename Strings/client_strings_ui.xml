@@ -418,7 +418,7 @@
 	<string>
 		<id>160001</id>
 		<name>STR_VENDOR_CONFIRM_SELL</name>
-		<body>Você está vendendo este item por &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt;. Esse será o seu item registrado de número %num1, então uma taxa de registro nível %2 será aplicada. Sendo assim, a nova taxa é &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina3&lt;/font&gt;. Continuar?</body>
+		<body>Você está vendendo este item por &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt;. Esse será o seu item registrado de número %num1, então uma taxa de registro nível %2 no valor de &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina3&lt;/font&gt; será aplicada. Continuar?</body>
 	</string>
 	<string>
 		<id>160002</id>
@@ -558,7 +558,7 @@
 	<string>
 		<id>160034</id>
 		<name>STR_ASK_RE_REGISTER_BINDSTONE</name>
-		<body>&lt;/p&gt;O Kisk já foi colocado. &lt;p&gt;&#xA;&lt;p&gt;Colocar um novo Kisk irá &lt;font color=&quot;ff0000&quot;&gt;DESTRUIR&lt;/font&gt; o Kisk existente.&lt;/p&gt;&#xA;&lt;p&gt;Deseja colocar o novo Kisk?&lt;/p&gt;</body>
+		<body>&lt;/p&gt;Você já tem um Kisk ativo. &lt;p&gt;&#xA;&lt;p&gt;Colocar um novo Kisk irá &lt;font color=&quot;ff0000&quot;&gt;DESTRUIR&lt;/font&gt; o Kisk existente.&lt;/p&gt;&#xA;&lt;p&gt;Deseja colocar o novo Kisk?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>230000</id>
@@ -638,7 +638,7 @@
 	<string>
 		<id>230015</id>
 		<name>STR_CMD_PARTY_INVITE</name>
-		<body>/Invite,/InviteToGroup,/InviteToParty,/PInvite</body>
+		<body>/Invite,/InviteToGroup,/InviteToParty,/PInvite,/Convidar</body>
 	</string>
 	<string>
 		<id>230016</id>
@@ -758,7 +758,7 @@
 	<string>
 		<id>230039</id>
 		<name>STR_CMD_FIND_PATH_TO_NPC_POS</name>
-		<body>/PathFinding,/Where</body>
+		<body>/PathFinding,/Where,/Onde</body>
 	</string>
 	<string>
 		<id>230040</id>
@@ -813,7 +813,7 @@
 	<string>
 		<id>230050</id>
 		<name>STR_CMD_DICE</name>
-		<body>/Dice</body>
+		<body>/Dice,/Rolar</body>
 	</string>
 	<string>
 		<id>240000</id>
@@ -1210,7 +1210,7 @@
 	<string>
 		<id>240080</id>
 		<name>STR_TOOLTIP_QUEST_ITEM</name>
-		<body>Item de Tarefa</body>
+		<body>Item de Missão</body>
 	</string>
 	<string>
 		<id>240081</id>
@@ -2309,12 +2309,12 @@
 	<string>
 		<id>240301</id>
 		<name>STR_TOOLTIP_ACTIONKEY_COMBATMODE</name>
-		<body>Alternar combate</body>
+		<body>Toggle Combat</body>
 	</string>
 	<string>
 		<id>240302</id>
 		<name>STR_TOOLTIP_ACTIONKEY_RESTMODE</name>
-		<body>Alternar descançar</body>
+		<body>Toggle Rest</body>
 	</string>
 	<string>
 		<id>240303</id>
@@ -2324,27 +2324,27 @@
 	<string>
 		<id>240304</id>
 		<name>STR_TOOLTIP_ACTIONKEY_ASSIST</name>
-		<body>Selecionar o alvo do alvo</body>
+		<body>Selecionar Alvo do meu Alvo,[%chatcmd:/SelectTargetOfTarget]</body>
 	</string>
 	<string>
 		<id>240305</id>
 		<name>STR_TOOLTIP_ACTIONKEY_WEAPONEXCHANGE</name>
-		<body>Alternar arma</body>
+		<body>Mudar Arma,[%chatcmd:/ChangeWeaponSet]</body>
 	</string>
 	<string>
 		<id>240306</id>
 		<name>STR_TOOLTIP_ACTIONKEY_WALKTOGGLE</name>
-		<body>Alternar caminhar</body>
+		<body>Toggle Walk</body>
 	</string>
 	<string>
 		<id>240307</id>
 		<name>STR_TOOLTIP_ACTIONKEY_FLY</name>
-		<body>Alternar Voar/Pousar</body>
+		<body>Voar/Pousar,[%chatcmd:/fly]</body>
 	</string>
 	<string>
 		<id>240308</id>
 		<name>STR_TOOLTIP_ACTIONKEY_WEAPON_BOOST</name>
-		<body>Alternar Power Shard</body>
+		<body>Power Shard,[%chatcmd:/powershard]</body>
 	</string>
 	<string>
 		<id>240309</id>
@@ -2369,7 +2369,7 @@
 	<string>
 		<id>240313</id>
 		<name>STR_TOOLTIP_ACTIONKEY_EXECUTE</name>
-		<body>Atacar/Chat</body>
+		<body>Attack/Chat,[%chatcmd:/attack]</body>
 	</string>
 	<string>
 		<id>240314</id>
@@ -3151,7 +3151,7 @@
 	<string>
 		<id>900112</id>
 		<name>STR_KEYMAP_WEAPON_BOOST</name>
-		<body>Alternar 'Power Shard'</body>
+		<body>Ativar Power Shard</body>
 	</string>
 	<string>
 		<id>900211</id>
@@ -6379,7 +6379,7 @@
 	<string>
 		<id>900857</id>
 		<name>STR_MACRO_DELAY</name>
-		<body>/Delay</body>
+		<body>/Delay,/Atraso</body>
 	</string>
 	<string>
 		<id>900858</id>
@@ -6389,7 +6389,7 @@
 	<string>
 		<id>900859</id>
 		<name>STR_MACRO_CHAT_GUILD</name>
-		<body>/Legion,/g,/Legião</body>
+		<body>/Legion,/g,/Legiao</body>
 	</string>
 	<string>
 		<id>900860</id>
@@ -6449,7 +6449,7 @@
 	<string>
 		<id>900871</id>
 		<name>STR_MACRO_CHAT_ALLIANCE</name>
-		<body>/Alliance,/a,/Aliança</body>
+		<body>/Alliance,/a,/Alianca</body>
 	</string>
 	<string>
 		<id>900872</id>
@@ -8194,12 +8194,12 @@
 	<string>
 		<id>901252</id>
 		<name>STR_CMD_FORCE_INVITE</name>
-		<body>/InviteToAlliance,/AInvite,/AllianceInvite,/ConvidarAliança,/ConvidarParaAliança</body>
+		<body>/InviteToAlliance,/AInvite,/AllianceInvite,/ConvidarAlianca,/ConvidarParaAlianca</body>
 	</string>
 	<string>
 		<id>901253</id>
 		<name>STR_CMD_FORCE_LEAVE</name>
-		<body>/LeaveAlliance,/ALeave,/SairAliança,/SairDaAliança</body>
+		<body>/LeaveAlliance,/ALeave,/SairAlianca,/SairDaAlianca</body>
 	</string>
 	<string>
 		<id>901254</id>
@@ -8619,7 +8619,7 @@
 	<string>
 		<id>901337</id>
 		<name>STR_POS_LINK_TEXT</name>
-		<body>Localização</body>
+		<body>Location</body>
 	</string>
 	<string>
 		<id>901338</id>
@@ -8784,7 +8784,7 @@
 	<string>
 		<id>901370</id>
 		<name>STR_CMD_CHANGE_LEADER</name>
-		<body>/Entrust,/Leader,/Líder</body>
+		<body>/Entrust,/Leader,/Lider</body>
 	</string>
 	<string>
 		<id>901371</id>
@@ -8794,17 +8794,17 @@
 	<string>
 		<id>901372</id>
 		<name>STR_CMD_ROUNDROBIN</name>
-		<body>/InOrder,/RoundRobin,/RoundRobinLoot</body>
+		<body>/InOrder,/RoundRobin,/RoundRobinLoot,/RRLoot</body>
 	</string>
 	<string>
 		<id>901373</id>
 		<name>STR_CMD_LEADERONLY</name>
-		<body>/Captain,/Master,/LíderLoot</body>
+		<body>/Captain,/Master,/LiderLoot,/LLoot</body>
 	</string>
 	<string>
 		<id>901374</id>
 		<name>STR_CMD_PARTY_LEADERONLY</name>
-		<body>/GroupLeader,/GroupLeaderLoot,/LíderDoGrupo</body>
+		<body>/GroupLeader,/GroupLeaderLoot,/LiderDoGrupo,/LiderLoot</body>
 	</string>
 	<string>
 		<id>901375</id>
@@ -8884,7 +8884,7 @@
 	<string>
 		<id>901390</id>
 		<name>STR_CMD_EXIT</name>
-		<body>/Exit,/Quit,/Sair</body>
+		<body>/Exit,/Quit</body>
 	</string>
 	<string>
 		<id>901391</id>
@@ -8909,7 +8909,7 @@
 	<string>
 		<id>901395</id>
 		<name>STR_CMD_GUILD_NOTICE</name>
-		<body>/Notice,/LegionNotice,/GNotice,/GMOTD,/GuildNotice,/Notícia</body>
+		<body>/Notice,/LegionNotice,/GNotice,/GMOTD,/GuildNotice,/Noticia</body>
 	</string>
 	<string>
 		<id>901396</id>
@@ -9254,7 +9254,7 @@
 	<string>
 		<id>901466</id>
 		<name>STR_TOOLTIP_FORTRESS_NEX_PVP</name>
-		<body>Condição da Fortaleza após %0</body>
+		<body>Nova condição em %0</body>
 	</string>
 	<string>
 		<id>901467</id>
@@ -10495,7 +10495,7 @@
 	<string>
 		<id>901715</id>
 		<name>STR_CMD_ACCUSE_COUNT_INFO</name>
-		<body>/NumberofReports</body>
+		<body>/NumberofReports,/Denuncias</body>
 	</string>
 	<string>
 		<id>901716</id>
@@ -10695,7 +10695,7 @@
 	<string>
 		<id>901760</id>
 		<name>STR_CMD_PING</name>
-		<body>/Ping,/Latência</body>
+		<body>/Ping,/Latencia</body>
 	</string>
 	<string>
 		<id>901761</id>
@@ -11211,12 +11211,12 @@
 	<string>
 		<id>901863</id>
 		<name>STR_CMD_CREATE_PARTY</name>
-		<body>/RecruitGroupMember</body>
+		<body>/RecruitGroupMember,/CriarGrupo</body>
 	</string>
 	<string>
 		<id>901864</id>
 		<name>STR_CMD_CREATE_FORCE</name>
-		<body>/RecruitAllianceMember</body>
+		<body>/RecruitAllianceMember,/CriarAlianca</body>
 	</string>
 	<string>
 		<id>901865</id>
@@ -11311,27 +11311,27 @@
 	<string>
 		<id>901883</id>
 		<name>STR_KEYMAP_TOGGLE_INDUN_ACCOUNT</name>
-		<body>Dark Poeta Instance</body>
+		<body>Dark Poeta Dungeon</body>
 	</string>
 	<string>
 		<id>901884</id>
 		<name>STR_TOOLTIP_INDUN_ACCOUNT_BUTTON</name>
-		<body>Shortcut Key: %0</body>
+		<body>Tecla de Atalho: %0</body>
 	</string>
 	<string>
 		<id>901885</id>
 		<name>STR_PARTY_MATCH_DECLINE</name>
-		<body>Reject Group</body>
+		<body>Rejeitar Grupo</body>
 	</string>
 	<string>
 		<id>901886</id>
 		<name>STR_FORCE_MATCH_DECLINE</name>
-		<body>Reject Alliance</body>
+		<body>Rejeitar Aliança</body>
 	</string>
 	<string>
 		<id>901887</id>
 		<name>STR_UI_LOOT_OPTION_RANK_MYTHIC</name>
-		<body>Mythic items or above</body>
+		<body>Itens Míticos ou acima</body>
 	</string>
 	<string>
 		<id>901888</id>
@@ -11351,12 +11351,12 @@
 	<string>
 		<id>901891</id>
 		<name>STR_INSTANT_DUNGEON_IDLF1_RESURRECT</name>
-		<body>&lt;p align=&quot;left&quot;&gt;If you click the OK button,&#xA;you will resurrect immediately&#xA;at the %0 Starting Point.&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Se você clicar no botão OK,&#xA;você ressuscitará imediatamente&#xA;no Ponto de Partida de %0.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901892</id>
 		<name>STR_MSG_ERROR_REPORT_SEND_AGREE</name>
-		<body>&lt;p&gt;Send an error report of the Aion client automatically to the NCSOFT&apos;s error reporting server?&lt;/p&gt;&lt;p&gt;An error report contains information on the status of Aion, hardware configuration and other data at the time of error. The error report may contain personal information, but is not used by NCsoft.&lt;/p&gt;</body>
+		<body>&lt;p&gt;Enviar um relatório de erros do cliente do Aion automaticamente para a NCSOFT?&lt;/p&gt;&lt;p&gt;Um relatório de erro contém informações sobre o status do Aion, configuração de hardware e outros dados no momento do erro. O relatório de erro pode conter informações pessoais, mas não é usado pela NCsoft.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901894</id>
@@ -11416,77 +11416,77 @@
 	<string>
 		<id>901905</id>
 		<name>STR_COMMON_AGREE</name>
-		<body>Yes, I agree.</body>
+		<body>Sim eu concordo.</body>
 	</string>
 	<string>
 		<id>901906</id>
 		<name>STR_COMMON_DISAGREE</name>
-		<body>No, I don&apos;t agree.</body>
+		<body>Não, não concordo.</body>
 	</string>
 	<string>
 		<id>901907</id>
 		<name>STR_DECOMPOSE_ITEM_CONFIRM</name>
-		<body>Extract</body>
+		<body>Extrair</body>
 	</string>
 	<string>
 		<id>901908</id>
 		<name>STR_DECOMPOSE_ITEM_CANCEL</name>
-		<body>Cancel</body>
+		<body>Cancelar</body>
 	</string>
 	<string>
 		<id>901909</id>
 		<name>STR_PARTY_MATCH_APPLY</name>
-		<body>Apply for Group</body>
+		<body>Aplicar para Grupo</body>
 	</string>
 	<string>
 		<id>901910</id>
 		<name>STR_FORCE_MATCH_APPLY</name>
-		<body>Apply for Alliance</body>
+		<body>Aplicar para Aliança</body>
 	</string>
 	<string>
 		<id>901911</id>
 		<name>STR_ERR_CANT_EXECUTE_MORE_GAME</name>
-		<body>You cannot run any more client.</body>
+		<body>Você não pode executar mais nenhum cliente do Aion (limite de 2).</body>
 	</string>
 	<string>
 		<id>901912</id>
 		<name>STR_ERR_CANT_EXECUTE_FOR_RESTRICTED_NATION</name>
-		<body>You have limited access and the connection with the server is being closed.</body>
+		<body>Você tem acesso limitado e a conexão com o servidor está sendo encerrada.</body>
 	</string>
 	<string>
 		<id>901913</id>
 		<name>STR_DIRECT_PORTAL_USE_LEVEL</name>
-		<body>Can be used by: Level %num0 ~ %num1</body>
+		<body>Pode ser usado por nível %num0 ~ %num1</body>
 	</string>
 	<string>
 		<id>901914</id>
 		<name>STR_TOOLTIP_PRIVIEW_HIDE_HEAD</name>
-		<body>View headwear</body>
+		<body>Ver capacete</body>
 	</string>
 	<string>
 		<id>901915</id>
 		<name>STR_ERROR_TITLE</name>
-		<body>Error</body>
+		<body>Erro</body>
 	</string>
 	<string>
 		<id>901916</id>
 		<name>STR_INSTANT_DUNGEON_WAITING_INFO_PARTY_MATCH</name>
-		<body>Group formation in progress %0</body>
+		<body>Formação do grupo em andamento %0</body>
 	</string>
 	<string>
 		<id>901917</id>
 		<name>STR_INSTANT_DUNGEON_WAITING_INFO_ENTER_READY</name>
-		<body>Opponent Group formation in progress</body>
+		<body>Formação do grupo oponente em andamento</body>
 	</string>
 	<string>
 		<id>901918</id>
 		<name>STR_OPTION_AV_INFO_VSYNC</name>
-		<body>The client must be restarted to apply the selected setting.\nTurning it on reduces the screen distortion in full screen mode.</body>
+		<body>O cliente deve ser reiniciado para aplicar a configuração selecionada.\nAtivá-lo reduz a distorção da tela no modo de tela inteira.</body>
 	</string>
 	<string>
 		<id>901919</id>
 		<name>STR_KEYMAP_AUTOTARGET_CORPSE</name>
-		<body>Select Nearest Corpse</body>
+		<body>Selecione o cadáver mais próximo</body>
 	</string>
 	<string>
 		<id>901920</id>
@@ -11501,12 +11501,12 @@
 	<string>
 		<id>901922</id>
 		<name>STR_USER_KICKED_BY_TIMEOUT</name>
-		<body>Connection has timed out. Please take a break.</body>
+		<body>A conexão expirou. Por favor, faça uma pausa.</body>
 	</string>
 	<string>
 		<id>901923</id>
 		<name>STR_KEYMAP_AUTOBACKWARD</name>
-		<body>Automatic Reverse</body>
+		<body>Andar de costas automaticamente</body>
 	</string>
 	<string>
 		<id>901924</id>
@@ -11515,32 +11515,32 @@
 	<string>
 		<id>901925</id>
 		<name>STR_INSTANT_DUNGEON_WAITING_INFO_PARTY_MATCH_STATUS_ESSENTIAL</name>
-		<body>(Waiting for allies)</body>
+		<body>(Esperando por aliados)</body>
 	</string>
 	<string>
 		<id>901926</id>
 		<name>STR_INSTANT_DUNGEON_WAITING_INFO_PARTY_MATCH_STATUS_ANYONE</name>
-		<body>(Waiting for needed members)</body>
+		<body>(Aguardando os membros necessários)</body>
 	</string>
 	<string>
 		<id>901927</id>
 		<name>STR_INSTANT_DUNGEON_ENTER_CONFIRM_TIME</name>
-		<body>(Max %DURATIONTIME0)</body>
+		<body>(Máx. %DURATIONTIME0)</body>
 	</string>
 	<string>
 		<id>901928</id>
 		<name>STR_KEYMAP_TITLE_FLYING</name>
-		<body>Fly</body>
+		<body>Voar</body>
 	</string>
 	<string>
 		<id>901929</id>
 		<name>STR_TOOLTIP_USE_LEVEL_MAX</name>
-		<body>Can be used by level %0 or below</body>
+		<body>Pode ser usado por nível %0 ou inferior</body>
 	</string>
 	<string>
 		<id>901930</id>
 		<name>STR_TOOLTIP_USE_CLASS_LEVEL_MAX</name>
-		<body>Can be used by %0s of level %1 or below</body>
+		<body>Pode ser usado por %0s de nível %1 ou inferior</body>
 	</string>
 	<string>
 		<id>901931</id>
@@ -11556,7 +11556,7 @@
 	<string>
 		<id>901933</id>
 		<name>STR_CMD_CHECK_GATHER_RESTRICTION</name>
-		<body>/ExtractStatus</body>
+		<body>/ExtractStatus,/RestricaoColeta</body>
 	</string>
 	<string>
 		<id>901934</id>
@@ -11576,12 +11576,12 @@
 	<string>
 		<id>901937</id>
 		<name>STR_MAIL_CONFIRM_DEL_ALL_SELECTED_UNREAD</name>
-		<body>There are &lt;font color=&quot;ff0000&quot;&gt;unread messages&lt;/font&gt; selected. Do you really wish to delete them all?</body>
+		<body>Há &lt;font color=&quot;ff0000&quot;&gt;mensagens não lidas&lt;/font&gt; selecionadas. Você realmente deseja excluir todas?</body>
 	</string>
 	<string>
 		<id>901938</id>
 		<name>STR_MAIL_CONFIRM_DEL_ALL_SELECTED_MAIL</name>
-		<body>This deletes all selected mail. Do you really wish to delete them all?</body>
+		<body>Isso exclui todos os mails selecionados. Você realmente deseja excluir todos?</body>
 	</string>
 	<string>
 		<id>901939</id>
@@ -11619,27 +11619,27 @@
 	<string>
 		<id>901945</id>
 		<name>STR_QUEST_REWARD_TITLE</name>
-		<body>Title: %0</body>
+		<body>Título: %0</body>
 	</string>
 	<string>
 		<id>901946</id>
 		<name>STR_QUEST_REWARD_STIGMASLOT_EXPANSION</name>
-		<body>Expand Stigma Slot</body>
+		<body>Expandir Slot de Stigma</body>
 	</string>
 	<string>
 		<id>901947</id>
 		<name>STR_QUEST_REWARD_CUBE_EXPANSION</name>
-		<body>Expand Cube</body>
+		<body>Expandir Cubo</body>
 	</string>
 	<string>
 		<id>901948</id>
 		<name>STR_QUEST_REWARD_STORAGE_EXPANSION</name>
-		<body>Expand Private Warehouse</body>
+		<body>Expandir Baú Privado</body>
 	</string>
 	<string>
 		<id>901949</id>
 		<name>STR_INSTANCE_PORTAL_INFO</name>
-		<body>Time remaining: %DURATIONTIME0</body>
+		<body>Tempo restante: %DURATIONTIME0</body>
 	</string>
 	<string>
 		<id>901950</id>
@@ -11674,7 +11674,7 @@
 	<string>
 		<id>901956</id>
 		<name>STR_CUBE_TAB_MENU_AUTO_SORT</name>
-		<body>Auto-Arrange Cube</body>
+		<body>Organizar Cubo Automaticamente</body>
 	</string>
 	<string>
 		<id>901957</id>
@@ -11754,177 +11754,177 @@
 	<string>
 		<id>901972</id>
 		<name>STR_AIONJEWEL_SHOP_BUY_CONFIRM</name>
-		<body>You need %num0 %1 to buy the item. Proceed with the purchase?</body>
+		<body>Você precisa de %num0 %1 para comprar o item. Continuar com a compra?</body>
 	</string>
 	<string>
 		<id>901973</id>
 		<name>STR_ABYSS_REWARD_MAIL_PROTECT_SENDER_LIGHT</name>
-		<body>Sanctum Headquarters</body>
+		<body>Quartel-General de Sanctum</body>
 	</string>
 	<string>
 		<id>901974</id>
 		<name>STR_ABYSS_REWARD_MAIL_PROTECT_TITLE_LIGHT</name>
-		<body>Defence Reward Notice</body>
+		<body>Aviso de Recompensa de Defesa</body>
 	</string>
 	<string>
 		<id>901975</id>
 		<name>STR_ABYSS_REWARD_MAIL_PROTECT_HEADER_LIGHT</name>
-		<body>Congratulations to your Legion for successfully defending %2 at %1 on %0.</body>
+		<body>Parabéns à sua Legião por defender com sucesso %2 as %1 em %0.</body>
 	</string>
 	<string>
 		<id>901976</id>
 		<name>STR_ABYSS_REWARD_MAIL_PROTECT_BODY_LIGHT</name>
-		<body> I would ask you to continue to make yourself available for duty.</body>
+		<body> Peço que continue a colocar-se à disposição para o dever.</body>
 	</string>
 	<string>
 		<id>901977</id>
 		<name>STR_ABYSS_REWARD_MAIL_PROTECT_TAIL_LIGHT</name>
-		<body>\n\n- Fasimedes, Governor of Sanctum</body>
+		<body>\n\n- Fasimedes, Governador de Sanctum</body>
 	</string>
 	<string>
 		<id>901978</id>
 		<name>STR_ABYSS_REWARD_MAIL_PROTECT_SENDER_DARK</name>
-		<body>Pandaemonium Headquarters</body>
+		<body>Quartel-General de Pandaemonium</body>
 	</string>
 	<string>
 		<id>901979</id>
 		<name>STR_ABYSS_REWARD_MAIL_PROTECT_TITLE_DARK</name>
-		<body>Defence Reward Notice</body>
+		<body>Aviso de Recompensa de Defesa</body>
 	</string>
 	<string>
 		<id>901980</id>
 		<name>STR_ABYSS_REWARD_MAIL_PROTECT_HEADER_DARK</name>
-		<body>Congratulations to your Legion for successfully defending %2 at %1 on %0.</body>
+		<body>Parabéns à sua Legião por defender com sucesso %2 as %1 em %0.</body>
 	</string>
 	<string>
 		<id>901981</id>
 		<name>STR_ABYSS_REWARD_MAIL_PROTECT_BODY_DARK</name>
-		<body> I would ask you to continue to make yourself available for duty.</body>
+		<body> Peço que continue a colocar-se à disposição para o dever.</body>
 	</string>
 	<string>
 		<id>901982</id>
 		<name>STR_ABYSS_REWARD_MAIL_PROTECT_TAIL_DARK</name>
-		<body>\n\n- Vidar, Governor of Pandaemonium</body>
+		<body>\n\n- Vidar, Governador de Pandaemonium</body>
 	</string>
 	<string>
 		<id>901983</id>
 		<name>STR_KEYMAP_QUICKBAR_SEP1_0</name>
-		<body>First Movable Quickbar #1</body>
+		<body>Primeira Barra Móvel #1</body>
 	</string>
 	<string>
 		<id>901984</id>
 		<name>STR_KEYMAP_QUICKBAR_SEP1_1</name>
-		<body>First Movable Quickbar #2</body>
+		<body>Primeira Barra Móvel #2</body>
 	</string>
 	<string>
 		<id>901985</id>
 		<name>STR_KEYMAP_QUICKBAR_SEP1_2</name>
-		<body>First Movable Quickbar #3</body>
+		<body>Primeira Barra Móvel #3</body>
 	</string>
 	<string>
 		<id>901986</id>
 		<name>STR_KEYMAP_QUICKBAR_SEP1_3</name>
-		<body>First Movable Quickbar #4</body>
+		<body>Primeira Barra Móvel #4</body>
 	</string>
 	<string>
 		<id>901987</id>
 		<name>STR_KEYMAP_QUICKBAR_SEP1_4</name>
-		<body>First Movable Quickbar #5</body>
+		<body>Primeira Barra Móvel #5</body>
 	</string>
 	<string>
 		<id>901988</id>
 		<name>STR_KEYMAP_QUICKBAR_SEP1_5</name>
-		<body>First Movable Quickbar #6</body>
+		<body>Primeira Barra Móvel #6</body>
 	</string>
 	<string>
 		<id>901989</id>
 		<name>STR_KEYMAP_QUICKBAR_SEP1_6</name>
-		<body>First Movable Quickbar #7</body>
+		<body>Primeira Barra Móvel #7</body>
 	</string>
 	<string>
 		<id>901990</id>
 		<name>STR_KEYMAP_QUICKBAR_SEP1_7</name>
-		<body>First Movable Quickbar #8</body>
+		<body>Primeira Barra Móvel #8</body>
 	</string>
 	<string>
 		<id>901991</id>
 		<name>STR_KEYMAP_QUICKBAR_SEP1_8</name>
-		<body>First Movable Quickbar #9</body>
+		<body>Primeira Barra Móvel #9</body>
 	</string>
 	<string>
 		<id>901992</id>
 		<name>STR_KEYMAP_QUICKBAR_SEP1_9</name>
-		<body>First Movable Quickbar #10</body>
+		<body>Primeira Barra Móvel #10</body>
 	</string>
 	<string>
 		<id>901993</id>
 		<name>STR_KEYMAP_QUICKBAR_SEP1_10</name>
-		<body>First Movable Quickbar #11</body>
+		<body>Primeira Barra Móvel #11</body>
 	</string>
 	<string>
 		<id>901994</id>
 		<name>STR_KEYMAP_QUICKBAR_SEP1_11</name>
-		<body>First Movable Quickbar #12</body>
+		<body>Primeira Barra Móvel #12</body>
 	</string>
 	<string>
 		<id>901995</id>
 		<name>STR_KEYMAP_QUICKBAR_SEP2_0</name>
-		<body>Second Movable Quickbar #1</body>
+		<body>Segunda Barra Móvel #1</body>
 	</string>
 	<string>
 		<id>901996</id>
 		<name>STR_KEYMAP_QUICKBAR_SEP2_1</name>
-		<body>Second Movable Quickbar #2</body>
+		<body>Segunda Barra Móvel #2</body>
 	</string>
 	<string>
 		<id>901997</id>
 		<name>STR_KEYMAP_QUICKBAR_SEP2_2</name>
-		<body>Second Movable Quickbar #3</body>
+		<body>Segunda Barra Móvel #3</body>
 	</string>
 	<string>
 		<id>901998</id>
 		<name>STR_KEYMAP_QUICKBAR_SEP2_3</name>
-		<body>Second Movable Quickbar #4</body>
+		<body>Segunda Barra Móvel #4</body>
 	</string>
 	<string>
 		<id>901999</id>
 		<name>STR_KEYMAP_QUICKBAR_SEP2_4</name>
-		<body>Second Movable Quickbar #5</body>
+		<body>Segunda Barra Móvel #5</body>
 	</string>
 	<string>
 		<id>902000</id>
 		<name>STR_KEYMAP_QUICKBAR_SEP2_5</name>
-		<body>Second Movable Quickbar #6</body>
+		<body>Segunda Barra Móvel #6</body>
 	</string>
 	<string>
 		<id>902001</id>
 		<name>STR_KEYMAP_QUICKBAR_SEP2_6</name>
-		<body>Second Movable Quickbar #7</body>
+		<body>Segunda Barra Móvel #7</body>
 	</string>
 	<string>
 		<id>902002</id>
 		<name>STR_KEYMAP_QUICKBAR_SEP2_7</name>
-		<body>Second Movable Quickbar #8</body>
+		<body>Segunda Barra Móvel #8</body>
 	</string>
 	<string>
 		<id>902003</id>
 		<name>STR_KEYMAP_QUICKBAR_SEP2_8</name>
-		<body>Second Movable Quickbar #9</body>
+		<body>Segunda Barra Móvel #9</body>
 	</string>
 	<string>
 		<id>902004</id>
 		<name>STR_KEYMAP_QUICKBAR_SEP2_9</name>
-		<body>Second Movable Quickbar #10</body>
+		<body>Segunda Barra Móvel #10</body>
 	</string>
 	<string>
 		<id>902005</id>
 		<name>STR_KEYMAP_QUICKBAR_SEP2_10</name>
-		<body>Second Movable Quickbar #11</body>
+		<body>Segunda Barra Móvel #11</body>
 	</string>
 	<string>
 		<id>902006</id>
 		<name>STR_KEYMAP_QUICKBAR_SEP2_11</name>
-		<body>Second Movable Quickbar #12</body>
+		<body>Segunda Barra Móvel #12</body>
 	</string>
 	<string>
 		<id>902007</id>
@@ -13166,12 +13166,12 @@
 	<string>
 		<id>902254</id>
 		<name>STR_CMD_UNION_INVITE</name>
-		<body>/InviteToLeague,/LeagueInvite</body>
+		<body>/InviteToLeague,/LeagueInvite,/InvitarLiga</body>
 	</string>
 	<string>
 		<id>902255</id>
 		<name>STR_CMD_UNION_LEAVE</name>
-		<body>/LeaveLeague</body>
+		<body>/LeaveLeague,/sairLiga</body>
 	</string>
 	<string>
 		<id>902256</id>
@@ -13181,12 +13181,12 @@
 	<string>
 		<id>902257</id>
 		<name>STR_CMD_UNION_CHANGE_LEADER</name>
-		<body>/TransferLeague</body>
+		<body>/TransferLeague,/TransferirLiga</body>
 	</string>
 	<string>
 		<id>902258</id>
 		<name>STR_CHAT_CMD_UNION</name>
-		<body>/League</body>
+		<body>/League,/Liga</body>
 	</string>
 	<string>
 		<id>902259</id>
@@ -13201,7 +13201,7 @@
 	<string>
 		<id>902261</id>
 		<name>STR_CHAT_CMD_UNION_ALERT</name>
-		<body>/LeagueAlert</body>
+		<body>/LeagueAlert,/AlertaLiga</body>
 	</string>
 	<string>
 		<id>902262</id>
@@ -16282,7 +16282,7 @@
 	<string>
 		<id>903279</id>
 		<name>STR_CMD_RELICCALC</name>
-		<body>/Relic,/RelicAppraise</body>
+		<body>/Relic,/RelicAppraise,/Calculadora</body>
 	</string>
 	<string>
 		<id>903280</id>
@@ -18272,7 +18272,7 @@
 	<string>
 		<id>904096</id>
 		<name>STR_CMD_POWERBOOK</name>
-		<body>/GameGuide</body>
+		<body>/GameGuide,/Guia</body>
 	</string>
 	<string>
 		<id>904097</id>
@@ -18437,7 +18437,7 @@
 	<string>
 		<id>904129</id>
 		<name>STR_CMD_EMERGENCY_ESCAPE</name>
-		<body>/Retreat,/EmergencyEscape</body>
+		<body>/Retreat,/EmergencyEscape,/Emergencia</body>
 	</string>
 	<string>
 		<id>904130</id>
@@ -25222,7 +25222,7 @@
 	<string>
 		<id>905486</id>
 		<name>STR_CMD_ACCUSE_CHAT_SPAMMER</name>
-		<body>/ChatMessage/ReportSpam</body>
+		<body>/ChatMessage,/ReportSpam</body>
 	</string>
 	<string>
 		<id>905487</id>

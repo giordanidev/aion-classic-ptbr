@@ -11,16 +11,21 @@ def encode():
         orig = ".\\"+filename
         dest = ".\\PAK\\data_ptBR\\"+filename
 
-        print(f"Verifying if file exists: {dest}")
+        print(f"Verificando se arquivo existe: {dest}")
         if os.path.isfile(dest):
-            print("File exists, removing.")
+            print("Arquivo existe, removendo.")
             os.remove(dest)
-            print("File removed.")
+            print("Arquivo removido.")
         else:
-            print("File doesn't exists.")
-        print(f"Copying orig: {orig} -> dest: {dest}")
+            print("Arquivo não existe.")
+            if not os.path.isdir(os.path.dirname(dest)):
+                 print("Diretório não existe. Criando diretório.")
+                 os.makedirs(os.path.dirname(dest))
+                 print("Diretório criado.")
+                 
+        print(f"Copiando orig: {orig} -> dest: {dest}")
         shutil.copy2(orig, dest)
-        print("Copy success!")
+        print("Copiado com sucesso!")
 
         f = codecs.open(dest, encoding='utf-8')
         contents = f.read()
@@ -44,29 +49,40 @@ def encode():
         }
 
         contents="".join((char_unicode.get(x, x) for x in contents))
-        print("Replaced letters successfully!")
+        print("Letras substituídas!")
 
         f = open(dest, 'w', encoding='utf-8')
         f.write(contents)
-        print("File saved successfully!")
+        print("Arquivo salvo!")
 
     subprocess.check_call([r".\\Aion Encdec.exe", "-r data_ptBR.pak"])
 
-    print("Repacked successfully!")
+    print("Arquivo .PAK remontado!")
 
     orig_repack = ".\\REPACK\\data_ptBR.pak"
     dest_repack = "E:\\JOGOS\\aionclassic\\l10n\\ENG\\data\\data_ptBR.pak"
     dest_test = ".\\teste\\data_ptBR.pak"
 
-    print(f"Installing orig_repack: {orig_repack} -> dest_repack: '{dest_repack}'")
+    print(f"Instalando orig_repack: {orig_repack} -> dest_repack: '{dest_repack}'")
     if os.path.isfile(dest_repack):
-            os.remove(dest_repack)
+        os.remove(dest_repack)
+    else:
+        if not os.path.isdir(os.path.dirname(dest_repack)):
+            print("Diretório dest_repack não existe. Criando diretório.")
+            os.makedirs(os.path.dirname(dest_repack))
+            print("Diretório dest_repack criado.")
     shutil.copy2(orig_repack, dest_repack)
 
     if os.path.isfile(dest_test):
             os.remove(dest_test)
+    else:
+        if not os.path.isdir(os.path.dirname(dest_test)):
+            print("Diretório dest_test não existe. Criando diretório.")
+            os.makedirs(os.path.dirname(dest_test))
+            print("Diretório dest_test criado.")
+
     shutil.copy2(orig_repack, dest_test)
 
-    print("Installed successfully!")
+    print("Instalado com sucesso!")
 
 encode()
