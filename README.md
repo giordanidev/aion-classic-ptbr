@@ -21,3 +21,4 @@ Esamos jogando o Aion Classic EU: [http://classic.aiononline.com.br](http://clas
 # Imagens
 ![Sirocco](https://imgur.com/PK3elax.png)
 ![DP Quest](https://imgur.com/fn51O0Z.png)
+![Foice Triroan](https://i.imgur.com/yjWkAdt.png)
