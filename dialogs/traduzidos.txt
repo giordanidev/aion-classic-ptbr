@@ -1,9 +1,0 @@
-STRINGS
-client_strings_ui (parcialmente)
-stringtable_dialog (parcialmente)
-
-DIALOGS
-> 10000_19999
->> quest_q10000
-quest_q1096
-quest_q3705

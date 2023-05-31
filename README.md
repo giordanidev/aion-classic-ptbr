@@ -2,7 +2,10 @@
 
 Comecei esse projeto para ajudar os BRs que não entendem Inglês e gostariam de uma tradução que facilitasse a vida!
 
-Qualquer ajuda será muito bem vinda! 
+> A tradução está em estágio inicial. Estou focando na UI (menus, escritas de avisos, etc) primeiro.
+> Os arquivos sendo traduzidos agora são: "strings/client_strings_ui.xml" e "strings/stringtable_dialog.xml" que compõe a maior parte da UI.
+
+Qualquer ajuda será muito bem vinda!
 
 - Para testar a tradução no estado atual baixem o arquivo [AQUI](https://github.com/giordanidev/aion-classic-ptbr/raw/main/teste/data_ptbr.pak)
 - Coloquem o arquivo na pasta "l10n/ENG/data" do jogo, como na imagem abaixo:

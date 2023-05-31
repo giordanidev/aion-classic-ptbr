@@ -1,0 +1,9 @@
+STRINGS
+client_strings_ui.xml (parcialmente linha 12291)
+stringtable_dialog.xml (parcialmente)
+
+DIALOGS
+> 10000_19999
+>> quest_q10000.html
+quest_q1096.html
+quest_q3705.html
