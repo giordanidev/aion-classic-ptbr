@@ -8929,12 +8929,12 @@
 	<string>
 		<id>901399</id>
 		<name>STR_CHAT_MODE_ALERT</name>
-		<body>Alerta</body>
+		<body>Alert,Alerta</body>
 	</string>
 	<string>
 		<id>901400</id>
 		<name>STR_CHAT_CMD_ALERT</name>
-		<body>/Alert,/Alerta</body>
+		<body>/Al</body>
 	</string>
 	<string>
 		<id>901401</id>
