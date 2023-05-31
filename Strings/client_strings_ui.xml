@@ -1525,7 +1525,7 @@
 	<string>
 		<id>240143</id>
 		<name>STR_WINDOW_QUEST</name>
-		<body>Tarefas</body>
+		<body>Missões</body>
 	</string>
 	<string>
 		<id>240144</id>
@@ -2059,7 +2059,7 @@
 	<string>
 		<id>240251</id>
 		<name>STR_QUESTWINDOW_TOTAL</name>
-		<body>Tarefas Adquiridas/Máximo de Tarefas: %0/%1</body>
+		<body>Missões Adquiridas/Máximo: %0/%1</body>
 	</string>
 	<string>
 		<id>240252</id>
@@ -2754,7 +2754,7 @@
 	<string>
 		<id>900029</id>
 		<name>STR_KEYMAP_TOGGLEDIALOG_QUEST</name>
-		<body>Tarefas</body>
+		<body>Missões</body>
 	</string>
 	<string>
 		<id>900030</id>
@@ -3496,7 +3496,7 @@
 	<string>
 		<id>900279</id>
 		<name>STR_MAGIC_DEFENSE</name>
-		<body>Resistência Mágica</body>
+		<body>Resist. Mágica</body>
 	</string>
 	<string>
 		<id>900280</id>
@@ -3571,7 +3571,7 @@
 	<string>
 		<id>900294</id>
 		<name>STR_PARTY_INVITE_TITLE</name>
-		<body>Convidar para o Grupo</body>
+		<body>Convidar para Grupo</body>
 	</string>
 	<string>
 		<id>900295</id>
@@ -3726,7 +3726,7 @@
 	<string>
 		<id>900325</id>
 		<name>STR_SKILL_COOLING_TIME</name>
-		<body>Cooldown</body>
+		<body>Recarga</body>
 	</string>
 	<string>
 		<id>900326</id>
@@ -3811,7 +3811,7 @@
 	<string>
 		<id>900342</id>
 		<name>STR_POPUP_PARTY_INVITE</name>
-		<body>Convidar para o Grupo</body>
+		<body>Convidar para Grupo</body>
 	</string>
 	<string>
 		<id>900343</id>
@@ -6109,7 +6109,7 @@
 	<string>
 		<id>900803</id>
 		<name>STR_MSG_SHARE_QUEST</name>
-		<body>%0 ofereceu para compartilhar a tarefa [%questname]. Você aceita?</body>
+		<body>%0 está compartilhando a missão [%questname]. Você aceita?</body>
 	</string>
 	<string>
 		<id>900804</id>
@@ -6274,7 +6274,7 @@
 	<string>
 		<id>900836</id>
 		<name>STR_FINISHED_QUEST_TOTAL</name>
-		<body>Tarefas Finalizadas: %0</body>
+		<body>Missões Finalizadas: %0</body>
 	</string>
 	<string>
 		<id>900837</id>
@@ -8659,7 +8659,7 @@
 	<string>
 		<id>901345</id>
 		<name>STR_TUTORIAL_TITLE_QUEST</name>
-		<body>Tarefa</body>
+		<body>Missão</body>
 	</string>
 	<string>
 		<id>901346</id>
@@ -9874,7 +9874,7 @@
 	<string>
 		<id>901590</id>
 		<name>STR_TUTORIAL_TITLE_QUEST2</name>
-		<body>Tarefas</body>
+		<body>Missões</body>
 	</string>
 	<string>
 		<id>901591</id>
@@ -9889,7 +9889,7 @@
 	<string>
 		<id>901593</id>
 		<name>STR_TUTORIAL_TITLE_CHAIN_SKILL</name>
-		<body>habilidades em Sequência</body>
+		<body>Habilidades em Sequência</body>
 	</string>
 	<string>
 		<id>901594</id>
@@ -10114,7 +10114,7 @@
 	<string>
 		<id>901638</id>
 		<name>STR_TOOLTIP_QUEST_REQUIREMENT</name>
-		<body>Item de Tarefa</body>
+		<body>Item de Missão</body>
 	</string>
 	<string>
 		<id>901639</id>
@@ -10770,7 +10770,7 @@
 	<string>
 		<id>901775</id>
 		<name>STR_TOOLTIP_ITEMINFO_QUEST</name>
-		<body>Tarefa</body>
+		<body>Missão</body>
 	</string>
 	<string>
 		<id>901776</id>
@@ -10890,13 +10890,12 @@
 	<string>
 		<id>901799</id>
 		<name>STR_TOOLTIP_MISSION_COLLECT</name>
-		<body>Campaign Quest Collection Item</body>
 		<body>Item de Coleta de Campanha</body>
 	</string>
 	<string>
 		<id>901800</id>
 		<name>STR_TOOLTIP_QUEST_ETC</name>
-		<body>Outro Item de Tarefas</body>
+		<body>Item de Missões</body>
 	</string>
 	<string>
 		<id>901801</id>
@@ -11261,7 +11260,7 @@
 	<string>
 		<id>901873</id>
 		<name>STR_INSTANT_DUNGEON_ENTER_CONFIRM</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Você quer entrar em %0?&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Pressionar o botão Entrar teletransporta você para a zona selecionada.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Tempo Restante: %DURATIONTIME1&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Você quer entrar na %0?&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Pressionar o botão Entrar move você para a zona selecionada.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Tempo Restante: %DURATIONTIME1&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901874</id>
@@ -12164,7 +12163,7 @@
 	<string>
 		<id>902054</id>
 		<name>STR_INDUN_ENTER_OK</name>
-		<body>Enter</body>
+		<body>Entrar</body>
 	</string>
 	<string>
 		<id>902055</id>
@@ -14016,22 +14015,22 @@
 	<string>
 		<id>902764</id>
 		<name>STR_DIALOG_TITLE_DAILY_QUEST</name>
-		<body>Daily Quest</body>
+		<body>Missão Diária</body>
 	</string>
 	<string>
 		<id>902765</id>
 		<name>STR_TOOLTIP_INDUN_REENTER_TIME</name>
-		<body>Cooldown</body>
+		<body>Entrar novamente</body>
 	</string>
 	<string>
 		<id>902766</id>
 		<name>STR_TOOLTIP_INDUN_REENTER_TIME_LEFT</name>
-		<body>%0 after Entry</body>
+		<body>%0 depois de entrar</body>
 	</string>
 	<string>
 		<id>902767</id>
 		<name>STR_TOOLTIP_INDUN_REENTER_TIME_LEFT_CURRENT</name>
-		<body>Entries</body>
+		<body>Entradas</body>
 	</string>
 	<string>
 		<id>902768</id>
@@ -15212,32 +15211,32 @@
 	<string>
 		<id>903062</id>
 		<name>STR_HTML_QUEST_HEAD_WITH_MAX_LEVEL</name>
-		<body>&lt;p&gt;&lt;font font_xml=&quot;v3_quest_title&quot;&gt;Levels %d - %d %s&lt;/font&gt;&lt;/p&gt;</body>
+		<body>&lt;p&gt;&lt;font font_xml=&quot;v3_quest_title&quot;&gt;Níveis %d - %d %s&lt;/font&gt;&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>903063</id>
 		<name>STR_QUEST_RECOMMEND_LEVEL</name>
-		<body>Level %0</body>
+		<body>Nível %0</body>
 	</string>
 	<string>
 		<id>903064</id>
 		<name>STR_QUEST_RECOMMEND_LEVEL_WITH_MAX_LEVEL</name>
-		<body>Levels %0 - %1</body>
+		<body>Níveis %0 - %1</body>
 	</string>
 	<string>
 		<id>903065</id>
 		<name>STR_MSGBOX_CANT_REOBTAIN_QUEST_OVER_MAX_LEVEL</name>
-		<body>&lt;p&gt;Once you give up this quest, you cannot obtain it again.&lt;/p&gt;&lt;p&gt;Are you sure you want to give it up?&lt;/p&gt;</body>
+		<body>&lt;p&gt;Depois de desistir desta missão, você não poderá obtê-la novamente.&lt;/p&gt;&lt;p&gt;Tem certeza de que deseja desistir?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>903066</id>
 		<name>STR_IDARENA_INFO_STAGE</name>
-		<body>Stage %0</body>
+		<body>Estágio %0</body>
 	</string>
 	<string>
 		<id>903067</id>
 		<name>STR_IDARENA_INFO_ROUND</name>
-		<body>Round %0</body>
+		<body>Rodada %0</body>
 	</string>
 	<string>
 		<id>903068</id>
