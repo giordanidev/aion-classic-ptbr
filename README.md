@@ -11,4 +11,4 @@ Para ajudar por favor visitem o discord: [http://discord.aiononline.com.br](http
 
 
 # Imagens
-[Imgur](https://imgur.com/PK3elax)
+[Imgur](https://imgur.com/PK3elax.png)
