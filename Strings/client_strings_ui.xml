@@ -1130,7 +1130,7 @@
 	<string>
 		<id>240064</id>
 		<name>STR_TOOLTIP_EXCHANGE</name>
-		<body>Não negociável</body>
+		<body>Não pode trocar</body>
 	</string>
 	<string>
 		<id>240065</id>
@@ -1140,7 +1140,7 @@
 	<string>
 		<id>240066</id>
 		<name>STR_TOOLTIP_ACCOUNTWAREHOUSE</name>
-		<body>Não pode guardar no Ba&uacute; da Conta</body>
+		<body>Não pode guardar no Baú da Conta</body>
 	</string>
 	<string>
 		<id>240067</id>
