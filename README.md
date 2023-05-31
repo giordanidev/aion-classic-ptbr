@@ -9,6 +9,8 @@ Vou criar um guia de como gerar os arquivos automaticamente após a tradução n
 
 Para ajudar por favor visitem o discord: [http://discord.aiononline.com.br](http://discord.aiononline.com.br)
 
+Esamos jogando o Aion Classic EU: [http://classic.aiononline.com.br](http://classic.aiononline.com.br)
+
 
 # Imagens
 ![Imgur](https://imgur.com/PK3elax.png)
