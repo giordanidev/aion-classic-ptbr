@@ -4916,7 +4916,7 @@
 	<string>
 		<id>900563</id>
 		<name>STR_TOOLTIP_SKILL_STAT_CRITICAL</name>
-		<body>Crítico</body>
+		<body>Crítico Físico</body>
 	</string>
 	<string>
 		<id>900564</id>
@@ -11110,7 +11110,7 @@
 	<string>
 		<id>901843</id>
 		<name>STR_BOOSTHATE</name>
-		<body>Aumento de Aggro</body>
+		<body>Geração de Aggro</body>
 	</string>
 	<string>
 		<id>901844</id>
@@ -12393,32 +12393,32 @@
 	<string>
 		<id>902100</id>
 		<name>STR_TOOLTIP_SKILL_STAT_PHYSICAL_CRITICAL_REDUCE_RATE</name>
-		<body>Strike Resist</body>
+		<body>Resist. a Crítico</body>
 	</string>
 	<string>
 		<id>902101</id>
 		<name>STR_TOOLTIP_SKILL_STAT_PHYSICAL_CRITICAL_DAMAGE_REDUCE</name>
-		<body>Strike Fortitude</body>
+		<body>Redução Dano Crít.</body>
 	</string>
 	<string>
 		<id>902102</id>
 		<name>STR_TOOLTIP_SKILL_STAT_MAGICAL_CRITICAL_REDUCE_RATE</name>
-		<body>Spell Resist</body>
+		<body>Resist. a Mág. Crít.</body>
 	</string>
 	<string>
 		<id>902103</id>
 		<name>STR_TOOLTIP_SKILL_STAT_MAGICAL_CRITICAL_DAMAGE_REDUCE</name>
-		<body>Spell Fortitude</body>
+		<body>Red. Dano Mág. Crít.</body>
 	</string>
 	<string>
 		<id>902104</id>
 		<name>STR_TOOLTIP_SKILL_STAT_MAGICAL_CRITICAL_DAMAGE_BOOST</name>
-		<body>Crit Spell</body>
+		<body>Mágico Crítico</body>
 	</string>
 	<string>
 		<id>902105</id>
 		<name>STR_TOOLTIP_SKILL_STAT_HEAL_BOOST</name>
-		<body>Healing Boost</body>
+		<body>Aumento de Cura</body>
 	</string>
 	<string>
 		<id>902106</id>
