@@ -1390,112 +1390,112 @@
 	<string>
 		<id>240116</id>
 		<name>STR_TOOLTIP_SINGLETARGET</name>
-		<body>Alvo selecionado.</body>
+		<body>Alvo selecionado</body>
 	</string>
 	<string>
 		<id>240117</id>
 		<name>STR_TOOLTIP_AREA</name>
-		<body>Área ao redor do 'caster'.</body>
+		<body>Área ao redor do caster</body>
 	</string>
 	<string>
 		<id>240118</id>
 		<name>STR_TOOLTIP_PHYSICALWEAPON</name>
-		<body>Disponível quando uma arma está equipada.</body>
+		<body>Disponível quando uma arma está equipada</body>
 	</string>
 	<string>
 		<id>240119</id>
 		<name>STR_TOOLTIP_MAGICALWEAPON</name>
-		<body>Disponível quando uma arma mágica está equipada.</body>
+		<body>Disponível quando uma arma mágica está equipada</body>
 	</string>
 	<string>
 		<id>240120</id>
 		<name>STR_TOOLTIP_ALLWEAPON</name>
-		<body>Pode usar com todas as armas.</body>
+		<body>Pode usar com todas as armas</body>
 	</string>
 	<string>
 		<id>240121</id>
 		<name>STR_TOOLTIP_REQUIRED_SWORD</name>
-		<body>Disponível quando equipado com uma Espada.</body>
+		<body>Disponível quando equipado com uma Espada</body>
 	</string>
 	<string>
 		<id>240122</id>
 		<name>STR_TOOLTIP_REQUIRED_SCIMITAR</name>
-		<body>Disponível quando equipado com uma cimitarra.</body>
+		<body>Disponível quando equipado com uma cimitarra</body>
 	</string>
 	<string>
 		<id>240123</id>
 		<name>STR_TOOLTIP_REQUIRED_DAGGER</name>
-		<body>Disponível quando equipado com uma Adaga.</body>
+		<body>Disponível quando equipado com uma Adaga</body>
 	</string>
 	<string>
 		<id>240124</id>
 		<name>STR_TOOLTIP_REQUIRED_MACE</name>
-		<body>Disponível quando equipado com uma Mace.</body>
+		<body>Disponível quando equipado com uma Mace</body>
 	</string>
 	<string>
 		<id>240125</id>
 		<name>STR_TOOLTIP_REQUIRED_ORB</name>
-		<body>Disponível quando equipado com um Orb.</body>
+		<body>Disponível quando equipado com um Orb</body>
 	</string>
 	<string>
 		<id>240126</id>
 		<name>STR_TOOLTIP_REQUIRED_BOOK</name>
-		<body>Disponível quando equipado com um Livro de Feitiços.</body>
+		<body>Disponível quando equipado com um Livro de Feitiços</body>
 	</string>
 	<string>
 		<id>240127</id>
 		<name>STR_TOOLTIP_REQUIRED_SYMBOL</name>
-		<body>Disponível quando equipado com um 'símbolo'.</body>
+		<body>Disponível quando equipado com um 'símbolo'</body>
 	</string>
 	<string>
 		<id>240128</id>
 		<name>STR_TOOLTIP_REQUIRED_WAND</name>
-		<body>Disponível quando equipado com um Cetro.</body>
+		<body>Disponível quando equipado com um Cetro</body>
 	</string>
 	<string>
 		<id>240129</id>
 		<name>STR_TOOLTIP_REQUIRED_TWOHANDEDSWORD</name>
-		<body>Disponível quando equipado com uma Espada Longa.</body>
+		<body>Disponível quando equipado com uma Espada Longa</body>
 	</string>
 	<string>
 		<id>240130</id>
 		<name>STR_TOOLTIP_REQUIRED_DIVIDER</name>
-		<body>Disponível quando equipado com um 'divisor'.</body>
+		<body>Disponível quando equipado com um 'divisor'</body>
 	</string>
 	<string>
 		<id>240131</id>
 		<name>STR_TOOLTIP_REQUIRED_SCYTHE</name>
-		<body>Disponível quando equipado com uma Foice.</body>
+		<body>Disponível quando equipado com uma Foice</body>
 	</string>
 	<string>
 		<id>240132</id>
 		<name>STR_TOOLTIP_REQUIRED_POLEARM</name>
-		<body>Disponível quando equipado com uma Foice.</body>
+		<body>Disponível quando equipado com uma Foice</body>
 	</string>
 	<string>
 		<id>240133</id>
 		<name>STR_TOOLTIP_REQUIRED_STAFF</name>
-		<body>Disponível quando equipado com um Cetro.</body>
+		<body>Disponível quando equipado com um Cetro</body>
 	</string>
 	<string>
 		<id>240134</id>
 		<name>STR_TOOLTIP_REQUIRED_FAN</name>
-		<body>Available when equipped with a fan.</body>
+		<body>Available when equipped with a fan</body>
 	</string>
 	<string>
 		<id>240135</id>
 		<name>STR_TOOLTIP_REQUIRED_GLOVE</name>
-		<body>Available when equipped with gloves.</body>
+		<body>Available when equipped with gloves</body>
 	</string>
 	<string>
 		<id>240136</id>
 		<name>STR_TOOLTIP_REQUIRED_CLAW</name>
-		<body>Available when equipped with a claw.</body>
+		<body>Available when equipped with a claw</body>
 	</string>
 	<string>
 		<id>240137</id>
 		<name>STR_TOOLTIP_REQUIRED_BOW</name>
-		<body>Disponível quando equipado com um Arco.</body>
+		<body>Disponível quando equipado com um Arco</body>
 	</string>
 	<string>
 		<id>240138</id>
@@ -7059,7 +7059,7 @@
 	<string>
 		<id>900993</id>
 		<name>STR_SKILL_INFO_LEARN_BOOK</name>
-		<body>Livro de Habilidade</body>
+		<body>Livro</body>
 	</string>
 	<string>
 		<id>900994</id>
