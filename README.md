@@ -4,8 +4,8 @@ Comecei esse projeto para ajudar os BRs que não entendem Inglês e gostariam de
 
 Qualquer ajuda será muito bem vinda! 
 
-Para testar a tradução no estado atual baixem o arquivo [AQUI](https://github.com/giordanidev/aion-classic-ptbr/raw/main/teste/data_ptbr.pak)
-Coloquem o arquivo na pasta "data" do jogo, como na imagem abaixo:
+- Para testar a tradução no estado atual baixem o arquivo [AQUI](https://github.com/giordanidev/aion-classic-ptbr/raw/main/teste/data_ptbr.pak)
+- Coloquem o arquivo na pasta "l10n/ENG/data" do jogo, como na imagem abaixo:
 ![Pasta](https://i.imgur.com/2YwIkRS.png)
 
 Vou criar um guia de como gerar os arquivos automaticamente após a tradução nos próximos dias...
@@ -17,3 +17,4 @@ Esamos jogando o Aion Classic EU: [http://classic.aiononline.com.br](http://clas
 
 # Imagens
 ![Sirocco](https://imgur.com/PK3elax.png)
+![DP Quest](https://imgur.com/fn51O0Z.png)
