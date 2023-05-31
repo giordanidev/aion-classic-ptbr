@@ -4896,7 +4896,7 @@
 	<string>
 		<id>900559</id>
 		<name>STR_TOOLTIP_SKILL_STAT_HITACCURACY</name>
-		<body>Precisão</body>
+		<body>Precisão Física</body>
 	</string>
 	<string>
 		<id>900560</id>
