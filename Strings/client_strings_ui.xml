@@ -9779,12 +9779,12 @@
 	<string>
 		<id>901571</id>
 		<name>STR_RESURRECT_BUTTON_RP</name>
-		<body>Obelisco</body>
+		<body>Voltar no Obelisk</body>
 	</string>
 	<string>
 		<id>901572</id>
 		<name>STR_RESURRECT_BUTTON_BIND_STONE</name>
-		<body>Kisk</body>
+		<body>Voltar no Kisk</body>
 	</string>
 	<string>
 		<id>901573</id>
@@ -9799,22 +9799,22 @@
 	<string>
 		<id>901575</id>
 		<name>STR_RESURRECT_TITLE_RP</name>
-		<body>OK</body>
+		<body>Você está morto!</body>
 	</string>
 	<string>
 		<id>901576</id>
 		<name>STR_RESURRECT_TITLE_BIND_STONE</name>
-		<body>Kisk</body>
+		<body>Voltar no Kisk</body>
 	</string>
 	<string>
 		<id>901577</id>
 		<name>STR_RESURRECT_TITLE_SKILL</name>
-		<body>Habilidade Ressurreição</body>
+		<body>Usar Habilidade</body>
 	</string>
 	<string>
 		<id>901578</id>
 		<name>STR_RESURRECT_TITLE_ITEM</name>
-		<body>item</body>
+		<body>Usar Item</body>
 	</string>
 	<string>
 		<id>901579</id>
