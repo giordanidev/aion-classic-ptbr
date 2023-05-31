@@ -3386,7 +3386,7 @@
 	<string>
 		<id>900257</id>
 		<name>STR_ATTACK_SPEED</name>
-		<body>Vel. Ataque</body>
+		<body>Veloc. Ataque</body>
 	</string>
 	<string>
 		<id>900258</id>
@@ -4891,7 +4891,7 @@
 	<string>
 		<id>900558</id>
 		<name>STR_TOOLTIP_SKILL_STAT_ATTACKDELAY</name>
-		<body>Vel. Ataque</body>
+		<body>Veloc. Ataque</body>
 	</string>
 	<string>
 		<id>900559</id>
@@ -5834,7 +5834,7 @@
 	<string>
 		<id>900748</id>
 		<name>STR_CHAT_MODE_WHISPER</name>
-		<body>Mensagem Privada para %0</body>
+		<body>MP para %0</body>
 	</string>
 	<string>
 		<id>900749</id>
@@ -8369,7 +8369,7 @@
 	<string>
 		<id>901287</id>
 		<name>STR_TOOLTIP_SKILL_STAT_FLYSPEED</name>
-		<body>Vel. de Vôo</body>
+		<body>Veloc. Vôo</body>
 	</string>
 	<string>
 		<id>901288</id>
@@ -11105,7 +11105,7 @@
 	<string>
 		<id>901842</id>
 		<name>STR_BOOSTCASTINGTIME</name>
-		<body>Vel. de Cast</body>
+		<body>Veloc. Cast</body>
 	</string>
 	<string>
 		<id>901843</id>
