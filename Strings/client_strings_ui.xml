@@ -10530,12 +10530,12 @@
 	<string>
 		<id>901722</id>
 		<name>STR_TOOLTIP_ITEM_OPTION_LEVEL</name>
-		<body>Raridade</body>
+		<body>Nível do item</body>
 	</string>
 	<string>
 		<id>901723</id>
 		<name>STR_TOOLTIP_ITEM_OPTION_LEVEL_VALUE</name>
-		<body>Nível %0</body>
+		<body>%0</body>
 	</string>
 	<string>
 		<id>901724</id>
@@ -10750,7 +10750,7 @@
 	<string>
 		<id>901771</id>
 		<name>STR_SERVER_LIST</name>
-		<body>Selecionar Servidor</body>
+		<body>Selecionar</body>
 	</string>
 	<string>
 		<id>901772</id>
@@ -10870,12 +10870,12 @@
 	<string>
 		<id>901795</id>
 		<name>STR_TITLE_SLAYER_LIGHT_G0</name>
-		<body>Intruso Elyos Nível 0</body>
+		<body>Intruso Elyos Nível %0</body>
 	</string>
 	<string>
 		<id>901796</id>
 		<name>STR_TITLE_SLAYER_DARK_G0</name>
-		<body>Intruso Asmodian Nível 0</body>
+		<body>Intruso Asmodian Nível %0</body>
 	</string>
 	<string>
 		<id>901797</id>
@@ -11020,17 +11020,17 @@
 	<string>
 		<id>901825</id>
 		<name>STR_LOGIN_ERROR_INVALID_ACCOUNT_NAME</name>
-		<body>The account name includes invalid letters.</body>
+		<body>O nome da conta inclui letras inválidas.</body>
 	</string>
 	<string>
 		<id>901826</id>
 		<name>STR_BOT_TITLE_LIGHT</name>
-		<body>Suspected Bot</body>
+		<body>Suspeito de Bot</body>
 	</string>
 	<string>
 		<id>901827</id>
 		<name>STR_BOT_TITLE_DARK</name>
-		<body>Suspected Bot</body>
+		<body>Suspeito de Bot</body>
 	</string>
 	<string>
 		<id>901828</id>
@@ -11135,7 +11135,7 @@
 	<string>
 		<id>901848</id>
 		<name>STR_INSTANT_DUNGEON_ENTER_GIVEUP_CONFIRM</name>
-		<body>Tem certeza de que deseja cancelar a entrada em %0?</body>
+		<body>Tem certeza de que deseja cancelar a entrada para %0?</body>
 	</string>
 	<string>
 		<id>901849</id>
@@ -11265,7 +11265,7 @@
 	<string>
 		<id>901874</id>
 		<name>STR_INSTANT_DUNGEON_RESURRECT</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Se você clicar no botão OK, você ressuscitará imediatamente no Ponto de Partida de %0.&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Em até %1 minutos, outras pessoas podem ressuscitá-lo no local atual.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Tempo de Espera da Ressurreição: %2 segundos restantes&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Se você clicar no botão OK, você ressuscitará imediatamente no Ponto de Partida de %0.&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Em até %1 minutos, outras pessoas podem ressuscitá-lo no local atual.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Tempo de Espera para Ressurreição: %2 segundos restantes&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901875</id>
@@ -11928,12 +11928,12 @@
 	<string>
 		<id>902007</id>
 		<name>STR_TOOLTIP_LEFT_SKIN_EXPIRE_TIME</name>
-		<body>Appearance Maintain Time</body>
+		<body>Tempo de Manutenção de Aparência</body>
 	</string>
 	<string>
 		<id>902008</id>
 		<name>STR_TOOLTIP_DEFAULT_SKIN_EXPIRE_TIME</name>
-		<body>Maintains appearance for %0 after appearance extraction</body>
+		<body>Mantém a aparência por %0 após a extração da aparência</body>
 	</string>
 	<string>
 		<id>902009</id>
@@ -11948,27 +11948,27 @@
 	<string>
 		<id>902011</id>
 		<name>STR_CHANGE_SKIN_CHANGE_RESTRICT</name>
-		<body>&lt;p&gt;If you change the appearance to %0, only &lt;font color=&quot;ff0000&quot;&gt;%1&lt;/font&gt; Characters may equip it.&lt;/p&gt;</body>
+		<body>&lt;p&gt;Se você alterar a aparência para %0, apenas&lt;font color=&quot;ff0000&quot;&gt;%1&lt;/font&gt; personagens podem equipar.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902012</id>
 		<name>STR_TOOLTIP_MAN</name>
-		<body>Male</body>
+		<body>Masculino</body>
 	</string>
 	<string>
 		<id>902013</id>
 		<name>STR_TOOLTIP_LADY</name>
-		<body>Female</body>
+		<body>Feminino</body>
 	</string>
 	<string>
 		<id>902014</id>
 		<name>STR_CHANGE_SKIN_RESTRICT_TRADE_STORAGE</name>
-		<body>&lt;p&gt;After changing the item, you are &lt;font color=&quot;ff0000&quot;&gt;not allowed&lt;/font&gt; to trade it or put it in your account or Legion warehouse.&lt;/p&gt;</body>
+		<body>&lt;p&gt;Depois de alterar o item, você &lt;font color=&quot;ff0000&quot;&gt;não poderá&lt;/font&gt; trocá-lo ou colocá-lo no seu baú ou baú da Legião.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902015</id>
 		<name>STR_CONFIRM_CHANGE_SKIN</name>
-		<body>&lt;p&gt;Confirm change?&lt;/p&gt;</body>
+		<body>&lt;p&gt;Confirmar mudança?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902016</id>
@@ -11978,87 +11978,87 @@
 	<string>
 		<id>902017</id>
 		<name>STR_WAIT_TO_CHARACTER_CHOICE</name>
-		<body>Going to Character Selection in %0 seconds.</body>
+		<body>Indo para a seleção de personagem em %0 segundos.</body>
 	</string>
 	<string>
 		<id>902018</id>
 		<name>STR_INSTANT_DUNGEON_ENTER_CONFIRM_AGAIN</name>
-		<body>Failed to enter %0. Please press Return to try again.</body>
+		<body>Falha ao entrar em %0. Por favor, pressione Retornar para tentar novamente.</body>
 	</string>
 	<string>
 		<id>902019</id>
 		<name>STR_TOOLTIP_RECREATE_TIME</name>
-		<body>Recrafting Time</body>
+		<body>Tempo de Reconstrução</body>
 	</string>
 	<string>
 		<id>902020</id>
 		<name>STR_TOOLTIP_CREATEABLE_NUMBER</name>
-		<body>Total Number of Times Crafting is Allowed</body>
+		<body>Número total de vezes que a criação é permitida</body>
 	</string>
 	<string>
 		<id>902021</id>
 		<name>STR_TOOLTIP_CREATEABLE_NUMBER_LEFT</name>
-		<body>Remaining Number of Times Crafting is Allowed</body>
+		<body>Número restante de vezes que a criação é permitida</body>
 	</string>
 	<string>
 		<id>902022</id>
 		<name>STR_TOOLTIP_COMBINED_ITEM</name>
-		<body>Combined Item</body>
+		<body>Item Combinado</body>
 	</string>
 	<string>
 		<id>902023</id>
 		<name>STR_COMPOUND_ITEM_COMPOUND_FEE</name>
-		<body>&lt;p&gt;To combine %0 and %1, you need &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina2&lt;/font&gt;.&lt;/p&gt;</body>
+		<body>&lt;p&gt;Para combinar %0 e %1, você precisa de &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina2&lt;/font&gt;.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902024</id>
 		<name>STR_COMPOUNDED_ITEM_WILL_BE_DECOMPOUNDED</name>
-		<body>&lt;p&gt;%0 will be combined after its previously combined skill is &lt;font color=&quot;ff0000&quot;&gt;removed&lt;/font&gt;.&lt;/p&gt;</body>
+		<body>&lt;p&gt;%0 será combinado depois que sua habilidade previamente combinada for &lt;font color=&quot;ff0000&quot;&gt;removida&lt;/font&gt;.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902025</id>
 		<name>STR_COMPOUNDED_ITEMS_WILL_BE_DECOMPOUNDED</name>
-		<body>&lt;p&gt;%0 and %1 will be combined after their previously combined skills are &lt;font color=&quot;ff0000&quot;&gt;removed&lt;/font&gt;.&lt;/p&gt;</body>
+		<body>&lt;p&gt;%0 e %1 serão combinados depois que suas habilidades combinadas anteriormente forem&lt;font color=&quot;ff0000&quot;&gt;removidas&lt;/font&gt;.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902026</id>
 		<name>STR_COMPOUND_ITEM_ASK_CONFIRM</name>
-		<body>&lt;p&gt;&lt;font color=&quot;ff0000&quot;&gt;%0&lt;/font&gt; will be &lt;font color=&quot;ff0000&quot;&gt;destroyed&lt;/font&gt; after combining. Do you want to combine the two items?&lt;/p&gt;</body>
+		<body>&lt;p&gt;&lt;font color=&quot;ff0000&quot;&gt;%0&lt;/font&gt; vai ser &lt;font color=&quot;ff0000&quot;&gt;destruído&lt;/font&gt; após combinar. Você quer combinar os dois itens?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902027</id>
 		<name>STR_CRAFT_GRADE6</name>
-		<body>Artisan</body>
+		<body>Artesão</body>
 	</string>
 	<string>
 		<id>902028</id>
 		<name>STR_CRAFT_GRADE7</name>
-		<body>Master</body>
+		<body>Mestre</body>
 	</string>
 	<string>
 		<id>902029</id>
 		<name>STR_TOOLTIP_CRAFT_GRADE7</name>
-		<body>Can be acquired by Masters or above.</body>
+		<body>Pode ser adquirido por Mestres ou superiores.</body>
 	</string>
 	<string>
 		<id>902030</id>
 		<name>STR_GATHERING_EXTRA_REQUIREMENT0</name>
-		<body>You need to have %0 for extraction.</body>
+		<body>Você precisa ter %0 para extração.</body>
 	</string>
 	<string>
 		<id>902031</id>
 		<name>STR_GATHERING_EXTRA_REQUIREMENT1</name>
-		<body>You need %num1 %0s for the extraction.</body>
+		<body>Você precisa de %num1 %0s para a extração.</body>
 	</string>
 	<string>
 		<id>902032</id>
 		<name>STR_CRAFTWINDOW_CREATEABLE_NUMBER</name>
-		<body>Remaining Number of Times Crafting is Allowed: %0</body>
+		<body>Número restante de vezes que a criação é permitida: %0</body>
 	</string>
 	<string>
 		<id>902033</id>
 		<name>STR_CRAFTWINDOW_RECREATE_TIME</name>
-		<body>Recrafting Cooldown: %0</body>
+		<body>Recarga de Recriação: %0</body>
 	</string>
 	<string>
 		<id>902034</id>
@@ -12068,82 +12068,82 @@
 	<string>
 		<id>902035</id>
 		<name>STR_GATHERING_EXTRA_REQUIREMENT2</name>
-		<body>Whether %0 is equipped or not can affect the extracted product.</body>
+		<body>Se %0 está equipado ou não pode afetar o produto extraído.</body>
 	</string>
 	<string>
 		<id>902036</id>
 		<name>STR_TOOLTIP_GATHERING_COOLING_TIME</name>
-		<body>Re-extraction Time</body>
+		<body>Tempo de reextração</body>
 	</string>
 	<string>
 		<id>902037</id>
 		<name>STR_GATHERING_EXTRA_REQUIREMENT3</name>
-		<body>Can be extracted if you have %0.</body>
+		<body>Pode ser extraído se você tiver %0.</body>
 	</string>
 	<string>
 		<id>902038</id>
 		<name>STR_GATHERING_EXTRA_REQUIREMENT4</name>
-		<body>Requires %1 %0(s) for extraction.</body>
+		<body>Requer %1 %0(s) para extração.</body>
 	</string>
 	<string>
 		<id>902039</id>
 		<name>STR_DESTROY_RARE_ITEM_CONFIRM</name>
-		<body>Do you really want to &lt;font color=&quot;ff0000&quot;&gt;destroy&lt;/font&gt; &lt;font color=&quot;ff0000&quot;&gt;%0&lt;/font&gt;? Enter &apos;%1&apos; to destroy it.</body>
+		<body>Você realmente deseja &lt;font color=&quot;ff0000&quot;&gt;destruir&lt;/font&gt; &lt;font color=&quot;ff0000&quot;&gt;%0&lt;/font&gt;? Digite &apos;%1&apos; para destruir.</body>
 	</string>
 	<string>
 		<id>902040</id>
 		<name>STR_WAREHOUSE_CANT_LEGION_DEPOSIT</name>
-		<body>You cannot store this item in the Legion warehouse.</body>
+		<body>Você não pode guardar este item no baú da Legião.</body>
 	</string>
 	<string>
 		<id>902041</id>
 		<name>STR_WAREHOUSE_CANT_ACCOUNT_DEPOSIT</name>
-		<body>You cannot store this item in the account warehouse.</body>
+		<body>Você não pode guardar este item no baú da Conta.</body>
 	</string>
 	<string>
 		<id>902042</id>
 		<name>STR_COMPOUNDED_ITEM_DECOMPOUND</name>
-		<body>Removing the combined skill from %0 reverts it back to before combination. Remove the combined skill?</body>
+		<body>Remover a habilidade combinada de %0 a reverte para antes da combinação. Remover a habilidade combinada?</body>
 	</string>
 	<string>
 		<id>902043</id>
 		<name>STR_TOOLTIP_ITEM_PVP_BONUS_ATTACK</name>
-		<body>PVP Attack</body>
+		<body>Dano no PVP</body>
 	</string>
 	<string>
 		<id>902044</id>
 		<name>STR_TOOLTIP_ITEM_PVP_BONUS_DEFENSE</name>
-		<body>PVP Defence</body>
+		<body>Defesa no PVP</body>
 	</string>
 	<string>
 		<id>902045</id>
 		<name>STR_TOOLTIP_MAKEUPBONUS_NAME</name>
-		<body>Energy of Salvation</body>
+		<body>Energia da Salvação</body>
 	</string>
 	<string>
 		<id>902046</id>
 		<name>STR_TOOLTIP_MAKEUPBONUS_BODY</name>
-		<body>You are receiving Energy of Salvation because your progression was slow. You gain %0%% additional XP and your item drop rate increases by %1%%.</body>
+		<body>Você está recebendo Energia de Salvação porque sua progressão foi lenta. Você ganha %0%% de EXP adicional e sua taxa de obtenção de itens aumenta em %1%%.</body>
 	</string>
 	<string>
 		<id>902047</id>
 		<name>STR_TOOLTIP_LIMITED_SALE_NUMBER</name>
-		<body>Sales limited to %num0 (%num1/%num0)</body>
+		<body>Vendas limitadas a %num0 (%num1/%num0)</body>
 	</string>
 	<string>
 		<id>902048</id>
 		<name>STR_TOOLTIP_LIMITED_BUYING_NUMBER</name>
-		<body>Purchase limited to %num0 (%num1/%num0)</body>
+		<body>Compra limitada a %num0 (%num1/%num0)</body>
 	</string>
 	<string>
 		<id>902049</id>
 		<name>STR_REFRESH_BURTON_WARNING</name>
-		<body>Refreshing will cause the items in the Shopping Cart to be removed. Do you want to continue?</body>
+		<body>Atualizar a página fará com que os itens do carrinho de compras sejam removidos. Você deseja continuar?</body>
 	</string>
 	<string>
 		<id>902050</id>
 		<name>STR_INSTANCE_DUNGEON_WITH_DIFFICULTY_ENTER_CONFIRM</name>
-		<body>Enter %WORLDNAME0 (Difficulty: %1)?</body>
+		<body>Entrar em %WORLDNAME0 (Dificuldade: %1)?</body>
 	</string>
 	<string>
 		<id>902051</id>
@@ -12153,12 +12153,12 @@
 	<string>
 		<id>902052</id>
 		<name>STR_INSTANCE_DUNGEON_DIFFICULTY_HARD</name>
-		<body>Difficult</body>
+		<body>Difícil</body>
 	</string>
 	<string>
 		<id>902053</id>
 		<name>STR_TOOLTIP_CRAFT_RESULT_CONTAINS_PC_NAME</name>
-		<body>The name of the completed item will contain the name of its maker.</body>
+		<body>O nome do item concluído conterá o nome de seu criador.</body>
 	</string>
 	<string>
 		<id>902054</id>
@@ -12168,12 +12168,12 @@
 	<string>
 		<id>902055</id>
 		<name>STR_COMPRESSED_CASH_ITEM_DECOMPRESS_CONFIRM</name>
-		<body>&lt;p&gt;If you use %0, the item will &lt;font color=&quot;ff0000&quot;&gt;disappear&lt;/font&gt; and you will receive a random item. The original item &lt;font color=&quot;ff0000&quot;&gt;cannot be restored once you use it.&lt;/font&gt; Continue?&lt;/p&gt;</body>
+		<body>&lt;p&gt;Se você usar %0, o item irá &lt;font color=&quot;ff0000&quot;&gt;desaparecer&lt;/font&gt; e você receberá um item aleatório. O item original &lt;font color=&quot;ff0000&quot;&gt;não poderá ser restaurado.&lt;/font&gt; Continuar?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902056</id>
 		<name>STR_TOOLTIP_COMPRESSED_ITEM</name>
-		<body>Bundle Item</body>
+		<body>Pacote de Itens</body>
 	</string>
 	<string>
 		<id>902057</id>
@@ -12188,52 +12188,52 @@
 	<string>
 		<id>902059</id>
 		<name>STR_TOOLTIP_RESULT_PREVIEW</name>
-		<body>Expected Result</body>
+		<body>Resultado Esperado</body>
 	</string>
 	<string>
 		<id>902060</id>
 		<name>STR_TOOLTIP_COMPARE_ITEM</name>
-		<body>Item for Comparison</body>
+		<body>Item para Comparação</body>
 	</string>
 	<string>
 		<id>902061</id>
 		<name>STR_TOOLTIP_ITEM_PVP_ATTACK_RATIO_PHYSICAL</name>
-		<body>Physical Attack (PvP)</body>
+		<body>Dano Físico (PvP)</body>
 	</string>
 	<string>
 		<id>902062</id>
 		<name>STR_TOOLTIP_ITEM_PVP_ATTACK_RATIO_MAGICAL</name>
-		<body>Magical Attack (PvP)</body>
+		<body>Dano Mágico (PvP)</body>
 	</string>
 	<string>
 		<id>902063</id>
 		<name>STR_TOOLTIP_ITEM_PVP_DEFEND_RATIO_PHYSICAL</name>
-		<body>Physical Defence (PvP)</body>
+		<body>Defesa Física (PvP)</body>
 	</string>
 	<string>
 		<id>902064</id>
 		<name>STR_TOOLTIP_ITEM_PVP_DEFEND_RATIO_MAGICAL</name>
-		<body>Magic Defence (PvP)</body>
+		<body>Defesa Mágica (PvP)</body>
 	</string>
 	<string>
 		<id>902065</id>
 		<name>STR_TOOLTIP_ITEM_EXPIRED_DATE</name>
-		<body>Disappears after %0.</body>
+		<body>Desaparece depois de %0.</body>
 	</string>
 	<string>
 		<id>902066</id>
 		<name>STR_CRAFTWINDOW_DEFAULT_RECREATE_TIME</name>
-		<body>Recrafting Time: %0</body>
+		<body>Tempo de Reconstrução: %0</body>
 	</string>
 	<string>
 		<id>902067</id>
 		<name>STR_GLOBAL_OPTION_GAME_REJECT_WHISPER_FROM_LOW_LEVEL</name>
-		<body>Block Whispers from players &lt; lvl %0</body>
+		<body>Bloquear Mensagem Privada de jogadores &lt; nível %0</body>
 	</string>
 	<string>
 		<id>902068</id>
 		<name>STR_GLOBAL_OPTION_GAME_REJECT_MAIL_FROM_LOW_LEVEL</name>
-		<body>Block mail from players &lt; lvl %0</body>
+		<body>Bloquear mail de jogadores &lt; nível %0</body>
 	</string>
 	<string>
 		<id>902069</id>
@@ -12253,22 +12253,22 @@
 	<string>
 		<id>902072</id>
 		<name>STR_ERR_CANT_EXECUTE_MORE_GAME_CLIENT</name>
-		<body>You cannot run three or more clients at once. The game is being shut down.</body>
+		<body>Você não pode executar três ou mais clientes ao mesmo tempo. O jogo está sendo encerrado.</body>
 	</string>
 	<string>
 		<id>902073</id>
 		<name>STR_ERR_CANT_UNKOWN_GAME_SERVER</name>
-		<body>Unknown game server.</body>
+		<body>Servidor de jogo desconhecido.</body>
 	</string>
 	<string>
 		<id>902074</id>
 		<name>STR_PARTY_MATCH_TYPE_PARTY</name>
-		<body>Group</body>
+		<body>Grupo</body>
 	</string>
 	<string>
 		<id>902075</id>
 		<name>STR_PARTY_MATCH_TYPE_FORCE</name>
-		<body>Alliance</body>
+		<body>Aliança</body>
 	</string>
 	<string>
 		<id>902076</id>
@@ -12288,7 +12288,7 @@
 	<string>
 		<id>902079</id>
 		<name>STR_POPUP_PARTY_MATCH_INFO</name>
-		<body>Group/Alliance Info</body>
+		<body>Informações do Grupo/Aliança</body>
 	</string>
 	<string>
 		<id>902080</id>
