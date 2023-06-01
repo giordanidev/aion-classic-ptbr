@@ -2329,7 +2329,7 @@
 	<string>
 		<id>240305</id>
 		<name>STR_TOOLTIP_ACTIONKEY_WEAPONEXCHANGE</name>
-		<body>Mudar Arma,[%chatcmd:/ChangeWeaponSet]</body>
+		<body>Change Weapon</body>
 	</string>
 	<string>
 		<id>240306</id>
@@ -2339,12 +2339,12 @@
 	<string>
 		<id>240307</id>
 		<name>STR_TOOLTIP_ACTIONKEY_FLY</name>
-		<body>Voar/Pousar,[%chatcmd:/fly]</body>
+		<body>Toggle Flight/Landing</body>
 	</string>
 	<string>
 		<id>240308</id>
 		<name>STR_TOOLTIP_ACTIONKEY_WEAPON_BOOST</name>
-		<body>Power Shard,[%chatcmd:/powershard]</body>
+		<body>Ativar Power Shard</body>
 	</string>
 	<string>
 		<id>240309</id>
@@ -2369,12 +2369,12 @@
 	<string>
 		<id>240313</id>
 		<name>STR_TOOLTIP_ACTIONKEY_EXECUTE</name>
-		<body>Attack/Chat,[%chatcmd:/attack]</body>
+		<body>Attack/Chat</body>
 	</string>
 	<string>
 		<id>240314</id>
 		<name>STR_TOOLTIP_PET_AREA</name>
-		<body>Área ao redor do 'pet'.</body>
+		<body>Área ao redor do pet.</body>
 	</string>
 	<string>
 		<id>240315</id>
