@@ -418,7 +418,7 @@
 	<string>
 		<id>160001</id>
 		<name>STR_VENDOR_CONFIRM_SELL</name>
-		<body>Você está vendendo este item por &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt;. Esse será o seu item registrado de número %num1, então uma taxa de registro %2 no valor de &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina3&lt;/font&gt; será aplicada. Continuar?</body>
+		<body>Você está vendendo esse item por &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt;. Esse será o seu %num1º item registrado, então uma taxa de registro %2 no valor de &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina3&lt;/font&gt; será aplicada. Continuar?</body>
 	</string>
 	<string>
 		<id>160002</id>
@@ -6054,7 +6054,7 @@
 	<string>
 		<id>900792</id>
 		<name>STR_CHAT_TAB_MENU_RENAME</name>
-		<body>Alterar o Nome da Aba</body>
+		<body>Alterar o Nome</body>
 	</string>
 	<string>
 		<id>900793</id>
@@ -13920,7 +13920,7 @@
 	<string>
 		<id>902745</id>
 		<name>STR_SECONDPASSWORD_CHANGE_SECONDPASSWORD_CONTENT</name>
-		<body>Insira seu PIN atual e novo. Este PIN deve ser diferente da senha da sua conta.</body>
+		<body>Insira seu PIN atual e o novo. Este PIN deve ser diferente da senha da sua conta.</body>
 	</string>
 	<string>
 		<id>902746</id>
@@ -13945,7 +13945,7 @@
 	<string>
 		<id>902750</id>
 		<name>STR_SECONDPASSWORD_ENTER_NEW_SECONDPASSWORD_CONFIRM</name>
-		<body>Confirmar PIN</body>
+		<body>Confirmar Novo PIN</body>
 	</string>
 	<string>
 		<id>902751</id>
@@ -14290,52 +14290,52 @@
 	<string>
 		<id>902821</id>
 		<name>STR_TOOLTIP_PET_CONDITION_01</name>
-		<body>Summoning and spending time with a mascote will improve its mood. Your pet’s mood will lower if you don’t call upon it again within 10 minutes, or if you call upon another mascote instead.</body>
+		<body>Convocar e passar tempo com um mascote melhorará seu humor. O humor do seu mascote diminuirá se você não chamá-lo novamente em 10 minutos ou se chamar outro mascote.</body>
 	</string>
 	<string>
 		<id>902822</id>
 		<name>STR_TOOLTIP_PET_CONDITION_02</name>
-		<body>Current Mood</body>
+		<body>Humor Atual</body>
 	</string>
 	<string>
 		<id>902823</id>
 		<name>STR_SMG_PET_CONDITION_NORMAL</name>
-		<body>Calm</body>
+		<body>Calmo</body>
 	</string>
 	<string>
 		<id>902824</id>
 		<name>STR_SMG_PET_CONDITION_GOOD</name>
-		<body>Perky</body>
+		<body>Animado</body>
 	</string>
 	<string>
 		<id>902825</id>
 		<name>STR_SMG_PET_CONDITION_BETTER</name>
-		<body>Happy</body>
+		<body>Feliz</body>
 	</string>
 	<string>
 		<id>902826</id>
 		<name>STR_SMG_PET_CONDITION_BEST</name>
-		<body>Joyous</body>
+		<body>Alegre</body>
 	</string>
 	<string>
 		<id>902827</id>
 		<name>STR_TOOLTIP_PET_CONDITION_TITLE</name>
-		<body>Mascote Mood</body>
+		<body>Humor do Mascote</body>
 	</string>
 	<string>
 		<id>902828</id>
 		<name>STR_TOOLTIP_PET_CARE_UNDER_CONDITION</name>
-		<body>You can only use emotes when your mascote isn’t completely happy (100%).</body>
+		<body>Você só pode usar emotes quando seu mascote não estiver completamente feliz (100%).</body>
 	</string>
 	<string>
 		<id>902829</id>
 		<name>STR_MSGBOX_ASK_FILE</name>
-		<body>Enter a file name.</body>
+		<body>Digite um nome de arquivo.</body>
 	</string>
 	<string>
 		<id>902830</id>
 		<name>STR_TWITTER_SEARCH_PEOPLE_BTN</name>
-		<body>Search People</body>
+		<body>Pesquisar Jogadores</body>
 	</string>
 	<string>
 		<id>902831</id>
@@ -14536,32 +14536,32 @@
 	<string>
 		<id>902871</id>
 		<name>STR_CUSTOM_ANIM_TYPE_NORMAL</name>
-		<body>Default</body>
+		<body>Padrão</body>
 	</string>
 	<string>
 		<id>902872</id>
 		<name>STR_CUSTOM_ANIM_TYPE_IDLE</name>
-		<body>Idle</body>
+		<body>Parado</body>
 	</string>
 	<string>
 		<id>902873</id>
 		<name>STR_CUSTOM_ANIM_TYPE_RUN</name>
-		<body>Run</body>
+		<body>Correr</body>
 	</string>
 	<string>
 		<id>902874</id>
 		<name>STR_CUSTOM_ANIM_TYPE_JUMP</name>
-		<body>Jump</body>
+		<body>Pular</body>
 	</string>
 	<string>
 		<id>902875</id>
 		<name>STR_CUSTOM_ANIM_TYPE_REST</name>
-		<body>Rest</body>
+		<body>Sentar</body>
 	</string>
 	<string>
 		<id>902876</id>
 		<name>STR_CUSTOM_ANIM_TYPE_SHOP</name>
-		<body>Shop</body>
+		<body>Loja</body>
 	</string>
 	<string>
 		<id>902877</id>
@@ -33549,17 +33549,17 @@
 	<string>
 		<id>907220</id>
 		<name>STR_INSTANT_DUNGEON_RESET_TIME</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Please select a method to enter %WORLDNAME0%.&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;If you select ‘Enter’ or ‘Re-Enter’&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;, you can enter the last instance you visited.&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Selecione um método para entrar em %WORLDNAME0%.&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;Se você selecionar 'Entrar Novamente', você irá entrar de novo na instância em andamento.&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;Caso queira criar uma nova instância e desistir da atual clique em 'Nova Instância'.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>907221</id>
 		<name>STR_INSTANT_DUNGEON_RESET</name>
-		<body>Enter</body>
+		<body>Nova Instância</body>
 	</string>
 	<string>
 		<id>907222</id>
 		<name>STR_INSTANT_DUNGEON_CANT_RESET</name>
-		<body>Re-Enter</body>
+		<body>Entrar Novamente</body>
 	</string>
 	<string>
 		<id>907223</id>
