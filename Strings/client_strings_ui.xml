@@ -1385,7 +1385,7 @@
 	<string>
 		<id>240115</id>
 		<name>STR_TOOLTIP_PET</name>
-		<body>Pet</body>
+		<body>Mascote</body>
 	</string>
 	<string>
 		<id>240116</id>
@@ -1790,7 +1790,7 @@
 	<string>
 		<id>240196</id>
 		<name>STR_NPCTAP_PET</name>
-		<body>Pet</body>
+		<body>Mascote</body>
 	</string>
 	<string>
 		<id>240197</id>
@@ -2374,7 +2374,7 @@
 	<string>
 		<id>240314</id>
 		<name>STR_TOOLTIP_PET_AREA</name>
-		<body>Área ao redor do pet.</body>
+		<body>Área ao redor do mascote.</body>
 	</string>
 	<string>
 		<id>240315</id>
@@ -3646,12 +3646,12 @@
 	<string>
 		<id>900309</id>
 		<name>STR_SKILL_TARGET_PC</name>
-		<body>PC</body>
+		<body>Jogador</body>
 	</string>
 	<string>
 		<id>900310</id>
 		<name>STR_SKILL_TARGET_PET</name>
-		<body>Pet</body>
+		<body>Mascote</body>
 	</string>
 	<string>
 		<id>900311</id>
@@ -3696,7 +3696,7 @@
 	<string>
 		<id>900319</id>
 		<name>STR_SKILL_TARGET_AUTO_AREA_PC_PET</name>
-		<body>Pet Auto</body>
+		<body>Mascote Auto</body>
 	</string>
 	<string>
 		<id>900320</id>
@@ -4091,12 +4091,12 @@
 	<string>
 		<id>900398</id>
 		<name>STR_PET_EXP_CUR</name>
-		<body>Current Pet XP: Level %0. %</body>
+		<body>Current Mascote XP: Level %0. %</body>
 	</string>
 	<string>
 		<id>900399</id>
 		<name>STR_PET_EXP_AFT</name>
-		<body>Pet XP after transfer: Level %0. %</body>
+		<body>Mascote XP after transfer: Level %0. %</body>
 	</string>
 	<string>
 		<id>900400</id>
@@ -6739,7 +6739,7 @@
 	<string>
 		<id>900929</id>
 		<name>STR_MACRO_OPTION_PET</name>
-		<body>[%%Pet]</body>
+		<body>[%%Mascote]</body>
 	</string>
 	<string>
 		<id>900930</id>
@@ -7764,7 +7764,7 @@
 	<string>
 		<id>901166</id>
 		<name>STR_KEYMAP_PET_COMMAND</name>
-		<body>Pet</body>
+		<body>Mascote</body>
 	</string>
 	<string>
 		<id>901167</id>
@@ -7969,7 +7969,7 @@
 	<string>
 		<id>901207</id>
 		<name>STR_MACRO_OPTION_PARTY_PET</name>
-		<body>[%%Pet%0]</body>
+		<body>[%%Mascote%0]</body>
 	</string>
 	<string>
 		<id>901208</id>
@@ -8984,7 +8984,7 @@
 	<string>
 		<id>901412</id>
 		<name>STR_KEYMAP_SELECT_PET</name>
-		<body>Selecione o Pet</body>
+		<body>Selecione o Mascote</body>
 	</string>
 	<string>
 		<id>901413</id>
@@ -12703,12 +12703,12 @@
 	<string>
 		<id>902162</id>
 		<name>STR_REMOVE_OPTION_COMPOUNDED_SLOT</name>
-		<body>(Combinado)</body>
+		<body>(Combinada)</body>
 	</string>
 	<string>
 		<id>902163</id>
 		<name>STR_FATIGUE_TITLE</name>
-		<body>Global Fatigue</body>
+		<body>Fadiga Global</body>
 	</string>
 	<string>
 		<id>902164</id>
@@ -12730,82 +12730,82 @@
 	<string>
 		<id>902167</id>
 		<name>STR_CHANGE_SKIN_CHANGE_RESTRICTS</name>
-		<body>&lt;p&gt;If you change the appearance to %0, only &lt;font color=&quot;ff0000&quot;&gt;%1&lt;/font&gt; Characters may equip it.&lt;/p&gt;</body>
+		<body>&lt;p&gt;Se você alterar a aparência para %0, apenas os personagens &lt;font color=&quot;ff0000&quot;&gt;%1&lt;/font&gt; poderão equipar esse item.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902168</id>
 		<name>STR_LOGINSTAGE_RECOMMENDED_SERVER</name>
-		<body>&lt;p&gt;Recommended server is &apos;%0&apos;.&lt;/p&gt;&#xA;&lt;p&gt;Do you want to login to &apos;%0&apos; server?&lt;/p&gt;</body>
+		<body>&lt;p&gt;O servidor recomendado é &apos;%0&apos;.&lt;/p&gt;&#xA;&lt;p&gt;Deseja entrar no servidor &apos;%0&apos;?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902169</id>
 		<name>STR_TOOLTIP_SOLD_OUT</name>
-		<body>Sold Out</body>
+		<body>Fora de Estoque</body>
 	</string>
 	<string>
 		<id>902170</id>
 		<name>STR_ENCHANT_ITEM_BASIC_OPTION_SLOT_STATE</name>
-		<body>Basic Slot (Below level %)</body>
+		<body>Slot Básico (Nível inferior a %)</body>
 	</string>
 	<string>
 		<id>902171</id>
 		<name>STR_ENCHANT_ITEM_COMPOUNDED_OPTION_SLOT_STATE</name>
-		<body>Combined Slot (Below level %)</body>
+		<body>Slot Combinado (Nível inferior a %)</body>
 	</string>
 	<string>
 		<id>902172</id>
 		<name>STR_FIELDABYSS_REWARD_MAIL_OCCUPY_SENDER_LIGHT</name>
-		<body>Inggison HQ</body>
+		<body>Quartel-General de Inggison</body>
 	</string>
 	<string>
 		<id>902173</id>
 		<name>STR_FIELDABYSS_REWARD_MAIL_OCCUPY_TITLE_LIGHT</name>
-		<body>Siege Reward Notice</body>
+		<body>Aviso de Recompensa de Guerra</body>
 	</string>
 	<string>
 		<id>902174</id>
 		<name>STR_FIELDABYSS_REWARD_MAIL_OCCUPY_HEADER_LIGHT</name>
-		<body>We Elyos have achieved an overwhelming victory in siege warfare for occupying %2 at %1 on %0.</body>
+		<body>Nós, Elyos, alcançamos uma vitória esmagadora na guerra por ocupar %2 em %1 as %0.</body>
 	</string>
 	<string>
 		<id>902175</id>
 		<name>STR_FIELDABYSS_REWARD_MAIL_OCCUPY_BODY_LIGHT</name>
-		<body>\n\nAs a reward for your %0-level achievement in combat, you are awarded as follows:</body>
+		<body>\n\nComo recompensa por sua conquista de nível %0 em combate, você recebe o seguinte:</body>
 	</string>
 	<string>
 		<id>902176</id>
 		<name>STR_FIELDABYSS_REWARD_MAIL_OCCUPY_TAIL_LIGHT</name>
-		<body>\n\n- Kaisinel&apos;s Agent Outremus</body>
+		<body>\n\n- Agente Outremus, de Kaisinel</body>
 	</string>
 	<string>
 		<id>902177</id>
 		<name>STR_FIELDABYSS_REWARD_MAIL_OCCUPY_SENDER_DARK</name>
-		<body>Gelkmaros HQ</body>
+		<body>Quartel-General de Gelkmaros</body>
 	</string>
 	<string>
 		<id>902178</id>
 		<name>STR_FIELDABYSS_REWARD_MAIL_OCCUPY_TITLE_DARK</name>
-		<body>Siege Reward Notice</body>
+		<body>Aviso de Recompensa de Guerra</body>
 	</string>
 	<string>
 		<id>902179</id>
 		<name>STR_FIELDABYSS_REWARD_MAIL_OCCUPY_HEADER_DARK</name>
-		<body>We Asmodians have achieved an overwhelming victory in siege warfare for occupying %2 at %1 on %0.</body>
+		<body>Nós, Asmodians, alcançamos uma vitória esmagadora na guerra por ocupar %2 em %1 as %0.</body>
 	</string>
 	<string>
 		<id>902180</id>
 		<name>STR_FIELDABYSS_REWARD_MAIL_OCCUPY_BODY_DARK</name>
-		<body>\n\nAs a reward for your %0-level achievement in combat, you are awarded as follows:</body>
+		<body>\n\nComo recompensa por sua conquista de nível %0 em combate, você recebe o seguinte:</body>
 	</string>
 	<string>
 		<id>902181</id>
 		<name>STR_FIELDABYSS_REWARD_MAIL_OCCUPY_TAIL_DARK</name>
-		<body>\n\n- Marchutan&apos;s Agent Richelle</body>
+		<body>\n\n- Agente Richelle, de Marchutan</body>
 	</string>
 	<string>
 		<id>902182</id>
 		<name>STR_FIELDABYSS_REWARD_MAIL_DEFENSE_SENDER_LIGHT</name>
-		<body>Inggison HQ</body>
+		<body>Quartel-General de Inggison</body>
 	</string>
 	<string>
 		<id>902183</id>
@@ -12830,7 +12830,7 @@
 	<string>
 		<id>902187</id>
 		<name>STR_FIELDABYSS_REWARD_MAIL_DEFENSE_SENDER_DARK</name>
-		<body>Gelkmaros HQ</body>
+		<body>Quartel-General de Gelkmaros</body>
 	</string>
 	<string>
 		<id>902188</id>
@@ -12855,7 +12855,7 @@
 	<string>
 		<id>902192</id>
 		<name>STR_FIELDABYSS_REWARD_MAIL_PROTECT_SENDER_LIGHT</name>
-		<body>Inggison HQ</body>
+		<body>Quartel-General de Inggison</body>
 	</string>
 	<string>
 		<id>902193</id>
@@ -12880,7 +12880,7 @@
 	<string>
 		<id>902197</id>
 		<name>STR_FIELDABYSS_REWARD_MAIL_PROTECT_SENDER_DARK</name>
-		<body>Gelkmaros HQ</body>
+		<body>Quartel-General de Gelkmaros</body>
 	</string>
 	<string>
 		<id>902198</id>
@@ -12905,7 +12905,7 @@
 	<string>
 		<id>902202</id>
 		<name>STR_FIELDABYSS_REWARD_MAIL_DEFENDER_SENDER_LIGHT</name>
-		<body>Inggison HQ</body>
+		<body>Quartel-General de Inggison</body>
 	</string>
 	<string>
 		<id>902203</id>
@@ -12930,7 +12930,7 @@
 	<string>
 		<id>902207</id>
 		<name>STR_FIELDABYSS_REWARD_MAIL_DEFENDER_SENDER_DARK</name>
-		<body>Gelkmaros HQ</body>
+		<body>Quartel-General de Gelkmaros</body>
 	</string>
 	<string>
 		<id>902208</id>
@@ -12955,7 +12955,7 @@
 	<string>
 		<id>902212</id>
 		<name>STR_FIELDABYSS_REWARD_MAIL_EMPTY_SENDER_LIGHT</name>
-		<body>Inggison HQ</body>
+		<body>Quartel-General de Inggison</body>
 	</string>
 	<string>
 		<id>902213</id>
@@ -12980,7 +12980,7 @@
 	<string>
 		<id>902217</id>
 		<name>STR_FIELDABYSS_REWARD_MAIL_EMPTY_SENDER_DARK</name>
-		<body>Gelkmaros HQ</body>
+		<body>Quartel-General de Gelkmaros</body>
 	</string>
 	<string>
 		<id>902218</id>
@@ -13005,7 +13005,7 @@
 	<string>
 		<id>902222</id>
 		<name>STR_FIELDABYSS_REWARD_MAIL_FAIL_SENDER_LIGHT</name>
-		<body>Inggison HQ</body>
+		<body>Quartel-General de Inggison</body>
 	</string>
 	<string>
 		<id>902223</id>
@@ -13030,7 +13030,7 @@
 	<string>
 		<id>902227</id>
 		<name>STR_FIELDABYSS_REWARD_MAIL_FAIL_SENDER_DARK</name>
-		<body>Gelkmaros HQ</body>
+		<body>Quartel-General de Gelkmaros</body>
 	</string>
 	<string>
 		<id>902228</id>
@@ -13055,7 +13055,7 @@
 	<string>
 		<id>902232</id>
 		<name>STR_FIELDBOSS_REWARD_MAIL_OCCUPY_SENDER_LIGHT</name>
-		<body>Inggison HQ</body>
+		<body>Quartel-General de Inggison</body>
 	</string>
 	<string>
 		<id>902233</id>
@@ -13080,7 +13080,7 @@
 	<string>
 		<id>902237</id>
 		<name>STR_FIELDBOSS_REWARD_MAIL_OCCUPY_SENDER_DARK</name>
-		<body>Gelkmaros HQ</body>
+		<body>Quartel-General de Gelkmaros</body>
 	</string>
 	<string>
 		<id>902238</id>
@@ -13105,27 +13105,27 @@
 	<string>
 		<id>902242</id>
 		<name>STR_EXPIRED_TEMPORARY_EXCHANGE_TIME</name>
-		<body>Temporary Trade Allowed Time</body>
+		<body>Tempo Permitido para Troca Temporária</body>
 	</string>
 	<string>
 		<id>902243</id>
 		<name>STR_TOOLTIP_TEMPORARY_EXCHANGE</name>
-		<body>Temporary Trade Allowed</body>
+		<body>Troca Temporária Permitido</body>
 	</string>
 	<string>
 		<id>902244</id>
 		<name>STR_ITEM_COUNT_SALE_PERSONAL_SHOP</name>
-		<body>Registration of Private Store Items</body>
+		<body>Cadastro de Itens da Loja Privada</body>
 	</string>
 	<string>
 		<id>902245</id>
 		<name>STR_ITEM_COUNT_SALE_VENDOR_REGISTRATION</name>
-		<body>Registration of Broker Items</body>
+		<body>Cadastro de Itens do Leilão</body>
 	</string>
 	<string>
 		<id>902246</id>
 		<name>STR_ITEM_COUNT_SALE_PRICE_FOR_ONE</name>
-		<body>Please enter the selling price for each item.</body>
+		<body>Por favor, insira o preço de venda para cada item.</body>
 	</string>
 	<string>
 		<id>902247</id>
@@ -13135,32 +13135,32 @@
 	<string>
 		<id>902248</id>
 		<name>STR_IMPACTSTATE</name>
-		<body>Shock State</body>
+		<body>Estado de Shock</body>
 	</string>
 	<string>
 		<id>902249</id>
 		<name>STR_MSGBOX_UNION_INVITE_ME</name>
-		<body>&lt;p&gt;%0 legion has invited your force to join their League.&lt;/p&gt;&lt;p&gt;Will you accept the invitation?&lt;/p&gt;</body>
+		<body>&lt;p&gt;A Legião %0 convidou a sua força para se juntar a Liga.&lt;/p&gt;&lt;p&gt;Você aceita o convite?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902250</id>
 		<name>STR_MSGBOX_UNION_LEAVE</name>
-		<body>Leave the League?</body>
+		<body>Sair da Liga?</body>
 	</string>
 	<string>
 		<id>902251</id>
 		<name>STR_MSGBOX_UNION_BAN</name>
-		<body>Expel %0&apos;s force from the League?</body>
+		<body>Expulsar a Aliança de %0 da Liga?</body>
 	</string>
 	<string>
 		<id>902252</id>
 		<name>STR_MSGBOX_UNION_CHANGE_LEADER</name>
-		<body>&lt;p&gt;Transfer the League leadership to %0?&lt;/p&gt;&lt;p&gt;%0&apos;s force, and the Force Number will be changed.&lt;p&gt;</body>
+		<body>&lt;p&gt;Transferir a liderança da Liga para a Aliança de %0?&lt;/p&gt;&lt;p&gt; A Aliança de %0 e o Número da Aliança será alterado.&lt;p&gt;</body>
 	</string>
 	<string>
 		<id>902253</id>
 		<name>STR_MSGBOX_UNION_INVITE</name>
-		<body>Enter the name of the character that you want to invite to the League.</body>
+		<body>Digite o nome do personagem que você deseja convidar para a Liga.</body>
 	</string>
 	<string>
 		<id>902254</id>
@@ -13220,52 +13220,52 @@
 	<string>
 		<id>902265</id>
 		<name>STR_POPUP_UNION_INVITE</name>
-		<body>Invite to League</body>
+		<body>Convidar para Liga</body>
 	</string>
 	<string>
 		<id>902266</id>
 		<name>STR_POPUP_UNION_BAN</name>
-		<body>League Expel</body>
+		<body>Expulsar da Liga</body>
 	</string>
 	<string>
 		<id>902267</id>
 		<name>STR_POPUP_UNION_LEAVE</name>
-		<body>Leave League</body>
+		<body>Sair da Liga</body>
 	</string>
 	<string>
 		<id>902268</id>
 		<name>STR_POPUP_UNION_CHANGE_LEADER</name>
-		<body>Transfer League Leadership</body>
+		<body>Transferir Liderança da Liga</body>
 	</string>
 	<string>
 		<id>902269</id>
 		<name>STR_KEYMAP_AUTOTARGET_ENEMY_PC</name>
-		<body>Select Nearest Enemy PC</body>
+		<body>Selecionar o Jogador inimigo mais próximo</body>
 	</string>
 	<string>
 		<id>902270</id>
 		<name>STR_KEYMAP_TOGGLEDIALOG_MEMO</name>
-		<body>Memo Pad</body>
+		<body>Bloco de Notas</body>
 	</string>
 	<string>
 		<id>902271</id>
 		<name>STR_WAREHOUSE_DISPLAY_ACCOUNT</name>
-		<body>Display Account Warehouse</body>
+		<body>Mostrar Baú da Conta</body>
 	</string>
 	<string>
 		<id>902272</id>
 		<name>STR_WINDOW_UNION</name>
-		<body>League</body>
+		<body>Liga</body>
 	</string>
 	<string>
 		<id>902273</id>
 		<name>STR_KEYMAP_TOGGLE_UNION</name>
-		<body>League</body>
+		<body>Liga</body>
 	</string>
 	<string>
 		<id>902274</id>
 		<name>STR_UI_LOOT_UNION_LEADER_ONLY</name>
-		<body>League Leader Loot</body>
+		<body>Loot do Líder da Liga</body>
 	</string>
 	<string>
 		<id>902275</id>
@@ -13275,112 +13275,112 @@
 	<string>
 		<id>902276</id>
 		<name>STR_PARTY_MENU_SPLIT_UNION</name>
-		<body>Distribute Cash to League</body>
+		<body>Distribuir Kinah para a Liga</body>
 	</string>
 	<string>
 		<id>902277</id>
 		<name>STR_MSGBOX_SPLIT_UNION_MSG</name>
-		<body>&lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt; will be distributed to league members. Do you want to continue?</body>
+		<body>&lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt; serão distribuídos aos membros da Liga. Você quer continuar?</body>
 	</string>
 	<string>
 		<id>902278</id>
 		<name>STR_MSGBOX_SPLIT_UNION_MSG_ENTER_GOLD</name>
-		<body>Please enter the amount of Kinah to distribute to league members.</body>
+		<body>Por favor, insira a quantidade de Kinah para distribuir aos membros da liga.</body>
 	</string>
 	<string>
 		<id>902318</id>
 		<name>STR_TOOLTIP_TOYPET_FOOD</name>
-		<body>Pet Food</body>
+		<body>Comida do Mascote</body>
 	</string>
 	<string>
 		<id>902319</id>
 		<name>STR_WINDOW_TOYPET_LIST</name>
-		<body>Pet List</body>
+		<body>Lista de Pets</body>
 	</string>
 	<string>
 		<id>902320</id>
 		<name>STR_TOOLTIP_TOYPET_BIRTHDAY</name>
-		<body>Birthday</body>
+		<body>Aniversário</body>
 	</string>
 	<string>
 		<id>902321</id>
 		<name>STR_TOOLTIP_TOYPET_FUNC</name>
-		<body>Feature %0</body>
+		<body>Recurso %0</body>
 	</string>
 	<string>
 		<id>902322</id>
 		<name>STR_TOOLTIP_TOYPET_LOVE_FLAVOR</name>
-		<body>Snack</body>
+		<body>Petisco</body>
 	</string>
 	<string>
 		<id>902323</id>
 		<name>STR_TOOLTIP_TOYPET_ABILITY</name>
-		<body>Specialty</body>
+		<body>Especialidade</body>
 	</string>
 	<string>
 		<id>902324</id>
 		<name>STR_MSGBOX_TAME_TOYPET_CONFIRM</name>
-		<body>Are you sure you want to adopt %0: %1%?</body>
+		<body>Tem certeza de que deseja adotar %0: %1%?</body>
 	</string>
 	<string>
 		<id>902325</id>
 		<name>STR_ABANDON_TOYPET_NOW</name>
-		<body>Abandon</body>
+		<body>Abandonar</body>
 	</string>
 	<string>
 		<id>902326</id>
 		<name>STR_UI_ABANDON_TOYPET_CONFIRM</name>
-		<body>To give up, enter &apos;%0&apos;.</body>
+		<body>Para desistir, digite &apos;%0&apos;.</body>
 	</string>
 	<string>
 		<id>902327</id>
 		<name>STR_UI_TOYPET_FUNC_NONE</name>
-		<body>Unavailable</body>
+		<body>Indisponível</body>
 	</string>
 	<string>
 		<id>902328</id>
 		<name>STR_UI_TOYPET_FEED_COOLING_STATE</name>
-		<body>Full (Time remaining: %DURATIONTIME0)</body>
+		<body>Cheio (Tempo restante: %DURATIONTIME0)</body>
 	</string>
 	<string>
 		<id>902329</id>
 		<name>STR_UI_TOYPET_FEED_NORMAL_STATE</name>
-		<body>Content</body>
+		<body>Contente</body>
 	</string>
 	<string>
 		<id>902330</id>
 		<name>STR_UI_TOYPET_LIST_SUMMON</name>
-		<body>Summon</body>
+		<body>Chamar</body>
 	</string>
 	<string>
 		<id>902331</id>
 		<name>STR_UI_TOYPET_LIST_INFO</name>
-		<body>Information</body>
+		<body>Informações</body>
 	</string>
 	<string>
 		<id>902332</id>
 		<name>STR_VENDOR_SELLING_ITEMS</name>
-		<body>Registered Items (%num0/%num1)</body>
+		<body>Itens Registrados (%num0/%num1)</body>
 	</string>
 	<string>
 		<id>902333</id>
 		<name>STR_VENDOR_SELLING_ITEM_FEE_LEVEL</name>
-		<body>Level %num0</body>
+		<body>Nível %num0</body>
 	</string>
 	<string>
 		<id>902334</id>
 		<name>STR_VENDOR_SELLING_ITEM_FEE_FULL</name>
-		<body>Unable to register</body>
+		<body>Não foi possível registrar</body>
 	</string>
 	<string>
 		<id>902335</id>
 		<name>STR_VENDOR_SELLING_ITEM_FEE_INFO</name>
-		<body>(%num0~%num1th item)</body>
+		<body>(%num0~%num1º item)</body>
 	</string>
 	<string>
 		<id>902336</id>
 		<name>STR_TWITTER_LOGIN_STATE_LOGIN_FAILED</name>
-		<body>&lt;font size=&quot;4&quot; color=&quot;ff0000&quot;&gt;&lt;center&gt;&lt;p&gt;Incorrect PIN.&lt;/p&gt;&lt;p&gt;Please double-check it and try again.&lt;/p&gt;&lt;/center&gt;&lt;/font&gt;</body>
+		<body>&lt;font size=&quot;4&quot; color=&quot;ff0000&quot;&gt;&lt;center&gt;&lt;p&gt;PIN incorreto.&lt;/p&gt;&lt;p&gt;Verifique e tente novamente.&lt;/p&gt;&lt;/center&gt;&lt;/font&gt;</body>
 	</string>
 	<string>
 		<id>902337</id>
@@ -13495,87 +13495,87 @@
 	<string>
 		<id>902359</id>
 		<name>STR_POPUP_TOYPET_INFO</name>
-		<body>Pet Window</body>
+		<body>Janela do Mascote</body>
 	</string>
 	<string>
 		<id>902360</id>
 		<name>STR_POPUP_TOYPET_UNSUMMON</name>
-		<body>Dismiss</body>
+		<body>Dispensar</body>
 	</string>
 	<string>
 		<id>902361</id>
 		<name>STR_TOOLTIP_TOYPET_LOVE_FLAVOR_INFO</name>
-		<body>Can eat %0 type items %1 times.</body>
+		<body>Pode comer %0 itens %1 vezes.</body>
 	</string>
 	<string>
 		<id>902362</id>
 		<name>STR_UI_TOYPET_ATTACH_LIST_NONE</name>
-		<body>Unavailable</body>
+		<body>Indisponível</body>
 	</string>
 	<string>
 		<id>902363</id>
 		<name>STR_MSGBOX_TOYPET_FEED_CONFIRM</name>
-		<body>Feed pet with %0?</body>
+		<body>Alimentar mascote com %0?</body>
 	</string>
 	<string>
 		<id>902476</id>
 		<name>STR_PVPAttackRatio_Physical</name>
-		<body>Physical Attack (PvP)</body>
+		<body>Dano Físico (PvP)</body>
 	</string>
 	<string>
 		<id>902477</id>
 		<name>STR_PVPAttackRatio_Magical</name>
-		<body>Magical Attack (PvP)</body>
+		<body>Dano Mágico (PvP)</body>
 	</string>
 	<string>
 		<id>902478</id>
 		<name>STR_PVPDefendRatio_Physica</name>
-		<body>Physical Defence (PvP)</body>
+		<body>Defesa Física (PvP)</body>
 	</string>
 	<string>
 		<id>902479</id>
 		<name>STR_PVPDefendRatio_Magica</name>
-		<body>Magic Defence (PvP)</body>
+		<body>Defesa Mágica (PvP)</body>
 	</string>
 	<string>
 		<id>902484</id>
 		<name>STR_TOOLTIP_VENDOR_NOTICE</name>
-		<body>&lt;html&gt;&lt;body&gt;&lt;p&gt;You have sold something at the Broker.&lt;/p&gt;&lt;p&gt;Please collect &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</body>
+		<body>&lt;html&gt;&lt;body&gt;&lt;p&gt;Você vendeu algo no Leilão.&lt;/p&gt;&lt;p&gt;Por favor, colete &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</body>
 	</string>
 	<string>
 		<id>902485</id>
 		<name>STR_WAIT_CHAR_WAITING_FOR_DICONNECT</name>
-		<body>Preparing to reconnect</body>
+		<body>Preparando para reconectar</body>
 	</string>
 	<string>
 		<id>902486</id>
 		<name>STR_TOYPET_ABANDON_PET_CONFIRM</name>
-		<body>&lt;p align=&quot;CENTER&quot;&gt;Surrendered pets are deleted and cannot be restored.&lt;/p&gt;&lt;p align=&quot;CENTER&quot;&gt;Are you sure you want to &lt;font color=&quot;FF0000&quot;&gt;surrender&lt;/font&gt; &lt;font color=&quot;FF0000&quot;&gt;%0&lt;/font&gt;?&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;CENTER&quot;&gt;Pets entregues são excluídos e não podem ser restaurados.&lt;/p&gt;&lt;p align=&quot;CENTER&quot;&gt;Você tem certeza que deseja &lt;font color=&quot;FF0000&quot;&gt;ENTREGAR&lt;/font&gt; &lt;font color=&quot;FF0000&quot;&gt;%0&lt;/font&gt;?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902487</id>
 		<name>STR_UI_TOYPET_FEED_FEEDING</name>
-		<body>Feed</body>
+		<body>Alimentar</body>
 	</string>
 	<string>
 		<id>902488</id>
 		<name>STR_UI_TOYPET_LIST_UNSUMMON</name>
-		<body>Dismiss</body>
+		<body>Dispensar</body>
 	</string>
 	<string>
 		<id>902489</id>
 		<name>STR_UI_TOYPET_FEED_HUNGRY_STATE</name>
-		<body>Hungry</body>
+		<body>Faminto</body>
 	</string>
 	<string>
 		<id>902490</id>
 		<name>STR_UI_TOYPET_FEED_ALMOST_FULL_STATE</name>
-		<body>Slightly Full</body>
+		<body>Quase Cheio</body>
 	</string>
 	<string>
 		<id>902491</id>
 		<name>STR_WAIT_CHAR_WAITING_FOR_DICONNECT_LEFT_TIME</name>
-		<body>Remaining time</body>
+		<body>Tempo restante</body>
 	</string>
 	<string>
 		<id>902492</id>
@@ -13585,32 +13585,32 @@
 	<string>
 		<id>902619</id>
 		<name>STR_COMPOUND_ITEM_ERROR_EQUIPED_ITEM</name>
-		<body>You cannot combine equipped items.</body>
+		<body>Você não pode combinar itens equipados.</body>
 	</string>
 	<string>
 		<id>902620</id>
 		<name>STR_POPUP_TOYPET_CHANGE_NAME</name>
-		<body>Change Name</body>
+		<body>Alterar Nome</body>
 	</string>
 	<string>
 		<id>902621</id>
 		<name>STR_POPUP_TOYPET_CHANGE_NAME_ENTER_NAME</name>
-		<body>Enter new pet name.</body>
+		<body>Digite o novo nome do mascote.</body>
 	</string>
 	<string>
 		<id>902622</id>
 		<name>STR_KEYMAP_TOGGLEDIALOG_TOYPET_LIST</name>
-		<body>Pet List</body>
+		<body>Lista de Mascotes</body>
 	</string>
 	<string>
 		<id>902623</id>
 		<name>STR_KEYMAP_TOGGLEDIALOG_TOYPET_INFO</name>
-		<body>Pet Window</body>
+		<body>Janela de Mascotes</body>
 	</string>
 	<string>
 		<id>902638</id>
 		<name>STR_TOOLTIP_INDUN_NAME</name>
-		<body>Instanced Zone</body>
+		<body>Área Instanciada</body>
 	</string>
 	<string>
 		<id>902639</id>
@@ -13620,97 +13620,97 @@
 	<string>
 		<id>902640</id>
 		<name>STR_TOOLTIP_INDUN_ENTER_LEVEL</name>
-		<body>Entry Level</body>
+		<body>Nível para Entrar</body>
 	</string>
 	<string>
 		<id>902645</id>
 		<name>STR_MSGBOX_TOYPET_FEED_CONFIRM_CASH</name>
-		<body>%0 is sold by the Black Cloud Merchants. Feed pet?</body>
+		<body>%0 é vendido pelos Comerciantes de Black Cloud. Alimentar mascote?</body>
 	</string>
 	<string>
 		<id>902646</id>
 		<name>STR_MSGBOX_TOYPET_FEED_CONFIRM_CASH_NOW</name>
-		<body>Feed</body>
+		<body>Alimentar</body>
 	</string>
 	<string>
 		<id>902647</id>
 		<name>STR_TOOLTIP_TOYPET_LOVE_FLAVOR_INFO_UNLIMITED</name>
-		<body>Can eat %0 type items unlimited number of times.</body>
+		<body>Pode comer itens %0 quantas vezes quiser.</body>
 	</string>
 	<string>
 		<id>902648</id>
 		<name>STR_ENCHANT_ITEM_OPTION_SLOT_STATE_DESC</name>
-		<body>(for Manastones of level %0 or lower)</body>
+		<body>(para Manastones de nível %0 ou inferior)</body>
 	</string>
 	<string>
 		<id>902649</id>
 		<name>STR_MSGBOX_CANT_CREATE_RACE</name>
-		<body>&lt;p&gt;Creation of %1 is currently restricted in the %0 server.&lt;/p&gt;&lt;p&gt;Please use another server if you wish to create a %1 character.&lt;/p&gt;</body>
+		<body>&lt;p&gt;A criação de %1 está atualmente restrita no servidor %0.&lt;/p&gt;&lt;p&gt;Por favor, use outro servidor se desejar criar um personagem %1.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902650</id>
 		<name>STR_MSGBOX_TOYPET_FEED_ALL_CONFIRM</name>
-		<body>Feed pet with %1 %0?</body>
+		<body>Alimentar mascote com %1 %0?</body>
 	</string>
 	<string>
 		<id>902651</id>
 		<name>STR_MSGBOX_TOYPET_FEED_ALL_CONFIRM_CASH</name>
-		<body>%0 is sold by the Black Cloud Merchants. Feed pet with %1 %0?</body>
+		<body>%0 é vendido pelos Comerciantes de Black Cloud. Alimentar mascote com %1 %0?</body>
 	</string>
 	<string>
 		<id>902692</id>
 		<name>STR_WAIT_CHAR_WAITING_FOR_DICONNECT_TO_END</name>
-		<body>Preparing to reconnect the selected character (max. 20 seconds)</body>
+		<body>Preparando para reconectar o personagem selecionado (máx. 20 segundos)</body>
 	</string>
 	<string>
 		<id>902693</id>
 		<name>STR_TOOL_MAKING_SHOW_ONLY_CHECKLIST</name>
-		<body>Selected (%0/%1)</body>
+		<body>Selecionado (%0/%1)</body>
 	</string>
 	<string>
 		<id>902694</id>
 		<name>STR_UI_TOYPET_FEED_CANT_EAT</name>
-		<body>Content</body>
+		<body>Contente</body>
 	</string>
 	<string>
 		<id>902695</id>
 		<name>STR_MSGBOX_DELETE_CHAR_THEN_CANT_CREATE_RACE</name>
-		<body>&lt;p&gt;Creation of %1 is currently restricted in the %0 server. You cannot create another %1 character if you delete all %1 characters.&lt;/p&gt;&lt;p&gt;Are you sure you want to delete?&lt;/p&gt;</body>
+		<body>&lt;p&gt;A criação de %1 está atualmente restrita no servidor %0. Você não pode criar outro personagem %1 se deletar todos os personagens %1.&lt;/p&gt;&lt;p&gt;Tem certeza que deseja excluir?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902696</id>
 		<name>STR_TOOLTIP_TOYPET_KIND_INFO</name>
-		<body>Type</body>
+		<body>Tipo</body>
 	</string>
 	<string>
 		<id>902697</id>
 		<name>STR_MSGBOX_CANT_CREATE_RACE_IF_CHAR_DELETED</name>
-		<body>Creation of %1 is currently restricted in %0. You cannot create another %1 character if you delete all %1 characters. Are you sure you want to delete?</body>
+		<body>A criação de %1 está atualmente restrita em %0. Você não pode criar outro personagem %1 se excluir todos os personagens %1. Tem certeza de que deseja excluir?</body>
 	</string>
 	<string>
 		<id>902698</id>
 		<name>STR_MSGBOX_CANT_CREATE_RACE_IF_CHAR_DELETED_WITH_ITEM</name>
-		<body>&lt;p&gt;All items (including cash items) on the current character will be deleted.&lt;/p&gt;&lt;p&gt;Creation of %1 is currently restricted in %0. You cannot create another %1 character if you delete all %1 characters.&lt;/p&gt;&lt;p&gt;Are you sure you want to delete?&lt;/p&gt;</body>
+		<body>&lt;p&gt;Todos os itens (incluindo itens comprados com dinheiro) no personagem atual serão excluídos.&lt;/p&gt;&lt;p&gt;A criação de %1 está atualmente restrita em %0. Você não pode criar outro personagem %1 se excluir todos os personagens %1.&lt;/p&gt;&lt;p&gt;Tem certeza de que deseja excluir?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902699</id>
 		<name>STR_CHAT_TAB_MENU_REFRESH</name>
-		<body>Clear Tab</body>
+		<body>Limpar Aba</body>
 	</string>
 	<string>
 		<id>902700</id>
 		<name>STR_TWITTER_TWEET_HOURS_AGO</name>
-		<body>hours ago</body>
+		<body>horas atrás</body>
 	</string>
 	<string>
 		<id>902701</id>
 		<name>STR_TWITTER_TWEET_MINUTES_AGO</name>
-		<body>minutes ago</body>
+		<body>minutos atrás</body>
 	</string>
 	<string>
 		<id>902702</id>
 		<name>STR_TWITTER_TWEET_DAYS_AGO</name>
-		<body>days ago</body>
+		<body>dias atrás</body>
 	</string>
 	<string>
 		<id>902703</id>
@@ -13890,62 +13890,62 @@
 	<string>
 		<id>902739</id>
 		<name>STR_TOOLTIP_GATHER_LEVEL</name>
-		<body>Can be extracted by Level %0 or higher</body>
+		<body>Pode ser extraído no nível %0 ou superior</body>
 	</string>
 	<string>
 		<id>902740</id>
 		<name>STR_SECONDPASSWORD_REGISTER</name>
-		<body>Get PIN</body>
+		<body>Gerar PIN</body>
 	</string>
 	<string>
 		<id>902741</id>
 		<name>STR_SECONDPASSWORD_REGISTER_CONTENT</name>
-		<body>For greater security, register a PIN when using or deleting characters. (This PIN must be different from your account password.)</body>
+		<body>Para maior segurança, registre um PIN ao selecionar ou excluir personagens. (Este PIN deve ser diferente da senha da sua conta.)</body>
 	</string>
 	<string>
 		<id>902742</id>
 		<name>STR_SECONDPASSWORD_CHECK</name>
-		<body>Character PIN</body>
+		<body>PIN do Personagem</body>
 	</string>
 	<string>
 		<id>902743</id>
 		<name>STR_SECONDPASSWORD_CHECK_CONTENT</name>
-		<body>For increased login security, use the mouse to enter your character PIN.</body>
+		<body>Para aumentar a segurança do login, use o mouse para inserir o PIN do seu personagem.</body>
 	</string>
 	<string>
 		<id>902744</id>
 		<name>STR_SECONDPASSWORD_CHANGE_SECONDPASSWORD</name>
-		<body>Change PIN</body>
+		<body>Alterar PIN</body>
 	</string>
 	<string>
 		<id>902745</id>
 		<name>STR_SECONDPASSWORD_CHANGE_SECONDPASSWORD_CONTENT</name>
-		<body>Enter your current and new PIN numbers. This PIN must differ from your account password.</body>
+		<body>Insira seu PIN atual e novo. Este PIN deve ser diferente da senha da sua conta.</body>
 	</string>
 	<string>
 		<id>902746</id>
 		<name>STR_SECONDPASSWORD_ENTER_SECONDPASSWORD</name>
-		<body>Enter PIN</body>
+		<body>Digite o PIN</body>
 	</string>
 	<string>
 		<id>902747</id>
 		<name>STR_SECONDPASSWORD_ENTER_SECONDPASSWORD_CONFIRM</name>
-		<body>Confirm PIN</body>
+		<body>Confirme o PIN</body>
 	</string>
 	<string>
 		<id>902748</id>
 		<name>STR_SECONDPASSWORD_ENTER_OLD_SECONDPASSWORD_CONFIRM</name>
-		<body>Old PIN</body>
+		<body>PIN Antigo</body>
 	</string>
 	<string>
 		<id>902749</id>
 		<name>STR_SECONDPASSWORD_ENTER_NEW_SECONDPASSWORD</name>
-		<body>New PIN</body>
+		<body>Novo PIN</body>
 	</string>
 	<string>
 		<id>902750</id>
 		<name>STR_SECONDPASSWORD_ENTER_NEW_SECONDPASSWORD_CONFIRM</name>
-		<body>Confirm PIN</body>
+		<body>Confirmar PIN</body>
 	</string>
 	<string>
 		<id>902751</id>
@@ -13955,62 +13955,62 @@
 	<string>
 		<id>902752</id>
 		<name>STR_SECONDPASSWORD_BUTTON_CHANGE</name>
-		<body>Change</body>
+		<body>Alterar</body>
 	</string>
 	<string>
 		<id>902753</id>
 		<name>STR_SECONDPASSWORD_MSGBOX_DIFFERENT_PASSWORDS_CONTENT</name>
-		<body>&lt;p&gt;The PINs you entered do not match.&lt;/p&gt;&lt;p&gt;Please enter them again.&lt;/p&gt;</body>
+		<body>&lt;p&gt;Os PINs inseridos não correspondem.&lt;/p&gt;&lt;p&gt;Por favor, insira-os novamente.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902754</id>
 		<name>STR_SECONDPASSWORD_MSGBOX_INCORRECT_SECONDPASSWORD</name>
-		<body>Incorrect PIN</body>
+		<body>PIN Incorreto</body>
 	</string>
 	<string>
 		<id>902755</id>
 		<name>STR_SECONDPASSWORD_MSGBOX_INCORRECT_SECONDPASSWORD_CONTENT</name>
-		<body>&lt;p&gt;Incorrect PIN. If you fail to enter the correct PIN %0 times in a row, you will have to set a new one on the AION website before you can continue playing.&lt;/p&gt;&lt;p&gt;(Attempt no. %1)&lt;/p&gt;</body>
+		<body>&lt;p&gt;PIN incorreto. Se você não inserir o PIN correto %0 vezes seguidas, será necessário definir um novo no site da AION antes de continuar jogando.&lt;/p&gt;&lt;p&gt;(Tentativa nº %1)&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902756</id>
 		<name>STR_SECONDPASSWORD_MSGBOX_RESTRICTED</name>
-		<body>Access Restriction Notice</body>
+		<body>Aviso de Restrição de Acesso</body>
 	</string>
 	<string>
 		<id>902757</id>
 		<name>STR_SECONDPASSWORD_MSGBOX_RESTRICTED_CONTENT</name>
-		<body>Your access has been restricted because you entered the PIN incorrectly 5 times. Please visit the AION website and set a new PIN so that you can continue your adventures.</body>
+		<body>Seu acesso foi restrito porque você digitou o PIN incorretamente 5 vezes. Por favor, visite o site do AION e defina um novo PIN para que você possa continuar suas aventuras.</body>
 	</string>
 	<string>
 		<id>902758</id>
 		<name>STR_SECONDPASSWORD_MSGBOX_REGISTER_SECONDPASSWORD_COMPLETE</name>
-		<body>Character PIN has been registered.</body>
+		<body>O PIN do personagem foi registrado.</body>
 	</string>
 	<string>
 		<id>902759</id>
 		<name>STR_SECONDPASSWORD_MSGBOX_CHANGE_SECONDPASSWORD_COMPLETE</name>
-		<body>Character PIN has been changed.</body>
+		<body>O PIN do personagem foi alterado.</body>
 	</string>
 	<string>
 		<id>902760</id>
 		<name>STR_SECONDPASSWORD_BUTTON_CHANGE_SECONDPASSWORD</name>
-		<body>Change PIN</body>
+		<body>Alterar PIN</body>
 	</string>
 	<string>
 		<id>902761</id>
 		<name>STR_SECONDPASSWORD_MSGBOX_SAME_ACCOUNT_PASSWORD</name>
-		<body>&lt;p&gt;The new PIN you entered is identical to your current account password.&lt;/p&gt;&lt;p&gt;Please enter a different PIN.&lt;/p&gt;</body>
+		<body>&lt;p&gt;O novo PIN inserido é idêntico à senha da conta atual.&lt;/p&gt;&lt;p&gt;Insira um PIN diferente.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902762</id>
 		<name>STR_SECONDPASSWORD_MSGBOX_SAME_PREVIOUS_PASSWORD</name>
-		<body>&lt;p&gt;The new PIN you entered is identical to your existing PIN.&lt;/p&gt;&lt;p&gt;Please enter a different PIN.&lt;/p&gt;</body>
+		<body>&lt;p&gt;O novo PIN inserido é idêntico ao PIN existente.&lt;/p&gt;&lt;p&gt;Insira um PIN diferente.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902763</id>
 		<name>STR_KEYMAP_TOGGLEDIALOG_INDUN_COOLTIME</name>
-		<body>Instance Info</body>
+		<body>Informações da Instância</body>
 	</string>
 	<string>
 		<id>902764</id>
@@ -14075,27 +14075,27 @@
 	<string>
 		<id>902778</id>
 		<name>STR_TOOLTIP_WINDPATH_BOOST_NAME</name>
-		<body>Windstream Boost</body>
+		<body>Impulsionar</body>
 	</string>
 	<string>
 		<id>902779</id>
 		<name>STR_TOOLTIP_WINDPATH_BOOST_DESC</name>
-		<body>Boost speed for 5 seconds in the windstream.</body>
+		<body>Aumenta a velocidade por 5 segundos na corrente de vento.</body>
 	</string>
 	<string>
 		<id>902780</id>
 		<name>STR_TOOLTIP_WINDPATH_BOOST_REUSE_DELAY</name>
-		<body>Cooldown</body>
+		<body>Recarga</body>
 	</string>
 	<string>
 		<id>902781</id>
 		<name>STR_TOOLTIP_WINDPATH_BOOST_REUSE_DELAY_LEFT</name>
-		<body>%0 sec</body>
+		<body>%0 seg</body>
 	</string>
 	<string>
 		<id>902782</id>
 		<name>STR_TOOLTIP_WINDPATH_BOOST_HOTKEY</name>
-		<body>Windstream Boost</body>
+		<body>Impulsionar Corrente de Vento</body>
 	</string>
 	<string>
 		<id>902783</id>
@@ -14105,42 +14105,42 @@
 	<string>
 		<id>902784</id>
 		<name>STR_MSGBOX_OVERWRITE_USERPRESET</name>
-		<body>&apos;%0&apos; already exists. Do you want to overwrite the existing settings with the new one?</body>
+		<body>&apos;%0&apos; já existe. Deseja substituir as configurações existentes pelas novas?</body>
 	</string>
 	<string>
 		<id>902785</id>
 		<name>STR_MSGBOX_CANT_LOAD_USERPRESET</name>
-		<body>Cannot find or read the specified settings file.</body>
+		<body>Não é possível encontrar ou ler o arquivo de configurações especificado.</body>
 	</string>
 	<string>
 		<id>902786</id>
 		<name>STR_MSGBOX_INAPPROPRIATE_USERPRESET_FILE_NAME</name>
-		<body>&apos;%0&apos; is an invalid name. Please enter another name.</body>
+		<body>&apos;%0&apos; é um nome inválido. Insira outro nome.</body>
 	</string>
 	<string>
 		<id>902787</id>
 		<name>STR_TOOLTIP_PORTAL_NAME</name>
-		<body>Passage Name</body>
+		<body>Nome da Passagem</body>
 	</string>
 	<string>
 		<id>902788</id>
 		<name>STR_TOOLTIP_PORTAL_NAME_DIRECT_PORTAL</name>
-		<body>Rift</body>
+		<body>Fenda</body>
 	</string>
 	<string>
 		<id>902789</id>
 		<name>STR_TOOLTIP_PORTAL_USE_LEVEL</name>
-		<body>Used by Levels</body>
+		<body>Usado pelos Níveis</body>
 	</string>
 	<string>
 		<id>902790</id>
 		<name>STR_TOOLTIP_PORTAL_USE_LEFT</name>
-		<body>Remaining Usage</body>
+		<body>Usos Restantes</body>
 	</string>
 	<string>
 		<id>902791</id>
 		<name>STR_TOOLTIP_PORTAL_USE_TIME_LEFT</name>
-		<body>Time Remaining</body>
+		<body>Tempo Restante</body>
 	</string>
 	<string>
 		<id>902792</id>
@@ -14150,7 +14150,7 @@
 	<string>
 		<id>902793</id>
 		<name>STR_TOOLTIP_PORTAL_USE_LEFT_NUM</name>
-		<body>%0 times</body>
+		<body>%0 vezes</body>
 	</string>
 	<string>
 		<id>902794</id>
@@ -14240,17 +14240,17 @@
 	<string>
 		<id>902811</id>
 		<name>STR_ITEM_ENCHANT_MATERIAL_USE_NONE</name>
-		<body>No Supplements</body>
+		<body>Sem suplementos</body>
 	</string>
 	<string>
 		<id>902812</id>
 		<name>STR_MSGBOX_AKS_ENTER_PK_SERVER</name>
-		<body>&lt;p&gt;This game area is a free PK area. Abide by the rules and you will have a great gaming experience.&lt;/p&gt;</body>
+		<body>&lt;p&gt;Esta área de jogo é uma área de PK livre. Cumpra as regras e você terá uma ótima experiência de jogo.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902813</id>
 		<name>STR_MSGBOX_AKS_ENTER_PK_SERVER_CONFIRM</name>
-		<body>I agree to free PK.</body>
+		<body>Eu concordo com o PK livre.</body>
 	</string>
 	<string>
 		<id>902814</id>
@@ -14265,32 +14265,32 @@
 	<string>
 		<id>902816</id>
 		<name>STR_ACTION_PET_PC_CARE</name>
-		<body>Pet Pampering</body>
+		<body>Mimos do Mascote</body>
 	</string>
 	<string>
 		<id>902817</id>
 		<name>STR_TOOLTIP_ACTION_PET_PC_CARE</name>
-		<body>Check your pet’s mood and use special pet emotes to interact with it. Your pet might sulk if you don’t give it any attention for 30 seconds after checking its mood. You need to learn pet emotes before you can use them.</body>
+		<body>Verifique o humor do seu mascote e use emotes especiais de mascote para interagir com ele. Seu mascote pode ficar de mau humor se você não der atenção a ele por 30 segundos depois de verificar seu humor. Você precisa aprender os emotes do mascote antes de poder usá-los.</body>
 	</string>
 	<string>
 		<id>902818</id>
 		<name>STR_ACTION_PET_PC_REWARD</name>
-		<body>Pet Reward</body>
+		<body>Recompensa do Mascote</body>
 	</string>
 	<string>
 		<id>902819</id>
 		<name>STR_TOOLTIP_ACTION_PET_PC_REWARD</name>
-		<body>Your pet will dig out buried items and give them to you. You can only ask a pet to do that for you if it’s happy enough.</body>
+		<body>Seu mascote irá desenterrar itens e entregá-los a você. Você só pode pedir a um mascote para fazer isso por você se ele estiver feliz o suficiente.</body>
 	</string>
 	<string>
 		<id>902820</id>
 		<name>STR_TOOLTIP_PET_CARE_CONDITION</name>
-		<body>Only possible when the pet is happy (100%).</body>
+		<body>Só é possível quando o mascote está feliz (100%).</body>
 	</string>
 	<string>
 		<id>902821</id>
 		<name>STR_TOOLTIP_PET_CONDITION_01</name>
-		<body>Summoning and spending time with a pet will improve its mood. Your pet’s mood will lower if you don’t call upon it again within 10 minutes, or if you call upon another pet instead.</body>
+		<body>Summoning and spending time with a mascote will improve its mood. Your pet’s mood will lower if you don’t call upon it again within 10 minutes, or if you call upon another mascote instead.</body>
 	</string>
 	<string>
 		<id>902822</id>
@@ -14320,12 +14320,12 @@
 	<string>
 		<id>902827</id>
 		<name>STR_TOOLTIP_PET_CONDITION_TITLE</name>
-		<body>Pet Mood</body>
+		<body>Mascote Mood</body>
 	</string>
 	<string>
 		<id>902828</id>
 		<name>STR_TOOLTIP_PET_CARE_UNDER_CONDITION</name>
-		<body>You can only use emotes when your pet isn’t completely happy (100%).</body>
+		<body>You can only use emotes when your mascote isn’t completely happy (100%).</body>
 	</string>
 	<string>
 		<id>902829</id>
@@ -14956,7 +14956,7 @@
 	<string>
 		<id>903011</id>
 		<name>STR_TAP_TOYPET_DOPING</name>
-		<body>Pet Buff Bag</body>
+		<body>Mascote Buff Bag</body>
 	</string>
 	<string>
 		<id>903012</id>
@@ -14966,7 +14966,7 @@
 	<string>
 		<id>903013</id>
 		<name>STR_TAP_TOYPET_DOPING_DESC</name>
-		<body>Your pet will automatically use more food and magical items from the Pet Buff Bag before their effects run out.</body>
+		<body>Your mascote will automatically use more food and magical items from the Mascote Buff Bag before their effects run out.</body>
 	</string>
 	<string>
 		<id>903014</id>
@@ -14996,7 +14996,7 @@
 	<string>
 		<id>903019</id>
 		<name>STR_TOOLTIP_ACTION_PET_DOOPING</name>
-		<body>Order the pet or minion to automatically use food and magical items in your cube to apply buffs. Items will be used in the registered order.</body>
+		<body>Order the mascote or minion to automatically use food and magical items in your cube to apply buffs. Items will be used in the registered order.</body>
 	</string>
 	<string>
 		<id>903020</id>
@@ -15006,12 +15006,12 @@
 	<string>
 		<id>903021</id>
 		<name>STR_TOOLTIP_ACTION_PET_LOOTING</name>
-		<body>Order the pet to collect any items you leave behind. Your pet will be unable to pick up certain items, such as those that Group Distribution prevents you from picking up.</body>
+		<body>Order the mascote to collect any items you leave behind. Your mascote will be unable to pick up certain items, such as those that Group Distribution prevents you from picking up.</body>
 	</string>
 	<string>
 		<id>903022</id>
 		<name>STR_MSG_DOPING_PET_POPUP01</name>
-		<body>This pet already has an item, and it cannot be used together with the item you’ve selected. Do you want to remove the current item and add the selected item instead?</body>
+		<body>This mascote already has an item, and it cannot be used together with the item you’ve selected. Do you want to remove the current item and add the selected item instead?</body>
 	</string>
 	<string>
 		<id>903023</id>
@@ -17186,7 +17186,7 @@
 	<string>
 		<id>903464</id>
 		<name>STR_EXTEND_TIME_POPUP_EXPIRE_ITEM</name>
-		<body>Adopting multiple pets of the same type increases the amount of time they accompany you. The adopted pet egg will be removed and cannot be recovered. Are you sure you want to adopt %0?</body>
+		<body>Adopting multiple pets of the same type increases the amount of time they accompany you. The adopted mascote egg will be removed and cannot be recovered. Are you sure you want to adopt %0?</body>
 	</string>
 	<string>
 		<id>903465</id>
@@ -17801,12 +17801,12 @@
 	<string>
 		<id>903587</id>
 		<name>STR_TOOLTIP_TOYPET_CAN_EXTEND_EXPIRED_TIME</name>
-		<body>Increases the remaining time for a pet.</body>
+		<body>Increases the remaining time for a mascote.</body>
 	</string>
 	<string>
 		<id>903588</id>
 		<name>STR_MSGBOX_TOYPET_EXTEND_EXPIRED_TIME</name>
-		<body>Adopting multiple pets of the same type increases the amount of time they accompany you. The adopted pet egg will be removed and cannot be recovered. Are you sure you want to adopt %0?</body>
+		<body>Adopting multiple pets of the same type increases the amount of time they accompany you. The adopted mascote egg will be removed and cannot be recovered. Are you sure you want to adopt %0?</body>
 	</string>
 	<string>
 		<id>903589</id>
@@ -18176,7 +18176,7 @@
 	<string>
 		<id>904077</id>
 		<name>STR_IDARENA_PVP_ANONYMOUS_PET</name>
-		<body>Contestant&apos;s Pet</body>
+		<body>Contestant&apos;s Mascote</body>
 	</string>
 	<string>
 		<id>904078</id>
@@ -18716,7 +18716,7 @@
 	<string>
 		<id>904185</id>
 		<name>STR_S1_Pass_Weekly_03_DESC</name>
-		<body>Improve your pet’s mood with some Pet Pampering.</body>
+		<body>Improve your pet’s mood with some Mascote Pampering.</body>
 	</string>
 	<string>
 		<id>904186</id>
@@ -19151,7 +19151,7 @@
 	<string>
 		<id>904272</id>
 		<name>STR_S1_Pass_Weekly_03_HTML</name>
-		<body>Open the pack you received as a gift from the pet.</body>
+		<body>Open the pack you received as a gift from the mascote.</body>
 	</string>
 	<string>
 		<id>904273</id>
@@ -19571,7 +19571,7 @@
 	<string>
 		<id>904356</id>
 		<name>STR_S2_Pass_Weekly_02_DESC</name>
-		<body>Improve your pet’s mood with some Pet Pampering.</body>
+		<body>Improve your pet’s mood with some Mascote Pampering.</body>
 	</string>
 	<string>
 		<id>904357</id>
@@ -19681,7 +19681,7 @@
 	<string>
 		<id>904378</id>
 		<name>STR_S2_Pass_Weekly_02_HTML</name>
-		<body>Open the pack you received as a gift from the pet.</body>
+		<body>Open the pack you received as a gift from the mascote.</body>
 	</string>
 	<string>
 		<id>904379</id>
@@ -20001,7 +20001,7 @@
 	<string>
 		<id>904442</id>
 		<name>STR_S3_Pass_Weekly_02_DESC</name>
-		<body>Improve your pet’s mood with some Pet Pampering.</body>
+		<body>Improve your pet’s mood with some Mascote Pampering.</body>
 	</string>
 	<string>
 		<id>904443</id>
@@ -20121,7 +20121,7 @@
 	<string>
 		<id>904466</id>
 		<name>STR_S3_Pass_Weekly_02_HTML</name>
-		<body>[Standard] Open the pack you received as a gift from the pet.</body>
+		<body>[Standard] Open the pack you received as a gift from the mascote.</body>
 	</string>
 	<string>
 		<id>904467</id>
@@ -20476,7 +20476,7 @@
 	<string>
 		<id>904537</id>
 		<name>STR_S3_Multi_Pass_Weekly_03_DESC</name>
-		<body>Improve your pet’s mood with some Pet Pampering.</body>
+		<body>Improve your pet’s mood with some Mascote Pampering.</body>
 	</string>
 	<string>
 		<id>904538</id>
@@ -20591,7 +20591,7 @@
 	<string>
 		<id>904560</id>
 		<name>STR_S3_Multi_Pass_Weekly_03_HTML</name>
-		<body>[Novice] Open the pack you received as a gift from the pet.</body>
+		<body>[Novice] Open the pack you received as a gift from the mascote.</body>
 	</string>
 	<string>
 		<id>904561</id>
@@ -20866,7 +20866,7 @@
 	<string>
 		<id>904615</id>
 		<name>STR_S4_Pass_Weekly_02_DESC</name>
-		<body>Improve your pet’s mood with some Pet Pampering.</body>
+		<body>Improve your pet’s mood with some Mascote Pampering.</body>
 	</string>
 	<string>
 		<id>904616</id>
@@ -20986,7 +20986,7 @@
 	<string>
 		<id>904639</id>
 		<name>STR_S4_Pass_Weekly_02_HTML</name>
-		<body>[Standard] Open the pack you received as a gift from the pet.</body>
+		<body>[Standard] Open the pack you received as a gift from the mascote.</body>
 	</string>
 	<string>
 		<id>904640</id>
@@ -21226,7 +21226,7 @@
 	<string>
 		<id>904687</id>
 		<name>STR_S4_Multi_Pass_Weekly_03_DESC</name>
-		<body>Improve your pet’s mood with some Pet Pampering.</body>
+		<body>Improve your pet’s mood with some Mascote Pampering.</body>
 	</string>
 	<string>
 		<id>904688</id>
@@ -21341,7 +21341,7 @@
 	<string>
 		<id>904710</id>
 		<name>STR_S4_Multi_Pass_Weekly_03_HTML</name>
-		<body>[Novice] Open the pack you received as a gift from the pet.</body>
+		<body>[Novice] Open the pack you received as a gift from the mascote.</body>
 	</string>
 	<string>
 		<id>904711</id>
@@ -21576,7 +21576,7 @@
 	<string>
 		<id>904757</id>
 		<name>STR_S5_Pass_Weekly_02_DESC</name>
-		<body>Improve your pet’s mood with some Pet Pampering.</body>
+		<body>Improve your pet’s mood with some Mascote Pampering.</body>
 	</string>
 	<string>
 		<id>904758</id>
@@ -21696,7 +21696,7 @@
 	<string>
 		<id>904781</id>
 		<name>STR_S5_Pass_Weekly_02_HTML</name>
-		<body>[Standard] Open the pack you received as a gift from the pet.</body>
+		<body>[Standard] Open the pack you received as a gift from the mascote.</body>
 	</string>
 	<string>
 		<id>904782</id>
@@ -21936,7 +21936,7 @@
 	<string>
 		<id>904829</id>
 		<name>STR_S5_Multi_Pass_Weekly_03_DESC</name>
-		<body>Improve your pet’s mood with some Pet Pampering.</body>
+		<body>Improve your pet’s mood with some Mascote Pampering.</body>
 	</string>
 	<string>
 		<id>904830</id>
@@ -22051,7 +22051,7 @@
 	<string>
 		<id>904852</id>
 		<name>STR_S5_Multi_Pass_Weekly_03_HTML</name>
-		<body>[Novice] Open the pack you received as a gift from the pet.</body>
+		<body>[Novice] Open the pack you received as a gift from the mascote.</body>
 	</string>
 	<string>
 		<id>904853</id>
@@ -22371,7 +22371,7 @@
 	<string>
 		<id>904916</id>
 		<name>STR_S6_Pass_Weekly_02_DESC</name>
-		<body>Improve your pet’s mood with some Pet Pampering.</body>
+		<body>Improve your pet’s mood with some Mascote Pampering.</body>
 	</string>
 	<string>
 		<id>904917</id>
@@ -22491,7 +22491,7 @@
 	<string>
 		<id>904940</id>
 		<name>STR_S6_Pass_Weekly_02_HTML</name>
-		<body>[Standard] Open the pack you received as a gift from the pet.</body>
+		<body>[Standard] Open the pack you received as a gift from the mascote.</body>
 	</string>
 	<string>
 		<id>904941</id>
@@ -22731,7 +22731,7 @@
 	<string>
 		<id>904988</id>
 		<name>STR_S6_Multi_Pass_Weekly_03_DESC</name>
-		<body>Improve your pet’s mood with some Pet Pampering.</body>
+		<body>Improve your pet’s mood with some Mascote Pampering.</body>
 	</string>
 	<string>
 		<id>904989</id>
@@ -22846,7 +22846,7 @@
 	<string>
 		<id>905011</id>
 		<name>STR_S6_Multi_Pass_Weekly_03_HTML</name>
-		<body>[Novice] Open the pack you received as a gift from the pet.</body>
+		<body>[Novice] Open the pack you received as a gift from the mascote.</body>
 	</string>
 	<string>
 		<id>905012</id>
@@ -23076,7 +23076,7 @@
 	<string>
 		<id>905057</id>
 		<name>STR_S7_Pass_Weekly_02_DESC</name>
-		<body>Improve your pet’s mood with some Pet Pampering.</body>
+		<body>Improve your pet’s mood with some Mascote Pampering.</body>
 	</string>
 	<string>
 		<id>905058</id>
@@ -23196,7 +23196,7 @@
 	<string>
 		<id>905081</id>
 		<name>STR_S7_Pass_Weekly_02_HTML</name>
-		<body>[Standard] Open the pack you received as a gift from the pet.</body>
+		<body>[Standard] Open the pack you received as a gift from the mascote.</body>
 	</string>
 	<string>
 		<id>905082</id>
@@ -23436,7 +23436,7 @@
 	<string>
 		<id>905129</id>
 		<name>STR_S7_Multi_Pass_Weekly_03_DESC</name>
-		<body>Improve your pet’s mood with some Pet Pampering.</body>
+		<body>Improve your pet’s mood with some Mascote Pampering.</body>
 	</string>
 	<string>
 		<id>905130</id>
@@ -23551,7 +23551,7 @@
 	<string>
 		<id>905152</id>
 		<name>STR_S7_Multi_Pass_Weekly_03_HTML</name>
-		<body>[Novice] Open the pack you received as a gift from the pet.</body>
+		<body>[Novice] Open the pack you received as a gift from the mascote.</body>
 	</string>
 	<string>
 		<id>905153</id>
@@ -23886,7 +23886,7 @@
 	<string>
 		<id>905219</id>
 		<name>STR_S8_Pass_Weekly_02_DESC</name>
-		<body>Improve your pet’s mood with some Pet Pampering.</body>
+		<body>Improve your pet’s mood with some Mascote Pampering.</body>
 	</string>
 	<string>
 		<id>905220</id>
@@ -24006,7 +24006,7 @@
 	<string>
 		<id>905243</id>
 		<name>STR_S8_Pass_Weekly_02_HTML</name>
-		<body>[Standard] Open the pack you received as a gift from the pet.</body>
+		<body>[Standard] Open the pack you received as a gift from the mascote.</body>
 	</string>
 	<string>
 		<id>905244</id>
@@ -24246,7 +24246,7 @@
 	<string>
 		<id>905291</id>
 		<name>STR_S8_Multi_Pass_Weekly_03_DESC</name>
-		<body>Improve your pet’s mood with some Pet Pampering.</body>
+		<body>Improve your pet’s mood with some Mascote Pampering.</body>
 	</string>
 	<string>
 		<id>905292</id>
@@ -24361,7 +24361,7 @@
 	<string>
 		<id>905314</id>
 		<name>STR_S8_Multi_Pass_Weekly_03_HTML</name>
-		<body>[Novice] Open the pack you received as a gift from the pet.</body>
+		<body>[Novice] Open the pack you received as a gift from the mascote.</body>
 	</string>
 	<string>
 		<id>905315</id>
@@ -24616,7 +24616,7 @@
 	<string>
 		<id>905365</id>
 		<name>STR_S9_Pass_Weekly_02_DESC</name>
-		<body>Improve your pet’s mood with some Pet Pampering.</body>
+		<body>Improve your pet’s mood with some Mascote Pampering.</body>
 	</string>
 	<string>
 		<id>905366</id>
@@ -24736,7 +24736,7 @@
 	<string>
 		<id>905389</id>
 		<name>STR_S9_Pass_Weekly_02_HTML</name>
-		<body>[Standard] Open the pack you received as a gift from the pet.</body>
+		<body>[Standard] Open the pack you received as a gift from the mascote.</body>
 	</string>
 	<string>
 		<id>905390</id>
@@ -24976,7 +24976,7 @@
 	<string>
 		<id>905437</id>
 		<name>STR_S9_Multi_Pass_Weekly_03_DESC</name>
-		<body>Improve your pet’s mood with some Pet Pampering.</body>
+		<body>Improve your pet’s mood with some Mascote Pampering.</body>
 	</string>
 	<string>
 		<id>905438</id>
@@ -25091,7 +25091,7 @@
 	<string>
 		<id>905460</id>
 		<name>STR_S9_Multi_Pass_Weekly_03_HTML</name>
-		<body>[Novice] Open the pack you received as a gift from the pet.</body>
+		<body>[Novice] Open the pack you received as a gift from the mascote.</body>
 	</string>
 	<string>
 		<id>905461</id>
@@ -25471,7 +25471,7 @@
 	<string>
 		<id>905536</id>
 		<name>STR_UI_WARDROBE_CHANGE_SKIN_CONFIRM_DESC</name>
-		<body>Do you want to change the appearance of &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; with &lt;font color=&quot;ffff00&quot;&gt;%1&lt;/font&gt;?&lt;br&gt;Until the Wardrobe Skin is removed, &lt;font color=&quot;ff0000&quot;&gt;it will not be possible&lt;/font&gt; to store it in the Account Warehouse, Legion Warehouse and Pet Bag, or do an appearance extraction or (temporarily) trade it.</body>
+		<body>Do you want to change the appearance of &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; with &lt;font color=&quot;ffff00&quot;&gt;%1&lt;/font&gt;?&lt;br&gt;Until the Wardrobe Skin is removed, &lt;font color=&quot;ff0000&quot;&gt;it will not be possible&lt;/font&gt; to store it in the Account Warehouse, Legion Warehouse and Mascote Bag, or do an appearance extraction or (temporarily) trade it.</body>
 	</string>
 	<string>
 		<id>905537</id>
@@ -25722,7 +25722,7 @@
 	<string>
 		<id>905586</id>
 		<name>STR_S10_Pass_Weekly_02_DESC</name>
-		<body>Improve your pet’s mood with some pet pampering.</body>
+		<body>Improve your pet’s mood with some mascote pampering.</body>
 	</string>
 	<string>
 		<id>905587</id>
@@ -25842,7 +25842,7 @@
 	<string>
 		<id>905610</id>
 		<name>STR_S10_Pass_Weekly_02_HTML</name>
-		<body>[Standard] Open the pack you received as a gift from the pet.</body>
+		<body>[Standard] Open the pack you received as a gift from the mascote.</body>
 	</string>
 	<string>
 		<id>905611</id>
@@ -26082,7 +26082,7 @@
 	<string>
 		<id>905658</id>
 		<name>STR_S10_Multi_Pass_Weekly_03_DESC</name>
-		<body>Improve your pet’s mood with some pet pampering.</body>
+		<body>Improve your pet’s mood with some mascote pampering.</body>
 	</string>
 	<string>
 		<id>905659</id>
@@ -26197,7 +26197,7 @@
 	<string>
 		<id>905681</id>
 		<name>STR_S10_Multi_Pass_Weekly_03_HTML</name>
-		<body>[Novice] Open the pack you received as a gift from the pet.</body>
+		<body>[Novice] Open the pack you received as a gift from the mascote.</body>
 	</string>
 	<string>
 		<id>905682</id>
@@ -26427,7 +26427,7 @@
 	<string>
 		<id>905727</id>
 		<name>STR_S11_Pass_Weekly_02_DESC</name>
-		<body>Improve your pet’s mood with some pet pampering.</body>
+		<body>Improve your pet’s mood with some mascote pampering.</body>
 	</string>
 	<string>
 		<id>905728</id>
@@ -26547,7 +26547,7 @@
 	<string>
 		<id>905751</id>
 		<name>STR_S11_Pass_Weekly_02_HTML</name>
-		<body>[Standard] Open the pack you received as a gift from the pet.</body>
+		<body>[Standard] Open the pack you received as a gift from the mascote.</body>
 	</string>
 	<string>
 		<id>905752</id>
@@ -26787,7 +26787,7 @@
 	<string>
 		<id>905799</id>
 		<name>STR_S11_Multi_Pass_Weekly_03_DESC</name>
-		<body>Improve your pet’s mood with some pet pampering.</body>
+		<body>Improve your pet’s mood with some mascote pampering.</body>
 	</string>
 	<string>
 		<id>905800</id>
@@ -26902,7 +26902,7 @@
 	<string>
 		<id>905822</id>
 		<name>STR_S11_Multi_Pass_Weekly_03_HTML</name>
-		<body>[Novice] Open the pack you received as a gift from the pet.</body>
+		<body>[Novice] Open the pack you received as a gift from the mascote.</body>
 	</string>
 	<string>
 		<id>905823</id>
@@ -27224,7 +27224,7 @@
 	<string>
 		<id>905886</id>
 		<name>STR_WORLD_S3_Pass_Weekly_02_DESC</name>
-		<body>Improve your pet’s mood with some Pet Pampering.</body>
+		<body>Improve your pet’s mood with some Mascote Pampering.</body>
 	</string>
 	<string>
 		<id>905887</id>
@@ -27339,7 +27339,7 @@
 	<string>
 		<id>905909</id>
 		<name>STR_S3_WORLD_Pass_Weekly_02_HTML</name>
-		<body>Open the pack you received as a gift from the pet.</body>
+		<body>Open the pack you received as a gift from the mascote.</body>
 	</string>
 	<string>
 		<id>905910</id>
@@ -27739,7 +27739,7 @@
 	<string>
 		<id>905989</id>
 		<name>STR_S12_Pass_Weekly_02_DESC</name>
-		<body>Improve your pet’s mood with some pet pampering.</body>
+		<body>Improve your pet’s mood with some mascote pampering.</body>
 	</string>
 	<string>
 		<id>905990</id>
@@ -27859,7 +27859,7 @@
 	<string>
 		<id>906013</id>
 		<name>STR_S12_Pass_Weekly_02_HTML</name>
-		<body>[Standard] Open the pack you received as a gift from the pet.</body>
+		<body>[Standard] Open the pack you received as a gift from the mascote.</body>
 	</string>
 	<string>
 		<id>906014</id>
@@ -28099,7 +28099,7 @@
 	<string>
 		<id>906061</id>
 		<name>STR_S12_Multi_Pass_Weekly_03_DESC</name>
-		<body>Improve your pet’s mood with some pet pampering.</body>
+		<body>Improve your pet’s mood with some mascote pampering.</body>
 	</string>
 	<string>
 		<id>906062</id>
@@ -28214,7 +28214,7 @@
 	<string>
 		<id>906084</id>
 		<name>STR_S12_Multi_Pass_Weekly_03_HTML</name>
-		<body>[Novice] Open the pack you received as a gift from the pet.</body>
+		<body>[Novice] Open the pack you received as a gift from the mascote.</body>
 	</string>
 	<string>
 		<id>906085</id>
@@ -28400,7 +28400,7 @@
 	<string>
 		<id>906120</id>
 		<name>STR_S12_Event_Pass_Weekly_05_DESC</name>
-		<body>Improve your pet’s mood with some pet pampering.</body>
+		<body>Improve your pet’s mood with some mascote pampering.</body>
 		<message_type>펫의 선물 꾸러미 개봉 1회</message_type>
 	</string>
 	<string>
@@ -28484,7 +28484,7 @@
 	<string>
 		<id>906134</id>
 		<name>STR_S12_Event_Pass_Weekly_05_HTML</name>
-		<body>[Event] Open the pack you received as a gift from the pet.</body>
+		<body>[Event] Open the pack you received as a gift from the mascote.</body>
 		<message_type>펫의 선물 꾸러미 개봉 1회</message_type>
 	</string>
 	<string>
@@ -28688,7 +28688,7 @@
 	<string>
 		<id>906173</id>
 		<name>STR_S5_WORLD_Pass_Weekly_02_DESC</name>
-		<body>Improve your pet’s mood with some Pet Pampering.</body>
+		<body>Improve your pet’s mood with some Mascote Pampering.</body>
 	</string>
 	<string>
 		<id>906174</id>
@@ -28808,7 +28808,7 @@
 	<string>
 		<id>906197</id>
 		<name>STR_S5_WORLD_Pass_Weekly_02_HTML</name>
-		<body>[Standard] Open the pack you received as a gift from the pet.</body>
+		<body>[Standard] Open the pack you received as a gift from the mascote.</body>
 	</string>
 	<string>
 		<id>906198</id>
@@ -29458,7 +29458,7 @@
 	<string>
 		<id>906327</id>
 		<name>STR_S13_Pass_Weekly_02_DESC</name>
-		<body>Improve your pet’s mood with some Pet Pampering.</body>
+		<body>Improve your pet’s mood with some Mascote Pampering.</body>
 	</string>
 	<string>
 		<id>906328</id>
@@ -29578,7 +29578,7 @@
 	<string>
 		<id>906351</id>
 		<name>STR_S13_Pass_Weekly_02_HTML</name>
-		<body>[Standard] Open the pack you received as a gift from the pet.</body>
+		<body>[Standard] Open the pack you received as a gift from the mascote.</body>
 	</string>
 	<string>
 		<id>906352</id>
@@ -29804,7 +29804,7 @@
 	<string>
 		<id>906396</id>
 		<name>STR_S1_Return_Pass_Daily_03_DESC</name>
-		<body>Can also be used with the pet function Buff Master.</body>
+		<body>Can also be used with the mascote function Buff Master.</body>
 	</string>
 	<string>
 		<id>906397</id>
@@ -30139,7 +30139,7 @@
 	<string>
 		<id>906463</id>
 		<name>STR_S14_Multi_Pass_Daily_03_DESC</name>
-		<body>Can also be used with the pet function Buff Master.</body>
+		<body>Can also be used with the mascote function Buff Master.</body>
 	</string>
 	<string>
 		<id>906464</id>
@@ -30164,7 +30164,7 @@
 	<string>
 		<id>906468</id>
 		<name>STR_S14_Multi_Pass_Weekly_03_DESC</name>
-		<body>Can also be used with the pet function Buff Master.</body>
+		<body>Can also be used with the mascote function Buff Master.</body>
 	</string>
 	<string>
 		<id>906469</id>
@@ -30454,7 +30454,7 @@
 	<string>
 		<id>906526</id>
 		<name>STR_S14_Pass_Daily_03_DESC</name>
-		<body>Can also be used with the pet function Buff Master.</body>
+		<body>Can also be used with the mascote function Buff Master.</body>
 	</string>
 	<string>
 		<id>906527</id>
@@ -30484,7 +30484,7 @@
 	<string>
 		<id>906532</id>
 		<name>STR_S14_Pass_Weekly_04_DESC</name>
-		<body>Can also be used with the pet function Buff Master.</body>
+		<body>Can also be used with the mascote function Buff Master.</body>
 	</string>
 	<string>
 		<id>906533</id>
@@ -30824,7 +30824,7 @@
 	<string>
 		<id>906600</id>
 		<name>STR_S13_Multi_Pass_Weekly_03_DESC</name>
-		<body>Improve your pet’s mood with some Pet Pampering.</body>
+		<body>Improve your pet’s mood with some Mascote Pampering.</body>
 	</string>
 	<string>
 		<id>906601</id>
@@ -30939,7 +30939,7 @@
 	<string>
 		<id>906623</id>
 		<name>STR_S13_Multi_Pass_Weekly_03_HTML</name>
-		<body>[Novice] Open the pack you received as a gift from the pet.</body>
+		<body>[Novice] Open the pack you received as a gift from the mascote.</body>
 	</string>
 	<string>
 		<id>906624</id>
@@ -31104,7 +31104,7 @@
 	<string>
 		<id>906656</id>
 		<name>STR_S14_Event_Pass_Weekly_02_DESC</name>
-		<body>Can also be used with the pet function Buff Master.</body>
+		<body>Can also be used with the mascote function Buff Master.</body>
 	</string>
 	<string>
 		<id>906657</id>
@@ -31234,7 +31234,7 @@
 	<string>
 		<id>906682</id>
 		<name>STR_IDPogusgame_ANONYMOUS_PET</name>
-		<body>Participant’s Pet</body>
+		<body>Participant’s Mascote</body>
 	</string>
 	<string>
 		<id>906683</id>
@@ -31394,7 +31394,7 @@
 	<string>
 		<id>906714</id>
 		<name>STR_S5_WORLD_CN_Multi_Pass_Weekly_03_DESC</name>
-		<body>Improve your pet’s mood with some Pet Pampering.</body>
+		<body>Improve your pet’s mood with some Mascote Pampering.</body>
 	</string>
 	<string>
 		<id>906715</id>
@@ -31509,7 +31509,7 @@
 	<string>
 		<id>906737</id>
 		<name>STR_S5_WORLD_CN_Multi_Pass_Weekly_03_HTML</name>
-		<body>[Novice] Open the pack you received as a gift from the pet.</body>
+		<body>[Novice] Open the pack you received as a gift from the mascote.</body>
 	</string>
 	<string>
 		<id>906738</id>
@@ -31744,7 +31744,7 @@
 	<string>
 		<id>906784</id>
 		<name>STR_S6_WORLD_Pass_Weekly_02_DESC</name>
-		<body>Improve your pet’s mood with some Pet Pampering.</body>
+		<body>Improve your pet’s mood with some Mascote Pampering.</body>
 	</string>
 	<string>
 		<id>906785</id>
@@ -31864,7 +31864,7 @@
 	<string>
 		<id>906808</id>
 		<name>STR_S6_WORLD_Pass_Weekly_02_HTML</name>
-		<body>[Standard] Open the pack you received as a gift from the pet.</body>
+		<body>[Standard] Open the pack you received as a gift from the mascote.</body>
 	</string>
 	<string>
 		<id>906809</id>
@@ -32129,7 +32129,7 @@
 	<string>
 		<id>906862</id>
 		<name>STR_S16_Event_Pass_Weekly_02_DESC</name>
-		<body>Can also be used with the pet function Buff Master.</body>
+		<body>Can also be used with the mascote function Buff Master.</body>
 	</string>
 	<string>
 		<id>906863</id>
@@ -32404,7 +32404,7 @@
 	<string>
 		<id>906917</id>
 		<name>STR_S7_WORLD_Pass_Weekly_02_DESC</name>
-		<body>You can improve the pet’s mood through Pet Pampering.</body>
+		<body>You can improve the pet’s mood through Mascote Pampering.</body>
 	</string>
 	<string>
 		<id>906918</id>
@@ -32524,7 +32524,7 @@
 	<string>
 		<id>906941</id>
 		<name>STR_S7_WORLD_Pass_Weekly_02_HTML</name>
-		<body>[Standard] Open the pack you received as a gift from the pet.</body>
+		<body>[Standard] Open the pack you received as a gift from the mascote.</body>
 	</string>
 	<string>
 		<id>906942</id>
@@ -32749,7 +32749,7 @@
 	<string>
 		<id>906986</id>
 		<name>STR_S1_Special_Event_Pass_Daily_02_DESC</name>
-		<body>Can also be used with the pet function Buff Master.</body>
+		<body>Can also be used with the mascote function Buff Master.</body>
 	</string>
 	<string>
 		<id>906987</id>
@@ -32964,7 +32964,7 @@
 	<string>
 		<id>907029</id>
 		<name>STR_S1_Beginner_Pass_Daily_03_DESC</name>
-		<body>Can also be used with the pet function Buff Master.</body>
+		<body>Can also be used with the mascote function Buff Master.</body>
 	</string>
 	<string>
 		<id>907030</id>
@@ -32989,7 +32989,7 @@
 	<string>
 		<id>907034</id>
 		<name>STR_S1_Beginner_Pass_Weekly_03_DESC</name>
-		<body>Can also be used with the pet function Buff Master.</body>
+		<body>Can also be used with the mascote function Buff Master.</body>
 	</string>
 	<string>
 		<id>907035</id>
@@ -33764,7 +33764,7 @@
 	<string>
 		<id>907287</id>
 		<name>STR_S2_Special_Event_Pass_Daily_02_DESC</name>
-		<body>Can also be used with the pet function Buff Master.</body>
+		<body>Can also be used with the mascote function Buff Master.</body>
 	</string>
 	<string>
 		<id>907288</id>
@@ -33894,7 +33894,7 @@
 	<string>
 		<id>907313</id>
 		<name>STR_S20_Event_Pass_Weekly_02_DESC</name>
-		<body>Can also be used with the pet function Buff Master.</body>
+		<body>Can also be used with the mascote function Buff Master.</body>
 	</string>
 	<string>
 		<id>907314</id>
@@ -34339,7 +34339,7 @@
 	<string>
 		<id>907473</id>
 		<name>SRT_PET_WAREHOUSE_KEYMAP_TITLE</name>
-		<body>Integrated Pet Bag</body>
+		<body>Integrated Mascote Bag</body>
 	</string>
 	<string>
 		<id>907474</id>
@@ -34974,7 +34974,7 @@
 	<string>
 		<id>907734</id>
 		<name>STR_S5_US_Event_Pass_Weekly_02_DESC</name>
-		<body>Can also be used with the pet function Buff Master.</body>
+		<body>Can also be used with the mascote function Buff Master.</body>
 	</string>
 	<string>
 		<id>907735</id>

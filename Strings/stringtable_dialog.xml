@@ -2038,7 +2038,7 @@
 	<string>
 		<id>910294</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_MY_EXP_GAIN</name>
-		<body>Acquire XP</body>
+		<body>EXP/AP Adquiridos</body>
 	</string>
 	<string>
 		<id>910295</id>
