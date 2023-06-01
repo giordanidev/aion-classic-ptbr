@@ -3541,7 +3541,7 @@
 	<string>
 		<id>900288</id>
 		<name>STR_ACCURACY</name>
-		<body>Precisão</body>
+		<body>Precisão Física</body>
 	</string>
 	<string>
 		<id>900289</id>
@@ -4761,7 +4761,7 @@
 	<string>
 		<id>900532</id>
 		<name>STR_TOOLTIP_SKILL_STAT_AGI</name>
-		<body>Precisão</body>
+		<body>Precisão Física</body>
 	</string>
 	<string>
 		<id>900533</id>
@@ -11250,7 +11250,7 @@
 	<string>
 		<id>901871</id>
 		<name>STR_INSTANT_DUNGEON_GROUP_ENTER_LEADER</name>
-		<body>Entrada em Grupo de %0</body>
+		<body>Grupo de %0</body>
 	</string>
 	<string>
 		<id>901872</id>
@@ -11470,12 +11470,12 @@
 	<string>
 		<id>901916</id>
 		<name>STR_INSTANT_DUNGEON_WAITING_INFO_PARTY_MATCH</name>
-		<body>Formação do grupo em andamento %0</body>
+		<body>Grupo em formação %0</body>
 	</string>
 	<string>
 		<id>901917</id>
 		<name>STR_INSTANT_DUNGEON_WAITING_INFO_ENTER_READY</name>
-		<body>Formação do grupo oponente em andamento</body>
+		<body>Grupo em formação</body>
 	</string>
 	<string>
 		<id>901918</id>
@@ -12628,42 +12628,42 @@
 	<string>
 		<id>902147</id>
 		<name>STR_GIVE_ITEM_OPTION_USE_SUB_MATTER</name>
-		<body>&lt;p&gt;Do you want to use the ‘%0’ and %2 %1 Manastone to enhance %3?&lt;/p&gt;</body>
+		<body>&lt;p&gt;Você quer usar '%0' e %2 %1 Manastone para aprimorar %3?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902148</id>
 		<name>STR_GIVE_ITEM_OPTION_ON_COMPOUNDED_ITEM_USE_SUB_MATTER</name>
-		<body>&lt;p&gt;Do you want to use the ‘%1’ and %3 %2 Manastone on %0 to enhance %4?&lt;/p&gt;</body>
+		<body>&lt;p&gt;Você quer usar '%1' e %3 %2 Manastone em %0 para aprimorar %4?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902149</id>
 		<name>STR_GIVE_ITEM_OPTION_ON_COMPOUNDED_ITEM</name>
-		<body>&lt;p&gt;Do you want to use the ‘%1’ Manastone on %0 to enhance %2?&lt;/p&gt;</body>
+		<body>&lt;p&gt;Você quer usar a Manastone '%1' em %0 para aprimorar %2?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902150</id>
 		<name>STR_GIVE_ITEM_OPTION_WARNING</name>
-		<body>&lt;p&gt;If it fails, all of the Manastones socketed to %0 will be &lt;font color=&quot;ff0000&quot;&gt;destroyed&lt;/font&gt;&lt;/p&gt;.</body>
+		<body>&lt;p&gt;Se falhar, todas as Manastones encaixadas em %0 serão &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDAS&lt;/font&gt;&lt;/p&gt;.</body>
 	</string>
 	<string>
 		<id>902151</id>
 		<name>STR_GIVE_ITEM_OPTION_ON_COMPOUNDED_ITEM_WARNING</name>
-		<body>&lt;p&gt;If it fails, all of the %0 Manastones socketed to %1 will be &lt;font color=&quot;ff0000&quot;&gt;destroyed&lt;/font&gt;&lt;/p&gt;.</body>
+		<body>&lt;p&gt;Se falhar, todas as %0 Manastones encaixadas em %1 serão &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDAS&lt;/font&gt;&lt;/p&gt;.</body>
 	</string>
 	<string>
 		<id>902152</id>
 		<name>STR_ENCHANT_ITEM_DO_YOU_WANT_ENCHANT_ITEM_WITH_SUB_MATTER</name>
-		<body>&lt;p&gt;Use %0 and %2 %1s to enchant %3?&lt;/p&gt;</body>
+		<body>&lt;p&gt;Usar %0 e %2 %1s para encantar %3?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902153</id>
 		<name>STR_ENCHANT_ITEM_DO_YOU_WANT_ENCHANT_ITEM_ABOVE_WARNING</name>
-		<body>&lt;p&gt;If enchanting fails, the enchanting level decreases to %num0.&lt;/p&gt;</body>
+		<body>&lt;p&gt;Se o encantamento falhar, o nível de encantamento do item diminui para %num0.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902154</id>
 		<name>STR_ENCHANT_ITEM_DO_YOU_WANT_ENCHANT_ITEM_WARNING</name>
-		<body>&lt;p&gt;If enchanting fails, the enchanting level decreases by 1.&lt;/p&gt;</body>
+		<body>&lt;p&gt;Se o encantamento falhar, o nível de encantamento do item diminui em 1.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902155</id>
@@ -12678,32 +12678,32 @@
 	<string>
 		<id>902157</id>
 		<name>STR_TOOLTIP_UNDERPASS_GATE_FIELDABYSS_NAME</name>
-		<body>Passage Name</body>
+		<body>Nome da Passagem</body>
 	</string>
 	<string>
 		<id>902158</id>
 		<name>STR_TOOLTIP_BOSS_FIELDABYSS_NAME</name>
-		<body>Governor Name</body>
+		<body>Nome do Governador</body>
 	</string>
 	<string>
 		<id>902159</id>
 		<name>STR_MSGBOX_CANT_CREATE_OTHER_RACE</name>
-		<body>&lt;p&gt;You can&apos;t create an %0 character because you have %1 characters.&lt;/p&gt;&#xA;&lt;p&gt;To create an %0 character, delete all %1 characters or use another server.&lt;/p&gt;</body>
+		<body>&lt;p&gt;Você não pode criar um personagem %0 porque possui personagens %1.&lt;/p&gt;&#xA;&lt;p&gt;Para criar um personagem %0, exclua todos os personagens %1 ou escolha outro servidor.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902160</id>
 		<name>STR_ENCHANT_ITEM_BASIC_OPTION_SLOT</name>
-		<body>Basic Manastone Slot</body>
+		<body>Slots Primários de Manastone</body>
 	</string>
 	<string>
 		<id>902161</id>
 		<name>STR_ENCHANT_ITEM_COMPOUNDED_OPTION_SLOT</name>
-		<body>Combined Manastone Slot</body>
+		<body>Slots Combinados de Manastone</body>
 	</string>
 	<string>
 		<id>902162</id>
 		<name>STR_REMOVE_OPTION_COMPOUNDED_SLOT</name>
-		<body>(Combine)</body>
+		<body>(Combinado)</body>
 	</string>
 	<string>
 		<id>902163</id>

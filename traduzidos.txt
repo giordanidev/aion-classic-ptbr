@@ -1,5 +1,5 @@
 STRINGS
-> client_strings_ui.xml (parcialmente linha 12626)
+> client_strings_ui.xml (parcialmente linha 12706)
 > stringtable_dialog.xml (parcialmente)
 > client_strings_msg.xml (parcialmente)
 

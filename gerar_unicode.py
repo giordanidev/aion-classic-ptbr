@@ -1,6 +1,7 @@
 import sys, os, codecs, shutil, subprocess
 
 def encode():
+    print("INICIANDO!")
     files = ["strings\\client_strings_ui.xml",
              "strings\\client_strings_msg.xml",
              "strings\\stringtable_dialog.xml",
@@ -74,6 +75,7 @@ def encode():
             os.makedirs(os.path.dirname(dest_repack))
             print("Diretório dest_repack criado.")
     shutil.copy2(orig_repack, dest_repack)
+    print(f"Arquivo copiado: {dest_repack}")
 
     print(f"Verificando se arquivo existe: {dest_test}")
     if os.path.isfile(dest_test):
@@ -86,7 +88,7 @@ def encode():
             print("Diretório dest_test criado.")
 
     shutil.copy2(orig_repack, dest_test)
-
-    print("Instalado com sucesso!")
+    print("Arquivo de teste instalado com sucesso!")
+    print("CONCLUÍDO!")
 
 encode()
