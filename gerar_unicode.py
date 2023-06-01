@@ -2,6 +2,7 @@ import sys, os, codecs, shutil, subprocess
 
 def encode():
     files = ["strings\\client_strings_ui.xml",
+             "strings\\client_strings_msg.xml",
              "strings\\stringtable_dialog.xml",
              "cutscene\\cs_ab1_001.xml"]
 
@@ -49,7 +50,7 @@ def encode():
         contents="".join((char_unicode.get(x, x) for x in contents))
         print("Letras substituídas!")
 
-        f = open(dest, 'w', encoding='utf-8')
+        f = open(dest, 'w', encoding='utf-8', newline='')
         f.write(contents)
         print("Arquivo salvo!")
 

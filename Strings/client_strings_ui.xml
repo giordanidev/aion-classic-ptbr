@@ -2324,7 +2324,7 @@
 	<string>
 		<id>240304</id>
 		<name>STR_TOOLTIP_ACTIONKEY_ASSIST</name>
-		<body>Selecionar Alvo do meu Alvo,[%chatcmd:/SelectTargetOfTarget]</body>
+		<body>Select Target of Target</body>
 	</string>
 	<string>
 		<id>240305</id>
@@ -2344,7 +2344,7 @@
 	<string>
 		<id>240308</id>
 		<name>STR_TOOLTIP_ACTIONKEY_WEAPON_BOOST</name>
-		<body>Ativar Power Shard</body>
+		<body>Toggle Power Shard</body>
 	</string>
 	<string>
 		<id>240309</id>
@@ -5859,7 +5859,7 @@
 	<string>
 		<id>900753</id>
 		<name>STR_CHAT_CMD_GENERAL</name>
-		<body>/Say,/Falar</body>
+		<body></body>
 	</string>
 	<string>
 		<id>900754</id>
@@ -8929,17 +8929,17 @@
 	<string>
 		<id>901399</id>
 		<name>STR_CHAT_MODE_ALERT</name>
-		<body>Alert,Alerta</body>
+		<body>Alert</body>
 	</string>
 	<string>
 		<id>901400</id>
 		<name>STR_CHAT_CMD_ALERT</name>
-		<body>/Al</body>
+		<body>/Alert</body>
 	</string>
 	<string>
 		<id>901401</id>
 		<name>STR_CHAR_MODE_CMD_ALERT</name>
-		<body>/Alert,/Alerta</body>
+		<body>/Alert</body>
 	</string>
 	<string>
 		<id>901402</id>
@@ -12293,72 +12293,72 @@
 	<string>
 		<id>902080</id>
 		<name>STR_ABYSS_REWARD_MAIL_DEFENDER_SENDER_LIGHT</name>
-		<body>Sanctum Headquarters</body>
+		<body>Quartel-General de Sanctum</body>
 	</string>
 	<string>
 		<id>902081</id>
 		<name>STR_ABYSS_REWARD_MAIL_DEFENDER_TITLE_LIGHT</name>
-		<body>Defence Reward Notice</body>
+		<body>Aviso de Recompensa de Defesa</body>
 	</string>
 	<string>
 		<id>902082</id>
 		<name>STR_ABYSS_REWARD_MAIL_DEFENDER_HEADER_LIGHT</name>
-		<body>We congratulate all Elyos who achieved a resounding victory in the defence of %2 at %1 on %0.</body>
+		<body>Parabenizamos todos os Elyos que obtiveram uma vitória contundente na defesa de %2 em %1 as %0.</body>
 	</string>
 	<string>
 		<id>902083</id>
 		<name>STR_ABYSS_REWARD_MAIL_DEFENDER_BODY_LIGHT</name>
-		<body>\n\nA reward for achieving level %0 in battle.</body>
+		<body>\n\nAqui está a recompensa por atingir o nível %0 na batalha.</body>
 	</string>
 	<string>
 		<id>902084</id>
 		<name>STR_ABYSS_REWARD_MAIL_DEFENDER_TAIL_LIGHT</name>
-		<body>\n\n- Fasimedes, Governor of Sanctum</body>
+		<body>\n\n- Fasimedes, Governador de Sanctum</body>
 	</string>
 	<string>
 		<id>902085</id>
 		<name>STR_ABYSS_REWARD_MAIL_DEFENDER_SENDER_DARK</name>
-		<body>Pandaemonium Headquarters</body>
+		<body>Quartel-General de Pandaemonium</body>
 	</string>
 	<string>
 		<id>902086</id>
 		<name>STR_ABYSS_REWARD_MAIL_DEFENDER_TITLE_DARK</name>
-		<body>Defence Reward Notice</body>
+		<body>Aviso de Recompensa de Defesa</body>
 	</string>
 	<string>
 		<id>902087</id>
 		<name>STR_ABYSS_REWARD_MAIL_DEFENDER_HEADER_DARK</name>
-		<body>We congratulate all Asmodians who achieved a resounding victory in the defence of %2 at %1 on %0.</body>
+		<body>Parabenizamos todos os Asmodians que obtiveram uma vitória contundente na defesa de %2 em %1 as %0.</body>
 	</string>
 	<string>
 		<id>902088</id>
 		<name>STR_ABYSS_REWARD_MAIL_DEFENDER_BODY_DARK</name>
-		<body>\n\nA reward for achieving level %0 in battle.</body>
+		<body>\n\nAqui está a recompensa por atingir o nível %0 na batalha.</body>
 	</string>
 	<string>
 		<id>902089</id>
 		<name>STR_ABYSS_REWARD_MAIL_DEFENDER_TAIL_DARK</name>
-		<body>\n\n- Vidar, Governor of Pandaemonium</body>
+		<body>\n\n- Vidar, Governador de Pandaemonium</body>
 	</string>
 	<string>
 		<id>902090</id>
 		<name>STR_ABYSS_REWARD_MAIL_EMPTY_SENDER_LIGHT</name>
-		<body>Sanctum Headquarters</body>
+		<body>Quartel-General de Sanctum</body>
 	</string>
 	<string>
 		<id>902091</id>
 		<name>STR_ABYSS_REWARD_MAIL_EMPTY_TITLE_LIGHT</name>
-		<body>Official Announcement</body>
+		<body>Anúncio Oficial</body>
 	</string>
 	<string>
 		<id>902092</id>
 		<name>STR_ABYSS_REWARD_MAIL_EMPTY_HEADER_LIGHT</name>
-		<body>We Elyos have successfully defended %2 at %1 on %0.</body>
+		<body>Nós Elyos defendemos com sucesso %2 em %1 as %0.</body>
 	</string>
 	<string>
 		<id>902093</id>
 		<name>STR_ABYSS_REWARD_MAIL_EMPTY_BODY_LIGHT</name>
-		<body>\n\nThis reward goes only to those players who served with great merit in protecting the fortress.\n\nWe encourage you to continue in its defense.</body>
+		<body>\n\nEsta recompensa vai apenas para os jogadores que serviram com grande mérito na proteção da fortaleza.\n\nEncorajamos você a continuar defendendo.</body>
 	</string>
 	<string>
 		<id>902094</id>
@@ -12368,22 +12368,22 @@
 	<string>
 		<id>902095</id>
 		<name>STR_ABYSS_REWARD_MAIL_EMPTY_SENDER_DARK</name>
-		<body>Pandaemonium Headquarters</body>
+		<body>Quartel-General de Pandaemonium</body>
 	</string>
 	<string>
 		<id>902096</id>
 		<name>STR_ABYSS_REWARD_MAIL_EMPTY_TITLE_DARK</name>
-		<body>Official Announcement</body>
+		<body>Anúncio Oficial</body>
 	</string>
 	<string>
 		<id>902097</id>
 		<name>STR_ABYSS_REWARD_MAIL_EMPTY_HEADER_DARK</name>
-		<body>We Asmodians have successfully defended %2 at %1 on %0.</body>
+		<body>Nós Asmodians defendemos com sucesso %2 em %1 as %0.</body>
 	</string>
 	<string>
 		<id>902098</id>
 		<name>STR_ABYSS_REWARD_MAIL_EMPTY_BODY_DARK</name>
-		<body>\n\nThis reward goes only to those players who served with great merit in protecting the fortress.\n\nWe encourage you to continue in its defense.</body>
+		<body>\n\nEsta recompensa vai apenas para os jogadores que serviram com grande mérito na proteção da fortaleza.\n\nEncorajamos você a continuar defendendo.</body>
 	</string>
 	<string>
 		<id>902099</id>
@@ -12423,52 +12423,52 @@
 	<string>
 		<id>902106</id>
 		<name>STR_ABYSS_REWARD_MAIL_FAIL_SENDER_LIGHT</name>
-		<body>Sanctum Headquarters</body>
+		<body>Quartel-General de Sanctum</body>
 	</string>
 	<string>
 		<id>902107</id>
 		<name>STR_ABYSS_REWARD_MAIL_FAIL_TITLE_LIGHT</name>
-		<body>Official Announcement</body>
+		<body>Anúncio Oficial</body>
 	</string>
 	<string>
 		<id>902108</id>
 		<name>STR_ABYSS_REWARD_MAIL_FAIL_HEADER_LIGHT</name>
-		<body>We expected an enemy incursion of %2 at %1 on %0, but they seem to have given up due to the fortress&apos;s strong defence.</body>
+		<body>Esperávamos uma incursão inimiga de %2 em %1 as %0, mas eles parecem ter desistido devido à forte defesa da fortaleza.</body>
 	</string>
 	<string>
 		<id>902109</id>
 		<name>STR_ABYSS_REWARD_MAIL_FAIL_BODY_LIGHT</name>
-		<body>\n\nThis time it was nothing more than a minor skirmish, but we urge you to stay vigilant.</body>
+		<body>\n\nDesta vez, não foi nada além de uma pequena batalha, mas pedimos que você fique vigilante.</body>
 	</string>
 	<string>
 		<id>902110</id>
 		<name>STR_ABYSS_REWARD_MAIL_FAIL_TAIL_LIGHT</name>
-		<body>\n\n- Fasimedes, Governor of Sanctum</body>
+		<body>\n\n- Fasimedes, Governador de Sanctum</body>
 	</string>
 	<string>
 		<id>902111</id>
 		<name>STR_ABYSS_REWARD_MAIL_FAIL_SENDER_DARK</name>
-		<body>Pandaemonium Headquarters</body>
+		<body>Quartel-General de Pandaemonium</body>
 	</string>
 	<string>
 		<id>902112</id>
 		<name>STR_ABYSS_REWARD_MAIL_FAIL_TITLE_DARK</name>
-		<body>Official Announcement</body>
+		<body>Anúncio Oficial</body>
 	</string>
 	<string>
 		<id>902113</id>
 		<name>STR_ABYSS_REWARD_MAIL_FAIL_HEADER_DARK</name>
-		<body>We expected an enemy incursion of %2 at %1 on %0, but they seem to have given up due to the fortress&apos;s strong defence.</body>
+		<body>Esperávamos uma incursão inimiga de %2 em %1 as %0, mas eles parecem ter desistido devido à forte defesa da fortaleza.</body>
 	</string>
 	<string>
 		<id>902114</id>
 		<name>STR_ABYSS_REWARD_MAIL_FAIL_BODY_DARK</name>
-		<body>\n\nThis time it was nothing more than a minor skirmish, but we urge you to stay vigilant.</body>
+		<body>\n\nDesta vez, não foi nada além de uma pequena batalha, mas pedimos que você fique vigilante.</body>
 	</string>
 	<string>
 		<id>902115</id>
 		<name>STR_ABYSS_REWARD_MAIL_FAIL_TAIL_DARK</name>
-		<body>\n\n- Vidar, Governor of Pandaemonium</body>
+		<body>\n\n- Vidar, Governador de Pandaemonium</body>
 	</string>
 	<string>
 		<id>902116</id>
@@ -12493,32 +12493,32 @@
 	<string>
 		<id>902120</id>
 		<name>STR_MENU_TITLE_ARRANGE_MENU_01</name>
-		<body>Arrange Menu</body>
+		<body>Organizar Menu</body>
 	</string>
 	<string>
 		<id>902121</id>
 		<name>STR_MENU_ARRANGE_POSITION_01</name>
-		<body>Move Position</body>
+		<body>Mover Posição</body>
 	</string>
 	<string>
 		<id>902122</id>
 		<name>STR_MENU_ARRANGE_ROTATION_SIDE_01</name>
-		<body>Rotate Left/Right</body>
+		<body>Girar Esq/Dir</body>
 	</string>
 	<string>
 		<id>902123</id>
 		<name>STR_MENU_ARRANGE_ROTATION_UPDOWN_01</name>
-		<body>Rotate Top/Bottom</body>
+		<body>Girar Cima/Baixo</body>
 	</string>
 	<string>
 		<id>902124</id>
 		<name>STR_MENU_ARRANGE_MIDAIR_01</name>
-		<body>Set Height</body>
+		<body>Definir Altura</body>
 	</string>
 	<string>
 		<id>902125</id>
 		<name>STR_MENU_ARRANGE_COMPLETE_01</name>
-		<body>Arrange Complete</body>
+		<body>Organização completada</body>
 	</string>
 	<string>
 		<id>902126</id>
@@ -12578,52 +12578,52 @@
 	<string>
 		<id>902137</id>
 		<name>STR_CHANGE_SKIN_RESTRICT_TRADE_STORAGE_SELL_TO_NPC</name>
-		<body>&lt;p&gt;After changing the item, you are &lt;font color=&quot;ff0000&quot;&gt;not allowed&lt;/font&gt; trade or sell it or put it in your account or Legion warehouse.&lt;/p&gt;</body>
+		<body>&lt;p&gt;Depois de alterar o item você &lt;font color=&quot;ff0000&quot;&gt;não poderá&lt;/font&gt; negociá-lo ou vendê-lo ou guardá-lo em seu baú da conta ou da Legião.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902138</id>
 		<name>STR_TOOLTIP_CANT_COMPOUND</name>
-		<body>Armsfusion not allowed</body>
+		<body>Não é possível combinar</body>
 	</string>
 	<string>
 		<id>902139</id>
 		<name>STR_OPTION_SHOW_FX_NONE</name>
-		<body>None</body>
+		<body>Nenhum</body>
 	</string>
 	<string>
 		<id>902140</id>
 		<name>STR_OPTION_SHOW_FX_SELF</name>
-		<body>Self</body>
+		<body>Eu mesmo(a)</body>
 	</string>
 	<string>
 		<id>902141</id>
 		<name>STR_OPTION_SHOW_FX_PARTY</name>
-		<body>Group</body>
+		<body>Grupo</body>
 	</string>
 	<string>
 		<id>902142</id>
 		<name>STR_OPTION_SHOW_FX_FORCE</name>
-		<body>Alliance</body>
+		<body>Aliança</body>
 	</string>
 	<string>
 		<id>902143</id>
 		<name>STR_OPTION_SHOW_FX_ALL</name>
-		<body>All</body>
+		<body>Todos</body>
 	</string>
 	<string>
 		<id>902144</id>
 		<name>STR_ENCHANT_ITEM_DO_YOU_WANT_ENCHANT_ITEM_ABOVE</name>
-		<body>&lt;p&gt;Enchant %0?&lt;/p&gt;</body>
+		<body>&lt;p&gt;Encantar %0?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902145</id>
 		<name>STR_UI_SEARCH_REJECT_PARTY</name>
-		<body>Unavailable</body>
+		<body>Indisponível</body>
 	</string>
 	<string>
 		<id>902146</id>
 		<name>STR_ITEM_ENCHANT_MATERIAL_OPTION</name>
-		<body>Use %1 %0s</body>
+		<body>Usar %1 %0s</body>
 	</string>
 	<string>
 		<id>902147</id>
@@ -13170,7 +13170,7 @@
 	<string>
 		<id>902255</id>
 		<name>STR_CMD_UNION_LEAVE</name>
-		<body>/LeaveLeague,/sairLiga</body>
+		<body>/LeaveLeague,/SairLiga</body>
 	</string>
 	<string>
 		<id>902256</id>
