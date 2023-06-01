@@ -418,7 +418,7 @@
 	<string>
 		<id>160001</id>
 		<name>STR_VENDOR_CONFIRM_SELL</name>
-		<body>Você está vendendo este item por &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt;. Esse será o seu item registrado de número %num1, então uma taxa de registro nível %2 no valor de &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina3&lt;/font&gt; será aplicada. Continuar?</body>
+		<body>Você está vendendo este item por &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt;. Esse será o seu item registrado de número %num1, então uma taxa de registro %2 no valor de &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina3&lt;/font&gt; será aplicada. Continuar?</body>
 	</string>
 	<string>
 		<id>160002</id>
@@ -1160,7 +1160,7 @@
 	<string>
 		<id>240070</id>
 		<name>STR_TOOLTIP_ARMOR</name>
-		<body>Armadura</body>
+		<body>Fantasia</body>
 	</string>
 	<string>
 		<id>240071</id>
@@ -5994,7 +5994,7 @@
 	<string>
 		<id>900780</id>
 		<name>STR_CRAFTWINDOW_CLOTH</name>
-		<body>Fantasia</body>
+		<body>Cloth</body>
 	</string>
 	<string>
 		<id>900781</id>
@@ -7819,7 +7819,7 @@
 	<string>
 		<id>901177</id>
 		<name>STR_VENDOR_KIND_ARMOR</name>
-		<body>Fantasia</body>
+		<body>Armadura</body>
 	</string>
 	<string>
 		<id>901178</id>
