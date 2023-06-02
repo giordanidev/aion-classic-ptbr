@@ -1,5 +1,25 @@
+###################
+## NÃO TRADUZIDO ##
+###################
+- HOUSING, HOUSE
+- ITEM_SEAL, SEALED
+- L2AUTH, GOOGLE, OTP, Security_Warning
+- INTERSERVER
+- TWITTER
+- RSS
+- F2P
+- CHARGE2
+- MTALK
+- PCROOM, PCBANG
+- BLOCK
+- CHANGE_SERVER
+- CONTEÚDO 55
+
+###############
+## TRADUZIDO ##
+###############
 \STRINGS
-client_strings_ui.xml (parcialmente linha 16093)
+client_strings_ui.xml (parcialmente linha 28766)
 stringtable_dialog.xml (parcialmente)
 client_strings_msg.xml (parcialmente)
 client_strings_item2.xml (arrumado valor pot mana)
@@ -9,3 +29,4 @@ client_strings_item2.xml (arrumado valor pot mana)
 >> quest_q10000.html
 quest_q1096.html
 quest_q3705.html
+
