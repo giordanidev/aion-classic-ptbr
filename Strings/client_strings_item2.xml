@@ -73718,7 +73718,7 @@
 	<string>
 		<id>780489</id>
 		<name>STR_EVENT_REMEDY_MP_30A_DESC</name>
-		<body>Restores [%e2.Heal.CheckTimeHeal] MP to the target every [%e2.Heal.CheckTime] for [%e2.Heal.RemainTime].</body>
+		<body>Restores [%e2.MPHeal.CheckTimeHeal] MP to the target every [%e2.MPHeal.CheckTime] for [%e2.MPHeal.RemainTime].</body>
 	</string>
 	<string>
 		<id>780490</id>

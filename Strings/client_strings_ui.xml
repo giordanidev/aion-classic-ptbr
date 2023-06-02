@@ -1395,17 +1395,17 @@
 	<string>
 		<id>240117</id>
 		<name>STR_TOOLTIP_AREA</name>
-		<body>Área ao redor do caster</body>
+		<body>Ao redor do conjurador</body>
 	</string>
 	<string>
 		<id>240118</id>
 		<name>STR_TOOLTIP_PHYSICALWEAPON</name>
-		<body>Disponível quando uma arma está equipada</body>
+		<body>Disponível quando uma arma de Dano Físico está equipada</body>
 	</string>
 	<string>
 		<id>240119</id>
 		<name>STR_TOOLTIP_MAGICALWEAPON</name>
-		<body>Disponível quando uma arma mágica está equipada</body>
+		<body>Disponível quando uma arma de Dano Mágico está equipada</body>
 	</string>
 	<string>
 		<id>240120</id>
@@ -4211,12 +4211,12 @@
 	<string>
 		<id>900422</id>
 		<name>STR_CASTOR</name>
-		<body>Caster</body>
+		<body>Conjurador</body>
 	</string>
 	<string>
 		<id>900423</id>
 		<name>STR_CASTING_TARGET</name>
-		<body>Casting Target</body>
+		<body>Alvo de Conjuração</body>
 	</string>
 	<string>
 		<id>900424</id>
@@ -4581,7 +4581,7 @@
 	<string>
 		<id>900496</id>
 		<name>STR_TOOLTIP_NOCASTDELAY</name>
-		<body>Cast Instantâneo</body>
+		<body>Instantâneo</body>
 	</string>
 	<string>
 		<id>900497</id>
@@ -4591,7 +4591,7 @@
 	<string>
 		<id>900498</id>
 		<name>STR_TOOLTIP_CASTDELAY</name>
-		<body>Tempo de Cast</body>
+		<body>Tempo de Conjuração</body>
 	</string>
 	<string>
 		<id>900499</id>
@@ -6864,12 +6864,12 @@
 	<string>
 		<id>900954</id>
 		<name>STR_TOOLTIP_SKILL_EFFECT_TARGET_CASTOR_ONLY</name>
-		<body>Caster</body>
+		<body>Conjurador</body>
 	</string>
 	<string>
 		<id>900955</id>
 		<name>STR_TOOLTIP_SKILL_EFFECT_TARGET_CASTOR_PARTY</name>
-		<body>Caster e membro do grupo</body>
+		<body>Conjurador e membro do grupo</body>
 	</string>
 	<string>
 		<id>900956</id>
@@ -11105,12 +11105,12 @@
 	<string>
 		<id>901842</id>
 		<name>STR_BOOSTCASTINGTIME</name>
-		<body>Veloc. Cast</body>
+		<body>Veloc. Conjuração</body>
 	</string>
 	<string>
 		<id>901843</id>
 		<name>STR_BOOSTHATE</name>
-		<body>Geração de Aggro</body>
+		<body>Provocação</body>
 	</string>
 	<string>
 		<id>901844</id>
@@ -14020,7 +14020,7 @@
 	<string>
 		<id>902765</id>
 		<name>STR_TOOLTIP_INDUN_REENTER_TIME</name>
-		<body>Entrar novamente</body>
+		<body>Entrar Novamente</body>
 	</string>
 	<string>
 		<id>902766</id>
@@ -14290,7 +14290,7 @@
 	<string>
 		<id>902821</id>
 		<name>STR_TOOLTIP_PET_CONDITION_01</name>
-		<body>Convocar e passar tempo com um mascote melhorará seu humor. O humor do seu mascote diminuirá se você não chamá-lo novamente em 10 minutos ou se chamar outro mascote.</body>
+		<body>Convocar e passar tempo com um mascote melhorará seu humor. O humor do seu mascote diminuirá se você não chamá-lo novamente em 10 minutos ou se você convocar outro mascote.</body>
 	</string>
 	<string>
 		<id>902822</id>

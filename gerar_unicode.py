@@ -5,7 +5,9 @@ def encode():
     files = ["strings\\client_strings_ui.xml",
              "strings\\client_strings_msg.xml",
              "strings\\stringtable_dialog.xml",
-             "cutscene\\cs_ab1_001.xml"]
+             "cutscene\\cs_ab1_001.xml",
+             "strings\\client_strings_item2.xml"
+    ]
 
     for filename in files:
         orig = ".\\"+filename
@@ -54,41 +56,7 @@ def encode():
         f = open(dest, 'w', encoding='utf-8', newline='')
         f.write(contents)
         print("Arquivo salvo!")
-
-    print("Gerando arquivo .PAK!")
-    subprocess.check_call([r".\\Aion Encdec.exe", "-r data_ptBR.pak"])
-
-    print("Arquivo .PAK gerado!")
-
-    orig_repack = ".\\REPACK\\data_ptBR.pak"
-    dest_repack = "E:\\JOGOS\\aionclassic\\l10n\\ENG\\data\\data_ptBR.pak"
-    dest_test = ".\\teste\\data_ptBR.pak"
-
-    print(f"Instalando orig_repack: {orig_repack} -> dest_repack: '{dest_repack}'")
-    print(f"Verificando se arquivo existe: {dest_repack}")
-    if os.path.isfile(dest_repack):
-        print(f"Arquivo existe. Removendo.")
-        os.remove(dest_repack)
-    else:
-        if not os.path.isdir(os.path.dirname(dest_repack)):
-            print("Diretório dest_repack não existe. Criando diretório.")
-            os.makedirs(os.path.dirname(dest_repack))
-            print("Diretório dest_repack criado.")
-    shutil.copy2(orig_repack, dest_repack)
-    print(f"Arquivo copiado: {dest_repack}")
-
-    print(f"Verificando se arquivo existe: {dest_test}")
-    if os.path.isfile(dest_test):
-            print(f"Arquivo existe. Removendo.")
-            os.remove(dest_test)
-    else:
-        if not os.path.isdir(os.path.dirname(dest_test)):
-            print("Diretório dest_test não existe. Criando diretório.")
-            os.makedirs(os.path.dirname(dest_test))
-            print("Diretório dest_test criado.")
-
-    shutil.copy2(orig_repack, dest_test)
-    print("Arquivo de teste instalado com sucesso!")
+        
     print("CONCLUÍDO!")
 
 encode()
