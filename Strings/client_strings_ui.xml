@@ -14566,22 +14566,22 @@
 	<string>
 		<id>902877</id>
 		<name>STR_CUSTOM_ANIM_DEFAULT_ANIM_NAME</name>
-		<body>Default %0 Motion</body>
+		<body>Movimento %0 Padrão</body>
 	</string>
 	<string>
 		<id>902878</id>
 		<name>STR_CUSTOM_ANIM_TYPE_DESC</name>
-		<body>Motion Type</body>
+		<body>Tipo de Movimento</body>
 	</string>
 	<string>
 		<id>902879</id>
 		<name>STR_CUSTOM_ANIM_REMAIN_TIME</name>
-		<body>Remaining time</body>
+		<body>Tempo restante</body>
 	</string>
 	<string>
 		<id>902880</id>
 		<name>STR_CUSTOM_ANIM_CURRENT_ANIM_DESC</name>
-		<body>Current Motion</body>
+		<body>Movimento Atual</body>
 	</string>
 	<string>
 		<id>902881</id>
@@ -14931,52 +14931,52 @@
 	<string>
 		<id>903006</id>
 		<name>STR_GUILD_EVENT_DEPOSIT_ITEM</name>
-		<body>Deposit %1 %0s</body>
+		<body>Depositou %1 %0s</body>
 	</string>
 	<string>
 		<id>903007</id>
 		<name>STR_GUILD_EVENT_RETRIEVE_ITEM</name>
-		<body>Withdraw %1 %0s</body>
+		<body>Retirou %1 %0s</body>
 	</string>
 	<string>
 		<id>903008</id>
 		<name>STR_GUILD_EVENT_DEPOSIT_KINA</name>
-		<body>Deposit %0</body>
+		<body>Depositou %0</body>
 	</string>
 	<string>
 		<id>903009</id>
 		<name>STR_GUILD_EVENT_RETRIEVE_KINA</name>
-		<body>Withdraw %0</body>
+		<body>Retirou %0</body>
 	</string>
 	<string>
 		<id>903010</id>
 		<name>STR_SKILL_EFFECT_MSG_CRITICAL</name>
-		<body>Critical Hit!</body>
+		<body>Ataque Crítico!</body>
 	</string>
 	<string>
 		<id>903011</id>
 		<name>STR_TAP_TOYPET_DOPING</name>
-		<body>Mascote Buff Bag</body>
+		<body>Bolsa</body>
 	</string>
 	<string>
 		<id>903012</id>
 		<name>STR_TAP_TOYPET_LOOTING</name>
-		<body>Loot Item</body>
+		<body>Coleta</body>
 	</string>
 	<string>
 		<id>903013</id>
 		<name>STR_TAP_TOYPET_DOPING_DESC</name>
-		<body>Your mascote will automatically use more food and magical items from the Mascote Buff Bag before their effects run out.</body>
+		<body>Seu mascote usará automaticamente mais comida, bebida e scrolls da Bolsa quando seus efeitos acabarem.</body>
 	</string>
 	<string>
 		<id>903014</id>
 		<name>STR_TAP_TOYPET_DOPING_01</name>
-		<body>Food</body>
+		<body>Comida</body>
 	</string>
 	<string>
 		<id>903015</id>
 		<name>STR_TAP_TOYPET_DOPING_02</name>
-		<body>Beverage</body>
+		<body>Bebida</body>
 	</string>
 	<string>
 		<id>903016</id>
@@ -14986,37 +14986,37 @@
 	<string>
 		<id>903017</id>
 		<name>STR_ACTION_PET_DOOPING</name>
-		<body>Buff Master</body>
+		<body>Usar Buffs</body>
 	</string>
 	<string>
 		<id>903018</id>
 		<name>STR_ACTION_PET_DOOPING_NOTUSE</name>
-		<body>Stop Buffing</body>
+		<body>Parar de usar Buffs</body>
 	</string>
 	<string>
 		<id>903019</id>
 		<name>STR_TOOLTIP_ACTION_PET_DOOPING</name>
-		<body>Order the mascote or minion to automatically use food and magical items in your cube to apply buffs. Items will be used in the registered order.</body>
+		<body>Ordena ao mascote ou lacaio que use automaticamente comida, bebida e scrolls em seu cubo para aplicar buffs. Os itens serão utilizados na ordem cadastrada, da esquerda para a direita.</body>
 	</string>
 	<string>
 		<id>903020</id>
 		<name>STR_ACTION_PET_LOOTING</name>
-		<body>Auto-Loot</body>
+		<body>Coleta Automática</body>
 	</string>
 	<string>
 		<id>903021</id>
 		<name>STR_TOOLTIP_ACTION_PET_LOOTING</name>
-		<body>Order the mascote to collect any items you leave behind. Your mascote will be unable to pick up certain items, such as those that Group Distribution prevents you from picking up.</body>
+		<body>Ordena ao mascote que colete todos os itens que você deixar para trás. Seu mascote não poderá pegar certos itens, como aqueles que a Distribuição do Grupo impede que você pegue.</body>
 	</string>
 	<string>
 		<id>903022</id>
 		<name>STR_MSG_DOPING_PET_POPUP01</name>
-		<body>This mascote already has an item, and it cannot be used together with the item you’ve selected. Do you want to remove the current item and add the selected item instead?</body>
+		<body>Este mascote já possui um item que não pode ser usado junto com o item que você selecionou. Deseja remover o item atual e adicionar o item selecionado?</body>
 	</string>
 	<string>
 		<id>903023</id>
 		<name>STR_ACTION_PET_LOOTING_NOTUSE</name>
-		<body>Stop Auto-Loot</body>
+		<body>Parar Coleta Automática</body>
 	</string>
 	<string>
 		<id>903024</id>
@@ -15071,27 +15071,27 @@
 	<string>
 		<id>903034</id>
 		<name>STR_SECONDPASSWORD_MSGBOX_PASSWORD_LETTERS_ALL_SAME</name>
-		<body>&lt;p&gt;PINs must include a variety of numbers. Please try again.&lt;/p&gt;</body>
+		<body>&lt;p&gt;Os PINs devem incluir uma variedade de números. Por favor, tente novamente.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>903035</id>
 		<name>STR_SECONDPASSWORD_RANDOM_KEYPAD_WARNING</name>
-		<body>Note: Numbers change positions for each log in.</body>
+		<body>Observação: Os números mudam de posição a cada login.</body>
 	</string>
 	<string>
 		<id>903036</id>
 		<name>STR_SECONDPASSWORD_MSGBOX_WRONG_PASSWORD</name>
-		<body>&lt;p&gt;Invalid PIN.&lt;/p&gt;</body>
+		<body>&lt;p&gt;PIN inválido.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>903037</id>
 		<name>STR_SECONDPASSWORD_MSGBOX_CANT_USE_KEYBOARD</name>
-		<body>&lt;p&gt;You must use the mouse to enter your character PIN.&lt;/p&gt;</body>
+		<body>&lt;p&gt;Você deve usar o mouse para inserir o PIN do seu personagem.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>903038</id>
 		<name>STR_ITEM_SEAL_SEALED_ITEM_GMSEALED</name>
-		<body>Special Sealed Item</body>
+		<body>Item Selado Especial</body>
 	</string>
 	<string>
 		<id>903039</id>
@@ -15166,17 +15166,17 @@
 	<string>
 		<id>903053</id>
 		<name>STR_GUILD_RANK_NAME_SUBMASTER</name>
-		<body>Tribunus</body>
+		<body>Tribuno</body>
 	</string>
 	<string>
 		<id>903054</id>
 		<name>STR_GUILD_RANK_NAME_NEWBIE</name>
-		<body>Trainee</body>
+		<body>Estagiário</body>
 	</string>
 	<string>
 		<id>903055</id>
 		<name>STR_TOOLTIP_USE_GUILD_LEVEL</name>
-		<body>Available for Level %0 or higher</body>
+		<body>Disponível para o nível %0 ou acima</body>
 	</string>
 	<string>
 		<id>903056</id>
@@ -15241,52 +15241,52 @@
 	<string>
 		<id>903068</id>
 		<name>STR_IDARENA_CONFIRM_LEAVE</name>
-		<body>&lt;p&gt;Once you stop training and leave %WORLDNAME0, you cannot enter it again until the reentry time expires.&lt;/p&gt;&lt;p&gt;Are you sure you want to stop training?&lt;/p&gt;</body>
+		<body>&lt;p&gt;Depois de parar de treinar e sair da %WORLDNAME0, você não poderá entrar novamente até que o tempo de reentrada expire.&lt;/p&gt;&lt;p&gt;Tem certeza que deseja parar de treinar?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>903069</id>
 		<name>STR_IDARENA_ACCOUNT_GET_COIN</name>
-		<body>%num0 Insignias earned</body>
+		<body>%num0 Insígnias adquiridas</body>
 	</string>
 	<string>
 		<id>903070</id>
 		<name>STR_IDARENA_STAGE</name>
-		<body>Start Stage %0 Round %1!</body>
+		<body>Iniciar Estágio %0 Rodada %1!</body>
 	</string>
 	<string>
 		<id>903071</id>
 		<name>STR_TOWER_DEFENCE_TITLE_NONE_USE</name>
-		<body>Cannon Defence</body>
+		<body>Defesa do Canhão</body>
 	</string>
 	<string>
 		<id>903072</id>
 		<name>STR_IDARENA_ROUND</name>
-		<body>Start Round %0!</body>
+		<body>Iniciar Rodada %0!</body>
 	</string>
 	<string>
 		<id>903073</id>
 		<name>STR_IDARENA_JOIN_STAGE</name>
-		<body>Join Stage %0 Round %1!</body>
+		<body>Entrar no Estágio %0 Rodada %1!</body>
 	</string>
 	<string>
 		<id>903074</id>
 		<name>STR_WINDOW_TOWER_DEFENCE</name>
-		<body>Mini Fortress Battle</body>
+		<body>Batalha da Fortaleza Pequenina</body>
 	</string>
 	<string>
 		<id>903075</id>
 		<name>STR_VENDOR_PURCHASED_MAIL_FROM</name>
-		<body>Trade Broker</body>
+		<body>Leiloeiro</body>
 	</string>
 	<string>
 		<id>903076</id>
 		<name>STR_VENDOR_PURCHASED_MAIL_TITLE</name>
-		<body>Buy</body>
+		<body>Comprar</body>
 	</string>
 	<string>
 		<id>903077</id>
 		<name>STR_VENDOR_PURCHASED_MAIL_CONTENT</name>
-		<body>You bought this item from a Commission Merchant.</body>
+		<body>Você comprou este item de um Comerciante Comissionado.</body>
 	</string>
 	<string>
 		<id>903078</id>
@@ -15301,7 +15301,7 @@
 	<string>
 		<id>903080</id>
 		<name>STR_MAIL_CASH_PURCHASE_ITEM_NUMBERS</name>
-		<body>Goods Awaiting Collection (%0/%1)</body>
+		<body>Bens Aguardando Coleta (%0/%1)</body>
 	</string>
 	<string>
 		<id>903081</id>
@@ -15316,12 +15316,12 @@
 	<string>
 		<id>903083</id>
 		<name>STR_MAIL_CASH_PURCHASE_CONFIRM_BTN</name>
-		<body>Receive Item</body>
+		<body>Receber Item</body>
 	</string>
 	<string>
 		<id>903084</id>
 		<name>STR_MAIL_CASH_PURCHASE_CLOSE_BTN</name>
-		<body>Close</body>
+		<body>Fechar</body>
 	</string>
 	<string>
 		<id>903085</id>
@@ -15336,12 +15336,12 @@
 	<string>
 		<id>903087</id>
 		<name>STR_NOTICE_TITLE</name>
-		<body>Announcement Window</body>
+		<body>Janela de Anúncios</body>
 	</string>
 	<string>
 		<id>903088</id>
 		<name>STR_GUILD_EVENT_BAN_MEMBER</name>
-		<body>Kick %0 out of the Legion</body>
+		<body>Expulsar %0 da Legião</body>
 	</string>
 	<string>
 		<id>903089</id>
@@ -15361,7 +15361,7 @@
 	<string>
 		<id>903092</id>
 		<name>STR_NEW_MAP_WHERE</name>
-		<body>Please enter the name of the NPC, region, or monster you want to locate.</body>
+		<body>Digite o nome do NPC, região ou monstro que deseja localizar.</body>
 	</string>
 	<string>
 		<id>903093</id>
@@ -15371,7 +15371,7 @@
 	<string>
 		<id>903094</id>
 		<name>STR_NEW_MAP_QUEST_QUEST_INFO</name>
-		<body>Open Quest Window</body>
+		<body>Abrir Janela de Missões</body>
 	</string>
 	<string>
 		<id>903095</id>
@@ -15381,7 +15381,7 @@
 	<string>
 		<id>903096</id>
 		<name>STR_QUEST_DIALOG__SEARCH_POWERBOOK</name>
-		<body>Game Guide</body>
+		<body>Guia do Jogo</body>
 	</string>
 	<string>
 		<id>903097</id>
@@ -15456,7 +15456,7 @@
 	<string>
 		<id>903111</id>
 		<name>STR_IDARENA_STAGE_COMPLETE</name>
-		<body>Pass!</body>
+		<body>Passou!</body>
 	</string>
 	<string>
 		<id>903112</id>
@@ -15481,67 +15481,67 @@
 	<string>
 		<id>903116</id>
 		<name>STR_BTITLE_CHARACTER_NAME</name>
-		<body>Target Character</body>
+		<body>Personagem Alvo</body>
 	</string>
 	<string>
 		<id>903117</id>
 		<name>STR_BTITLE_CLOSE_BTN</name>
-		<body>Close</body>
+		<body>Fechar</body>
 	</string>
 	<string>
 		<id>903118</id>
 		<name>STR_POWERBOOK_MENUNAME</name>
-		<body>Game Guide</body>
+		<body>Guia do Jogo</body>
 	</string>
 	<string>
 		<id>903119</id>
 		<name>STR_POWERBOOK_NAME</name>
-		<body>Game Guide</body>
+		<body>Guia do Jogo</body>
 	</string>
 	<string>
 		<id>903120</id>
 		<name>STR_POWERBOOK_MAIN_SEARCH_TABNAME</name>
-		<body>Search Game Guide</body>
+		<body>Pesquisar Guia do Jogo</body>
 	</string>
 	<string>
 		<id>903121</id>
 		<name>STR_POWERBOOK_MAIN_SEARCH_SEARCH_BTN</name>
-		<body>Search</body>
+		<body>Procurar</body>
 	</string>
 	<string>
 		<id>903122</id>
 		<name>STR_POWERBOOK_MAIN_SEARCH_ENTER_WORD</name>
-		<body>&lt;center&gt;&lt;p&gt;Please enter the keywords.&lt;/p&gt;&lt;/center&gt;</body>
+		<body>&lt;center&gt;&lt;p&gt;Por favor, insira as palavras-chave.&lt;/p&gt;&lt;/center&gt;</body>
 	</string>
 	<string>
 		<id>903123</id>
 		<name>STR_POWERBOOK_MAIN_SEARCH_NO_RESULT</name>
-		<body>&lt;center&gt;&lt;p&gt;Search found no match.&lt;/p&gt;&lt;/center&gt;</body>
+		<body>&lt;center&gt;&lt;p&gt;Pesquisa não encontrou resultados.&lt;/p&gt;&lt;/center&gt;</body>
 	</string>
 	<string>
 		<id>903124</id>
 		<name>STR_POWERBOOK_MAIN_HISTORY_TABNAME</name>
-		<body>Latest Keywords</body>
+		<body>Palavras-chave recentes</body>
 	</string>
 	<string>
 		<id>903125</id>
 		<name>STR_POWERBOOK_MAIN_HISTORY_HELP</name>
-		<body>&lt;center&gt;&lt;p&gt;A list of recently used or recommended keywords.&lt;/p&gt;&lt;/center&gt;&lt;center&gt;&lt;p&gt;Click a keyword to start the Game Guide Search.&lt;/p&gt;&lt;/center&gt;</body>
+		<body>&lt;center&gt;&lt;p&gt;Uma lista de palavras-chave recomendadas ou usadas recentemente.&lt;/p&gt;&lt;/center&gt;&lt;center&gt;&lt;p&gt;Clique em uma palavra-chave para iniciar a pesquisa do Guia do Jogo.&lt;/p&gt;&lt;/center&gt;</body>
 	</string>
 	<string>
 		<id>903126</id>
 		<name>STR_POWERBOOK_MAIN_HISTORY_REFRESH_BTN</name>
-		<body>Initialise</body>
+		<body>Inicializar</body>
 	</string>
 	<string>
 		<id>903127</id>
 		<name>STR_POWERBOOK_MAIN_HISTORY_TAG_QUEST</name>
-		<body>Quest</body>
+		<body>Missão</body>
 	</string>
 	<string>
 		<id>903128</id>
 		<name>STR_POWERBOOK_MAIN_HISTORY_TAG_SEARCH</name>
-		<body>Search</body>
+		<body>Procurar</body>
 	</string>
 	<string>
 		<id>903129</id>
@@ -15551,42 +15551,42 @@
 	<string>
 		<id>903130</id>
 		<name>STR_POWERBOOK_MAIN_HISTORY_CLOSE_BTN</name>
-		<body>Close</body>
+		<body>Fechar</body>
 	</string>
 	<string>
 		<id>903131</id>
 		<name>STR_POWERBOOK_MAIN_SHOW_ALARM_BUTTON</name>
-		<body>Show Game Guide info symbol</body>
+		<body>Mostrar símbolo de informações do Guia do Jogo</body>
 	</string>
 	<string>
 		<id>903132</id>
 		<name>STR_POWERBOOK_BUTTON_TOOLTIP</name>
-		<body>Search Game Guide: %0</body>
+		<body>Pesquisa do Guia do Jogo: %0</body>
 	</string>
 	<string>
 		<id>903133</id>
 		<name>STR_POWERBOOK_MINIBOX_NAME</name>
-		<body>Game Guide</body>
+		<body>Guia do Jogo</body>
 	</string>
 	<string>
 		<id>903134</id>
 		<name>STR_POWERBOOK_MINIBOX_LIST</name>
-		<body>Select Keywords</body>
+		<body>Selecionar Palavras-chave</body>
 	</string>
 	<string>
 		<id>903135</id>
 		<name>STR_POWERBOOK_MINIBOX_CONTENT</name>
-		<body>Search by &apos;%0&apos;</body>
+		<body>Procurar por &apos;%0&apos;</body>
 	</string>
 	<string>
 		<id>903136</id>
 		<name>STR_POWERBOOK_MINIBOX_OPEN_MAIN</name>
-		<body>Search</body>
+		<body>Procurar</body>
 	</string>
 	<string>
 		<id>903137</id>
 		<name>STR_POWERBOOK_MINIBOX_CLOSE</name>
-		<body>Close</body>
+		<body>Fechar</body>
 	</string>
 	<string>
 		<id>903138</id>
@@ -15621,17 +15621,17 @@
 	<string>
 		<id>903144</id>
 		<name>STR_GLOBAL_OPTION_GRAPHIC_RESTART_ALERT</name>
-		<body>The client must be restarted to apply items indicated with *.</body>
+		<body>O cliente deve ser reiniciado para aplicar as configurações indicadas com *.</body>
 	</string>
 	<string>
 		<id>903145</id>
 		<name>STR_GLOBAL_OPTION_GRAPHIC_ENGINE_CHANGE_NEED_RESTART</name>
-		<body>To apply the selected Graphic Engine settings, restart the client.</body>
+		<body>Reinicie o cliente para aplicar as configurações do Motor Gráfico selecionadas.</body>
 	</string>
 	<string>
 		<id>903146</id>
 		<name>STR_MSGBOX_GLOBAL_OPTION_APPLY_NEED_RESTART</name>
-		<body>To apply certain settings, you must restart the client.</body>
+		<body>Para aplicar determinadas configurações, você deve reiniciar o cliente.</body>
 	</string>
 	<string>
 		<id>903147</id>
@@ -15656,7 +15656,7 @@
 	<string>
 		<id>903151</id>
 		<name>STR_IDARENA_INFO_BONUS_ROUND</name>
-		<body>Bonus</body>
+		<body>Bônus</body>
 	</string>
 	<string>
 		<id>903152</id>
@@ -15786,32 +15786,32 @@
 	<string>
 		<id>903178</id>
 		<name>STR_MSGBOX_DELETE_USERPRESET</name>
-		<body>Are you sure you want to delete character settings &apos;%0&apos;?</body>
+		<body>Tem certeza de que deseja excluir as configurações do personagem &apos;%0&apos;?</body>
 	</string>
 	<string>
 		<id>903179</id>
 		<name>STR_MSGBOX_CANT_DELETE_USERPRESET</name>
-		<body>Cannot find or delete the specified settings file.</body>
+		<body>Não é possível localizar ou excluir o arquivo de configurações especificado.</body>
 	</string>
 	<string>
 		<id>903180</id>
 		<name>STR_NEW_MAP_MY_POSITION</name>
-		<body>My Position</body>
+		<body>Minha Posição</body>
 	</string>
 	<string>
 		<id>903181</id>
 		<name>STR_TOOLTIP_CANNOT_EXTRACTION</name>
-		<body>Not extractable.</body>
+		<body>Não pode extrair</body>
 	</string>
 	<string>
 		<id>903182</id>
 		<name>STR_TOOLTIP_CANNOT_MATTER_ENCHANT</name>
-		<body>Cannot be enchanted.</body>
+		<body>Não pode encantar</body>
 	</string>
 	<string>
 		<id>903183</id>
 		<name>STR_LOGINSTAGE_CHARACTER_DELETE_FAILED_UNPURCHASED_CASH</name>
-		<body>You cannot delete a character that has any Goods Awaiting Collection. Please collect the goods before deleting the character.</body>
+		<body>Você não pode excluir um personagem que tenha bens aguardando coleta. Por favor, colete as mercadorias antes de excluir o personagem.</body>
 	</string>
 	<string>
 		<id>903184</id>
@@ -15821,17 +15821,17 @@
 	<string>
 		<id>903185</id>
 		<name>STR_MSGBOX_CASH_PURCHASE_INVALID_ITEM_LIST</name>
-		<body>Cannot find data on some of the Goods Awaiting Collection. Please contact the Customer Service Center.</body>
+		<body>Não é possível encontrar dados sobre alguns dos bens aguardando coleta. Entre em contato com a Central de Atendimento ao Cliente.</body>
 	</string>
 	<string>
 		<id>903186</id>
 		<name>STR_TOOLTIP_RIGHT_HAND</name>
-		<body>Main Hand</body>
+		<body>Mão principal</body>
 	</string>
 	<string>
 		<id>903187</id>
 		<name>STR_TOOLTIP_LEFT_HAND</name>
-		<body>Off Hand</body>
+		<body>Mão secundária</body>
 	</string>
 	<string>
 		<id>903188</id>
@@ -15841,32 +15841,32 @@
 	<string>
 		<id>903189</id>
 		<name>STR_TOOLTIP_TORSO</name>
-		<body>Jacket</body>
+		<body>Peitoral</body>
 	</string>
 	<string>
 		<id>903190</id>
 		<name>STR_TOOLTIP_GLOVE</name>
-		<body>Gloves</body>
+		<body>Luvas</body>
 	</string>
 	<string>
 		<id>903191</id>
 		<name>STR_TOOLTIP_FOOT</name>
-		<body>Shoes</body>
+		<body>Botas</body>
 	</string>
 	<string>
 		<id>903192</id>
 		<name>STR_TOOLTIP_SHOULDER</name>
-		<body>Pauldrons</body>
+		<body>Ombros</body>
 	</string>
 	<string>
 		<id>903193</id>
 		<name>STR_TOOLTIP_LEG</name>
-		<body>Pants</body>
+		<body>Calça</body>
 	</string>
 	<string>
 		<id>903194</id>
 		<name>STR_TOOLTIP_WING</name>
-		<body>Wings</body>
+		<body>Asas</body>
 	</string>
 	<string>
 		<id>903195</id>
@@ -15886,22 +15886,22 @@
 	<string>
 		<id>903199</id>
 		<name>STR_MSGBOX_CASH_DISCONNECTED_DUE_TO_WEB_REQUEST</name>
-		<body>You have been disconnected from the server.</body>
+		<body>Você foi desconectado do servidor.</body>
 	</string>
 	<string>
 		<id>903200</id>
 		<name>STR_QUEST_INDICATOR_MAP_POS</name>
-		<body>Show Map</body>
+		<body>Mostrar no Mapa</body>
 	</string>
 	<string>
 		<id>903201</id>
 		<name>STR_QUEST_INDICATOR_ALPHA_MAP_POS</name>
-		<body>Show Transparent Map</body>
+		<body>Mostrar no Mapa Transparente</body>
 	</string>
 	<string>
 		<id>903202</id>
 		<name>STR_QUEST_INDICATOR_POWERBOOK</name>
-		<body>Search Game Guide</body>
+		<body>Procurar no Guia do Jogo</body>
 	</string>
 	<string>
 		<id>903203</id>
@@ -16091,7 +16091,7 @@
 	<string>
 		<id>903241</id>
 		<name>STR_IDARENA_RESURRECT</name>
-		<body>&lt;p&gt;After 5 seconds, you will appear in a safe area.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Time remaining: %0.&lt;/p&gt;</body>
+		<body>&lt;p&gt;Você aparecerá em uma área segura em %0 segundos.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>903242</id>
