@@ -88,7 +88,7 @@
 	<string>
 		<id>900204</id>
 		<name>STR_LOBBY_SERVER__START</name>
-		<body>Selecionar Servidor</body>
+		<body>Selecionar</body>
 	</string>
 	<string>
 		<id>900205</id>
@@ -108,7 +108,7 @@
 	<string>
 		<id>900300</id>
 		<name>STR_LOBBY_SELECT__SERVER_LIST</name>
-		<body>Selecionar Servidor</body>
+		<body>Selecionar</body>
 	</string>
 	<string>
 		<id>900301</id>
@@ -278,22 +278,22 @@
 	<string>
 		<id>900714</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_BODY</name>
-		<body>Selecionar Formato do Corpo</body>
+		<body>Formato do Corpo</body>
 	</string>
 	<string>
 		<id>900715</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HAIR</name>
-		<body>Hair Shape</body>
+		<body>Tipo de Cabelo</body>
 	</string>
 	<string>
 		<id>900716</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_FACE</name>
-		<body>Face Shape</body>
+		<body>Formato Rosto</body>
 	</string>
 	<string>
 		<id>900717</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_FEATURE1</name>
-		<body>Decoration</body>
+		<body>Decoração</body>
 	</string>
 	<string>
 		<id>900718</id>
@@ -303,302 +303,302 @@
 	<string>
 		<id>900719</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HAIR_COLOR</name>
-		<body>Hair Colour</body>
+		<body>Cor do Cabelo</body>
 	</string>
 	<string>
 		<id>900720</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_LIP_COLOR</name>
-		<body>Lip Colour</body>
+		<body>Cor dos Lábios</body>
 	</string>
 	<string>
 		<id>900721</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_SKIN_COLOR</name>
-		<body>Skin Colour</body>
+		<body>Cor da Pele</body>
 	</string>
 	<string>
 		<id>900722</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_PREVIEW</name>
-		<body>Preview</body>
+		<body>Visualização</body>
 	</string>
 	<string>
 		<id>900723</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_EYE_COLOR</name>
-		<body>Eye Colour</body>
+		<body>Cor dos Olhos</body>
 	</string>
 	<string>
 		<id>900800</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE01</name>
-		<body>Jaw Line</body>
+		<body>Mandíbula</body>
 	</string>
 	<string>
 		<id>900801</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE02</name>
-		<body>Forehead</body>
+		<body>Testa</body>
 	</string>
 	<string>
 		<id>900802</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE03</name>
-		<body>Eye Height</body>
+		<body>Altura dos Olhos</body>
 	</string>
 	<string>
 		<id>900803</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE04</name>
-		<body>Eye Space</body>
+		<body>Espaç. entre Olhos</body>
 	</string>
 	<string>
 		<id>900804</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE05</name>
-		<body>Eye Width</body>
+		<body>Largura dos Olhos</body>
 	</string>
 	<string>
 		<id>900805</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE06</name>
-		<body>Eye Size</body>
+		<body>Tamanho dos Olhos</body>
 	</string>
 	<string>
 		<id>900806</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE07</name>
-		<body>Eye Shape</body>
+		<body>Formato dos Olhos</body>
 	</string>
 	<string>
 		<id>900807</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE08</name>
-		<body>Eye Angle</body>
+		<body>Ângulo dos Olhos</body>
 	</string>
 	<string>
 		<id>900808</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE09</name>
-		<body>Brow Height</body>
+		<body>Altura Sombrancelha</body>
 	</string>
 	<string>
 		<id>900809</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE10</name>
-		<body>Brow Angle</body>
+		<body>Ângulo Sombrancelha</body>
 	</string>
 	<string>
 		<id>900810</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE11</name>
-		<body>Brow Shape</body>
+		<body>Formato Sombrancelha</body>
 	</string>
 	<string>
 		<id>900811</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE12</name>
-		<body>Nose</body>
+		<body>Nariz</body>
 	</string>
 	<string>
 		<id>900812</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE13</name>
-		<body>Nose Bridge</body>
+		<body>Ponte Nasal</body>
 	</string>
 	<string>
 		<id>900813</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE14</name>
-		<body>Nose Width</body>
+		<body>Largura do Nariz</body>
 	</string>
 	<string>
 		<id>900814</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE15</name>
-		<body>Nose Tip</body>
+		<body>Ponta do Nariz</body>
 	</string>
 	<string>
 		<id>900815</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE16</name>
-		<body>Cheeks</body>
+		<body>Bochechas</body>
 	</string>
 	<string>
 		<id>900816</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE17</name>
-		<body>Lip Height</body>
+		<body>Altura dos Lábios</body>
 	</string>
 	<string>
 		<id>900817</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE18</name>
-		<body>Mouth Size</body>
+		<body>Tamanho da Boca</body>
 	</string>
 	<string>
 		<id>900818</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE19</name>
-		<body>Lip Size</body>
+		<body>Taman. dos Lábios</body>
 	</string>
 	<string>
 		<id>900819</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE20</name>
-		<body>Smile</body>
+		<body>Sorriso</body>
 	</string>
 	<string>
 		<id>900820</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE21</name>
-		<body>Lip Shape</body>
+		<body>Formato dos Lábios</body>
 	</string>
 	<string>
 		<id>900821</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE22</name>
-		<body>Chin Height</body>
+		<body>Altura do Queixo</body>
 	</string>
 	<string>
 		<id>900822</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE23</name>
-		<body>Cheek Bones</body>
+		<body>Ossos da Bochecha</body>
 	</string>
 	<string>
 		<id>900823</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE24</name>
-		<body>Ear Shape</body>
+		<body>Formato da Orelha</body>
 	</string>
 	<string>
 		<id>900824</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_BODY_DETAIL_TYPE01</name>
-		<body>Head Size</body>
+		<body>Tamanho da Cabeça</body>
 	</string>
 	<string>
 		<id>900825</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_BODY_DETAIL_TYPE02</name>
-		<body>Neck</body>
+		<body>Pescoço</body>
 	</string>
 	<string>
 		<id>900826</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_BODY_DETAIL_TYPE03</name>
-		<body>Neck Length</body>
+		<body>Tamanho do Pescoço</body>
 	</string>
 	<string>
 		<id>900827</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_BODY_DETAIL_TYPE04</name>
-		<body>Shoulder Size</body>
+		<body>Tamanho do Ombro</body>
 	</string>
 	<string>
 		<id>900828</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_BODY_DETAIL_TYPE05</name>
-		<body>Torso</body>
+		<body>Tronco</body>
 	</string>
 	<string>
 		<id>900829</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_BODY_DETAIL_TYPE06</name>
-		<body>Chest</body>
+		<body>Peito</body>
 	</string>
 	<string>
 		<id>900830</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_BODY_DETAIL_TYPE07</name>
-		<body>Waist</body>
+		<body>Cintura</body>
 	</string>
 	<string>
 		<id>900831</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_BODY_DETAIL_TYPE08</name>
-		<body>Hips</body>
+		<body>Quadris</body>
 	</string>
 	<string>
 		<id>900832</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_BODY_DETAIL_TYPE09</name>
-		<body>Arm Thickness</body>
+		<body>Espessura do Braço</body>
 	</string>
 	<string>
 		<id>900833</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_BODY_DETAIL_TYPE10</name>
-		<body>Hand Size</body>
+		<body>Tamanho das Mãos</body>
 	</string>
 	<string>
 		<id>900834</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_BODY_DETAIL_TYPE11</name>
-		<body>Leg Thickness</body>
+		<body>Espessura das Pernas</body>
 	</string>
 	<string>
 		<id>900835</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_BODY_DETAIL_TYPE12</name>
-		<body>Foot Size</body>
+		<body>Tamanho do Pé</body>
 	</string>
 	<string>
 		<id>900836</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_BODY_DETAIL_TYPE13</name>
-		<body>Facial Ratio</body>
+		<body>Proporção Facial</body>
 	</string>
 	<string>
 		<id>900837</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_BODY_DETAIL_TYPE14</name>
-		<body>Wing</body>
+		<body>Asas</body>
 	</string>
 	<string>
 		<id>900838</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_BODY_DETAIL_TYPE15</name>
-		<body>Arm Length</body>
+		<body>Comprimento dos Braços</body>
 	</string>
 	<string>
 		<id>900839</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_BODY_DETAIL_TYPE16</name>
-		<body>Leg Length</body>
+		<body>Comprimento das Pernas</body>
 	</string>
 	<string>
 		<id>900840</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_BODY_DETAIL_TYPE17</name>
-		<body>Shoulders</body>
+		<body>Ombros</body>
 	</string>
 	<string>
 		<id>900900</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_SCALE</name>
-		<body>Height</body>
+		<body>Altura</body>
 	</string>
 	<string>
 		<id>900901</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_SCALE_MAX</name>
-		<body>Maximum</body>
+		<body>Máximo</body>
 	</string>
 	<string>
 		<id>900902</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_SCALE_MIN</name>
-		<body>Minimum</body>
+		<body>Mínimo</body>
 	</string>
 	<string>
 		<id>900903</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_BUTTON_HEAD</name>
-		<body>Face</body>
+		<body>Rosto</body>
 	</string>
 	<string>
 		<id>900904</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_BUTTON_BODY</name>
-		<body>Physique</body>
+		<body>Físico</body>
 	</string>
 	<string>
 		<id>901000</id>
 		<name>STR_INGAME_CUSTOMIZING__TITLE</name>
-		<body>Change Character Settings</body>
+		<body>Alterar configurações do personagem</body>
 	</string>
 	<string>
 		<id>901001</id>
 		<name>STR_INGAME_CUSTOMIZING__RESTORE</name>
-		<body>Reset</body>
+		<body>Redefinir</body>
 	</string>
 	<string>
 		<id>901002</id>
 		<name>STR_INGAME_CUSTOMIZING__OK</name>
-		<body>Change</body>
+		<body>Alterar</body>
 	</string>
 	<string>
 		<id>901003</id>
 		<name>STR_INGAME_CUSTOMIZING__CANCEL</name>
-		<body>Cancel</body>
+		<body>Cancelar</body>
 	</string>
 	<string>
 		<id>910001</id>
 		<name>STR_SYSTEM_MENU_DIALOG</name>
-		<body>System Menu</body>
+		<body>Menu do Sistema</body>
 	</string>
 	<string>
 		<id>910002</id>
 		<name>STR_SYSTEM_MENU_DIALOG__QUIT_GAME</name>
-		<body>Quit</body>
+		<body>Sair</body>
 	</string>
 	<string>
 		<id>910003</id>
 		<name>STR_SYSTEM_MENU_DIALOG__GOTO_SELECT</name>
-		<body>Character screen</body>
+		<body>Tela de personagens</body>
 	</string>
 	<string>
 		<id>910004</id>
 		<name>STR_SYSTEM_MENU_DIALOG__OPTION</name>
-		<body>Options</body>
+		<body>Opções</body>
 	</string>
 	<string>
 		<id>910005</id>
 		<name>STR_SYSTEM_MENU_DIALOG__CANCEL</name>
-		<body>Cancel</body>
+		<body>Cancelar</body>
 	</string>
 	<string>
 		<id>910006</id>
@@ -633,7 +633,7 @@
 	<string>
 		<id>910012</id>
 		<name>STR_BASIC_STATUS_DIALOG_SMALL__WIDGET4</name>
-		<body>XP</body>
+		<body>EXP</body>
 	</string>
 	<string>
 		<id>910013</id>
@@ -643,42 +643,42 @@
 	<string>
 		<id>910014</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_CS_TAB_BASIC</name>
-		<body>Basic Information</body>
+		<body>Informações Básicas</body>
 	</string>
 	<string>
 		<id>910015</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_CS_TAB_COMBAT</name>
-		<body>Miscellaneous Information</body>
+		<body>Informaçoes Diversas</body>
 	</string>
 	<string>
 		<id>910016</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_CS_TAB_FACTION</name>
-		<body>Reputation</body>
+		<body>Reputação</body>
 	</string>
 	<string>
 		<id>910017</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_WIDGET1</name>
-		<body>Name</body>
+		<body>Nome</body>
 	</string>
 	<string>
 		<id>910018</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_WIDGET2</name>
-		<body>Level</body>
+		<body>Nível</body>
 	</string>
 	<string>
 		<id>910019</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_WIDGET3</name>
-		<body>Class</body>
+		<body>Classe</body>
 	</string>
 	<string>
 		<id>910020</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_WIDGET4</name>
-		<body>Faction</body>
+		<body>Facção</body>
 	</string>
 	<string>
 		<id>910021</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_WIDGET5</name>
-		<body>Nation</body>
+		<body>Nação</body>
 	</string>
 	<string>
 		<id>910022</id>
@@ -688,17 +688,17 @@
 	<string>
 		<id>910023</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_WIDGET8</name>
-		<body>Attack</body>
+		<body>Dano Físico</body>
 	</string>
 	<string>
 		<id>910024</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_WIDGET9</name>
-		<body>- Main Hand</body>
+		<body>- Mão Direita</body>
 	</string>
 	<string>
 		<id>910025</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_WIDGET10</name>
-		<body>- Off Hand</body>
+		<body>- Mão Esquerda</body>
 	</string>
 	<string>
 		<id>910026</id>
@@ -708,47 +708,47 @@
 	<string>
 		<id>910027</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_WIDGET12</name>
-		<body>Magical Defense</body>
+		<body>Def. Mágica</body>
 	</string>
 	<string>
 		<id>910028</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_WIDGET13</name>
-		<body>Power</body>
+		<body>Poder</body>
 	</string>
 	<string>
 		<id>910029</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_WIDGET14</name>
-		<body>Accuracy</body>
+		<body>Precisão Física</body>
 	</string>
 	<string>
 		<id>910030</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_WIDGET15</name>
-		<body>Knowledge</body>
+		<body>Conhecimento</body>
 	</string>
 	<string>
 		<id>910031</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_WIDGET16</name>
-		<body>Health</body>
+		<body>Vida</body>
 	</string>
 	<string>
 		<id>910032</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_WIDGET17</name>
-		<body>Agility</body>
+		<body>Agilidade</body>
 	</string>
 	<string>
 		<id>910033</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_WIDGET18</name>
-		<body>Will</body>
+		<body>Determinação</body>
 	</string>
 	<string>
 		<id>910034</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_WIDGET20</name>
-		<body>Accuracy</body>
+		<body>Precisão Física</body>
 	</string>
 	<string>
 		<id>910035</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_WIDGET21</name>
-		<body>Speed</body>
+		<body>Velocidade</body>
 	</string>
 	<string>
 		<id>910036</id>
@@ -758,17 +758,17 @@
 	<string>
 		<id>910037</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_WIDGET23</name>
-		<body>Attack</body>
+		<body>Dano Físico</body>
 	</string>
 	<string>
 		<id>910038</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_WIDGET24</name>
-		<body>Evasion</body>
+		<body>Evasão</body>
 	</string>
 	<string>
 		<id>910039</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_WIDGET25</name>
-		<body>Atk. Speed</body>
+		<body>Veloc. Ataque</body>
 	</string>
 	<string>
 		<id>910040</id>
@@ -778,37 +778,37 @@
 	<string>
 		<id>910041</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_WIDGET27</name>
-		<body>Crit Strike</body>
+		<body>Crítico Físico</body>
 	</string>
 	<string>
 		<id>910042</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_WIDGET28</name>
-		<body>Fire Resist</body>
+		<body>Resistência à Fogo</body>
 	</string>
 	<string>
 		<id>910043</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_WIDGET29</name>
-		<body>Wind Resist</body>
+		<body>Resistência à Vento</body>
 	</string>
 	<string>
 		<id>910044</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_WIDGET30</name>
-		<body>Water Resist</body>
+		<body>Resistência à Água</body>
 	</string>
 	<string>
 		<id>910045</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_WIDGET31</name>
-		<body>Earth Resist</body>
+		<body>Resistência à Terra</body>
 	</string>
 	<string>
 		<id>910046</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_WIDGET32</name>
-		<body>PVP Point</body>
+		<body>Pontos PVP</body>
 	</string>
 	<string>
 		<id>910047</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_WIDGET33</name>
-		<body>Contribution Point</body>
+		<body>Pontos de Contribuição</body>
 	</string>
 	<string>
 		<id>910048</id>
@@ -818,22 +818,22 @@
 	<string>
 		<id>910049</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_WIDGET35</name>
-		<body>Address</body>
+		<body>Endereço</body>
 	</string>
 	<string>
 		<id>910050</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_WIDGET37</name>
-		<body>Select Title</body>
+		<body>Selecionar Título</body>
 	</string>
 	<string>
 		<id>910051</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_SELECT_TITLE</name>
-		<body>Select</body>
+		<body>Selecionar</body>
 	</string>
 	<string>
 		<id>910052</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_FACTION_LIST_ALL_FACTION</name>
-		<body>All</body>
+		<body>Todos</body>
 	</string>
 	<string>
 		<id>910053</id>
@@ -858,7 +858,7 @@
 	<string>
 		<id>910057</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_FACTION_LIST_OTHER_FACTION</name>
-		<body>Other</body>
+		<body>Outros</body>
 	</string>
 	<string>
 		<id>910058</id>
@@ -868,42 +868,42 @@
 	<string>
 		<id>910059</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_CS_TAB_BASIC</name>
-		<body>Basic Information</body>
+		<body>Informações Básicas</body>
 	</string>
 	<string>
 		<id>910060</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_CS_TAB_COMBAT</name>
-		<body>Miscellaneous Information</body>
+		<body>Informações Diversas</body>
 	</string>
 	<string>
 		<id>910061</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_CS_TAB_FACTION</name>
-		<body>Reputation</body>
+		<body>Reputação</body>
 	</string>
 	<string>
 		<id>910062</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET1</name>
-		<body>Name</body>
+		<body>Nome</body>
 	</string>
 	<string>
 		<id>910063</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET2</name>
-		<body>Level</body>
+		<body>Nível</body>
 	</string>
 	<string>
 		<id>910064</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET3</name>
-		<body>Class</body>
+		<body>Classe</body>
 	</string>
 	<string>
 		<id>910065</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET4</name>
-		<body>Faction</body>
+		<body>Facão</body>
 	</string>
 	<string>
 		<id>910066</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET5</name>
-		<body>Nation</body>
+		<body>Nação</body>
 	</string>
 	<string>
 		<id>910067</id>
@@ -913,67 +913,67 @@
 	<string>
 		<id>910068</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET8</name>
-		<body>Attack</body>
+		<body>Dano Físico</body>
 	</string>
 	<string>
 		<id>910069</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET9</name>
-		<body>- Main Hand</body>
+		<body>- Mão Direita</body>
 	</string>
 	<string>
 		<id>910070</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET10</name>
-		<body>- Off Hand</body>
+		<body>- Mão Esquerda</body>
 	</string>
 	<string>
 		<id>910071</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET11</name>
-		<body>Defense</body>
+		<body>Def. Física</body>
 	</string>
 	<string>
 		<id>910072</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET12</name>
-		<body>Magical Defense</body>
+		<body>Def. Mágica</body>
 	</string>
 	<string>
 		<id>910073</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET13</name>
-		<body>Power</body>
+		<body>Poder</body>
 	</string>
 	<string>
 		<id>910074</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET14</name>
-		<body>Accuracy</body>
+		<body>Precisão Física</body>
 	</string>
 	<string>
 		<id>910075</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET15</name>
-		<body>Knowledge</body>
+		<body>Conhecimento</body>
 	</string>
 	<string>
 		<id>910076</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET16</name>
-		<body>Health</body>
+		<body>Vida</body>
 	</string>
 	<string>
 		<id>910077</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET17</name>
-		<body>Agility</body>
+		<body>Agilidade</body>
 	</string>
 	<string>
 		<id>910078</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET18</name>
-		<body>Will</body>
+		<body>Determinação</body>
 	</string>
 	<string>
 		<id>910079</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET20</name>
-		<body>Accuracy</body>
+		<body>Precisão Física</body>
 	</string>
 	<string>
 		<id>910080</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET21</name>
-		<body>Speed</body>
+		<body>Velocidade</body>
 	</string>
 	<string>
 		<id>910081</id>
@@ -983,17 +983,17 @@
 	<string>
 		<id>910082</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET23</name>
-		<body>Attack</body>
+		<body>Dano Físico</body>
 	</string>
 	<string>
 		<id>910083</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET24</name>
-		<body>Evasion</body>
+		<body>Evasão</body>
 	</string>
 	<string>
 		<id>910084</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET25</name>
-		<body>Atk. Speed</body>
+		<body>Veloc. Ataque</body>
 	</string>
 	<string>
 		<id>910085</id>
@@ -1003,37 +1003,37 @@
 	<string>
 		<id>910086</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET27</name>
-		<body>Crit Strike</body>
+		<body>Crítico Físico</body>
 	</string>
 	<string>
 		<id>910087</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET28</name>
-		<body>Fire Resist</body>
+		<body>Resistência à Fogo</body>
 	</string>
 	<string>
 		<id>910088</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET29</name>
-		<body>Wind Resist</body>
+		<body>Resistência à Vento</body>
 	</string>
 	<string>
 		<id>910089</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET30</name>
-		<body>Water Resist</body>
+		<body>Resistência à Água</body>
 	</string>
 	<string>
 		<id>910090</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET31</name>
-		<body>Earth Resist</body>
+		<body>Resistência à Terra</body>
 	</string>
 	<string>
 		<id>910091</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET32</name>
-		<body>PVP Point</body>
+		<body>Pontos PVP</body>
 	</string>
 	<string>
 		<id>910092</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET33</name>
-		<body>National Contribute Point</body>
+		<body>Ponto de Contribuição Nacional</body>
 	</string>
 	<string>
 		<id>910093</id>
@@ -1043,22 +1043,22 @@
 	<string>
 		<id>910094</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET35</name>
-		<body>Address</body>
+		<body>Endereço</body>
 	</string>
 	<string>
 		<id>910095</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET37</name>
-		<body>Select Title</body>
+		<body>Selecione o Título</body>
 	</string>
 	<string>
 		<id>910096</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_SELECT_TITLE</name>
-		<body>Select</body>
+		<body>Selecionar</body>
 	</string>
 	<string>
 		<id>910097</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_FACTION_LIST_ALL_FACTION</name>
-		<body>All</body>
+		<body>Todos</body>
 	</string>
 	<string>
 		<id>910098</id>
@@ -1083,12 +1083,12 @@
 	<string>
 		<id>910102</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_FACTION_LIST_OTHER_FACTION</name>
-		<body>Other</body>
+		<body>Outros</body>
 	</string>
 	<string>
 		<id>910103</id>
 		<name>STR_QUICKBAR_DIALOG__BUNDLE00_WIDGET2</name>
-		<body>No.</body>
+		<body>Nro.</body>
 	</string>
 	<string>
 		<id>910104</id>
@@ -1283,7 +1283,7 @@
 	<string>
 		<id>910142</id>
 		<name>STR_QUICKBAR_DIALOG__BUNDLE10_WIDGET2</name>
-		<body>No.</body>
+		<body>Nro.</body>
 	</string>
 	<string>
 		<id>910143</id>
@@ -1738,27 +1738,27 @@
 	<string>
 		<id>910233</id>
 		<name>STR_INVENTORY_DIALOG</name>
-		<body>Inventory</body>
+		<body>Inventário</body>
 	</string>
 	<string>
 		<id>910234</id>
 		<name>STR_INVENTORY_DIALOG__TABFRAME_INV_TAB_ALL</name>
-		<body>All</body>
+		<body>Todos</body>
 	</string>
 	<string>
 		<id>910235</id>
 		<name>STR_INVENTORY_DIALOG__TABFRAME_INV_TAB_EQUIP</name>
-		<body>Equipment</body>
+		<body>Equipamentos</body>
 	</string>
 	<string>
 		<id>910236</id>
 		<name>STR_INVENTORY_DIALOG__TABFRAME_INV_TAB_CONSUME</name>
-		<body>Supply</body>
+		<body>Fornecer</body>
 	</string>
 	<string>
 		<id>910237</id>
 		<name>STR_INVENTORY_DIALOG__TABFRAME_INV_TAB_QUEST</name>
-		<body>Quest</body>
+		<body>Missões</body>
 	</string>
 	<string>
 		<id>910238</id>
@@ -1768,27 +1768,27 @@
 	<string>
 		<id>910239</id>
 		<name>STR_INVENTORY_OTHER_DIALOG</name>
-		<body>Equipment</body>
+		<body>Equipamentos</body>
 	</string>
 	<string>
 		<id>910240</id>
 		<name>STR_INVENTORY_OTHER_DIALOG__TABFRAME_INV_TAB_ALL</name>
-		<body>All</body>
+		<body>Todos</body>
 	</string>
 	<string>
 		<id>910241</id>
 		<name>STR_INVENTORY_OTHER_DIALOG__TABFRAME_INV_TAB_EQUIP</name>
-		<body>Equipment</body>
+		<body>Equipamentos</body>
 	</string>
 	<string>
 		<id>910242</id>
 		<name>STR_INVENTORY_OTHER_DIALOG__TABFRAME_INV_TAB_CONSUME</name>
-		<body>Supply</body>
+		<body>Fornecer</body>
 	</string>
 	<string>
 		<id>910243</id>
 		<name>STR_INVENTORY_OTHER_DIALOG__TABFRAME_INV_TAB_QUEST</name>
-		<body>Quest</body>
+		<body>Missões</body>
 	</string>
 	<string>
 		<id>910244</id>
@@ -1798,22 +1798,22 @@
 	<string>
 		<id>910245</id>
 		<name>STR_SKILL_DIALOG</name>
-		<body>Skills</body>
+		<body>Habilidades</body>
 	</string>
 	<string>
 		<id>910246</id>
 		<name>STR_SKILL_DIALOG__TABFRAME_SKILL_TAB_ACTIVE</name>
-		<body>Active</body>
+		<body>Ativa</body>
 	</string>
 	<string>
 		<id>910247</id>
 		<name>STR_SKILL_DIALOG__TABFRAME_SKILL_TAB_PASSIVE</name>
-		<body>Passive</body>
+		<body>Passiva</body>
 	</string>
 	<string>
 		<id>910248</id>
 		<name>STR_SKILL_DIALOG__TABFRAME_SKILL_TAB_PRODUCE</name>
-		<body>Craft</body>
+		<body>Criaão</body>
 	</string>
 	<string>
 		<id>910249</id>
@@ -1828,17 +1828,17 @@
 	<string>
 		<id>910251</id>
 		<name>STR_SKILL_OTHER_DIALOG</name>
-		<body>Skills</body>
+		<body>Habilidades</body>
 	</string>
 	<string>
 		<id>910252</id>
 		<name>STR_SKILL_OTHER_DIALOG__TABFRAME_SKILL_TAB_ACTIVE</name>
-		<body>Active</body>
+		<body>Ativa</body>
 	</string>
 	<string>
 		<id>910253</id>
 		<name>STR_SKILL_OTHER_DIALOG__TABFRAME_SKILL_TAB_PASSIVE</name>
-		<body>Passive</body>
+		<body>Passiva</body>
 	</string>
 	<string>
 		<id>910254</id>
@@ -1873,7 +1873,7 @@
 	<string>
 		<id>910260</id>
 		<name>STR_CHAT_DIALOG__CHAT_TABFRAME_CH_TAB_0</name>
-		<body>All</body>
+		<body>Todos</body>
 	</string>
 	<string>
 		<id>910261</id>
@@ -1898,17 +1898,17 @@
 	<string>
 		<id>910266</id>
 		<name>STR_CHAT_OPTION_DIALOG</name>
-		<body>Options</body>
+		<body>Opções</body>
 	</string>
 	<string>
 		<id>910267</id>
 		<name>STR_CHAT_OPTION_DIALOG__WIDGET1</name>
-		<body>Tab Name</body>
+		<body>Nome da Aba</body>
 	</string>
 	<string>
 		<id>910268</id>
 		<name>STR_CHAT_OPTION_DIALOG__WIDGET3</name>
-		<body>Current Tab Info &amp; Colour Setting</body>
+		<body>Informações da Aba Atual &amp; Configuração de cor</body>
 	</string>
 	<string>
 		<id>910269</id>
@@ -1923,117 +1923,117 @@
 	<string>
 		<id>910271</id>
 		<name>STR_CHAT_OPTION_DIALOG__SHOUT</name>
-		<body>Shout</body>
+		<body>Gritar</body>
 	</string>
 	<string>
 		<id>910272</id>
 		<name>STR_CHAT_OPTION_DIALOG__WHISPER_RECV</name>
-		<body>Incoming Whisper</body>
+		<body>recebendo MP</body>
 	</string>
 	<string>
 		<id>910273</id>
 		<name>STR_CHAT_OPTION_DIALOG__WHISPER_SEND</name>
-		<body>Outgoing Whisper</body>
+		<body>enviando MP</body>
 	</string>
 	<string>
 		<id>910274</id>
 		<name>STR_CHAT_OPTION_DIALOG__NPC_FRIENDLY</name>
-		<body>Friendly NPC Dialog</body>
+		<body>Diálogo de NPC Amigável</body>
 	</string>
 	<string>
 		<id>910275</id>
 		<name>STR_CHAT_OPTION_DIALOG__NPC_HOSTILE</name>
-		<body>Hostile NPC Dialog</body>
+		<body>Diálogo de NPC Hostil</body>
 	</string>
 	<string>
 		<id>910276</id>
 		<name>STR_CHAT_OPTION_DIALOG__PARTY</name>
-		<body>Group Chat</body>
+		<body>Chat de Grupo</body>
 	</string>
 	<string>
 		<id>910277</id>
 		<name>STR_CHAT_OPTION_DIALOG__ALLIANCE</name>
-		<body>Alliance Chat</body>
+		<body>Chat de Aliança</body>
 	</string>
 	<string>
 		<id>910278</id>
 		<name>STR_CHAT_OPTION_DIALOG__GUILD</name>
-		<body>Legion Chat</body>
+		<body>Chat de Legião</body>
 	</string>
 	<string>
 		<id>910279</id>
 		<name>STR_CHAT_OPTION_DIALOG__CHANNEL0</name>
-		<body>Channel 1</body>
+		<body>Canal 1</body>
 	</string>
 	<string>
 		<id>910280</id>
 		<name>STR_CHAT_OPTION_DIALOG__CHANNEL1</name>
-		<body>Channel 2</body>
+		<body>Canal 2</body>
 	</string>
 	<string>
 		<id>910281</id>
 		<name>STR_CHAT_OPTION_DIALOG__CHANNEL2</name>
-		<body>Channel 3</body>
+		<body>Canal 3</body>
 	</string>
 	<string>
 		<id>910282</id>
 		<name>STR_CHAT_OPTION_DIALOG__CHANNEL3</name>
-		<body>Channel 4</body>
+		<body>Canal 4</body>
 	</string>
 	<string>
 		<id>910283</id>
 		<name>STR_CHAT_OPTION_DIALOG__CHANNEL4</name>
-		<body>Channel 5</body>
+		<body>Canal 5</body>
 	</string>
 	<string>
 		<id>910284</id>
 		<name>STR_CHAT_OPTION_DIALOG__CHANNEL5</name>
-		<body>Channel 6</body>
+		<body>Canal 6</body>
 	</string>
 	<string>
 		<id>910285</id>
 		<name>STR_CHAT_OPTION_DIALOG__SYSTEM_INFO</name>
-		<body>Information</body>
+		<body>Informações</body>
 	</string>
 	<string>
 		<id>910286</id>
 		<name>STR_CHAT_OPTION_DIALOG__SYSTEM_WARNING</name>
-		<body>Error/Warning</body>
+		<body>Erros/Avisos</body>
 	</string>
 	<string>
 		<id>910287</id>
 		<name>STR_CHAT_OPTION_DIALOG__SYSTEM_ABYSS</name>
-		<body>Abyss Information</body>
+		<body>Informações do Abyss</body>
 	</string>
 	<string>
 		<id>910288</id>
 		<name>STR_CHAT_OPTION_DIALOG__SYSTEM_PRODUCE</name>
-		<body>Craft</body>
+		<body>Criação</body>
 	</string>
 	<string>
 		<id>910289</id>
 		<name>STR_CHAT_OPTION_DIALOG__MY_LOOT_ITEM</name>
-		<body>Acquire Item</body>
+		<body>Item Adquirido</body>
 	</string>
 	<string>
 		<id>910290</id>
 		<name>STR_CHAT_OPTION_DIALOG__MY_LOOT_MONEY</name>
-		<body>Acquire Kinah</body>
+		<body>Kinah Adquirido</body>
 	</string>
 	<string>
 		<id>910291</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_MY_DEATH</name>
-		<body>My Death</body>
+		<body>Minha Morte</body>
 	</string>
 	<string>
 		<id>910292</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_FRIENDLY_DEATH</name>
-		<body>Ally&apos;s Death</body>
+		<body>Morte do Aliado</body>
 	</string>
 	<string>
 		<id>910293</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_HOSTILE_DEATH</name>
-		<body>Enemy&apos;s Death</body>
+		<body>Morte do Inimigo</body>
 	</string>
 	<string>
 		<id>910294</id>
@@ -2043,37 +2043,37 @@
 	<string>
 		<id>910295</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_MY_ATTACK</name>
-		<body>My Attack</body>
+		<body>Meu Dano</body>
 	</string>
 	<string>
 		<id>910296</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_MY_CRITICAL</name>
-		<body>My Critical Strike</body>
+		<body>Meu Dano Crítico</body>
 	</string>
 	<string>
 		<id>910297</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_MY_SKILL_ATK</name>
-		<body>My Attack Skills</body>
+		<body>Minhas Habilidades</body>
 	</string>
 	<string>
 		<id>910298</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_MY_SKILL_BUFF</name>
-		<body>My Buffs</body>
+		<body>Meus Buffs</body>
 	</string>
 	<string>
 		<id>910299</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_MY_SKILL_EFX</name>
-		<body>My Skill Info</body>
+		<body>Inf. Minhas Habil.</body>
 	</string>
 	<string>
 		<id>910300</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_MY_SKILL_PERIOD</name>
-		<body>My Periodic Effect</body>
+		<body>Meus Efeitos Perio.</body>
 	</string>
 	<string>
 		<id>910301</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_MY_DEFENCE</name>
-		<body>My Defence</body>
+		<body>Minha Defesa</body>
 	</string>
 	<string>
 		<id>910302</id>
@@ -3988,7 +3988,7 @@
 	<string>
 		<id>910685</id>
 		<name>STR_DLG_GUILD_OTHER_INFO__GUILD_TABFRAME_GUILD_TAB_FACTION</name>
-		<body>Legion Reputation</body>
+		<body>Legion Reputação</body>
 	</string>
 	<string>
 		<id>910686</id>
@@ -5429,7 +5429,7 @@
 	<string>
 		<id>910975</id>
 		<name>STR_STATUS_NEW_DIALOG__TABFRAME_CS_TAB_BASIC</name>
-		<body>Basic Information</body>
+		<body>Informações Básicas</body>
 	</string>
 	<string>
 		<id>910976</id>

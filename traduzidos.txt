@@ -19,7 +19,7 @@
 ## TRADUZIDO ##
 ###############
 \STRINGS
-client_strings_ui.xml (parcialmente linha 28766)
+client_strings_ui.xml (100% v1.9)
 stringtable_dialog.xml (parcialmente)
 client_strings_msg.xml (parcialmente)
 client_strings_item2.xml (arrumado valor pot mana)
