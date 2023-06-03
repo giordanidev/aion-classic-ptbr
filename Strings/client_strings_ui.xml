@@ -9799,7 +9799,7 @@
 	<string>
 		<id>901575</id>
 		<name>STR_RESURRECT_TITLE_RP</name>
-		<body>Você está morto!</body>
+		<body>Voltar no Início</body>
 	</string>
 	<string>
 		<id>901576</id>
@@ -11978,7 +11978,7 @@
 	<string>
 		<id>902017</id>
 		<name>STR_WAIT_TO_CHARACTER_CHOICE</name>
-		<body>Indo para a seleção de personagem em %0 segundos.</body>
+		<body>Saindo para a tela de seleção de personagens em %0 segundos.</body>
 	</string>
 	<string>
 		<id>902018</id>

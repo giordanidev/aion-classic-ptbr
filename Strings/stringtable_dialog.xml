@@ -108,7 +108,7 @@
 	<string>
 		<id>900300</id>
 		<name>STR_LOBBY_SELECT__SERVER_LIST</name>
-		<body>Selecionar</body>
+		<body>Alterar Servidor</body>
 	</string>
 	<string>
 		<id>900301</id>
@@ -588,7 +588,7 @@
 	<string>
 		<id>910003</id>
 		<name>STR_SYSTEM_MENU_DIALOG__GOTO_SELECT</name>
-		<body>Tela de personagens</body>
+		<body>Personagens</body>
 	</string>
 	<string>
 		<id>910004</id>
@@ -2558,7 +2558,7 @@
 	<string>
 		<id>910398</id>
 		<name>STR_QUEST_OTHER_DIALOG__QUEST_TABFRAME_WIDGET3</name>
-		<body>Completada<a/body>
+		<body>Completada</body>
 	</string>
 	<string>
 		<id>910399</id>
@@ -8124,7 +8124,7 @@
 	<string>
 		<id>911514</id>
 		<name>STR_LOBBY_SERVER__PREV</name>
-		<body>Last Server</body>
+		<body>Último Servidor</body>
 	</string>
 	<string>
 		<id>911515</id>
