@@ -8934,12 +8934,12 @@
 	<string>
 		<id>901400</id>
 		<name>STR_CHAT_CMD_ALERT</name>
-		<body>/Alert</body>
+		<body>/Alert,/Alerta</body>
 	</string>
 	<string>
 		<id>901401</id>
 		<name>STR_CHAR_MODE_CMD_ALERT</name>
-		<body>/Alert</body>
+		<body>Alert,Alerta</body>
 	</string>
 	<string>
 		<id>901402</id>

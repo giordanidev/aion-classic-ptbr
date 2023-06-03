@@ -1813,7 +1813,7 @@
 	<string>
 		<id>910248</id>
 		<name>STR_SKILL_DIALOG__TABFRAME_SKILL_TAB_PRODUCE</name>
-		<body>Criaão</body>
+		<body>Criação</body>
 	</string>
 	<string>
 		<id>910249</id>
@@ -2053,22 +2053,22 @@
 	<string>
 		<id>910297</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_MY_SKILL_ATK</name>
-		<body>Minhas Habilidades</body>
+		<body>Minha Habilidade</body>
 	</string>
 	<string>
 		<id>910298</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_MY_SKILL_BUFF</name>
-		<body>Meus Buffs</body>
+		<body>Meu Buff</body>
 	</string>
 	<string>
 		<id>910299</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_MY_SKILL_EFX</name>
-		<body>Inf. Minhas Habil.</body>
+		<body>Inf. Minha Habil.</body>
 	</string>
 	<string>
 		<id>910300</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_MY_SKILL_PERIOD</name>
-		<body>Meus Efeitos Perio.</body>
+		<body>Meu Efeito Perio.</body>
 	</string>
 	<string>
 		<id>910301</id>
@@ -2078,187 +2078,187 @@
 	<string>
 		<id>910302</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_ENEMY_ATTACK</name>
-		<body>Attack on Me</body>
+		<body>Dano em Mim</body>
 	</string>
 	<string>
 		<id>910303</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_ENEMY_CRITICAL</name>
-		<body>Crit Hit on Me</body>
+		<body>Dano Crít. em Mim</body>
 	</string>
 	<string>
 		<id>910304</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_ENEMY_SKILL_ATK</name>
-		<body>Attack Skill on Me</body>
+		<body>Habil. em Mim</body>
 	</string>
 	<string>
 		<id>910305</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_ENEMY_SKILL_BUFF</name>
-		<body>Tgt&apos;s Buffs</body>
+		<body>Buff do Alvo</body>
 	</string>
 	<string>
 		<id>910306</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_ENEMY_SKILL_EFX</name>
-		<body>Details of Tgt&apos;s Skills</body>
+		<body>Inf. Habil. do Alvo</body>
 	</string>
 	<string>
 		<id>910307</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_ENEMY_SKILL_PERIOD</name>
-		<body>Tgt&apos;s Repeat Effect</body>
+		<body>Efeito Perio. Alvo</body>
 	</string>
 	<string>
 		<id>910308</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_ENEMY_DEFENCE</name>
-		<body>Tgt&apos;s Defence</body>
+		<body>Defesa do Alvo</body>
 	</string>
 	<string>
 		<id>910309</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_PARTY_ATTACK</name>
-		<body>Ally Attack</body>
+		<body>Dano do Aliado</body>
 	</string>
 	<string>
 		<id>910310</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_PARTY_SKILL_ATK</name>
-		<body>Ally Attack Skills</body>
+		<body>Habil. do Aliado</body>
 	</string>
 	<string>
 		<id>910311</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_PARTY_SKILL_BUFF</name>
-		<body>Ally Buffs</body>
+		<body>Buff do Aliado</body>
 	</string>
 	<string>
 		<id>910312</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_PARTY_SKILL_EFX</name>
-		<body>Details of Ally Skills</body>
+		<body>Inf. Habil. Aliado</body>
 	</string>
 	<string>
 		<id>910313</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_PARTY_SKILL_PERIOD</name>
-		<body>Ally Repeat Effect</body>
+		<body>Efeito Perio. Aliado</body>
 	</string>
 	<string>
 		<id>910314</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_PARTY_DEFENCE</name>
-		<body>Ally Defence</body>
+		<body>Defesa do Aliado</body>
 	</string>
 	<string>
 		<id>910315</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_PARTY_ENEMY_ATTACK</name>
-		<body>Attack On Ally</body>
+		<body>Dano em Aliado</body>
 	</string>
 	<string>
 		<id>910316</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_PARTY_ENEMY_SKILL_ATK</name>
-		<body>Attack Skill on Ally</body>
+		<body>Habil. em Aliado</body>
 	</string>
 	<string>
 		<id>910317</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_PARTY_ENEMY_SKILL_BUFF</name>
-		<body>Tgt&apos;s Buffs</body>
+		<body>Buff do Inimigo</body>
 	</string>
 	<string>
 		<id>910318</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_PARTY_ENEMY_SKILL_EFX</name>
-		<body>Details of Tgt&apos;s Skills</body>
+		<body>Inf. Habil. Inimigo</body>
 	</string>
 	<string>
 		<id>910319</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_PARTY_ENEMY_SKILL_PERIOD</name>
-		<body>Tgt&apos;s Repeat Effect</body>
+		<body>Efeito Perio. Inimigo</body>
 	</string>
 	<string>
 		<id>910320</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_PARTY_ENEMY_DEFENCE</name>
-		<body>Tgt&apos;s Defence</body>
+		<body>Defesa do Inimigo</body>
 	</string>
 	<string>
 		<id>910321</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_FRIENDLY_ATTACK</name>
-		<body>Ally&apos;s Attack</body>
+		<body>Dano do Amigo</body>
 	</string>
 	<string>
 		<id>910322</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_FRIENDLY_SKILL_ATK</name>
-		<body>Ally&apos;s Attack Skills</body>
+		<body>Dano Habil. Amigo</body>
 	</string>
 	<string>
 		<id>910323</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_FRIENDLY_SKILL_BUFF</name>
-		<body>Ally&apos;s Buffs</body>
+		<body>Buff do Aliado</body>
 	</string>
 	<string>
 		<id>910324</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_FRIENDLY_SKILL_EFX</name>
-		<body>Details of Ally&apos;s Skills</body>
+		<body>Inf. Habil. Aliado</body>
 	</string>
 	<string>
 		<id>910325</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_FRIENDLY_SKILL_PERIOD</name>
-		<body>Ally&apos;s Repeat Effect</body>
+		<body>Efeito Perio. Aliado</body>
 	</string>
 	<string>
 		<id>910326</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_FRIENDLY_DEFENCE</name>
-		<body>Ally&apos;s Defence</body>
+		<body>Defesa do Aliado</body>
 	</string>
 	<string>
 		<id>910327</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_HOSTILE_ATTACK</name>
-		<body>Enemy&apos;s Attack</body>
+		<body>Dano Hostil</body>
 	</string>
 	<string>
 		<id>910328</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_HOSTILE_SKILL_ATK</name>
-		<body>Enemy&apos;s Atk Skills</body>
+		<body>Dano Habil. Hostil</body>
 	</string>
 	<string>
 		<id>910329</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_HOSTILE_SKILL_BUFF</name>
-		<body>Enemy&apos;s Buffs</body>
+		<body>Buff Hostil</body>
 	</string>
 	<string>
 		<id>910330</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_HOSTILE_SKILL_EFX</name>
-		<body>Details of Enemy&apos;s Skills</body>
+		<body>Inf. Habil. Hostil</body>
 	</string>
 	<string>
 		<id>910331</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_HOSTILE_SKILL_PERIOD</name>
-		<body>Enemy&apos;s Rpt Effect</body>
+		<body>Efeito Perio. Hostil</body>
 	</string>
 	<string>
 		<id>910332</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_HOSTILE_DEFENCE</name>
-		<body>Enemy&apos;s Defence</body>
+		<body>Defesa Hostil</body>
 	</string>
 	<string>
 		<id>910333</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_NPC_ATTACK</name>
-		<body>NPC&apos;s Attack</body>
+		<body>Dano NPC</body>
 	</string>
 	<string>
 		<id>910334</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_NPC_SKILL_ATK</name>
-		<body>NPC&apos;s Attack Skills</body>
+		<body>Dano Habil. NPC</body>
 	</string>
 	<string>
 		<id>910335</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_NPC_SKILL_BUFF</name>
-		<body>NPC&apos;s Buffs</body>
+		<body>Buff NPC</body>
 	</string>
 	<string>
 		<id>910336</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_NPC_SKILL_EFX</name>
-		<body>Details of NPC&apos;s Skills</body>
+		<body>Inf. Habil. NPC</body>
 	</string>
 	<string>
 		<id>910337</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_NPC_SKILL_PERIOD</name>
-		<body>NPC&apos;s Rpt Effect</body>
+		<body>Efeito Perio. NPC</body>
 	</string>
 	<string>
 		<id>910338</id>
 		<name>STR_CHAT_OPTION_DIALOG__COMBAT_NPC_DEFENCE</name>
-		<body>NPC&apos;s Defence</body>
+		<body>Defesa NPC</body>
 	</string>
 	<string>
 		<id>910339</id>
@@ -2268,32 +2268,32 @@
 	<string>
 		<id>910340</id>
 		<name>STR_CHAT_OPTION_DIALOG__GROUP_CHANNEL</name>
-		<body>Channel</body>
+		<body>Canal</body>
 	</string>
 	<string>
 		<id>910341</id>
 		<name>STR_CHAT_OPTION_DIALOG__GROUP_SYSTEM</name>
-		<body>System Information</body>
+		<body>Informaões do Sistema</body>
 	</string>
 	<string>
 		<id>910342</id>
 		<name>STR_CHAT_OPTION_DIALOG__GROUP_COMBAT_SELF</name>
-		<body>Combat - Self</body>
+		<body>Combate - Eu mesmo(a)</body>
 	</string>
 	<string>
 		<id>910343</id>
 		<name>STR_CHAT_OPTION_DIALOG__GROUP_COMBAT_PARTY</name>
-		<body>Combat - Group</body>
+		<body>Combate - Grupo</body>
 	</string>
 	<string>
 		<id>910344</id>
 		<name>STR_CHAT_OPTION_DIALOG__GROUP_COMBAT_OTHER</name>
-		<body>Combat - Others</body>
+		<body>Combate - Outros</body>
 	</string>
 	<string>
 		<id>910345</id>
 		<name>STR_CHAT_OPTION_DIALOG__BUTTON_RESET</name>
-		<body>Default</body>
+		<body>Padrão</body>
 	</string>
 	<string>
 		<id>910346</id>
@@ -2303,12 +2303,12 @@
 	<string>
 		<id>910347</id>
 		<name>STR_CHAT_OPTION_DIALOG__BUTTON_CANCEL</name>
-		<body>Cancel</body>
+		<body>Cancelar</body>
 	</string>
 	<string>
 		<id>910348</id>
 		<name>STR_CHAT_TAB_DIALOG</name>
-		<body>Add Tab</body>
+		<body>Adicionar Aba</body>
 	</string>
 	<string>
 		<id>910349</id>
@@ -2318,42 +2318,42 @@
 	<string>
 		<id>910350</id>
 		<name>STR_CHAT_TAB_DIALOG__BUTTON_CANCEL</name>
-		<body>Cancel</body>
+		<body>Cancelar</body>
 	</string>
 	<string>
 		<id>910351</id>
 		<name>STR_CHAT_TAB_DIALOG__WIDGET1</name>
-		<body>Tab1</body>
+		<body>Aba1</body>
 	</string>
 	<string>
 		<id>910352</id>
 		<name>STR_CHAT_TAB_DIALOG__WIDGET2</name>
-		<body>Tab2</body>
+		<body>Aba2</body>
 	</string>
 	<string>
 		<id>910353</id>
 		<name>STR_CHAT_TAB_DIALOG__WIDGET3</name>
-		<body>Tab3</body>
+		<body>Aba3</body>
 	</string>
 	<string>
 		<id>910354</id>
 		<name>STR_CHAT_TAB_DIALOG__WIDGET4</name>
-		<body>Tab4</body>
+		<body>Aba4</body>
 	</string>
 	<string>
 		<id>910355</id>
 		<name>STR_CHAT_TAB_DIALOG__WIDGET5</name>
-		<body>Tab5</body>
+		<body>Aba5</body>
 	</string>
 	<string>
 		<id>910356</id>
 		<name>STR_DLG_DIALOG</name>
-		<body>NPC Dialog</body>
+		<body>Falas de NPC</body>
 	</string>
 	<string>
 		<id>910357</id>
 		<name>STR_DLG_DIALOG__RETURN</name>
-		<body>Return</body>
+		<body>Returnar</body>
 	</string>
 	<string>
 		<id>910358</id>
@@ -2363,32 +2363,32 @@
 	<string>
 		<id>910359</id>
 		<name>STR_DLG_DIALOG__NPC_FUNC_1</name>
-		<body>NPC Function1</body>
+		<body>Função1 NPC</body>
 	</string>
 	<string>
 		<id>910360</id>
 		<name>STR_DLG_DIALOG__NPC_FUNC_2</name>
-		<body>NPC Function2</body>
+		<body>Função2 NPC</body>
 	</string>
 	<string>
 		<id>910361</id>
 		<name>STR_DLG_DIALOG__NPC_FUNC_3</name>
-		<body>NPC Function3</body>
+		<body>Função3 NPC</body>
 	</string>
 	<string>
 		<id>910362</id>
 		<name>STR_QUEST_DIALOG</name>
-		<body>Quests</body>
+		<body>Missões</body>
 	</string>
 	<string>
 		<id>910363</id>
 		<name>STR_QUEST_DIALOG__QUEST_STATUS</name>
-		<body>Quest Journal 0/50</body>
+		<body>Diário de Missões 0/50</body>
 	</string>
 	<string>
 		<id>910364</id>
 		<name>STR_QUEST_DIALOG__QUEST_TABFRAME_QUEST_TAB_WORLD</name>
-		<body>Campaign</body>
+		<body>Campanha</body>
 	</string>
 	<string>
 		<id>910365</id>
@@ -2398,37 +2398,37 @@
 	<string>
 		<id>910366</id>
 		<name>STR_QUEST_DIALOG__QUEST_TABFRAME_QUEST_TAB_COMMON</name>
-		<body>Quest</body>
+		<body>Missão</body>
 	</string>
 	<string>
 		<id>910367</id>
 		<name>STR_QUEST_DIALOG__QUEST_TABFRAME_SELECT_PAGE_COMBOBOX_WIDGET1_ITEM1</name>
-		<body>In Progress</body>
+		<body>Em progresso</body>
 	</string>
 	<string>
 		<id>910368</id>
 		<name>STR_QUEST_DIALOG__QUEST_TABFRAME_SELECT_PAGE_COMBOBOX_WIDGET1_ITEM2</name>
-		<body>Completed</body>
+		<body>Completada</body>
 	</string>
 	<string>
 		<id>910369</id>
 		<name>STR_QUEST_DIALOG__QUEST_TABFRAME_WIDGET1</name>
-		<body>In Progress</body>
+		<body>Em progresso</body>
 	</string>
 	<string>
 		<id>910370</id>
 		<name>STR_QUEST_DIALOG__QUEST_TABFRAME_WIDGET2</name>
-		<body>Description</body>
+		<body>Descrição</body>
 	</string>
 	<string>
 		<id>910371</id>
 		<name>STR_QUEST_DIALOG__QUEST_TABFRAME_WIDGET3</name>
-		<body>Completed</body>
+		<body>Completada</body>
 	</string>
 	<string>
 		<id>910372</id>
 		<name>STR_QUEST_DIALOG__QUEST_TABFRAME_WIDGET4</name>
-		<body>Summary</body>
+		<body>Resumo</body>
 	</string>
 	<string>
 		<id>910373</id>
@@ -2453,7 +2453,7 @@
 	<string>
 		<id>910377</id>
 		<name>STR_QUEST_DIALOG__QUEST_TABFRAME_WORKING_PAGE_WORLD_TAB_WIDGET1_ETC_EXT</name>
-		<body>Other</body>
+		<body>Outros</body>
 	</string>
 	<string>
 		<id>910378</id>
@@ -2478,7 +2478,7 @@
 	<string>
 		<id>910382</id>
 		<name>STR_QUEST_DIALOG__QUEST_TABFRAME_WORKING_PAGE_SOCIAL_TAB_WIDGET1_ETC_EXT</name>
-		<body>Other</body>
+		<body>Outros</body>
 	</string>
 	<string>
 		<id>910383</id>
@@ -2503,27 +2503,27 @@
 	<string>
 		<id>910387</id>
 		<name>STR_QUEST_DIALOG__QUEST_TABFRAME_WORKING_PAGE_COMMON_TAB_WIDGET1_ETC_EXT</name>
-		<body>Other</body>
+		<body>Outros</body>
 	</string>
 	<string>
 		<id>910388</id>
 		<name>STR_QUEST_DIALOG__QUEST_TABFRAME_TOGGLE_INDICATOR</name>
-		<body>Toggle Quest Indicator</body>
+		<body>Indicador de Missão</body>
 	</string>
 	<string>
 		<id>910389</id>
 		<name>STR_QUEST_OTHER_DIALOG</name>
-		<body>Quest</body>
+		<body>Missão</body>
 	</string>
 	<string>
 		<id>910390</id>
 		<name>STR_QUEST_OTHER_DIALOG__QUEST_STATUS</name>
-		<body>Quest Journal 0/50</body>
+		<body>Diário de Missões 0/50</body>
 	</string>
 	<string>
 		<id>910391</id>
 		<name>STR_QUEST_OTHER_DIALOG__QUEST_TABFRAME_QUEST_TAB_WORLD</name>
-		<body>Campaign</body>
+		<body>Campanha</body>
 	</string>
 	<string>
 		<id>910392</id>
@@ -2538,32 +2538,32 @@
 	<string>
 		<id>910394</id>
 		<name>STR_QUEST_OTHER_DIALOG__QUEST_TABFRAME_SELECT_PAGE_COMBOBOX_WIDGET1_ITEM1</name>
-		<body>In Progress</body>
+		<body>Em progresso</body>
 	</string>
 	<string>
 		<id>910395</id>
 		<name>STR_QUEST_OTHER_DIALOG__QUEST_TABFRAME_SELECT_PAGE_COMBOBOX_WIDGET1_ITEM2</name>
-		<body>Completed</body>
+		<body>Completada</body>
 	</string>
 	<string>
 		<id>910396</id>
 		<name>STR_QUEST_OTHER_DIALOG__QUEST_TABFRAME_WIDGET1</name>
-		<body>In Progress</body>
+		<body>Em progresso</body>
 	</string>
 	<string>
 		<id>910397</id>
 		<name>STR_QUEST_OTHER_DIALOG__QUEST_TABFRAME_WIDGET2</name>
-		<body>Description</body>
+		<body>Descrição</body>
 	</string>
 	<string>
 		<id>910398</id>
 		<name>STR_QUEST_OTHER_DIALOG__QUEST_TABFRAME_WIDGET3</name>
-		<body>Completed</body>
+		<body>Completada<a/body>
 	</string>
 	<string>
 		<id>910399</id>
 		<name>STR_QUEST_OTHER_DIALOG__QUEST_TABFRAME_WIDGET4</name>
-		<body>Summary</body>
+		<body>Resumo</body>
 	</string>
 	<string>
 		<id>910400</id>
@@ -2588,7 +2588,7 @@
 	<string>
 		<id>910404</id>
 		<name>STR_QUEST_OTHER_DIALOG__QUEST_TABFRAME_WORKING_PAGE_WORLD_TAB_WIDGET1_ETC_EXT</name>
-		<body>Other</body>
+		<body>Outros</body>
 	</string>
 	<string>
 		<id>910405</id>
@@ -2613,7 +2613,7 @@
 	<string>
 		<id>910409</id>
 		<name>STR_QUEST_OTHER_DIALOG__QUEST_TABFRAME_WORKING_PAGE_SOCIAL_TAB_WIDGET1_ETC_EXT</name>
-		<body>Other</body>
+		<body>Outros</body>
 	</string>
 	<string>
 		<id>910410</id>
@@ -2638,17 +2638,17 @@
 	<string>
 		<id>910414</id>
 		<name>STR_QUEST_OTHER_DIALOG__QUEST_TABFRAME_WORKING_PAGE_COMMON_TAB_WIDGET1_ETC_EXT</name>
-		<body>Other</body>
+		<body>Outros</body>
 	</string>
 	<string>
 		<id>910415</id>
 		<name>STR_QUEST_INDICATOR_DIALOG</name>
-		<body>Quest Notification</body>
+		<body>Notificaçção de Missão</body>
 	</string>
 	<string>
 		<id>910416</id>
 		<name>STR_PERSONAL_SHOP_DIALOG</name>
-		<body>Private Store</body>
+		<body>Loja Privada</body>
 	</string>
 	<string>
 		<id>910417</id>
@@ -2658,37 +2658,37 @@
 	<string>
 		<id>910418</id>
 		<name>STR_PERSONAL_SHOP_DIALOG__WIDGET2</name>
-		<body>Store Message</body>
+		<body>Mensagem da Loja</body>
 	</string>
 	<string>
 		<id>910419</id>
 		<name>STR_PERSONAL_SHOP_DIALOG__START</name>
-		<body>Start</body>
+		<body>Iniciar</body>
 	</string>
 	<string>
 		<id>910420</id>
 		<name>STR_PERSONAL_SHOP_DIALOG__STOP</name>
-		<body>Stop</body>
+		<body>Parar</body>
 	</string>
 	<string>
 		<id>910421</id>
 		<name>STR_PERSONAL_SHOP_DIALOG__CANCEL</name>
-		<body>Cancel</body>
+		<body>Cancelar</body>
 	</string>
 	<string>
 		<id>910422</id>
 		<name>STR_ITEM_PRICE_COUNT_DIALOG</name>
-		<body>Quantity</body>
+		<body>Quantidade</body>
 	</string>
 	<string>
 		<id>910423</id>
 		<name>STR_ITEM_PRICE_COUNT_DIALOG__IPC_MESSAGE</name>
-		<body>Number to move.</body>
+		<body>Quantos mover.</body>
 	</string>
 	<string>
 		<id>910424</id>
 		<name>STR_ITEM_PRICE_COUNT_DIALOG__WIDGET1</name>
-		<body>Price per item.</body>
+		<body>Preço por item.</body>
 	</string>
 	<string>
 		<id>910425</id>
@@ -2698,17 +2698,17 @@
 	<string>
 		<id>910426</id>
 		<name>STR_ITEM_PRICE_COUNT_DIALOG__CANCEL</name>
-		<body>Cancel</body>
+		<body>Cancelar</body>
 	</string>
 	<string>
 		<id>910427</id>
 		<name>STR_ITEM_PRICE_DIALOG</name>
-		<body>Quantity</body>
+		<body>Quantidade</body>
 	</string>
 	<string>
 		<id>910428</id>
 		<name>STR_ITEM_PRICE_DIALOG__IPC_MESSAGE</name>
-		<body>Please enter the amount.</body>
+		<body>Insira a quantidade.</body>
 	</string>
 	<string>
 		<id>910429</id>
@@ -2718,17 +2718,17 @@
 	<string>
 		<id>910430</id>
 		<name>STR_ITEM_PRICE_DIALOG__CANCEL</name>
-		<body>Cancel</body>
+		<body>Cancelar</body>
 	</string>
 	<string>
 		<id>910431</id>
 		<name>STR_ITEM_COUNT_DIALOG</name>
-		<body>Quantity</body>
+		<body>Quantidade</body>
 	</string>
 	<string>
 		<id>910432</id>
 		<name>STR_ITEM_COUNT_DIALOG__IPC_MESSAGE</name>
-		<body>Number to move.</body>
+		<body>Quantos mover.</body>
 	</string>
 	<string>
 		<id>910433</id>
@@ -2738,12 +2738,12 @@
 	<string>
 		<id>910434</id>
 		<name>STR_ITEM_COUNT_DIALOG__CANCEL</name>
-		<body>Cancel</body>
+		<body>Cancelar</body>
 	</string>
 	<string>
 		<id>910435</id>
 		<name>STR_TRADE_DIALOG</name>
-		<body>Shop</body>
+		<body>Loja</body>
 	</string>
 	<string>
 		<id>910436</id>
