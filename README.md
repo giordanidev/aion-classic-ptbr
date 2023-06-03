@@ -1,4 +1,6 @@
-# Aion Classic pt_BR
+# Aion Classic EU pt_BR
+
+### Só funciona para o CLASSIC EUROPEU por enquanto!!!
 
 Comecei esse projeto para ajudar os BRs que não entendem Inglês e gostariam de uma tradução que facilitasse a vida!
 
