@@ -13,6 +13,7 @@
 - PCROOM, PCBANG
 - BLOCK
 - CHANGE_SERVER
+- GM_DIALOG, PETITION
 - CONTEÚDO 55
 
 ###############
@@ -20,7 +21,7 @@
 ###############
 \STRINGS
 client_strings_ui.xml (100% v1.9)
-stringtable_dialog.xml (parcialmente linha 2743)
+stringtable_dialog.xml (parcialmente linha 8289)
 client_strings_msg.xml (parcialmente)
 client_strings_item2.xml (arrumado valor pot mana)
 
