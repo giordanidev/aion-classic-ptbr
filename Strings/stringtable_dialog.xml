@@ -58,7 +58,7 @@
 	<string>
 		<id>900108</id>
 		<name>STR_LOBBY_LOGIN__OTP</name>
-		<body>Enter OTP Authentication number</body>
+		<body>Entrar OTP Authentication number</body>
 	</string>
 	<string>
 		<id>900109</id>
@@ -1808,7 +1808,7 @@
 	<string>
 		<id>910247</id>
 		<name>STR_SKILL_DIALOG__TABFRAME_SKILL_TAB_PASSIVE</name>
-		<body>Passiva</body>
+		<body>Passariva</body>
 	</string>
 	<string>
 		<id>910248</id>
@@ -1838,7 +1838,7 @@
 	<string>
 		<id>910253</id>
 		<name>STR_SKILL_OTHER_DIALOG__TABFRAME_SKILL_TAB_PASSIVE</name>
-		<body>Passiva</body>
+		<body>Passariva</body>
 	</string>
 	<string>
 		<id>910254</id>
@@ -3847,7 +3847,7 @@
 	<string>
 		<id>910656</id>
 		<name>STR_DLG_GUILD_INFO__COLUMN_HEAD_WORDS</name>
-		<body>Auto-apresentação</body>
+		<body>Automático-apresentação</body>
 	</string>
 	<string>
 		<id>910657</id>
@@ -4637,7 +4637,7 @@
 	<string>
 		<id>910816</id>
 		<name>STR_PARTY_ITEM_DIALOG__PASS_DICE</name>
-		<body>Passar</body>
+		<body>Passarar</body>
 	</string>
 	<string>
 		<id>910817</id>
@@ -5054,7 +5054,7 @@
 	<string>
 		<id>910900</id>
 		<name>STR_GM_DIALOG__RECALL</name>
-		<body>Summon</body>
+		<body>Invocar</body>
 	</string>
 	<string>
 		<id>910901</id>
@@ -5094,7 +5094,7 @@
 	<string>
 		<id>910908</id>
 		<name>STR_GM_DIALOG__REFRESH</name>
-		<body>Refresh</body>
+		<body>Atualizar</body>
 	</string>
 	<string>
 		<id>910909</id>
@@ -6674,7 +6674,7 @@
 	<string>
 		<id>911224</id>
 		<name>STR_PLAYER_INFO_DIALOG__ABYSS_LASTWEEK</name>
-		<body>Semana Passada</body>
+		<body>Semana Passarada</body>
 	</string>
 	<string>
 		<id>911225</id>
@@ -6689,7 +6689,7 @@
 	<string>
 		<id>911227</id>
 		<name>STR_PLAYER_INFO_DIALOG__ABYSS_GET_POINT</name>
-		<body>Abyss Points</body>
+		<body>Abyss Pontos</body>
 	</string>
 	<string>
 		<id>911228</id>
@@ -7429,7 +7429,7 @@
 	<string>
 		<id>911375</id>
 		<name>STR_LOOT_ROLL_DIALOG__DISMISS</name>
-		<body>Passar</body>
+		<body>Passarar</body>
 	</string>
 	<string>
 		<id>911376</id>
@@ -8299,7 +8299,7 @@
 	<string>
 		<id>911549</id>
 		<name>STR_SUMMON_DIALOG</name>
-		<body>Summon</body>
+		<body>Invocar</body>
 	</string>
 	<string>
 		<id>911550</id>
@@ -8334,7 +8334,7 @@
 	<string>
 		<id>911556</id>
 		<name>STR_VENDOR_DIALOG__SEARCH_QUALITY</name>
-		<body>Grade</body>
+		<body>Categoria</body>
 	</string>
 	<string>
 		<id>911557</id>
@@ -8354,12 +8354,12 @@
 	<string>
 		<id>911560</id>
 		<name>STR_CENDOR_DIALOG__VENDOR_TAB_FRAME_COLUMN_UNIT_PRICE</name>
-		<body>Unit Price</body>
+		<body>Preço Unitário</body>
 	</string>
 	<string>
 		<id>911561</id>
 		<name>STR_RADAR_DIALOG__TOOLTIP_VENDOR_NOTICE</name>
-		<body>You still have items to be settled.</body>
+		<body>Você ainda tem itens a serem liquidados.</body>
 	</string>
 	<string>
 		<id>911562</id>
@@ -8369,77 +8369,77 @@
 	<string>
 		<id>911563</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__ALPHA_MAP_CONTROL_ALPHA</name>
-		<body>Overlay Map Transparency</body>
+		<body>Transparência do Mapa Sobreposto</body>
 	</string>
 	<string>
 		<id>911564</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__FULLSCREEN_SKILLFX</name>
-		<body>Tela Cheia Skill Effect</body>
+		<body>Efeito de Habilidade em Tela Cheia</body>
 	</string>
 	<string>
 		<id>911565</id>
 		<name>STR_GLOBAL_OPTION_DIALOG_TOOLTIP_FULLSCREEN_SKILLFX</name>
-		<body>Toggles full screen effects while using a skill.\nDesative para melhorar o desempenho do jogo.</body>
+		<body>Ativa/desativa alguns efeitos ao usar uma habilidade.\nDesative para melhorar o desempenho do jogo.</body>
 	</string>
 	<string>
 		<id>911566</id>
 		<name>STR_VENDOR_DIALOG__SEARCH_WORD</name>
-		<body>Keyword</body>
+		<body>Palavra-chave</body>
 	</string>
 	<string>
 		<id>911567</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GAME_HUD_SCALE</name>
-		<body>UI Size</body>
+		<body>Tamanho da UI</body>
 	</string>
 	<string>
 		<id>911568</id>
 		<name>STR_CHAT_OPTION_DIALOG__CHANNEL6</name>
-		<body>Channel 7</body>
+		<body>Canal 7</body>
 	</string>
 	<string>
 		<id>911569</id>
 		<name>STR_TRADE_DIALOG__BUY_ITEM_TABFRAME_BUY_ITEM_SORT_WIDGET1_ITEM6</name>
-		<body>Abyss (Low-High)</body>
+		<body>Abyss (Baixo-Alto)</body>
 	</string>
 	<string>
 		<id>911570</id>
 		<name>STR_TRADE_DIALOG__BUY_ITEM_TABFRAME_BUY_ITEM_SORT_WIDGET1_ITEM7</name>
-		<body>Abyss (High-Low)</body>
+		<body>Abyss (Alto-Baixo)</body>
 	</string>
 	<string>
 		<id>911571</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GAME_CAMERA_PANNING_INVERT_VERTICAL</name>
-		<body>Invert Vertical Camera Panning</body>
+		<body>Movimento Vertical da Câmera Invertido</body>
 	</string>
 	<string>
 		<id>911572</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GAME_CAMERA_PANNING_INVERT_HORIZONTAL</name>
-		<body>Invert Horizontal Camera Panning</body>
+		<body>Movimento Horizontal da Câmera Invertido</body>
 	</string>
 	<string>
 		<id>911573</id>
 		<name>STR_INDUN_ACCOUNT_IDLF1_DIALOG</name>
-		<body>Results</body>
+		<body>Resultados</body>
 	</string>
 	<string>
 		<id>911574</id>
 		<name>STR_INDUN_ACCOUNT_IDLF1_DIALOG__REMAIN_TIME</name>
-		<body>Remaining Hora</body>
+		<body>Tempo Restante</body>
 	</string>
 	<string>
 		<id>911575</id>
 		<name>STR_INDUN_ACCOUNT_IDDRE_DIALOG</name>
-		<body>Results</body>
+		<body>Resultados</body>
 	</string>
 	<string>
 		<id>911576</id>
 		<name>STR_INDUN_ACCOUNT_IDDRE_DIALOG__REMAIN_TIME</name>
-		<body>Remaining Hora</body>
+		<body>Tempo Restante</body>
 	</string>
 	<string>
 		<id>911577</id>
 		<name>STR_INDUN_ACCOUNT_IDDRE_DIALOG__COLUMN_NAME</name>
-		<body>Personagem Nome</body>
+		<body>Nome do Personagem</body>
 	</string>
 	<string>
 		<id>911578</id>
@@ -8449,22 +8449,22 @@
 	<string>
 		<id>911579</id>
 		<name>STR_INDUN_ACCOUNT_IDDRE_DIALOG__COLUMN_KILL_PC</name>
-		<body>PvP Kills</body>
+		<body>Matou no PvP</body>
 	</string>
 	<string>
 		<id>911580</id>
 		<name>STR_INDUN_ACCOUNT_IDDRE_DIALOG__COLUMN_KILL_DRAGON</name>
-		<body>Balaur Kills</body>
+		<body>Matou Balaur</body>
 	</string>
 	<string>
 		<id>911581</id>
 		<name>STR_INDUN_ACCOUNT_IDDRE_DIALOG__COLUMN_DESTROY_OBJECT</name>
-		<body>Captured</body>
+		<body>Capturado</body>
 	</string>
 	<string>
 		<id>911582</id>
 		<name>STR_INDUN_ACCOUNT_IDDRE_DIALOG__COLUMN_SCORE</name>
-		<body>Score</body>
+		<body>Pontuação</body>
 	</string>
 	<string>
 		<id>911583</id>
@@ -8484,17 +8484,17 @@
 	<string>
 		<id>911586</id>
 		<name>STR_INDUN_ACCOUNT_IDLF1_DIALOG__SCORE</name>
-		<body>Total Score</body>
+		<body>Pontuação Total</body>
 	</string>
 	<string>
 		<id>911587</id>
 		<name>STR_INDUN_ACCOUNT_IDLF1_DIALOG__SCORE_KILL</name>
-		<body>Hunted</body>
+		<body>Caçado</body>
 	</string>
 	<string>
 		<id>911588</id>
 		<name>STR_INDUN_ACCOUNT_IDLF1_DIALOG__SCORE_GATHER</name>
-		<body>Collection</body>
+		<body>Coleção</body>
 	</string>
 	<string>
 		<id>911589</id>
@@ -8509,12 +8509,12 @@
 	<string>
 		<id>911591</id>
 		<name>STR_INDUN_ACCOUNT_IDLF1_DIALOG__LEAVE</name>
-		<body>Sair Instanced Zone</body>
+		<body>Sair da Zona Instanciada</body>
 	</string>
 	<string>
 		<id>911592</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GAME_LEFT_MOUSE_PANNING</name>
-		<body>Left-click to rotate camera</body>
+		<body>Clique com o botão esquerdo para girar a câmera</body>
 	</string>
 	<string>
 		<id>911593</id>
@@ -8529,47 +8529,47 @@
 	<string>
 		<id>911595</id>
 		<name>STR_INDUN_ACCOUNT_IDDRE_DIALOG__ABYSS_POINT_ADDED</name>
-		<body>Grupo Abyss Points</body>
+		<body>Abyss Pontos do Grupo</body>
 	</string>
 	<string>
 		<id>911596</id>
 		<name>STR_INDUN_ACCOUNT_IDDRE_DIALOG__ABYSS_POINT</name>
-		<body>Total Abyss Points</body>
+		<body>Abyss Pontos Total</body>
 	</string>
 	<string>
 		<id>911597</id>
 		<name>STR_INDUN_ACCOUNT_IDDRE_DIALOG__LEAVE</name>
-		<body>Sair Instanced Zone</body>
+		<body>Sair da Zona Instanciada</body>
 	</string>
 	<string>
 		<id>911598</id>
 		<name>STR_INDUN_ACCOUNT_IDLF1_DIALOG__RANK</name>
-		<body>Grade</body>
+		<body>Categoria</body>
 	</string>
 	<string>
 		<id>911599</id>
 		<name>STR_INDUN_REGISTER_DIALOG</name>
-		<body>Request Entry</body>
+		<body>Requisitar Entrada</body>
 	</string>
 	<string>
 		<id>911600</id>
 		<name>STR_INDUN_REGISTER_DIALOG__REGISTER_NORMAL</name>
-		<body>Private Entry</body>
+		<body>Nova Entrada</body>
 	</string>
 	<string>
 		<id>911601</id>
 		<name>STR_INDUN_REGISTER_DIALOG__REGISTER_QUICK</name>
-		<body>Quick Entry</body>
+		<body>Entrada Rápida</body>
 	</string>
 	<string>
 		<id>911602</id>
 		<name>STR_INDUN_REGISTER_DIALOG__REGISTER_PARTY</name>
-		<body>Grupo Entry</body>
+		<body>Entrada em Grupo</body>
 	</string>
 	<string>
 		<id>911603</id>
 		<name>STR_INDUN_WAIT_DIALOG</name>
-		<body>Waiting Info</body>
+		<body>Informações de espera</body>
 	</string>
 	<string>
 		<id>911604</id>
@@ -8584,62 +8584,62 @@
 	<string>
 		<id>911606</id>
 		<name>STR_INDUN_ENTER_DIALOG</name>
-		<body>Confirm Entry</body>
+		<body>Confirmar Entrada</body>
 	</string>
 	<string>
 		<id>911607</id>
 		<name>STR_INDUN_ENTER_DIALOG__OK</name>
-		<body>Enter</body>
+		<body>Entrar</body>
 	</string>
 	<string>
 		<id>911608</id>
 		<name>STR_INDUN_ENTER_DIALOG__CANCEL</name>
-		<body>Pass</body>
+		<body>Passar</body>
 	</string>
 	<string>
 		<id>911609</id>
 		<name>STR_LETTER_DIALOG__WIDGET6</name>
-		<body>Received Data</body>
+		<body>Dados Recebidos</body>
 	</string>
 	<string>
 		<id>911610</id>
 		<name>STR_RADAR_DIALOG__TOOLTIP_REDMAIL_ICON</name>
-		<body>Caixa de Correio is full.</body>
+		<body>Caixa de Correio está cheia.</body>
 	</string>
 	<string>
 		<id>911611</id>
 		<name>STR_INDUN_ACCOUNT_IDDRE_DIALOG__LIGHT_WNNER</name>
-		<body>Elyos Victory</body>
+		<body>Vitória dos Elyos</body>
 	</string>
 	<string>
 		<id>911612</id>
 		<name>STR_INDUN_ACCOUNT_IDDRE_DIALOG__DARK_WNNER</name>
-		<body>Asmodian Victory</body>
+		<body>Vitória dos Asmodians</body>
 	</string>
 	<string>
 		<id>911613</id>
 		<name>STR_WHO_DIALOG__JOIN_LINK</name>
-		<body>Invite Chat Link</body>
+		<body>Invite Chat Link (??)</body>
 	</string>
 	<string>
 		<id>911614</id>
 		<name>STR_FORCE_DIALOG__JOIN_LINK</name>
-		<body>Recruit Aliança</body>
+		<body>Recrutando para Aliança</body>
 	</string>
 	<string>
 		<id>911615</id>
 		<name>STR_PARTY_LINK_DIALOG__JOIN</name>
-		<body>Apply for Grupo</body>
+		<body>Aplicar para Grupo</body>
 	</string>
 	<string>
 		<id>911616</id>
 		<name>STR_FORCE_LINK_DIALOG__JOIN</name>
-		<body>Apply for Aliança</body>
+		<body>Aplicar para Aliança</body>
 	</string>
 	<string>
 		<id>911617</id>
 		<name>STR_FORCE_LINK_DIALOG__LEADER</name>
-		<body>Captain:</body>
+		<body>Capitão:</body>
 	</string>
 	<string>
 		<id>911618</id>
@@ -8649,67 +8649,67 @@
 	<string>
 		<id>911619</id>
 		<name>STR_FORCE_LINK_DIALOG__MEMBER_NUM</name>
-		<body>Member:</body>
+		<body>Membro:</body>
 	</string>
 	<string>
 		<id>911620</id>
 		<name>STR_INDUN_ENTER_DIALOG__WARNING</name>
-		<body>When you enter, the entry requests to other Instanced Zones are cancelled automatically.</body>
+		<body>Ao entrar, as solicitações de entrada para outras Zonas Instânciadas são canceladas automaticamente.</body>
 	</string>
 	<string>
 		<id>911621</id>
 		<name>STR_CHAT_OPTION_DIALOG__CHANNEL7</name>
-		<body>Channel 8</body>
+		<body>Canal 8</body>
 	</string>
 	<string>
 		<id>911622</id>
 		<name>STR_CHAT_OPTION_DIALOG__CHANNEL8</name>
-		<body>Channel 9</body>
+		<body>Canal 9</body>
 	</string>
 	<string>
 		<id>911623</id>
 		<name>STR_CHAT_OPTION_DIALOG__CHANNEL9</name>
-		<body>Channel 10</body>
+		<body>Canal 10</body>
 	</string>
 	<string>
 		<id>911624</id>
 		<name>STR_PAPER_DOLL_DIALOG_MODECHANGE</name>
-		<body>Change Stance</body>
+		<body>Mudar Postura</body>
 	</string>
 	<string>
 		<id>911625</id>
 		<name>STR_INDUN_ACCOUNT_IDDRE_DIALOG__ABYSS_POINT_FOR_ONE</name>
-		<body>Personal Abyss Points</body>
+		<body>Pontos de Abyss Pessoal</body>
 	</string>
 	<string>
 		<id>911626</id>
 		<name>STR_INDUN_TIMER__TOOLTIP_LIGHT_POINT</name>
-		<body>Elyos Score</body>
+		<body>Pontuação dos Elyos</body>
 	</string>
 	<string>
 		<id>911627</id>
 		<name>STR_INDUN_TIMER__TOOLTIP_DARK_POINT</name>
-		<body>Asmodian Score</body>
+		<body>Pontuação dos Asmodians</body>
 	</string>
 	<string>
 		<id>911628</id>
 		<name>STR_INDUN_TIMER__TOOLTIP_PARTY_POINT</name>
-		<body>Grupo Score</body>
+		<body>Pontuação do Grupo</body>
 	</string>
 	<string>
 		<id>911629</id>
 		<name>STR_QUEST_DIALOG__NO_MISSION</name>
-		<body>There are no missions in progress.</body>
+		<body>Não há missões em andamento.</body>
 	</string>
 	<string>
 		<id>911630</id>
 		<name>STR_PAPER_DOLL_DIALOG__TOGGLE_HELMET</name>
-		<body>View headwear</body>
+		<body>Ver Capacete</body>
 	</string>
 	<string>
 		<id>911631</id>
 		<name>STR_PAPER_DOLL_DIALOG__MODECHANGE</name>
-		<body>Change Stance</body>
+		<body>Mudar Postura</body>
 	</string>
 	<string>
 		<id>911632</id>
@@ -8729,22 +8729,22 @@
 	<string>
 		<id>911635</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__VSYNC</name>
-		<body>Vertical Sync</body>
+		<body>Sincr. Vertical</body>
 	</string>
 	<string>
 		<id>911636</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__TOOLTIP_FULLSCREEN_VSYNC</name>
-		<body>Reduces screen distortion in full screen mode.\nDesative para melhorar o desempenho do jogo.</body>
+		<body>Reduz a distorção da tela no modo de tela cheia.\nDesative para melhorar o desempenho do jogo.</body>
 	</string>
 	<string>
 		<id>911637</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GAME_CLICK_SCREEN_STOP_CHATTING</name>
-		<body>Fechar Chat Window with Click</body>
+		<body>Fechar janela de Chat com clique</body>
 	</string>
 	<string>
 		<id>911638</id>
 		<name>STR_CAPTCHA_DIALOG__TITLE</name>
-		<body>Cleansing Word</body>
+		<body>Palavra de Limpeza</body>
 	</string>
 	<string>
 		<id>911639</id>
@@ -8759,7 +8759,7 @@
 	<string>
 		<id>911641</id>
 		<name>STR_MAILBOX_DIALOG__TABFRAME_BTN_SELECT_ALL_MAIL</name>
-		<body>Select All</body>
+		<body>Selecionar Todos</body>
 	</string>
 	<string>
 		<id>911642</id>
@@ -8769,17 +8769,17 @@
 	<string>
 		<id>911643</id>
 		<name>STR_INDUN_COOLTIME_DIALOG__INDUN_NAME</name>
-		<body>Instanced Zone</body>
+		<body>Zona Instanciada</body>
 	</string>
 	<string>
 		<id>911644</id>
 		<name>STR_INDUN_COOLTIME_DIALOG__INDUN_ENTER_LEVEL</name>
-		<body>Lvl</body>
+		<body>Nív.</body>
 	</string>
 	<string>
 		<id>911645</id>
 		<name>STR_INDUN_COOLTIME_DIALOG__INDUN_ENTER_DELAY_TIME</name>
-		<body>Entries</body>
+		<body>Entradas</body>
 	</string>
 	<string>
 		<id>911646</id>
@@ -8799,17 +8799,17 @@
 	<string>
 		<id>911649</id>
 		<name>STR_INDUN_COOLTIME_DIALOG</name>
-		<body>Instance Info</body>
+		<body>Informações da Instância</body>
 	</string>
 	<string>
 		<id>911650</id>
 		<name>STR_TRADE_DIALOG__BUY_ITEM_TABFRAME_TOGGLE_PREVIEW</name>
-		<body>Preview Selected Item</body>
+		<body>Visualizar Item Selecionado</body>
 	</string>
 	<string>
 		<id>911651</id>
 		<name>STR_INVENTORY_DIALOG__TOOLTIP_CUBE_AUTO_SORT</name>
-		<body>Auto-Arrange Cube</body>
+		<body>Organizar Cubo Automaticamente</body>
 	</string>
 	<string>
 		<id>911652</id>
@@ -8879,7 +8879,7 @@
 	<string>
 		<id>911665</id>
 		<name>STR_ITEM_PRICE_COUNT_DIALOG__ALL</name>
-		<body>All</body>
+		<body>Tudo</body>
 	</string>
 	<string>
 		<id>911666</id>
@@ -8894,32 +8894,32 @@
 	<string>
 		<id>911668</id>
 		<name>STR_ITEM_PRICE_COUNT_DIALOG__PRICE</name>
-		<body>Price</body>
+		<body>Preço</body>
 	</string>
 	<string>
 		<id>911669</id>
 		<name>STR_ITEM_PRICE_COUNT_DIALOG__ENTERED</name>
-		<body>Amount</body>
+		<body>Quantidade</body>
 	</string>
 	<string>
 		<id>911670</id>
 		<name>STR_VENDOR_DIALOG__VENDOR_TAB_FRAME_TIP</name>
-		<body>Right-clicking an item in your Inventory to make it show up in the Keyword window.</body>
+		<body>Clique com o botão direito do mouse em um item em seu inventário para que ele apareça na janela de palavras-chave.</body>
 	</string>
 	<string>
 		<id>911671</id>
 		<name>STR_VENDOR_DIALOG__SEARCH_MATCH_WHOLE_WORD</name>
-		<body>Exact Match</body>
+		<body>Combinação Exata</body>
 	</string>
 	<string>
 		<id>911672</id>
 		<name>STR_SKIN_CHANGE_DIALOG__SOURCE_WARNING</name>
-		<body>Destroyed by extraction</body>
+		<body>Destruído por extração</body>
 	</string>
 	<string>
 		<id>911673</id>
 		<name>STR_SKILL_DIC_DIALOG__CHANGE_CHAIN_TREE_INFO</name>
-		<body>To set a default chain skill, drag a chain skill icon with the same usage conditions to the first row.</body>
+		<body>Para definir uma habilidade de sequência padrão, arraste o ícone da habilidade de sequência com as mesmas condições de uso para a primeira linha.</body>
 	</string>
 	<string>
 		<id>911674</id>
@@ -8934,42 +8934,42 @@
 	<string>
 		<id>911676</id>
 		<name>STR_TRADE_DIALOG__COUPON</name>
-		<body>Tokens held</body>
+		<body>Meus Tokens</body>
 	</string>
 	<string>
 		<id>911677</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__QUICKBAR_SHOW_SEP1</name>
-		<body>Floating Quickbar 1</body>
+		<body>Barra Flutuante 1</body>
 	</string>
 	<string>
 		<id>911678</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__QUICKBAR_SHOW_SEP2</name>
-		<body>Floating Quickbar 2</body>
+		<body>Barra Flutuante 2</body>
 	</string>
 	<string>
 		<id>911679</id>
 		<name>STR_COMPOUND_WEAPON_DIALOG__MAIN_ITEM</name>
-		<body>Alvo Item (kept)</body>
+		<body>Item Alvo (mantido)</body>
 	</string>
 	<string>
 		<id>911680</id>
 		<name>STR_COMPOUND_WEAPON_DIALOG__EXTRACT_ITEM</name>
-		<body>Secondary Item</body>
+		<body>Item Secundário</body>
 	</string>
 	<string>
 		<id>911681</id>
 		<name>STR_COMPOUND_WEAPON_DIALOG__EXTRACT_ITEM_WARNING</name>
-		<body>destroyed after fusion</body>
+		<body>destruído após a fusão</body>
 	</string>
 	<string>
 		<id>911682</id>
 		<name>STR_COMPOUND_WEAPON_DIALOG__RESULT_ITEM</name>
-		<body>Resultant Item</body>
+		<body>Item Final</body>
 	</string>
 	<string>
 		<id>911683</id>
 		<name>STR_COMPOUND_WEAPON_DIALOG__COMPARE_ITEM</name>
-		<body>Item for Comparison</body>
+		<body>Item para Comparação</body>
 	</string>
 	<string>
 		<id>911684</id>
@@ -8979,32 +8979,32 @@
 	<string>
 		<id>911685</id>
 		<name>STR_DECOMPOUND_WEAPON_DIALOG__DESC</name>
-		<body>Uncouple a fused weapon by using Armsbreaking.\nThis will revert the item to its original state.</body>
+		<body>Desacople uma arma fundida usando Armsbreaking.\nIsso reverterá o item ao seu estado original.</body>
 	</string>
 	<string>
 		<id>911686</id>
 		<name>STR_DECOMPOUND_WEAPON_DIALOG__ERASE_ITEM</name>
-		<body>Armsbreaking target</body>
+		<body>Alvo do Armsbreaking</body>
 	</string>
 	<string>
 		<id>911687</id>
 		<name>STR_COMPOUND_WEAPON_DIALOG__COST</name>
-		<body>Fusion Custo</body>
+		<body>Custo de Fusão</body>
 	</string>
 	<string>
 		<id>911688</id>
 		<name>STR_COMPOUND_WEAPON_DIALOG__DESC</name>
-		<body>You can combine two-handed weapons of the same type with those of the same or lower level.\nThe secondary item is destroyed in the process.</body>
+		<body>Você pode combinar armas de duas mãos do mesmo tipo com armas de nível igual ou inferior.\nO item secundário é destruído no processo.</body>
 	</string>
 	<string>
 		<id>911689</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__CHAR_HIDE</name>
-		<body>Optimize Fortress Battle</body>
+		<body>Otimize a Batalha da Fortaleza</body>
 	</string>
 	<string>
 		<id>911690</id>
 		<name>STR_GLOBAL_OPTION_DIALOG_TOOLTIP_CHAR_HIDE</name>
-		<body>Simplifies the appearance of characters other than you and your group members.\nUse this setting in densely populated places to improve game performance.</body>
+		<body>Simplifica a aparência de outros personagens além de você e dos membros do seu grupo.\nUse esta configuração em locais densamente povoados para melhorar o desempenho do jogo.</body>
 	</string>
 	<string>
 		<id>911691</id>
@@ -9019,12 +9019,12 @@
 	<string>
 		<id>911693</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GAME_REJECT_WHISPER_FROM_LOW_LEVEL</name>
-		<body>Recusar whispers from low-level players</body>
+		<body>Recusar MPs de jogadores de nível baixo</body>
 	</string>
 	<string>
 		<id>911694</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GAME_REJECT_MAIL_FROM_LOW_LEVEL</name>
-		<body>Recusar mail from low-level players</body>
+		<body>Recusar mail de jogadores de nível baixo</body>
 	</string>
 	<string>
 		<id>911695</id>
@@ -9039,22 +9039,22 @@
 	<string>
 		<id>911697</id>
 		<name>STR_PARTY_MATCH_DIALOG</name>
-		<body>Find Grupo</body>
+		<body>Encontrar Grupo</body>
 	</string>
 	<string>
 		<id>911698</id>
 		<name>STR_PARTY_MATCH_DIALOG__TAB_OFFER</name>
-		<body>Recruit Grupo Membros</body>
+		<body>Recrutar Membros para Grupo</body>
 	</string>
 	<string>
 		<id>911699</id>
 		<name>STR_PARTY_MATCH_DIALOG__TAB_SEEK</name>
-		<body>Apply for Grupo</body>
+		<body>Aplicar para Grupo</body>
 	</string>
 	<string>
 		<id>911700</id>
 		<name>STR_PARTY_MATCH_DIALOG__OFFER_COL_TYPE</name>
-		<body>Type</body>
+		<body>Tipo</body>
 	</string>
 	<string>
 		<id>911701</id>
@@ -9064,12 +9064,12 @@
 	<string>
 		<id>911702</id>
 		<name>STR_PARTY_MATCH_DIALOG__OFFER_COL_LEADER</name>
-		<body>Grupo Leader</body>
+		<body>Líder do Grupo</body>
 	</string>
 	<string>
 		<id>911703</id>
 		<name>STR_PARTY_MATCH_DIALOG__OFFER_COL_MEMBER</name>
-		<body>Member</body>
+		<body>Membro</body>
 	</string>
 	<string>
 		<id>911704</id>
@@ -9094,7 +9094,7 @@
 	<string>
 		<id>911708</id>
 		<name>STR_PARTY_MATCH_DIALOG__SEEK_COL_TYPE</name>
-		<body>Type</body>
+		<body>Tipo</body>
 	</string>
 	<string>
 		<id>911709</id>
@@ -9104,7 +9104,7 @@
 	<string>
 		<id>911710</id>
 		<name>STR_PARTY_MATCH_DIALOG__REFRESH</name>
-		<body>Refresh</body>
+		<body>Atualizar</body>
 	</string>
 	<string>
 		<id>911711</id>
@@ -9114,17 +9114,17 @@
 	<string>
 		<id>911712</id>
 		<name>STR_PARTY_MATCH_DIALOG__OFFER_PARTY</name>
-		<body>Send Offer</body>
+		<body>Enviar Oferta</body>
 	</string>
 	<string>
 		<id>911713</id>
 		<name>STR_PARTY_MATCH_DIALOG__SEEK_PARTY</name>
-		<body>Apply</body>
+		<body>Aplicar</body>
 	</string>
 	<string>
 		<id>911714</id>
 		<name>STR_PARTY_MATCH_DIALOG__DESIRE</name>
-		<body>Apply for Grupo</body>
+		<body>Aplicar para Grupo</body>
 	</string>
 	<string>
 		<id>911715</id>
@@ -9134,7 +9134,7 @@
 	<string>
 		<id>911716</id>
 		<name>STR_PARTY_MATCH_OFFER_DIALOG</name>
-		<body>Send Offer</body>
+		<body>Enviar Oferta</body>
 	</string>
 	<string>
 		<id>911717</id>
@@ -9144,7 +9144,7 @@
 	<string>
 		<id>911718</id>
 		<name>STR_PARTY_MATCH_OFFER_DIALOG__OK</name>
-		<body>Register</body>
+		<body>Registrar</body>
 	</string>
 	<string>
 		<id>911719</id>
@@ -9154,7 +9154,7 @@
 	<string>
 		<id>911720</id>
 		<name>STR_PARTY_MATCH_SEEK_DIALOG</name>
-		<body>Apply</body>
+		<body>Aplicar</body>
 	</string>
 	<string>
 		<id>911721</id>
@@ -9174,7 +9174,7 @@
 	<string>
 		<id>911724</id>
 		<name>STR_PARTY_MATCH_SEEK_DIALOG__OK</name>
-		<body>Register</body>
+		<body>Registrar</body>
 	</string>
 	<string>
 		<id>911725</id>
@@ -9194,7 +9194,7 @@
 	<string>
 		<id>911728</id>
 		<name>STR_PARTY_MATCH_DIALOG__SEARCH_WORD</name>
-		<body>Keyword</body>
+		<body>Palavra-chave</body>
 	</string>
 	<string>
 		<id>911729</id>
@@ -9214,7 +9214,7 @@
 	<string>
 		<id>911732</id>
 		<name>STR_PARTY_MATCH_DIALOG__SEARCH_CANCEL</name>
-		<body>Clear</body>
+		<body>Limpar</body>
 	</string>
 	<string>
 		<id>911733</id>
@@ -9224,107 +9224,107 @@
 	<string>
 		<id>911734</id>
 		<name>STR_PLAYER_INFO_DIALOG__STAT_PHYSICAL_CRITICAL_REDUCE_RATE</name>
-		<body>Crit. Strike Resist</body>
+		<body>Resist. Crítico</body>
 	</string>
 	<string>
 		<id>911735</id>
 		<name>STR_PLAYER_INFO_DIALOG__STAT_PHYSICAL_CRITICAL_DAMAGE_REDUCE</name>
-		<body>Strike Fort.</body>
+		<body>Redu. Dano Crítico</body>
 	</string>
 	<string>
 		<id>911736</id>
 		<name>STR_PLAYER_INFO_DIALOG__STAT_MAGICAL_CRITICAL_REDUCE_RATE</name>
-		<body>Spell Resist</body>
+		<body>Resist. Crít. Mágico</body>
 	</string>
 	<string>
 		<id>911737</id>
 		<name>STR_PLAYER_INFO_DIALOG__STAT_MAGICAL_CRITICAL_DAMAGE_REDUCE</name>
-		<body>Spell Fort.</body>
+		<body>Redu. Dano Crít. Mág.</body>
 	</string>
 	<string>
 		<id>911738</id>
 		<name>STR_PLAYER_INFO_DIALOG__STAT_MAGICAL_CRITICAL_DAMAGE_BOOST</name>
-		<body>Crit Spell Boost</body>
+		<body>Crítico Mágico</body>
 	</string>
 	<string>
 		<id>911739</id>
 		<name>STR_PLAYER_INFO_DIALOG__STAT_HEAL_BOOST</name>
-		<body>Healing Boost</body>
+		<body>Aumento de Cura</body>
 	</string>
 	<string>
 		<id>911740</id>
 		<name>STR_PARTY_MATCH_DIALOG__SEARCH_OFFER_MINIMIZE</name>
-		<body>Auto search when window closed</body>
+		<body>Pesquisa automática quando a janela é fechada</body>
 	</string>
 	<string>
 		<id>911741</id>
 		<name>STR_PARTY_MATCH_DIALOG__SEARCH_SEEK_MINIMIZE</name>
-		<body>Auto search when window closed</body>
+		<body>Pesquisa automática quando a janela é fechada</body>
 	</string>
 	<string>
 		<id>911742</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GRAPHIC_CHAR_PORTRAIT</name>
-		<body>Personagem Detail</body>
+		<body>Detalhes do Personagem</body>
 	</string>
 	<string>
 		<id>911743</id>
 		<name>STR_GLOBAL_OPTION_DIALOG_TOOLTIP_GRAPHIC_CHAR_PORTRAIT</name>
-		<body>Adjusts the display quality or hides characters altogether to improve performance.\nDoes not apply to your group or alliance members.</body>
+		<body>Ajusta a qualidade de exibição ou oculta totalmente os personagens para melhorar o desempenho.\nNão se aplica aos membros do seu grupo ou aliança.</body>
 	</string>
 	<string>
 		<id>911744</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GRAPHIC_CHAR_PORTRAIT_AUTO</name>
-		<body>Auto</body>
+		<body>Automático</body>
 	</string>
 	<string>
 		<id>911745</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GRAPHIC_CHAR_PORTRAIT_HIGH</name>
-		<body>High</body>
+		<body>Alto</body>
 	</string>
 	<string>
 		<id>911746</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GRAPHIC_CHAR_PORTRAIT_NORMAL</name>
-		<body>Med</body>
+		<body>Medio</body>
 	</string>
 	<string>
 		<id>911747</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GRAPHIC_CHAR_PORTRAIT_LOW</name>
-		<body>Low</body>
+		<body>Baixo</body>
 	</string>
 	<string>
 		<id>911748</id>
 		<name>STR_TRADE_DIALOG__BUY_AGAIN</name>
-		<body>Repurchase</body>
+		<body>Recomprar</body>
 	</string>
 	<string>
 		<id>911749</id>
 		<name>STR_TRADE_DIALOG__BUY_AGAIN_FRAME_WIDGET1</name>
-		<body>Purchasable Items</body>
+		<body>Itens Compráveis</body>
 	</string>
 	<string>
 		<id>911750</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__SHOW_FX</name>
-		<body>Display Effects for</body>
+		<body>Exibir Efeitos para</body>
 	</string>
 	<string>
 		<id>911751</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__TOOLTIP_SHOW_FX</name>
-		<body>Select target to display effects from unhidden characters</body>
+		<body>Selecione um alvo para exibir efeitos de personagens não ocultos</body>
 	</string>
 	<string>
 		<id>911752</id>
 		<name>STR_WHO_DIALOG__SEEK_LINK</name>
-		<body>Apply for Grupo</body>
+		<body>Aplicar para Grupo</body>
 	</string>
 	<string>
 		<id>911753</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__SHOW_FX_NONE</name>
-		<body>None</body>
+		<body>Nenhum</body>
 	</string>
 	<string>
 		<id>911754</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__SHOW_FX_SELF</name>
-		<body>Self</body>
+		<body>Eu mesmo(a)</body>
 	</string>
 	<string>
 		<id>911755</id>
@@ -9334,67 +9334,67 @@
 	<string>
 		<id>911756</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__SHOW_FX_FORCE</name>
-		<body>Force</body>
+		<body>Aliança</body>
 	</string>
 	<string>
 		<id>911757</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__SHOW_FX_ALL</name>
-		<body>All</body>
+		<body>Todos</body>
 	</string>
 	<string>
 		<id>911758</id>
 		<name>STR_WHO_DIALOG__MY_PARTY_STATE_REFUSE_PARTY</name>
-		<body>Reject Grupo</body>
+		<body>Rejeitar Grupo</body>
 	</string>
 	<string>
 		<id>911759</id>
 		<name>STR_PARTY_MATCH_DIALOG__OFFER_VISIBLE_MY_ARTICLE</name>
-		<body>Always display my post</body>
+		<body>Sempre exibir minha postagem</body>
 	</string>
 	<string>
 		<id>911760</id>
 		<name>STR_PARTY_MATCH_DIALOG__SEEK_VISIBLE_MY_ARTICLE</name>
-		<body>Always display my post</body>
+		<body>Sempre exibir minha postagem</body>
 	</string>
 	<string>
 		<id>911761</id>
 		<name>STR_PARTY_MATCH_DIALOG__TOOLTIP_SEARCH_MINIMIZE</name>
-		<body>Searching Find Grupo</body>
+		<body>Encontrar Grupo</body>
 	</string>
 	<string>
 		<id>911762</id>
 		<name>STR_ENCHANT_DIALOG</name>
-		<body>Enchant Item</body>
+		<body>Encantar Item</body>
 	</string>
 	<string>
 		<id>911763</id>
 		<name>STR_ENCHANT_DIALOG__TARGET</name>
-		<body>Alvo to Enchant</body>
+		<body>Item para Encantar</body>
 	</string>
 	<string>
 		<id>911764</id>
 		<name>STR_ENCHANT_DIALOG__SOURCE</name>
-		<body>Item for Enchantment</body>
+		<body>Item para Encantar</body>
 	</string>
 	<string>
 		<id>911765</id>
 		<name>STR_ENCHANT_DIALOG__TARGET_SLOT_BASIC</name>
-		<body>1st Row</body>
+		<body>1ª Linha</body>
 	</string>
 	<string>
 		<id>911766</id>
 		<name>STR_ENCHANT_DIALOG__TARGET_SLOT_COMPOUNDED</name>
-		<body>2nd Row</body>
+		<body>2ª Linha</body>
 	</string>
 	<string>
 		<id>911767</id>
 		<name>STR_ENCHANT_DIALOG__MATERIAL_NONE</name>
-		<body>Do not use Enchantment Aid</body>
+		<body>Não use Enchantment Aid</body>
 	</string>
 	<string>
 		<id>911768</id>
 		<name>STR_ENCHANT_DIALOG__OK</name>
-		<body>Enchant</body>
+		<body>Encantar</body>
 	</string>
 	<string>
 		<id>911769</id>
@@ -9404,62 +9404,62 @@
 	<string>
 		<id>911770</id>
 		<name>STR_DAILY_QUEST__TOOLTIP</name>
-		<body>Daily quest has arrived.</body>
+		<body>A missão diária chegou!</body>
 	</string>
 	<string>
 		<id>911771</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GAME_COMBAT_SHOW_TARGET_ASSIST_SKILL_GAUGE</name>
-		<body>Alvo&apos;s Alvo&apos;s Skill Gauge</body>
+		<body>Carreg. Habil. Alvo do Alvo</body>
 	</string>
 	<string>
 		<id>911772</id>
 		<name>STR_PLAYER_INFO_DIALOG__STAT_MAGICAL_CRITICAL</name>
-		<body>Crit Spell</body>
+		<body>Mágico Crítico</body>
 	</string>
 	<string>
 		<id>911773</id>
 		<name>STR_PLAYER_INFO_DIALOG__STAT_CASTING_SPEED</name>
-		<body>Casting Spd.</body>
+		<body>Veloc. Conjuração</body>
 	</string>
 	<string>
 		<id>911774</id>
 		<name>STR_OPTION_DIALOG</name>
-		<body>Manastone Socketing</body>
+		<body>Encaixando Manastone</body>
 	</string>
 	<string>
 		<id>911775</id>
 		<name>STR_SKILL_DIALOG__TABFRAME_SKILL_TAB_ACTIVE_SORT_OPTION</name>
-		<body>Show highest level only</body>
+		<body>Mostrar apenas o nível mais alto</body>
 	</string>
 	<string>
 		<id>911776</id>
 		<name>STR_SKILL_DIALOG__TABFRAME_SKILL_TAB_ACTIVE_SKILL_NAME</name>
-		<body>Skill Nome</body>
+		<body>Nome da Habilidade</body>
 	</string>
 	<string>
 		<id>911777</id>
 		<name>STR_SKILL_DIALOG__TABFRAME_SKILL_TAB_ACTIVE_SKILL_TYPE</name>
-		<body>Type</body>
+		<body>Tipo</body>
 	</string>
 	<string>
 		<id>911778</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__TABFRAME_OPTION_SOUND_ALWAYS_PLAY</name>
-		<body>Play game audio in background</body>
+		<body>Reproduzir o áudio do jogo em segundo plano</body>
 	</string>
 	<string>
 		<id>911779</id>
 		<name>STR_UNION_DIALOG</name>
-		<body>League</body>
+		<body>Liga</body>
 	</string>
 	<string>
 		<id>911780</id>
 		<name>STR_UNION_DIALOG__INVITE</name>
-		<body>Invite to League</body>
+		<body>Convidar para Liga</body>
 	</string>
 	<string>
 		<id>911781</id>
 		<name>STR_UNION_DIALOG__MENU</name>
-		<body>League Menu</body>
+		<body>Menu da Liga</body>
 	</string>
 	<string>
 		<id>911782</id>
@@ -9504,32 +9504,32 @@
 	<string>
 		<id>911790</id>
 		<name>STR_UNION_DIALOG__TOTAL_MEMBER</name>
-		<body>Member Info</body>
+		<body>Informações do Membro</body>
 	</string>
 	<string>
 		<id>911791</id>
 		<name>STR_CHAT_OPTION_DIALOG__UNION</name>
-		<body>League Chat</body>
+		<body>Chat da Liga</body>
 	</string>
 	<string>
 		<id>911792</id>
 		<name>STR_CHAT_OPTION_DIALOG__UNIONALERT</name>
-		<body>League Alert Chat</body>
+		<body>Alerta da Liga</body>
 	</string>
 	<string>
 		<id>911793</id>
 		<name>STR_TOYPET_TAME_DIALOG</name>
-		<body>Pet Adoption</body>
+		<body>Adoção de Mascote</body>
 	</string>
 	<string>
 		<id>911794</id>
 		<name>STR_TOYPET_TAME_DIALOG__DESC</name>
-		<body>&lt;p align=&quot;CENTER&quot;&gt;Hatch a pet from a pet egg.&lt;/p&gt;&lt;p align=&quot;CENTER&quot;&gt;Available colors and decorations vary by type.&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;CENTER&quot;&gt;Obtenha um Mascote de um ovo de estimação.&lt;/p&gt;&lt;p align=&quot;CENTER&quot;&gt;As cores e decorações disponíveis variam de acordo com o tipo.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>911795</id>
 		<name>STR_TOYPET_TAME_DIALOG__SOURCE_ITEM</name>
-		<body>Hatch pet egg</body>
+		<body>Abrir ovo do mascote</body>
 	</string>
 	<string>
 		<id>911796</id>
@@ -9539,17 +9539,17 @@
 	<string>
 		<id>911797</id>
 		<name>STR_TOYPET_TAME_DIALOG__COLOR</name>
-		<body>Color</body>
+		<body>Cor</body>
 	</string>
 	<string>
 		<id>911798</id>
 		<name>STR_TOYPET_TAME_DIALOG__ATTACH</name>
-		<body>Decor</body>
+		<body>Decoração</body>
 	</string>
 	<string>
 		<id>911799</id>
 		<name>STR_TOYPET_TAME_DIALOG__OK</name>
-		<body>Apply</body>
+		<body>Aplicar</body>
 	</string>
 	<string>
 		<id>911800</id>
@@ -9559,12 +9559,12 @@
 	<string>
 		<id>911801</id>
 		<name>STR_TOYPET_ABANDON_DIALOG</name>
-		<body>Surrender Pet</body>
+		<body>Abandonar Mascote</body>
 	</string>
 	<string>
 		<id>911802</id>
 		<name>STR_TOYPET_ABANDON_DIALOG__DESC</name>
-		<body>&lt;p align=&quot;CENTER&quot;&gt;Select the pet to surrender.&lt;/p&gt;&lt;p align=&quot;CENTER&quot;&gt;Surrendered pet will be &lt;font color=&quot;FF0000&quot;&gt;deleted&lt;/font&gt; and can&apos;t be restored.&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;CENTER&quot;&gt;Selecione o Mascote para abandonar.&lt;/p&gt;&lt;p align=&quot;CENTER&quot;&gt;Mascotes abandonados serão &lt;font color=&quot;FF0000&quot;&gt;excluídos&lt;/font&gt; e não podem ser restaurados.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>911803</id>
@@ -9574,12 +9574,12 @@
 	<string>
 		<id>911804</id>
 		<name>STR_TOYPET_ABANDON_DIALOG__COL_FUNC</name>
-		<body>Features</body>
+		<body>Características</body>
 	</string>
 	<string>
 		<id>911805</id>
 		<name>STR_TOYPET_ABANDON_DIALOG__OK</name>
-		<body>Apply</body>
+		<body>Aplicar</body>
 	</string>
 	<string>
 		<id>911806</id>
@@ -9589,32 +9589,32 @@
 	<string>
 		<id>911807</id>
 		<name>STR_TOYPET_ABANDON_CONFIRM_DIALOG</name>
-		<body>Confirm Surrender</body>
+		<body>Confirmar Abandono</body>
 	</string>
 	<string>
 		<id>911808</id>
 		<name>STR_TOYPET_ABANDON_CONFIRM_DIALOG__DESC</name>
-		<body>&lt;p align=&quot;CENTER&quot;&gt;The surrendered pet will be &lt;font color=&quot;FF0000&quot;&gt;deleted&lt;/font&gt; and can&apos;t be restored.&lt;/p&gt;&lt;p align=&quot;CENTER&quot;&gt;Are you sure you want to surrender the pet?&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;CENTER&quot;&gt;O Mascote abandonado será &lt;font color=&quot;FF0000&quot;&gt;excluído&lt;/font&gt; e não pode ser restaurado.&lt;/p&gt;&lt;p align=&quot;CENTER&quot;&gt;Tem certeza que deseja abandonar o mascote?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>911809</id>
 		<name>STR_TOYPET_ABANDON_CONFIRM_DIALOG__TARGET</name>
-		<body>Pet to Surrender</body>
+		<body>Mascote para Abandonar</body>
 	</string>
 	<string>
 		<id>911810</id>
 		<name>STR_TOYPET_ABANDON_CONFIRM_DIALOG__FUNC1</name>
-		<body>Feature 1</body>
+		<body>Característica 1</body>
 	</string>
 	<string>
 		<id>911811</id>
 		<name>STR_TOYPET_ABANDON_CONFIRM_DIALOG__FUNC2</name>
-		<body>Feature 2</body>
+		<body>Característica 2</body>
 	</string>
 	<string>
 		<id>911812</id>
 		<name>STR_TOYPET_ABANDON_CONFIRM_DIALOG__FUNC_SP</name>
-		<body>Specialty</body>
+		<body>Especialidade</body>
 	</string>
 	<string>
 		<id>911813</id>
@@ -9629,7 +9629,7 @@
 	<string>
 		<id>911815</id>
 		<name>STR_TOYPET_LIST_DIALOG</name>
-		<body>Pet Lista</body>
+		<body>Lista de Mascotes</body>
 	</string>
 	<string>
 		<id>911816</id>
@@ -9639,32 +9639,32 @@
 	<string>
 		<id>911817</id>
 		<name>STR_TOYPET_LIST_DIALOG__COL_FUNC</name>
-		<body>Features</body>
+		<body>Características</body>
 	</string>
 	<string>
 		<id>911818</id>
 		<name>STR_TOYPET_LIST_DIALOG__SUMMON</name>
-		<body>Summon</body>
+		<body>Invocar</body>
 	</string>
 	<string>
 		<id>911819</id>
 		<name>STR_TOYPET_INFO_DIALOG</name>
-		<body>Pet</body>
+		<body>Mascote</body>
 	</string>
 	<string>
 		<id>911820</id>
 		<name>STR_TOYPET_INFO_DIALOG__INFO</name>
-		<body>Pet Info</body>
+		<body>Informações do Mascote</body>
 	</string>
 	<string>
 		<id>911821</id>
 		<name>STR_TOYPET_INFO_DIALOG__WAREHOUSE</name>
-		<body>Pet Bag</body>
+		<body>Sacola do Mascote</body>
 	</string>
 	<string>
 		<id>911822</id>
 		<name>STR_TOYPET_INFO_DIALOG__FEEDING</name>
-		<body>Feed</body>
+		<body>Alimentar</body>
 	</string>
 	<string>
 		<id>911823</id>
@@ -9679,42 +9679,42 @@
 	<string>
 		<id>911825</id>
 		<name>STR_TOYPET_INFO_DIALOG__INFO_FEATURE</name>
-		<body>Introduction</body>
+		<body>Introdução</body>
 	</string>
 	<string>
 		<id>911826</id>
 		<name>STR_TOYPET_INFO_DIALOG__INFO_BIRTHDAY</name>
-		<body>Birthday</body>
+		<body>Aniversário</body>
 	</string>
 	<string>
 		<id>911827</id>
 		<name>STR_TOYPET_INFO_DIALOG__INFO_FUNC1</name>
-		<body>Feature 1</body>
+		<body>Característica 1</body>
 	</string>
 	<string>
 		<id>911828</id>
 		<name>STR_TOYPET_INFO_DIALOG__INFO_FUNC2</name>
-		<body>Feature 2</body>
+		<body>Característica 2</body>
 	</string>
 	<string>
 		<id>911829</id>
 		<name>STR_TOYPET_INFO_DIALOG__INFO_FUNC_SP</name>
-		<body>Specialty</body>
+		<body>Especialidade</body>
 	</string>
 	<string>
 		<id>911830</id>
 		<name>STR_TOYPET_INFO_DIALOG__INFO_RENAME</name>
-		<body>Rename</body>
+		<body>Renomear</body>
 	</string>
 	<string>
 		<id>911831</id>
 		<name>STR_TOYPET_INFO_DIALOG__INFO_LIST</name>
-		<body>Pet Lista</body>
+		<body>Lista de Mascotes</body>
 	</string>
 	<string>
 		<id>911832</id>
 		<name>STR_TOYPET_INFO_DIALOG__WAREHOUSE_DESC</name>
-		<body>Pets with the same bag size\nall carry the same items.</body>
+		<body>Animais de estimação com o mesmo tamanho de bolsa\ncarregam os mesmos itens.</body>
 	</string>
 	<string>
 		<id>911833</id>
@@ -9724,52 +9724,52 @@
 	<string>
 		<id>911834</id>
 		<name>STR_TOYPET_INFO_DIALOG__FEED_FLAVOR</name>
-		<body>Main</body>
+		<body>Principal</body>
 	</string>
 	<string>
 		<id>911835</id>
 		<name>STR_TOYPET_INFO_DIALOG__FEED_LOVE_FLAVOR</name>
-		<body>Treat</body>
+		<body>Guloseima</body>
 	</string>
 	<string>
 		<id>911836</id>
 		<name>STR_TOYPET_INFO_DIALOG__FEED_SOURCE</name>
-		<body>Treat</body>
+		<body>Guloseima</body>
 	</string>
 	<string>
 		<id>911837</id>
 		<name>STR_TOYPET_INFO_DIALOG__FEED_FEED</name>
-		<body>Feed</body>
+		<body>Alimentar</body>
 	</string>
 	<string>
 		<id>911838</id>
 		<name>STR_TOYPET_INFO_DIALOG__BIRTHDAY</name>
-		<body>Birthday</body>
+		<body>Aniversário</body>
 	</string>
 	<string>
 		<id>911839</id>
 		<name>STR_TOYPET_INFO_DIALOG__FUNC1</name>
-		<body>Feature 1</body>
+		<body>Característica 1</body>
 	</string>
 	<string>
 		<id>911840</id>
 		<name>STR_TOYPET_INFO_DIALOG__FUNC2</name>
-		<body>Feature 2</body>
+		<body>Característica 2</body>
 	</string>
 	<string>
 		<id>911841</id>
 		<name>STR_TOYPET_INFO_DIALOG__FUNC_SP</name>
-		<body>Specialty</body>
+		<body>Especialidade</body>
 	</string>
 	<string>
 		<id>911842</id>
 		<name>STR_TOYPET_INFO_DIALOG__FEED_CANCEL</name>
-		<body>Cancelar Feeding</body>
+		<body>Cancelar Alimentação</body>
 	</string>
 	<string>
 		<id>911843</id>
 		<name>STR_VENDOR_DIALOG__VENDOR_TAB_FRAME_SELLING_ITEM_LIST_NEXT_FEE</name>
-		<body>Current Registration Fee:</body>
+		<body>Taxa de registro atual:</body>
 	</string>
 	<string>
 		<id>911844</id>
@@ -9779,52 +9779,52 @@
 	<string>
 		<id>911845</id>
 		<name>STR_VENDOR_DIALOG__VENDOR_TAB_FRAME_SOLD_SOLD_ITEM_LIST</name>
-		<body>Sold Items</body>
+		<body>Itens Vendidos</body>
 	</string>
 	<string>
 		<id>911846</id>
 		<name>STR_TOOL_MAKING_DIALOG__SHOW_ONLY_CHECKLIST</name>
-		<body>Selected Only</body>
+		<body>Somente Selecionados</body>
 	</string>
 	<string>
 		<id>911847</id>
 		<name>STR_TOOL_MAKING_DIALOG__NO_CHECKED_LIST</name>
-		<body>No list selected.</body>
+		<body>Nenhuma lista selecionada.</body>
 	</string>
 	<string>
 		<id>911848</id>
 		<name>STR_PLAYER_INFO_DIALOG__STAT_PVP_ATTACK_RATIO_PHYSICAL</name>
-		<body>Physical Dano Físico (PvP)</body>
+		<body>Dano Físico (PvP)</body>
 	</string>
 	<string>
 		<id>911849</id>
 		<name>STR_PLAYER_INFO_DIALOG__STAT_PVP_ATTACK_RATIO_MAGICAL</name>
-		<body>Magical Dano Físico (PvP)</body>
+		<body>Dano Mágico (PvP)</body>
 	</string>
 	<string>
 		<id>911850</id>
 		<name>STR_PLAYER_INFO_DIALOG__STAT_PVP_DEFEND_RATIO_PHYSICAL</name>
-		<body>Physical Defence (PvP)</body>
+		<body>Defesa Física (PvP)</body>
 	</string>
 	<string>
 		<id>911851</id>
 		<name>STR_PLAYER_INFO_DIALOG__STAT_PVP_DEFEND_RATIO_MAGICAL</name>
-		<body>Magic Defence (PvP)</body>
+		<body>Defesa Mágica (PvP)</body>
 	</string>
 	<string>
 		<id>911852</id>
 		<name>STR_INDUN_COOLTIME_DIALOG__INDUN_MAX_MEMBER</name>
-		<body>Players</body>
+		<body>Jogadores</body>
 	</string>
 	<string>
 		<id>911853</id>
 		<name>STR_NPC_GUIDE_DIALOG</name>
-		<body>Signpost</body>
+		<body>Placa de Sinalização</body>
 	</string>
 	<string>
 		<id>911854</id>
 		<name>STR_NPC_GUIDE_DIALOG__DESC</name>
-		<body>You can use the signpost to find out more about the NPCs and their locations.\nSelect an NPC in the list below and look for them.</body>
+		<body>Você pode usar a placa de sinalização para saber mais sobre os NPCs e suas localizações.\nSelecione um NPC na lista abaixo e procure por eles.</body>
 	</string>
 	<string>
 		<id>911855</id>
@@ -9834,22 +9834,22 @@
 	<string>
 		<id>911856</id>
 		<name>STR_TOYPET_INFO_DIALOG__WAREHOUSE_TOOLTIP_CUBE</name>
-		<body>Cube</body>
+		<body>Cubo</body>
 	</string>
 	<string>
 		<id>911857</id>
 		<name>STR_INVENTORY_DIALOG__TOOLTIP_TOYPET_WAREHOUSE</name>
-		<body>Pet Bag</body>
+		<body>Sacola do Mascote</body>
 	</string>
 	<string>
 		<id>911858</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__SHOW_STARTABLE_QUEST_NPC_IN_MAP</name>
-		<body>Show Available Quests on Map</body>
+		<body>Mostrar Missões Disponíveis no Mapa</body>
 	</string>
 	<string>
 		<id>911859</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__TABFRAME_OPTION_CAM_ANGLE</name>
-		<body>Raise Camera Angle</body>
+		<body>Aumentar Ângulo da Câmera</body>
 	</string>
 	<string>
 		<id>911860</id>
@@ -9859,62 +9859,62 @@
 	<string>
 		<id>911861</id>
 		<name>STR_LOBBY_LOGIN__CREDIT_SHOW_VER_2_0</name>
-		<body>Stormwing’s Defiance</body>
+		<body>Stormwing's Defiance</body>
 	</string>
 	<string>
 		<id>911862</id>
 		<name>STR_TOYPET_LIST_DIALOG__UNSUMMON</name>
-		<body>Dismiss</body>
+		<body>Dispensar</body>
 	</string>
 	<string>
 		<id>911863</id>
 		<name>STR_CHAR_LINK_DIALOG__INVITE_UNION</name>
-		<body>Invite to League</body>
+		<body>Convidar para Liga</body>
 	</string>
 	<string>
 		<id>911864</id>
 		<name>STR_ENCHANT_DIALOG__SOURCE_SUB_MATTER</name>
-		<body>Enchantment Aid Item</body>
+		<body>Item de Ajuda de Encantamento</body>
 	</string>
 	<string>
 		<id>911865</id>
 		<name>STR_TOYPET_PAPERDOLL_DIALOG</name>
-		<body>Pet Preview</body>
+		<body>Visualização do Mascote</body>
 	</string>
 	<string>
 		<id>911866</id>
 		<name>STR_LOBBY_LOGIN__CREATE_PASSWORD</name>
-		<body>Forgot Password</body>
+		<body>Esqueci a Senha</body>
 	</string>
 	<string>
 		<id>911867</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GAME_DUAL_CLICK_MODE</name>
-		<body>Click L and R mouse to reverse</body>
+		<body>Clique em L e R do mouse para inverter</body>
 	</string>
 	<string>
 		<id>911868</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GAME_STOP_MOUSE_MOVE_AFTER_ATTACK</name>
-		<body>Skills do not cancel click-to-move</body>
+		<body>Habilidades não cancelam o clique para mover</body>
 	</string>
 	<string>
 		<id>911869</id>
 		<name>STR_CREATE_SAVE_DIALOG</name>
-		<body>Salvar Settings</body>
+		<body>Salvar Configurações</body>
 	</string>
 	<string>
 		<id>911870</id>
 		<name>STR_CREATE_SAVE_DIALOG__DESC</name>
-		<body>Saves the current character&apos;s settings as a UPR file\nin the UserPreset folder in the Aion installation folder.</body>
+		<body>Salva as configurações do personagem atual como um arquivo UPR\nna pasta UserPreset, na pasta de instalação do Aion.</body>
 	</string>
 	<string>
 		<id>911871</id>
 		<name>STR_CREATE_SAVE_DIALOG__LIST</name>
-		<body>Settings Lista</body>
+		<body>Lista de Configurações</body>
 	</string>
 	<string>
 		<id>911872</id>
 		<name>STR_CREATE_SAVE_DIALOG__FILENAME</name>
-		<body>Settings Nome</body>
+		<body>Nome das Configurações</body>
 	</string>
 	<string>
 		<id>911873</id>
@@ -9929,32 +9929,32 @@
 	<string>
 		<id>911875</id>
 		<name>STR_CREATE_LOAD_DIALOG</name>
-		<body>Load Settings</body>
+		<body>Carregar Configurações</body>
 	</string>
 	<string>
 		<id>911876</id>
 		<name>STR_CREATE_LOAD_DIALOG__DESC</name>
-		<body>Loads character settings of the same race and gender\nfrom the UserPreset folder in the Aion installation folder.</body>
+		<body>Carrega configurações de personagem da mesma raça e gênero\nda pasta UserPreset, na pasta de instalação do Aion.</body>
 	</string>
 	<string>
 		<id>911877</id>
 		<name>STR_CREATE_LOAD_DIALOG__LIST</name>
-		<body>Settings Lista</body>
+		<body>Lista de Configurações</body>
 	</string>
 	<string>
 		<id>911878</id>
 		<name>STR_CREATE_LOAD_DIALOG__LOAD</name>
-		<body>Confirm</body>
+		<body>Confirmar</body>
 	</string>
 	<string>
 		<id>911879</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_LOAD</name>
-		<body>Load Settings</body>
+		<body>Carregar Configurações</body>
 	</string>
 	<string>
 		<id>911880</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_SAVE</name>
-		<body>Salvar Settings</body>
+		<body>Salvar Configurações</body>
 	</string>
 	<string>
 		<id>911881</id>
@@ -9969,17 +9969,17 @@
 	<string>
 		<id>911883</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__SHOW_PATH_FIND_HELPER</name>
-		<body>Show pathfinding spirit in the city</body>
+		<body>Mostrar o 'espírito de descoberta' na cidade</body>
 	</string>
 	<string>
 		<id>911884</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GAME_CHANGE_USABLE_SKILL</name>
-		<body>Show usable chains on Quickbar first.</body>
+		<body>Mostrar sequências utilizáveis na barra primeiro.</body>
 	</string>
 	<string>
 		<id>911885</id>
 		<name>STR_FORCE_LINK_DIALOG__MEMBER_LEVEL</name>
-		<body>Nível Range:</body>
+		<body>Faixa de Nível:</body>
 	</string>
 	<string>
 		<id>911886</id>
@@ -9994,7 +9994,7 @@
 	<string>
 		<id>911888</id>
 		<name>STR_TOWER_DEFENCE_WORLD</name>
-		<body>World</body>
+		<body>Mundo</body>
 	</string>
 	<string>
 		<id>911889</id>
@@ -10009,12 +10009,12 @@
 	<string>
 		<id>911891</id>
 		<name>STR_TOWER_DEFENCE_DIR</name>
-		<body>Direction</body>
+		<body>Direção</body>
 	</string>
 	<string>
 		<id>911892</id>
 		<name>STR_TOWER_DEFENCE_OPEN</name>
-		<body>Open</body>
+		<body>Abrir</body>
 	</string>
 	<string>
 		<id>911893</id>
@@ -10029,7 +10029,7 @@
 	<string>
 		<id>911895</id>
 		<name>STR_TOWER_DEFENCE_NEW_TOWER</name>
-		<body>New</body>
+		<body>Novo</body>
 	</string>
 	<string>
 		<id>911896</id>
@@ -10039,17 +10039,17 @@
 	<string>
 		<id>911897</id>
 		<name>STR_PLAYER_INFO_DIALOG__MOTION</name>
-		<body>Motion</body>
+		<body>Movimento</body>
 	</string>
 	<string>
 		<id>911898</id>
 		<name>STR_PLAYER_INFO_DIALOG__MOTION_CHANGE</name>
-		<body>Change Motion</body>
+		<body>Mudar Movimento</body>
 	</string>
 	<string>
 		<id>911899</id>
 		<name>STR_TOWER_DEFENCE_RATIO</name>
-		<body>All Carrier Speed</body>
+		<body>Todos Carrier Speed</body>
 	</string>
 	<string>
 		<id>911900</id>
@@ -10059,12 +10059,12 @@
 	<string>
 		<id>911901</id>
 		<name>STR_TOWER_DEFENCE_BULLET</name>
-		<body>Shell Type</body>
+		<body>Shell Tipo</body>
 	</string>
 	<string>
 		<id>911902</id>
 		<name>STR_GUILD_HISTORY_DIALOG</name>
-		<body>Usage Log</body>
+		<body>Registro de Uso</body>
 	</string>
 	<string>
 		<id>911903</id>
@@ -10084,32 +10084,32 @@
 	<string>
 		<id>911906</id>
 		<name>STR_WAREHOUSE_DIALOG__GUILD_HISTORY</name>
-		<body>Usage Log</body>
+		<body>Registro de Uso</body>
 	</string>
 	<string>
 		<id>911907</id>
 		<name>STR_TOYPET_INFO_DIALOG__DOPING</name>
-		<body>Pet Buff Bag</body>
+		<body>Sacola de Buffs do Mascote</body>
 	</string>
 	<string>
 		<id>911908</id>
 		<name>STR_TOYPET_INFO_DIALOG__DOPING_DESC</name>
-		<body>Order the pet or minion to automatically use food and magical items in your cube to apply buffs.</body>
+		<body>Ordene que o mascote ou lacaio use automaticamente comida e itens mágicos em seu cubo para aplicar buffs.</body>
 	</string>
 	<string>
 		<id>911909</id>
 		<name>STR_TOYPET_INFO_DIALOG__DOPING_FOOD</name>
-		<body>Food</body>
+		<body>Comida</body>
 	</string>
 	<string>
 		<id>911910</id>
 		<name>STR_TOYPET_INFO_DIALOG__DOPING_DRINK</name>
-		<body>Beverage</body>
+		<body>Bebida</body>
 	</string>
 	<string>
 		<id>911911</id>
 		<name>STR_TOYPET_INFO_DIALOG__DOPING_SCROLL</name>
-		<body>Scroll</body>
+		<body>Pergaminhos</body>
 	</string>
 	<string>
 		<id>911912</id>
@@ -10119,27 +10119,27 @@
 	<string>
 		<id>911913</id>
 		<name>STR_TOYPET_INFO_DIALOG__LOOTING</name>
-		<body>Pet Loot</body>
+		<body>Coleta do Mascote</body>
 	</string>
 	<string>
 		<id>911914</id>
 		<name>STR_TOYPET_INFO_DIALOG__LOOTING_DESC</name>
-		<body>The pet automatically loots nearby items for its master.</body>
+		<body>O mascote coleta automaticamente itens próximos para seu mestre.</body>
 	</string>
 	<string>
 		<id>911915</id>
 		<name>STR_TOYPET_INFO_DIALOG__LOOTING_DESC01</name>
-		<body>Can pick up items for its master within a radius of 28 metres.</body>
+		<body>Pode coletar itens para seu mestre em um raio de 28 metros.</body>
 	</string>
 	<string>
 		<id>911916</id>
 		<name>STR_TOYPET_INFO_DIALOG__LOOTING_DESC02</name>
-		<body>Depending on your Grupo Distribution, certain items might be excluded from this function.</body>
+		<body>Dependendo da distribuição do seu Grupo, alguns itens podem ser excluídos desta função.</body>
 	</string>
 	<string>
 		<id>911917</id>
 		<name>STR_TOYPET_INFO_DIALOG__LOOTING_DESC03</name>
-		<body>While in group mode, your pet cannot collect items that have to be shared with group members.</body>
+		<body>Enquanto estiver no modo de grupo, seu animal de estimação não pode coletar itens que devem ser compartilhados com os membros do grupo.</body>
 	</string>
 	<string>
 		<id>911918</id>
@@ -10179,12 +10179,12 @@
 	<string>
 		<id>911925</id>
 		<name>STR_SECONDPASSWORD_DIALOG__ENTER_INFO</name>
-		<body>(Using the mouse, enter 6~8 digits.)</body>
+		<body>(Usando o mouse, insira 6~8 dígitos.)</body>
 	</string>
 	<string>
 		<id>911926</id>
 		<name>STR_DLG_GUILD_AUTH__WAREHOUSE_DEPOSIT</name>
-		<body>Warehouse Deposit</body>
+		<body>Depositar no Baú</body>
 	</string>
 	<string>
 		<id>911927</id>
@@ -10194,7 +10194,7 @@
 	<string>
 		<id>911928</id>
 		<name>STR_TOWER_DEFENCE_SLOW</name>
-		<body>Movement Speed Reduction</body>
+		<body>Redução de Movimento</body>
 	</string>
 	<string>
 		<id>911929</id>
@@ -10309,32 +10309,32 @@
 	<string>
 		<id>911951</id>
 		<name>STR_NEW_MAP_DIALOG__SETTING</name>
-		<body>Show on Map</body>
+		<body>Mostrar no Mapa</body>
 	</string>
 	<string>
 		<id>911952</id>
 		<name>STR_NEW_MAP_DIALOG__QUEST</name>
-		<body>Quests</body>
+		<body>Missões</body>
 	</string>
 	<string>
 		<id>911953</id>
 		<name>STR_NEW_MAP_DIALOG__INFO</name>
-		<body>Instance</body>
+		<body>Instância</body>
 	</string>
 	<string>
 		<id>911954</id>
 		<name>STR_NEW_MAP_DIALOG__WHERE</name>
-		<body>Find</body>
+		<body>Encontrar</body>
 	</string>
 	<string>
 		<id>911955</id>
 		<name>STR_NEW_MAP_DIALOG__MY_POSITION</name>
-		<body>My Position</body>
+		<body>Minha Posição</body>
 	</string>
 	<string>
 		<id>911956</id>
 		<name>STR_NEW_MAP_SHOW_RACE</name>
-		<body>Owner</body>
+		<body>Dono</body>
 	</string>
 	<string>
 		<id>911957</id>
@@ -10354,32 +10354,32 @@
 	<string>
 		<id>911960</id>
 		<name>STR_NEW_MAP_SHOW_COMMON</name>
-		<body>Basic</body>
+		<body>Básico</body>
 	</string>
 	<string>
 		<id>911961</id>
 		<name>STR_NEW_MAP_SHOW_FORTRESS</name>
-		<body>Fortresses</body>
+		<body>Fortalezas</body>
 	</string>
 	<string>
 		<id>911962</id>
 		<name>STR_NEW_MAP_SHOW_ARTIFACT</name>
-		<body>Artifacts</body>
+		<body>Artefatos</body>
 	</string>
 	<string>
 		<id>911963</id>
 		<name>STR_NEW_MAP_SHOW_PVP</name>
-		<body>Vulnerable</body>
+		<body>Vulnerável</body>
 	</string>
 	<string>
 		<id>911964</id>
 		<name>STR_NEW_MAP_SHOW_BOSSRAID</name>
-		<body>Governor</body>
+		<body>Chefão</body>
 	</string>
 	<string>
 		<id>911965</id>
 		<name>STR_NEW_MAP_SHOW_INDUN</name>
-		<body>Instances</body>
+		<body>Instâncias</body>
 	</string>
 	<string>
 		<id>911966</id>
@@ -10394,87 +10394,87 @@
 	<string>
 		<id>911968</id>
 		<name>STR_NEW_MAP_SHOW_QUEST</name>
-		<body>Quest NPCs</body>
+		<body>NPCs de Missão</body>
 	</string>
 	<string>
 		<id>911969</id>
 		<name>STR_NEW_MAP_SHOW_QUEST_GIVABLE</name>
-		<body>Available Quests</body>
+		<body>Missões Disponíveis</body>
 	</string>
 	<string>
 		<id>911970</id>
 		<name>STR_NEW_MAP_SHOW_QUEST_WORKING</name>
-		<body>Active Quests</body>
+		<body>Missões Ativas</body>
 	</string>
 	<string>
 		<id>911971</id>
 		<name>STR_NEW_MAP_SHOW_QUEST_FINISHED</name>
-		<body>Completed Quests</body>
+		<body>Missões Completadas</body>
 	</string>
 	<string>
 		<id>911972</id>
 		<name>STR_NEW_MAP_SHOW_IMPORTANT_GIVABLE</name>
-		<body>Available Key Quests</body>
+		<body>Missões Chave Disponíveis</body>
 	</string>
 	<string>
 		<id>911973</id>
 		<name>STR_NEW_MAP_SHOW_IMPORTANT_WORKING</name>
-		<body>Active Key Quests</body>
+		<body>Missões Chave Ativas</body>
 	</string>
 	<string>
 		<id>911974</id>
 		<name>STR_NEW_MAP_SHOW_IMPORTANT_FINISHED</name>
-		<body>Completed Key Quests</body>
+		<body>Missões Chave Completadas</body>
 	</string>
 	<string>
 		<id>911975</id>
 		<name>STR_NEW_MAP_SHOW_MISSION_WORKING</name>
-		<body>Active Campaigns</body>
+		<body>Campanhas Ativas</body>
 	</string>
 	<string>
 		<id>911976</id>
 		<name>STR_NEW_MAP_SHOW_MISSION_FINISHED</name>
-		<body>Completed Campaigns</body>
+		<body>Campanhas Completadas</body>
 	</string>
 	<string>
 		<id>911977</id>
 		<name>STR_NEW_MAP_SHOW_EVENT_GIVABLE</name>
-		<body>Available Event Quests</body>
+		<body>Missões de Evento Disponíveis</body>
 	</string>
 	<string>
 		<id>911978</id>
 		<name>STR_NEW_MAP_SHOW_EVENT_WORKING</name>
-		<body>Active Event Quests</body>
+		<body>Missões de Evento Ativas</body>
 	</string>
 	<string>
 		<id>911979</id>
 		<name>STR_NEW_MAP_SHOW_EVENT_FINISHED</name>
-		<body>Completed Event Quests</body>
+		<body>Missões de Evento Completadas</body>
 	</string>
 	<string>
 		<id>911980</id>
 		<name>STR_NEW_MAP_SHOW_PARTY</name>
-		<body>Grupo Membros</body>
+		<body>Membros do Grupo</body>
 	</string>
 	<string>
 		<id>911981</id>
 		<name>STR_NEW_MAP_SHOW_FORCE</name>
-		<body>Aliança Membros</body>
+		<body>Membros da Aliança</body>
 	</string>
 	<string>
 		<id>911982</id>
 		<name>STR_INDUN_ACCOUNT_IDARENA_DIALOG</name>
-		<body>Results</body>
+		<body>Resultados</body>
 	</string>
 	<string>
 		<id>911983</id>
 		<name>STR_INDUN_ACCOUNT_IDARENA_DIALOG__STAGE</name>
-		<body>Stage</body>
+		<body>Estágio</body>
 	</string>
 	<string>
 		<id>911984</id>
 		<name>STR_INDUN_ACCOUNT_IDARENA_DIALOG__ROUND</name>
-		<body>Round</body>
+		<body>Rodada</body>
 	</string>
 	<string>
 		<id>911985</id>
@@ -10484,7 +10484,7 @@
 	<string>
 		<id>911986</id>
 		<name>STR_INDUN_ACCOUNT_IDARENA_DIALOG__COLUMN_SCORE</name>
-		<body>Score</body>
+		<body>Pontuação</body>
 	</string>
 	<string>
 		<id>911987</id>
@@ -10494,22 +10494,22 @@
 	<string>
 		<id>911988</id>
 		<name>STR_INDUN_ACCOUNT_IDARENA_DIALOG__LEAVE</name>
-		<body>Exit</body>
+		<body>Sair</body>
 	</string>
 	<string>
 		<id>911989</id>
 		<name>STR_NEW_MAP_DIALOG__QUEST_DETAIL</name>
-		<body>Open Journal</body>
+		<body>Abrir Diário</body>
 	</string>
 	<string>
 		<id>911990</id>
 		<name>STR_NEW_MAP_DIALOG__QUEST_SPAWN_POS</name>
-		<body>Locate</body>
+		<body>Localizar</body>
 	</string>
 	<string>
 		<id>911991</id>
 		<name>STR_MAILBOX_DIALOG__TABFRAME_CASH</name>
-		<body>Awaiting Collection</body>
+		<body>Aguardando Coleta</body>
 	</string>
 	<string>
 		<id>911992</id>
@@ -10519,7 +10519,7 @@
 	<string>
 		<id>911993</id>
 		<name>STR_MAILBOX_DIALOG__TABFRAME_CASH_REFUND_LEFT_TIME</name>
-		<body>Refund Period Remaining</body>
+		<body>Período de Reembolso Restante</body>
 	</string>
 	<string>
 		<id>911994</id>
@@ -10539,22 +10539,22 @@
 	<string>
 		<id>911997</id>
 		<name>STR_CASH_PURCHASE_DIALOG__ITEM_CONTENT</name>
-		<body>Contents</body>
+		<body>Conteúdo</body>
 	</string>
 	<string>
 		<id>911998</id>
 		<name>STR_CASH_PURCHASE_DIALOG__UNPURCHASE_INFO</name>
-		<body>Refund Info</body>
+		<body>Informações de Reembolso</body>
 	</string>
 	<string>
 		<id>911999</id>
 		<name>STR_RADAR_DIALOG__TOOLTIP_DELIVERED_CASH_ICON</name>
-		<body>Purchased Item Delivered</body>
+		<body>Item comprado Entregue</body>
 	</string>
 	<string>
 		<id>912000</id>
 		<name>STR_NEW_MAP_SHOW_FUNCNPC</name>
-		<body>Functional</body>
+		<body>Funcional</body>
 	</string>
 	<string>
 		<id>912001</id>
@@ -10564,12 +10564,12 @@
 	<string>
 		<id>912002</id>
 		<name>STR_NEW_MAP_SHOW_POSTBOX</name>
-		<body>Mailboxes</body>
+		<body>Caixas de Correio</body>
 	</string>
 	<string>
 		<id>912003</id>
 		<name>STR_NEW_MAP_SHOW_MERCHANT</name>
-		<body>Merchants</body>
+		<body>Comerciantes</body>
 	</string>
 	<string>
 		<id>912004</id>
@@ -10579,27 +10579,27 @@
 	<string>
 		<id>912005</id>
 		<name>STR_NEW_MAP_SHOW_WAREHOUSE</name>
-		<body>Warehouse Managers</body>
+		<body>Gerentes de Baú</body>
 	</string>
 	<string>
 		<id>912006</id>
 		<name>STR_NEW_MAP_SHOW_TELEPORT</name>
-		<body>Teleporters</body>
+		<body>Teletransportadores</body>
 	</string>
 	<string>
 		<id>912007</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_BUMP</name>
-		<body>Face Contour</body>
+		<body>Contorno Facial</body>
 	</string>
 	<string>
 		<id>912008</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_EXPRESSION</name>
-		<body>Expression</body>
+		<body>Expressão</body>
 	</string>
 	<string>
 		<id>912009</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE25</name>
-		<body>Face Shape</body>
+		<body>Formato do Rosto</body>
 	</string>
 	<string>
 		<id>912010</id>
@@ -10614,82 +10614,82 @@
 	<string>
 		<id>912012</id>
 		<name>STR_NEW_MAP_DIALOG__SCALE_UP</name>
-		<body>Zoom In</body>
+		<body>Aproximar</body>
 	</string>
 	<string>
 		<id>912013</id>
 		<name>STR_NEW_MAP_DIALOG__SCALE_DOWN</name>
-		<body>Zoom Out</body>
+		<body>Afastar</body>
 	</string>
 	<string>
 		<id>912014</id>
 		<name>STR_QUEST_DIALOG__FIND_NPC</name>
-		<body>Locate</body>
+		<body>Localizar</body>
 	</string>
 	<string>
 		<id>912015</id>
 		<name>STR_NEW_MAP_DIALOG__CHANGE_MAP</name>
-		<body>World Map</body>
+		<body>Mapa do Mundo</body>
 	</string>
 	<string>
 		<id>912016</id>
 		<name>STR_NEW_MAP_DIALOG__QUEST_QUEST_LIST</name>
-		<body>Quests in Progress</body>
+		<body>Missões em Andamento</body>
 	</string>
 	<string>
 		<id>912017</id>
 		<name>STR_NEW_MAP_DIALOG__QUEST_MISSION_LIST</name>
-		<body>Campaigns in Progress</body>
+		<body>Campanhas em Andamento</body>
 	</string>
 	<string>
 		<id>912018</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GRAPHIC_SCREEN_OPTION</name>
-		<body>Screen Settings</body>
+		<body>Configurações da Tela</body>
 	</string>
 	<string>
 		<id>912019</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GRAPHIC_ENGINE_OPTION</name>
-		<body>Graphics Engine Settings</body>
+		<body>Configurações do Motor Gráfico</body>
 	</string>
 	<string>
 		<id>912020</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GRAPHIC_QUALITY_OPTION</name>
-		<body>Advanced Settings</body>
+		<body>Configurações Avançadas</body>
 	</string>
 	<string>
 		<id>912021</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GRAPHIC_ENGINE_CHOICE</name>
-		<body>Graphics Engine (*)</body>
+		<body>Motor Gráfico (*)</body>
 	</string>
 	<string>
 		<id>912022</id>
 		<name>STR_GLOBAL_OPTION_DIALOG_TOOLTIP_GRAPHIC_ENGINE_CHOICE</name>
-		<body>Selects the graphics engine used to render the screen.\nChoosing the High Quality engine offers improved quality over the default engine,\nas well as more detailed display options.\nFor better game performance, select the default engine.</body>
+		<body>Seleciona o Motor Gráfico usado para renderizar a tela.\nEscolher o Motor de Alta Qualidade oferece melhor qualidade em relação ao Motor Padrão,\nbem como opções de exibição mais detalhadas.\nPara melhor desempenho do jogo, selecione o Motor Padrão.</body>
 	</string>
 	<string>
 		<id>912023</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GRAPHIC_ENGINE_CHOICE_NORMAL</name>
-		<body>Default</body>
+		<body>Padrão</body>
 	</string>
 	<string>
 		<id>912024</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GRAPHIC_ENGINE_CHOICE_HIGH</name>
-		<body>High Quality</body>
+		<body>Alta Qualidade</body>
 	</string>
 	<string>
 		<id>912025</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GRAPHIC_OVERALL_QUALITY</name>
-		<body>Graphics Quality</body>
+		<body>Qualidade Gráfica</body>
 	</string>
 	<string>
 		<id>912026</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__USER_SETTING</name>
-		<body>Custom</body>
+		<body>Personalizada</body>
 	</string>
 	<string>
 		<id>912027</id>
 		<name>STR_GLOBAL_OPTION_DIALOG_TOOLTIP_GRAPHIC_OVERALL_QUALITY</name>
-		<body>Automatically detects the optimal graphics quality settings based on the system specifications of the computer.\nFor better game performance, select the Best Performance option.</body>
+		<body>Detecta automaticamente as configurações ideais de qualidade gráfica com base nas especificações do sistema do computador.\nPara obter um melhor desempenho no jogo, selecione a opção Melhor desempenho.</body>
 	</string>
 	<string>
 		<id>912028</id>
@@ -10719,7 +10719,7 @@
 	<string>
 		<id>912033</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GRAPHIC_HIGH_SHADOW</name>
-		<body>Shadows</body>
+		<body>Sombras</body>
 	</string>
 	<string>
 		<id>912034</id>
@@ -10729,37 +10729,37 @@
 	<string>
 		<id>912035</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GRAPHIC_HIGH_EFFECT</name>
-		<body>Effects Quality</body>
+		<body>Qualidade dos Efeitos</body>
 	</string>
 	<string>
 		<id>912036</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GRAPHIC_HIGH_OUTLINE</name>
-		<body>Outline Correction</body>
+		<body>Correção de Contorno</body>
 	</string>
 	<string>
 		<id>912037</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GRAPHIC_HIGH_WHETHER</name>
-		<body>Tempo Effects</body>
+		<body>Efeitos Climáticos</body>
 	</string>
 	<string>
 		<id>912038</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__HIGH_FULLSCREEN_SKILLFX</name>
-		<body>Tela Cheia Skill Effects</body>
+		<body>Efeitos de Habilidade em Tela Cheia</body>
 	</string>
 	<string>
 		<id>912039</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__HIGH_FULLSCREEN_LIGHT</name>
-		<body>High Quality Lighting Effects</body>
+		<body>Efeitos de iluminação de alta qualidade</body>
 	</string>
 	<string>
 		<id>912040</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GRAPHIC_HIGH_TRR</name>
-		<body>High Quality Tempo Effects</body>
+		<body>Efeitos de clima de alta qualidade</body>
 	</string>
 	<string>
 		<id>912041</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GRAPHIC_HIGH_SUNSHAFT</name>
-		<body>Sunlight Effects</body>
+		<body>Efeitos da luz solar</body>
 	</string>
 	<string>
 		<id>912042</id>
@@ -10769,107 +10769,107 @@
 	<string>
 		<id>912043</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GRAPHIC_HIGH_BG_BUMP</name>
-		<body>High Quality Backgrounds</body>
+		<body>Fundos de alta qualidade</body>
 	</string>
 	<string>
 		<id>912044</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GRAPHIC_HIGH_SOFT_CAMERA</name>
-		<body>Soft Camera Effects</body>
+		<body>Efeitos suaves da câmera</body>
 	</string>
 	<string>
 		<id>912045</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GRAPHIC_HIGH_SOFT_DOF</name>
-		<body>Distância Focus Effects</body>
+		<body>Efeitos de foco de distância</body>
 	</string>
 	<string>
 		<id>912046</id>
 		<name>STR_GLOBAL_OPTION_DIALOG_TOOLTIP_GRAPHIC_HIGH_TEXTURE</name>
-		<body>Sets the texture detail level.\nFor better game performance, choose a lower setting.</body>
+		<body>Define o nível de detalhe da textura.\nPara um melhor desempenho do jogo, escolha uma configuração mais baixa.</body>
 	</string>
 	<string>
 		<id>912047</id>
 		<name>STR_GLOBAL_OPTION_DIALOG_TOOLTIP_GRAPHIC_HIGH_OBJ_RANGE</name>
-		<body>Sets the maximum visible range for objects.\nFor better game performance, set a shorter distance.</body>
+		<body>Define o alcance máximo visível para objetos.\nPara um melhor desempenho do jogo, defina uma distância menor.</body>
 	</string>
 	<string>
 		<id>912048</id>
 		<name>STR_GLOBAL_OPTION_DIALOG_TOOLTIP_GRAPHIC_HIGH_TRR_RANGE</name>
-		<body>Sets the maximum visible range for terrain.\nFor better game performance, set a shorter distance.</body>
+		<body>Define o alcance máximo visível para o terreno.\nPara um melhor desempenho do jogo, defina uma distância menor.</body>
 	</string>
 	<string>
 		<id>912049</id>
 		<name>STR_GLOBAL_OPTION_DIALOG_TOOLTIP_GRAPHIC_HIGH_BG</name>
-		<body>The level of detail in the backgrounds.\nFor better game performance, choose a lower setting.</body>
+		<body>Define o nível de detalhe nos planos de fundo.\nPara um melhor desempenho do jogo, escolha uma configuração mais baixa.</body>
 	</string>
 	<string>
 		<id>912050</id>
 		<name>STR_GLOBAL_OPTION_DIALOG_TOOLTIP_GRAPHIC_HIGH_WATER</name>
-		<body>Adjusts the reflective distance and quality of water surfaces.\nFor better game performance, choose a lower setting.</body>
+		<body>Ajusta a distância reflexiva e a qualidade da superfície da água.\nPara um melhor desempenho do jogo, escolha uma configuração mais baixa.</body>
 	</string>
 	<string>
 		<id>912051</id>
 		<name>STR_GLOBAL_OPTION_DIALOG_TOOLTIP_GRAPHIC_HIGH_SHADOW</name>
-		<body>Sets the length and detail of the character&apos;s shadow.\nFor better game performance, choose a lower setting.</body>
+		<body>Define o comprimento e os detalhes da sombra do personagem.\nPara um melhor desempenho do jogo, escolha uma configuração mais baixa.</body>
 	</string>
 	<string>
 		<id>912052</id>
 		<name>STR_GLOBAL_OPTION_DIALOG_TOOLTIP_GRAPHIC_HIGH_SHADER</name>
-		<body>Sets the level of detail in characters and backgrounds.\nSet it high to display skin colours accurately, and low for better game performance.</body>
+		<body>Define o nível de detalhe em personagens e planos de fundo.\nDefina-o alto para exibir cores de pele com precisão e baixo para melhor desempenho do jogo.</body>
 	</string>
 	<string>
 		<id>912053</id>
 		<name>STR_GLOBAL_OPTION_DIALOG_TOOLTIP_GRAPHIC_HIGH_EFFECT</name>
-		<body>Sets the quality of effects for characters and backgrounds.\nFor better game performance, choose a lower setting.</body>
+		<body>Define a qualidade dos efeitos para personagens e planos de fundo.\nPara um melhor desempenho do jogo, escolha uma configuração mais baixa.</body>
 	</string>
 	<string>
 		<id>912054</id>
 		<name>STR_GLOBAL_OPTION_DIALOG_TOOLTIP_GRAPHIC_HIGH_OUTLINE</name>
-		<body>Smooths object outlines.\nFor better game performance, choose a lower setting.</body>
+		<body>Suaviza contornos de objetos.\nPara um melhor desempenho do jogo, escolha uma configuração mais baixa.</body>
 	</string>
 	<string>
 		<id>912055</id>
 		<name>STR_GLOBAL_OPTION_DIALOG_TOOLTIP_GRAPHIC_HIGH_WHETHER</name>
-		<body>Displays weather effects such as showers and sandstorms.\nDisable this effect to improve game performance.</body>
+		<body>Exibe efeitos climáticos, como chuvas e tempestades de areia.\nDesative este efeito para melhorar o desempenho do jogo.</body>
 	</string>
 	<string>
 		<id>912056</id>
 		<name>STR_GLOBAL_OPTION_DIALOG_TOOLTIP_HIGH_FULLSCREEN_SKILLFX</name>
-		<body>Displayss full screen effects while using your skills.\nDisable this effect to improve game performance.</body>
+		<body>Exibe efeitos em tela cheia enquanto usa suas habilidades.\nDesative este efeito para melhorar o desempenho do jogo.</body>
 	</string>
 	<string>
 		<id>912057</id>
 		<name>STR_GLOBAL_OPTION_DIALOG_TOOLTIP_HIGH_FULLSCREEN_LIGHT</name>
-		<body>Applies additional light source effects on the background and characters.\nDisable this effect to improve game performance.</body>
+		<body>Aplica efeitos de fonte de luz adicionais no fundo e nos personagens.\nDesative este efeito para melhorar o desempenho do jogo.</body>
 	</string>
 	<string>
 		<id>912058</id>
 		<name>STR_GLOBAL_OPTION_DIALOG_TOOLTIP_GRAPHIC_HIGH_TRR</name>
-		<body>Displays additional background effects caused by weather changes.\nDisable this effect to improve game performance.</body>
+		<body>Exibe efeitos de fundo adicionais causados ​​por mudanças climáticas.\nDesative este efeito para melhorar o desempenho do jogo.</body>
 	</string>
 	<string>
 		<id>912059</id>
 		<name>STR_GLOBAL_OPTION_DIALOG_TOOLTIP_GRAPHIC_HIGH_SUNSHAFT</name>
-		<body>Displays additional background effects caused by movement of the sun or moon.\nDisable this effect to improve game performance.</body>
+		<body>Exibe efeitos de fundo adicionais causados ​​pelo movimento do sol ou da lua.\nDesative este efeito para melhorar o desempenho do jogo.</body>
 	</string>
 	<string>
 		<id>912060</id>
 		<name>STR_GLOBAL_OPTION_DIALOG_TOOLTIP_GRAPHIC_HIGH_GLARE</name>
-		<body>Softens the objects on the screen.\nDisable this effect to improve game performance.</body>
+		<body>Suaviza os objetos na tela.\nDesative este efeito para melhorar o desempenho do jogo.</body>
 	</string>
 	<string>
 		<id>912061</id>
 		<name>STR_GLOBAL_OPTION_DIALOG_TOOLTIP_GRAPHIC_HIGH_BG_BUMP</name>
-		<body>Displays the background contours in greater detail.\nFor better game performance, choose a lower setting.</body>
+		<body>Exibe os contornos do plano de fundo com mais detalhes.\nPara um melhor desempenho do jogo, escolha uma configuração mais baixa.</body>
 	</string>
 	<string>
 		<id>912062</id>
 		<name>STR_GLOBAL_OPTION_DIALOG_TOOLTIP_GRAPHIC_HIGH_SOFT_CAMERA</name>
-		<body>Displays the screen-flow effect and afterimages when the camera is rotated.\nDisable this effect to improve game performance.</body>
+		<body>Exibe o efeito de fluxo de tela e pós-imagens quando a câmera é girada.\nDesative este efeito para melhorar o desempenho do jogo.</body>
 	</string>
 	<string>
 		<id>912063</id>
 		<name>STR_GLOBAL_OPTION_DIALOG_TOOLTIP_GRAPHIC_HIGH_SOFT_DOF</name>
-		<body>When the camera zooms in, the character is displayed in higher clarity while the background fades out.\nDisable this effect to improve game performance.</body>
+		<body>Quando a câmera é aproximada, o personagem é exibido com maior clareza enquanto o fundo fica borrado.\nDesative este efeito para melhorar o desempenho do jogo.</body>
 	</string>
 	<string>
 		<id>912064</id>
@@ -10884,7 +10884,7 @@
 	<string>
 		<id>912066</id>
 		<name>STR_INDUN_INFO_DIALOG__TOOLTIP_IDARENA_LEAVE_BTN</name>
-		<body>Stop Training</body>
+		<body>Parar de Treinar</body>
 	</string>
 	<string>
 		<id>912067</id>
@@ -10894,17 +10894,17 @@
 	<string>
 		<id>912068</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GRAPHIC_RESTART_ALERT</name>
-		<body>The client must be restarted to apply items indicated with *.</body>
+		<body>O cliente deve ser reiniciado para aplicar os itens indicados com *.</body>
 	</string>
 	<string>
 		<id>912069</id>
 		<name>STR_INDUN_INFO_DIALOG__TOOLTIP_IDARENA_STAGE</name>
-		<body>Current Stage</body>
+		<body>Estágio Atual</body>
 	</string>
 	<string>
 		<id>912070</id>
 		<name>STR_INDUN_INFO_DIALOG__TOOLTIP_IDARENA_ROUND</name>
-		<body>Current Round</body>
+		<body>Rodada Atual</body>
 	</string>
 	<string>
 		<id>912071</id>
@@ -10919,12 +10919,12 @@
 	<string>
 		<id>912073</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__TABFRAME_OPTION_PLUGIN</name>
-		<body>Additional Functions</body>
+		<body>Funções Adicionais</body>
 	</string>
 	<string>
 		<id>912074</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__TABFRAME_OPTION_PLUGIN_SHOW_ALARM_ICON</name>
-		<body>Game Guide Notifications</body>
+		<body>Notificações do Guia do Jogo</body>
 	</string>
 	<string>
 		<id>912075</id>
@@ -10934,7 +10934,7 @@
 	<string>
 		<id>912076</id>
 		<name>STR_GUILD_AUTH_DIALOG__SUBMASTER</name>
-		<body>Tribunus</body>
+		<body>Tribuno</body>
 	</string>
 	<string>
 		<id>912077</id>
@@ -10949,42 +10949,42 @@
 	<string>
 		<id>912079</id>
 		<name>STR_GUILD_AUTH_DIALOG__NEWBIE</name>
-		<body>Trainee</body>
+		<body>Estagiário</body>
 	</string>
 	<string>
 		<id>912080</id>
 		<name>STR_CASH_PURCHASE_DIALOG__SENDER_NAME</name>
-		<body>Sender</body>
+		<body>Remetente</body>
 	</string>
 	<string>
 		<id>912081</id>
 		<name>STR_CASH_PURCHASE_DIALOG__SENDER_LETTER</name>
-		<body>Note</body>
+		<body>Observação</body>
 	</string>
 	<string>
 		<id>912082</id>
 		<name>STR_CREATE_SAVE_DIALOG__DELETE</name>
-		<body>Excluir Selected Settings</body>
+		<body>Excluir Configurações Selecionadas</body>
 	</string>
 	<string>
 		<id>912083</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GRAPHIC_EFFECT</name>
-		<body>Effects Quality</body>
+		<body>Qualidade dos Efeitos</body>
 	</string>
 	<string>
 		<id>912084</id>
 		<name>STR_GLOBAL_OPTION_DIALOG_TOOLTIP_GRAPHIC_EFFECT</name>
-		<body>Sets the effects quality for characters and backgrounds.\nFor better game performance, choose a lower setting.</body>
+		<body>Define a qualidade dos efeitos para personagens e planos de fundo.\nPara um melhor desempenho do jogo, escolha uma configuração mais baixa.</body>
 	</string>
 	<string>
 		<id>912085</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GAME_TOYPET_CAM_NOUSE</name>
-		<body>Don’t use pet camera</body>
+		<body>Não use câmera para mascotes</body>
 	</string>
 	<string>
 		<id>912086</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GAME_TOYPET_HIDE_OTHER</name>
-		<body>Hide other players’ pets</body>
+		<body>Ocultar mascotes de outros jogadores</body>
 	</string>
 	<string>
 		<id>912087</id>
@@ -10994,42 +10994,42 @@
 	<string>
 		<id>912088</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__PERFORMANCE</name>
-		<body>Low</body>
+		<body>Baixo</body>
 	</string>
 	<string>
 		<id>912089</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__RECOMMEND</name>
-		<body>Auto</body>
+		<body>Automático</body>
 	</string>
 	<string>
 		<id>912090</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__QUALITY</name>
-		<body>High</body>
+		<body>Alto</body>
 	</string>
 	<string>
 		<id>912091</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__SHOW_GRAPHIC_QUALITY_OPTION</name>
-		<body>Advanced</body>
+		<body>Avançado</body>
 	</string>
 	<string>
 		<id>912092</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__PERFORMANCE_ONLY</name>
-		<body>Lowest</body>
+		<body>Mais baixo</body>
 	</string>
 	<string>
 		<id>912093</id>
 		<name>STR_TOWER_DEFENCE_DAMAGE_LEVEL</name>
-		<body>All Nível Damage</body>
+		<body>Todos Nível Damage</body>
 	</string>
 	<string>
 		<id>912094</id>
 		<name>STR_PARTY_LINK_DIALOG__PARTY_MATCH</name>
-		<body>Find Grupo</body>
+		<body>Encontrar Grupo</body>
 	</string>
 	<string>
 		<id>912095</id>
 		<name>STR_FORCE_LINK_DIALOG__PARTY_MATCH</name>
-		<body>Find Grupo</body>
+		<body>Encontrar Grupo</body>
 	</string>
 	<string>
 		<id>912096</id>
@@ -11039,12 +11039,12 @@
 	<string>
 		<id>912097</id>
 		<name>STR_NEW_MAP_DIALOG__INFO_INDUN_DETAIL_NAME</name>
-		<body>Instance</body>
+		<body>Instância</body>
 	</string>
 	<string>
 		<id>912098</id>
 		<name>STR_NEW_MAP_DIALOG__INFO_INDUN_DETAIL_MAX_NUMBER</name>
-		<body>Máx. Players</body>
+		<body>Máx. Jogadores</body>
 	</string>
 	<string>
 		<id>912099</id>
@@ -11059,22 +11059,22 @@
 	<string>
 		<id>912101</id>
 		<name>STR_NEW_MAP_DIALOG__INFO_INDUN_DETAIL_REENTER_TIME_LEFT_CURRENT</name>
-		<body>Entries</body>
+		<body>Entradas</body>
 	</string>
 	<string>
 		<id>912102</id>
 		<name>STR_NEW_MAP_DIALOG__INFO_INDUN_PARTY_MATCH</name>
-		<body>Find Grupo</body>
+		<body>Encontrar Grupo</body>
 	</string>
 	<string>
 		<id>912103</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__SHOW_MY_PLAYER_PARTY_INFO</name>
-		<body>Display Self in Grupo Window</body>
+		<body>Mostrar eu mesmo(a) na Janela do Grupo</body>
 	</string>
 	<string>
 		<id>912104</id>
 		<name>STR_INDUN_WAIT_DIALOG__REGISTER_LIST</name>
-		<body>Instances Applied To</body>
+		<body>Instâncias aplicadas</body>
 	</string>
 	<string>
 		<id>912105</id>
@@ -11084,37 +11084,37 @@
 	<string>
 		<id>912106</id>
 		<name>STR_TRADE_DIALOG__UPGRADE_ITEM</name>
-		<body>Upgrade To</body>
+		<body>Atualize para</body>
 	</string>
 	<string>
 		<id>912107</id>
 		<name>STR_TRADE_DIALOG__UPGRADE_REQUIRED</name>
-		<body>Trade In</body>
+		<body>Troca</body>
 	</string>
 	<string>
 		<id>912108</id>
 		<name>STR_TRADE_DIALOG__UPGRADE_MY_MONEY</name>
-		<body>Owned</body>
+		<body>Meu Kinah</body>
 	</string>
 	<string>
 		<id>912109</id>
 		<name>STR_TRADE_DIALOG__UPGRADE_TRADE_MONEY</name>
-		<body>Price</body>
+		<body>Preço</body>
 	</string>
 	<string>
 		<id>912110</id>
 		<name>STR_REGISTER_ITEM_DIALOG</name>
-		<body>Trade In</body>
+		<body>Recebendo</body>
 	</string>
 	<string>
 		<id>912111</id>
 		<name>STR_REGISTER_ITEM_DIALOG__DESC</name>
-		<body>Drag and drop the item to trade in.\nYou must have all required items,\nand then click &apos;OK&apos; to confirm the trade.</body>
+		<body>Arraste e solte o item a ser trocado.\nVocê deve ter todos os itens necessários\ne, em seguida, clique em &apos;OK&apos; para confirmar a troca.</body>
 	</string>
 	<string>
 		<id>912112</id>
 		<name>STR_REGISTER_ITEM_DIALOG__REGISTER_ITEM</name>
-		<body>Trade In</body>
+		<body>Recebendo</body>
 	</string>
 	<string>
 		<id>912113</id>
@@ -11129,7 +11129,7 @@
 	<string>
 		<id>912115</id>
 		<name>STR_TOWER_DEFENCE_SELECT_DIFFICULTY</name>
-		<body>Select Difficulty</body>
+		<body>Selecionar Dificuldade</body>
 	</string>
 	<string>
 		<id>912116</id>
@@ -11209,7 +11209,7 @@
 	<string>
 		<id>912131</id>
 		<name>STR_HOUSING_CONTAINER_DIALOG__REGISTER</name>
-		<body>Register</body>
+		<body>Registrar</body>
 	</string>
 	<string>
 		<id>912132</id>
@@ -11224,7 +11224,7 @@
 	<string>
 		<id>912134</id>
 		<name>STR_HOUSING_REGISTER_DIALOG</name>
-		<body>Register</body>
+		<body>Registrar</body>
 	</string>
 	<string>
 		<id>912135</id>
@@ -11234,7 +11234,7 @@
 	<string>
 		<id>912136</id>
 		<name>STR_HOUSING_REGISTER_DIALOG__OK</name>
-		<body>Register</body>
+		<body>Registrar</body>
 	</string>
 	<string>
 		<id>912137</id>
@@ -11249,12 +11249,12 @@
 	<string>
 		<id>912139</id>
 		<name>STR_HOUSING_INFO_DIALOG__SAVE</name>
-		<body>Salvar All</body>
+		<body>Salvar Todos</body>
 	</string>
 	<string>
 		<id>912140</id>
 		<name>STR_HOUSING_INFO_DIALOG__CANCEL</name>
-		<body>Cancelar All</body>
+		<body>Cancelar Todos</body>
 	</string>
 	<string>
 		<id>912141</id>
@@ -11269,7 +11269,7 @@
 	<string>
 		<id>912143</id>
 		<name>STR_PLAYER_INFO_DIALOG__STAT_MAGIC_SKILL_BOOST_RESIST</name>
-		<body>Reduced Magic</body>
+		<body>Dano Mág. Reduzido</body>
 	</string>
 	<string>
 		<id>912144</id>
@@ -11279,17 +11279,17 @@
 	<string>
 		<id>912145</id>
 		<name>STR_TOOL_DROPDOWN_COMBINE_NOTHING_USE</name>
-		<body>Normal Crafting Table</body>
+		<body>Mesa de Criação Normal</body>
 	</string>
 	<string>
 		<id>912146</id>
 		<name>STR_TOOL_DROPDOWN_COMBINE_EXP_BOOST_USE</name>
-		<body>Crafting Table for Intensive Study</body>
+		<body>Mesa de Criação para Estudo Intensivo</body>
 	</string>
 	<string>
 		<id>912147</id>
 		<name>STR_IDARENA_PVP_DIALOG</name>
-		<body>Results</body>
+		<body>Resultados</body>
 	</string>
 	<string>
 		<id>912148</id>
@@ -11299,12 +11299,12 @@
 	<string>
 		<id>912149</id>
 		<name>STR_IDARENA_PVP_DIALOG__MY_SCORE</name>
-		<body>Score</body>
+		<body>Pontuação</body>
 	</string>
 	<string>
 		<id>912150</id>
 		<name>STR_IDARENA_PVP_DIALOG__TOTAL_SCORE</name>
-		<body>Total Score</body>
+		<body>Pontuação Total</body>
 	</string>
 	<string>
 		<id>912151</id>
@@ -11319,42 +11319,42 @@
 	<string>
 		<id>912153</id>
 		<name>STR_IDARENA_PVP_DIALOG__COL_ABYSS_RANK</name>
-		<body>Abyss Rank</body>
+		<body>Rank do Abyss</body>
 	</string>
 	<string>
 		<id>912154</id>
 		<name>STR_IDARENA_PVP_DIALOG__COL_KILL_PC</name>
-		<body>Kills</body>
+		<body>Matou</body>
 	</string>
 	<string>
 		<id>912155</id>
 		<name>STR_IDARENA_PVP_DIALOG__COL_SCORE</name>
-		<body>Points</body>
+		<body>Pontos</body>
 	</string>
 	<string>
 		<id>912156</id>
 		<name>STR_IDARENA_PVP_DIALOG__COL_BONUS_SCORE</name>
-		<body>Rank Bonus</body>
+		<body>Bônus de Rank</body>
 	</string>
 	<string>
 		<id>912157</id>
 		<name>STR_IDARENA_PVP_DIALOG__COL_TOTAL_SCORE</name>
-		<body>Total Score</body>
+		<body>Pontuação Total</body>
 	</string>
 	<string>
 		<id>912158</id>
 		<name>STR_IDARENA_PVP_DIALOG__RANK_BTN</name>
-		<body>Rank Information</body>
+		<body>Informações do Rank</body>
 	</string>
 	<string>
 		<id>912159</id>
 		<name>STR_IDARENA_PVP_DIALOG__LEAVE</name>
-		<body>Training Complete</body>
+		<body>Treinamento Completado</body>
 	</string>
 	<string>
 		<id>912160</id>
 		<name>STR_IDARENA_PVP_RANK_DIALOG</name>
-		<body>Rank Information</body>
+		<body>Informações do Rank</body>
 	</string>
 	<string>
 		<id>912161</id>
@@ -11369,22 +11369,22 @@
 	<string>
 		<id>912163</id>
 		<name>STR_IDARENA_PVP_RANK_DIALOG__COL_SCORE</name>
-		<body>Score</body>
+		<body>Pontuação</body>
 	</string>
 	<string>
 		<id>912164</id>
 		<name>STR_INDUN_TIMER__TOOLTIP_MY_POINT</name>
-		<body>Points</body>
+		<body>Pontos</body>
 	</string>
 	<string>
 		<id>912165</id>
 		<name>STR_HOUSING_DIALOG__TAKE_OCTION</name>
-		<body>Place Bid</body>
+		<body>Colocar Lance</body>
 	</string>
 	<string>
 		<id>912166</id>
 		<name>STR_HOUSING_DIALOG__SELETE_DECOTYPE</name>
-		<body>Change Appearance Type</body>
+		<body>Change Appearance Tipo</body>
 	</string>
 	<string>
 		<id>912167</id>
@@ -11439,7 +11439,7 @@
 	<string>
 		<id>912177</id>
 		<name>STR_HOUSING_BUDDY_LIST_DIALOG__FIND_POS</name>
-		<body>Locate</body>
+		<body>Localizar</body>
 	</string>
 	<string>
 		<id>912178</id>
@@ -11514,7 +11514,7 @@
 	<string>
 		<id>912192</id>
 		<name>STR_HOUSING_SALE_DIALOG__COL_SIZE</name>
-		<body>Type</body>
+		<body>Tipo</body>
 	</string>
 	<string>
 		<id>912193</id>
@@ -11544,7 +11544,7 @@
 	<string>
 		<id>912198</id>
 		<name>STR_HOUSING_SALE_DIALOG__COL_START_PRICE</name>
-		<body>Starting Price</body>
+		<body>Starting Preço</body>
 	</string>
 	<string>
 		<id>912199</id>
@@ -11554,17 +11554,17 @@
 	<string>
 		<id>912200</id>
 		<name>STR_HOUSING_SALE_DIALOG__MAP</name>
-		<body>Locate</body>
+		<body>Localizar</body>
 	</string>
 	<string>
 		<id>912201</id>
 		<name>STR_HOUSING_SALE_DIALOG__REFRESH</name>
-		<body>Refresh</body>
+		<body>Atualizar</body>
 	</string>
 	<string>
 		<id>912202</id>
 		<name>STR_HOUSING_SALE_DIALOG__BID</name>
-		<body>Place Bid</body>
+		<body>Colocar Lance</body>
 	</string>
 	<string>
 		<id>912203</id>
@@ -11574,7 +11574,7 @@
 	<string>
 		<id>912204</id>
 		<name>STR_HOUSING_SALE_DIALOG__REGISTER</name>
-		<body>Register</body>
+		<body>Registrar</body>
 	</string>
 	<string>
 		<id>912205</id>
@@ -11594,7 +11594,7 @@
 	<string>
 		<id>912208</id>
 		<name>STR_HOUSING_INFO_DIALOG__TOOLTIP_REGISTER_CONTAINER</name>
-		<body>Register piece of furniture</body>
+		<body>Registrar piece of furniture</body>
 	</string>
 	<string>
 		<id>912209</id>
@@ -11854,7 +11854,7 @@
 	<string>
 		<id>912260</id>
 		<name>STR_CHAT_ROOM_MANAGEMENT_DIALOG__JOIN</name>
-		<body>Enter channel</body>
+		<body>Entrar channel</body>
 	</string>
 	<string>
 		<id>912261</id>
@@ -11869,12 +11869,12 @@
 	<string>
 		<id>912263</id>
 		<name>STR_CHAT_ROOM_MANAGEMENT_DIALOG__PASS</name>
-		<body>Password</body>
+		<body>Passarword</body>
 	</string>
 	<string>
 		<id>912264</id>
 		<name>STR_CHAT_ROOM_MANAGEMENT_DIALOG__MEMBER</name>
-		<body>Member</body>
+		<body>Membro</body>
 	</string>
 	<string>
 		<id>912265</id>
@@ -11884,7 +11884,7 @@
 	<string>
 		<id>912266</id>
 		<name>STR_CHAT_ROOM_NEW_PASSWORD</name>
-		<body>(Optional) Enter a password (max. 4 characters).</body>
+		<body>(Optional) Entrar a password (max. 4 characters).</body>
 	</string>
 	<string>
 		<id>912267</id>
@@ -11914,7 +11914,7 @@
 	<string>
 		<id>912272</id>
 		<name>STR_SKILL_DIALOG__COLUMN_TYPE</name>
-		<body>Type</body>
+		<body>Tipo</body>
 	</string>
 	<string>
 		<id>912273</id>
@@ -11939,7 +11939,7 @@
 	<string>
 		<id>912277</id>
 		<name>STR_SKILL_DIALOG__OPEN_CHAINSKILL_LIST</name>
-		<body>All chain skills</body>
+		<body>Todos chain skills</body>
 	</string>
 	<string>
 		<id>912278</id>
@@ -12079,7 +12079,7 @@
 	<string>
 		<id>912305</id>
 		<name>STR_BUILDER_DEV_DIALOG__NPC_TEST_NACTION</name>
-		<body>Summon test NPC</body>
+		<body>Invocar test NPC</body>
 	</string>
 	<string>
 		<id>912306</id>
@@ -12089,7 +12089,7 @@
 	<string>
 		<id>912307</id>
 		<name>STR_BUILDER_DEV_DIALOG__NPC_WISH</name>
-		<body>Summon NPC</body>
+		<body>Invocar NPC</body>
 	</string>
 	<string>
 		<id>912308</id>
@@ -12149,7 +12149,7 @@
 	<string>
 		<id>912319</id>
 		<name>STR_BUILDER_DEV_DIALOG__BASIC_RECALL</name>
-		<body>Summon group member</body>
+		<body>Invocar group member</body>
 	</string>
 	<string>
 		<id>912320</id>
@@ -12174,7 +12174,7 @@
 	<string>
 		<id>912324</id>
 		<name>STR_BUILDER_DEV_DIALOG__BASIC_ADDALLTITLE</name>
-		<body>All titles received</body>
+		<body>Todos titles received</body>
 	</string>
 	<string>
 		<id>912325</id>
@@ -12209,7 +12209,7 @@
 	<string>
 		<id>912331</id>
 		<name>STR_BUILDER_DEV_DIALOG__ITEM_SEARCH_NUM_DESC</name>
-		<body>Amount or reinforcements level</body>
+		<body>Quantidade or reinforcements level</body>
 	</string>
 	<string>
 		<id>912332</id>
@@ -12234,7 +12234,7 @@
 	<string>
 		<id>912336</id>
 		<name>STR_BUILDER_DEV_DIALOG__SKILL_SEARCH</name>
-		<body>Find skills</body>
+		<body>Encontrar skills</body>
 	</string>
 	<string>
 		<id>912337</id>
@@ -12354,7 +12354,7 @@
 	<string>
 		<id>912360</id>
 		<name>STR_DEVAPASS_DIALOG_BTN_GETALL</name>
-		<body>Aceitar All</body>
+		<body>Aceitar Todos</body>
 	</string>
 	<string>
 		<id>912361</id>
@@ -12369,7 +12369,7 @@
 	<string>
 		<id>912363</id>
 		<name>STR_DEVAPASS_DIALOG_TAB_ALL</name>
-		<body>All</body>
+		<body>Todos</body>
 	</string>
 	<string>
 		<id>912364</id>
@@ -12389,7 +12389,7 @@
 	<string>
 		<id>912367</id>
 		<name>STR_DEVAPASS_DIALOG_BTN_EXPGET</name>
-		<body>Apply</body>
+		<body>Aplicar</body>
 	</string>
 	<string>
 		<id>912368</id>
@@ -12409,12 +12409,12 @@
 	<string>
 		<id>912371</id>
 		<name>STR_DEVAPASS_DIALOG_LV</name>
-		<body>Daeva Pass Nível</body>
+		<body>Daeva Passar Nível</body>
 	</string>
 	<string>
 		<id>912372</id>
 		<name>STR_DEVAPASS_DIALOG_TITLE</name>
-		<body>Daeva Pass</body>
+		<body>Daeva Passar</body>
 	</string>
 	<string>
 		<id>912373</id>
@@ -12474,7 +12474,7 @@
 	<string>
 		<id>912384</id>
 		<name>STR_DEVAPASS_DIALOG_DESC_ADVANCED_REWARD</name>
-		<body>&lt;font color=&quot;9EAEFF&quot;&gt;Restrictions for Premium Rewards per level have been lifted. Once the new season begins, the Daeva Pass starts from level 8 (Attention: Only applies to the Standard Pass).&lt;br&gt;The Premium Recompensa is unlocked for this character.&lt;br&gt;Returns, exchanges and refunds are not possible once you’ve made your purchase. Complete the purchase?&lt;/font&gt;</body>
+		<body>&lt;font color=&quot;9EAEFF&quot;&gt;Restrictions for Premium Rewards per level have been lifted. Once the new season begins, the Daeva Passar starts from level 8 (Attention: Only applies to the Standard Passar).&lt;br&gt;The Premium Recompensa is unlocked for this character.&lt;br&gt;Returns, exchanges and refunds are not possible once you’ve made your purchase. Complete the purchase?&lt;/font&gt;</body>
 	</string>
 	<string>
 		<id>912385</id>
@@ -12509,7 +12509,7 @@
 	<string>
 		<id>912391</id>
 		<name>STR_DEVAPASS_DIALOG_POPUP_REWARDLIST_ALL</name>
-		<body>All available rewards</body>
+		<body>Todos available rewards</body>
 	</string>
 	<string>
 		<id>912392</id>
@@ -12699,7 +12699,7 @@
 	<string>
 		<id>912429</id>
 		<name>STR_VENDOR_BUY_EACH_DIALOG__UNIT_PRICE</name>
-		<body>Unit Price</body>
+		<body>Preço Unitário</body>
 	</string>
 	<string>
 		<id>912430</id>
@@ -12739,12 +12739,12 @@
 	<string>
 		<id>912437</id>
 		<name>STR_VENDOR_BUY_DIALOG__PRICE</name>
-		<body>Purchasing Price</body>
+		<body>Purchasing Preço</body>
 	</string>
 	<string>
 		<id>912438</id>
 		<name>STR_VENDOR_SELL_DIALOG__MIN_REG_PRICE</name>
-		<body>Minimum Register Price</body>
+		<body>Minimum Registrar Preço</body>
 	</string>
 	<string>
 		<id>912439</id>
@@ -12764,7 +12764,7 @@
 	<string>
 		<id>912442</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__TABFRAME_OPTION_SOUND_PET</name>
-		<body>Pet sound</body>
+		<body>Mascote sound</body>
 	</string>
 	<string>
 		<id>912443</id>
@@ -13049,7 +13049,7 @@
 	<string>
 		<id>912499</id>
 		<name>STR_DIALOG_WARDROBE_BTN_SEARCH_TOOLTIP</name>
-		<body>Find name</body>
+		<body>Encontrar name</body>
 	</string>
 	<string>
 		<id>912500</id>
@@ -13154,12 +13154,12 @@
 	<string>
 		<id>912520</id>
 		<name>STR_DEVAPASS_DIALOG_BTN_BUYPASS</name>
-		<body>Activate Pass</body>
+		<body>Activate Passar</body>
 	</string>
 	<string>
 		<id>912521</id>
 		<name>STR_DEVAPASS_POPUP_BUYPASS_TITLE</name>
-		<body>Activate Pass</body>
+		<body>Activate Passar</body>
 	</string>
 	<string>
 		<id>912522</id>
@@ -13204,7 +13204,7 @@
 	<string>
 		<id>912530</id>
 		<name>STR_IDPOGUSGAME_DIALOG_UI_PLYER_NAME</name>
-		<body>Personagem Nome</body>
+		<body>Nome do Personagem</body>
 	</string>
 	<string>
 		<id>912531</id>
@@ -13354,7 +13354,7 @@
 	<string>
 		<id>912561</id>
 		<name>STR_PARTY_MATCH_DIALOG__SEARCH_INSTANCE</name>
-		<body>Select Instance</body>
+		<body>Select Instância</body>
 	</string>
 	<string>
 		<id>912562</id>
@@ -13364,17 +13364,17 @@
 	<string>
 		<id>912563</id>
 		<name>STR_PARTY_MATCH_DIALOG__SEARCH_INSTANCE_MATCH_MINIMIZE</name>
-		<body>Auto search when leaving</body>
+		<body>Automático search when leaving</body>
 	</string>
 	<string>
 		<id>912564</id>
 		<name>STR_PARTY_MATCH_DIALOG__INSTANCE_MATCH_COL_INSTANCE</name>
-		<body>Instance</body>
+		<body>Instância</body>
 	</string>
 	<string>
 		<id>912565</id>
 		<name>STR_PARTY_MATCH_DIALOG__INSTANCE_MATCH_COL_DESC</name>
-		<body>Contents</body>
+		<body>Conteúdo</body>
 	</string>
 	<string>
 		<id>912566</id>
@@ -13404,7 +13404,7 @@
 	<string>
 		<id>912571</id>
 		<name>STR_PARTY_MATCH_INSTANCE_REGISTER_DIALOG__DESC</name>
-		<body>Contents</body>
+		<body>Conteúdo</body>
 	</string>
 	<string>
 		<id>912572</id>
@@ -13414,12 +13414,12 @@
 	<string>
 		<id>912573</id>
 		<name>STR_PARTY_MATCH_INSTANCE_REGISTER_DIALOG__INSTANCE</name>
-		<body>Instance</body>
+		<body>Instância</body>
 	</string>
 	<string>
 		<id>912574</id>
 		<name>STR_PARTY_MATCH_INSTANCE_REGISTER_DIALOG__OK</name>
-		<body>Register</body>
+		<body>Registrar</body>
 	</string>
 	<string>
 		<id>912575</id>
@@ -13429,7 +13429,7 @@
 	<string>
 		<id>912576</id>
 		<name>STR_PARTY_MATCH_DIALOG__INFO</name>
-		<body>Member info</body>
+		<body>Membro info</body>
 	</string>
 	<string>
 		<id>912577</id>
@@ -13529,7 +13529,7 @@
 	<string>
 		<id>912611</id>
 		<name>STR_RANK_INFO_DIALOG__THIS_SEASON_POINT</name>
-		<body>Current Points</body>
+		<body>Current Pontos</body>
 	</string>
 	<string>
 		<id>912612</id>
@@ -13544,7 +13544,7 @@
 	<string>
 		<id>912614</id>
 		<name>STR_RANK_INFO_DIALOG__PRE_SEASON_POINT</name>
-		<body>Points from last season</body>
+		<body>Pontos from last season</body>
 	</string>
 	<string>
 		<id>912615</id>
@@ -13599,7 +13599,7 @@
 	<string>
 		<id>912625</id>
 		<name>STR_RANK_INFO_DIALOG__PRE_SEASON_TIME</name>
-		<body>Points scores from last season</body>
+		<body>Pontos scores from last season</body>
 	</string>
 	<string>
 		<id>912626</id>
@@ -13609,22 +13609,22 @@
 	<string>
 		<id>912627</id>
 		<name>STR_RANK_DIALOG__COL_GLORY_POINT</name>
-		<body>Honour Points</body>
+		<body>Honour Pontos</body>
 	</string>
 	<string>
 		<id>912628</id>
 		<name>STR_RANK_INFO_DIALOG__THIS_SEASON_GLORY_POINT</name>
-		<body>Current Honour Points</body>
+		<body>Current Honour Pontos</body>
 	</string>
 	<string>
 		<id>912629</id>
 		<name>STR_RANK_INFO_DIALOG__PRE_SEASON_GLORY_POINT</name>
-		<body>Honour Points from last Season</body>
+		<body>Honour Pontos from last Season</body>
 	</string>
 	<string>
 		<id>912630</id>
 		<name>STR_RANK_INFO_DIALOG__HIGHEST_GLORY_POINT</name>
-		<body>Highest Honour Points of the Season</body>
+		<body>Highest Honour Pontos of the Season</body>
 	</string>
 	<string>
 		<id>912631</id>
@@ -13639,7 +13639,7 @@
 	<string>
 		<id>912633</id>
 		<name>STR_RANK_INFO_DIALOG__INTER_SERVER</name>
-		<body>All servers</body>
+		<body>Todos servers</body>
 	</string>
 	<string>
 		<id>912634</id>
@@ -13649,7 +13649,7 @@
 	<string>
 		<id>912635</id>
 		<name>STR_LETTER_DIALOG__WIDGET_AP</name>
-		<body>Abyss Points</body>
+		<body>Abyss Pontos</body>
 	</string>
 	<string>
 		<id>912636</id>
@@ -13694,7 +13694,7 @@
 	<string>
 		<id>912644</id>
 		<name>STR_LUCKYDICE_DIALOG_DICE_RESULT_TITLE</name>
-		<body>Score</body>
+		<body>Pontuação</body>
 	</string>
 	<string>
 		<id>912645</id>
@@ -13754,7 +13754,7 @@
 	<string>
 		<id>912656</id>
 		<name>STR_TOYPET_WAREHOUSE_DIALOG__TITLE</name>
-		<body>Integrated Pet Bag</body>
+		<body>Integrated Sacola do Mascote</body>
 	</string>
 	<string>
 		<id>912657</id>
@@ -13854,7 +13854,7 @@
 	<string>
 		<id>912677</id>
 		<name>STR_DIALOG__TOOLTIP_INDUN_GUIDE</name>
-		<body>Check Instance Entry</body>
+		<body>Check Instância Entry</body>
 	</string>
 	<string>
 		<id>912678</id>
@@ -13869,12 +13869,12 @@
 	<string>
 		<id>912680</id>
 		<name>STR_TOYPET_WAREHOUSE_DIALOG__ACTIVATE</name>
-		<body>&lt;html&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_title&quot;&gt;Activate bag&lt;/font&gt;&#xA;&lt;br&gt;&lt;br&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_body&quot;&gt;Summon a pet with a bag and fill it up.&lt;/font&gt;&#xA;&lt;/html&gt;</body>
+		<body>&lt;html&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_title&quot;&gt;Activate bag&lt;/font&gt;&#xA;&lt;br&gt;&lt;br&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_body&quot;&gt;Invocar a pet with a bag and fill it up.&lt;/font&gt;&#xA;&lt;/html&gt;</body>
 	</string>
 	<string>
 		<id>912681</id>
 		<name>STR_TOYPET_DIALOG__WAREHOUSE_BUTTON</name>
-		<body>&lt;html&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_title&quot;&gt;Integrated pet bag&lt;/font&gt;&#xA;&lt;br&gt;&lt;br&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_body&quot;&gt;All bags of an adopted pet can be viewed. Only summoned pets can use bags.&lt;/font&gt;&#xA;&lt;/html&gt;</body>
+		<body>&lt;html&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_title&quot;&gt;Integrated pet bag&lt;/font&gt;&#xA;&lt;br&gt;&lt;br&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_body&quot;&gt;Todos bags of an adopted pet can be viewed. Only summoned pets can use bags.&lt;/font&gt;&#xA;&lt;/html&gt;</body>
 	</string>
 	<string>
 		<id>912682</id>
@@ -13909,7 +13909,7 @@
 	<string>
 		<id>912688</id>
 		<name>STR_VENDOR_WORLD_DIALOG__TAB_REGISTRATION</name>
-		<body>Register</body>
+		<body>Registrar</body>
 	</string>
 	<string>
 		<id>912689</id>
@@ -13934,7 +13934,7 @@
 	<string>
 		<id>912693</id>
 		<name>STR_VENDOR_WORLD_DIALOG__COLUMN_SALE_PRICE</name>
-		<body>Sale Price</body>
+		<body>Sale Preço</body>
 	</string>
 	<string>
 		<id>912694</id>
@@ -13944,12 +13944,12 @@
 	<string>
 		<id>912695</id>
 		<name>STR_VENDOR_WORLD_DIALOG__COLUMN_KINA_PRICE_PIECE</name>
-		<body>Amount in 10 million</body>
+		<body>Quantidade in 10 million</body>
 	</string>
 	<string>
 		<id>912696</id>
 		<name>STR_VENDOR_WORLD_DIALOG__COLUMN_ITEM_PRICE_PIECE</name>
-		<body>Unit Price</body>
+		<body>Preço Unitário</body>
 	</string>
 	<string>
 		<id>912697</id>
@@ -13964,12 +13964,12 @@
 	<string>
 		<id>912699</id>
 		<name>STR_VENDOR_WORLD_DIALOG__REGISTRATION_AMOUNT</name>
-		<body>Amount registered</body>
+		<body>Quantidade registered</body>
 	</string>
 	<string>
 		<id>912700</id>
 		<name>STR_VENDOR_WORLD_DIALOG__REFRESH_BUTTON</name>
-		<body>Refresh</body>
+		<body>Atualizar</body>
 	</string>
 	<string>
 		<id>912701</id>
@@ -13989,7 +13989,7 @@
 	<string>
 		<id>912704</id>
 		<name>STR_VENDOR_WORLD_DIALOG__SALE_KINA_BUTTON</name>
-		<body>Enter Kinah</body>
+		<body>Entrar Kinah</body>
 	</string>
 	<string>
 		<id>912705</id>
@@ -14009,7 +14009,7 @@
 	<string>
 		<id>912708</id>
 		<name>STR_VENDOR_WORLD_DIALOG__REGISTRATION_TOTAL_PRICE</name>
-		<body>Estimated Price</body>
+		<body>Estimated Preço</body>
 	</string>
 	<string>
 		<id>912709</id>
@@ -14039,17 +14039,17 @@
 	<string>
 		<id>912714</id>
 		<name>STR_VENDOR_WORLD_DIALOG__SALE_KINA_TITLE</name>
-		<body>Enter Kinah</body>
+		<body>Entrar Kinah</body>
 	</string>
 	<string>
 		<id>912715</id>
 		<name>STR_VENDOR_WORLD_DIALOG__SALE_ITEM_TITLE</name>
-		<body>Register item</body>
+		<body>Registrar item</body>
 	</string>
 	<string>
 		<id>912716</id>
 		<name>STR_VENDOR_WORLD_DIALOG__SALE_AMOUNT_TITLE</name>
-		<body>Sale Amount</body>
+		<body>Sale Quantidade</body>
 	</string>
 	<string>
 		<id>912717</id>
@@ -14094,7 +14094,7 @@
 	<string>
 		<id>912725</id>
 		<name>STR_VENDOR_WORLD_DIALOG__SALE_PRICE_MSG</name>
-		<body>Enter the sale price.</body>
+		<body>Entrar the sale price.</body>
 	</string>
 	<string>
 		<id>912726</id>
@@ -14119,17 +14119,17 @@
 	<string>
 		<id>912730</id>
 		<name>STR_VENDOR_WORLD_DIALOG__SAKE_CHECK_MSG</name>
-		<body>Register the item for sale?</body>
+		<body>Registrar the item for sale?</body>
 	</string>
 	<string>
 		<id>912731</id>
 		<name>STR_VENDOR_WORLD_DIALOG__KINA_PRICE_PIECE_INFO</name>
-		<body>Price information (per 10 million Kinah)</body>
+		<body>Preço information (per 10 million Kinah)</body>
 	</string>
 	<string>
 		<id>912732</id>
 		<name>STR_VENDOR_WORLD_DIALOG__ITEM_PRICE_PIECE</name>
-		<body>Price information (per piece)</body>
+		<body>Preço information (per piece)</body>
 	</string>
 	<string>
 		<id>912734</id>
@@ -14139,22 +14139,22 @@
 	<string>
 		<id>912735</id>
 		<name>STR_VENDOR_WORLD_DIALOG__PURCHASE_PRICE</name>
-		<body>Purchase Price</body>
+		<body>Purchase Preço</body>
 	</string>
 	<string>
 		<id>912736</id>
 		<name>STR_VENDOR_WORLD_DIALOG__PURCHASE_AMOUNT</name>
-		<body>Purchase Amount</body>
+		<body>Purchase Quantidade</body>
 	</string>
 	<string>
 		<id>912737</id>
 		<name>STR_VENDOR_WORLD_DIALOG__PURCHASE_PRICE_PIECE</name>
-		<body>Unit Price</body>
+		<body>Preço Unitário</body>
 	</string>
 	<string>
 		<id>912738</id>
 		<name>STR_GACHA_DIALOG__FEVER_GAUGE_INFO_TOOLTIP</name>
-		<body>&lt;html&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_title&quot;&gt;Nyerk Fever Display&lt;/font&gt;&#xA;&lt;br&gt;&lt;br&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_body&quot;&gt;Shows received Shugo Game Points.&lt;/font&gt;&#xA;&lt;/html&gt;</body>
+		<body>&lt;html&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_title&quot;&gt;Nyerk Fever Display&lt;/font&gt;&#xA;&lt;br&gt;&lt;br&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_body&quot;&gt;Shows received Shugo Game Pontos.&lt;/font&gt;&#xA;&lt;/html&gt;</body>
 	</string>
 	<string>
 		<id>912739</id>
@@ -14164,7 +14164,7 @@
 	<string>
 		<id>912741</id>
 		<name>STR_VENDOR_WORLD_DIALOG__QINA_QUICK_TITLE</name>
-		<body>Set Kinah Amount</body>
+		<body>Set Kinah Quantidade</body>
 	</string>
 	<string>
 		<id>912743</id>
