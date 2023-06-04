@@ -12,12 +12,11 @@ Qualquer ajuda será muito bem vinda!
 - Para testar a tradução no estado atual baixem o arquivo [AQUI](https://github.com/giordanidev/aion-classic-ptbr/raw/main/teste/data_ptbr.pak)
 - Coloquem o arquivo na pasta "l10n/ENG/data" do jogo, como na imagem abaixo:
 ![Pasta](https://i.imgur.com/2YwIkRS.png)
-
-Vou criar um guia de como gerar os arquivos automaticamente após a tradução nos próximos dias...
+- Para remover a tradução apenas remova o arquivo da pasta novamente.
 
 Para ajudar por favor visitem o discord: [http://discord.aiononline.com.br](http://discord.aiononline.com.br)
 
-Esamos jogando o Aion Classic EU: [http://classic.aiononline.com.br](http://classic.aiononline.com.br)
+Estamos jogando o Aion Classic EU: [http://classic.aiononline.com.br](http://classic.aiononline.com.br)
 
 
 # Imagens
