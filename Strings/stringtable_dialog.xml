@@ -108,7 +108,7 @@
 	<string>
 		<id>900300</id>
 		<name>STR_LOBBY_SELECT__SERVER_LIST</name>
-		<body>Alterar Servidor</body>
+		<body>Selecionar Servidor</body>
 	</string>
 	<string>
 		<id>900301</id>
@@ -8729,7 +8729,7 @@
 	<string>
 		<id>911635</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__VSYNC</name>
-		<body>Sincr. Vertical</body>
+		<body>Sincronização Vertical</body>
 	</string>
 	<string>
 		<id>911636</id>
@@ -8919,7 +8919,7 @@
 	<string>
 		<id>911673</id>
 		<name>STR_SKILL_DIC_DIALOG__CHANGE_CHAIN_TREE_INFO</name>
-		<body>Para definir uma habilidade de sequência padrão, arraste o ícone da habilidade de sequência com as mesmas condições de uso para a primeira linha.</body>
+		<body>Para definir uma habilidade de sequência padrão, arraste o ícone da habilidade para a primeira linha.</body>
 	</string>
 	<string>
 		<id>911674</id>

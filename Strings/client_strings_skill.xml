@@ -3,17 +3,17 @@
 	<string>
 		<id>280007</id>
 		<name>STR_SKILL_EQUIP_ROBE1</name>
-		<body>Advanced Cloth Armour Proficiency</body>
+		<body>Proficiência em Armadura Cloth Avançada</body>
 	</string>
 	<string>
 		<id>280008</id>
 		<name>STR_SKILL_EQUIP_SEMI_ROBE1</name>
-		<body>Cloth Armour</body>
+		<body>Armadura Cloth</body>
 	</string>
 	<string>
 		<id>280012</id>
 		<name>STR_SKILL_EQUIP_HIGH_LEATHER1</name>
-		<body>Luxury Leather Armour</body>
+		<body>Armadura Leather Luxuosa</body>
 	</string>
 	<string>
 		<id>280013</id>

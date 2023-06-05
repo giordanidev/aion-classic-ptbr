@@ -8004,7 +8004,7 @@
 	<string>
 		<id>901214</id>
 		<name>STR_TOOLTIP_ITEM_CHANGE_SKIN</name>
-		<body>Modificar Aparência</body>
+		<body>Aparência modificada</body>
 	</string>
 	<string>
 		<id>901215</id>
@@ -9799,7 +9799,7 @@
 	<string>
 		<id>901575</id>
 		<name>STR_RESURRECT_TITLE_RP</name>
-		<body>Voltar no Início</body>
+		<body>Concordar</body>
 	</string>
 	<string>
 		<id>901576</id>
@@ -15076,7 +15076,7 @@
 	<string>
 		<id>903035</id>
 		<name>STR_SECONDPASSWORD_RANDOM_KEYPAD_WARNING</name>
-		<body>Observação: Os números mudam de posição a cada login.</body>
+		<body>Obs: Os números podem mudar de posição.</body>
 	</string>
 	<string>
 		<id>903036</id>
