@@ -5,8 +5,10 @@ def encode():
     files = ["strings\\client_strings_ui.xml",
              "strings\\client_strings_msg.xml",
              "strings\\stringtable_dialog.xml",
-             "cutscene\\cs_ab1_001.xml",
-             "strings\\client_strings_item2.xml"
+             "strings\\client_strings_item.xml",
+             "strings\\client_strings_item2.xml",
+             "strings\\client_strings_skill.xml",
+             "cutscene\\cs_ab1_001.xml"
     ]
 
     for filename in files:
