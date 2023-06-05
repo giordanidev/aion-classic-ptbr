@@ -5431,7 +5431,7 @@
 	<string>
 		<id>900666</id>
 		<name>STR_GUILD_MENU_WORDS</name>
-		<body>Introdução</body>
+		<body>Definir Minha Introdução</body>
 	</string>
 	<string>
 		<id>900667</id>
@@ -6079,22 +6079,22 @@
 	<string>
 		<id>900797</id>
 		<name>STR_CRAFT_GRADE1</name>
-		<body>Amador</body>
+		<body>Amateur</body>
 	</string>
 	<string>
 		<id>900798</id>
 		<name>STR_CRAFT_GRADE2</name>
-		<body>Novato</body>
+		<body>Novice</body>
 	</string>
 	<string>
 		<id>900799</id>
 		<name>STR_CRAFT_GRADE3</name>
-		<body>Aprendiz</body>
+		<body>Apprentice</body>
 	</string>
 	<string>
 		<id>900800</id>
 		<name>STR_CRAFT_GRADE4</name>
-		<body>Artista</body>
+		<body>Journeyman</body>
 	</string>
 	<string>
 		<id>900801</id>
@@ -6709,7 +6709,7 @@
 	<string>
 		<id>900923</id>
 		<name>STR_SKILL_TOOLTIP_NON_CHAINED_CHAINSKILL_CUR</name>
-		<body>Sequência Especial de Habilidade (estatus atual)</body>
+		<body>Sequência Especial de Habilidade (status atual)</body>
 	</string>
 	<string>
 		<id>900924</id>
@@ -7024,7 +7024,7 @@
 	<string>
 		<id>900986</id>
 		<name>STR_SKILL_INFO_CHAINSKILL</name>
-		<body>Sequência de Habilidades</body>
+		<body>Sequência</body>
 	</string>
 	<string>
 		<id>900987</id>
@@ -11603,12 +11603,12 @@
 	<string>
 		<id>901942</id>
 		<name>STR_INDUN_ENTER_NO_DELAY_TIME</name>
-		<body>Unlimited</body>
+		<body>Ilimitado</body>
 	</string>
 	<string>
 		<id>901943</id>
 		<name>STR_WINDOW_INDUN_COOLTIME</name>
-		<body>Instance Info</body>
+		<body>Informações da instância</body>
 	</string>
 	<string>
 		<id>901944</id>
@@ -12673,7 +12673,7 @@
 	<string>
 		<id>902156</id>
 		<name>STR_SKILL_INFO_LEARN_ENHANCED1_STIGMA</name>
-		<body>Greater Stigma</body>
+		<body>Stigma Avançada</body>
 	</string>
 	<string>
 		<id>902157</id>
@@ -12693,12 +12693,12 @@
 	<string>
 		<id>902160</id>
 		<name>STR_ENCHANT_ITEM_BASIC_OPTION_SLOT</name>
-		<body>Slots Primários de Manastone</body>
+		<body>Espaços Primários de Manastone</body>
 	</string>
 	<string>
 		<id>902161</id>
 		<name>STR_ENCHANT_ITEM_COMPOUNDED_OPTION_SLOT</name>
-		<body>Slots Combinados de Manastone</body>
+		<body>Espaços Combinados de Manastone</body>
 	</string>
 	<string>
 		<id>902162</id>
@@ -15341,7 +15341,7 @@
 	<string>
 		<id>903088</id>
 		<name>STR_GUILD_EVENT_BAN_MEMBER</name>
-		<body>Expulsar %0 da Legião</body>
+		<body>%0 foi expulso da Legião</body>
 	</string>
 	<string>
 		<id>903089</id>
@@ -15351,12 +15351,12 @@
 	<string>
 		<id>903090</id>
 		<name>STR_NEW_MAP_WHERE_OK</name>
-		<body>Locate</body>
+		<body>Localizar</body>
 	</string>
 	<string>
 		<id>903091</id>
 		<name>STR_NEW_MAP_WHERE_TITLE</name>
-		<body>Find Location</body>
+		<body>Encontrar Localização</body>
 	</string>
 	<string>
 		<id>903092</id>
@@ -18661,12 +18661,12 @@
 	<string>
 		<id>904174</id>
 		<name>STR_S1_Pass_Sesson_L_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>904175</id>
 		<name>STR_S1_Pass_Sesson_D_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>904176</id>
@@ -18776,12 +18776,12 @@
 	<string>
 		<id>904197</id>
 		<name>STR_S1_Pass_Sesson_08_L_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>904198</id>
 		<name>STR_S1_Pass_Sesson_08_D_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>904199</id>
@@ -20421,12 +20421,12 @@
 	<string>
 		<id>904526</id>
 		<name>STR_S3_Multi_Pass_Sesson_L_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>904527</id>
 		<name>STR_S3_Multi_Pass_Sesson_D_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>904528</id>
@@ -20536,12 +20536,12 @@
 	<string>
 		<id>904549</id>
 		<name>STR_S3_Multi_Pass_Sesson_L_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>904550</id>
 		<name>STR_S3_Multi_Pass_Sesson_D_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>904551</id>
@@ -21171,12 +21171,12 @@
 	<string>
 		<id>904676</id>
 		<name>STR_S4_Multi_Pass_Sesson_L_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>904677</id>
 		<name>STR_S4_Multi_Pass_Sesson_D_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>904678</id>
@@ -21286,12 +21286,12 @@
 	<string>
 		<id>904699</id>
 		<name>STR_S4_Multi_Pass_Sesson_L_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>904700</id>
 		<name>STR_S4_Multi_Pass_Sesson_D_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>904701</id>
@@ -21881,12 +21881,12 @@
 	<string>
 		<id>904818</id>
 		<name>STR_S5_Multi_Pass_Sesson_L_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>904819</id>
 		<name>STR_S5_Multi_Pass_Sesson_D_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>904820</id>
@@ -21996,12 +21996,12 @@
 	<string>
 		<id>904841</id>
 		<name>STR_S5_Multi_Pass_Sesson_L_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>904842</id>
 		<name>STR_S5_Multi_Pass_Sesson_D_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>904843</id>
@@ -22676,12 +22676,12 @@
 	<string>
 		<id>904977</id>
 		<name>STR_S6_Multi_Pass_Sesson_L_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>904978</id>
 		<name>STR_S6_Multi_Pass_Sesson_D_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>904979</id>
@@ -22791,12 +22791,12 @@
 	<string>
 		<id>905000</id>
 		<name>STR_S6_Multi_Pass_Sesson_L_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>905001</id>
 		<name>STR_S6_Multi_Pass_Sesson_D_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>905002</id>
@@ -23381,12 +23381,12 @@
 	<string>
 		<id>905118</id>
 		<name>STR_S7_Multi_Pass_Sesson_L_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>905119</id>
 		<name>STR_S7_Multi_Pass_Sesson_D_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>905120</id>
@@ -23496,12 +23496,12 @@
 	<string>
 		<id>905141</id>
 		<name>STR_S7_Multi_Pass_Sesson_L_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>905142</id>
 		<name>STR_S7_Multi_Pass_Sesson_D_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>905143</id>
@@ -24191,12 +24191,12 @@
 	<string>
 		<id>905280</id>
 		<name>STR_S8_Multi_Pass_Sesson_L_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>905281</id>
 		<name>STR_S8_Multi_Pass_Sesson_D_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>905282</id>
@@ -24306,12 +24306,12 @@
 	<string>
 		<id>905303</id>
 		<name>STR_S8_Multi_Pass_Sesson_L_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>905304</id>
 		<name>STR_S8_Multi_Pass_Sesson_D_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>905305</id>
@@ -24921,12 +24921,12 @@
 	<string>
 		<id>905426</id>
 		<name>STR_S9_Multi_Pass_Sesson_L_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>905427</id>
 		<name>STR_S9_Multi_Pass_Sesson_D_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>905428</id>
@@ -25036,12 +25036,12 @@
 	<string>
 		<id>905449</id>
 		<name>STR_S9_Multi_Pass_Sesson_L_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>905450</id>
 		<name>STR_S9_Multi_Pass_Sesson_D_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>905451</id>
@@ -26027,12 +26027,12 @@
 	<string>
 		<id>905647</id>
 		<name>STR_S10_Multi_Pass_Sesson_L_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>905648</id>
 		<name>STR_S10_Multi_Pass_Sesson_D_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>905649</id>
@@ -26142,12 +26142,12 @@
 	<string>
 		<id>905670</id>
 		<name>STR_S10_Multi_Pass_Sesson_L_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>905671</id>
 		<name>STR_S10_Multi_Pass_Sesson_D_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>905672</id>
@@ -26732,12 +26732,12 @@
 	<string>
 		<id>905788</id>
 		<name>STR_S11_Multi_Pass_Sesson_L_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>905789</id>
 		<name>STR_S11_Multi_Pass_Sesson_D_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>905790</id>
@@ -26847,12 +26847,12 @@
 	<string>
 		<id>905811</id>
 		<name>STR_S11_Multi_Pass_Sesson_L_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>905812</id>
 		<name>STR_S11_Multi_Pass_Sesson_D_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>905813</id>
@@ -28044,12 +28044,12 @@
 	<string>
 		<id>906050</id>
 		<name>STR_S12_Multi_Pass_Sesson_L_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>906051</id>
 		<name>STR_S12_Multi_Pass_Sesson_D_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>906052</id>
@@ -28159,12 +28159,12 @@
 	<string>
 		<id>906073</id>
 		<name>STR_S12_Multi_Pass_Sesson_L_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>906074</id>
 		<name>STR_S12_Multi_Pass_Sesson_D_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>906075</id>
@@ -30769,12 +30769,12 @@
 	<string>
 		<id>906589</id>
 		<name>STR_S13_Multi_Pass_Sesson_L_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>906590</id>
 		<name>STR_S13_Multi_Pass_Sesson_D_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>906591</id>
@@ -30884,12 +30884,12 @@
 	<string>
 		<id>906612</id>
 		<name>STR_S13_Multi_Pass_Sesson_L_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>906613</id>
 		<name>STR_S13_Multi_Pass_Sesson_D_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>906614</id>
@@ -31339,12 +31339,12 @@
 	<string>
 		<id>906703</id>
 		<name>STR_S5_WORLD_CN_Multi_Pass_Sesson_L_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>906704</id>
 		<name>STR_S5_WORLD_CN_Multi_Pass_Sesson_D_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>906705</id>
@@ -31454,12 +31454,12 @@
 	<string>
 		<id>906726</id>
 		<name>STR_S5_WORLD_CN_Multi_Pass_Sesson_L_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>906727</id>
 		<name>STR_S5_WORLD_CN_Multi_Pass_Sesson_D_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>906728</id>
@@ -31974,7 +31974,7 @@
 	<string>
 		<id>906831</id>
 		<name>STR_UI_INDUN_REENTER_Week</name>
-		<body>Wednesdays at %0</body>
+		<body>Quarta-feira às %0</body>
 	</string>
 	<string>
 		<id>906832</id>
@@ -34169,17 +34169,17 @@
 	<string>
 		<id>907368</id>
 		<name>STR_UI_INDUN_RESET_DAILY</name>
-		<body>%0/%1 daily</body>
+		<body>%0/%1 diária</body>
 	</string>
 	<string>
 		<id>907369</id>
 		<name>STR_UI_INDUN_RESET_WEEKLY</name>
-		<body>%0/%1 weekly</body>
+		<body>%0/%1 semanal</body>
 	</string>
 	<string>
 		<id>907370</id>
 		<name>STR_UI_TOOLTIP_INDUN_GUIDE</name>
-		<body>Accessible instances</body>
+		<body>Instâncias acessíveis</body>
 	</string>
 	<string>
 		<id>907371</id>

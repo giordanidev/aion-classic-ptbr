@@ -1803,12 +1803,12 @@
 	<string>
 		<id>910246</id>
 		<name>STR_SKILL_DIALOG__TABFRAME_SKILL_TAB_ACTIVE</name>
-		<body>Ativa</body>
+		<body>Ativas</body>
 	</string>
 	<string>
 		<id>910247</id>
 		<name>STR_SKILL_DIALOG__TABFRAME_SKILL_TAB_PASSIVE</name>
-		<body>Passariva</body>
+		<body>Passivas</body>
 	</string>
 	<string>
 		<id>910248</id>
@@ -6494,7 +6494,7 @@
 	<string>
 		<id>911188</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GAME_DLG_AUTO_ALIGN</name>
-		<body>Organ. Janelas Autom.</body>
+		<body>Organizar janelas automaticamente</body>
 	</string>
 	<string>
 		<id>911189</id>
@@ -6619,7 +6619,7 @@
 	<string>
 		<id>911213</id>
 		<name>STR_SKILL_DIC_DIALOG__COL_CHAIN</name>
-		<body>Habil. Sequência</body>
+		<body>Habil Sequência</body>
 	</string>
 	<string>
 		<id>911214</id>
