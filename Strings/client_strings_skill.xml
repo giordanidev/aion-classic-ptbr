@@ -4268,7 +4268,7 @@
 	<string>
 		<id>282170</id>
 		<name>STR_SKILL_RA_HeavyShot_G1_DESC</name>
-		<body>Fires an arrow at a target within [%First_Target_Valid_Distance]m of you to inflict random physical damage between [%e1.SkillATK_Instant.MinDamage] and [%e1.SkillATK_Instant.MaxDamage]. The target becomes temporarily stunned.&#xA;Multiplicador de dano aleatório: 50%%, 100%% e 200%%&#xA;Chain Skill Level 1.</body>
+		<body>Fires an arrow at a target within [%First_Target_Valid_Distance]m of you to inflict random physical damage between [%e1.SkillATK_Instant.MinDamage] and [%e1.SkillATK_Instant.MaxDamage]. The target becomes temporarily stunned.&#xA;Random damage multiplier: 0.5x, 1x and 2x the damage&#xA;Chain Skill Level 1.</body>
 	</string>
 	<string>
 		<id>282171</id>
@@ -11136,7 +11136,7 @@
 	<string>
 		<id>283593</id>
 		<name>STR_SKILL_RA_HeavyShot_G2_DESC</name>
-		<body>Fires an arrow at a target within [%First_Target_Valid_Distance]m of you to inflict random physical damage between [%e1.SkillATK_Instant.MinDamage] and [%e1.SkillATK_Instant.MaxDamage]. The target becomes temporarily stunned.&#xA;Multiplicador de dano aleatório: 50%%, 100%% e 200%%&#xA;Chain Skill Level 1.</body>
+		<body>Fires an arrow at a target within [%First_Target_Valid_Distance]m of you to inflict random physical damage between [%e1.SkillATK_Instant.MinDamage] and [%e1.SkillATK_Instant.MaxDamage]. The target becomes temporarily stunned.&#xA;Random damage multiplier: 0.5x, 1x and 2x the damage&#xA;Chain Skill Level 1.</body>
 	</string>
 	<string>
 		<id>283594</id>
@@ -11326,7 +11326,7 @@
 	<string>
 		<id>283631</id>
 		<name>STR_SKILL_RA_BladeFury_G1_DESC</name>
-		<body>Attacks the target and inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] random physical damage.&#xA;Multiplicador de dano aleatório: 50%%, 100%% e 200%%</body>
+		<body>Attacks the target and inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] random physical damage.&#xA;Random damage multiplier: 0.5x, 1x and 2x the damage</body>
 	</string>
 	<string>
 		<id>283632</id>
@@ -11356,7 +11356,7 @@
 	<string>
 		<id>283637</id>
 		<name>STR_SKILL_RA_HeavyShot_G3_DESC</name>
-		<body>Fires an arrow at a target within [%First_Target_Valid_Distance]m of you to inflict random physical damage between [%e1.SkillATK_Instant.MinDamage] and [%e1.SkillATK_Instant.MaxDamage]. The target becomes temporarily stunned.&#xA;Multiplicador de dano aleatório: 50%%, 100%% e 200%%&#xA;Chain Skill Level 1.</body>
+		<body>Fires an arrow at a target within [%First_Target_Valid_Distance]m of you to inflict random physical damage between [%e1.SkillATK_Instant.MinDamage] and [%e1.SkillATK_Instant.MaxDamage]. The target becomes temporarily stunned.&#xA;Random damage multiplier: 0.5x, 1x and 2x the damage&#xA;Chain Skill Level 1.</body>
 	</string>
 	<string>
 		<id>283638</id>
@@ -11396,7 +11396,7 @@
 	<string>
 		<id>283645</id>
 		<name>STR_SKILL_RA_Trishot_G1_DESC</name>
-		<body>Attacks the target and inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] random physical damage.&#xA;Multiplicador de dano aleatório: 50%%, 100%% e 200%%</body>
+		<body>Attacks the target and inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] random physical damage.&#xA;Random damage multiplier: 0.5x, 1x and 2x the damage</body>
 	</string>
 	<string>
 		<id>283646</id>
@@ -14418,7 +14418,7 @@
 	<string>
 		<id>284281</id>
 		<name>STR_SKILL_KN_DivineSlash_G1_DESC</name>
-		<body>Inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] random physical damage on the target by wielding a Greatsword.&#xA;Multiplicador de dano aleatório: 50%%, 100%% e 200%%&#xA;Stigma Skill.</body>
+		<body>Inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] random physical damage on the target by wielding a Greatsword.&#xA;Random damage multiplier: 0.5x, 1x and 2x the damage&#xA;Stigma Skill.</body>
 	</string>
 	<string>
 		<id>284282</id>
@@ -24298,7 +24298,7 @@
 	<string>
 		<id>286285</id>
 		<name>STR_SKILL_KN_DivineSlash_G2_DESC</name>
-		<body>Inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] random physical damage on the target by wielding a Greatsword.&#xA;Multiplicador de dano aleatório: 50%%, 100%% e 200%%&#xA;Stigma Skill.</body>
+		<body>Inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] random physical damage on the target by wielding a Greatsword.&#xA;Random damage multiplier: 0.5x, 1x and 2x the damage&#xA;Stigma Skill.</body>
 	</string>
 	<string>
 		<id>286286</id>
@@ -24498,7 +24498,7 @@
 	<string>
 		<id>286325</id>
 		<name>STR_SKILL_KN_ShineSlash_G1_DESC</name>
-		<body>Inflicts random physical damage between [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] on the target.&#xA;Multiplicador de dano aleatório: 50%%, 100%% e 200%%</body>
+		<body>Inflicts random physical damage between [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] on the target.&#xA;Random damage multiplier: 0.5x, 1x and 2x the damage</body>
 	</string>
 	<string>
 		<id>286326</id>
@@ -28281,7 +28281,7 @@
 	<string>
 		<id>287087</id>
 		<name>STR_SKILL_KN_DivineSlash_G3_DESC</name>
-		<body>Inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] random physical damage on the target by wielding a Greatsword.&#xA;Multiplicador de dano aleatório: 50%%, 100%% e 200%%&#xA;Stigma Skill.</body>
+		<body>Inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] random physical damage on the target by wielding a Greatsword.&#xA;Random damage multiplier: 0.5x, 1x and 2x the damage&#xA;Stigma Skill.</body>
 	</string>
 	<string>
 		<id>287088</id>
@@ -28441,7 +28441,7 @@
 	<string>
 		<id>287119</id>
 		<name>STR_SKILL_KN_ShineSlash_G2_DESC</name>
-		<body>Inflicts random physical damage between [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] on the target.&#xA;Multiplicador de dano aleatório: 50%%, 100%% e 200%%</body>
+		<body>Inflicts random physical damage between [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] on the target.&#xA;Random damage multiplier: 0.5x, 1x and 2x the damage</body>
 	</string>
 	<string>
 		<id>287120</id>
@@ -29031,7 +29031,7 @@
 	<string>
 		<id>287237</id>
 		<name>STR_SKILL_RA_HeavyShot_G4_DESC</name>
-		<body>Fires an arrow at a target within [%First_Target_Valid_Distance]m of you to inflict random physical damage between [%e1.SkillATK_Instant.MinDamage] and [%e1.SkillATK_Instant.MaxDamage]. The target becomes temporarily stunned.&#xA;Multiplicador de dano aleatório: 50%%, 100%% e 200%%&#xA;Chain Skill Level 1.</body>
+		<body>Fires an arrow at a target within [%First_Target_Valid_Distance]m of you to inflict random physical damage between [%e1.SkillATK_Instant.MinDamage] and [%e1.SkillATK_Instant.MaxDamage]. The target becomes temporarily stunned.&#xA;Random damage multiplier: 0.5x, 1x and 2x the damage&#xA;Chain Skill Level 1.</body>
 	</string>
 	<string>
 		<id>287238</id>
