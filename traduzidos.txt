@@ -1,7 +1,7 @@
 ###################
 ## NÃO TRADUZIDO ##
 ###################
-- HOUSING, HOUSE
+- HOUSING, HOUSE, BUILDER
 - ITEM_SEAL, SEALED
 - L2AUTH, GOOGLE, OTP, Security_Warning
 - INTERSERVER
@@ -14,6 +14,9 @@
 - BLOCK
 - CHANGE_SERVER
 - GM_DIALOG, PETITION
+- QUNAMARKET
+- IDPOGUSGAME
+- GACHA
 - CONTEÚDO 55
 
 ###############

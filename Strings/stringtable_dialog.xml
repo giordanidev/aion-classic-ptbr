@@ -11379,12 +11379,12 @@
 	<string>
 		<id>912165</id>
 		<name>STR_HOUSING_DIALOG__TAKE_OCTION</name>
-		<body>Colocar Lance</body>
+		<body>Dar Lance</body>
 	</string>
 	<string>
 		<id>912166</id>
 		<name>STR_HOUSING_DIALOG__SELETE_DECOTYPE</name>
-		<body>Change Appearance Tipo</body>
+		<body>Alterar Tipo de Aparência</body>
 	</string>
 	<string>
 		<id>912167</id>
@@ -11394,12 +11394,12 @@
 	<string>
 		<id>912168</id>
 		<name>STR_NEW_MAP_SHOW_TOWER</name>
-		<body>Source</body>
+		<body>Fonte</body>
 	</string>
 	<string>
 		<id>912169</id>
 		<name>STR_DLG_HOUSING_SIGN__NOTICE_WRITE</name>
-		<body>Write Note</body>
+		<body>Escrever Nota</body>
 	</string>
 	<string>
 		<id>912170</id>
@@ -11789,37 +11789,37 @@
 	<string>
 		<id>912247</id>
 		<name>STR_ACCOUNT_INFO_DIALOG</name>
-		<body>Account Info</body>
+		<body>Informações da Conta</body>
 	</string>
 	<string>
 		<id>912248</id>
 		<name>STR_ACCOUNT_INFO_DIALOG__ACCOUNT_INFO</name>
-		<body>Account Info</body>
+		<body>Informações da Conta</body>
 	</string>
 	<string>
 		<id>912249</id>
 		<name>STR_IDARENA_PVP_DIALOG__COL_PLAYTIME_SCORE</name>
-		<body>Hora Bonus</body>
+		<body>Bônus de Tempo</body>
 	</string>
 	<string>
 		<id>912250</id>
 		<name>STR_CHAT_ROOM_MANAGEMENT_DIALOG__TITLE</name>
-		<body>Manage Own Channel</body>
+		<body>Gerir o Próprio Canal</body>
 	</string>
 	<string>
 		<id>912251</id>
 		<name>STR_CHAT_ROOM_MANAGEMENT_DIALOG__LIST</name>
-		<body>Own Channel Lista</body>
+		<body>Própria Lista de Canais</body>
 	</string>
 	<string>
 		<id>912252</id>
 		<name>STR_CHAT_ROOM_MANAGEMENT_DIALOG__INFO</name>
-		<body>Information about the selected channel</body>
+		<body>Informações sobre o canal selecionado</body>
 	</string>
 	<string>
 		<id>912253</id>
 		<name>STR_CHAT_ROOM_MANAGEMENT_DIALOG__KICK</name>
-		<body>Display Ban Lista</body>
+		<body>Exibir Lista de Banidos</body>
 	</string>
 	<string>
 		<id>912254</id>
@@ -11839,37 +11839,37 @@
 	<string>
 		<id>912257</id>
 		<name>STR_CHAT_ROOM_MANAGEMENT_DIALOG__GENDER</name>
-		<body>Gender</body>
+		<body>Gênero</body>
 	</string>
 	<string>
 		<id>912258</id>
 		<name>STR_CHAT_ROOM_MANAGEMENT_DIALOG__OTHER</name>
-		<body>More</body>
+		<body>Mais</body>
 	</string>
 	<string>
 		<id>912259</id>
 		<name>STR_CHAT_ROOM_MANAGEMENT_DIALOG__NEW</name>
-		<body>Create channel</body>
+		<body>Criar Canal</body>
 	</string>
 	<string>
 		<id>912260</id>
 		<name>STR_CHAT_ROOM_MANAGEMENT_DIALOG__JOIN</name>
-		<body>Entrar channel</body>
+		<body>Entrar em um Canal</body>
 	</string>
 	<string>
 		<id>912261</id>
 		<name>STR_CHAT_ROOM_MANAGEMENT_DIALOG__OUT</name>
-		<body>Sair channel</body>
+		<body>Sair do Canal</body>
 	</string>
 	<string>
 		<id>912262</id>
 		<name>STR_CHAT_ROOM_MANAGEMENT_DIALOG__REFRESH</name>
-		<body>Update</body>
+		<body>Atualizar</body>
 	</string>
 	<string>
 		<id>912263</id>
 		<name>STR_CHAT_ROOM_MANAGEMENT_DIALOG__PASS</name>
-		<body>Passarword</body>
+		<body>Senha</body>
 	</string>
 	<string>
 		<id>912264</id>
@@ -11879,22 +11879,22 @@
 	<string>
 		<id>912265</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GAME_SHOW_COOLTIME</name>
-		<body>Recarga time of skills and objects</body>
+		<body>Tempo de recarga de habilidades e objetos</body>
 	</string>
 	<string>
 		<id>912266</id>
 		<name>STR_CHAT_ROOM_NEW_PASSWORD</name>
-		<body>(Optional) Entrar a password (max. 4 characters).</body>
+		<body>(Opcional) Digite uma senha (máx. 4 caracteres).</body>
 	</string>
 	<string>
 		<id>912267</id>
 		<name>STR_SKILL_DIALOG__FILTER_ALL</name>
-		<body>Select all</body>
+		<body>Selecionar tudo</body>
 	</string>
 	<string>
 		<id>912268</id>
 		<name>STR_SKILL_DIALOG__FILTER_NORMAL</name>
-		<body>Basic</body>
+		<body>Básico</body>
 	</string>
 	<string>
 		<id>912269</id>
@@ -11919,37 +11919,37 @@
 	<string>
 		<id>912273</id>
 		<name>STR_SKILL_DIALOG__COLUMN_SKILL_TYPE</name>
-		<body>Property</body>
+		<body>Propriedade</body>
 	</string>
 	<string>
 		<id>912274</id>
 		<name>STR_SKILL_DIALOG__COLUMN_SHORTCUT</name>
-		<body>On Bar</body>
+		<body>Na Barra</body>
 	</string>
 	<string>
 		<id>912275</id>
 		<name>STR_SKILL_DIALOG__SHOW_ALL_SKILL</name>
-		<body>Display unlearned skills</body>
+		<body>Exibir habilidades não aprendidas</body>
 	</string>
 	<string>
 		<id>912276</id>
 		<name>STR_SKILL_DIALOG__OPEN_SKILL_ETC</name>
-		<body>Action/function</body>
+		<body>Ação/função</body>
 	</string>
 	<string>
 		<id>912277</id>
 		<name>STR_SKILL_DIALOG__OPEN_CHAINSKILL_LIST</name>
-		<body>Todos chain skills</body>
+		<body>Todas as Habilidades de Sequência</body>
 	</string>
 	<string>
 		<id>912278</id>
 		<name>STR_SKILL_ETC_DIALOG</name>
-		<body>Action/function</body>
+		<body>Ação/função</body>
 	</string>
 	<string>
 		<id>912279</id>
 		<name>STR_SKILL_DIALOG__TAB_SIGN</name>
-		<body>Symbols</body>
+		<body>Símbolos</body>
 	</string>
 	<string>
 		<id>912280</id>
@@ -12364,7 +12364,7 @@
 	<string>
 		<id>912362</id>
 		<name>STR_DEVAPASS_DIALOG_BTN_UNLOCK</name>
-		<body>Unlock Premium</body>
+		<body>Desbloquear Premium</body>
 	</string>
 	<string>
 		<id>912363</id>
@@ -12374,17 +12374,17 @@
 	<string>
 		<id>912364</id>
 		<name>STR_DEVAPASS_DIALOG_TAB_DAILY</name>
-		<body>Daily</body>
+		<body>Diária</body>
 	</string>
 	<string>
 		<id>912365</id>
 		<name>STR_DEVAPASS_DIALOG_TAB_WEEKLY</name>
-		<body>Weekly</body>
+		<body>Semanal</body>
 	</string>
 	<string>
 		<id>912366</id>
 		<name>STR_DEVAPASS_DIALOG_TAB_SEASON</name>
-		<body>Season</body>
+		<body>Temporada</body>
 	</string>
 	<string>
 		<id>912367</id>
@@ -12394,7 +12394,7 @@
 	<string>
 		<id>912368</id>
 		<name>STR_DEVAPASS_DIALOG_BTN_MISSIONINFO</name>
-		<body>Note</body>
+		<body>Observações</body>
 	</string>
 	<string>
 		<id>912369</id>
@@ -12409,77 +12409,77 @@
 	<string>
 		<id>912371</id>
 		<name>STR_DEVAPASS_DIALOG_LV</name>
-		<body>Daeva Passar Nível</body>
+		<body>Nível do Daeva Pass</body>
 	</string>
 	<string>
 		<id>912372</id>
 		<name>STR_DEVAPASS_DIALOG_TITLE</name>
-		<body>Daeva Passar</body>
+		<body>Daeva Pass</body>
 	</string>
 	<string>
 		<id>912373</id>
 		<name>STR_DEVAPASS_DIALOG_LASTREWARD</name>
-		<body>Final reward</body>
+		<body>Recompensa final</body>
 	</string>
 	<string>
 		<id>912374</id>
 		<name>STR_DEVAPASS_DIALOG_NEXTLEVEL</name>
-		<body>Until next level</body>
+		<body>Até o próximo nível</body>
 	</string>
 	<string>
 		<id>912375</id>
 		<name>STR_DEVAPASS_DIALOG_ENDMISSION</name>
-		<body>Until the end of the campaign</body>
+		<body>Até o final da campanha</body>
 	</string>
 	<string>
 		<id>912376</id>
 		<name>STR_DEVAPASS_DIALOG_ENDSEASON</name>
-		<body>Until the end of the season</body>
+		<body>Até o final da temporada</body>
 	</string>
 	<string>
 		<id>912377</id>
 		<name>STR_DEVAPASS_DIALOG_MISSIONCOMPLETE</name>
-		<body>Completed</body>
+		<body>Completada</body>
 	</string>
 	<string>
 		<id>912378</id>
 		<name>STR_DEVAPASS_DIALOG_MISSIONPROCESSING</name>
-		<body>Active</body>
+		<body>Ativa</body>
 	</string>
 	<string>
 		<id>912379</id>
 		<name>STR_PLAYER_INFO_DIALOG__PAYMENT</name>
-		<body>Account information</body>
+		<body>Informações da conta</body>
 	</string>
 	<string>
 		<id>912380</id>
 		<name>STR_PLAYER_INFO_DIALOG__PAYMENT_GRADE</name>
-		<body>Account level</body>
+		<body>Nível da conta</body>
 	</string>
 	<string>
 		<id>912381</id>
 		<name>STR_PLAYER_INFO_DIALOG__PAYMENT_APPLICATION</name>
-		<body>Purchase information</body>
+		<body>Informações da compra</body>
 	</string>
 	<string>
 		<id>912382</id>
 		<name>STR_PLAYER_INFO_DIALOG__PAYMENT_DETAIL</name>
-		<body>Detailed information</body>
+		<body>Informações detalhadas</body>
 	</string>
 	<string>
 		<id>912383</id>
 		<name>STR_DEVAPASS_DIALOG_TITLE_ADVANCED_REWARD</name>
-		<body>Unlock Premium</body>
+		<body>Desbloquear Premium</body>
 	</string>
 	<string>
 		<id>912384</id>
 		<name>STR_DEVAPASS_DIALOG_DESC_ADVANCED_REWARD</name>
-		<body>&lt;font color=&quot;9EAEFF&quot;&gt;Restrictions for Premium Rewards per level have been lifted. Once the new season begins, the Daeva Passar starts from level 8 (Attention: Only applies to the Standard Passar).&lt;br&gt;The Premium Recompensa is unlocked for this character.&lt;br&gt;Returns, exchanges and refunds are not possible once you’ve made your purchase. Complete the purchase?&lt;/font&gt;</body>
+		<body>&lt;font color=&quot;9EAEFF&quot;&gt;As restrições para recompensas premium por nível foram suspensas. Assim que a nova temporada começar, o Daeva Pass começa a partir do nível 8 (Atenção: Aplica-se apenas ao Standard Pass).&lt;br&gt;A recompensa Premium está desbloqueada para este personagem.&lt;br&gt;Devoluções, trocas e reembolsos não são possíveis uma vez você fizer sua compra. Concluir a compra?&lt;/font&gt;</body>
 	</string>
 	<string>
 		<id>912385</id>
 		<name>STR_DEVAPASS_DIALOG_POPUP_REWARDLIST</name>
-		<body>Available rewards</body>
+		<body>Recompensas disponíveis</body>
 	</string>
 	<string>
 		<id>912386</id>
@@ -12489,7 +12489,7 @@
 	<string>
 		<id>912387</id>
 		<name>STR_DEVAPASS_DIALOG_TITLE_RECEIVE</name>
-		<body>Recompensa</body>
+		<body>Receber</body>
 	</string>
 	<string>
 		<id>912388</id>
@@ -12504,57 +12504,57 @@
 	<string>
 		<id>912390</id>
 		<name>STR_DEVAPASS_DIALOG_POPUP_REWARDLIST_NOW</name>
-		<body>Recompensa for current level</body>
+		<body>Recompensa para o nível atual</body>
 	</string>
 	<string>
 		<id>912391</id>
 		<name>STR_DEVAPASS_DIALOG_POPUP_REWARDLIST_ALL</name>
-		<body>Todos available rewards</body>
+		<body>Todas as recompensas disponíveis</body>
 	</string>
 	<string>
 		<id>912392</id>
 		<name>STR_DEVAPASS_DIALOG_POPUP_MY_QUNA</name>
-		<body>Funds owned</body>
+		<body>Minha Quna</body>
 	</string>
 	<string>
 		<id>912393</id>
 		<name>STR_DEVAPASS_DIALOG_POPUP_REWARD_CONFIRM</name>
-		<body>Aceitar the reward?</body>
+		<body>Aceitar a recompensa?</body>
 	</string>
 	<string>
 		<id>912394</id>
 		<name>STR_DEVAPASS_DIALOG_POPUP_BUYEXP_ALERT</name>
-		<body>&lt;font color=&quot;9EAEFF&quot;&gt;Comprar Nível is unlocked for this character.&lt;br&gt;Returns, exchanges and refunds are not possible once you’ve made your purchase. Complete the purchase?&lt;/font&gt;</body>
+		<body>&lt;font color=&quot;9EAEFF&quot;&gt;Comprar Nível está desbloqueado para este personagem.&lt;br&gt;Devoluções, trocas e reembolsos não são possíveis após a compra. Concluir a compra?&lt;/font&gt;</body>
 	</string>
 	<string>
 		<id>912395</id>
 		<name>STR_DEVAPASS_DIALOG_UNLOCK_ACTIVATION</name>
-		<body>Unlock Premium</body>
+		<body>Desbloquear Premium</body>
 	</string>
 	<string>
 		<id>912396</id>
 		<name>STR_UI_DEVAPASS_UI_MISSION_END</name>
-		<body>The campaign has ended.</body>
+		<body>A campanha terminou.</body>
 	</string>
 	<string>
 		<id>912397</id>
 		<name>STR_UI_DEVAPASS_UI_SESSON_END</name>
-		<body>The season has ended.</body>
+		<body>A temporada acabou.</body>
 	</string>
 	<string>
 		<id>912398</id>
 		<name>STR_PROMOTION_DIALOG__TITLE</name>
-		<body>Login to Recompensa Event</body>
+		<body>Faça login no evento de recompensa</body>
 	</string>
 	<string>
 		<id>912399</id>
 		<name>STR_PLAYER_INFO_DIALOG__EQUIPMENT_CHANGE</name>
-		<body>Equipment Sets</body>
+		<body>Equipamentos</body>
 	</string>
 	<string>
 		<id>912400</id>
 		<name>STR_EQUIPMENT_CHANGE_DIALOG</name>
-		<body>Equipment Set settings</body>
+		<body>Configurações do Equipamento</body>
 	</string>
 	<string>
 		<id>912401</id>
@@ -12564,12 +12564,12 @@
 	<string>
 		<id>912402</id>
 		<name>STR_EQUIPMENT_CHANGE_DIALOG__SET_INFO</name>
-		<body>Select Set Info</body>
+		<body>Informações do Equipamento Selecionado</body>
 	</string>
 	<string>
 		<id>912403</id>
 		<name>STR_EQUIPMENT_CHANGE_DIALOG__DESC</name>
-		<body>Set Nome</body>
+		<body>Nome do Equipamento</body>
 	</string>
 	<string>
 		<id>912404</id>
@@ -12579,7 +12579,7 @@
 	<string>
 		<id>912405</id>
 		<name>STR_EQUIPMENT_CHANGE_DIALOG__CURRENT</name>
-		<body>Current Equipment</body>
+		<body>Equipamento Atual</body>
 	</string>
 	<string>
 		<id>912406</id>
@@ -12589,27 +12589,27 @@
 	<string>
 		<id>912407</id>
 		<name>STR_EQUIPMENT_CHANGE_DIALOG__TOOLTIP_LIST</name>
-		<body>You can switch to the selected equipment by right-clicking the equipment list or after registering it in the Quickbar.</body>
+		<body>Você pode mudar para o equipamento selecionado clicando com o botão direito na lista de equipamentos ou após registrá-lo na Barra.</body>
 	</string>
 	<string>
 		<id>912408</id>
 		<name>STR_PROMOTION_DIALOG__BUTTON</name>
-		<body>Login to Recompensa Event</body>
+		<body>Faça login no evento de recompensa</body>
 	</string>
 	<string>
 		<id>912409</id>
 		<name>STR_DISASSEMBLY_ITEM_SELECT_DIALOG</name>
-		<body>Select item</body>
+		<body>Selecionar item</body>
 	</string>
 	<string>
 		<id>912410</id>
 		<name>STR_DISASSEMBLY_ITEM_SELECT_DIALOG__DESC</name>
-		<body>Select the desired item and click on Confirm to receive it.</body>
+		<body>Selecione o item desejado e clique em Confirmar para recebê-lo.</body>
 	</string>
 	<string>
 		<id>912411</id>
 		<name>STR_DISASSEMBLY_ITEM_SELECT_DIALOG__OK</name>
-		<body>Confirm</body>
+		<body>Confirmar</body>
 	</string>
 	<string>
 		<id>912412</id>
@@ -12629,72 +12629,72 @@
 	<string>
 		<id>912415</id>
 		<name>STR_VENDOR_SELL_DIALOG__PRICE_INFO</name>
-		<body>Trade Information</body>
+		<body>Informações Comerciais</body>
 	</string>
 	<string>
 		<id>912416</id>
 		<name>STR_VENDOR_SELL_DIALOG__AVG_PRICE</name>
-		<body>Average price (last week)</body>
+		<body>Preço médio (última semana)</body>
 	</string>
 	<string>
 		<id>912417</id>
 		<name>STR_VENDOR_SELL_DIALOG__MIN_PRICE</name>
-		<body>Current lowest price</body>
+		<body>Preço mais baixo atual</body>
 	</string>
 	<string>
 		<id>912418</id>
 		<name>STR_VENDOR_SELL_DIALOG__MAX_PRICE</name>
-		<body>Current highest price</body>
+		<body>Preço mais alto atual</body>
 	</string>
 	<string>
 		<id>912419</id>
 		<name>STR_VENDOR_SELL_DIALOG__PRICE_MESSAGE</name>
-		<body>Please enter the selling price.</body>
+		<body>Por favor insira o preço de venda.</body>
 	</string>
 	<string>
 		<id>912420</id>
 		<name>STR_VENDOR_SELL_DIALOG__PRICE_ENTERED</name>
-		<body>Set price</body>
+		<body>Definir preço</body>
 	</string>
 	<string>
 		<id>912421</id>
 		<name>STR_VENDOR_SELL_DIALOG__NUMBER</name>
-		<body>You can enter numbers</body>
+		<body>Você pode inserir números</body>
 	</string>
 	<string>
 		<id>912422</id>
 		<name>STR_VENDOR_SELL_STACK_DIALOG__COUNT_MESSAGE</name>
-		<body>How many copies would you like to register?</body>
+		<body>Quantas cópias você gostaria de registrar?</body>
 	</string>
 	<string>
 		<id>912423</id>
 		<name>STR_VENDOR_SELL_STACK_DIALOG__PRICE_MESSAGE</name>
-		<body>Please enter the selling price per unit.</body>
+		<body>Por favor, insira o preço de venda por unidade.</body>
 	</string>
 	<string>
 		<id>912424</id>
 		<name>STR_VENDOR_SELL_STACK_DIALOG__SELL_TOTAL</name>
-		<body>Total sale</body>
+		<body>Venda Total</body>
 	</string>
 	<string>
 		<id>912425</id>
 		<name>STR_VENDOR_SELL_STACK_DIALOG__SELL_TOTAL_DESC</name>
-		<body>Item can only be purchased as a bundle.</body>
+		<body>O item só pode ser adquirido como um pacote.</body>
 	</string>
 	<string>
 		<id>912426</id>
 		<name>STR_VENDOR_SELL_STACK_DIALOG__SELL_EACH</name>
-		<body>Part sale</body>
+		<body>Venda de parcial</body>
 	</string>
 	<string>
 		<id>912427</id>
 		<name>STR_VENDOR_SELL_STACK_DIALOG__SELL_EACH_DESC</name>
-		<body>You can purchase either the whole bundle or just one item.</body>
+		<body>Você pode comprar o pacote completo ou apenas um item.</body>
 	</string>
 	<string>
 		<id>912428</id>
 		<name>STR_VENDOR_BUY_EACH_DIALOG__COUNT_MESSAGE</name>
-		<body>How many would you like to buy?</body>
+		<body>Quantos você gostaria de comprar?</body>
 	</string>
 	<string>
 		<id>912429</id>
@@ -12704,7 +12704,7 @@
 	<string>
 		<id>912430</id>
 		<name>STR_VENDOR_BUY_EACH_DIALOG__TOTAL_PRICE</name>
-		<body>Total price</body>
+		<body>Preço total</body>
 	</string>
 	<string>
 		<id>912431</id>
@@ -12714,17 +12714,17 @@
 	<string>
 		<id>912432</id>
 		<name>STR_VENDOR_SELL_DIALOG</name>
-		<body>Sales entry</body>
+		<body>Entrada de Vendas</body>
 	</string>
 	<string>
 		<id>912433</id>
 		<name>STR_VENDOR_SELL_STACK_DIALOG</name>
-		<body>Registration for total/part sale</body>
+		<body>Cadastro para venda total/parcial</body>
 	</string>
 	<string>
 		<id>912434</id>
 		<name>STR_VENDOR_BUY_EACH_DIALOG</name>
-		<body>Part sale</body>
+		<body>Venda parcial</body>
 	</string>
 	<string>
 		<id>912435</id>
@@ -12739,37 +12739,37 @@
 	<string>
 		<id>912437</id>
 		<name>STR_VENDOR_BUY_DIALOG__PRICE</name>
-		<body>Purchasing Preço</body>
+		<body>Preço de compra</body>
 	</string>
 	<string>
 		<id>912438</id>
 		<name>STR_VENDOR_SELL_DIALOG__MIN_REG_PRICE</name>
-		<body>Minimum Registrar Preço</body>
+		<body>Preço mínimo de registro</body>
 	</string>
 	<string>
 		<id>912439</id>
 		<name>STR_LOOT_DIALOG__TOOLTIP_MASSIVE</name>
-		<body>Loot that only you can obtain.</body>
+		<body>Loot que só você pode obter.</body>
 	</string>
 	<string>
 		<id>912440</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__TABFRAME_OPTION_SOUND_ME</name>
-		<body>Audio: Own character</body>
+		<body>Áudio: Próprio personagem</body>
 	</string>
 	<string>
 		<id>912441</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__TABFRAME_OPTION_SOUND_OTHER</name>
-		<body>Audio: Other players</body>
+		<body>Áudio: Outros jogadores</body>
 	</string>
 	<string>
 		<id>912442</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__TABFRAME_OPTION_SOUND_PET</name>
-		<body>Mascote sound</body>
+		<body>Sons do mascote</body>
 	</string>
 	<string>
 		<id>912443</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__TABFRAME_OPTION_SOUND_MOTION</name>
-		<body>Available motion</body>
+		<body>Movimento disponível</body>
 	</string>
 	<string>
 		<id>912444</id>
@@ -12829,7 +12829,7 @@
 	<string>
 		<id>912455</id>
 		<name>STR_ART_DEV_DIALOG__CHAR_DYE</name>
-		<body>User colour</body>
+		<body>Cor do usuário</body>
 	</string>
 	<string>
 		<id>912456</id>
@@ -12849,17 +12849,17 @@
 	<string>
 		<id>912459</id>
 		<name>STR_ART_DEV_DIALOG__CHAR_WEAPON</name>
-		<body>Weapon</body>
+		<body>Arma</body>
 	</string>
 	<string>
 		<id>912460</id>
 		<name>STR_ART_DEV_DIALOG__CHAR_ARMOR</name>
-		<body>Armour</body>
+		<body>Armadura</body>
 	</string>
 	<string>
 		<id>912461</id>
 		<name>STR_ART_DEV_DIALOG__CHAR_NPC_SKILL</name>
-		<body>Dano Físico skill (NPC)</body>
+		<body>Habilidades de Dano Físico (NPC)</body>
 	</string>
 	<string>
 		<id>912462</id>
@@ -12949,17 +12949,17 @@
 	<string>
 		<id>912479</id>
 		<name>STR_DIALOG_WARDROBE_HUD_BUTTON</name>
-		<body>Wardrobe</body>
+		<body>Guarda Roupas</body>
 	</string>
 	<string>
 		<id>912480</id>
 		<name>STR_MAILBOX_DIALOG__TABFRAME_CASH_RECV_LEFT_TIME</name>
-		<body>Remaining Receipt Period</body>
+		<body>Período de recebimento restante</body>
 	</string>
 	<string>
 		<id>912481</id>
 		<name>STR_CASH_PURCHASE_DIALOG__RECV_INFO</name>
-		<body>Expiration</body>
+		<body>Expiração</body>
 	</string>
 	<string>
 		<id>912482</id>
@@ -12974,17 +12974,17 @@
 	<string>
 		<id>912484</id>
 		<name>STR_DIALOG_WARDROBE_DIALOG_TAB_TITLE_CHANGE_SKIN</name>
-		<body>Modify Appearance</body>
+		<body>Modificar Aparência</body>
 	</string>
 	<string>
 		<id>912485</id>
 		<name>STR_DIALOG_WARDROBE_DIALOG_TAB_TITLE_DYE_SKIN</name>
-		<body>Dye appearance</body>
+		<body>Pintar Aparência</body>
 	</string>
 	<string>
 		<id>912486</id>
 		<name>STR_DIALOG_WARDROBE_DIALOG_SEARCH_NO_RESULT</name>
-		<body>No results.</body>
+		<body>Sem resultados.</body>
 	</string>
 	<string>
 		<id>912487</id>
@@ -12994,87 +12994,87 @@
 	<string>
 		<id>912488</id>
 		<name>STR_DIALOG_WARDROBE_DIALOG_RESET</name>
-		<body>Back</body>
+		<body>Voltar</body>
 	</string>
 	<string>
 		<id>912489</id>
 		<name>STR_DIALOG_WARDROBE_EXTEND_TITLE</name>
-		<body>Wardrobe expansion</body>
+		<body>Expandir Wardrobe</body>
 	</string>
 	<string>
 		<id>912490</id>
 		<name>STR_DIALOG_WARDROBE_EXTEND_QUNA_DESC</name>
-		<body>Luna owned</body>
+		<body>Minha Quna</body>
 	</string>
 	<string>
 		<id>912491</id>
 		<name>STR_DIALOG_WARDROBE_EXTEND_ITEM_DESC</name>
-		<body>%0 owned</body>
+		<body>%0 Quna</body>
 	</string>
 	<string>
 		<id>912492</id>
 		<name>STR_DIALOG_WARDROBE_CHANGE_SKiN_TARGET_TITLE</name>
-		<body>Selected for Appearance Modification</body>
+		<body>Selecionado para modificação de aparência</body>
 	</string>
 	<string>
 		<id>912493</id>
 		<name>STR_DIALOG_WARDROBE_CHANGE_SKiN_SOURCE_TITLE</name>
-		<body>Select Wardrobe Skin</body>
+		<body>Selecione a Aparência do Wardrobe</body>
 	</string>
 	<string>
 		<id>912494</id>
 		<name>STR_DIALOG_WARDROBE_CHANGE_SKiN_TARGET_TOOLTIP</name>
-		<body>Select item from the inventory</body>
+		<body>Selecione o item do inventário</body>
 	</string>
 	<string>
 		<id>912495</id>
 		<name>STR_DIALOG_WARDROBE_CHANGE_SKiN_SOURCE_TOOLTIP</name>
-		<body>Select appearance from the Wardrobe</body>
+		<body>Selecione a Aparência do Wardrobe</body>
 	</string>
 	<string>
 		<id>912496</id>
 		<name>STR_DIALOG_WARDROBE_DYE_SKiN_ITEM_TITLE</name>
-		<body>Dye</body>
+		<body>Pintar</body>
 	</string>
 	<string>
 		<id>912497</id>
 		<name>STR_DIALOG_WARDROBE_DYE_SKiN_ITEM_TOOLTIP</name>
-		<body>Select dye from the inventory</body>
+		<body>Selecione a tinta do inventário</body>
 	</string>
 	<string>
 		<id>912498</id>
 		<name>STR_DIALOG_WARDROBE_BTN_EXTEND_TOOLTIP</name>
-		<body>Slot Expansion</body>
+		<body>Expansão de Espaço</body>
 	</string>
 	<string>
 		<id>912499</id>
 		<name>STR_DIALOG_WARDROBE_BTN_SEARCH_TOOLTIP</name>
-		<body>Encontrar name</body>
+		<body>Encontrar nome</body>
 	</string>
 	<string>
 		<id>912500</id>
 		<name>STR_DIALOG_WARDROBE_3DVIEW_BTN_BG1_TOOLTIP</name>
-		<body>Background 1</body>
+		<body>Fundo 1</body>
 	</string>
 	<string>
 		<id>912501</id>
 		<name>STR_DIALOG_WARDROBE_3DVIEW_BTN_BG2_TOOLTIP</name>
-		<body>Background 2</body>
+		<body>Fundo 2</body>
 	</string>
 	<string>
 		<id>912502</id>
 		<name>STR_DIALOG_WARDROBE_3DVIEW_BTN_BG3_TOOLTIP</name>
-		<body>Background 3</body>
+		<body>Fundo 3</body>
 	</string>
 	<string>
 		<id>912503</id>
 		<name>STR_DIALOG_WARDROBE_DIALOG_NO_ITEM</name>
-		<body>No Wardrobe Skin registered.</body>
+		<body>Nenhuma aparência cadastrada no Wardrobe.</body>
 	</string>
 	<string>
 		<id>912504</id>
 		<name>STR_DIALOG_WARDROBE_DIALOG_REQUIRE_TARGET</name>
-		<body>First select an item for the appearance modification.</body>
+		<body>Primeiro selecione um item para a modificação da aparência.</body>
 	</string>
 	<string>
 		<id>912505</id>
@@ -13099,47 +13099,47 @@
 	<string>
 		<id>912509</id>
 		<name>STR_DIALOG_WARDROBE_BTN_CHANGE_SKIN</name>
-		<body>Modify Appearance</body>
+		<body>Modificar Aparência</body>
 	</string>
 	<string>
 		<id>912510</id>
 		<name>STR_DIALOG_WARDROBE_BTN_REMOVE_SKIN</name>
-		<body>Remove appearance</body>
+		<body>Remover Aparência</body>
 	</string>
 	<string>
 		<id>912511</id>
 		<name>STR_DIALOG_WARDROBE_BTN_DYE_SKIN</name>
-		<body>Dye appearance</body>
+		<body>Pintar Aparência</body>
 	</string>
 	<string>
 		<id>912512</id>
 		<name>STR_DIALOG_WARDROBE_BTN_DYE_REMOVE</name>
-		<body>Remove dye</body>
+		<body>Remover tinta</body>
 	</string>
 	<string>
 		<id>912513</id>
 		<name>STR_DIALOG_WARDROBE_CONFIRM_COST_MONEY_STR</name>
-		<body>Usage Custo</body>
+		<body>Custo de uso</body>
 	</string>
 	<string>
 		<id>912514</id>
 		<name>STR_DIALOG_WARDROBE_BTN_REMOVE_SKIN_TOOLTIP</name>
-		<body>Activated when the target for the appearance modification is a Wardrobe skin.</body>
+		<body>Ativado quando o alvo da modificação de aparência é uma Aparência no Wardrobe.</body>
 	</string>
 	<string>
 		<id>912515</id>
 		<name>STR_DIALOG_WARDROBE_BTN_REMOVE_DYE_TOOLTIP</name>
-		<body>Determinação be activated once Dye Remover is registered.</body>
+		<body>Será ativado assim que o Removedor de Tinta for registrado.</body>
 	</string>
 	<string>
 		<id>912516</id>
 		<name>STR_DIALOG_WARDROBE_DYE_SKIN_SOURCE_TITLE</name>
-		<body>Wardrobe Skin to be dyed</body>
+		<body>Aparência do Wardrobe à ser pintada</body>
 	</string>
 	<string>
 		<id>912517</id>
 		<name>STR_DIALOG_SKIP</name>
-		<body>Skip</body>
+		<body>Pular</body>
 	</string>
 	<string>
 		<id>912518</id>
@@ -13154,17 +13154,17 @@
 	<string>
 		<id>912520</id>
 		<name>STR_DEVAPASS_DIALOG_BTN_BUYPASS</name>
-		<body>Activate Passar</body>
+		<body>Ativar Pass</body>
 	</string>
 	<string>
 		<id>912521</id>
 		<name>STR_DEVAPASS_POPUP_BUYPASS_TITLE</name>
-		<body>Activate Passar</body>
+		<body>Ativar Pass</body>
 	</string>
 	<string>
 		<id>912522</id>
 		<name>STR_DEVAPASS_POPUP_BUYPASS_ALERT</name>
-		<body>&lt;font color=&quot;9EAEFF&quot;&gt;The pass is activated per character. Returns, exchanges and refunds are not possible once you’ve made your purchase. Do you want to complete the purchase?&lt;/font&gt;</body>
+		<body>&lt;font color=&quot;9EAEFF&quot;&gt;O Pass é ativado por personagem. Devoluções, trocas e reembolsos não são possíveis após a compra. Deseja concluir a compra?&lt;/font&gt;</body>
 	</string>
 	<string>
 		<id>912523</id>
@@ -13179,7 +13179,7 @@
 	<string>
 		<id>912525</id>
 		<name>STR_DEVAPASS_BUYPASS_TIME</name>
-		<body>Hora remaining</body>
+		<body>Tempo restante</body>
 	</string>
 	<string>
 		<id>912526</id>
@@ -13299,27 +13299,27 @@
 	<string>
 		<id>912549</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GAME_SIEGE_PET_HIDE_OTHER</name>
-		<body>Hide other players’ siege weapons.</body>
+		<body>Ocultar as Siege Weapons de outros jogadores.</body>
 	</string>
 	<string>
 		<id>912551</id>
 		<name>STR_INDUN_COOLTIME_RESET_DIALOG__DESC</name>
-		<body>Select the instance for which you want to increase the number of entries.</body>
+		<body>Selecione a instância a qual você deseja aumentar o número de entradas.</body>
 	</string>
 	<string>
 		<id>912552</id>
 		<name>STR_LOCATION_CHANGE__TITLE</name>
-		<body>Salvar path</body>
+		<body>Salvar caminho</body>
 	</string>
 	<string>
 		<id>912553</id>
 		<name>STR_FILE_SEARCH_DIALOG</name>
-		<body>Procurar file</body>
+		<body>Procurar arquivo</body>
 	</string>
 	<string>
 		<id>912554</id>
 		<name>STR_FILE_SEARCH_DIALOG_CHANGE_PATH</name>
-		<body>Change folder</body>
+		<body>Mudar pasta</body>
 	</string>
 	<string>
 		<id>912555</id>
@@ -13329,42 +13329,42 @@
 	<string>
 		<id>912556</id>
 		<name>STR_PLAYER_INFO_DIALOG__TOOLTIP_RIGHT_HAND_SETB</name>
-		<body>Main hand support</body>
+		<body>Apoio da Mão Direita</body>
 	</string>
 	<string>
 		<id>912557</id>
 		<name>STR_PLAYER_INFO_DIALOG__TOOLTIP_LEFT_HAND_SETB</name>
-		<body>Off hand support</body>
+		<body>Apoio da Mão Esquerda</body>
 	</string>
 	<string>
 		<id>912558</id>
 		<name>STR_PARTY_MATCH_DIALOG__TAB_INSTANCE_MATCH</name>
-		<body>Server-wide Recruitment Lista</body>
+		<body>Lista de recrutamento em todo o servidor</body>
 	</string>
 	<string>
 		<id>912559</id>
 		<name>STR_PARTY_MATCH_INSTANCE_MATCH_DIALOG</name>
-		<body>Server-wide Recruitment Lista</body>
+		<body>Lista de recrutamento em todo o servidor</body>
 	</string>
 	<string>
 		<id>912560</id>
 		<name>STR_PARTY_MATCH_INSTANCE_MATCH_DIALOG__INFO</name>
-		<body>You can recruit players and apply to enter an instance at its entrance.</body>
+		<body>Você pode recrutar jogadores e se inscrever para entrar em uma instância na porta de entrada.</body>
 	</string>
 	<string>
 		<id>912561</id>
 		<name>STR_PARTY_MATCH_DIALOG__SEARCH_INSTANCE</name>
-		<body>Select Instância</body>
+		<body>Selecione a Instância</body>
 	</string>
 	<string>
 		<id>912562</id>
 		<name>STR_PARTY_MATCH_DIALOG__INSTANCE_MATCH_VISIBLE_MY_ARTICLE</name>
-		<body>Display my post</body>
+		<body>Exibir minha postagem</body>
 	</string>
 	<string>
 		<id>912563</id>
 		<name>STR_PARTY_MATCH_DIALOG__SEARCH_INSTANCE_MATCH_MINIMIZE</name>
-		<body>Automático search when leaving</body>
+		<body>Busca automática ao fechar janela</body>
 	</string>
 	<string>
 		<id>912564</id>
@@ -13379,12 +13379,12 @@
 	<string>
 		<id>912566</id>
 		<name>STR_PARTY_MATCH_DIALOG__INSTANCE_MATCH_COL_LEADER</name>
-		<body>Grupo leader</body>
+		<body>Líder do Grupo</body>
 	</string>
 	<string>
 		<id>912567</id>
 		<name>STR_PARTY_MATCH_DIALOG__INSTANCE_MATCH_COL_MEMBER</name>
-		<body>Número of players</body>
+		<body>Número de jogadores</body>
 	</string>
 	<string>
 		<id>912568</id>
@@ -13399,7 +13399,7 @@
 	<string>
 		<id>912570</id>
 		<name>STR_PARTY_MATCH_INSTANCE_REGISTER_DIALOG</name>
-		<body>Cross-server Registration</body>
+		<body>Registro Entre Servidores</body>
 	</string>
 	<string>
 		<id>912571</id>
@@ -13409,7 +13409,7 @@
 	<string>
 		<id>912572</id>
 		<name>STR_PARTY_MATCH_INSTANCE_REGISTER_DIALOG__MEMBER</name>
-		<body>Número of players</body>
+		<body>Número de jogadores</body>
 	</string>
 	<string>
 		<id>912573</id>
@@ -13429,12 +13429,12 @@
 	<string>
 		<id>912576</id>
 		<name>STR_PARTY_MATCH_DIALOG__INFO</name>
-		<body>Membro info</body>
+		<body>Informações do membro</body>
 	</string>
 	<string>
 		<id>912577</id>
 		<name>STR_INSTANCE_PREPARE_DIALOG</name>
-		<body>Entry Preparations</body>
+		<body>Preparações de Entrada</body>
 	</string>
 	<string>
 		<id>912578</id>
@@ -13459,7 +13459,7 @@
 	<string>
 		<id>912582</id>
 		<name>STR_INSTANCE_PREPARE_DIALOG__READY_COMPLETE</name>
-		<body>Ready</body>
+		<body>Pronto</body>
 	</string>
 	<string>
 		<id>912583</id>
@@ -13469,12 +13469,12 @@
 	<string>
 		<id>912584</id>
 		<name>STR_INSTANCE_PREPARE_DIALOG__ENTER</name>
-		<body>Entry</body>
+		<body>Entrar</body>
 	</string>
 	<string>
 		<id>912585</id>
 		<name>STR_INSTANCE_PREPARE_DIALOG__PURGE</name>
-		<body>Suspend</body>
+		<body>Suspender</body>
 	</string>
 	<string>
 		<id>912601</id>
@@ -13484,7 +13484,7 @@
 	<string>
 		<id>912602</id>
 		<name>STR_RANK_DIALOG__INFO_BTN</name>
-		<body>My documentation</body>
+		<body>Minha documentação</body>
 	</string>
 	<string>
 		<id>912603</id>
@@ -13499,12 +13499,12 @@
 	<string>
 		<id>912605</id>
 		<name>STR_RANK_DIALOG__COL_POINT</name>
-		<body>Contest points</body>
+		<body>Pontos do concurso</body>
 	</string>
 	<string>
 		<id>912606</id>
 		<name>STR_RANK_DIALOG__COL_RACE</name>
-		<body>Faction</body>
+		<body>Facção</body>
 	</string>
 	<string>
 		<id>912607</id>
@@ -13514,67 +13514,67 @@
 	<string>
 		<id>912608</id>
 		<name>STR_RANK_DIALOG__COL_CHANGE</name>
-		<body>Rank Change</body>
+		<body>Mudar Rank</body>
 	</string>
 	<string>
 		<id>912609</id>
 		<name>STR_RANK_INFO_DIALOG</name>
-		<body>My documentation</body>
+		<body>Minha documentação</body>
 	</string>
 	<string>
 		<id>912610</id>
 		<name>STR_RANK_INFO_DIALOG__THIS_SEASON</name>
-		<body>Information about my season</body>
+		<body>Informações sobre minha temporada</body>
 	</string>
 	<string>
 		<id>912611</id>
 		<name>STR_RANK_INFO_DIALOG__THIS_SEASON_POINT</name>
-		<body>Current Pontos</body>
+		<body>Pontos Atuais</body>
 	</string>
 	<string>
 		<id>912612</id>
 		<name>STR_RANK_INFO_DIALOG__THIS_SEASON_RANK</name>
-		<body>Current Rank</body>
+		<body>Rank Atual</body>
 	</string>
 	<string>
 		<id>912613</id>
 		<name>STR_RANK_INFO_DIALOG__PRE_SEASON</name>
-		<body>Information about last season</body>
+		<body>Informações sobre a última temporada</body>
 	</string>
 	<string>
 		<id>912614</id>
 		<name>STR_RANK_INFO_DIALOG__PRE_SEASON_POINT</name>
-		<body>Pontos from last season</body>
+		<body>Pontos da temporada passada</body>
 	</string>
 	<string>
 		<id>912615</id>
 		<name>STR_RANK_INFO_DIALOG__PRE_SEASON_RANK</name>
-		<body>Ranking list from last season</body>
+		<body>Lista de Ranking da última temporada</body>
 	</string>
 	<string>
 		<id>912616</id>
 		<name>STR_RANK_INFO_DIALOG__HIGHEST_POINT</name>
-		<body>Highest points of the season</body>
+		<body>Pontos mais altos da temporada</body>
 	</string>
 	<string>
 		<id>912617</id>
 		<name>STR_RANK_INFO_DIALOG__HIGHEST_RANK</name>
-		<body>Highest rank of the season</body>
+		<body>Rank mais alto da temporada</body>
 	</string>
 	<string>
 		<id>912618</id>
 		<name>STR_RANK_INFO_DIALOG__REWARD</name>
-		<body>Win reward</body>
+		<body>Recompensas de Vitória</body>
 	</string>
 	<string>
 		<id>912619</id>
 		<name>STR_RANK_INFO_DIALOG__NO_REWARD</name>
-		<body>No additional reward</body>
+		<body>Nenhuma recompensa adicional</body>
 	</string>
 	<string>
 		<id>912620</id>
 		<name>STR_RANK_INFO_DIALOG__POINT</name>
-		<body>Contest points</body>
+		<body>Pontos do adversário</body>
 	</string>
 	<string>
 		<id>912621</id>
@@ -13589,47 +13589,47 @@
 	<string>
 		<id>912623</id>
 		<name>STR_RANK_DIALOG__COL_TIME</name>
-		<body>Documentation</body>
+		<body>Documentação</body>
 	</string>
 	<string>
 		<id>912624</id>
 		<name>STR_RANK_INFO_DIALOG__THIS_SEASON_TIME</name>
-		<body>Latest points scores</body>
+		<body>Últimas pontuações</body>
 	</string>
 	<string>
 		<id>912625</id>
 		<name>STR_RANK_INFO_DIALOG__PRE_SEASON_TIME</name>
-		<body>Pontos scores from last season</body>
+		<body>Pontuações da última temporada</body>
 	</string>
 	<string>
 		<id>912626</id>
 		<name>STR_RANK_INFO_DIALOG__HIGHEST_TIME</name>
-		<body>Highest points score of the season</body>
+		<body>Maior pontuação da temporada</body>
 	</string>
 	<string>
 		<id>912627</id>
 		<name>STR_RANK_DIALOG__COL_GLORY_POINT</name>
-		<body>Honour Pontos</body>
+		<body>Pontos de Honra</body>
 	</string>
 	<string>
 		<id>912628</id>
 		<name>STR_RANK_INFO_DIALOG__THIS_SEASON_GLORY_POINT</name>
-		<body>Current Honour Pontos</body>
+		<body>Pontos de Honra Atuais</body>
 	</string>
 	<string>
 		<id>912629</id>
 		<name>STR_RANK_INFO_DIALOG__PRE_SEASON_GLORY_POINT</name>
-		<body>Honour Pontos from last Season</body>
+		<body>Pontos de Honra da última Temporada</body>
 	</string>
 	<string>
 		<id>912630</id>
 		<name>STR_RANK_INFO_DIALOG__HIGHEST_GLORY_POINT</name>
-		<body>Highest Honour Pontos of the Season</body>
+		<body>Maiores Pontos de Honra da Temporada</body>
 	</string>
 	<string>
 		<id>912631</id>
 		<name>STR_PLAYER_INFO_DIALOG__RANKING_ICON</name>
-		<body>Select ranking badge</body>
+		<body>Selecione o selo de classificação</body>
 	</string>
 	<string>
 		<id>912632</id>
@@ -13639,27 +13639,27 @@
 	<string>
 		<id>912633</id>
 		<name>STR_RANK_INFO_DIALOG__INTER_SERVER</name>
-		<body>Todos servers</body>
+		<body>Todos os servidores</body>
 	</string>
 	<string>
 		<id>912634</id>
 		<name>STR_RANK_INFO_DIALOG__LOCAL_SERVER</name>
-		<body>Present Server</body>
+		<body>Meu servidor</body>
 	</string>
 	<string>
 		<id>912635</id>
 		<name>STR_LETTER_DIALOG__WIDGET_AP</name>
-		<body>Abyss Pontos</body>
+		<body>Pontos do Abyss</body>
 	</string>
 	<string>
 		<id>912636</id>
 		<name>STR_RANK_DIALOG__MY_POINT</name>
-		<body>Contest points</body>
+		<body>Pontos do adversário</body>
 	</string>
 	<string>
 		<id>912637</id>
 		<name>STR_RANK_DIALOG__MY_RANK</name>
-		<body>My rank</body>
+		<body>Meu rank</body>
 	</string>
 	<string>
 		<id>912638</id>
@@ -13669,12 +13669,12 @@
 	<string>
 		<id>912639</id>
 		<name>STR_LUCKYDICE_DIALOG_START</name>
-		<body>START</body>
+		<body>INICIAR</body>
 	</string>
 	<string>
 		<id>912640</id>
 		<name>STR_LUCKYDICE_DIALOG_RESET</name>
-		<body>Reiniciar Game Board</body>
+		<body>Reiniciar Tabuleiro de Jogo</body>
 	</string>
 	<string>
 		<id>912641</id>
@@ -13684,12 +13684,12 @@
 	<string>
 		<id>912642</id>
 		<name>STR_LUCKYDICE_DIALOG_TOOLTIP_FREEDICE</name>
-		<body>Dice</body>
+		<body>Rolar</body>
 	</string>
 	<string>
 		<id>912643</id>
 		<name>STR_RANK_DIALOG__RANK_BADGE_CHOOSE</name>
-		<body>Please select a badge.</body>
+		<body>Selecione um selo.</body>
 	</string>
 	<string>
 		<id>912644</id>
@@ -13699,22 +13699,22 @@
 	<string>
 		<id>912645</id>
 		<name>STR_LUCKYDICE_DIALOG_RETRY</name>
-		<body>Re-Rolling</body>
+		<body>Rolar Novamente</body>
 	</string>
 	<string>
 		<id>912646</id>
 		<name>STR_LUCKYDICE_DIALOG_MOVING</name>
-		<body>Movement</body>
+		<body>Movimento</body>
 	</string>
 	<string>
 		<id>912647</id>
 		<name>STR_LUCKYDICE_DIALOG_RESET_CONTENT</name>
-		<body>The game is still running.%0Do you really want to reset it?\nRestart costs: \n</body>
+		<body>O jogo ainda está em execução.%0Deseja realmente reiniciá-lo?\nCusto de reinicialização: \n</body>
 	</string>
 	<string>
 		<id>912648</id>
 		<name>STR_LUCKYDICE_DIALOG_AUTO_RESET</name>
-		<body>Your piece has reached the start, the game is restarting.</body>
+		<body>Sua peça chegou ao início, o jogo está reiniciando.</body>
 	</string>
 	<string>
 		<id>912649</id>
@@ -13729,17 +13729,17 @@
 	<string>
 		<id>912651</id>
 		<name>STR_SIMPLE_QUEST_TELEPORT_DIALOG__TELEPORT</name>
-		<body>Teleport</body>
+		<body>Teleportar</body>
 	</string>
 	<string>
 		<id>912652</id>
 		<name>STR_QUEST_INDICATOR_DIALOG__BOOKMARK</name>
-		<body>Favourites</body>
+		<body>Favoritos</body>
 	</string>
 	<string>
 		<id>912653</id>
 		<name>STR_QUEST_INDICATOR_DIALOG__WINDOW</name>
-		<body>Campaign/Quest Journal</body>
+		<body>Diário de Campanha/Missão</body>
 	</string>
 	<string>
 		<id>912654</id>
@@ -13749,27 +13749,27 @@
 	<string>
 		<id>912655</id>
 		<name>STR_QUEST_INDICATOR_DIALOG__TELEPORT</name>
-		<body>Teleport to destination</body>
+		<body>Teleportar para o destino</body>
 	</string>
 	<string>
 		<id>912656</id>
 		<name>STR_TOYPET_WAREHOUSE_DIALOG__TITLE</name>
-		<body>Integrated Sacola do Mascote</body>
+		<body>Sacola do Mascote Integrada</body>
 	</string>
 	<string>
 		<id>912657</id>
 		<name>STR_TOYPET_WAREHOUSE_DIALOG__SORT</name>
-		<body>&lt;html&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_title&quot;&gt;Automatically arrange&lt;/font&gt;&#xA;&lt;br&gt;&lt;br&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_body&quot;&gt;Automatically arranges all items within integrated pet bags.&lt;font color=&quot;62C15B&quot;&gt;Locked bags are excluded from this.&lt;/font&gt;&#xA;&lt;/html&gt;</body>
+		<body>&lt;html&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_title&quot;&gt;Organizar automaticamente&lt;/font&gt;&#xA;&lt;br&gt;&lt;br&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_body&quot;&gt;Organiza automaticamente todos os itens dentro de sacolas integradas de mascotes.&lt;font color=&quot;62C15B&quot;&gt;Sacolas 'trancadas' não serão organizadas.&lt;/font&gt;&#xA;&lt;/html&gt;</body>
 	</string>
 	<string>
 		<id>912658</id>
 		<name>STR_TOYPET_WAREHOUSE_DIALOG__CUBE</name>
-		<body>&lt;html&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_title&quot;&gt;Inventory (cube)&lt;/font&gt;&#xA;&lt;br&gt;&lt;br&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_body&quot;&gt;Open and close your character’s inventory (cube).&lt;/font&gt;&#xA;&lt;/html&gt;</body>
+		<body>&lt;html&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_title&quot;&gt;Inventário (cubo)&lt;/font&gt;&#xA;&lt;br&gt;&lt;br&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_body&quot;&gt;Abre e fecha o inventário do seu personagem (cubo).&lt;/font&gt;&#xA;&lt;/html&gt;</body>
 	</string>
 	<string>
 		<id>912659</id>
 		<name>STR_TOYPET_WAREHOUSE_DIALOG__LOCK</name>
-		<body>&lt;html&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_title&quot;&gt;Lock automatic arrangement&lt;/font&gt;&#xA;&lt;br&gt;&lt;br&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_body&quot;&gt;Activates/deactivates this function. Locked bags will not be automatically arranged.&lt;/font&gt;&#xA;&lt;/html&gt;</body>
+		<body>&lt;html&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_title&quot;&gt;Bloquear organização automática&lt;/font&gt;&#xA;&lt;br&gt;&lt;br&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_body&quot;&gt;Ativa/desativa esta função. Sacolas trancadas não serão organizadas automaticamente.&lt;/font&gt;&#xA;&lt;/html&gt;</body>
 	</string>
 	<string>
 		<id>912661</id>
@@ -13849,47 +13849,47 @@
 	<string>
 		<id>912676</id>
 		<name>STR_INDUN_DIALOG__GO_TO_POSITION</name>
-		<body>View Location</body>
+		<body>Ver Localização</body>
 	</string>
 	<string>
 		<id>912677</id>
 		<name>STR_DIALOG__TOOLTIP_INDUN_GUIDE</name>
-		<body>Check Instância Entry</body>
+		<body>Verificar Entrada de Instância</body>
 	</string>
 	<string>
 		<id>912678</id>
 		<name>STR_INVENTORY_DIALOG_EXTRA_INVENTORY</name>
-		<body>Extra Cube</body>
+		<body>Cubo Adicional</body>
 	</string>
 	<string>
 		<id>912679</id>
 		<name>STR_INVENTORY_DIALOG_TOOLTIP_EXTRA_INVENTORY</name>
-		<body>&lt;html&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_title&quot;&gt;Extra Cube&lt;/font&gt;&#xA;&lt;br&gt;&lt;br&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_body&quot;&gt;An exclusive inventory for quests, coins, medals and event items.&lt;/font&gt;&#xA;&lt;/html&gt;</body>
+		<body>&lt;html&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_title&quot;&gt;Cubo Adicional&lt;/font&gt;&#xA;&lt;br&gt;&lt;br&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_body&quot;&gt;Um inventário exclusivo para missões, moedas, medalhas e itens de evento.&lt;/font&gt;&#xA;&lt;/html&gt;</body>
 	</string>
 	<string>
 		<id>912680</id>
 		<name>STR_TOYPET_WAREHOUSE_DIALOG__ACTIVATE</name>
-		<body>&lt;html&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_title&quot;&gt;Activate bag&lt;/font&gt;&#xA;&lt;br&gt;&lt;br&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_body&quot;&gt;Invocar a pet with a bag and fill it up.&lt;/font&gt;&#xA;&lt;/html&gt;</body>
+		<body>&lt;html&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_title&quot;&gt;Ativar sacola&lt;/font&gt;&#xA;&lt;br&gt;&lt;br&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_body&quot;&gt;Invoca um mascote com uma sacola.&lt;/font&gt;&#xA;&lt;/html&gt;</body>
 	</string>
 	<string>
 		<id>912681</id>
 		<name>STR_TOYPET_DIALOG__WAREHOUSE_BUTTON</name>
-		<body>&lt;html&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_title&quot;&gt;Integrated pet bag&lt;/font&gt;&#xA;&lt;br&gt;&lt;br&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_body&quot;&gt;Todos bags of an adopted pet can be viewed. Only summoned pets can use bags.&lt;/font&gt;&#xA;&lt;/html&gt;</body>
+		<body>&lt;html&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_title&quot;&gt;Sacola integrada do mascote&lt;/font&gt;&#xA;&lt;br&gt;&lt;br&gt;&#xA;&lt;font font_xml = &quot;tooltip_guide_body&quot;&gt;Todas as sacolas dos mascotes adotados podem ser visualizadas. Precisa invocar um mascote para usar a sacola.&lt;/font&gt;&#xA;&lt;/html&gt;</body>
 	</string>
 	<string>
 		<id>912682</id>
 		<name>STR_RANK_DIALOG__RANK_BADGE_DURATION_TIME</name>
-		<body>Tempo restante for badge: </body>
+		<body>Tempo restante para o selo: </body>
 	</string>
 	<string>
 		<id>912683</id>
 		<name>STR_LUCKYDICE_DIALOG_END</name>
-		<body>You have used up your maximum number of game restarts.</body>
+		<body>Você esgotou seu número máximo de reinícios de jogo.</body>
 	</string>
 	<string>
 		<id>912684</id>
 		<name>STR_MAILBOX_DIALOG__TAKEALL</name>
-		<body>Take all</body>
+		<body>Pegar Todos</body>
 	</string>
 	<string>
 		<id>912685</id>
@@ -13904,7 +13904,7 @@
 	<string>
 		<id>912687</id>
 		<name>STR_VENDOR_WORLD_DIALOG__TAB_ITEM</name>
-		<body>Items</body>
+		<body>Itens</body>
 	</string>
 	<string>
 		<id>912688</id>
@@ -13914,37 +13914,37 @@
 	<string>
 		<id>912689</id>
 		<name>STR_VENDOR_WORLD_DIALOG__TAB_INCOME</name>
-		<body>Revenues</body>
+		<body>Receitas</body>
 	</string>
 	<string>
 		<id>912690</id>
 		<name>STR_VENDOR_WORLD_DIALOG__TAB_INCOME_RECORD</name>
-		<body>Bill details</body>
+		<body>Detalhes da fatura</body>
 	</string>
 	<string>
 		<id>912691</id>
 		<name>STR_VENDOR_WORLD_DIALOG__COLUMN_KINA</name>
-		<body>Kinah Goods</body>
+		<body>Bens de Kinah</body>
 	</string>
 	<string>
 		<id>912692</id>
 		<name>STR_VENDOR_WORLD_DIALOG__COLUMN_ITEM</name>
-		<body>Items</body>
+		<body>Itens</body>
 	</string>
 	<string>
 		<id>912693</id>
 		<name>STR_VENDOR_WORLD_DIALOG__COLUMN_SALE_PRICE</name>
-		<body>Sale Preço</body>
+		<body>Preço de Venda</body>
 	</string>
 	<string>
 		<id>912694</id>
 		<name>STR_VENDOR_WORLD_DIALOG__COLUMN_INCOME_PRICE</name>
-		<body>Revenue</body>
+		<body>Receitas</body>
 	</string>
 	<string>
 		<id>912695</id>
 		<name>STR_VENDOR_WORLD_DIALOG__COLUMN_KINA_PRICE_PIECE</name>
-		<body>Quantidade in 10 million</body>
+		<body>Quantidade em 10 milhões</body>
 	</string>
 	<string>
 		<id>912696</id>
@@ -13954,17 +13954,17 @@
 	<string>
 		<id>912697</id>
 		<name>STR_VENDOR_WORLD_DIALOG__COLUMN_DEADLINE</name>
-		<body>End Hora</body>
+		<body>Fim do tempo</body>
 	</string>
 	<string>
 		<id>912698</id>
 		<name>STR_VENDOR_WORLD_DIALOG__COLUMN_SALE_DATE</name>
-		<body>Sales Hour</body>
+		<body>Horário de Vendas</body>
 	</string>
 	<string>
 		<id>912699</id>
 		<name>STR_VENDOR_WORLD_DIALOG__REGISTRATION_AMOUNT</name>
-		<body>Quantidade registered</body>
+		<body>Quantidade registrada</body>
 	</string>
 	<string>
 		<id>912700</id>
@@ -13979,27 +13979,27 @@
 	<string>
 		<id>912702</id>
 		<name>STR_VENDOR_WORLD_DIALOG__INCOME_EXE_BUTTON</name>
-		<body>Revenues</body>
+		<body>Receitas</body>
 	</string>
 	<string>
 		<id>912703</id>
 		<name>STR_VENDOR_WORLD_DIALOG__SALE_CANCLE_BUTTON</name>
-		<body>Cancelar sale</body>
+		<body>Cancelar Venda</body>
 	</string>
 	<string>
 		<id>912704</id>
 		<name>STR_VENDOR_WORLD_DIALOG__SALE_KINA_BUTTON</name>
-		<body>Entrar Kinah</body>
+		<body>Digitar Kinah</body>
 	</string>
 	<string>
 		<id>912705</id>
 		<name>STR_VENDOR_WORLD_DIALOG__RACE_VIEW_CHECK</name>
-		<body>Per Faction</body>
+		<body>Por Facção</body>
 	</string>
 	<string>
 		<id>912706</id>
 		<name>STR_VENDOR_WORLD_DIALOG__FEE_TITLE</name>
-		<body>Registration costs:</body>
+		<body>Custos de registro:</body>
 	</string>
 	<string>
 		<id>912707</id>
@@ -14009,12 +14009,12 @@
 	<string>
 		<id>912708</id>
 		<name>STR_VENDOR_WORLD_DIALOG__REGISTRATION_TOTAL_PRICE</name>
-		<body>Estimated Preço</body>
+		<body>Preço Estimado</body>
 	</string>
 	<string>
 		<id>912709</id>
 		<name>STR_VENDOR_WORLD_DIALOG__INCOME_TOTAL_PRICE_DESC</name>
-		<body>Total Revenue</body>
+		<body>Rendimento total</body>
 	</string>
 	<string>
 		<id>912710</id>
@@ -14024,17 +14024,17 @@
 	<string>
 		<id>912711</id>
 		<name>STR_VENDOR_WORLD_DIALOG__BUY_ITEM_TITLE</name>
-		<body>Purchasing Items</body>
+		<body>Itens de compra</body>
 	</string>
 	<string>
 		<id>912712</id>
 		<name>STR_VENDOR_WORLD_DIALOG__MY_QUNA_TITLE</name>
-		<body>Your Luna</body>
+		<body>Sua Quna</body>
 	</string>
 	<string>
 		<id>912713</id>
 		<name>STR_VENDOR_WORLD_DIALOG__PURCHASE_MSG</name>
-		<body>Do you want to complete the purchase?</body>
+		<body>Deseja concluir a compra?</body>
 	</string>
 	<string>
 		<id>912714</id>
@@ -14049,87 +14049,87 @@
 	<string>
 		<id>912716</id>
 		<name>STR_VENDOR_WORLD_DIALOG__SALE_AMOUNT_TITLE</name>
-		<body>Sale Quantidade</body>
+		<body>Valor de venda</body>
 	</string>
 	<string>
 		<id>912717</id>
 		<name>STR_VENDOR_WORLD_DIALOG__KINA_AMOUNT_ADD_10M</name>
-		<body>10 million Kinah</body>
+		<body>10 milhões de Kinah</body>
 	</string>
 	<string>
 		<id>912718</id>
 		<name>STR_VENDOR_WORLD_DIALOG__KINA_AMOUNT_ADD_50M</name>
-		<body>50 million Kinah</body>
+		<body>50 milhões de Kinah</body>
 	</string>
 	<string>
 		<id>912719</id>
 		<name>STR_VENDOR_WORLD_DIALOG__KINA_AMOUNT_ADD_1HM</name>
-		<body>100 million Kinah</body>
+		<body>100 milhões de Kinah</body>
 	</string>
 	<string>
 		<id>912720</id>
 		<name>STR_VENDOR_WORLD_DIALOG__KINA_AMOUNT_ADD_BILLION</name>
-		<body>1 billion Kinah</body>
+		<body>1 bilhão de Kinah</body>
 	</string>
 	<string>
 		<id>912721</id>
 		<name>STR_VENDOR_WORLD_DIALOG__FEE_INFO</name>
-		<body>Fee Info</body>
+		<body>Informações sobre taxas</body>
 	</string>
 	<string>
 		<id>912722</id>
 		<name>STR_VENDOR_WORLD_DIALOG__FEE_STEP</name>
-		<body>Instalment</body>
+		<body>Prestação</body>
 	</string>
 	<string>
 		<id>912723</id>
 		<name>STR_VENDOR_WORLD_DIALOG__FEE_REGISTRATION</name>
-		<body>Registration costs</body>
+		<body>Custos de registro</body>
 	</string>
 	<string>
 		<id>912724</id>
 		<name>STR_VENDOR_WORLD_DIALOG__FEE_ACCOUNT</name>
-		<body>Revenue Fee</body>
+		<body>Taxa da receita</body>
 	</string>
 	<string>
 		<id>912725</id>
 		<name>STR_VENDOR_WORLD_DIALOG__SALE_PRICE_MSG</name>
-		<body>Entrar the sale price.</body>
+		<body>Digite o preço de venda.</body>
 	</string>
 	<string>
 		<id>912726</id>
 		<name>STR_VENDOR_WORLD_DIALOG__TOTAL_SALE_DESC</name>
-		<body>&lt;Sale amount&gt;&#xA;Vender everything within the registered amount</body>
+		<body>&lt;Valor da venda&gt;&#xA;Vender tudo dentro do valor registrado</body>
 	</string>
 	<string>
 		<id>912727</id>
 		<name>STR_VENDOR_WORLD_DIALOG__TOTAL_SALE_KINA_DESC</name>
-		<body>&lt;Registration limit&gt;&#xA;Limited to 1 billion per week</body>
+		<body>&lt;Limite de registro&gt;&#xA;Limitado a 1 bilhão por semana</body>
 	</string>
 	<string>
 		<id>912728</id>
 		<name>STR_VENDOR_WORLD_DIALOG__KINA_AMOUNT_MSG</name>
-		<body>Choose a Kinah amount you want to sell.</body>
+		<body>Escolha um valor de Kinah que deseja vender.</body>
 	</string>
 	<string>
 		<id>912729</id>
 		<name>STR_VENDOR_WORLD_DIALOG__SALE_CHECK</name>
-		<body>Confirm</body>
+		<body>Confirmar</body>
 	</string>
 	<string>
 		<id>912730</id>
 		<name>STR_VENDOR_WORLD_DIALOG__SAKE_CHECK_MSG</name>
-		<body>Registrar the item for sale?</body>
+		<body>Registrar o item para venda?</body>
 	</string>
 	<string>
 		<id>912731</id>
 		<name>STR_VENDOR_WORLD_DIALOG__KINA_PRICE_PIECE_INFO</name>
-		<body>Preço information (per 10 million Kinah)</body>
+		<body>Informação de preço (por 10 milhões de Kinah)</body>
 	</string>
 	<string>
 		<id>912732</id>
 		<name>STR_VENDOR_WORLD_DIALOG__ITEM_PRICE_PIECE</name>
-		<body>Preço information (per piece)</body>
+		<body>Informação de preço (por peça)</body>
 	</string>
 	<string>
 		<id>912734</id>
@@ -14139,12 +14139,12 @@
 	<string>
 		<id>912735</id>
 		<name>STR_VENDOR_WORLD_DIALOG__PURCHASE_PRICE</name>
-		<body>Purchase Preço</body>
+		<body>Preço de compra</body>
 	</string>
 	<string>
 		<id>912736</id>
 		<name>STR_VENDOR_WORLD_DIALOG__PURCHASE_AMOUNT</name>
-		<body>Purchase Quantidade</body>
+		<body>Quantidade de compra</body>
 	</string>
 	<string>
 		<id>912737</id>
@@ -14164,42 +14164,42 @@
 	<string>
 		<id>912741</id>
 		<name>STR_VENDOR_WORLD_DIALOG__QINA_QUICK_TITLE</name>
-		<body>Set Kinah Quantidade</body>
+		<body>Definir valor de Kinah</body>
 	</string>
 	<string>
 		<id>912743</id>
 		<name>STR_VENDOR_WORLD_DIALOG__PAPER_DOLL_GUIDE</name>
-		<body>Equipped items can be viewed by pressing CTRL + left-clicking the icon under [Preview].</body>
+		<body>Os itens equipados podem ser visualizados pressionando CTRL + clique esquerdo no ícone em [Visualização].</body>
 	</string>
 	<string>
 		<id>912744</id>
 		<name>STR_VENDOR_WORLD_DIALOG__QINA_BOX_GUIDE</name>
-		<body>The bought Kinah are placed in your inventory (cube) as a bundle.</body>
+		<body>Os Kinah comprados são colocados em seu inventário (cubo) como um pacote.</body>
 	</string>
 	<string>
 		<id>912745</id>
 		<name>STR_VENDOR_WORLD_DIALOG__REGISTRATION_NOTICE</name>
-		<body>You can register items by right-clicking or dragging them into the window.</body>
+		<body>Você pode registrar itens clicando com o botão direito do mouse ou arrastando-os para a janela.</body>
 	</string>
 	<string>
 		<id>912746</id>
 		<name>STR_VENDOR_WORLD_DIALOG__INCOME_TIP</name>
-		<body>A revenue calculation is created for the last 28 days.</body>
+		<body>Um cálculo de receita é criado para os últimos 28 dias.</body>
 	</string>
 	<string>
 		<id>912747</id>
 		<name>STR_VENDOR_WORLD_DIALOG__NO_QINA_MSG</name>
-		<body>No registered sales items available.</body>
+		<body>Nenhum item de venda registrado disponível.</body>
 	</string>
 	<string>
 		<id>912748</id>
 		<name>STR_VENDOR_WORLD_DIALOG__NO_RECORD_MSG</name>
-		<body>No revenue available in the past 28 days.</body>
+		<body>Nenhuma receita disponível nos últimos 28 dias.</body>
 	</string>
 	<string>
 		<id>912749</id>
 		<name>STR_VENDOR_WORLD_DIALOG__ACCOUNT_TIP</name>
-		<body>A fee will be applied to the instalments at the time of registration.</body>
+		<body>Será cobrada uma taxa nas parcelas no ato da inscrição.</body>
 	</string>
 	<string>
 		<id>912879</id>
@@ -14209,6 +14209,6 @@
 	<string>
 		<id>912880</id>
 		<name>STR_CHAR_LINK_DIALOG__ADD_BUDDY</name>
-		<body>Add Friend</body>
+		<body>Adicionar Amigo</body>
 	</string>
 </strings>
