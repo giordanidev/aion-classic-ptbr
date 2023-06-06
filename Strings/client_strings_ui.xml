@@ -2904,7 +2904,7 @@
 	<string>
 		<id>900059</id>
 		<name>STR_KEYMAP_CAMNORMALIZE</name>
-		<body>Olhar para o ângulo oposto</body>
+		<body>Olhar para o lado oposto</body>
 	</string>
 	<string>
 		<id>900060</id>
@@ -11973,7 +11973,7 @@
 	<string>
 		<id>902016</id>
 		<name>STR_KEYMAP_TITLE_FLYMODE</name>
-		<body>Fly</body>
+		<body>Voar</body>
 	</string>
 	<string>
 		<id>902017</id>
@@ -32799,57 +32799,57 @@
 	<string>
 		<id>906996</id>
 		<name>STR_EQUIPMENT_CHANGE_NAME_0</name>
-		<body>Set 1</body>
+		<body>Equipamento 1</body>
 	</string>
 	<string>
 		<id>906997</id>
 		<name>STR_EQUIPMENT_CHANGE_NAME_1</name>
-		<body>Set 2</body>
+		<body>Equipamento 2</body>
 	</string>
 	<string>
 		<id>906998</id>
 		<name>STR_EQUIPMENT_CHANGE_NAME_2</name>
-		<body>Set 3</body>
+		<body>Equipamento 3</body>
 	</string>
 	<string>
 		<id>906999</id>
 		<name>STR_EQUIPMENT_CHANGE_NAME_3</name>
-		<body>Set 4</body>
+		<body>Equipamento 4</body>
 	</string>
 	<string>
 		<id>907000</id>
 		<name>STR_EQUIPMENT_CHANGE_NAME_4</name>
-		<body>Set 5</body>
+		<body>Equipamento 5</body>
 	</string>
 	<string>
 		<id>907001</id>
 		<name>STR_EQUIPMENT_CHANGE_SAVE_CONFIRM</name>
-		<body>The settings for the Equipment Set have been changed. Save?</body>
+		<body>As configurações do Conjunto de Equipamentos foram alteradas. Salvar?</body>
 	</string>
 	<string>
 		<id>907002</id>
 		<name>STR_TOOLTIP_EQUIPMENT_CHANGE_NO_ITEM</name>
-		<body>No item registered.</body>
+		<body>Nenhum item cadastrado.</body>
 	</string>
 	<string>
 		<id>907003</id>
 		<name>STR_TOOLTIP_EQUIPMENT_CHANGE_HELP</name>
-		<body>You can switch to the selected equipment by right-clicking the equipment list or after registering it in the Quickbar.</body>
+		<body>Você pode mudar para o equipamento selecionado clicando com o botão direito na lista de equipamentos ou após registrá-lo na barra.</body>
 	</string>
 	<string>
 		<id>907004</id>
 		<name>STR_ITEM_REPLACE_NEED_MAX_VALUE_ITEM</name>
-		<body>Up to %0</body>
+		<body>Até %0</body>
 	</string>
 	<string>
 		<id>907005</id>
 		<name>STR_EQUIPMENT_CHANGE_CANT_FIND_ITEM</name>
-		<body>This item is not in your inventory.</body>
+		<body>Este item não está em seu inventário.</body>
 	</string>
 	<string>
 		<id>907006</id>
 		<name>STR_INSTANT_DUNGEON_RESURRECT_IDPOGUSGAME</name>
-		<body>&lt;p align=&quot;left&quot;&gt;By clicking ‘OK’, you will immediately be returned to the Bind Point.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Wait Time: 10 seconds (%0 second(s) remaining)&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Ao clicar em 'OK', você retornará imediatamente no início da instância.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Tempo de espera: %0 segundos restantes&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>907007</id>
