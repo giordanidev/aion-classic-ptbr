@@ -9109,12 +9109,12 @@
 	<string>
 		<id>911711</id>
 		<name>STR_PARTY_MATCH_DIALOG__DELETE</name>
-		<body>Excluir Post</body>
+		<body>Excluir Grupo</body>
 	</string>
 	<string>
 		<id>911712</id>
 		<name>STR_PARTY_MATCH_DIALOG__OFFER_PARTY</name>
-		<body>Enviar Oferta</body>
+		<body>Montar Grupo</body>
 	</string>
 	<string>
 		<id>911713</id>
