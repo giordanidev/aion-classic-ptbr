@@ -19,11 +19,10 @@
 ## TRADUZIDO ##
 ###############
 \STRINGS
-client_strings_ui.xml (100%)
-stringtable_dialog.xml (100%)
-client_strings_msg.xml (parcialmente, em andamento)
-client_strings_item.xml (arrumado apostrofes)
-client_strings_item2.xml (arrumado valor pot mana e apostrofes)
+client_strings_ui.xml (parcialmente linha 28766)
+stringtable_dialog.xml (parcialmente)
+client_strings_msg.xml (parcialmente)
+client_strings_item2.xml (arrumado valor pot mana)
 
 \DIALOGS
 \\10000_19999

@@ -268,7 +268,7 @@
 	<string>
 		<id>80005</id>
 		<name>STR_GUILD_TRANSFER_GUILDMASTER</name>
-		<body>Você tem certeza que deseja transferir o 'Líder' da Legião para %0?</body>
+		<body>Você tem certeza que deseja transferir o Líder da Legião para %0?</body>
 	</string>
 	<string>
 		<id>80006</id>
@@ -313,7 +313,7 @@
 	<string>
 		<id>90002</id>
 		<name>STR_STIGMA_CONFIRM_EQUIP</name>
-		<body>Você vai precisar de %num0 'Fragmentos de Stigma' para equipar essa Stigma. Se você tiver '[Evento] Fragmentos de Stigma', então esses serão usados primeiro. Você tem certeza que deseja equipar essa Stigma? </body>
+		<body>Você vai precisar de %num0 Stigma Shards para equipar essa Stigma. Se você tiver [Event] Stigma Shard, então esses serão usados primeiro. Você tem certeza que deseja equipar essa Stigma? </body>
 	</string>
 	<string>
 		<id>90003</id>
@@ -338,7 +338,7 @@
 	<string>
 		<id>95000</id>
 		<name>STR_DECOMPOSE_ITEM_DO_YOU_EXTRACT_ITEM</name>
-		<body>&lt;p&gt;Você deseja extrair Pedras de Encantamento de '%0'?&lt;/p&gt;&#xA;&lt;p&gt;Após a conclusão &lt;font color=&quot;ff0000&quot;&gt;%0&lt;/font&gt; será &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDO&lt;/font&gt;.&lt;/p&gt;</body>
+		<body>&lt;p&gt;Você deseja extrair Pedras de Encantamento (Enchantment Stones) de '%0'?&lt;/p&gt;&#xA;&lt;p&gt;Após a conclusão &lt;font color=&quot;ff0000&quot;&gt;%0&lt;/font&gt; será &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDO&lt;/font&gt;.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>95001</id>
@@ -2499,7 +2499,7 @@
 	<string>
 		<id>240339</id>
 		<name>STR_UI_SEARCH_WISH_PARTY</name>
-		<body>Procurando grupo</body>
+		<body>Montando Grupo</body>
 	</string>
 	<string>
 		<id>240340</id>
@@ -2904,7 +2904,7 @@
 	<string>
 		<id>900059</id>
 		<name>STR_KEYMAP_CAMNORMALIZE</name>
-		<body>Olhar para o ângulo oposto</body>
+		<body>Olhar para o lado oposto</body>
 	</string>
 	<string>
 		<id>900060</id>
@@ -3971,12 +3971,12 @@
 	<string>
 		<id>900374</id>
 		<name>STR_ITEM_STAT_ENCHANT_STATE</name>
-		<body>Manastone socketing (for manastones of level %0 or lower)</body>
+		<body>Encaixe de manastone (para manastones de nível %0 ou inferior)</body>
 	</string>
 	<string>
 		<id>900375</id>
 		<name>STR_ITEM_USE_COUNT</name>
-		<body>Usage Count: %0/%1</body>
+		<body>Nro. de Usos: %0/%1</body>
 	</string>
 	<string>
 		<id>900376</id>
@@ -3986,7 +3986,7 @@
 	<string>
 		<id>900377</id>
 		<name>STR_CANCEL</name>
-		<body>Cancel</body>
+		<body>Cancelar</body>
 	</string>
 	<string>
 		<id>900378</id>
@@ -3996,32 +3996,32 @@
 	<string>
 		<id>900379</id>
 		<name>STR_WAREHOUSE_HOW_MANY</name>
-		<body>Please enter the quantity you want to store.</body>
+		<body>Por favor, insira a quantidade que deseja guardar.</body>
 	</string>
 	<string>
 		<id>900380</id>
 		<name>STR_WAREHOUSE_FEE</name>
-		<body>The storage fee is 0 Kinah.</body>
+		<body>A taxa de armazenamento é 0 Kinah.</body>
 	</string>
 	<string>
 		<id>900381</id>
 		<name>STR_WAREHOUSE_CONFIRM</name>
-		<body>The fee is 0 Kinah. Do you want to store it?</body>
+		<body>A taxa é de 0 Kinah. Deseja guardá-lo?</body>
 	</string>
 	<string>
 		<id>900382</id>
 		<name>STR_WAREHOUSE_LOW_FEE</name>
-		<body>You don&apos;t have enough Kinah to pay the storage fee.</body>
+		<body>Você não tem Kinah suficiente para pagar a taxa de armazenamento.</body>
 	</string>
 	<string>
 		<id>900383</id>
 		<name>STR_WAREHOUSE_CANT_DEPOSIT</name>
-		<body>You cannot store this in the warehouse.</body>
+		<body>Você não pode guardar isso no baú.</body>
 	</string>
 	<string>
 		<id>900384</id>
 		<name>STR_CONFIRM_DELETE_TITLE</name>
-		<body>Do you want to delete the selected title?</body>
+		<body>Deseja excluir o título selecionado?</body>
 	</string>
 	<string>
 		<id>900385</id>
@@ -4031,27 +4031,27 @@
 	<string>
 		<id>900386</id>
 		<name>STR_MSG_RESURRECT</name>
-		<body>Do you want to resurrect now?</body>
+		<body>Você quer ressuscitar agora?</body>
 	</string>
 	<string>
 		<id>900387</id>
 		<name>STR_MSG_RESURRECT_RP</name>
-		<body>Registered Point</body>
+		<body>Ponto Cadastrado</body>
 	</string>
 	<string>
 		<id>900388</id>
 		<name>STR_MSG_RESURRECT_SP</name>
-		<body>Starting Point</body>
+		<body>Ponto de Partida</body>
 	</string>
 	<string>
 		<id>900389</id>
 		<name>STR_MSG_ATTACK_DAMAGE</name>
-		<body>You inflicted %num1 damage on %0.</body>
+		<body>Você infligiu %num1 de dano em %0.</body>
 	</string>
 	<string>
 		<id>900390</id>
 		<name>STR_MSG_ATTACKED_DAMAGE</name>
-		<body>You received %num1 damage from %0.</body>
+		<body>Você recebeu %num1 de dano de %0.</body>
 	</string>
 	<string>
 		<id>900391</id>
@@ -4066,147 +4066,147 @@
 	<string>
 		<id>900393</id>
 		<name>STR_MSG_DELETE_CONFIRM</name>
-		<body>Are you sure you want to delete it?</body>
+		<body>Tem certeza de que deseja excluí-lo?</body>
 	</string>
 	<string>
 		<id>900394</id>
 		<name>STR_MSG_DESTROY_ITEM</name>
-		<body>Do you really want to &lt;font color=&quot;ff0000&quot;&gt;destroy&lt;/font&gt; &lt;font color=&quot;ff0000&quot;&gt;%0&lt;/font&gt;?</body>
+		<body>Você realmente deseja &lt;font color=&quot;ff0000&quot;&gt;EXCLUIR&lt;/font&gt; &lt;font color=&quot;ff0000&quot;&gt;%0&lt;/font&gt;?</body>
 	</string>
 	<string>
 		<id>900395</id>
 		<name>STR_MSG_ASK</name>
-		<body>Question</body>
+		<body>Pergunta</body>
 	</string>
 	<string>
 		<id>900396</id>
 		<name>STR_YES</name>
-		<body>Yes</body>
+		<body>Sim</body>
 	</string>
 	<string>
 		<id>900397</id>
 		<name>STR_NO</name>
-		<body>No</body>
+		<body>Não</body>
 	</string>
 	<string>
 		<id>900398</id>
 		<name>STR_PET_EXP_CUR</name>
-		<body>Current Mascote XP: Level %0. %</body>
+		<body>EXP do Mascote Atual: Nível %0. %</body>
 	</string>
 	<string>
 		<id>900399</id>
 		<name>STR_PET_EXP_AFT</name>
-		<body>Mascote XP after transfer: Level %0. %</body>
+		<body>EXP do Mascote após a transferência: Nível %0. %</body>
 	</string>
 	<string>
 		<id>900400</id>
 		<name>STR_PARTY_MENU_ALLI_LOOT</name>
-		<body>Distribute Cash to Alliance</body>
+		<body>Distribuir Kinah para a Aliança</body>
 	</string>
 	<string>
 		<id>900401</id>
 		<name>STR_PARTY_MENU_LOOT</name>
-		<body>Distribute %0 Cash to Group</body>
+		<body>Distribuir %0 Kinah para o Grupo</body>
 	</string>
 	<string>
 		<id>900402</id>
 		<name>STR_PARTY_MENU_RARE_LOOT</name>
-		<body>Group Distribution (Superior)</body>
+		<body>Distribuição do Grupo (Superior)</body>
 	</string>
 	<string>
 		<id>900403</id>
 		<name>STR_PARTY_MENU_CHANGE_LEADER</name>
-		<body>Assign Group Leader</body>
+		<body>Atribuir Líder do Grupo</body>
 	</string>
 	<string>
 		<id>900404</id>
 		<name>STR_PARTY_MENU_INVITE</name>
-		<body>Invite to Group</body>
+		<body>Convidar para Grupo</body>
 	</string>
 	<string>
 		<id>900405</id>
 		<name>STR_PARTY_MENU_BANISH</name>
-		<body>Ban from Group</body>
+		<body>Expulsar do Grupo</body>
 	</string>
 	<string>
 		<id>900406</id>
 		<name>STR_PARTY_MENU_QUIT</name>
-		<body>Leave Group</body>
+		<body>Sair do Grupo</body>
 	</string>
 	<string>
 		<id>900407</id>
 		<name>STR_PARTY_MENU_ALLI_INVITE</name>
-		<body>Invite to Alliance</body>
+		<body>Convidar para Aliança</body>
 	</string>
 	<string>
 		<id>900408</id>
 		<name>STR_PARTY_MENU_ALLI_QUIT</name>
-		<body>Leave Alliance</body>
+		<body>Sair da Aliança</body>
 	</string>
 	<string>
 		<id>900409</id>
 		<name>STR_PARTY_MENU_FREE</name>
-		<body>Free-for-All</body>
+		<body>Livre Para Todos</body>
 	</string>
 	<string>
 		<id>900410</id>
 		<name>STR_PARTY_MENU_ROUNDROBIN</name>
-		<body>Round-robin Loot</body>
+		<body>Rodízio</body>
 	</string>
 	<string>
 		<id>900411</id>
 		<name>STR_PARTY_MENU_LEADER</name>
-		<body>Leader</body>
+		<body>Líder</body>
 	</string>
 	<string>
 		<id>900412</id>
 		<name>STR_MAIL_CONFIRM_DEL_APPENDED</name>
-		<body>There is an item attached to the letter. Are you sure you want to delete it?</body>
+		<body>Há um item anexado ao mail. Tem certeza de que deseja excluí-lo?</body>
 	</string>
 	<string>
 		<id>900413</id>
 		<name>STR_PET_ATTACK</name>
-		<body>Attack</body>
+		<body>Ataque</body>
 	</string>
 	<string>
 		<id>900414</id>
 		<name>STR_PET_PROTECT</name>
-		<body>Move</body>
+		<body>Mover</body>
 	</string>
 	<string>
 		<id>900415</id>
 		<name>STR_PET_REST</name>
-		<body>Rest</body>
+		<body>Descansar</body>
 	</string>
 	<string>
 		<id>900416</id>
 		<name>STR_PET_RELEASE</name>
-		<body>OFF</body>
+		<body>Dispensar</body>
 	</string>
 	<string>
 		<id>900417</id>
 		<name>STR_MSG_FOLLOW_TARGET</name>
-		<body>Following</body>
+		<body>Seguindo</body>
 	</string>
 	<string>
 		<id>900418</id>
 		<name>STR_LOGOUT_TIME</name>
-		<body>Latest Logout Time</body>
+		<body>Último horário de logout</body>
 	</string>
 	<string>
 		<id>900419</id>
 		<name>STR_CREATE</name>
-		<body>Create</body>
+		<body>Criar</body>
 	</string>
 	<string>
 		<id>900420</id>
 		<name>STR_PREV</name>
-		<body>Previous</body>
+		<body>Anterior</body>
 	</string>
 	<string>
 		<id>900421</id>
 		<name>STR_NEXT</name>
-		<body>Next</body>
+		<body>Próximo</body>
 	</string>
 	<string>
 		<id>900422</id>
@@ -4221,7 +4221,7 @@
 	<string>
 		<id>900424</id>
 		<name>STR_DURATION</name>
-		<body>Duration</body>
+		<body>Duração</body>
 	</string>
 	<string>
 		<id>900425</id>
@@ -4236,12 +4236,12 @@
 	<string>
 		<id>900427</id>
 		<name>STR_SKILL_EXPERTNESS</name>
-		<body>Skill Level</body>
+		<body>Nível de habilidade</body>
 	</string>
 	<string>
 		<id>900428</id>
 		<name>STR_CLOTH</name>
-		<body>Clothes</body>
+		<body>Fantasia</body>
 	</string>
 	<string>
 		<id>900429</id>
@@ -4266,7 +4266,7 @@
 	<string>
 		<id>900433</id>
 		<name>STR_MATERIAL</name>
-		<body>Material Item</body>
+		<body>Item de Material</body>
 	</string>
 	<string>
 		<id>900434</id>
@@ -4281,52 +4281,52 @@
 	<string>
 		<id>900436</id>
 		<name>STR_GUILD_WRITE_NOTICE</name>
-		<body>Write Announcement</body>
+		<body>Escrever Anúncio</body>
 	</string>
 	<string>
 		<id>900437</id>
 		<name>STR_GUILD_COMMENT</name>
-		<body>Note</body>
+		<body>Observação</body>
 	</string>
 	<string>
 		<id>900438</id>
 		<name>STR_GUILD_INVITATION</name>
-		<body>Invite to Legion</body>
+		<body>Convidar para a Legião</body>
 	</string>
 	<string>
 		<id>900439</id>
 		<name>STR_OPTION_GLARE_TYPE1</name>
-		<body>Type 1</body>
+		<body>Tipo 1</body>
 	</string>
 	<string>
 		<id>900440</id>
 		<name>STR_OPTION_GLARE_TYPE2</name>
-		<body>Type 2</body>
+		<body>Tipo 2</body>
 	</string>
 	<string>
 		<id>900441</id>
 		<name>STR_OPTION_GLARE_TYPE3</name>
-		<body>Type 3</body>
+		<body>Tipo 3</body>
 	</string>
 	<string>
 		<id>900442</id>
 		<name>STR_QUEST_HTML_LOAD_FAILED</name>
-		<body>[Error: Could not open the html page containing the information on the quest (%0).]</body>
+		<body>[Erro: Não foi possível abrir a página html contendo as informações da missão (%0).]</body>
 	</string>
 	<string>
 		<id>900443</id>
 		<name>STR_QUEST_REWARD_BASIC</name>
-		<body>Basic Reward</body>
+		<body>Recompensa Básica</body>
 	</string>
 	<string>
 		<id>900444</id>
 		<name>STR_QUEST_REWARD_OPTIONAL</name>
-		<body>Additional Reward</body>
+		<body>Recompensa Adicional</body>
 	</string>
 	<string>
 		<id>900445</id>
 		<name>STR_QUEST_REWARD_OPTIONAL_TERM</name>
-		<body>(please select)</body>
+		<body>(por favor selecione)</body>
 	</string>
 	<string>
 		<id>900446</id>
@@ -4346,22 +4346,22 @@
 	<string>
 		<id>900449</id>
 		<name>STR_UNKNOWN</name>
-		<body>Unknown</body>
+		<body>Desconhecido</body>
 	</string>
 	<string>
 		<id>900450</id>
 		<name>STR_MAIL_REPLY</name>
-		<body>Re:</body>
+		<body>Resp:</body>
 	</string>
 	<string>
 		<id>900451</id>
 		<name>STR_PARTY_BUFF_DESC</name>
-		<body>%0 Level %1</body>
+		<body>%0 Nível %1</body>
 	</string>
 	<string>
 		<id>900452</id>
 		<name>STR_PARTY_BUFF_DESC_PLUS_CHAR</name>
-		<body>%0 Level %1: %2</body>
+		<body>%0 Nível %1: %2</body>
 	</string>
 	<string>
 		<id>900453</id>
@@ -4431,7 +4431,7 @@
 	<string>
 		<id>900466</id>
 		<name>STR_ITEM_ENCHANT_COUNT</name>
-		<body>Enchant Count</body>
+		<body>Nível de encantamento</body>
 	</string>
 	<string>
 		<id>900467</id>
@@ -4451,7 +4451,7 @@
 	<string>
 		<id>900470</id>
 		<name>STR_TOOLTIP_FLY_TIME</name>
-		<body>Tempo de Vôo</body>
+		<body>Tempo de Voo</body>
 	</string>
 	<string>
 		<id>900471</id>
@@ -4476,7 +4476,7 @@
 	<string>
 		<id>900475</id>
 		<name>STR_TOOLTIP_GAUGE_EXP</name>
-		<body>XP: %num0/%num1</body>
+		<body>EXP: %num0/%num1</body>
 	</string>
 	<string>
 		<id>900476</id>
@@ -4501,22 +4501,22 @@
 	<string>
 		<id>900480</id>
 		<name>STR_TOOLTIP_ATKDELAY_FAST</name>
-		<body>Arma Rápida %0 Strike(s)</body>
+		<body>Arma Rápida %0 Batida(s)</body>
 	</string>
 	<string>
 		<id>900481</id>
 		<name>STR_TOOLTIP_ATKDELAY_NORMAL</name>
-		<body>Arma %0 Strike(s)</body>
+		<body>Arma %0 Batida(s)</body>
 	</string>
 	<string>
 		<id>900482</id>
 		<name>STR_TOOLTIP_ATKDELAY_SLOW</name>
-		<body>Arma Lenta %0 Strike(s)</body>
+		<body>Arma Lenta %0 Batida(s)</body>
 	</string>
 	<string>
 		<id>900483</id>
 		<name>STR_TOOLTIP_ATKDELAY_VERYSLOW</name>
-		<body>Arma Muito Lenta %0 Strike(s)</body>
+		<body>Arma Muito Lenta %0 Batida(s)</body>
 	</string>
 	<string>
 		<id>900484</id>
@@ -4941,7 +4941,7 @@
 	<string>
 		<id>900568</id>
 		<name>STR_TOOLTIP_SKILL_STAT_MAXFLYTIME</name>
-		<body>Tempo de Vôo</body>
+		<body>Tempo de Voo</body>
 	</string>
 	<string>
 		<id>900569</id>
@@ -5431,7 +5431,7 @@
 	<string>
 		<id>900666</id>
 		<name>STR_GUILD_MENU_WORDS</name>
-		<body>Introdução</body>
+		<body>Definir Minha Introdução</body>
 	</string>
 	<string>
 		<id>900667</id>
@@ -6079,22 +6079,22 @@
 	<string>
 		<id>900797</id>
 		<name>STR_CRAFT_GRADE1</name>
-		<body>Amador</body>
+		<body>Amateur</body>
 	</string>
 	<string>
 		<id>900798</id>
 		<name>STR_CRAFT_GRADE2</name>
-		<body>Novato</body>
+		<body>Novice</body>
 	</string>
 	<string>
 		<id>900799</id>
 		<name>STR_CRAFT_GRADE3</name>
-		<body>Aprendiz</body>
+		<body>Apprentice</body>
 	</string>
 	<string>
 		<id>900800</id>
 		<name>STR_CRAFT_GRADE4</name>
-		<body>Artista</body>
+		<body>Journeyman</body>
 	</string>
 	<string>
 		<id>900801</id>
@@ -6369,37 +6369,37 @@
 	<string>
 		<id>900855</id>
 		<name>STR_MACRO_USE</name>
-		<body>/Use,/Usar</body>
+		<body>/Use</body>
 	</string>
 	<string>
 		<id>900856</id>
 		<name>STR_MACRO_SHORTCUT</name>
-		<body>/Quickbar,/Barra</body>
+		<body>/Quickbar</body>
 	</string>
 	<string>
 		<id>900857</id>
 		<name>STR_MACRO_DELAY</name>
-		<body>/Delay,/Atraso</body>
+		<body>/Delay</body>
 	</string>
 	<string>
 		<id>900858</id>
 		<name>STR_MACRO_CHAT_NORMAL</name>
-		<body>/Say,/Falar</body>
+		<body>/Say</body>
 	</string>
 	<string>
 		<id>900859</id>
 		<name>STR_MACRO_CHAT_GUILD</name>
-		<body>/Legion,/g,/Legiao</body>
+		<body>/Legion,/g</body>
 	</string>
 	<string>
 		<id>900860</id>
 		<name>STR_MACRO_CHAT_PARTY</name>
-		<body>/Group,/Grupo</body>
+		<body>/Group</body>
 	</string>
 	<string>
 		<id>900861</id>
 		<name>STR_MACRO_TARGET</name>
-		<body>/Select,/Selecionar</body>
+		<body>/Select</body>
 	</string>
 	<string>
 		<id>900862</id>
@@ -6709,7 +6709,7 @@
 	<string>
 		<id>900923</id>
 		<name>STR_SKILL_TOOLTIP_NON_CHAINED_CHAINSKILL_CUR</name>
-		<body>Sequência Especial de Habilidade (estatus atual)</body>
+		<body>Sequência Especial de Habilidade (status atual)</body>
 	</string>
 	<string>
 		<id>900924</id>
@@ -7024,7 +7024,7 @@
 	<string>
 		<id>900986</id>
 		<name>STR_SKILL_INFO_CHAINSKILL</name>
-		<body>Sequência de Habilidades</body>
+		<body>Sequência</body>
 	</string>
 	<string>
 		<id>900987</id>
@@ -7754,12 +7754,12 @@
 	<string>
 		<id>901164</id>
 		<name>STR_TOOLTIP_SKILL_STAT_MAX_FP</name>
-		<body>Tempo de Vôo</body>
+		<body>Tempo de Voo</body>
 	</string>
 	<string>
 		<id>901165</id>
 		<name>STR_TOOLTIP_SKILL_STAT_FP_REGEN</name>
-		<body>Cura Natural de Vôo</body>
+		<body>Cura Natural de Voo</body>
 	</string>
 	<string>
 		<id>901166</id>
@@ -8004,7 +8004,7 @@
 	<string>
 		<id>901214</id>
 		<name>STR_TOOLTIP_ITEM_CHANGE_SKIN</name>
-		<body>Modificar Aparência</body>
+		<body>Aparência modificada</body>
 	</string>
 	<string>
 		<id>901215</id>
@@ -8369,7 +8369,7 @@
 	<string>
 		<id>901287</id>
 		<name>STR_TOOLTIP_SKILL_STAT_FLYSPEED</name>
-		<body>Veloc. Vôo</body>
+		<body>Veloc. Voo</body>
 	</string>
 	<string>
 		<id>901288</id>
@@ -8934,12 +8934,12 @@
 	<string>
 		<id>901400</id>
 		<name>STR_CHAT_CMD_ALERT</name>
-		<body>/Alert</body>
+		<body>/Alert,/Alerta</body>
 	</string>
 	<string>
 		<id>901401</id>
 		<name>STR_CHAR_MODE_CMD_ALERT</name>
-		<body>/Alert</body>
+		<body>Alert,Alerta</body>
 	</string>
 	<string>
 		<id>901402</id>
@@ -8979,7 +8979,7 @@
 	<string>
 		<id>901409</id>
 		<name>STR_GAUGE_ITEM_DECOMPOSE</name>
-		<body>Extraíndo</body>
+		<body>Extraindo item</body>
 	</string>
 	<string>
 		<id>901412</id>
@@ -9054,7 +9054,7 @@
 	<string>
 		<id>901426</id>
 		<name>STR_UI_LOOT_REMAIN_TIME</name>
-		<body>Tempo restante: %0 seg</body>
+		<body>%0 segundos para decidir</body>
 	</string>
 	<string>
 		<id>901427</id>
@@ -9799,7 +9799,7 @@
 	<string>
 		<id>901575</id>
 		<name>STR_RESURRECT_TITLE_RP</name>
-		<body>Você está morto!</body>
+		<body>Concordar</body>
 	</string>
 	<string>
 		<id>901576</id>
@@ -10600,7 +10600,7 @@
 	<string>
 		<id>901741</id>
 		<name>STR_VENDOR_KIND_ENCHANT</name>
-		<body>Pedra de Encantamento</body>
+		<body>Enchantment Stone</body>
 	</string>
 	<string>
 		<id>901742</id>
@@ -11140,7 +11140,7 @@
 	<string>
 		<id>901849</id>
 		<name>STR_PARTY_MATCH_JOIN</name>
-		<body>Recrutar Grupo</body>
+		<body>Montando Grupo</body>
 	</string>
 	<string>
 		<id>901850</id>
@@ -11150,7 +11150,7 @@
 	<string>
 		<id>901851</id>
 		<name>STR_FORCE_MATCH_JOIN</name>
-		<body>Recrutar Aliança</body>
+		<body>Montando Aliança</body>
 	</string>
 	<string>
 		<id>901852</id>
@@ -11160,12 +11160,12 @@
 	<string>
 		<id>901853</id>
 		<name>STR_PARTY_MATCH_CREATE</name>
-		<body>Recrutar Grupo</body>
+		<body>Recrutando Grupo</body>
 	</string>
 	<string>
 		<id>901854</id>
 		<name>STR_FORCE_MATCH_CREATE</name>
-		<body>Recrutar Aliança</body>
+		<body>Recrutando Aliança</body>
 	</string>
 	<string>
 		<id>901855</id>
@@ -11603,12 +11603,12 @@
 	<string>
 		<id>901942</id>
 		<name>STR_INDUN_ENTER_NO_DELAY_TIME</name>
-		<body>Unlimited</body>
+		<body>Ilimitado</body>
 	</string>
 	<string>
 		<id>901943</id>
 		<name>STR_WINDOW_INDUN_COOLTIME</name>
-		<body>Instance Info</body>
+		<body>Informações da instância</body>
 	</string>
 	<string>
 		<id>901944</id>
@@ -11973,12 +11973,12 @@
 	<string>
 		<id>902016</id>
 		<name>STR_KEYMAP_TITLE_FLYMODE</name>
-		<body>Fly</body>
+		<body>Voar</body>
 	</string>
 	<string>
 		<id>902017</id>
 		<name>STR_WAIT_TO_CHARACTER_CHOICE</name>
-		<body>Indo para a seleção de personagem em %0 segundos.</body>
+		<body>Saindo para a tela de seleção de personagens em %0 segundos.</body>
 	</string>
 	<string>
 		<id>902018</id>
@@ -12483,12 +12483,12 @@
 	<string>
 		<id>902118</id>
 		<name>STR_PARTY_MATCH_SEEK_CREATE</name>
-		<body>Apply for Group</body>
+		<body>Procurando Grupo</body>
 	</string>
 	<string>
 		<id>902119</id>
 		<name>STR_FORCE_MATCH_SEEK_CREATE</name>
-		<body>Apply for Alliance</body>
+		<body>Procurando Alliance</body>
 	</string>
 	<string>
 		<id>902120</id>
@@ -12673,7 +12673,7 @@
 	<string>
 		<id>902156</id>
 		<name>STR_SKILL_INFO_LEARN_ENHANCED1_STIGMA</name>
-		<body>Greater Stigma</body>
+		<body>Stigma Avançada</body>
 	</string>
 	<string>
 		<id>902157</id>
@@ -12693,12 +12693,12 @@
 	<string>
 		<id>902160</id>
 		<name>STR_ENCHANT_ITEM_BASIC_OPTION_SLOT</name>
-		<body>Slots Primários de Manastone</body>
+		<body>Espaços Primários de Manastone</body>
 	</string>
 	<string>
 		<id>902161</id>
 		<name>STR_ENCHANT_ITEM_COMPOUNDED_OPTION_SLOT</name>
-		<body>Slots Combinados de Manastone</body>
+		<body>Espaços Combinados de Manastone</body>
 	</string>
 	<string>
 		<id>902162</id>
@@ -14546,17 +14546,17 @@
 	<string>
 		<id>902873</id>
 		<name>STR_CUSTOM_ANIM_TYPE_RUN</name>
-		<body>Correr</body>
+		<body>Correndo</body>
 	</string>
 	<string>
 		<id>902874</id>
 		<name>STR_CUSTOM_ANIM_TYPE_JUMP</name>
-		<body>Pular</body>
+		<body>Pulando</body>
 	</string>
 	<string>
 		<id>902875</id>
 		<name>STR_CUSTOM_ANIM_TYPE_REST</name>
-		<body>Sentar</body>
+		<body>Sentando</body>
 	</string>
 	<string>
 		<id>902876</id>
@@ -14566,12 +14566,12 @@
 	<string>
 		<id>902877</id>
 		<name>STR_CUSTOM_ANIM_DEFAULT_ANIM_NAME</name>
-		<body>Movimento %0 Padrão</body>
+		<body>Padrão</body>
 	</string>
 	<string>
 		<id>902878</id>
 		<name>STR_CUSTOM_ANIM_TYPE_DESC</name>
-		<body>Tipo de Movimento</body>
+		<body>Tipos de Movimentação</body>
 	</string>
 	<string>
 		<id>902879</id>
@@ -14581,7 +14581,7 @@
 	<string>
 		<id>902880</id>
 		<name>STR_CUSTOM_ANIM_CURRENT_ANIM_DESC</name>
-		<body>Movimento Atual</body>
+		<body>Efeito Atual</body>
 	</string>
 	<string>
 		<id>902881</id>
@@ -15076,7 +15076,7 @@
 	<string>
 		<id>903035</id>
 		<name>STR_SECONDPASSWORD_RANDOM_KEYPAD_WARNING</name>
-		<body>Observação: Os números mudam de posição a cada login.</body>
+		<body>Obs: Os números podem mudar de posição.</body>
 	</string>
 	<string>
 		<id>903036</id>
@@ -15341,7 +15341,7 @@
 	<string>
 		<id>903088</id>
 		<name>STR_GUILD_EVENT_BAN_MEMBER</name>
-		<body>Expulsar %0 da Legião</body>
+		<body>%0 foi expulso da Legião</body>
 	</string>
 	<string>
 		<id>903089</id>
@@ -15351,12 +15351,12 @@
 	<string>
 		<id>903090</id>
 		<name>STR_NEW_MAP_WHERE_OK</name>
-		<body>Locate</body>
+		<body>Localizar</body>
 	</string>
 	<string>
 		<id>903091</id>
 		<name>STR_NEW_MAP_WHERE_TITLE</name>
-		<body>Find Location</body>
+		<body>Encontrar Localização</body>
 	</string>
 	<string>
 		<id>903092</id>
@@ -18431,7 +18431,7 @@
 	<string>
 		<id>904128</id>
 		<name>STR_TOOLTIP_ACTIONKEY_EMERGENCY_ESCAPE</name>
-		<body>Retirar-se</body>
+		<body>Retornar/Emergência</body>
 	</string>
 	<string>
 		<id>904129</id>
@@ -18441,7 +18441,7 @@
 	<string>
 		<id>904130</id>
 		<name>STR_TOOLTIP_MAX_DIST_INFO</name>
-		<body>Ao menos %0 %1 / %2 %3m</body>
+		<body>%0 %1 / %2 %3m</body>
 	</string>
 	<string>
 		<id>904131</id>
@@ -18661,12 +18661,12 @@
 	<string>
 		<id>904174</id>
 		<name>STR_S1_Pass_Sesson_L_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>904175</id>
 		<name>STR_S1_Pass_Sesson_D_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>904176</id>
@@ -18731,7 +18731,7 @@
 	<string>
 		<id>904188</id>
 		<name>STR_S1_Pass_Weekly_06_DESC</name>
-		<body>Realize extrações em equipamentos para obter pedras de encantamento.</body>
+		<body>Realize extrações em equipamentos para obter Pedras de Encantamento (Enchantment Stones).</body>
 	</string>
 	<string>
 		<id>904189</id>
@@ -18776,12 +18776,12 @@
 	<string>
 		<id>904197</id>
 		<name>STR_S1_Pass_Sesson_08_L_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>904198</id>
 		<name>STR_S1_Pass_Sesson_08_D_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>904199</id>
@@ -19051,7 +19051,7 @@
 	<string>
 		<id>904252</id>
 		<name>STR_CLASSIC_ACCOUNT_MEMBERSHIP_REMAIN</name>
-		<body>Tempo de ativação do bilhete</body>
+		<body>Tempo de ativação do Ticket</body>
 	</string>
 	<string>
 		<id>904253</id>
@@ -19156,7 +19156,7 @@
 	<string>
 		<id>904273</id>
 		<name>STR_S1_Pass_Weekly_04_HTML</name>
-		<body>Use Pedras de Encantamento ou Manastones para melhorar um equipamento.</body>
+		<body>Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>904274</id>
@@ -19521,7 +19521,7 @@
 	<string>
 		<id>904346</id>
 		<name>STR_S2_Pass_Sesson_07</name>
-		<body>Derrote 5 Horned Roaches na ilha Black Cloud</body>
+		<body>Derrote 5 Horned Roaches na Black Cloud Island</body>
 	</string>
 	<string>
 		<id>904347</id>
@@ -19591,7 +19591,7 @@
 	<string>
 		<id>904360</id>
 		<name>STR_S2_Pass_Weekly_06_DESC</name>
-		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento.</body>
+		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento (Enchantment Stones).</body>
 	</string>
 	<string>
 		<id>904361</id>
@@ -19631,7 +19631,7 @@
 	<string>
 		<id>904368</id>
 		<name>STR_S2_Pass_Sesson_07_DESC</name>
-		<body>A ilha Black Cloud fica ao sul na parte superior do Abyss.</body>
+		<body>A Black Cloud Island fica ao sul na parte superior do Abyss.</body>
 	</string>
 	<string>
 		<id>904369</id>
@@ -19741,7 +19741,7 @@
 	<string>
 		<id>904390</id>
 		<name>STR_S2_Pass_Sesson_07_HTML</name>
-		<body>Horned Roaches apareceram de repente na sede dos Comerciantes da Black Cloud e estão causando comoção. Derrote 5 Horned Roaches na ilha Black Cloud. A ilha Black Cloud fica ao sul na parte superior do Abyss.</body>
+		<body>Horned Roaches apareceram de repente na sede dos Comerciantes da Black Cloud e estão causando comoção. Derrote 5 Horned Roaches na Black Cloud Island. A Black Cloud Island fica ao sul na parte superior do Abyss.</body>
 	</string>
 	<string>
 		<id>904391</id>
@@ -20021,7 +20021,7 @@
 	<string>
 		<id>904446</id>
 		<name>STR_S3_Pass_Weekly_06_DESC</name>
-		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento.</body>
+		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento (Enchantment Stones).</body>
 	</string>
 	<string>
 		<id>904447</id>
@@ -20201,7 +20201,7 @@
 	<string>
 		<id>904482</id>
 		<name>STR_S3_Pass_Sesson_09_HTML</name>
-		<body>[Padrão] Use Pedras de Encantamento ou Manastones para melhorar um equipamento.</body>
+		<body>[Padrão] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>904483</id>
@@ -20421,12 +20421,12 @@
 	<string>
 		<id>904526</id>
 		<name>STR_S3_Multi_Pass_Sesson_L_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>904527</id>
 		<name>STR_S3_Multi_Pass_Sesson_D_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>904528</id>
@@ -20491,7 +20491,7 @@
 	<string>
 		<id>904540</id>
 		<name>STR_S3_Multi_Pass_Weekly_06_DESC</name>
-		<body>Realize extrações em equipamentos para obter pedras de encantamento.</body>
+		<body>Realize extrações em equipamentos para obter Pedras de Encantamento (Enchantment Stones).</body>
 	</string>
 	<string>
 		<id>904541</id>
@@ -20536,12 +20536,12 @@
 	<string>
 		<id>904549</id>
 		<name>STR_S3_Multi_Pass_Sesson_L_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>904550</id>
 		<name>STR_S3_Multi_Pass_Sesson_D_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>904551</id>
@@ -20596,7 +20596,7 @@
 	<string>
 		<id>904561</id>
 		<name>STR_S3_Multi_Pass_Weekly_04_HTML</name>
-		<body>[Novato] Use Pedras de Encantamento ou Manastones para melhorar um equipamento.</body>
+		<body>[Novato] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>904562</id>
@@ -20636,7 +20636,7 @@
 	<string>
 		<id>904569</id>
 		<name>STR_S3_Multi_Pass_Sesson_05_HTML</name>
-		<body>[Novato] Derrote monstros em Reshanta with a level difference of less than 10.</body>
+		<body>[Novato] Derrote monstros em Reshanta com uma diferença de nível inferior a 10.</body>
 	</string>
 	<string>
 		<id>904570</id>
@@ -20886,7 +20886,7 @@
 	<string>
 		<id>904619</id>
 		<name>STR_S4_Pass_Weekly_06_DESC</name>
-		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento.</body>
+		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento (Enchantment Stones).</body>
 	</string>
 	<string>
 		<id>904620</id>
@@ -21066,7 +21066,7 @@
 	<string>
 		<id>904655</id>
 		<name>STR_S4_Pass_Sesson_09_HTML</name>
-		<body>[Padrão] Use Pedras de Encantamento ou Manastones para melhorar um equipamento.</body>
+		<body>[Padrão] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>904656</id>
@@ -21171,12 +21171,12 @@
 	<string>
 		<id>904676</id>
 		<name>STR_S4_Multi_Pass_Sesson_L_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>904677</id>
 		<name>STR_S4_Multi_Pass_Sesson_D_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>904678</id>
@@ -21241,7 +21241,7 @@
 	<string>
 		<id>904690</id>
 		<name>STR_S4_Multi_Pass_Weekly_06_DESC</name>
-		<body>Realize extrações em equipamentos para obter pedras de encantamento.</body>
+		<body>Realize extrações em equipamentos para obter Pedras de Encantamento (Enchantment Stones).</body>
 	</string>
 	<string>
 		<id>904691</id>
@@ -21286,12 +21286,12 @@
 	<string>
 		<id>904699</id>
 		<name>STR_S4_Multi_Pass_Sesson_L_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>904700</id>
 		<name>STR_S4_Multi_Pass_Sesson_D_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>904701</id>
@@ -21346,7 +21346,7 @@
 	<string>
 		<id>904711</id>
 		<name>STR_S4_Multi_Pass_Weekly_04_HTML</name>
-		<body>[Novato] Use Pedras de Encantamento ou Manastones para melhorar um equipamento.</body>
+		<body>[Novato] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>904712</id>
@@ -21386,7 +21386,7 @@
 	<string>
 		<id>904719</id>
 		<name>STR_S4_Multi_Pass_Sesson_05_HTML</name>
-		<body>[Novato] Derrote monstros em Reshanta with a level difference of less than 10.</body>
+		<body>[Novato] Derrote monstros em Reshanta com uma diferença de nível inferior a 10.</body>
 	</string>
 	<string>
 		<id>904720</id>
@@ -21596,7 +21596,7 @@
 	<string>
 		<id>904761</id>
 		<name>STR_S5_Pass_Weekly_06_DESC</name>
-		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento.</body>
+		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento (Enchantment Stones).</body>
 	</string>
 	<string>
 		<id>904762</id>
@@ -21776,7 +21776,7 @@
 	<string>
 		<id>904797</id>
 		<name>STR_S5_Pass_Sesson_09_HTML</name>
-		<body>[Padrão] Use Pedras de Encantamento ou Manastones para melhorar um equipamento.</body>
+		<body>[Padrão] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>904798</id>
@@ -21881,12 +21881,12 @@
 	<string>
 		<id>904818</id>
 		<name>STR_S5_Multi_Pass_Sesson_L_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>904819</id>
 		<name>STR_S5_Multi_Pass_Sesson_D_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>904820</id>
@@ -21951,7 +21951,7 @@
 	<string>
 		<id>904832</id>
 		<name>STR_S5_Multi_Pass_Weekly_06_DESC</name>
-		<body>Realize extrações em equipamentos para obter pedras de encantamento.</body>
+		<body>Realize extrações em equipamentos para obter Pedras de Encantamento (Enchantment Stones).</body>
 	</string>
 	<string>
 		<id>904833</id>
@@ -21996,12 +21996,12 @@
 	<string>
 		<id>904841</id>
 		<name>STR_S5_Multi_Pass_Sesson_L_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>904842</id>
 		<name>STR_S5_Multi_Pass_Sesson_D_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>904843</id>
@@ -22056,7 +22056,7 @@
 	<string>
 		<id>904853</id>
 		<name>STR_S5_Multi_Pass_Weekly_04_HTML</name>
-		<body>[Novato] Use Pedras de Encantamento ou Manastones para melhorar um equipamento.</body>
+		<body>[Novato] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>904854</id>
@@ -22096,7 +22096,7 @@
 	<string>
 		<id>904861</id>
 		<name>STR_S5_Multi_Pass_Sesson_05_HTML</name>
-		<body>[Novato] Derrote monstros em Reshanta with a level difference of less than 10.</body>
+		<body>[Novato] Derrote monstros em Reshanta com uma diferença de nível inferior a 10.</body>
 	</string>
 	<string>
 		<id>904862</id>
@@ -22391,7 +22391,7 @@
 	<string>
 		<id>904920</id>
 		<name>STR_S6_Pass_Weekly_06_DESC</name>
-		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento.</body>
+		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento (Enchantment Stones).</body>
 	</string>
 	<string>
 		<id>904921</id>
@@ -22571,7 +22571,7 @@
 	<string>
 		<id>904956</id>
 		<name>STR_S6_Pass_Sesson_09_HTML</name>
-		<body>[Padrão] Use Pedras de Encantamento ou Manastones para melhorar um equipamento.</body>
+		<body>[Padrão] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>904957</id>
@@ -22676,12 +22676,12 @@
 	<string>
 		<id>904977</id>
 		<name>STR_S6_Multi_Pass_Sesson_L_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>904978</id>
 		<name>STR_S6_Multi_Pass_Sesson_D_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>904979</id>
@@ -22746,7 +22746,7 @@
 	<string>
 		<id>904991</id>
 		<name>STR_S6_Multi_Pass_Weekly_06_DESC</name>
-		<body>Realize extrações em equipamentos para obter pedras de encantamento.</body>
+		<body>Realize extrações em equipamentos para obter Pedras de Encantamento (Enchantment Stones).</body>
 	</string>
 	<string>
 		<id>904992</id>
@@ -22791,12 +22791,12 @@
 	<string>
 		<id>905000</id>
 		<name>STR_S6_Multi_Pass_Sesson_L_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>905001</id>
 		<name>STR_S6_Multi_Pass_Sesson_D_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>905002</id>
@@ -22851,7 +22851,7 @@
 	<string>
 		<id>905012</id>
 		<name>STR_S6_Multi_Pass_Weekly_04_HTML</name>
-		<body>[Novato] Use Pedras de Encantamento ou Manastones para melhorar um equipamento.</body>
+		<body>[Novato] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>905013</id>
@@ -22891,7 +22891,7 @@
 	<string>
 		<id>905020</id>
 		<name>STR_S6_Multi_Pass_Sesson_05_HTML</name>
-		<body>[Novato] Derrote monstros em Reshanta with a level difference of less than 10.</body>
+		<body>[Novato] Derrote monstros em Reshanta com uma diferença de nível inferior a 10.</body>
 	</string>
 	<string>
 		<id>905021</id>
@@ -23096,7 +23096,7 @@
 	<string>
 		<id>905061</id>
 		<name>STR_S7_Pass_Weekly_06_DESC</name>
-		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento.</body>
+		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento (Enchantment Stones).</body>
 	</string>
 	<string>
 		<id>905062</id>
@@ -23276,7 +23276,7 @@
 	<string>
 		<id>905097</id>
 		<name>STR_S7_Pass_Sesson_09_HTML</name>
-		<body>[Padrão] Use Pedras de Encantamento ou Manastones para melhorar um equipamento.</body>
+		<body>[Padrão] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>905098</id>
@@ -23381,12 +23381,12 @@
 	<string>
 		<id>905118</id>
 		<name>STR_S7_Multi_Pass_Sesson_L_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>905119</id>
 		<name>STR_S7_Multi_Pass_Sesson_D_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>905120</id>
@@ -23451,7 +23451,7 @@
 	<string>
 		<id>905132</id>
 		<name>STR_S7_Multi_Pass_Weekly_06_DESC</name>
-		<body>Realize extrações em equipamentos para obter pedras de encantamento.</body>
+		<body>Realize extrações em equipamentos para obter Pedras de Encantamento (Enchantment Stones).</body>
 	</string>
 	<string>
 		<id>905133</id>
@@ -23496,12 +23496,12 @@
 	<string>
 		<id>905141</id>
 		<name>STR_S7_Multi_Pass_Sesson_L_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>905142</id>
 		<name>STR_S7_Multi_Pass_Sesson_D_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>905143</id>
@@ -23556,7 +23556,7 @@
 	<string>
 		<id>905153</id>
 		<name>STR_S7_Multi_Pass_Weekly_04_HTML</name>
-		<body>[Novato] Use Pedras de Encantamento ou Manastones para melhorar um equipamento.</body>
+		<body>[Novato] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>905154</id>
@@ -23596,7 +23596,7 @@
 	<string>
 		<id>905161</id>
 		<name>STR_S7_Multi_Pass_Sesson_05_HTML</name>
-		<body>[Novato] Derrote monstros em Reshanta with a level difference of less than 10.</body>
+		<body>[Novato] Derrote monstros em Reshanta com uma diferença de nível inferior a 10.</body>
 	</string>
 	<string>
 		<id>905162</id>
@@ -23906,7 +23906,7 @@
 	<string>
 		<id>905223</id>
 		<name>STR_S8_Pass_Weekly_06_DESC</name>
-		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento.</body>
+		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento (Enchantment Stones).</body>
 	</string>
 	<string>
 		<id>905224</id>
@@ -24086,7 +24086,7 @@
 	<string>
 		<id>905259</id>
 		<name>STR_S8_Pass_Sesson_09_HTML</name>
-		<body>[Padrão] Use Pedras de Encantamento ou Manastones para melhorar um equipamento.</body>
+		<body>[Padrão] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>905260</id>
@@ -24191,12 +24191,12 @@
 	<string>
 		<id>905280</id>
 		<name>STR_S8_Multi_Pass_Sesson_L_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>905281</id>
 		<name>STR_S8_Multi_Pass_Sesson_D_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>905282</id>
@@ -24261,7 +24261,7 @@
 	<string>
 		<id>905294</id>
 		<name>STR_S8_Multi_Pass_Weekly_06_DESC</name>
-		<body>Realize extrações em equipamentos para obter pedras de encantamento.</body>
+		<body>Realize extrações em equipamentos para obter Pedras de Encantamento (Enchantment Stones).</body>
 	</string>
 	<string>
 		<id>905295</id>
@@ -24306,12 +24306,12 @@
 	<string>
 		<id>905303</id>
 		<name>STR_S8_Multi_Pass_Sesson_L_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>905304</id>
 		<name>STR_S8_Multi_Pass_Sesson_D_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>905305</id>
@@ -24366,7 +24366,7 @@
 	<string>
 		<id>905315</id>
 		<name>STR_S8_Multi_Pass_Weekly_04_HTML</name>
-		<body>[Novato] Use Pedras de Encantamento ou Manastones para melhorar um equipamento.</body>
+		<body>[Novato] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>905316</id>
@@ -24406,7 +24406,7 @@
 	<string>
 		<id>905323</id>
 		<name>STR_S8_Multi_Pass_Sesson_05_HTML</name>
-		<body>[Novato] Derrote monstros em Reshanta with a level difference of less than 10.</body>
+		<body>[Novato] Derrote monstros em Reshanta com uma diferença de nível inferior a 10.</body>
 	</string>
 	<string>
 		<id>905324</id>
@@ -24636,7 +24636,7 @@
 	<string>
 		<id>905369</id>
 		<name>STR_S9_Pass_Weekly_06_DESC</name>
-		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento.</body>
+		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento (Enchantment Stones).</body>
 	</string>
 	<string>
 		<id>905370</id>
@@ -24816,7 +24816,7 @@
 	<string>
 		<id>905405</id>
 		<name>STR_S9_Pass_Sesson_09_HTML</name>
-		<body>[Padrão] Use Pedras de Encantamento ou Manastones para melhorar um equipamento.</body>
+		<body>[Padrão] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>905406</id>
@@ -24921,12 +24921,12 @@
 	<string>
 		<id>905426</id>
 		<name>STR_S9_Multi_Pass_Sesson_L_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>905427</id>
 		<name>STR_S9_Multi_Pass_Sesson_D_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>905428</id>
@@ -24991,7 +24991,7 @@
 	<string>
 		<id>905440</id>
 		<name>STR_S9_Multi_Pass_Weekly_06_DESC</name>
-		<body>Realize extrações em equipamentos para obter pedras de encantamento.</body>
+		<body>Realize extrações em equipamentos para obter Pedras de Encantamento (Enchantment Stones).</body>
 	</string>
 	<string>
 		<id>905441</id>
@@ -25036,12 +25036,12 @@
 	<string>
 		<id>905449</id>
 		<name>STR_S9_Multi_Pass_Sesson_L_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>905450</id>
 		<name>STR_S9_Multi_Pass_Sesson_D_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>905451</id>
@@ -25096,7 +25096,7 @@
 	<string>
 		<id>905461</id>
 		<name>STR_S9_Multi_Pass_Weekly_04_HTML</name>
-		<body>[Novato] Use Pedras de Encantamento ou Manastones para melhorar um equipamento.</body>
+		<body>[Novato] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>905462</id>
@@ -25136,7 +25136,7 @@
 	<string>
 		<id>905469</id>
 		<name>STR_S9_Multi_Pass_Sesson_05_HTML</name>
-		<body>[Novato] Derrote monstros em Reshanta with a level difference of less than 10.</body>
+		<body>[Novato] Derrote monstros em Reshanta com uma diferença de nível inferior a 10.</body>
 	</string>
 	<string>
 		<id>905470</id>
@@ -25386,7 +25386,7 @@
 	<string>
 		<id>905519</id>
 		<name>STR_S9_Event_Pass_Weekly_01_HTML</name>
-		<body>[Event] Use Pedras de Encantamento ou Manastones para melhorar com sucesso um equipamento 5x</body>
+		<body>[Event] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar com sucesso um equipamento 5x</body>
 	</string>
 	<string>
 		<id>905520</id>
@@ -25496,7 +25496,7 @@
 	<string>
 		<id>905541</id>
 		<name>STR_UI_WARDROBE_EXTEND_MESSAGE_DEFAULT</name>
-		<body>Você pode &lt;br&gt;expandir o Wardrobe em 1 espaço por vez e ter no máximo &lt;font color=&quot;ffff00&quot;&gt;100 espaços&lt;/font&gt;.</body>
+		<body>Você pode expandir o Wardrobe em 1 espaço por vez e ter no máximo &lt;font color=&quot;ffff00&quot;&gt;100 espaços&lt;/font&gt;.</body>
 	</string>
 	<string>
 		<id>905542</id>
@@ -25742,7 +25742,7 @@
 	<string>
 		<id>905590</id>
 		<name>STR_S10_Pass_Weekly_06_DESC</name>
-		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento.</body>
+		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento (Enchantment Stones).</body>
 	</string>
 	<string>
 		<id>905591</id>
@@ -25922,7 +25922,7 @@
 	<string>
 		<id>905626</id>
 		<name>STR_S10_Pass_Sesson_09_HTML</name>
-		<body>[Padrão] Use Pedras de Encantamento ou Manastones para melhorar um equipamento.</body>
+		<body>[Padrão] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>905627</id>
@@ -26027,12 +26027,12 @@
 	<string>
 		<id>905647</id>
 		<name>STR_S10_Multi_Pass_Sesson_L_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>905648</id>
 		<name>STR_S10_Multi_Pass_Sesson_D_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>905649</id>
@@ -26097,7 +26097,7 @@
 	<string>
 		<id>905661</id>
 		<name>STR_S10_Multi_Pass_Weekly_06_DESC</name>
-		<body>Realize extrações em equipamentos para obter pedras de encantamento.</body>
+		<body>Realize extrações em equipamentos para obter Pedras de Encantamento (Enchantment Stones).</body>
 	</string>
 	<string>
 		<id>905662</id>
@@ -26142,12 +26142,12 @@
 	<string>
 		<id>905670</id>
 		<name>STR_S10_Multi_Pass_Sesson_L_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>905671</id>
 		<name>STR_S10_Multi_Pass_Sesson_D_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>905672</id>
@@ -26202,7 +26202,7 @@
 	<string>
 		<id>905682</id>
 		<name>STR_S10_Multi_Pass_Weekly_04_HTML</name>
-		<body>[Novato] Use Pedras de Encantamento ou Manastones para melhorar um equipamento.</body>
+		<body>[Novato] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>905683</id>
@@ -26242,7 +26242,7 @@
 	<string>
 		<id>905690</id>
 		<name>STR_S10_Multi_Pass_Sesson_05_HTML</name>
-		<body>[Novato] Derrote monstros em Reshanta with a level difference of less than 10.</body>
+		<body>[Novato] Derrote monstros em Reshanta com uma diferença de nível inferior a 10.</body>
 	</string>
 	<string>
 		<id>905691</id>
@@ -26447,7 +26447,7 @@
 	<string>
 		<id>905731</id>
 		<name>STR_S11_Pass_Weekly_06_DESC</name>
-		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento.</body>
+		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento (Enchantment Stones).</body>
 	</string>
 	<string>
 		<id>905732</id>
@@ -26732,12 +26732,12 @@
 	<string>
 		<id>905788</id>
 		<name>STR_S11_Multi_Pass_Sesson_L_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>905789</id>
 		<name>STR_S11_Multi_Pass_Sesson_D_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>905790</id>
@@ -26802,7 +26802,7 @@
 	<string>
 		<id>905802</id>
 		<name>STR_S11_Multi_Pass_Weekly_06_DESC</name>
-		<body>Realize extrações em equipamentos para obter pedras de encantamento.</body>
+		<body>Realize extrações em equipamentos para obter Pedras de Encantamento (Enchantment Stones).</body>
 	</string>
 	<string>
 		<id>905803</id>
@@ -26847,12 +26847,12 @@
 	<string>
 		<id>905811</id>
 		<name>STR_S11_Multi_Pass_Sesson_L_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>905812</id>
 		<name>STR_S11_Multi_Pass_Sesson_D_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>905813</id>
@@ -26907,7 +26907,7 @@
 	<string>
 		<id>905823</id>
 		<name>STR_S11_Multi_Pass_Weekly_04_HTML</name>
-		<body>[Novato] Use Pedras de Encantamento ou Manastones para melhorar um equipamento.</body>
+		<body>[Novato] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>905824</id>
@@ -26947,7 +26947,7 @@
 	<string>
 		<id>905831</id>
 		<name>STR_S11_Multi_Pass_Sesson_05_HTML</name>
-		<body>[Novato] Derrote monstros em Reshanta with a level difference of less than 10.</body>
+		<body>[Novato] Derrote monstros em Reshanta com uma diferença de nível inferior a 10.</body>
 	</string>
 	<string>
 		<id>905832</id>
@@ -27174,7 +27174,7 @@
 	<string>
 		<id>905876</id>
 		<name>STR_WORLD_S3_Pass_Sesson_07</name>
-		<body>[Padrão] Derrote 5 Horned Roaches na ilha Black Cloud</body>
+		<body>[Padrão] Derrote 5 Horned Roaches na Black Cloud Island</body>
 	</string>
 	<string>
 		<id>905877</id>
@@ -27244,7 +27244,7 @@
 	<string>
 		<id>905890</id>
 		<name>STR_WORLD_S3_Pass_Weekly_06_DESC</name>
-		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento.</body>
+		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento (Enchantment Stones).</body>
 	</string>
 	<string>
 		<id>905891</id>
@@ -27289,7 +27289,7 @@
 	<string>
 		<id>905899</id>
 		<name>STR_WORLD_S3_Pass_Sesson_07_DESC</name>
-		<body>A ilha Black Cloud fica ao sul na parte superior do Abyss.</body>
+		<body>A Black Cloud Island fica ao sul na parte superior do Abyss.</body>
 	</string>
 	<string>
 		<id>905900</id>
@@ -27404,7 +27404,7 @@
 	<string>
 		<id>905922</id>
 		<name>STR_S3_WORLD_Pass_Sesson_07_HTML</name>
-		<body>Horned Roaches apareceram de repente na sede dos Comerciantes da Black Cloud e estão causando comoção. Derrote 5 Horned Roaches na ilha Black Cloud. A ilha Black Cloud fica ao sul na parte superior do Abyss.</body>
+		<body>Horned Roaches apareceram de repente na sede dos Comerciantes da Black Cloud e estão causando comoção. Derrote 5 Horned Roaches na Black Cloud Island. A Black Cloud Island fica ao sul na parte superior do Abyss.</body>
 	</string>
 	<string>
 		<id>905923</id>
@@ -27759,7 +27759,7 @@
 	<string>
 		<id>905993</id>
 		<name>STR_S12_Pass_Weekly_06_DESC</name>
-		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento.</body>
+		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento (Enchantment Stones).</body>
 	</string>
 	<string>
 		<id>905994</id>
@@ -28044,12 +28044,12 @@
 	<string>
 		<id>906050</id>
 		<name>STR_S12_Multi_Pass_Sesson_L_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>906051</id>
 		<name>STR_S12_Multi_Pass_Sesson_D_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>906052</id>
@@ -28114,7 +28114,7 @@
 	<string>
 		<id>906064</id>
 		<name>STR_S12_Multi_Pass_Weekly_06_DESC</name>
-		<body>Realize extrações em equipamentos para obter pedras de encantamento.</body>
+		<body>Realize extrações em equipamentos para obter Pedras de Encantamento (Enchantment Stones).</body>
 	</string>
 	<string>
 		<id>906065</id>
@@ -28159,12 +28159,12 @@
 	<string>
 		<id>906073</id>
 		<name>STR_S12_Multi_Pass_Sesson_L_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>906074</id>
 		<name>STR_S12_Multi_Pass_Sesson_D_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>906075</id>
@@ -28219,7 +28219,7 @@
 	<string>
 		<id>906085</id>
 		<name>STR_S12_Multi_Pass_Weekly_04_HTML</name>
-		<body>[Novato] Use Pedras de Encantamento ou Manastones para melhorar um equipamento.</body>
+		<body>[Novato] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>906086</id>
@@ -28259,7 +28259,7 @@
 	<string>
 		<id>906093</id>
 		<name>STR_S12_Multi_Pass_Sesson_05_HTML</name>
-		<body>[Novato] Derrote monstros em Reshanta with a level difference of less than 10.</body>
+		<body>[Novato] Derrote monstros em Reshanta com uma diferença de nível inferior a 10.</body>
 	</string>
 	<string>
 		<id>906094</id>
@@ -28364,7 +28364,7 @@
 	<string>
 		<id>906114</id>
 		<name>STR_S12_Event_Pass_Daily_01_DESC</name>
-		<body>Complete this quest by logging in to AION Classic or by teleporting.</body>
+		<body>Conclua esta missão fazendo login no AION Classic ou teletransportando-se.</body>
 		<message_type>데바, 어서 와!</message_type>
 	</string>
 	<string>
@@ -28412,13 +28412,13 @@
 	<string>
 		<id>906122</id>
 		<name>STR_S12_Event_Pass_Sesson_L_02_DESC</name>
-		<body>In the settings, you can enable/disable the option to display ranks next to names.</body>
+		<body>Há uma opção nas configurações que você pode alternar para exibir os Ranks ao lado dos nomes.</body>
 		<message_type>마족 처치 50회</message_type>
 	</string>
 	<string>
 		<id>906123</id>
 		<name>STR_S12_Event_Pass_Sesson_D_02_DESC</name>
-		<body>In the settings, you can enable/disable the option to display ranks next to names.</body>
+		<body>Há uma opção nas configurações que você pode alternar para exibir os Ranks ao lado dos nomes.</body>
 		<message_type>천족 처치 50회</message_type>
 	</string>
 	<string>
@@ -28448,7 +28448,7 @@
 	<string>
 		<id>906128</id>
 		<name>STR_S12_Event_Pass_Daily_01_HTML</name>
-		<body>[Event] Logged in to Atreia</body>
+		<body>[Event] Entrou em Atreia</body>
 		<message_type>데바, 어서 와!</message_type>
 	</string>
 	<string>
@@ -28496,13 +28496,13 @@
 	<string>
 		<id>906136</id>
 		<name>STR_S12_Event_Pass_Sesson_L_02_HTML</name>
-		<body>In Reshanta, the chance of coming across the opposing faction is especially high.</body>
+		<body>In Há uma boa chance de você encontrar a facção inimiga em Reshanta.</body>
 		<message_type>마족 처치 50회</message_type>
 	</string>
 	<string>
 		<id>906137</id>
 		<name>STR_S12_Event_Pass_Sesson_D_02_HTML</name>
-		<body>In Reshanta, the chance of coming across the opposing faction is especially high.</body>
+		<body>In Há uma boa chance de você encontrar a facção inimiga em Reshanta.</body>
 		<message_type>천족 처치 50회</message_type>
 	</string>
 	<string>
@@ -28708,7 +28708,7 @@
 	<string>
 		<id>906177</id>
 		<name>STR_S5_WORLD_Pass_Weekly_06_DESC</name>
-		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento.</body>
+		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento (Enchantment Stones).</body>
 	</string>
 	<string>
 		<id>906178</id>
@@ -28888,7 +28888,7 @@
 	<string>
 		<id>906213</id>
 		<name>STR_S5_WORLD_Pass_Sesson_09_HTML</name>
-		<body>[Padrão] Use Pedras de Encantamento ou Manastones para melhorar um equipamento.</body>
+		<body>[Padrão] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>906214</id>
@@ -28913,7 +28913,7 @@
 	<string>
 		<id>906218</id>
 		<name>STR_S5_WORLD_Multi_Pass_Daily_04</name>
-		<body>[Daily] Welcome, Daeva!</body>
+		<body>[Daily] Bem-vindo(a), Daeva!</body>
 	</string>
 	<string>
 		<id>906219</id>
@@ -28933,17 +28933,17 @@
 	<string>
 		<id>906222</id>
 		<name>STR_S5_WORLD_Multi_Pass_Weekly_03</name>
-		<body>[Weekly] Use Enchantment Stones and Manastones 20x</body>
+		<body>[Weekly] Use Enchantment Stones e Manastones 20x</body>
 	</string>
 	<string>
 		<id>906223</id>
 		<name>STR_S5_WORLD_Multi_Pass_Weekly_04</name>
-		<body>[Weekly] Use scrolls 20x</body>
+		<body>[Weekly] Use pergaminhos 20x</body>
 	</string>
 	<string>
 		<id>906224</id>
 		<name>STR_S5_WORLD_Multi_Pass_Weekly_05</name>
-		<body>[Weekly] Enter instance 1x</body>
+		<body>[Weekly] Entre em instâncias 1x</body>
 	</string>
 	<string>
 		<id>906225</id>
@@ -28963,17 +28963,17 @@
 	<string>
 		<id>906228</id>
 		<name>STR_S5_WORLD_Multi_Pass_Sesson_04</name>
-		<body>[Season] Enter Fire Temple 1x</body>
+		<body>[Season] Entre em Fire Temple 1x</body>
 	</string>
 	<string>
 		<id>906229</id>
 		<name>STR_S5_WORLD_Multi_Pass_Sesson_05</name>
-		<body>[Season] Defeat 50 monsters in the Abyss</body>
+		<body>[Season] Derrote 50 monstros no Abyss</body>
 	</string>
 	<string>
 		<id>906230</id>
 		<name>STR_S5_WORLD_Multi_Pass_Sesson_06</name>
-		<body>[Season] Enter Draupnir Cave 1x</body>
+		<body>[Season] Entre em Draupnir Cave 1x</body>
 	</string>
 	<string>
 		<id>906231</id>
@@ -28993,7 +28993,7 @@
 	<string>
 		<id>906234</id>
 		<name>STR_S5_WORLD_Multi_Pass_Sesson_10</name>
-		<body>[Season] Enter Nochsana Training Camp 1x</body>
+		<body>[Season] Entre em Nochsana Training Camp 1x</body>
 	</string>
 	<string>
 		<id>906235</id>
@@ -29013,7 +29013,7 @@
 	<string>
 		<id>906238</id>
 		<name>STR_S5_WORLD_Multi_Pass_Daily_04_DESC</name>
-		<body>Complete this quest by logging in to AION Classic or by teleporting.</body>
+		<body>Conclua esta missão fazendo login no AION Classic ou teletransportando-se.</body>
 	</string>
 	<string>
 		<id>906239</id>
@@ -29113,7 +29113,7 @@
 	<string>
 		<id>906258</id>
 		<name>STR_S5_WORLD_Multi_Pass_Daily_04_HTML</name>
-		<body>[Novato] Logged in to Atreia</body>
+		<body>[Novato] Entrou em Atreia</body>
 	</string>
 	<string>
 		<id>906259</id>
@@ -29133,7 +29133,7 @@
 	<string>
 		<id>906262</id>
 		<name>STR_S5_WORLD_Multi_Pass_Weekly_03_HTML</name>
-		<body>[Novato] Use Pedras de Encantamento ou Manastones para melhorar um equipamento.</body>
+		<body>[Novato] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>906263</id>
@@ -29168,7 +29168,7 @@
 	<string>
 		<id>906269</id>
 		<name>STR_S5_WORLD_Multi_Pass_Sesson_05_HTML</name>
-		<body>[Novato] Derrote monstros em Reshanta with a level difference of less than 10.</body>
+		<body>[Novato] Derrote monstros em Reshanta com uma diferença de nível inferior a 10.</body>
 	</string>
 	<string>
 		<id>906270</id>
@@ -29198,97 +29198,97 @@
 	<string>
 		<id>906275</id>
 		<name>STR_DEVAPASS_DIALOG_ADVANCED_ALERT</name>
-		<body>Campaigns cannot be carried out at the moment. Levelling up is only possible with Quna.</body>
+		<body>Campanhas não podem ser realizadas no momento. Subir de nível só é possível com Quna.</body>
 	</string>
 	<string>
 		<id>906276</id>
 		<name>STR_DEVAPASS_DIALOG_NEXTLEVEL_ALERT</name>
-		<body>Until the end of the season</body>
+		<body>Até o final da temporada</body>
 	</string>
 	<string>
 		<id>906277</id>
 		<name>STR_DEVAPASS_DIALOG_ENDMISSION_ALERT</name>
-		<body>Until the end of the campaign</body>
+		<body>Até o final da campanha</body>
 	</string>
 	<string>
 		<id>906278</id>
 		<name>STR_TOOLTIP_EVENT_NAME</name>
-		<body>Event Boost</body>
+		<body>Eventos Ativos</body>
 	</string>
 	<string>
 		<id>906279</id>
 		<name>STR_TOOLTIP_EVENT_BODY</name>
-		<body>Information about the current Event Boost. For more information, visit the AION website.</body>
+		<body>Para mais informações, visite o site da AION.</body>
 	</string>
 	<string>
 		<id>906280</id>
 		<name>STR_TOOLTIP_EVENT_EXP_MULTIPLE</name>
-		<body>Increases XP</body>
+		<body>Aumenta a EXP</body>
 	</string>
 	<string>
 		<id>906281</id>
 		<name>STR_TOOLTIP_EVENT_CRAFT_MULTIPLE</name>
-		<body>Increase profession skill points</body>
+		<body>Aumenta os pontos de habilidade das profissões</body>
 	</string>
 	<string>
 		<id>906282</id>
 		<name>STR_TOOLTIP_EVENT_AP_PVE_MULTIPLE</name>
-		<body>AP rewards for hunting and battlefield Instanced Zones are increased</body>
+		<body>As recompensas AP para zonas de instância e campo de batalha estão aumentadas</body>
 	</string>
 	<string>
 		<id>906283</id>
 		<name>STR_TOOLTIP_EVENT_CASH_MULTIPLE</name>
-		<body>Increases Kinah Rewards</body>
+		<body>Recompensas de Kinah aumentadas</body>
 	</string>
 	<string>
 		<id>906284</id>
 		<name>STR_TOOLTIP_EVENT_DROP_MULTIPLE</name>
-		<body>Increases item drop rate</body>
+		<body>Taxa de obtenção de itens aumentada</body>
 	</string>
 	<string>
 		<id>906285</id>
 		<name>STR_TOOLTIP_EVENT_RECOVERY_MULTIPLE</name>
-		<body>Fee for Soul Healing corrected</body>
+		<body>Taxa para Soul Healing corrigida</body>
 	</string>
 	<string>
 		<id>906286</id>
 		<name>STR_TOOLTIP_EVENT_AP_PVP_MULTIPLE</name>
-		<body>Increases AP after a successful PvP</body>
+		<body>Taxa de AP aumentada após um PvP bem-sucedido</body>
 	</string>
 	<string>
 		<id>906287</id>
 		<name>STR_TOOLTIP_EVENT_APPENALTYREDUCE_MULTIPLE</name>
-		<body>AP loss rate for deaths in PvP corrected</body>
+		<body>Taxa de perda de AP para mortes em PvP corrigida</body>
 	</string>
 	<string>
 		<id>906288</id>
 		<name>STR_TOOLTIP_EVENT_SCORE_MULTIPLE</name>
-		<body>Increases rewards for instances</body>
+		<body>Recompensas aumentadas para instâncias</body>
 	</string>
 	<string>
 		<id>906289</id>
 		<name>STR_TOOLTIP_EVENT_USER_OLD</name>
-		<body>Normal user</body>
+		<body>Usuário normal</body>
 	</string>
 	<string>
 		<id>906290</id>
 		<name>STR_TOOLTIP_EVENT_USER_NEWBIE</name>
-		<body>New user</body>
+		<body>Novo usuário</body>
 	</string>
 	<string>
 		<id>906291</id>
 		<name>STR_TOOLTIP_EVENT_USER_RETURN</name>
-		<body>Returning user</body>
+		<body>Usuário recorrente</body>
 	</string>
 	<string>
 		<id>906292</id>
 		<name>STR_TOOLTIP_EVENT_USER_CASH</name>
-		<body>VIP user</body>
+		<body>Usuário VIP</body>
 	</string>
 	<string>
 		<id>906293</id>
 		<name>STR_TOOLTIP_EVENT_USER_ALL</name>
-		<body>All users</body>
+		<body>Todos os usuários</body>
 	</string>
 	<string>
 		<id>906294</id>
@@ -29303,7 +29303,7 @@
 	<string>
 		<id>906296</id>
 		<name>STR_TOOLTIP_EVENT_MULTIPLE_DESC</name>
-		<body>Benefits that only apply in specific regions are not added but are calculated according to a different method.</body>
+		<body>Os benefícios que se aplicam apenas a regiões específicas não são adicionados, mas são calculados de acordo com um método diferente.</body>
 	</string>
 	<string>
 		<id>906297</id>
@@ -29478,7 +29478,7 @@
 	<string>
 		<id>906331</id>
 		<name>STR_S13_Pass_Weekly_06_DESC</name>
-		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento.</body>
+		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento (Enchantment Stones).</body>
 	</string>
 	<string>
 		<id>906332</id>
@@ -29668,7 +29668,7 @@
 	<string>
 		<id>906369</id>
 		<name>STR_WINDOW_ITEM_RESTORATION</name>
-		<body>Item Restoration</body>
+		<body>Restauração de Item</body>
 		<message_type>고객지원</message_type>
 	</string>
 	<string>
@@ -29679,22 +29679,22 @@
 	<string>
 		<id>906371</id>
 		<name>STR_S1_Return_Pass_Daily_01</name>
-		<body>Kill 5 Atreia monsters</body>
+		<body>Mate 5 monstros em Atreia</body>
 	</string>
 	<string>
 		<id>906372</id>
 		<name>STR_S1_Return_Pass_Daily_02</name>
-		<body>1x Atreia Login</body>
+		<body>Entre em Atreia 1x</body>
 	</string>
 	<string>
 		<id>906373</id>
 		<name>STR_S1_Return_Pass_Daily_03</name>
-		<body>Use 10 scrolls</body>
+		<body>Use 10 pergaminhos</body>
 	</string>
 	<string>
 		<id>906374</id>
 		<name>STR_S1_Return_Pass_Daily_04</name>
-		<body>Buy 1 shop item</body>
+		<body>Compre 1 item da loja</body>
 	</string>
 	<string>
 		<id>906375</id>
@@ -29714,12 +29714,12 @@
 	<string>
 		<id>906378</id>
 		<name>STR_S1_Return_Pass_Weekly_03</name>
-		<body>Kill 5 monsters in the Abyss</body>
+		<body>Mate 5 monstros no Abyss</body>
 	</string>
 	<string>
 		<id>906379</id>
 		<name>STR_S1_Return_Pass_Weekly_04</name>
-		<body>Complete 15 quest</body>
+		<body>Complete 15 missões</body>
 	</string>
 	<string>
 		<id>906380</id>
@@ -29729,12 +29729,12 @@
 	<string>
 		<id>906381</id>
 		<name>STR_S1_Return_Pass_Weekly_06</name>
-		<body>Equipment extraction 3x</body>
+		<body>Extraia equipamentos 3x</body>
 	</string>
 	<string>
 		<id>906382</id>
 		<name>STR_S1_Return_Pass_Weekly_07</name>
-		<body>Enter Baranath Dredgion 1x</body>
+		<body>Entre na Baranath Dredgion 1x</body>
 	</string>
 	<string>
 		<id>906383</id>
@@ -29744,22 +29744,22 @@
 	<string>
 		<id>906384</id>
 		<name>STR_S1_Return_Pass_Sesson_01</name>
-		<body>Purchase 1 item with AP</body>
+		<body>Compre 1 item com AP</body>
 	</string>
 	<string>
 		<id>906385</id>
 		<name>STR_S1_Return_Pass_Sesson_02</name>
-		<body>Receive 20,000 AP</body>
+		<body>Adquira 20,000 AP</body>
 	</string>
 	<string>
 		<id>906386</id>
 		<name>STR_S1_Return_Pass_Sesson_03</name>
-		<body>Kill 3 characters of the enemy faction</body>
+		<body>Mate 3 jogadores da facção inimiga</body>
 	</string>
 	<string>
 		<id>906387</id>
 		<name>STR_S1_Return_Pass_Sesson_04</name>
-		<body>Receive 5 medals</body>
+		<body>Receba 5 medalhas</body>
 	</string>
 	<string>
 		<id>906388</id>
@@ -29769,12 +29769,12 @@
 	<string>
 		<id>906389</id>
 		<name>STR_S1_Return_Pass_Sesson_06</name>
-		<body>Kill 30 monsters in the Silentera Canyon</body>
+		<body>Mate 30 monstros em Silentera Canyon</body>
 	</string>
 	<string>
 		<id>906390</id>
 		<name>STR_S1_Return_Pass_Sesson_07</name>
-		<body>Enter Beshmundir Temple 1x</body>
+		<body>Entre em Beshmundir Temple 1x</body>
 	</string>
 	<string>
 		<id>906391</id>
@@ -29794,22 +29794,22 @@
 	<string>
 		<id>906394</id>
 		<name>STR_S1_Return_Pass_Daily_01_DESC</name>
-		<body>The greater the difference between monster level and character level, the lower the XP effectiveness.</body>
+		<body>Quanto maior a diferença entre o nível do monstro e o nível do personagem, menor é a EXP adquirida.</body>
 	</string>
 	<string>
 		<id>906395</id>
 		<name>STR_S1_Return_Pass_Daily_02_DESC</name>
-		<body>You can complete this quest by logging in or teleporting.</body>
+		<body>Você pode completar esta missão fazendo login ou se teletransportando.</body>
 	</string>
 	<string>
 		<id>906396</id>
 		<name>STR_S1_Return_Pass_Daily_03_DESC</name>
-		<body>Can also be used with the mascote function Buff Master.</body>
+		<body>Também pode ser usado com a função Buff do mascote.</body>
 	</string>
 	<string>
 		<id>906397</id>
 		<name>STR_S1_Return_Pass_Daily_04_DESC</name>
-		<body>In the General Store, you can find useful items.</body>
+		<body>Você pode encontrar itens úteis na General Store</body>
 	</string>
 	<string>
 		<id>906398</id>
@@ -29819,12 +29819,12 @@
 	<string>
 		<id>906399</id>
 		<name>STR_S1_Return_Pass_Weekly_01_DESC</name>
-		<body>Trade Brokers allow you to trade items between players.</body>
+		<body>Usando o Broker, os jogadores podem comprar e vender itens uns dos outros.</body>
 	</string>
 	<string>
 		<id>906400</id>
 		<name>STR_S1_Return_Pass_Weekly_02_DESC</name>
-		<body>You can improve your pets’ mood by taking care of them.</body>
+		<body>Melhore o humor do seu mascote com os Mimos do Mascote.</body>
 	</string>
 	<string>
 		<id>906401</id>
@@ -29849,12 +29849,12 @@
 	<string>
 		<id>906405</id>
 		<name>STR_S1_Return_Pass_Weekly_07_DESC</name>
-		<body>Entering the Dredgion is only possible at certain times.</body>
+		<body>Você só pode entrar na Dredgion em determinados momentos.</body>
 	</string>
 	<string>
 		<id>906406</id>
 		<name>STR_S1_Return_Pass_Weekly_08_DESC</name>
-		<body>You can also check the waiting time using the chat command ‘/CheckEntry’.</body>
+		<body>Verifique o Tempo de Reentrada digitando '/CheckEntry' ou '/Entradas'.</body>
 	</string>
 	<string>
 		<id>906407</id>
@@ -29904,7 +29904,7 @@
 	<string>
 		<id>906416</id>
 		<name>STR_S1_Return_Pass_Sesson_10_DESC</name>
-		<body>Use candies to transform.</body>
+		<body>Use Candies para se transformar.</body>
 	</string>
 	<string>
 		<id>906417</id>
@@ -29939,7 +29939,7 @@
 	<string>
 		<id>906423</id>
 		<name>STR_S1_Return_Pass_Weekly_02_HTML</name>
-		<body>[Returnee] Open a pet’s gift pack.</body>
+		<body>[Returnee] Abra a embalagem que recebeu de presente do mascote.</body>
 	</string>
 	<string>
 		<id>906424</id>
@@ -29989,7 +29989,7 @@
 	<string>
 		<id>906433</id>
 		<name>STR_S1_Return_Pass_Sesson_04_HTML</name>
-		<body>[Returnee] Receive 5 medals.</body>
+		<body>[Returnee] Receba 5 medalhas.</body>
 	</string>
 	<string>
 		<id>906434</id>
@@ -30004,7 +30004,7 @@
 	<string>
 		<id>906436</id>
 		<name>STR_S1_Return_Pass_Sesson_07_HTML</name>
-		<body>[Returnee] Enter Beshmundir Temple.</body>
+		<body>[Returnee] Entre em Beshmundir Temple.</body>
 	</string>
 	<string>
 		<id>906437</id>
@@ -30029,7 +30029,7 @@
 	<string>
 		<id>906441</id>
 		<name>STR_S14_Multi_Pass_Daily_01</name>
-		<body>Kill 5 Atreia monsters</body>
+		<body>Mate 5 monstros em Atreia</body>
 	</string>
 	<string>
 		<id>906442</id>
@@ -30064,7 +30064,7 @@
 	<string>
 		<id>906448</id>
 		<name>STR_S14_Multi_Pass_Weekly_03</name>
-		<body>Use scrolls 20x</body>
+		<body>Use pergaminhos 20x</body>
 	</string>
 	<string>
 		<id>906449</id>
@@ -30094,7 +30094,7 @@
 	<string>
 		<id>906454</id>
 		<name>STR_S14_Multi_Pass_Sesson_04</name>
-		<body>Enter Nochsana Training Camp 1x</body>
+		<body>Entre em Nochsana Training Camp 1x</body>
 	</string>
 	<string>
 		<id>906455</id>
@@ -30104,12 +30104,12 @@
 	<string>
 		<id>906456</id>
 		<name>STR_S14_Multi_Pass_Sesson_06</name>
-		<body>Enter Fire Temple 1x</body>
+		<body>Entre em Fire Temple 1x</body>
 	</string>
 	<string>
 		<id>906457</id>
 		<name>STR_S14_Multi_Pass_Sesson_07</name>
-		<body>Enter Draupnir Cave 1x</body>
+		<body>Entre em Draupnir Cave 1x</body>
 	</string>
 	<string>
 		<id>906458</id>
@@ -30129,7 +30129,7 @@
 	<string>
 		<id>906461</id>
 		<name>STR_S14_Multi_Pass_Daily_01_DESC</name>
-		<body>The greater the difference between monster level and character level, the lower the XP effectiveness.</body>
+		<body>Quanto maior a diferença entre o nível do monstro e o nível do personagem, menor é a EXP adquirida.</body>
 	</string>
 	<string>
 		<id>906462</id>
@@ -30139,22 +30139,22 @@
 	<string>
 		<id>906463</id>
 		<name>STR_S14_Multi_Pass_Daily_03_DESC</name>
-		<body>Can also be used with the mascote function Buff Master.</body>
+		<body>Também pode ser usado com a função Buff do mascote.</body>
 	</string>
 	<string>
 		<id>906464</id>
 		<name>STR_S14_Multi_Pass_Daily_04_DESC</name>
-		<body>In the General Store, you can find useful items.</body>
+		<body>Você pode encontrar itens úteis na General Store</body>
 	</string>
 	<string>
 		<id>906465</id>
 		<name>STR_S14_Multi_Pass_Daily_05_DESC</name>
-		<body>You can complete this quest by logging in or teleporting.</body>
+		<body>Você pode completar esta missão fazendo login ou se teletransportando.</body>
 	</string>
 	<string>
 		<id>906466</id>
 		<name>STR_S14_Multi_Pass_Weekly_01_DESC</name>
-		<body>Trade Brokers allow you to trade items between players.</body>
+		<body>Usando o Broker, os jogadores podem comprar e vender itens uns dos outros.</body>
 	</string>
 	<string>
 		<id>906467</id>
@@ -30164,12 +30164,12 @@
 	<string>
 		<id>906468</id>
 		<name>STR_S14_Multi_Pass_Weekly_03_DESC</name>
-		<body>Can also be used with the mascote function Buff Master.</body>
+		<body>Também pode ser usado com a função Buff do mascote.</body>
 	</string>
 	<string>
 		<id>906469</id>
 		<name>STR_S14_Multi_Pass_Weekly_04_DESC</name>
-		<body>You can also check the waiting time using the chat command ‘/CheckEntry’.</body>
+		<body>Verifique o Tempo de Reentrada digitando '/CheckEntry' ou '/Entradas'.</body>
 	</string>
 	<string>
 		<id>906470</id>
@@ -30189,12 +30189,12 @@
 	<string>
 		<id>906473</id>
 		<name>STR_S14_Multi_Pass_Sesson_03_DESC</name>
-		<body>Rifts form at certain times. Entry is only possible up to level 50.</body>
+		<body>Rifts se formam em determinados momentos. Entry is only possible up to level 50.</body>
 	</string>
 	<string>
 		<id>906474</id>
 		<name>STR_S14_Multi_Pass_Sesson_04_DESC</name>
-		<body>You can find the location of the instances on the map.</body>
+		<body>Você encontrará o status atual de uma instância, bem como outras informações no mapa.</body>
 	</string>
 	<string>
 		<id>906475</id>
@@ -30204,12 +30204,12 @@
 	<string>
 		<id>906476</id>
 		<name>STR_S14_Multi_Pass_Sesson_06_DESC</name>
-		<body>You can find the location of the instances on the map.</body>
+		<body>Você encontrará o status atual de uma instância, bem como outras informações no mapa.</body>
 	</string>
 	<string>
 		<id>906477</id>
 		<name>STR_S14_Multi_Pass_Sesson_07_DESC</name>
-		<body>You can find the location of the instances on the map.</body>
+		<body>Você encontrará o status atual de uma instância, bem como outras informações no mapa.</body>
 	</string>
 	<string>
 		<id>906478</id>
@@ -30289,7 +30289,7 @@
 	<string>
 		<id>906493</id>
 		<name>STR_S14_Multi_Pass_Sesson_03_HTML</name>
-		<body>[Novato] Use a rift.</body>
+		<body>[Novato] Use um Rift.</body>
 	</string>
 	<string>
 		<id>906494</id>
@@ -30389,7 +30389,7 @@
 	<string>
 		<id>906513</id>
 		<name>STR_S14_Pass_Sesson_01</name>
-		<body>Purchase 1 item with AP</body>
+		<body>Compre 1 item com AP</body>
 	</string>
 	<string>
 		<id>906514</id>
@@ -30409,7 +30409,7 @@
 	<string>
 		<id>906517</id>
 		<name>STR_S14_Pass_Sesson_05</name>
-		<body>Kill 30 monsters in the Silentera Canyon</body>
+		<body>Mate 30 monstros em Silentera Canyon</body>
 	</string>
 	<string>
 		<id>906518</id>
@@ -30424,7 +30424,7 @@
 	<string>
 		<id>906520</id>
 		<name>STR_S14_Pass_Sesson_07</name>
-		<body>Kill Stormwing in Beshmundir Temple 3x</body>
+		<body>Mate o Stormwing em Beshmundir Temple 3x</body>
 	</string>
 	<string>
 		<id>906521</id>
@@ -30439,27 +30439,27 @@
 	<string>
 		<id>906523</id>
 		<name>STR_S14_Pass_Sesson_10</name>
-		<body>Enter Chantra Dredgion 3x</body>
+		<body>Entre em Chantra Dredgion 3x</body>
 	</string>
 	<string>
 		<id>906524</id>
 		<name>STR_S14_Pass_Daily_01_DESC</name>
-		<body>The greater the difference between monster level and character level, the lower the XP effectiveness.</body>
+		<body>Quanto maior a diferença entre o nível do monstro e o nível do personagem, menor é a EXP adquirida.</body>
 	</string>
 	<string>
 		<id>906525</id>
 		<name>STR_S14_Pass_Daily_02_DESC</name>
-		<body>You won’t receive any Abyss Points while Siel's Energy is deactivated.</body>
+		<body>Você não receberá nenhum AP enquanto a Siel's Energy estiver inativa.</body>
 	</string>
 	<string>
 		<id>906526</id>
 		<name>STR_S14_Pass_Daily_03_DESC</name>
-		<body>Can also be used with the mascote function Buff Master.</body>
+		<body>Também pode ser usado com a função Buff do mascote.</body>
 	</string>
 	<string>
 		<id>906527</id>
 		<name>STR_S14_Pass_Daily_04_DESC</name>
-		<body>In the General Store, you can find useful items.</body>
+		<body>Você pode encontrar itens úteis na General Store</body>
 	</string>
 	<string>
 		<id>906528</id>
@@ -30469,22 +30469,22 @@
 	<string>
 		<id>906529</id>
 		<name>STR_S14_Pass_Weekly_01_DESC</name>
-		<body>Trade Brokers allow you to trade items between players.</body>
+		<body>Usando o Broker, os jogadores podem comprar e vender itens uns dos outros.</body>
 	</string>
 	<string>
 		<id>906530</id>
 		<name>STR_S14_Pass_Weekly_02_DESC</name>
-		<body>You can improve your pets’ mood by taking care of them.</body>
+		<body>Melhore o humor do seu mascote com os Mimos do Mascote.</body>
 	</string>
 	<string>
 		<id>906531</id>
 		<name>STR_S14_Pass_Weekly_03_DESC</name>
-		<body>In Reshanta, the chance of coming across the opposing faction is especially high.</body>
+		<body>In Há uma boa chance de você encontrar a facção inimiga em Reshanta.</body>
 	</string>
 	<string>
 		<id>906532</id>
 		<name>STR_S14_Pass_Weekly_04_DESC</name>
-		<body>Can also be used with the mascote function Buff Master.</body>
+		<body>Também pode ser usado com a função Buff do mascote.</body>
 	</string>
 	<string>
 		<id>906533</id>
@@ -30499,7 +30499,7 @@
 	<string>
 		<id>906535</id>
 		<name>STR_S14_Pass_Weekly_07_DESC</name>
-		<body>You can also check the waiting time using the chat command ‘/CheckEntry’.</body>
+		<body>Verifique o Tempo de Reentrada digitando '/CheckEntry' ou '/Entradas'.</body>
 	</string>
 	<string>
 		<id>906536</id>
@@ -30529,12 +30529,12 @@
 	<string>
 		<id>906541</id>
 		<name>STR_S14_Pass_Sesson_L_06_DESC</name>
-		<body>In the settings, you can enable/disable the option to display ranks next to names.</body>
+		<body>Há uma opção nas configurações que você pode alternar para exibir os Ranks ao lado dos nomes.</body>
 	</string>
 	<string>
 		<id>906542</id>
 		<name>STR_S14_Pass_Sesson_D_06_DESC</name>
-		<body>In the settings, you can enable/disable the option to display ranks next to names.</body>
+		<body>Há uma opção nas configurações que você pode alternar para exibir os Ranks ao lado dos nomes.</body>
 	</string>
 	<string>
 		<id>906543</id>
@@ -30554,7 +30554,7 @@
 	<string>
 		<id>906546</id>
 		<name>STR_S14_Pass_Sesson_10_DESC</name>
-		<body>Entering the Dredgion is only possible at certain times.</body>
+		<body>Você só pode entrar na Dredgion em determinados momentos.</body>
 	</string>
 	<string>
 		<id>906547</id>
@@ -30589,7 +30589,7 @@
 	<string>
 		<id>906553</id>
 		<name>STR_S14_Pass_Weekly_02_HTML</name>
-		<body>[Padrão] Open a pet’s gift pack.</body>
+		<body>[Padrão] Abra a embalagem que recebeu de presente do mascote.</body>
 	</string>
 	<string>
 		<id>906554</id>
@@ -30654,7 +30654,7 @@
 	<string>
 		<id>906566</id>
 		<name>STR_S14_Pass_Sesson_07_HTML</name>
-		<body>[Padrão] Kill Stormwing in Beshmundir Temple (normal).</body>
+		<body>[Padrão] Mate o Stormwing em Beshmundir Temple (normal).</body>
 	</string>
 	<string>
 		<id>906567</id>
@@ -30669,7 +30669,7 @@
 	<string>
 		<id>906569</id>
 		<name>STR_S14_Pass_Sesson_10_HTML</name>
-		<body>[Padrão] Enter the Chantra Dredgion.</body>
+		<body>[Padrão] Entre em Chantra Dredgion.</body>
 	</string>
 	<string>
 		<id>906570</id>
@@ -30769,12 +30769,12 @@
 	<string>
 		<id>906589</id>
 		<name>STR_S13_Multi_Pass_Sesson_L_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>906590</id>
 		<name>STR_S13_Multi_Pass_Sesson_D_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>906591</id>
@@ -30839,7 +30839,7 @@
 	<string>
 		<id>906603</id>
 		<name>STR_S13_Multi_Pass_Weekly_06_DESC</name>
-		<body>Realize extrações em equipamentos para obter pedras de encantamento.</body>
+		<body>Realize extrações em equipamentos para obter Pedras de Encantamento (Enchantment Stones).</body>
 	</string>
 	<string>
 		<id>906604</id>
@@ -30884,12 +30884,12 @@
 	<string>
 		<id>906612</id>
 		<name>STR_S13_Multi_Pass_Sesson_L_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>906613</id>
 		<name>STR_S13_Multi_Pass_Sesson_D_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>906614</id>
@@ -30944,7 +30944,7 @@
 	<string>
 		<id>906624</id>
 		<name>STR_S13_Multi_Pass_Weekly_04_HTML</name>
-		<body>[Novato] Use Pedras de Encantamento ou Manastones para melhorar um equipamento.</body>
+		<body>[Novato] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>906625</id>
@@ -30984,7 +30984,7 @@
 	<string>
 		<id>906632</id>
 		<name>STR_S13_Multi_Pass_Sesson_05_HTML</name>
-		<body>[Novato] Derrote monstros em Reshanta with a level difference of less than 10.</body>
+		<body>[Novato] Derrote monstros em Reshanta com uma diferença de nível inferior a 10.</body>
 	</string>
 	<string>
 		<id>906633</id>
@@ -31019,7 +31019,7 @@
 	<string>
 		<id>906639</id>
 		<name>STR_S14_Event_Pass_Daily_01</name>
-		<body>Welcome, Daeva!</body>
+		<body>Bem-vindo(a), Daeva!</body>
 	</string>
 	<string>
 		<id>906640</id>
@@ -31044,7 +31044,7 @@
 	<string>
 		<id>906644</id>
 		<name>STR_S14_Event_Pass_Weekly_04</name>
-		<body>Use rift 1x</body>
+		<body>Use Rift 1x</body>
 	</string>
 	<string>
 		<id>906645</id>
@@ -31069,102 +31069,102 @@
 	<string>
 		<id>906649</id>
 		<name>STR_S14_Event_Pass_Sesson_03</name>
-		<body>Enter Beshmundir Temple 5x</body>
+		<body>Entre em Beshmundir Temple 5x</body>
 	</string>
 	<string>
 		<id>906650</id>
 		<name>STR_S14_Event_Pass_Sesson_04</name>
-		<body>Kill 100 monsters in Inggison and Gelkmaros</body>
+		<body>Mate monstros em Inggison e Gelkmaros 100x</body>
 	</string>
 	<string>
 		<id>906651</id>
 		<name>STR_S14_Event_Pass_Sesson_05</name>
-		<body>Enter Chantra Dredgion 5x</body>
+		<body>Entre em Chantra Dredgion 5x</body>
 	</string>
 	<string>
 		<id>906652</id>
 		<name>STR_S14_Event_Pass_Sesson_06</name>
-		<body>Kill 30 monsters in Silentera Canyon</body>
+		<body>Mate monstros em Silentera Canyon 30x</body>
 	</string>
 	<string>
 		<id>906653</id>
 		<name>STR_S14_Event_Pass_Daily_01_DESC</name>
-		<body>You can complete this quest by logging in or teleporting.</body>
+		<body>Você pode completar esta missão fazendo login ou se teletransportando.</body>
 	</string>
 	<string>
 		<id>906654</id>
 		<name>STR_S14_Event_Pass_Daily_02_DESC</name>
-		<body>You can also check the waiting time using the chat command ‘/CheckEntry’.</body>
+		<body>Verifique o Tempo de Reentrada digitando '/CheckEntry' ou '/Entradas'.</body>
 	</string>
 	<string>
 		<id>906655</id>
 		<name>STR_S14_Event_Pass_Weekly_01_DESC</name>
-		<body>You can also check the waiting time using the chat command ‘/CheckEntry’.</body>
+		<body>Verifique o Tempo de Reentrada digitando '/CheckEntry' ou '/Entradas'.</body>
 	</string>
 	<string>
 		<id>906656</id>
 		<name>STR_S14_Event_Pass_Weekly_02_DESC</name>
-		<body>Can also be used with the mascote function Buff Master.</body>
+		<body>Também pode ser usado com a função Buff do mascote.</body>
 	</string>
 	<string>
 		<id>906657</id>
 		<name>STR_S14_Event_Pass_Weekly_03_DESC</name>
-		<body>Use candies to transform.</body>
+		<body>Use Candies para se transformar.</body>
 	</string>
 	<string>
 		<id>906658</id>
 		<name>STR_S14_Event_Pass_Weekly_04_DESC</name>
-		<body>Rifts form at certain times.</body>
+		<body>Rifts se formam em determinados momentos.</body>
 	</string>
 	<string>
 		<id>906659</id>
 		<name>STR_S14_Event_Pass_Weekly_05_DESC</name>
-		<body>You can improve your pets’ mood by taking care of them.</body>
+		<body>Melhore o humor do seu mascote com os Mimos do Mascote.</body>
 	</string>
 	<string>
 		<id>906660</id>
 		<name>STR_S14_Event_Pass_Sesson_01_DESC</name>
-		<body>You won’t receive any Abyss Points while Siel's Energy is deactivated.</body>
+		<body>Você não receberá nenhum AP enquanto a Siel's Energy estiver inativa.</body>
 	</string>
 	<string>
 		<id>906661</id>
 		<name>STR_S14_Event_Pass_Sesson_L_02_DESC</name>
-		<body>In the settings, you can enable/disable the option to display ranks next to names.</body>
+		<body>Há uma opção nas configurações que você pode alternar para exibir os Ranks ao lado dos nomes.</body>
 	</string>
 	<string>
 		<id>906662</id>
 		<name>STR_S14_Event_Pass_Sesson_D_02_DESC</name>
-		<body>In the settings, you can enable/disable the option to display ranks next to names.</body>
+		<body>Há uma opção nas configurações que você pode alternar para exibir os Ranks ao lado dos nomes.</body>
 	</string>
 	<string>
 		<id>906663</id>
 		<name>STR_S14_Event_Pass_Sesson_03_DESC</name>
-		<body>You can find the location of the instances on the map.</body>
+		<body>Você encontrará o status atual de uma instância, bem como outras informações no mapa.</body>
 	</string>
 	<string>
 		<id>906664</id>
 		<name>STR_S14_Event_Pass_Sesson_04_DESC</name>
-		<body>The greater the difference between monster level and character level, the lower the XP effectiveness.</body>
+		<body>Quanto maior a diferença entre o nível do monstro e o nível do personagem, menor é a EXP adquirida.</body>
 	</string>
 	<string>
 		<id>906665</id>
 		<name>STR_S14_Event_Pass_Sesson_05_DESC</name>
-		<body>Entry is only possible when the ‘Entry Request’ button is active.</body>
+		<body>O botão 'Solicitar Entrada' será ativado assim que for possível entrar.</body>
 	</string>
 	<string>
 		<id>906666</id>
 		<name>STR_S14_Event_Pass_Sesson_06_DESC</name>
-		<body>The greater the difference between monster level and character level, the lower the XP effectiveness.</body>
+		<body>Quanto maior a diferença entre o nível do monstro e o nível do personagem, menor é a EXP adquirida.</body>
 	</string>
 	<string>
 		<id>906667</id>
 		<name>STR_S14_Event_Pass_Daily_01_HTML</name>
-		<body>[Event] Atreia Login</body>
+		<body>[Event] Entre em Atreia</body>
 	</string>
 	<string>
 		<id>906668</id>
 		<name>STR_S14_Event_Pass_Daily_02_HTML</name>
-		<body>[Event] Enter a dungeon 1x.</body>
+		<body>[Event] Entre em uma instância 1x.</body>
 	</string>
 	<string>
 		<id>906669</id>
@@ -31184,12 +31184,12 @@
 	<string>
 		<id>906672</id>
 		<name>STR_S14_Event_Pass_Weekly_04_HTML</name>
-		<body>[Event] Use a rift.</body>
+		<body>[Event] Use um Rift.</body>
 	</string>
 	<string>
 		<id>906673</id>
 		<name>STR_S14_Event_Pass_Weekly_05_HTML</name>
-		<body>[Event] Open a pet’s gift pack.</body>
+		<body>[Event] Abra a embalagem que recebeu de presente do mascote.</body>
 	</string>
 	<string>
 		<id>906674</id>
@@ -31199,32 +31199,32 @@
 	<string>
 		<id>906675</id>
 		<name>STR_S14_Event_Pass_Sesson_L_02_HTML</name>
-		<body>In [Event] Reshanta, the chance of coming across the opposing faction is especially high.</body>
+		<body>In [Event] Há uma boa chance de você encontrar a facção inimiga em Reshanta.</body>
 	</string>
 	<string>
 		<id>906676</id>
 		<name>STR_S14_Event_Pass_Sesson_D_02_HTML</name>
-		<body>In [Event] Reshanta, the chance of coming across the opposing faction is especially high.</body>
+		<body>In [Event] Há uma boa chance de você encontrar a facção inimiga em Reshanta.</body>
 	</string>
 	<string>
 		<id>906677</id>
 		<name>STR_S14_Event_Pass_Sesson_03_HTML</name>
-		<body>[Event] Enter Beshmundir Temple.</body>
+		<body>[Event] Entre em Beshmundir Temple.</body>
 	</string>
 	<string>
 		<id>906678</id>
 		<name>STR_S14_Event_Pass_Sesson_04_HTML</name>
-		<body>[Event] Kill monsters in Inggison and Gelkmaros with a maximum of 5 levels difference to your own level.</body>
+		<body>[Event] Mate monstros em Inggison e Gelkmaros com no máximo 5 níveis de diferença para o seu próprio nível.</body>
 	</string>
 	<string>
 		<id>906679</id>
 		<name>STR_S14_Event_Pass_Sesson_05_HTML</name>
-		<body>[Event] Enter the Chantra Dredgion.</body>
+		<body>[Event] Entre em Chantra Dredgion.</body>
 	</string>
 	<string>
 		<id>906680</id>
 		<name>STR_S14_Event_Pass_Sesson_06_HTML</name>
-		<body>[Event] Kill monsters in the Silentera Canyon with a maximum of 5 levels difference to your own level.</body>
+		<body>[Event] Mate monstros em Silentera Canyon com no máximo 5 níveis de diferença para o seu próprio nível.</body>
 	</string>
 	<string>
 		<id>906681</id>
@@ -31339,12 +31339,12 @@
 	<string>
 		<id>906703</id>
 		<name>STR_S5_WORLD_CN_Multi_Pass_Sesson_L_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>906704</id>
 		<name>STR_S5_WORLD_CN_Multi_Pass_Sesson_D_08</name>
-		<body>Abra um espaço de Greater Stigma</body>
+		<body>Abra um espaço de Stigma Avançada</body>
 	</string>
 	<string>
 		<id>906705</id>
@@ -31409,7 +31409,7 @@
 	<string>
 		<id>906717</id>
 		<name>STR_S5_WORLD_CN_Multi_Pass_Weekly_06_DESC</name>
-		<body>Realize extrações em equipamentos para obter pedras de encantamento.</body>
+		<body>Realize extrações em equipamentos para obter Pedras de Encantamento (Enchantment Stones).</body>
 	</string>
 	<string>
 		<id>906718</id>
@@ -31454,12 +31454,12 @@
 	<string>
 		<id>906726</id>
 		<name>STR_S5_WORLD_CN_Multi_Pass_Sesson_L_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>906727</id>
 		<name>STR_S5_WORLD_CN_Multi_Pass_Sesson_D_08_DESC</name>
-		<body>Complete a missão de expansão para receber um espaço de Greater Stigma.</body>
+		<body>Complete a missão de expansão para receber um espaço de Stigma Avançada.</body>
 	</string>
 	<string>
 		<id>906728</id>
@@ -31514,7 +31514,7 @@
 	<string>
 		<id>906738</id>
 		<name>STR_S5_WORLD_CN_Multi_Pass_Weekly_04_HTML</name>
-		<body>[Novato] Use Pedras de Encantamento ou Manastones para melhorar um equipamento.</body>
+		<body>[Novato] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>906739</id>
@@ -31554,7 +31554,7 @@
 	<string>
 		<id>906746</id>
 		<name>STR_S5_WORLD_CN_Multi_Pass_Sesson_05_HTML</name>
-		<body>[Novato] Derrote monstros em Reshanta with a level difference of less than 10.</body>
+		<body>[Novato] Derrote monstros em Reshanta com uma diferença de nível inferior a 10.</body>
 	</string>
 	<string>
 		<id>906747</id>
@@ -31764,7 +31764,7 @@
 	<string>
 		<id>906788</id>
 		<name>STR_S6_WORLD_Pass_Weekly_06_DESC</name>
-		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento.</body>
+		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento (Enchantment Stones).</body>
 	</string>
 	<string>
 		<id>906789</id>
@@ -31944,7 +31944,7 @@
 	<string>
 		<id>906824</id>
 		<name>STR_S6_WORLD_Pass_Sesson_09_HTML</name>
-		<body>[Padrão] Use Pedras de Encantamento ou Manastones para melhorar um equipamento.</body>
+		<body>[Padrão] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>906825</id>
@@ -31974,7 +31974,7 @@
 	<string>
 		<id>906831</id>
 		<name>STR_UI_INDUN_REENTER_Week</name>
-		<body>Wednesdays at %0</body>
+		<body>Quarta-feira às %0</body>
 	</string>
 	<string>
 		<id>906832</id>
@@ -32069,7 +32069,7 @@
 	<string>
 		<id>906850</id>
 		<name>STR_S16_Event_Pass_Weekly_04</name>
-		<body>Enter Chantra Dredgion 3x</body>
+		<body>Entre em Chantra Dredgion 3x</body>
 	</string>
 	<string>
 		<id>906851</id>
@@ -32104,12 +32104,12 @@
 	<string>
 		<id>906857</id>
 		<name>STR_S16_Event_Pass_Sesson_05</name>
-		<body>Kill Stormwing in Beshmundir Temple 5x</body>
+		<body>Mate o Stormwing em Beshmundir Temple 5x</body>
 	</string>
 	<string>
 		<id>906858</id>
 		<name>STR_S16_Event_Pass_Sesson_06</name>
-		<body>Enter Beshmundir Temple 10x</body>
+		<body>Entre em Beshmundir Temple 10x</body>
 	</string>
 	<string>
 		<id>906859</id>
@@ -32119,27 +32119,27 @@
 	<string>
 		<id>906860</id>
 		<name>STR_S16_Event_Pass_Daily_02_DESC</name>
-		<body>You can also check the waiting time using the chat command ‘/CheckEntry’.</body>
+		<body>Verifique o Tempo de Reentrada digitando '/CheckEntry' ou '/Entradas'.</body>
 	</string>
 	<string>
 		<id>906861</id>
 		<name>STR_S16_Event_Pass_Weekly_01_DESC</name>
-		<body>You can also check the waiting time using the chat command ‘/CheckEntry’.</body>
+		<body>Verifique o Tempo de Reentrada digitando '/CheckEntry' ou '/Entradas'.</body>
 	</string>
 	<string>
 		<id>906862</id>
 		<name>STR_S16_Event_Pass_Weekly_02_DESC</name>
-		<body>Can also be used with the mascote function Buff Master.</body>
+		<body>Também pode ser usado com a função Buff do mascote.</body>
 	</string>
 	<string>
 		<id>906863</id>
 		<name>STR_S16_Event_Pass_Weekly_03_DESC</name>
-		<body>Use candies to transform.</body>
+		<body>Use Candies para se transformar.</body>
 	</string>
 	<string>
 		<id>906864</id>
 		<name>STR_S16_Event_Pass_Weekly_04_DESC</name>
-		<body>Entry is only possible when the ‘Entry Request’ button is active.</body>
+		<body>O botão 'Solicitar Entrada' será ativado assim que for possível entrar.</body>
 	</string>
 	<string>
 		<id>906865</id>
@@ -32149,22 +32149,22 @@
 	<string>
 		<id>906866</id>
 		<name>STR_S16_Event_Pass_Sesson_01_DESC</name>
-		<body>You won’t receive any Abyss Points while Siel's Energy is deactivated.</body>
+		<body>Você não receberá nenhum AP enquanto a Siel's Energy estiver inativa.</body>
 	</string>
 	<string>
 		<id>906867</id>
 		<name>STR_S16_Event_Pass_Sesson_L_02_DESC</name>
-		<body>In the settings, you can enable/disable the option to display ranks next to names.</body>
+		<body>Há uma opção nas configurações que você pode alternar para exibir os Ranks ao lado dos nomes.</body>
 	</string>
 	<string>
 		<id>906868</id>
 		<name>STR_S16_Event_Pass_Sesson_D_02_DESC</name>
-		<body>In the settings, you can enable/disable the option to display ranks next to names.</body>
+		<body>Há uma opção nas configurações que você pode alternar para exibir os Ranks ao lado dos nomes.</body>
 	</string>
 	<string>
 		<id>906869</id>
 		<name>STR_S16_Event_Pass_Sesson_03_DESC</name>
-		<body>You can find the location of the instances on the map.</body>
+		<body>Você encontrará o status atual de uma instância, bem como outras informações no mapa.</body>
 	</string>
 	<string>
 		<id>906870</id>
@@ -32189,7 +32189,7 @@
 	<string>
 		<id>906874</id>
 		<name>STR_S16_Event_Pass_Daily_02_HTML</name>
-		<body>[Event] Enter a dungeon 1x.</body>
+		<body>[Event] Entre em uma instância 1x.</body>
 	</string>
 	<string>
 		<id>906875</id>
@@ -32209,7 +32209,7 @@
 	<string>
 		<id>906878</id>
 		<name>STR_S16_Event_Pass_Weekly_04_HTML</name>
-		<body>[Event] Enter the Chantra Dredgion.</body>
+		<body>[Event] Entre em Chantra Dredgion.</body>
 	</string>
 	<string>
 		<id>906879</id>
@@ -32224,12 +32224,12 @@
 	<string>
 		<id>906881</id>
 		<name>STR_S16_Event_Pass_Sesson_L_02_HTML</name>
-		<body>In [Event] Reshanta, the chance of coming across the opposing faction is especially high.</body>
+		<body>In [Event] Há uma boa chance de você encontrar a facção inimiga em Reshanta.</body>
 	</string>
 	<string>
 		<id>906882</id>
 		<name>STR_S16_Event_Pass_Sesson_D_02_HTML</name>
-		<body>In [Event] Reshanta, the chance of coming across the opposing faction is especially high.</body>
+		<body>In [Event] Há uma boa chance de você encontrar a facção inimiga em Reshanta.</body>
 	</string>
 	<string>
 		<id>906883</id>
@@ -32244,12 +32244,12 @@
 	<string>
 		<id>906885</id>
 		<name>STR_S16_Event_Pass_Sesson_05_HTML</name>
-		<body>[Event] Kill Stormwing in Beshmundir Temple (normal).</body>
+		<body>[Event] Mate o Stormwing em Beshmundir Temple (normal).</body>
 	</string>
 	<string>
 		<id>906886</id>
 		<name>STR_S16_Event_Pass_Sesson_06_HTML</name>
-		<body>[Event] Enter Beshmundir Temple.</body>
+		<body>[Event] Entre em Beshmundir Temple.</body>
 	</string>
 	<string>
 		<id>906887</id>
@@ -32729,12 +32729,12 @@
 	<string>
 		<id>906982</id>
 		<name>STR_S1_Special_Event_Pass_Sesson_01</name>
-		<body>Enter Chantra Dredgion 2x</body>
+		<body>Entre em Chantra Dredgion 2x</body>
 	</string>
 	<string>
 		<id>906983</id>
 		<name>STR_S1_Special_Event_Pass_Sesson_02</name>
-		<body>Enter Beshmundir Temple 2x</body>
+		<body>Entre em Beshmundir Temple 2x</body>
 	</string>
 	<string>
 		<id>906984</id>
@@ -32744,17 +32744,17 @@
 	<string>
 		<id>906985</id>
 		<name>STR_S1_Special_Event_Pass_Daily_01_DESC</name>
-		<body>You can complete this quest by logging in or teleporting.</body>
+		<body>Você pode completar esta missão fazendo login ou se teletransportando.</body>
 	</string>
 	<string>
 		<id>906986</id>
 		<name>STR_S1_Special_Event_Pass_Daily_02_DESC</name>
-		<body>Can also be used with the mascote function Buff Master.</body>
+		<body>Também pode ser usado com a função Buff do mascote.</body>
 	</string>
 	<string>
 		<id>906987</id>
 		<name>STR_S1_Special_Event_Pass_Sesson_01_DESC</name>
-		<body>Entering the Dredgion is only possible at certain times.</body>
+		<body>Você só pode entrar na Dredgion em determinados momentos.</body>
 	</string>
 	<string>
 		<id>906988</id>
@@ -32779,12 +32779,12 @@
 	<string>
 		<id>906992</id>
 		<name>STR_S1_Special_Event_Pass_Sesson_01_HTML</name>
-		<body>[Event] Enter the Chantra Dredgion.</body>
+		<body>[Event] Entre em Chantra Dredgion.</body>
 	</string>
 	<string>
 		<id>906993</id>
 		<name>STR_S1_Special_Event_Pass_Sesson_02_HTML</name>
-		<body>[Event] Enter Beshmundir Temple.</body>
+		<body>[Event] Entre em Beshmundir Temple.</body>
 	</string>
 	<string>
 		<id>906994</id>
@@ -32799,62 +32799,62 @@
 	<string>
 		<id>906996</id>
 		<name>STR_EQUIPMENT_CHANGE_NAME_0</name>
-		<body>Set 1</body>
+		<body>Equipamento 1</body>
 	</string>
 	<string>
 		<id>906997</id>
 		<name>STR_EQUIPMENT_CHANGE_NAME_1</name>
-		<body>Set 2</body>
+		<body>Equipamento 2</body>
 	</string>
 	<string>
 		<id>906998</id>
 		<name>STR_EQUIPMENT_CHANGE_NAME_2</name>
-		<body>Set 3</body>
+		<body>Equipamento 3</body>
 	</string>
 	<string>
 		<id>906999</id>
 		<name>STR_EQUIPMENT_CHANGE_NAME_3</name>
-		<body>Set 4</body>
+		<body>Equipamento 4</body>
 	</string>
 	<string>
 		<id>907000</id>
 		<name>STR_EQUIPMENT_CHANGE_NAME_4</name>
-		<body>Set 5</body>
+		<body>Equipamento 5</body>
 	</string>
 	<string>
 		<id>907001</id>
 		<name>STR_EQUIPMENT_CHANGE_SAVE_CONFIRM</name>
-		<body>The settings for the Equipment Set have been changed. Save?</body>
+		<body>As configurações do Conjunto de Equipamentos foram alteradas. Salvar?</body>
 	</string>
 	<string>
 		<id>907002</id>
 		<name>STR_TOOLTIP_EQUIPMENT_CHANGE_NO_ITEM</name>
-		<body>No item registered.</body>
+		<body>Nenhum item cadastrado.</body>
 	</string>
 	<string>
 		<id>907003</id>
 		<name>STR_TOOLTIP_EQUIPMENT_CHANGE_HELP</name>
-		<body>You can switch to the selected equipment by right-clicking the equipment list or after registering it in the Quickbar.</body>
+		<body>Você pode mudar para o equipamento selecionado clicando com o botão direito na lista de equipamentos ou após registrá-lo na barra.</body>
 	</string>
 	<string>
 		<id>907004</id>
 		<name>STR_ITEM_REPLACE_NEED_MAX_VALUE_ITEM</name>
-		<body>Up to %0</body>
+		<body>Até %0</body>
 	</string>
 	<string>
 		<id>907005</id>
 		<name>STR_EQUIPMENT_CHANGE_CANT_FIND_ITEM</name>
-		<body>This item is not in your inventory.</body>
+		<body>Este item não está em seu inventário.</body>
 	</string>
 	<string>
 		<id>907006</id>
 		<name>STR_INSTANT_DUNGEON_RESURRECT_IDPOGUSGAME</name>
-		<body>&lt;p align=&quot;left&quot;&gt;By clicking ‘OK’, you will immediately be returned to the Bind Point.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Wait Time: 10 seconds (%0 second(s) remaining)&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Ao clicar em 'OK', você retornará imediatamente no início da instância.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Tempo de espera: %0 segundos restantes&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>907007</id>
 		<name>STR_S1_Beginner_Pass_Daily_01</name>
-		<body>Kill 5 Atreia monsters</body>
+		<body>Mate 5 monstros em Atreia</body>
 	</string>
 	<string>
 		<id>907008</id>
@@ -32889,7 +32889,7 @@
 	<string>
 		<id>907014</id>
 		<name>STR_S1_Beginner_Pass_Weekly_03</name>
-		<body>Use scrolls 20x</body>
+		<body>Use pergaminhos 20x</body>
 	</string>
 	<string>
 		<id>907015</id>
@@ -32919,7 +32919,7 @@
 	<string>
 		<id>907020</id>
 		<name>STR_S1_Beginner_Pass_Sesson_04</name>
-		<body>Enter Nochsana Training Camp 1x</body>
+		<body>Entre em Nochsana Training Camp 1x</body>
 	</string>
 	<string>
 		<id>907021</id>
@@ -32934,7 +32934,7 @@
 	<string>
 		<id>907023</id>
 		<name>STR_S1_Beginner_Pass_Sesson_07</name>
-		<body>Enter Draupnir Cave 1x</body>
+		<body>Entre em Draupnir Cave 1x</body>
 	</string>
 	<string>
 		<id>907024</id>
@@ -32954,7 +32954,7 @@
 	<string>
 		<id>907027</id>
 		<name>STR_S1_Beginner_Pass_Daily_01_DESC</name>
-		<body>The greater the difference between monster level and character level, the lower the XP effectiveness.</body>
+		<body>Quanto maior a diferença entre o nível do monstro e o nível do personagem, menor é a EXP adquirida.</body>
 	</string>
 	<string>
 		<id>907028</id>
@@ -32964,22 +32964,22 @@
 	<string>
 		<id>907029</id>
 		<name>STR_S1_Beginner_Pass_Daily_03_DESC</name>
-		<body>Can also be used with the mascote function Buff Master.</body>
+		<body>Também pode ser usado com a função Buff do mascote.</body>
 	</string>
 	<string>
 		<id>907030</id>
 		<name>STR_S1_Beginner_Pass_Daily_04_DESC</name>
-		<body>In the General Store, you can find useful items.</body>
+		<body>Você pode encontrar itens úteis na General Store</body>
 	</string>
 	<string>
 		<id>907031</id>
 		<name>STR_S1_Beginner_Pass_Daily_05_DESC</name>
-		<body>You can complete this quest by logging in or teleporting.</body>
+		<body>Você pode completar esta missão fazendo login ou se teletransportando.</body>
 	</string>
 	<string>
 		<id>907032</id>
 		<name>STR_S1_Beginner_Pass_Weekly_01_DESC</name>
-		<body>Trade Brokers allow you to trade items between players.</body>
+		<body>Usando o Broker, os jogadores podem comprar e vender itens uns dos outros.</body>
 	</string>
 	<string>
 		<id>907033</id>
@@ -32989,12 +32989,12 @@
 	<string>
 		<id>907034</id>
 		<name>STR_S1_Beginner_Pass_Weekly_03_DESC</name>
-		<body>Can also be used with the mascote function Buff Master.</body>
+		<body>Também pode ser usado com a função Buff do mascote.</body>
 	</string>
 	<string>
 		<id>907035</id>
 		<name>STR_S1_Beginner_Pass_Weekly_04_DESC</name>
-		<body>You can also check the waiting time using the chat command ‘/CheckEntry’.</body>
+		<body>Verifique o Tempo de Reentrada digitando '/CheckEntry' ou '/Entradas'.</body>
 	</string>
 	<string>
 		<id>907036</id>
@@ -33014,12 +33014,12 @@
 	<string>
 		<id>907039</id>
 		<name>STR_S1_Beginner_Pass_Sesson_03_DESC</name>
-		<body>Rifts form at certain times.</body>
+		<body>Rifts se formam em determinados momentos.</body>
 	</string>
 	<string>
 		<id>907040</id>
 		<name>STR_S1_Beginner_Pass_Sesson_04_DESC</name>
-		<body>You can find the location of the instances on the map.</body>
+		<body>Você encontrará o status atual de uma instância, bem como outras informações no mapa.</body>
 	</string>
 	<string>
 		<id>907041</id>
@@ -33029,12 +33029,12 @@
 	<string>
 		<id>907042</id>
 		<name>STR_S1_Beginner_Pass_Sesson_06_DESC</name>
-		<body>You can find the location of the instances on the map.</body>
+		<body>Você encontrará o status atual de uma instância, bem como outras informações no mapa.</body>
 	</string>
 	<string>
 		<id>907043</id>
 		<name>STR_S1_Beginner_Pass_Sesson_07_DESC</name>
-		<body>You can find the location of the instances on the map.</body>
+		<body>Você encontrará o status atual de uma instância, bem como outras informações no mapa.</body>
 	</string>
 	<string>
 		<id>907044</id>
@@ -33044,7 +33044,7 @@
 	<string>
 		<id>907045</id>
 		<name>STR_S1_Beginner_Pass_Sesson_09_DESC</name>
-		<body>You can find the location of the instances on the map.</body>
+		<body>Você encontrará o status atual de uma instância, bem como outras informações no mapa.</body>
 	</string>
 	<string>
 		<id>907046</id>
@@ -33114,7 +33114,7 @@
 	<string>
 		<id>907059</id>
 		<name>STR_S1_Beginner_Pass_Sesson_03_HTML</name>
-		<body>[Novato] Use a rift.</body>
+		<body>[Novato] Use um Rift.</body>
 	</string>
 	<string>
 		<id>907060</id>
@@ -33239,7 +33239,7 @@
 	<string>
 		<id>907084</id>
 		<name>STR_PARTY_MATCH_DISPLAY_ALL_INSTANCE</name>
-		<body>Show all</body>
+		<body>Mostrar todas</body>
 	</string>
 	<string>
 		<id>907085</id>
@@ -33759,12 +33759,12 @@
 	<string>
 		<id>907286</id>
 		<name>STR_S2_Special_Event_Pass_Daily_01_DESC</name>
-		<body>You can complete this quest by logging in or teleporting.</body>
+		<body>Você pode completar esta missão fazendo login ou se teletransportando.</body>
 	</string>
 	<string>
 		<id>907287</id>
 		<name>STR_S2_Special_Event_Pass_Daily_02_DESC</name>
-		<body>Can also be used with the mascote function Buff Master.</body>
+		<body>Também pode ser usado com a função Buff do mascote.</body>
 	</string>
 	<string>
 		<id>907288</id>
@@ -33774,12 +33774,12 @@
 	<string>
 		<id>907289</id>
 		<name>STR_S2_Special_Event_Pass_Sesson_02_DESC</name>
-		<body>You can also check the waiting time using the chat command ‘/CheckEntry’.</body>
+		<body>Verifique o Tempo de Reentrada digitando '/CheckEntry' ou '/Entradas'.</body>
 	</string>
 	<string>
 		<id>907290</id>
 		<name>STR_S2_Special_Event_Pass_Sesson_03_DESC</name>
-		<body>The greater the difference between monster level and character level, the lower the XP effectiveness.</body>
+		<body>Quanto maior a diferença entre o nível do monstro e o nível do personagem, menor é a EXP adquirida.</body>
 	</string>
 	<string>
 		<id>907291</id>
@@ -33849,7 +33849,7 @@
 	<string>
 		<id>907304</id>
 		<name>STR_S20_Event_Pass_Weekly_03</name>
-		<body>Enter Chantra Dredgion 3x</body>
+		<body>Entre em Chantra Dredgion 3x</body>
 	</string>
 	<string>
 		<id>907305</id>
@@ -33869,17 +33869,17 @@
 	<string>
 		<id>907308</id>
 		<name>STR_S20_Event_Pass_Sesson_03</name>
-		<body>Enter Beshmundir Temple 3x</body>
+		<body>Entre em Beshmundir Temple 3x</body>
 	</string>
 	<string>
 		<id>907309</id>
 		<name>STR_S20_Event_Pass_Sesson_04</name>
-		<body>Kill Stormwing in Beshmundir Temple 2x</body>
+		<body>Mate o Stormwing em Beshmundir Temple 2x</body>
 	</string>
 	<string>
 		<id>907310</id>
 		<name>STR_S20_Event_Pass_Daily_01_DESC</name>
-		<body>You can complete this quest by logging in or teleporting.</body>
+		<body>Você pode completar esta missão fazendo login ou se teletransportando.</body>
 	</string>
 	<string>
 		<id>907311</id>
@@ -33889,17 +33889,17 @@
 	<string>
 		<id>907312</id>
 		<name>STR_S20_Event_Pass_Weekly_01_DESC</name>
-		<body>You can also check the waiting time using the chat command ‘/CheckEntry’.</body>
+		<body>Verifique o Tempo de Reentrada digitando '/CheckEntry' ou '/Entradas'.</body>
 	</string>
 	<string>
 		<id>907313</id>
 		<name>STR_S20_Event_Pass_Weekly_02_DESC</name>
-		<body>Can also be used with the mascote function Buff Master.</body>
+		<body>Também pode ser usado com a função Buff do mascote.</body>
 	</string>
 	<string>
 		<id>907314</id>
 		<name>STR_S20_Event_Pass_Weekly_03_DESC</name>
-		<body>Entry is only possible when the ‘Entry Request’ button is active.</body>
+		<body>O botão 'Solicitar Entrada' será ativado assim que for possível entrar.</body>
 	</string>
 	<string>
 		<id>907315</id>
@@ -33949,7 +33949,7 @@
 	<string>
 		<id>907324</id>
 		<name>STR_S20_Event_Pass_Weekly_03_HTML</name>
-		<body>[Event] Enter the Chantra Dredgion.</body>
+		<body>[Event] Entre em Chantra Dredgion.</body>
 	</string>
 	<string>
 		<id>907325</id>
@@ -33969,12 +33969,12 @@
 	<string>
 		<id>907328</id>
 		<name>STR_S20_Event_Pass_Sesson_03_HTML</name>
-		<body>[Event] Enter Beshmundir Temple.</body>
+		<body>[Event] Entre em Beshmundir Temple.</body>
 	</string>
 	<string>
 		<id>907329</id>
 		<name>STR_S20_Event_Pass_Sesson_04_HTML</name>
-		<body>[Event] Kill Stormwing in Beshmundir Temple (normal).</body>
+		<body>[Event] Mate o Stormwing em Beshmundir Temple (normal).</body>
 	</string>
 	<string>
 		<id>907330</id>
@@ -34169,17 +34169,17 @@
 	<string>
 		<id>907368</id>
 		<name>STR_UI_INDUN_RESET_DAILY</name>
-		<body>%0/%1 daily</body>
+		<body>%0/%1 por dia</body>
 	</string>
 	<string>
 		<id>907369</id>
 		<name>STR_UI_INDUN_RESET_WEEKLY</name>
-		<body>%0/%1 weekly</body>
+		<body>%0/%1 por semana</body>
 	</string>
 	<string>
 		<id>907370</id>
 		<name>STR_UI_TOOLTIP_INDUN_GUIDE</name>
-		<body>Accessible instances</body>
+		<body>Instâncias acessíveis</body>
 	</string>
 	<string>
 		<id>907371</id>
@@ -34299,7 +34299,7 @@
 	<string>
 		<id>907394</id>
 		<name>STR_S14_US_Event_Pass_Sesson_05</name>
-		<body>Enter Chantra Dredgion 3x</body>
+		<body>Entre em Chantra Dredgion 3x</body>
 	</string>
 	<string>
 		<id>907395</id>
@@ -34319,17 +34319,17 @@
 	<string>
 		<id>907398</id>
 		<name>STR_ASK_EXTEND_INVENTORY_CONFIRM2</name>
-		<body>&lt;p align=&quot;center&quot;&gt;Do you want to expand the inventory for %qina1 to Level %0?&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;center&quot;&gt;Deseja expandir o inventário por %qina1 para o nível %0?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>907399</id>
 		<name>STR_ASK_EXTEND_INVENTORY_CONFIRM3</name>
-		<body>&lt;p align=&quot;center&quot;&gt;Do you want to expand the inventory through %1%num2 to Level %0?&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;center&quot;&gt;Deseja expandir o inventário usando %1%num2 para o nível %0?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>907400</id>
 		<name>STR_INVENTORY_CONFIRM</name>
-		<body>Cube Expansion</body>
+		<body>Expansão do Cubo</body>
 	</string>
 	<string>
 		<id>907440</id>
@@ -34354,7 +34354,7 @@
 	<string>
 		<id>907476</id>
 		<name>STR_S21_Pass_Sesson_08_HTML</name>
-		<body>[Padrão] Enter Liberated Beshmundir Temple.</body>
+		<body>[Padrão] Entre em Liberated Beshmundir Temple.</body>
 	</string>
 	<string>
 		<id>907477</id>
@@ -34429,12 +34429,12 @@
 	<string>
 		<id>907491</id>
 		<name>STR_S14_JP_Pass_Sesson_07</name>
-		<body>Kill Stormwing in Beshmundir Temple 1x</body>
+		<body>Mate o Stormwing em Beshmundir Temple 1x</body>
 	</string>
 	<string>
 		<id>907492</id>
 		<name>STR_S14_JP_Pass_Sesson_10</name>
-		<body>Enter Chantra Dredgion 1x</body>
+		<body>Entre em Chantra Dredgion 1x</body>
 	</string>
 	<string>
 		<id>907493</id>
@@ -34449,12 +34449,12 @@
 	<string>
 		<id>907495</id>
 		<name>STR_S14_JP_Event_Pass_Sesson_03</name>
-		<body>Enter Beshmundir Temple 1x</body>
+		<body>Entre em Beshmundir Temple 1x</body>
 	</string>
 	<string>
 		<id>907496</id>
 		<name>STR_S14_JP_Event_Pass_Sesson_05</name>
-		<body>Enter Chantra Dredgion 3x</body>
+		<body>Entre em Chantra Dredgion 3x</body>
 	</string>
 	<string>
 		<id>907497</id>
@@ -34539,7 +34539,7 @@
 	<string>
 		<id>907513</id>
 		<name>STR_S1_JP_Return_Pass_Sesson_02_HTML</name>
-		<body>[Returnee] Receive 10,000 Abyss Points.</body>
+		<body>[Returnee] Adquira 10.000 AP</body>
 	</string>
 	<string>
 		<id>907514</id>
@@ -34649,7 +34649,7 @@
 	<string>
 		<id>907538</id>
 		<name>STR_S13_JP_Pass_Sesson_07</name>
-		<body>Kill Stormwing in Beshmundir Temple 1x</body>
+		<body>Mate o Stormwing em Beshmundir Temple 1x</body>
 	</string>
 	<string>
 		<id>907539</id>
@@ -34664,7 +34664,7 @@
 	<string>
 		<id>907541</id>
 		<name>STR_S13_JP_Pass_Sesson_10</name>
-		<body>Enter Chantra Dredgion 2x</body>
+		<body>Entre em Chantra Dredgion 2x</body>
 	</string>
 	<string>
 		<id>907542</id>
@@ -34699,7 +34699,7 @@
 	<string>
 		<id>907570</id>
 		<name>STR_S9_JP_Event_Pass_Sesson_03</name>
-		<body>Kill 30 monsters in the Silentera Canyon</body>
+		<body>Mate 30 monstros em Silentera Canyon</body>
 	</string>
 	<string>
 		<id>907571</id>
@@ -34784,7 +34784,7 @@
 	<string>
 		<id>907593</id>
 		<name>STR_S15_JP_Pass_Sesson_07</name>
-		<body>Kill Stormwing in Beshmundir Temple 1x</body>
+		<body>Mate o Stormwing em Beshmundir Temple 1x</body>
 	</string>
 	<string>
 		<id>907594</id>
@@ -34799,7 +34799,7 @@
 	<string>
 		<id>907596</id>
 		<name>STR_S15_JP_Pass_Sesson_10</name>
-		<body>Enter Chantra Dredgion 2x</body>
+		<body>Entre em Chantra Dredgion 2x</body>
 	</string>
 	<string>
 		<id>907597</id>
@@ -34849,7 +34849,7 @@
 	<string>
 		<id>907609</id>
 		<name>STR_S12_JP_Event_Pass_Weekly_04_DESC</name>
-		<body>Trade Brokers allow you to trade items between players.</body>
+		<body>Usando o Broker, os jogadores podem comprar e vender itens uns dos outros.</body>
 	</string>
 	<string>
 		<id>907610</id>
@@ -34929,12 +34929,12 @@
 	<string>
 		<id>907725</id>
 		<name>STR_S5_US_Event_Pass_Sesson_03</name>
-		<body>Enter Beshmundir Temple 3x</body>
+		<body>Entre em Beshmundir Temple 3x</body>
 	</string>
 	<string>
 		<id>907726</id>
 		<name>STR_S5_US_Event_Pass_Sesson_04</name>
-		<body>Enter Esoterrace 1x</body>
+		<body>Entre em Esoterrace 1x</body>
 	</string>
 	<string>
 		<id>907727</id>
@@ -34944,12 +34944,12 @@
 	<string>
 		<id>907728</id>
 		<name>STR_S5_US_Event_Pass_Sesson_06</name>
-		<body>Kill 100 monsters in Inggison and Gelkmaros</body>
+		<body>Mate monstros em Inggison e Gelkmaros 100x</body>
 	</string>
 	<string>
 		<id>907729</id>
 		<name>STR_S5_US_Event_Pass_Sesson_07</name>
-		<body>Enter Chantra Dredgion 3x</body>
+		<body>Entre em Chantra Dredgion 3x</body>
 	</string>
 	<string>
 		<id>907730</id>
@@ -34959,77 +34959,77 @@
 	<string>
 		<id>907731</id>
 		<name>STR_S5_US_Event_Pass_Daily_01_DESC</name>
-		<body>You can complete this quest by logging in or teleporting.</body>
+		<body>Você pode completar esta missão fazendo login ou se teletransportando.</body>
 	</string>
 	<string>
 		<id>907732</id>
 		<name>STR_S5_US_Event_Pass_Daily_02_DESC</name>
-		<body>You can also check the waiting time using the chat command ‘/CheckEntry’.</body>
+		<body>Verifique o Tempo de Reentrada digitando '/CheckEntry' ou '/Entradas'.</body>
 	</string>
 	<string>
 		<id>907733</id>
 		<name>STR_S5_US_Event_Pass_Weekly_01_DESC</name>
-		<body>You can also check the waiting time using the chat command ‘/CheckEntry’.</body>
+		<body>Verifique o Tempo de Reentrada digitando '/CheckEntry' ou '/Entradas'.</body>
 	</string>
 	<string>
 		<id>907734</id>
 		<name>STR_S5_US_Event_Pass_Weekly_02_DESC</name>
-		<body>Can also be used with the mascote function Buff Master.</body>
+		<body>Também pode ser usado com a função Buff do mascote.</body>
 	</string>
 	<string>
 		<id>907735</id>
 		<name>STR_S5_US_Event_Pass_Weekly_03_DESC</name>
-		<body>Use candies to transform.</body>
+		<body>Use Candies para se transformar.</body>
 	</string>
 	<string>
 		<id>907736</id>
 		<name>STR_S5_US_Event_Pass_Weekly_05_DESC</name>
-		<body>You can improve your pets’ mood by taking care of them.</body>
+		<body>Melhore o humor do seu mascote com os Mimos do Mascote.</body>
 	</string>
 	<string>
 		<id>907737</id>
 		<name>STR_S5_US_Event_Pass_Sesson_01_DESC</name>
-		<body>You won’t receive any Abyss Points while Siel's Energy is deactivated.</body>
+		<body>Você não receberá nenhum AP enquanto a Siel's Energy estiver inativa.</body>
 	</string>
 	<string>
 		<id>907738</id>
 		<name>STR_S5_US_Event_Pass_Sesson_L_02_DESC</name>
-		<body>In the settings, you can enable/disable the option to display ranks next to names.</body>
+		<body>Há uma opção nas configurações que você pode alternar para exibir os Ranks ao lado dos nomes.</body>
 	</string>
 	<string>
 		<id>907739</id>
 		<name>STR_S5_US_Event_Pass_Sesson_D_02_DESC</name>
-		<body>In the settings, you can enable/disable the option to display ranks next to names.</body>
+		<body>Há uma opção nas configurações que você pode alternar para exibir os Ranks ao lado dos nomes.</body>
 	</string>
 	<string>
 		<id>907740</id>
 		<name>STR_S5_US_Event_Pass_Sesson_03_DESC</name>
-		<body>You can find the location of the instances on the map.</body>
+		<body>Você encontrará o status atual de uma instância, bem como outras informações no mapa.</body>
 	</string>
 	<string>
 		<id>907741</id>
 		<name>STR_S5_US_Event_Pass_Sesson_04_DESC</name>
-		<body>You can find the location of the instances on the map.</body>
+		<body>Você encontrará o status atual de uma instância, bem como outras informações no mapa.</body>
 	</string>
 	<string>
 		<id>907742</id>
 		<name>STR_S5_US_Event_Pass_Sesson_05_DESC</name>
-		<body>You can find the location of the instances on the map.</body>
+		<body>Você encontrará o status atual de uma instância, bem como outras informações no mapa.</body>
 	</string>
 	<string>
 		<id>907743</id>
 		<name>STR_S5_US_Event_Pass_Sesson_06_DESC</name>
-		<body>The greater the difference between monster level and character level, the lower the XP effectiveness.</body>
+		<body>Quanto maior a diferença entre o nível do monstro e o nível do personagem, menor é a EXP adquirida.</body>
 	</string>
 	<string>
 		<id>907744</id>
 		<name>STR_S5_US_Event_Pass_Sesson_07_DESC</name>
-		<body>Entry is only possible when the ‘Entry Request’ button is active.</body>
+		<body>O botão 'Solicitar Entrada' será ativado assim que for possível entrar.</body>
 	</string>
 	<string>
 		<id>907745</id>
 		<name>STR_S5_US_Event_Pass_Sesson_08_DESC</name>
-		<body>The greater the difference between monster level and character level, the lower the XP effectiveness.</body>
+		<body>Quanto maior a diferença entre o nível do monstro e o nível do personagem, menor é a EXP adquirida.</body>
 	</string>
 	<string>
 		<id>907746</id>
@@ -35039,7 +35039,7 @@
 	<string>
 		<id>907747</id>
 		<name>STR_S5_US_Event_Pass_Daily_02_HTML</name>
-		<body>[Event] Enter a dungeon 1x.</body>
+		<body>[Event] Entre em uma instância 1x.</body>
 	</string>
 	<string>
 		<id>907748</id>
@@ -35059,7 +35059,7 @@
 	<string>
 		<id>907751</id>
 		<name>STR_S5_US_Event_Pass_Weekly_05_HTML</name>
-		<body>[Event] Open a pet’s gift pack.</body>
+		<body>[Event] Abra a embalagem que recebeu de presente do mascote.</body>
 	</string>
 	<string>
 		<id>907752</id>
@@ -35069,42 +35069,42 @@
 	<string>
 		<id>907753</id>
 		<name>STR_S5_US_Event_Pass_Sesson_L_02_HTML</name>
-		<body>In [Event] Reshanta, the chance of coming across the opposing faction is especially high.</body>
+		<body>In [Event] Há uma boa chance de você encontrar a facção inimiga em Reshanta.</body>
 	</string>
 	<string>
 		<id>907754</id>
 		<name>STR_S5_US_Event_Pass_Sesson_D_02_HTML</name>
-		<body>In [Event] Reshanta, the chance of coming across the opposing faction is especially high.</body>
+		<body>In [Event] Há uma boa chance de você encontrar a facção inimiga em Reshanta.</body>
 	</string>
 	<string>
 		<id>907755</id>
 		<name>STR_S5_US_Event_Pass_Sesson_03_HTML</name>
-		<body>[Event] Enter Beshmundir Temple.</body>
+		<body>[Event] Entre em Beshmundir Temple.</body>
 	</string>
 	<string>
 		<id>907756</id>
 		<name>STR_S5_US_Event_Pass_Sesson_04_HTML</name>
-		<body>[Event] Enter the Esoterrace.</body>
+		<body>[Event] Entre em Esoterrace.</body>
 	</string>
 	<string>
 		<id>907757</id>
 		<name>STR_S5_US_Event_Pass_Sesson_05_HTML</name>
-		<body>[Event] Enter Liberated Beshmundir Temple.</body>
+		<body>[Event] Entre em Liberated Beshmundir Temple.</body>
 	</string>
 	<string>
 		<id>907758</id>
 		<name>STR_S5_US_Event_Pass_Sesson_06_HTML</name>
-		<body>[Event] Kill monsters in Inggison and Gelkmaros with a maximum of 5 levels difference to your own level.</body>
+		<body>[Event] Mate monstros em Inggison e Gelkmaros com no máximo 5 níveis de diferença para o seu próprio nível.</body>
 	</string>
 	<string>
 		<id>907759</id>
 		<name>STR_S5_US_Event_Pass_Sesson_07_HTML</name>
-		<body>[Event] Enter the Chantra Dredgion.</body>
+		<body>[Event] Entre em Chantra Dredgion.</body>
 	</string>
 	<string>
 		<id>907760</id>
 		<name>STR_S5_US_Event_Pass_Sesson_08_HTML</name>
-		<body>[Event] Kill monsters in the Silentera Canyon with a maximum of 5 levels difference to your own level.</body>
+		<body>[Event] Mate monstros em Silentera Canyon com no máximo 5 níveis de diferença para o seu próprio nível.</body>
 	</string>
 	<string>
 		<id>907834</id>
@@ -35114,7 +35114,7 @@
 	<string>
 		<id>907835</id>
 		<name>STR_S1_JP_Beginner_Pass_Sesson_06_HTML</name>
-		<body>[Novato] Receive 10,000 Abyss Points.</body>
+		<body>[Novato] Adquira 10.000 AP</body>
 	</string>
 	<string>
 		<id>907836</id>
@@ -35124,27 +35124,27 @@
 	<string>
 		<id>907837</id>
 		<name>STR_S16_JP_Event_Pass_Sesson_05</name>
-		<body>Kill Stormwing in Beshmundir Temple 2x</body>
+		<body>Mate o Stormwing em Beshmundir Temple 2x</body>
 	</string>
 	<string>
 		<id>907838</id>
 		<name>STR_S16_JP_Event_Pass_Sesson_06</name>
-		<body>Enter Beshmundir Temple 5x</body>
+		<body>Entre em Beshmundir Temple 5x</body>
 	</string>
 	<string>
 		<id>907923</id>
 		<name>STR_S05_JP_Event_Pass_Sesson_04</name>
-		<body>Enter Esoterrace 1x</body>
+		<body>Entre em Esoterrace 1x</body>
 	</string>
 	<string>
 		<id>907924</id>
 		<name>STR_S05_JP_Event_Pass_Sesson_04_DESC</name>
-		<body>Entry is possible at the Balaurea outpost of the respective faction.</body>
+		<body>A entrada é possível no posto avançado de Balaurea da respectiva facção.</body>
 	</string>
 	<string>
 		<id>907925</id>
 		<name>STR_S05_JP_Event_Pass_Sesson_04_HTML</name>
-		<body>[Event] Enter the Esoterrace.</body>
+		<body>[Event] Entre em Esoterrace.</body>
 	</string>
 	<string>
 		<id>907938</id>
@@ -35154,27 +35154,27 @@
 	<string>
 		<id>907939</id>
 		<name>STR_S16_CN_Event_Pass_Sesson_01</name>
-		<body>Receive 40,000 Abyss Points</body>
+		<body>Adquira 40,000 AP</body>
 	</string>
 	<string>
 		<id>907940</id>
 		<name>STR_S16_CN_Event_Pass_Sesson_03</name>
-		<body>Enter Chantra Dredgion 12x</body>
+		<body>Entre em Chantra Dredgion 12x</body>
 	</string>
 	<string>
 		<id>907941</id>
 		<name>STR_S16_CN_Event_Pass_Sesson_04</name>
-		<body>Kill 10x Dark Tiger</body>
+		<body>Mate Dark Tiger 10x</body>
 	</string>
 	<string>
 		<id>907942</id>
 		<name>STR_S16_CN_Event_Pass_Sesson_05</name>
-		<body>3x Attack on Devoted Anurati</body>
+		<body>Mate o Devoted Anurati 3x</body>
 	</string>
 	<string>
 		<id>907943</id>
 		<name>STR_S16_CN_Event_Pass_Sesson_06</name>
-		<body>3x Attack on Stormwing</body>
+		<body>Mate o Stormwing 3x</body>
 	</string>
 	<string>
 		<id>907944</id>
@@ -35184,12 +35184,12 @@
 	<string>
 		<id>907945</id>
 		<name>STR_S16_CN_Event_Pass_Sesson_01_DESC</name>
-		<body>You won’t receive any Abyss Points while Siel's Energy is deactivated.</body>
+		<body>Você não receberá nenhum AP enquanto a Siel's Energy estiver inativa.</body>
 	</string>
 	<string>
 		<id>907946</id>
 		<name>STR_S16_CN_Event_Pass_Sesson_03_DESC</name>
-		<body>Entering the Dredgion is only possible at certain times.</body>
+		<body>Você só pode entrar na Dredgion em determinados momentos.</body>
 	</string>
 	<string>
 		<id>907947</id>
@@ -35199,12 +35199,12 @@
 	<string>
 		<id>907948</id>
 		<name>STR_S16_CN_Event_Pass_Sesson_05_DESC</name>
-		<body>Entry is possible through the Udas Temple.</body>
+		<body>A entrada é possível através de Udas Temple.</body>
 	</string>
 	<string>
 		<id>907949</id>
 		<name>STR_S16_CN_Event_Pass_Sesson_06_DESC</name>
-		<body>Entry is possible through the Silentera Canyon.</body>
+		<body>A entrada é possível através de Silentera Canyon.</body>
 	</string>
 	<string>
 		<id>907950</id>
@@ -35214,32 +35214,32 @@
 	<string>
 		<id>907951</id>
 		<name>STR_S16_CN_Event_Pass_Sesson_01_HTML</name>
-		<body>[Event] Receive 40,000 Abyss Points.</body>
+		<body>[Event] Adquira 40,000 AP.</body>
 	</string>
 	<string>
 		<id>907952</id>
 		<name>STR_S16_CN_Event_Pass_Sesson_03_HTML</name>
-		<body>[Event] Enter the Chantra Dredgion.</body>
+		<body>[Event] Entre em Chantra Dredgion.</body>
 	</string>
 	<string>
 		<id>907953</id>
 		<name>STR_S16_CN_Event_Pass_Sesson_04_HTML</name>
-		<body>[Event] Kill 10x Dark Tiger.</body>
+		<body>[Event] Mate Dark Tiger 10x.</body>
 	</string>
 	<string>
 		<id>907954</id>
 		<name>STR_S16_CN_Event_Pass_Sesson_05_HTML</name>
-		<body>[Event] Kill 3x Devoted Anurati.</body>
+		<body>[Event] Mate Devoted Anurati 3x.</body>
 	</string>
 	<string>
 		<id>907955</id>
 		<name>STR_S16_CN_Event_Pass_Sesson_06_HTML</name>
-		<body>[Event] Kill Stormwing in Beshmundir Temple.</body>
+		<body>[Event] Mate o Stormwing em Beshmundir Temple.</body>
 	</string>
 	<string>
 		<id>907963</id>
 		<name>STR_S19_JP_Pass_Sesson_08</name>
-		<body>Enter Esoterrace 3x</body>
+		<body>Entre em Esoterrace 3x</body>
 	</string>
 	<string>
 		<id>907983</id>
@@ -35249,11 +35249,11 @@
 	<string>
 		<id>908104</id>
 		<name>STR_S1_Beginner_Pass_Sesson_GF_06</name>
-		<body>Enter Fire Temple 3x</body>
+		<body>Entre em Fire Temple 3x</body>
 	</string>
 	<string>
 		<id>908105</id>
 		<name>STR_S1_Beginner_Pass_Sesson_GF_07</name>
-		<body>Enter Draupnir Cave 3x</body>
+		<body>Entre em Draupnir Cave 3x</body>
 	</string>
 </strings>
