@@ -14010,7 +14010,7 @@
 	<string>
 		<id>902763</id>
 		<name>STR_KEYMAP_TOGGLEDIALOG_INDUN_COOLTIME</name>
-		<body>Informações da Instância</body>
+		<body>Informações das Instâncias</body>
 	</string>
 	<string>
 		<id>902764</id>
@@ -14561,7 +14561,7 @@
 	<string>
 		<id>902876</id>
 		<name>STR_CUSTOM_ANIM_TYPE_SHOP</name>
-		<body>Loja Pessoal</body>
+		<body>Loja</body>
 	</string>
 	<string>
 		<id>902877</id>
@@ -34169,12 +34169,12 @@
 	<string>
 		<id>907368</id>
 		<name>STR_UI_INDUN_RESET_DAILY</name>
-		<body>%0/%1 diária</body>
+		<body>%0/%1 por dia</body>
 	</string>
 	<string>
 		<id>907369</id>
 		<name>STR_UI_INDUN_RESET_WEEKLY</name>
-		<body>%0/%1 semanal</body>
+		<body>%0/%1 por semana</body>
 	</string>
 	<string>
 		<id>907370</id>

@@ -2978,7 +2978,7 @@
 	<string>
 		<id>910482</id>
 		<name>STR_VENDOR_DIALOG__VENDOR_TAB_FRAME_WIDGET2_ARMOR_EXT</name>
-		<body>Armadura</body>
+		<body>Armaduras</body>
 	</string>
 	<string>
 		<id>910483</id>
@@ -3213,7 +3213,7 @@
 	<string>
 		<id>910529</id>
 		<name>STR_VENDOR_DIALOG__VENDOR_TAB_FRAME_WIDGET2_ACCESSORY_EXT</name>
-		<body>Acessório</body>
+		<body>Acessórios</body>
 	</string>
 	<string>
 		<id>910530</id>
@@ -6674,7 +6674,7 @@
 	<string>
 		<id>911224</id>
 		<name>STR_PLAYER_INFO_DIALOG__ABYSS_LASTWEEK</name>
-		<body>Últ Sema</body>
+		<body>Passada</body>
 	</string>
 	<string>
 		<id>911225</id>
@@ -8764,7 +8764,7 @@
 	<string>
 		<id>911642</id>
 		<name>STR_INDUN_COOLTIME_DIALOG__MY_STATE</name>
-		<body>Meu Status</body>
+		<body>Minhas Instâncias</body>
 	</string>
 	<string>
 		<id>911643</id>
