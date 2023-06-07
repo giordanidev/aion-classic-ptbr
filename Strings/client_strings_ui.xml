@@ -9054,7 +9054,7 @@
 	<string>
 		<id>901426</id>
 		<name>STR_UI_LOOT_REMAIN_TIME</name>
-		<body>Tempo restante: %0 seg</body>
+		<body>%0 segundos para decidir</body>
 	</string>
 	<string>
 		<id>901427</id>
