@@ -34319,17 +34319,17 @@
 	<string>
 		<id>907398</id>
 		<name>STR_ASK_EXTEND_INVENTORY_CONFIRM2</name>
-		<body>&lt;p align=&quot;center&quot;&gt;Do you want to expand the inventory for %qina1 to Level %0?&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;center&quot;&gt;Deseja expandir o inventário por %qina1 para o nível %0?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>907399</id>
 		<name>STR_ASK_EXTEND_INVENTORY_CONFIRM3</name>
-		<body>&lt;p align=&quot;center&quot;&gt;Do you want to expand the inventory through %1%num2 to Level %0?&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;center&quot;&gt;Deseja expandir o inventário usando %1%num2 para o nível %0?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>907400</id>
 		<name>STR_INVENTORY_CONFIRM</name>
-		<body>Cube Expansion</body>
+		<body>Expansão do Cubo</body>
 	</string>
 	<string>
 		<id>907440</id>
