@@ -8799,7 +8799,7 @@
 	<string>
 		<id>911649</id>
 		<name>STR_INDUN_COOLTIME_DIALOG</name>
-		<body>Informações da Instância</body>
+		<body>Informações das Instâncias</body>
 	</string>
 	<string>
 		<id>911650</id>
@@ -9134,7 +9134,7 @@
 	<string>
 		<id>911716</id>
 		<name>STR_PARTY_MATCH_OFFER_DIALOG</name>
-		<body>Enviar Oferta</body>
+		<body>Montar Grupo</body>
 	</string>
 	<string>
 		<id>911717</id>
@@ -9144,7 +9144,7 @@
 	<string>
 		<id>911718</id>
 		<name>STR_PARTY_MATCH_OFFER_DIALOG__OK</name>
-		<body>Registrar</body>
+		<body>Montar</body>
 	</string>
 	<string>
 		<id>911719</id>
@@ -12449,7 +12449,7 @@
 	<string>
 		<id>912379</id>
 		<name>STR_PLAYER_INFO_DIALOG__PAYMENT</name>
-		<body>Informações da conta</body>
+		<body>Informações da Conta</body>
 	</string>
 	<string>
 		<id>912380</id>
