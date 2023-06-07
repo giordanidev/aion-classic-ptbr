@@ -11140,7 +11140,7 @@
 	<string>
 		<id>901849</id>
 		<name>STR_PARTY_MATCH_JOIN</name>
-		<body>Procurando Grupo</body>
+		<body>Montando Grupo</body>
 	</string>
 	<string>
 		<id>901850</id>
@@ -11150,7 +11150,7 @@
 	<string>
 		<id>901851</id>
 		<name>STR_FORCE_MATCH_JOIN</name>
-		<body>Procurando Aliança</body>
+		<body>Montando Aliança</body>
 	</string>
 	<string>
 		<id>901852</id>
@@ -12483,12 +12483,12 @@
 	<string>
 		<id>902118</id>
 		<name>STR_PARTY_MATCH_SEEK_CREATE</name>
-		<body>Apply for Group</body>
+		<body>Procurando Grupo</body>
 	</string>
 	<string>
 		<id>902119</id>
 		<name>STR_FORCE_MATCH_SEEK_CREATE</name>
-		<body>Apply for Alliance</body>
+		<body>Procurando Alliance</body>
 	</string>
 	<string>
 		<id>902120</id>
@@ -18431,7 +18431,7 @@
 	<string>
 		<id>904128</id>
 		<name>STR_TOOLTIP_ACTIONKEY_EMERGENCY_ESCAPE</name>
-		<body>Retirar-se</body>
+		<body>Retornar/Emergência</body>
 	</string>
 	<string>
 		<id>904129</id>
@@ -18441,7 +18441,7 @@
 	<string>
 		<id>904130</id>
 		<name>STR_TOOLTIP_MAX_DIST_INFO</name>
-		<body>Ao menos %0 %1 / %2 %3m</body>
+		<body>%0 %1 / %2 %3m</body>
 	</string>
 	<string>
 		<id>904131</id>
