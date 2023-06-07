@@ -4637,7 +4637,7 @@
 	<string>
 		<id>910816</id>
 		<name>STR_PARTY_ITEM_DIALOG__PASS_DICE</name>
-		<body>Passarar</body>
+		<body>Passar</body>
 	</string>
 	<string>
 		<id>910817</id>
@@ -7429,7 +7429,7 @@
 	<string>
 		<id>911375</id>
 		<name>STR_LOOT_ROLL_DIALOG__DISMISS</name>
-		<body>Passarar</body>
+		<body>Passar</body>
 	</string>
 	<string>
 		<id>911376</id>

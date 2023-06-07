@@ -3,217 +3,217 @@
 	<string>
 		<id>1200000</id>
 		<name>STR_MSG_COMBAT_MY_ATTACK</name>
-		<body>You inflicted %num1 damage on %0.</body>
+		<body>Você infligiu %num1 de dano em %0.</body>
 		<message_type>16</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200001</id>
 		<name>STR_MSG_COMBAT_MY_CRITICAL</name>
-		<body>Critical Strike! You inflicted %num1 critical damage on %0.</body>
+		<body>Ataque Crítico! Você infligiu %num1 de dano crítico em %0.</body>
 		<message_type>17</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200002</id>
 		<name>STR_MSG_COMBAT_MY_SUMMONED_ATTACK</name>
-		<body>%0 inflicted %num2 damage on %1.</body>
+		<body>%0 infligiu %num2 de dano em %1.</body>
 		<message_type>16</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200003</id>
 		<name>STR_MSG_COMBAT_MY_SUMMONED_CRITICAL</name>
-		<body>Critical Strike! %0 inflicted %num2 critical damage on %1.</body>
+		<body>Ataque Crítico! %0 infligiu %num2 de dano crítico em %1.</body>
 		<message_type>17</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200004</id>
 		<name>STR_MSG_COMBAT_MY_SUMMONED_ENEMY_ATTACK</name>
-		<body>%1 received %num2 damage from %0.</body>
+		<body>%1 recebeu %num2 de dano de %0.</body>
 		<message_type>22</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200005</id>
 		<name>STR_MSG_COMBAT_MY_SUMMONED_ENEMY_CRITICAL</name>
-		<body>Critical Strike! %0 inflicted %num2 critical damage on %1.</body>
+		<body>Ataque Crítico! %0 infligiu %num2 de dano crítico em %1.</body>
 		<message_type>23</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200006</id>
 		<name>STR_SKILL_SUMMON_UNSUMMONED</name>
-		<body>%0 has been dismissed.</body>
+		<body>%0 foi dispensado.</body>
 		<message_type>18</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200007</id>
 		<name>STR_SKILL_SUMMON_STAY_MODE</name>
-		<body>%0 is in Stand-by mode.</body>
+		<body>%0 está no modo de espera.</body>
 		<message_type>18</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200008</id>
 		<name>STR_SKILL_SUMMON_ATTACK_MODE</name>
-		<body>%0 starts to attack the enemy.</body>
+		<body>%0 começou a atacar o inimigo.</body>
 		<message_type>18</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200009</id>
 		<name>STR_SKILL_SUMMON_GUARD_MODE</name>
-		<body>%0 is in Guard mode.</body>
+		<body>%0 está em modo de Guarda.</body>
 		<message_type>18</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200010</id>
 		<name>STR_SKILL_SUMMON_REST_MODE</name>
-		<body>%0 is in Resting mode.</body>
+		<body>%0 está em modo de Repouso.</body>
 		<message_type>18</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200011</id>
 		<name>STR_SKILL_SUMMON_UNSUMMON_FOLLOWER</name>
-		<body>You unsummon %0.</body>
+		<body>Você cancelou a convocação de %0.</body>
 		<message_type>18</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1200012</id>
 		<name>STR_SKILL_SUMMON_COOLDOWN</name>
-		<body>You summon %0 Spirit. Cooldown time begins when it is unsummoned, and takes longer when the spirit is killed by an enemy.</body>
+		<body>Você invocou o espírito %0. O tempo de recarga começa quando você cancela a invicação e demora mais quando o espírito é morto por um inimigo.</body>
 		<message_type>18</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200214</id>
 		<name>STR_SKILL_EFFECT_BLEED_BEGIN</name>
-		<body>You are bleeding.</body>
+		<body>Você está sangrando.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200215</id>
 		<name>STR_SKILL_EFFECT_BLEED_END</name>
-		<body>You are no longer bleeding.</body>
+		<body>Você não está mais sangrando.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200216</id>
 		<name>STR_SKILL_EFFECT_BLIND_BEGIN</name>
-		<body>You cannot see.</body>
+		<body>Você não pode ver.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200217</id>
 		<name>STR_SKILL_EFFECT_BLIND_END</name>
-		<body>You can see again.</body>
+		<body>Você pode ver novamente.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200218</id>
 		<name>STR_SKILL_EFFECT_CHARM_BEGIN</name>
-		<body>You are charmed.</body>
+		<body>Você está encantado.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200219</id>
 		<name>STR_SKILL_EFFECT_CHARM_END</name>
-		<body>You are no longer charmed.</body>
+		<body>Você não está mais encantado.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200220</id>
 		<name>STR_SKILL_EFFECT_CONFUSE_BEGIN</name>
-		<body>You are confused.</body>
+		<body>Você está confuso.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200221</id>
 		<name>STR_SKILL_EFFECT_CONFUSE_END</name>
-		<body>You are no longer confused.</body>
+		<body>Você não está mais confuso.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200222</id>
 		<name>STR_SKILL_EFFECT_CONVERT_HEAL_BEGIN</name>
-		<body>A defence wall has been created to convert received damage into HP.</body>
+		<body>Uma 'parede de defesa' foi criada para converter o dano recebido em HP.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200223</id>
 		<name>STR_SKILL_EFFECT_CONVERT_HEAL_END</name>
-		<body>The defence wall that converts received damage into HP has expired.</body>
+		<body>A 'parede de defesa' que converte o dano recebido em HP expirou.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200224</id>
 		<name>STR_SKILL_EFFECT_SHIELD_MAGIC_BEGIN</name>
-		<body>A defence wall that absorbs damage has been created.</body>
+		<body>Uma 'parede de defesa' que absorve dano foi criada.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200225</id>
 		<name>STR_SKILL_EFFECT_SHIELD_MAGIC_END</name>
-		<body>The defence wall that absorbs damage has expired.</body>
+		<body>A 'parede de defesa' que absorve dano expirou.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200226</id>
 		<name>STR_SKILL_EFFECT_CURSE_BEGIN</name>
-		<body>You are cursed.</body>
+		<body>Você foi amaldiçoado.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200227</id>
 		<name>STR_SKILL_EFFECT_CURSE_END</name>
-		<body>You are no longer cursed.</body>
+		<body>Você não está mais amaldiçoado.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200228</id>
 		<name>STR_SKILL_EFFECT_DISEASE_BEGIN</name>
-		<body>You are diseased.</body>
+		<body>Você está doente.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200229</id>
 		<name>STR_SKILL_EFFECT_DISEASE_END</name>
-		<body>You recovered from the disease.</body>
+		<body>Você se recuperou da doença.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200230</id>
 		<name>STR_SKILL_EFFECT_FEAR_BEGIN</name>
-		<body>You are struck by fear.</body>
+		<body>Você está com medo!.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200231</id>
 		<name>STR_SKILL_EFFECT_FEAR_END</name>
-		<body>You recovered from your fear.</body>
+		<body>Você se recuperou do seu medo.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -5412,7 +5412,7 @@
 	<string>
 		<id>1201105</id>
 		<name>STR_SKILL_SUCC_Blind_END_ME</name>
-		<body>You can see again</body>
+		<body>Você pode ver novamente</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -5430,7 +5430,7 @@
 	<string>
 		<id>1201108</id>
 		<name>STR_SKILL_SUCC_Fear_END_ME</name>
-		<body>You recovered from your fear.</body>
+		<body>Você se recuperou do seu medo.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -6558,14 +6558,14 @@
 	<string>
 		<id>1220000</id>
 		<name>STR_MSG_COMBAT_PARTY_ATTACK</name>
-		<body>%0 inflicted %num2 damage on %1.</body>
+		<body>%0 infligiu %num2 de dano em %1.</body>
 		<message_type>28</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1220001</id>
 		<name>STR_MSG_COMBAT_PARTY_CRITICAL</name>
-		<body>Critical Strike! %0 inflicted %num2 critical damage on %1.</body>
+		<body>Ataque Crítico! %0 infligiu %num2 de dano crítico em %1.</body>
 		<message_type>28</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -6614,7 +6614,7 @@
 	<string>
 		<id>1230000</id>
 		<name>STR_MSG_COMBAT_PARTY_ENEMY_ATTACK</name>
-		<body>%1 received %num2 damage from %0.</body>
+		<body>%1 recebeu %num2 de dano de %0.</body>
 		<message_type>33</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -6670,14 +6670,14 @@
 	<string>
 		<id>1240000</id>
 		<name>STR_MSG_COMBAT_OTHER_FRIENDLY_ATTACK</name>
-		<body>%0 inflicted %num2 damage on %1.</body>
+		<body>%0 infligiu %num2 de dano em %1.</body>
 		<message_type>38</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1240001</id>
 		<name>STR_MSG_COMBAT_OTHER_FRIENDLY_CRITICAL</name>
-		<body>Critical Strike! %0 inflicted %num2 critical damage on %1.</body>
+		<body>Ataque Crítico! %0 infligiu %num2 de dano crítico em %1.</body>
 		<message_type>38</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -6726,14 +6726,14 @@
 	<string>
 		<id>1250000</id>
 		<name>STR_MSG_COMBAT_OTHER_HOSTILE_ATTACK</name>
-		<body>%0 inflicted %num2 damage on %1.</body>
+		<body>%0 infligiu %num2 de dano em %1.</body>
 		<message_type>43</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1250001</id>
 		<name>STR_MSG_COMBAT_OTHER_HOSTILE_CRITICAL</name>
-		<body>Critical Strike! %0 inflicted %num2 critical damage on %1.</body>
+		<body>Ataque Crítico! %0 infligiu %num2 de dano crítico em %1.</body>
 		<message_type>43</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -6782,14 +6782,14 @@
 	<string>
 		<id>1260000</id>
 		<name>STR_MSG_COMBAT_OTHER_NPC_ATTACK</name>
-		<body>%0 inflicted %num2 damage on %1.</body>
+		<body>%0 infligiu %num2 de dano em %1.</body>
 		<message_type>48</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1260001</id>
 		<name>STR_MSG_COMBAT_OTHER_NPC_CRITICAL</name>
-		<body>Critical Strike! %0 inflicted %num2 critical damage on %1.</body>
+		<body>Ataque Crítico! %0 infligiu %num2 de dano crítico em %1.</body>
 		<message_type>48</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -21392,7 +21392,7 @@
 	<string>
 		<id>1400646</id>
 		<name>STR_MSG_PET_UNSUMMONED</name>
-		<body>%0 has been dismissed.</body>
+		<body>%0 foi dispensado.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
