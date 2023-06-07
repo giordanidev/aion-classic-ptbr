@@ -9069,12 +9069,12 @@
 	<string>
 		<id>911703</id>
 		<name>STR_PARTY_MATCH_DIALOG__OFFER_COL_MEMBER</name>
-		<body>Membro</body>
+		<body>Membros</body>
 	</string>
 	<string>
 		<id>911704</id>
 		<name>STR_PARTY_MATCH_DIALOG__OFFER_COL_LEVEL</name>
-		<body>Nível</body>
+		<body>Níveis</body>
 	</string>
 	<string>
 		<id>911705</id>
@@ -9084,7 +9084,7 @@
 	<string>
 		<id>911706</id>
 		<name>STR_PARTY_MATCH_DIALOG__SEEK_COL_CLASS</name>
-		<body>Classe</body>
+		<body>Classes</body>
 	</string>
 	<string>
 		<id>911707</id>
@@ -9209,7 +9209,7 @@
 	<string>
 		<id>911731</id>
 		<name>STR_PARTY_MATCH_DIALOG__SEARCH_OK</name>
-		<body>Procurar</body>
+		<body>Pesquisar</body>
 	</string>
 	<string>
 		<id>911732</id>
@@ -9254,12 +9254,12 @@
 	<string>
 		<id>911740</id>
 		<name>STR_PARTY_MATCH_DIALOG__SEARCH_OFFER_MINIMIZE</name>
-		<body>Pesquisa automática quando a janela é fechada</body>
+		<body>Pesquisa c/ janela fechada</body>
 	</string>
 	<string>
 		<id>911741</id>
 		<name>STR_PARTY_MATCH_DIALOG__SEARCH_SEEK_MINIMIZE</name>
-		<body>Pesquisa automática quando a janela é fechada</body>
+		<body>Pesquisa c/ janela fechada</body>
 	</string>
 	<string>
 		<id>911742</id>
@@ -13354,7 +13354,7 @@
 	<string>
 		<id>912561</id>
 		<name>STR_PARTY_MATCH_DIALOG__SEARCH_INSTANCE</name>
-		<body>Selecione a Instância</body>
+		<body>Instância</body>
 	</string>
 	<string>
 		<id>912562</id>
@@ -13364,7 +13364,7 @@
 	<string>
 		<id>912563</id>
 		<name>STR_PARTY_MATCH_DIALOG__SEARCH_INSTANCE_MATCH_MINIMIZE</name>
-		<body>Busca automática ao fechar janela</body>
+		<body>Buscar ao fechar janela</body>
 	</string>
 	<string>
 		<id>912564</id>
