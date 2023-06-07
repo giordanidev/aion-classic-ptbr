@@ -220,84 +220,84 @@
 	<string>
 		<id>1200232</id>
 		<name>STR_SKILL_EFFECT_INVISIBLE_BEGIN</name>
-		<body>You are invisible.</body>
+		<body>Você está invisível.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200233</id>
 		<name>STR_SKILL_EFFECT_INVISIBLE_END</name>
-		<body>You are no longer invisible.</body>
+		<body>Você não está mais invisível.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200234</id>
 		<name>STR_SKILL_EFFECT_PARALYZE_BEGIN</name>
-		<body>You are paralysed.</body>
+		<body>Você foi paralisado.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200235</id>
 		<name>STR_SKILL_EFFECT_PARALYZE_END</name>
-		<body>You are no longer paralysed.</body>
+		<body>Você não está mais paralisado.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200236</id>
 		<name>STR_SKILL_EFFECT_PETRIFICATION_BEGIN</name>
-		<body>You are petrified.</body>
+		<body>Você foi petrificado.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200237</id>
 		<name>STR_SKILL_EFFECT_PETRIFICATION_END</name>
-		<body>You are no longer petrified.</body>
+		<body>Você não está mais petrificado.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200238</id>
 		<name>STR_SKILL_EFFECT_POISON_BEGIN</name>
-		<body>You are poisoned.</body>
+		<body>Você foi envenenado.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200239</id>
 		<name>STR_SKILL_EFFECT_POISON_END</name>
-		<body>You are no longer poisoned.</body>
+		<body>Você não está mais envenenado.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200240</id>
 		<name>STR_SKILL_EFFECT_ROOT_BEGIN</name>
-		<body>You are immobilized.</body>
+		<body>Você foi imobilizado.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200241</id>
 		<name>STR_SKILL_EFFECT_ROOT_END</name>
-		<body>You are no longer immobilized.</body>
+		<body>Você não está mais imobilizado.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200242</id>
 		<name>STR_SKILL_EFFECT_SLEEP_BEGIN</name>
-		<body>You fell asleep.</body>
+		<body>Você foi colocado para dormir.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200243</id>
 		<name>STR_SKILL_EFFECT_SLEEP_END</name>
-		<body>You woke up.</body>
+		<body>Você acordou do cochilo.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
