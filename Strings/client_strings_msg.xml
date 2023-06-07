@@ -7002,7 +7002,7 @@
 	<string>
 		<id>1300022</id>
 		<name>STR_SKILL_TOO_FAR</name>
-		<body>You are too far from the target to use that skill.</body>
+		<body>Você está muito longe do alvo para usar essa habilidade.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 		<ment>SkillTooFar</ment>
@@ -7010,14 +7010,14 @@
 	<string>
 		<id>1300023</id>
 		<name>STR_SKILL_CANCELED</name>
-		<body>The skill was cancelled.</body>
+		<body>A habilidade foi cancelada.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300024</id>
 		<name>STR_SKILL_TARGET_LOST</name>
-		<body>You have failed to use the skill because the target disappeared.</body>
+		<body>Você não conseguiu usar a habilidade porque o alvo desapareceu.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 		<ment>SkillTargetLost</ment>
@@ -7025,42 +7025,42 @@
 	<string>
 		<id>1300025</id>
 		<name>STR_SKILL_TOO_MANY_COOLING</name>
-		<body>You are using too many skills simultaneously.</body>
+		<body>Você está usando muitas habilidades simultaneamente.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300026</id>
 		<name>STR_SKILL_CANT_CAST</name>
-		<body>You cannot do that while you are %0.</body>
+		<body>Você não pode fazer isso enquanto estiver %0.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300027</id>
 		<name>STR_SKILL_CANT_CAST_NOT_IN_COMBAT_MODE</name>
-		<body>You can use the skill only during combat.</body>
+		<body>Você pode usar essa habilidade apenas durante o combate.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300028</id>
 		<name>STR_SKILL_CANT_CAST_NO_SUCH_SKILL</name>
-		<body>That skill does not exist.</body>
+		<body>Essa habilidade não existe.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300029</id>
 		<name>STR_SKILL_FAILED</name>
-		<body>The skill has failed.</body>
+		<body>A habilidade falhou.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300030</id>
 		<name>STR_SKILL_OBSTACLE</name>
-		<body>You cannot use that because there is an obstacle in the way.</body>
+		<body>Você não pode usar isso porque há um obstáculo no caminho.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 		<ment>SkillObstacleExist</ment>
@@ -7068,7 +7068,7 @@
 	<string>
 		<id>1300031</id>
 		<name>STR_SKILL_CANT_FIND_VALID_TARGET</name>
-		<body>You do not have a proper target for that skill.</body>
+		<body>Você não tem um alvo adequado para essa habilidade.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 		<ment>SkillTargetLost</ment>
@@ -7084,14 +7084,14 @@
 	<string>
 		<id>1300033</id>
 		<name>STR_ATTACK_OBSTACLE_EXIST</name>
-		<body>You cannot attack as there is an obstacle in the way.</body>
+		<body>Você não pode atacar porque há um obstáculo no caminho.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300034</id>
 		<name>STR_ATTACK_CANT_FINT_VALID_TARGET</name>
-		<body>You cannot attack.</body>
+		<body>Você não pode atacar.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -8130,14 +8130,14 @@
 	<string>
 		<id>1300182</id>
 		<name>STR_PARTY_ITEM_DICE</name>
-		<body>%0 rolled the dice and got a %num1.</body>
+		<body>%0 rolou os dados e obteve o número %num1.</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300183</id>
 		<name>STR_PARTY_ITEM_DICE_AGAIN</name>
-		<body>You can roll the dice once more if the rolled number is less than 100.</body>
+		<body>Você pode rolar o dado mais uma vez se o número rolado for menor que 100.</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -8165,7 +8165,7 @@
 	<string>
 		<id>1300187</id>
 		<name>STR_PARTY_ITEM_DICE_CUSTOM</name>
-		<body>%0 rolled the dice and got a %num1 (max. %num2).</body>
+		<body>%0 rolou os dados e obteve o número %num1 (máx. %num2).</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -9628,7 +9628,7 @@
 	<string>
 		<id>1300396</id>
 		<name>STR_GET_ITEM</name>
-		<body>You have acquired %0.</body>
+		<body>Você adquiriu %0.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -9818,7 +9818,7 @@
 	<string>
 		<id>1300423</id>
 		<name>STR_USE_ITEM</name>
-		<body>You have used %0.</body>
+		<body>Você usou %0.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -10316,7 +10316,7 @@
 	<string>
 		<id>1300494</id>
 		<name>STR_ITEM_CANT_USE_UNTIL_DELAY_TIME</name>
-		<body>You cannot use the item as its cooldown time has not expired yet.</body>
+		<body>Você não pode usar esse item porque seu tempo de recarga ainda não terminou.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -12003,35 +12003,35 @@
 	<string>
 		<id>1300735</id>
 		<name>STR_FLYING_DISABLE_1</name>
-		<body>You cannot use any items while flying.</body>
+		<body>Você não pode usar nenhum item enquanto está voando.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300736</id>
 		<name>STR_FLYING_DISABLE_2</name>
-		<body>You cannot use the skill while flying.</body>
+		<body>Você não pode usar essa habilidade enquanto está voando.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300737</id>
 		<name>STR_DEATH_MESSAGE_ME</name>
-		<body>You have died.</body>
+		<body>Você foi morto pelo ataque de %0.</body>
 		<message_type>57</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300738</id>
 		<name>STR_REBIRTH_MASSAGE_ME</name>
-		<body>You have resurrected.</body>
+		<body>Você ressuscitou.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300739</id>
 		<name>STR_KILLMSG</name>
-		<body>%0 has defeated %1.</body>
+		<body>%0 derrotou %1.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -12326,21 +12326,21 @@
 	<string>
 		<id>1300781</id>
 		<name>STR_MSG_DICE_ROLLED</name>
-		<body>%0 rolled the dice and got a %num1.</body>
+		<body>%0 rolou os dados e obteve o número %num1.</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300782</id>
 		<name>STR_MSG_DICE_PASSED</name>
-		<body>%0 gave up rolling the dice.</body>
+		<body>%0 desistiu de rolar os dados.</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300783</id>
 		<name>STR_MSG_DICE_UNAUTHORIZED</name>
-		<body>%0 does not have the right to roll the dice.</body>
+		<body>%0 não tem o direito de rolar o dado.</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -14041,14 +14041,14 @@
 	<string>
 		<id>1301026</id>
 		<name>STR_FORCE_ITEM_DICE</name>
-		<body>%0 rolled the dice and got a %num1.</body>
+		<body>%0 rolou os dados e obteve o número %num1.</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1301027</id>
 		<name>STR_FORCE_ITEM_DICE_AGAIN</name>
-		<body>You can roll the dice once more if the rolled number is less than 100.</body>
+		<body>Você pode rolar o dado mais uma vez se o número rolado for menor que 100.</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -14770,7 +14770,7 @@
 	<string>
 		<id>1320000</id>
 		<name>STR_MSG_COMBAT_MY_ABYSS_POINT_GAIN</name>
-		<body>You have gained %num0 Abyss Points.</body>
+		<body>Você ganhou %num0 Abyss Points.</body>
 		<message_type>60</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -14956,7 +14956,7 @@
 	<string>
 		<id>1330020</id>
 		<name>STR_GATHER_SUCCESS_5_FORESTRY</name>
-		<body>You have acquired %0.</body>
+		<body>Você adquiriu %0.</body>
 		<message_type>56</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -15404,119 +15404,119 @@
 	<string>
 		<id>1340000</id>
 		<name>STR_MSG_COMBAT_MY_DEATH</name>
-		<body>You have died.</body>
+		<body>Você foi morto pelo ataque de %0.</body>
 		<message_type>57</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1340001</id>
 		<name>STR_MSG_PvPZONE_MY_DEATH_TO_B</name>
-		<body>You were killed by %0&apos;s attack.</body>
+		<body>Você foi morto pelo ataque de %0.</body>
 		<message_type>57</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1340002</id>
 		<name>STR_MSG_COMBAT_MY_DEATH_TO_B</name>
-		<body>You were killed by %0&apos;s attack.</body>
+		<body>Você foi morto pelo ataque de %0.</body>
 		<message_type>57</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1350000</id>
 		<name>STR_MSG_COMBAT_FRIENDLY_DEATH</name>
-		<body>%0 has died.</body>
+		<body>%0 morreu.</body>
 		<message_type>58</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1350001</id>
 		<name>STR_MSG_COMBAT_FRIENDLY_DEATH_TO_B</name>
-		<body>%0 was killed by %1&apos;s attack.</body>
+		<body>%0 foi morto pelo ataque de %1.</body>
 		<message_type>58</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1360000</id>
 		<name>STR_MSG_COMBAT_HOSTILE_DEATH</name>
-		<body>%0 has died.</body>
+		<body>%0 morreu.</body>
 		<message_type>59</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1360001</id>
 		<name>STR_MSG_PvPZONE_HOSTILE_DEATH_TO_ME</name>
-		<body>You have defeated %0.</body>
+		<body>Você derrotou %0.</body>
 		<message_type>59</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1360002</id>
 		<name>STR_MSG_PvPZONE_HOSTILE_DEATH_TO_B</name>
-		<body>%0 has defeated %1.</body>
+		<body>%0 derrotou %1.</body>
 		<message_type>59</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1360003</id>
 		<name>STR_MSG_COMBAT_HOSTILE_DEATH_TO_ME</name>
-		<body>You have defeated %0.</body>
+		<body>Você derrotou %0.</body>
 		<message_type>59</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1360004</id>
 		<name>STR_MSG_COMBAT_HOSTILE_DEATH_TO_B</name>
-		<body>%0 has defeated %1.</body>
+		<body>%0 derrotou %1.</body>
 		<message_type>59</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1370000</id>
 		<name>STR_GET_EXP</name>
-		<body>You have gained %num1 XP from %0.</body>
+		<body>Você ganhou %num1 EXP de %0.</body>
 		<message_type>60</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1370001</id>
 		<name>STR_MSG_COMBAT_MY_EXP_GAIN</name>
-		<body>You have earned %0 XP.</body>
+		<body>Você ganhou %0 EXP.</body>
 		<message_type>60</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1370002</id>
 		<name>STR_GET_EXP2</name>
-		<body>You have gained %num0 XP.</body>
+		<body>Você ganhou %num0 EXP.</body>
 		<message_type>60</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1370003</id>
 		<name>STR_ENSLAVE_GIVE_EXP_TO_PET_GET_EXP</name>
-		<body>%0 has received %num1 XP.</body>
+		<body>%0 recebeu %num1 EXP.</body>
 		<message_type>60</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1370004</id>
 		<name>STR_ENSLAVE_PET_LOSS_EXP</name>
-		<body>%0 has lost %num1 XP.</body>
+		<body>%0 perdeu %num1 EXP.</body>
 		<message_type>60</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1380000</id>
 		<name>STR_PARTY_DISTRIBUTE_GOLD</name>
-		<body>You distributed %1 Kinah each to %0 members.</body>
+		<body>Você distribuiu %1 Kinah cada para %0 membros.</body>
 		<message_type>61</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1380001</id>
 		<name>STR_MSG_GETMONEY</name>
-		<body>You have earned %num0 Kinah.</body>
+		<body>Você ganhou %num0 Kinah.</body>
 		<message_type>61</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -15530,42 +15530,42 @@
 	<string>
 		<id>1390000</id>
 		<name>STR_GET_ITEM1</name>
-		<body>You have acquired %0.</body>
+		<body>Você adquiriu %0.</body>
 		<message_type>62</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1390001</id>
 		<name>STR_PARTY_ITEM_WIN</name>
-		<body>%0 has acquired %1.</body>
+		<body>%0 adquiriu %1.</body>
 		<message_type>62</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1390002</id>
 		<name>STR_MSG_GET_ITEM_PARTYNOTICE</name>
-		<body>%0 has acquired %1.</body>
+		<body>%0 adquiriu %1.</body>
 		<message_type>62</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1390003</id>
 		<name>STR_FORCE_ITEM_WIN</name>
-		<body>%0 has acquired %1.</body>
+		<body>%0 adquiriu %1.</body>
 		<message_type>62</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1390004</id>
 		<name>STR_MSG_GET_ITEM</name>
-		<body>You have acquired %0.</body>
+		<body>Você adquiriu %0.</body>
 		<message_type>62</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1390005</id>
 		<name>STR_MSG_GET_ITEM_MULTI</name>
-		<body>You have acquired %num1 %0(s).</body>
+		<body>Você adquiriu %num1 %0(s).</body>
 		<message_type>62</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -15607,7 +15607,7 @@
 	<string>
 		<id>1390110</id>
 		<name>STR_MSG_NEED_TARGET</name>
-		<body>Please select a target.</body>
+		<body>Selecione um alvo.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -15621,63 +15621,63 @@
 	<string>
 		<id>1390112</id>
 		<name>STR_MAIL_MSG_RECIPIENT_UNKNOWN</name>
-		<body>The character name does not exist. Please check the recipient again.</body>
+		<body>O nome do personagem não existe. Verifique o destinatário novamente.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1390113</id>
 		<name>STR_MAIL_MSG_RECIPIENT_MAILBOX_FULL</name>
-		<body>You cannot send a mail to %0 because his/her mailbox is full.</body>
+		<body>Você não pode enviar um mail para %0 porque a caixa de correio dele(a) está cheia.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1390114</id>
 		<name>STR_MSG_REJECTED_WATCH</name>
-		<body>%0 is currently refusing the View Detail access.</body>
+		<body>%0 está não permite usar a funcção Ver Detalhes no personagem dele.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1390115</id>
 		<name>STR_MSG_REJECTED_TRADE</name>
-		<body>%0 is currently rejecting trade requests.</body>
+		<body>%0 não está aceitando pedidos de troca no momento.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1390116</id>
 		<name>STR_MSG_REJECTED_INVITE_PARTY</name>
-		<body>%0 is currently rejecting group invitations.</body>
+		<body>%0 não está aceitando convites de grupo no momento.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1390117</id>
 		<name>STR_MSG_REJECTED_INVITE_FORCE</name>
-		<body>%0 is currently rejecting alliance invitations.</body>
+		<body>%0 não está aceitando convites de aliança no momento.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1390118</id>
 		<name>STR_MSG_REJECTED_INVITE_GUILD</name>
-		<body>%0 is currently rejecting Legion invitations.</body>
+		<body>%0 não está aceitando convites de Legião no momento.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1390119</id>
 		<name>STR_MSG_REJECTED_FRIEND</name>
-		<body>%0 is not currently accepting friend requests.</body>
+		<body>%0 não está aceitando pedidos de amizade no momento.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1390120</id>
 		<name>STR_MSG_REJECTED_DUEL</name>
-		<body>%0 is not currently accepting duel requests.</body>
+		<body>%0 não está aceitando pedidos de duelo no momento.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -15964,28 +15964,28 @@
 	<string>
 		<id>1390162</id>
 		<name>STR_MSG_DICE_RESULT_ME</name>
-		<body>You rolled the dice and got %0 (max. %num1).</body>
+		<body>Você rolou os dados e obteve %0 (máx. %num1).</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1390163</id>
 		<name>STR_MSG_DICE_RESULT_OTHER</name>
-		<body>%0 rolled the dice and got %1 (max. %num2).</body>
+		<body>%0 rolou os dados e obteve %1 (máx. %num2).</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1390164</id>
 		<name>STR_MSG_DICE_GIVEUP_ME</name>
-		<body>You gave up rolling the dice.</body>
+		<body>Você desistiu de rolar os dados.</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1390165</id>
 		<name>STR_MSG_DICE_GIVEUP_OTHER</name>
-		<body>%0 gave up rolling the dice.</body>
+		<body>%0 desistiu de rolar os dados.</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -16181,14 +16181,14 @@
 	<string>
 		<id>1390193</id>
 		<name>STR_MSG_DICE_RESULT_EX_ME</name>
-		<body>You rolled the dice and got a %0 (1~%1).</body>
+		<body>Você rolou os dados e obteve o número %0 (1~%1).</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1390194</id>
 		<name>STR_MSG_DICE_RESULT_EX_OTHER</name>
-		<body>%0&apos;s rolled the dice and got a %1 (1~%2).</body>
+		<body>%0 rolou os dados e obteve %1 (1~%2).</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -16424,7 +16424,7 @@
 	<string>
 		<id>1390226</id>
 		<name>STR_MSG_DICE_ALL_GIVEUP</name>
-		<body>Everyone gave up the Dice Roll.</body>
+		<body>Todos desistiram de Rolar os Dados.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -16704,42 +16704,42 @@
 	<string>
 		<id>1390266</id>
 		<name>STR_MSG_GET_ITEM_PARTYNOTICE_DICE</name>
-		<body>%0 rolled the highest (%0 rolled %1, while you rolled %2).</body>
+		<body>%0 rolou mais alto (%1), enquanto você rolou %2.</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1390267</id>
 		<name>STR_MSG_GET_ITEM_PARTYNOTICE_DICE_GIVEUP_ROLL</name>
-		<body>%0 rolled the highest (%0 rolled %1, while you passed).</body>
+		<body>%0 rolou mais alto (%1), enquanto você passou.</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1390268</id>
 		<name>STR_MSG_GET_ITEM_PARTYNOTICE_DICE_WIN</name>
-		<body>You rolled the highest.</body>
+		<body>Você rolou mais alto.</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1390269</id>
 		<name>STR_MSG_GET_ITEM_PARTYNOTICE_DICE_GIVEUP_ROLL_ALL</name>
-		<body>Everyone passed on rolling the dice.</body>
+		<body>Ninguém rolou os dados.</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1390270</id>
 		<name>STR_MSG_GET_ITEM_PARTYNOTICE_DICE_OFFLINE_WINNER</name>
-		<body>A now-disconnected player rolled the highest (they winner rolled %1, while you rolled %1).</body>
+		<body>Um jogador agora desconectado rolou mais alto (%1), enquanto você rolou %1.</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1390271</id>
 		<name>STR_MSG_GET_ITEM_PARTYNOTICE_DICE_GIVEUP_ROLL_OFFLINE_WINNER</name>
-		<body>A now-disconnected player rolled the highest (they winner rolled %1, while you passed).</body>
+		<body>Um jogador agora desconectado rolou mais alto (%1), enquanto você não rolou.</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -17630,21 +17630,21 @@
 	<string>
 		<id>1400125</id>
 		<name>STR_PARTY_ITEM_DICE_CUSTOM_ME</name>
-		<body>You rolled the dice and got a %num0 (max. %num1).</body>
+		<body>Você rolou os dados e obteve %num0 (máx. %num1).</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1400126</id>
 		<name>STR_MSG_DICE_CUSTOM_ME</name>
-		<body>You rolled the dice and got a %num0 (max. %num1).</body>
+		<body>Você rolou os dados e obteve %num0 (máx. %num1).</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1400127</id>
 		<name>STR_MSG_DICE_CUSTOM_OTHER</name>
-		<body>%0 rolled the dice and got a %num1 (max. %num2).</body>
+		<body>%0 rolou os dados e obteve o número %num1 (máx. %num2).</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -19201,21 +19201,21 @@
 	<string>
 		<id>1400342</id>
 		<name>STR_GET_EXP_VITAL_BONUS</name>
-		<body>You have gained %num1 XP from %0 (Energy of Repose %num2).</body>
+		<body>Você ganhou %num1 EXP de %0 (Energy of Repose %num2).</body>
 		<message_type>60</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1400343</id>
 		<name>STR_GET_EXP_MAKEUP_BONUS</name>
-		<body>You have gained %num1 XP from %0 (Energy of Salvation %num2).</body>
+		<body>Você ganhou %num1 EXP de %0 (Energy of Salvation %num2).</body>
 		<message_type>60</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1400344</id>
 		<name>STR_GET_EXP_VITAL_MAKEUP_BONUS</name>
-		<body>You have gained %num1 XP from %0 (Energy of Repose %num2, Energy of Salvation %num3).</body>
+		<body>Você ganhou %num1 EXP de %0 (Energy of Repose %num2, Energy of Salvation %num3).</body>
 		<message_type>60</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -19243,21 +19243,21 @@
 	<string>
 		<id>1400348</id>
 		<name>STR_GET_EXP2_VITAL_BONUS</name>
-		<body>You have gained %num0 XP (Energy of Repose %num1).</body>
+		<body>Você ganhou %num0 EXP (Energy of Repose %num1).</body>
 		<message_type>60</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1400349</id>
 		<name>STR_GET_EXP2_MAKEUP_BONUS</name>
-		<body>You have gained %num0 XP (Energy of Salvation %num1).</body>
+		<body>Você ganhou %num0 EXP (Energy of Salvation %num1).</body>
 		<message_type>60</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1400350</id>
 		<name>STR_GET_EXP2_VITAL_MAKEUP_BONUS</name>
-		<body>You have gained %num0 XP (Energy of Repose %num1, Energy of Salvation %num2).</body>
+		<body>Você ganhou %num0 EXP (Energy of Repose %num1, Energy of Salvation %num2).</body>
 		<message_type>60</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -20188,7 +20188,7 @@
 	<string>
 		<id>1400479</id>
 		<name>STR_MSG_RESTRICTED_STATE_CANT_THROW_DICE</name>
-		<body>You are unable to obtain items at the current time, and cannot participate in the roll.</body>
+		<body>Você não pode obter itens no momento e não pode participar da rolagem.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -20781,7 +20781,7 @@
 	<string>
 		<id>1400556</id>
 		<name>STR_MSG_COMPLETE_EXCHANGE</name>
-		<body>%0 has acquired %1.</body>
+		<body>%0 adquiriu %1.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -22753,7 +22753,7 @@
 	<string>
 		<id>1400836</id>
 		<name>STR_MSG_GET_ALL_ITEM</name>
-		<body>Promotion Item Test: You have acquired %0.</body>
+		<body>Promotion Item Test: Você adquiriu %0.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -23439,7 +23439,7 @@
 	<string>
 		<id>1400934</id>
 		<name>STR_MSG_INSTANCE_GET_COIN_IDARENA</name>
-		<body>You have acquired %0.</body>
+		<body>Você adquiriu %0.</body>
 		<message_type>62</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -26405,7 +26405,7 @@
 	<string>
 		<id>1401440</id>
 		<name>STR_MSG_YETI_PUSH_KILLED</name>
-		<body>%0! You have died. Check whether combat support is possible.</body>
+		<body>%0! Você foi morto pelo ataque de %0. Check whether combat support is possible.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
