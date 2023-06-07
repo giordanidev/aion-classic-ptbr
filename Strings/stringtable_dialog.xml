@@ -278,17 +278,17 @@
 	<string>
 		<id>900714</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_BODY</name>
-		<body>Formato do Corpo</body>
+		<body>Forma Corpo</body>
 	</string>
 	<string>
 		<id>900715</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HAIR</name>
-		<body>Tipo de Cabelo</body>
+		<body>Tipo Cabelo</body>
 	</string>
 	<string>
 		<id>900716</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_FACE</name>
-		<body>Formato Rosto</body>
+		<body>Forma Rosto</body>
 	</string>
 	<string>
 		<id>900717</id>
@@ -298,22 +298,22 @@
 	<string>
 		<id>900718</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_FEATURE2</name>
-		<body>Tattoo</body>
+		<body>Tatuagem</body>
 	</string>
 	<string>
 		<id>900719</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HAIR_COLOR</name>
-		<body>Cor do Cabelo</body>
+		<body>Cor Cabelo</body>
 	</string>
 	<string>
 		<id>900720</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_LIP_COLOR</name>
-		<body>Cor dos Lábios</body>
+		<body>Cor Lábios</body>
 	</string>
 	<string>
 		<id>900721</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_SKIN_COLOR</name>
-		<body>Cor da Pele</body>
+		<body>Cor Pele</body>
 	</string>
 	<string>
 		<id>900722</id>
@@ -323,7 +323,7 @@
 	<string>
 		<id>900723</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_EYE_COLOR</name>
-		<body>Cor dos Olhos</body>
+		<body>Cor Olhos</body>
 	</string>
 	<string>
 		<id>900800</id>
@@ -338,47 +338,47 @@
 	<string>
 		<id>900802</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE03</name>
-		<body>Altura dos Olhos</body>
+		<body>Altura Olhos</body>
 	</string>
 	<string>
 		<id>900803</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE04</name>
-		<body>Espaç. entre Olhos</body>
+		<body>Espaço Olhos</body>
 	</string>
 	<string>
 		<id>900804</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE05</name>
-		<body>Largura dos Olhos</body>
+		<body>Largura Olhos</body>
 	</string>
 	<string>
 		<id>900805</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE06</name>
-		<body>Tamanho dos Olhos</body>
+		<body>Tamanho Olhos</body>
 	</string>
 	<string>
 		<id>900806</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE07</name>
-		<body>Formato dos Olhos</body>
+		<body>Forma Olhos</body>
 	</string>
 	<string>
 		<id>900807</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE08</name>
-		<body>Ângulo dos Olhos</body>
+		<body>Ângulo Olhos</body>
 	</string>
 	<string>
 		<id>900808</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE09</name>
-		<body>Altura Sombrancelha</body>
+		<body>Alt Sombrancelha</body>
 	</string>
 	<string>
 		<id>900809</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE10</name>
-		<body>Ângulo Sombrancelha</body>
+		<body>Âng Sombrancelha</body>
 	</string>
 	<string>
 		<id>900810</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE11</name>
-		<body>Formato Sombrancelha</body>
+		<body>Forma Sombrancelha</body>
 	</string>
 	<string>
 		<id>900811</id>
@@ -393,12 +393,12 @@
 	<string>
 		<id>900813</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE14</name>
-		<body>Largura do Nariz</body>
+		<body>Largura Nariz</body>
 	</string>
 	<string>
 		<id>900814</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE15</name>
-		<body>Ponta do Nariz</body>
+		<body>Ponta Nariz</body>
 	</string>
 	<string>
 		<id>900815</id>
@@ -408,17 +408,17 @@
 	<string>
 		<id>900816</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE17</name>
-		<body>Altura dos Lábios</body>
+		<body>Altura Lábios</body>
 	</string>
 	<string>
 		<id>900817</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE18</name>
-		<body>Tamanho da Boca</body>
+		<body>Tama Boca</body>
 	</string>
 	<string>
 		<id>900818</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE19</name>
-		<body>Taman. dos Lábios</body>
+		<body>Tam Lábios</body>
 	</string>
 	<string>
 		<id>900819</id>
@@ -428,27 +428,27 @@
 	<string>
 		<id>900820</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE21</name>
-		<body>Formato dos Lábios</body>
+		<body>Forma Lábios</body>
 	</string>
 	<string>
 		<id>900821</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE22</name>
-		<body>Altura do Queixo</body>
+		<body>Altura Queixo</body>
 	</string>
 	<string>
 		<id>900822</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE23</name>
-		<body>Ossos da Bochecha</body>
+		<body>Forma Bochecha</body>
 	</string>
 	<string>
 		<id>900823</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE24</name>
-		<body>Formato da Orelha</body>
+		<body>Forma Orelha</body>
 	</string>
 	<string>
 		<id>900824</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_BODY_DETAIL_TYPE01</name>
-		<body>Tamanho da Cabeça</body>
+		<body>Tam Cabeça</body>
 	</string>
 	<string>
 		<id>900825</id>
@@ -458,12 +458,12 @@
 	<string>
 		<id>900826</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_BODY_DETAIL_TYPE03</name>
-		<body>Tamanho do Pescoço</body>
+		<body>Tam Pescoço</body>
 	</string>
 	<string>
 		<id>900827</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_BODY_DETAIL_TYPE04</name>
-		<body>Tamanho do Ombro</body>
+		<body>Tam Ombro</body>
 	</string>
 	<string>
 		<id>900828</id>
@@ -488,22 +488,22 @@
 	<string>
 		<id>900832</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_BODY_DETAIL_TYPE09</name>
-		<body>Espessura do Braço</body>
+		<body>Braços</body>
 	</string>
 	<string>
 		<id>900833</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_BODY_DETAIL_TYPE10</name>
-		<body>Tamanho das Mãos</body>
+		<body>Tam Mãos</body>
 	</string>
 	<string>
 		<id>900834</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_BODY_DETAIL_TYPE11</name>
-		<body>Espessura das Pernas</body>
+		<body>Pernas</body>
 	</string>
 	<string>
 		<id>900835</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_BODY_DETAIL_TYPE12</name>
-		<body>Tamanho do Pé</body>
+		<body>Tam Pés</body>
 	</string>
 	<string>
 		<id>900836</id>
@@ -518,12 +518,12 @@
 	<string>
 		<id>900838</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_BODY_DETAIL_TYPE15</name>
-		<body>Comprimento dos Braços</body>
+		<body>Tam Braços</body>
 	</string>
 	<string>
 		<id>900839</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_BODY_DETAIL_TYPE16</name>
-		<body>Comprimento das Pernas</body>
+		<body>Tam Pernas</body>
 	</string>
 	<string>
 		<id>900840</id>
@@ -3807,7 +3807,7 @@
 	<string>
 		<id>910648</id>
 		<name>STR_DLG_GUILD_INFO__GUILD_TABFRAME_GUILD_TAB_MEMBER</name>
-		<body>Informações do Membro</body>
+		<body>Membros</body>
 	</string>
 	<string>
 		<id>910649</id>
@@ -5609,7 +5609,7 @@
 	<string>
 		<id>911011</id>
 		<name>STR_PLAYER_INFO_DIALOG__ABYSS</name>
-		<body>Rank/Competição</body>
+		<body>Rank</body>
 	</string>
 	<string>
 		<id>911012</id>
@@ -6654,7 +6654,7 @@
 	<string>
 		<id>911220</id>
 		<name>STR_PLAYER_INFO_DIALOG__ABYSS_NEXT_RANK</name>
-		<body>Próx. Rank</body>
+		<body>Próximo Rank</body>
 	</string>
 	<string>
 		<id>911221</id>
@@ -6669,12 +6669,12 @@
 	<string>
 		<id>911223</id>
 		<name>STR_PLAYER_INFO_DIALOG__ABYSS_THISWEEK</name>
-		<body>Essa Semana</body>
+		<body>Semana</body>
 	</string>
 	<string>
 		<id>911224</id>
 		<name>STR_PLAYER_INFO_DIALOG__ABYSS_LASTWEEK</name>
-		<body>Semana Passarada</body>
+		<body>Últ Sema</body>
 	</string>
 	<string>
 		<id>911225</id>
@@ -6684,17 +6684,17 @@
 	<string>
 		<id>911226</id>
 		<name>STR_PLAYER_INFO_DIALOG__ABYSS_KILLNUM</name>
-		<body>Assassinatos</body>
+		<body>Matou</body>
 	</string>
 	<string>
 		<id>911227</id>
 		<name>STR_PLAYER_INFO_DIALOG__ABYSS_GET_POINT</name>
-		<body>Abyss Pontos</body>
+		<body>AP</body>
 	</string>
 	<string>
 		<id>911228</id>
 		<name>STR_PLAYER_INFO_DIALOG__ABYSS_HIGHTEST_RANK</name>
-		<body>Rank Máximo</body>
+		<body>Rank Máx.</body>
 	</string>
 	<string>
 		<id>911229</id>
@@ -8384,7 +8384,7 @@
 	<string>
 		<id>911566</id>
 		<name>STR_VENDOR_DIALOG__SEARCH_WORD</name>
-		<body>Palavra-chave</body>
+		<body>Pesquisar por</body>
 	</string>
 	<string>
 		<id>911567</id>
@@ -8719,12 +8719,12 @@
 	<string>
 		<id>911633</id>
 		<name>STR_PLAYER_INFO_DIALOG__ADVANCED_STIGMA</name>
-		<body>Greater Stigma</body>
+		<body>Stigma Avançada</body>
 	</string>
 	<string>
 		<id>911634</id>
 		<name>STR_SKILL_DIC_DIALOG__ADVANCED_STIGMA</name>
-		<body>Greater Stigma</body>
+		<body>Stigma Avançada</body>
 	</string>
 	<string>
 		<id>911635</id>
@@ -9044,7 +9044,7 @@
 	<string>
 		<id>911698</id>
 		<name>STR_PARTY_MATCH_DIALOG__TAB_OFFER</name>
-		<body>Recrutando Jogadores</body>
+		<body>Montando Grupo</body>
 	</string>
 	<string>
 		<id>911699</id>
@@ -9194,7 +9194,7 @@
 	<string>
 		<id>911728</id>
 		<name>STR_PARTY_MATCH_DIALOG__SEARCH_WORD</name>
-		<body>Palavra-chave</body>
+		<body>Pesquisar por</body>
 	</string>
 	<string>
 		<id>911729</id>
@@ -9504,7 +9504,7 @@
 	<string>
 		<id>911790</id>
 		<name>STR_UNION_DIALOG__TOTAL_MEMBER</name>
-		<body>Informações do Membro</body>
+		<body>Membros</body>
 	</string>
 	<string>
 		<id>911791</id>
@@ -10039,12 +10039,12 @@
 	<string>
 		<id>911897</id>
 		<name>STR_PLAYER_INFO_DIALOG__MOTION</name>
-		<body>Movimento</body>
+		<body>Efeitos de Movimentação</body>
 	</string>
 	<string>
 		<id>911898</id>
 		<name>STR_PLAYER_INFO_DIALOG__MOTION_CHANGE</name>
-		<body>Mudar Movimento</body>
+		<body>Alterar</body>
 	</string>
 	<string>
 		<id>911899</id>
@@ -12454,7 +12454,7 @@
 	<string>
 		<id>912380</id>
 		<name>STR_PLAYER_INFO_DIALOG__PAYMENT_GRADE</name>
-		<body>Nível da conta</body>
+		<body>Tipo de conta</body>
 	</string>
 	<string>
 		<id>912381</id>
@@ -12564,12 +12564,12 @@
 	<string>
 		<id>912402</id>
 		<name>STR_EQUIPMENT_CHANGE_DIALOG__SET_INFO</name>
-		<body>Informações do Equipamento Selecionado</body>
+		<body>Equipamento Selecionado</body>
 	</string>
 	<string>
 		<id>912403</id>
 		<name>STR_EQUIPMENT_CHANGE_DIALOG__DESC</name>
-		<body>Nome do Equipamento</body>
+		<body>Nome</body>
 	</string>
 	<string>
 		<id>912404</id>
@@ -13429,7 +13429,7 @@
 	<string>
 		<id>912576</id>
 		<name>STR_PARTY_MATCH_DIALOG__INFO</name>
-		<body>Informações do membro</body>
+		<body>Informações do Membro</body>
 	</string>
 	<string>
 		<id>912577</id>

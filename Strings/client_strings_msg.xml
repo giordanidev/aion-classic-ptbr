@@ -7759,7 +7759,7 @@
 	<string>
 		<id>1300129</id>
 		<name>STR_SKILL_AUTO_CHANGE_TARGET_TO_MY</name>
-		<body>You use the skill on yourself instead of the currently selected target.</body>
+		<body>Você usou a habilidade em si mesmo. Você não pode usar essa habilidade no alvo selecionado.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -10316,7 +10316,7 @@
 	<string>
 		<id>1300494</id>
 		<name>STR_ITEM_CANT_USE_UNTIL_DELAY_TIME</name>
-		<body>Você não pode usar esse item porque seu tempo de recarga ainda não terminou.</body>
+		<body>Você não pode usar esse item porque o tempo de recarga ainda não terminou.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -14770,7 +14770,7 @@
 	<string>
 		<id>1320000</id>
 		<name>STR_MSG_COMBAT_MY_ABYSS_POINT_GAIN</name>
-		<body>Você ganhou %num0 Abyss Points.</body>
+		<body>Você adquiriu %num0 Abyss Points.</body>
 		<message_type>60</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -15474,21 +15474,21 @@
 	<string>
 		<id>1370000</id>
 		<name>STR_GET_EXP</name>
-		<body>Você ganhou %num1 EXP de %0.</body>
+		<body>Você adquiriu %num1 EXP de %0.</body>
 		<message_type>60</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1370001</id>
 		<name>STR_MSG_COMBAT_MY_EXP_GAIN</name>
-		<body>Você ganhou %0 EXP.</body>
+		<body>Você adquiriu %0 EXP.</body>
 		<message_type>60</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1370002</id>
 		<name>STR_GET_EXP2</name>
-		<body>Você ganhou %num0 EXP.</body>
+		<body>Você adquiriu %num0 EXP.</body>
 		<message_type>60</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -15516,7 +15516,7 @@
 	<string>
 		<id>1380001</id>
 		<name>STR_MSG_GETMONEY</name>
-		<body>Você ganhou %num0 Kinah.</body>
+		<body>Você adquiriu %num0 Kinah.</body>
 		<message_type>61</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -19201,63 +19201,63 @@
 	<string>
 		<id>1400342</id>
 		<name>STR_GET_EXP_VITAL_BONUS</name>
-		<body>Você ganhou %num1 EXP de %0 (Energy of Repose %num2).</body>
+		<body>Você adquiriu %num1 EXP de %0 (Energy of Repose %num2).</body>
 		<message_type>60</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1400343</id>
 		<name>STR_GET_EXP_MAKEUP_BONUS</name>
-		<body>Você ganhou %num1 EXP de %0 (Energy of Salvation %num2).</body>
+		<body>Você adquiriu %num1 EXP de %0 (Energy of Salvation %num2).</body>
 		<message_type>60</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1400344</id>
 		<name>STR_GET_EXP_VITAL_MAKEUP_BONUS</name>
-		<body>Você ganhou %num1 EXP de %0 (Energy of Repose %num2, Energy of Salvation %num3).</body>
+		<body>Você adquiriu %num1 EXP de %0 (Energy of Repose %num2, Energy of Salvation %num3).</body>
 		<message_type>60</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1400345</id>
 		<name>STR_MSG_COMBAT_MY_EXP_GAIN_VITAL_BONUS</name>
-		<body>You have gained %0 (Energy of Repose %num1).</body>
+		<body>Você adquiriu %0 (Energy of Repose %num1).</body>
 		<message_type>60</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1400346</id>
 		<name>STR_MSG_COMBAT_MY_EXP_GAIN_MAKEUP_BONUS</name>
-		<body>You have gained %0 (Energy of Salvation %num1).</body>
+		<body>Você adquiriu %0 (Energy of Salvation %num1).</body>
 		<message_type>60</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1400347</id>
 		<name>STR_MSG_COMBAT_MY_EXP_GAIN_VITAL_MAKEUP_BONUS</name>
-		<body>You have gained %0 (Energy of Repose %num1, Energy of Salvation %num2).</body>
+		<body>Você adquiriu %0 (Energy of Repose %num1, Energy of Salvation %num2).</body>
 		<message_type>60</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1400348</id>
 		<name>STR_GET_EXP2_VITAL_BONUS</name>
-		<body>Você ganhou %num0 EXP (Energy of Repose %num1).</body>
+		<body>Você adquiriu %num0 EXP (Energy of Repose %num1).</body>
 		<message_type>60</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1400349</id>
 		<name>STR_GET_EXP2_MAKEUP_BONUS</name>
-		<body>Você ganhou %num0 EXP (Energy of Salvation %num1).</body>
+		<body>Você adquiriu %num0 EXP (Energy of Salvation %num1).</body>
 		<message_type>60</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1400350</id>
 		<name>STR_GET_EXP2_VITAL_MAKEUP_BONUS</name>
-		<body>Você ganhou %num0 EXP (Energy of Repose %num1, Energy of Salvation %num2).</body>
+		<body>Você adquiriu %num0 EXP (Energy of Repose %num1, Energy of Salvation %num2).</body>
 		<message_type>60</message_type>
 		<display_type>1</display_type>
 	</string>

@@ -2499,7 +2499,7 @@
 	<string>
 		<id>240339</id>
 		<name>STR_UI_SEARCH_WISH_PARTY</name>
-		<body>Procurando grupo</body>
+		<body>Montando Grupo</body>
 	</string>
 	<string>
 		<id>240340</id>
@@ -6369,37 +6369,37 @@
 	<string>
 		<id>900855</id>
 		<name>STR_MACRO_USE</name>
-		<body>/Use,/Usar</body>
+		<body>/Use</body>
 	</string>
 	<string>
 		<id>900856</id>
 		<name>STR_MACRO_SHORTCUT</name>
-		<body>/Quickbar,/Barra</body>
+		<body>/Quickbar</body>
 	</string>
 	<string>
 		<id>900857</id>
 		<name>STR_MACRO_DELAY</name>
-		<body>/Delay,/Atraso</body>
+		<body>/Delay</body>
 	</string>
 	<string>
 		<id>900858</id>
 		<name>STR_MACRO_CHAT_NORMAL</name>
-		<body>/Say,/Falar</body>
+		<body>/Say</body>
 	</string>
 	<string>
 		<id>900859</id>
 		<name>STR_MACRO_CHAT_GUILD</name>
-		<body>/Legion,/g,/Legiao</body>
+		<body>/Legion,/g</body>
 	</string>
 	<string>
 		<id>900860</id>
 		<name>STR_MACRO_CHAT_PARTY</name>
-		<body>/Group,/Grupo</body>
+		<body>/Group</body>
 	</string>
 	<string>
 		<id>900861</id>
 		<name>STR_MACRO_TARGET</name>
-		<body>/Select,/Selecionar</body>
+		<body>/Select</body>
 	</string>
 	<string>
 		<id>900862</id>
@@ -8979,7 +8979,7 @@
 	<string>
 		<id>901409</id>
 		<name>STR_GAUGE_ITEM_DECOMPOSE</name>
-		<body>Extraíndo</body>
+		<body>Extraindo item</body>
 	</string>
 	<string>
 		<id>901412</id>
@@ -11140,7 +11140,7 @@
 	<string>
 		<id>901849</id>
 		<name>STR_PARTY_MATCH_JOIN</name>
-		<body>Recrutar Grupo</body>
+		<body>Procurando Grupo</body>
 	</string>
 	<string>
 		<id>901850</id>
@@ -11150,7 +11150,7 @@
 	<string>
 		<id>901851</id>
 		<name>STR_FORCE_MATCH_JOIN</name>
-		<body>Recrutar Aliança</body>
+		<body>Procurando Aliança</body>
 	</string>
 	<string>
 		<id>901852</id>
@@ -11160,12 +11160,12 @@
 	<string>
 		<id>901853</id>
 		<name>STR_PARTY_MATCH_CREATE</name>
-		<body>Recrutar Grupo</body>
+		<body>Recrutando Grupo</body>
 	</string>
 	<string>
 		<id>901854</id>
 		<name>STR_FORCE_MATCH_CREATE</name>
-		<body>Recrutar Aliança</body>
+		<body>Recrutando Aliança</body>
 	</string>
 	<string>
 		<id>901855</id>
@@ -14546,32 +14546,32 @@
 	<string>
 		<id>902873</id>
 		<name>STR_CUSTOM_ANIM_TYPE_RUN</name>
-		<body>Correr</body>
+		<body>Correndo</body>
 	</string>
 	<string>
 		<id>902874</id>
 		<name>STR_CUSTOM_ANIM_TYPE_JUMP</name>
-		<body>Pular</body>
+		<body>Pulando</body>
 	</string>
 	<string>
 		<id>902875</id>
 		<name>STR_CUSTOM_ANIM_TYPE_REST</name>
-		<body>Sentar</body>
+		<body>Sentando</body>
 	</string>
 	<string>
 		<id>902876</id>
 		<name>STR_CUSTOM_ANIM_TYPE_SHOP</name>
-		<body>Loja</body>
+		<body>Loja Pessoal</body>
 	</string>
 	<string>
 		<id>902877</id>
 		<name>STR_CUSTOM_ANIM_DEFAULT_ANIM_NAME</name>
-		<body>Movimento %0 Padrão</body>
+		<body>Padrão</body>
 	</string>
 	<string>
 		<id>902878</id>
 		<name>STR_CUSTOM_ANIM_TYPE_DESC</name>
-		<body>Tipo de Movimento</body>
+		<body>Tipos de Movimentação</body>
 	</string>
 	<string>
 		<id>902879</id>
@@ -14581,7 +14581,7 @@
 	<string>
 		<id>902880</id>
 		<name>STR_CUSTOM_ANIM_CURRENT_ANIM_DESC</name>
-		<body>Movimento Atual</body>
+		<body>Efeito Atual</body>
 	</string>
 	<string>
 		<id>902881</id>
@@ -19051,7 +19051,7 @@
 	<string>
 		<id>904252</id>
 		<name>STR_CLASSIC_ACCOUNT_MEMBERSHIP_REMAIN</name>
-		<body>Tempo de ativação do bilhete</body>
+		<body>Tempo de ativação do Ticket</body>
 	</string>
 	<string>
 		<id>904253</id>
