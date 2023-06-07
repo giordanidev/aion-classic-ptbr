@@ -9044,7 +9044,7 @@
 	<string>
 		<id>911698</id>
 		<name>STR_PARTY_MATCH_DIALOG__TAB_OFFER</name>
-		<body>Recrutar Membros para Grupo</body>
+		<body>Recrutando Jogadores</body>
 	</string>
 	<string>
 		<id>911699</id>
@@ -13339,12 +13339,12 @@
 	<string>
 		<id>912558</id>
 		<name>STR_PARTY_MATCH_DIALOG__TAB_INSTANCE_MATCH</name>
-		<body>Lista de recrutamento em todo o servidor</body>
+		<body>Recrutamento em Todos os Servidores</body>
 	</string>
 	<string>
 		<id>912559</id>
 		<name>STR_PARTY_MATCH_INSTANCE_MATCH_DIALOG</name>
-		<body>Lista de recrutamento em todo o servidor</body>
+		<body>Recrutamento em Todos os Servidores</body>
 	</string>
 	<string>
 		<id>912560</id>

@@ -6838,7 +6838,7 @@
 	<string>
 		<id>1300000</id>
 		<name>STR_MSG_CHANGE_WEAPON</name>
-		<body>The weapon has been changed.</body>
+		<body>A arma foi alterada.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -13173,7 +13173,7 @@
 	<string>
 		<id>1300902</id>
 		<name>STR_MSG_AUTH_CONNECTION_LOST</name>
-		<body>You have been disconnected from the server.</body>
+		<body>Você foi desconectado do servidor.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -14314,7 +14314,7 @@
 	<string>
 		<id>1301062</id>
 		<name>STR_SKILL_PROC_EFFECT_OCCURRED</name>
-		<body>%0 has been activated.</body>
+		<body>%0 foi ativado.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -14457,7 +14457,7 @@
 	<string>
 		<id>1310017</id>
 		<name>STR_KICK_CHARACTER</name>
-		<body>You have been disconnected from the server.</body>
+		<body>Você foi desconectado do servidor.</body>
 		<message_type>54</message_type>
 		<display_type>3</display_type>
 	</string>
