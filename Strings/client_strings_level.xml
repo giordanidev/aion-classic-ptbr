@@ -1877,7 +1877,7 @@
 	<string>
 		<id>400378</id>
 		<name>STR_LF2_SZ_A1</name>
-		<body>Manduri Forest\n&nbsp;&nbsp;&nbsp;Manduri Forest&#xA;(Floresta Manduri)</body>
+		<body>Manduri Forest\n&nbsp;&nbsp;Manduri Forest&#xA;(Floresta Manduri)</body>
 	</string>
 	<string>
 		<id>400379</id>
