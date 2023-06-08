@@ -34,3 +34,8 @@ client_strings_item2.xml (arrumado valor pot mana)
 quest_q1096.html
 quest_q3705.html
 
+Espa~ço HTML 3x:
+&nbsp;&nbsp;&nbsp;
+
+Nova linha HTML:
+&#xA;
