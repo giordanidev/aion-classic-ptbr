@@ -1,7 +1,7 @@
 ###################
 ## NÃO TRADUZIDO ##
 ###################
-- HOUSING, HOUSE, BUILDER
+- HOUSING, HOUSE
 - ITEM_SEAL, SEALED
 - L2AUTH, GOOGLE, OTP, Security_Warning
 - INTERSERVER
@@ -13,20 +13,17 @@
 - PCROOM, PCBANG
 - BLOCK
 - CHANGE_SERVER
-- GM_DIALOG, PETITION
-- QUNAMARKET
-- IDPOGUSGAME
-- GACHA
 - CONTEÚDO 55
 
 ###############
 ## TRADUZIDO ##
 ###############
 \STRINGS
-client_strings_ui.xml (100% v1.9)
-stringtable_dialog.xml (100% v1.9)
-client_strings_msg.xml (parcialmente)
-client_strings_item2.xml (arrumado valor pot mana)
+client_strings_ui.xml (100%)
+stringtable_dialog.xml (100%)
+client_strings_msg.xml (parcialmente, em andamento - 300)
+client_strings_item2.xml (arrumado apostrofes)
+client_strings_item2.xml (arrumado valor pot mana e apostrofes)
 
 \DIALOGS
 \\10000_19999
