@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<Dialog frame="507,758,271,45" h_pos_align="center" last_modified="2020-09-07 20:08:54" name="skill_delay_dialog" type="dlg_skill_delay" v_pos_align="bottom">
-	<Widget can_click_item="True" direction_size="1" direction_type="vertical" drag_block_separator="true" elastic_grid_max_rect="0,0,300,300" elastic_grid_size="False" fit_item_size="True" fixed_item_size="True" flag="vscroll" frame="2,13,522,356" h_pos_align="proportion" inner_scroll="False" item_halign="left" item_padding="1,1" item_spacing="1,1" name="grid_list" scroll_type="visible" skin_type="version4" type="grid" v_pos_align="proportion">
-		<Widget frame="0,7,271,38" name="delay_bg" preset="v4_hud_delay" type="image">
-		</Widget>
-		<Widget frame="21,22,228,10" name="delay" preset="v4_delay_gauge" type="gauge" value_type="float">
-		</Widget>
-		<Widget flag="truncate" frame="29,0,213,16" halign="center" name="name" text_shade="True" type="static" valign="middle">
-		</Widget>
+<Dialog flag="not_active;not_focusable" frame="507,758,271,45" h_pos_align="center" last_modified="2020-09-07 20:08:54" name="skill_delay_dialog" type="dlg_skill_delay" v_pos_align="bottom">
+	<Widget frame="0,7,271,38" name="delay_bg" preset="v4_hud_delay" type="image">
+	</Widget>
+	<Widget frame="21,22,228,10" name="delay" preset="v4_delay_gauge" type="gauge" value_type="float">
+	</Widget>
+	<Widget flag="truncate" frame="29,0,213,16" halign="center" name="name" text_shade="True" type="static" valign="middle">
 	</Widget>
 </Dialog>
