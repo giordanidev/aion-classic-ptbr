@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<Dialog flag="not_movable;transparent;not_active" frame="1234,200,44,517" h_pos_align="right" last_modified="2020-09-07 20:08:54" name="quickbar_dialog_extra" type="dlg_shortcut_extra" v_pos_align="middle">
+<Dialog flag="movable;transparent;active" frame="1234,200,44,517" h_pos_align="right" last_modified="2020-09-07 20:08:54" name="quickbar_dialog_extra" type="dlg_shortcut_extra" v_pos_align="middle">
 	<Widget flag="transparent" frame="0,0,44,517" type="container">
 		<Widget cell_padding="2" font="v3_shortcut" frame="0,0,44,44" item_height="44" item_width="44" name="shortcut1" one_click_action="True" preset="v4_quickbar_slot" type="itemview">
 		</Widget>
