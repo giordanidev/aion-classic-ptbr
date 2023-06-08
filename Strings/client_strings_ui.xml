@@ -13540,7 +13540,7 @@
 	<string>
 		<id>902484</id>
 		<name>STR_TOOLTIP_VENDOR_NOTICE</name>
-		<body>&lt;html&gt;&lt;body&gt;&lt;p&gt;Você vendeu algo no Leilão.&lt;/p&gt;&lt;p&gt;Por favor, colete &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</body>
+		<body>&lt;html&gt;&lt;body&gt;&lt;p&gt;Você vendeu algo no Broker.&lt;/p&gt;&lt;p&gt;Por favor, colete &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</body>
 	</string>
 	<string>
 		<id>902485</id>
