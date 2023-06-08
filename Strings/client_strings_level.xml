@@ -1877,7 +1877,7 @@
 	<string>
 		<id>400378</id>
 		<name>STR_LF2_SZ_A1</name>
-		<body>Manduri Forest\n&nbsp;&nbsp;Manduri Forest&#xA;(Floresta Manduri)</body>
+		<body>Manduri Forest\n--Manduri Forest--&#xA;(Floresta Manduri)</body>
 	</string>
 	<string>
 		<id>400379</id>
@@ -1977,7 +1977,7 @@
 	<string>
 		<id>400398</id>
 		<name>STR_LF2_SZ_OP_SUB_1</name>
-		<body>Eltnen Fortress Battlements\n&nbsp;&nbsp;&nbsp;Eltnen Fortress Battlements&#xA;(Ruínas da Fortaleza de Eltnen)</body>
+		<body>Eltnen Fortress Battlements\n--Eltnen Fortress Battlements--&#xA;(Ruínas da Fortaleza de Eltnen)</body>
 	</string>
 	<string>
 		<id>400399</id>
