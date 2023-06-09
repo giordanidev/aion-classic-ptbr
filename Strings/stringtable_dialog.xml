@@ -9049,7 +9049,7 @@
 	<string>
 		<id>911699</id>
 		<name>STR_PARTY_MATCH_DIALOG__TAB_SEEK</name>
-		<body>Aplicar para Grupo</body>
+		<body>Procurando Grupo</body>
 	</string>
 	<string>
 		<id>911700</id>
@@ -9119,7 +9119,7 @@
 	<string>
 		<id>911713</id>
 		<name>STR_PARTY_MATCH_DIALOG__SEEK_PARTY</name>
-		<body>Aplicar</body>
+		<body>Procurar Grupo</body>
 	</string>
 	<string>
 		<id>911714</id>
@@ -9154,7 +9154,7 @@
 	<string>
 		<id>911720</id>
 		<name>STR_PARTY_MATCH_SEEK_DIALOG</name>
-		<body>Aplicar</body>
+		<body>Procurar Grupo</body>
 	</string>
 	<string>
 		<id>911721</id>
@@ -13339,12 +13339,12 @@
 	<string>
 		<id>912558</id>
 		<name>STR_PARTY_MATCH_DIALOG__TAB_INSTANCE_MATCH</name>
-		<body>Recrutamento em Todos os Servidores</body>
+		<body>Todos os Servidores</body>
 	</string>
 	<string>
 		<id>912559</id>
 		<name>STR_PARTY_MATCH_INSTANCE_MATCH_DIALOG</name>
-		<body>Recrutamento em Todos os Servidores</body>
+		<body>Todos os Servidores</body>
 	</string>
 	<string>
 		<id>912560</id>
