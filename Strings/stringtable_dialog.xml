@@ -1928,12 +1928,12 @@
 	<string>
 		<id>910272</id>
 		<name>STR_CHAT_OPTION_DIALOG__WHISPER_RECV</name>
-		<body>recebendo MP</body>
+		<body>Mensagem Recebida</body>
 	</string>
 	<string>
 		<id>910273</id>
 		<name>STR_CHAT_OPTION_DIALOG__WHISPER_SEND</name>
-		<body>enviando MP</body>
+		<body>Mensagem Enviada</body>
 	</string>
 	<string>
 		<id>910274</id>

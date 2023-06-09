@@ -5834,7 +5834,7 @@
 	<string>
 		<id>900748</id>
 		<name>STR_CHAT_MODE_WHISPER</name>
-		<body>MP para %0</body>
+		<body>Mensagem p/ %0</body>
 	</string>
 	<string>
 		<id>900749</id>

@@ -16795,21 +16795,21 @@
 	<string>
 		<id>1400006</id>
 		<name>STR_CMD_WHISHPER_OUTPUT</name>
-		<body>%0 whispers:</body>
+		<body>%0:</body>
 		<message_type>3</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1400007</id>
 		<name>STR_CMD_WHISHPER_OUTPUT_NPC</name>
-		<body>%0 whispers:</body>
+		<body>%0:</body>
 		<message_type>3</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1400008</id>
 		<name>STR_CMD_WHISHPER_INPUT</name>
-		<body>You whisper to %1: %0</body>
+		<body>Você disse para %1: %0</body>
 		<message_type>4</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -26468,14 +26468,14 @@
 	<string>
 		<id>1401449</id>
 		<name>STR_CMD_WHISPER_SEND_YETI</name>
-		<body>You whisper to %0:</body>
+		<body>Você disse para %0:</body>
 		<message_type>2</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1401450</id>
 		<name>STR_CMD_WHISPER_RECV_YETI</name>
-		<body>%0 whispers:</body>
+		<body>%0:</body>
 		<message_type>2</message_type>
 		<display_type>1</display_type>
 	</string>
