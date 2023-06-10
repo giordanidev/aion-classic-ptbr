@@ -11270,7 +11270,7 @@
 	<string>
 		<id>901875</id>
 		<name>STR_INSTANT_DUNGEON_RESURRECT_BUTTON</name>
-		<body>Voltar ao Início</body>
+		<body>Ressur. no Início</body>
 	</string>
 	<string>
 		<id>901876</id>
@@ -11320,7 +11320,7 @@
 	<string>
 		<id>901885</id>
 		<name>STR_PARTY_MATCH_DECLINE</name>
-		<body>Rejeitar Grupo</body>
+		<body>Rejeitar Aplicação</body>
 	</string>
 	<string>
 		<id>901886</id>
