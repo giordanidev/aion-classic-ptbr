@@ -11270,7 +11270,7 @@
 	<string>
 		<id>901875</id>
 		<name>STR_INSTANT_DUNGEON_RESURRECT_BUTTON</name>
-		<body>Iniciando a Ressurreição no Bind Point...</body>
+		<body>Voltar ao Início</body>
 	</string>
 	<string>
 		<id>901876</id>
@@ -32849,7 +32849,7 @@
 	<string>
 		<id>907006</id>
 		<name>STR_INSTANT_DUNGEON_RESURRECT_IDPOGUSGAME</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Ao clicar em 'OK', você retornará imediatamente no início da instância.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Tempo de espera: %0 segundos restantes&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Ao clicar em 'Concordar', você retornará imediatamente no início da instância.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Tempo de espera: %0 segundos restantes&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>907007</id>

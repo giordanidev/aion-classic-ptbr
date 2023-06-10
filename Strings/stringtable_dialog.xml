@@ -3423,7 +3423,7 @@
 	<string>
 		<id>910571</id>
 		<name>STR_VENDOR_DIALOG__VENDOR_TAB_FRAME_COLUMN_LEVEL</name>
-		<body>Nív.</body>
+		<body>Nível</body>
 	</string>
 	<string>
 		<id>910572</id>
@@ -3822,7 +3822,7 @@
 	<string>
 		<id>910651</id>
 		<name>STR_DLG_GUILD_INFO__COLUMN_HEAD_LEVEL</name>
-		<body>Nív.</body>
+		<body>Nível</body>
 	</string>
 	<string>
 		<id>910652</id>
@@ -5739,7 +5739,7 @@
 	<string>
 		<id>911037</id>
 		<name>STR_WHO_DIALOG__LEVEL</name>
-		<body>Nív.</body>
+		<body>Nível</body>
 	</string>
 	<string>
 		<id>911038</id>
@@ -6604,7 +6604,7 @@
 	<string>
 		<id>911210</id>
 		<name>STR_SKILL_DIC_DIALOG__COL_LEVEL</name>
-		<body>Nív.</body>
+		<body>Nível</body>
 	</string>
 	<string>
 		<id>911211</id>
@@ -7279,7 +7279,7 @@
 	<string>
 		<id>911345</id>
 		<name>STR_DLG_GUILD_INFO__LEVEL</name>
-		<body>Nív.</body>
+		<body>Nível</body>
 	</string>
 	<string>
 		<id>911346</id>
@@ -7589,7 +7589,7 @@
 	<string>
 		<id>911407</id>
 		<name>STR_ABYSS_RANK_DIALOG__COL_GUILD_LEVEL</name>
-		<body>Nív.</body>
+		<body>Nível</body>
 	</string>
 	<string>
 		<id>911408</id>
@@ -7614,7 +7614,7 @@
 	<string>
 		<id>911412</id>
 		<name>STR_ABYSS_RANK_DIALOG__COL_USER_LEVEL</name>
-		<body>Nív.</body>
+		<body>Nível</body>
 	</string>
 	<string>
 		<id>911413</id>
@@ -8339,7 +8339,7 @@
 	<string>
 		<id>911557</id>
 		<name>STR_VENDOR_DIALOG__SEARCH_LEVEL</name>
-		<body>Nív.</body>
+		<body>Nível</body>
 	</string>
 	<string>
 		<id>911558</id>
@@ -8774,7 +8774,7 @@
 	<string>
 		<id>911644</id>
 		<name>STR_INDUN_COOLTIME_DIALOG__INDUN_ENTER_LEVEL</name>
-		<body>Nív.</body>
+		<body>Nível</body>
 	</string>
 	<string>
 		<id>911645</id>
@@ -8904,7 +8904,7 @@
 	<string>
 		<id>911670</id>
 		<name>STR_VENDOR_DIALOG__VENDOR_TAB_FRAME_TIP</name>
-		<body>Clique com o botão direito do mouse em um item em seu inventário para que ele apareça na janela de palavras-chave.</body>
+		<body>Clique com o botão direito do mouse em um item para que ele apareça na janela de pesquisa.</body>
 	</string>
 	<string>
 		<id>911671</id>
