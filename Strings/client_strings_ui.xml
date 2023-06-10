@@ -25211,7 +25211,7 @@
 	<string>
 		<id>905484</id>
 		<name>STR_POPUP_ENCHANT_SUCCESS_PROBABILITY</name>
-		<body>Chance de sucesso do encantamento: %0%</body>
+		<body>Chance de sucesso: %0%</body>
 	</string>
 	<string>
 		<id>905485</id>
