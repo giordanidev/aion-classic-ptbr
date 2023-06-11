@@ -9754,7 +9754,7 @@
 	<string>
 		<id>901566</id>
 		<name>STR_RESURRECT_DESC_RP</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Se você clicar no botão OK, ressuscitará imediatamente em %0.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Em até %1 minutos, outras pessoas podem ressuscitá-lo no local atual.&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Se você clicar em 'Concordar', ressuscitará imediatamente em %0.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Em até %1 minutos, outras pessoas podem ressuscitá-lo no local atual.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901567</id>
@@ -11265,7 +11265,7 @@
 	<string>
 		<id>901874</id>
 		<name>STR_INSTANT_DUNGEON_RESURRECT</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Se você clicar no botão OK, você ressuscitará imediatamente no Ponto de Partida de %0.&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Em até %1 minutos, outras pessoas podem ressuscitá-lo no local atual.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Tempo de Espera para Ressurreição: %2 segundos restantes&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Se você clicar em 'Concordar', você ressuscitará imediatamente no Ponto de Partida de %0.&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Em até %1 minutos, outras pessoas podem ressuscitá-lo no local atual.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Tempo de Espera para Ressurreição: %2 segundos restantes&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901875</id>
@@ -11320,7 +11320,7 @@
 	<string>
 		<id>901885</id>
 		<name>STR_PARTY_MATCH_DECLINE</name>
-		<body>Rejeitar Aplicação</body>
+		<body>Rejeitar Grupo</body>
 	</string>
 	<string>
 		<id>901886</id>
@@ -11350,7 +11350,7 @@
 	<string>
 		<id>901891</id>
 		<name>STR_INSTANT_DUNGEON_IDLF1_RESURRECT</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Se você clicar no botão OK,&#xA;você ressuscitará imediatamente&#xA;no Ponto de Partida de %0.&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Se você clicar em 'Concordar',&#xA;você ressuscitará imediatamente&#xA;no Ponto de Partida de %0.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901892</id>
