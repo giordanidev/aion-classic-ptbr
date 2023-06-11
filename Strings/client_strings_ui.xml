@@ -3571,7 +3571,7 @@
 	<string>
 		<id>900294</id>
 		<name>STR_PARTY_INVITE_TITLE</name>
-		<body>Convidar para Grupo</body>
+		<body>Convidar</body>
 	</string>
 	<string>
 		<id>900295</id>
@@ -11270,7 +11270,7 @@
 	<string>
 		<id>901875</id>
 		<name>STR_INSTANT_DUNGEON_RESURRECT_BUTTON</name>
-		<body>Ressur. no Início</body>
+		<body>Voltar no Início</body>
 	</string>
 	<string>
 		<id>901876</id>
@@ -11320,7 +11320,7 @@
 	<string>
 		<id>901885</id>
 		<name>STR_PARTY_MATCH_DECLINE</name>
-		<body>Rejeitar Aplicação</body>
+		<body>Rejeitar</body>
 	</string>
 	<string>
 		<id>901886</id>
