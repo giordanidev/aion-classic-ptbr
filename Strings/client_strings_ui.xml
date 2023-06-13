@@ -3571,7 +3571,7 @@
 	<string>
 		<id>900294</id>
 		<name>STR_PARTY_INVITE_TITLE</name>
-		<body>Convidar</body>
+		<body>Convidar para Grupo</body>
 	</string>
 	<string>
 		<id>900295</id>
@@ -11145,7 +11145,7 @@
 	<string>
 		<id>901850</id>
 		<name>STR_PARTY_MATCH_INVITE</name>
-		<body>Convidar para Grupo</body>
+		<body>Convidar</body>
 	</string>
 	<string>
 		<id>901851</id>
