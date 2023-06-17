@@ -5599,7 +5599,7 @@
 	<string>
 		<id>911009</id>
 		<name>STR_PLAYER_INFO_DIALOG__INFO</name>
-		<body>Info.</body>
+		<body>Personagem</body>
 	</string>
 	<string>
 		<id>911010</id>
@@ -6819,12 +6819,12 @@
 	<string>
 		<id>911253</id>
 		<name>STR_PLAYER_INFO_DIALOG__TOOLTIP_RIGHT_HAND</name>
-		<body>- Mão Direita</body>
+		<body>Mão Direita</body>
 	</string>
 	<string>
 		<id>911254</id>
 		<name>STR_PLAYER_INFO_DIALOG__TOOLTIP_LEFT_HAND</name>
-		<body>- Mão Esquerda</body>
+		<body>Mão Esquerda</body>
 	</string>
 	<string>
 		<id>911255</id>
@@ -7684,12 +7684,12 @@
 	<string>
 		<id>911426</id>
 		<name>STR_PLAYER_INFO_DIALOG__STAT_RIGHT_HAND</name>
-		<body>Mão Direita</body>
+		<body>- Mão Direita</body>
 	</string>
 	<string>
 		<id>911427</id>
 		<name>STR_PLAYER_INFO_DIALOG__STAT_LEFT_HAND</name>
-		<body>Mão Esquerda</body>
+		<body>- Mão Esquerda</body>
 	</string>
 	<string>
 		<id>911428</id>
@@ -11789,12 +11789,12 @@
 	<string>
 		<id>912247</id>
 		<name>STR_ACCOUNT_INFO_DIALOG</name>
-		<body>Informações da Conta</body>
+		<body>Conta</body>
 	</string>
 	<string>
 		<id>912248</id>
 		<name>STR_ACCOUNT_INFO_DIALOG__ACCOUNT_INFO</name>
-		<body>Conta</body>
+		<body>Informações da Conta</body>
 	</string>
 	<string>
 		<id>912249</id>
