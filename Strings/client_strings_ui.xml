@@ -9754,12 +9754,12 @@
 	<string>
 		<id>901566</id>
 		<name>STR_RESURRECT_DESC_RP</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Se você clicar em 'Concordar', ressuscitará imediatamente em %0.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Em até %1 minutos, outras pessoas podem ressuscitá-lo no local atual.&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Se você clicar em 'Concordar', irá renascer imediatamente em %0.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Em até %1 minutos, outras pessoas podem ressuscitá-lo no local atual.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901567</id>
 		<name>STR_RESURRECT_DESC_BIND_STONE</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Você ressuscitará no Kisk em %0&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt; a menos que você escolha outro método de ressurreição em %1 minuto(s).&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Tempo de espera da ressurreição: %2 segundos restantes&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Você irá renascer no Kisk em %0&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt; a menos que você escolha outro método de ressurreição em %1 minuto(s).&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Tempo de espera da ressurreição: %2 segundos restantes&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901568</id>
@@ -10935,7 +10935,7 @@
 	<string>
 		<id>901808</id>
 		<name>STR_CANNOT_RESURRECT_DESC_BIND_STONE_FOR_SLAYER</name>
-		<body>&lt;p align=&quot;left&quot;&gt;&lt;font color=&quot;505895&quot;&gt;Você ressuscitará no Kisk em %0&#xA;a menos que escolha outro método de ressurreição&#xA;dentro de %1 minuto(s).&lt;/font&gt;&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;&lt;font color=&quot;505895&quot;&gt;Tempo de Espera da Ressurreição: %2 segundos restantes&lt;/font&gt;&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;&lt;font color=&quot;505895&quot;&gt;Você irá renascer no Kisk em %0&#xA;a menos que escolha outro método de ressurreição&#xA;dentro de %1 minuto(s).&lt;/font&gt;&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;&lt;font color=&quot;505895&quot;&gt;Tempo de Espera da Ressurreição: %2 segundos restantes&lt;/font&gt;&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901809</id>
@@ -11265,7 +11265,7 @@
 	<string>
 		<id>901874</id>
 		<name>STR_INSTANT_DUNGEON_RESURRECT</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Se você clicar em 'Concordar', você ressuscitará imediatamente no Ponto de Partida de %0.&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Em até %1 minutos, outras pessoas podem ressuscitá-lo no local atual.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Tempo de Espera para Ressurreição: %2 segundos restantes&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Se você clicar em 'Concordar', você irá renascer imediatamente no Ponto de Partida de %0.&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Em até %1 minutos, outras pessoas podem ressuscitá-lo no local atual.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Você pode escolher uma opção em %2 segundos.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901875</id>
@@ -11275,7 +11275,7 @@
 	<string>
 		<id>901876</id>
 		<name>STR_INSTANT_DUNGEON_LEAVE</name>
-		<body>Sair da Zona Instanciada</body>
+		<body>Sair da Instância</body>
 	</string>
 	<string>
 		<id>901877</id>
@@ -11350,7 +11350,7 @@
 	<string>
 		<id>901891</id>
 		<name>STR_INSTANT_DUNGEON_IDLF1_RESURRECT</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Se você clicar em 'Concordar',&#xA;você ressuscitará imediatamente&#xA;no Ponto de Partida de %0.&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Se você clicar em 'Concordar',&#xA;você irá renascer imediatamente&#xA;no Ponto de Partida de %0.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901892</id>
@@ -17301,7 +17301,7 @@
 	<string>
 		<id>903487</id>
 		<name>STR_IDARENA_PVP_RESURRECT</name>
-		<body>&lt;p&gt;Você ressuscitará automaticamente em %0 segundos.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Você receberá alguns buffs de imunidade por um curto período após renascer.&lt;/p&gt;</body>
+		<body>&lt;p&gt;Você irá renascer automaticamente em %0 segundos.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Você receberá alguns buffs de imunidade por um curto período após renascer.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>903488</id>
