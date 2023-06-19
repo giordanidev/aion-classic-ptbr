@@ -12024,7 +12024,7 @@
 	<string>
 		<id>1300738</id>
 		<name>STR_REBIRTH_MASSAGE_ME</name>
-		<body>Você ressuscitou.</body>
+		<body>Você renasceu.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
