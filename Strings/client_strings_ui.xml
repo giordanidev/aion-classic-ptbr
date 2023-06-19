@@ -343,7 +343,7 @@
 	<string>
 		<id>95001</id>
 		<name>STR_ENCHANT_ITEM_DO_YOU_WANT_ENCHANT_ITEM</name>
-		<body>&lt;p&gt;Você deseja Encantar &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;?&lt;/p&gt;&#xA;&lt;p&gt;Se o processo falhar, o nível de Encantamento do item vai ser REDUZIDO por 1.&lt;/p&gt;</body>
+		<body>&lt;p&gt;Você deseja Encantar &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;?&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Se o processo falhar, o nível de Encantamento do item vai ser REDUZIDO por 1.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>95002</id>
@@ -12643,12 +12643,12 @@
 	<string>
 		<id>902150</id>
 		<name>STR_GIVE_ITEM_OPTION_WARNING</name>
-		<body>&lt;p&gt;&#xA;Se o processo falhar, todas as Manastones encaixadas em &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; serão &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDAS&lt;/font&gt;.&lt;/p&gt;</body>
+		<body>&lt;p&gt;&#xA;&#xA;Se o processo falhar, todas as Manastones encaixadas em &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; serão &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDAS&lt;/font&gt;.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902151</id>
 		<name>STR_GIVE_ITEM_OPTION_ON_COMPOUNDED_ITEM_WARNING</name>
-		<body>&lt;p&gt;&#xA;Se o processo falhar, todas as %0 Manastones encaixadas em &lt;font color=&quot;ffff00&quot;&gt;%1&lt;/font&gt; serão &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDAS&lt;/font&gt;.&lt;/p&gt;</body>
+		<body>&lt;p&gt;&#xA;&#xA;Se o processo falhar, todas as %0 Manastones encaixadas em &lt;font color=&quot;ffff00&quot;&gt;%1&lt;/font&gt; serão &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDAS&lt;/font&gt;.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902152</id>
@@ -12658,12 +12658,12 @@
 	<string>
 		<id>902153</id>
 		<name>STR_ENCHANT_ITEM_DO_YOU_WANT_ENCHANT_ITEM_ABOVE_WARNING</name>
-		<body>&lt;p&gt;Se o encantamento falhar, o nível de encantamento do item diminui para %num0.&lt;/p&gt;</body>
+		<body>&lt;p&gt;&#xA;&#xA;Se o encantamento falhar, o nível de encantamento do item diminui para %num0.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902154</id>
 		<name>STR_ENCHANT_ITEM_DO_YOU_WANT_ENCHANT_ITEM_WARNING</name>
-		<body>&lt;p&gt;Se o encantamento falhar, o nível de encantamento do item diminui em 1.&lt;/p&gt;</body>
+		<body>&lt;p&gt;&#xA;&#xA;Se o encantamento falhar, o nível de encantamento do item diminui em 1.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902155</id>
@@ -13905,12 +13905,12 @@
 	<string>
 		<id>902742</id>
 		<name>STR_SECONDPASSWORD_CHECK</name>
-		<body>PIN do Personagem</body>
+		<body>PIN da Conta</body>
 	</string>
 	<string>
 		<id>902743</id>
 		<name>STR_SECONDPASSWORD_CHECK_CONTENT</name>
-		<body>Para aumentar a segurança do login, use o mouse para inserir o PIN do seu personagem.</body>
+		<body>Para aumentar a segurança do login, use o mouse para inserir o PIN da sua conta.</body>
 	</string>
 	<string>
 		<id>902744</id>
