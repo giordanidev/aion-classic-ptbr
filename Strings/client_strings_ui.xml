@@ -338,32 +338,32 @@
 	<string>
 		<id>95000</id>
 		<name>STR_DECOMPOSE_ITEM_DO_YOU_EXTRACT_ITEM</name>
-		<body>&lt;p&gt;Você deseja extrair 'Enchantment Stones' de '%0'?&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Após a conclusão &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; será &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDO&lt;/font&gt;.&lt;/p&gt;</body>
+		<body>&lt;p&gt;Você deseja extrair 'Enchantment Stones' de &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;?&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Após a conclusão &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; será &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDO&lt;/font&gt;.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>95001</id>
 		<name>STR_ENCHANT_ITEM_DO_YOU_WANT_ENCHANT_ITEM</name>
-		<body>&lt;p&gt;Você deseja Encantar '%0'?&lt;/p&gt;&#xA;&lt;p&gt;Se o processo falhar, o nível de Encantamento do item vai ser REDUZIDO por 1.&lt;/p&gt;</body>
+		<body>&lt;p&gt;Você deseja Encantar &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;?&lt;/p&gt;&#xA;&lt;p&gt;Se o processo falhar, o nível de Encantamento do item vai ser REDUZIDO por 1.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>95002</id>
 		<name>STR_GIVE_ITEM_OPTION_DO_YOU_WANT_GIVE_OPTION</name>
-		<body>Você deseja melhorar o item '&lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;' com a 'Manastone' '&lt;font color=&quot;ffff00&quot;&gt;%1&lt;/font&gt;'?</body>
+		<body>Você deseja melhorar &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; com a Manastone &lt;font color=&quot;ffff00&quot;&gt;%1&lt;/font&gt;?</body>
 	</string>
 	<string>
 		<id>95003</id>
 		<name>STR_GIVE_ITEM_OPTION_DO_YOU_WANT_GIVE_OPTION_WITH_WARNING</name>
-		<body>&lt;p&gt;Você deseja melhorar o item '&lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;' com a 'Manastone' &apos;&lt;font color=&quot;ffff00&quot;&gt;%1&lt;/font&gt;&apos;?&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Se o processo falhar, todas as 'manastones' encaixadas no item '&lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;' serão &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDAS&lt;/font&gt;.&lt;/p&gt;</body>
+		<body>&lt;p&gt;Você deseja melhorar &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; com a Manastone &apos;&lt;font color=&quot;ffff00&quot;&gt;%1&lt;/font&gt;&apos;?&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Se o processo falhar, todas as manastones encaixadas no item &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; serão &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDAS&lt;/font&gt;.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>95004</id>
 		<name>STR_REMOVE_ITEM_OPTION_DO_YOU_WANT_REMOVE_OPTION</name>
-		<body>&lt;p&gt;Remover a 'Manastone' '%1' do item '%0' custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%num2&lt;/font&gt;. &lt;/p&gt;&#xA;&lt;p&gt;Você quer remover a 'Manastone'?&lt;/p&gt;</body>
+		<body>&lt;p&gt;Remover a 'Manastone' &lt;font color=&quot;ffff00&quot;&gt;%1&lt;/font&gt; de &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%num2&lt;/font&gt;. &lt;/p&gt;&#xA;&lt;p&gt;Você quer remover a 'Manastone'?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>95005</id>
 		<name>STR_CHANGE_ITEM_SKIN_DO_YOU_WANT_CHANGE_SKIN</name>
-		<body>&lt;p&gt;Modificar a aparência do item '%0' custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%num2&lt;/font&gt; Uma vez concluído, o item &lt;font color=&quot;ff0000&quot;&gt;%1&lt;/font&gt; será &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDO&lt;/font&gt;.&lt;/p&gt;</body>
+		<body>&lt;p&gt;Modificar a aparência do item &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%num2&lt;/font&gt; Uma vez concluído, o item &lt;font color=&quot;ff0000&quot;&gt;%1&lt;/font&gt; será &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDO&lt;/font&gt;.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>95006</id>
@@ -11978,7 +11978,7 @@
 	<string>
 		<id>902017</id>
 		<name>STR_WAIT_TO_CHARACTER_CHOICE</name>
-		<body>Saindo para a tela de seleção de personagens em &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; segundos.</body>
+		<body>Saindo para a tela de Seleção de Personagens em %0 segundos.</body>
 	</string>
 	<string>
 		<id>902018</id>
@@ -12643,12 +12643,12 @@
 	<string>
 		<id>902150</id>
 		<name>STR_GIVE_ITEM_OPTION_WARNING</name>
-		<body>&lt;p&gt;Se falhar, todas as Manastones encaixadas em %0 serão &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDAS&lt;/font&gt;&lt;/p&gt;.</body>
+		<body>&lt;p&gt;&#xA;Se o processo falhar, todas as Manastones encaixadas em &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; serão &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDAS&lt;/font&gt;.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902151</id>
 		<name>STR_GIVE_ITEM_OPTION_ON_COMPOUNDED_ITEM_WARNING</name>
-		<body>&lt;p&gt;Se falhar, todas as %0 Manastones encaixadas em %1 serão &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDAS&lt;/font&gt;&lt;/p&gt;.</body>
+		<body>&lt;p&gt;&#xA;Se o processo falhar, todas as %0 Manastones encaixadas em &lt;font color=&quot;ffff00&quot;&gt;%1&lt;/font&gt; serão &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDAS&lt;/font&gt;.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902152</id>

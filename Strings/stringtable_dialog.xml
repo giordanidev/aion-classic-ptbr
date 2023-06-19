@@ -9369,12 +9369,12 @@
 	<string>
 		<id>911763</id>
 		<name>STR_ENCHANT_DIALOG__TARGET</name>
-		<body>Item para Encantar</body>
+		<body>Item para Encantar/Encaixar</body>
 	</string>
 	<string>
 		<id>911764</id>
 		<name>STR_ENCHANT_DIALOG__SOURCE</name>
-		<body>Item para Encantar</body>
+		<body>Encantando/Encaixando</body>
 	</string>
 	<string>
 		<id>911765</id>
@@ -9394,7 +9394,7 @@
 	<string>
 		<id>911768</id>
 		<name>STR_ENCHANT_DIALOG__OK</name>
-		<body>Encantar</body>
+		<body>Confirmar</body>
 	</string>
 	<string>
 		<id>911769</id>

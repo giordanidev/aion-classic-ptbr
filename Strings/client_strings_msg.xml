@@ -11744,7 +11744,7 @@
 	<string>
 		<id>1300698</id>
 		<name>STR_WAIT_TO_QUIT</name>
-		<body>Fechando o jogo e deixando Atreia.\n\nPor favor, aguarde &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; segundos.\n\nAté mais, Daeva!</body>
+		<body>Fechando o jogo e deixando Atreia.\n\nPor favor, aguarde %0 segundos. Até mais, Daeva!</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
