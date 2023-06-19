@@ -338,7 +338,7 @@
 	<string>
 		<id>95000</id>
 		<name>STR_DECOMPOSE_ITEM_DO_YOU_EXTRACT_ITEM</name>
-		<body>&lt;p&gt;Você deseja extrair Pedras de Encantamento (Enchantment Stones) de '%0'?&lt;/p&gt;&#xA;&lt;p&gt;Após a conclusão &lt;font color=&quot;ff0000&quot;&gt;%0&lt;/font&gt; será &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDO&lt;/font&gt;.&lt;/p&gt;</body>
+		<body>&lt;p&gt;Você deseja extrair 'Enchantment Stones' de '%0'?&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Após a conclusão &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; será &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDO&lt;/font&gt;.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>95001</id>
@@ -348,12 +348,12 @@
 	<string>
 		<id>95002</id>
 		<name>STR_GIVE_ITEM_OPTION_DO_YOU_WANT_GIVE_OPTION</name>
-		<body>Você deseja melhorar o item '%0' com a 'Manastone' '%1'?</body>
+		<body>Você deseja melhorar o item '&lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;' com a 'Manastone' '&lt;font color=&quot;ffff00&quot;&gt;%1&lt;/font&gt;'?</body>
 	</string>
 	<string>
 		<id>95003</id>
 		<name>STR_GIVE_ITEM_OPTION_DO_YOU_WANT_GIVE_OPTION_WITH_WARNING</name>
-		<body>&lt;p&gt;Você deseja melhorar o item '%0' com a 'Manastone' &apos;%1&apos;?&lt;/p&gt;&#xA;&lt;p&gt;Se o processo falhar, todas as 'manastones' encaixadas no item '%0' serão &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDAS&lt;/font&gt;.&lt;/p&gt;</body>
+		<body>&lt;p&gt;Você deseja melhorar o item '&lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;' com a 'Manastone' &apos;&lt;font color=&quot;ffff00&quot;&gt;%1&lt;/font&gt;&apos;?&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Se o processo falhar, todas as 'manastones' encaixadas no item '&lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;' serão &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDAS&lt;/font&gt;.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>95004</id>
@@ -418,7 +418,7 @@
 	<string>
 		<id>160001</id>
 		<name>STR_VENDOR_CONFIRM_SELL</name>
-		<body>Você está vendendo esse item por &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt;. Esse será o seu %num1º item registrado, então uma taxa de registro %2 no valor de &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina3&lt;/font&gt; será aplicada. Continuar?</body>
+		<body>Vender este item por &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt;? Este será o seu %num1º item registrado. Uma taxa de registro %2 no valor de &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina3&lt;/font&gt; será aplicada.&#xA;&#xA;Continuar?</body>
 	</string>
 	<string>
 		<id>160002</id>
@@ -3896,12 +3896,12 @@
 	<string>
 		<id>900359</id>
 		<name>STR_MAIL_RECEIVED_MAIL</name>
-		<body>'Mail'</body>
+		<body>Correio</body>
 	</string>
 	<string>
 		<id>900360</id>
 		<name>STR_MAIL_PENDING_MAIL</name>
-		<body>'Mail' Pendente</body>
+		<body>Correio Pendente</body>
 	</string>
 	<string>
 		<id>900361</id>
@@ -4161,7 +4161,7 @@
 	<string>
 		<id>900412</id>
 		<name>STR_MAIL_CONFIRM_DEL_APPENDED</name>
-		<body>Há um item anexado ao mail. Tem certeza de que deseja excluí-lo?</body>
+		<body>Há um item anexado ao correio. Tem certeza de que deseja excluí-lo?</body>
 	</string>
 	<string>
 		<id>900413</id>
@@ -5759,12 +5759,12 @@
 	<string>
 		<id>900733</id>
 		<name>STR_SELECT_STAGE_MSG_INPUT_DELETE_NOW</name>
-		<body>Se você remover o personagem, os itens no inventário, baú privado e 'mail' também serão removidos. Se você ainda deseja remover seu personagem, por favor escreva &apos;%0&apos;.</body>
+		<body>Se você Excluir o personagem, os itens no inventário, baú privado e correio também serão removidos. Se você ainda deseja remover seu personagem, por favor escreva &apos;%0&apos;.</body>
 	</string>
 	<string>
 		<id>900734</id>
 		<name>STR_SELECT_STAGE_DELETED_CHAR</name>
-		<body>(Persoangem à ser removido)</body>
+		<body>(Persoangem à ser excluído)</body>
 	</string>
 	<string>
 		<id>900735</id>
@@ -5774,7 +5774,7 @@
 	<string>
 		<id>900736</id>
 		<name>STR_SELECT_STAGE_DELETE</name>
-		<body>Remover</body>
+		<body>Excluir</body>
 	</string>
 	<string>
 		<id>900737</id>
@@ -5834,7 +5834,7 @@
 	<string>
 		<id>900748</id>
 		<name>STR_CHAT_MODE_WHISPER</name>
-		<body>Mensagem p/ %0</body>
+		<body>Para %0</body>
 	</string>
 	<string>
 		<id>900749</id>
@@ -8929,7 +8929,7 @@
 	<string>
 		<id>901399</id>
 		<name>STR_CHAT_MODE_ALERT</name>
-		<body>Alert</body>
+		<body>Alerta</body>
 	</string>
 	<string>
 		<id>901400</id>
@@ -9744,7 +9744,7 @@
 	<string>
 		<id>901564</id>
 		<name>STR_CANNOT_DO_WHILE_USING_ITEM</name>
-		<body>Esta habilidade não pode ser usada enquanto estiver usando um item.</body>
+		<body>Esta ação não pode ser executada enquanto estiver usando um item.</body>
 	</string>
 	<string>
 		<id>901565</id>
@@ -9754,7 +9754,7 @@
 	<string>
 		<id>901566</id>
 		<name>STR_RESURRECT_DESC_RP</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Se você clicar em 'Concordar', irá renascer imediatamente em %0.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Em até %1 minutos, outras pessoas podem ressuscitá-lo no local atual.&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Se você clicar em 'Concordar', irá renascer imediatamente em %0.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Em até %1 minutos outras pessoas podem te ressuscitar no local atual.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901567</id>
@@ -9774,7 +9774,7 @@
 	<string>
 		<id>901570</id>
 		<name>STR_RESURRECT_DESC_OTHER</name>
-		<body>&lt;p align=&quot;left&quot;&gt;%0 deseja ressuscitá-lo usando %1. Aceita?&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Você deve decidir em %2 minutos.&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;%0 usou %1 para te ressuscitar. Aceita?&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Você deve decidir em %2 minutos.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901571</id>
@@ -11200,7 +11200,7 @@
 	<string>
 		<id>901861</id>
 		<name>STR_MAIL_MSG_FULL</name>
-		<body>&lt;p&gt;Você não pode receber nenhum mail porque sua caixa de correio está cheia.&lt;/p&gt;&lt;p&gt;Por favor, exclua qualquer mail desnecessário.&lt;/p&gt;</body>
+		<body>&lt;p&gt;Você não pode receber mais nenhum correio porque sua Caixa de Correio está cheia.&lt;/p&gt;&lt;p&gt;Por favor, exclua algum correio desnecessário para continuar recebendo correios.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901862</id>
@@ -11265,7 +11265,7 @@
 	<string>
 		<id>901874</id>
 		<name>STR_INSTANT_DUNGEON_RESURRECT</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Se você clicar em 'Concordar', você irá renascer imediatamente no Ponto de Partida de %0.&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Em até %1 minutos, outras pessoas podem ressuscitá-lo no local atual.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Você pode escolher uma opção em %2 segundos.&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Se você clicar em 'Concordar', você irá renascer imediatamente no Ponto de Partida de %0.&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Em até %1 minutos outras pessoas podem te ressuscitar no local atual.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Você pode escolher uma opção em %2 segundos.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901875</id>
@@ -11580,7 +11580,7 @@
 	<string>
 		<id>901938</id>
 		<name>STR_MAIL_CONFIRM_DEL_ALL_SELECTED_MAIL</name>
-		<body>Isso exclui todos os mails selecionados. Você realmente deseja excluir todos?</body>
+		<body>Isso exclui todos os correios selecionados. Você deseja excluir todos?</body>
 	</string>
 	<string>
 		<id>901939</id>
@@ -11978,7 +11978,7 @@
 	<string>
 		<id>902017</id>
 		<name>STR_WAIT_TO_CHARACTER_CHOICE</name>
-		<body>Saindo para a tela de seleção de personagens em %0 segundos.</body>
+		<body>Saindo para a tela de seleção de personagens em &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; segundos.</body>
 	</string>
 	<string>
 		<id>902018</id>
@@ -12233,7 +12233,7 @@
 	<string>
 		<id>902068</id>
 		<name>STR_GLOBAL_OPTION_GAME_REJECT_MAIL_FROM_LOW_LEVEL</name>
-		<body>Bloquear mail de jogadores &lt; nível %0</body>
+		<body>Bloquear correio de jogadores &lt; nível %0</body>
 	</string>
 	<string>
 		<id>902069</id>
@@ -14255,7 +14255,7 @@
 	<string>
 		<id>902814</id>
 		<name>STR_BUTTON_CONFIRM</name>
-		<body>OK</body>
+		<body>Confirmar</body>
 	</string>
 	<string>
 		<id>902815</id>
@@ -15301,7 +15301,7 @@
 	<string>
 		<id>903080</id>
 		<name>STR_MAIL_CASH_PURCHASE_ITEM_NUMBERS</name>
-		<body>Bens Aguardando Coleta (%0/%1)</body>
+		<body>Itens aguardando coleta (%0/%1)</body>
 	</string>
 	<string>
 		<id>903081</id>
@@ -16351,7 +16351,7 @@
 	<string>
 		<id>903293</id>
 		<name>STR_UPGRADE_ITEM_CONFIRM</name>
-		<body>&lt;p&gt;Você está prestes a comprar o item selecionado por %0.&lt;/p&gt;&lt;p&gt;Continuar?&lt;/p&gt;</body>
+		<body>&lt;p&gt;Você está prestes a comprar o item selecionado por %0.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Continuar?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>903294</id>
@@ -18731,7 +18731,7 @@
 	<string>
 		<id>904188</id>
 		<name>STR_S1_Pass_Weekly_06_DESC</name>
-		<body>Realize extrações em equipamentos para obter Pedras de Encantamento (Enchantment Stones).</body>
+		<body>Realize extrações em equipamentos para obter 'Enchantment Stones'.</body>
 	</string>
 	<string>
 		<id>904189</id>
@@ -19156,7 +19156,7 @@
 	<string>
 		<id>904273</id>
 		<name>STR_S1_Pass_Weekly_04_HTML</name>
-		<body>Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
+		<body>Use 'Enchantment Stones' ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>904274</id>
@@ -19591,7 +19591,7 @@
 	<string>
 		<id>904360</id>
 		<name>STR_S2_Pass_Weekly_06_DESC</name>
-		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento (Enchantment Stones).</body>
+		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter 'Enchantment Stones'.</body>
 	</string>
 	<string>
 		<id>904361</id>
@@ -20021,7 +20021,7 @@
 	<string>
 		<id>904446</id>
 		<name>STR_S3_Pass_Weekly_06_DESC</name>
-		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento (Enchantment Stones).</body>
+		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter 'Enchantment Stones'.</body>
 	</string>
 	<string>
 		<id>904447</id>
@@ -20201,7 +20201,7 @@
 	<string>
 		<id>904482</id>
 		<name>STR_S3_Pass_Sesson_09_HTML</name>
-		<body>[Padrão] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
+		<body>[Padrão] Use 'Enchantment Stones' ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>904483</id>
@@ -20491,7 +20491,7 @@
 	<string>
 		<id>904540</id>
 		<name>STR_S3_Multi_Pass_Weekly_06_DESC</name>
-		<body>Realize extrações em equipamentos para obter Pedras de Encantamento (Enchantment Stones).</body>
+		<body>Realize extrações em equipamentos para obter 'Enchantment Stones'.</body>
 	</string>
 	<string>
 		<id>904541</id>
@@ -20596,7 +20596,7 @@
 	<string>
 		<id>904561</id>
 		<name>STR_S3_Multi_Pass_Weekly_04_HTML</name>
-		<body>[Novato] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
+		<body>[Novato] Use 'Enchantment Stones' ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>904562</id>
@@ -20886,7 +20886,7 @@
 	<string>
 		<id>904619</id>
 		<name>STR_S4_Pass_Weekly_06_DESC</name>
-		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento (Enchantment Stones).</body>
+		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter 'Enchantment Stones'.</body>
 	</string>
 	<string>
 		<id>904620</id>
@@ -21066,7 +21066,7 @@
 	<string>
 		<id>904655</id>
 		<name>STR_S4_Pass_Sesson_09_HTML</name>
-		<body>[Padrão] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
+		<body>[Padrão] Use 'Enchantment Stones' ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>904656</id>
@@ -21241,7 +21241,7 @@
 	<string>
 		<id>904690</id>
 		<name>STR_S4_Multi_Pass_Weekly_06_DESC</name>
-		<body>Realize extrações em equipamentos para obter Pedras de Encantamento (Enchantment Stones).</body>
+		<body>Realize extrações em equipamentos para obter 'Enchantment Stones'.</body>
 	</string>
 	<string>
 		<id>904691</id>
@@ -21346,7 +21346,7 @@
 	<string>
 		<id>904711</id>
 		<name>STR_S4_Multi_Pass_Weekly_04_HTML</name>
-		<body>[Novato] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
+		<body>[Novato] Use 'Enchantment Stones' ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>904712</id>
@@ -21596,7 +21596,7 @@
 	<string>
 		<id>904761</id>
 		<name>STR_S5_Pass_Weekly_06_DESC</name>
-		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento (Enchantment Stones).</body>
+		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter 'Enchantment Stones'.</body>
 	</string>
 	<string>
 		<id>904762</id>
@@ -21776,7 +21776,7 @@
 	<string>
 		<id>904797</id>
 		<name>STR_S5_Pass_Sesson_09_HTML</name>
-		<body>[Padrão] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
+		<body>[Padrão] Use 'Enchantment Stones' ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>904798</id>
@@ -21951,7 +21951,7 @@
 	<string>
 		<id>904832</id>
 		<name>STR_S5_Multi_Pass_Weekly_06_DESC</name>
-		<body>Realize extrações em equipamentos para obter Pedras de Encantamento (Enchantment Stones).</body>
+		<body>Realize extrações em equipamentos para obter 'Enchantment Stones'.</body>
 	</string>
 	<string>
 		<id>904833</id>
@@ -22056,7 +22056,7 @@
 	<string>
 		<id>904853</id>
 		<name>STR_S5_Multi_Pass_Weekly_04_HTML</name>
-		<body>[Novato] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
+		<body>[Novato] Use 'Enchantment Stones' ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>904854</id>
@@ -22391,7 +22391,7 @@
 	<string>
 		<id>904920</id>
 		<name>STR_S6_Pass_Weekly_06_DESC</name>
-		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento (Enchantment Stones).</body>
+		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter 'Enchantment Stones'.</body>
 	</string>
 	<string>
 		<id>904921</id>
@@ -22571,7 +22571,7 @@
 	<string>
 		<id>904956</id>
 		<name>STR_S6_Pass_Sesson_09_HTML</name>
-		<body>[Padrão] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
+		<body>[Padrão] Use 'Enchantment Stones' ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>904957</id>
@@ -22746,7 +22746,7 @@
 	<string>
 		<id>904991</id>
 		<name>STR_S6_Multi_Pass_Weekly_06_DESC</name>
-		<body>Realize extrações em equipamentos para obter Pedras de Encantamento (Enchantment Stones).</body>
+		<body>Realize extrações em equipamentos para obter 'Enchantment Stones'.</body>
 	</string>
 	<string>
 		<id>904992</id>
@@ -22851,7 +22851,7 @@
 	<string>
 		<id>905012</id>
 		<name>STR_S6_Multi_Pass_Weekly_04_HTML</name>
-		<body>[Novato] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
+		<body>[Novato] Use 'Enchantment Stones' ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>905013</id>
@@ -23096,7 +23096,7 @@
 	<string>
 		<id>905061</id>
 		<name>STR_S7_Pass_Weekly_06_DESC</name>
-		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento (Enchantment Stones).</body>
+		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter 'Enchantment Stones'.</body>
 	</string>
 	<string>
 		<id>905062</id>
@@ -23276,7 +23276,7 @@
 	<string>
 		<id>905097</id>
 		<name>STR_S7_Pass_Sesson_09_HTML</name>
-		<body>[Padrão] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
+		<body>[Padrão] Use 'Enchantment Stones' ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>905098</id>
@@ -23451,7 +23451,7 @@
 	<string>
 		<id>905132</id>
 		<name>STR_S7_Multi_Pass_Weekly_06_DESC</name>
-		<body>Realize extrações em equipamentos para obter Pedras de Encantamento (Enchantment Stones).</body>
+		<body>Realize extrações em equipamentos para obter 'Enchantment Stones'.</body>
 	</string>
 	<string>
 		<id>905133</id>
@@ -23556,7 +23556,7 @@
 	<string>
 		<id>905153</id>
 		<name>STR_S7_Multi_Pass_Weekly_04_HTML</name>
-		<body>[Novato] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
+		<body>[Novato] Use 'Enchantment Stones' ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>905154</id>
@@ -23906,7 +23906,7 @@
 	<string>
 		<id>905223</id>
 		<name>STR_S8_Pass_Weekly_06_DESC</name>
-		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento (Enchantment Stones).</body>
+		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter 'Enchantment Stones'.</body>
 	</string>
 	<string>
 		<id>905224</id>
@@ -24086,7 +24086,7 @@
 	<string>
 		<id>905259</id>
 		<name>STR_S8_Pass_Sesson_09_HTML</name>
-		<body>[Padrão] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
+		<body>[Padrão] Use 'Enchantment Stones' ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>905260</id>
@@ -24261,7 +24261,7 @@
 	<string>
 		<id>905294</id>
 		<name>STR_S8_Multi_Pass_Weekly_06_DESC</name>
-		<body>Realize extrações em equipamentos para obter Pedras de Encantamento (Enchantment Stones).</body>
+		<body>Realize extrações em equipamentos para obter 'Enchantment Stones'.</body>
 	</string>
 	<string>
 		<id>905295</id>
@@ -24366,7 +24366,7 @@
 	<string>
 		<id>905315</id>
 		<name>STR_S8_Multi_Pass_Weekly_04_HTML</name>
-		<body>[Novato] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
+		<body>[Novato] Use 'Enchantment Stones' ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>905316</id>
@@ -24636,7 +24636,7 @@
 	<string>
 		<id>905369</id>
 		<name>STR_S9_Pass_Weekly_06_DESC</name>
-		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento (Enchantment Stones).</body>
+		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter 'Enchantment Stones'.</body>
 	</string>
 	<string>
 		<id>905370</id>
@@ -24816,7 +24816,7 @@
 	<string>
 		<id>905405</id>
 		<name>STR_S9_Pass_Sesson_09_HTML</name>
-		<body>[Padrão] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
+		<body>[Padrão] Use 'Enchantment Stones' ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>905406</id>
@@ -24991,7 +24991,7 @@
 	<string>
 		<id>905440</id>
 		<name>STR_S9_Multi_Pass_Weekly_06_DESC</name>
-		<body>Realize extrações em equipamentos para obter Pedras de Encantamento (Enchantment Stones).</body>
+		<body>Realize extrações em equipamentos para obter 'Enchantment Stones'.</body>
 	</string>
 	<string>
 		<id>905441</id>
@@ -25096,7 +25096,7 @@
 	<string>
 		<id>905461</id>
 		<name>STR_S9_Multi_Pass_Weekly_04_HTML</name>
-		<body>[Novato] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
+		<body>[Novato] Use 'Enchantment Stones' ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>905462</id>
@@ -25386,7 +25386,7 @@
 	<string>
 		<id>905519</id>
 		<name>STR_S9_Event_Pass_Weekly_01_HTML</name>
-		<body>[Event] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar com sucesso um equipamento 5x</body>
+		<body>[Event] Use 'Enchantment Stones' ou Manastones para melhorar com sucesso um equipamento 5x</body>
 	</string>
 	<string>
 		<id>905520</id>
@@ -25742,7 +25742,7 @@
 	<string>
 		<id>905590</id>
 		<name>STR_S10_Pass_Weekly_06_DESC</name>
-		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento (Enchantment Stones).</body>
+		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter 'Enchantment Stones'.</body>
 	</string>
 	<string>
 		<id>905591</id>
@@ -25922,7 +25922,7 @@
 	<string>
 		<id>905626</id>
 		<name>STR_S10_Pass_Sesson_09_HTML</name>
-		<body>[Padrão] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
+		<body>[Padrão] Use 'Enchantment Stones' ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>905627</id>
@@ -26097,7 +26097,7 @@
 	<string>
 		<id>905661</id>
 		<name>STR_S10_Multi_Pass_Weekly_06_DESC</name>
-		<body>Realize extrações em equipamentos para obter Pedras de Encantamento (Enchantment Stones).</body>
+		<body>Realize extrações em equipamentos para obter 'Enchantment Stones'.</body>
 	</string>
 	<string>
 		<id>905662</id>
@@ -26202,7 +26202,7 @@
 	<string>
 		<id>905682</id>
 		<name>STR_S10_Multi_Pass_Weekly_04_HTML</name>
-		<body>[Novato] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
+		<body>[Novato] Use 'Enchantment Stones' ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>905683</id>
@@ -26447,7 +26447,7 @@
 	<string>
 		<id>905731</id>
 		<name>STR_S11_Pass_Weekly_06_DESC</name>
-		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento (Enchantment Stones).</body>
+		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter 'Enchantment Stones'.</body>
 	</string>
 	<string>
 		<id>905732</id>
@@ -26802,7 +26802,7 @@
 	<string>
 		<id>905802</id>
 		<name>STR_S11_Multi_Pass_Weekly_06_DESC</name>
-		<body>Realize extrações em equipamentos para obter Pedras de Encantamento (Enchantment Stones).</body>
+		<body>Realize extrações em equipamentos para obter 'Enchantment Stones'.</body>
 	</string>
 	<string>
 		<id>905803</id>
@@ -26907,7 +26907,7 @@
 	<string>
 		<id>905823</id>
 		<name>STR_S11_Multi_Pass_Weekly_04_HTML</name>
-		<body>[Novato] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
+		<body>[Novato] Use 'Enchantment Stones' ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>905824</id>
@@ -27244,7 +27244,7 @@
 	<string>
 		<id>905890</id>
 		<name>STR_WORLD_S3_Pass_Weekly_06_DESC</name>
-		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento (Enchantment Stones).</body>
+		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter 'Enchantment Stones'.</body>
 	</string>
 	<string>
 		<id>905891</id>
@@ -27759,7 +27759,7 @@
 	<string>
 		<id>905993</id>
 		<name>STR_S12_Pass_Weekly_06_DESC</name>
-		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento (Enchantment Stones).</body>
+		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter 'Enchantment Stones'.</body>
 	</string>
 	<string>
 		<id>905994</id>
@@ -28114,7 +28114,7 @@
 	<string>
 		<id>906064</id>
 		<name>STR_S12_Multi_Pass_Weekly_06_DESC</name>
-		<body>Realize extrações em equipamentos para obter Pedras de Encantamento (Enchantment Stones).</body>
+		<body>Realize extrações em equipamentos para obter 'Enchantment Stones'.</body>
 	</string>
 	<string>
 		<id>906065</id>
@@ -28219,7 +28219,7 @@
 	<string>
 		<id>906085</id>
 		<name>STR_S12_Multi_Pass_Weekly_04_HTML</name>
-		<body>[Novato] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
+		<body>[Novato] Use 'Enchantment Stones' ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>906086</id>
@@ -28708,7 +28708,7 @@
 	<string>
 		<id>906177</id>
 		<name>STR_S5_WORLD_Pass_Weekly_06_DESC</name>
-		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento (Enchantment Stones).</body>
+		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter 'Enchantment Stones'.</body>
 	</string>
 	<string>
 		<id>906178</id>
@@ -28888,7 +28888,7 @@
 	<string>
 		<id>906213</id>
 		<name>STR_S5_WORLD_Pass_Sesson_09_HTML</name>
-		<body>[Padrão] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
+		<body>[Padrão] Use 'Enchantment Stones' ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>906214</id>
@@ -29133,7 +29133,7 @@
 	<string>
 		<id>906262</id>
 		<name>STR_S5_WORLD_Multi_Pass_Weekly_03_HTML</name>
-		<body>[Novato] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
+		<body>[Novato] Use 'Enchantment Stones' ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>906263</id>
@@ -29478,7 +29478,7 @@
 	<string>
 		<id>906331</id>
 		<name>STR_S13_Pass_Weekly_06_DESC</name>
-		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento (Enchantment Stones).</body>
+		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter 'Enchantment Stones'.</body>
 	</string>
 	<string>
 		<id>906332</id>
@@ -30839,7 +30839,7 @@
 	<string>
 		<id>906603</id>
 		<name>STR_S13_Multi_Pass_Weekly_06_DESC</name>
-		<body>Realize extrações em equipamentos para obter Pedras de Encantamento (Enchantment Stones).</body>
+		<body>Realize extrações em equipamentos para obter 'Enchantment Stones'.</body>
 	</string>
 	<string>
 		<id>906604</id>
@@ -30944,7 +30944,7 @@
 	<string>
 		<id>906624</id>
 		<name>STR_S13_Multi_Pass_Weekly_04_HTML</name>
-		<body>[Novato] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
+		<body>[Novato] Use 'Enchantment Stones' ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>906625</id>
@@ -31409,7 +31409,7 @@
 	<string>
 		<id>906717</id>
 		<name>STR_S5_WORLD_CN_Multi_Pass_Weekly_06_DESC</name>
-		<body>Realize extrações em equipamentos para obter Pedras de Encantamento (Enchantment Stones).</body>
+		<body>Realize extrações em equipamentos para obter 'Enchantment Stones'.</body>
 	</string>
 	<string>
 		<id>906718</id>
@@ -31514,7 +31514,7 @@
 	<string>
 		<id>906738</id>
 		<name>STR_S5_WORLD_CN_Multi_Pass_Weekly_04_HTML</name>
-		<body>[Novato] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
+		<body>[Novato] Use 'Enchantment Stones' ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>906739</id>
@@ -31764,7 +31764,7 @@
 	<string>
 		<id>906788</id>
 		<name>STR_S6_WORLD_Pass_Weekly_06_DESC</name>
-		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter Pedras de Encantamento (Enchantment Stones).</body>
+		<body>Realize uma extração em seu equipamento com uma Ferramenta de Extração para obter 'Enchantment Stones'.</body>
 	</string>
 	<string>
 		<id>906789</id>
@@ -31944,7 +31944,7 @@
 	<string>
 		<id>906824</id>
 		<name>STR_S6_WORLD_Pass_Sesson_09_HTML</name>
-		<body>[Padrão] Use Pedras de Encantamento (Enchantment Stones) ou Manastones para melhorar um equipamento.</body>
+		<body>[Padrão] Use 'Enchantment Stones' ou Manastones para melhorar um equipamento.</body>
 	</string>
 	<string>
 		<id>906825</id>

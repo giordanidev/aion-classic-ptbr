@@ -73,7 +73,7 @@
 	<string>
 		<id>900201</id>
 		<name>STR_LOBBY_SERVER__NAME</name>
-		<body>Nome do Servidor</body>
+		<body>Servidor</body>
 	</string>
 	<string>
 		<id>900202</id>
@@ -783,22 +783,22 @@
 	<string>
 		<id>910042</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_WIDGET28</name>
-		<body>Resistência à Fogo</body>
+		<body>Resist. à Fogo</body>
 	</string>
 	<string>
 		<id>910043</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_WIDGET29</name>
-		<body>Resistência à Vento</body>
+		<body>Resist. à Vento</body>
 	</string>
 	<string>
 		<id>910044</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_WIDGET30</name>
-		<body>Resistência à Água</body>
+		<body>Resist. à Água</body>
 	</string>
 	<string>
 		<id>910045</id>
 		<name>STR_CHAR_STATUS_DIALOG__TABFRAME_WIDGET31</name>
-		<body>Resistência à Terra</body>
+		<body>Resist. à Terra</body>
 	</string>
 	<string>
 		<id>910046</id>
@@ -1008,22 +1008,22 @@
 	<string>
 		<id>910087</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET28</name>
-		<body>Resistência à Fogo</body>
+		<body>Resist. à Fogo</body>
 	</string>
 	<string>
 		<id>910088</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET29</name>
-		<body>Resistência à Vento</body>
+		<body>Resist. à Vento</body>
 	</string>
 	<string>
 		<id>910089</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET30</name>
-		<body>Resistência à Água</body>
+		<body>Resist. à Água</body>
 	</string>
 	<string>
 		<id>910090</id>
 		<name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET31</name>
-		<body>Resistência à Terra</body>
+		<body>Resist. à Terra</body>
 	</string>
 	<string>
 		<id>910091</id>
@@ -4383,7 +4383,7 @@
 	<string>
 		<id>910765</id>
 		<name>STR_MAILBOX_DIALOG__TABFRAME_WIDGET9</name>
-		<body>Anexar Item</body>
+		<body>Anexar item</body>
 	</string>
 	<string>
 		<id>910766</id>
@@ -5274,7 +5274,7 @@
 	<string>
 		<id>910944</id>
 		<name>STR_RESURRECT_DIALOG__OK</name>
-		<body>OK</body>
+		<body>Concordar</body>
 	</string>
 	<string>
 		<id>910945</id>
@@ -5509,22 +5509,22 @@
 	<string>
 		<id>910991</id>
 		<name>STR_STATUS_NEW_DIALOG__TABFRAME_WIDGET_16</name>
-		<body>Resistência à Fogo</body>
+		<body>Resist. à Fogo</body>
 	</string>
 	<string>
 		<id>910992</id>
 		<name>STR_STATUS_NEW_DIALOG__TABFRAME_WIDGET_17</name>
-		<body>Resistência à Água</body>
+		<body>Resist. à Água</body>
 	</string>
 	<string>
 		<id>910993</id>
 		<name>STR_STATUS_NEW_DIALOG__TABFRAME_WIDGET_18</name>
-		<body>Resistência à Vento</body>
+		<body>Resist. à Vento</body>
 	</string>
 	<string>
 		<id>910994</id>
 		<name>STR_STATUS_NEW_DIALOG__TABFRAME_WIDGET_19</name>
-		<body>Resistência à Terra</body>
+		<body>Resist. à Terra</body>
 	</string>
 	<string>
 		<id>910995</id>
@@ -6994,7 +6994,7 @@
 	<string>
 		<id>911288</id>
 		<name>STR_RADAR_DIALOG__TOOLTIP_MAIL_ICON</name>
-		<body>Email não lido</body>
+		<body>Correio não lido</body>
 	</string>
 	<string>
 		<id>911289</id>
@@ -7709,7 +7709,7 @@
 	<string>
 		<id>911431</id>
 		<name>STR_PLAYER_INFO_DIALOG__STAT_ATK_SPEED</name>
-		<body>Vel. Ataque</body>
+		<body>Veloc. Ataque</body>
 	</string>
 	<string>
 		<id>911432</id>
@@ -7754,22 +7754,22 @@
 	<string>
 		<id>911440</id>
 		<name>STR_PLAYER_INFO_DIALOG__STAT_RES_FIRE</name>
-		<body>Resistência à Fogo</body>
+		<body>Resist. à Fogo</body>
 	</string>
 	<string>
 		<id>911441</id>
 		<name>STR_PLAYER_INFO_DIALOG__STAT_RES_AIR</name>
-		<body>Resistência à Vento</body>
+		<body>Resist. à Vento</body>
 	</string>
 	<string>
 		<id>911442</id>
 		<name>STR_PLAYER_INFO_DIALOG__STAT_RES_WATER</name>
-		<body>Resistência à Água</body>
+		<body>Resist. à Água</body>
 	</string>
 	<string>
 		<id>911443</id>
 		<name>STR_PLAYER_INFO_DIALOG__STAT_RES_EARTH</name>
-		<body>Resistência à Terra</body>
+		<body>Resist. à Terra</body>
 	</string>
 	<string>
 		<id>911444</id>
@@ -8119,7 +8119,7 @@
 	<string>
 		<id>911513</id>
 		<name>STR_RADAR_DIALOG__TOOLTIP_CASH_MAIL_ICON</name>
-		<body>Email dos Comerciantes de Black Cloud</body>
+		<body>Correio dos Comerciantes de Black Cloud</body>
 	</string>
 	<string>
 		<id>911514</id>
@@ -8529,12 +8529,12 @@
 	<string>
 		<id>911595</id>
 		<name>STR_INDUN_ACCOUNT_IDDRE_DIALOG__ABYSS_POINT_ADDED</name>
-		<body>Abyss Pontos do Grupo</body>
+		<body>Pontos de Abyss do Grupo</body>
 	</string>
 	<string>
 		<id>911596</id>
 		<name>STR_INDUN_ACCOUNT_IDDRE_DIALOG__ABYSS_POINT</name>
-		<body>Abyss Pontos Total</body>
+		<body>Pontos de Abyss Total</body>
 	</string>
 	<string>
 		<id>911597</id>
@@ -8549,7 +8549,7 @@
 	<string>
 		<id>911599</id>
 		<name>STR_INDUN_REGISTER_DIALOG</name>
-		<body>Requisitar Entrada</body>
+		<body>Instâncias Disponíveis</body>
 	</string>
 	<string>
 		<id>911600</id>
@@ -8559,12 +8559,12 @@
 	<string>
 		<id>911601</id>
 		<name>STR_INDUN_REGISTER_DIALOG__REGISTER_QUICK</name>
-		<body>Entrada Rápida</body>
+		<body>Entrar Rápido</body>
 	</string>
 	<string>
 		<id>911602</id>
 		<name>STR_INDUN_REGISTER_DIALOG__REGISTER_PARTY</name>
-		<body>Entrada em Grupo</body>
+		<body>Entrar em Grupo</body>
 	</string>
 	<string>
 		<id>911603</id>
@@ -8584,7 +8584,7 @@
 	<string>
 		<id>911606</id>
 		<name>STR_INDUN_ENTER_DIALOG</name>
-		<body>Confirmar Entrada</body>
+		<body>Entrar Agora</body>
 	</string>
 	<string>
 		<id>911607</id>
@@ -8759,7 +8759,7 @@
 	<string>
 		<id>911641</id>
 		<name>STR_MAILBOX_DIALOG__TABFRAME_BTN_SELECT_ALL_MAIL</name>
-		<body>Selecionar Todos</body>
+		<body>Selec. Todos</body>
 	</string>
 	<string>
 		<id>911642</id>
@@ -9024,7 +9024,7 @@
 	<string>
 		<id>911694</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GAME_REJECT_MAIL_FROM_LOW_LEVEL</name>
-		<body>Recusar mail de jogadores de nível baixo</body>
+		<body>Recusar Correio de jogadores de nível baixo</body>
 	</string>
 	<string>
 		<id>911695</id>
@@ -10519,7 +10519,7 @@
 	<string>
 		<id>911993</id>
 		<name>STR_MAILBOX_DIALOG__TABFRAME_CASH_REFUND_LEFT_TIME</name>
-		<body>Período de Reembolso Restante</body>
+		<body>Tempo restante</body>
 	</string>
 	<string>
 		<id>911994</id>
@@ -11789,7 +11789,7 @@
 	<string>
 		<id>912247</id>
 		<name>STR_ACCOUNT_INFO_DIALOG</name>
-		<body>Conta</body>
+		<body>Informações da Conta</body>
 	</string>
 	<string>
 		<id>912248</id>
@@ -12449,7 +12449,7 @@
 	<string>
 		<id>912379</id>
 		<name>STR_PLAYER_INFO_DIALOG__PAYMENT</name>
-		<body>Informações da Conta</body>
+		<body>Conta</body>
 	</string>
 	<string>
 		<id>912380</id>
@@ -12954,7 +12954,7 @@
 	<string>
 		<id>912480</id>
 		<name>STR_MAILBOX_DIALOG__TABFRAME_CASH_RECV_LEFT_TIME</name>
-		<body>Período de recebimento restante</body>
+		<body>Tempo restante</body>
 	</string>
 	<string>
 		<id>912481</id>

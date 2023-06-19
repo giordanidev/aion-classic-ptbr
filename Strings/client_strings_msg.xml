@@ -9222,7 +9222,7 @@
 	<string>
 		<id>1300338</id>
 		<name>STR_BUY_SELL_TOO_FAR_TO_TRADE</name>
-		<body>You are too away to trade.</body>
+		<body>Você está muito longe para trocar.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -9236,14 +9236,14 @@
 	<string>
 		<id>1300340</id>
 		<name>STR_BUY_SELL_USER_BOUGHT_ITEMS</name>
-		<body>You have bought the item.</body>
+		<body>Você comprou o item.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300341</id>
 		<name>STR_BUY_SELL_USER_SELL_ITEMS</name>
-		<body>Sales complete.</body>
+		<body>Venda efetuada.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -9257,21 +9257,21 @@
 	<string>
 		<id>1300343</id>
 		<name>STR_BUY_SELL_PRICE_CHANGED_RETRY_PLEASE</name>
-		<body>The price of the item has changed. Please try buying it again after you have checked the changed price.</body>
+		<body>O preço do item mudou. Por favor tente comprar novamente após atualizar a janela do Broker e conferir o novo preço.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300344</id>
 		<name>STR_BUY_SELL_ITEM_CAN_NOT_BE_SELLED_TO_NPC</name>
-		<body>%0 is not an item that can be sold.</body>
+		<body>%0 não pode ser vendido.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300345</id>
 		<name>STR_BUY_SELL_FULL_BASKET</name>
-		<body>You cannot register any more items.</body>
+		<body>Você não pode registrar mais itens.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -10028,42 +10028,42 @@
 	<string>
 		<id>1300453</id>
 		<name>STR_ENCHANT_ITEM_IT_CAN_NOT_BE_ENCHANTED</name>
-		<body>%0 cannot be enchanted.</body>
+		<body>%0 não pode ser encantado.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300454</id>
 		<name>STR_ENCHANT_ITEM_IT_CAN_NOT_BE_ENCHANTED_MORE_TIME</name>
-		<body>%0 cannot be enchanted any more.</body>
+		<body>%0 não pode mais ser encantado.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300455</id>
 		<name>STR_ENCHANT_ITEM_SUCCEED</name>
-		<body>You have successfully enchanted %0.</body>
+		<body>Você encantou %0 com sucesso.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300456</id>
 		<name>STR_ENCHANT_ITEM_FAILED</name>
-		<body>You have failed to enchant %0.</body>
+		<body>Você falhou o encantamento de %0.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300457</id>
 		<name>STR_ENCHANT_ITEM_CANCELED</name>
-		<body>You have cancelled the enchanting of %0.</body>
+		<body>Você cancelou o encantamento de %0.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300458</id>
 		<name>STR_ENCHANT_ITEM_INVALID_STANCE</name>
-		<body>You cannot enchant items in %0.</body>
+		<body>Você não pode encantar itens em %0.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -10091,35 +10091,35 @@
 	<string>
 		<id>1300462</id>
 		<name>STR_GIVE_ITEM_OPTION_SUCCEED</name>
-		<body>You have succeeded in the manastone socketing of %0.</body>
+		<body>Você encaixou a 'Manastone' em %0 com sucesso.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300463</id>
 		<name>STR_GIVE_ITEM_OPTION_FAILED</name>
-		<body>You have failed in the manastone socketing of %0.</body>
+		<body>Você falhou o encaixe de 'Manastone' em %0.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300464</id>
 		<name>STR_GIVE_ITEM_OPTION_CANCELED</name>
-		<body>You have cancelled the manastone socketing of %0.</body>
+		<body>Você cancelou o encaixe de 'Manastone' em %0.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300465</id>
 		<name>STR_GIVE_ITEM_OPTION_ALL_OPTION_REMOVED</name>
-		<body>All manastones that were socketed in %0 have disappeared.</body>
+		<body>Todas as 'Manastones' encaixadas em %0 foram destruídas.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300466</id>
 		<name>STR_GIVE_ITEM_OPTION_INVALID_STANCE</name>
-		<body>You cannot socket manastones while %0.</body>
+		<body>Você não pode encaixar 'Manastones' enquanto %0.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -10147,7 +10147,7 @@
 	<string>
 		<id>1300470</id>
 		<name>STR_REMOVE_ITEM_OPTION_NO_OPTION_TO_REMOVE</name>
-		<body>%0 is not socketed with a manastone.</body>
+		<body>%0 não tem 'Manastones' encaixadas.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -11744,7 +11744,7 @@
 	<string>
 		<id>1300698</id>
 		<name>STR_WAIT_TO_QUIT</name>
-		<body>Deixando Atreia.\n\nPor favor, aguarde %0 segundos.</body>
+		<body>Fechando o jogo e deixando Atreia.\n\nPor favor, aguarde &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; segundos.\n\nAté mais, Daeva!</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -12347,70 +12347,70 @@
 	<string>
 		<id>1300784</id>
 		<name>STR_MSG_BUY_ITEM</name>
-		<body>You have purchased %0.</body>
+		<body>Você comprou %0.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300785</id>
 		<name>STR_MSG_BUY_ITEM_MULTI</name>
-		<body>You have purchased %1 %0s.</body>
+		<body>Você comprou %1 %0s.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300786</id>
 		<name>STR_MSG_SELL_ITEM</name>
-		<body>You have sold %0.</body>
+		<body>Você vendeu %0.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300787</id>
 		<name>STR_MSG_SELL_ITEM_MULTI</name>
-		<body>You have sold %1 %0s.</body>
+		<body>Você vendeu %1 %0s.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300788</id>
 		<name>STR_MSG_COMBINE_ITEM</name>
-		<body>You have crafted %0.</body>
+		<body>Você criou %0.</body>
 		<message_type>56</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300789</id>
 		<name>STR_MSG_COMBINE_ITEM_MULTI</name>
-		<body>You have crafted %1 %0s.</body>
+		<body>Você criou %1 %0s.</body>
 		<message_type>56</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300790</id>
 		<name>STR_MSG_SOLDOUT_ITEM</name>
-		<body>%0 has been sold.</body>
+		<body>%0 foi vendido.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300791</id>
 		<name>STR_MSG_SOLDOUT_ITEM_MULTI</name>
-		<body>%1 %0s have been sold.</body>
+		<body>%1 %0s foram vendidos.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300792</id>
 		<name>STR_MSG_DISCARD_ITEM</name>
-		<body>You have discarded %0.</body>
+		<body>Você descartou %0.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300793</id>
 		<name>STR_MSG_DISCARD_ITEM_MULTI</name>
-		<body>You have discarded %1 %0s.</body>
+		<body>Você descartou %1 %0s.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -12452,7 +12452,7 @@
 	<string>
 		<id>1300799</id>
 		<name>STR_CANNOT_REGISTER_BINDSTONE_HAVE_NO_AUTHORITY</name>
-		<body>You cannot use this Kisk.</body>
+		<body>Você não pode usar este Kisk.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -16809,7 +16809,7 @@
 	<string>
 		<id>1400008</id>
 		<name>STR_CMD_WHISHPER_INPUT</name>
-		<body>Você disse para %1: %0</body>
+		<body>Para %1: %0</body>
 		<message_type>4</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -26236,28 +26236,28 @@
 	<string>
 		<id>1401416</id>
 		<name>STR_MSG_REMAIN_PLAYTIME_CLASSIC_ACCOUNT_MEMBERSHIP</name>
-		<body>Siel’s Energy (Ticket) ends in %*0. It then switches to Siel’s Energy (Free).</body>
+		<body>Siel’s Energy (Ticket) termina em %*0. Quando terminar, você receberá Siel’s Energy (Grátis).</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1401417</id>
 		<name>STR_MSG_ALARM_PLAYTIME_CLASSIC_ACCOUNT_MEMBERSHIP</name>
-		<body>Siel’s Energy (Ticket) ends in %*0.</body>
+		<body>Siel’s Energy (Ticket) termina em %*0.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1401418</id>
 		<name>STR_MSG_REMAIN_PLAYTIME_CLASSIC_ACCOUNT_TRIAL</name>
-		<body>Siel’s Energy (Free) ends in %*0. Once Siel’s Energy is ended, restrictions are placed on you. Please buy a ticket if you’d like to continue to use Siel’s Energy.</body>
+		<body>Siel’s Energy (Grátis) termina em %*0. Quando Siel’s Energy terminar, você sofrerá algumas restrições. Por favor, compre outro Ticket se quiser continuar usando Siel’s Energy.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1401419</id>
 		<name>STR_MSG_ALARM_PLAYTIME_CLASSIC_ACCOUNT_TRIAL</name>
-		<body>Siel’s Energy (Free) ends in %*0. Once Siel’s Energy is ended, restrictions are placed on you.</body>
+		<body>Siel’s Energy (Grátis) termina em %*0. Quando Siel’s Energy terminar, você sofrerá algumas restrições.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -26461,14 +26461,14 @@
 	<string>
 		<id>1401448</id>
 		<name>STR_CMD_SHOUT_OUTPUT_YETI</name>
-		<body>%0 shouts:</body>
+		<body>%0 gritou:</body>
 		<message_type>2</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1401449</id>
 		<name>STR_CMD_WHISPER_SEND_YETI</name>
-		<body>Você disse para %0:</body>
+		<body>Para %0:</body>
 		<message_type>2</message_type>
 		<display_type>1</display_type>
 	</string>
