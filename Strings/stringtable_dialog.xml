@@ -2353,12 +2353,12 @@
 	<string>
 		<id>910357</id>
 		<name>STR_DLG_DIALOG__RETURN</name>
-		<body>Returnar</body>
+		<body>Devolver</body>
 	</string>
 	<string>
 		<id>910358</id>
 		<name>STR_DLG_DIALOG__ACCEPT_REWARD</name>
-		<body>OK</body>
+		<body>Aceitar</body>
 	</string>
 	<string>
 		<id>910359</id>
@@ -2828,7 +2828,7 @@
 	<string>
 		<id>910452</id>
 		<name>STR_TRADE_DIALOG__OK</name>
-		<body>OK</body>
+		<body>Trocar</body>
 	</string>
 	<string>
 		<id>910453</id>
@@ -4438,7 +4438,7 @@
 	<string>
 		<id>910776</id>
 		<name>STR_LETTER_DIALOG__BTN_READ</name>
-		<body>OK</body>
+		<body>Ler</body>
 	</string>
 	<string>
 		<id>910777</id>
