@@ -304,140 +304,140 @@
 	<string>
 		<id>1200244</id>
 		<name>STR_SKILL_EFFECT_STUN_BEGIN</name>
-		<body>You have been stunned.</body>
+		<body>Você ficou atordoado (stunned).</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200245</id>
 		<name>STR_SKILL_EFFECT_STUN_END</name>
-		<body>You are no longer stunned.</body>
+		<body>Você não está mais atordoado (stunned).</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200246</id>
 		<name>STR_SKILL_EFFECT_SILENCE_BEGIN</name>
-		<body>You are silenced.</body>
+		<body>Você foi silenciado.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200247</id>
 		<name>STR_SKILL_EFFECT_SILENCE_END</name>
-		<body>You are no longer silenced.</body>
+		<body>Você não está mais silenciado.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200248</id>
 		<name>STR_SKILL_EFFECT_OPEN_AERIAL_BEGIN</name>
-		<body>You are snared in mid-air.</body>
+		<body>Você está preso no ar (aetherhold).</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200249</id>
 		<name>STR_SKILL_EFFECT_OPEN_AERIAL_END</name>
-		<body>You are released from the Aerial Snare.</body>
+		<body>Você não está mais preso no ar (aetherhold).</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200250</id>
 		<name>STR_SKILL_EFFECT_SNARE_BEGIN</name>
-		<body>Your movement speed has decreased.</body>
+		<body>Sua velocidade de movimento diminuiu.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200251</id>
 		<name>STR_SKILL_EFFECT_SNARE_END</name>
-		<body>You have normal movement speed.</body>
+		<body>Sua velocidade de movimento voltou ao normal.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200252</id>
 		<name>STR_SKILL_EFFECT_SLOW_BEGIN</name>
-		<body>Your attack speed is decreased.</body>
+		<body>Sua velocidade de ataque foi diminuída.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200253</id>
 		<name>STR_SKILL_EFFECT_SLOW_END</name>
-		<body>You have normal attack speed.</body>
+		<body>Sua velocidade de ataque voltou ao normal.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200254</id>
 		<name>STR_SKILL_EFFECT_SPIN_BEGIN</name>
-		<body>You are spinning from shock.</body>
+		<body>Você está girando, em estado de choque.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200255</id>
 		<name>STR_SKILL_EFFECT_SPIN_END</name>
-		<body>You are no longer in shock.</body>
+		<body>Você não está mais em estado de choque.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200256</id>
 		<name>STR_SKILL_EFFECT_STUMBLE_BEGIN</name>
-		<body>You fell down from shock.</body>
+		<body>Você caiu, em estado de choque.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200257</id>
 		<name>STR_SKILL_EFFECT_STUMBLE_END</name>
-		<body>You are no longer in shock.</body>
+		<body>Você não está mais em estado de choque.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200258</id>
 		<name>STR_SKILL_EFFECT_STAGGER_BEGIN</name>
-		<body>You are stunned.</body>
+		<body>Você ficou atordoado (stagger).</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200259</id>
 		<name>STR_SKILL_EFFECT_STAGGER_END</name>
-		<body>You are no longer stunned.</body>
+		<body>Você não está mais atordoado (stagger).</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200260</id>
 		<name>STR_SKILL_EFFECT_BIND_BEGIN</name>
-		<body>You are bound.</body>
+		<body>Você está de mãos atadas (bind).</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200261</id>
 		<name>STR_SKILL_EFFECT_BIND_END</name>
-		<body>You are no longer bound.</body>
+		<body>Você não está mais de mãos atadas (bind).</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200262</id>
 		<name>STR_SKILL_EFFECT_PULLED_BEGIN</name>
-		<body>You are being pulled.</body>
+		<body>Você foi puxado.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200263</id>
 		<name>STR_SKILL_EFFECT_PULLED_END</name>
-		<body>You are no longer being pulled.</body>
+		<body>Você foi liberado.</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -606,19 +606,19 @@
 	<string>
 		<id>1200304</id>
 		<name>STR_SKILL_SUCC_ReturnHome_ME_TO_SELF</name>
-		<body>You used [%SkillName].</body>
+		<body>Você usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200305</id>
 		<name>STR_SKILL_SUCC_Aura_ME_TO_SELF</name>
-		<body>You began using [%SkillName].</body>
+		<body>Você começou a usar [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200306</id>
 		<name>STR_SKILL_SUCC_Aura_END_ME_TO_SELF</name>
-		<body>You stop using [%SkillName].</body>
+		<body>Você parou de usar [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -798,7 +798,7 @@
 	<string>
 		<id>1200336</id>
 		<name>STR_SKILL_SUCC_BackDashATK_ME_TO_SELF</name>
-		<body>You suffer %num0 damage from [%SkillName].</body>
+		<body>Você recebeu %num0 de dano de [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -822,7 +822,7 @@
 	<string>
 		<id>1200340</id>
 		<name>STR_SKILL_SUCC_CaseHeal_INTERVAL_ME_TO_SELF</name>
-		<body>You regenerate %num0 HP using [%SkillName].</body>
+		<body>Você recuperou %num0 HP usando [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -846,7 +846,7 @@
 	<string>
 		<id>1200344</id>
 		<name>STR_SKILL_SUCC_ConvertHeal_INTERVAL_ME_TO_SELF</name>
-		<body>You regenerate %num0 HP using [%SkillName].</body>
+		<body>Você recuperou %num0 HP usando [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -12024,7 +12024,7 @@
 	<string>
 		<id>1300738</id>
 		<name>STR_REBIRTH_MASSAGE_ME</name>
-		<body>Você ressuscitou.</body>
+		<body>Você renasceu.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
