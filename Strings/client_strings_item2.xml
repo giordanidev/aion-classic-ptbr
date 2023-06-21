@@ -48183,12 +48183,12 @@
 	<string>
 		<id>775380</id>
 		<name>STR_SCROLL_L_SPEED_ATK_50A_DESC</name>
-		<body>[%e1.StatUp.StatName] becomes faster by [%e1.StatUp.Value]%% for [%e1.StatUp.RemainTime]. Cannot be used together with the Awakening Scroll.\nYou can only use it in the Empyrean Crucible.</body>
+		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápido por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Awakening Scroll.\nYou can only use it in the Empyrean Crucible.</body>
 	</string>
 	<string>
 		<id>775381</id>
 		<name>STR_SCROLL_D_SPEED_ATK_50A_DESC</name>
-		<body>[%e1.StatUp.StatName] becomes faster by [%e1.StatUp.Value]%% for [%e1.StatUp.RemainTime]. Cannot be used together with the Awakening Scroll.\nYou can only use it in the Empyrean Crucible.</body>
+		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápido por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Awakening Scroll.\nYou can only use it in the Empyrean Crucible.</body>
 	</string>
 	<string>
 		<id>775382</id>
@@ -48203,12 +48203,12 @@
 	<string>
 		<id>775384</id>
 		<name>STR_SCROLL_L_SPEED_CASTING_50A_DESC</name>
-		<body>[%e1.StatUp.StatName] becomes faster by [%e1.StatUp.Value]%% for [%e1.StatUp.RemainTime]. Cannot be used together with the Courage Scroll.\nYou can only use it in the Crucible’s training arena.</body>
+		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápido por [%e1.StatUp.RemainTime]. Aumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value]%% por [%e1.StatUp.RemainTime]. Courage Scroll.\nYou can only use it in the Crucible’s training arena.</body>
 	</string>
 	<string>
 		<id>775385</id>
 		<name>STR_SCROLL_D_SPEED_CASTING_50A_DESC</name>
-		<body>[%e1.StatUp.StatName] becomes faster by [%e1.StatUp.Value]%% for [%e1.StatUp.RemainTime]. Cannot be used together with the Courage Scroll.\nYou can only use it in the Crucible’s training arena.</body>
+		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápido por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Courage Scroll.\nYou can only use it in the Crucible’s training arena.</body>
 	</string>
 	<string>
 		<id>775386</id>
@@ -73573,12 +73573,12 @@
 	<string>
 		<id>780460</id>
 		<name>STR_EVENT_SCROLL_speed_casting_40A_DESC</name>
-		<body>[%e1.StatUp.StatName] becomes faster by [%e1.StatUp.Value]%% for [%e1.StatUp.RemainTime]. Cannot be used together with the Courage Scroll.</body>
+		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápido por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Courage Scroll.</body>
 	</string>
 	<string>
 		<id>780461</id>
 		<name>STR_EVENT_SCROLL_speed_casting_50A_DESC</name>
-		<body>[%e1.StatUp.StatName] becomes faster by [%e1.StatUp.Value]%% for [%e1.StatUp.RemainTime]. Cannot be used together with the Courage Scroll.</body>
+		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápido por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Courage Scroll.</body>
 	</string>
 	<string>
 		<id>780462</id>
@@ -73688,7 +73688,7 @@
 	<string>
 		<id>780483</id>
 		<name>STR_EVENT_SCROLL_speed_atk_40A_DESC</name>
-		<body>[%e1.StatUp.StatName] becomes faster by [%e1.StatUp.Value]%% for [%e1.StatUp.RemainTime]. Cannot be used together with the Awakening Scroll.</body>
+		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápido por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Awakening Scroll.</body>
 	</string>
 	<string>
 		<id>780484</id>
@@ -73698,7 +73698,7 @@
 	<string>
 		<id>780485</id>
 		<name>STR_EVENT_SCROLL_speed_run_40A_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] by [%e1.StatUp.Value]%% for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value]%% por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>780486</id>
@@ -73828,17 +73828,17 @@
 	<string>
 		<id>780511</id>
 		<name>STR_SCROLL_PVP_T_SPEED_ATK_50A_DESC</name>
-		<body>[%e1.StatUp.StatName] becomes faster by [%e1.StatUp.Value]%% for [%e1.StatUp.RemainTime]. Cannot be used together with the Awakening Scroll.\nYou can only use it in the Empyrean Crucible.</body>
+		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápido por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Awakening Scroll.\nYou can only use it in the Empyrean Crucible.</body>
 	</string>
 	<string>
 		<id>780512</id>
 		<name>STR_SCROLL_PVP_T_SPEED_RUN_50A_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] by [%e1.StatUp.Value]%% for [%e1.StatUp.RemainTime].\nYou can use it only in the Coliseum Training Grounds.</body>
+		<body>Aumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value]%% por [%e1.StatUp.RemainTime].\nYou can use it only in the Coliseum Training Grounds.</body>
 	</string>
 	<string>
 		<id>780513</id>
 		<name>STR_SCROLL_PVP_T_SPEED_CASTING_50A_DESC</name>
-		<body>[%e1.StatUp.StatName] becomes faster by [%e1.StatUp.Value]%% for [%e1.StatUp.RemainTime]. Cannot be used together with the Courage Scroll.\nYou can only use it in the Crucible’s training arena.</body>
+		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápido por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Courage Scroll.\nYou can only use it in the Crucible’s training arena.</body>
 	</string>
 	<string>
 		<id>780514</id>
@@ -74528,7 +74528,7 @@
 	<string>
 		<id>780651</id>
 		<name>STR_EVENT_SCROLL_speed_casting_30A_DESC</name>
-		<body>[%e1.StatUp.StatName] becomes faster by [%e1.StatUp.Value]%% for [%e1.StatUp.RemainTime]. Cannot be used together with the Courage Scroll.</body>
+		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápido por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Courage Scroll.</body>
 	</string>
 	<string>
 		<id>780652</id>
@@ -75658,12 +75658,12 @@
 	<string>
 		<id>780881</id>
 		<name>STR_Event_POTION_CURE_PHYSICAL_10A_DESC</name>
-		<body>Cures physical Altered States.</body>
+		<body>Cura alterações de estado físico.</body>
 	</string>
 	<string>
 		<id>780882</id>
 		<name>STR_EVENT_POTION_CURE_PHYSICAL_30A_DESC</name>
-		<body>Cures physical Altered States.</body>
+		<body>Cura alterações de estado físico.</body>
 	</string>
 	<string>
 		<id>780883</id>
@@ -76038,7 +76038,7 @@
 	<string>
 		<id>780957</id>
 		<name>STR_Event_SCROLL_SPEED_fly_40A_DESC</name>
-		<body>[%e1.StatUp.StatName] becomes faster by [%e1.StatUp.Value]%% for [%e1.StatUp.RemainTime].</body>
+		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápido por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>780958</id>
@@ -77143,12 +77143,12 @@
 	<string>
 		<id>781180</id>
 		<name>STR_EVENT_SULENTINE_SCROLL_SPEED_ATK_50A_DESC</name>
-		<body>[%e1.StatUp.StatName] becomes faster by [%e1.StatUp.Value]%% for [%e1.StatUp.RemainTime]. Cannot be used together with the Awakening Scroll.</body>
+		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápido por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Awakening Scroll.</body>
 	</string>
 	<string>
 		<id>781181</id>
 		<name>STR_EVENT_SULENTINE_SCROLL_SPEED_CASTING_50A_DESC</name>
-		<body>[%e1.StatUp.StatName] becomes faster by [%e1.StatUp.Value]%% for [%e1.StatUp.RemainTime]. Cannot be used together with the Courage Scroll.</body>
+		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápido por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Courage Scroll.</body>
 	</string>
 	<string>
 		<id>781182</id>
@@ -77158,7 +77158,7 @@
 	<string>
 		<id>781183</id>
 		<name>STR_EVENT_SULENTINE_SCROLL_SPEED_RUN_50A_DESC</name>
-		<body>[%e1.StatUp.StatName] becomes faster by [%e1.StatUp.Value]%% for [%e1.StatUp.RemainTime].</body>
+		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápido por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>781184</id>

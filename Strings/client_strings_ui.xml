@@ -4576,7 +4576,7 @@
 	<string>
 		<id>900495</id>
 		<name>STR_CONFIRM_LOOT</name>
-		<body>'%0' não pode ser trocado. Você tem certeza que deseja adquirir?</body>
+		<body>&lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; não pode ser trocado. Você tem certeza que deseja adquirir?</body>
 	</string>
 	<string>
 		<id>900496</id>
@@ -9754,27 +9754,27 @@
 	<string>
 		<id>901566</id>
 		<name>STR_RESURRECT_DESC_RP</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Se você clicar em 'Concordar', irá renascer imediatamente em %0.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Em até %1 minutos outras pessoas podem te ressuscitar no local atual.&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Se você clicar em &lt;font color=&quot;ffff00&quot;&gt;Concordar&lt;/font&gt;, irá renascer imediatamente em &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Em até %1 minutos outras pessoas podem te ressuscitar no local atual.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901567</id>
 		<name>STR_RESURRECT_DESC_BIND_STONE</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Você irá renascer no Kisk em %0&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt; a menos que você escolha outro método de ressurreição em %1 minuto(s).&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Tempo de espera da ressurreição: %2 segundos restantes&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Você irá renascer no &lt;font color=&quot;ffff00&quot;&gt;Kisk&lt;/font&gt; em &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; a não ser que você escolha outro método de ressurreição em até %1 minuto(s).&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Escolha uma opção em %2 segundos.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901568</id>
 		<name>STR_RESURRECT_DESC_SKILL</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Você pode ressuscitar neste local usando uma habilidade de ressurreição.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Você deve escolher um método de ressurreição em %0 minutos.&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Você pode ressuscitar neste local usando uma &lt;font color=&quot;ffff00&quot;&gt;Habilidade de Ressurreição&lt;/font&gt;.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Você deve escolher um método de ressurreição em até %0 minutos.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901569</id>
 		<name>STR_RESURRECT_DESC_ITEM</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Você pode ressuscitar neste local usando %0.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Você deve escolher um método de ressurreição em %1 minuto(s).&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Você pode ressuscitar neste local usando &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Você deve escolher um método de ressurreição em até %1 minuto(s).&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901570</id>
 		<name>STR_RESURRECT_DESC_OTHER</name>
-		<body>&lt;p align=&quot;left&quot;&gt;%0 usou %1 para te ressuscitar. Aceita?&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Você deve decidir em %2 minutos.&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;&lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; usou &lt;font color=&quot;ffff00&quot;&gt;%1&lt;/font&gt; para te ressuscitar. Aceita?&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Você deve decidir em até %2 minutos.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901571</id>
@@ -9794,7 +9794,7 @@
 	<string>
 		<id>901574</id>
 		<name>STR_RESURRECT_POINT_NONE</name>
-		<body>Local de Ressurreição não registrado</body>
+		<body>(Local Desconhecido)</body>
 	</string>
 	<string>
 		<id>901575</id>
@@ -10364,7 +10364,7 @@
 	<string>
 		<id>901689</id>
 		<name>STR_DESTROY_CASH_ITEM_CONFIRM</name>
-		<body>Você realmente deseja &lt;font color=&quot;ff0000&quot;&gt;DESTRUIR&lt;/font&gt; &lt;font color="ff0000"&gt; %0&lt;/font&gt;%?&lt;br&gt;&#xA;Este item não pode ser restaurado depois de destruído.</body>
+		<body>Você realmente deseja &lt;font color=&quot;ff0000&quot;&gt;DESTRUIR&lt;/font&gt; &lt;font color="ffff00"&gt; %0&lt;/font&gt;%?&lt;br&gt;&#xA;Este item não pode ser restaurado depois de destruído.</body>
 	</string>
 	<string>
 		<id>901690</id>

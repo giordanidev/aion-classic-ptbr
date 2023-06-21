@@ -49098,7 +49098,7 @@
 	<string>
 		<id>291258</id>
 		<name>STR_SKILL_CH_HolyGloria_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] by [%e1.StatUp.Value]%% for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value]%% por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>291259</id>
@@ -49113,7 +49113,7 @@
 	<string>
 		<id>291261</id>
 		<name>STR_SKILL_CH_AbyssGloria_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] by [%e1.StatUp.Value]%% for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value]%% por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>291262</id>
@@ -72512,7 +72512,7 @@
 	<string>
 		<id>295949</id>
 		<name>STR_ITEM_SPEED_BOOSTCASTINGTIME_DESC</name>
-		<body>[%e1.StatUp.StatName] becomes faster by [%e1.StatUp.Value]%% for [%e1.StatUp.RemainTime].</body>
+		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápido por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>295950</id>
@@ -72532,7 +72532,7 @@
 	<string>
 		<id>295953</id>
 		<name>STR_ITEM_SPEED_BOOSTCASTINGTIME_AB_DESC</name>
-		<body>[%e1.StatUp.StatName] becomes faster by [%e1.StatUp.Value]%% for [%e1.StatUp.RemainTime].</body>
+		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápido por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>295954</id>
