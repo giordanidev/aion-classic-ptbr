@@ -4571,7 +4571,7 @@
 	<string>
 		<id>900494</id>
 		<name>STR_TOOLTIP_AGGRESSIVE</name>
-		<body>Pre-emptive Attack</body>
+		<body>Agressivo</body>
 	</string>
 	<string>
 		<id>900495</id>
@@ -9754,12 +9754,12 @@
 	<string>
 		<id>901566</id>
 		<name>STR_RESURRECT_DESC_RP</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Se você clicar em &lt;font color=&quot;ffff00&quot;&gt;Concordar&lt;/font&gt;, irá renascer imediatamente em &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Em até %1 minutos outras pessoas podem te ressuscitar no local atual.&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Se você clicar em &lt;font color=&quot;ffff00&quot;&gt;Concordar&lt;/font&gt;, irá renascer imediatamente em &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Em até %1 minutos outras pessoas podem te ressuscitar no local atual.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901567</id>
 		<name>STR_RESURRECT_DESC_BIND_STONE</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Você irá renascer no &lt;font color=&quot;ffff00&quot;&gt;Kisk&lt;/font&gt; em &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; a não ser que você escolha outro método de ressurreição em até %1 minuto(s).&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Escolha uma opção em %2 segundos.&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Você irá renascer no &lt;font color=&quot;ffff00&quot;&gt;Kisk&lt;/font&gt; em &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;, a não ser que você escolha outro método de ressurreição em até %1 minuto(s).&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Você poderá escolher uma opção em %2 segundos.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901568</id>
