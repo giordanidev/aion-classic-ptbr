@@ -9759,12 +9759,12 @@
 	<string>
 		<id>901567</id>
 		<name>STR_RESURRECT_DESC_BIND_STONE</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Você irá renascer no &lt;font color=&quot;ffff00&quot;&gt;Kisk&lt;/font&gt; em &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;, a não ser que você escolha outro método de ressurreição em até %1 minuto(s).&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Você poderá escolher uma opção em %2 segundos.&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Você irá renascer no &lt;font color=&quot;ffff00&quot;&gt;Kisk&lt;/font&gt; em &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;, a não ser que você escolha outro método para renascer em até %1 minuto(s).&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Você poderá escolher uma opção em %2 segundos.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901568</id>
 		<name>STR_RESURRECT_DESC_SKILL</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Você pode ressuscitar neste local usando uma &lt;font color=&quot;ffff00&quot;&gt;Habilidade de Ressurreição&lt;/font&gt;.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Você deve escolher um método de ressurreição em até %0 minutos.&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Você pode ressuscitar neste local usando uma &lt;font color=&quot;ffff00&quot;&gt;Habilidade de Ressurreição&lt;/font&gt;.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Você deve escolher um método para renascer em até %0 minutos.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901569</id>
