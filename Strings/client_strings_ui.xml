@@ -498,7 +498,7 @@
 	<string>
 		<id>160018</id>
 		<name>STR_ASK_REGISTER_BINDSTONE</name>
-		<body>Você deseja se vincular a este Obelisco?</body>
+		<body>Você deseja vincular o renascimento neste Kisk?</body>
 	</string>
 	<string>
 		<id>160019</id>
@@ -3891,17 +3891,17 @@
 	<string>
 		<id>900358</id>
 		<name>STR_MAIL_CONFIRM_SENDING</name>
-		<body>A taxa dos correios é de &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt;. Deseja enviar a carta para %1?</body>
+		<body>A taxa dos correios é de &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt;. Deseja enviar a carta para &lt;font color=&quot;ff0000&quot;&gt;%1&lt;/font&gt;?</body>
 	</string>
 	<string>
 		<id>900359</id>
 		<name>STR_MAIL_RECEIVED_MAIL</name>
-		<body>Correio</body>
+		<body>Cartas </body>
 	</string>
 	<string>
 		<id>900360</id>
 		<name>STR_MAIL_PENDING_MAIL</name>
-		<body>Correio Pendente</body>
+		<body>Carta Pendente</body>
 	</string>
 	<string>
 		<id>900361</id>
@@ -4161,7 +4161,7 @@
 	<string>
 		<id>900412</id>
 		<name>STR_MAIL_CONFIRM_DEL_APPENDED</name>
-		<body>Há um item anexado ao correio. Tem certeza de que deseja excluí-lo?</body>
+		<body>Há um item anexado à carta. Tem certeza de que deseja excluí-la?</body>
 	</string>
 	<string>
 		<id>900413</id>
@@ -11200,7 +11200,7 @@
 	<string>
 		<id>901861</id>
 		<name>STR_MAIL_MSG_FULL</name>
-		<body>&lt;p&gt;Você não pode receber mais nenhum correio porque sua Caixa de Correio está cheia.&lt;/p&gt;&lt;p&gt;Por favor, exclua algum correio desnecessário para continuar recebendo correios.&lt;/p&gt;</body>
+		<body>&lt;p&gt;Você não pode receber mais nenhuma carta porque sua Caixa de Correio está cheia.&lt;/p&gt;&lt;p&gt;Por favor, exclua alguma carta desnecessária para poder receber novas cartas.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901862</id>
@@ -12233,7 +12233,7 @@
 	<string>
 		<id>902068</id>
 		<name>STR_GLOBAL_OPTION_GAME_REJECT_MAIL_FROM_LOW_LEVEL</name>
-		<body>Bloquear correio de jogadores &lt; nível %0</body>
+		<body>Bloquear cartas (Correio) de jogadores &lt; nível %0</body>
 	</string>
 	<string>
 		<id>902069</id>

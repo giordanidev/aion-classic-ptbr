@@ -15628,7 +15628,7 @@
 	<string>
 		<id>1390113</id>
 		<name>STR_MAIL_MSG_RECIPIENT_MAILBOX_FULL</name>
-		<body>Você não pode enviar um mail para %0 porque a caixa de correio dele(a) está cheia.</body>
+		<body>Você não pode enviar uma carta para %0 porque a Caixa de Correio dele(a) está cheia.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
