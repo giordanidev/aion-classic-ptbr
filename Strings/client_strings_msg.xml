@@ -15635,7 +15635,7 @@
 	<string>
 		<id>1390114</id>
 		<name>STR_MSG_REJECTED_WATCH</name>
-		<body>%0 está não permite usar a funcção Ver Detalhes no personagem dele.</body>
+		<body>%0 está bloqueando a Visualização de Detalhes do personagem.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>

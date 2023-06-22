@@ -6889,7 +6889,7 @@
 	<string>
 		<id>911267</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GAME_HOLD_MOUSE_MOVE</name>
-		<body>Desativar Clicar para Pover</body>
+		<body>Desativar 'Clicar para Mover'</body>
 	</string>
 	<string>
 		<id>911268</id>
@@ -8364,7 +8364,7 @@
 	<string>
 		<id>911562</id>
 		<name>STR_LETTER_DIALOG__BLOCK</name>
-		<body>Bloquear Jogador</body>
+		<body>Lista de Bloqueados</body>
 	</string>
 	<string>
 		<id>911563</id>
