@@ -7892,7 +7892,7 @@
 	<string>
 		<id>1300148</id>
 		<name>STR_MSG_ASK_OTHER_HAS_LOGOUT</name>
-		<body>%0 has logged out.</body>
+		<body>%0 saiu do jogo.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -13089,7 +13089,7 @@
 	<string>
 		<id>1300890</id>
 		<name>STR_BUDDYLIST_BUDDY_LOGON</name>
-		<body>Your friend %0 has logged in.</body>
+		<body>Seu amigo %0 entrou no jogo.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -13264,14 +13264,14 @@
 	<string>
 		<id>1300915</id>
 		<name>STR_NOTIFY_LOGIN_BUDDY</name>
-		<body>%0 has logged in.</body>
+		<body>%0 entrou no jogo.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300916</id>
 		<name>STR_NOTIFY_LOGOFF_BUDDY</name>
-		<body>%0 has logged out.</body>
+		<body>%0 saiu do jogo.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -17686,7 +17686,7 @@
 	<string>
 		<id>1400133</id>
 		<name>STR_MSG_NOTIFY_LOGIN_GUILD</name>
-		<body>%0 has logged in.</body>
+		<body>%0 entrou no jogo.</body>
 		<message_type>7</message_type>
 		<display_type>1</display_type>
 	</string>

@@ -353,12 +353,12 @@
 	<string>
 		<id>95003</id>
 		<name>STR_GIVE_ITEM_OPTION_DO_YOU_WANT_GIVE_OPTION_WITH_WARNING</name>
-		<body>&lt;p&gt;Você deseja melhorar &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; com a Manastone &apos;&lt;font color=&quot;ffff00&quot;&gt;%1&lt;/font&gt;&apos;?&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Se o processo falhar, todas as manastones encaixadas no item &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; serão &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDAS&lt;/font&gt;.&lt;/p&gt;</body>
+		<body>&lt;p&gt;Você deseja melhorar &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; com a Manastone &lt;font color=&quot;ffff00&quot;&gt;%1&lt;/font&gt;?&lt;/p&gt;&lt;p&gt;&#xA;&lt;/p&gt;&lt;p&gt;Se o processo falhar, todas as manastones encaixadas no item &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; serão &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDAS&lt;/font&gt;.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>95004</id>
 		<name>STR_REMOVE_ITEM_OPTION_DO_YOU_WANT_REMOVE_OPTION</name>
-		<body>&lt;p&gt;Remover a 'Manastone' &lt;font color=&quot;ffff00&quot;&gt;%1&lt;/font&gt; de &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%num2&lt;/font&gt;. &lt;/p&gt;&#xA;&lt;p&gt;Você quer remover a 'Manastone'?&lt;/p&gt;</body>
+		<body>&lt;p&gt;Remover a 'Manastone' &lt;font color=&quot;ffff00&quot;&gt;%1&lt;/font&gt; de &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%num2&lt;/font&gt;. &lt;/p&gt;&#xA;&lt;p&gt;Você quer remover a Manastone?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>95005</id>
@@ -12643,12 +12643,12 @@
 	<string>
 		<id>902150</id>
 		<name>STR_GIVE_ITEM_OPTION_WARNING</name>
-		<body>&lt;p&gt;&#xA;&#xA;Se o processo falhar, todas as Manastones encaixadas em &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; serão &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDAS&lt;/font&gt;.&lt;/p&gt;</body>
+		<body>&lt;p&gt;&#xA;&lt;/p&gt;&lt;p&gt;Se o processo falhar, todas as Manastones encaixadas em &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; serão &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDAS&lt;/font&gt;.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902151</id>
 		<name>STR_GIVE_ITEM_OPTION_ON_COMPOUNDED_ITEM_WARNING</name>
-		<body>&lt;p&gt;&#xA;&#xA;Se o processo falhar, todas as %0 Manastones encaixadas em &lt;font color=&quot;ffff00&quot;&gt;%1&lt;/font&gt; serão &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDAS&lt;/font&gt;.&lt;/p&gt;</body>
+		<body>&lt;p&gt;&#xA;&lt;/p&gt;&lt;p&gt;Se o processo falhar, todas as %0 Manastones encaixadas em &lt;font color=&quot;ffff00&quot;&gt;%1&lt;/font&gt; serão &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDAS&lt;/font&gt;.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902152</id>
@@ -33549,7 +33549,7 @@
 	<string>
 		<id>907220</id>
 		<name>STR_INSTANT_DUNGEON_RESET_TIME</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Selecione um método para entrar em %WORLDNAME0%.&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;Se você selecionar 'Entrar Novamente', você irá entrar de novo na instância em andamento.&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;Caso queira criar uma nova instância e desistir da atual clique em 'Nova Instância'.&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Selecione um método para entrar em &lt;font color=&quot;ffff00&quot;&gt;%WORLDNAME0%&lt;/font&gt;.&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;Se você selecionar &lt;font color=&quot;ffff00&quot;&gt;Entrar Novamente&lt;/font&gt;, você irá entrar de novo na instância em andamento.&lt;/p&gt;&lt;p&gt;&#xA;&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;Caso queira criar uma nova instância e desistir da atual clique em &lt;font color=&quot;ff0000&quot;&gt;Nova Instância&lt;/font&gt;.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>907221</id>

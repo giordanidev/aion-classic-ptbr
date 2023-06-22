@@ -36,6 +36,7 @@ Espa~ço HTML 3x:
 
 Nova linha HTML:
 &#xA;
+&lt;p&gt;&#xA;&lt;/p&gt;
 
 Cor
 &lt;font color=&quot;ff0000&quot;&gt;TEXTO&lt;/font&gt;
