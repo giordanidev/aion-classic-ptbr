@@ -12143,35 +12143,35 @@
 	<string>
 		<id>1300755</id>
 		<name>STR_MSG_CANNOT_QUIT</name>
-		<body>You cannot quit the game during the battle.</body>
+		<body>Você não pode sair do jogo enquanto estiver em modo de batalha.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300756</id>
 		<name>STR_MSG_LIGHT_SIDE_DIRECT_PORTAL_OPEN</name>
-		<body>A one-way Rift into Elysea has appeared.</body>
+		<body>Um Rift para Elysea apareceu.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300757</id>
 		<name>STR_MSG_USEMONEY</name>
-		<body>You spent %num0 Kinah.</body>
+		<body>Você gastou %num0 Kinah.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300758</id>
 		<name>STR_MSG_TITLE_TRADE_FAIL</name>
-		<body>Trade Failed</body>
+		<body>A troca falhou.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300759</id>
 		<name>STR_MSG_NOT_ENOUGH_MONEY</name>
-		<body>You do not have enough Kinah.</body>
+		<body>Você não tem o Kinah necessário.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -12248,14 +12248,14 @@
 	<string>
 		<id>1300770</id>
 		<name>STR_DUEL_START</name>
-		<body>Start Duel!</body>
+		<body>Que comece o duelo!</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300771</id>
 		<name>STR_DUEL_STOP</name>
-		<body>Stop Duel</body>
+		<body>O duelo terminou.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -12319,7 +12319,7 @@
 	<string>
 		<id>1300780</id>
 		<name>STR_ALREADY_TALKING_TO_SOMEONE</name>
-		<body>That person is busy.</body>
+		<body>Este jogador está ocupado.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -12459,28 +12459,28 @@
 	<string>
 		<id>1300800</id>
 		<name>STR_CANNOT_REGISTER_BINDSTONE_FAR_FROM_NPC</name>
-		<body>You cannot use the Kisk here.</body>
+		<body>Você não pode usar o Kisk aqui.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300801</id>
 		<name>STR_CANNOT_REGISTER_BINDSTONE_NOT_BINDSTONE</name>
-		<body>You cannot use the Kisk.</body>
+		<body>Você não pode usar o Kisk.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300802</id>
 		<name>STR_BINDSTONE_IS_DESTROYED</name>
-		<body>The Kisk has been destroyed.</body>
+		<body>O Kisk foi destruído.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300803</id>
 		<name>STR_BINDSTONE_IS_REMOVED</name>
-		<body>The Kisk has been dismantled.</body>
+		<body>O Kisk foi removido.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
