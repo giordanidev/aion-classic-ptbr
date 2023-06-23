@@ -3566,7 +3566,7 @@
 	<string>
 		<id>900293</id>
 		<name>STR_PARTY_ALLIANCE_LOOTING</name>
-		<body>Livre para Todos; Loot Automático</body>
+		<body>Aberto Para Todos; Loot Automático</body>
 	</string>
 	<string>
 		<id>900294</id>
@@ -4146,7 +4146,7 @@
 	<string>
 		<id>900409</id>
 		<name>STR_PARTY_MENU_FREE</name>
-		<body>Livre Para Todos</body>
+		<body>Aberto Para Todos</body>
 	</string>
 	<string>
 		<id>900410</id>
@@ -8629,7 +8629,7 @@
 	<string>
 		<id>901339</id>
 		<name>STR_PARTY_MENU_LOOT_FREE_FOR_ALL</name>
-		<body>(Livre Para Todos)</body>
+		<body>(Aberto Para Todos)</body>
 	</string>
 	<string>
 		<id>901340</id>
@@ -14020,7 +14020,7 @@
 	<string>
 		<id>902765</id>
 		<name>STR_TOOLTIP_INDUN_REENTER_TIME</name>
-		<body>Entrar Novamente</body>
+		<body>Continuar Instância</body>
 	</string>
 	<string>
 		<id>902766</id>
@@ -33549,7 +33549,7 @@
 	<string>
 		<id>907220</id>
 		<name>STR_INSTANT_DUNGEON_RESET_TIME</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Selecione um método para entrar em &lt;font color=&quot;ffff00&quot;&gt;%WORLDNAME0%&lt;/font&gt;.&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;Se você selecionar &lt;font color=&quot;ffff00&quot;&gt;Entrar Novamente&lt;/font&gt;, você irá entrar de novo na instância em andamento.&lt;/p&gt;&lt;p&gt;&#xA;&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;Caso queira criar uma nova instância e desistir da atual clique em &lt;font color=&quot;ff0000&quot;&gt;Nova Instância&lt;/font&gt;.&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Selecione um método para entrar em &lt;font color=&quot;ffff00&quot;&gt;%WORLDNAME0%&lt;/font&gt;.&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;Se você selecionar &lt;font color=&quot;ffff00&quot;&gt;Continuar Instância&lt;/font&gt;, você irá entrar de novo na instância em andamento.&lt;/p&gt;&lt;p&gt;&#xA;&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;Caso queira criar uma nova instância e desistir da atual clique em &lt;font color=&quot;ff0000&quot;&gt;Nova Instância&lt;/font&gt;.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>907221</id>
@@ -33559,7 +33559,7 @@
 	<string>
 		<id>907222</id>
 		<name>STR_INSTANT_DUNGEON_CANT_RESET</name>
-		<body>Entrar Novamente</body>
+		<body>Continuar Instância</body>
 	</string>
 	<string>
 		<id>907223</id>
