@@ -9039,12 +9039,12 @@
 	<string>
 		<id>911697</id>
 		<name>STR_PARTY_MATCH_DIALOG</name>
-		<body>Encontrar Grupo</body>
+		<body>Procurar Grupos</body>
 	</string>
 	<string>
 		<id>911698</id>
 		<name>STR_PARTY_MATCH_DIALOG__TAB_OFFER</name>
-		<body>Montando Grupo</body>
+		<body>Criando Grupo</body>
 	</string>
 	<string>
 		<id>911699</id>
@@ -9359,7 +9359,7 @@
 	<string>
 		<id>911761</id>
 		<name>STR_PARTY_MATCH_DIALOG__TOOLTIP_SEARCH_MINIMIZE</name>
-		<body>Encontrar Grupo</body>
+		<body>Procurar Grupos</body>
 	</string>
 	<string>
 		<id>911762</id>
@@ -11024,12 +11024,12 @@
 	<string>
 		<id>912094</id>
 		<name>STR_PARTY_LINK_DIALOG__PARTY_MATCH</name>
-		<body>Encontrar Grupo</body>
+		<body>Procurar Grupos</body>
 	</string>
 	<string>
 		<id>912095</id>
 		<name>STR_FORCE_LINK_DIALOG__PARTY_MATCH</name>
-		<body>Encontrar Grupo</body>
+		<body>Procurar Grupos</body>
 	</string>
 	<string>
 		<id>912096</id>
@@ -11064,7 +11064,7 @@
 	<string>
 		<id>912102</id>
 		<name>STR_NEW_MAP_DIALOG__INFO_INDUN_PARTY_MATCH</name>
-		<body>Encontrar Grupo</body>
+		<body>Procurar Grupos</body>
 	</string>
 	<string>
 		<id>912103</id>
@@ -13339,12 +13339,12 @@
 	<string>
 		<id>912558</id>
 		<name>STR_PARTY_MATCH_DIALOG__TAB_INSTANCE_MATCH</name>
-		<body>Todos os Servidores</body>
+		<body>Entre Servidores</body>
 	</string>
 	<string>
 		<id>912559</id>
 		<name>STR_PARTY_MATCH_INSTANCE_MATCH_DIALOG</name>
-		<body>Todos os Servidores</body>
+		<body>Entre Servidores</body>
 	</string>
 	<string>
 		<id>912560</id>
@@ -13639,7 +13639,7 @@
 	<string>
 		<id>912633</id>
 		<name>STR_RANK_INFO_DIALOG__INTER_SERVER</name>
-		<body>Todos os servidores</body>
+		<body>Entre Servidores</body>
 	</string>
 	<string>
 		<id>912634</id>
