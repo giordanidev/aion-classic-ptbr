@@ -50,7 +50,7 @@ def encode():
             "ó": "&oacute;", "ô": "&ocirc;", "õ": "&otilde;",
             "Ú": "&Uacute;",
             "ú": "&uacute;",
-            "&apos;": "'", "´": "'", "`": "'", "’": "'", " ": " "
+            "&apos;": "'", "´": "'", "`": "'", "’": "'", " ": " ", "–": "-"
         }
 
         contents="".join((char_unicode.get(x, x) for x in contents))

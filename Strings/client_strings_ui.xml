@@ -3891,7 +3891,7 @@
 	<string>
 		<id>900358</id>
 		<name>STR_MAIL_CONFIRM_SENDING</name>
-		<body>A taxa dos correios é de &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt;. Deseja enviar a carta para &lt;font color=&quot;ff0000&quot;&gt;%1&lt;/font&gt;?</body>
+		<body>A taxa dos correios é de &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt;. Deseja enviar a carta para &lt;font color=&quot;ffff00&quot;&gt;%1&lt;/font&gt;?</body>
 	</string>
 	<string>
 		<id>900359</id>
@@ -6214,7 +6214,7 @@
 	<string>
 		<id>900824</id>
 		<name>STR_ITEM_PRICE_EXCHANGE</name>
-		<body>Quanto você deseja registrar?</body>
+		<body>Quanto você deseja transferir?</body>
 	</string>
 	<string>
 		<id>900825</id>
@@ -10995,7 +10995,7 @@
 	<string>
 		<id>901820</id>
 		<name>STR_BINDSTONE_INFO_TOOLTIP</name>
-		<body>Localização: %5  Tempo Restante: %0  Usuários: %num1 / %num2  Ressurreições Restantes: %num3 / %num4</body>
+		<body>Localização: %5 &#xA;Tempo restante: %0 &#xA;Usuários: %num1 / %num2 &#xA;Usos restantes: %num3 / %num4</body>
 	</string>
 	<string>
 		<id>901821</id>
@@ -11265,7 +11265,7 @@
 	<string>
 		<id>901874</id>
 		<name>STR_INSTANT_DUNGEON_RESURRECT</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Se você clicar em 'Concordar', você irá renascer imediatamente no Ponto de Partida de %0.&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Em até %1 minutos outras pessoas podem te ressuscitar no local atual.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Você pode escolher uma opção em %2 segundos.&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Se você clicar em &lt;font color=&quot;ffff00&quot;&gt;Concordar&lt;/font&gt;, você irá renascer imediatamente no &lt;font color=&quot;ffff00&quot;&gt;Ponto de Partida de %0&lt;/font&gt;.&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Em até %1 minutos outras pessoas podem te ressuscitar no local atual.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Você pode escolher uma opção em %2 segundos.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901875</id>
@@ -11350,7 +11350,7 @@
 	<string>
 		<id>901891</id>
 		<name>STR_INSTANT_DUNGEON_IDLF1_RESURRECT</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Se você clicar em 'Concordar',&#xA;você irá renascer imediatamente&#xA;no Ponto de Partida de %0.&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Se você clicar em &lt;font color=&quot;ffff00&quot;&gt;Concordar&lt;/font&gt;, você irá renascer imediatamente no &lt;font color=&quot;ffff00&quot;&gt;Ponto de Partida de %0&lt;/font&gt;.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901892</id>
@@ -32849,7 +32849,7 @@
 	<string>
 		<id>907006</id>
 		<name>STR_INSTANT_DUNGEON_RESURRECT_IDPOGUSGAME</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Ao clicar em 'Concordar', você retornará imediatamente no início da instância.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Tempo de espera: %0 segundos restantes&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Ao clicar em &lt;font color=&quot;ffff00&quot;&gt;Concordar&lt;/font&gt;, você retornará imediatamente no &lt;font color=&quot;ffff00&quot;&gt;início da instância&lt;/font&gt;.&lt;/p&gt;&lt;p&gt;&#xA;&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;Por favor, aguarde %0 segundos.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>907007</id>

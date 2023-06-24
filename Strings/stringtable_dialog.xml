@@ -6009,7 +6009,7 @@
 	<string>
 		<id>911091</id>
 		<name>STR_MAILBOX_DIALOG__WRITE_NORMAL</name>
-		<body>Correspondência Comum</body>
+		<body>Envio Normal</body>
 	</string>
 	<string>
 		<id>911092</id>
@@ -8879,7 +8879,7 @@
 	<string>
 		<id>911665</id>
 		<name>STR_ITEM_PRICE_COUNT_DIALOG__ALL</name>
-		<body>Tudo</body>
+		<body>TD</body>
 	</string>
 	<string>
 		<id>911666</id>
@@ -13889,7 +13889,7 @@
 	<string>
 		<id>912684</id>
 		<name>STR_MAILBOX_DIALOG__TAKEALL</name>
-		<body>Pegar Todos</body>
+		<body>Pegar Tudo</body>
 	</string>
 	<string>
 		<id>912685</id>
