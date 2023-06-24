@@ -8624,7 +8624,7 @@
 	<string>
 		<id>911614</id>
 		<name>STR_FORCE_DIALOG__JOIN_LINK</name>
-		<body>Recrutando para Aliança</body>
+		<body>Criando Aliança</body>
 	</string>
 	<string>
 		<id>911615</id>
@@ -9114,7 +9114,7 @@
 	<string>
 		<id>911712</id>
 		<name>STR_PARTY_MATCH_DIALOG__OFFER_PARTY</name>
-		<body>Montar Grupo</body>
+		<body>Criar Grupo</body>
 	</string>
 	<string>
 		<id>911713</id>
@@ -9134,7 +9134,7 @@
 	<string>
 		<id>911716</id>
 		<name>STR_PARTY_MATCH_OFFER_DIALOG</name>
-		<body>Montar Grupo</body>
+		<body>Criar Grupo</body>
 	</string>
 	<string>
 		<id>911717</id>
@@ -9144,7 +9144,7 @@
 	<string>
 		<id>911718</id>
 		<name>STR_PARTY_MATCH_OFFER_DIALOG__OK</name>
-		<body>Montar</body>
+		<body>Criar</body>
 	</string>
 	<string>
 		<id>911719</id>
@@ -9254,12 +9254,12 @@
 	<string>
 		<id>911740</id>
 		<name>STR_PARTY_MATCH_DIALOG__SEARCH_OFFER_MINIMIZE</name>
-		<body>Pesquisa c/ janela fechada</body>
+		<body>Pesquisar com janela fechada</body>
 	</string>
 	<string>
 		<id>911741</id>
 		<name>STR_PARTY_MATCH_DIALOG__SEARCH_SEEK_MINIMIZE</name>
-		<body>Pesquisa c/ janela fechada</body>
+		<body>Pesquisar com janela fechada</body>
 	</string>
 	<string>
 		<id>911742</id>
@@ -10324,7 +10324,7 @@
 	<string>
 		<id>911954</id>
 		<name>STR_NEW_MAP_DIALOG__WHERE</name>
-		<body>Encontrar</body>
+		<body>Procurar</body>
 	</string>
 	<string>
 		<id>911955</id>
@@ -12234,7 +12234,7 @@
 	<string>
 		<id>912336</id>
 		<name>STR_BUILDER_DEV_DIALOG__SKILL_SEARCH</name>
-		<body>Encontrar skills</body>
+		<body>Procurar skills</body>
 	</string>
 	<string>
 		<id>912337</id>
@@ -13049,7 +13049,7 @@
 	<string>
 		<id>912499</id>
 		<name>STR_DIALOG_WARDROBE_BTN_SEARCH_TOOLTIP</name>
-		<body>Encontrar nome</body>
+		<body>Procurar</body>
 	</string>
 	<string>
 		<id>912500</id>

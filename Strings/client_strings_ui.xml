@@ -2499,7 +2499,7 @@
 	<string>
 		<id>240339</id>
 		<name>STR_UI_SEARCH_WISH_PARTY</name>
-		<body>Montando Grupo</body>
+		<body>Criando Grupo</body>
 	</string>
 	<string>
 		<id>240340</id>
@@ -11140,7 +11140,7 @@
 	<string>
 		<id>901849</id>
 		<name>STR_PARTY_MATCH_JOIN</name>
-		<body>Montando Grupo</body>
+		<body>Criando Grupo</body>
 	</string>
 	<string>
 		<id>901850</id>
@@ -11150,7 +11150,7 @@
 	<string>
 		<id>901851</id>
 		<name>STR_FORCE_MATCH_JOIN</name>
-		<body>Montando Aliança</body>
+		<body>Criando Aliança</body>
 	</string>
 	<string>
 		<id>901852</id>
@@ -11160,12 +11160,12 @@
 	<string>
 		<id>901853</id>
 		<name>STR_PARTY_MATCH_CREATE</name>
-		<body>Recrutando Grupo</body>
+		<body>Criando Grupo</body>
 	</string>
 	<string>
 		<id>901854</id>
 		<name>STR_FORCE_MATCH_CREATE</name>
-		<body>Recrutando Aliança</body>
+		<body>Criando Aliança</body>
 	</string>
 	<string>
 		<id>901855</id>
@@ -13155,7 +13155,7 @@
 	<string>
 		<id>902252</id>
 		<name>STR_MSGBOX_UNION_CHANGE_LEADER</name>
-		<body>&lt;p&gt;Transferir a liderança da Liga para a Aliança de %0?&lt;/p&gt;&lt;p&gt; A Aliança de %0 e o Número da Aliança será alterado.&lt;p&gt;</body>
+		<body>&lt;p&gt;Transferir a liderança da Liga para a Aliança de %0?&lt;/p&gt;&lt;p&gt; A Aliança de %0 e o Número da Aliança serão alterados.&lt;p&gt;</body>
 	</string>
 	<string>
 		<id>902253</id>
