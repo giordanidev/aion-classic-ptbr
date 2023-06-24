@@ -13545,12 +13545,12 @@
 	<string>
 		<id>902485</id>
 		<name>STR_WAIT_CHAR_WAITING_FOR_DICONNECT</name>
-		<body>Preparando para reconectar</body>
+		<body>Reconectar...</body>
 	</string>
 	<string>
 		<id>902486</id>
 		<name>STR_TOYPET_ABANDON_PET_CONFIRM</name>
-		<body>&lt;p align=&quot;CENTER&quot;&gt;Pets entregues são excluídos e não podem ser restaurados.&lt;/p&gt;&lt;p align=&quot;CENTER&quot;&gt;Você tem certeza que deseja &lt;font color=&quot;FF0000&quot;&gt;ENTREGAR&lt;/font&gt; &lt;font color=&quot;FF0000&quot;&gt;%0&lt;/font&gt;?&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;CENTER&quot;&gt;Pets entregues são &lt;font color=&quot;FF0000&quot;&gt;excluídos&lt;/font&gt; e &lt;font color=&quot;FFFF00&quot;&gt;não podem ser restaurados&lt;/font&gt;.&lt;/p&gt;&lt;p align=&quot;CENTER&quot;&gt;Você tem certeza que deseja &lt;font color=&quot;FF0000&quot;&gt;ENTREGAR&lt;/font&gt; &lt;font color=&quot;FFFF00&quot;&gt;%0&lt;/font&gt;?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902487</id>
@@ -13575,7 +13575,7 @@
 	<string>
 		<id>902491</id>
 		<name>STR_WAIT_CHAR_WAITING_FOR_DICONNECT_LEFT_TIME</name>
-		<body>Tempo restante</body>
+		<body>Aguarde</body>
 	</string>
 	<string>
 		<id>902492</id>
@@ -13660,7 +13660,7 @@
 	<string>
 		<id>902692</id>
 		<name>STR_WAIT_CHAR_WAITING_FOR_DICONNECT_TO_END</name>
-		<body>Preparando para reconectar o personagem selecionado (máx. 20 segundos)</body>
+		<body>Reconectar... (máx. 20 segundos)</body>
 	</string>
 	<string>
 		<id>902693</id>
