@@ -9774,7 +9774,7 @@
 	<string>
 		<id>911844</id>
 		<name>STR_VENDOR_DIALOG__VENDOR_TAB_FRAME_SELLING_ITEM_LIST_EXPECT_TOTAL_PRICE</name>
-		<body>Est. Total</body>
+		<body>Estimativa Total</body>
 	</string>
 	<string>
 		<id>911845</id>
