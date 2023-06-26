@@ -11352,7 +11352,7 @@
 	<string>
 		<id>1300642</id>
 		<name>STR_SERVER_SHUTDOWN</name>
-		<body>The server is due to shut down in %0 seconds. Please quit the game.</body>
+		<body>Você será desconectado do servidor em %0 segundos. Por favor, feche o jogo.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -11737,7 +11737,7 @@
 	<string>
 		<id>1300697</id>
 		<name>STR_SHUTDOWN_REASON_UPDATE</name>
-		<body>The server is being shut down for an update.</body>
+		<body>O servidor será desligado para receber uma atualização.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -14665,7 +14665,7 @@
 	<string>
 		<id>1310047</id>
 		<name>STR_LOGIN_ERROR_SERVER_DOWN</name>
-		<body>The game server is down.</body>
+		<body>O servidor está offline.</body>
 		<message_type>54</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -14721,7 +14721,7 @@
 	<string>
 		<id>1310055</id>
 		<name>STR_L2AUTH_S_SEVER_CHECK</name>
-		<body>The server is currently unavailable. Please try again later.</body>
+		<body>O servidor está indisponível. Por favor, aguarde alguns minutos tente novamente.</body>
 		<message_type>54</message_type>
 		<display_type>1</display_type>
 	</string>
