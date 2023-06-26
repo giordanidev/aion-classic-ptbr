@@ -7129,7 +7129,7 @@
 	<string>
 		<id>911315</id>
 		<name>STR_FORCE_DIALOG__LOOTING_FREEFORALL</name>
-		<body>Livre Para Todos</body>
+		<body>Aberto para Todos</body>
 	</string>
 	<string>
 		<id>911316</id>
@@ -7364,7 +7364,7 @@
 	<string>
 		<id>911362</id>
 		<name>STR_LOOT_OPTION_DIALOG__LOOT_FREE</name>
-		<body>Livre Para Todos</body>
+		<body>Aberto para Todos</body>
 	</string>
 	<string>
 		<id>911363</id>

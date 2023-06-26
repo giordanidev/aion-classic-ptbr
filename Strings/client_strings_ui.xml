@@ -5386,7 +5386,7 @@
 	<string>
 		<id>900657</id>
 		<name>STR_GUILD_MEMBER_COUNT</name>
-		<body>%num0 (Máx. de Membros: %num2, Online: %num1)</body>
+		<body>%num0 (Máximo: %num2, Online: %num1)</body>
 	</string>
 	<string>
 		<id>900658</id>
@@ -12613,7 +12613,7 @@
 	<string>
 		<id>902144</id>
 		<name>STR_ENCHANT_ITEM_DO_YOU_WANT_ENCHANT_ITEM_ABOVE</name>
-		<body>&lt;p&gt;Encantar %0?&lt;/p&gt;</body>
+		<body>&lt;p&gt;Encantar &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902145</id>
@@ -12658,12 +12658,12 @@
 	<string>
 		<id>902153</id>
 		<name>STR_ENCHANT_ITEM_DO_YOU_WANT_ENCHANT_ITEM_ABOVE_WARNING</name>
-		<body>&lt;p&gt;&#xA;&#xA;Se o encantamento falhar, o nível de encantamento do item diminui para %num0.&lt;/p&gt;</body>
+		<body>&lt;p&gt;&#xA;&#xA;Se o encantamento falhar, o nível de encantamento do item &lt;font color=&quot;ff0000&quot;&gt;diminui para %num0&lt;/font&gt;.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902154</id>
 		<name>STR_ENCHANT_ITEM_DO_YOU_WANT_ENCHANT_ITEM_WARNING</name>
-		<body>&lt;p&gt;&#xA;&#xA;Se o encantamento falhar, o nível de encantamento do item diminui em 1.&lt;/p&gt;</body>
+		<body>&lt;p&gt;&#xA;&#xA;Se o encantamento falhar, o nível de encantamento do item &lt;font color=&quot;ff0000&quot;&gt;diminui em 1&lt;/font&gt;.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902155</id>
