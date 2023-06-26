@@ -12753,7 +12753,7 @@
 	<string>
 		<id>1300842</id>
 		<name>STR_CHAT_CHANNEL_JOIN</name>
-		<body>You have joined the %0 Channel.</body>
+		<body>Você entrou no canal %0.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -12781,7 +12781,7 @@
 	<string>
 		<id>1300846</id>
 		<name>STR_CHAT_ROOM_CREATE_FAILED_MAXROOM</name>
-		<body>You cannot open or join any more private channels.</body>
+		<body>Você não pode entrar ou criar mais canais privados.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -14777,14 +14777,14 @@
 	<string>
 		<id>1320001</id>
 		<name>STR_MSG_DARK_SIDE_DIRECT_PORTAL_OPEN</name>
-		<body>A one-way Rift into Asmodae has appeared.</body>
+		<body>Um Rift para Asmodae apareceu.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1320002</id>
 		<name>STR_GUILD_EVENT_WIN_ARTIFACT</name>
-		<body>%1 of %0 has captured the %2 Artefact.</body>
+		<body>%1 dos %0 capturou o Artefact %2.</body>
 		<message_type>55</message_type>
 		<display_type>3</display_type>
 		<ment>ab_artifact_get_fix</ment>
@@ -14792,7 +14792,7 @@
 	<string>
 		<id>1320003</id>
 		<name>STR_GUILD_EVENT_WIN_FORT</name>
-		<body>%0 has conquered %1.</body>
+		<body>%0 conquistou %1.</body>
 		<message_type>55</message_type>
 		<display_type>19</display_type>
 		<ment>ab_succeeded_fix</ment>
@@ -14800,7 +14800,7 @@
 	<string>
 		<id>1320004</id>
 		<name>STR_GUILD_EVENT_LOSE_ARTIFACT</name>
-		<body>The %0 Artefact has been lost to %1.</body>
+		<body>O Artefact %0 foi perdido para %1.</body>
 		<message_type>55</message_type>
 		<display_type>3</display_type>
 		<ment>ab_artifact_lose_fix</ment>
@@ -14808,7 +14808,7 @@
 	<string>
 		<id>1320005</id>
 		<name>STR_GUILD_EVENT_LOSE_FORT</name>
-		<body>%0 Legion lost %1.</body>
+		<body>A Legião %0 perdeu %1.</body>
 		<message_type>55</message_type>
 		<display_type>19</display_type>
 		<ment>ab_failed_fix</ment>
@@ -14844,7 +14844,7 @@
 	<string>
 		<id>1330004</id>
 		<name>STR_GATHER_LEARNED_NEW_GATHER_SKILL</name>
-		<body>You have learned the %0 skill.</body>
+		<body>Você aprendeu a habilidade %0.</body>
 		<message_type>56</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -16347,14 +16347,14 @@
 	<string>
 		<id>1390215</id>
 		<name>STR_GUILD_INVITE_I_JOINED</name>
-		<body>You have joined the %0 Legion.</body>
+		<body>Você entrou na Legião %0.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1390216</id>
 		<name>_STR_MSG_Heal_TO_ME</name>
-		<body>You recovered %num0 HP.</body>
+		<body>Você recuperou %num0 HP.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -16676,14 +16676,14 @@
 	<string>
 		<id>1390262</id>
 		<name>STR_PARTY_ENTERED_PARTY</name>
-		<body>You have joined the group.</body>
+		<body>Você entrou no grupo.</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1390263</id>
 		<name>STR_FORCE_ENTERED_FORCE</name>
-		<body>You have joined the alliance.</body>
+		<body>Você entrou na aliança.</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -18425,7 +18425,7 @@
 	<string>
 		<id>1400237</id>
 		<name>STR_MSG_GET_SCORE</name>
-		<body>You have gained %num1 points from %0.</body>
+		<body>Você ganhou %num1 pontos de %0.</body>
 		<message_type>60</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -18439,21 +18439,21 @@
 	<string>
 		<id>1400239</id>
 		<name>STR_CHAT_CHANNEL_JOIN_ZONE</name>
-		<body>You have joined the %0 region channel.</body>
+		<body>Você entrou no canal da Região de %0.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1400240</id>
 		<name>STR_CHAT_CHANNEL_JOIN_TRADE</name>
-		<body>You have joined the %0 trade channel.</body>
+		<body>Você entrou no canal de Trocas de %0.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1400241</id>
 		<name>STR_MSG_PARTY_MATCH_ALREADY_SENT_DECLINE</name>
-		<body>You have already sent an Unavailable message to %0.</body>
+		<body>Você já enviou uma mensagem de Rejeição para %0.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -18498,7 +18498,7 @@
 	<string>
 		<id>1400247</id>
 		<name>STR_CANNOT_REGISTER_BINDSTONE_FULL</name>
-		<body>You cannot register because the limit of characters that can register on the Kisk has been reached.</body>
+		<body>Você não pode registrar neste Kisk porque o limite de registros foi atingido.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -18696,21 +18696,21 @@
 	<string>
 		<id>1400275</id>
 		<name>STR_MSG_INSTANCE_PORTAL_OPEN_IDLF3_Castle_Indratoo</name>
-		<body>A dimensional corridor that leads to the Indratu Fortress has appeared.</body>
+		<body>Um portal que te leva para Indratu Fortress apareceu..</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1400276</id>
 		<name>STR_MSG_INSTANCE_PORTAL_OPEN_IDDF3_Dragon</name>
-		<body>A dimensional corridor that leads to the Draupnir Cave has appeared.</body>
+		<body>Um portal que te leva para Draupnir Cave apareceu..</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1400277</id>
 		<name>STR_MSG_GET_SCORE_FOR_ENEMY</name>
-		<body>You gained %num0 points.</body>
+		<body>Você ganhou %num0 pontos.</body>
 		<message_type>60</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -21385,7 +21385,7 @@
 	<string>
 		<id>1400645</id>
 		<name>STR_MSG_PET_SUMMONED</name>
-		<body>You summoned %0.</body>
+		<body>Você convocou %0.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -22158,7 +22158,7 @@
 	<string>
 		<id>1400751</id>
 		<name>STR_MSG_BOSS_SPAWN_IDDF3_DRAGON</name>
-		<body>Commander Bakarma has appeared at Beritra&apos;s Oracle.</body>
+		<body>Commander Bakarma apareceu em Beritra&apos;s Oracle.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -26720,98 +26720,98 @@
 	<string>
 		<id>1401484</id>
 		<name>STR_MSG_SPAWN_ShellizardBigNamed_40_An</name>
-		<body>Andre appears.</body>
+		<body>Andre apareceu!</body>
 		<message_type>8</message_type>
 		<display_type>1024</display_type>
 	</string>
 	<string>
 		<id>1401485</id>
 		<name>STR_MSG_SPAWN_KrallElementalHKNamed_30_Ae</name>
-		<body>Summoner Klacha appears.</body>
+		<body>Summoner Klacha apareceu!</body>
 		<message_type>8</message_type>
 		<display_type>1024</display_type>
 	</string>
 	<string>
 		<id>1401486</id>
 		<name>STR_MSG_SPAWN_KrallWarriorHKBoss_40_An</name>
-		<body>Grand Chieftain Saendukal appears.</body>
+		<body>Grand Chieftain Saendukal apareceu!</body>
 		<message_type>8</message_type>
 		<display_type>1024</display_type>
 	</string>
 	<string>
 		<id>1401487</id>
 		<name>STR_MSG_SPAWN_CondorDFlyingNamed_38_Al</name>
-		<body>King Consierd appears.</body>
+		<body>King Consierd apareceu!</body>
 		<message_type>8</message_type>
 		<display_type>1024</display_type>
 	</string>
 	<string>
 		<id>1401488</id>
 		<name>STR_MSG_SPAWN_LycanRangerMNamed_30_Ah</name>
-		<body>Chieftain Kiwanunu appears.</body>
+		<body>Chieftain Kiwanunu apareceu!</body>
 		<message_type>8</message_type>
 		<display_type>1024</display_type>
 	</string>
 	<string>
 		<id>1401489</id>
 		<name>STR_MSG_SPAWN_LycanWizardMBoss_40_Al</name>
-		<body>Grand Chieftain Kasika appears.</body>
+		<body>Grand Chieftain Kasika apareceu!</body>
 		<message_type>8</message_type>
 		<display_type>1024</display_type>
 	</string>
 	<string>
 		<id>1401490</id>
 		<name>STR_MSG_SPAWN_LichNamed_45_Ah</name>
-		<body>Medeus the Vile appears.</body>
+		<body>Medeus the Vile apareceu!</body>
 		<message_type>8</message_type>
 		<display_type>1024</display_type>
 	</string>
 	<string>
 		<id>1401491</id>
 		<name>STR_MSG_SPAWN_AkanNamed_50_Al</name>
-		<body>Bollvig Black Heart appears.</body>
+		<body>Bollvig Black Heart apareceu!</body>
 		<message_type>8</message_type>
 		<display_type>1024</display_type>
 	</string>
 	<string>
 		<id>1401492</id>
 		<name>STR_MSG_SPAWN_Cherubim2Wp3thNM_46_Ah</name>
-		<body>Guardian Vingeveu appears.</body>
+		<body>Guardian Vingeveu apareceu!</body>
 		<message_type>8</message_type>
 		<display_type>1024</display_type>
 	</string>
 	<string>
 		<id>1401493</id>
 		<name>STR_MSG_SPAWN_Cherubim3Wp2ndNM_47_Al</name>
-		<body>Bulwark Jeshuchi appears.</body>
+		<body>Bulwark Jeshuchi apareceu!</body>
 		<message_type>8</message_type>
 		<display_type>1024</display_type>
 	</string>
 	<string>
 		<id>1401494</id>
 		<name>STR_MSG_SPAWN_Cherubim4Wp1stNM_48_Al</name>
-		<body>Watcher Zapiel appears.</body>
+		<body>Watcher Zapiel apareceu!</body>
 		<message_type>8</message_type>
 		<display_type>1024</display_type>
 	</string>
 	<string>
 		<id>1401495</id>
 		<name>STR_MSG_SPAWN_ElementalWater4NamedD_43_Ah</name>
-		<body>Aarien the Seacaller appears.</body>
+		<body>Aarien the Seacaller apareceu!</body>
 		<message_type>8</message_type>
 		<display_type>1024</display_type>
 	</string>
 	<string>
 		<id>1401496</id>
 		<name>STR_MSG_SPAWN_SeirenReBossD_46_Ah</name>
-		<body>Queen Alukina appears.</body>
+		<body>Queen Alukina apareceu!</body>
 		<message_type>8</message_type>
 		<display_type>1024</display_type>
 	</string>
 	<string>
 		<id>1401497</id>
 		<name>STR_MSG_SPAWN_Ab1_1011_CyclopsOdNamed_51_Al</name>
-		<body>Menotios appears.</body>
+		<body>Menotios apareceu!</body>
 		<message_type>8</message_type>
 		<display_type>1024</display_type>
 	</string>

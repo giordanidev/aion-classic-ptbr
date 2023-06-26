@@ -248,7 +248,7 @@
 	<string>
 		<id>900708</id>
 		<name>STR_LOBBY_CREATE__CUSTOM_RESET</name>
-		<body>Reiniciar</body>
+		<body>Resetar</body>
 	</string>
 	<string>
 		<id>900709</id>
@@ -6364,7 +6364,7 @@
 	<string>
 		<id>911162</id>
 		<name>STR_PAPER_DOLL_DIALOG</name>
-		<body>Visualizar</body>
+		<body>Pré-visualização do Personagem</body>
 	</string>
 	<string>
 		<id>911163</id>
@@ -6424,7 +6424,7 @@
 	<string>
 		<id>911174</id>
 		<name>STR_MACRO_HELP_DIALOG__CLEAR_VALUE</name>
-		<body>Reiniciar</body>
+		<body>Resetar</body>
 	</string>
 	<string>
 		<id>911175</id>
@@ -6809,7 +6809,7 @@
 	<string>
 		<id>911251</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__RESET_FRAME</name>
-		<body>Reiniciar Janelas</body>
+		<body>Resetar Janelas</body>
 	</string>
 	<string>
 		<id>911252</id>
@@ -8349,7 +8349,7 @@
 	<string>
 		<id>911559</id>
 		<name>STR_VENDOR_DIALOG__SEARCH_CANCEL</name>
-		<body>Reiniciar</body>
+		<body>Resetar</body>
 	</string>
 	<string>
 		<id>911560</id>
@@ -8804,7 +8804,7 @@
 	<string>
 		<id>911650</id>
 		<name>STR_TRADE_DIALOG__BUY_ITEM_TABFRAME_TOGGLE_PREVIEW</name>
-		<body>Visualizar Item Selecionado</body>
+		<body>Pré-visualizar Item Selecionado</body>
 	</string>
 	<string>
 		<id>911651</id>
@@ -12004,7 +12004,7 @@
 	<string>
 		<id>912290</id>
 		<name>STR_BUILDER_DEV_DIALOG__BASIC_CLEARINDUNCOOLTIME</name>
-		<body>Reiniciar instance recovery</body>
+		<body>Resetar instance recovery</body>
 	</string>
 	<string>
 		<id>912291</id>
@@ -12574,7 +12574,7 @@
 	<string>
 		<id>912404</id>
 		<name>STR_EQUIPMENT_CHANGE_DIALOG__RESET</name>
-		<body>Reiniciar</body>
+		<body>Resetar</body>
 	</string>
 	<string>
 		<id>912405</id>
@@ -13094,7 +13094,7 @@
 	<string>
 		<id>912508</id>
 		<name>STR_DIALOG_WARDROBE_BTN_SEARCH_RESET_TOOLTIP</name>
-		<body>Reiniciar</body>
+		<body>Resetar</body>
 	</string>
 	<string>
 		<id>912509</id>
@@ -13674,7 +13674,7 @@
 	<string>
 		<id>912640</id>
 		<name>STR_LUCKYDICE_DIALOG_RESET</name>
-		<body>Reiniciar Tabuleiro de Jogo</body>
+		<body>Resetar Tabuleiro de Jogo</body>
 	</string>
 	<string>
 		<id>912641</id>
@@ -13719,7 +13719,7 @@
 	<string>
 		<id>912649</id>
 		<name>STR_LUCKYDICE_DIALOG_BUTTON_RESET</name>
-		<body>Reiniciar</body>
+		<body>Resetar</body>
 	</string>
 	<string>
 		<id>912650</id>
