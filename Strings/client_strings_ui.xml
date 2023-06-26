@@ -283,12 +283,12 @@
 	<string>
 		<id>80008</id>
 		<name>STR_GUILD_DISPERSE_STAYMODE</name>
-		<body>A Legião vai permanecer no modo de 'espera' para exclusão durante 24 horas após você concluir a solicitação. Você tem certeza que deseja &lt;font color=&quot;ff0000&quot;&gt;EXCLUIR&lt;/font&gt; a Legião?</body>
+		<body>A Legião vai permanecer no modo de 'espera' para exclusão durante 24 horas após você concluir a solicitação. Você tem certeza que deseja &lt;font color=&quot;ff0000&quot;&gt;excluir&lt;/font&gt; a Legião?</body>
 	</string>
 	<string>
 		<id>80009</id>
 		<name>STR_GUILD_DISPERSE_STAYMODE_CANCEL</name>
-		<body>A Legião %0 encontra-se na 'lista de exclusão'. Você deseja cancelar o processo de exclusão?</body>
+		<body>A Legião %0 está em processo de exclusão. Você deseja cancelar o processo de exclusão?</body>
 	</string>
 	<string>
 		<id>80010</id>
@@ -338,7 +338,7 @@
 	<string>
 		<id>95000</id>
 		<name>STR_DECOMPOSE_ITEM_DO_YOU_EXTRACT_ITEM</name>
-		<body>&lt;p&gt;Você deseja extrair 'Enchantment Stones' de &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;?&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Após a conclusão &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; será &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDO&lt;/font&gt;.&lt;/p&gt;</body>
+		<body>&lt;p&gt;Você deseja extrair 'Enchantment Stones' de &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;?&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Após a conclusão &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; será &lt;font color=&quot;ff0000&quot;&gt;destruído&lt;/font&gt;.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>95001</id>
@@ -363,7 +363,7 @@
 	<string>
 		<id>95005</id>
 		<name>STR_CHANGE_ITEM_SKIN_DO_YOU_WANT_CHANGE_SKIN</name>
-		<body>&lt;p&gt;Modificar a aparência do item &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%num2&lt;/font&gt; Uma vez concluído, o item &lt;font color=&quot;ff0000&quot;&gt;%1&lt;/font&gt; será &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDO&lt;/font&gt;.&lt;/p&gt;</body>
+		<body>&lt;p&gt;Modificar a aparência do item &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%num2&lt;/font&gt; Uma vez concluído, o item &lt;font color=&quot;ff0000&quot;&gt;%1&lt;/font&gt; será &lt;font color=&quot;ff0000&quot;&gt;destruído&lt;/font&gt;.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>95006</id>
@@ -398,7 +398,7 @@
 	<string>
 		<id>140002</id>
 		<name>STR_COMBINE_CANCEL_CONFIRM</name>
-		<body>Se você parar de criar este item agora alguns materiais serão &lt;font color=&quot;ff0000&quot;&gt;DESTRUÍDOS&lt;/font&gt;. Você tem certeza que deseja parar?</body>
+		<body>Se você parar de criar este item agora alguns materiais serão &lt;font color=&quot;ff0000&quot;&gt;destruídos&lt;/font&gt;. Você tem certeza que deseja parar?</body>
 	</string>
 	<string>
 		<id>150000</id>
@@ -558,7 +558,7 @@
 	<string>
 		<id>160034</id>
 		<name>STR_ASK_RE_REGISTER_BINDSTONE</name>
-		<body>&lt;/p&gt;Você já tem um Kisk ativo. &lt;p&gt;&#xA;&lt;p&gt;Colocar um novo Kisk irá &lt;font color=&quot;ff0000&quot;&gt;DESTRUIR&lt;/font&gt; o Kisk existente.&lt;/p&gt;&#xA;&lt;p&gt;Deseja colocar o novo Kisk?&lt;/p&gt;</body>
+		<body>&lt;/p&gt;Você já tem um Kisk ativo. &lt;p&gt;&#xA;&lt;p&gt;Colocar um novo Kisk irá &lt;font color=&quot;ff0000&quot;&gt;destruir&lt;/font&gt; o Kisk existente.&lt;/p&gt;&#xA;&lt;p&gt;Deseja colocar o novo Kisk?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>230000</id>
@@ -4071,7 +4071,7 @@
 	<string>
 		<id>900394</id>
 		<name>STR_MSG_DESTROY_ITEM</name>
-		<body>Você realmente deseja &lt;font color=&quot;ff0000&quot;&gt;EXCLUIR&lt;/font&gt; &lt;font color=&quot;ff0000&quot;&gt;%0&lt;/font&gt;?</body>
+		<body>Você realmente deseja &lt;font color=&quot;ff0000&quot;&gt;excluir&lt;/font&gt; &lt;font color=&quot;ff0000&quot;&gt;%0&lt;/font&gt;?</body>
 	</string>
 	<string>
 		<id>900395</id>
@@ -9054,7 +9054,7 @@
 	<string>
 		<id>901426</id>
 		<name>STR_UI_LOOT_REMAIN_TIME</name>
-		<body>%0 segundos para decidir</body>
+		<body>Você tem %0s para decidir!</body>
 	</string>
 	<string>
 		<id>901427</id>
@@ -10364,7 +10364,7 @@
 	<string>
 		<id>901689</id>
 		<name>STR_DESTROY_CASH_ITEM_CONFIRM</name>
-		<body>Você realmente deseja &lt;font color=&quot;ff0000&quot;&gt;DESTRUIR&lt;/font&gt; &lt;font color="ffff00"&gt; %0&lt;/font&gt;%?&lt;br&gt;&#xA;Este item não pode ser restaurado depois de destruído.</body>
+		<body>Você realmente deseja &lt;font color=&quot;ff0000&quot;&gt;destruir&lt;/font&gt; &lt;font color="ffff00"&gt; %0&lt;/font&gt;%?&lt;br&gt;&#xA;Este item não pode ser restaurado depois de destruído.</body>
 	</string>
 	<string>
 		<id>901690</id>
@@ -12613,7 +12613,7 @@
 	<string>
 		<id>902144</id>
 		<name>STR_ENCHANT_ITEM_DO_YOU_WANT_ENCHANT_ITEM_ABOVE</name>
-		<body>&lt;p&gt;Encantar &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;?&lt;/p&gt;</body>
+		<body>&lt;p&gt;Encantar &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;?&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Se o processo falhar, a 'Enchantment Stone' será &lt;font color=&quot;ff0000&quot;&gt;destruída&lt;/font&gt;.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>902145</id>
