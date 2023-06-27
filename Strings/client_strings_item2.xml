@@ -74208,7 +74208,7 @@
 	<string>
 		<id>780587</id>
 		<name>STR_EVENT_SCROLL_critical_mag_50A_DESC</name>
-		<body>[%e1.StatUp.StatName] is increased by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime]. Cannot be used if any Crit Strike Boost Scroll is in effect.</body>
+		<body>[%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Crit Strike Scroll.</body>
 	</string>
 	<string>
 		<id>780588</id>
@@ -74438,7 +74438,7 @@
 	<string>
 		<id>780633</id>
 		<name>STR_EVENT_SCROLL_critical_mag_30A_DESC</name>
-		<body>[%e1.StatUp.StatName] is increased by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime]. Cannot be used if any Crit Strike Boost Scroll is in effect.</body>
+		<body>[%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Crit Strike Scroll.</body>
 	</string>
 	<string>
 		<id>780634</id>
@@ -74448,7 +74448,7 @@
 	<string>
 		<id>780635</id>
 		<name>STR_SCROLL_critical_mag_40A_DESC_DESC</name>
-		<body>[%e1.StatUp.StatName] is increased by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime]. Cannot be used if any Crit Strike Boost Scroll is in effect.</body>
+		<body>[%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Crit Strike Scroll.</body>
 	</string>
 	<string>
 		<id>780636</id>
@@ -74458,7 +74458,7 @@
 	<string>
 		<id>780637</id>
 		<name>STR_SCROLL_critical_mag_60A_DESC_DESC</name>
-		<body>[%e1.StatUp.StatName] is increased by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime]. Cannot be used if any Crit Strike Boost Scroll is in effect.</body>
+		<body>[%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Crit Strike Scroll.</body>
 	</string>
 	<string>
 		<id>780638</id>
@@ -74468,7 +74468,7 @@
 	<string>
 		<id>780639</id>
 		<name>STR_SCROLL_critical_phy_40A_DESC_DESC</name>
-		<body>[%e1.StatUp.StatName] is increased by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime]. Cannot be used if any Crit Spell Scroll is in effect.</body>
+		<body>[%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Crit Spell Scroll.</body>
 	</string>
 	<string>
 		<id>780640</id>
@@ -74478,7 +74478,7 @@
 	<string>
 		<id>780641</id>
 		<name>STR_SCROLL_critical_phy_60A_DESC_DESC</name>
-		<body>[%e1.StatUp.StatName] is increased by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime]. Cannot be used if any Crit Spell Scroll is in effect.</body>
+		<body>[%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Crit Spell Scroll.</body>
 	</string>
 	<string>
 		<id>780642</id>
@@ -77168,7 +77168,7 @@
 	<string>
 		<id>781185</id>
 		<name>STR_CLASSIC_DEVAPASS_FOOD_DR_MAXHP_DESC</name>
-		<body>[%e1.StatUp.StatName] is increased by [%e1.StatUp.Value] points and [%e2.StatUp.StatName] is increased by [%e2.StatUp.Value] points for [%e1.StatUp.RemainTime].</body>
+		<body>[%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] pontos e [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>781186</id>
@@ -77178,7 +77178,7 @@
 	<string>
 		<id>781187</id>
 		<name>STR_DEVAPASS_FOOD_DR_D_2STATS_50E_DESC</name>
-		<body>[%e1.StatUp.StatName] is increased by [%e1.StatUp.Value] points and [%e2.StatUp.StatName] is increased by [%e2.StatUp.Value] points for [%e1.StatUp.RemainTime].</body>
+		<body>[%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] pontos e [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>781188</id>
@@ -86738,22 +86738,22 @@
 	<string>
 		<id>783129</id>
 		<name>STR_EVENT_SCROLL_regist_fire_50A_DESC</name>
-		<body>[%e1.StatUp.StatName] is increased by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>[%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>783130</id>
 		<name>STR_EVENT_SCROLL_regist_earth_50A_DESC</name>
-		<body>[%e1.StatUp.StatName] is increased by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>[%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>783131</id>
 		<name>STR_EVENT_SCROLL_regist_water_50A_DESC</name>
-		<body>[%e1.StatUp.StatName] is increased by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>[%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>783132</id>
 		<name>STR_EVENT_SCROLL_regist_wind_50A_DESC</name>
-		<body>[%e1.StatUp.StatName] is increased by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>[%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>783133</id>
@@ -86778,22 +86778,22 @@
 	<string>
 		<id>783137</id>
 		<name>STR_EVENT_SCROLL_regist_fire_60A_DESC</name>
-		<body>[%e1.StatUp.StatName] is increased by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>[%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>783138</id>
 		<name>STR_EVENT_SCROLL_regist_earth_60A_DESC</name>
-		<body>[%e1.StatUp.StatName] is increased by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>[%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>783139</id>
 		<name>STR_EVENT_SCROLL_regist_water_60A_DESC</name>
-		<body>[%e1.StatUp.StatName] is increased by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>[%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>783140</id>
 		<name>STR_EVENT_SCROLL_regist_wind_60A_DESC</name>
-		<body>[%e1.StatUp.StatName] is increased by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>[%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>783141</id>
@@ -88878,7 +88878,7 @@
 	<string>
 		<id>783623</id>
 		<name>STR_CLASSIC_EVENT_VALENTINE_HEART_CHOCOLATE_2STATS_50A_DESC</name>
-		<body>[%e1.StatUp.StatName] is increased by [%e1.StatUp.Value] points and [%e2.StatUp.StatName] is increased by [%e2.StatUp.Value] points for [%e1.StatUp.RemainTime].</body>
+		<body>[%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] pontos e [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>783624</id>

@@ -14520,7 +14520,7 @@
 	<string>
 		<id>1310026</id>
 		<name>STR_ERROR_WORLD_CONNECTION_LOST</name>
-		<body>You are disconnected from the game server.</body>
+		<body>Você foi desconectado do servidor.</body>
 		<message_type>54</message_type>
 		<display_type>1</display_type>
 	</string>
