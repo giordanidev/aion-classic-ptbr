@@ -11191,14 +11191,14 @@
 	<string>
 		<id>1300619</id>
 		<name>STR_QUEST_SYSTEMMSG_UPDATE</name>
-		<body>Quest updated: %0</body>
+		<body>Missão atualizada: %0</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300620</id>
 		<name>STR_QUEST_SYSTEMMSG_COMPLETE</name>
-		<body>Quest complete: %0</body>
+		<body>Missão completada: %0</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -11212,28 +11212,28 @@
 	<string>
 		<id>1300622</id>
 		<name>STR_QUEST_ACQUIRE_ERROR_MAX_NORMAL</name>
-		<body>You cannot receive any more quests.</body>
+		<body>Você não pode mais receber missões.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300623</id>
 		<name>STR_USER_BANNED</name>
-		<body>%0 has been banned.</body>
+		<body>%0 foi banido.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300624</id>
 		<name>STR_USER_KICKED</name>
-		<body>%0 has been disconnected from the server.</body>
+		<body>%0 foi desconectado do servidor.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300625</id>
 		<name>STR_NO_USER_NAMED</name>
-		<body>There is no user named %0.</body>
+		<body>Nenhum jogador encontrado com o nome %0.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -11247,21 +11247,21 @@
 	<string>
 		<id>1300627</id>
 		<name>STR_NO_SUCH_USER</name>
-		<body>%0 is not playing the game.</body>
+		<body>%0 não está jogando no momento.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300628</id>
 		<name>STR_YOU_EXCLUDED</name>
-		<body>%0 has blocked you.</body>
+		<body>%0 te bloqueou.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300629</id>
 		<name>STR_WHISPER_REFUSE</name>
-		<body>%0 is currently not accepting any Whispers.</body>
+		<body>%0 não está aceitando Mensagens Privadas.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -11282,56 +11282,56 @@
 	<string>
 		<id>1300632</id>
 		<name>STR_ONE_INCLUDED</name>
-		<body>You have unblocked %0.</body>
+		<body>Você desbloqueou %0.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300633</id>
 		<name>STR_ONE_EXCLUDED</name>
-		<body>You have blocked %0.</body>
+		<body>Você bloqueou %0.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300634</id>
 		<name>STR_CURRENT_EXCLUDES</name>
-		<body>Blocked users: %num0 users</body>
+		<body>Bloqueados: %num0</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300635</id>
 		<name>STR_NO_EXCLUDES</name>
-		<body>There are no blocked users.</body>
+		<body>Não há jogadores bloqueados.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300636</id>
 		<name>STR_ONE_NO_LONGER_INCLUDED</name>
-		<body>You have excluded %0.</body>
+		<body>Você excluiu %0.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300637</id>
 		<name>STR_ONE_IS_INCLUDED</name>
-		<body>You have listed %0 as a friend.</body>
+		<body>Você adicionou %0 como amigo.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300638</id>
 		<name>STR_TOO_MANY_INCLUDE</name>
-		<body>You have too many users listed as friends.</body>
+		<body>Você tem muitos amigos.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300639</id>
 		<name>STR_CURRENT_INCLUDES</name>
-		<body>Users listed as friends: %num0 users</body>
+		<body>Amigos: %num0</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -11345,7 +11345,7 @@
 	<string>
 		<id>1300641</id>
 		<name>STR_LIST_USER</name>
-		<body>Current users: %0</body>
+		<body>Jogadores online: %0</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -11387,21 +11387,21 @@
 	<string>
 		<id>1300647</id>
 		<name>STR_VENDOR_SOLD_OUT</name>
-		<body>%0 has already been sold.</body>
+		<body>%0 já foi vendido.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300648</id>
 		<name>STR_VENDOR_NOT_ENOUGH_FEE</name>
-		<body>You do not have enough Kinah to pay the fee.</body>
+		<body>Você não tem Kinah o suficiente para pagar a taxa.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300649</id>
 		<name>STR_VENDOR_FULL_ITEM</name>
-		<body>You cannot register any more items as there is no space available.</body>
+		<body>Você não pode registrar mais itens porque já esgotou o limite simultâneo.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -11436,7 +11436,7 @@
 	<string>
 		<id>1300654</id>
 		<name>STR_VENDOR_FULL_INVENTORY</name>
-		<body>You cannot continue trading as your inventory is full. You can find cube expansions available in the [%shoplink].</body>
+		<body>Você não pode trocar porque o seu inventário está cheio. Você pode encontrar expansões de Cubo na loja: [%shoplink].</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -11513,14 +11513,14 @@
 	<string>
 		<id>1300665</id>
 		<name>STR_PERSONAL_SHOP_SOLD_OUT</name>
-		<body>%0 has already been sold.</body>
+		<body>%0 já foi vendido.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300666</id>
 		<name>STR_PERSONAL_SHOP_FULL_BASKET</name>
-		<body>You cannot register any more items.</body>
+		<body>Você não pode registrar mais itens.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -11548,7 +11548,7 @@
 	<string>
 		<id>1300670</id>
 		<name>STR_DEATH_REGISTER_RESURRECT_POINT</name>
-		<body>You are now bound at [%subzone].</body>
+		<body>Agora você irá renascer em [%subzone].</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -11562,7 +11562,7 @@
 	<string>
 		<id>1300672</id>
 		<name>STR_CANNOT_RECOVER_EXPERIENCE_NOT_ENOUGH_FEE</name>
-		<body>You do not have enough Kinah to recover your XP.</body>
+		<body>Você não tem Kinah o suficiente para recuperar a EXP.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -11576,7 +11576,7 @@
 	<string>
 		<id>1300674</id>
 		<name>STR_SUCCESS_RECOVER_EXPERIENCE</name>
-		<body>You received Soul Healing.</body>
+		<body>Você recebeu 'Soul Healing'.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -11632,7 +11632,7 @@
 	<string>
 		<id>1300682</id>
 		<name>STR_DONOT_HAVE_RECOVER_EXPERIENCE</name>
-		<body>You do not have any XP to recover.</body>
+		<body>Você não tem EXP disponível para recuperar.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
