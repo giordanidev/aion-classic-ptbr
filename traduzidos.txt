@@ -40,3 +40,5 @@ Nova linha HTML:
 
 Cor
 &lt;font color=&quot;ff0000&quot;&gt;TEXTO&lt;/font&gt;
+
+ &lt;p align=&quot;center&quot;&gt; &lt;/p&gt;
