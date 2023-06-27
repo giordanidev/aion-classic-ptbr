@@ -10428,28 +10428,28 @@
 	<string>
 		<id>1300510</id>
 		<name>STR_ITEM_COLOR_REMOVE_SUCCEED</name>
-		<body>You have removed the dye from %0.</body>
+		<body>Você removeu a cor de %0.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300511</id>
 		<name>STR_ITEM_COLOR_CHANGE_SUCCEED</name>
-		<body>You have dyed %0 with %1.</body>
+		<body>Você pintou %0 com %1.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300512</id>
 		<name>STR_ITEM_COLOR_CHANGE_ERROR_CANNOTDYE</name>
-		<body>%0 cannot be dyed.</body>
+		<body>%0 não pode ser pintado.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300513</id>
 		<name>STR_ITEM_COLOR_REMOVE_ERROR_CANNOTREMOVE</name>
-		<body>The item has not been dyed.</body>
+		<body>O item não foi pintado.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -10463,7 +10463,7 @@
 	<string>
 		<id>1300515</id>
 		<name>STR_ITEM_COLOR_CANNOT_CHANGE_EQUIPPED_ITEM</name>
-		<body>You cannot dye equipped items.</body>
+		<body>Você não pode pintar itens que estão equipados.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -16886,7 +16886,7 @@
 	<string>
 		<id>1400019</id>
 		<name>STR_GUILD_NOTICE</name>
-		<body>Legion Message: %0 %DATETIME1</body>
+		<body>Mensagem da Legião: &#xA;%0 &#xA;Atualizada em: %DATETIME1</body>
 		<message_type>7</message_type>
 		<display_type>1</display_type>
 	</string>

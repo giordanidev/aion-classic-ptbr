@@ -473,7 +473,7 @@
 	<string>
 		<id>160013</id>
 		<name>STR_TELEPORT_NEED_CONFIRM</name>
-		<body>Viajar para %0 custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina1&lt;/font&gt;. Prosseguir?</body>
+		<body>Viajar para &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina1&lt;/font&gt;. Deseja continuar?</body>
 	</string>
 	<string>
 		<id>160014</id>
@@ -488,7 +488,7 @@
 	<string>
 		<id>160016</id>
 		<name>STR_ASK_USE_ARTIFACT</name>
-		<body>Usar o artefato custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%1 %0(s)&lt;/font&gt;. Prosseguir?</body>
+		<body>Usar o artefato custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%1 %0(s)&lt;/font&gt;. Deseja continuar?</body>
 	</string>
 	<string>
 		<id>160017</id>
@@ -518,7 +518,7 @@
 	<string>
 		<id>160026</id>
 		<name>STR_BINDSTONE_INFO_HTML</name>
-		<body>&lt;p&gt;Tempo restante: %0&lt;/p&gt;&#xA;&lt;p&gt;Elegível: %5&lt;/p&gt;&#xA;&lt;p&gt;Usuários: %num1 / %num2 pessoas&lt;/p&gt;&#xA;&lt;p&gt;Ressurreições Restantes: %num3 / %num4 vezes&lt;/p&gt;</body>
+		<body>&lt;p&gt;Tempo restante: %0&lt;/p&gt;&#xA;&lt;p&gt;Elegível: %5&lt;/p&gt;&#xA;&lt;p&gt;Usuários: %num1 / %num2 pessoas&lt;/p&gt;&#xA;&lt;p&gt;Renascimentos restantes: %num3 / %num4 vezes&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>160027</id>
@@ -533,17 +533,17 @@
 	<string>
 		<id>160029</id>
 		<name>STR_TELEPORT_NEED_CONFIRM2</name>
-		<body>Viajar para %0 custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina1&lt;/font&gt;. Prosseguir?</body>
+		<body>Viajar para &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; custa &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina1&lt;/font&gt;. Deseja continuar?</body>
 	</string>
 	<string>
 		<id>160030</id>
 		<name>STR_BINDSTONE_INFO</name>
-		<body>Tempo Restante: %0  Elegível: %5  Usuários: %num1 / %num2 pessoas  Ressurreições Restantes: %num3 / %num4 vezes</body>
+		<body>Tempo restante: %0 &#xA;Elegível: %5 &#xA;Usuários: %num1 / %num2 pessoas &#xA;Renascimentos restantes: %num3 / %num4 vezes</body>
 	</string>
 	<string>
 		<id>160031</id>
 		<name>STR_RESURRECTION_WAITING_TIME</name>
-		<body>Ressurreição disponível em %num0 segundo(s)</body>
+		<body>Renascimento disponível em %num0 segundo(s)</body>
 	</string>
 	<string>
 		<id>160032</id>
