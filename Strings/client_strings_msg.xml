@@ -7759,7 +7759,7 @@
 	<string>
 		<id>1300129</id>
 		<name>STR_SKILL_AUTO_CHANGE_TARGET_TO_MY</name>
-		<body>Você usou a habilidade em si mesmo. Você não pode usar essa habilidade no alvo selecionado.</body>
+		<body>Você usou a habilidade em si mesmo porque não pode usar essa habilidade no alvo selecionado.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -7780,56 +7780,56 @@
 	<string>
 		<id>1300132</id>
 		<name>STR_UI_COMBAT_NPC_FLEE_ORG</name>
-		<body>%0 is running away.</body>
+		<body>%0 está correndo.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300133</id>
 		<name>STR_UI_COMBAT_NPC_RETURN_ORG</name>
-		<body>%0 gives up the pursuit.</body>
+		<body>%0 desistiu de te seguir.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300134</id>
 		<name>STR_DUEL_REQUESTER_WITHDRAW_REQUEST</name>
-		<body>%0 has withdrawn the challenge for a duel.</body>
+		<body>%0 desistiu de te desafiar para um duelo.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300135</id>
 		<name>STR_DUEL_WITHDRAW_REQUEST</name>
-		<body>You have withdrawn the challenge to %0 for a duel.</body>
+		<body>Você desistiu de desafiar %0 para um duelo.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300136</id>
 		<name>STR_DUEL_START_BROADCAST</name>
-		<body>A duel between %0 and %1 has started.</body>
+		<body>Um duelo entre %0 e %1 foi iniciado.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300137</id>
 		<name>STR_DUEL_STOP_BROADCAST</name>
-		<body>%0 defeated %1 in a duel.</body>
+		<body>%0 derrotou %1 em um duelo.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300138</id>
 		<name>STR_DUEL_TIMEOUT_BROADCAST</name>
-		<body>The duel between %0 and %1 was a draw.</body>
+		<body>O duelo entre %0 e %1 terminou empatado.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300139</id>
 		<name>STR_DUEL_TIMEOUT_NOTIFY</name>
-		<body>The duel ends in %0 seconds.</body>
+		<body>O duelo termina em %0 segundos.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -7843,21 +7843,21 @@
 	<string>
 		<id>1300141</id>
 		<name>STR_SKILLLEARNBOOK_CANT_USE_NO_SKILL</name>
-		<body>You cannot learn this skill.</body>
+		<body>Você não pode aprender esta habilidade.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300142</id>
 		<name>STR_SKILLLEARNBOOK_CANT_USE_ALREADY_HAS_SKILL</name>
-		<body>You have already learned this skill.</body>
+		<body>Você já aprendeu esta habilidade.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300143</id>
 		<name>STR_SKILL_CAN_NOT_USE_ITEM_IN_CURRENT_POSITION</name>
-		<body>You cannot use that item here.</body>
+		<body>Você não pode usar este item aqui.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -7878,7 +7878,7 @@
 	<string>
 		<id>1300146</id>
 		<name>STR_SKILL_CANT_CAST_IN_CURRENT_POSTION</name>
-		<body>You cannot use the skill here.</body>
+		<body>Você não pode usar esta habilidade aqui.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -7934,14 +7934,14 @@
 	<string>
 		<id>1300154</id>
 		<name>STR_PARTY_HE_IS_NEW_LEADER</name>
-		<body>%0 has become the new group leader.</body>
+		<body>%0 se tornou o novo líder do grupo.</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300155</id>
 		<name>STR_PARTY_YOU_BECOME_NEW_LEADER</name>
-		<body>You have become the new group leader.</body>
+		<body>Você se tornou o novo líder do grupo.</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -11037,7 +11037,7 @@
 	<string>
 		<id>1300597</id>
 		<name>STR_QUEST_ACQUIRE_ERROR_WORKING_QUEST</name>
-		<body>You cannot receive a quest that you are already working on.</body>
+		<body>Você já está trabalhando nesta missão.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -11100,21 +11100,21 @@
 	<string>
 		<id>1300606</id>
 		<name>STR_QUEST_NO_QUEST</name>
-		<body>No Quest selected</body>
+		<body>Nenhuma missão selecionada</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300607</id>
 		<name>STR_QUIEST_INDICATOR</name>
-		<body>Quest Indicator</body>
+		<body>Indicador de Missão</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300608</id>
 		<name>STR_QUEST_SYSTEMMSG_QUEST</name>
-		<body>Quest</body>
+		<body>Missão</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -11149,42 +11149,42 @@
 	<string>
 		<id>1300613</id>
 		<name>STR_QUEST_SYSTEMMSG_ACQUIRE_QUEST</name>
-		<body>Quest acquired: %0</body>
+		<body>Missão aceita: %0</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300614</id>
 		<name>STR_QUEST_SYSTEMMSG_GIVEUP_QUEST</name>
-		<body>Quest failed: %0</body>
+		<body>A missão falhou: %0</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300615</id>
 		<name>STR_QUEST_SYSTEMMSG_UPDATE_QUEST</name>
-		<body>Quest updated: %0</body>
+		<body>Missão atualizada: %0</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300616</id>
 		<name>STR_QUEST_SYSTEMMSG_COMPLETE_QUEST</name>
-		<body>Quest complete: %0</body>
+		<body>Missão completada: %0</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300617</id>
 		<name>STR_QUEST_SYSTEMMSG_ACQUIRE</name>
-		<body>Quest acquired: %0</body>
+		<body>Missão aceita: %0</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300618</id>
 		<name>STR_QUEST_SYSTEMMSG_GIVEUP</name>
-		<body>Quest failed: %0</body>
+		<body>A missão falhou: %0</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -11716,7 +11716,7 @@
 	<string>
 		<id>1300694</id>
 		<name>STR_NOTIFY_RESURRECT_POINT</name>
-		<body>You can bind here by clicking the Obelisk.</body>
+		<body>Você pode salvar para renascer nesta região clicando no Obelisk.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -13257,7 +13257,7 @@
 	<string>
 		<id>1300914</id>
 		<name>STR_MACRO_MSG_CANNOT_READY_TO_USE</name>
-		<body>You cannot use a Macro yet.</body>
+		<body>Aguarde alguns instances para usar outra Macro.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -15992,7 +15992,7 @@
 	<string>
 		<id>1390166</id>
 		<name>STR_BINDSTONE_IS_ATTACKED</name>
-		<body>The Kisk you registered is under attack.</body>
+		<body>O Kisk em que você está registrado está sendo atacado.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -18143,14 +18143,14 @@
 	<string>
 		<id>1400198</id>
 		<name>STR_MSG_INSTANCE_BOSS_ATTACKED</name>
-		<body>%0 is under attack.</body>
+		<body>%0 está sendo atacado.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1400199</id>
 		<name>STR_MSG_INSTANCE_ROOM_DESTROYED</name>
-		<body>%0 has destroyed %1.</body>
+		<body>Os %0 destruíram %1.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -21350,7 +21350,7 @@
 	<string>
 		<id>1400640</id>
 		<name>STR_MSG_INSTANCE_DUNGEON_OPENED_FOR_SELF</name>
-		<body>You have entered %WORLDNAME0. Your allies are barred from joining you.</body>
+		<body>Você entrou em %WORLDNAME0. Seus amigos não podem te ajudar aqui dentro.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -22879,28 +22879,28 @@
 	<string>
 		<id>1400854</id>
 		<name>STR_MSG_QUEST_LIMIT_RESET_DAILY</name>
-		<body>You can receive the daily quest.</body>
+		<body>Você já pode receber as quests diárias.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1400855</id>
 		<name>STR_MSG_QUEST_LIMIT_START_DAILY</name>
-		<body>You can receive the daily quest again at %0 in the morning.</body>
+		<body>Você só poderá receber as quests diárias às %0 da manhã.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1400856</id>
 		<name>STR_MSG_QUEST_LIMIT_RESET_WEEK</name>
-		<body>You can receive the weekly quest.</body>
+		<body>Você já pode receber as quests semanais.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1400857</id>
 		<name>STR_MSG_QUEST_LIMIT_START_WEEK</name>
-		<body>You can receive the weekly quest again at %1 in the morning on %0.</body>
+		<body>Você só poderá receber as quests semanais às %1 da manhã na %0.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -24531,7 +24531,7 @@
 	<string>
 		<id>1401087</id>
 		<name>STR_MSG_MOVE_SERVER_COMPLETE</name>
-		<body>You have entered %0.</body>
+		<body>Você entrou em %0.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -28110,14 +28110,14 @@
 	<string>
 		<id>1401677</id>
 		<name>STR_MSG_INSTANCE_DUNGEON_EXTRA_COUNT_USE</name>
-		<body>Entry was successful. The number of possible bonus entries has been reduced by one.</body>
+		<body>Você entrou na instância. O número de entradas adicionais foi reduzido por 1.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1401678</id>
 		<name>STR_MSG_INSTANCE_DUNGEON_COUNT_USE</name>
-		<body>Entry was successful. The number of possible entries has been reduced by one.</body>
+		<body>Você entrou na instância. O número de entradas foi reduzido por 1.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>

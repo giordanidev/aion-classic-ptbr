@@ -8439,7 +8439,7 @@
 	<string>
 		<id>911577</id>
 		<name>STR_INDUN_ACCOUNT_IDDRE_DIALOG__COLUMN_NAME</name>
-		<body>Nome do Personagem</body>
+		<body>Nome</body>
 	</string>
 	<string>
 		<id>911578</id>
@@ -8449,17 +8449,17 @@
 	<string>
 		<id>911579</id>
 		<name>STR_INDUN_ACCOUNT_IDDRE_DIALOG__COLUMN_KILL_PC</name>
-		<body>Matou no PvP</body>
+		<body>Matou</body>
 	</string>
 	<string>
 		<id>911580</id>
 		<name>STR_INDUN_ACCOUNT_IDDRE_DIALOG__COLUMN_KILL_DRAGON</name>
-		<body>Matou Balaur</body>
+		<body>Balaur</body>
 	</string>
 	<string>
 		<id>911581</id>
 		<name>STR_INDUN_ACCOUNT_IDDRE_DIALOG__COLUMN_DESTROY_OBJECT</name>
-		<body>Capturado</body>
+		<body>Capturou</body>
 	</string>
 	<string>
 		<id>911582</id>
@@ -8469,7 +8469,7 @@
 	<string>
 		<id>911583</id>
 		<name>STR_INDUN_ACCOUNT_IDDRE_DIALOG__COLUMN_AP</name>
-		<body>Pontos de Abyss</body>
+		<body>AP</body>
 	</string>
 	<string>
 		<id>911584</id>
@@ -8559,7 +8559,7 @@
 	<string>
 		<id>911601</id>
 		<name>STR_INDUN_REGISTER_DIALOG__REGISTER_QUICK</name>
-		<body>Entrar Rápido</body>
+		<body>Entrada Rápida</body>
 	</string>
 	<string>
 		<id>911602</id>
@@ -8609,12 +8609,12 @@
 	<string>
 		<id>911611</id>
 		<name>STR_INDUN_ACCOUNT_IDDRE_DIALOG__LIGHT_WNNER</name>
-		<body>Vitória dos Elyos</body>
+		<body>Vitória Elyos</body>
 	</string>
 	<string>
 		<id>911612</id>
 		<name>STR_INDUN_ACCOUNT_IDDRE_DIALOG__DARK_WNNER</name>
-		<body>Vitória dos Asmodians</body>
+		<body>Vitória Asmodian</body>
 	</string>
 	<string>
 		<id>911613</id>
@@ -8679,7 +8679,7 @@
 	<string>
 		<id>911625</id>
 		<name>STR_INDUN_ACCOUNT_IDDRE_DIALOG__ABYSS_POINT_FOR_ONE</name>
-		<body>Pontos de Abyss Pessoal</body>
+		<body>Pontos de Abyss Individual</body>
 	</string>
 	<string>
 		<id>911626</id>
