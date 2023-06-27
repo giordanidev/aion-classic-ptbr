@@ -17961,7 +17961,7 @@
 	<string>
 		<id>903621</id>
 		<name>STR_TOOLTIP_BOOST_VITALPOINT_BODY</name>
-		<body>Você está cheio de energia depois de um bom descanso! Você ganha %0%% EXP adicional. Sua taxa de obtenção de itens aumenta em %1%%. Essa habilidade retorna você ao estado de plenitude mais rápido do que a Energia de Repouso.</body>
+		<body>Você está cheio de energia depois de um bom descanso! Você ganha %0%% EXP adicional. Sua taxa de obtenção de itens aumenta em %1%%. Essa habilidade retorna você ao estado de plenitude mais rápida do que a Energia de Repouso.</body>
 	</string>
 	<string>
 		<id>903622</id>

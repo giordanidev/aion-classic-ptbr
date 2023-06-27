@@ -2233,7 +2233,7 @@
 	<string>
 		<id>766190</id>
 		<name>STR_HARVEST_POTION_HP_4000_50A_DESC</name>
-		<body>Restores [%e1.ProcHeal_Instant.Heal] HP.</body>
+		<body>Restaura [%e1.ProcHeal_Instant.Heal] HP.</body>
 	</string>
 	<string>
 		<id>766191</id>
@@ -17858,17 +17858,17 @@
 	<string>
 		<id>769315</id>
 		<name>STR_WORLD_EVENT_WINTER_FOOD_3STATS_01_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] by [%e1.StatUp.Value], [%e2.StatUp.StatName] by [%e2.StatUp.Value] points, and [%e3.StatUp.StatName] by [%e3.StatUp.Value] seconds for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value], [%e2.StatUp.StatName] em [%e2.StatUp.Value] pontos e [%e3.StatUp.StatName] em [% e3.StatUp.Value] segundos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>769316</id>
 		<name>STR_WORLD_EVENT_WINTER_FOOD_3STATS_02_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] by [%e1.StatUp.Value], [%e2.StatUp.StatName] by [%e2.StatUp.Value] points, and [%e3.StatUp.StatName] by [%e3.StatUp.Value] seconds for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value], [%e2.StatUp.StatName] em [%e2.StatUp.Value] pontos e [%e3.StatUp.StatName] em [% e3.StatUp.Value] segundos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>769317</id>
 		<name>STR_WORLD_EVENT_WINTER_FOOD_3STATS_03_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] by [%e1.StatUp.Value] and [%e2.StatUp.StatName] [%e2.StatUp.Value] points for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value] e [%e2.StatUp.StatName] em [%e2.StatUp.Value] pontos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>769318</id>
@@ -18378,52 +18378,52 @@
 	<string>
 		<id>769419</id>
 		<name>STR_QUEST_XPDRBOOST_LIGHT_20_DESC</name>
-		<body>You gain 20%% additional XP from hunting, gathering, and crafting, and the item drop rate increases by 5%%.\nThis effect expires after 1 hour, and you cannot use it again for 10 hours.</body>
+		<body>Você ganha 20%% de EXP adicional ao caçar, coletar e criar itens, e a taxa de drop de itens aumenta em 5%%.\nEste efeito expira após 1 hora e você não pode usá-lo novamente por 10 horas.</body>
 	</string>
 	<string>
 		<id>769420</id>
 		<name>STR_QUEST_XPDRBOOST_LIGHT_30_DESC</name>
-		<body>You gain 20%% additional XP from hunting, gathering, and crafting, and the item drop rate increases by 5%%.\nThis effect expires after 1 hour, and you cannot use it again for 10 hours.</body>
+		<body>Você ganha 20%% de EXP adicional ao caçar, coletar e criar itens, e a taxa de drop de itens aumenta em 5%%.\nEste efeito expira após 1 hora e você não pode usá-lo novamente por 10 horas.</body>
 	</string>
 	<string>
 		<id>769421</id>
 		<name>STR_QUEST_XPDRBOOST_LIGHT_40_DESC</name>
-		<body>You gain 20%% additional XP from hunting, gathering, and crafting, and the item drop rate increases by 5%%.\nThis effect expires after 1 hour, and you cannot use it again for 10 hours.</body>
+		<body>Você ganha 20%% de EXP adicional ao caçar, coletar e criar itens, e a taxa de drop de itens aumenta em 5%%.\nEste efeito expira após 1 hora e você não pode usá-lo novamente por 10 horas.</body>
 	</string>
 	<string>
 		<id>769422</id>
 		<name>STR_QUEST_XPDRBOOST_LIGHT_50_DESC</name>
-		<body>You gain 20%% additional XP from hunting, gathering, and crafting, and the item drop rate increases by 5%%.\nThis effect expires after 1 hour, and you cannot use it again for 10 hours.</body>
+		<body>Você ganha 20%% de EXP adicional ao caçar, coletar e criar itens, e a taxa de drop de itens aumenta em 5%%.\nEste efeito expira após 1 hora e você não pode usá-lo novamente por 10 horas.</body>
 	</string>
 	<string>
 		<id>769423</id>
 		<name>STR_QUEST_XPDRBOOST_LIGHT_60_DESC</name>
-		<body>You gain 20%% additional XP from hunting, gathering, and crafting, and the item drop rate increases by 5%%.\nThis effect expires after 1 hour, and you cannot use it again for 10 hours.</body>
+		<body>Você ganha 20%% de EXP adicional ao caçar, coletar e criar itens, e a taxa de drop de itens aumenta em 5%%.\nEste efeito expira após 1 hora e você não pode usá-lo novamente por 10 horas.</body>
 	</string>
 	<string>
 		<id>769424</id>
 		<name>STR_QUEST_XPDRBOOST_DARK_20_DESC</name>
-		<body>You gain 20%% additional XP from hunting, gathering, and crafting, and the item drop rate increases by 5%%.\nThis effect expires after 1 hour, and you cannot use it again for 10 hours.</body>
+		<body>Você ganha 20%% de EXP adicional ao caçar, coletar e criar itens, e a taxa de drop de itens aumenta em 5%%.\nEste efeito expira após 1 hora e você não pode usá-lo novamente por 10 horas.</body>
 	</string>
 	<string>
 		<id>769425</id>
 		<name>STR_QUEST_XPDRBOOST_DARK_30_DESC</name>
-		<body>You gain 20%% additional XP from hunting, gathering, and crafting, and the item drop rate increases by 5%%.\nThis effect expires after 1 hour, and you cannot use it again for 10 hours.</body>
+		<body>Você ganha 20%% de EXP adicional ao caçar, coletar e criar itens, e a taxa de drop de itens aumenta em 5%%.\nEste efeito expira após 1 hora e você não pode usá-lo novamente por 10 horas.</body>
 	</string>
 	<string>
 		<id>769426</id>
 		<name>STR_QUEST_XPDRBOOST_DARK_40_DESC</name>
-		<body>You gain 20%% additional XP from hunting, gathering, and crafting, and the item drop rate increases by 5%%.\nThis effect expires after 1 hour, and you cannot use it again for 10 hours.</body>
+		<body>Você ganha 20%% de EXP adicional ao caçar, coletar e criar itens, e a taxa de drop de itens aumenta em 5%%.\nEste efeito expira após 1 hora e você não pode usá-lo novamente por 10 horas.</body>
 	</string>
 	<string>
 		<id>769427</id>
 		<name>STR_QUEST_XPDRBOOST_DARK_50_DESC</name>
-		<body>You gain 20%% additional XP from hunting, gathering, and crafting, and the item drop rate increases by 5%%.\nThis effect expires after 1 hour, and you cannot use it again for 10 hours.</body>
+		<body>Você ganha 20%% de EXP adicional ao caçar, coletar e criar itens, e a taxa de drop de itens aumenta em 5%%.\nEste efeito expira após 1 hora e você não pode usá-lo novamente por 10 horas.</body>
 	</string>
 	<string>
 		<id>769428</id>
 		<name>STR_QUEST_XPDRBOOST_DARK_60_DESC</name>
-		<body>You gain 20%% additional XP from hunting, gathering, and crafting, and the item drop rate increases by 5%%.\nThis effect expires after 1 hour, and you cannot use it again for 10 hours.</body>
+		<body>Você ganha 20%% de EXP adicional ao caçar, coletar e criar itens, e a taxa de drop de itens aumenta em 5%%.\nEste efeito expira após 1 hora e você não pode usá-lo novamente por 10 horas.</body>
 	</string>
 	<string>
 		<id>769429</id>
@@ -18973,7 +18973,7 @@
 	<string>
 		<id>769538</id>
 		<name>STR_WORLD_EVENT_MATTER_PROC_FIRE_DAMAGE_FX_40A_DESC</name>
-		<body>Imbues a weapon with an effect that inflicts 24 points of fire damage with 20%% probability.\nA Godstone Socketer can equip it on your weapon..</body>
+		<body>Imbues a weapon with an effect that inflicts 24 points of fire damage with 20%% probability.\nA Godstone Socketer can equip it on your weapon.</body>
 	</string>
 	<string>
 		<id>769539</id>
@@ -19203,12 +19203,12 @@
 	<string>
 		<id>769584</id>
 		<name>STR_DRBOOST_LIGHT_01_DESC</name>
-		<body>The chance of obtaining items from hunting creatures increases by 20%% while the charm remains active. \nThis effect expires after 30 minutes, and you cannot use it again for 1 hour.</body>
+		<body>A chance de obter itens de criaturas aumenta em 20%% enquanto o efeito permanecer ativo. \nEste efeito expira após 30 minutos e você não pode usá-lo novamente por 1 hora.</body>
 	</string>
 	<string>
 		<id>769585</id>
 		<name>STR_DRBOOST_DARK_01_DESC</name>
-		<body>The chance of obtaining items from hunting creatures increases by 20%% while the charm remains active. \nThis effect expires after 30 minutes, and you cannot use it again for 1 hour.</body>
+		<body>A chance de obter itens de criaturas aumenta em 20%% enquanto o efeito permanecer ativo. \nEste efeito expira após 30 minutos e você não pode usá-lo novamente por 1 hora.</body>
 	</string>
 	<string>
 		<id>769586</id>
@@ -19268,7 +19268,7 @@
 	<string>
 		<id>769597</id>
 		<name>STR_SL_mentor_scroll_drop_boost_DESC</name>
-		<body>The chance of obtaining items from hunting creatures increases by 5%% while this effect lasts.</body>
+		<body>A chance de obter itens de criaturas aumenta em 5%% enquanto durar o efeito.</body>
 	</string>
 	<string>
 		<id>769598</id>
@@ -19278,7 +19278,7 @@
 	<string>
 		<id>769599</id>
 		<name>STR_MENTOR_SCROLL_DROP_BOOST_DESC</name>
-		<body>The chance of obtaining items from hunting creatures increases by 20%% while this effect lasts.</body>
+		<body>A chance de obter itens de criaturas aumenta em 20%% enquanto durar o efeito.</body>
 	</string>
 	<string>
 		<id>769600</id>
@@ -21753,32 +21753,32 @@
 	<string>
 		<id>770094</id>
 		<name>STR_SHOP_POTION_HP_10A_DESC</name>
-		<body>Restores [%e1.ProcHeal_Instant.Heal] HP.</body>
+		<body>Restaura [%e1.ProcHeal_Instant.Heal] HP.</body>
 	</string>
 	<string>
 		<id>770095</id>
 		<name>STR_SHOP_POTION_HP_20A_DESC</name>
-		<body>Restores [%e1.ProcHeal_Instant.Heal] HP.</body>
+		<body>Restaura [%e1.ProcHeal_Instant.Heal] HP.</body>
 	</string>
 	<string>
 		<id>770096</id>
 		<name>STR_SHOP_POTION_HP_30A_DESC</name>
-		<body>Restores [%e1.ProcHeal_Instant.Heal] HP.</body>
+		<body>Restaura [%e1.ProcHeal_Instant.Heal] HP.</body>
 	</string>
 	<string>
 		<id>770097</id>
 		<name>STR_SHOP_POTION_HP_40A_DESC</name>
-		<body>Restores [%e1.ProcHeal_Instant.Heal] HP.</body>
+		<body>Restaura [%e1.ProcHeal_Instant.Heal] HP.</body>
 	</string>
 	<string>
 		<id>770098</id>
 		<name>STR_SHOP_POTION_HP_50A_DESC</name>
-		<body>Restores [%e1.ProcHeal_Instant.Heal] HP.</body>
+		<body>Restaura [%e1.ProcHeal_Instant.Heal] HP.</body>
 	</string>
 	<string>
 		<id>770099</id>
 		<name>STR_SHOP_POTION_HP_60A_DESC</name>
-		<body>Restores [%e1.ProcHeal_Instant.Heal] HP.</body>
+		<body>Restaura [%e1.ProcHeal_Instant.Heal] HP.</body>
 	</string>
 	<string>
 		<id>770100</id>
@@ -21873,62 +21873,62 @@
 	<string>
 		<id>770118</id>
 		<name>STR_SHOP_FOOD_2STAT_10A_DESC</name>
-		<body>[%e1.StatUp.StatName] increases by [%e1.StatUp.Value] and [%e2.StatUp.StatName] increase by [%e2.StatUp.Value] points for [%e1.StatUp.RemainTime].</body>
+		<body>[%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] e [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>770119</id>
 		<name>STR_SHOP_FOOD_2STAT_20A_DESC</name>
-		<body>[%e1.StatUp.StatName] increases by [%e1.StatUp.Value] and [%e2.StatUp.StatName] increase by [%e2.StatUp.Value] points for [%e1.StatUp.RemainTime].</body>
+		<body>[%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] e [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>770120</id>
 		<name>STR_SHOP_FOOD_2STAT_30A_DESC</name>
-		<body>[%e1.StatUp.StatName] increases by [%e1.StatUp.Value] and [%e2.StatUp.StatName] increase by [%e2.StatUp.Value] points for [%e1.StatUp.RemainTime].</body>
+		<body>[%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] e [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>770121</id>
 		<name>STR_SHOP_FOOD_2STAT_40A_DESC</name>
-		<body>[%e1.StatUp.StatName] increases by [%e1.StatUp.Value] and [%e2.StatUp.StatName] increase by [%e2.StatUp.Value] points for [%e1.StatUp.RemainTime].</body>
+		<body>[%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] e [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>770122</id>
 		<name>STR_SHOP_FOOD_2STAT_50A_DESC</name>
-		<body>[%e1.StatUp.StatName] increases by [%e1.StatUp.Value] and [%e2.StatUp.StatName] increase by [%e2.StatUp.Value] points for [%e1.StatUp.RemainTime].</body>
+		<body>[%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] e [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>770123</id>
 		<name>STR_SHOP_FOOD_2STAT_60A_DESC</name>
-		<body>[%e1.StatUp.StatName] increases by [%e1.StatUp.Value] and [%e2.StatUp.StatName] increase by [%e2.StatUp.Value] points for [%e1.StatUp.RemainTime].</body>
+		<body>[%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] e [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>770124</id>
 		<name>STR_SHOP_FOOD_2STAT_10B_DESC</name>
-		<body>[%e1.StatUp.StatName] increases by [%e1.StatUp.Value] and [%e2.StatUp.StatName] increase by [%e2.StatUp.Value] points for [%e1.StatUp.RemainTime].</body>
+		<body>[%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] e [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>770125</id>
 		<name>STR_SHOP_FOOD_2STAT_20B_DESC</name>
-		<body>[%e1.StatUp.StatName] increases by [%e1.StatUp.Value] and [%e2.StatUp.StatName] increase by [%e2.StatUp.Value] points for [%e1.StatUp.RemainTime].</body>
+		<body>[%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] e [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>770126</id>
 		<name>STR_SHOP_FOOD_2STAT_30B_DESC</name>
-		<body>[%e1.StatUp.StatName] increases by [%e1.StatUp.Value] and [%e2.StatUp.StatName] increase by [%e2.StatUp.Value] points for [%e1.StatUp.RemainTime].</body>
+		<body>[%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] e [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>770127</id>
 		<name>STR_SHOP_FOOD_2STAT_40B_DESC</name>
-		<body>[%e1.StatUp.StatName] increases by [%e1.StatUp.Value] and [%e2.StatUp.StatName] increase by [%e2.StatUp.Value] points for [%e1.StatUp.RemainTime].</body>
+		<body>[%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] e [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>770128</id>
 		<name>STR_SHOP_FOOD_2STAT_50B_DESC</name>
-		<body>[%e1.StatUp.StatName] increases by [%e1.StatUp.Value] and [%e2.StatUp.StatName] increase by [%e2.StatUp.Value] points for [%e1.StatUp.RemainTime].</body>
+		<body>[%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] e [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>770129</id>
 		<name>STR_SHOP_FOOD_2STAT_60B_DESC</name>
-		<body>[%e1.StatUp.StatName] increases by [%e1.StatUp.Value] and [%e2.StatUp.StatName] increase by [%e2.StatUp.Value] points for [%e1.StatUp.RemainTime].</body>
+		<body>[%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] e [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>770130</id>
@@ -23598,22 +23598,22 @@
 	<string>
 		<id>770463</id>
 		<name>STR_EVENT_FOOD_L_SHUGO_02_DESC</name>
-		<body>For 60 minutes, you transform into a Jumpy Monk who can use skills. Meanwhile, your [%e2.StatUp.StatName] increases by [%e2.StatUp.Value], your [%e2.StatUp.StatName2] increases by [%e2.StatUp.Value2] points, your [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%%, and your [%e3.StatUp.StatName2] increases by [%e3.StatUp.Value2]%%.</body>
+		<body>For 60 minutes, you transform into a Jumpy Monk who can use skills. Enquanto isso, [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>770464</id>
 		<name>STR_EVENT_FOOD_D_SHUGO_02_DESC</name>
-		<body>For 60 minutes, you transform into a Jumpy Monk who can use skills. Meanwhile, your [%e2.StatUp.StatName] increases by [%e2.StatUp.Value], your [%e2.StatUp.StatName2] increases by [%e2.StatUp.Value2] points, your [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%%, and your [%e3.StatUp.StatName2] increases by [%e3.StatUp.Value2]%%.</body>
+		<body>For 60 minutes, you transform into a Jumpy Monk who can use skills. Enquanto isso, [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>770465</id>
 		<name>STR_CASH_FOOD_L_SHUGO_02_DESC</name>
-		<body>You turn into a Shugo celebrating Halloween for 60 minutes. Increases [%e2.StatUp.StatName] by [%e2.StatUp.Value], [%e2.StatUp.StatName2] by [%e2.StatUp.Value2], [%e3.StatUp.StatName] by [%e3.StatUp.Value]%%, and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>You turn into a Shugo celebrating Halloween for 60 minutes. Aumenta [%e2.StatUp.StatName] em [%e2.StatUp.Value], [%e2.StatUp.StatName2] em [%e2.StatUp.Value2], [%e3.StatUp.StatName] em [%e3.StatUp.Value]%%, e [%e3.StatUp.StatName2] em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>770466</id>
 		<name>STR_CASH_FOOD_D_SHUGO_02_DESC</name>
-		<body>You turn into a Shugo celebrating Halloween for 60 minutes. Increases [%e2.StatUp.StatName] by [%e2.StatUp.Value], [%e2.StatUp.StatName2] by [%e2.StatUp.Value2], [%e3.StatUp.StatName] by [%e3.StatUp.Value]%%, and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>You turn into a Shugo celebrating Halloween for 60 minutes. Aumenta [%e2.StatUp.StatName] em [%e2.StatUp.Value], [%e2.StatUp.StatName2] em [%e2.StatUp.Value2], [%e3.StatUp.StatName] em [%e3.StatUp.Value]%%, e [%e3.StatUp.StatName2] em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>770467</id>
@@ -40983,22 +40983,22 @@
 	<string>
 		<id>773940</id>
 		<name>STR_CASH_FOOD_L_SNOWBEAR_02_DESC</name>
-		<body>You transform into a polar bear that can use skills for 60 minutes. Meanwhile, your [%e2.StatUp.StatName] increases by [%e2.StatUp.Value], your [%e2.StatUp.StatName2] increases by [%e2.StatUp.Value2] points, your [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%%, and your [%e3.StatUp.StatName2] increases by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into a polar bear that can use skills for 60 minutes. Enquanto isso, [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>773941</id>
 		<name>STR_CASH_FOOD_D_SNOWBEAR_02_DESC</name>
-		<body>You transform into a polar bear that can use skills for 60 minutes. Meanwhile, your [%e2.StatUp.StatName] increases by [%e2.StatUp.Value], your [%e2.StatUp.StatName2] increases by [%e2.StatUp.Value2] points, your [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%%, and your [%e3.StatUp.StatName2] increases by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into a polar bear that can use skills for 60 minutes. Enquanto isso, [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>773942</id>
 		<name>STR_CASH_FOOD_L_PENGUIN_02_DESC</name>
-		<body>You transform into a Inquin that can use skills for 60 minutes. Meanwhile, your [%e2.StatUp.StatName] increases by [%e2.StatUp.Value], your [%e2.StatUp.StatName2] increases by [%e2.StatUp.Value2] points, your [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%%, and your [%e3.StatUp.StatName2] increases by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into a Inquin that can use skills for 60 minutes. Enquanto isso, [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>773943</id>
 		<name>STR_CASH_FOOD_D_PENGUIN_02_DESC</name>
-		<body>You transform into a Inquin that can use skills for 60 minutes. Meanwhile, your [%e2.StatUp.StatName] increases by [%e2.StatUp.Value], your [%e2.StatUp.StatName2] increases by [%e2.StatUp.Value2] points, your [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%%, and your [%e3.StatUp.StatName2] increases by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into a Inquin that can use skills for 60 minutes. Enquanto isso, [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>773944</id>
@@ -42958,7 +42958,7 @@
 	<string>
 		<id>774335</id>
 		<name>STR_WORLD_EVENT_SPRINGDAY_FOOD_PHYATTACK_40A_DESC</name>
-		<body>Cone filled with some kind of meat.\n[%e1.StatUp.StatName] increases by [%e1.StatUp.Value] points for [%e1.StatUp.RemainTime].</body>
+		<body>Cone filled with some kind of meat.\n[%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] pontos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>774336</id>
@@ -42968,7 +42968,7 @@
 	<string>
 		<id>774337</id>
 		<name>STR_WORLD_EVENT_SPRINGDAY_FOOD_ACCURACY_40A_DESC</name>
-		<body>Cone filled with sugary goodness.\n[%e1.StatUp.StatName] increases by [%e1.StatUp.Value] points for [%e1.StatUp.RemainTime].</body>
+		<body>Cone filled with sugary goodness.\n[%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] pontos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>774338</id>
@@ -42978,7 +42978,7 @@
 	<string>
 		<id>774339</id>
 		<name>STR_WORLD_EVENT_SPRINGDAY_FOOD_MACCURACY_40A_DESC</name>
-		<body>Cone filled with nuts.\n[%e1.StatUp.StatName] increases by [%e1.StatUp.Value] points for [%e1.StatUp.RemainTime].</body>
+		<body>Cone filled with nuts.\n[%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] pontos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>774340</id>
@@ -43478,7 +43478,7 @@
 	<string>
 		<id>774439</id>
 		<name>STR_WORLD_EVENT_HALLOWEEN2011_FOOD_HPREGEN_50A_DESC</name>
-		<body>An ale with a superb smooth taste.\nDrink it when you are thirsty and your [%e1.StatUp.StatName] increases by [%e1.StatUp.Value] points for [%e1.StatUp.RemainTime].</body>
+		<body>An ale with a superb smooth taste.\nBeba quando estiver com sede e seu [%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] pontos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>774440</id>
@@ -43488,7 +43488,7 @@
 	<string>
 		<id>774441</id>
 		<name>STR_WORLD_EVENT_HALLOWEEN2011_FOOD_MPREGNE_50A_DESC</name>
-		<body>An ale with a great bitter taste.\nDrink it when you are thirsty and your [%e1.StatUp.StatName] increases by [%e1.StatUp.Value] points for [%e1.StatUp.RemainTime].</body>
+		<body>An ale with a great bitter taste.\nBeba quando estiver com sede e seu [%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] pontos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>774442</id>
@@ -43498,7 +43498,7 @@
 	<string>
 		<id>774443</id>
 		<name>STR_WORLD_EVENT_HALLOWEEN2011_FOOD_R_HPREGEN_50A_DESC</name>
-		<body>A cool ale with a superb smooth taste.\nDrink it when you are thirsty and your [%e1.StatUp.StatName] increases by [%e1.StatUp.Value] points for [%e1.StatUp.RemainTime].</body>
+		<body>A cool ale with a superb smooth taste.\nBeba quando estiver com sede e seu [%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] pontos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>774444</id>
@@ -43508,7 +43508,7 @@
 	<string>
 		<id>774445</id>
 		<name>STR_WORLD_EVENT_HALLOWEEN2011_FOOD_R_MPREGNE_50A_DESC</name>
-		<body>A cool ale with a great bitter taste.\nDrink it when you are thirsty and your [%e1.StatUp.StatName] increases by [%e1.StatUp.Value] points for [%e1.StatUp.RemainTime].</body>
+		<body>A cool ale with a great bitter taste.\nBeba quando estiver com sede e seu [%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] pontos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>774446</id>
@@ -44213,12 +44213,12 @@
 	<string>
 		<id>774586</id>
 		<name>STR_EVENT_FOOD_L_SNOWBEAR_01_DESC</name>
-		<body>You transform into a polar bear that can use skills for 60 minutes. Meanwhile, your [%e2.StatUp.StatName] increases by [%e2.StatUp.Value], your [%e2.StatUp.StatName2] increases by [%e2.StatUp.Value2] points, your [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%%, and your [%e3.StatUp.StatName2] increases by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into a polar bear that can use skills for 60 minutes. Enquanto isso, [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>774587</id>
 		<name>STR_EVENT_FOOD_D_SNOWBEAR_01_DESC</name>
-		<body>You transform into a polar bear that can use skills for 60 minutes. Meanwhile, your [%e2.StatUp.StatName] increases by [%e2.StatUp.Value], your [%e2.StatUp.StatName2] increases by [%e2.StatUp.Value2] points, your [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%%, and your [%e3.StatUp.StatName2] increases by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into a polar bear that can use skills for 60 minutes. Enquanto isso, [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>774588</id>
@@ -48183,12 +48183,12 @@
 	<string>
 		<id>775380</id>
 		<name>STR_SCROLL_L_SPEED_ATK_50A_DESC</name>
-		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápido por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Awakening Scroll.\nYou can only use it in the Empyrean Crucible.</body>
+		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápida por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Awakening Scroll.\nYou can only use it in the Empyrean Crucible.</body>
 	</string>
 	<string>
 		<id>775381</id>
 		<name>STR_SCROLL_D_SPEED_ATK_50A_DESC</name>
-		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápido por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Awakening Scroll.\nYou can only use it in the Empyrean Crucible.</body>
+		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápida por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Awakening Scroll.\nYou can only use it in the Empyrean Crucible.</body>
 	</string>
 	<string>
 		<id>775382</id>
@@ -48203,12 +48203,12 @@
 	<string>
 		<id>775384</id>
 		<name>STR_SCROLL_L_SPEED_CASTING_50A_DESC</name>
-		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápido por [%e1.StatUp.RemainTime]. Aumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value]%% por [%e1.StatUp.RemainTime]. Courage Scroll.\nYou can only use it in the Crucible’s training arena.</body>
+		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápida por [%e1.StatUp.RemainTime]. Aumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value]%% por [%e1.StatUp.RemainTime]. Courage Scroll.\nYou can only use it in the Crucible’s training arena.</body>
 	</string>
 	<string>
 		<id>775385</id>
 		<name>STR_SCROLL_D_SPEED_CASTING_50A_DESC</name>
-		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápido por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Courage Scroll.\nYou can only use it in the Crucible’s training arena.</body>
+		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápida por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Courage Scroll.\nYou can only use it in the Crucible’s training arena.</body>
 	</string>
 	<string>
 		<id>775386</id>
@@ -65038,7 +65038,7 @@
 	<string>
 		<id>778751</id>
 		<name>STR_WORLD_EVENT_HEAD_VICTORYDAY_02A_30DAY_DESC</name>
-		<body>A fur hat to keep you warm at night while you gather outdoors for the bringer of Aether..\nYou can wear it for 30 days.</body>
+		<body>A fur hat to keep you warm at night while you gather outdoors for the bringer of Aether.\nYou can wear it for 30 days.</body>
 	</string>
 	<string>
 		<id>778752</id>
@@ -65533,7 +65533,7 @@
 	<string>
 		<id>778850</id>
 		<name>STR_EVENT_DRBOOST_GM01_DESC</name>
-		<body>The chance of obtaining items from hunting creatures increases by 20%% while this effect is active. \nThis effect expires after 1 hour, and you cannot use it again for 10 hours.</body>
+		<body>A chance de obter itens de criaturas aumenta em 20%% enquanto este efeito estiver ativo. \nEste efeito expira após 1 hora e você não pode usá-lo novamente por 10 horas.</body>
 	</string>
 	<string>
 		<id>778851</id>
@@ -73533,12 +73533,12 @@
 	<string>
 		<id>780452</id>
 		<name>STR_EVENT_FOOD_L_SHUGO_04_DESC</name>
-		<body>Transforms you into a Shugo that can use skills for 30 minutes. Increases [%e2.StatUp.StatName] by [%e2.StatUp.Value], [%e2.StatUp.StatName2] by [%e2.StatUp.Value2], [%e3.StatUp.StatName] by [%e3.StatUp.Value]%%, and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>Transforms you into a Shugo that can use skills for 30 minutes. Aumenta [%e2.StatUp.StatName] em [%e2.StatUp.Value], [%e2.StatUp.StatName2] em [%e2.StatUp.Value2], [%e3.StatUp.StatName] em [%e3.StatUp.Value]%%, e [%e3.StatUp.StatName2] em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>780453</id>
 		<name>STR_EVENT_FOOD_D_SHUGO_04_DESC</name>
-		<body>Transforms you into a Shugo that can use skills for 30 minutes. Increases [%e2.StatUp.StatName] by [%e2.StatUp.Value], [%e2.StatUp.StatName2] by [%e2.StatUp.Value2], [%e3.StatUp.StatName] by [%e3.StatUp.Value]%%, and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>Transforms you into a Shugo that can use skills for 30 minutes. Aumenta [%e2.StatUp.StatName] em [%e2.StatUp.Value], [%e2.StatUp.StatName2] em [%e2.StatUp.Value2], [%e3.StatUp.StatName] em [%e3.StatUp.Value]%%, e [%e3.StatUp.StatName2] em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>780454</id>
@@ -73553,12 +73553,12 @@
 	<string>
 		<id>780456</id>
 		<name>STR_EVENT_FOOD_L_SHUGO_05_DESC</name>
-		<body>Transforms you into a Super Shugo that can use skills for 15 minutes. Increases [%e2.StatUp.StatName] by [%e2.StatUp.Value], [%e2.StatUp.StatName2] by [%e2.StatUp.Value2], [%e3.StatUp.StatName] by [%e3.StatUp.Value]%%, and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>Transforms you into a Super Shugo that can use skills for 15 minutes. Aumenta [%e2.StatUp.StatName] em [%e2.StatUp.Value], [%e2.StatUp.StatName2] em [%e2.StatUp.Value2], [%e3.StatUp.StatName] em [%e3.StatUp.Value]%%, e [%e3.StatUp.StatName2] em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>780457</id>
 		<name>STR_EVENT_FOOD_D_SHUGO_05_DESC</name>
-		<body>Transforms you into a Super Shugo that can use skills for 15 minutes. Increases [%e2.StatUp.StatName] by [%e2.StatUp.Value], [%e2.StatUp.StatName2] by [%e2.StatUp.Value2], [%e3.StatUp.StatName] by [%e3.StatUp.Value]%%, and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>Transforms you into a Super Shugo that can use skills for 15 minutes. Aumenta [%e2.StatUp.StatName] em [%e2.StatUp.Value], [%e2.StatUp.StatName2] em [%e2.StatUp.Value2], [%e3.StatUp.StatName] em [%e3.StatUp.Value]%%, e [%e3.StatUp.StatName2] em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>780458</id>
@@ -73573,12 +73573,12 @@
 	<string>
 		<id>780460</id>
 		<name>STR_EVENT_SCROLL_speed_casting_40A_DESC</name>
-		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápido por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Courage Scroll.</body>
+		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápida por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Courage Scroll.</body>
 	</string>
 	<string>
 		<id>780461</id>
 		<name>STR_EVENT_SCROLL_speed_casting_50A_DESC</name>
-		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápido por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Courage Scroll.</body>
+		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápida por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Courage Scroll.</body>
 	</string>
 	<string>
 		<id>780462</id>
@@ -73588,7 +73588,7 @@
 	<string>
 		<id>780463</id>
 		<name>STR_EVENT_FOOD_dpheal_50B_DESC</name>
-		<body>Restores 4000 DP.</body>
+		<body>Restaura 4000 DP.</body>
 	</string>
 	<string>
 		<id>780464</id>
@@ -73608,7 +73608,7 @@
 	<string>
 		<id>780467</id>
 		<name>STR_EVENT_POTION_HP_MP_50A_DESC</name>
-		<body>Instantly restores [%e1.ProcHeal_Instant.Heal] HP and [%e2.ProcMpHeal_Instant.Heal] MP.</body>
+		<body>Restaura [%e1.ProcHeal_Instant.Heal] HP e [%e2.ProcMpHeal_Instant.Heal] MP instantaneamente.</body>
 	</string>
 	<string>
 		<id>780468</id>
@@ -73688,7 +73688,7 @@
 	<string>
 		<id>780483</id>
 		<name>STR_EVENT_SCROLL_speed_atk_40A_DESC</name>
-		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápido por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Awakening Scroll.</body>
+		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápida por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Awakening Scroll.</body>
 	</string>
 	<string>
 		<id>780484</id>
@@ -73708,7 +73708,7 @@
 	<string>
 		<id>780487</id>
 		<name>STR_EVENT_REMEDY_HP_30A_DESC</name>
-		<body>Restores [%e2.Heal.CheckTimeHeal] HP to the target every [%e2.Heal.CheckTime] for [%e2.Heal.RemainTime].</body>
+		<body>Restaura [%e2.Heal.CheckTimeHeal] HP do alvo a cada [%e2.Heal.CheckTime] por [%e2.Heal.RemainTime].</body>
 	</string>
 	<string>
 		<id>780488</id>
@@ -73718,7 +73718,7 @@
 	<string>
 		<id>780489</id>
 		<name>STR_EVENT_REMEDY_MP_30A_DESC</name>
-		<body>Restores [%e2.MPHeal.CheckTimeHeal] MP to the target every [%e2.MPHeal.CheckTime] for [%e2.MPHeal.RemainTime].</body>
+		<body>Restaura [%e2.MPHeal.CheckTimeHeal] MP do alvo a cada [%e2.MPHeal.CheckTime] por [%e2.MPHeal.RemainTime].</body>
 	</string>
 	<string>
 		<id>780490</id>
@@ -73728,7 +73728,7 @@
 	<string>
 		<id>780491</id>
 		<name>STR_EVENT_potion_flytime_20A_DESC</name>
-		<body>Increases flight time by 12 seconds if used while flying.</body>
+		<body>Restaura seu Tempo de Voo em 12 segundos. Só pode ser usado durante o voo.</body>
 	</string>
 	<string>
 		<id>780492</id>
@@ -73828,7 +73828,7 @@
 	<string>
 		<id>780511</id>
 		<name>STR_SCROLL_PVP_T_SPEED_ATK_50A_DESC</name>
-		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápido por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Awakening Scroll.\nYou can only use it in the Empyrean Crucible.</body>
+		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápida por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Awakening Scroll.\nYou can only use it in the Empyrean Crucible.</body>
 	</string>
 	<string>
 		<id>780512</id>
@@ -73838,7 +73838,7 @@
 	<string>
 		<id>780513</id>
 		<name>STR_SCROLL_PVP_T_SPEED_CASTING_50A_DESC</name>
-		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápido por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Courage Scroll.\nYou can only use it in the Crucible’s training arena.</body>
+		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápida por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Courage Scroll.\nYou can only use it in the Crucible’s training arena.</body>
 	</string>
 	<string>
 		<id>780514</id>
@@ -74428,7 +74428,7 @@
 	<string>
 		<id>780631</id>
 		<name>STR_Classic_PCBANG_potion_hp_mp_50a_DESC</name>
-		<body>Was completed with lots of sweat and blood. Restores [%e1.ProcHeal_Instant.Heal] HP and [%e2.ProcMpHeal_Instant.Heal] MP.</body>
+		<body>Was completed with lots of sweat and blood. Restaura [%e1.ProcHeal_Instant.Heal] HP e [%e2.ProcMpHeal_Instant.Heal] MP.</body>
 	</string>
 	<string>
 		<id>780632</id>
@@ -74528,7 +74528,7 @@
 	<string>
 		<id>780651</id>
 		<name>STR_EVENT_SCROLL_speed_casting_30A_DESC</name>
-		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápido por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Courage Scroll.</body>
+		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápida por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Courage Scroll.</body>
 	</string>
 	<string>
 		<id>780652</id>
@@ -74573,42 +74573,42 @@
 	<string>
 		<id>780660</id>
 		<name>STR_Classic_Potion_A_HP_01A_DESC</name>
-		<body>Restores [%e1.ProcHeal_Instant.Heal] HP.</body>
+		<body>Restaura [%e1.ProcHeal_Instant.Heal] HP.</body>
 	</string>
 	<string>
 		<id>780661</id>
 		<name>STR_Classic_Potion_A_HP_02A_DESC</name>
-		<body>Restores [%e1.ProcHeal_Instant.Heal] HP.</body>
+		<body>Restaura [%e1.ProcHeal_Instant.Heal] HP.</body>
 	</string>
 	<string>
 		<id>780662</id>
 		<name>STR_Classic_Potion_A_HP_03A_DESC</name>
-		<body>Restores [%e1.ProcHeal_Instant.Heal] HP.</body>
+		<body>Restaura [%e1.ProcHeal_Instant.Heal] HP.</body>
 	</string>
 	<string>
 		<id>780663</id>
 		<name>STR_Classic_Potion_A_HP_04A_DESC</name>
-		<body>Restores [%e1.ProcHeal_Instant.Heal] HP.</body>
+		<body>Restaura [%e1.ProcHeal_Instant.Heal] HP.</body>
 	</string>
 	<string>
 		<id>780664</id>
 		<name>STR_Classic_Potion_A_MP_01A_DESC</name>
-		<body>Restores [%e1.ProcMpHeal_Instant.Heal] MP.</body>
+		<body>Restaura [%e1.ProcMpHeal_Instant.Heal] MP.</body>
 	</string>
 	<string>
 		<id>780665</id>
 		<name>STR_Classic_Potion_A_MP_02A_DESC</name>
-		<body>Restores [%e1.ProcMpHeal_Instant.Heal] MP.</body>
+		<body>Restaura [%e1.ProcMpHeal_Instant.Heal] MP.</body>
 	</string>
 	<string>
 		<id>780666</id>
 		<name>STR_Classic_Potion_A_MP_03A_DESC</name>
-		<body>Restores [%e1.ProcMpHeal_Instant.Heal] MP.</body>
+		<body>Restaura [%e1.ProcMpHeal_Instant.Heal] MP.</body>
 	</string>
 	<string>
 		<id>780667</id>
 		<name>STR_Classic_Potion_A_MP_04A_DESC</name>
-		<body>Restores [%e1.ProcMpHeal_Instant.Heal] MP.</body>
+		<body>Restaura [%e1.ProcMpHeal_Instant.Heal] MP.</body>
 	</string>
 	<string>
 		<id>780668</id>
@@ -75463,17 +75463,17 @@
 	<string>
 		<id>780842</id>
 		<name>STR_Classic_POTION_A_FLYTIME_01A_DESC</name>
-		<body>Increases your flight time by 30 seconds if used while flying.</body>
+		<body>Restaura seu Tempo de Voo em 30 segundos. Só pode ser usado durante o voo.</body>
 	</string>
 	<string>
 		<id>780843</id>
 		<name>STR_Classic_POTION_A_FLYTIME_02A_DESC</name>
-		<body>Increases your flight time by 45 seconds if used while flying.</body>
+		<body>Restaura seu Tempo de Voo em 45 segundos. Só pode ser usado durante o voo.</body>
 	</string>
 	<string>
 		<id>780844</id>
 		<name>STR_Classic_POTION_A_FLYTIME_03A_DESC</name>
-		<body>Increases your flight time by 60 seconds if used while flying.</body>
+		<body>Restaura seu Tempo de Voo em 60 segundos. Só pode ser usado durante o voo.</body>
 	</string>
 	<string>
 		<id>780845</id>
@@ -75923,12 +75923,12 @@
 	<string>
 		<id>780934</id>
 		<name>STR_EVENT_POTION_HP_50A_DESC</name>
-		<body>Restores [%e1.ProcHeal_Instant.Heal] HP.</body>
+		<body>Restaura [%e1.ProcHeal_Instant.Heal] HP.</body>
 	</string>
 	<string>
 		<id>780935</id>
 		<name>STR_EVENT_POTION_MP_50A_DESC</name>
-		<body>Restores [%e1.ProcMpHeal_Instant.Heal] MP.</body>
+		<body>Restaura [%e1.ProcMpHeal_Instant.Heal] MP.</body>
 	</string>
 	<string>
 		<id>780936</id>
@@ -75983,52 +75983,52 @@
 	<string>
 		<id>780946</id>
 		<name>STR_Event_REMEDY_HP_MP_10A_DESC</name>
-		<body>Immediately restores [%e3.Heal.CheckTimeHeal] HP and [%e4.MpHeal.CheckTimeHeal] MP every [%e3.Heal.CheckTime] for [%e3.Heal.RemainTime].</body>
+		<body>Restaura [%e3.Heal.CheckTimeHeal] HP e [%e4.MpHeal.CheckTimeHeal] MP a cada [%e3.Heal.CheckTime] por [%e3.Heal.RemainTime].</body>
 	</string>
 	<string>
 		<id>780947</id>
 		<name>STR_Event_REMEDY_HP_MP_20A_DESC</name>
-		<body>Immediately restores [%e3.Heal.CheckTimeHeal] HP and [%e4.MpHeal.CheckTimeHeal] MP every [%e3.Heal.CheckTime] for [%e3.Heal.RemainTime].</body>
+		<body>Restaura [%e3.Heal.CheckTimeHeal] HP e [%e4.MpHeal.CheckTimeHeal] MP a cada [%e3.Heal.CheckTime] por [%e3.Heal.RemainTime].</body>
 	</string>
 	<string>
 		<id>780948</id>
 		<name>STR_Event_REMEDY_HP_MP_30A_DESC</name>
-		<body>Immediately restores [%e3.Heal.CheckTimeHeal] HP and [%e4.MpHeal.CheckTimeHeal] MP every [%e3.Heal.CheckTime] for [%e3.Heal.RemainTime].</body>
+		<body>Restaura [%e3.Heal.CheckTimeHeal] HP e [%e4.MpHeal.CheckTimeHeal] MP a cada [%e3.Heal.CheckTime] por [%e3.Heal.RemainTime].</body>
 	</string>
 	<string>
 		<id>780949</id>
 		<name>STR_Event_REMEDY_HP_MP_40A_DESC</name>
-		<body>Immediately restores [%e3.Heal.CheckTimeHeal] HP and [%e4.MpHeal.CheckTimeHeal] MP every [%e3.Heal.CheckTime] for [%e3.Heal.RemainTime].</body>
+		<body>Restaura [%e3.Heal.CheckTimeHeal] HP e [%e4.MpHeal.CheckTimeHeal] MP a cada [%e3.Heal.CheckTime] por [%e3.Heal.RemainTime].</body>
 	</string>
 	<string>
 		<id>780950</id>
 		<name>STR_Event_REMEDY_HP_MP_50A_DESC</name>
-		<body>Immediately restores [%e3.Heal.CheckTimeHeal] HP and [%e4.MpHeal.CheckTimeHeal] MP every [%e3.Heal.CheckTime] for [%e3.Heal.RemainTime].</body>
+		<body>Restaura [%e3.Heal.CheckTimeHeal] HP e [%e4.MpHeal.CheckTimeHeal] MP a cada [%e3.Heal.CheckTime] por [%e3.Heal.RemainTime].</body>
 	</string>
 	<string>
 		<id>780951</id>
 		<name>STR_Event_Potion_HP_MP_10A_DESC</name>
-		<body>Restores [%e1.ProcHeal_Instant.Heal] HP and [%e2.ProcMpHeal_Instant.Heal] MP.</body>
+		<body>Restaura [%e1.ProcHeal_Instant.Heal] HP e [%e2.ProcMpHeal_Instant.Heal] MP.</body>
 	</string>
 	<string>
 		<id>780952</id>
 		<name>STR_EVENT_POTION_HP_MP_20A_DESC</name>
-		<body>Restores [%e1.ProcHeal_Instant.Heal] HP and [%e2.ProcMpHeal_Instant.Heal] MP.</body>
+		<body>Restaura [%e1.ProcHeal_Instant.Heal] HP e [%e2.ProcMpHeal_Instant.Heal] MP.</body>
 	</string>
 	<string>
 		<id>780953</id>
 		<name>STR_Event_Potion_HP_MP_30A_DESC</name>
-		<body>Restores [%e1.ProcHeal_Instant.Heal] HP and [%e2.ProcMpHeal_Instant.Heal] MP.</body>
+		<body>Restaura [%e1.ProcHeal_Instant.Heal] HP e [%e2.ProcMpHeal_Instant.Heal] MP.</body>
 	</string>
 	<string>
 		<id>780954</id>
 		<name>STR_Event_Potion_HP_MP_40D_DESC</name>
-		<body>Restores [%e1.ProcHeal_Instant.Heal] HP and [%e2.ProcMpHeal_Instant.Heal] MP.</body>
+		<body>Restaura [%e1.ProcHeal_Instant.Heal] HP e [%e2.ProcMpHeal_Instant.Heal] MP.</body>
 	</string>
 	<string>
 		<id>780955</id>
 		<name>STR_Event_Potion_HP_MP_50C_DESC</name>
-		<body>Restores [%e1.ProcHeal_Instant.Heal] HP and [%e2.ProcMpHeal_Instant.Heal] MP.</body>
+		<body>Restaura [%e1.ProcHeal_Instant.Heal] HP e [%e2.ProcMpHeal_Instant.Heal] MP.</body>
 	</string>
 	<string>
 		<id>780956</id>
@@ -76038,7 +76038,7 @@
 	<string>
 		<id>780957</id>
 		<name>STR_Event_SCROLL_SPEED_fly_40A_DESC</name>
-		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápido por [%e1.StatUp.RemainTime].</body>
+		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápida por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>780958</id>
@@ -76058,17 +76058,17 @@
 	<string>
 		<id>780961</id>
 		<name>STR_Event_potion_flytime_30A_DESC</name>
-		<body>Increases your flight time by 24 seconds if used while flying.</body>
+		<body>Restaura seu Tempo de Voo em 24 segundos. Só pode ser usado durante o voo.</body>
 	</string>
 	<string>
 		<id>780962</id>
 		<name>STR_Event_potion_flytime_40A_DESC</name>
-		<body>Increases your flight time by 36 seconds if used while flying.</body>
+		<body>Restaura seu Tempo de Voo em 36 segundos. Só pode ser usado durante o voo.</body>
 	</string>
 	<string>
 		<id>780963</id>
 		<name>STR_Event_potion_flytime_50A_DESC</name>
-		<body>Increases your flight time by 48 seconds if used while flying.</body>
+		<body>Restaura seu Tempo de Voo em 48 segundos. Só pode ser usado durante o voo.</body>
 	</string>
 	<string>
 		<id>780964</id>
@@ -76078,7 +76078,7 @@
 	<string>
 		<id>780965</id>
 		<name>STR_Test_Candy_SHAPE_Invisible_DESC</name>
-		<body>A transformation candy for Transparency. For 60 minutes, your [%e1.StatUp.StatName] increases by [%e1.StatUp.Value] points, [%e1.StatUp.StatName2] by [%e1.StatUp.Value2] points, [%e2.StatUp.StatName] by [%e2.StatUp.Value]%%, and [%e2.StatUp.StatName2] by [%e2.StatUp.Value2]%%.</body>
+		<body>A transformation candy for Transparency. Por 60 minutos, seu [%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] e [%e1.StatUp.StatName2] aumenta em [%e1.StatUp.Value2] pontos, e [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value]%% e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>780968</id>
@@ -76098,17 +76098,17 @@
 	<string>
 		<id>780971</id>
 		<name>STR_Cash_Candy_SHAPE_Invisible_Phy_DESC</name>
-		<body>A transformation candy for Valiant Transparency. For 60 minutes, your [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] points, [%e2.StatUp.StatName2] by [%e2.StatUp.Value2] points, [%e3.StatUp.StatName] by [%e3.StatUp.Value]%%, and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>A transformation candy for Valiant Transparency. Por 60 minutos, seu [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>780972</id>
 		<name>STR_Cash_Candy_SHAPE_Invisible_Mag_DESC</name>
-		<body>A transformation candy for Wise Transparency. For 60 minutes, your [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] points, [%e2.StatUp.StatName2] by [%e2.StatUp.Value2] points, [%e3.StatUp.StatName] by [%e3.StatUp.Value]%%, and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>A transformation candy for Wise Transparency. Por 60 minutos, seu [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>780973</id>
 		<name>STR_Cash_Candy_SHAPE_Invisible_Hyb_DESC</name>
-		<body>A transformation candy for Fancy Transparency. For 60 minutes, your [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] points, [%e2.StatUp.StatName2] by [%e2.StatUp.Value2] points, [%e3.StatUp.StatName] by [%e3.StatUp.Value]%%, and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>A transformation candy for Fancy Transparency. Por 60 minutos, seu [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>780974</id>
@@ -77143,12 +77143,12 @@
 	<string>
 		<id>781180</id>
 		<name>STR_EVENT_SULENTINE_SCROLL_SPEED_ATK_50A_DESC</name>
-		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápido por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Awakening Scroll.</body>
+		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápida por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Awakening Scroll.</body>
 	</string>
 	<string>
 		<id>781181</id>
 		<name>STR_EVENT_SULENTINE_SCROLL_SPEED_CASTING_50A_DESC</name>
-		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápido por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Courage Scroll.</body>
+		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápida por [%e1.StatUp.RemainTime]. Não pode ser usado junto com Courage Scroll.</body>
 	</string>
 	<string>
 		<id>781182</id>
@@ -77158,7 +77158,7 @@
 	<string>
 		<id>781183</id>
 		<name>STR_EVENT_SULENTINE_SCROLL_SPEED_RUN_50A_DESC</name>
-		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápido por [%e1.StatUp.RemainTime].</body>
+		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápida por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>781184</id>
@@ -77283,22 +77283,22 @@
 	<string>
 		<id>781208</id>
 		<name>STR_Event_POTION_HP_60A_DESC</name>
-		<body>Restores [%e1.ProcHeal_Instant.Heal] HP.</body>
+		<body>Restaura [%e1.ProcHeal_Instant.Heal] HP.</body>
 	</string>
 	<string>
 		<id>781209</id>
 		<name>STR_Event_POTION_MP_60A_DESC</name>
-		<body>Restores [%e1.ProcMpHeal_Instant.Heal] MP.</body>
+		<body>Restaura [%e1.ProcMpHeal_Instant.Heal] MP.</body>
 	</string>
 	<string>
 		<id>781210</id>
 		<name>STR_Event_potion_flytime_60A_DESC</name>
-		<body>Increases your flight time by 60 seconds if used while flying.</body>
+		<body>Restaura seu Tempo de Voo em 60 segundos. Só pode ser usado durante o voo.</body>
 	</string>
 	<string>
 		<id>781211</id>
 		<name>STR_EVENT_POTION_HP_MP_60A_DESC</name>
-		<body>Instantly restores [%e1.ProcHeal_Instant.Heal] HP and [%e2.ProcMpHeal_Instant.Heal] MP.</body>
+		<body>Restaura [%e1.ProcHeal_Instant.Heal] HP e [%e2.ProcMpHeal_Instant.Heal] MP instantaneamente.</body>
 	</string>
 	<string>
 		<id>781212</id>
@@ -77308,7 +77308,7 @@
 	<string>
 		<id>781213</id>
 		<name>STR_Event_REMEDY_HP_MP_60A_DESC</name>
-		<body>Immediately restores [%e3.Heal.CheckTimeHeal] HP and [%e4.MpHeal.CheckTimeHeal] MP every [%e3.Heal.CheckTime] for [%e3.Heal.RemainTime].</body>
+		<body>Restaura [%e3.Heal.CheckTimeHeal] HP e [%e4.MpHeal.CheckTimeHeal] MP a cada [%e3.Heal.CheckTime] por [%e3.Heal.RemainTime].</body>
 	</string>
 	<string>
 		<id>781214</id>
@@ -77338,17 +77338,17 @@
 	<string>
 		<id>781219</id>
 		<name>STR_EVENT_Candy_SHAPE_Invisible_Phy_DESC</name>
-		<body>A transformation candy for Valiant Transparency. For 60 minutes, your [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] points, [%e2.StatUp.StatName2] by [%e2.StatUp.Value2] points, [%e3.StatUp.StatName] by [%e3.StatUp.Value]%%, and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>A transformation candy for Valiant Transparency. Por 60 minutos, seu [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>781220</id>
 		<name>STR_EVENT_Candy_SHAPE_Invisible_Mag_DESC</name>
-		<body>A transformation candy for Wise Transparency. For 60 minutes, your [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] points, [%e2.StatUp.StatName2] by [%e2.StatUp.Value2] points, [%e3.StatUp.StatName] by [%e3.StatUp.Value]%%, and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>A transformation candy for Wise Transparency. Por 60 minutos, seu [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>781221</id>
 		<name>STR_EVENT_Candy_SHAPE_Invisible_Hyb_DESC</name>
-		<body>A transformation candy for Fancy Transparency. For 60 minutes, your [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] points, [%e2.StatUp.StatName2] by [%e2.StatUp.Value2] points, [%e3.StatUp.StatName] by [%e3.StatUp.Value]%%, and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>A transformation candy for Fancy Transparency. Por 60 minutos, seu [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>781222</id>
@@ -77433,42 +77433,42 @@
 	<string>
 		<id>781238</id>
 		<name>STR_classic_event_food_dr_3stats_50a_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] for [%e1.StatUp.RemainTime] by [%e1.StatUp.Value] points and [%e2.StatUp.StatName] by [%e2.StatUp.Value] points. Additionally, [%e3.StatUp.StatName] increases for [%e3.StatUp.Value] seconds.</body>
+		<body>Aumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value] pontos e [%e2.StatUp.StatName] em [%e2.StatUp.Value] pontos. Além disso, [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value] segundos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>781239</id>
 		<name>STR_classic_event_food_dr_3stats_50b_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] for [%e1.StatUp.RemainTime] by [%e1.StatUp.Value] points and [%e2.StatUp.StatName] by [%e2.StatUp.Value] points. Additionally, [%e3.StatUp.StatName] increases for [%e3.StatUp.Value] seconds.</body>
+		<body>Aumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value] pontos e [%e2.StatUp.StatName] em [%e2.StatUp.Value] pontos. Além disso, [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value] segundos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>781240</id>
 		<name>STR_classic_event_food_dr_3stats_50c_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] for [%e1.StatUp.RemainTime] by [%e1.StatUp.Value] points and [%e2.StatUp.StatName] by [%e2.StatUp.Value] points. Additionally, [%e3.StatUp.StatName] increases for [%e3.StatUp.Value] seconds.</body>
+		<body>Aumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value] pontos e [%e2.StatUp.StatName] em [%e2.StatUp.Value] pontos. Além disso, [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value] segundos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>781241</id>
 		<name>STR_classic_event_food_dr_3stats_50d_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] for [%e1.StatUp.RemainTime] by [%e1.StatUp.Value] points and [%e2.StatUp.StatName] by [%e2.StatUp.Value] points. Additionally, [%e3.StatUp.StatName] increases for [%e3.StatUp.Value] seconds.</body>
+		<body>Aumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value] pontos e [%e2.StatUp.StatName] em [%e2.StatUp.Value] pontos. Além disso, [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value] segundos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>781242</id>
 		<name>STR_classic_event_food_dr_3stats_50e_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] for [%e1.StatUp.RemainTime] by [%e1.StatUp.Value] points and [%e2.StatUp.StatName] by [%e2.StatUp.Value] points. Additionally, [%e3.StatUp.StatName] increases for [%e3.StatUp.Value] seconds.</body>
+		<body>Aumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value] pontos e [%e2.StatUp.StatName] em [%e2.StatUp.Value] pontos. Além disso, [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value] segundos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>781243</id>
 		<name>STR_classic_event_food_dr_3stats_50f_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] for [%e1.StatUp.RemainTime] by [%e1.StatUp.Value] points and [%e2.StatUp.StatName] by [%e2.StatUp.Value] points. Additionally, [%e3.StatUp.StatName] increases for [%e3.StatUp.Value] seconds.</body>
+		<body>Aumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value] pontos e [%e2.StatUp.StatName] em [%e2.StatUp.Value] pontos. Além disso, [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value] segundos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>781244</id>
 		<name>STR_classic_event_food_dr_3stats_50g_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] for [%e1.StatUp.RemainTime] by [%e1.StatUp.Value] points and [%e2.StatUp.StatName] by [%e2.StatUp.Value] points. Additionally, [%e3.StatUp.StatName] increases for [%e3.StatUp.Value] seconds.</body>
+		<body>Aumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value] pontos e [%e2.StatUp.StatName] em [%e2.StatUp.Value] pontos. Além disso, [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value] segundos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>781245</id>
 		<name>STR_classic_event_food_dr_3stats_50h_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] for [%e1.StatUp.RemainTime] by [%e1.StatUp.Value] points and [%e2.StatUp.StatName] by [%e2.StatUp.Value] points. Additionally, [%e3.StatUp.StatName] increases for [%e3.StatUp.Value] seconds.</body>
+		<body>Aumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value] pontos e [%e2.StatUp.StatName] em [%e2.StatUp.Value] pontos. Além disso, [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value] segundos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>781246</id>
@@ -77498,17 +77498,17 @@
 	<string>
 		<id>781251</id>
 		<name>STR_Event_HARVEST_POTION_HP_50A_DESC</name>
-		<body>Restores [%e1.ProcHeal_Instant.Heal] HP.</body>
+		<body>Restaura [%e1.ProcHeal_Instant.Heal] HP.</body>
 	</string>
 	<string>
 		<id>781252</id>
 		<name>STR_Event_HARVEST_POTION_MP_50A_DESC</name>
-		<body>Restores [%e1.ProcMpHeal_Instant.Heal] MP.</body>
+		<body>Restaura [%e1.ProcMpHeal_Instant.Heal] MP.</body>
 	</string>
 	<string>
 		<id>781253</id>
 		<name>STR_EVENT_HARVEST_POTION_HP_MP_50A_DESC</name>
-		<body>Restores [%e1.ProcHeal_Instant.Heal] HP and [%e2.ProcMpHeal_Instant.Heal] MP.</body>
+		<body>Restaura [%e1.ProcHeal_Instant.Heal] HP e [%e2.ProcMpHeal_Instant.Heal] MP.</body>
 	</string>
 	<string>
 		<id>781254</id>
@@ -79718,12 +79718,12 @@
 	<string>
 		<id>781725</id>
 		<name>STR_classic_event_food_3stats_50a_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] for [%e1.StatUp.RemainTime] by [%e1.StatUp.Value] points and [%e2.StatUp.StatName] by [%e2.StatUp.Value] points. Additionally, [%e3.StatUp.StatName] increases for [%e3.StatUp.Value] seconds.</body>
+		<body>Aumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value] pontos e [%e2.StatUp.StatName] em [%e2.StatUp.Value] pontos. Além disso, [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value] segundos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>781726</id>
 		<name>STR_classic_event_food_3stats_50b_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] for [%e1.StatUp.RemainTime] by [%e1.StatUp.Value] points and [%e2.StatUp.StatName] by [%e2.StatUp.Value] points. Additionally, [%e3.StatUp.StatName] increases for [%e3.StatUp.Value] seconds.</body>
+		<body>Aumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value] pontos e [%e2.StatUp.StatName] em [%e2.StatUp.Value] pontos. Além disso, [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value] segundos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>781727</id>
@@ -83228,12 +83228,12 @@
 	<string>
 		<id>782427</id>
 		<name>STR_CLASSIC_EVENT_CHUSEOK_FOOD_3STATS_50A_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] for [%e1.StatUp.RemainTime] by [%e1.StatUp.Value] points and [%e2.StatUp.StatName] by [%e2.StatUp.Value] points. Additionally, [%e3.StatUp.StatName] increases for [%e3.StatUp.Value] seconds.</body>
+		<body>Aumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value] pontos e [%e2.StatUp.StatName] em [%e2.StatUp.Value] pontos. Além disso, [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value] segundos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>782428</id>
 		<name>STR_CLASSIC_EVENT_CHUSEOK_FOOD_3STATS_50B_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] for [%e1.StatUp.RemainTime] by [%e1.StatUp.Value] points and [%e2.StatUp.StatName] by [%e2.StatUp.Value] points. Additionally, [%e3.StatUp.StatName] increases for [%e3.StatUp.Value] seconds.</body>
+		<body>Aumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value] pontos e [%e2.StatUp.StatName] em [%e2.StatUp.Value] pontos. Além disso, [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value] segundos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>782429</id>
@@ -85448,12 +85448,12 @@
 	<string>
 		<id>782871</id>
 		<name>STR_CLASSIC_EVENT_DEVAPASS_FOOD_3STATS_50A_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] for [%e1.StatUp.RemainTime] by [%e1.StatUp.Value] points and [%e2.StatUp.StatName] by [%e2.StatUp.Value] points. Also increases [%e3.StatUp.StatName] by [%e3.StatUp.Value] seconds.</body>
+		<body>Aumenta [%e1.StatUp.StatName] por[%e1.StatUp.RemainTime] em [%e1.StatUp.Value] pontos e [%e2.StatUp.StatName] em [%e2.StatUp.Value] pontos. Também aumenta [%e3.StatUp.StatName] em [%e3.StatUp.Value] segundos.</body>
 	</string>
 	<string>
 		<id>782872</id>
 		<name>STR_CLASSIC_EVENT_DEVAPASS_FOOD_3STATS_50B_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] for [%e1.StatUp.RemainTime] by [%e1.StatUp.Value] points and [%e2.StatUp.StatName] by [%e2.StatUp.Value] points. Also increases [%e3.StatUp.StatName] by [%e3.StatUp.Value] seconds.</body>
+		<body>Aumenta [%e1.StatUp.StatName] por[%e1.StatUp.RemainTime] em [%e1.StatUp.Value] pontos e [%e2.StatUp.StatName] em [%e2.StatUp.Value] pontos. Também aumenta [%e3.StatUp.StatName] em [%e3.StatUp.Value] segundos.</body>
 	</string>
 	<string>
 		<id>782873</id>
@@ -85843,12 +85843,12 @@
 	<string>
 		<id>782950</id>
 		<name>STR_CLASSIC_EVENT_WELCOME_FOOD_3STATS_50A_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] for [%e1.StatUp.RemainTime] by [%e1.StatUp.Value] points and [%e2.StatUp.StatName] by [%e2.StatUp.Value] points. Additionally, [%e3.StatUp.StatName] increases for [%e3.StatUp.Value] seconds.</body>
+		<body>Aumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value] pontos e [%e2.StatUp.StatName] em [%e2.StatUp.Value] pontos. Além disso, [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value] segundos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>782951</id>
 		<name>STR_CLASSIC_EVENT_WELCOME_FOOD_3STATS_50B_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] for [%e1.StatUp.RemainTime] by [%e1.StatUp.Value] points and [%e2.StatUp.StatName] by [%e2.StatUp.Value] points. Additionally, [%e3.StatUp.StatName] increases for [%e3.StatUp.Value] seconds.</body>
+		<body>Aumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value] pontos e [%e2.StatUp.StatName] em [%e2.StatUp.Value] pontos. Além disso, [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value] segundos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>782952</id>
@@ -86633,12 +86633,12 @@
 	<string>
 		<id>783108</id>
 		<name>STR_CLASSIC_EVENT_thanksgivingday_FOOD_3STATS_50A_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] for [%e1.StatUp.RemainTime] by [%e1.StatUp.Value] points and [%e2.StatUp.StatName] by [%e2.StatUp.Value] points. Additionally, [%e3.StatUp.StatName] increases for [%e3.StatUp.Value] seconds.</body>
+		<body>Aumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value] pontos e [%e2.StatUp.StatName] em [%e2.StatUp.Value] pontos. Além disso, [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value] segundos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>783109</id>
 		<name>STR_CLASSIC_EVENT_thanksgivingday_FOOD_3STATS_50B_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] for [%e1.StatUp.RemainTime] by [%e1.StatUp.Value] points and [%e2.StatUp.StatName] by [%e2.StatUp.Value] points. Additionally, [%e3.StatUp.StatName] increases for [%e3.StatUp.Value] seconds.</body>
+		<body>Aumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value] pontos e [%e2.StatUp.StatName] em [%e2.StatUp.Value] pontos. Além disso, [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value] segundos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>783110</id>
@@ -87058,17 +87058,17 @@
 	<string>
 		<id>783193</id>
 		<name>STR_CASH_CANDY_Gingerbreadman_PHY_01_DESC</name>
-		<body>You transform into a biscuit that can use skills for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] and [%e2.StatUp.StatName2] by [%e2.StatUp.Value2] points; [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into a biscuit that can use skills. Por 60 minutos, seu [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>783194</id>
 		<name>STR_CASH_CANDY_Gingerbreadman_MAG_01_DESC</name>
-		<body>You transform into a biscuit that can use skills for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] and [%e2.StatUp.StatName2] by [%e2.StatUp.Value2] points; [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into a biscuit that can use skills. Por 60 minutos, seu [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>783195</id>
 		<name>STR_CASH_CANDY_Gingerbreadman_HYB_01_DESC</name>
-		<body>You transform into a biscuit that can use skills for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] and [%e2.StatUp.StatName2] by [%e2.StatUp.Value2] points; [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into a biscuit that can use skills. Por 60 minutos, seu [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>783196</id>
@@ -87088,17 +87088,17 @@
 	<string>
 		<id>783199</id>
 		<name>STR_CASH_CANDY_Rudolph_PHY_01_DESC</name>
-		<body>You transform into Rudolph who can use skills for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] and [%e2.StatUp.StatName2] by [%e2.StatUp.Value2] points; [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into Rudolph who can use skills. Por 60 minutos, seu [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>783200</id>
 		<name>STR_CASH_CANDY_Rudolph_MAG_01_DESC</name>
-		<body>You transform into Rudolph who can use skills for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] and [%e2.StatUp.StatName2] by [%e2.StatUp.Value2] points; [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into Rudolph who can use skills. Por 60 minutos, seu [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>783201</id>
 		<name>STR_CASH_CANDY_Rudolph_HYB_01_DESC</name>
-		<body>You transform into Rudolph who can use skills for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] and [%e2.StatUp.StatName2] by [%e2.StatUp.Value2] points; [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into Rudolph who can use skills. Por 60 minutos, seu [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>783202</id>
@@ -87118,17 +87118,17 @@
 	<string>
 		<id>783205</id>
 		<name>STR_CASH_CANDY_Santa_PHY_01_DESC</name>
-		<body>You transform into Santa who can use skills for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] and [%e2.StatUp.StatName2] by [%e2.StatUp.Value2] points; [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into Santa who can use skills. Por 60 minutos, seu [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>783206</id>
 		<name>STR_CASH_CANDY_Santa_MAG_01_DESC</name>
-		<body>You transform into Santa who can use skills for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] and [%e2.StatUp.StatName2] by [%e2.StatUp.Value2] points; [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into Santa who can use skills. Por 60 minutos, seu [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>783207</id>
 		<name>STR_CASH_CANDY_Santa_HYB_01_DESC</name>
-		<body>You transform into Santa who can use skills for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] and [%e2.StatUp.StatName2] by [%e2.StatUp.Value2] points; [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into Santa who can use skills. Por 60 minutos, seu [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>783208</id>
@@ -87148,17 +87148,17 @@
 	<string>
 		<id>783211</id>
 		<name>STR_CASH_CANDY_Snowman_PHY_01_DESC</name>
-		<body>You transform into a snowman that can use skills for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] and [%e2.StatUp.StatName2] by [%e2.StatUp.Value2] points; [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into a snowman that can use skills. Por 60 minutos, seu [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>783212</id>
 		<name>STR_CASH_CANDY_Snowman_MAG_01_DESC</name>
-		<body>You transform into a snowman that can use skills for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] and [%e2.StatUp.StatName2] by [%e2.StatUp.Value2] points; [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into a snowman that can use skills. Por 60 minutos, seu [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>783213</id>
 		<name>STR_CASH_CANDY_Snowman_HYB_01_DESC</name>
-		<body>You transform into a snowman that can use skills for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] and [%e2.StatUp.StatName2] by [%e2.StatUp.Value2] points; [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into a snowman that can use skills. Por 60 minutos, seu [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>783214</id>
@@ -87398,17 +87398,17 @@
 	<string>
 		<id>783261</id>
 		<name>STR_EVENT_CANDY_Gingerbreadman_PHY_01_DESC</name>
-		<body>You transform into a biscuit that can use skills for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] and [%e2.StatUp.StatName2] by [%e2.StatUp.Value2] points; [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into a biscuit that can use skills. Por 60 minutos, seu [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>783262</id>
 		<name>STR_EVENT_CANDY_Gingerbreadman_MAG_01_DESC</name>
-		<body>You transform into a biscuit that can use skills for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] and [%e2.StatUp.StatName2] by [%e2.StatUp.Value2] points; [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into a biscuit that can use skills. Por 60 minutos, seu [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>783263</id>
 		<name>STR_EVENT_CANDY_Gingerbreadman_HYB_01_DESC</name>
-		<body>You transform into a biscuit that can use skills for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] and [%e2.StatUp.StatName2] by [%e2.StatUp.Value2] points; [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into a biscuit that can use skills. Por 60 minutos, seu [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>783264</id>
@@ -87428,17 +87428,17 @@
 	<string>
 		<id>783267</id>
 		<name>STR_EVENT_CANDY_Rudolph_PHY_01_DESC</name>
-		<body>You transform into Rudolph who can use skills for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] and [%e2.StatUp.StatName2] by [%e2.StatUp.Value2] points; [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into Rudolph who can use skills. Por 60 minutos, seu [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>783268</id>
 		<name>STR_EVENT_CANDY_Rudolph_MAG_01_DESC</name>
-		<body>You transform into Rudolph who can use skills for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] and [%e2.StatUp.StatName2] by [%e2.StatUp.Value2] points; [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into Rudolph who can use skills. Por 60 minutos, seu [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>783269</id>
 		<name>STR_EVENT_CANDY_Rudolph_HYB_01_DESC</name>
-		<body>You transform into Rudolph who can use skills for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] and [%e2.StatUp.StatName2] by [%e2.StatUp.Value2] points; [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into Rudolph who can use skills. Por 60 minutos, seu [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>783270</id>
@@ -87458,17 +87458,17 @@
 	<string>
 		<id>783273</id>
 		<name>STR_EVENT_CANDY_Santa_PHY_01_DESC</name>
-		<body>You transform into Santa who can use skills for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] and [%e2.StatUp.StatName2] by [%e2.StatUp.Value2] points; [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into Santa who can use skills. Por 60 minutos, seu [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>783274</id>
 		<name>STR_EVENT_CANDY_Santa_MAG_01_DESC</name>
-		<body>You transform into Santa who can use skills for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] and [%e2.StatUp.StatName2] by [%e2.StatUp.Value2] points; [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into Santa who can use skills. Por 60 minutos, seu [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>783275</id>
 		<name>STR_EVENT_CANDY_Santa_HYB_01_DESC</name>
-		<body>You transform into Santa who can use skills for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] and [%e2.StatUp.StatName2] by [%e2.StatUp.Value2] points; [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into Santa who can use skills. Por 60 minutos, seu [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>783276</id>
@@ -87488,17 +87488,17 @@
 	<string>
 		<id>783279</id>
 		<name>STR_EVENT_CANDY_Snowman_PHY_01_DESC</name>
-		<body>You transform into a snowman that can use skills for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] and [%e2.StatUp.StatName2] by [%e2.StatUp.Value2] points; [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into a snowman that can use skills. Por 60 minutos, seu [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>783280</id>
 		<name>STR_EVENT_CANDY_Snowman_MAG_01_DESC</name>
-		<body>You transform into a snowman that can use skills for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] and [%e2.StatUp.StatName2] by [%e2.StatUp.Value2] points; [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into a snowman that can use skills. Por 60 minutos, seu [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>783281</id>
 		<name>STR_EVENT_CANDY_Snowman_HYB_01_DESC</name>
-		<body>You transform into a snowman that can use skills for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] and [%e2.StatUp.StatName2] by [%e2.StatUp.Value2] points; [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into a snowman that can use skills. Por 60 minutos, seu [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>783282</id>
@@ -87803,12 +87803,12 @@
 	<string>
 		<id>783342</id>
 		<name>STR_CLASSIC_EVENT_BLACKTIGERPASS_FOOD_3STATS_50A_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] for [%e1.StatUp.RemainTime] by [%e1.StatUp.Value] points and [%e2.StatUp.StatName] by [%e2.StatUp.Value] points. Also increases [%e3.StatUp.StatName] by [%e3.StatUp.Value] seconds.</body>
+		<body>Aumenta [%e1.StatUp.StatName] por[%e1.StatUp.RemainTime] em [%e1.StatUp.Value] pontos e [%e2.StatUp.StatName] em [%e2.StatUp.Value] pontos. Também aumenta [%e3.StatUp.StatName] em [%e3.StatUp.Value] segundos.</body>
 	</string>
 	<string>
 		<id>783343</id>
 		<name>STR_CLASSIC_EVENT_BLACKTIGERPASS_FOOD_3STATS_50B_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] for [%e1.StatUp.RemainTime] by [%e1.StatUp.Value] points and [%e2.StatUp.StatName] by [%e2.StatUp.Value] points. Also increases [%e3.StatUp.StatName] by [%e3.StatUp.Value] seconds.</body>
+		<body>Aumenta [%e1.StatUp.StatName] por[%e1.StatUp.RemainTime] em [%e1.StatUp.Value] pontos e [%e2.StatUp.StatName] em [%e2.StatUp.Value] pontos. Também aumenta [%e3.StatUp.StatName] em [%e3.StatUp.Value] segundos.</body>
 	</string>
 	<string>
 		<id>783344</id>
@@ -89168,7 +89168,7 @@
 	<string>
 		<id>783681</id>
 		<name>STR_WRAP_EVENT_FOOD_WHITE_TIGER_01_DESC</name>
-		<body>Contains 1 Transformation Candy: Valiant Tiger You transform into a Valiant Tiger that can use skills for 60 minutes. Max. HP are increased by 150 points and max. MP by 110 points; flight speed increases by 3%% and movement speed by 3%%.</body>
+		<body>Contains 1 Transformation Candy: Valiant Tiger You transform into a Valiant Tiger that can use skills. Por 60 minutos, sua HP Máxima aumenta em 150 pontos e MP Máxima aumenta em 110 pontos, e a Velocidade de Voo aumenta em 3%% e a Velocidade de Movimento aumenta em 3%%.</body>
 	</string>
 	<string>
 		<id>783682</id>
@@ -91028,7 +91028,7 @@
 	<string>
 		<id>784083</id>
 		<name>STR_SPRINGPICNIC_FRUIT_RED_01_DESC</name>
-		<body>A red fruit good enough to eat.\nIncreases [%e1.StatUp.StatName] for [%e1.StatUp.RemainTime] by [%e1.StatUp.Value] points and [%e2.StatUp.StatName] by [%e2.StatUp.Value] points. Additionally, [%e3.StatUp.StatName] increases for [%e3.StatUp.Value] seconds.</body>
+		<body>A red fruit good enough to eat.\nAumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value] pontos e [%e2.StatUp.StatName] em [%e2.StatUp.Value] pontos. Além disso, [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value] segundos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>784084</id>
@@ -91038,7 +91038,7 @@
 	<string>
 		<id>784085</id>
 		<name>STR_SPRINGPICNIC_FRUIT_YELLOW_01_DESC</name>
-		<body>A golden fruit good enough to eat.\nIncreases [%e1.StatUp.StatName] for [%e1.StatUp.RemainTime] by [%e1.StatUp.Value] points and [%e2.StatUp.StatName] by [%e2.StatUp.Value] points. Additionally, [%e3.StatUp.StatName] increases for [%e3.StatUp.Value] seconds.</body>
+		<body>A golden fruit good enough to eat.\nAumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value] pontos e [%e2.StatUp.StatName] em [%e2.StatUp.Value] pontos. Além disso, [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value] segundos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>784086</id>
@@ -92108,12 +92108,12 @@
 	<string>
 		<id>784301</id>
 		<name>STR_CLASSIC_EVENT_DEVAPASS_FOOD_3STATS_60A_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] for [%e1.StatUp.RemainTime] by [%e1.StatUp.Value] points and [%e2.StatUp.StatName] by [%e2.StatUp.Value] points. Additionally, [%e3.StatUp.StatName] increases for [%e3.StatUp.Value] seconds.</body>
+		<body>Aumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value] pontos e [%e2.StatUp.StatName] em [%e2.StatUp.Value] pontos. Além disso, [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value] segundos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>784302</id>
 		<name>STR_CLASSIC_EVENT_DEVAPASS_FOOD_3STATS_60B_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] for [%e1.StatUp.RemainTime] by [%e1.StatUp.Value] points and [%e2.StatUp.StatName] by [%e2.StatUp.Value] points. Additionally, [%e3.StatUp.StatName] increases for [%e3.StatUp.Value] seconds.</body>
+		<body>Aumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value] pontos e [%e2.StatUp.StatName] em [%e2.StatUp.Value] pontos. Além disso, [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value] segundos por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>784303</id>
@@ -92338,62 +92338,62 @@
 	<string>
 		<id>784347</id>
 		<name>STR_CASH_CANDY_L_DOG_PHY_03_DESC</name>
-		<body>You transform into a Doberman for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] points and[%e2.StatUp.StatName2] by. [%e2.StatUp.Value2] points. [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>Você se transforma em um Doberman por 60 minutos. [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>784348</id>
 		<name>STR_CASH_CANDY_L_DOG_MAG_03_DESC</name>
-		<body>You transform into a Doberman for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] points and[%e2.StatUp.StatName2] by. [%e2.StatUp.Value2] points. [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>Você se transforma em um Doberman por 60 minutos. [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>784349</id>
 		<name>STR_CASH_CANDY_L_DOG_HYB_03_DESC</name>
-		<body>You transform into a Doberman for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] points and[%e2.StatUp.StatName2] by. [%e2.StatUp.Value2] points. [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>Você se transforma em um Doberman por 60 minutos. [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>784350</id>
 		<name>STR_CASH_CANDY_D_DOG_PHY_03_DESC</name>
-		<body>You transform into a Doberman for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] points and[%e2.StatUp.StatName2] by. [%e2.StatUp.Value2] points. [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>Você se transforma em um Doberman por 60 minutos. [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>784351</id>
 		<name>STR_CASH_CANDY_D_DOG_MAG_03_DESC</name>
-		<body>You transform into a Doberman for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] points and[%e2.StatUp.StatName2] by. [%e2.StatUp.Value2] points. [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>Você se transforma em um Doberman por 60 minutos. [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>784352</id>
 		<name>STR_CASH_CANDY_D_DOG_HYB_03_DESC</name>
-		<body>You transform into a Doberman for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] points and[%e2.StatUp.StatName2] by. [%e2.StatUp.Value2] points. [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>Você se transforma em um Doberman por 60 minutos. [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>784353</id>
 		<name>STR_CASH_CANDY_L_DOG_PHY_04_DESC</name>
-		<body>You transform into a Chihuahua for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] points and[%e2.StatUp.StatName2] by. [%e2.StatUp.Value2] points. [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>Você se transforma em um Chihuahua por 60 minutos. [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>784354</id>
 		<name>STR_CASH_CANDY_L_DOG_MAG_04_DESC</name>
-		<body>You transform into a Chihuahua for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] points and[%e2.StatUp.StatName2] by. [%e2.StatUp.Value2] points. [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>Você se transforma em um Chihuahua por 60 minutos. [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>784355</id>
 		<name>STR_CASH_CANDY_L_DOG_HYB_04_DESC</name>
-		<body>You transform into a Chihuahua for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] points and[%e2.StatUp.StatName2] by. [%e2.StatUp.Value2] points. [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>Você se transforma em um Chihuahua por 60 minutos. [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>784356</id>
 		<name>STR_CASH_CANDY_D_DOG_PHY_04_DESC</name>
-		<body>You transform into a Chihuahua for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] points and[%e2.StatUp.StatName2] by. [%e2.StatUp.Value2] points. [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>Você se transforma em um Chihuahua por 60 minutos. [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>784357</id>
 		<name>STR_CASH_CANDY_D_DOG_MAG_04_DESC</name>
-		<body>You transform into a Chihuahua for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] points and[%e2.StatUp.StatName2] by. [%e2.StatUp.Value2] points. [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>Você se transforma em um Chihuahua por 60 minutos. [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>784358</id>
 		<name>STR_CASH_CANDY_D_DOG_HYB_04_DESC</name>
-		<body>You transform into a Chihuahua for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] points and[%e2.StatUp.StatName2] by. [%e2.StatUp.Value2] points. [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>Você se transforma em um Chihuahua por 60 minutos. [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>784359</id>
@@ -92528,32 +92528,32 @@
 	<string>
 		<id>784391</id>
 		<name>STR_CASH_CANDY_soda_PHY_01_DESC</name>
-		<body>You transform into a Lemonade for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] points and[%e2.StatUp.StatName2] by. [%e2.StatUp.Value2] points. [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>Você se transforma em uma Limonada por 60 minutos. [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>784392</id>
 		<name>STR_CASH_CANDY_soda_MAG_01_DESC</name>
-		<body>You transform into a Lemonade for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] points and[%e2.StatUp.StatName2] by. [%e2.StatUp.Value2] points. [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>Você se transforma em uma Limonada por 60 minutos. [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>784393</id>
 		<name>STR_CASH_CANDY_soda_HYB_01_DESC</name>
-		<body>You transform into a Lemonade for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] points and[%e2.StatUp.StatName2] by. [%e2.StatUp.Value2] points. [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>Você se transforma em uma Limonada por 60 minutos. [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>784394</id>
 		<name>STR_CASH_CANDY_soda_PHY_02_DESC</name>
-		<body>You transform into a Orangeade for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] points and[%e2.StatUp.StatName2] by. [%e2.StatUp.Value2] points. [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into a Orangeade for 60 minutes. [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>784395</id>
 		<name>STR_CASH_CANDY_soda_MAG_02_DESC</name>
-		<body>You transform into a Orangeade for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] points and[%e2.StatUp.StatName2] by. [%e2.StatUp.Value2] points. [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into a Orangeade for 60 minutes. [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>784396</id>
 		<name>STR_CASH_CANDY_soda_HYB_02_DESC</name>
-		<body>You transform into a Orangeade for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] points and[%e2.StatUp.StatName2] by. [%e2.StatUp.Value2] points. [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into a Orangeade for 60 minutes. [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>784397</id>
@@ -95223,17 +95223,17 @@
 	<string>
 		<id>785845</id>
 		<name>STR_CASH_CANDY_halloween_pumkin_PHY_01_DESC</name>
-		<body>You transform into a Jack Nox for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] points and[%e2.StatUp.StatName2] by. [%e2.StatUp.Value2] points. [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into a Jack Nox for 60 minutes. [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>785846</id>
 		<name>STR_CASH_CANDY_halloween_pumkin_MAG_01_DESC</name>
-		<body>You transform into a Jack Nox for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] points and[%e2.StatUp.StatName2] by. [%e2.StatUp.Value2] points. [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into a Jack Nox for 60 minutes. [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>785847</id>
 		<name>STR_CASH_CANDY_halloween_pumkin_HYB_01_DESC</name>
-		<body>You transform into a Jack Nox for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] points and[%e2.StatUp.StatName2] by. [%e2.StatUp.Value2] points. [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into a Jack Nox for 60 minutes. [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>785848</id>
@@ -95253,17 +95253,17 @@
 	<string>
 		<id>785851</id>
 		<name>STR_CASH_CANDY_halloween_mummy_PHY_01_DESC</name>
-		<body>You transform into a Mummy for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] points and[%e2.StatUp.StatName2] by. [%e2.StatUp.Value2] points. [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into a Mummy for 60 minutes. [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>785852</id>
 		<name>STR_CASH_CANDY_halloween_mummy_MAG_01_DESC</name>
-		<body>You transform into a Mummy for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] points and[%e2.StatUp.StatName2] by. [%e2.StatUp.Value2] points. [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into a Mummy for 60 minutes. [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>785853</id>
 		<name>STR_CASH_CANDY_halloween_mummy_HYB_01_DESC</name>
-		<body>You transform into a Mummy for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] points and[%e2.StatUp.StatName2] by. [%e2.StatUp.Value2] points. [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%.</body>
+		<body>You transform into a Mummy for 60 minutes. [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%.</body>
 	</string>
 	<string>
 		<id>785854</id>
@@ -95283,17 +95283,17 @@
 	<string>
 		<id>785857</id>
 		<name>STR_CASH_CANDY_halloween_vampire_PHY_01_DESC</name>
-		<body>You transform into a Frankenshock or Vampirina for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] points and[%e2.StatUp.StatName2] by. [%e2.StatUp.Value2] points. [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%. Male characters transform into Frankenshock, female characters into Vampirina.</body>
+		<body>You transform into a Frankenshock or Vampirina for 60 minutes. [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%. Male characters transform into Frankenshock, female characters into Vampirina.</body>
 	</string>
 	<string>
 		<id>785858</id>
 		<name>STR_CASH_CANDY_halloween_vampire_MAG_01_DESC</name>
-		<body>You transform into a Frankenshock or Vampirina for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] points and[%e2.StatUp.StatName2] by. [%e2.StatUp.Value2] points. [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%. Male characters transform into Frankenshock, female characters into Vampirina.</body>
+		<body>You transform into a Frankenshock or Vampirina for 60 minutes. [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%. Male characters transform into Frankenshock, female characters into Vampirina.</body>
 	</string>
 	<string>
 		<id>785859</id>
 		<name>STR_CASH_CANDY_halloween_vampire_HYB_01_DESC</name>
-		<body>You transform into a Frankenshock or Vampirina for 60 minutes. [%e2.StatUp.StatName] increases by [%e2.StatUp.Value] points and[%e2.StatUp.StatName2] by. [%e2.StatUp.Value2] points. [%e3.StatUp.StatName] increases by [%e3.StatUp.Value]%% and [%e3.StatUp.StatName2] by [%e3.StatUp.Value2]%%. Male characters transform into Frankenshock, female characters into Vampirina.</body>
+		<body>You transform into a Frankenshock or Vampirina for 60 minutes. [%e2.StatUp.StatName] aumenta em [%e2.StatUp.Value] pontos e [%e2.StatUp.StatName2] aumenta em [%e2.StatUp.Value2] pontos, e [%e3.StatUp.StatName] aumenta em [%e3.StatUp.Value]%% e [%e3.StatUp.StatName2] aumenta em [%e3.StatUp.Value2]%%. Male characters transform into Frankenshock, female characters into Vampirina.</body>
 	</string>
 	<string>
 		<id>785870</id>

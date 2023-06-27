@@ -72512,7 +72512,7 @@
 	<string>
 		<id>295949</id>
 		<name>STR_ITEM_SPEED_BOOSTCASTINGTIME_DESC</name>
-		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápido por [%e1.StatUp.RemainTime].</body>
+		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápida por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>295950</id>
@@ -72532,7 +72532,7 @@
 	<string>
 		<id>295953</id>
 		<name>STR_ITEM_SPEED_BOOSTCASTINGTIME_AB_DESC</name>
-		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápido por [%e1.StatUp.RemainTime].</body>
+		<body>[%e1.StatUp.StatName] fica [%e1.StatUp.Value]%% mais rápida por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>295954</id>
