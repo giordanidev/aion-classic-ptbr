@@ -6887,7 +6887,7 @@
 	<string>
 		<id>1300007</id>
 		<name>STR_SKILL_INVALID_TARGET_OBJECT_ONLY</name>
-		<body>Invalid target. You can only use this on objects.</body>
+		<body>Alvo inválido. Você só pode usar isso em objetos.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 		<ment>SkillInvalidTarget</ment>
@@ -6895,7 +6895,7 @@
 	<string>
 		<id>1300008</id>
 		<name>STR_SKILL_INVALID_TARGET_NPC_ONLY</name>
-		<body>Invalid target. You can only use this on NPCs.</body>
+		<body>Alvo inválido. Você só pode usar isso em NPCs.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 		<ment>SkillInvalidTarget</ment>
@@ -6903,7 +6903,7 @@
 	<string>
 		<id>1300009</id>
 		<name>STR_SKILL_INVALID_TARGET_PC_ONLY</name>
-		<body>Invalid target. You can only use this only on other players.</body>
+		<body>Alvo inválido. Você só pode usar isso em outros jogadores.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 		<ment>SkillInvalidTarget</ment>
@@ -6911,7 +6911,7 @@
 	<string>
 		<id>1300010</id>
 		<name>STR_SKILL_INVALID_TARGET_PET_ONLY</name>
-		<body>Invalid target. You can only use this on spirits.</body>
+		<body>Alvo inválido. Você só pode usar isso em espíritos.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 		<ment>SkillInvalidTarget</ment>
@@ -6919,7 +6919,7 @@
 	<string>
 		<id>1300011</id>
 		<name>STR_SKILL_INVALID_TARGET_PARTY_ONLY</name>
-		<body>Invalid target. You can only use this on group members.</body>
+		<body>Alvo inválido. Você só pode usar isso em membros do grupo.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 		<ment>SkillInvalidTarget</ment>
@@ -6927,7 +6927,7 @@
 	<string>
 		<id>1300012</id>
 		<name>STR_SKILL_TARGET_IS_NOT_ALIVE</name>
-		<body>You can only use this on living targets.</body>
+		<body>Você só pode usar isso em alvos vivos.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 		<ment>SkillInvalidTarget</ment>
@@ -6935,7 +6935,7 @@
 	<string>
 		<id>1300013</id>
 		<name>STR_SKILL_TARGET_IS_NOT_VALID</name>
-		<body>Invalid target.</body>
+		<body>Alvo inválido.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 		<ment>SkillInvalidTarget</ment>
@@ -6943,14 +6943,14 @@
 	<string>
 		<id>1300014</id>
 		<name>STR_SKILL_NOT_ENOUGH_HP</name>
-		<body>You do not have enough health to use that skill.</body>
+		<body>Você não tem vida o suficiente para usar essa habilidade.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300015</id>
 		<name>STR_SKILL_NOT_ENOUGH_MP</name>
-		<body>You do not have enough mana to use that skill.</body>
+		<body>Você não tem mana o suficiente para usar essa habilidade.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 		<ment>SkillNotEnough</ment>
@@ -6958,7 +6958,7 @@
 	<string>
 		<id>1300016</id>
 		<name>STR_SKILL_NOT_ENOUGH_DP</name>
-		<body>You do not have enough DP to use that skill.</body>
+		<body>Você não tem DP o suficiente para usar essa habilidade.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -6972,7 +6972,7 @@
 	<string>
 		<id>1300018</id>
 		<name>STR_SKILL_NOT_ENOUGH_ITEM</name>
-		<body>You do not have enough %0 necessary to use the skill.</body>
+		<body>Você não tem %0 necessário para usar essa habilidade.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 		<ment>SkillNotEnoughItem</ment>
@@ -6994,7 +6994,7 @@
 	<string>
 		<id>1300021</id>
 		<name>STR_SKILL_NOT_READY</name>
-		<body>You are not ready to use that skill.</body>
+		<body>Você não está pronto para usar essa habilidade.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 		<ment>SkillNotReady</ment>
@@ -7472,7 +7472,7 @@
 	<string>
 		<id>1300088</id>
 		<name>STR_SKILL_SUMMON_IS_NOT_VALID</name>
-		<body>Invalid target.</body>
+		<body>Alvo inválido.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -7668,7 +7668,7 @@
 	<string>
 		<id>1300116</id>
 		<name>STR_ATTACK_IMPROPER_TARGET</name>
-		<body>Invalid target.</body>
+		<body>Alvo inválido.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -8018,84 +8018,84 @@
 	<string>
 		<id>1300166</id>
 		<name>STR_PARTY_YOU_ARE_BANISHED</name>
-		<body>You have been kicked out of the group.</body>
+		<body>Você foi expulso do grupo.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300167</id>
 		<name>STR_PARTY_IS_DISPERSED</name>
-		<body>The group has been disbanded.</body>
+		<body>O grupo foi desfeito.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300168</id>
 		<name>STR_PARTY_HE_LEAVE_PARTY</name>
-		<body>%0 has left your group.</body>
+		<body>%0 saiu do seu grupo.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300169</id>
 		<name>STR_PARTY_HE_IS_ALREADY_MEMBER_OF_OTHER_PARTY</name>
-		<body>%0 is already a member of another group.</body>
+		<body>%0 é membro de outro grupo.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300170</id>
 		<name>STR_PARTY_HE_IS_ALREADY_MEMBER_OF_OUR_PARTY</name>
-		<body>%0 is already a member of your group.</body>
+		<body>%0 já está no seu grupo!</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300171</id>
 		<name>STR_PARTY_YOU_ARE_NOT_PARTY_MEMBER</name>
-		<body>You are not in any group.</body>
+		<body>Você não está em nenhum grupo.</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300172</id>
 		<name>STR_PARTY_NOT_PARTY_MEMBER</name>
-		<body>You are not a group member.</body>
+		<body>Você não está em nenhum grupo.</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300173</id>
 		<name>STR_PARTY_INVITED_HIM</name>
-		<body>You have invited %0 to join your group.</body>
+		<body>Você convidou %0 para entrar no seu grupo.</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300174</id>
 		<name>STR_PARTY_CANT_INVITE_WHEN_HE_IS_ASKED_QUESTION</name>
-		<body>Currently, %0 cannot accept your group invitation.</body>
+		<body>%0 não pode aceitar seu convite no momento.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300175</id>
 		<name>STR_PARTY_HE_BECOME_OFFLINE</name>
-		<body>%0 has been disconnected.</body>
+		<body>%0 desconectou.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300176</id>
 		<name>STR_PARTY_HE_BECOME_OFFLINE_TIMEOUT</name>
-		<body>%0 has been offline for too long and is automatically excluded from the group.</body>
+		<body>%0 permaneceu desconectado por muito tempo e foi removido do grupo.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300177</id>
 		<name>STR_PARTY_HE_IS_BANISHED</name>
-		<body>%0 has been kicked out of your group.</body>
+		<body>%0 foi expulso do grupo.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -8676,7 +8676,7 @@
 	<string>
 		<id>1300260</id>
 		<name>STR_GUILD_INVITE_HE_JOINED</name>
-		<body>%0 has joined your Legion.</body>
+		<body>%0 entrou na sua Legião.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -10000,7 +10000,7 @@
 	<string>
 		<id>1300449</id>
 		<name>STR_DECOMPOSE_ITEM_SUCCEED</name>
-		<body>You have successfully extracted from %0.</body>
+		<body>Você extraiu %0 com sucesso.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -10238,7 +10238,7 @@
 	<string>
 		<id>1300483</id>
 		<name>STR_CHANGE_ITEM_SKIN_SUCCEED</name>
-		<body>You have modified the appearance of %0.</body>
+		<body>Você modificou a aparência de %0.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -10252,21 +10252,21 @@
 	<string>
 		<id>1300485</id>
 		<name>STR_SOUL_BOUND_ITEM_SUCCEED</name>
-		<body>You have successfully soul-bound %0.</body>
+		<body>Você vincilou %0 com sucesso.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300486</id>
 		<name>STR_SOUL_BOUND_ITEM_FAILED</name>
-		<body>You have failed to soul-bind %0.</body>
+		<body>Você falhou ao tentar vincular %0.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300487</id>
 		<name>STR_SOUL_BOUND_ITEM_CANCELED</name>
-		<body>You cancelled the soul-binding of %0.</body>
+		<body>Você cancelou a vinculação de %0.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -10287,21 +10287,21 @@
 	<string>
 		<id>1300490</id>
 		<name>STR_WEAPON_BOOST_NO_BOOSTER_EQUIPED</name>
-		<body>You do not have a Power Shard equipped.</body>
+		<body>Você não tem Power Shards equipadas.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300491</id>
 		<name>STR_WEAPON_BOOST_BOOST_MODE_STARTED</name>
-		<body>You activate the Power Shard.</body>
+		<body>Você ativou as Power Shards.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300492</id>
 		<name>STR_WEAPON_BOOST_BOOST_MODE_ENDED</name>
-		<body>You deactivate the Power Shard.</body>
+		<body>Você desativou as Power Shards.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 		<ment>alert_soulstone_cancel_fix</ment>
@@ -10309,7 +10309,7 @@
 	<string>
 		<id>1300493</id>
 		<name>STR_ITEM_IS_NOT_USABLE</name>
-		<body>You cannot use the item.</body>
+		<body>Você não pode usar o item.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -11821,21 +11821,21 @@
 	<string>
 		<id>1300709</id>
 		<name>STR_MACRO_MSG_CANCEL</name>
-		<body>Macro canceled.</body>
+		<body>Macro cancelada.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300710</id>
 		<name>STR_MACRO_MSG_END</name>
-		<body>Macro complete.</body>
+		<body>Macro finalizada.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300711</id>
 		<name>STR_MSG_RECEIVE_MAIL</name>
-		<body>Mail has arrived.</body>
+		<body>Cegou uma carta!</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -12620,7 +12620,7 @@
 	<string>
 		<id>1300823</id>
 		<name>STR_INVALID_TARGET</name>
-		<body>Invalid target.</body>
+		<body>Alvo inválido.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -14200,7 +14200,7 @@
 	<string>
 		<id>1301047</id>
 		<name>STR_VENDOR_REGISTER_SOLD_OUT</name>
-		<body>The %0 item has been sold by the broker.</body>
+		<body>O item '%0' foi vendido no broker.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 		<ment>alert_auction_complete_fix</ment>
@@ -16333,14 +16333,14 @@
 	<string>
 		<id>1390213</id>
 		<name>STR_MSG_PLAYING_TIME</name>
-		<body>Playing Time: %0</body>
+		<body>Tempo jogando: %0</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1390214</id>
 		<name>STR_MSG_NOTIFY_PLAYING_TIME</name>
-		<body>You have been playing for %0 hours. Please take care of your health and take a break.</body>
+		<body>Você já está jogando há %0 hora(s). Por favor, cuide da sua saúde e dê uma pausa.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -16816,7 +16816,7 @@
 	<string>
 		<id>1400009</id>
 		<name>STR_PARTY_HE_ENTERED_PARTY</name>
-		<body>%0 has joined your group.</body>
+		<body>%0 entrou no seu grupo.</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -17672,7 +17672,7 @@
 	<string>
 		<id>1400131</id>
 		<name>STR_MSG_VENDOR_ACCOUNT_IS_NOT_EMPTY</name>
-		<body>You have payment(s) to collect at the Broker.</body>
+		<body>Você tem Kinah para coletar no Broker.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -18396,7 +18396,7 @@
 	<string>
 		<id>1400233</id>
 		<name>STR_MSG_INSTANCE_PREPARE_TIME</name>
-		<body>Prepare for Battle!</body>
+		<body>Prepare-se para a batalha!</body>
 		<message_type>53</message_type>
 		<display_type>2</display_type>
 	</string>
@@ -18417,7 +18417,7 @@
 	<string>
 		<id>1400236</id>
 		<name>STR_MSG_INSTANCE_SCORE_ALARM</name>
-		<body>Exceeded %num0 points!</body>
+		<body>Excedeu %num0 pontos!</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 		<ment>score_alert_point_fix</ment>
@@ -18696,14 +18696,14 @@
 	<string>
 		<id>1400275</id>
 		<name>STR_MSG_INSTANCE_PORTAL_OPEN_IDLF3_Castle_Indratoo</name>
-		<body>Um portal que te leva para Indratu Fortress apareceu..</body>
+		<body>Um portal que te leva para Indratu Fortress apareceu.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1400276</id>
 		<name>STR_MSG_INSTANCE_PORTAL_OPEN_IDDF3_Dragon</name>
-		<body>Um portal que te leva para Draupnir Cave apareceu..</body>
+		<body>Um portal que te leva para Draupnir Cave apareceu.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -19996,14 +19996,14 @@
 	<string>
 		<id>1400452</id>
 		<name>STR_UNCOMPRESS_COMPRESSED_ITEM_SUCCEEDED</name>
-		<body>You have opened the %0.</body>
+		<body>Você abriu %0.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1400453</id>
 		<name>STR_UNCOMPRESS_COMPRESSED_ITEM_CANCELED</name>
-		<body>You have stopped opening the %0 bundle.</body>
+		<body>Você parou de abrir %0.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -20753,7 +20753,7 @@
 	<string>
 		<id>1400552</id>
 		<name>STR_MSG_ALARM_REMAIN_ONE_MINUTE</name>
-		<body>There is 1 minute left to trade with %0.</body>
+		<body>Apenas 1 minuto restante para trocar %0 com alguém.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -27300,14 +27300,14 @@
 	<string>
 		<id>1401565</id>
 		<name>STR_MSG_WARDROBE_COMPLETE_DYE</name>
-		<body>%0 has been dyed with %1.</body>
+		<body>%0 foi pintado com %1.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1401566</id>
 		<name>STR_MSG_WARDROBE_COMPLETE_REMOVE_DYE</name>
-		<body>You have removed the dye from %0.</body>
+		<body>Você removeu a cor de %0.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -28051,14 +28051,14 @@
 	<string>
 		<id>1401669</id>
 		<name>STR_MSG_EQUIPMENT_CHANGE_SUCCEEDED</name>
-		<body>You changed your equipment.</body>
+		<body>Você trocou de equipamentos.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1401670</id>
 		<name>STR_MSG_EQUIPMENT_CHANGE_FAILED</name>
-		<body>You cannot change your equipment.</body>
+		<body>Você não pode trocar os equipamentos.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
