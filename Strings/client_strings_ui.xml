@@ -5341,7 +5341,7 @@
 	<string>
 		<id>900648</id>
 		<name>STR_LOOT_TAKEALL</name>
-		<body>Pegar Todos</body>
+		<body>Pegar Tudo</body>
 	</string>
 	<string>
 		<id>900649</id>
@@ -19761,7 +19761,7 @@
 	<string>
 		<id>904394</id>
 		<name>STR_KEYMAP_ALL_GAIN</name>
-		<body>Pegar Todos</body>
+		<body>Pegar Tudo</body>
 	</string>
 	<string>
 		<id>904395</id>

@@ -5634,7 +5634,7 @@
 	<string>
 		<id>911016</id>
 		<name>STR_LOOT_DIALOG__TAKEALL</name>
-		<body>Pegar Todos</body>
+		<body>Pegar Tudo</body>
 	</string>
 	<string>
 		<id>911017</id>
@@ -7519,7 +7519,7 @@
 	<string>
 		<id>911393</id>
 		<name>STR_TUTORIAL_DIALOG__POPUP</name>
-		<body>Ajuda para Iniciantes</body>
+		<body>Para Iniciantes</body>
 	</string>
 	<string>
 		<id>911394</id>

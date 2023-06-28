@@ -6502,21 +6502,21 @@
 	<string>
 		<id>1210006</id>
 		<name>STR_MSG_COMBAT_ENEMY_ATTACK</name>
-		<body>You received %num1 damage from %0.</body>
+		<body>Você recebeu %num1 de dano de %0.</body>
 		<message_type>22</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1210007</id>
 		<name>STR_MSG_COMBAT_ENEMY_CRITICAL</name>
-		<body>Critical Strike! You received %num1 damage from %0.</body>
+		<body>Ataque Crítico! Você recebeu %num1 de dano de %0.</body>
 		<message_type>23</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1210224</id>
 		<name>STR_MSG_COMBAT_ENEMY_BLOCK</name>
-		<body>%0 blocked your attack.</body>
+		<body>%0 bloqueou o seu ataque.</body>
 		<message_type>27</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -7119,7 +7119,7 @@
 	<string>
 		<id>1300038</id>
 		<name>STR_UI_COMBAT_NPC_FLEE</name>
-		<body>%0 is running away.</body>
+		<body>%0 está correndo de você.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 		<ment>escape_fix</ment>
@@ -7127,7 +7127,7 @@
 	<string>
 		<id>1300039</id>
 		<name>STR_UI_COMBAT_NPC_RETURN</name>
-		<body>%0 gives up the pursuit.</body>
+		<body>%0 desistiu de te seguir.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 		<ment>pass_fix</ment>
@@ -7135,7 +7135,7 @@
 	<string>
 		<id>1300040</id>
 		<name>STR_UI_DISCOVERY_NEWZONE</name>
-		<body>You have discovered [%subzone].</body>
+		<body>Você descobriu [%subzone].</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -7156,7 +7156,7 @@
 	<string>
 		<id>1300043</id>
 		<name>STR_PARTY_SECEDE</name>
-		<body>You left the group.</body>
+		<body>Você saiu do grupo.</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -7206,14 +7206,14 @@
 	<string>
 		<id>1300050</id>
 		<name>STR_SKILL_LEARNED_NEW_SKILL</name>
-		<body>You learned %0 (Level %1).</body>
+		<body>Você aprendeu %0 (Nível %1).</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300051</id>
 		<name>STR_SKILL_TOGGLE_SKILL_TURNED_OFF</name>
-		<body>You stopped using %0.</body>
+		<body>Você parou de usar %0.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -7227,7 +7227,7 @@
 	<string>
 		<id>1300053</id>
 		<name>STR_SKILL_MAINTAIN_SKILL_TURNED_OFF</name>
-		<body>You stopped using %0 skill.</body>
+		<body>Você parou de usar a habilidade %0.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -7619,7 +7619,7 @@
 	<string>
 		<id>1300109</id>
 		<name>STR_SKILL_TARGET_SKILL_CANCELED</name>
-		<body>You interrupted the target&apos;s skill.</body>
+		<body>Você interrompeu a habilidade do alvo.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -11548,7 +11548,7 @@
 	<string>
 		<id>1300670</id>
 		<name>STR_DEATH_REGISTER_RESURRECT_POINT</name>
-		<body>Agora você irá renascer em [%subzone].</body>
+		<body>A partir de agora você irá renascer em [%subzone].</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -28654,14 +28654,14 @@
 	<string>
 		<id>1401756</id>
 		<name>STR_MSG_GET_ITEM_EXTRA</name>
-		<body>%0 was put into a cube.</body>
+		<body>%0 foi colocado no cubo de quests.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1401757</id>
 		<name>STR_MSG_GET_ITEM_EXTRA_MULTI</name>
-		<body>%num1x %0 was put into a cube.</body>
+		<body>%num1x %0 foi colocado no cubo de quests.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
