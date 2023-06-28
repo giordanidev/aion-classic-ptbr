@@ -206,14 +206,14 @@
 	<string>
 		<id>1200230</id>
 		<name>STR_SKILL_EFFECT_FEAR_BEGIN</name>
-		<body>Você está com medo!.</body>
+		<body>Você está com medo (fear)!</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200231</id>
 		<name>STR_SKILL_EFFECT_FEAR_END</name>
-		<body>Você se recuperou do seu medo.</body>
+		<body>Você se recuperou do seu medo (fear).</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -234,14 +234,14 @@
 	<string>
 		<id>1200234</id>
 		<name>STR_SKILL_EFFECT_PARALYZE_BEGIN</name>
-		<body>Você foi paralisado.</body>
+		<body>Você foi paralisado (paralyze).</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200235</id>
 		<name>STR_SKILL_EFFECT_PARALYZE_END</name>
-		<body>Você não está mais paralisado.</body>
+		<body>Você não está mais paralisado (paralyze).</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -262,42 +262,42 @@
 	<string>
 		<id>1200238</id>
 		<name>STR_SKILL_EFFECT_POISON_BEGIN</name>
-		<body>Você foi envenenado.</body>
+		<body>Você foi envenenado (poison).</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200239</id>
 		<name>STR_SKILL_EFFECT_POISON_END</name>
-		<body>Você não está mais envenenado.</body>
+		<body>Você não está mais envenenado (poison).</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200240</id>
 		<name>STR_SKILL_EFFECT_ROOT_BEGIN</name>
-		<body>Você foi imobilizado.</body>
+		<body>Você foi imobilizado (root).</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200241</id>
 		<name>STR_SKILL_EFFECT_ROOT_END</name>
-		<body>Você não está mais imobilizado.</body>
+		<body>Você não está mais imobilizado (root).</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200242</id>
 		<name>STR_SKILL_EFFECT_SLEEP_BEGIN</name>
-		<body>Você foi colocado para dormir.</body>
+		<body>Você foi colocado para dormir (sleep).</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200243</id>
 		<name>STR_SKILL_EFFECT_SLEEP_END</name>
-		<body>Você acordou do cochilo.</body>
+		<body>Você acordou do cochilo (sleep).</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -318,14 +318,14 @@
 	<string>
 		<id>1200246</id>
 		<name>STR_SKILL_EFFECT_SILENCE_BEGIN</name>
-		<body>Você foi silenciado.</body>
+		<body>Você foi silenciado (silence).</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200247</id>
 		<name>STR_SKILL_EFFECT_SILENCE_END</name>
-		<body>Você não está mais silenciado.</body>
+		<body>Você não está mais silenciado (silence).</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -374,28 +374,28 @@
 	<string>
 		<id>1200254</id>
 		<name>STR_SKILL_EFFECT_SPIN_BEGIN</name>
-		<body>Você está girando, em estado de choque.</body>
+		<body>Você está girando, em estado de choque (spin).</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200255</id>
 		<name>STR_SKILL_EFFECT_SPIN_END</name>
-		<body>Você não está mais em estado de choque.</body>
+		<body>Você não está mais em estado de choque (spin).</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200256</id>
 		<name>STR_SKILL_EFFECT_STUMBLE_BEGIN</name>
-		<body>Você caiu, em estado de choque.</body>
+		<body>Você caiu, em estado de choque (stumble).</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200257</id>
 		<name>STR_SKILL_EFFECT_STUMBLE_END</name>
-		<body>Você não está mais em estado de choque.</body>
+		<body>Você não está mais em estado de choque (stumble).</body>
 		<message_type>20</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -444,163 +444,163 @@
 	<string>
 		<id>1200277</id>
 		<name>STR_SKILL_SUCC_Blind_ME_TO_SELF</name>
-		<body>[%SkillName] inflicts you with &apos;Blindness&apos;.</body>
+		<body>[%SkillName] deixou você cego (blind).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200278</id>
 		<name>STR_SKILL_SUCC_Confuse_ME_TO_SELF</name>
-		<body>[%SkillName] inflicts you with &apos;Confusion&apos;.</body>
+		<body>[%SkillName] deixou você confuso (confused).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200279</id>
 		<name>STR_SKILL_SUCC_Disease_ME_TO_SELF</name>
-		<body>[%SkillName] inflicts you with &apos;Disease&apos;.</body>
+		<body>[%SkillName] deixou você doente (sick).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200280</id>
 		<name>STR_SKILL_SUCC_Fear_ME_TO_SELF</name>
-		<body>[%SkillName] inflicts you with &apos;Fear&apos;.</body>
+		<body>[%SkillName] deixou você com medo (fear).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200281</id>
 		<name>STR_SKILL_SUCC_Paralyze_ME_TO_SELF</name>
-		<body>[%SkillName] inflicts you with &apos;Paralysis&apos;.</body>
+		<body>[%SkillName] deixou você paralisado (paralyze).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200282</id>
 		<name>STR_SKILL_SUCC_Root_ME_TO_SELF</name>
-		<body>[%SkillName] inflicts you with &apos;Immobilisation&apos;.</body>
+		<body>[%SkillName] deixou você imobilizado (immobilize).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200283</id>
 		<name>STR_SKILL_SUCC_Silence_ME_TO_SELF</name>
-		<body>[%SkillName] inflicts you with &apos;Silence&apos;.</body>
+		<body>[%SkillName] deixou você silenciado (silence).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200284</id>
 		<name>STR_SKILL_SUCC_Sleep_ME_TO_SELF</name>
-		<body>[%SkillName] inflicts you with &apos;Sleep&apos;.</body>
+		<body>[%SkillName] deixou você dormindo (sleep).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200285</id>
 		<name>STR_SKILL_SUCC_Spin_ME_TO_SELF</name>
-		<body>[%SkillName] inflicts you with &apos;Spin&apos;.</body>
+		<body>[%SkillName] deixou você girando (spin).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200286</id>
 		<name>STR_SKILL_SUCC_Stagger_ME_TO_SELF</name>
-		<body>[%SkillName] inflicts you with &apos;Stagger&apos;.</body>
+		<body>[%SkillName] deixou você em choque (stagger).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200287</id>
 		<name>STR_SKILL_SUCC_Stumble_ME_TO_SELF</name>
-		<body>[%SkillName] inflicts you with &apos;Knockdown&apos;.</body>
+		<body>[%SkillName] deixou você em choque (knockdown).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200288</id>
 		<name>STR_SKILL_SUCC_Stun_ME_TO_SELF</name>
-		<body>[%SkillName] inflicts you with &apos;Stun&apos;.</body>
+		<body>[%SkillName] deixou você em choque (stun).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200289</id>
 		<name>STR_SKILL_SUCC_Blind_END_ME_TO_SELF</name>
-		<body>You are no longer suffering from &apos;Blindness&apos;.</body>
+		<body>Você não está mais cego (blind).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200290</id>
 		<name>STR_SKILL_SUCC_Confuse_END_ME_TO_SELF</name>
-		<body>You are no longer suffering from &apos;Confusion&apos;.</body>
+		<body>Você não está mais confuso (confused).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200291</id>
 		<name>STR_SKILL_SUCC_Disease_END_ME_TO_SELF</name>
-		<body>You are no longer suffering from &apos;Disease&apos;.</body>
+		<body>Você não está mais doente (sick).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200292</id>
 		<name>STR_SKILL_SUCC_Fear_END_ME_TO_SELF</name>
-		<body>You are no longer suffering from &apos;Fear&apos;.</body>
+		<body>Você não está mais com medo (fear).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200293</id>
 		<name>STR_SKILL_SUCC_Paralyze_END_ME_TO_SELF</name>
-		<body>You are no longer suffering from &apos;Paralysis&apos;.</body>
+		<body>Você não está mais paralisado (paralyze).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200294</id>
 		<name>STR_SKILL_SUCC_Root_END_ME_TO_SELF</name>
-		<body>You are no longer suffering from &apos;Immobilisation&apos;.</body>
+		<body>Você não está mais imobilizado (immobilize).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200295</id>
 		<name>STR_SKILL_SUCC_Silence_END_ME_TO_SELF</name>
-		<body>You are no longer suffering from &apos;Silence&apos;.</body>
+		<body>Você não está mais silenciado (silence).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200296</id>
 		<name>STR_SKILL_SUCC_Sleep_END_ME_TO_SELF</name>
-		<body>You are no longer suffering from &apos;Sleep&apos;.</body>
+		<body>Você não está mais cochilando (sleep).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200297</id>
 		<name>STR_SKILL_SUCC_Spin_END_ME_TO_SELF</name>
-		<body>You are no longer suffering from &apos;Spin&apos;.</body>
+		<body>Você não está mais em choque (spin).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200298</id>
 		<name>STR_SKILL_SUCC_Stagger_END_ME_TO_SELF</name>
-		<body>You are no longer suffering from &apos;Stagger&apos;.</body>
+		<body>Você não está mais em choque (stagger).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200299</id>
 		<name>STR_SKILL_SUCC_Stumble_END_ME_TO_SELF</name>
-		<body>You are no longer suffering from &apos;Knockdown&apos;.</body>
+		<body>Você não está mais em choque (knockdown).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200300</id>
 		<name>STR_SKILL_SUCC_Stun_END_ME_TO_SELF</name>
-		<body>You are no longer suffering from &apos;Stun&apos;.</body>
+		<body>Você não está mais em choque (stun).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200301</id>
 		<name>STR_SKILL_SUCC_BoostDropRate_ME_TO_SELF</name>
-		<body>[%SkillName] increased your chance of loot.</body>
+		<body>[%SkillName] aumentou a sua chance de drop de itens.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200302</id>
 		<name>STR_SKILL_SUCC_OutofSight_ME_TO_SELF</name>
-		<body>Your visual range was reduced by [%SkillName].</body>
+		<body>A sua distância de visão foi reduzida por [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200303</id>
 		<name>STR_SKILL_SUCC_SwitchHostile_ME_TO_SELF</name>
-		<body>Your rage was swapped with the spirit&apos;s by [%SkillName].</body>
+		<body>A sua provocação foi trocada com a do seu espírito com o uso da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -624,25 +624,25 @@
 	<string>
 		<id>1200307</id>
 		<name>STR_SKILL_SUCC_Bind_ME_TO_SELF</name>
-		<body>[%SkillName] inflicts you with &apos;Binding&apos;.</body>
+		<body>[%SkillName] deixou você de mãos amarradas (bind).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200308</id>
 		<name>STR_SKILL_SUCC_Bleed_ME_TO_SELF</name>
-		<body>[%SkillName] inflicts you with &apos;Bleeding&apos;.</body>
+		<body>[%SkillName] deixou você sangrando (bleed).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200309</id>
 		<name>STR_SKILL_SUCC_Curse_ME_TO_SELF</name>
-		<body>[%SkillName] inflicts you with &apos;Curse&apos;.</body>
+		<body>[%SkillName] deixou você amaldiçoado (cursed).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200310</id>
 		<name>STR_SKILL_SUCC_NoFly_ME_TO_SELF</name>
-		<body>[%SkillName] inflicts you with &apos;Grounded&apos;.</body>
+		<body>[%SkillName] deixou você preso (grounded).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -654,97 +654,97 @@
 	<string>
 		<id>1200312</id>
 		<name>STR_SKILL_SUCC_Petrification_ME_TO_SELF</name>
-		<body>[%SkillName] inflicts you with &apos;Petrification&apos;.</body>
+		<body>[%SkillName] deixou você paralisado (paralyze).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200313</id>
 		<name>STR_SKILL_SUCC_Poison_ME_TO_SELF</name>
-		<body>[%SkillName] inflicts you with &apos;Poisoning&apos;.</body>
+		<body>[%SkillName] deixou você infectado (poison).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200314</id>
 		<name>STR_SKILL_SUCC_Slow_ME_TO_SELF</name>
-		<body>[%SkillName] reduced your attack speed.</body>
+		<body>[%SkillName] reduziu a sua velocidade de ataque.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200315</id>
 		<name>STR_SKILL_SUCC_Snare_ME_TO_SELF</name>
-		<body>[%SkillName] reduced your movement speed.</body>
+		<body>[%SkillName] reduziu a sua velocidade de movimento.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200316</id>
 		<name>STR_SKILL_SUCC_Bind_END_ME_TO_SELF</name>
-		<body>You are no longer suffering from &apos;Binding&apos;.</body>
+		<body>Você não está mais de mãos amarradas (bind).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200317</id>
 		<name>STR_SKILL_SUCC_Bleed_END_ME_TO_SELF</name>
-		<body>You are no longer suffering from &apos;Bleeding&apos;.</body>
+		<body>Você não está mais sangrando (bleeding).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200318</id>
 		<name>STR_SKILL_SUCC_Curse_END_ME_TO_SELF</name>
-		<body>You are no longer suffering from &apos;Curse&apos;.</body>
+		<body>Você não está mais alamdiçoado (cursed).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200319</id>
 		<name>STR_SKILL_SUCC_NoFly_END_ME_TO_SELF</name>
-		<body>You are no longer suffering from &apos;Grounded&apos;.</body>
+		<body>Você não está mais preso (grounded).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200320</id>
 		<name>STR_SKILL_SUCC_OpenAerial_END_ME_TO_SELF</name>
-		<body>You are released from the Aerial Snare.</body>
+		<body>Você não está mais preso no ar (aetherhold).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200321</id>
 		<name>STR_SKILL_SUCC_Petrification_END_ME_TO_SELF</name>
-		<body>You are no longer suffering from &apos;Petrification&apos;.</body>
+		<body>Você não está mais petrificado (petrified).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200322</id>
 		<name>STR_SKILL_SUCC_Poison_END_ME_TO_SELF</name>
-		<body>You are no longer suffering from &apos;Poisoning&apos;.</body>
+		<body>Você não está mais doente (poison).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200323</id>
 		<name>STR_SKILL_SUCC_Slow_END_ME_TO_SELF</name>
-		<body>Your attack speed is no longer decreased.</body>
+		<body>Sua velocidade de ataque voltou ao normal.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200324</id>
 		<name>STR_SKILL_SUCC_Snare_END_ME_TO_SELF</name>
-		<body>Your movement speed is no longer decreased.</body>
+		<body>Sua velocidade de movimento voltou ao normal.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200325</id>
 		<name>STR_SKILL_SUCC_AlwaysBlock_ME_TO_SELF</name>
-		<body>You receive the effect &apos;Increased Blocking&apos; from [%SkillName].</body>
+		<body>Seu 'Block' aumentou com o uso da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200326</id>
 		<name>STR_SKILL_SUCC_AlwaysDodge_ME_TO_SELF</name>
-		<body>You receive the effect &apos;Increased Evasion&apos; from [%SkillName].</body>
+		<body>Sua Evasão aumentou com o uso da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200327</id>
 		<name>STR_SKILL_SUCC_AlwaysHit_ME_TO_SELF</name>
-		<body>You receive the effect &apos;Increased Accuracy&apos; from [%SkillName].</body>
+		<body>Sua Precisão aumentou com o uso da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -756,43 +756,43 @@
 	<string>
 		<id>1200329</id>
 		<name>STR_SKILL_SUCC_AlwaysParry_ME_TO_SELF</name>
-		<body>You receive the effect &apos;Increased Parry&apos; from [%SkillName].</body>
+		<body>Seu 'Parry' aumentou com o uso da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200330</id>
 		<name>STR_SKILL_SUCC_AlwaysResist_ME_TO_SELF</name>
-		<body>You receive the effect &apos;Maximum Elemental Defence&apos; from [%SkillName].</body>
+		<body>Sua 'Elemental Defence' aumentou com o uso da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200331</id>
 		<name>STR_SKILL_SUCC_BoostHealEffect_ME_TO_SELF</name>
-		<body>You receive the effect &apos;Increased Healing Skill&apos; from [%SkillName].</body>
+		<body>Sua Cura aumentou com o uso da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200332</id>
 		<name>STR_SKILL_SUCC_BoostSkillCastingTime_ME_TO_SELF</name>
-		<body>[%SkillName] changed your casting speed.</body>
+		<body>[%SkillName] alterou a sua Velocidade de Conjuração.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200333</id>
 		<name>STR_SKILL_SUCC_BoostSkillCost_ME_TO_SELF</name>
-		<body>[%SkillName] changed your MP consumption.</body>
+		<body>[%SkillName] alterou o seu consumo de MP.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200334</id>
 		<name>STR_SKILL_SUCC_BoostSkillToggleCost_ME_TO_SELF</name>
-		<body>The MP consumption of your Mantra skill was reduced by [%SkillName].</body>
+		<body>O consumo de MP das suas habilidades de Mantra foi reduzido pela habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200335</id>
 		<name>STR_SKILL_SUCC_BoostSpellAttackEffect_ME_TO_SELF</name>
-		<body>[%SkillName] boosted your magic skills.</body>
+		<body>[%SkillName] melhorou as suas habilidades mágicas.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -804,19 +804,19 @@
 	<string>
 		<id>1200337</id>
 		<name>STR_SKILL_SUCC_BoostHate_ME_TO_SELF</name>
-		<body>You suffer %0 rage from [%SkillName].</body>
+		<body>Você recebeu %0 de provocação da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200338</id>
 		<name>STR_SKILL_SUCC_CarveSignet_ME_TO_SELF</name>
-		<body>[%SkillName] hit you with %num0 damage and the &apos;Rune Carve&apos; effect.</body>
+		<body>[%SkillName] infligiu %num0 de dano em você e cravou uma 'Rune'..</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200339</id>
 		<name>STR_SKILL_SUCC_CaseHeal_ME_TO_SELF</name>
-		<body>You receive the effect &apos;Limited Restoration&apos; from [%SkillName].</body>
+		<body>You receive the effect &apos;Limited Restoration&apos; from [%SkillName] (?).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -828,19 +828,19 @@
 	<string>
 		<id>1200341</id>
 		<name>STR_SKILL_SUCC_ChangeHateOnAttacked_ME_TO_SELF</name>
-		<body>You suffer %0 rage from [%SkillName].</body>
+		<body>Você recebeu %0 de provocação da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200342</id>
 		<name>STR_SKILL_SUCC_CloseAerial_ME_TO_SELF</name>
-		<body>You are released from the Aerial Snare by using [%SkillName].</body>
+		<body>Você não está mais preso no ar (aetherhold) porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200343</id>
 		<name>STR_SKILL_SUCC_ConvertHeal_ME_TO_SELF</name>
-		<body>Your transformation was cancelled by [%SkillName].</body>
+		<body>Sua transformação foi cancelada pela habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -852,655 +852,655 @@
 	<string>
 		<id>1200345</id>
 		<name>STR_SKILL_SUCC_DashATK_ME_TO_SELF</name>
-		<body>You suffer %num0 damage from [%SkillName].</body>
+		<body>Você recebeu %num0 de dano da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200346</id>
 		<name>STR_SKILL_SUCC_DeathBlow_ME_TO_SELF</name>
-		<body>You suffer %num0 damage from [%SkillName].</body>
+		<body>Você recebeu %num0 de dano da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200347</id>
 		<name>STR_SKILL_SUCC_DeboostHealAmount_ME_TO_SELF</name>
-		<body>Your recovery amount was changed by [%SkillName].</body>
+		<body>Sua Cura foi melhorada pela habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200348</id>
 		<name>STR_SKILL_SUCC_Deform_ME_TO_SELF</name>
-		<body>[%SkillName] transforms you into %0.</body>
+		<body>[%SkillName] te transforma em um %0.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200349</id>
 		<name>STR_SKILL_SUCC_DelayedFPATK_Instant_ME_TO_SELF</name>
-		<body>[%SkillName] will reduce your flight time.</body>
+		<body>[%SkillName] vai reduzir o seu Tempo de Voo.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200350</id>
 		<name>STR_SKILL_SUCC_DelayedFPATK_Instant_INTERVAL_ME_TO_SELF</name>
-		<body>Your flight time decreased by %num0 due to the effect of [%SkillName].</body>
+		<body>Seu Tempo de Voo foi reduzido por %num0 pelo efeito da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200351</id>
 		<name>STR_SKILL_SUCC_DelayedSpellATK_Instant_ME_TO_SELF</name>
-		<body>You will take damage from [%SkillName].</body>
+		<body>Você irá sofrer dano da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200352</id>
 		<name>STR_SKILL_SUCC_DelayedSpellATK_Instant_INTERVAL_ME_TO_SELF</name>
-		<body>Your flight time decreased by %num0 due to the effect of [%SkillName].</body>
+		<body>Seu Tempo de Voo foi reduzido por %num0 pelo efeito da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200353</id>
 		<name>STR_SKILL_SUCC_Dispel_ME_TO_SELF</name>
-		<body>[%SkillName] removed your spell.</body>
+		<body>[%SkillName] removeu o seu feitiço.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200354</id>
 		<name>STR_SKILL_SUCC_DispelBuff_ME_TO_SELF</name>
-		<body>[%SkillName] dispelled your magical buffs.</body>
+		<body>[%SkillName] removeu seus 'buffs' mágicos.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200355</id>
 		<name>STR_SKILL_SUCC_DispelBuffCounterATK_ME_TO_SELF</name>
-		<body>You suffered %num0 damage and [%SkillName] removed some of your magical buffs.</body>
+		<body>Você sofreu %num0 de dano e a habilidade [%SkillName] removeu alguns de seus 'buffs' mágicos.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200356</id>
 		<name>STR_SKILL_SUCC_DispelDeBuff_ME_TO_SELF</name>
-		<body>[%SkillName] dispelled your magical debuffs.</body>
+		<body>[%SkillName] removeu seus 'debuffs' mágicos.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200357</id>
 		<name>STR_SKILL_SUCC_DispelDeBuffMental_ME_TO_SELF</name>
-		<body>[%SkillName] removed your altered mental states.</body>
+		<body>[%SkillName] removeu seus estados mentais alterados.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200358</id>
 		<name>STR_SKILL_SUCC_DispelDeBuffPhysical_ME_TO_SELF</name>
-		<body>[%SkillName] removed your altered physical states.</body>
+		<body>[%SkillName] removeu seus estados físicos alterados.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200359</id>
 		<name>STR_SKILL_SUCC_DPTransfer_ME_TO_SELF</name>
-		<body>You receive %num0 DP from [%SkillName].</body>
+		<body>Você recebeu %num0 de DP da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200360</id>
 		<name>STR_SKILL_SUCC_ExtendAuraRange_ME_TO_SELF</name>
-		<body>[%SkillName] increased your Mantra range.</body>
+		<body>[%SkillName] aumentou o alcançe dos seus Mantras.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200361</id>
 		<name>STR_SKILL_SUCC_Fall_ME_TO_SELF</name>
-		<body>[%SkillName] inflicts you with &apos;Forced Crash&apos;.</body>
+		<body>[%SkillName] derrubou você (forced crash).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200362</id>
 		<name>STR_SKILL_SUCC_FPATK_ME_TO_SELF</name>
-		<body>[%SkillName] will reduce your flight time.</body>
+		<body>[%SkillName] vai reduzir o seu Tempo de Voo.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200363</id>
 		<name>STR_SKILL_SUCC_FPATK_INTERVAL_ME_TO_SELF</name>
-		<body>Your flight time decreased by %num0 due to the effect of [%SkillName].</body>
+		<body>Seu Tempo de Voo foi reduzido por %num0 pelo efeito da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200364</id>
 		<name>STR_SKILL_SUCC_FPATK_Instant_ME_TO_SELF</name>
-		<body>Your flight time decreased by %num0 due to the effect of [%SkillName].</body>
+		<body>Seu Tempo de Voo foi reduzido por %num0 pelo efeito da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200365</id>
 		<name>STR_SKILL_SUCC_FPHeal_ME_TO_SELF</name>
-		<body>You regenerate flight time using [%SkillName].</body>
+		<body>Você recuperou Tempo de Voo usando a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200366</id>
 		<name>STR_SKILL_SUCC_FPHeal_INTERVAL_ME_TO_SELF</name>
-		<body>Your flight time increased by %num0 due to the effect of [%SkillName].</body>
+		<body>Seu Tempo de Voo aumentou em %num0 devido ao efeito da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200367</id>
 		<name>STR_SKILL_SUCC_FPHeal_Instant_HEAL_ME_TO_SELF</name>
-		<body>Your flight time increased by %num0 due to the effect of [%SkillName].</body>
+		<body>Seu Tempo de Voo aumentou em %num0 devido ao efeito da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200368</id>
 		<name>STR_SKILL_SUCC_Heal_ME_TO_SELF</name>
-		<body>You continuously regenerate HP from [%SkillName].</body>
+		<body>Você está recuperando HP devido ao uso da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200369</id>
 		<name>STR_SKILL_SUCC_Heal_INTERVAL_ME_TO_SELF</name>
-		<body>You regenerate %num0 HP using [%SkillName].</body>
+		<body>Você recuperou %num0 HP usando [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200370</id>
 		<name>STR_SKILL_SUCC_Heal_Instant_HEAL_ME_TO_SELF</name>
-		<body>You regenerate %num0 HP using [%SkillName].</body>
+		<body>Você recuperou %num0 HP usando [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200371</id>
 		<name>STR_SKILL_SUCC_HealCastorOnAttacked_ME_TO_SELF</name>
-		<body>You receive the effect &apos;Reverse Damage&apos; from [%SkillName].</body>
+		<body>Você recebeu o efeito 'Reverse Damage' da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200372</id>
 		<name>STR_SKILL_SUCC_HealCastorOnAttacked_INTERVAL_ME_TO_SELF</name>
-		<body>You regenerate %num0 HP using [%SkillName].</body>
+		<body>Você recuperou %num0 HP usando [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200373</id>
 		<name>STR_SKILL_SUCC_HealCastorOnTargetDead_ME_TO_SELF</name>
-		<body>You avoided death thanks to the Reverse Damage applied by [%SkillName].</body>
+		<body>Você foi salvo devido ao efeito 'Reverse Damage' aplicado pela habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200374</id>
 		<name>STR_SKILL_SUCC_HealCastorOnTargetDead_INTERVAL_ME_TO_SELF</name>
-		<body>You regenerate %num0 HP using [%SkillName].</body>
+		<body>Você recuperou %num0 HP usando [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200375</id>
 		<name>STR_SKILL_SUCC_Hide_ME_TO_SELF</name>
-		<body>You receive the effect &apos;Hide&apos; from [%SkillName].</body>
+		<body>Você está invisível (hide) devido ao uso da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200376</id>
 		<name>STR_SKILL_SUCC_HostileUp_ME_TO_SELF</name>
-		<body>You suffer %0 rage from [%SkillName].</body>
+		<body>Você recebeu %0 de provocação da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200377</id>
 		<name>STR_SKILL_SUCC_MagicCounterATK_ME_TO_SELF</name>
-		<body>You receive the effect &apos;Magical Counter-Attack&apos; from [%SkillName].</body>
+		<body>Você recebeu o efeito 'Magical Counter-Attack' da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200378</id>
 		<name>STR_SKILL_SUCC_MagicCounterATK_INTERVAL_ME_TO_SELF</name>
-		<body>You suffer %num0 damage from [%SkillName].</body>
+		<body>Você recebeu %num0 de dano da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200379</id>
 		<name>STR_SKILL_SUCC_MoveBehindATK_ME_TO_SELF</name>
-		<body>You suffer %num0 damage from [%SkillName].</body>
+		<body>Você recebeu %num0 de dano da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200380</id>
 		<name>STR_SKILL_SUCC_MPAttack_Instant_ME_TO_SELF</name>
-		<body>You lose %num0 MP from [%SkillName].</body>
+		<body>Você perdeu %num0 MP devido ao uso da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200381</id>
 		<name>STR_SKILL_SUCC_MPHeal_ME_TO_SELF</name>
-		<body>You recovered MP by using [%SkillName].</body>
+		<body>Você restaurou MP porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200382</id>
 		<name>STR_SKILL_SUCC_MPHeal_INTERVAL_ME_TO_SELF</name>
-		<body>You use [%SkillName] to regenerate %num0 MP.</body>
+		<body>Você usou a habilidade [%SkillName] para restaurar %num0 MP.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200383</id>
 		<name>STR_SKILL_SUCC_MPHeal_Instant_HEAL_ME_TO_SELF</name>
-		<body>You use [%SkillName] to regenerate %num0 MP.</body>
+		<body>Você usou a habilidade [%SkillName] para restaurar %num0 MP.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200384</id>
 		<name>STR_SKILL_SUCC_OneTimeBoostHealEffect_ME_TO_SELF</name>
-		<body>You receive the effect &apos;Increased Healing Skill&apos; from [%SkillName].</body>
+		<body>Sua Cura aumentou com o uso da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200385</id>
 		<name>STR_SKILL_SUCC_OneTimeBoostSkillAttack_ME_TO_SELF</name>
-		<body>[%SkillName] boosted your skills.</body>
+		<body>[%SkillName] melhorou as suas habilidades.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200386</id>
 		<name>STR_SKILL_SUCC_OneTimeBoostSkillCritical_ME_TO_SELF</name>
-		<body>[%SkillName] increased your crit strike.</body>
+		<body>[%SkillName] aumentou o seu Crítico Físico.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200387</id>
 		<name>STR_SKILL_SUCC_OneTimeTypeBoostSkillLevel_ME_TO_SELF</name>
-		<body>[%SkillName] boosted your skills.</body>
+		<body>[%SkillName] melhorou as suas habilidades.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200388</id>
 		<name>STR_SKILL_SUCC_PetOrderUseUltraSkill_ME_TO_SELF</name>
-		<body>[%SkillName] makes your spirit use its skill on you.</body>
+		<body>[%SkillName] faz o seu espírito usar as habilidades em você.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200389</id>
 		<name>STR_SKILL_SUCC_Polymorph_ME_TO_SELF</name>
-		<body>[%SkillName] transforms you into %0.</body>
+		<body>[%SkillName] te transforma em um %0.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200390</id>
 		<name>STR_SKILL_SUCC_ProcATK_Instant_ME_TO_SELF</name>
-		<body>You suffer %num0 damage from [%SkillName].</body>
+		<body>Você recebeu %num0 de dano da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200391</id>
 		<name>STR_SKILL_SUCC_ProcATK_Instant_Ratio_ME_TO_SELF</name>
-		<body>You suffer %num0 damage from [%SkillName].</body>
+		<body>Você recebeu %num0 de dano da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200392</id>
 		<name>STR_SKILL_SUCC_PROCFPHeal_Instant_HEAL_ME_TO_SELF</name>
-		<body>Your flight time increased by %num0 due to the effect of [%SkillName].</body>
+		<body>Seu Tempo de Voo aumentou em %num0 devido ao efeito da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200393</id>
 		<name>STR_SKILL_SUCC_PROCHeal_Instant_HEAL_ME_TO_SELF</name>
-		<body>You regenerate %num0 HP using [%SkillName].</body>
+		<body>Você recuperou %num0 HP usando [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200394</id>
 		<name>STR_SKILL_SUCC_PROCMPHeal_Instant_HEAL_ME_TO_SELF</name>
-		<body>You use [%SkillName] to regenerate %num0 MP.</body>
+		<body>Você usou a habilidade [%SkillName] para restaurar %num0 MP.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200395</id>
 		<name>STR_SKILL_SUCC_Protect_ME_TO_SELF</name>
-		<body>You receive a protection effect from [%SkillName].</body>
+		<body>Você recebeu um efeito de proteção da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200396</id>
 		<name>STR_SKILL_SUCC_Protect_INTERVAL_ME_TO_SELF</name>
-		<body>You block %num0 damage by using [%SkillName].</body>
+		<body>Você bloqueou %num0 de dano porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200397</id>
 		<name>STR_SKILL_SUCC_Provoker_ME_TO_SELF</name>
-		<body>[%SkillName] affects you.</body>
+		<body>[%SkillName] afetou você.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200398</id>
 		<name>STR_SKILL_SUCC_Pulled_ME_TO_SELF</name>
-		<body>You suffer %num0 damage and the &apos;Dragging&apos; effect caused by [%SkillName].</body>
+		<body>Você recebeu %num0 de dano e o efeito 'dragging' causado pela habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200399</id>
 		<name>STR_SKILL_SUCC_RandomMoveLoc_ME_TO_SELF</name>
-		<body>You teleport with [%SkillName].</body>
+		<body>Você teleportou usando a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200400</id>
 		<name>STR_SKILL_SUCC_Rebirth_ME_TO_SELF</name>
-		<body>You received the &apos;Reserved Resurrection&apos; effect from [%SkillName].</body>
+		<body>Você recebeu o efeito 'Reserved Resurrection' da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200401</id>
 		<name>STR_SKILL_SUCC_Reflector_ME_TO_SELF</name>
-		<body>You receive the effect &apos;Reflect&apos; from [%SkillName].</body>
+		<body>Você recebeu o efeito 'Reflect' da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200402</id>
 		<name>STR_SKILL_SUCC_Reflector_INTERVAL_ME_TO_SELF</name>
-		<body>You reflected %num0 damage from [%SkillName].</body>
+		<body>Você refletiu %num0 de dano da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200403</id>
 		<name>STR_SKILL_SUCC_Resurrect_ME_TO_SELF</name>
-		<body>[%SkillCaster] revived you using [%SkillName].</body>
+		<body>[%SkillCaster] reviveu você usando [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200404</id>
 		<name>STR_SKILL_SUCC_ResurrectPositional_ME_TO_SELF</name>
-		<body>You receive the &apos;Summon Resurrection&apos; effect from [%SkillName].</body>
+		<body>Você recebeu o efeito 'Summon Ressurrection' da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200405</id>
 		<name>STR_SKILL_SUCC_Search_ME_TO_SELF</name>
-		<body>You receive the &apos;Penetrate&apos; effect from [%SkillName].</body>
+		<body>Você recebeu o efeito 'Penetrate' da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200406</id>
 		<name>STR_SKILL_SUCC_ShapeChange_ME_TO_SELF</name>
-		<body>[%SkillName] transforms you into %0.</body>
+		<body>[%SkillName] te transforma em um %0.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200407</id>
 		<name>STR_SKILL_SUCC_Shield_ME_TO_SELF</name>
-		<body>You receive a protective shield from [%SkillName].</body>
+		<body>Você recebeu um Escudo de Proteção da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200408</id>
 		<name>STR_SKILL_SUCC_Shield_INTERVAL_ME_TO_SELF</name>
-		<body>You block %num0 damage by using [%SkillName].</body>
+		<body>Você bloqueou %num0 de dano porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200409</id>
 		<name>STR_SKILL_SUCC_SignetBurst_ME_TO_SELF</name>
-		<body>You suffer %num0 damage from [%SkillName].</body>
+		<body>Você recebeu %num0 de dano da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200410</id>
 		<name>STR_SKILL_SUCC_SkillATK_Instant_ME_TO_SELF</name>
-		<body>You suffer %num0 damage from [%SkillName].</body>
+		<body>Você recebeu %num0 de dano da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200411</id>
 		<name>STR_SKILL_SUCC_SkillATKDrain_Instant_ME_TO_SELF</name>
-		<body>You absorbed %num0 HP using [%SkillName].</body>
+		<body>Você absorveu %num0 HP usando a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200412</id>
 		<name>STR_SKILL_SUCC_SpellATK_ME_TO_SELF</name>
-		<body>You receive continuous damage from [%SkillName].</body>
+		<body>Você está recebendo dano contínuo da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200413</id>
 		<name>STR_SKILL_SUCC_SpellATK_Instant_ME_TO_SELF</name>
-		<body>You suffer %num0 damage from [%SkillName].</body>
+		<body>Você recebeu %num0 de dano da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200414</id>
 		<name>STR_SKILL_SUCC_SpellATKDrain_ME_TO_SELF</name>
-		<body>You absorbed %num0 HP using [%SkillName].</body>
+		<body>Você absorveu %num0 HP usando a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200415</id>
 		<name>STR_SKILL_SUCC_SpellATKDrain_Instant_ME_TO_SELF</name>
-		<body>You absorbed %num0 HP using [%SkillName].</body>
+		<body>Você absorveu %num0 HP usando a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200416</id>
 		<name>STR_SKILL_SUCC_Sprint_ME_TO_SELF</name>
-		<body>You receive the effect &apos;Increase Movement Speed&apos; from [%SkillName].</body>
+		<body>Sua Velocidade de Movimento foi aumentada devido ao uso da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200417</id>
 		<name>STR_SKILL_SUCC_StatDown_ME_TO_SELF</name>
-		<body>Your %0 is weakened by [%SkillName].</body>
+		<body>Sua %0 foi enfraquecida pela habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200418</id>
 		<name>STR_SKILL_SUCC_StatUp_ME_TO_SELF</name>
-		<body>Your %0 is boosted by [%SkillName].</body>
+		<body>Sua %0 foi melhorada pela habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200419</id>
 		<name>STR_SKILL_SUCC_SubTypeBoostResist_ME_TO_SELF</name>
-		<body>[%SkillName] reduced your %0 resistance.</body>
+		<body>[%SkillName] reduziu a sua Resistência à %0.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200420</id>
 		<name>STR_SKILL_SUCC_SubTypeExtendDuration_ME_TO_SELF</name>
-		<body>[%SkillName] changed your %0 skill duration.</body>
+		<body>[%SkillName] alterou a duração da sua habilidade %0.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200421</id>
 		<name>STR_SKILL_SUCC_Summon_ME_TO_SELF</name>
-		<body>You summon %0 using [%SkillName].</body>
+		<body>Você convocou %0 usando a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200422</id>
 		<name>STR_SKILL_SUCC_SummonBindingGroupGate_ME_TO_SELF</name>
-		<body>You summon %0 using [%SkillName].</body>
+		<body>Você convocou %0 usando a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200423</id>
 		<name>STR_SKILL_SUCC_SummonGroupGate_ME_TO_SELF</name>
-		<body>You summon %0 using [%SkillName].</body>
+		<body>Você convocou %0 usando a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200424</id>
 		<name>STR_SKILL_SUCC_SummonHoming_ME_TO_SELF</name>
-		<body>You summon %0 using [%SkillName].</body>
+		<body>Você convocou %0 usando a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200425</id>
 		<name>STR_SKILL_SUCC_SummonServant_ME_TO_SELF</name>
-		<body>You summon %0 using [%SkillName].</body>
+		<body>Você convocou %0 usando a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200426</id>
 		<name>STR_SKILL_SUCC_SummonTotem_ME_TO_SELF</name>
-		<body>You summon %0 using [%SkillName].</body>
+		<body>Você convocou %0 usando a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200427</id>
 		<name>STR_SKILL_SUCC_SummonTrap_ME_TO_SELF</name>
-		<body>You summon %0 using [%SkillName].</body>
+		<body>Você convocou %0 usando a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200428</id>
 		<name>STR_SKILL_SUCC_SwitchHPMP_Instant_ME_TO_SELF</name>
-		<body>[%SkillName] swapped your HP and MP.</body>
+		<body>[%SkillName] trocou sua HP pela sua MP.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200429</id>
 		<name>STR_SKILL_SUCC_WeaponStatUp_ME_TO_SELF</name>
-		<body>[%SkillName] changed your %0.</body>
+		<body>[%SkillName] alterou a sua %0.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200430</id>
 		<name>STR_SKILL_SUCC_Blind_ME_TO_B</name>
-		<body>[%SkillName] inflicts [%SkillTarget] with &apos;Blindness&apos;.</body>
+		<body>[%SkillName] inflicts [%SkillTarget] with &apos;cego (blind).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200431</id>
 		<name>STR_SKILL_SUCC_Confuse_ME_TO_B</name>
-		<body>[%SkillTarget] is inflicted with &apos;Confusion&apos; by [%SkillName].</body>
+		<body>[%SkillTarget] is inflicted with &apos;confuso (confused) by [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200432</id>
 		<name>STR_SKILL_SUCC_Disease_ME_TO_B</name>
-		<body>[%SkillTarget] is inflicted with &apos;Disease&apos; by [%SkillName].</body>
+		<body>[%SkillTarget] is inflicted with &apos;doente (sick) by [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200433</id>
 		<name>STR_SKILL_SUCC_Fear_ME_TO_B</name>
-		<body>[%SkillTarget] is inflicted with &apos;Fear&apos; by [%SkillName].</body>
+		<body>[%SkillTarget] is inflicted with &apos;com medo (fear) by [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200434</id>
 		<name>STR_SKILL_SUCC_Paralyze_ME_TO_B</name>
-		<body>[%SkillTarget] is inflicted with &apos;Paralysis&apos; by [%SkillName].</body>
+		<body>[%SkillTarget] is inflicted with &apos;paralisado (paralyze) by [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200435</id>
 		<name>STR_SKILL_SUCC_Root_ME_TO_B</name>
-		<body>[%SkillTarget] is inflicted with &apos;Immobilisation&apos; by [%SkillName].</body>
+		<body>[%SkillTarget] is inflicted with &apos;imobilizado (immobilize) by [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200436</id>
 		<name>STR_SKILL_SUCC_Silence_ME_TO_B</name>
-		<body>[%SkillTarget] is inflicted with &apos;Silence&apos; by [%SkillName].</body>
+		<body>[%SkillTarget] is inflicted with &apos;silenciado (silence) by [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200437</id>
 		<name>STR_SKILL_SUCC_Sleep_ME_TO_B</name>
-		<body>[%SkillTarget] is inflicted with &apos;Sleep&apos; by [%SkillName].</body>
+		<body>[%SkillTarget] is inflicted with &apos;cochilando (sleep) by [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200438</id>
 		<name>STR_SKILL_SUCC_Spin_ME_TO_B</name>
-		<body>[%SkillTarget] is inflicted with &apos;Spin&apos; by [%SkillName].</body>
+		<body>[%SkillTarget] is inflicted with &apos;em choque (spin) by [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200439</id>
 		<name>STR_SKILL_SUCC_Stagger_ME_TO_B</name>
-		<body>[%SkillTarget] is inflicted with &apos;Stagger&apos; by [%SkillName].</body>
+		<body>[%SkillTarget] is inflicted with &apos;em choque (stagger) by [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200440</id>
 		<name>STR_SKILL_SUCC_Stumble_ME_TO_B</name>
-		<body>[%SkillTarget] is inflicted with &apos;Knockdown&apos; by [%SkillName].</body>
+		<body>[%SkillTarget] is inflicted with &apos;em choque (knockdown) by [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200441</id>
 		<name>STR_SKILL_SUCC_Stun_ME_TO_B</name>
-		<body>[%SkillTarget] is inflicted with &apos;Stun&apos; by [%SkillName].</body>
+		<body>[%SkillTarget] is inflicted with &apos;em choque (stun) by [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200442</id>
 		<name>STR_SKILL_SUCC_Blind_END_ME_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Blindness&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;cego (blind).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200443</id>
 		<name>STR_SKILL_SUCC_Confuse_END_ME_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Confusion&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;confuso (confused).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200444</id>
 		<name>STR_SKILL_SUCC_Disease_END_ME_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Disease&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;doente (sick).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200445</id>
 		<name>STR_SKILL_SUCC_Fear_END_ME_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Fear&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;com medo (fear).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200446</id>
 		<name>STR_SKILL_SUCC_Paralyze_END_ME_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Paralysis&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;paralisado (paralyze).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200447</id>
 		<name>STR_SKILL_SUCC_Root_END_ME_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Immobilisation&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;imobilizado (immobilize).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200448</id>
 		<name>STR_SKILL_SUCC_Silence_END_ME_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Silence&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;silenciado (silence).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200449</id>
 		<name>STR_SKILL_SUCC_Sleep_END_ME_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Sleep&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;cochilando (sleep).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200450</id>
 		<name>STR_SKILL_SUCC_Spin_END_ME_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Spin&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;em choque (spin).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200451</id>
 		<name>STR_SKILL_SUCC_Stagger_END_ME_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Stagger&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;em choque (stagger).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200452</id>
 		<name>STR_SKILL_SUCC_Stumble_END_ME_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Knockdown&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;em choque (knockdown).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200453</id>
 		<name>STR_SKILL_SUCC_Stun_END_ME_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Stun&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;em choque (stun).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -1542,25 +1542,25 @@
 	<string>
 		<id>1200460</id>
 		<name>STR_SKILL_SUCC_Bind_ME_TO_B</name>
-		<body>[%SkillName] inflicts [%SkillTarget] with &apos;Binding&apos;.</body>
+		<body>[%SkillName] inflicts [%SkillTarget] with &apos;de mãos amarradas (bind).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200461</id>
 		<name>STR_SKILL_SUCC_Bleed_ME_TO_B</name>
-		<body>[%SkillName] inflicts [%SkillTarget] with &apos;Bleeding&apos;.</body>
+		<body>[%SkillName] inflicts [%SkillTarget] with &apos;sangrando (bleeding).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200462</id>
 		<name>STR_SKILL_SUCC_Curse_ME_TO_B</name>
-		<body>[%SkillTarget] is inflicted with &apos;Curse&apos; by [%SkillName].</body>
+		<body>[%SkillTarget] is inflicted with &apos;alamdiçoado (cursed) by [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200463</id>
 		<name>STR_SKILL_SUCC_NoFly_ME_TO_B</name>
-		<body>[%SkillTarget] is inflicted with &apos;Grounded&apos; by [%SkillName].</body>
+		<body>[%SkillTarget] is inflicted with &apos;preso (grounded) by [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -1572,13 +1572,13 @@
 	<string>
 		<id>1200465</id>
 		<name>STR_SKILL_SUCC_Petrification_ME_TO_B</name>
-		<body>[%SkillTarget] is inflicted with &apos;Petrification&apos; by [%SkillName].</body>
+		<body>[%SkillTarget] is inflicted with &apos;petrificado (petrified) by [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200466</id>
 		<name>STR_SKILL_SUCC_Poison_ME_TO_B</name>
-		<body>[%SkillTarget] is inflicted with &apos;Petrification&apos; by [%SkillName].</body>
+		<body>[%SkillTarget] is inflicted with &apos;petrificado (petrified) by [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -1596,25 +1596,25 @@
 	<string>
 		<id>1200469</id>
 		<name>STR_SKILL_SUCC_Bind_END_ME_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Binding&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;de mãos amarradas (bind).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200470</id>
 		<name>STR_SKILL_SUCC_Bleed_END_ME_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Bleeding&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;sangrando (bleeding).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200471</id>
 		<name>STR_SKILL_SUCC_Curse_END_ME_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Curse&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;alamdiçoado (cursed).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200472</id>
 		<name>STR_SKILL_SUCC_NoFly_END_ME_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Grounded&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;preso (grounded).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -1626,13 +1626,13 @@
 	<string>
 		<id>1200474</id>
 		<name>STR_SKILL_SUCC_Petrification_END_ME_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Petrification&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;petrificado (petrified).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200475</id>
 		<name>STR_SKILL_SUCC_Poison_END_ME_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Poisoning&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;doente (poison).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -1752,7 +1752,7 @@
 	<string>
 		<id>1200495</id>
 		<name>STR_SKILL_SUCC_CloseAerial_ME_TO_B</name>
-		<body>You released [%SkillTarget] from the Aerial Snare by using [%SkillName].</body>
+		<body>You released [%SkillTarget] from the Aerial Snare porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -1788,7 +1788,7 @@
 	<string>
 		<id>1200501</id>
 		<name>STR_SKILL_SUCC_Deform_ME_TO_B</name>
-		<body>[%SkillTarget] transformed into %0 by using [%SkillName].</body>
+		<body>[%SkillTarget] transformed into %0 porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -1986,7 +1986,7 @@
 	<string>
 		<id>1200534</id>
 		<name>STR_SKILL_SUCC_MPHeal_ME_TO_B</name>
-		<body>[%SkillCaster] has boosted [%SkillTarget]&apos;s MP by using [%SkillName].</body>
+		<body>[%SkillCaster] has boosted [%SkillTarget]&apos;s MP porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2034,7 +2034,7 @@
 	<string>
 		<id>1200542</id>
 		<name>STR_SKILL_SUCC_Polymorph_ME_TO_B</name>
-		<body>[%SkillTarget] transformed into %0 by using [%SkillName].</body>
+		<body>[%SkillTarget] transformed into %0 porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2076,7 +2076,7 @@
 	<string>
 		<id>1200549</id>
 		<name>STR_SKILL_SUCC_Protect_INTERVAL_ME_TO_B</name>
-		<body>[%SkillTarget] blocked %num0 damage by using [%SkillName].</body>
+		<body>[%SkillTarget] blocked %num0 damage porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2136,7 +2136,7 @@
 	<string>
 		<id>1200559</id>
 		<name>STR_SKILL_SUCC_ShapeChange_ME_TO_B</name>
-		<body>[%SkillTarget] transformed into %0 by using [%SkillName].</body>
+		<body>[%SkillTarget] transformed into %0 porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2148,7 +2148,7 @@
 	<string>
 		<id>1200561</id>
 		<name>STR_SKILL_SUCC_Shield_INTERVAL_ME_TO_B</name>
-		<body>[%SkillTarget] blocked %num0 damage by using [%SkillName].</body>
+		<body>[%SkillTarget] blocked %num0 damage porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2280,151 +2280,151 @@
 	<string>
 		<id>1200583</id>
 		<name>STR_SKILL_SUCC_Blind_A_TO_ME</name>
-		<body>[%SkillCaster] inflicts you with &apos;Blindness&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] inflicts you with &apos;cego (blind). using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200584</id>
 		<name>STR_SKILL_SUCC_Confuse_A_TO_ME</name>
-		<body>[%SkillCaster] inflicts you with &apos;Confusion&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] inflicts you with &apos;confuso (confused) using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200585</id>
 		<name>STR_SKILL_SUCC_Disease_A_TO_ME</name>
-		<body>[%SkillCaster] inflicts you with &apos;Disease&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] inflicts you with &apos;doente (sick) using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200586</id>
 		<name>STR_SKILL_SUCC_Fear_A_TO_ME</name>
-		<body>[%SkillCaster] inflicts you with &apos;Fear&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] inflicts you with &apos;com medo (fear) using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200587</id>
 		<name>STR_SKILL_SUCC_Paralyze_A_TO_ME</name>
-		<body>[%SkillCaster] inflicts you with &apos;Paralysis&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] inflicts you with &apos;paralisado (paralyze) using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200588</id>
 		<name>STR_SKILL_SUCC_Root_A_TO_ME</name>
-		<body>[%SkillCaster] inflicts you with &apos;Immobilisation&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] inflicts you with &apos;imobilizado (immobilize) using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200589</id>
 		<name>STR_SKILL_SUCC_Silence_A_TO_ME</name>
-		<body>[%SkillCaster] inflicts you with &apos;Silence&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] inflicts you with &apos;silenciado (silence) using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200590</id>
 		<name>STR_SKILL_SUCC_Sleep_A_TO_ME</name>
-		<body>[%SkillCaster] inflicts you with &apos;Sleep&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] inflicts you with &apos;cochilando (sleep) using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200591</id>
 		<name>STR_SKILL_SUCC_Spin_A_TO_ME</name>
-		<body>[%SkillCaster] inflicts you with &apos;Spin&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] inflicts you with &apos;em choque (spin) using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200592</id>
 		<name>STR_SKILL_SUCC_Stagger_A_TO_ME</name>
-		<body>[%SkillCaster] inflicts you with &apos;Stagger&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] inflicts you with &apos;em choque (stagger) using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200593</id>
 		<name>STR_SKILL_SUCC_Stumble_A_TO_ME</name>
-		<body>[%SkillCaster] inflicts you with &apos;Knockdown&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] inflicts you with &apos;em choque (knockdown) using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200594</id>
 		<name>STR_SKILL_SUCC_Stun_A_TO_ME</name>
-		<body>[%SkillCaster] inflicts you with &apos;Stun&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] inflicts you with &apos;em choque (stun) using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200595</id>
 		<name>STR_SKILL_SUCC_Blind_END_A_TO_ME</name>
-		<body>You are no longer suffering from &apos;Blindness&apos;.</body>
+		<body>Você não está mais cego (blind).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200596</id>
 		<name>STR_SKILL_SUCC_Confuse_END_A_TO_ME</name>
-		<body>You are no longer suffering from &apos;Confusion&apos;.</body>
+		<body>Você não está mais confuso (confused).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200597</id>
 		<name>STR_SKILL_SUCC_Disease_END_A_TO_ME</name>
-		<body>You are no longer suffering from &apos;Disease&apos;.</body>
+		<body>Você não está mais doente (sick).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200598</id>
 		<name>STR_SKILL_SUCC_Fear_END_A_TO_ME</name>
-		<body>You are no longer suffering from &apos;Fear&apos;.</body>
+		<body>Você não está mais com medo (fear).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200599</id>
 		<name>STR_SKILL_SUCC_Paralyze_END_A_TO_ME</name>
-		<body>You are no longer suffering from &apos;Paralysis&apos;.</body>
+		<body>Você não está mais paralisado (paralyze).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200600</id>
 		<name>STR_SKILL_SUCC_Root_END_A_TO_ME</name>
-		<body>You are no longer suffering from &apos;Immobilisation&apos;.</body>
+		<body>Você não está mais imobilizado (immobilize).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200601</id>
 		<name>STR_SKILL_SUCC_Silence_END_A_TO_ME</name>
-		<body>You are no longer suffering from &apos;Silence&apos;.</body>
+		<body>Você não está mais silenciado (silence).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200602</id>
 		<name>STR_SKILL_SUCC_Sleep_END_A_TO_ME</name>
-		<body>You are no longer suffering from &apos;Sleep&apos;.</body>
+		<body>Você não está mais cochilando (sleep).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200603</id>
 		<name>STR_SKILL_SUCC_Spin_END_A_TO_ME</name>
-		<body>You are no longer suffering from &apos;Spin&apos;.</body>
+		<body>Você não está mais em choque (spin).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200604</id>
 		<name>STR_SKILL_SUCC_Stagger_END_A_TO_ME</name>
-		<body>You are no longer suffering from &apos;Stagger&apos;.</body>
+		<body>Você não está mais em choque (stagger).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200605</id>
 		<name>STR_SKILL_SUCC_Stumble_END_A_TO_ME</name>
-		<body>You are no longer suffering from &apos;Knockdown&apos;.</body>
+		<body>Você não está mais em choque (knockdown).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200606</id>
 		<name>STR_SKILL_SUCC_Stun_END_A_TO_ME</name>
-		<body>You are no longer suffering from &apos;Stun&apos;.</body>
+		<body>Você não está mais em choque (stun).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200607</id>
 		<name>STR_SKILL_SUCC_BoostDropRate_A_TO_ME</name>
-		<body>[%SkillCaster] increased your chance of loot with [%SkillName].</body>
+		<body>[%SkillCaster] aumentou a sua chance de drop de itens with [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2436,7 +2436,7 @@
 	<string>
 		<id>1200609</id>
 		<name>STR_SKILL_SUCC_SwitchHostile_A_TO_ME</name>
-		<body>Your rage was swapped with the spirit&apos;s by [%SkillCaster] using [%SkillName].</body>
+		<body>A sua provocação foi trocada com a do seu espírito com o uso da habilidade [%SkillCaster] using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2460,127 +2460,127 @@
 	<string>
 		<id>1200613</id>
 		<name>STR_SKILL_SUCC_Bind_A_TO_ME</name>
-		<body>[%SkillCaster] inflicts you with &apos;Binding&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] deixou você de mãos amarradas (bind) using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200614</id>
 		<name>STR_SKILL_SUCC_Bleed_A_TO_ME</name>
-		<body>[%SkillCaster] inflicts you with &apos;Bleeding&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] deixou você sangrando (bleed) using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200615</id>
 		<name>STR_SKILL_SUCC_Curse_A_TO_ME</name>
-		<body>[%SkillCaster] inflicts you with &apos;Curse&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] deixou você amaldiçoado (cursed) using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200616</id>
 		<name>STR_SKILL_SUCC_NoFly_A_TO_ME</name>
-		<body>[%SkillCaster] inflicts you with &apos;Grounded&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] deixou você preso (grounded) using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200617</id>
 		<name>STR_SKILL_SUCC_OpenAerial_A_TO_ME</name>
-		<body>[%SkillCaster] has snared you in mid-air by using [%SkillName].</body>
+		<body>[%SkillCaster] has snared you in mid-air porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200618</id>
 		<name>STR_SKILL_SUCC_Petrification_A_TO_ME</name>
-		<body>[%SkillCaster] inflicts you with &apos;Petrification&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] deixou você paralisado (paralyze) using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200619</id>
 		<name>STR_SKILL_SUCC_Poison_A_TO_ME</name>
-		<body>[%SkillCaster] inflicts you with &apos;Petrification&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] deixou você paralisado (paralyze) using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200620</id>
 		<name>STR_SKILL_SUCC_Slow_A_TO_ME</name>
-		<body>[%SkillCaster] reduced your attack speed with [%SkillName].</body>
+		<body>[%SkillCaster] reduziu a sua velocidade de ataque with [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200621</id>
 		<name>STR_SKILL_SUCC_Snare_A_TO_ME</name>
-		<body>[%SkillCaster] reduced your movement speed with [%SkillName].</body>
+		<body>[%SkillCaster] reduziu a sua velocidade de movimento with [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200622</id>
 		<name>STR_SKILL_SUCC_Bind_END_A_TO_ME</name>
-		<body>You are no longer suffering from &apos;Binding&apos;.</body>
+		<body>Você não está mais de mãos amarradas (bind).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200623</id>
 		<name>STR_SKILL_SUCC_Bleed_END_A_TO_ME</name>
-		<body>You are no longer suffering from &apos;Bleeding&apos;.</body>
+		<body>Você não está mais sangrando (bleeding).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200624</id>
 		<name>STR_SKILL_SUCC_Curse_END_A_TO_ME</name>
-		<body>You are no longer suffering from &apos;Curse&apos;.</body>
+		<body>Você não está mais alamdiçoado (cursed).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200625</id>
 		<name>STR_SKILL_SUCC_NoFly_END_A_TO_ME</name>
-		<body>You are no longer suffering from &apos;Grounded&apos;.</body>
+		<body>Você não está mais preso (grounded).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200626</id>
 		<name>STR_SKILL_SUCC_OpenAerial_END_A_TO_ME</name>
-		<body>You are released from the Aerial Snare.</body>
+		<body>Você não está mais preso no ar (aetherhold).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200627</id>
 		<name>STR_SKILL_SUCC_Petrification_END_A_TO_ME</name>
-		<body>You are no longer suffering from &apos;Petrification&apos;.</body>
+		<body>Você não está mais petrificado (petrified).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200628</id>
 		<name>STR_SKILL_SUCC_Poison_END_A_TO_ME</name>
-		<body>You are no longer suffering from &apos;Poisoning&apos;.</body>
+		<body>Você não está mais doente (poison).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200629</id>
 		<name>STR_SKILL_SUCC_Slow_END_A_TO_ME</name>
-		<body>Your attack speed is no longer decreased.</body>
+		<body>Sua velocidade de ataque voltou ao normal.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200630</id>
 		<name>STR_SKILL_SUCC_Snare_END_A_TO_ME</name>
-		<body>Your movement speed is no longer decreased.</body>
+		<body>Sua velocidade de movimento voltou ao normal.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200631</id>
 		<name>STR_SKILL_SUCC_AlwaysBlock_A_TO_ME</name>
-		<body>You receive the effect &apos;Increased Blocking&apos; from [%SkillCaster]&apos;s [%SkillName].</body>
+		<body>Seu 'Block' aumentou com o uso da habilidade [%SkillCaster]&apos;s [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200632</id>
 		<name>STR_SKILL_SUCC_AlwaysDodge_A_TO_ME</name>
-		<body>You receive the effect &apos;Increased Evasion&apos; from [%SkillCaster]&apos;s [%SkillName].</body>
+		<body>Sua Evasão aumentou com o uso da habilidade [%SkillCaster]&apos;s [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200633</id>
 		<name>STR_SKILL_SUCC_AlwaysHit_A_TO_ME</name>
-		<body>You receive the effect &apos;Increased Accuracy&apos; from [%SkillCaster]&apos;s [%SkillName].</body>
+		<body>Sua Precisão aumentou com o uso da habilidade [%SkillCaster]&apos;s [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2592,31 +2592,31 @@
 	<string>
 		<id>1200635</id>
 		<name>STR_SKILL_SUCC_AlwaysParry_A_TO_ME</name>
-		<body>You receive the effect &apos;Increased Parry&apos; from [%SkillCaster]&apos;s [%SkillName].</body>
+		<body>Seu 'Parry' aumentou com o uso da habilidade [%SkillCaster]&apos;s [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200636</id>
 		<name>STR_SKILL_SUCC_AlwaysResist_A_TO_ME</name>
-		<body>You receive the effect &apos;Maximum Elemental Defence&apos; from [%SkillName] used by [%SkillCaster].</body>
+		<body>Sua 'Elemental Defence' aumentou com o uso da habilidade [%SkillName] used by [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200637</id>
 		<name>STR_SKILL_SUCC_BoostHealEffect_A_TO_ME</name>
-		<body>You receive the effect &apos;Increased Healing Skill&apos; from [%SkillName] used by [%SkillCaster].</body>
+		<body>Sua Cura aumentou com o uso da habilidade [%SkillName] used by [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200638</id>
 		<name>STR_SKILL_SUCC_BoostSkillCastingTime_A_TO_ME</name>
-		<body>[%SkillCaster] changed your casting speed with [%SkillName].</body>
+		<body>[%SkillCaster] alterou a sua Velocidade de Conjuração with [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200639</id>
 		<name>STR_SKILL_SUCC_BoostSkillCost_A_TO_ME</name>
-		<body>[%SkillCaster] changed your MP consumption with [%SkillName].</body>
+		<body>[%SkillCaster] alterou o seu consumo de MP with [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2628,19 +2628,19 @@
 	<string>
 		<id>1200641</id>
 		<name>STR_SKILL_SUCC_BoostSpellAttackEffect_A_TO_ME</name>
-		<body>[%SkillCaster] boosted your magic skills using [%SkillName].</body>
+		<body>[%SkillCaster] melhorou as suas habilidades mágicas using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200642</id>
 		<name>STR_SKILL_SUCC_BackDashATK_A_TO_ME</name>
-		<body>You suffer %num0 damage from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você recebeu %num0 de dano da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200643</id>
 		<name>STR_SKILL_SUCC_BoostHate_A_TO_ME</name>
-		<body>You suffer %0 rage from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você recebeu %0 de provocação da habilidade [%SkillName] used by [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2664,13 +2664,13 @@
 	<string>
 		<id>1200647</id>
 		<name>STR_SKILL_SUCC_ChangeHateOnAttacked_A_TO_ME</name>
-		<body>You suffer %0 rage from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você recebeu %0 de provocação da habilidade [%SkillName] used by [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200648</id>
 		<name>STR_SKILL_SUCC_CloseAerial_A_TO_ME</name>
-		<body>[%SkillCaster] released you from the aerial snare by using [%SkillName].</body>
+		<body>[%SkillCaster] released you from the aerial snare porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2688,13 +2688,13 @@
 	<string>
 		<id>1200651</id>
 		<name>STR_SKILL_SUCC_DashATK_A_TO_ME</name>
-		<body>You suffer %num0 damage from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você recebeu %num0 de dano da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200652</id>
 		<name>STR_SKILL_SUCC_DeathBlow_A_TO_ME</name>
-		<body>You suffer %num0 damage from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você recebeu %num0 de dano da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2712,7 +2712,7 @@
 	<string>
 		<id>1200655</id>
 		<name>STR_SKILL_SUCC_DelayedFPATK_Instant_A_TO_ME</name>
-		<body>[%SkillCaster] will reduce your flight time using [%SkillName].</body>
+		<body>[%SkillCaster] vai reduzir o seu Tempo de Voo using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2736,13 +2736,13 @@
 	<string>
 		<id>1200659</id>
 		<name>STR_SKILL_SUCC_Dispel_A_TO_ME</name>
-		<body>[%SkillCaster] removed your spell with [%SkillName].</body>
+		<body>[%SkillCaster] removeu o seu feitiço with [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200660</id>
 		<name>STR_SKILL_SUCC_DispelBuff_A_TO_ME</name>
-		<body>[%SkillCaster] dispelled your magical buffs using [%SkillName].</body>
+		<body>[%SkillCaster] removeu seus 'buffs' mágicos using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2754,19 +2754,19 @@
 	<string>
 		<id>1200662</id>
 		<name>STR_SKILL_SUCC_DispelDeBuff_A_TO_ME</name>
-		<body>[%SkillCaster] dispelled your magical debuffs using [%SkillName].</body>
+		<body>[%SkillCaster] removeu seus 'debuffs' mágicos using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200663</id>
 		<name>STR_SKILL_SUCC_DispelDeBuffMental_A_TO_ME</name>
-		<body>[%SkillCaster] removed your altered mental states using [%SkillName].</body>
+		<body>[%SkillCaster] removeu seus estados mentais alterados using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200664</id>
 		<name>STR_SKILL_SUCC_DispelDeBuffPhysical_A_TO_ME</name>
-		<body>[%SkillCaster] removed your altered physical states using [%SkillName].</body>
+		<body>[%SkillCaster] removeu seus estados físicos alterados using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2778,19 +2778,19 @@
 	<string>
 		<id>1200666</id>
 		<name>STR_SKILL_SUCC_ExtendAuraRange_A_TO_ME</name>
-		<body>[%SkillCaster] increased your Mantra range with [%SkillName].</body>
+		<body>[%SkillCaster] aumentou o alcançe dos seus Mantras with [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200667</id>
 		<name>STR_SKILL_SUCC_Fall_A_TO_ME</name>
-		<body>[%SkillCaster] inflicts you with &apos;Forced Crash&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] derrubou você (forced crash) using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200668</id>
 		<name>STR_SKILL_SUCC_FPATK_A_TO_ME</name>
-		<body>[%SkillCaster] will reduce your flight time using [%SkillName].</body>
+		<body>[%SkillCaster] vai reduzir o seu Tempo de Voo using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2826,7 +2826,7 @@
 	<string>
 		<id>1200674</id>
 		<name>STR_SKILL_SUCC_Heal_A_TO_ME</name>
-		<body>You continuously regenerate HP from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você está recuperando HP devido ao uso da habilidade [%SkillName] used by [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2868,43 +2868,43 @@
 	<string>
 		<id>1200681</id>
 		<name>STR_SKILL_SUCC_Hide_A_TO_ME</name>
-		<body>You receive the effect &apos;Hide&apos; from [%SkillCaster]&apos;s [%SkillName].</body>
+		<body>Você está invisível (hide) devido ao uso da habilidade [%SkillCaster]&apos;s [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200682</id>
 		<name>STR_SKILL_SUCC_HostileUp_A_TO_ME</name>
-		<body>You suffer %0 rage from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você recebeu %0 de provocação da habilidade [%SkillName] used by [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200683</id>
 		<name>STR_SKILL_SUCC_MagicCounterATK_A_TO_ME</name>
-		<body>You receive the effect &apos;Magical Counter-Attack&apos; from [%SkillCaster]&apos;s [%SkillName].</body>
+		<body>Você recebeu o efeito 'Magical Counter-Attack' da habilidade [%SkillCaster]&apos;s [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200684</id>
 		<name>STR_SKILL_SUCC_MagicCounterATK_INTERVAL_A_TO_ME</name>
-		<body>You suffer %num0 damage from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você recebeu %num0 de dano da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200685</id>
 		<name>STR_SKILL_SUCC_MoveBehindATK_A_TO_ME</name>
-		<body>You suffer %num0 damage from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você recebeu %num0 de dano da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200686</id>
 		<name>STR_SKILL_SUCC_MPAttack_Instant_A_TO_ME</name>
-		<body>You lose %num0 MP from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você perdeu %num0 MP devido ao uso da habilidade [%SkillName] used by [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200687</id>
 		<name>STR_SKILL_SUCC_MPHeal_A_TO_ME</name>
-		<body>[%SkillCaster] has restored your MP by using [%SkillName].</body>
+		<body>[%SkillCaster] has restored your MP porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2922,25 +2922,25 @@
 	<string>
 		<id>1200690</id>
 		<name>STR_SKILL_SUCC_OneTimeBoostHealEffect_A_TO_ME</name>
-		<body>You receive the effect &apos;Increased Healing Skill&apos; from [%SkillName] used by [%SkillCaster].</body>
+		<body>Sua Cura aumentou com o uso da habilidade [%SkillName] used by [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200691</id>
 		<name>STR_SKILL_SUCC_OneTimeBoostSkillAttack_A_TO_ME</name>
-		<body>[%SkillCaster] boosted your skills using [%SkillName].</body>
+		<body>[%SkillCaster] melhorou as suas habilidades using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200692</id>
 		<name>STR_SKILL_SUCC_OneTimeBoostSkillCritical_A_TO_ME</name>
-		<body>[%SkillCaster] increased your crit strike with [%SkillName].</body>
+		<body>[%SkillCaster] aumentou o seu Crítico Físico with [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200693</id>
 		<name>STR_SKILL_SUCC_OneTimeTypeBoostSkillLevel_A_TO_ME</name>
-		<body>[%SkillCaster] boosted your skills using [%SkillName].</body>
+		<body>[%SkillCaster] melhorou as suas habilidades using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2958,13 +2958,13 @@
 	<string>
 		<id>1200696</id>
 		<name>STR_SKILL_SUCC_ProcATK_Instant_A_TO_ME</name>
-		<body>You suffer %num0 damage from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você recebeu %num0 de dano da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200697</id>
 		<name>STR_SKILL_SUCC_ProcATK_Instant_Ratio_A_TO_ME</name>
-		<body>You suffer %num0 damage from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você recebeu %num0 de dano da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2988,13 +2988,13 @@
 	<string>
 		<id>1200701</id>
 		<name>STR_SKILL_SUCC_Protect_A_TO_ME</name>
-		<body>You receive a protection effect from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você recebeu um efeito de proteção da habilidade [%SkillName] used by [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200702</id>
 		<name>STR_SKILL_SUCC_Protect_INTERVAL_A_TO_ME</name>
-		<body>[%SkillCaster] stopped %num0 damage hitting you by using [%SkillName].</body>
+		<body>[%SkillCaster] stopped %num0 damage hitting you porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -3024,25 +3024,25 @@
 	<string>
 		<id>1200707</id>
 		<name>STR_SKILL_SUCC_Reflector_A_TO_ME</name>
-		<body>You receive the effect &apos;Reflect&apos; from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você recebeu o efeito 'Reflect' da habilidade [%SkillName] used by [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200708</id>
 		<name>STR_SKILL_SUCC_Reflector_INTERVAL_A_TO_ME</name>
-		<body>You reflected %num0 damage from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você refletiu %num0 de dano da habilidade [%SkillName] used by [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200709</id>
 		<name>STR_SKILL_SUCC_Resurrect_A_TO_ME</name>
-		<body>[%SkillCaster] revived you using [%SkillName].</body>
+		<body>[%SkillCaster] reviveu você usando [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200710</id>
 		<name>STR_SKILL_SUCC_ResurrectPositional_A_TO_ME</name>
-		<body>You receive the &apos;Summon Resurrection&apos; effect from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você recebeu o efeito 'Summon Ressurrection' da habilidade [%SkillName] used by [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -3060,31 +3060,31 @@
 	<string>
 		<id>1200713</id>
 		<name>STR_SKILL_SUCC_Shield_A_TO_ME</name>
-		<body>You receive a protective shield from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você recebeu um Escudo de Proteção da habilidade [%SkillName] used by [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200714</id>
 		<name>STR_SKILL_SUCC_Shield_INTERVAL_A_TO_ME</name>
-		<body>[%SkillCaster] stopped %num0 damage hitting you by using [%SkillName].</body>
+		<body>[%SkillCaster] stopped %num0 damage hitting you porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200715</id>
 		<name>STR_SKILL_SUCC_SignetBurst_A_TO_ME</name>
-		<body>You suffer %num0 damage from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você recebeu %num0 de dano da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200716</id>
 		<name>STR_SKILL_SUCC_SkillATK_Instant_A_TO_ME</name>
-		<body>You suffer %num0 damage from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você recebeu %num0 de dano da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200717</id>
 		<name>STR_SKILL_SUCC_SkillATKDrain_Instant_A_TO_ME</name>
-		<body>You suffer %num0 damage from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você recebeu %num0 de dano da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -3096,7 +3096,7 @@
 	<string>
 		<id>1200719</id>
 		<name>STR_SKILL_SUCC_SpellATK_Instant_A_TO_ME</name>
-		<body>You suffer %num0 damage from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você recebeu %num0 de dano da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -3108,13 +3108,13 @@
 	<string>
 		<id>1200721</id>
 		<name>STR_SKILL_SUCC_SpellATKDrain_Instant_A_TO_ME</name>
-		<body>You suffer %num0 damage from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você recebeu %num0 de dano da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200722</id>
 		<name>STR_SKILL_SUCC_Sprint_A_TO_ME</name>
-		<body>You receive the effect &apos;Increase Movement Speed&apos; from [%SkillName] used by [%SkillCaster].</body>
+		<body>Sua Velocidade de Movimento foi aumentada devido ao uso da habilidade [%SkillName] used by [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -3132,13 +3132,13 @@
 	<string>
 		<id>1200725</id>
 		<name>STR_SKILL_SUCC_SubTypeBoostResist_A_TO_ME</name>
-		<body>[%SkillCaster] reduced your %0 resistance with [%SkillName].</body>
+		<body>[%SkillCaster] reduziu a sua Resistência à %0 with [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200726</id>
 		<name>STR_SKILL_SUCC_SubTypeExtendDuration_A_TO_ME</name>
-		<body>[%SkillCaster] changed your %0 skill duration with [%SkillName].</body>
+		<body>[%SkillCaster] alterou a duração da sua habilidade %0 with [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -3186,13 +3186,13 @@
 	<string>
 		<id>1200734</id>
 		<name>STR_SKILL_SUCC_SwitchHPMP_Instant_A_TO_ME</name>
-		<body>[%SkillCaster] swapped your HP and MP with [%SkillName].</body>
+		<body>[%SkillCaster] trocou sua HP pela sua MP with [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200735</id>
 		<name>STR_SKILL_SUCC_WeaponStatUp_A_TO_ME</name>
-		<body>[%SkillCaster] changed your %0 with [%SkillName].</body>
+		<body>[%SkillCaster] alterou a sua %0 with [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -3204,139 +3204,139 @@
 	<string>
 		<id>1200737</id>
 		<name>STR_SKILL_SUCC_Confuse_A_TO_SELF</name>
-		<body>[%SkillCaster] is inflicted with &apos;Confusion&apos; by [%SkillName].</body>
+		<body>[%SkillCaster] is inflicted with &apos;confuso (confused) by [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200738</id>
 		<name>STR_SKILL_SUCC_Disease_A_TO_SELF</name>
-		<body>[%SkillCaster] is inflicted with &apos;Disease&apos; by [%SkillName].</body>
+		<body>[%SkillCaster] is inflicted with &apos;doente (sick) by [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200739</id>
 		<name>STR_SKILL_SUCC_Fear_A_TO_SELF</name>
-		<body>[%SkillCaster] is inflicted with &apos;Fear&apos; by [%SkillName].</body>
+		<body>[%SkillCaster] is inflicted with &apos;com medo (fear) by [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200740</id>
 		<name>STR_SKILL_SUCC_Paralyze_A_TO_SELF</name>
-		<body>[%SkillCaster] is inflicted with &apos;Paralysis&apos; by [%SkillName].</body>
+		<body>[%SkillCaster] is inflicted with &apos;paralisado (paralyze) by [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200741</id>
 		<name>STR_SKILL_SUCC_Root_A_TO_SELF</name>
-		<body>[%SkillCaster] is inflicted with &apos;Immobilisation&apos; by [%SkillName].</body>
+		<body>[%SkillCaster] is inflicted with &apos;imobilizado (immobilize) by [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200742</id>
 		<name>STR_SKILL_SUCC_Silence_A_TO_SELF</name>
-		<body>[%SkillCaster] is inflicted with &apos;Silence&apos; from [%SkillName].</body>
+		<body>[%SkillCaster] is inflicted with &apos;silenciado (silence) from [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200743</id>
 		<name>STR_SKILL_SUCC_Sleep_A_TO_SELF</name>
-		<body>[%SkillCaster] is inflicted with &apos;Sleep&apos; by [%SkillName].</body>
+		<body>[%SkillCaster] is inflicted with &apos;cochilando (sleep) by [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200744</id>
 		<name>STR_SKILL_SUCC_Spin_A_TO_SELF</name>
-		<body>[%SkillCaster] is inflicted with &apos;Spin&apos; by [%SkillName].</body>
+		<body>[%SkillCaster] is inflicted with &apos;em choque (spin) by [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200745</id>
 		<name>STR_SKILL_SUCC_Stagger_A_TO_SELF</name>
-		<body>[%SkillCaster] is inflicted with &apos;Stagger&apos; by [%SkillName].</body>
+		<body>[%SkillCaster] is inflicted with &apos;em choque (stagger) by [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200746</id>
 		<name>STR_SKILL_SUCC_Stumble_A_TO_SELF</name>
-		<body>[%SkillCaster] is inflicted with &apos;Knockdown&apos; by [%SkillName].</body>
+		<body>[%SkillCaster] is inflicted with &apos;em choque (knockdown) by [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200747</id>
 		<name>STR_SKILL_SUCC_Stun_A_TO_SELF</name>
-		<body>[%SkillCaster] is inflicted with &apos;Stun&apos; by [%SkillName].</body>
+		<body>[%SkillCaster] is inflicted with &apos;em choque (stun) by [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200748</id>
 		<name>STR_SKILL_SUCC_Blind_END_A_TO_SELF</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Blindness&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;cego (blind).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200749</id>
 		<name>STR_SKILL_SUCC_Confuse_END_A_TO_SELF</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Confusion&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;confuso (confused).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200750</id>
 		<name>STR_SKILL_SUCC_Disease_END_A_TO_SELF</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Disease&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;doente (sick).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200751</id>
 		<name>STR_SKILL_SUCC_Fear_END_A_TO_SELF</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Fear&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;com medo (fear).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200752</id>
 		<name>STR_SKILL_SUCC_Paralyze_END_A_TO_SELF</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Paralysis&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;paralisado (paralyze).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200753</id>
 		<name>STR_SKILL_SUCC_Root_END_A_TO_SELF</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Immobilisation&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;imobilizado (immobilize).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200754</id>
 		<name>STR_SKILL_SUCC_Silence_END_A_TO_SELF</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Silence&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;silenciado (silence).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200755</id>
 		<name>STR_SKILL_SUCC_Sleep_END_A_TO_SELF</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Sleep&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;cochilando (sleep).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200756</id>
 		<name>STR_SKILL_SUCC_Spin_END_A_TO_SELF</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Spin&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;em choque (spin).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200757</id>
 		<name>STR_SKILL_SUCC_Stagger_END_A_TO_SELF</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Stagger&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;em choque (stagger).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200758</id>
 		<name>STR_SKILL_SUCC_Stumble_END_A_TO_SELF</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Knockdown&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;em choque (knockdown).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200759</id>
 		<name>STR_SKILL_SUCC_Stun_END_A_TO_SELF</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Stun&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;em choque (stun).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -3390,13 +3390,13 @@
 	<string>
 		<id>1200768</id>
 		<name>STR_SKILL_SUCC_Curse_A_TO_SELF</name>
-		<body>[%SkillCaster] is inflicted with &apos;Curse&apos; by [%SkillName].</body>
+		<body>[%SkillCaster] is inflicted with &apos;alamdiçoado (cursed) by [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200769</id>
 		<name>STR_SKILL_SUCC_NoFly_A_TO_SELF</name>
-		<body>[%SkillCaster] is inflicted with &apos;Grounded&apos; by [%SkillName].</body>
+		<body>[%SkillCaster] is inflicted with &apos;preso (grounded) by [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -3408,13 +3408,13 @@
 	<string>
 		<id>1200771</id>
 		<name>STR_SKILL_SUCC_Petrification_A_TO_SELF</name>
-		<body>[%SkillCaster] is inflicted with &apos;Petrification&apos; by [%SkillName].</body>
+		<body>[%SkillCaster] is inflicted with &apos;petrificado (petrified) by [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200772</id>
 		<name>STR_SKILL_SUCC_Poison_A_TO_SELF</name>
-		<body>[%SkillCaster] is inflicted with &apos;Petrification&apos; by [%SkillName].</body>
+		<body>[%SkillCaster] is inflicted with &apos;petrificado (petrified) by [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -3432,25 +3432,25 @@
 	<string>
 		<id>1200775</id>
 		<name>STR_SKILL_SUCC_Bind_END_A_TO_SELF</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Binding&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;de mãos amarradas (bind).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200776</id>
 		<name>STR_SKILL_SUCC_Bleed_END_A_TO_SELF</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Bleeding&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;sangrando (bleeding).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200777</id>
 		<name>STR_SKILL_SUCC_Curse_END_A_TO_SELF</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Curse&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;alamdiçoado (cursed).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200778</id>
 		<name>STR_SKILL_SUCC_NoFly_END_A_TO_SELF</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Grounded&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;preso (grounded).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -3462,13 +3462,13 @@
 	<string>
 		<id>1200780</id>
 		<name>STR_SKILL_SUCC_Petrification_END_A_TO_SELF</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Petrification&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;petrificado (petrified).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200781</id>
 		<name>STR_SKILL_SUCC_Poison_END_A_TO_SELF</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Poisoning&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;doente (poison).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -3588,7 +3588,7 @@
 	<string>
 		<id>1200801</id>
 		<name>STR_SKILL_SUCC_CloseAerial_A_TO_SELF</name>
-		<body>[%SkillCaster] was released from the aerial snare by using [%SkillName].</body>
+		<body>[%SkillCaster] was released from the aerial snare porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -3624,7 +3624,7 @@
 	<string>
 		<id>1200807</id>
 		<name>STR_SKILL_SUCC_Deform_A_TO_SELF</name>
-		<body>[%SkillCaster] transformed into %0 by using [%SkillName].</body>
+		<body>[%SkillCaster] transformed into %0 porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -3870,7 +3870,7 @@
 	<string>
 		<id>1200848</id>
 		<name>STR_SKILL_SUCC_Polymorph_A_TO_SELF</name>
-		<body>[%SkillCaster] transformed into %0 by using [%SkillName].</body>
+		<body>[%SkillCaster] transformed into %0 porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -3912,7 +3912,7 @@
 	<string>
 		<id>1200855</id>
 		<name>STR_SKILL_SUCC_Protect_INTERVAL_A_TO_SELF</name>
-		<body>[%SkillCaster] blocked %num0 damage by using [%SkillName].</body>
+		<body>[%SkillCaster] blocked %num0 damage porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -3972,7 +3972,7 @@
 	<string>
 		<id>1200865</id>
 		<name>STR_SKILL_SUCC_ShapeChange_A_TO_SELF</name>
-		<body>[%SkillCaster] transformed into %0 by using [%SkillName].</body>
+		<body>[%SkillCaster] transformed into %0 porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -3984,7 +3984,7 @@
 	<string>
 		<id>1200867</id>
 		<name>STR_SKILL_SUCC_Shield_INTERVAL_A_TO_SELF</name>
-		<body>[%SkillCaster] blocked %num0 damage by using [%SkillName].</body>
+		<body>[%SkillCaster] blocked %num0 damage porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -4116,145 +4116,145 @@
 	<string>
 		<id>1200889</id>
 		<name>STR_SKILL_SUCC_Blind_A_TO_B</name>
-		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;Blindness&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;cego (blind). using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200890</id>
 		<name>STR_SKILL_SUCC_Confuse_A_TO_B</name>
-		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;Confusion&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;confuso (confused) using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200891</id>
 		<name>STR_SKILL_SUCC_Disease_A_TO_B</name>
-		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;Disease&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;doente (sick) using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200892</id>
 		<name>STR_SKILL_SUCC_Fear_A_TO_B</name>
-		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;Fear&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;com medo (fear) using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200893</id>
 		<name>STR_SKILL_SUCC_Paralyze_A_TO_B</name>
-		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;Paralysis&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;paralisado (paralyze) using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200894</id>
 		<name>STR_SKILL_SUCC_Root_A_TO_B</name>
-		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;Immobilisation&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;imobilizado (immobilize) using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200895</id>
 		<name>STR_SKILL_SUCC_Silence_A_TO_B</name>
-		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;Silence&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;silenciado (silence) using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200896</id>
 		<name>STR_SKILL_SUCC_Sleep_A_TO_B</name>
-		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;Sleep&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;cochilando (sleep) using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200897</id>
 		<name>STR_SKILL_SUCC_Spin_A_TO_B</name>
-		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;Spin&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;em choque (spin) using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200898</id>
 		<name>STR_SKILL_SUCC_Stagger_A_TO_B</name>
-		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;Stagger&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;em choque (stagger) using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200899</id>
 		<name>STR_SKILL_SUCC_Stumble_A_TO_B</name>
-		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;Knockdown&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;em choque (knockdown) using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200900</id>
 		<name>STR_SKILL_SUCC_Stun_A_TO_B</name>
-		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;Stun&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;em choque (stun) using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200901</id>
 		<name>STR_SKILL_SUCC_Blind_END_A_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Blindness&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;cego (blind).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200902</id>
 		<name>STR_SKILL_SUCC_Confuse_END_A_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Confusion&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;confuso (confused).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200903</id>
 		<name>STR_SKILL_SUCC_Disease_END_A_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Disease&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;doente (sick).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200904</id>
 		<name>STR_SKILL_SUCC_Fear_END_A_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Fear&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;com medo (fear).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200905</id>
 		<name>STR_SKILL_SUCC_Paralyze_END_A_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Paralysis&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;paralisado (paralyze).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200906</id>
 		<name>STR_SKILL_SUCC_Root_END_A_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Immobilisation&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;imobilizado (immobilize).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200907</id>
 		<name>STR_SKILL_SUCC_Silence_END_A_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Silence&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;silenciado (silence).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200908</id>
 		<name>STR_SKILL_SUCC_Sleep_END_A_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Sleep&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;cochilando (sleep).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200909</id>
 		<name>STR_SKILL_SUCC_Spin_END_A_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Spin&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;em choque (spin).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200910</id>
 		<name>STR_SKILL_SUCC_Stagger_END_A_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Stagger&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;em choque (stagger).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200911</id>
 		<name>STR_SKILL_SUCC_Stumble_END_A_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Knockdown&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;em choque (knockdown).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200912</id>
 		<name>STR_SKILL_SUCC_Stun_END_A_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Stun&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;em choque (stun).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -4296,25 +4296,25 @@
 	<string>
 		<id>1200919</id>
 		<name>STR_SKILL_SUCC_Bind_A_TO_B</name>
-		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;Binding&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;de mãos amarradas (bind) using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200920</id>
 		<name>STR_SKILL_SUCC_Bleed_A_TO_B</name>
-		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;Bleeding&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;sangrando (bleeding) using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200921</id>
 		<name>STR_SKILL_SUCC_Curse_A_TO_B</name>
-		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;Curse&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;alamdiçoado (cursed) using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200922</id>
 		<name>STR_SKILL_SUCC_NoFly_A_TO_B</name>
-		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;Grounded&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;preso (grounded) using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -4326,13 +4326,13 @@
 	<string>
 		<id>1200924</id>
 		<name>STR_SKILL_SUCC_Petrification_A_TO_B</name>
-		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;Petrification&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;petrificado (petrified) using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200925</id>
 		<name>STR_SKILL_SUCC_Poison_A_TO_B</name>
-		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;Petrification&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] inflicts [%SkillTarget] with &apos;petrificado (petrified) using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -4350,25 +4350,25 @@
 	<string>
 		<id>1200928</id>
 		<name>STR_SKILL_SUCC_Bind_END_A_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Binding&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;de mãos amarradas (bind).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200929</id>
 		<name>STR_SKILL_SUCC_Bleed_END_A_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Bleeding&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;sangrando (bleeding).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200930</id>
 		<name>STR_SKILL_SUCC_Curse_END_A_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Curse&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;alamdiçoado (cursed).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200931</id>
 		<name>STR_SKILL_SUCC_NoFly_END_A_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Grounded&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;preso (grounded).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -4380,13 +4380,13 @@
 	<string>
 		<id>1200933</id>
 		<name>STR_SKILL_SUCC_Petrification_END_A_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Petrification&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;petrificado (petrified).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200934</id>
 		<name>STR_SKILL_SUCC_Poison_END_A_TO_B</name>
-		<body>[%SkillTarget] is no longer suffering from &apos;Poisoning&apos;.</body>
+		<body>[%SkillTarget] is no longer suffering from &apos;doente (poison).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -4578,7 +4578,7 @@
 	<string>
 		<id>1200966</id>
 		<name>STR_SKILL_SUCC_DispelBuff_A_TO_B</name>
-		<body>[%SkillCaster] dispelled the magical buffs from [%SkillTarget] by using [%SkillName].</body>
+		<body>[%SkillCaster] dispelled the magical buffs from [%SkillTarget] porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -4590,7 +4590,7 @@
 	<string>
 		<id>1200968</id>
 		<name>STR_SKILL_SUCC_DispelDeBuff_A_TO_B</name>
-		<body>[%SkillCaster] dispelled the magical debuffs from [%SkillTarget] by using [%SkillName].</body>
+		<body>[%SkillCaster] dispelled the magical debuffs from [%SkillTarget] porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -4830,7 +4830,7 @@
 	<string>
 		<id>1201008</id>
 		<name>STR_SKILL_SUCC_Protect_INTERVAL_A_TO_B</name>
-		<body>[%SkillCaster] stopped %num0 damage hitting [%SkillTarget] by using [%SkillName].</body>
+		<body>[%SkillCaster] stopped %num0 damage hitting [%SkillTarget] porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -4902,7 +4902,7 @@
 	<string>
 		<id>1201020</id>
 		<name>STR_SKILL_SUCC_Shield_INTERVAL_A_TO_B</name>
-		<body>[%SkillCaster] stopped %num0 damage hitting [%SkillTarget] by using [%SkillName].</body>
+		<body>[%SkillCaster] stopped %num0 damage hitting [%SkillTarget] porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -5052,7 +5052,7 @@
 	<string>
 		<id>1201045</id>
 		<name>STR_SKILL_SUCC_CaseHeal_INTERVAL_HEAL_TO_ME</name>
-		<body>You regenerate %num0 HP using [%SkillName].</body>
+		<body>Você recuperou %num0 HP usando [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -5064,7 +5064,7 @@
 	<string>
 		<id>1201047</id>
 		<name>STR_SKILL_SUCC_ConvertHeal_INTERVAL_HEAL_TO_ME</name>
-		<body>You regenerate %num0 HP using [%SkillName].</body>
+		<body>Você recuperou %num0 HP usando [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -5088,7 +5088,7 @@
 	<string>
 		<id>1201051</id>
 		<name>STR_SKILL_SUCC_DelayedFPATK_Instant_INTERVAL_TO_ME</name>
-		<body>Your flight time decreased by %num0 due to the effect of [%SkillName].</body>
+		<body>Seu Tempo de Voo foi reduzido por %num0 pelo efeito da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -5112,7 +5112,7 @@
 	<string>
 		<id>1201055</id>
 		<name>STR_SKILL_SUCC_FPATK_INTERVAL_TO_ME</name>
-		<body>Your flight time decreased by %num0 due to the effect of [%SkillName].</body>
+		<body>Seu Tempo de Voo foi reduzido por %num0 pelo efeito da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -5124,7 +5124,7 @@
 	<string>
 		<id>1201057</id>
 		<name>STR_SKILL_SUCC_FPHeal_INTERVAL_HEAL_TO_ME</name>
-		<body>Your flight time increased by %num0 due to the effect of [%SkillName].</body>
+		<body>Seu Tempo de Voo aumentou em %num0 devido ao efeito da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -5136,7 +5136,7 @@
 	<string>
 		<id>1201059</id>
 		<name>STR_SKILL_SUCC_Heal_INTERVAL_HEAL_TO_ME</name>
-		<body>You regenerate %num0 HP using [%SkillName].</body>
+		<body>Você recuperou %num0 HP usando [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -5148,7 +5148,7 @@
 	<string>
 		<id>1201061</id>
 		<name>STR_SKILL_SUCC_HealCastorOnAttacked_INTERVAL_HEAL_TO_ME</name>
-		<body>You regenerate %num0 HP using [%SkillName].</body>
+		<body>Você recuperou %num0 HP usando [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -5160,7 +5160,7 @@
 	<string>
 		<id>1201063</id>
 		<name>STR_SKILL_SUCC_HealCastorOnTargetDead_INTERVAL_HEAL_TO_ME</name>
-		<body>You regenerate %num0 HP using [%SkillName].</body>
+		<body>Você recuperou %num0 HP usando [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -5244,7 +5244,7 @@
 	<string>
 		<id>1201077</id>
 		<name>STR_SKILL_SUCC_SkillATKDrain_Instant_INTERVAL_HEAL_TO_ME</name>
-		<body>You regenerate %num0 HP using [%SkillName].</body>
+		<body>Você recuperou %num0 HP usando [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -5508,7 +5508,7 @@
 	<string>
 		<id>1201121</id>
 		<name>STR_SKILL_SUCC_OpenAerial_END_ME</name>
-		<body>You are released from the Aerial Snare.</body>
+		<body>Você não está mais preso no ar (aetherhold).</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -5712,7 +5712,7 @@
 	<string>
 		<id>1201155</id>
 		<name>STR_SKILL_SUCC_SpellATKDrain_Instant_INTERVAL_HEAL_TO_ME</name>
-		<body>You regenerate %num0 HP using [%SkillName].</body>
+		<body>Você recuperou %num0 HP usando [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -5748,7 +5748,7 @@
 	<string>
 		<id>1201161</id>
 		<name>STR_SKILL_SUCC_SpellATKDrain_INTERVAL_HEAL_TO_ME</name>
-		<body>You regenerate %num0 HP using [%SkillName].</body>
+		<body>Você recuperou %num0 HP usando [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -6102,7 +6102,7 @@
 	<string>
 		<id>1201222</id>
 		<name>STR_SKILL_SUCC_DPHeal_Instant_HEAL_ME_TO_SELF</name>
-		<body>You recovered %num0 DP by using [%SkillName].</body>
+		<body>You recovered %num0 DP porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -6120,7 +6120,7 @@
 	<string>
 		<id>1201225</id>
 		<name>STR_SKILL_SUCC_DPHeal_Instant_HEAL_A_TO_SELF</name>
-		<body>[%SkillCaster] recovered %num0 DP by using [%SkillName].</body>
+		<body>[%SkillCaster] recovered %num0 DP porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -6222,7 +6222,7 @@
 	<string>
 		<id>1201242</id>
 		<name>STR_SKILL_SUCC_Recall_Instant_ME_TO_B</name>
-		<body>You requested [%SkillTarget] to be summoned by using [%SkillName].</body>
+		<body>You requested [%SkillTarget] to be summoned porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -6240,25 +6240,25 @@
 	<string>
 		<id>1201245</id>
 		<name>STR_SKILL_SUCC_DispelNPCBuff_ME_TO_SELF</name>
-		<body>[%SkillName] dispelled your magical buffs.</body>
+		<body>[%SkillName] removeu seus 'buffs' mágicos.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1201246</id>
 		<name>STR_SKILL_SUCC_DispelNPCDeBuff_ME_TO_SELF</name>
-		<body>[%SkillName] dispelled your magical debuffs.</body>
+		<body>[%SkillName] removeu seus 'debuffs' mágicos.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1201247</id>
 		<name>STR_SKILL_SUCC_DispelNPCDeBuffMental_ME_TO_SELF</name>
-		<body>[%SkillName] removed your altered mental states.</body>
+		<body>[%SkillName] removeu seus estados mentais alterados.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1201248</id>
 		<name>STR_SKILL_SUCC_DispelNPCDeBuffPhysical_ME_TO_SELF</name>
-		<body>[%SkillName] removed your altered physical states.</body>
+		<body>[%SkillName] removeu seus estados físicos alterados.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -6288,25 +6288,25 @@
 	<string>
 		<id>1201253</id>
 		<name>STR_SKILL_SUCC_DispelNPCBuff_A_TO_ME</name>
-		<body>[%SkillCaster] dispelled your magical buffs using [%SkillName].</body>
+		<body>[%SkillCaster] removeu seus 'buffs' mágicos using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1201254</id>
 		<name>STR_SKILL_SUCC_DispelNPCDeBuff_A_TO_ME</name>
-		<body>[%SkillCaster] dispelled your magical debuffs using [%SkillName].</body>
+		<body>[%SkillCaster] removeu seus 'debuffs' mágicos using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1201255</id>
 		<name>STR_SKILL_SUCC_DispelNPCDeBuffMental_A_TO_ME</name>
-		<body>[%SkillCaster] removed your altered mental states using [%SkillName].</body>
+		<body>[%SkillCaster] removeu seus estados mentais alterados using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1201256</id>
 		<name>STR_SKILL_SUCC_DispelNPCDeBuffPhysical_A_TO_ME</name>
-		<body>[%SkillCaster] removed your altered physical states using [%SkillName].</body>
+		<body>[%SkillCaster] removeu seus estados físicos alterados using [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -6336,13 +6336,13 @@
 	<string>
 		<id>1201261</id>
 		<name>STR_SKILL_SUCC_DispelNPCBuff_A_TO_B</name>
-		<body>[%SkillCaster] dispelled the magical buffs from [%SkillTarget] by using [%SkillName].</body>
+		<body>[%SkillCaster] dispelled the magical buffs from [%SkillTarget] porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1201262</id>
 		<name>STR_SKILL_SUCC_DispelNPCDeBuff_A_TO_B</name>
-		<body>[%SkillCaster] dispelled the magical debuffs from [%SkillTarget] by using [%SkillName].</body>
+		<body>[%SkillCaster] dispelled the magical debuffs from [%SkillTarget] porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -6432,7 +6432,7 @@
 	<string>
 		<id>1201277</id>
 		<name>STR_SKILL_SUCC_NoReduceSpellATK_Instant_A_TO_ME</name>
-		<body>You suffer %num0 damage from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você recebeu %num0 de dano da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
