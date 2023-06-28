@@ -11260,7 +11260,7 @@
 	<string>
 		<id>901873</id>
 		<name>STR_INSTANT_DUNGEON_ENTER_CONFIRM</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Você quer entrar na %0?&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Pressionar o botão Entrar move você para a zona selecionada.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Tempo Restante: %DURATIONTIME1&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Você quer entrar na &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;?&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Pressionar o botão &lt;font color=&quot;ffff00&quot;&gt;Entrar&lt;/font&gt; move você para a zona selecionada.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Tempo Restante: %DURATIONTIME1&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901874</id>
