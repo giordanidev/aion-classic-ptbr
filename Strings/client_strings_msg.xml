@@ -1782,85 +1782,85 @@
 	<string>
 		<id>1200500</id>
 		<name>STR_SKILL_SUCC_DeboostHealAmount_ME_TO_B</name>
-		<body>[%SkillTarget]&apos;s recovery amount was changed by [%SkillName].</body>
+		<body>A quantidade de Cura de [%SkillTarget] foi aumentada com a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200501</id>
 		<name>STR_SKILL_SUCC_Deform_ME_TO_B</name>
-		<body>[%SkillTarget] transformed into %0 porque usou [%SkillName].</body>
+		<body>[%SkillTarget] se transformou em %0 porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200502</id>
 		<name>STR_SKILL_SUCC_DelayedFPATK_Instant_ME_TO_B</name>
-		<body>[%SkillName] will reduce [%SkillTarget]&apos;s flight time.</body>
+		<body>[%SkillName] vai reduzir o Tempo de Voo de [%SkillTarget].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200503</id>
 		<name>STR_SKILL_SUCC_DelayedFPATK_Instant_INTERVAL_ME_TO_B</name>
-		<body>[%SkillName] reduced [%SkillTarget]&apos;s flight time by %num0.</body>
+		<body>[%SkillName] reduziu o Tempo de Voo de [%SkillTarget] em %num0.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200504</id>
 		<name>STR_SKILL_SUCC_DelayedSpellATK_Instant_ME_TO_B</name>
-		<body>[%SkillTarget] is inflicted with the &apos;Delayed Blast&apos; effect by [%SkillName].</body>
+		<body>[%SkillTarget] foi atingido com o efeito 'Delayed Blast' com a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200505</id>
 		<name>STR_SKILL_SUCC_DelayedSpellATK_Instant_INTERVAL_ME_TO_B</name>
-		<body>[%SkillName] reduced [%SkillTarget]&apos;s flight time by %num0.</body>
+		<body>[%SkillName] reduziu o Tempo de Voo de [%SkillTarget] em %num0.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200506</id>
 		<name>STR_SKILL_SUCC_Dispel_ME_TO_B</name>
-		<body>[%SkillName] removed [%SkillTarget]&apos;s spell.</body>
+		<body>[%SkillName] removeu o feitiço de [%SkillTarget].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200507</id>
 		<name>STR_SKILL_SUCC_DispelBuff_ME_TO_B</name>
-		<body>[%SkillName] dispelled the magical buffs from [%SkillTarget].</body>
+		<body>[%SkillName] removeu os 'debuffs' mágicos de [%SkillTarget].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200508</id>
 		<name>STR_SKILL_SUCC_DispelBuffCounterATK_ME_TO_B</name>
-		<body>[%SkillTarget] suffered %num0 damage and [%SkillName] removed some magical buffs.</body>
+		<body>[%SkillTarget] recebeu %num0 de dano e [%SkillName] removeu alguns 'debuffs' mágicos.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200509</id>
 		<name>STR_SKILL_SUCC_DispelDeBuff_ME_TO_B</name>
-		<body>[%SkillName] dispelled the magical debuffs from [%SkillTarget].</body>
+		<body>[%SkillName] removeu os 'debuffs' mágicos de  [%SkillTarget].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200510</id>
 		<name>STR_SKILL_SUCC_DispelDeBuffMental_ME_TO_B</name>
-		<body>[%SkillTarget]&apos;s altered mental states were removed by [%SkillName].</body>
+		<body>Os Estados Mentais alterados de [%SkillTarget] foram removidos pela habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200511</id>
 		<name>STR_SKILL_SUCC_DispelDeBuffPhysical_ME_TO_B</name>
-		<body>[%SkillTarget]&apos;s altered physical states were removed by [%SkillName].</body>
+		<body>Os Estados Físicos alterados de [%SkillTarget] foram removidos pela habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200512</id>
 		<name>STR_SKILL_SUCC_DPTransfer_ME_TO_B</name>
-		<body>[%SkillTarget] receives %num0 DP from [%SkillName].</body>
+		<body>[%SkillTarget] recebeu %num0 de DP da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200513</id>
 		<name>STR_SKILL_SUCC_ExtendAuraRange_ME_TO_B</name>
-		<body>[%SkillTarget]&apos;s mantra range was increased by [%SkillName].</body>
+		<body>A distância dos Mantras de [%SkillTarget] foi aumentada pela habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -1878,13 +1878,13 @@
 	<string>
 		<id>1200516</id>
 		<name>STR_SKILL_SUCC_FPATK_INTERVAL_ME_TO_B</name>
-		<body>[%SkillName] reduced [%SkillTarget]&apos;s flight time by %num0.</body>
+		<body>[%SkillName] reduziu o Tempo de Voo de [%SkillTarget] em %num0.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200517</id>
 		<name>STR_SKILL_SUCC_FPATK_Instant_ME_TO_B</name>
-		<body>[%SkillName] reduced [%SkillTarget]&apos;s flight time by %num0.</body>
+		<body>[%SkillName] reduziu o Tempo de Voo de [%SkillTarget] em %num0.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -4590,7 +4590,7 @@
 	<string>
 		<id>1200968</id>
 		<name>STR_SKILL_SUCC_DispelDeBuff_A_TO_B</name>
-		<body>[%SkillCaster] dispelled the magical debuffs from [%SkillTarget] porque usou [%SkillName].</body>
+		<body>[%SkillCaster] removeu os 'debuffs' mágicos de  [%SkillTarget] porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -6264,25 +6264,25 @@
 	<string>
 		<id>1201249</id>
 		<name>STR_SKILL_SUCC_DispelNPCBuff_ME_TO_B</name>
-		<body>[%SkillName] dispelled the magical buffs from [%SkillTarget].</body>
+		<body>[%SkillName] removeu os 'debuffs' mágicos de [%SkillTarget].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1201250</id>
 		<name>STR_SKILL_SUCC_DispelNPCDeBuff_ME_TO_B</name>
-		<body>[%SkillName] dispelled the magical debuffs from [%SkillTarget].</body>
+		<body>[%SkillName] removeu os 'debuffs' mágicos de  [%SkillTarget].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1201251</id>
 		<name>STR_SKILL_SUCC_DispelNPCDeBuffMental_ME_TO_B</name>
-		<body>[%SkillTarget]&apos;s altered mental states were removed by [%SkillName].</body>
+		<body>Os Estados Mentais alterados de [%SkillTarget] foram removidos pela habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1201252</id>
 		<name>STR_SKILL_SUCC_DispelNPCDeBuffPhysical_ME_TO_B</name>
-		<body>[%SkillTarget]&apos;s altered physical states were removed by [%SkillName].</body>
+		<body>Os Estados Físicos alterados de [%SkillTarget] foram removidos pela habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -6342,7 +6342,7 @@
 	<string>
 		<id>1201262</id>
 		<name>STR_SKILL_SUCC_DispelNPCDeBuff_A_TO_B</name>
-		<body>[%SkillCaster] dispelled the magical debuffs from [%SkillTarget] porque usou [%SkillName].</body>
+		<body>[%SkillCaster] removeu os 'debuffs' mágicos de  [%SkillTarget] porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
