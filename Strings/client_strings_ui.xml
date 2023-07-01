@@ -368,7 +368,7 @@
 	<string>
 		<id>95006</id>
 		<name>STR_SOUL_BOUND_ITEM_DO_YOU_WANT_SOUL_BOUND</name>
-		<body>&lt;p&gt;'%itemid0%' deve estar vinculado a esse personagem para poder equipar.&lt;/p&gt;&#xA;&lt;p&gt;Você não pode trocar itens vinculados.&lt;/p&gt;&#xA;&lt;p&gt;Vincular esse item agora?&lt;/p&gt;</body>
+		<body>&lt;p&gt;&lt;font color=&quot;ffff00&quot;&gt;%itemid0%&lt;/font&gt; deve ser vinculado a esse personagem para poder equipar.&lt;/p&gt;&#xA;&lt;p&gt;Você &lt;font color=&quot;ff0000&quot;&gt;não pode trocar&lt;/font&gt; itens vinculados.&lt;/p&gt;&#xA;&lt;p&gt;Vincular esse item agora?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>95007</id>
