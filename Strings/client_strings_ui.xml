@@ -463,7 +463,7 @@
 	<string>
 		<id>160011</id>
 		<name>STR_ASK_RECOVER_EXPERIENCE</name>
-		<body>&lt;p&gt;Você pode restaurar a experiência e remover o efeito de ressurreição se sua alma for curada. A 'cura da alma' requer &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Você quer curar sua alma?&lt;/p&gt;</body>
+		<body>&lt;p&gt;Você pode &lt;font color=&quot;ffff00&quot;&gt;restaurar a experiência&lt;/font&gt; e &lt;font color=&quot;ffff00&quot;&gt;remover o efeito de ressurreição&lt;/font&gt; se sua alma for curada. A &lt;font color=&quot;ffff00&quot;&gt;Cura de Alma&lt;/font&gt; requer &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Você quer curar sua alma?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>160012</id>
@@ -4071,7 +4071,7 @@
 	<string>
 		<id>900394</id>
 		<name>STR_MSG_DESTROY_ITEM</name>
-		<body>Você realmente deseja &lt;font color=&quot;ff0000&quot;&gt;excluir&lt;/font&gt; &lt;font color=&quot;ff0000&quot;&gt;%0&lt;/font&gt;?</body>
+		<body>Você deseja &lt;font color=&quot;ff0000&quot;&gt;excluir&lt;/font&gt; %0? Esta ação &lt;font color=&quot;ff0000&quot;&gt;não poderá&lt;/font&gt; ser desfeita.</body>
 	</string>
 	<string>
 		<id>900395</id>
@@ -10364,7 +10364,7 @@
 	<string>
 		<id>901689</id>
 		<name>STR_DESTROY_CASH_ITEM_CONFIRM</name>
-		<body>Você realmente deseja &lt;font color=&quot;ff0000&quot;&gt;destruir&lt;/font&gt; &lt;font color="ffff00"&gt; %0&lt;/font&gt;%?&lt;br&gt;&#xA;Este item não pode ser restaurado depois de destruído.</body>
+		<body>Você realmente deseja &lt;font color=&quot;ff0000&quot;&gt;destruir&lt;/font&gt; &lt;font color="ffff00"&gt;%0&lt;/font&gt;%?&lt;br&gt;&#xA;Este item não pode ser restaurado depois de destruído.</body>
 	</string>
 	<string>
 		<id>901690</id>
@@ -25481,7 +25481,7 @@
 	<string>
 		<id>905538</id>
 		<name>STR_UI_WARDROBE_STORAGE_SKIN_DELETE_CONFIRM_DESC</name>
-		<body>Você realmente deseja &lt;font color=&quot;ff0000&quot;&gt;excluir&lt;/font&gt; essa aparência?&lt;br&gt;Você não poderá recuperar ou restaurar nenhuma aparência excluída.</body>
+		<body>Você realmente deseja &lt;font color=&quot;ff0000&quot;&gt;excluir&lt;/font&gt;essa aparência?&lt;br&gt;Você não poderá recuperar ou restaurar nenhuma aparência excluída.</body>
 	</string>
 	<string>
 		<id>905539</id>
