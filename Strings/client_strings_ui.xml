@@ -148,12 +148,12 @@
 	<string>
 		<id>50027</id>
 		<name>STR_ENSLAVE_RESURRECT_PET_DO_YOU_ACCEPT_PAY</name>
-		<body>Ressurreição de %0 (Nível %1) requer &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina2&lt;/font&gt;. deseja continuar?</body>
+		<body>Ressurreição de %0 (Nível %1) requer &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina2&lt;/font&gt;. Deseja continuar?</body>
 	</string>
 	<string>
 		<id>50028</id>
 		<name>STR_DUEL_DO_YOU_ACCEPT_REQUEST</name>
-		<body>%0 te desafiou para um DUELO. Você aceita?</body>
+		<body>%0 te desafiou para um &lt;font color=&quot;ffffw00&quot;&gt;duelo&lt;/font&gt;. Você aceita?</body>
 	</string>
 	<string>
 		<id>50029</id>
@@ -163,7 +163,7 @@
 	<string>
 		<id>50030</id>
 		<name>STR_DUEL_DO_YOU_WITHDRAW_REQUEST</name>
-		<body>Você está prestes a CANCELAR o pedido de duelo para %0. Deseja continuar?</body>
+		<body>Você está prestes a &lt;font color=&quot;ff0000&quot;&gt;cancelar&lt;/font&gt; o pedido de duelo para %0. Deseja continuar?</body>
 	</string>
 	<string>
 		<id>60000</id>
@@ -248,7 +248,7 @@
 	<string>
 		<id>80001</id>
 		<name>STR_GUILD_INVITE_DO_YOU_ACCEPT_INVITATION</name>
-		<body>Você foi convidado para entrar na Legião %0 (Nível %1) por %2. Deseja aceitar o convite?</body>
+		<body>Você foi convidado para entrar na &lt;font color=&quot;ffff00&quot;&gt;Legião &lt;%0&gt;&lt;/font&gt; (Nível %1) por &lt;font color=&quot;ffff00&quot;&gt;%2&lt;/font&gt;. Deseja aceitar o convite?</body>
 	</string>
 	<string>
 		<id>80002</id>
@@ -268,17 +268,17 @@
 	<string>
 		<id>80005</id>
 		<name>STR_GUILD_TRANSFER_GUILDMASTER</name>
-		<body>Você tem certeza que deseja transferir o Líder da Legião para %0?</body>
+		<body>Você tem certeza que deseja &lt;font color=&quot;ffff00&quot;&gt;transferir o Líder da Legião&lt;/font&gt; para &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;?</body>
 	</string>
 	<string>
 		<id>80006</id>
 		<name>STR_GUILD_DO_YOU_LEAVE</name>
-		<body>Você tem certeza que deseja sair da Legião %0?</body>
+		<body>Você tem certeza que deseja &lt;font color=&quot;ff0000&quot;&gt;sair&lt;/font&gt; da Legião &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;?</body>
 	</string>
 	<string>
 		<id>80007</id>
 		<name>STR_GUILD_DO_YOU_BANISH</name>
-		<body>Você tem certeza que deseja expulsar %0 da Legião?</body>
+		<body>Você tem certeza que deseja &lt;font color=&quot;ff0000&quot;&gt;expulsar&lt;/font&gt; &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; da Legião?</body>
 	</string>
 	<string>
 		<id>80008</id>
@@ -288,7 +288,7 @@
 	<string>
 		<id>80009</id>
 		<name>STR_GUILD_DISPERSE_STAYMODE_CANCEL</name>
-		<body>A Legião %0 está em processo de exclusão. Você deseja cancelar o processo de exclusão?</body>
+		<body>A Legião %0 está em &lt;font color=&quot;ffff00&quot;&gt;processo de exclusão&lt;/font&gt;. Você deseja cancelar o processo de exclusão?</body>
 	</string>
 	<string>
 		<id>80010</id>
@@ -298,7 +298,7 @@
 	<string>
 		<id>80011</id>
 		<name>STR_GUILD_CHANGE_MASTER_DO_YOU_ACCEPT_OFFER</name>
-		<body>%0 te nomeou como novo Líder da Legião. Você aceita o novo cargo?</body>
+		<body>&lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; te nomeou como novo &lt;font color=&quot;ffff00&quot;&gt;Líder da Legião&lt;/font&gt;. Você aceita o novo cargo?</body>
 	</string>
 	<string>
 		<id>90000</id>
@@ -308,7 +308,7 @@
 	<string>
 		<id>90001</id>
 		<name>STR_EXCHANGE_DO_YOU_ACCEPT_EXCHANGE</name>
-		<body>%0 te convidou para trocar itens. Você aceita?</body>
+		<body>&lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; te convidou para trocar itens. Você aceita?</body>
 	</string>
 	<string>
 		<id>90002</id>
@@ -10680,7 +10680,7 @@
 	<string>
 		<id>901757</id>
 		<name>STR_BINDSTONE_AUTH_PARTY</name>
-		<body>Membros do grupo de %0</body>
+		<body>Membros do Grupo de %0</body>
 	</string>
 	<string>
 		<id>901758</id>
@@ -10935,7 +10935,7 @@
 	<string>
 		<id>901808</id>
 		<name>STR_CANNOT_RESURRECT_DESC_BIND_STONE_FOR_SLAYER</name>
-		<body>&lt;p align=&quot;left&quot;&gt;&lt;font color=&quot;505895&quot;&gt;Você irá renascer no Kisk em %0&#xA;a menos que escolha outro método de ressurreição&#xA;dentro de %1 minuto(s).&lt;/font&gt;&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;&lt;font color=&quot;505895&quot;&gt;Tempo de Espera da Ressurreição: %2 segundos restantes&lt;/font&gt;&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;&lt;font color=&quot;505895&quot;&gt;Você irá renascer no Kisk em %0 a menos que escolha outro método de ressurreição dentro de %1 minuto(s).&lt;/font&gt;&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;&lt;font color=&quot;505895&quot;&gt;Tempo de Espera da Ressurreição: %2 segundos restantes&lt;/font&gt;&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901809</id>
@@ -10995,7 +10995,7 @@
 	<string>
 		<id>901820</id>
 		<name>STR_BINDSTONE_INFO_TOOLTIP</name>
-		<body>Localização: %5 &#xA;Tempo restante: %0 &#xA;Usuários: %num1 / %num2 &#xA;Usos restantes: %num3 / %num4</body>
+		<body>Localização: %5 &#xA;Tempo restante: %0 &#xA;Usuários: %num1/%num2 &#xA;Usos restantes: %num3/%num4</body>
 	</string>
 	<string>
 		<id>901821</id>
@@ -11135,7 +11135,7 @@
 	<string>
 		<id>901848</id>
 		<name>STR_INSTANT_DUNGEON_ENTER_GIVEUP_CONFIRM</name>
-		<body>Tem certeza de que deseja cancelar a entrada para %0?</body>
+		<body>Tem certeza de que deseja &lt;font color=&quot;ff0000&quot;&gt;cancelar&lt;/font&gt; a entrada para &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;?</body>
 	</string>
 	<string>
 		<id>901849</id>
@@ -11200,12 +11200,12 @@
 	<string>
 		<id>901861</id>
 		<name>STR_MAIL_MSG_FULL</name>
-		<body>&lt;p&gt;Você não pode receber mais nenhuma carta porque sua Caixa de Correio está cheia.&lt;/p&gt;&lt;p&gt;Por favor, exclua alguma carta desnecessária para poder receber novas cartas.&lt;/p&gt;</body>
+		<body>&lt;p&gt;Você não pode receber mais nenhuma carta porque sua &lt;font color=&quot;ff0000&quot;&gt;Caixa de Correio está cheia&lt;/font&gt;.&lt;/p&gt;&lt;p&gt;Por favor, &lt;font color=&quot;ffff00&quot;&gt;exclua alguma carta desnecessária&lt;/font&gt; para poder receber novas cartas.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901862</id>
 		<name>STR_INSTANT_DUNGEON_LEAVE_CONFIRM</name>
-		<body>&lt;p&gt;Depois de sair de %0, você não poderá entrar novamente até que o tempo de reentrada expire.&lt;/p&gt;&lt;p&gt;Tem certeza de que deseja sair de %0?&lt;/p&gt;</body>
+		<body>&lt;p&gt;Depois de sair de &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;, você não poderá entrar novamente até que o tempo de reentrada expire.&lt;/p&gt;&lt;p&gt;Tem certeza de que deseja &lt;font color=&quot;ff0000&quot;&gt;sair de %0&lt;/font&gt;?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901863</id>
@@ -12678,7 +12678,7 @@
 	<string>
 		<id>902157</id>
 		<name>STR_TOOLTIP_UNDERPASS_GATE_FIELDABYSS_NAME</name>
-		<body>Nome da Passagem</body>
+		<body>Nome</body>
 	</string>
 	<string>
 		<id>902158</id>
@@ -13610,17 +13610,17 @@
 	<string>
 		<id>902638</id>
 		<name>STR_TOOLTIP_INDUN_NAME</name>
-		<body>Área Instanciada</body>
+		<body>Instância</body>
 	</string>
 	<string>
 		<id>902639</id>
 		<name>STR_TOOLTIP_INDUN_MAX_NUMBER</name>
-		<body>Max</body>
+		<body>Máximo jogadores</body>
 	</string>
 	<string>
 		<id>902640</id>
 		<name>STR_TOOLTIP_INDUN_ENTER_LEVEL</name>
-		<body>Nível para Entrar</body>
+		<body>Nível para entrar</body>
 	</string>
 	<string>
 		<id>902645</id>
@@ -13900,7 +13900,7 @@
 	<string>
 		<id>902741</id>
 		<name>STR_SECONDPASSWORD_REGISTER_CONTENT</name>
-		<body>Para maior segurança, registre um PIN ao selecionar ou excluir personagens. (Este PIN deve ser diferente da senha da sua conta.)</body>
+		<body>Para maior segurança, registre um PIN ao selecionar ou excluir personagens. (Este PIN deve ser diferente da senha da conta.)</body>
 	</string>
 	<string>
 		<id>902742</id>
@@ -13910,7 +13910,7 @@
 	<string>
 		<id>902743</id>
 		<name>STR_SECONDPASSWORD_CHECK_CONTENT</name>
-		<body>Para aumentar a segurança do login, use o mouse para inserir o PIN da sua conta.</body>
+		<body>Para aumentar a segurança do login, use o mouse para inserir o PIN da conta.</body>
 	</string>
 	<string>
 		<id>902744</id>
@@ -14020,7 +14020,7 @@
 	<string>
 		<id>902765</id>
 		<name>STR_TOOLTIP_INDUN_REENTER_TIME</name>
-		<body>Continuar Instância</body>
+		<body>Renovar entradas</body>
 	</string>
 	<string>
 		<id>902766</id>
@@ -14120,7 +14120,7 @@
 	<string>
 		<id>902787</id>
 		<name>STR_TOOLTIP_PORTAL_NAME</name>
-		<body>Nome da Passagem</body>
+		<body>Nome</body>
 	</string>
 	<string>
 		<id>902788</id>
@@ -14130,17 +14130,17 @@
 	<string>
 		<id>902789</id>
 		<name>STR_TOOLTIP_PORTAL_USE_LEVEL</name>
-		<body>Usado pelos Níveis</body>
+		<body>Usado por níveis</body>
 	</string>
 	<string>
 		<id>902790</id>
 		<name>STR_TOOLTIP_PORTAL_USE_LEFT</name>
-		<body>Usos Restantes</body>
+		<body>Usos restantes</body>
 	</string>
 	<string>
 		<id>902791</id>
 		<name>STR_TOOLTIP_PORTAL_USE_TIME_LEFT</name>
-		<body>Tempo Restante</body>
+		<body>Tempo restante</body>
 	</string>
 	<string>
 		<id>902792</id>
@@ -14150,12 +14150,12 @@
 	<string>
 		<id>902793</id>
 		<name>STR_TOOLTIP_PORTAL_USE_LEFT_NUM</name>
-		<body>%0 vezes</body>
+		<body>%0x</body>
 	</string>
 	<string>
 		<id>902794</id>
 		<name>STR_TOOLTIP_PORTAL_USE_LEVEL_RANGE</name>
-		<body>%0 - %1</body>
+		<body>%0-%1</body>
 	</string>
 	<string>
 		<id>902795</id>
