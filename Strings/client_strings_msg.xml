@@ -18001,21 +18001,21 @@
 	<string>
 		<id>1400178</id>
 		<name>STR_MSG_CANT_INSTANCE_COOL_TIME_REMAIN</name>
-		<body>You may reenter %WORLDNAME1 after %DURATIONTIME0 has passed.</body>
+		<body>Você poderá entrar em %WORLDNAME1 depois de %DURATIONTIME0.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1400179</id>
 		<name>STR_MSG_CANT_INSTANCE_ENTER_LEVEL</name>
-		<body>You cannot enter the selected Instanced Zone at your level.</body>
+		<body>Você não pode entrar nesta Instância no seu nível.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1400180</id>
 		<name>STR_MSG_CANT_INSTANCE_TOO_MANY_MEMBERS</name>
-		<body>The %num0 player limit of %WORLDNAME1 has been exceeded.</body>
+		<body>O limite de %num0 jogadores em %WORLDNAME1 já foi excedido.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -18164,7 +18164,7 @@
 	<string>
 		<id>1400201</id>
 		<name>STR_MSG_CANNOT_ENTER_INSTANCE_MAX_COUNT</name>
-		<body>The %num0 player limit of %WORLDNAME1 has been exceeded.</body>
+		<body>O limite de %num0 jogadores em %WORLDNAME1 já foi excedido.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -19306,28 +19306,28 @@
 	<string>
 		<id>1400357</id>
 		<name>STR_MSG_INSTANCE_DUNGEON_WITH_DIFFICULTY_OPENED</name>
-		<body>%WORLDNAME1 (difficulty: %2) with a %num0 player limit has opened.</body>
+		<body>%WORLDNAME1 (dificuldade: %2) com limite de %num0 jogadores foi aberta.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1400358</id>
 		<name>STR_MSG_INSTANCE_DUNGEON_OPENED</name>
-		<body>%WORLDNAME1 with a %num0 player limit has opened.</body>
+		<body>%WORLDNAME1 com limite de %num0 jogadores foi aberta.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1400359</id>
 		<name>STR_MSG_INSTANCE_DUNGEON_WITH_DIFFICULTY_OPENED_INFO</name>
-		<body>%WORLDNAME1 (difficulty: %2) with a %num0 player limit is currently open.</body>
+		<body>%WORLDNAME1 (dificuldade: %2) com limite de %num0 jogadores foi aberta.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1400360</id>
 		<name>STR_MSG_INSTANCE_DUNGEON_OPENED_INFO</name>
-		<body>%WORLDNAME1 with a %num0 player limit is currently open.</body>
+		<body>%WORLDNAME1 com limite de %num0 jogadores está atualmente aberta.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
