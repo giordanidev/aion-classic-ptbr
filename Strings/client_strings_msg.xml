@@ -1896,19 +1896,19 @@
 	<string>
 		<id>1200519</id>
 		<name>STR_SKILL_SUCC_FPHeal_INTERVAL_ME_TO_B</name>
-		<body>[%SkillName] increased [%SkillTarget]&apos;s flight time by %num0.</body>
+		<body>[%SkillName] aumentou o Tempo de Voo de [%SkillTarget] em %num0.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200520</id>
 		<name>STR_SKILL_SUCC_FPHeal_Instant_HEAL_ME_TO_B</name>
-		<body>[%SkillName] increased [%SkillTarget]&apos;s flight time by %num0.</body>
+		<body>[%SkillName] aumentou o Tempo de Voo de [%SkillTarget] em %num0.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200521</id>
 		<name>STR_SKILL_SUCC_Heal_ME_TO_B</name>
-		<body>[%SkillTarget] continuously regenerates HP from [%SkillName].</body>
+		<body>[%SkillTarget] está recuperando HP continuamente devido ao uso da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -1950,7 +1950,7 @@
 	<string>
 		<id>1200528</id>
 		<name>STR_SKILL_SUCC_Hide_ME_TO_B</name>
-		<body>[%SkillTarget] receives the effect &apos;Hide&apos; from [%SkillName].</body>
+		<body>[%SkillTarget] está Invisível devido ao uso da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -1980,25 +1980,25 @@
 	<string>
 		<id>1200533</id>
 		<name>STR_SKILL_SUCC_MPAttack_Instant_ME_TO_B</name>
-		<body>[%SkillTarget] loses %num0 MP from [%SkillName].</body>
+		<body>[%SkillTarget] perdeu %num0 de MP por causa da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200534</id>
 		<name>STR_SKILL_SUCC_MPHeal_ME_TO_B</name>
-		<body>[%SkillCaster] has boosted [%SkillTarget]&apos;s MP porque usou [%SkillName].</body>
+		<body>[%SkillCaster] aumentou a MP de [%SkillTarget] porque usou  a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200535</id>
 		<name>STR_SKILL_SUCC_MPHeal_INTERVAL_ME_TO_B</name>
-		<body>[%SkillTarget] regenerates %num0 MP using [%SkillName].</body>
+		<body>[%SkillTarget] recuperou %num0 MP usando a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200536</id>
 		<name>STR_SKILL_SUCC_MPHeal_Instant_HEAL_ME_TO_B</name>
-		<body>[%SkillTarget] regenerates %num0 MP using [%SkillName].</body>
+		<body>[%SkillTarget] recuperou %num0 MP usando a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2052,7 +2052,7 @@
 	<string>
 		<id>1200545</id>
 		<name>STR_SKILL_SUCC_PROCFPHeal_Instant_HEAL_ME_TO_B</name>
-		<body>[%SkillName] increased [%SkillTarget]&apos;s flight time by %num0.</body>
+		<body>[%SkillName] aumentou o Tempo de Voo de [%SkillTarget] em %num0.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2064,7 +2064,7 @@
 	<string>
 		<id>1200547</id>
 		<name>STR_SKILL_SUCC_PROCMPHeal_Instant_HEAL_ME_TO_B</name>
-		<body>[%SkillTarget] regenerates %num0 MP using [%SkillName].</body>
+		<body>[%SkillTarget] recuperou %num0 MP usando a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -4662,7 +4662,7 @@
 	<string>
 		<id>1200980</id>
 		<name>STR_SKILL_SUCC_Heal_A_TO_B</name>
-		<body>[%SkillTarget] continuously regenerates HP from [%SkillName] used by [%SkillCaster].</body>
+		<body>[%SkillTarget] está recuperando HP continuamente devido ao uso da habilidade [%SkillName] used by [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -4734,7 +4734,7 @@
 	<string>
 		<id>1200992</id>
 		<name>STR_SKILL_SUCC_MPAttack_Instant_A_TO_B</name>
-		<body>[%SkillTarget] loses %num0 MP from [%SkillName] used by [%SkillCaster].</body>
+		<body>[%SkillTarget] perdeu %num0 de MP por causa da habilidade [%SkillName] used by [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
