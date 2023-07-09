@@ -18600,17 +18600,17 @@
 	<string>
 		<id>285139</id>
 		<name>STR_SKILL_Death_Abnormal</name>
-		<body>Due to the effects of soul sickness, your attributes and movement speed have decreased. The condition can be removed by receiving soul healing from a Soul Healer.</body>
+		<body>Devido aos efeitos de Soul Sickness, seus atributos e Velocidade de Movimento foram reduzidos. Essa condição pode ser removida conversando com um Soul Healer para receber a Cura de Alma.</body>
 	</string>
 	<string>
 		<id>285140</id>
 		<name>STR_SYSTEM_SKILL_TestResurrectDebuff_Abnormal</name>
-		<body>Due to the effects of soul sickness, your attributes and movement speed have decreased. The condition can be removed by receiving soul healing from a Soul Healer.</body>
+		<body>Devido aos efeitos de Soul Sickness, seus atributos e Velocidade de Movimento foram reduzidos. Essa condição pode ser removida conversando com um Soul Healer para receber a Cura de Alma.</body>
 	</string>
 	<string>
 		<id>285141</id>
 		<name>STR_SYSTEM_SKILL_TestRebirthDebuff_Abnormal</name>
-		<body>Due to the effects of soul sickness, your attributes and movement speed have decreased. The condition can be removed by receiving soul healing from a Soul Healer.</body>
+		<body>Devido aos efeitos de Soul Sickness, seus atributos e Velocidade de Movimento foram reduzidos. Essa condição pode ser removida conversando com um Soul Healer para receber a Cura de Alma.</body>
 	</string>
 	<string>
 		<id>285142</id>
@@ -18655,7 +18655,7 @@
 	<string>
 		<id>285150</id>
 		<name>STR_SKILL_CL_ResurrectDebuff_Abnormal</name>
-		<body>Due to the effects of soul sickness, your attributes and movement speed have decreased. The condition can be removed by receiving soul healing from a Soul Healer.</body>
+		<body>Devido aos efeitos de Soul Sickness, seus atributos e Velocidade de Movimento foram reduzidos. Essa condição pode ser removida conversando com um Soul Healer para receber a Cura de Alma.</body>
 	</string>
 	<string>
 		<id>285151</id>

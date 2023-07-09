@@ -463,7 +463,7 @@
 	<string>
 		<id>160011</id>
 		<name>STR_ASK_RECOVER_EXPERIENCE</name>
-		<body>&lt;p&gt;Você pode &lt;font color=&quot;ffff00&quot;&gt;restaurar a experiência&lt;/font&gt; e &lt;font color=&quot;ffff00&quot;&gt;remover o efeito de ressurreição&lt;/font&gt; se sua alma for curada. A &lt;font color=&quot;ffff00&quot;&gt;Cura de Alma&lt;/font&gt; requer &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Você quer curar sua alma?&lt;/p&gt;</body>
+		<body>&lt;p&gt;Você pode &lt;font color=&quot;ffff00&quot;&gt;restaurar a experiência&lt;/font&gt; e remover o efeito de &lt;font color=&quot;ffff00&quot;&gt;Soul Sickness&lt;/font&gt; se sua alma for curada. A &lt;font color=&quot;ffff00&quot;&gt;Cura de Alma&lt;/font&gt; requer &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Você quer curar sua alma?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>160012</id>
@@ -658,7 +658,7 @@
 	<string>
 		<id>230019</id>
 		<name>STR_CHAT_MODE_CMD_GUILD</name>
-		<body>Legion,Le,L,Guild,Guil,Gui,Clan,C</body>
+		<body>Legion,Le,L,Guild,Guil,Gui,Clan,C,Legiao,Legião</body>
 	</string>
 	<string>
 		<id>230020</id>
@@ -673,7 +673,7 @@
 	<string>
 		<id>230022</id>
 		<name>STR_CHAT_MODE_CMD_PARTY</name>
-		<body>Group,Gr,G,Party,P</body>
+		<body>Group,Gr,G,Party,P,Grupo</body>
 	</string>
 	<string>
 		<id>230023</id>
@@ -688,7 +688,7 @@
 	<string>
 		<id>230025</id>
 		<name>STR_CHAT_MODE_CMD_GENERAL</name>
-		<body>General,Gen,Say,S,Normal,N</body>
+		<body>General,Gen,Say,S,Normal,N,Falar,Geral</body>
 	</string>
 	<string>
 		<id>230026</id>
@@ -703,7 +703,7 @@
 	<string>
 		<id>230028</id>
 		<name>STR_CHAT_MODE_CMD_ALLIANCE</name>
-		<body>Alliance,Alli,Al,A,Raid,R</body>
+		<body>Alliance,Alli,Al,A,Raid,R,Aliança,Alianca</body>
 	</string>
 	<string>
 		<id>230029</id>
@@ -718,7 +718,7 @@
 	<string>
 		<id>230031</id>
 		<name>STR_CHAT_MODE_CMD_WHISPER</name>
-		<body>Whisper,Whi,W,Tell,T</body>
+		<body>Whisper,Whi,W,Tell,T,MP,Mensagem</body>
 	</string>
 	<string>
 		<id>230032</id>
@@ -728,7 +728,7 @@
 	<string>
 		<id>230033</id>
 		<name>STR_CMD_HELP</name>
-		<body>/H,/Tips,/Help,/?</body>
+		<body>/H,/Tips,/Help,/?,/Ajuda</body>
 	</string>
 	<string>
 		<id>230034</id>
@@ -738,7 +738,7 @@
 	<string>
 		<id>230035</id>
 		<name>STR_CMD_LOCATION_HAN</name>
-		<body>/Location,/Loc</body>
+		<body>/Location,/Loc,/Local,/Localizacao,/Localização</body>
 	</string>
 	<string>
 		<id>230036</id>
@@ -768,17 +768,17 @@
 	<string>
 		<id>230041</id>
 		<name>STR_CMD_TODAY_WORDS</name>
-		<body>/ShortMessage,/TodaysShortMessage,/Today,/GToday</body>
+		<body>/ShortMessage,/TodaysShortMessage,/Today,/GToday,/Hoje</body>
 	</string>
 	<string>
 		<id>230042</id>
 		<name>STR_CMD_BLOCK</name>
-		<body>/Block</body>
+		<body>/Block,/Bloquear</body>
 	</string>
 	<string>
 		<id>230043</id>
 		<name>STR_CMD_WHO_HAN</name>
-		<body>/Search,/Who,/WhoIs</body>
+		<body>/Search,/Who,/WhoIs,/Procurar</body>
 	</string>
 	<string>
 		<id>230044</id>
@@ -5859,7 +5859,7 @@
 	<string>
 		<id>900753</id>
 		<name>STR_CHAT_CMD_GENERAL</name>
-		<body></body>
+		<body>/Say,/Falar</body>
 	</string>
 	<string>
 		<id>900754</id>
@@ -9759,7 +9759,7 @@
 	<string>
 		<id>901567</id>
 		<name>STR_RESURRECT_DESC_BIND_STONE</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Você irá renascer no &lt;font color=&quot;ffff00&quot;&gt;Kisk&lt;/font&gt; em &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;, a não ser que você escolha outro método para renascer em até %1 minuto(s).&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Você poderá escolher uma opção em %2 segundos.&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Você pode renascer no &lt;font color=&quot;ffff00&quot;&gt;Kisk&lt;/font&gt; em &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; se escolher essa opção em até %1 minuto(s).&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Você poderá escolher uma opção em %2 segundos.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901568</id>
@@ -9769,7 +9769,7 @@
 	<string>
 		<id>901569</id>
 		<name>STR_RESURRECT_DESC_ITEM</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Você pode ressuscitar neste local usando &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Você deve escolher um método de ressurreição em até %1 minuto(s).&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Você pode ressuscitar neste local usando &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Você deve escolher um método para renascer em até %1 minuto(s).&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901570</id>

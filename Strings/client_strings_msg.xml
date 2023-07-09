@@ -16634,14 +16634,14 @@
 	<string>
 		<id>1390256</id>
 		<name>STR_MSG_ENTER_ONLY_PARTY_DON</name>
-		<body>This area is only accessible to groups.</body>
+		<body>Esta área só pode ser acessada enquanto você estiver em um Grupo.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1390257</id>
 		<name>STR_MSG_NOT_ENOUGH_MEDAL</name>
-		<body>You do not have enough Medals.</body>
+		<body>Você não tem a quantidade necessária de Medalhas.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -16690,14 +16690,14 @@
 	<string>
 		<id>1390264</id>
 		<name>STR_QUEST_ANOTHER_SINGLE_STEP_NOT_COMPLETED</name>
-		<body>Please complete your current quest first.</body>
+		<body>Por favor, complete a sua missão atual primeiro.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1390265</id>
 		<name>STR_MSG_INSTANCE_LOCKED</name>
-		<body>You cannot join once it has started.</body>
+		<body>Você não pode entrar depois de já ter começado!</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -16746,7 +16746,7 @@
 	<string>
 		<id>1390272</id>
 		<name>STR_MSG_CANT_INSTANCE_COOL_TIME_INIT</name>
-		<body>The selected Instanced Zone&apos;s cooldown time can&apos;t be reset.</body>
+		<body>A Instância selecionada não pode ter o Tempo de Reentrada resetado.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -16767,28 +16767,28 @@
 	<string>
 		<id>1400002</id>
 		<name>STR_CMD_SHOUT_OUTPUT_NPC</name>
-		<body>%0 shouts:</body>
+		<body>%0 gritou:</body>
 		<message_type>2</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1400003</id>
 		<name>STR_CMD_SHOUT_OUTPUT1_NPC</name>
-		<body>%0 asks %1 for help.</body>
+		<body>%0 está pedindo a ajuda de %1.</body>
 		<message_type>2</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1400004</id>
 		<name>STR_CMD_SHOUT_INPUT</name>
-		<body>You shout: %0</body>
+		<body>Você gritou: %0</body>
 		<message_type>2</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1400005</id>
 		<name>STR_CMD_SHOUT_INPUT1</name>
-		<body>You shout for help.</body>
+		<body>Você gritou por ajuda!.</body>
 		<message_type>2</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -16823,63 +16823,63 @@
 	<string>
 		<id>1400010</id>
 		<name>STR_FORCE_ENTER_WITH_PARTY</name>
-		<body>Your group has joined %0&apos;s alliance.</body>
+		<body>Seu Grupo entrou na Aliança de %0.</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1400011</id>
 		<name>STR_FORCE_ENTER_HIM</name>
-		<body>%0 has joined the alliance.</body>
+		<body>%0 entrou na Aliança.</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1400012</id>
 		<name>STR_FORCE_ENTER_WITH_HIS_PARTY</name>
-		<body>%0&apos;s group has joined the alliance.</body>
+		<body>O Grupo de %0 entrou na Aliança.</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1400013</id>
 		<name>STR_FORCE_HE_ENTERED_FORCE</name>
-		<body>%0 has joined the alliance.</body>
+		<body>%0 entrou na Aliança.</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1400014</id>
 		<name>STR_PARTY_ALLIANCE_HIS_PARTY_ENTERED_ALLIANCE</name>
-		<body>%0&apos;s group has joined the alliance.</body>
+		<body>O Grupo de%0 entrou na Aliança.</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1400015</id>
 		<name>STR_PARTY_ALLIANCE_MY_PARTY_ENTERED_ALLIANCE</name>
-		<body>Your group has joined the alliance.</body>
+		<body>Seu Grupo entrou em uma Aliança.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1400016</id>
 		<name>STR_PARTY_ALLIANCE_ENTERY_PARTY_AND_ALLIANCE</name>
-		<body>You have joined a group belonging to an alliance.</body>
+		<body>Você entrou em um Grupo que pertence a uma Aliança.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1400017</id>
 		<name>STR_PARTY_ALLIANCE_HE_ENTERED_ALLIANCE</name>
-		<body>%0 has joined the alliance.</body>
+		<body>%0 entrou na Aliança.</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1400018</id>
 		<name>STR_FORCE_ENTER_MEMBER</name>
-		<body>You have joined %0&apos;s allliance.</body>
+		<body>Você entrou na Aliança de %0.</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -16900,7 +16900,7 @@
 	<string>
 		<id>1400021</id>
 		<name>STR_ABYSS_NPC_BOSS_KILLED</name>
-		<body>%0 killed the Guardian General.</body>
+		<body>%0 matou o  Guardian General.</body>
 		<message_type>55</message_type>
 		<display_type>1</display_type>
 		<ment>ab_die_fix</ment>
@@ -16915,7 +16915,7 @@
 	<string>
 		<id>1400023</id>
 		<name>STR_ABYSS_ORDER_RANKER_DIE</name>
-		<body>%0 %1 %2 has died in %3.</body>
+		<body>%1 dos %0 %2 morreu em %3.</body>
 		<message_type>55</message_type>
 		<display_type>1</display_type>
 	</string>
