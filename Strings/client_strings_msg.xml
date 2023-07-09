@@ -1958,7 +1958,7 @@
 		<name>STR_SKILL_SUCC_HostileUp_ME_TO_B</name>
 		<body>[%SkillTarget] ganhou %0 de Provocação da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
-	</string>VV
+	</string>
 	<string>
 		<id>1200530</id>
 		<name>STR_SKILL_SUCC_MagicCounterATK_ME_TO_B</name>
