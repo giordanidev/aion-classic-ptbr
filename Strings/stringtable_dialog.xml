@@ -4443,37 +4443,37 @@
 	<string>
 		<id>910777</id>
 		<name>STR_GATHERING_DIALOG__WIDGET1</name>
-		<body>Coleção</body>
+		<body>Coletando</body>
 	</string>
 	<string>
 		<id>910778</id>
 		<name>STR_GATHERING_DIALOG__WIDGET3</name>
-		<body>Successo</body>
+		<body>Sucesso</body>
 	</string>
 	<string>
 		<id>910779</id>
 		<name>STR_GATHERING_DIALOG__WIDGET4</name>
-		<body>Falhou</body>
+		<body>Falha</body>
 	</string>
 	<string>
 		<id>910780</id>
 		<name>STR_MAKING_DIALOG__WIDGET1</name>
-		<body>Criação</body>
+		<body>Criando</body>
 	</string>
 	<string>
 		<id>910781</id>
 		<name>STR_MAKING_DIALOG__WIDGET3</name>
-		<body>Successo</body>
+		<body>Sucesso</body>
 	</string>
 	<string>
 		<id>910782</id>
 		<name>STR_MAKING_DIALOG__WIDGET4</name>
-		<body>Falhou</body>
+		<body>Falha</body>
 	</string>
 	<string>
 		<id>910783</id>
 		<name>STR_MAKING_INFO_DIALOG</name>
-		<body>Informações do Craft</body>
+		<body>Informações da Criação</body>
 	</string>
 	<string>
 		<id>910784</id>
