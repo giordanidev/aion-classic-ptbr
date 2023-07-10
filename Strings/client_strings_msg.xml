@@ -2268,7 +2268,7 @@
 	<string>
 		<id>1200581</id>
 		<name>STR_SKILL_SUCC_SwitchHPMP_Instant_ME_TO_B</name>
-		<body>[%SkillTarget]&apos;s HP and MP were swapped by [%SkillName].</body>
+		<body>A HP e a MP de [%SkillTarget] foram trocados com o uso da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
