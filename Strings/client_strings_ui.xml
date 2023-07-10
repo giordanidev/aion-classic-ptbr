@@ -5426,7 +5426,7 @@
 	<string>
 		<id>900665</id>
 		<name>STR_GUILD_MENU_BANISH</name>
-		<body>Banir da Legião</body>
+		<body>Expulsar da Legião</body>
 	</string>
 	<string>
 		<id>900666</id>
@@ -8959,7 +8959,7 @@
 	<string>
 		<id>901405</id>
 		<name>STR_GAUGE_NPC_TALKING</name>
-		<body>Em uso</body>
+		<body>Ativando o item</body>
 	</string>
 	<string>
 		<id>901406</id>

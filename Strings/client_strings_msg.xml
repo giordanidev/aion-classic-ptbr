@@ -1926,7 +1926,7 @@
 	<string>
 		<id>1200524</id>
 		<name>STR_SKILL_SUCC_HealCastorOnAttacked_ME_TO_B</name>
-		<body>[%SkillTarget] receives the effect &apos;Reverse Damage&apos; from [%SkillName].</body>
+		<body>[%SkillTarget] recebeu o efeito 'Reverter Dano' da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -1938,7 +1938,7 @@
 	<string>
 		<id>1200526</id>
 		<name>STR_SKILL_SUCC_HealCastorOnTargetDead_ME_TO_B</name>
-		<body>[%SkillTarget] avoided death thanks to the Reverse Damage applied by [%SkillName].</body>
+		<body>[%SkillTarget] evitou a morte graças ao efeito 'Reverter Dano' concebido pela habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -1986,7 +1986,7 @@
 	<string>
 		<id>1200534</id>
 		<name>STR_SKILL_SUCC_MPHeal_ME_TO_B</name>
-		<body>[%SkillCaster] aumentou a MP de [%SkillTarget] porque usou  a habilidade [%SkillName].</body>
+		<body>[%SkillCaster] aumentou a MP de [%SkillTarget] porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2004,25 +2004,25 @@
 	<string>
 		<id>1200537</id>
 		<name>STR_SKILL_SUCC_OneTimeBoostHealEffect_ME_TO_B</name>
-		<body>[%SkillTarget] receives the effect &apos;Boosted Healing Skills&apos; from [%SkillName].</body>
+		<body>[%SkillTarget] recebeu o efeito de 'Cura Aumentada' da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200538</id>
 		<name>STR_SKILL_SUCC_OneTimeBoostSkillAttack_ME_TO_B</name>
-		<body>[%SkillName] boosted [%SkillTarget]&apos;s skills.</body>
+		<body>[%SkillName] melhorou as habilidades de [%SkillTarget].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200539</id>
 		<name>STR_SKILL_SUCC_OneTimeBoostSkillCritical_ME_TO_B</name>
-		<body>[%SkillTarget]&apos;s crit strike was increased by [%SkillName].</body>
+		<body>O Crítico Físico de [%SkillTarget] foi aumentado pela habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200540</id>
 		<name>STR_SKILL_SUCC_OneTimeTypeBoostSkillLevel_ME_TO_B</name>
-		<body>[%SkillName] boosted [%SkillTarget]&apos;s skills.</body>
+		<body>[%SkillName] melhorou as habilidades de [%SkillTarget].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2034,7 +2034,7 @@
 	<string>
 		<id>1200542</id>
 		<name>STR_SKILL_SUCC_Polymorph_ME_TO_B</name>
-		<body>[%SkillTarget] transformed into %0 porque usou [%SkillName].</body>
+		<body>[%SkillTarget] se transformou em %0 porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2070,31 +2070,31 @@
 	<string>
 		<id>1200548</id>
 		<name>STR_SKILL_SUCC_Protect_ME_TO_B</name>
-		<body>[%SkillTarget] received a protection effect from [%SkillName].</body>
+		<body>[%SkillTarget] recebeu um efeito de proteção da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200549</id>
 		<name>STR_SKILL_SUCC_Protect_INTERVAL_ME_TO_B</name>
-		<body>[%SkillTarget] blocked %num0 damage porque usou [%SkillName].</body>
+		<body>[%SkillTarget] bloqueou %num0 de dano porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200550</id>
 		<name>STR_SKILL_SUCC_Provoker_ME_TO_B</name>
-		<body>[%SkillName] affects [%SkillTarget].</body>
+		<body>[%SkillName] afetou [%SkillTarget].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200551</id>
 		<name>STR_SKILL_SUCC_Pulled_ME_TO_B</name>
-		<body>[%SkillTarget] is inflicted with %num0 damage and the &apos;Dragging&apos; effect caused by [%SkillName].</body>
+		<body>[%SkillTarget] recebeu %num0 de dano e o efeito 'Puxado' causado pela habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200552</id>
 		<name>STR_SKILL_SUCC_RandomMoveLoc_ME_TO_B</name>
-		<body>[%SkillTarget] teleports with [%SkillName].</body>
+		<body>[%SkillTarget] teleportou usando a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2136,7 +2136,7 @@
 	<string>
 		<id>1200559</id>
 		<name>STR_SKILL_SUCC_ShapeChange_ME_TO_B</name>
-		<body>[%SkillTarget] transformed into %0 porque usou [%SkillName].</body>
+		<body>[%SkillTarget] se transformou em %0 porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -3624,7 +3624,7 @@
 	<string>
 		<id>1200807</id>
 		<name>STR_SKILL_SUCC_Deform_A_TO_SELF</name>
-		<body>[%SkillCaster] transformed into %0 porque usou [%SkillName].</body>
+		<body>[%SkillCaster] se transformou em %0 porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -3870,7 +3870,7 @@
 	<string>
 		<id>1200848</id>
 		<name>STR_SKILL_SUCC_Polymorph_A_TO_SELF</name>
-		<body>[%SkillCaster] transformed into %0 porque usou [%SkillName].</body>
+		<body>[%SkillCaster] se transformou em %0 porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -3924,13 +3924,13 @@
 	<string>
 		<id>1200857</id>
 		<name>STR_SKILL_SUCC_Pulled_A_TO_SELF</name>
-		<body>[%SkillCaster] is inflicted with %num0 damage and the &apos;Dragging&apos; effect caused by [%SkillName].</body>
+		<body>[%SkillCaster] recebeu %num0 de dano e o efeito 'Puxado' causado pela habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200858</id>
 		<name>STR_SKILL_SUCC_RandomMoveLoc_A_TO_SELF</name>
-		<body>[%SkillCaster] teleports with [%SkillName].</body>
+		<body>[%SkillCaster] teleportou usando a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -3972,7 +3972,7 @@
 	<string>
 		<id>1200865</id>
 		<name>STR_SKILL_SUCC_ShapeChange_A_TO_SELF</name>
-		<body>[%SkillCaster] transformed into %0 porque usou [%SkillName].</body>
+		<body>[%SkillCaster] se transformou em %0 porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -18280,14 +18280,14 @@
 	<string>
 		<id>1400217</id>
 		<name>STR_MSG_PARTY_MATCH_DECLINED</name>
-		<body>It&apos;s a shame, but let&apos;s play together next time. Have a good time in Aion!</body>
+		<body>I'm looking for another class at the moment. It's a shame, but let's play together next time. Have a good time in Aion!</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1400218</id>
 		<name>STR_MSG_FORCE_MATCH_DECLINED</name>
-		<body>It&apos;s a shame, but let&apos;s play together next time. Have a good time in Aion!</body>
+		<body>I'm looking for another class at the moment. It's a shame, but let's play together next time. Have a good time in Aion!</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -19551,14 +19551,14 @@
 	<string>
 		<id>1400392</id>
 		<name>STR_PARTY_MATCH_OFFER_PARTY_POSTED</name>
-		<body>Your request has been registered on the Recruit Group Member List.</body>
+		<body>Seu pedido foi registrado na lista de Criação de Grupos.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1400393</id>
 		<name>STR_PARTY_MATCH_SEEK_PARTY_POSTED</name>
-		<body>Your request has been registered on the Apply For Group List.</body>
+		<body>Seu pedido foi registrado na lista de Procura de Grupos.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -28131,7 +28131,7 @@
 	<string>
 		<id>1401680</id>
 		<name>STR_MSG_PARTY_MATCH_INSTANCE_MATCH_POSTED</name>
-		<body>Your request has been registered on the server-wide recruitment list.</body>
+		<body>Seu pedido foi registrado na lista de Procura de Grupo entre servidores.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -28173,7 +28173,7 @@
 	<string>
 		<id>1401686</id>
 		<name>STR_MSG_INSTANCE_REGISTER_CANCELED_PARTY_MEMBER</name>
-		<body>%0 has cancelled the request.</body>
+		<body>%0 cancelou a requisição.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
