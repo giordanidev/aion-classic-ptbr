@@ -318,7 +318,7 @@
 	<string>
 		<id>90003</id>
 		<name>STR_STIGMA_CONFIRM_CANCEL</name>
-		<body>Você tem certeza que deseja remover a Stigma selecionada?</body>
+		<body>Você tem certeza que deseja &lt;font color=&quot;ff0000&quot;&gt;remover&lt;/font&gt; a Stigma selecionada?</body>
 	</string>
 	<string>
 		<id>90004</id>
@@ -403,17 +403,17 @@
 	<string>
 		<id>150000</id>
 		<name>STR_QUEST_GIVEUP</name>
-		<body>Você tem certeza que deseja abandonar essa quest?</body>
+		<body>Você tem certeza que deseja &lt;font color=&quot;ff0000&quot;&gt;abandonar&lt;/font&gt; essa missão?</body>
 	</string>
 	<string>
 		<id>150001</id>
 		<name>STR_QUEST_GIVEUP_WHEN_DELETE_QUEST_ITEM</name>
-		<body>Descartar o item '%0' e abandonar a quest '%1'?</body>
+		<body>Descartar o item &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; e &lt;font color=&quot;ff0000&quot;&gt;abandonar&lt;/font&gt; a missão &lt;font color=&quot;ff0000&quot;&gt;%1&lt;/font&gt;?</body>
 	</string>
 	<string>
 		<id>160000</id>
 		<name>STR_VENDOR_CANCEL</name>
-		<body>A taxa não vai ser ressarcida se você cancelar. Tem certeza que deseja cancelar?</body>
+		<body>A taxa &lt;font color=&quot;ffff00&quot;&gt;não vai ser ressarcida&lt;/font&gt; se você cancelar. Tem certeza que deseja cancelar?</body>
 	</string>
 	<string>
 		<id>160001</id>
@@ -463,7 +463,7 @@
 	<string>
 		<id>160011</id>
 		<name>STR_ASK_RECOVER_EXPERIENCE</name>
-		<body>&lt;p&gt;Você pode &lt;font color=&quot;ffff00&quot;&gt;restaurar a experiência&lt;/font&gt; e remover o efeito de &lt;font color=&quot;ffff00&quot;&gt;Soul Sickness&lt;/font&gt; se sua alma for curada. A &lt;font color=&quot;ffff00&quot;&gt;Cura de Alma&lt;/font&gt; requer &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Você quer curar sua alma?&lt;/p&gt;</body>
+		<body>&lt;p&gt;Você pode restaurar a experiência e remover o efeito de &lt;font color=&quot;ffff00&quot;&gt;Soul Sickness&lt;/font&gt; se sua alma for curada. A &lt;font color=&quot;ffff00&quot;&gt;Cura de Alma&lt;/font&gt; requer &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%qina0&lt;/font&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Você quer curar sua alma?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>160012</id>
@@ -3886,7 +3886,7 @@
 	<string>
 		<id>900357</id>
 		<name>STR_MAIL_CONFIRM_DEL</name>
-		<body>Tem certeza que deseja excluir a carta selecionada?</body>
+		<body>Tem certeza que deseja &lt;font color=&quot;ff0000&quot;&gt;excluir&lt;/font&gt; a carta selecionada?</body>
 	</string>
 	<string>
 		<id>900358</id>
@@ -8094,7 +8094,7 @@
 	<string>
 		<id>901232</id>
 		<name>STR_Abyssrank_light_18</name>
-		<body>Marechal</body>
+		<body>Governador</body>
 	</string>
 	<string>
 		<id>901233</id>
@@ -8184,7 +8184,7 @@
 	<string>
 		<id>901250</id>
 		<name>STR_Abyssrank_dark_18</name>
-		<body>Marechal</body>
+		<body>Governador</body>
 	</string>
 	<string>
 		<id>901251</id>
@@ -9444,7 +9444,7 @@
 	<string>
 		<id>901504</id>
 		<name>STR_ABYSS_REWARD_MAIL_OCCUPY_HEADER_LIGHT</name>
-		<body>Nós, Elyos, alcançamos uma vitória esmagadora na guerra da Fortaleza por ocupar %2 em %1 em %0.</body>
+		<body>Nós, Elyos, alcançamos uma vitória esmagadora na guerra por ocupar %2 às %1 na data de %0.</body>
 	</string>
 	<string>
 		<id>901505</id>
@@ -9469,7 +9469,7 @@
 	<string>
 		<id>901509</id>
 		<name>STR_ABYSS_REWARD_MAIL_OCCUPY_HEADER_DARK</name>
-		<body>Nós, Asmodians, alcançamos uma vitória esmagadora na guerra da Fortaleza por ocupar %2 em %1 em %0.</body>
+		<body>Nós, Asmodians, alcançamos uma vitória esmagadora na guerra por ocupar %2 às %1 na data de %0.</body>
 	</string>
 	<string>
 		<id>901510</id>
@@ -9494,7 +9494,7 @@
 	<string>
 		<id>901514</id>
 		<name>STR_ABYSS_REWARD_MAIL_DEFENSE_HEADER_LIGHT</name>
-		<body>Por suas conquistas na guerra de Fortaleza por ocupar %2 em %1 em %0,</body>
+		<body>Por suas conquistas na guerra em %2 às %1 na data de %0, </body>
 	</string>
 	<string>
 		<id>901515</id>
@@ -9519,7 +9519,7 @@
 	<string>
 		<id>901519</id>
 		<name>STR_ABYSS_REWARD_MAIL_DEFENSE_HEADER_DARK</name>
-		<body>Por suas conquistas na guerra de Fortaleza por ocupar %2 em %1 em %0,</body>
+		<body>Por suas conquistas na guerra em %2 às %1 na data de %0, </body>
 	</string>
 	<string>
 		<id>901520</id>
@@ -10184,7 +10184,7 @@
 	<string>
 		<id>901652</id>
 		<name>STR_MSG_AUTO_DISCONNECTED</name>
-		<body>Você foi desconectado por estar AFK por muito tempo.</body>
+		<body>Você foi &lt;font color=&quot;ff0000&quot;&gt;desconectado&lt;/font&gt; por estar &lt;font color=&quot;ffff00&quot;&gt;AFK&lt;/font&gt; por muito tempo.</body>
 	</string>
 	<string>
 		<id>901653</id>
@@ -15886,7 +15886,7 @@
 	<string>
 		<id>903199</id>
 		<name>STR_MSGBOX_CASH_DISCONNECTED_DUE_TO_WEB_REQUEST</name>
-		<body>Você foi desconectado do servidor.</body>
+		<body>Você foi &lt;font color=&quot;ff0000&quot;&gt;desconectado&lt;/font&gt; do servidor.</body>
 	</string>
 	<string>
 		<id>903200</id>
