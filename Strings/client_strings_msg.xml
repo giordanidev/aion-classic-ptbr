@@ -1962,7 +1962,7 @@
 	<string>
 		<id>1200530</id>
 		<name>STR_SKILL_SUCC_MagicCounterATK_ME_TO_B</name>
-		<body>[%SkillTarget] receives the effect &apos;Magical Counter-Attack&apos; from [%SkillName].</body>
+		<body>[%SkillTarget] recebeu o efeito 'Contra-Ataque Mágico' da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2028,7 +2028,7 @@
 	<string>
 		<id>1200541</id>
 		<name>STR_SKILL_SUCC_PetOrderUseUltraSkill_ME_TO_B</name>
-		<body>[%SkillName] makes your spirit use its skill on [%SkillTarget].</body>
+		<body>[%SkillName] faz seu espírito usar suas habilidades em [%SkillTarget].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2100,37 +2100,37 @@
 	<string>
 		<id>1200553</id>
 		<name>STR_SKILL_SUCC_Rebirth_ME_TO_B</name>
-		<body>[%SkillTarget] received the &apos;Reserved Resurrection&apos; effect from [%SkillName].</body>
+		<body>[%SkillTarget] recebeu o efeito de 'Ressurreição Reservada' da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200554</id>
 		<name>STR_SKILL_SUCC_Reflector_ME_TO_B</name>
-		<body>[%SkillTarget] receives the effect &apos;Reflect&apos; from [%SkillName].</body>
+		<body>[%SkillTarget] recebeu o efeito de 'Refletir Dano' da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200555</id>
 		<name>STR_SKILL_SUCC_Reflector_INTERVAL_ME_TO_B</name>
-		<body>[%SkillTarget] reflects %num0 damage from [%SkillName].</body>
+		<body>[%SkillTarget] refletiu %num0 de dano da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200556</id>
 		<name>STR_SKILL_SUCC_Resurrect_ME_TO_B</name>
-		<body>[%SkillTarget] is resurrected by [%SkillName].</body>
+		<body>[%SkillTarget] foi ressuscitado pelo uso da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200557</id>
 		<name>STR_SKILL_SUCC_ResurrectPositional_ME_TO_B</name>
-		<body>[%SkillTarget] receives the &apos;Summon Resurrection&apos; effect from [%SkillName].</body>
+		<body>[%SkillTarget] recebeu o efeito de 'Invocação de Ressurreição' da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200558</id>
 		<name>STR_SKILL_SUCC_Search_ME_TO_B</name>
-		<body>[%SkillTarget] receives the &apos;Penetrate&apos; effect from [%SkillName].</body>
+		<body>[%SkillTarget] recebeu o efeito de 'Penetração' da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2142,13 +2142,13 @@
 	<string>
 		<id>1200560</id>
 		<name>STR_SKILL_SUCC_Shield_ME_TO_B</name>
-		<body>[%SkillTarget] receives a protective shield from [%SkillName].</body>
+		<body>[%SkillTarget] recebeu um escudo de proteção da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200561</id>
 		<name>STR_SKILL_SUCC_Shield_INTERVAL_ME_TO_B</name>
-		<body>[%SkillTarget] blocked %num0 damage porque usou [%SkillName].</body>
+		<body>[%SkillTarget] bloqueou %num0 de dano porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2172,7 +2172,7 @@
 	<string>
 		<id>1200565</id>
 		<name>STR_SKILL_SUCC_SpellATK_ME_TO_B</name>
-		<body>[%SkillTarget] suffers continuous damage from [%SkillName].</body>
+		<body>[%SkillTarget] está sofrendo dano contínuo da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2184,7 +2184,7 @@
 	<string>
 		<id>1200567</id>
 		<name>STR_SKILL_SUCC_SpellATKDrain_ME_TO_B</name>
-		<body>You start draining [%SkillTarget]&apos;s HP with [%SkillName].</body>
+		<body>Você está drenando a HP de [%SkillTarget] com a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2196,73 +2196,73 @@
 	<string>
 		<id>1200569</id>
 		<name>STR_SKILL_SUCC_Sprint_ME_TO_B</name>
-		<body>[%SkillTarget] receives the &apos;Increase Movement Speed&apos; effect from [%SkillName].</body>
+		<body>A Velocidade de Movimento de [%SkillTarget] foi melhorada com a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200570</id>
 		<name>STR_SKILL_SUCC_StatDown_ME_TO_B</name>
-		<body>[%SkillTarget]&apos;s %0 was weakened by [%SkillName].</body>
+		<body>A %0 de [%SkillTarget] foi reduzida pela habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200571</id>
 		<name>STR_SKILL_SUCC_StatUp_ME_TO_B</name>
-		<body>[%SkillTarget]&apos;s %0 was boosted by [%SkillName].</body>
+		<body>A %0 de [%SkillTarget] foi melhorada pela habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200572</id>
 		<name>STR_SKILL_SUCC_SubTypeBoostResist_ME_TO_B</name>
-		<body>[%SkillName] reduced [%SkillTarget]&apos;s %0 resistance.</body>
+		<body>[%SkillName] reduziu a Resistência à %0 de [%SkillTarget].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200573</id>
 		<name>STR_SKILL_SUCC_SubTypeExtendDuration_ME_TO_B</name>
-		<body>[%SkillTarget]&apos;s %0 skill duration was changed by [%SkillName].</body>
+		<body>A duração da habilidade %0 de [%SkillTarget] foi alterada pela habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200574</id>
 		<name>STR_SKILL_SUCC_Summon_ME_TO_B</name>
-		<body>You use [%SkillTarget] to summon %0 on [%SkillName].</body>
+		<body>Você usou a habilidade [%SkillName] para invocar %0 em [%SkillTarget].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200575</id>
 		<name>STR_SKILL_SUCC_SummonBindingGroupGate_ME_TO_B</name>
-		<body>You use [%SkillTarget] to summon %0 on [%SkillName].</body>
+		<body>Você usou a habilidade [%SkillName] para invocar %0 em [%SkillTarget].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200576</id>
 		<name>STR_SKILL_SUCC_SummonGroupGate_ME_TO_B</name>
-		<body>You use [%SkillTarget] to summon %0 on [%SkillName].</body>
+		<body>Você usou a habilidade [%SkillName] para invocar %0 em [%SkillTarget].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200577</id>
 		<name>STR_SKILL_SUCC_SummonHoming_ME_TO_B</name>
-		<body>You use [%SkillName] to summon %0 to attack [%SkillTarget].</body>
+		<body>Você usou a habilidade [%SkillName] para invocar %0 para atacar [%SkillTarget].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200578</id>
 		<name>STR_SKILL_SUCC_SummonServant_ME_TO_B</name>
-		<body>You use [%SkillName] to summon %0 to attack [%SkillTarget].</body>
+		<body>Você usou a habilidade [%SkillName] para invocar %0 para atacar [%SkillTarget].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200579</id>
 		<name>STR_SKILL_SUCC_SummonTotem_ME_TO_B</name>
-		<body>You use [%SkillTarget] to summon %0 on [%SkillName].</body>
+		<body>Você usou a habilidade [%SkillName] para invocar %0 em [%SkillTarget].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200580</id>
 		<name>STR_SKILL_SUCC_SummonTrap_ME_TO_B</name>
-		<body>You use [%SkillTarget] to summon %0 on [%SkillName].</body>
+		<body>Você usou a habilidade [%SkillName] para invocar %0 em [%SkillTarget].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -3912,7 +3912,7 @@
 	<string>
 		<id>1200855</id>
 		<name>STR_SKILL_SUCC_Protect_INTERVAL_A_TO_SELF</name>
-		<body>[%SkillCaster] blocked %num0 damage porque usou [%SkillName].</body>
+		<body>[%SkillCaster] bloqueou %num0 de dano porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -3936,37 +3936,37 @@
 	<string>
 		<id>1200859</id>
 		<name>STR_SKILL_SUCC_Rebirth_A_TO_SELF</name>
-		<body>[%SkillCaster] received the &apos;Reserved Resurrection&apos; effect from [%SkillName].</body>
+		<body>[%SkillCaster] recebeu o efeito de 'Ressurreição Reservada' da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200860</id>
 		<name>STR_SKILL_SUCC_Reflector_A_TO_SELF</name>
-		<body>[%SkillCaster] receives the effect &apos;Reflect&apos; from [%SkillName].</body>
+		<body>[%SkillCaster] recebeu o efeito de 'Refletir Dano' da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200861</id>
 		<name>STR_SKILL_SUCC_Reflector_INTERVAL_A_TO_SELF</name>
-		<body>[%SkillCaster] reflects %num0 damage using [%SkillName].</body>
+		<body>[%SkillCaster] refletiu %num0 de dano usando a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200862</id>
 		<name>STR_SKILL_SUCC_Resurrect_A_TO_SELF</name>
-		<body>[%SkillCaster] received the &apos;Resurrection&apos; effect from [%SkillName].</body>
+		<body>[%SkillCaster] recebeu o efeito de 'Ressurreição' da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200863</id>
 		<name>STR_SKILL_SUCC_ResurrectPositional_A_TO_SELF</name>
-		<body>[%SkillCaster] receives the &apos;Summon Resurrection&apos; effect from [%SkillName].</body>
+		<body>[%SkillCaster] recebeu o efeito de 'Invocação de Ressurreição' da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200864</id>
 		<name>STR_SKILL_SUCC_Search_A_TO_SELF</name>
-		<body>[%SkillCaster] receives the &apos;Penetrate&apos; effect from [%SkillName].</body>
+		<body>[%SkillCaster] recebeu o efeito de 'Penetração' da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -3978,13 +3978,13 @@
 	<string>
 		<id>1200866</id>
 		<name>STR_SKILL_SUCC_Shield_A_TO_SELF</name>
-		<body>[%SkillCaster] receives a protective shield from [%SkillName].</body>
+		<body>[%SkillCaster] recebeu um escudo de proteção da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200867</id>
 		<name>STR_SKILL_SUCC_Shield_INTERVAL_A_TO_SELF</name>
-		<body>[%SkillCaster] blocked %num0 damage porque usou [%SkillName].</body>
+		<body>[%SkillCaster] bloqueou %num0 de dano porque usou [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -4008,7 +4008,7 @@
 	<string>
 		<id>1200871</id>
 		<name>STR_SKILL_SUCC_SpellATK_A_TO_SELF</name>
-		<body>[%SkillCaster] suffers continuous damage from [%SkillName].</body>
+		<body>[%SkillCaster] está sofrendo dano contínuo da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -4860,13 +4860,13 @@
 	<string>
 		<id>1201013</id>
 		<name>STR_SKILL_SUCC_Reflector_A_TO_B</name>
-		<body>[%SkillTarget] receives the effect &apos;Reflect&apos; from [%SkillName] used by [%SkillCaster].</body>
+		<body>[%SkillTarget] recebeu o efeito de 'Refletir Dano' da habilidade [%SkillName] used by [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1201014</id>
 		<name>STR_SKILL_SUCC_Reflector_INTERVAL_A_TO_B</name>
-		<body>[%SkillTarget] reflects %num0 damage from [%SkillName] used by [%SkillCaster].</body>
+		<body>[%SkillTarget] refletiu %num0 de dano da habilidade [%SkillName] used by [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -4878,13 +4878,13 @@
 	<string>
 		<id>1201016</id>
 		<name>STR_SKILL_SUCC_ResurrectPositional_A_TO_B</name>
-		<body>[%SkillTarget] receives the &apos;Summon Resurrection&apos; effect from [%SkillName] used by [%SkillCaster].</body>
+		<body>[%SkillTarget] recebeu o efeito de 'Invocação de Ressurreição' da habilidade [%SkillName] used by [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1201017</id>
 		<name>STR_SKILL_SUCC_Search_A_TO_B</name>
-		<body>[%SkillTarget] receives the &apos;Penetrate&apos; effect from [%SkillName] used by [%SkillCaster].</body>
+		<body>[%SkillTarget] recebeu o efeito de 'Penetração' da habilidade [%SkillName] used by [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -4896,7 +4896,7 @@
 	<string>
 		<id>1201019</id>
 		<name>STR_SKILL_SUCC_Shield_A_TO_B</name>
-		<body>[%SkillTarget] receives a protective shield from [%SkillName] used by [%SkillCaster].</body>
+		<body>[%SkillTarget] recebeu um escudo de proteção da habilidade [%SkillName] used by [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -4926,7 +4926,7 @@
 	<string>
 		<id>1201024</id>
 		<name>STR_SKILL_SUCC_SpellATK_A_TO_B</name>
-		<body>[%SkillTarget] suffers continuous damage from [%SkillName] used by [%SkillCaster].</body>
+		<body>[%SkillTarget] está sofrendo dano contínuo da habilidade [%SkillName] used by [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -9243,7 +9243,7 @@
 	<string>
 		<id>1300341</id>
 		<name>STR_BUY_SELL_USER_SELL_ITEMS</name>
-		<body>Venda efetuada.</body>
+		<body>Venda finalizada.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -17924,7 +17924,7 @@
 	<string>
 		<id>1400167</id>
 		<name>STR_MSG_NOGLIDE_AREA</name>
-		<body>You cannot glide in this area.</body>
+		<body>Você não pode planar nesta área.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -17938,7 +17938,7 @@
 	<string>
 		<id>1400169</id>
 		<name>STR_BINDSTONE_WARNING_REMAIN_TIME</name>
-		<body>The remaining active time of the registered Kisk is %DURATIONTIME0.</body>
+		<body>O Kisk em que você está registrado irá desaparecer em %DURATIONTIME0. Não esqueça de ativar um novo Kisk!</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>

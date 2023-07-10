@@ -13105,12 +13105,12 @@
 	<string>
 		<id>902242</id>
 		<name>STR_EXPIRED_TEMPORARY_EXCHANGE_TIME</name>
-		<body>Tempo Permitido para Troca Temporária</body>
+		<body>Tempo restante para troca:</body>
 	</string>
 	<string>
 		<id>902243</id>
 		<name>STR_TOOLTIP_TEMPORARY_EXCHANGE</name>
-		<body>Troca Temporária Permitido</body>
+		<body>Troca Temporária Permitida</body>
 	</string>
 	<string>
 		<id>902244</id>

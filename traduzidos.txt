@@ -21,7 +21,7 @@
 \STRINGS
 client_strings_ui.xml (100%)
 stringtable_dialog.xml (100%)
-client_strings_msg.xml (parcialmente, em andamento - 1790)
+client_strings_msg.xml (parcialmente, em andamento - 2271)
 client_strings_item2.xml (arrumado apostrofes)
 client_strings_item.xml (arrumado valor pot mana e apostrofes)
 
