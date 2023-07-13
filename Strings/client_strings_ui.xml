@@ -11130,7 +11130,7 @@
 	<string>
 		<id>901847</id>
 		<name>STR_INSTANT_DUNGEON_ENTER_REQUEST_CONFIRM</name>
-		<body>Deseja se inscrever para %1 a %0?</body>
+		<body>Deseja se inscrever para &lt;font color=&quot;ffff00&quot;&gt;%1&lt;/font&gt; em &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;?</body>
 	</string>
 	<string>
 		<id>901848</id>

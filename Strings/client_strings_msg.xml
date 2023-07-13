@@ -588,7 +588,7 @@
 	<string>
 		<id>1200301</id>
 		<name>STR_SKILL_SUCC_BoostDropRate_ME_TO_SELF</name>
-		<body>[%SkillName] aumentou a sua chance de drop de itens.</body>
+		<body>[%SkillName] aumentou a sua chance de obter itens.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -750,7 +750,7 @@
 	<string>
 		<id>1200328</id>
 		<name>STR_SKILL_SUCC_AlwaysNoResist_ME_TO_SELF</name>
-		<body>[%SkillName] inflicts you with &apos;Remove Elemental Defence&apos;.</body>
+		<body>[%SkillName] removeu as suas Defesas Elementais.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -1212,7 +1212,7 @@
 	<string>
 		<id>1200405</id>
 		<name>STR_SKILL_SUCC_Search_ME_TO_SELF</name>
-		<body>Você recebeu o efeito 'Penetrate' da habilidade [%SkillName].</body>
+		<body>Agora você pode ver jogadores no estado 'Invisível' porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -1506,7 +1506,7 @@
 	<string>
 		<id>1200454</id>
 		<name>STR_SKILL_SUCC_BoostDropRate_ME_TO_B</name>
-		<body>[%SkillName] aumentou a chance de 'drops' de [%SkillTarget].</body>
+		<body>[%SkillName] aumentou a chance de [%SkillTarget] obter itens.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2130,7 +2130,7 @@
 	<string>
 		<id>1200558</id>
 		<name>STR_SKILL_SUCC_Search_ME_TO_B</name>
-		<body>[%SkillTarget] recebeu o efeito de 'Penetração' da habilidade [%SkillName].</body>
+		<body>[%SkillTarget] pode ver jogadores Invisíveis porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2274,79 +2274,79 @@
 	<string>
 		<id>1200582</id>
 		<name>STR_SKILL_SUCC_WeaponStatUp_ME_TO_B</name>
-		<body>[%SkillTarget]&apos;s %0 attribute was changed by [%SkillName].</body>
+		<body>O atributo %0 de [%SkillTarget] foi alterado pela habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200583</id>
 		<name>STR_SKILL_SUCC_Blind_A_TO_ME</name>
-		<body>[%SkillCaster] inflicts you with &apos;cego (blind). using [%SkillName].</body>
+		<body>[%SkillCaster] te deixou cego (blind) porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200584</id>
 		<name>STR_SKILL_SUCC_Confuse_A_TO_ME</name>
-		<body>[%SkillCaster] inflicts you with &apos;confuso (confused) using [%SkillName].</body>
+		<body>[%SkillCaster] te deixou confuso (confused) porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200585</id>
 		<name>STR_SKILL_SUCC_Disease_A_TO_ME</name>
-		<body>[%SkillCaster] inflicts you with &apos;doente (sick) using [%SkillName].</body>
+		<body>[%SkillCaster] te deixou doente (sick) porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200586</id>
 		<name>STR_SKILL_SUCC_Fear_A_TO_ME</name>
-		<body>[%SkillCaster] inflicts you with &apos;com medo (fear) using [%SkillName].</body>
+		<body>[%SkillCaster] te deixou com medo (fear) porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200587</id>
 		<name>STR_SKILL_SUCC_Paralyze_A_TO_ME</name>
-		<body>[%SkillCaster] inflicts you with &apos;paralisado (paralyze) using [%SkillName].</body>
+		<body>[%SkillCaster] te deixou paralisado (paralyze) porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200588</id>
 		<name>STR_SKILL_SUCC_Root_A_TO_ME</name>
-		<body>[%SkillCaster] inflicts you with &apos;imobilizado (immobilize) using [%SkillName].</body>
+		<body>[%SkillCaster] te deixou imobilizado (immobilize) porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200589</id>
 		<name>STR_SKILL_SUCC_Silence_A_TO_ME</name>
-		<body>[%SkillCaster] inflicts you with &apos;silenciado (silence) using [%SkillName].</body>
+		<body>[%SkillCaster] te deixou silenciado (silence) porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200590</id>
 		<name>STR_SKILL_SUCC_Sleep_A_TO_ME</name>
-		<body>[%SkillCaster] inflicts you with &apos;cochilando (sleep) using [%SkillName].</body>
+		<body>[%SkillCaster] te deixou cochilando (sleep) porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200591</id>
 		<name>STR_SKILL_SUCC_Spin_A_TO_ME</name>
-		<body>[%SkillCaster] inflicts you with &apos;em choque (spin) using [%SkillName].</body>
+		<body>[%SkillCaster] te deixou em choque (spin) porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200592</id>
 		<name>STR_SKILL_SUCC_Stagger_A_TO_ME</name>
-		<body>[%SkillCaster] inflicts you with &apos;em choque (stagger) using [%SkillName].</body>
+		<body>[%SkillCaster] te deixou em choque (stagger) porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200593</id>
 		<name>STR_SKILL_SUCC_Stumble_A_TO_ME</name>
-		<body>[%SkillCaster] inflicts you with &apos;em choque (knockdown) using [%SkillName].</body>
+		<body>[%SkillCaster] te deixou em choque (knockdown) porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200594</id>
 		<name>STR_SKILL_SUCC_Stun_A_TO_ME</name>
-		<body>[%SkillCaster] inflicts you with &apos;em choque (stun) using [%SkillName].</body>
+		<body>[%SkillCaster] te deixou em choque (stun) porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2424,7 +2424,7 @@
 	<string>
 		<id>1200607</id>
 		<name>STR_SKILL_SUCC_BoostDropRate_A_TO_ME</name>
-		<body>[%SkillCaster] aumentou a sua chance de drop de itens with [%SkillName].</body>
+		<body>[%SkillCaster] aumentou a sua chance de obter itens porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2436,7 +2436,7 @@
 	<string>
 		<id>1200609</id>
 		<name>STR_SKILL_SUCC_SwitchHostile_A_TO_ME</name>
-		<body>A sua provocação foi trocada com a do seu espírito com o uso da habilidade [%SkillCaster] using [%SkillName].</body>
+		<body>A Provocação de [%SkillCaster] foi trocada com a do espírito com o uso da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2460,25 +2460,25 @@
 	<string>
 		<id>1200613</id>
 		<name>STR_SKILL_SUCC_Bind_A_TO_ME</name>
-		<body>[%SkillCaster] deixou você de mãos amarradas (bind) using [%SkillName].</body>
+		<body>[%SkillCaster] deixou você de mãos amarradas (bind) porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200614</id>
 		<name>STR_SKILL_SUCC_Bleed_A_TO_ME</name>
-		<body>[%SkillCaster] deixou você sangrando (bleed) using [%SkillName].</body>
+		<body>[%SkillCaster] deixou você sangrando (bleed) porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200615</id>
 		<name>STR_SKILL_SUCC_Curse_A_TO_ME</name>
-		<body>[%SkillCaster] deixou você amaldiçoado (cursed) using [%SkillName].</body>
+		<body>[%SkillCaster] deixou você amaldiçoado (cursed) porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200616</id>
 		<name>STR_SKILL_SUCC_NoFly_A_TO_ME</name>
-		<body>[%SkillCaster] deixou você preso (grounded) using [%SkillName].</body>
+		<body>[%SkillCaster] deixou você preso (grounded) porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2490,13 +2490,13 @@
 	<string>
 		<id>1200618</id>
 		<name>STR_SKILL_SUCC_Petrification_A_TO_ME</name>
-		<body>[%SkillCaster] deixou você paralisado (paralyze) using [%SkillName].</body>
+		<body>[%SkillCaster] deixou você paralisado (paralyze) porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200619</id>
 		<name>STR_SKILL_SUCC_Poison_A_TO_ME</name>
-		<body>[%SkillCaster] deixou você paralisado (paralyze) using [%SkillName].</body>
+		<body>[%SkillCaster] deixou você paralisado (paralyze) porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2586,7 +2586,7 @@
 	<string>
 		<id>1200634</id>
 		<name>STR_SKILL_SUCC_AlwaysNoResist_A_TO_ME</name>
-		<body>[%SkillCaster] inflicts you with &apos;Remove Elemental Defence&apos; using [%SkillName].</body>
+		<body>[%SkillCaster] removeu as suas Defesas Elementais porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2628,7 +2628,7 @@
 	<string>
 		<id>1200641</id>
 		<name>STR_SKILL_SUCC_BoostSpellAttackEffect_A_TO_ME</name>
-		<body>[%SkillCaster] melhorou as suas habilidades mágicas using [%SkillName].</body>
+		<body>[%SkillCaster] melhorou as suas habilidades mágicas porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2712,7 +2712,7 @@
 	<string>
 		<id>1200655</id>
 		<name>STR_SKILL_SUCC_DelayedFPATK_Instant_A_TO_ME</name>
-		<body>[%SkillCaster] vai reduzir o seu Tempo de Voo using [%SkillName].</body>
+		<body>[%SkillCaster] vai reduzir o seu Tempo de Voo porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2742,7 +2742,7 @@
 	<string>
 		<id>1200660</id>
 		<name>STR_SKILL_SUCC_DispelBuff_A_TO_ME</name>
-		<body>[%SkillCaster] removeu seus 'buffs' mágicos using [%SkillName].</body>
+		<body>[%SkillCaster] removeu seus 'buffs' mágicos porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2754,19 +2754,19 @@
 	<string>
 		<id>1200662</id>
 		<name>STR_SKILL_SUCC_DispelDeBuff_A_TO_ME</name>
-		<body>[%SkillCaster] removeu seus 'debuffs' mágicos using [%SkillName].</body>
+		<body>[%SkillCaster] removeu seus 'debuffs' mágicos porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200663</id>
 		<name>STR_SKILL_SUCC_DispelDeBuffMental_A_TO_ME</name>
-		<body>[%SkillCaster] removeu seus estados mentais alterados using [%SkillName].</body>
+		<body>[%SkillCaster] removeu seus estados mentais alterados porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200664</id>
 		<name>STR_SKILL_SUCC_DispelDeBuffPhysical_A_TO_ME</name>
-		<body>[%SkillCaster] removeu seus estados físicos alterados using [%SkillName].</body>
+		<body>[%SkillCaster] removeu seus estados físicos alterados porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2784,13 +2784,13 @@
 	<string>
 		<id>1200667</id>
 		<name>STR_SKILL_SUCC_Fall_A_TO_ME</name>
-		<body>[%SkillCaster] derrubou você (forced crash) using [%SkillName].</body>
+		<body>[%SkillCaster] derrubou você (forced crash) porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200668</id>
 		<name>STR_SKILL_SUCC_FPATK_A_TO_ME</name>
-		<body>[%SkillCaster] vai reduzir o seu Tempo de Voo using [%SkillName].</body>
+		<body>[%SkillCaster] vai reduzir o seu Tempo de Voo porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2928,7 +2928,7 @@
 	<string>
 		<id>1200691</id>
 		<name>STR_SKILL_SUCC_OneTimeBoostSkillAttack_A_TO_ME</name>
-		<body>[%SkillCaster] melhorou as suas habilidades using [%SkillName].</body>
+		<body>[%SkillCaster] melhorou as suas habilidades porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2940,7 +2940,7 @@
 	<string>
 		<id>1200693</id>
 		<name>STR_SKILL_SUCC_OneTimeTypeBoostSkillLevel_A_TO_ME</name>
-		<body>[%SkillCaster] melhorou as suas habilidades using [%SkillName].</body>
+		<body>[%SkillCaster] melhorou as suas habilidades porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -3048,7 +3048,7 @@
 	<string>
 		<id>1200711</id>
 		<name>STR_SKILL_SUCC_Search_A_TO_ME</name>
-		<body>You receive the effect &apos;Penetrate&apos; from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você pode ver jogadores Invisíveis porque [%SkillCaster] usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -3966,7 +3966,7 @@
 	<string>
 		<id>1200864</id>
 		<name>STR_SKILL_SUCC_Search_A_TO_SELF</name>
-		<body>[%SkillCaster] recebeu o efeito de 'Penetração' da habilidade [%SkillName].</body>
+		<body>[%SkillCaster] pode ver jogadores Invisíveis porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -4116,7 +4116,7 @@
 	<string>
 		<id>1200889</id>
 		<name>STR_SKILL_SUCC_Blind_A_TO_B</name>
-		<body>[%SkillCaster] deixou [%SkillTarget] cego (blind). using [%SkillName].</body>
+		<body>[%SkillCaster] deixou [%SkillTarget] cego (blind) porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -4260,13 +4260,13 @@
 	<string>
 		<id>1200913</id>
 		<name>STR_SKILL_SUCC_BoostDropRate_A_TO_B</name>
-		<body>[%SkillCaster] aumentou a chance de 'drops' de [%SkillTarget] with [%SkillName].</body>
+		<body>[%SkillCaster] aumentou a chance de [%SkillTarget] obter itens porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200914</id>
 		<name>STR_SKILL_SUCC_OutofSight_A_TO_B</name>
-		<body>[%SkillCaster] reduced [%SkillTarget]&apos;s visual range with [%SkillName].</body>
+		<body>[%SkillCaster] reduziu a Distância de Visão de [%SkillTarget] porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -4884,7 +4884,7 @@
 	<string>
 		<id>1201017</id>
 		<name>STR_SKILL_SUCC_Search_A_TO_B</name>
-		<body>[%SkillTarget] recebeu o efeito de 'Penetração' da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>[%SkillTarget] pode ver jogadores Invisíveis porque [%SkillCaster] usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -18106,21 +18106,21 @@
 	<string>
 		<id>1400193</id>
 		<name>STR_OTHER_USER_USE_RESURRECTDEBUFF_SKILL_ALREADY</name>
-		<body>That player is already being resurrected.</body>
+		<body>Este jogador já está sendo ressuscitado.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1400194</id>
 		<name>STR_MSG_INSTANCE_REGISTER_SUCCESS</name>
-		<body>You have successfully made an entry application.</body>
+		<body>Você aplicou para a instância com sucesso.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1400195</id>
 		<name>STR_MSG_INSTANCE_REMAIN_TIME</name>
-		<body>The attack time remaining is %DURATIONTIME0.</body>
+		<body>O tempo de ataque restante é %DURATIONTIME0.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -18171,7 +18171,7 @@
 	<string>
 		<id>1400202</id>
 		<name>STR_MSG_INSTANCE_REMAIN_TIME_60</name>
-		<body>The attack time remaining is %DURATIONTIME0.</body>
+		<body>O tempo de ataque restante é %DURATIONTIME0.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 		<ment>score_alert_60s_fix</ment>
@@ -18179,7 +18179,7 @@
 	<string>
 		<id>1400203</id>
 		<name>STR_MSG_INSTANCE_REMAIN_TIME_30</name>
-		<body>The attack time remaining is %DURATIONTIME0.</body>
+		<body>O tempo de ataque restante é %DURATIONTIME0.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 		<ment>score_alert_30s_fix</ment>
@@ -18187,7 +18187,7 @@
 	<string>
 		<id>1400204</id>
 		<name>STR_MSG_INSTANCE_REMAIN_TIME_10</name>
-		<body>The attack time remaining is %DURATIONTIME0.</body>
+		<body>O tempo de ataque restante é %DURATIONTIME0.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 		<ment>score_alert_10s_fix</ment>
@@ -18195,7 +18195,7 @@
 	<string>
 		<id>1400205</id>
 		<name>STR_MSG_INSTANCE_REMAIN_TIME_5</name>
-		<body>The attack time remaining is %DURATIONTIME0.</body>
+		<body>O tempo de ataque restante é %DURATIONTIME0.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 		<ment>score_alert_5s_fix</ment>
