@@ -11210,12 +11210,12 @@
 	<string>
 		<id>901863</id>
 		<name>STR_CMD_CREATE_PARTY</name>
-		<body>/RecruitGroupMember,/CriarGrupo</body>
+		<body>/RecruitGroupMember</body>
 	</string>
 	<string>
 		<id>901864</id>
 		<name>STR_CMD_CREATE_FORCE</name>
-		<body>/RecruitAllianceMember,/CriarAlianca</body>
+		<body>/RecruitAllianceMember</body>
 	</string>
 	<string>
 		<id>901865</id>

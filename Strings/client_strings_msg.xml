@@ -7647,14 +7647,14 @@
 	<string>
 		<id>1300113</id>
 		<name>STR_SKILL_RESTRICTION_FLY_ONLY</name>
-		<body>You can use this skill only while flying.</body>
+		<body>Você pode usar esta habilidade apenas enquanto estiver voando.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300114</id>
 		<name>STR_SKILL_RESTRICTION_NO_FLY</name>
-		<body>You cannot use a skill while you are flying.</body>
+		<body>Você não pode usar uma habilidade enquanto estiver voando.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -7738,7 +7738,7 @@
 	<string>
 		<id>1300126</id>
 		<name>STR_SKILL_CAN_NOT_USE_GROUPGATE_WHEN_FLYING</name>
-		<body>You cannot use the magic passage while flying.</body>
+		<body>Você não pode usar a passagem mágica enquanto voa.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -7948,70 +7948,70 @@
 	<string>
 		<id>1300156</id>
 		<name>STR_PARTY_ONLY_LEADER_CAN_CHANGE_LOOTING</name>
-		<body>Only the group leader can change the item distribution method.</body>
+		<body>Somente o líder do grupo pode alterar o método de distribuição de itens.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300157</id>
 		<name>STR_PARTY_LOOTING_CHANGED_TO_MANUAL</name>
-		<body>The item distribution method of the group has been changed to Manual.</body>
+		<body>O método de distribuição de itens do grupo foi alterado para Manual.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300158</id>
 		<name>STR_PARTY_LOOTING_CHANGED_TO_AUTO</name>
-		<body>The item distribution method of the group has been changed to Auto.</body>
+		<body>O método de distribuição de itens do grupo foi alterado para Automático.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300159</id>
 		<name>STR_PARTY_NO_USER_TO_INVITE</name>
-		<body>The user you invited to the group is currently offline.</body>
+		<body>O usuário que você convidou para o grupo está não está conectado no momento.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300160</id>
 		<name>STR_PARTY_ONLY_LEADER_CAN_INVITE</name>
-		<body>Only group leader can invite.</body>
+		<body>Somente o líder do grupo pode convidar.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300161</id>
 		<name>STR_PARTY_HE_REJECT_INVITATION</name>
-		<body>%0 has declined your invitation.</body>
+		<body>%0 recusou seu convite.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300162</id>
 		<name>STR_PARTY_CAN_NOT_INVITE_SELF</name>
-		<body>You cannot invite yourself to a group.</body>
+		<body>Você não pode convidar a si mesmo para um grupo.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300163</id>
 		<name>STR_PARTY_CANT_INVITE_WHEN_DEAD</name>
-		<body>You cannot issue an invitation while you are dead.</body>
+		<body>Você não pode emitir um convite enquanto estiver morto.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300164</id>
 		<name>STR_PARTY_OFFLINE_MEMBER</name>
-		<body>The selected group member is currently offline.</body>
+		<body>O membro do grupo selecionado não está conectado no momento.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300165</id>
 		<name>STR_PARTY_ONLY_LEADER_CAN_BANISH</name>
-		<body>Only the group leader can kick a member out.</body>
+		<body>Somente o líder do grupo pode expulsar um membro.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -8102,28 +8102,28 @@
 	<string>
 		<id>1300178</id>
 		<name>STR_PARTY_RARE_LOOTING_CHANGED_TO_MANUAL</name>
-		<body>The rare item distribution method of the group has been changed to Free-for-All.</body>
+		<body>O método de distribuição de itens raros do grupo foi alterado para Aberto para Todos.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300179</id>
 		<name>STR_PARTY_RARE_LOOTING_CHANGED_TO_AUTO</name>
-		<body>The rare item distribution method of the group has been changed to Auto.</body>
+		<body>O método de distribuição de itens raros do grupo foi alterado para Automático.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300180</id>
 		<name>STR_PARTY_RARE_LOOTING_CHANGED_TO_DICE</name>
-		<body>The rare item distribution method of the group has been changed to Dice Roll.</body>
+		<body>O método de distribuição de itens raros do grupo foi alterado para Rolagem de Dados.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300181</id>
 		<name>STR_PARTY_CANNOT_BANISH_ITEMPOOL_NOT_EMPTY</name>
-		<body>A group member cannot be kicked out before the completion of loot distribution.</body>
+		<body>Um membro do grupo não pode ser expulso antes da conclusão da distribuição de itens.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -8144,21 +8144,21 @@
 	<string>
 		<id>1300184</id>
 		<name>STR_PARTY_LOOTING_CHANGED_TO_FREEFORALL</name>
-		<body>The item distribution method of the group has been changed to Free-for-All.</body>
+		<body>O método de distribuição de itens do grupo foi alterado para Aberto para Todos.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300185</id>
 		<name>STR_PARTY_LOOTING_CHANGED_TO_ROUNDROBIN</name>
-		<body>The item distribution method of the group has been changed to Round-robin.</body>
+		<body>O método de distribuição de itens do grupo foi alterado para Rodízio.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300186</id>
 		<name>STR_PARTY_LOOTING_CHANGED_TO_LEADERONLY</name>
-		<body>The item distribution method of the group has been changed to Group Leader.</body>
+		<body>O método de distribuição de itens do grupo foi alterado para Líder do Grupo.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -8298,49 +8298,49 @@
 	<string>
 		<id>1300206</id>
 		<name>STR_PARTY_ALLIANCE_LOOTING_CHANGED_TO_FREE</name>
-		<body>The item distribution method of the alliance has been changed to Free-for-All.</body>
+		<body>O método de distribuição de itens da aliança foi alterado para Aberto para Todos.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300207</id>
 		<name>STR_PARTY_ALLIANCE_LOOTING_CHANGED_TO_RANDOM</name>
-		<body>The item distribution method of the alliance has been changed to Auto.</body>
+		<body>O método de distribuição de itens da aliança foi alterado para Automático.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300208</id>
 		<name>STR_PARTY_ALLIANCE_CHANGE_LOOT_PROCESSING_HIS_REQUEST</name>
-		<body>%0 has already requested the item distribution method to be changed.</body>
+		<body>%0 solicitou que o método de distribuição de itens seja alterado.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300209</id>
 		<name>STR_PARTY_ALLIANCE_CHANGE_LOOT_PROCESSING_YOUR_REQUEST</name>
-		<body>Your request to change the item distribution method is being processed.</body>
+		<body>Sua solicitação para alterar o método de distribuição de itens está sendo processada.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300210</id>
 		<name>STR_PARTY_ALLIANCE_CHANGE_LOOT_HE_DENIED_HIS_ASK</name>
-		<body>%0 denied %1&apos;s request to change the item distribution method.</body>
+		<body>%0 negou a solicitação de %1 para alterar o método de distribuição de itens.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300211</id>
 		<name>STR_PARTY_ALLIANCE_CHANGE_LOOT_HE_DENIED_MY_ASK</name>
-		<body>%0&apos;s request to change the item distribution method has been denied.</body>
+		<body>A solicitação de %0 para alterar o método de distribuição de itens foi negada.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300212</id>
 		<name>STR_PARTY_ALLIANCE_CHANGE_LOOT_ASK_SUBMITTED</name>
-		<body>You asked the alliance Captain to change the item distribution method.</body>
+		<body>Você pediu ao Capitão da Aliança para mudar o método de distribuição de itens.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -11730,7 +11730,7 @@
 	<string>
 		<id>1300696</id>
 		<name>STR_CANNOT_USE_AIRPORT_WHEN_FLYING</name>
-		<body>You cannot teleport to a bind point while flying.</body>
+		<body>Você não pode se teletransportar enquanto voa.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -16410,14 +16410,14 @@
 	<string>
 		<id>1390224</id>
 		<name>STR_BUDDY_REQUEST_ADD</name>
-		<body>You have sent a friend request to %0.</body>
+		<body>Você enviou uma solicitação de amizade para %0.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1390225</id>
 		<name>STR_ERROR_WORLD_CONNECTION_FAIL_BY_CHAR_RES</name>
-		<body>You cannot connect to the game during the character reservation period. </body>
+		<body>You cannot connect to the game during the character reservation period.</body>
 		<message_type>54</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -16452,21 +16452,21 @@
 	<string>
 		<id>1390230</id>
 		<name>STR_MSG_DISABLE</name>
-		<body>You cannot use this function in %0.</body>
+		<body>Você não pode usar esta função em %0.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1390231</id>
 		<name>STR_BINDSTONE_CAPACITY_LIMITTED_ALARM</name>
-		<body>The registered Kisk can resurrect %num0 times more.</body>
+		<body>O Kisk registrado pode ressuscitar mais %num0 vezes.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1390232</id>
 		<name>STR_ABYSS_CHANGE_RANK</name>
-		<body>Your Abyss Rank has changed to %0.</body>
+		<body>Seu Abyss Rank mudou para %0.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -16487,14 +16487,14 @@
 	<string>
 		<id>1390235</id>
 		<name>STR_ABYSS_CHANGE_RANK_THIS_WEEK</name>
-		<body>Your Abyss Rank has been changed to %0. Check the changed ranking on the Abyss Ranking Window.</body>
+		<body>Seu Abyss Rank foi alterado para %0. Verifique a nova classificação na janela de Ranking do Abyss.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1390236</id>
 		<name>STR_SKILL_LEARNED_ABYSS_SKILL</name>
-		<body>You have learned the skill, %0 (Level - %1).</body>
+		<body>Você aprendeu a habilidade, %0 (Nível - %1).</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -16508,7 +16508,7 @@
 	<string>
 		<id>1390238</id>
 		<name>STR_MSG_ENTER_SPLIT_GOLD</name>
-		<body>Please enter the amount of Kinah to distribute.</body>
+		<body>Por favor, insira a quantidade de Kinah para distribuir.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -16571,35 +16571,35 @@
 	<string>
 		<id>1390247</id>
 		<name>STR_MSG_SPLIT_ME_TO_B</name>
-		<body>You distributed %num0 Kinah to %num1 people, giving each %num2 Kinah.</body>
+		<body>Você distribuiu %num0 Kinah para %num1 pessoas, dando a cada %num2 Kinah.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1390248</id>
 		<name>STR_MSG_SPLIT_B_TO_ME</name>
-		<body>%0 distributed %num1 Kinah among %num2 people, giving %num3 Kinah each.</body>
+		<body>%0 distribuiu %num1 Kinah entre %num2 pessoas, dando a cada %num2 Kinah..</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1390249</id>
 		<name>STR_MSG_WHO_DIALOG_RESULT</name>
-		<body>The search found %num0 characters (max. 110).</body>
+		<body>A pesquisa encontrou %num0 jogadores (máx. 110).</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1390250</id>
 		<name>STR_MSG_PARTY_LOOTING_CHANGED_RULE</name>
-		<body>Group loot policy is now %0. %1 items will be distributed by %2.</body>
+		<body>A política de distribuição do Grupo agora é %0. %1 itens serão distribuídos por %2.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1390251</id>
 		<name>STR_MSG_FORCE_LOOTING_CHANGED_RULE</name>
-		<body>Alliance loot policy is now %0. %1 items will be distributed by %2.</body>
+		<body>A política de distribuição da Aliança agora é %0. %1 itens serão distribuídos por %2.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -16915,7 +16915,7 @@
 	<string>
 		<id>1400023</id>
 		<name>STR_ABYSS_ORDER_RANKER_DIE</name>
-		<body>%1 dos %0 %2 morreu em %3.</body>
+		<body>%1 dos %0, %2, morreu em %3.</body>
 		<message_type>55</message_type>
 		<display_type>1</display_type>
 	</string>
