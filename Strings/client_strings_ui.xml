@@ -153,7 +153,7 @@
 	<string>
 		<id>50028</id>
 		<name>STR_DUEL_DO_YOU_ACCEPT_REQUEST</name>
-		<body>%0 te desafiou para um &lt;font color=&quot;ffffw00&quot;&gt;duelo&lt;/font&gt;. Você aceita?</body>
+		<body>%0 te desafiou para um &lt;font color=&quot;ffff00&quot;&gt;duelo&lt;/font&gt;. Você aceita?</body>
 	</string>
 	<string>
 		<id>50029</id>
@@ -5476,7 +5476,7 @@
 	<string>
 		<id>900675</id>
 		<name>STR_GUILD_DO_YOU_ACCEPT_GUILD</name>
-		<body>&lt;p&gt;%1 da legião %0 está te convidando para a legião dele/dela.&lt;/p&gt;&#xA;&lt;p&gt;Você aceita o convite?&lt;/p&gt;</body>
+		<body>&lt;p&gt;%1 da legião %0 está te convidando para a legião dele(a).&lt;/p&gt;&#xA;&lt;p&gt;Você aceita o convite?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>900676</id>
@@ -10525,7 +10525,7 @@
 	<string>
 		<id>901721</id>
 		<name>STR_SUMMON_PARTY_DO_YOU_ACCEPT_REQUEST</name>
-		<body>&lt;p align=&quot;left&quot;&gt;%0 está prestes a te sumonar usando %1. Aceita?&lt;/p&gt;&#xA;&lt;p&gt;&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Você deve decidir em %2 segundos.&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;&lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; quer te &lt;font color=&quot;ffff00&quot;&gt;teletransportar&lt;/font&gt; usando &lt;font color=&quot;ffff00&quot;&gt;%1&lt;/font&gt;. Aceita ser teletransportado para a posição de &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;?&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;Você deve decidir em &lt;font color=&quot;ffff00&quot;&gt;%2&lt;/font&gt; segundos.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901722</id>
