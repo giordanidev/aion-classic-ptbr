@@ -5501,12 +5501,12 @@
 	<string>
 		<id>900680</id>
 		<name>STR_GUILD_LEVELUP_NO_COND</name>
-		<body>Sem limite</body>
+		<body>Sem restrição</body>
 	</string>
 	<string>
 		<id>900681</id>
 		<name>STR_GUILD_LEVELUP_MSG</name>
-		<body>&lt;p&gt;Subir o nível da Legião para o &lt;font color=&quot;ffff00&quot;&gt;Nível %0&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&#xA;&lt;/p&gt;&lt;p&gt;Requerimentos:&lt;/p&gt;&#xA;&lt;p&gt;Taxa de Kinah: &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%1&lt;/font&gt;&lt;/p&gt;&#xA;&lt;p&gt;Mínimo de participantes: %num2&lt;/p&gt;&#xA;&lt;p&gt;Pontos de Contribuição (AP): %num3&lt;/p&gt;</body>
+		<body>&lt;p&gt;Subir o &lt;font color=&quot;ffff00&quot;&gt;nível da Legião&lt;/font&gt;.&lt;/p&gt; &lt;p&gt;&#xA;&lt;/p&gt; &lt;p&gt;Nível atual: &lt;font color=&quot;ffff00&quot;&gt;Nível %0&lt;/font&gt; &lt;p&gt;&#xA;&lt;/p&gt; &lt;p&gt;REQUERIMENTOS:&lt;/p&gt; &lt;p&gt;Taxa de Kinah: &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%1&lt;/font&gt;&lt;/p&gt; &lt;p&gt;Mínimo de participantes: &lt;font color=&quot;ffff00&quot;&gt;%num2&lt;/font&gt;&lt;/p&gt; &lt;p&gt;Pontos de Contribuição (AP): &lt;font color=&quot;ffff00&quot;&gt;%num3&lt;/font&gt;&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>900682</id>

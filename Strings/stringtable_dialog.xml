@@ -4048,7 +4048,7 @@
 	<string>
 		<id>910697</id>
 		<name>STR_DLG_GUILD_AUTH__WIDGET3</name>
-		<body>Editar</body>
+		<body>Alterar Anúncio da Legião</body>
 	</string>
 	<string>
 		<id>910698</id>
@@ -4078,7 +4078,7 @@
 	<string>
 		<id>910703</id>
 		<name>STR_DLG_GUILD_AUTH__WIDGET15</name>
-		<body>Usear o Quadro de Avisos</body>
+		<body>Usar o Quadro de Avisos</body>
 	</string>
 	<string>
 		<id>910704</id>
