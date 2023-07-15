@@ -5506,7 +5506,7 @@
 	<string>
 		<id>900681</id>
 		<name>STR_GUILD_LEVELUP_MSG</name>
-		<body>&lt;p&gt;Sobe o nível da Legião.&lt;/p&gt;&#xA;&lt;p&gt;Nível: %0&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;Requerimentos para subir&lt;/p&gt;&#xA;&lt;p&gt;Taxa: &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%1&lt;/font&gt;&lt;/p&gt;&#xA;&lt;p&gt;Mínimo de participantes: %num2&lt;/p&gt;&#xA;&lt;p&gt;Pontos de Contribuição (AP): %num3&lt;/p&gt;</body>
+		<body>&lt;p&gt;Subir o nível da Legião para o &lt;font color=&quot;ffff00&quot;&gt;Nível %0&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&#xA;&lt;/p&gt;&lt;p&gt;Requerimentos:&lt;/p&gt;&#xA;&lt;p&gt;Taxa de Kinah: &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%1&lt;/font&gt;&lt;/p&gt;&#xA;&lt;p&gt;Mínimo de participantes: %num2&lt;/p&gt;&#xA;&lt;p&gt;Pontos de Contribuição (AP): %num3&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>900682</id>
