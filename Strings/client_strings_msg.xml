@@ -2430,7 +2430,7 @@
 	<string>
 		<id>1200608</id>
 		<name>STR_SKILL_SUCC_OutofSight_A_TO_ME</name>
-		<body>[%SkillCaster] reduced your visual range with [%SkillName].</body>
+		<body>[%SkillCaster] reduziu a sua distância de visão usando a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2442,19 +2442,19 @@
 	<string>
 		<id>1200610</id>
 		<name>STR_SKILL_SUCC_ReturnHome_A_TO_ME</name>
-		<body>[%SkillCaster] uses [%SkillName].</body>
+		<body>[%SkillCaster] usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200611</id>
 		<name>STR_SKILL_SUCC_Aura_A_TO_ME</name>
-		<body>[%SkillCaster] started using [%SkillName] on you.</body>
+		<body>[%SkillCaster] começou a usar a habilidade [%SkillName] em você.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200612</id>
 		<name>STR_SKILL_SUCC_Aura_END_A_TO_ME</name>
-		<body>[%SkillCaster] stopped using [%SkillName] on you.</body>
+		<body>[%SkillCaster] parou de usar a habilidade [%SkillName] em você.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2484,7 +2484,7 @@
 	<string>
 		<id>1200617</id>
 		<name>STR_SKILL_SUCC_OpenAerial_A_TO_ME</name>
-		<body>[%SkillCaster] has snared you in mid-air porque usou [%SkillName].</body>
+		<body>[%SkillCaster] prendeu você no ar (aetherhold) porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2502,13 +2502,13 @@
 	<string>
 		<id>1200620</id>
 		<name>STR_SKILL_SUCC_Slow_A_TO_ME</name>
-		<body>[%SkillCaster] reduziu a sua velocidade de ataque with [%SkillName].</body>
+		<body>[%SkillCaster] reduziu a sua Velocidade de Ataque usando a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200621</id>
 		<name>STR_SKILL_SUCC_Snare_A_TO_ME</name>
-		<body>[%SkillCaster] reduziu a sua velocidade de movimento with [%SkillName].</body>
+		<body>[%SkillCaster] reduziu a sua Velocidade de Movimento usando a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2556,31 +2556,31 @@
 	<string>
 		<id>1200629</id>
 		<name>STR_SKILL_SUCC_Slow_END_A_TO_ME</name>
-		<body>Sua velocidade de ataque voltou ao normal.</body>
+		<body>Sua Velocidade de Ataque voltou ao normal.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200630</id>
 		<name>STR_SKILL_SUCC_Snare_END_A_TO_ME</name>
-		<body>Sua velocidade de movimento voltou ao normal.</body>
+		<body>Sua Velocidade de Movimento voltou ao normal.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200631</id>
 		<name>STR_SKILL_SUCC_AlwaysBlock_A_TO_ME</name>
-		<body>Seu 'Block' aumentou com o uso da habilidade [%SkillCaster]&apos;s [%SkillName].</body>
+		<body>Seu 'Block' aumentou porque [%SkillCaster] usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200632</id>
 		<name>STR_SKILL_SUCC_AlwaysDodge_A_TO_ME</name>
-		<body>Sua Evasão aumentou com o uso da habilidade [%SkillCaster]&apos;s [%SkillName].</body>
+		<body>Sua Evasão aumentou porque [%SkillCaster] usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200633</id>
 		<name>STR_SKILL_SUCC_AlwaysHit_A_TO_ME</name>
-		<body>Sua Precisão aumentou com o uso da habilidade [%SkillCaster]&apos;s [%SkillName].</body>
+		<body>Sua Precisão aumentou porque [%SkillCaster] usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2592,37 +2592,37 @@
 	<string>
 		<id>1200635</id>
 		<name>STR_SKILL_SUCC_AlwaysParry_A_TO_ME</name>
-		<body>Seu 'Parry' aumentou com o uso da habilidade [%SkillCaster]&apos;s [%SkillName].</body>
+		<body>Seu 'Parry' aumentou porque [%SkillCaster] usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200636</id>
 		<name>STR_SKILL_SUCC_AlwaysResist_A_TO_ME</name>
-		<body>Sua 'Elemental Defence' aumentou com o uso da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>Sua 'Elemental Defence' aumentou porque [%SkillCaster] usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200637</id>
 		<name>STR_SKILL_SUCC_BoostHealEffect_A_TO_ME</name>
-		<body>Sua Cura aumentou com o uso da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>Sua Cura aumentou porque [%SkillCaster] usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200638</id>
 		<name>STR_SKILL_SUCC_BoostSkillCastingTime_A_TO_ME</name>
-		<body>[%SkillCaster] alterou a sua Velocidade de Conjuração with [%SkillName].</body>
+		<body>[%SkillCaster] alterou a sua Velocidade de Conjuração porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200639</id>
 		<name>STR_SKILL_SUCC_BoostSkillCost_A_TO_ME</name>
-		<body>[%SkillCaster] alterou o seu consumo de MP with [%SkillName].</body>
+		<body>[%SkillCaster] alterou o seu consumo de MP porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200640</id>
 		<name>STR_SKILL_SUCC_BoostSkillToggleCost_A_TO_ME</name>
-		<body>[%SkillCaster] reduced the MP consumption of your Mantra skill with [%SkillName].</body>
+		<body>[%SkillCaster] reduziu o consumo de MP da sua Mantra porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2640,13 +2640,13 @@
 	<string>
 		<id>1200643</id>
 		<name>STR_SKILL_SUCC_BoostHate_A_TO_ME</name>
-		<body>Você recebeu %0 de provocação da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>Você recebeu %0 de provocação da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200644</id>
 		<name>STR_SKILL_SUCC_CarveSignet_A_TO_ME</name>
-		<body>[%SkillCaster] inflicted %num0 damage on you and caused the &apos;Rune Carve&apos; effect with [%SkillName].</body>
+		<body>[%SkillCaster] infligiu %num0 de dano em você e aplicou o efeito 'Rune Carve' porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2664,7 +2664,7 @@
 	<string>
 		<id>1200647</id>
 		<name>STR_SKILL_SUCC_ChangeHateOnAttacked_A_TO_ME</name>
-		<body>Você recebeu %0 de provocação da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>Você recebeu %0 de provocação da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2826,7 +2826,7 @@
 	<string>
 		<id>1200674</id>
 		<name>STR_SKILL_SUCC_Heal_A_TO_ME</name>
-		<body>Você está recuperando HP devido ao uso da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>Você está recuperando HP devido ao uso da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2868,19 +2868,19 @@
 	<string>
 		<id>1200681</id>
 		<name>STR_SKILL_SUCC_Hide_A_TO_ME</name>
-		<body>Você está invisível (hide) devido ao uso da habilidade [%SkillCaster]&apos;s [%SkillName].</body>
+		<body>Você está invisível (hide) devido ao uso da habilidade [%SkillName] por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200682</id>
 		<name>STR_SKILL_SUCC_HostileUp_A_TO_ME</name>
-		<body>Você recebeu %0 de provocação da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>Você recebeu %0 de Provocação da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200683</id>
 		<name>STR_SKILL_SUCC_MagicCounterATK_A_TO_ME</name>
-		<body>Você recebeu o efeito 'Magical Counter-Attack' da habilidade [%SkillCaster]&apos;s [%SkillName].</body>
+		<body>Você recebeu o efeito 'Magical Counter-Attack' da habilidade [%SkillName] por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2898,7 +2898,7 @@
 	<string>
 		<id>1200686</id>
 		<name>STR_SKILL_SUCC_MPAttack_Instant_A_TO_ME</name>
-		<body>Você perdeu %num0 MP devido ao uso da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>Você perdeu %num0 MP devido ao uso da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2922,7 +2922,7 @@
 	<string>
 		<id>1200690</id>
 		<name>STR_SKILL_SUCC_OneTimeBoostHealEffect_A_TO_ME</name>
-		<body>Sua Cura aumentou com o uso da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>Sua Cura aumentou com o uso da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2988,7 +2988,7 @@
 	<string>
 		<id>1200701</id>
 		<name>STR_SKILL_SUCC_Protect_A_TO_ME</name>
-		<body>Você recebeu um efeito de proteção da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>Você recebeu um efeito de proteção da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -3024,13 +3024,13 @@
 	<string>
 		<id>1200707</id>
 		<name>STR_SKILL_SUCC_Reflector_A_TO_ME</name>
-		<body>Você recebeu o efeito 'Reflect' da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>Você recebeu o efeito 'Reflect' da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200708</id>
 		<name>STR_SKILL_SUCC_Reflector_INTERVAL_A_TO_ME</name>
-		<body>Você refletiu %num0 de dano da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>Você refletiu %num0 de dano da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -3042,7 +3042,7 @@
 	<string>
 		<id>1200710</id>
 		<name>STR_SKILL_SUCC_ResurrectPositional_A_TO_ME</name>
-		<body>Você recebeu o efeito 'Summon Ressurrection' da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>Você recebeu o efeito 'Summon Ressurrection' da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -3060,7 +3060,7 @@
 	<string>
 		<id>1200713</id>
 		<name>STR_SKILL_SUCC_Shield_A_TO_ME</name>
-		<body>Você recebeu um Escudo de Proteção da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>Você recebeu um Escudo de Proteção da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -3114,7 +3114,7 @@
 	<string>
 		<id>1200722</id>
 		<name>STR_SKILL_SUCC_Sprint_A_TO_ME</name>
-		<body>Sua Velocidade de Movimento foi aumentada devido ao uso da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>Sua Velocidade de Movimento foi aumentada devido ao uso da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -4470,13 +4470,13 @@
 	<string>
 		<id>1200948</id>
 		<name>STR_SKILL_SUCC_BackDashATK_A_TO_B</name>
-		<body>[%SkillTarget] sofreu %num0 de dano da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>[%SkillTarget] sofreu %num0 de dano da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200949</id>
 		<name>STR_SKILL_SUCC_BoostHate_A_TO_B</name>
-		<body>[%SkillTarget] ganhou %0 de Provocação da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>[%SkillTarget] ganhou %0 de Provocação da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -4488,7 +4488,7 @@
 	<string>
 		<id>1200951</id>
 		<name>STR_SKILL_SUCC_CaseHeal_A_TO_B</name>
-		<body>[%SkillTarget] recebeu o efeito 'Limited Restoration' da habilidade [%SkillCaster]&apos;s [%SkillName].</body>
+		<body>[%SkillTarget] recebeu o efeito 'Limited Restoration' da habilidade [%SkillName] por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -4500,7 +4500,7 @@
 	<string>
 		<id>1200953</id>
 		<name>STR_SKILL_SUCC_ChangeHateOnAttacked_A_TO_B</name>
-		<body>[%SkillTarget] ganhou %0 de Provocação da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>[%SkillTarget] ganhou %0 de Provocação da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -4524,13 +4524,13 @@
 	<string>
 		<id>1200957</id>
 		<name>STR_SKILL_SUCC_DashATK_A_TO_B</name>
-		<body>[%SkillTarget] sofreu %num0 de dano da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>[%SkillTarget] sofreu %num0 de dano da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200958</id>
 		<name>STR_SKILL_SUCC_DeathBlow_A_TO_B</name>
-		<body>[%SkillTarget] sofreu %num0 de dano da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>[%SkillTarget] sofreu %num0 de dano da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -4662,7 +4662,7 @@
 	<string>
 		<id>1200980</id>
 		<name>STR_SKILL_SUCC_Heal_A_TO_B</name>
-		<body>[%SkillTarget] está recuperando HP continuamente devido ao uso da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>[%SkillTarget] está recuperando HP continuamente devido ao uso da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -4710,7 +4710,7 @@
 	<string>
 		<id>1200988</id>
 		<name>STR_SKILL_SUCC_HostileUp_A_TO_B</name>
-		<body>[%SkillTarget] ganhou %0 de Provocação da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>[%SkillTarget] ganhou %0 de Provocação da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -4722,19 +4722,19 @@
 	<string>
 		<id>1200990</id>
 		<name>STR_SKILL_SUCC_MagicCounterATK_INTERVAL_A_TO_B</name>
-		<body>[%SkillTarget] sofreu %num0 de dano da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>[%SkillTarget] sofreu %num0 de dano da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200991</id>
 		<name>STR_SKILL_SUCC_MoveBehindATK_A_TO_B</name>
-		<body>[%SkillTarget] sofreu %num0 de dano da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>[%SkillTarget] sofreu %num0 de dano da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200992</id>
 		<name>STR_SKILL_SUCC_MPAttack_Instant_A_TO_B</name>
-		<body>[%SkillTarget] perdeu %num0 de MP por causa da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>[%SkillTarget] perdeu %num0 de MP por causa da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -4794,13 +4794,13 @@
 	<string>
 		<id>1201002</id>
 		<name>STR_SKILL_SUCC_ProcATK_Instant_A_TO_B</name>
-		<body>[%SkillTarget] sofreu %num0 de dano da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>[%SkillTarget] sofreu %num0 de dano da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1201003</id>
 		<name>STR_SKILL_SUCC_ProcATK_Instant_Ratio_A_TO_B</name>
-		<body>[%SkillTarget] sofreu %num0 de dano da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>[%SkillTarget] sofreu %num0 de dano da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -4860,13 +4860,13 @@
 	<string>
 		<id>1201013</id>
 		<name>STR_SKILL_SUCC_Reflector_A_TO_B</name>
-		<body>[%SkillTarget] recebeu o efeito de 'Refletir Dano' da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>[%SkillTarget] recebeu o efeito de 'Refletir Dano' da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1201014</id>
 		<name>STR_SKILL_SUCC_Reflector_INTERVAL_A_TO_B</name>
-		<body>[%SkillTarget] refletiu %num0 de dano da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>[%SkillTarget] refletiu %num0 de dano da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -4878,7 +4878,7 @@
 	<string>
 		<id>1201016</id>
 		<name>STR_SKILL_SUCC_ResurrectPositional_A_TO_B</name>
-		<body>[%SkillTarget] recebeu o efeito de 'Invocação de Ressurreição' da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>[%SkillTarget] recebeu o efeito de 'Invocação de Ressurreição' da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -4896,7 +4896,7 @@
 	<string>
 		<id>1201019</id>
 		<name>STR_SKILL_SUCC_Shield_A_TO_B</name>
-		<body>[%SkillTarget] recebeu um escudo de proteção da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>[%SkillTarget] recebeu um Escudo de Proteção da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -4908,31 +4908,31 @@
 	<string>
 		<id>1201021</id>
 		<name>STR_SKILL_SUCC_SignetBurst_A_TO_B</name>
-		<body>[%SkillTarget] sofreu %num0 de dano da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>[%SkillTarget] sofreu %num0 de dano da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1201022</id>
 		<name>STR_SKILL_SUCC_SkillATK_Instant_A_TO_B</name>
-		<body>[%SkillTarget] sofreu %num0 de dano da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>[%SkillTarget] sofreu %num0 de dano da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1201023</id>
 		<name>STR_SKILL_SUCC_SkillATKDrain_Instant_A_TO_B</name>
-		<body>[%SkillTarget] sofreu %num0 de dano da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>[%SkillTarget] sofreu %num0 de dano da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1201024</id>
 		<name>STR_SKILL_SUCC_SpellATK_A_TO_B</name>
-		<body>[%SkillTarget] está sofrendo dano contínuo da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>[%SkillTarget] está sofrendo dano contínuo da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1201025</id>
 		<name>STR_SKILL_SUCC_SpellATK_Instant_A_TO_B</name>
-		<body>[%SkillTarget] sofreu %num0 de dano da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>[%SkillTarget] sofreu %num0 de dano da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -4944,7 +4944,7 @@
 	<string>
 		<id>1201027</id>
 		<name>STR_SKILL_SUCC_SpellATKDrain_Instant_A_TO_B</name>
-		<body>[%SkillTarget] sofreu %num0 de dano da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>[%SkillTarget] sofreu %num0 de dano da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -6444,7 +6444,7 @@
 	<string>
 		<id>1201279</id>
 		<name>STR_SKILL_SUCC_NoReduceSpellATK_Instant_A_TO_B</name>
-		<body>[%SkillTarget] sofreu %num0 de dano da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>[%SkillTarget] sofreu %num0 de dano da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -8410,7 +8410,7 @@
 	<string>
 		<id>1300222</id>
 		<name>STR_PARTY_ALLIANCE_HE_BECOME_OFFLINE</name>
-		<body>%0 has been disconnected.</body>
+		<body>%0 foi desconectado.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -8445,7 +8445,7 @@
 	<string>
 		<id>1300227</id>
 		<name>STR_PARTY_INVITE_OTHER_IS_BUSY</name>
-		<body>You cannot invite the selected player as he or she is too busy.</body>
+		<body>Você não pode convidar o jogador selecionado porque ele está ocupado.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -8501,7 +8501,7 @@
 	<string>
 		<id>1300235</id>
 		<name>STR_GUILD_CREATED</name>
-		<body>The %0 Legion has been created.</body>
+		<body>A Legião %0 foi criada.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -8529,28 +8529,28 @@
 	<string>
 		<id>1300239</id>
 		<name>STR_GUILD_LEAVE_I_AM_NOT_BELONG_TO_GUILD</name>
-		<body>You are not a member of a Legion.</body>
+		<body>Você não está em nenhuma Legião.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300240</id>
 		<name>STR_GUILD_LEAVE_HE_LEFT</name>
-		<body>%0 has left the Legion.</body>
+		<body>%0 saiu da Legião.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300241</id>
 		<name>STR_GUILD_LEAVE_DONE</name>
-		<body>You have left the %0 Legion.</body>
+		<body>Você saiu da Legião %0.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300242</id>
 		<name>STR_GUILD_BANISH_I_AM_NOT_BELONG_TO_GUILD</name>
-		<body>You are not a member of a Legion.</body>
+		<body>Você não está em nenhuma Legião.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -8613,7 +8613,7 @@
 	<string>
 		<id>1300251</id>
 		<name>STR_GUILD_INVITE_I_AM_NOT_BELONG_TO_GUILD</name>
-		<body>You are not a member of a Legion.</body>
+		<body>Você não está em nenhuma Legião.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -8683,7 +8683,7 @@
 	<string>
 		<id>1300261</id>
 		<name>STR_GUILD_CHANGE_MEMBER_RANK_I_AM_NOT_BELONG_TO_GUILD</name>
-		<body>You are not a member of a Legion.</body>
+		<body>Você não está em nenhuma Legião.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -8823,7 +8823,7 @@
 	<string>
 		<id>1300281</id>
 		<name>STR_GUILD_WRITE_INTRO_NOT_BELONG_TO_GUILD</name>
-		<body>You are not a member of a Legion.</body>
+		<body>Você não está em nenhuma Legião.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -8907,14 +8907,14 @@
 	<string>
 		<id>1300293</id>
 		<name>STR_GUILD_I_AM_NOT_BELONG_TO_GUILD</name>
-		<body>You are not a member of a Legion.</body>
+		<body>Você não está em nenhuma Legião.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1300294</id>
 		<name>STR_GUILD_DISPERSE_STAYMODE_CANCEL_I_AM_NOT_BELONG_TO_GUILD</name>
-		<body>You are not a member of a Legion.</body>
+		<body>Você não está em nenhuma Legião.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -8963,7 +8963,7 @@
 	<string>
 		<id>1300301</id>
 		<name>STR_GUILD_DISPERSE_I_AM_NOT_BELONG_TO_GUILD</name>
-		<body>You are not a member of a Legion.</body>
+		<body>Você não está em nenhuma Legião.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -9040,7 +9040,7 @@
 	<string>
 		<id>1300312</id>
 		<name>STR_GUILD_CHANGE_MEMBER_NICKNAME_I_AM_NOT_BELONG_TO_GUILD</name>
-		<body>You are not a member of a Legion.</body>
+		<body>Você não está em nenhuma Legião.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -13992,7 +13992,7 @@
 	<string>
 		<id>1301019</id>
 		<name>STR_FORCE_HE_BECOME_OFFLINE</name>
-		<body>%0 has been disconnected.</body>
+		<body>%0 foi desconectado.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
