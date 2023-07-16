@@ -7064,12 +7064,12 @@
 	<string>
 		<id>911302</id>
 		<name>STR_FORCE_DIALOG__READY</name>
-		<body>Verificar Prontidão</body>
+		<body>Verificando Prontidão</body>
 	</string>
 	<string>
 		<id>911303</id>
 		<name>STR_FORCE_READY_DIALOG</name>
-		<body>Verificar Prontidão</body>
+		<body>Verificando Prontidão</body>
 	</string>
 	<string>
 		<id>911304</id>
@@ -7089,7 +7089,7 @@
 	<string>
 		<id>911307</id>
 		<name>STR_FORCE_READY_DIALOG__NOT_READY</name>
-		<body>Não estou pronto</body>
+		<body>Ocupado!</body>
 	</string>
 	<string>
 		<id>911308</id>

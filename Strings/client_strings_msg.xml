@@ -8270,7 +8270,7 @@
 	<string>
 		<id>1300202</id>
 		<name>STR_PARTY_ALLIANCE_HE_LEAVED_PARTY</name>
-		<body>%0 has left the alliance.</body>
+		<body>%0 saiu da Aliança.</body>
 		<message_type>64</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -13845,14 +13845,14 @@
 	<string>
 		<id>1300998</id>
 		<name>STR_FORCE_HE_IS_NEW_LEADER</name>
-		<body>%0 is now the alliance captain.</body>
+		<body>%0 agora é o capitão da Aliança.</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1300999</id>
 		<name>STR_FORCE_YOU_BECOME_NEW_LEADER</name>
-		<body>You are now the alliance captain.</body>
+		<body>Agora você é o capitão da Aliança.</body>
 		<message_type>64</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -16592,14 +16592,14 @@
 	<string>
 		<id>1390250</id>
 		<name>STR_MSG_PARTY_LOOTING_CHANGED_RULE</name>
-		<body>A política de distribuição do Grupo agora é %0. %1 itens serão distribuídos por %2.</body>
+		<body>A política de distribuição do Grupo agora é %0. Os itens %1 serão distribuídos por %2.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1390251</id>
 		<name>STR_MSG_FORCE_LOOTING_CHANGED_RULE</name>
-		<body>A política de distribuição da Aliança agora é %0. %1 itens serão distribuídos por %2.</body>
+		<body>A política de distribuição da Aliança agora é %0. Os itens %1 serão distribuídos por %2.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
