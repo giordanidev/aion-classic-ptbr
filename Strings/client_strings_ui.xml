@@ -13330,7 +13330,7 @@
 	<string>
 		<id>902326</id>
 		<name>STR_UI_ABANDON_TOYPET_CONFIRM</name>
-		<body>Para desistir, digite &apos;%0&apos;.</body>
+		<body>Para desistir, digite &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;.</body>
 	</string>
 	<string>
 		<id>902327</id>
@@ -13360,7 +13360,7 @@
 	<string>
 		<id>902332</id>
 		<name>STR_VENDOR_SELLING_ITEMS</name>
-		<body>Itens Registrados (%num0/%num1)</body>
+		<body>Itens registrados (%num0/%num1)</body>
 	</string>
 	<string>
 		<id>902333</id>

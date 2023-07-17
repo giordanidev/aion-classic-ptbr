@@ -2652,37 +2652,37 @@
 	<string>
 		<id>1200645</id>
 		<name>STR_SKILL_SUCC_CaseHeal_A_TO_ME</name>
-		<body>You receive &apos;Limited Restoration&apos; from [%SkillCaster]&apos;s [%SkillName].</body>
+		<body>[%SkillCaster] aplicou o 'debuff' 'Limited Restoration' em você usando a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200646</id>
 		<name>STR_SKILL_SUCC_CaseHeal_INTERVAL_A_TO_ME</name>
-		<body>You regenerate %num0 HP from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você restaurou %num0 HP porque [%SkillCaster] usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200647</id>
 		<name>STR_SKILL_SUCC_ChangeHateOnAttacked_A_TO_ME</name>
-		<body>Você recebeu %0 de provocação da habilidade [%SkillName] usada por [%SkillCaster].</body>
+		<body>Você recebeu %0 de Provocação da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200648</id>
 		<name>STR_SKILL_SUCC_CloseAerial_A_TO_ME</name>
-		<body>[%SkillCaster] released you from the aerial snare porque usou [%SkillName].</body>
+		<body>[%SkillCaster] tirou você do ar (aetherhold) porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200649</id>
 		<name>STR_SKILL_SUCC_ConvertHeal_A_TO_ME</name>
-		<body>[%SkillCaster] cancelled your transformation with [%SkillName].</body>
+		<body>[%SkillCaster] cancelou a sua transformação usando a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200650</id>
 		<name>STR_SKILL_SUCC_ConvertHeal_INTERVAL_A_TO_ME</name>
-		<body>You regenerate %num0 HP from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você restaurou %num0 HP porque [%SkillCaster] usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2832,13 +2832,13 @@
 	<string>
 		<id>1200675</id>
 		<name>STR_SKILL_SUCC_Heal_INTERVAL_A_TO_ME</name>
-		<body>You regenerate %num0 HP from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você restaurou %num0 HP porque [%SkillCaster] usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200676</id>
 		<name>STR_SKILL_SUCC_Heal_Instant_HEAL_A_TO_ME</name>
-		<body>You regenerate %num0 HP from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você restaurou %num0 HP porque [%SkillCaster] usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2850,7 +2850,7 @@
 	<string>
 		<id>1200678</id>
 		<name>STR_SKILL_SUCC_HealCastorOnAttacked_INTERVAL_A_TO_ME</name>
-		<body>You regenerate %num0 HP from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você restaurou %num0 HP porque [%SkillCaster] usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2862,7 +2862,7 @@
 	<string>
 		<id>1200680</id>
 		<name>STR_SKILL_SUCC_HealCastorOnTargetDead_INTERVAL_A_TO_ME</name>
-		<body>You regenerate %num0 HP from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você restaurou %num0 HP porque [%SkillCaster] usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2976,7 +2976,7 @@
 	<string>
 		<id>1200699</id>
 		<name>STR_SKILL_SUCC_PROCHeal_Instant_HEAL_A_TO_ME</name>
-		<body>You regenerate %num0 HP from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você restaurou %num0 HP porque [%SkillCaster] usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
