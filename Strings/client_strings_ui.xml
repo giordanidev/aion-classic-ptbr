@@ -1830,7 +1830,7 @@
 	<string>
 		<id>240204</id>
 		<name>STR_GUILD_DISPERSE_DATE</name>
-		<body>Data Esperada para Remoção</body>
+		<body>Data Esperada para Exclusão</body>
 	</string>
 	<string>
 		<id>240205</id>
@@ -5754,7 +5754,7 @@
 	<string>
 		<id>900732</id>
 		<name>STR_SELECT_STAGE_DELETE_NOW</name>
-		<body>Confirmar Remoção</body>
+		<body>Confirmar Exclusão</body>
 	</string>
 	<string>
 		<id>900733</id>
@@ -7249,7 +7249,7 @@
 	<string>
 		<id>901032</id>
 		<name>STR_WAIT_CHAR_DELETING</name>
-		<body>Remoção pendente.</body>
+		<body>Exclusão pendente.</body>
 	</string>
 	<string>
 		<id>901033</id>
