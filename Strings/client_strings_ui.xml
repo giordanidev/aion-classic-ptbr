@@ -8959,7 +8959,7 @@
 	<string>
 		<id>901405</id>
 		<name>STR_GAUGE_NPC_TALKING</name>
-		<body>Ativando o item</body>
+		<body>Carregando...</body>
 	</string>
 	<string>
 		<id>901406</id>
