@@ -3,7 +3,7 @@
 	<string>
 		<id>280007</id>
 		<name>STR_SKILL_EQUIP_ROBE1</name>
-		<body>Proficiência em Armadura Cloth Avançada</body>
+		<body>Proficiência Avançada em Armadura Cloth</body>
 	</string>
 	<string>
 		<id>280008</id>
@@ -18,22 +18,22 @@
 	<string>
 		<id>280013</id>
 		<name>STR_SKILL_EQUIP_PLATE1</name>
-		<body>Advanced Plate Armour Proficiency</body>
+		<body>Proficiência Avançada em Armadura Plate</body>
 	</string>
 	<string>
 		<id>280017</id>
 		<name>STR_SKILL_EQUIP_BOW1</name>
-		<body>Advanced Archery</body>
+		<body>Arquerismo Avançado</body>
 	</string>
 	<string>
 		<id>280019</id>
 		<name>STR_SKILL_EQUIP_BOOK1</name>
-		<body>Spellbook</body>
+		<body>Livro de Feitiços</body>
 	</string>
 	<string>
 		<id>280021</id>
 		<name>STR_SKILL_EQUIP_SWORD1</name>
-		<body>Sword</body>
+		<body>Espada</body>
 	</string>
 	<string>
 		<id>280024</id>
@@ -93,7 +93,7 @@
 	<string>
 		<id>280179</id>
 		<name>STR_SKILL_EQUIP_ROBE1_DESC</name>
-		<body>Allows you to wear cloth equipment, and boosts your defence each time the skill level upgrades.</body>
+		<body>Permite que você use equipamentos Cloth e aumenta sua defesa sempre que o nível de habilidade aumenta.</body>
 	</string>
 	<string>
 		<id>280180</id>
@@ -103,27 +103,27 @@
 	<string>
 		<id>280184</id>
 		<name>STR_SKILL_EQUIP_HIGH_LEATHER1_DESC</name>
-		<body>Allows you to wear high-leather equipment, and boosts your defence each time the skill level upgrades.</body>
+		<body>Permite que você use equipamentos Leather e aumenta sua defesa sempre que o nível de habilidade aumenta.</body>
 	</string>
 	<string>
 		<id>280185</id>
 		<name>STR_SKILL_EQUIP_PLATE1_DESC</name>
-		<body>Allows you to wear plate equipment, and boosts your defence each time the skill level upgrades.</body>
+		<body>Permite que você use equipamentos Plate e aumenta sua defesa sempre que o nível de habilidade aumenta.</body>
 	</string>
 	<string>
 		<id>280189</id>
 		<name>STR_SKILL_EQUIP_BOW1_DESC</name>
-		<body>Allows you to use bows, and boosts your attack power each time the skill level upgrades.</body>
+		<body>Permite que você use Arcos e aumenta seu poder de ataque sempre que o nível de habilidade aumenta.</body>
 	</string>
 	<string>
 		<id>280191</id>
 		<name>STR_SKILL_EQUIP_BOOK1_DESC</name>
-		<body>Allows you to use spellbooks, and boosts your attack power each time the skill level upgrades.</body>
+		<body>Permite que você use Livro de Feitiços e aumenta seu poder de ataque sempre que o nível de habilidade aumenta.</body>
 	</string>
 	<string>
 		<id>280193</id>
 		<name>STR_SKILL_EQUIP_SWORD1_DESC</name>
-		<body>Allows you to use one-handed weapons, and boosts your attack power each time the skill level upgrades.</body>
+		<body>Permite que você use armas de uma mão e aumenta seu poder de ataque sempre que o nível de habilidade aumenta.</body>
 	</string>
 	<string>
 		<id>280196</id>
@@ -143,12 +143,12 @@
 	<string>
 		<id>280202</id>
 		<name>STR_SKILL_EQUIP_POLEARM1_DESC</name>
-		<body>Allows you to use polearms, and boosts your attack power each time the skill level upgrades.</body>
+		<body>Permite que você use Foice e aumenta seu poder de ataque sempre que o nível de habilidade aumenta.</body>
 	</string>
 	<string>
 		<id>280229</id>
 		<name>STR_SKILL_MASTERY_DUAL_DESC</name>
-		<body>Allows the simultaneous wielding of two one-handed weapons, one held in each hand.</body>
+		<body>Permite que você use duas armas de uma mão simultaneamente e aumenta seu poder de ataque sempre que o nível de habilidade aumenta.</body>
 	</string>
 	<string>
 		<id>280240</id>
@@ -208,27 +208,27 @@
 	<string>
 		<id>280376</id>
 		<name>STR_BASICHARVEST_DESC</name>
-		<body>Allows you to pick up items from the ground.</body>
+		<body>Permite pegar itens do chão.</body>
 	</string>
 	<string>
 		<id>280377</id>
 		<name>STR_MINING_DESC</name>
-		<body>The skill of mining minerals</body>
+		<body>A habilidade de minerar minerais.</body>
 	</string>
 	<string>
 		<id>280378</id>
 		<name>STR_FORESTRY_DESC</name>
-		<body>The skill of logging trees or picking herbs</body>
+		<body>A habilidade de cortar árvores ou colher ervas.</body>
 	</string>
 	<string>
 		<id>280379</id>
 		<name>STR_GATHERING_DESC</name>
-		<body>The skill of harvesting fruits, vegetables and grains</body>
+		<body>A habilidade de colher frutas, legumes e grãos.</body>
 	</string>
 	<string>
 		<id>280380</id>
 		<name>STR_FISHING_DESC</name>
-		<body>The skill of catching fish</body>
+		<body>A habilidade de pescar.</body>
 	</string>
 	<string>
 		<id>280381</id>
@@ -238,7 +238,7 @@
 	<string>
 		<id>280382</id>
 		<name>STR_BLACKSMITH_DESC</name>
-		<body>The skill of creating metal items.</body>
+		<body>A habilidade de criar itens de metal.</body>
 	</string>
 	<string>
 		<id>280383</id>
@@ -248,7 +248,7 @@
 	<string>
 		<id>280384</id>
 		<name>STR_COOKING_DESC</name>
-		<body>Allows you to make food and beverages that have effects when consumed. You may also purify contaminated materials.</body>
+		<body>Permite preparar alimentos e bebidas que adicionam efeitos quando consumidos. Você também pode purificar materiais contaminados.</body>
 	</string>
 	<string>
 		<id>280385</id>
@@ -258,7 +258,7 @@
 	<string>
 		<id>280386</id>
 		<name>STR_WEAPONSMITH_DESC</name>
-		<body>Allows you to craft metal weapons.</body>
+		<body>Permite criar armas de metal.</body>
 	</string>
 	<string>
 		<id>280387</id>
@@ -268,7 +268,7 @@
 	<string>
 		<id>280388</id>
 		<name>STR_ARMORSMITH_DESC</name>
-		<body>Allows you to craft metal armor, helmets and shields.</body>
+		<body>Permite criar armaduras de metal, capacetes e escudos.</body>
 	</string>
 	<string>
 		<id>280389</id>
@@ -278,7 +278,7 @@
 	<string>
 		<id>280390</id>
 		<name>STR_TAILORING_DESC</name>
-		<body>Allows you to make cloth armour, leather armour and clothing with cloth and leather.</body>
+		<body>Permite fazer armaduras Cloth, armaduras Leather e fantasias com tecido e couro.</body>
 	</string>
 	<string>
 		<id>280391</id>
@@ -288,7 +288,7 @@
 	<string>
 		<id>280392</id>
 		<name>STR_LEATHERWORK_DESC</name>
-		<body>A skill of crafting leather items</body>
+		<body>A habilidade de criar itens Leather.</body>
 	</string>
 	<string>
 		<id>280393</id>
@@ -298,7 +298,7 @@
 	<string>
 		<id>280394</id>
 		<name>STR_CARPENTRY_DESC</name>
-		<body>A skill of crafting items with wood.</body>
+		<body>A habilidade de criar itens de madeira.</body>
 	</string>
 	<string>
 		<id>280395</id>
@@ -308,7 +308,7 @@
 	<string>
 		<id>280396</id>
 		<name>STR_ALCHEMY_DESC</name>
-		<body>Allows you to make items that enhance various magical weapons, items and equipment.</body>
+		<body>Permite fazer itens que aprimoram várias armas, itens e equipamentos mágicos.</body>
 	</string>
 	<string>
 		<id>280397</id>
@@ -318,7 +318,7 @@
 	<string>
 		<id>280398</id>
 		<name>STR_HANDIWORK_DESC</name>
-		<body>Allows you to craft precious metal, wooden weapons and small parts.</body>
+		<body>Permite criar metais preciosos, armas de madeira e peças pequenas.</body>
 	</string>
 	<string>
 		<id>280399</id>
@@ -343,17 +343,17 @@
 	<string>
 		<id>280529</id>
 		<name>STR_SKILL_Heal_DESC</name>
-		<body>Restores the target&apos;s HP.</body>
+		<body>Restaura o HP do alvo.</body>
 	</string>
 	<string>
 		<id>280549</id>
 		<name>STR_SKILL_Stun_DESC</name>
-		<body>You&apos;ve been buffeted with shock. You cannot do anything for a period of time.</body>
+		<body>Você foi atingido pelo choque. Você não pode fazer nada por um período de tempo.</body>
 	</string>
 	<string>
 		<id>280572</id>
 		<name>STR_SKILL_START_CHAIN</name>
-		<body>Chain Skills</body>
+		<body>Habilidades em Sequência</body>
 	</string>
 	<string>
 		<id>280573</id>
@@ -453,7 +453,7 @@
 	<string>
 		<id>280592</id>
 		<name>STR_SKILL_START_CHAIN_DESC</name>
-		<body>Uses Chain Skill.</body>
+		<body>Usa Habilidades em Sequência.</body>
 	</string>
 	<string>
 		<id>280593</id>
@@ -568,7 +568,7 @@
 	<string>
 		<id>281386</id>
 		<name>STR_SKILL_Death_DESC</name>
-		<body>A temporary after-effect of death, which decreases movement speed for a short time.</body>
+		<body>Um efeito colateral temporário da morte, que diminui a Velocidade de Movimento por um curto período de tempo.</body>
 	</string>
 	<string>
 		<id>281387</id>
@@ -578,7 +578,7 @@
 	<string>
 		<id>281388</id>
 		<name>STR_SKILL_TauntingBlow_DESC</name>
-		<body>Taunts an enemy with a light attack.</body>
+		<body>Provoca um inimigo com um ataque leve.</body>
 	</string>
 	<string>
 		<id>281389</id>
@@ -588,7 +588,7 @@
 	<string>
 		<id>281390</id>
 		<name>STR_SKILL_SlicingBlow_DESC</name>
-		<body>Inflicts a deep slash. If the skill is successful, you can use Stunning Blow.</body>
+		<body>Inflige um corte profundo. Se a habilidade for bem sucedida, você pode usar Stunning Blow.</body>
 	</string>
 	<string>
 		<id>281391</id>
@@ -598,7 +598,7 @@
 	<string>
 		<id>281392</id>
 		<name>STR_SKILL_StunningBlow_DESC</name>
-		<body>A strong attack that forces the enemy to Stumble. Available only after Slicing Blow is successful.</body>
+		<body>Um ataque forte que força o inimigo a tropeçar (stumble). Disponível somente após Slicing Blow ser bem sucedido.</body>
 	</string>
 	<string>
 		<id>281397</id>
@@ -658,7 +658,7 @@
 	<string>
 		<id>281408</id>
 		<name>STR_SKILL_NPCFAIMAMHOWL_DESC</name>
-		<body>Paralyses the enemy and prevents all actions.</body>
+		<body>Paralisa o inimigo e impede todas as ações.</body>
 	</string>
 	<string>
 		<id>281409</id>
@@ -678,7 +678,7 @@
 	<string>
 		<id>281412</id>
 		<name>STR_SKILL_NPCZOMBIEBITE_DESC</name>
-		<body>Poisons the target and slowly decreases its HP.</body>
+		<body>Envenena o alvo e lentamente diminui seu HP.</body>
 	</string>
 	<string>
 		<id>281413</id>
@@ -698,7 +698,7 @@
 	<string>
 		<id>281416</id>
 		<name>STR_SKILL_NPCGHOSTHAND_DESC</name>
-		<body>AGI is lowered.</body>
+		<body>AGI é reduzido.</body>
 	</string>
 	<string>
 		<id>281417</id>
@@ -708,7 +708,7 @@
 	<string>
 		<id>281418</id>
 		<name>STR_SKILL_NPCTAILATTACK_DESC</name>
-		<body>Poisons the target and slowly decreases its HP.</body>
+		<body>Envenena o alvo e lentamente diminui seu HP.</body>
 	</string>
 	<string>
 		<id>281419</id>
@@ -728,7 +728,7 @@
 	<string>
 		<id>281422</id>
 		<name>STR_SKILL_NPCACIDSPIT_DESC</name>
-		<body>The movement speed is lowered.</body>
+		<body>A Velocidade de Movimento é reduzida.</body>
 	</string>
 	<string>
 		<id>281423</id>
@@ -738,7 +738,7 @@
 	<string>
 		<id>281424</id>
 		<name>STR_SKILL_NPCHARDSHELL_DESC</name>
-		<body>Surrounds your body with a shell to block enemy attacks.</body>
+		<body>Envolve seu corpo com uma concha para bloquear ataques inimigos.</body>
 	</string>
 	<string>
 		<id>281425</id>
@@ -918,7 +918,7 @@
 	<string>
 		<id>281460</id>
 		<name>STR_Skill_DownwardBlow_DESC</name>
-		<body>A downward strike at a fallen enemy. It can be used only against a Stumbled enemy.</body>
+		<body>Um golpe para baixo em um inimigo caído. Pode ser usado apenas contra um inimigo caído (stumbled).</body>
 	</string>
 	<string>
 		<id>281461</id>
@@ -928,7 +928,7 @@
 	<string>
 		<id>281462</id>
 		<name>STR_Skill_ShieldBash_DESC</name>
-		<body>Bashes with the shield and Staggers the enemy. Available only after Block is successful.</body>
+		<body>Golpeia com o escudo e atordoa (stagger) o inimigo. Disponível somente após um Block bem-sucedido.</body>
 	</string>
 	<string>
 		<id>281463</id>
@@ -938,7 +938,7 @@
 	<string>
 		<id>281464</id>
 		<name>STR_Skill_MultipleBlow_DESC</name>
-		<body>Hits the enemy repeatedly and strikes a fierce blow to finish them off.</body>
+		<body>Acerta o inimigo repetidamente e desfere um golpe feroz para acabar com ele.</body>
 	</string>
 	<string>
 		<id>281465</id>
@@ -948,7 +948,7 @@
 	<string>
 		<id>281466</id>
 		<name>STR_Skill_Rage_DESC</name>
-		<body>Decreases your Defence for a short time in order to increase Attack prowess.</body>
+		<body>Diminui sua defesa por um curto período de tempo para aumentar a capacidade de ataque.</body>
 	</string>
 	<string>
 		<id>281467</id>
@@ -958,7 +958,7 @@
 	<string>
 		<id>281468</id>
 		<name>STR_Skill_TripleEdge1_DESC</name>
-		<body>Slashes the enemy rapidly. The first skill of the Triple Edge Chain Skill.</body>
+		<body>Corta o inimigo rapidamente. A primeira habilidade sequência Triple Edge.</body>
 	</string>
 	<string>
 		<id>281469</id>
@@ -968,7 +968,7 @@
 	<string>
 		<id>281470</id>
 		<name>STR_Skill_TripleEdge2_DESC</name>
-		<body>Slashes at an enemy to inflict a deep wound. The second skill of the Triple Edge Chain Skill.</body>
+		<body>Corta um inimigo para infligir uma ferida profunda. A segunda habilidade da sequência Triple Edge.</body>
 	</string>
 	<string>
 		<id>281471</id>
@@ -978,7 +978,7 @@
 	<string>
 		<id>281472</id>
 		<name>STR_Skill_TripleEdge3_DESC</name>
-		<body>Lands a critical attack on the wounded enemy to Stagger it. The third skill of the Triple Edge Chain Skill.</body>
+		<body>Acerta um ataque crítico no inimigo ferido para atordoá-lo (stagger). A terceira habilidade da sequência Triple Edge.</body>
 	</string>
 	<string>
 		<id>281473</id>
@@ -988,7 +988,7 @@
 	<string>
 		<id>281474</id>
 		<name>STR_Skill_BreathBreaker_DESC</name>
-		<body>Strikes at a fallen enemy to finish it off. Can be used only against a Stumbled enemy.</body>
+		<body>Ataca um inimigo caído para acabar com ele. Pode ser usado apenas contra um inimigo caído (stumbled).</body>
 	</string>
 	<string>
 		<id>281475</id>
@@ -998,7 +998,7 @@
 	<string>
 		<id>281476</id>
 		<name>STR_Skill_RipostingEdge_DESC</name>
-		<body>Attacks a vulnerable spot and Stumbles the enemy. Available only after Parry is successful.</body>
+		<body>Ataca um ponto vulnerável e faz o inimigo cair (stumble). Disponível somente após o Parry ser bem-sucedido.</body>
 	</string>
 	<string>
 		<id>281477</id>
@@ -1008,7 +1008,7 @@
 	<string>
 		<id>281478</id>
 		<name>STR_Skill_RapidShot_DESC</name>
-		<body>You rapidly shoot several arrows at the opponent.</body>
+		<body>Você rapidamente atira várias flechas no oponente.</body>
 	</string>
 	<string>
 		<id>281479</id>
@@ -1018,7 +1018,7 @@
 	<string>
 		<id>281480</id>
 		<name>STR_Skill_EntangleShot_DESC</name>
-		<body>Strikes at the enemy&apos;s legs to lower its movement speed.</body>
+		<body>Ataca as pernas do inimigo para diminuir sua Velocidade de Movimento.</body>
 	</string>
 	<string>
 		<id>281481</id>
@@ -1038,7 +1038,7 @@
 	<string>
 		<id>281484</id>
 		<name>STR_Skill_ShineStrike_DESC</name>
-		<body>A ferocious swing at the enemy.</body>
+		<body>Um golpe feroz no inimigo.</body>
 	</string>
 	<string>
 		<id>281485</id>
@@ -1048,7 +1048,7 @@
 	<string>
 		<id>281486</id>
 		<name>STR_Skill_Bind_DESC</name>
-		<body>Binds and immobilizes an enemy.</body>
+		<body>Amarra (bind) e imobiliza um inimigo.</body>
 	</string>
 	<string>
 		<id>281487</id>
@@ -1058,7 +1058,7 @@
 	<string>
 		<id>281488</id>
 		<name>STR_Skill_BindCircle_DESC</name>
-		<body>Binds and immobilizes all enemies within a radius of the target.</body>
+		<body>Amarra (bind) e imobiliza todos os inimigos dentro de um raio do alvo.</body>
 	</string>
 	<string>
 		<id>281489</id>
@@ -1068,7 +1068,7 @@
 	<string>
 		<id>281490</id>
 		<name>STR_Skill_Regeneration_DESC</name>
-		<body>Slowly restores the target&apos;s HP over a period of time.</body>
+		<body>Restaura lentamente o HP do alvo durante um período de tempo.</body>
 	</string>
 	<string>
 		<id>281491</id>
@@ -1078,7 +1078,7 @@
 	<string>
 		<id>281492</id>
 		<name>STR_Skill_Purification_DESC</name>
-		<body>Removes altered states of the target.</body>
+		<body>Remove estados alterados do alvo.</body>
 	</string>
 	<string>
 		<id>281493</id>
@@ -1088,7 +1088,7 @@
 	<string>
 		<id>281494</id>
 		<name>STR_Skill_Protection_DESC</name>
-		<body>Increases the target&apos;s physical defence for a period of time to protect it from enemy attacks.</body>
+		<body>Aumenta a defesa física do alvo por um período de tempo para protegê-lo de ataques inimigos.</body>
 	</string>
 	<string>
 		<id>281495</id>
@@ -1098,7 +1098,7 @@
 	<string>
 		<id>281496</id>
 		<name>STR_Skill_WindSpear_DESC</name>
-		<body>Throws a spear of wind magic at the enemy. If the skill is successful, you can use Explosion.</body>
+		<body>Lança uma lança de magia de vento no inimigo. Se a habilidade for bem-sucedida, você pode usar Explosion.</body>
 	</string>
 	<string>
 		<id>281497</id>
@@ -1108,7 +1108,7 @@
 	<string>
 		<id>281498</id>
 		<name>STR_Skill_Explosion_DESC</name>
-		<body>Attacks the enemy&apos;s vulnerable wounds and Stumbles it. Available only after the Scream of Wind Soul is successful.</body>
+		<body>Ataca os ferimentos vulneráveis ​​do inimigo e o faz cair (stumble). Disponível somente após o Scream of Wind Soul ser bem-sucedido.</body>
 	</string>
 	<string>
 		<id>281499</id>
@@ -1118,7 +1118,7 @@
 	<string>
 		<id>281500</id>
 		<name>STR_Skill_FireShard_DESC</name>
-		<body>Attacks the enemy with a dagger of fire.</body>
+		<body>Ataca o inimigo com uma adaga de fogo.</body>
 	</string>
 	<string>
 		<id>281501</id>
@@ -1128,7 +1128,7 @@
 	<string>
 		<id>281502</id>
 		<name>STR_Skill_MarbleFlame_DESC</name>
-		<body>Throws a powerful ball of fire at the enemy.</body>
+		<body>Lança uma poderosa bola de fogo no inimigo.</body>
 	</string>
 	<string>
 		<id>281503</id>
@@ -1138,7 +1138,7 @@
 	<string>
 		<id>281504</id>
 		<name>STR_Skill_LightningProphecy_DESC</name>
-		<body>Summons lightning to attack the enemy.</body>
+		<body>Invoca um raio para atacar o inimigo.</body>
 	</string>
 	<string>
 		<id>281505</id>
@@ -1148,7 +1148,7 @@
 	<string>
 		<id>281506</id>
 		<name>STR_Skill_ManaRegeneration_DESC</name>
-		<body>Increases your Mana Recovery rate for a period of time.</body>
+		<body>Aumenta sua taxa de Recuperação de Mana por um período de tempo.</body>
 	</string>
 	<string>
 		<id>281507</id>
@@ -1158,7 +1158,7 @@
 	<string>
 		<id>281508</id>
 		<name>STR_Skill_DPATK1_DESC</name>
-		<body>Gathers the power of holy light and detonates it to destroy all nearby enemies. After casting the skill, you lose all DP.</body>
+		<body>Reúne o poder da luz sagrada e a detona para destruir todos os inimigos próximos. Depois de lançar a habilidade, você perde todos a DP.</body>
 	</string>
 	<string>
 		<id>281509</id>
@@ -1168,7 +1168,7 @@
 	<string>
 		<id>281510</id>
 		<name>STR_Skill_DPHeal_DESC</name>
-		<body>Sends your power of light to an ally who is gathering the power of holy light. Your DP is completely transferred to the ally. Once used, the DP is never returned.</body>
+		<body>Envia seu poder de luz para um aliado que está reunindo o poder da luz sagrada. Seu DP é totalmente transferido para o aliado. Uma vez usado, o DP nunca é devolvido.</body>
 	</string>
 	<string>
 		<id>281511</id>
@@ -1178,7 +1178,7 @@
 	<string>
 		<id>281512</id>
 		<name>STR_Skill_JumpBlow_DESC</name>
-		<body>Jump attacks the enemy and Stumbles it.</body>
+		<body>Pula para atacar o inimigo e o derruba.</body>
 	</string>
 	<string>
 		<id>281513</id>
@@ -1188,7 +1188,7 @@
 	<string>
 		<id>281514</id>
 		<name>STR_Skill_SpinBlow_DESC</name>
-		<body>A strong spin attack Staggers nearby enemies.</body>
+		<body>Um forte ataque giratório que atordoa (stagger) os inimigos próximos.</body>
 	</string>
 	<string>
 		<id>281533</id>
@@ -1358,167 +1358,167 @@
 	<string>
 		<id>281566</id>
 		<name>STR_ITEM_E3_DISH_HP_01_DESC</name>
-		<body>Slowly recovers HP for its duration.</body>
+		<body>Lentamente recupera HP durante sua duração.</body>
 	</string>
 	<string>
 		<id>281567</id>
 		<name>STR_ITEM_E3_DISH_HP_02_DESC</name>
-		<body>Slowly recovers HP for its duration.</body>
+		<body>Lentamente recupera HP durante sua duração.</body>
 	</string>
 	<string>
 		<id>281568</id>
 		<name>STR_ITEM_E3_DISH_MP_01_DESC</name>
-		<body>Slowly recovers MP for its duration.</body>
+		<body>Lentamente recupera MP durante sua duração.</body>
 	</string>
 	<string>
 		<id>281569</id>
 		<name>STR_ITEM_E3_DISH_MP_02_DESC</name>
-		<body>Slowly recovers MP for its duration.</body>
+		<body>Lentamente recupera MP durante sua duração.</body>
 	</string>
 	<string>
 		<id>281570</id>
 		<name>STR_ITEM_E3_DISH_STR_VIT_01_DESC</name>
-		<body>Increases STR and VIT for its duration.</body>
+		<body>Aumenta STR e VIT durante sua duração.</body>
 	</string>
 	<string>
 		<id>281571</id>
 		<name>STR_ITEM_E3_DISH_STR_VIT_02_DESC</name>
-		<body>Increases STR but decreases VIT for its duration.</body>
+		<body>Aumenta STR, mas diminui VIT durante sua duração.</body>
 	</string>
 	<string>
 		<id>281572</id>
 		<name>STR_ITEM_E3_DISH_AGI_DEX_01_DESC</name>
-		<body>Increases AGI and DEX for its duration.</body>
+		<body>Aumenta AGI e DEX durante sua duração.</body>
 	</string>
 	<string>
 		<id>281573</id>
 		<name>STR_ITEM_E3_DISH_AGI_DEX_02_DESC</name>
-		<body>Increases AGI but decreases DEX for its duration.</body>
+		<body>Aumenta AGI, mas diminui DEX durante sua duração.</body>
 	</string>
 	<string>
 		<id>281574</id>
 		<name>STR_ITEM_E3_DISH_KNO_WIL_01_DESC</name>
-		<body>Increases KNO and WIL for its duration.</body>
+		<body>Aumenta KNO e WIL durante sua duração.</body>
 	</string>
 	<string>
 		<id>281575</id>
 		<name>STR_ITEM_E3_DISH_KNO_WIL_02_DESC</name>
-		<body>Increases KNO but decreases WIL for its duration.</body>
+		<body>Aumenta KNO, mas diminui WIL durante sua duração.</body>
 	</string>
 	<string>
 		<id>281576</id>
 		<name>STR_ITEM_E3_MUSHROOM_01_DESC</name>
-		<body>Increases movement and attack speeds for its duration.</body>
+		<body>Aumenta as Velocidades de Movimento e Ataque durante sua duração.</body>
 	</string>
 	<string>
 		<id>281577</id>
 		<name>STR_ITEM_E3_MUSHROOM_02_DESC</name>
-		<body>Increases Accuracy and Evasion for its duration.</body>
+		<body>Aumenta a Precisão e a Evasão durante sua duração.</body>
 	</string>
 	<string>
 		<id>281578</id>
 		<name>STR_ITEM_E3_MUSHROOM_03_DESC</name>
-		<body>Increases Physical and Magical Attacks significantly for its duration.</body>
+		<body>Aumenta significativamente os Ataques Físicos e Mágicos durante sua duração.</body>
 	</string>
 	<string>
 		<id>281579</id>
 		<name>STR_ITEM_E3_CRYSTAL_EARTH_DESC</name>
-		<body>Increases Earth Resistance for its duration.</body>
+		<body>Aumenta a Resistência à Terra durante sua duração.</body>
 	</string>
 	<string>
 		<id>281580</id>
 		<name>STR_ITEM_E3_CRYSTAL_WATER_DESC</name>
-		<body>Increases Water Resistance for its duration.</body>
+		<body>Aumenta a Resistência à Água durante sua duração.</body>
 	</string>
 	<string>
 		<id>281581</id>
 		<name>STR_ITEM_E3_CRYSTAL_FIRE_DESC</name>
-		<body>Increases Fire Resistance for its duration.</body>
+		<body>Aumenta a Resistência à Fogo durante sua duração.</body>
 	</string>
 	<string>
 		<id>281582</id>
 		<name>STR_ITEM_E3_CRYSTAL_AIR_DESC</name>
-		<body>Increases Wind Resistance for its duration.</body>
+		<body>Aumenta a Resistência à Vento durante sua duração.</body>
 	</string>
 	<string>
 		<id>281583</id>
 		<name>STR_ITEM_E3_CRYSTAL_LIGHTNESS_DESC</name>
-		<body>Increases Magical Attack for its duration.</body>
+		<body>Aumenta o Ataque Mágico durante sua duração.</body>
 	</string>
 	<string>
 		<id>281584</id>
 		<name>STR_ITEM_E3_CRYSTAL_DARKNESS_DESC</name>
-		<body>Increases Physical Attack for its duration.</body>
+		<body>Aumenta o Ataque Físico durante sua duração.</body>
 	</string>
 	<string>
 		<id>281585</id>
 		<name>STR_ITEM_E3_SCROLL_ACCURACY_DESC</name>
-		<body>Increases Accuracy for its duration.</body>
+		<body>Aumenta a Precisão durante sua duração.</body>
 	</string>
 	<string>
 		<id>281586</id>
 		<name>STR_ITEM_E3_SCROLL_DODGE_DESC</name>
-		<body>Increases Evasion for its duration.</body>
+		<body>Aumenta a Evasão durante sua duração.</body>
 	</string>
 	<string>
 		<id>281587</id>
 		<name>STR_ITEM_E3_SCROLL_CRITICAL_DESC</name>
-		<body>Increases the chance of critical strikes for its duration.</body>
+		<body>Aumenta a chance de acertos críticos durante sua duração.</body>
 	</string>
 	<string>
 		<id>281588</id>
 		<name>STR_ITEM_E3_SCROLL_SPEED_DESC</name>
-		<body>Increases movement speed for its duration.</body>
+		<body>Aumenta a Velocidade de Movimento durante sua duração.</body>
 	</string>
 	<string>
 		<id>281589</id>
 		<name>STR_ITEM_E3_SCROLL_HASTE_DESC</name>
-		<body>Increases attack speed for its duration.</body>
+		<body>Aumenta a Velocidade de Ataque durante sua duração.</body>
 	</string>
 	<string>
 		<id>281590</id>
 		<name>STR_ITEM_E3_GALL_WORM_DESC</name>
-		<body>Increases STR significantly for its duration.</body>
+		<body>Aumenta STR significativamente durante sua duração.</body>
 	</string>
 	<string>
 		<id>281591</id>
 		<name>STR_ITEM_E3_GEM_SHINING_DESC</name>
-		<body>Restores a significant amount of MP.</body>
+		<body>Restaura uma quantidade significativa de MP.</body>
 	</string>
 	<string>
 		<id>281592</id>
 		<name>STR_ITEM_E3_POTION_HP_SMALL_DESC</name>
-		<body>Restores a small amount of HP.</body>
+		<body>Restaura uma pequena quantidade de HP.</body>
 	</string>
 	<string>
 		<id>281593</id>
 		<name>STR_ITEM_E3_POTION_MP_SMALL_DESC</name>
-		<body>Restores a small amount of MP.</body>
+		<body>Restaura uma pequena quantidade de MP.</body>
 	</string>
 	<string>
 		<id>281594</id>
 		<name>STR_ITEM_E3_POTION_HP_LARGE_DESC</name>
-		<body>Restores HP.</body>
+		<body>Restaura HP.</body>
 	</string>
 	<string>
 		<id>281595</id>
 		<name>STR_ITEM_E3_POTION_MP_LARGE_DESC</name>
-		<body>Restores MP.</body>
+		<body>Restaura MP.</body>
 	</string>
 	<string>
 		<id>281596</id>
 		<name>STR_ITEM_E3_HERB_ANGELICA_DESC</name>
-		<body>Restores a small amount of HP.</body>
+		<body>Restaura uma pequena quantidade de HP.</body>
 	</string>
 	<string>
 		<id>281597</id>
 		<name>STR_ITEM_E3_HERB_TARRAGON_DESC</name>
-		<body>Restores a small amount of MP.</body>
+		<body>Restaura uma pequena quantidade de MP.</body>
 	</string>
 	<string>
 		<id>281598</id>
 		<name>STR_ITEM_E3_HERB_GINSENG_DESC</name>
-		<body>Restores small amounts of HP and MP.</body>
+		<body>Restaura pequenas quantidades de HP e MP.</body>
 	</string>
 	<string>
 		<id>281599</id>
@@ -1528,7 +1528,7 @@
 	<string>
 		<id>281600</id>
 		<name>STR_Skill_StumbleStun_DESC</name>
-		<body>You fell down after receiving a strong shock. You cannot do anything for a period of time.</body>
+		<body>Você caiu após receber um forte choque. Você não pode fazer nada por um período de tempo.</body>
 	</string>
 	<string>
 		<id>281601</id>
@@ -1538,7 +1538,7 @@
 	<string>
 		<id>281602</id>
 		<name>STR_Skill_Guard_DESC</name>
-		<body>Lifts the shield and prepares for enemy&apos;s attack.</body>
+		<body>Levanta o escudo e se prepara para o ataque inimigo.</body>
 	</string>
 	<string>
 		<id>281603</id>
@@ -1548,7 +1548,7 @@
 	<string>
 		<id>281604</id>
 		<name>STR_SYSTEM_SKILL_POLYMORPH_FUNGUS_DESC</name>
-		<body>You have temporarily become a Fungen.</body>
+		<body>Você se tornou temporariamente um Fungen.</body>
 	</string>
 	<string>
 		<id>281605</id>
@@ -1558,7 +1558,7 @@
 	<string>
 		<id>281606</id>
 		<name>STR_Skill_StunningImpact_DESC</name>
-		<body>Shakes the ground and Stumbles nearby enemies. If the skill is successful, you can use Chastise and Earth Impact.</body>
+		<body>Sacode o chão e derruba (stumble) inimigos próximos. Se a habilidade for bem-sucedida, você pode usar Chastise e Earth Impact.</body>
 	</string>
 	<string>
 		<id>281607</id>
@@ -1568,7 +1568,7 @@
 	<string>
 		<id>281608</id>
 		<name>STR_Skill_Chastisement_DESC</name>
-		<body>Summons a Luminary Dagger to damage nearby enemies and reduce their attack speeds. Available only after the Stunning Impact is successful.</body>
+		<body>Invoca uma Luminary Dagger para causar dano aos inimigos próximos e reduzir suas Velocidades de Ataque. Disponível apenas após o sucesso do Stunning Impact.</body>
 	</string>
 	<string>
 		<id>281609</id>
@@ -1578,7 +1578,7 @@
 	<string>
 		<id>281610</id>
 		<name>STR_Skill_Ward_DESC</name>
-		<body>Increases the target&apos;s physical defence for a period of time to protect it from enemy attacks.</body>
+		<body>Aumenta a defesa física do alvo por um período de tempo para protegê-lo de ataques inimigos.</body>
 	</string>
 	<string>
 		<id>281611</id>
@@ -1588,7 +1588,7 @@
 	<string>
 		<id>281612</id>
 		<name>STR_Skill_BasicShock_DESC</name>
-		<body>Gives the enemy a small shock to Stagger it.</body>
+		<body>Dá um pequeno choque no inimigo para atordoá-lo (stagger).</body>
 	</string>
 	<string>
 		<id>281613</id>
@@ -1598,7 +1598,7 @@
 	<string>
 		<id>281614</id>
 		<name>STR_SKILL_BattleMaster_DESC</name>
-		<body>Increases your maximum HP, physical and magical attacks, depending on the skill level.</body>
+		<body>Aumenta seu HP máximo, ataques físicos e mágicos, dependendo do nível da habilidade.</body>
 	</string>
 	<string>
 		<id>281615</id>
@@ -1608,7 +1608,7 @@
 	<string>
 		<id>281616</id>
 		<name>STR_Skill_ClashingImpact_DESC</name>
-		<body>Summons the power of earth to inflict great damage on the enemy. Available only after the Stunning Impact is successful.</body>
+		<body>Convoca o poder da terra para infligir grandes danos ao inimigo. Disponível apenas após o sucesso do Stunning Impact.</body>
 	</string>
 	<string>
 		<id>281617</id>
@@ -1938,7 +1938,7 @@
 	<string>
 		<id>281682</id>
 		<name>STR_Skill_Spin_DESC</name>
-		<body>You spun backwards after receiving a strong shock. You cannot do anything for a period of time.</body>
+		<body>Você girou para trás após receber um forte choque. Você não pode fazer nada por um período de tempo.</body>
 	</string>
 	<string>
 		<id>281683</id>
@@ -2493,62 +2493,62 @@
 	<string>
 		<id>281815</id>
 		<name>STR_SKILL_P_EQUIP_EnhancedSword_G1</name>
-		<body>Sword</body>
+		<body>Espada</body>
 	</string>
 	<string>
 		<id>281816</id>
 		<name>STR_SKILL_P_EQUIP_EnhancedSword_G1_DESC</name>
-		<body>Allows you to use swords.</body>
+		<body>Permite que você use espadas.</body>
 	</string>
 	<string>
 		<id>281817</id>
 		<name>STR_SKILL_WA_EQUIP_EnhancedDagger</name>
-		<body>Basic Dagger Training</body>
+		<body>Treinamento Básico de Adaga</body>
 	</string>
 	<string>
 		<id>281818</id>
 		<name>STR_SKILL_WA_EQUIP_EnhancedDagger_DESC</name>
-		<body>Allows you to use daggers.</body>
+		<body>Permite que você use adagas.</body>
 	</string>
 	<string>
 		<id>281819</id>
 		<name>STR_SKILL_P_EQUIP_EnhancedMace_G1</name>
-		<body>Basic Mace Training</body>
+		<body>Treinamento Básico de Mace</body>
 	</string>
 	<string>
 		<id>281820</id>
 		<name>STR_SKILL_P_EQUIP_EnhancedMace_G1_DESC</name>
-		<body>Allows you to use maces.</body>
+		<body>Permite que você use maces.</body>
 	</string>
 	<string>
 		<id>281821</id>
 		<name>STR_SKILL_P_EQUIP_EnhancedCloth_G1</name>
-		<body>Basic Garment</body>
+		<body>Vestuário Básico</body>
 	</string>
 	<string>
 		<id>281822</id>
 		<name>STR_SKILL_P_EQUIP_EnhancedCloth_G1_DESC</name>
-		<body>Allows you to wear clothing. A skill to be proud of.</body>
+		<body>Permite que você use roupas. Uma habilidade para se orgulhar.</body>
 	</string>
 	<string>
 		<id>281823</id>
 		<name>STR_SKILL_P_EQUIP_EnhancedLeather_G1</name>
-		<body>Basic Leather Armour Proficiency</body>
+		<body>Proficiência Básica em Armadura Leather</body>
 	</string>
 	<string>
 		<id>281824</id>
 		<name>STR_SKILL_P_EQUIP_EnhancedLeather_G1_DESC</name>
-		<body>Allows you to wear leather armour.</body>
+		<body>Permite que você use armadura Leather.</body>
 	</string>
 	<string>
 		<id>281825</id>
 		<name>STR_SKILL_P_EQUIP_EnhancedChain_G1</name>
-		<body>Basic Chain Armour Proficiency</body>
+		<body>Proficiência Básica em Armadura Chain</body>
 	</string>
 	<string>
 		<id>281826</id>
 		<name>STR_SKILL_P_EQUIP_EnhancedChain_G1_DESC</name>
-		<body>Allows you to wear chain armour.</body>
+		<body>Permite que você use armadura Chain.</body>
 	</string>
 	<string>
 		<id>281827</id>
@@ -2563,12 +2563,12 @@
 	<string>
 		<id>281829</id>
 		<name>STR_SKILL_P_EQUIP_Sword_G1</name>
-		<body>Advanced Sword Training I</body>
+		<body>Treinamento Avançado de Espada I</body>
 	</string>
 	<string>
 		<id>281830</id>
 		<name>STR_SKILL_P_EQUIP_Sword_G1_DESC</name>
-		<body>Allows you to use swords skilfully.</body>
+		<body>Permite que você use espadas habilmente.</body>
 	</string>
 	<string>
 		<id>281831</id>
@@ -2578,7 +2578,7 @@
 	<string>
 		<id>281832</id>
 		<name>STR_SKILL_P_EQUIP_Dagger_G1_DESC</name>
-		<body>Allows you to use daggers skilfully.</body>
+		<body>Permite que você use adagas habilmente.</body>
 	</string>
 	<string>
 		<id>281833</id>
@@ -2588,7 +2588,7 @@
 	<string>
 		<id>281834</id>
 		<name>STR_SKILL_P_EQUIP_Mace_G1_DESC</name>
-		<body>Allows you to use maces skilfully.</body>
+		<body>Permite que você use maces habilmente.</body>
 	</string>
 	<string>
 		<id>281835</id>
@@ -2653,7 +2653,7 @@
 	<string>
 		<id>281847</id>
 		<name>STR_SKILL_P_EQUIP_Bow_G1</name>
-		<body>Advanced Archery Training I</body>
+		<body>Treinamento Avançado de Arquerismo I</body>
 	</string>
 	<string>
 		<id>281848</id>
@@ -2663,12 +2663,12 @@
 	<string>
 		<id>281849</id>
 		<name>STR_SKILL_P_EQUIP_Plate_G1</name>
-		<body>Advanced Plate Armour Proficiency I</body>
+		<body>Proficiência Avançada em Armadura Plate I</body>
 	</string>
 	<string>
 		<id>281850</id>
 		<name>STR_SKILL_P_EQUIP_Plate_G1_DESC</name>
-		<body>Grants Advanced Plate Armour Proficiency.</body>
+		<body>Habilita Proficiência Avançada em Armadura Plate.</body>
 	</string>
 	<string>
 		<id>281851</id>
@@ -2683,12 +2683,12 @@
 	<string>
 		<id>281853</id>
 		<name>STR_SKILL_KN_EQUIP_Sword</name>
-		<body>Advanced Sword Training I</body>
+		<body>Treinamento Avançado de Espada I</body>
 	</string>
 	<string>
 		<id>281854</id>
 		<name>STR_SKILL_KN_EQUIP_Sword_DESC</name>
-		<body>Allows you to use swords skilfully.</body>
+		<body>Permite que você use espadas habilmente.</body>
 	</string>
 	<string>
 		<id>281855</id>
@@ -2698,7 +2698,7 @@
 	<string>
 		<id>281856</id>
 		<name>STR_SKILL_KN_EQUIP_Dagger_DESC</name>
-		<body>Allows you to use daggers skilfully.</body>
+		<body>Permite que você use adagas habilmente.</body>
 	</string>
 	<string>
 		<id>281857</id>
@@ -2708,7 +2708,7 @@
 	<string>
 		<id>281858</id>
 		<name>STR_SKILL_KN_EQUIP_Mace_DESC</name>
-		<body>Allows you to use maces skilfully.</body>
+		<body>Permite que você use maces habilmente.</body>
 	</string>
 	<string>
 		<id>281859</id>
@@ -2763,32 +2763,32 @@
 	<string>
 		<id>281869</id>
 		<name>STR_SKILL_KN_EQUIP_Plate</name>
-		<body>Advanced Plate Armour Proficiency</body>
+		<body>Proficiência Avançada em Armadura Plate</body>
 	</string>
 	<string>
 		<id>281870</id>
 		<name>STR_SKILL_KN_EQUIP_Plate_DESC</name>
-		<body>Grants Advanced Plate Armour Proficiency.</body>
+		<body>Habilita Proficiência Avançada em Armadura Plate.</body>
 	</string>
 	<string>
 		<id>281871</id>
 		<name>STR_SKILL_SC_EQUIP_EnhancedSword</name>
-		<body>Sword</body>
+		<body>Espada</body>
 	</string>
 	<string>
 		<id>281872</id>
 		<name>STR_SKILL_SC_EQUIP_EnhancedSword_DESC</name>
-		<body>Allows you to use swords.</body>
+		<body>Permite que você use espadas.</body>
 	</string>
 	<string>
 		<id>281873</id>
 		<name>STR_SKILL_P_EQUIP_EnhancedDagger_G1</name>
-		<body>Basic Dagger Training</body>
+		<body>Treinamento Básico de Adaga</body>
 	</string>
 	<string>
 		<id>281874</id>
 		<name>STR_SKILL_P_EQUIP_EnhancedDagger_G1_DESC</name>
-		<body>Allows you to use daggers.</body>
+		<body>Permite que você use adagas.</body>
 	</string>
 	<string>
 		<id>281875</id>
@@ -2803,22 +2803,22 @@
 	<string>
 		<id>281877</id>
 		<name>STR_SKILL_SC_EQUIP_EnhancedCloth</name>
-		<body>Basic Garment</body>
+		<body>Vestuário Básico</body>
 	</string>
 	<string>
 		<id>281878</id>
 		<name>STR_SKILL_SC_EQUIP_EnhancedCloth_DESC</name>
-		<body>Allows you to wear clothing. A skill to be proud of.</body>
+		<body>Permite que você use roupas. Uma habilidade para se orgulhar.</body>
 	</string>
 	<string>
 		<id>281879</id>
 		<name>STR_SKILL_SC_EQUIP_EnhancedLeather</name>
-		<body>Basic Leather Armour Proficiency</body>
+		<body>Proficiência Básica em Armadura Leather</body>
 	</string>
 	<string>
 		<id>281880</id>
 		<name>STR_SKILL_SC_EQUIP_EnhancedLeather_DESC</name>
-		<body>Allows you to wear leather armour.</body>
+		<body>Permite que você use armadura Leather.</body>
 	</string>
 	<string>
 		<id>281881</id>
@@ -2833,12 +2833,12 @@
 	<string>
 		<id>281883</id>
 		<name>STR_SKILL_RA_EQUIP_Sword</name>
-		<body>Advanced Sword Training I</body>
+		<body>Treinamento Avançado de Espada I</body>
 	</string>
 	<string>
 		<id>281884</id>
 		<name>STR_SKILL_RA_EQUIP_Sword_DESC</name>
-		<body>Allows you to use swords skilfully.</body>
+		<body>Permite que você use espadas habilmente.</body>
 	</string>
 	<string>
 		<id>281885</id>
@@ -2848,12 +2848,12 @@
 	<string>
 		<id>281886</id>
 		<name>STR_SKILL_RA_EQUIP_Dagger_DESC</name>
-		<body>Allows you to use daggers skilfully.</body>
+		<body>Permite que você use adagas habilmente.</body>
 	</string>
 	<string>
 		<id>281887</id>
 		<name>STR_SKILL_RA_EQUIP_Bow</name>
-		<body>Advanced Archery Training I</body>
+		<body>Treinamento Avançado de Arquerismo I</body>
 	</string>
 	<string>
 		<id>281888</id>
@@ -2893,12 +2893,12 @@
 	<string>
 		<id>281895</id>
 		<name>STR_SKILL_AS_EQUIP_Sword</name>
-		<body>Advanced Sword Training I</body>
+		<body>Treinamento Avançado de Espada I</body>
 	</string>
 	<string>
 		<id>281896</id>
 		<name>STR_SKILL_AS_EQUIP_Sword_DESC</name>
-		<body>Allows you to use swords skilfully.</body>
+		<body>Permite que você use espadas habilmente.</body>
 	</string>
 	<string>
 		<id>281897</id>
@@ -2908,12 +2908,12 @@
 	<string>
 		<id>281898</id>
 		<name>STR_SKILL_AS_EQUIP_Dagger_DESC</name>
-		<body>Allows you to use daggers skilfully.</body>
+		<body>Permite que você use adagas habilmente.</body>
 	</string>
 	<string>
 		<id>281899</id>
 		<name>STR_SKILL_AS_EQUIP_Bow</name>
-		<body>Advanced Archery Training I</body>
+		<body>Treinamento Avançado de Arquerismo I</body>
 	</string>
 	<string>
 		<id>281900</id>
@@ -2953,12 +2953,12 @@
 	<string>
 		<id>281907</id>
 		<name>STR_SKILL_CL_EQUIP_EnhancedMace</name>
-		<body>Basic Mace Training</body>
+		<body>Treinamento Básico de Mace</body>
 	</string>
 	<string>
 		<id>281908</id>
 		<name>STR_SKILL_CL_EQUIP_EnhancedMace_DESC</name>
-		<body>Allows you to use maces.</body>
+		<body>Permite que você use maces.</body>
 	</string>
 	<string>
 		<id>281909</id>
@@ -2973,32 +2973,32 @@
 	<string>
 		<id>281911</id>
 		<name>STR_SKILL_CL_EQUIP_EnhancedCloth</name>
-		<body>Basic Garment</body>
+		<body>Vestuário Básico</body>
 	</string>
 	<string>
 		<id>281912</id>
 		<name>STR_SKILL_CL_EQUIP_EnhancedCloth_DESC</name>
-		<body>Allows you to wear clothing. A skill to be proud of.</body>
+		<body>Permite que você use roupas. Uma habilidade para se orgulhar.</body>
 	</string>
 	<string>
 		<id>281913</id>
 		<name>STR_SKILL_CL_EQUIP_EnhancedLeather</name>
-		<body>Basic Leather Armour Proficiency</body>
+		<body>Proficiência Básica em Armadura Leather</body>
 	</string>
 	<string>
 		<id>281914</id>
 		<name>STR_SKILL_CL_EQUIP_EnhancedLeather_DESC</name>
-		<body>Allows you to wear leather armour.</body>
+		<body>Permite que você use armadura Leather.</body>
 	</string>
 	<string>
 		<id>281915</id>
 		<name>STR_SKILL_CL_EQUIP_EnhancedChain</name>
-		<body>Basic Chain Armour Proficiency</body>
+		<body>Proficiência Básica em Armadura Chain</body>
 	</string>
 	<string>
 		<id>281916</id>
 		<name>STR_SKILL_CL_EQUIP_EnhancedChain_DESC</name>
-		<body>Allows you to wear chain armour.</body>
+		<body>Permite que você use armadura Chain.</body>
 	</string>
 	<string>
 		<id>281917</id>
@@ -3008,7 +3008,7 @@
 	<string>
 		<id>281918</id>
 		<name>STR_SKILL_PR_EQUIP_Mace_DESC</name>
-		<body>Allows you to use maces skilfully.</body>
+		<body>Permite que você use maces habilmente.</body>
 	</string>
 	<string>
 		<id>281919</id>
@@ -3058,7 +3058,7 @@
 	<string>
 		<id>281928</id>
 		<name>STR_SKILL_CH_EQUIP_Mace_DESC</name>
-		<body>Allows you to use maces skilfully.</body>
+		<body>Permite que você use maces habilmente.</body>
 	</string>
 	<string>
 		<id>281929</id>
@@ -3103,7 +3103,7 @@
 	<string>
 		<id>281937</id>
 		<name>STR_SKILL_P_EQUIP_EnhancedBook_G1</name>
-		<body>Spellbook</body>
+		<body>Livro de Feitiços</body>
 	</string>
 	<string>
 		<id>281938</id>
@@ -3113,12 +3113,12 @@
 	<string>
 		<id>281939</id>
 		<name>STR_SKILL_MA_EQUIP_EnhancedCloth</name>
-		<body>Basic Garment</body>
+		<body>Vestuário Básico</body>
 	</string>
 	<string>
 		<id>281940</id>
 		<name>STR_SKILL_MA_EQUIP_EnhancedCloth_DESC</name>
-		<body>Allows you to wear clothing. A skill to be proud of.</body>
+		<body>Permite que você use roupas. Uma habilidade para se orgulhar.</body>
 	</string>
 	<string>
 		<id>281941</id>
@@ -3163,7 +3163,7 @@
 	<string>
 		<id>281949</id>
 		<name>STR_SKILL_P_EQUIP_Book_G1</name>
-		<body>Advanced Spellbook Training I</body>
+		<body>Treinamento Avançado de Livro de Feitiços I</body>
 	</string>
 	<string>
 		<id>281950</id>
@@ -3173,7 +3173,7 @@
 	<string>
 		<id>281951</id>
 		<name>STR_SKILL_EL_EQUIP_Book</name>
-		<body>Advanced Spellbook Training I</body>
+		<body>Treinamento Avançado de Livro de Feitiços I</body>
 	</string>
 	<string>
 		<id>281952</id>
@@ -8742,7 +8742,7 @@
 	<string>
 		<id>283070</id>
 		<name>STR_SKILL_Stigma_EnhancedChain_DESC</name>
-		<body>Allows you to wear Chain Armour.</body>
+		<body>Permite que você use armadura Chain.</body>
 	</string>
 	<string>
 		<id>283071</id>
@@ -8762,7 +8762,7 @@
 	<string>
 		<id>283074</id>
 		<name>STR_SKILL_Stigma_EnhancedSword_DESC</name>
-		<body>Allows you to use swords.</body>
+		<body>Permite que você use espadas.</body>
 	</string>
 	<string>
 		<id>283075</id>
@@ -8772,7 +8772,7 @@
 	<string>
 		<id>283076</id>
 		<name>STR_SKILL_Stigma_EnhancedMace_DESC</name>
-		<body>Allows you to use maces.</body>
+		<body>Permite que você use maces.</body>
 	</string>
 	<string>
 		<id>283077</id>
@@ -8792,7 +8792,7 @@
 	<string>
 		<id>283080</id>
 		<name>STR_SKILL_Stigma_EnhancedLeather_DESC</name>
-		<body>Allows you to wear leather armour.</body>
+		<body>Permite que você use armadura Leather.</body>
 	</string>
 	<string>
 		<id>283081</id>
@@ -8802,7 +8802,7 @@
 	<string>
 		<id>283082</id>
 		<name>STR_SKILL_Stigma_EnhancedDagger_DESC</name>
-		<body>Allows you to use daggers.</body>
+		<body>Permite que você use adagas.</body>
 	</string>
 	<string>
 		<id>283083</id>
@@ -17865,7 +17865,7 @@
 	<string>
 		<id>284989</id>
 		<name>STR_SKILL_Stigma_Equip_EnhancedSword_DESC</name>
-		<body>Allows you to use swords.</body>
+		<body>Permite que você use espadas.</body>
 	</string>
 	<string>
 		<id>284990</id>
@@ -17875,12 +17875,12 @@
 	<string>
 		<id>284991</id>
 		<name>STR_SKILL_Stigma_Equip_EnhancedDagger_DESC</name>
-		<body>Allows you to use daggers.</body>
+		<body>Permite que você use adagas.</body>
 	</string>
 	<string>
 		<id>284992</id>
 		<name>STR_SKILL_Stigma_Equip_EnhancedBook</name>
-		<body>Stigma Spellbook Training</body>
+		<body>Treinamento do Livro de Feitiços de Stigma</body>
 	</string>
 	<string>
 		<id>284993</id>
@@ -17905,7 +17905,7 @@
 	<string>
 		<id>284997</id>
 		<name>STR_SKILL_Stigma_Equip_EnhancedLeather_DESC</name>
-		<body>Allows you to wear leather armour.</body>
+		<body>Permite que você use armadura Leather.</body>
 	</string>
 	<string>
 		<id>284998</id>
@@ -30926,7 +30926,7 @@
 	<string>
 		<id>287616</id>
 		<name>STR_HPSpring_Regeneration_DESC</name>
-		<body>Slowly restores the target&apos;s HP over a period of time.</body>
+		<body>Restaura lentamente o HP do alvo durante um período de tempo.</body>
 	</string>
 	<string>
 		<id>287617</id>
@@ -38898,12 +38898,12 @@
 	<string>
 		<id>289216</id>
 		<name>STR_SKILL_P_EQUIP_Sword_G2</name>
-		<body>Advanced Sword Training II</body>
+		<body>Treinamento Avançado de Espada II</body>
 	</string>
 	<string>
 		<id>289217</id>
 		<name>STR_SKILL_P_EQUIP_Sword_G2_DESC</name>
-		<body>Allows you to use swords skilfully.</body>
+		<body>Permite que você use espadas habilmente.</body>
 	</string>
 	<string>
 		<id>289218</id>
@@ -38913,7 +38913,7 @@
 	<string>
 		<id>289219</id>
 		<name>STR_SKILL_P_EQUIP_Dagger_G2_DESC</name>
-		<body>Allows you to use daggers skilfully.</body>
+		<body>Permite que você use adagas habilmente.</body>
 	</string>
 	<string>
 		<id>289220</id>
@@ -38923,7 +38923,7 @@
 	<string>
 		<id>289221</id>
 		<name>STR_SKILL_P_EQUIP_Mace_G2_DESC</name>
-		<body>Allows you to use maces skilfully.</body>
+		<body>Permite que você use maces habilmente.</body>
 	</string>
 	<string>
 		<id>289222</id>
@@ -38948,7 +38948,7 @@
 	<string>
 		<id>289226</id>
 		<name>STR_SKILL_P_EQUIP_Bow_G2</name>
-		<body>Advanced Archery Training II</body>
+		<body>Treinamento Avançado de Arquerismo II</body>
 	</string>
 	<string>
 		<id>289227</id>
@@ -38958,12 +38958,12 @@
 	<string>
 		<id>289228</id>
 		<name>STR_SKILL_P_EQUIP_Sword_G3</name>
-		<body>Advanced Sword Training III</body>
+		<body>Treinamento Avançado de Espada III</body>
 	</string>
 	<string>
 		<id>289229</id>
 		<name>STR_SKILL_P_EQUIP_Sword_G3_DESC</name>
-		<body>Allows you to use swords skilfully.</body>
+		<body>Permite que você use espadas habilmente.</body>
 	</string>
 	<string>
 		<id>289230</id>
@@ -38973,7 +38973,7 @@
 	<string>
 		<id>289231</id>
 		<name>STR_SKILL_P_EQUIP_Dagger_G3_DESC</name>
-		<body>Allows you to use daggers skilfully.</body>
+		<body>Permite que você use adagas habilmente.</body>
 	</string>
 	<string>
 		<id>289232</id>
@@ -38983,7 +38983,7 @@
 	<string>
 		<id>289233</id>
 		<name>STR_SKILL_P_EQUIP_Mace_G3_DESC</name>
-		<body>Allows you to use maces skilfully.</body>
+		<body>Permite que você use maces habilmente.</body>
 	</string>
 	<string>
 		<id>289234</id>
@@ -39008,7 +39008,7 @@
 	<string>
 		<id>289238</id>
 		<name>STR_SKILL_P_EQUIP_Bow_G3</name>
-		<body>Advanced Archery Training III</body>
+		<body>Treinamento Avançado de Arquerismo III</body>
 	</string>
 	<string>
 		<id>289239</id>
@@ -39018,12 +39018,12 @@
 	<string>
 		<id>289240</id>
 		<name>STR_SKILL_KN_EQUIP_Sword_G2</name>
-		<body>Advanced Sword Training II</body>
+		<body>Treinamento Avançado de Espada II</body>
 	</string>
 	<string>
 		<id>289241</id>
 		<name>STR_SKILL_KN_EQUIP_Sword_G2_DESC</name>
-		<body>Allows you to use swords skilfully.</body>
+		<body>Permite que você use espadas habilmente.</body>
 	</string>
 	<string>
 		<id>289242</id>
@@ -39033,7 +39033,7 @@
 	<string>
 		<id>289243</id>
 		<name>STR_SKILL_KN_EQUIP_Mace_G2_DESC</name>
-		<body>Allows you to use maces skilfully.</body>
+		<body>Permite que você use maces habilmente.</body>
 	</string>
 	<string>
 		<id>289244</id>
@@ -39048,12 +39048,12 @@
 	<string>
 		<id>289246</id>
 		<name>STR_SKILL_KN_EQUIP_Sword_G3</name>
-		<body>Advanced Sword Training III</body>
+		<body>Treinamento Avançado de Espada III</body>
 	</string>
 	<string>
 		<id>289247</id>
 		<name>STR_SKILL_KN_EQUIP_Sword_G3_DESC</name>
-		<body>Allows you to use swords skilfully.</body>
+		<body>Permite que você use espadas habilmente.</body>
 	</string>
 	<string>
 		<id>289248</id>
@@ -39063,7 +39063,7 @@
 	<string>
 		<id>289249</id>
 		<name>STR_SKILL_KN_EQUIP_Mace_G3_DESC</name>
-		<body>Allows you to use maces skilfully.</body>
+		<body>Permite que você use maces habilmente.</body>
 	</string>
 	<string>
 		<id>289250</id>
@@ -39078,12 +39078,12 @@
 	<string>
 		<id>289252</id>
 		<name>STR_SKILL_RA_EQUIP_Sword_G2</name>
-		<body>Advanced Sword Training II</body>
+		<body>Treinamento Avançado de Espada II</body>
 	</string>
 	<string>
 		<id>289253</id>
 		<name>STR_SKILL_RA_EQUIP_Sword_G2_DESC</name>
-		<body>Allows you to use swords skilfully.</body>
+		<body>Permite que você use espadas habilmente.</body>
 	</string>
 	<string>
 		<id>289254</id>
@@ -39093,12 +39093,12 @@
 	<string>
 		<id>289255</id>
 		<name>STR_SKILL_RA_EQUIP_Dagger_G2_DESC</name>
-		<body>Allows you to use daggers skilfully.</body>
+		<body>Permite que você use adagas habilmente.</body>
 	</string>
 	<string>
 		<id>289256</id>
 		<name>STR_SKILL_RA_EQUIP_Bow_G2</name>
-		<body>Advanced Archery Training II</body>
+		<body>Treinamento Avançado de Arquerismo II</body>
 	</string>
 	<string>
 		<id>289257</id>
@@ -39108,12 +39108,12 @@
 	<string>
 		<id>289258</id>
 		<name>STR_SKILL_RA_EQUIP_Sword_G3</name>
-		<body>Advanced Sword Training III</body>
+		<body>Treinamento Avançado de Espada III</body>
 	</string>
 	<string>
 		<id>289259</id>
 		<name>STR_SKILL_RA_EQUIP_Sword_G3_DESC</name>
-		<body>Allows you to use swords skilfully.</body>
+		<body>Permite que você use espadas habilmente.</body>
 	</string>
 	<string>
 		<id>289260</id>
@@ -39123,12 +39123,12 @@
 	<string>
 		<id>289261</id>
 		<name>STR_SKILL_RA_EQUIP_Dagger_G3_DESC</name>
-		<body>Allows you to use daggers skilfully.</body>
+		<body>Permite que você use adagas habilmente.</body>
 	</string>
 	<string>
 		<id>289262</id>
 		<name>STR_SKILL_RA_EQUIP_Bow_G3</name>
-		<body>Advanced Archery Training III</body>
+		<body>Treinamento Avançado de Arquerismo III</body>
 	</string>
 	<string>
 		<id>289263</id>
@@ -39138,12 +39138,12 @@
 	<string>
 		<id>289264</id>
 		<name>STR_SKILL_AS_EQUIP_Sword_G2</name>
-		<body>Advanced Sword Training II</body>
+		<body>Treinamento Avançado de Espada II</body>
 	</string>
 	<string>
 		<id>289265</id>
 		<name>STR_SKILL_AS_EQUIP_Sword_G2_DESC</name>
-		<body>Allows you to use swords skilfully.</body>
+		<body>Permite que você use espadas habilmente.</body>
 	</string>
 	<string>
 		<id>289266</id>
@@ -39153,12 +39153,12 @@
 	<string>
 		<id>289267</id>
 		<name>STR_SKILL_AS_EQUIP_Dagger_G2_DESC</name>
-		<body>Allows you to use daggers skilfully.</body>
+		<body>Permite que você use adagas habilmente.</body>
 	</string>
 	<string>
 		<id>289268</id>
 		<name>STR_SKILL_AS_EQUIP_Bow_G2</name>
-		<body>Advanced Archery Training II</body>
+		<body>Treinamento Avançado de Arquerismo II</body>
 	</string>
 	<string>
 		<id>289269</id>
@@ -39168,12 +39168,12 @@
 	<string>
 		<id>289270</id>
 		<name>STR_SKILL_AS_EQUIP_Sword_G3</name>
-		<body>Advanced Sword Training III</body>
+		<body>Treinamento Avançado de Espada III</body>
 	</string>
 	<string>
 		<id>289271</id>
 		<name>STR_SKILL_AS_EQUIP_Sword_G3_DESC</name>
-		<body>Allows you to use swords skilfully.</body>
+		<body>Permite que você use espadas habilmente.</body>
 	</string>
 	<string>
 		<id>289272</id>
@@ -39183,12 +39183,12 @@
 	<string>
 		<id>289273</id>
 		<name>STR_SKILL_AS_EQUIP_Dagger_G3_DESC</name>
-		<body>Allows you to use daggers skilfully.</body>
+		<body>Permite que você use adagas habilmente.</body>
 	</string>
 	<string>
 		<id>289274</id>
 		<name>STR_SKILL_AS_EQUIP_Bow_G3</name>
-		<body>Advanced Archery Training III</body>
+		<body>Treinamento Avançado de Arquerismo III</body>
 	</string>
 	<string>
 		<id>289275</id>
@@ -39203,7 +39203,7 @@
 	<string>
 		<id>289277</id>
 		<name>STR_SKILL_PR_EQUIP_Mace_G2_DESC</name>
-		<body>Allows you to use maces skilfully.</body>
+		<body>Permite que você use maces habilmente.</body>
 	</string>
 	<string>
 		<id>289278</id>
@@ -39223,7 +39223,7 @@
 	<string>
 		<id>289281</id>
 		<name>STR_SKILL_PR_EQUIP_Mace_G3_DESC</name>
-		<body>Allows you to use maces skilfully.</body>
+		<body>Permite que você use maces habilmente.</body>
 	</string>
 	<string>
 		<id>289282</id>
@@ -39243,7 +39243,7 @@
 	<string>
 		<id>289285</id>
 		<name>STR_SKILL_CH_EQUIP_Mace_G2_DESC</name>
-		<body>Allows you to use maces skilfully.</body>
+		<body>Permite que você use maces habilmente.</body>
 	</string>
 	<string>
 		<id>289286</id>
@@ -39263,7 +39263,7 @@
 	<string>
 		<id>289289</id>
 		<name>STR_SKILL_CH_EQUIP_Mace_G3_DESC</name>
-		<body>Allows you to use maces skilfully.</body>
+		<body>Permite que você use maces habilmente.</body>
 	</string>
 	<string>
 		<id>289290</id>
@@ -39278,7 +39278,7 @@
 	<string>
 		<id>289292</id>
 		<name>STR_SKILL_P_EQUIP_Book_G2</name>
-		<body>Advanced Spellbook Training II</body>
+		<body>Treinamento Avançado de Livro de Feitiços II</body>
 	</string>
 	<string>
 		<id>289293</id>
@@ -39288,7 +39288,7 @@
 	<string>
 		<id>289294</id>
 		<name>STR_SKILL_P_EQUIP_Book_G3</name>
-		<body>Advanced Spellbook Training III</body>
+		<body>Treinamento Avançado de Livro de Feitiços III</body>
 	</string>
 	<string>
 		<id>289295</id>
@@ -39298,7 +39298,7 @@
 	<string>
 		<id>289296</id>
 		<name>STR_SKILL_EL_EQUIP_Book_G2</name>
-		<body>Advanced Spellbook Training II</body>
+		<body>Treinamento Avançado de Livro de Feitiços II</body>
 	</string>
 	<string>
 		<id>289297</id>
@@ -39318,7 +39318,7 @@
 	<string>
 		<id>289300</id>
 		<name>STR_SKILL_EL_EQUIP_Book_G3</name>
-		<body>Advanced Spellbook Training III</body>
+		<body>Treinamento Avançado de Livro de Feitiços III</body>
 	</string>
 	<string>
 		<id>289301</id>
@@ -41953,7 +41953,7 @@
 	<string>
 		<id>289827</id>
 		<name>STR_SKILL_Stigma_P_EQUIP_Sword_G1</name>
-		<body>Advanced Sword Training I</body>
+		<body>Treinamento Avançado de Espada I</body>
 	</string>
 	<string>
 		<id>289828</id>
@@ -41978,7 +41978,7 @@
 	<string>
 		<id>289832</id>
 		<name>STR_SKILL_Stigma_P_EQUIP_Bow_G1</name>
-		<body>Advanced Archery Training I</body>
+		<body>Treinamento Avançado de Arquerismo I</body>
 	</string>
 	<string>
 		<id>289833</id>
@@ -41988,7 +41988,7 @@
 	<string>
 		<id>289834</id>
 		<name>STR_SKILL_Stigma_P_EQUIP_Book_G1</name>
-		<body>Advanced Spellbook Training I</body>
+		<body>Treinamento Avançado de Livro de Feitiços I</body>
 	</string>
 	<string>
 		<id>289835</id>
@@ -52788,12 +52788,12 @@
 	<string>
 		<id>291997</id>
 		<name>STR_SKILL_P_EQUIP_Sword_G4</name>
-		<body>Advanced Sword Training IV</body>
+		<body>Treinamento Avançado de Espada IV</body>
 	</string>
 	<string>
 		<id>291998</id>
 		<name>STR_SKILL_P_EQUIP_Sword_G4_DESC</name>
-		<body>Allows you to use swords skilfully.</body>
+		<body>Permite que você use espadas habilmente.</body>
 	</string>
 	<string>
 		<id>291999</id>
@@ -52803,7 +52803,7 @@
 	<string>
 		<id>292000</id>
 		<name>STR_SKILL_P_EQUIP_Dagger_G4_DESC</name>
-		<body>Allows you to use daggers skilfully.</body>
+		<body>Permite que você use adagas habilmente.</body>
 	</string>
 	<string>
 		<id>292001</id>
@@ -52813,7 +52813,7 @@
 	<string>
 		<id>292002</id>
 		<name>STR_SKILL_P_EQUIP_Mace_G4_DESC</name>
-		<body>Allows you to use maces skilfully.</body>
+		<body>Permite que você use maces habilmente.</body>
 	</string>
 	<string>
 		<id>292003</id>
@@ -52838,7 +52838,7 @@
 	<string>
 		<id>292007</id>
 		<name>STR_SKILL_P_EQUIP_Bow_G4</name>
-		<body>Advanced Archery Training IV</body>
+		<body>Treinamento Avançado de Arquerismo IV</body>
 	</string>
 	<string>
 		<id>292008</id>
@@ -54003,7 +54003,7 @@
 	<string>
 		<id>292241</id>
 		<name>STR_SKILL_P_EQUIP_Book_G4</name>
-		<body>Advanced Spellbook Training IV</body>
+		<body>Treinamento Avançado de Livro de Feitiços IV</body>
 	</string>
 	<string>
 		<id>292242</id>
@@ -64487,7 +64487,7 @@
 	<string>
 		<id>294344</id>
 		<name>STR_SKILL_Stun_2_DESC</name>
-		<body>You&apos;ve been buffeted with shock. You cannot do anything for a period of time.</body>
+		<body>Você foi atingido pelo choque. Você não pode fazer nada por um período de tempo.</body>
 	</string>
 	<string>
 		<id>294345</id>
@@ -64502,7 +64502,7 @@
 	<string>
 		<id>294347</id>
 		<name>STR_SKILL_Stun_3_DESC</name>
-		<body>You&apos;ve been buffeted with shock. You cannot do anything for a period of time.</body>
+		<body>Você foi atingido pelo choque. Você não pode fazer nada por um período de tempo.</body>
 	</string>
 	<string>
 		<id>294348</id>
@@ -64517,7 +64517,7 @@
 	<string>
 		<id>294350</id>
 		<name>STR_SKILL_Stun_4_DESC</name>
-		<body>You&apos;ve been buffeted with shock. You cannot do anything for a period of time.</body>
+		<body>Você foi atingido pelo choque. Você não pode fazer nada por um período de tempo.</body>
 	</string>
 	<string>
 		<id>294351</id>
@@ -64532,7 +64532,7 @@
 	<string>
 		<id>294353</id>
 		<name>STR_SKILL_StumbleStun_2_DESC</name>
-		<body>You fell down after receiving a strong shock. You cannot do anything for a period of time.</body>
+		<body>Você caiu após receber um forte choque. Você não pode fazer nada por um período de tempo.</body>
 	</string>
 	<string>
 		<id>294354</id>
@@ -64547,7 +64547,7 @@
 	<string>
 		<id>294356</id>
 		<name>STR_SKILL_StumbleStun_3_DESC</name>
-		<body>You fell down after receiving a strong shock. You cannot do anything for a period of time.</body>
+		<body>Você caiu após receber um forte choque. Você não pode fazer nada por um período de tempo.</body>
 	</string>
 	<string>
 		<id>294357</id>
@@ -64562,7 +64562,7 @@
 	<string>
 		<id>294359</id>
 		<name>STR_SKILL_StumbleStun_4_DESC</name>
-		<body>You fell down after receiving a strong shock. You cannot do anything for a period of time.</body>
+		<body>Você caiu após receber um forte choque. Você não pode fazer nada por um período de tempo.</body>
 	</string>
 	<string>
 		<id>294360</id>

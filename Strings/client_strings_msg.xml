@@ -762,7 +762,7 @@
 	<string>
 		<id>1200330</id>
 		<name>STR_SKILL_SUCC_AlwaysResist_ME_TO_SELF</name>
-		<body>Sua 'Elemental Defence' aumentou com o uso da habilidade [%SkillName].</body>
+		<body>Sua Defesa Elemental aumentou com o uso da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2598,7 +2598,7 @@
 	<string>
 		<id>1200636</id>
 		<name>STR_SKILL_SUCC_AlwaysResist_A_TO_ME</name>
-		<body>Sua 'Elemental Defence' aumentou porque [%SkillCaster] usou a habilidade [%SkillName].</body>
+		<body>Sua Defesa Elemental aumentou porque [%SkillCaster] usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2700,13 +2700,13 @@
 	<string>
 		<id>1200653</id>
 		<name>STR_SKILL_SUCC_DeboostHealAmount_A_TO_ME</name>
-		<body>[%SkillCaster] changed your recovery amount with [%SkillName].</body>
+		<body>[%SkillCaster] reduziu a sua quantidade de Cura porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200654</id>
 		<name>STR_SKILL_SUCC_Deform_A_TO_ME</name>
-		<body>[%SkillCaster] used [%SkillName] to transform you into %0.</body>
+		<body>[%SkillCaster] usu a habilidade [%SkillName] para te transformar em um %0.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2952,7 +2952,7 @@
 	<string>
 		<id>1200695</id>
 		<name>STR_SKILL_SUCC_Polymorph_A_TO_ME</name>
-		<body>[%SkillCaster] used [%SkillName] to transform you into %0.</body>
+		<body>[%SkillCaster] usu a habilidade [%SkillName] para te transformar em um %0.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -3054,7 +3054,7 @@
 	<string>
 		<id>1200712</id>
 		<name>STR_SKILL_SUCC_ShapeChange_A_TO_ME</name>
-		<body>[%SkillCaster] used [%SkillName] to transform you into %0.</body>
+		<body>[%SkillCaster] usu a habilidade [%SkillName] para te transformar em um %0.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
