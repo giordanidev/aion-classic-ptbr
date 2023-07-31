@@ -7479,12 +7479,12 @@
 	<string>
 		<id>901078</id>
 		<name>STR_SKILL_EFFECT_MSG_HATE_UP</name>
-		<body>Aumenta</body>
+		<body>aumentou</body>
 	</string>
 	<string>
 		<id>901079</id>
 		<name>STR_SKILL_EFFECT_MSG_HATE_DOWN</name>
-		<body>Diminui</body>
+		<body>diminui</body>
 	</string>
 	<string>
 		<id>901081</id>
@@ -11459,8 +11459,8 @@
 	</string>
 	<string>
 		<id>901914</id>
-		<name>STR_TOOLTIP_PRIVIEW_HIDE_HEAD</name>
-		<body>Ver capacete</body>
+		<name>STR_TOOLTIP_PREVIEW_HIDE_HEAD</name>
+		<body>Ver Capacete</body>
 	</string>
 	<string>
 		<id>901915</id>
@@ -11480,7 +11480,7 @@
 	<string>
 		<id>901918</id>
 		<name>STR_OPTION_AV_INFO_VSYNC</name>
-		<body>O cliente deve ser reiniciado para aplicar a configuração selecionada.\nAtivá-lo reduz a distorção da tela no modo de tela inteira.</body>
+		<body>O cliente deve ser reiniciado para aplicar a configuração selecionada.\nAtivar o VSync reduz a distorção da tela no modo de tela inteira.</body>
 	</string>
 	<string>
 		<id>901919</id>
@@ -11993,12 +11993,12 @@
 	<string>
 		<id>902020</id>
 		<name>STR_TOOLTIP_CREATEABLE_NUMBER</name>
-		<body>Número total de vezes que a criação é permitida</body>
+		<body>Total de usos</body>
 	</string>
 	<string>
 		<id>902021</id>
 		<name>STR_TOOLTIP_CREATEABLE_NUMBER_LEFT</name>
-		<body>Número restante de vezes que a criação é permitida</body>
+		<body>Usos restantes</body>
 	</string>
 	<string>
 		<id>902022</id>
