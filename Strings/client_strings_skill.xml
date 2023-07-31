@@ -23228,7 +23228,7 @@
 	<string>
 		<id>286069</id>
 		<name>STR_SKILL_PR_AreaResurrection_G1_DESC</name>
-		<body>Resurrects all dead group members within a 20m radius of you.</body>
+		<body>Resurrects all dead group members within a 20m radius of you. They ressurrect with 50%% of their Soul Sickness time.</body>
 	</string>
 	<string>
 		<id>286070</id>
