@@ -14211,4 +14211,9 @@
 		<name>STR_CHAR_LINK_DIALOG__ADD_BUDDY</name>
 		<body>Adicionar Amigo</body>
 	</string>
+	<string>
+		<id>912978</id>
+		<name>STR_GLOBAL_OPTION_DIALOG__GAME_WORDBALLOON</name>
+		<body>Mostrar Balões de Texto</body>
+	</string>
 </strings>
