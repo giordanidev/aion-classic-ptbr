@@ -32,7 +32,7 @@ client_strings_item.xml (arrumado valor pot mana e apostrofes)
 quest_q1096.html
 quest_q3705.html
 
-Espa~ço HTML 3x:
+Espaço HTML 3x:
 &nbsp;&nbsp;&nbsp;
 
 Nova linha HTML:
