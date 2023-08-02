@@ -2994,13 +2994,13 @@
 	<string>
 		<id>1200702</id>
 		<name>STR_SKILL_SUCC_Protect_INTERVAL_A_TO_ME</name>
-		<body>[%SkillCaster] stopped %num0 damage hitting you porque usou [%SkillName].</body>
+		<body>[%SkillCaster] protegeu você de %num0 de dano porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200703</id>
 		<name>STR_SKILL_SUCC_Provoker_A_TO_ME</name>
-		<body>[%SkillCaster]&apos;s [%SkillName] affected you.</body>
+		<body>A habilidade [%SkillName] usada por [%SkillCaster] afetou você.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -3066,7 +3066,7 @@
 	<string>
 		<id>1200714</id>
 		<name>STR_SKILL_SUCC_Shield_INTERVAL_A_TO_ME</name>
-		<body>[%SkillCaster] stopped %num0 damage hitting you porque usou [%SkillName].</body>
+		<body>[%SkillCaster] protegeu você de %num0 de dano porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>

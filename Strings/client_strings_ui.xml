@@ -10525,7 +10525,7 @@
 	<string>
 		<id>901721</id>
 		<name>STR_SUMMON_PARTY_DO_YOU_ACCEPT_REQUEST</name>
-		<body>&lt;p align=&quot;left&quot;&gt;&lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; quer te &lt;font color=&quot;ffff00&quot;&gt;teletransportar&lt;/font&gt; usando &lt;font color=&quot;ffff00&quot;&gt;%1&lt;/font&gt;. Aceita ser teletransportado para a posição de %0? &lt;br&gt;Você deve decidir em &lt;font color=&quot;ffff00&quot;&gt;%2&lt;/font&gt; segundos.&lt;/p&gt; </body>
+		<body>&lt;p align=&quot;left&quot;&gt;&lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; quer te &lt;font color=&quot;ffff00&quot;&gt;teletransportar&lt;/font&gt; usando &lt;font color=&quot;ffff00&quot;&gt;%1&lt;/font&gt;. Aceita ser teletransportado para a posição de &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;? \nVocê deve decidir em &lt;font color=&quot;ffff00&quot;&gt;%2&lt;/font&gt; segundos.&lt;/p&gt; </body>
 	</string>
 	<string>
 		<id>901722</id>
