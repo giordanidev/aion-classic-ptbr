@@ -2856,7 +2856,7 @@
 	<string>
 		<id>1200679</id>
 		<name>STR_SKILL_SUCC_HealCastorOnTargetDead_A_TO_ME</name>
-		<body>Você evitou a morte graças ao efeito Dano Reverso, que foi aplicado quando [%SkillCaster] usou a habilidade [%SkillName].</body>
+		<body>Você evitou a morte graças ao efeito de Dano Reverso, que foi aplicado quando [%SkillCaster] usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -16915,7 +16915,7 @@
 	<string>
 		<id>1400023</id>
 		<name>STR_ABYSS_ORDER_RANKER_DIE</name>
-		<body>%1 dos %0, %2, morreu em %3.</body>
+		<body>%2, %1 dos %0, morreu em %3.</body>
 		<message_type>55</message_type>
 		<display_type>1</display_type>
 	</string>
