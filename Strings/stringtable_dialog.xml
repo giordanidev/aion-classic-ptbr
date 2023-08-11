@@ -4048,7 +4048,7 @@
 	<string>
 		<id>910697</id>
 		<name>STR_DLG_GUILD_AUTH__WIDGET3</name>
-		<body>Editar</body>
+		<body>Alterar Anúncio da Legião</body>
 	</string>
 	<string>
 		<id>910698</id>
@@ -4078,7 +4078,7 @@
 	<string>
 		<id>910703</id>
 		<name>STR_DLG_GUILD_AUTH__WIDGET15</name>
-		<body>Usear o Quadro de Avisos</body>
+		<body>Usar o Quadro de Avisos</body>
 	</string>
 	<string>
 		<id>910704</id>
@@ -4766,7 +4766,7 @@
 	<string>
 		<id>910842</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__TABFRAME_OPTION_WIDGET32</name>
-		<body>Mostrar HP e MP na barra</body>
+		<body>Mostrar números de HP e MP na barra</body>
 	</string>
 	<string>
 		<id>910843</id>
@@ -6024,7 +6024,7 @@
 	<string>
 		<id>911094</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__TABFRAME_OPTION_SOUND_WEATHER</name>
-		<body>Tempo</body>
+		<body>Sons Climáticos</body>
 	</string>
 	<string>
 		<id>911095</id>
@@ -6134,7 +6134,7 @@
 	<string>
 		<id>911116</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GAME_TOOLTIP_COMPARE</name>
-		<body>Dicas de Equipamentos</body>
+		<body>Comparação de Equipamentos</body>
 	</string>
 	<string>
 		<id>911117</id>
@@ -7064,12 +7064,12 @@
 	<string>
 		<id>911302</id>
 		<name>STR_FORCE_DIALOG__READY</name>
-		<body>Verificar Prontidão</body>
+		<body>Verificando Prontidão</body>
 	</string>
 	<string>
 		<id>911303</id>
 		<name>STR_FORCE_READY_DIALOG</name>
-		<body>Verificar Prontidão</body>
+		<body>Verificando Prontidão</body>
 	</string>
 	<string>
 		<id>911304</id>
@@ -7089,7 +7089,7 @@
 	<string>
 		<id>911307</id>
 		<name>STR_FORCE_READY_DIALOG__NOT_READY</name>
-		<body>Não estou pronto</body>
+		<body>Ocupado!</body>
 	</string>
 	<string>
 		<id>911308</id>
@@ -7914,7 +7914,7 @@
 	<string>
 		<id>911472</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GRAPHIC_WHETHER</name>
-		<body>Tempo</body>
+		<body>Efeitos Climáticos</body>
 	</string>
 	<string>
 		<id>911473</id>
@@ -7934,7 +7934,7 @@
 	<string>
 		<id>911476</id>
 		<name>STR_GLOBAL_OPTION_DIALOG__GRAPHIC_SHADER</name>
-		<body>Qualidade do Sombreador (*)</body>
+		<body>Qualidade Detalhes (*)</body>
 	</string>
 	<string>
 		<id>911477</id>
@@ -7984,7 +7984,7 @@
 	<string>
 		<id>911486</id>
 		<name>STR_GLOBAL_OPTION_DIALOG_GRAPHIC_MODEL_SHADER_LOD</name>
-		<body>Detalhes do Personagem</body>
+		<body>Detal. Personagem</body>
 	</string>
 	<string>
 		<id>911487</id>
@@ -12629,7 +12629,7 @@
 	<string>
 		<id>912415</id>
 		<name>STR_VENDOR_SELL_DIALOG__PRICE_INFO</name>
-		<body>Informações Comerciais</body>
+		<body>INFORMAÇÕES COMERCIAIS</body>
 	</string>
 	<string>
 		<id>912416</id>
@@ -12654,7 +12654,7 @@
 	<string>
 		<id>912420</id>
 		<name>STR_VENDOR_SELL_DIALOG__PRICE_ENTERED</name>
-		<body>Definir preço</body>
+		<body>Preço de Venda</body>
 	</string>
 	<string>
 		<id>912421</id>
@@ -12664,7 +12664,7 @@
 	<string>
 		<id>912422</id>
 		<name>STR_VENDOR_SELL_STACK_DIALOG__COUNT_MESSAGE</name>
-		<body>Quantas cópias você gostaria de registrar?</body>
+		<body>Quantos itens você gostaria de registrar?</body>
 	</string>
 	<string>
 		<id>912423</id>
@@ -12684,12 +12684,12 @@
 	<string>
 		<id>912426</id>
 		<name>STR_VENDOR_SELL_STACK_DIALOG__SELL_EACH</name>
-		<body>Venda de parcial</body>
+		<body>Venda Parcial</body>
 	</string>
 	<string>
 		<id>912427</id>
 		<name>STR_VENDOR_SELL_STACK_DIALOG__SELL_EACH_DESC</name>
-		<body>Você pode comprar o pacote completo ou apenas um item.</body>
+		<body>Você pode comprar o pacote completo ou escolher a quantidade de itens.</body>
 	</string>
 	<string>
 		<id>912428</id>
@@ -12704,7 +12704,7 @@
 	<string>
 		<id>912430</id>
 		<name>STR_VENDOR_BUY_EACH_DIALOG__TOTAL_PRICE</name>
-		<body>Preço total</body>
+		<body>Preço Total</body>
 	</string>
 	<string>
 		<id>912431</id>
@@ -12719,12 +12719,12 @@
 	<string>
 		<id>912433</id>
 		<name>STR_VENDOR_SELL_STACK_DIALOG</name>
-		<body>Cadastro para venda total/parcial</body>
+		<body>Cadastro de Itens para Venda</body>
 	</string>
 	<string>
 		<id>912434</id>
 		<name>STR_VENDOR_BUY_EACH_DIALOG</name>
-		<body>Venda parcial</body>
+		<body>Venda Parcial</body>
 	</string>
 	<string>
 		<id>912435</id>
@@ -14210,5 +14210,10 @@
 		<id>912880</id>
 		<name>STR_CHAR_LINK_DIALOG__ADD_BUDDY</name>
 		<body>Adicionar Amigo</body>
+	</string>
+	<string>
+		<id>912978</id>
+		<name>STR_GLOBAL_OPTION_DIALOG__GAME_WORDBALLOON</name>
+		<body>Mostrar Balões de Texto</body>
 	</string>
 </strings>

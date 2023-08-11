@@ -153,7 +153,7 @@
 	<string>
 		<id>50028</id>
 		<name>STR_DUEL_DO_YOU_ACCEPT_REQUEST</name>
-		<body>%0 te desafiou para um &lt;font color=&quot;ffffw00&quot;&gt;duelo&lt;/font&gt;. Você aceita?</body>
+		<body>%0 te desafiou para um &lt;font color=&quot;ffff00&quot;&gt;duelo&lt;/font&gt;. Você aceita?</body>
 	</string>
 	<string>
 		<id>50029</id>
@@ -518,7 +518,7 @@
 	<string>
 		<id>160026</id>
 		<name>STR_BINDSTONE_INFO_HTML</name>
-		<body>&lt;p&gt;Tempo restante: %0&lt;/p&gt;&#xA;&lt;p&gt;Elegível: %5&lt;/p&gt;&#xA;&lt;p&gt;Usuários: %num1 / %num2 pessoas&lt;/p&gt;&#xA;&lt;p&gt;Renascimentos restantes: %num3 / %num4 vezes&lt;/p&gt;</body>
+		<body>&lt;p&gt;Tempo restante: %0&lt;/p&gt;&#xA;&lt;p&gt;Elegível: %5&lt;/p&gt;&#xA;&lt;p&gt;Jogadores: %num1 / %num2 &lt;/p&gt;&#xA;&lt;p&gt;Usos restantes: %num3 / %num4 vezes&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>160027</id>
@@ -538,7 +538,7 @@
 	<string>
 		<id>160030</id>
 		<name>STR_BINDSTONE_INFO</name>
-		<body>Tempo restante: %0 &#xA;Elegível: %5 &#xA;Usuários: %num1 / %num2 pessoas &#xA;Renascimentos restantes: %num3 / %num4 vezes</body>
+		<body>Tempo restante: %0 &#xA;Elegível: %5 &#xA;Usuários: %num1 / %num2 &#xA;Usos restantes: %num3 / %num4 vezes</body>
 	</string>
 	<string>
 		<id>160031</id>
@@ -1830,7 +1830,7 @@
 	<string>
 		<id>240204</id>
 		<name>STR_GUILD_DISPERSE_DATE</name>
-		<body>Data Esperada para Remoção</body>
+		<body>Data Esperada para Exclusão</body>
 	</string>
 	<string>
 		<id>240205</id>
@@ -5476,7 +5476,7 @@
 	<string>
 		<id>900675</id>
 		<name>STR_GUILD_DO_YOU_ACCEPT_GUILD</name>
-		<body>&lt;p&gt;%1 da legião %0 está te convidando para a legião dele/dela.&lt;/p&gt;&#xA;&lt;p&gt;Você aceita o convite?&lt;/p&gt;</body>
+		<body>&lt;p&gt;%1 da legião %0 está te convidando para a legião dele(a).&lt;/p&gt;&#xA;&lt;p&gt;Você aceita o convite?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>900676</id>
@@ -5501,12 +5501,12 @@
 	<string>
 		<id>900680</id>
 		<name>STR_GUILD_LEVELUP_NO_COND</name>
-		<body>Sem limite</body>
+		<body>Sem restrição</body>
 	</string>
 	<string>
 		<id>900681</id>
 		<name>STR_GUILD_LEVELUP_MSG</name>
-		<body>&lt;p&gt;Sobe o nível da Legião.&lt;/p&gt;&#xA;&lt;p&gt;Nível: %0&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;Requerimentos para subir&lt;/p&gt;&#xA;&lt;p&gt;Taxa: &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%1&lt;/font&gt;&lt;/p&gt;&#xA;&lt;p&gt;Mínimo de participantes: %num2&lt;/p&gt;&#xA;&lt;p&gt;Pontos de Contribuição (AP): %num3&lt;/p&gt;</body>
+		<body>&lt;p&gt;Subir o &lt;font color=&quot;ffff00&quot;&gt;nível da Legião&lt;/font&gt;.&lt;/p&gt; &lt;p&gt;&#xA;&lt;/p&gt; &lt;p&gt;Nível atual: &lt;font color=&quot;ffff00&quot;&gt;Nível %0&lt;/font&gt; &lt;p&gt;&#xA;&lt;/p&gt; &lt;p&gt;REQUERIMENTOS:&lt;/p&gt; &lt;p&gt;Taxa de Kinah: &lt;font font_xml=&quot;v3_msgbox_money&quot;&gt;%1&lt;/font&gt;&lt;/p&gt; &lt;p&gt;Mínimo de participantes: &lt;font color=&quot;ffff00&quot;&gt;%num2&lt;/font&gt;&lt;/p&gt; &lt;p&gt;Pontos de Contribuição (AP): &lt;font color=&quot;ffff00&quot;&gt;%num3&lt;/font&gt;&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>900682</id>
@@ -5754,7 +5754,7 @@
 	<string>
 		<id>900732</id>
 		<name>STR_SELECT_STAGE_DELETE_NOW</name>
-		<body>Confirmar Remoção</body>
+		<body>Confirmar Exclusão</body>
 	</string>
 	<string>
 		<id>900733</id>
@@ -7249,7 +7249,7 @@
 	<string>
 		<id>901032</id>
 		<name>STR_WAIT_CHAR_DELETING</name>
-		<body>Remoção pendente.</body>
+		<body>Exclusão pendente.</body>
 	</string>
 	<string>
 		<id>901033</id>
@@ -7479,12 +7479,12 @@
 	<string>
 		<id>901078</id>
 		<name>STR_SKILL_EFFECT_MSG_HATE_UP</name>
-		<body>Aumenta</body>
+		<body>aumentou</body>
 	</string>
 	<string>
 		<id>901079</id>
 		<name>STR_SKILL_EFFECT_MSG_HATE_DOWN</name>
-		<body>Diminui</body>
+		<body>diminui</body>
 	</string>
 	<string>
 		<id>901081</id>
@@ -8959,7 +8959,7 @@
 	<string>
 		<id>901405</id>
 		<name>STR_GAUGE_NPC_TALKING</name>
-		<body>Ativando o item</body>
+		<body>Carregando...</body>
 	</string>
 	<string>
 		<id>901406</id>
@@ -10525,7 +10525,7 @@
 	<string>
 		<id>901721</id>
 		<name>STR_SUMMON_PARTY_DO_YOU_ACCEPT_REQUEST</name>
-		<body>&lt;p align=&quot;left&quot;&gt;%0 está prestes a te sumonar usando %1. Aceita?&lt;/p&gt;&#xA;&lt;p&gt;&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Você deve decidir em %2 segundos.&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;&lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; quer te &lt;font color=&quot;ffff00&quot;&gt;teletransportar&lt;/font&gt; usando &lt;font color=&quot;ffff00&quot;&gt;%1&lt;/font&gt;. Aceita ser teletransportado para a posição de &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;? \nVocê deve decidir em &lt;font color=&quot;ffff00&quot;&gt;%2&lt;/font&gt; segundos.&lt;/p&gt; </body>
 	</string>
 	<string>
 		<id>901722</id>
@@ -11210,12 +11210,12 @@
 	<string>
 		<id>901863</id>
 		<name>STR_CMD_CREATE_PARTY</name>
-		<body>/RecruitGroupMember,/CriarGrupo</body>
+		<body>/RecruitGroupMember</body>
 	</string>
 	<string>
 		<id>901864</id>
 		<name>STR_CMD_CREATE_FORCE</name>
-		<body>/RecruitAllianceMember,/CriarAlianca</body>
+		<body>/RecruitAllianceMember</body>
 	</string>
 	<string>
 		<id>901865</id>
@@ -11460,7 +11460,7 @@
 	<string>
 		<id>901914</id>
 		<name>STR_TOOLTIP_PRIVIEW_HIDE_HEAD</name>
-		<body>Ver capacete</body>
+		<body>Ver Capacete</body>
 	</string>
 	<string>
 		<id>901915</id>
@@ -11480,7 +11480,7 @@
 	<string>
 		<id>901918</id>
 		<name>STR_OPTION_AV_INFO_VSYNC</name>
-		<body>O cliente deve ser reiniciado para aplicar a configuração selecionada.\nAtivá-lo reduz a distorção da tela no modo de tela inteira.</body>
+		<body>O cliente deve ser reiniciado para aplicar a configuração selecionada.\nAtivar o VSync reduz a distorção da tela no modo de tela inteira.</body>
 	</string>
 	<string>
 		<id>901919</id>
@@ -11993,12 +11993,12 @@
 	<string>
 		<id>902020</id>
 		<name>STR_TOOLTIP_CREATEABLE_NUMBER</name>
-		<body>Número total de vezes que a criação é permitida</body>
+		<body>Total de usos</body>
 	</string>
 	<string>
 		<id>902021</id>
 		<name>STR_TOOLTIP_CREATEABLE_NUMBER_LEFT</name>
-		<body>Número restante de vezes que a criação é permitida</body>
+		<body>Usos restantes</body>
 	</string>
 	<string>
 		<id>902022</id>
@@ -13330,7 +13330,7 @@
 	<string>
 		<id>902326</id>
 		<name>STR_UI_ABANDON_TOYPET_CONFIRM</name>
-		<body>Para desistir, digite &apos;%0&apos;.</body>
+		<body>Para desistir, digite &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;.</body>
 	</string>
 	<string>
 		<id>902327</id>
@@ -13360,7 +13360,7 @@
 	<string>
 		<id>902332</id>
 		<name>STR_VENDOR_SELLING_ITEMS</name>
-		<body>Itens Registrados (%num0/%num1)</body>
+		<body>Itens registrados (%num0/%num1)</body>
 	</string>
 	<string>
 		<id>902333</id>
@@ -22216,7 +22216,7 @@
 	<string>
 		<id>904885</id>
 		<name>STR_VENDOR_DIALOG_FLAG_BUY_EACH_LIST_TAB</name>
-		<body>Venda parcial possível [%gchar:FLAG_BUY_EACH]</body>
+		<body>Venda parcial [%gchar:FLAG_BUY_EACH]</body>
 	</string>
 	<string>
 		<id>904886</id>
