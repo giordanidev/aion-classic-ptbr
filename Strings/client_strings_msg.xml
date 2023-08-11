@@ -732,7 +732,7 @@
 	<string>
 		<id>1200325</id>
 		<name>STR_SKILL_SUCC_AlwaysBlock_ME_TO_SELF</name>
-		<body>Seu 'Block' aumentou com o uso da habilidade [%SkillName].</body>
+		<body>Seu Block aumentou com o uso da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -756,13 +756,13 @@
 	<string>
 		<id>1200329</id>
 		<name>STR_SKILL_SUCC_AlwaysParry_ME_TO_SELF</name>
-		<body>Seu 'Parry' aumentou com o uso da habilidade [%SkillName].</body>
+		<body>Seu Parry aumentou com o uso da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200330</id>
 		<name>STR_SKILL_SUCC_AlwaysResist_ME_TO_SELF</name>
-		<body>Sua 'Elemental Defence' aumentou com o uso da habilidade [%SkillName].</body>
+		<body>Sua Defesa Elemental aumentou com o uso da habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -1650,7 +1650,7 @@
 	<string>
 		<id>1200478</id>
 		<name>STR_SKILL_SUCC_AlwaysBlock_ME_TO_B</name>
-		<body>O 'Block' de [%SkillTarget] foi aumentado com a habilidade [%SkillName].</body>
+		<body>O Block de [%SkillTarget] foi aumentado com a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -1674,7 +1674,7 @@
 	<string>
 		<id>1200482</id>
 		<name>STR_SKILL_SUCC_AlwaysParry_ME_TO_B</name>
-		<body>O 'Parry' de [%SkillTarget] foi aumentado com a habilidade [%SkillName].</body>
+		<body>O Parry de [%SkillTarget] foi aumentado com a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2568,19 +2568,19 @@
 	<string>
 		<id>1200631</id>
 		<name>STR_SKILL_SUCC_AlwaysBlock_A_TO_ME</name>
-		<body>Seu 'Block' aumentou com o uso da habilidade [%SkillCaster]&apos;s [%SkillName].</body>
+		<body>Seu Block aumentou com o uso da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200632</id>
 		<name>STR_SKILL_SUCC_AlwaysDodge_A_TO_ME</name>
-		<body>Sua Evasão aumentou com o uso da habilidade [%SkillCaster]&apos;s [%SkillName].</body>
+		<body>Sua Evasão aumentou com o uso da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200633</id>
 		<name>STR_SKILL_SUCC_AlwaysHit_A_TO_ME</name>
-		<body>Sua Precisão aumentou com o uso da habilidade [%SkillCaster]&apos;s [%SkillName].</body>
+		<body>Sua Precisão aumentou com o uso da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2592,13 +2592,13 @@
 	<string>
 		<id>1200635</id>
 		<name>STR_SKILL_SUCC_AlwaysParry_A_TO_ME</name>
-		<body>Seu 'Parry' aumentou com o uso da habilidade [%SkillCaster]&apos;s [%SkillName].</body>
+		<body>Seu Parry aumentou com o uso da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200636</id>
 		<name>STR_SKILL_SUCC_AlwaysResist_A_TO_ME</name>
-		<body>Sua 'Elemental Defence' aumentou com o uso da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>Sua Defesa Elemental aumentou com o uso da habilidade [%SkillName] used by [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2622,7 +2622,7 @@
 	<string>
 		<id>1200640</id>
 		<name>STR_SKILL_SUCC_BoostSkillToggleCost_A_TO_ME</name>
-		<body>[%SkillCaster] reduced the MP consumption of your Mantra skill with [%SkillName].</body>
+		<body>[%SkillCaster] reduziu o consumo de MP do seu Mantra porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2640,25 +2640,25 @@
 	<string>
 		<id>1200643</id>
 		<name>STR_SKILL_SUCC_BoostHate_A_TO_ME</name>
-		<body>Você recebeu %0 de provocação da habilidade [%SkillName] used by [%SkillCaster].</body>
+		<body>Você recebeu %0 de provocação da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200644</id>
 		<name>STR_SKILL_SUCC_CarveSignet_A_TO_ME</name>
-		<body>[%SkillCaster] inflicted %num0 damage on you and caused the &apos;Rune Carve&apos; effect with [%SkillName].</body>
+		<body>[%SkillCaster] infligiu %num0 de dano e aplicou uma Runa em você usando a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200645</id>
 		<name>STR_SKILL_SUCC_CaseHeal_A_TO_ME</name>
-		<body>You receive &apos;Limited Restoration&apos; from [%SkillCaster]&apos;s [%SkillName].</body>
+		<body>Você recebeu Limited Restoration da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200646</id>
 		<name>STR_SKILL_SUCC_CaseHeal_INTERVAL_A_TO_ME</name>
-		<body>You regenerate %num0 HP from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você recuperou %num0 HP por causa da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2670,19 +2670,19 @@
 	<string>
 		<id>1200648</id>
 		<name>STR_SKILL_SUCC_CloseAerial_A_TO_ME</name>
-		<body>[%SkillCaster] released you from the aerial snare porque usou [%SkillName].</body>
+		<body>[%SkillCaster] te tirou do estado de choque (aetherhold) porque usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200649</id>
 		<name>STR_SKILL_SUCC_ConvertHeal_A_TO_ME</name>
-		<body>[%SkillCaster] cancelled your transformation with [%SkillName].</body>
+		<body>[%SkillCaster] cancelou a sua transformação com a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200650</id>
 		<name>STR_SKILL_SUCC_ConvertHeal_INTERVAL_A_TO_ME</name>
-		<body>You regenerate %num0 HP from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você recuperou %num0 HP por causa da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2700,13 +2700,13 @@
 	<string>
 		<id>1200653</id>
 		<name>STR_SKILL_SUCC_DeboostHealAmount_A_TO_ME</name>
-		<body>[%SkillCaster] changed your recovery amount with [%SkillName].</body>
+		<body>[%SkillCaster] alterou a sua quantidade de Cura com a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200654</id>
 		<name>STR_SKILL_SUCC_Deform_A_TO_ME</name>
-		<body>[%SkillCaster] used [%SkillName] to transform you into %0.</body>
+		<body>[%SkillCaster] usou a habilidade [%SkillName] para te transformar em um %0.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2718,25 +2718,25 @@
 	<string>
 		<id>1200656</id>
 		<name>STR_SKILL_SUCC_DelayedFPATK_Instant_INTERVAL_A_TO_ME</name>
-		<body>[%SkillCaster] used [%SkillName], reducing your flight time by%num0.</body>
+		<body>[%SkillCaster] usou a habilidade [%SkillName], reduzindo o seu Tempo de Voo em %num0.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200657</id>
 		<name>STR_SKILL_SUCC_DelayedSpellATK_Instant_A_TO_ME</name>
-		<body>[%SkillCaster] inflicts you with the &apos;Delayed Blast&apos; effect using [%SkillName].</body>
+		<body>[%SkillCaster] aplicou o efeito Delayed Blast em você usando a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200658</id>
 		<name>STR_SKILL_SUCC_DelayedSpellATK_Instant_INTERVAL_A_TO_ME</name>
-		<body>[%SkillCaster] used [%SkillName], reducing your flight time by%num0.</body>
+		<body>[%SkillCaster] usou a habilidade [%SkillName], reduzindo o seu Tempo de Voo em %num0.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200659</id>
 		<name>STR_SKILL_SUCC_Dispel_A_TO_ME</name>
-		<body>[%SkillCaster] removeu o seu feitiço with [%SkillName].</body>
+		<body>[%SkillCaster] removeu o seu feitiço usando a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2796,13 +2796,13 @@
 	<string>
 		<id>1200669</id>
 		<name>STR_SKILL_SUCC_FPATK_INTERVAL_A_TO_ME</name>
-		<body>[%SkillCaster] used [%SkillName], reducing your flight time by%num0.</body>
+		<body>[%SkillCaster] usou a habilidade [%SkillName], reduzindo o seu Tempo de Voo em %num0.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200670</id>
 		<name>STR_SKILL_SUCC_FPATK_Instant_A_TO_ME</name>
-		<body>[%SkillCaster] used [%SkillName], reducing your flight time by%num0.</body>
+		<body>[%SkillCaster] usou a habilidade [%SkillName], reduzindo o seu Tempo de Voo em %num0.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2832,13 +2832,13 @@
 	<string>
 		<id>1200675</id>
 		<name>STR_SKILL_SUCC_Heal_INTERVAL_A_TO_ME</name>
-		<body>You regenerate %num0 HP from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você recuperou %num0 HP por causa da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200676</id>
 		<name>STR_SKILL_SUCC_Heal_Instant_HEAL_A_TO_ME</name>
-		<body>You regenerate %num0 HP from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você recuperou %num0 HP por causa da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2850,7 +2850,7 @@
 	<string>
 		<id>1200678</id>
 		<name>STR_SKILL_SUCC_HealCastorOnAttacked_INTERVAL_A_TO_ME</name>
-		<body>You regenerate %num0 HP from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você recuperou %num0 HP por causa da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2862,7 +2862,7 @@
 	<string>
 		<id>1200680</id>
 		<name>STR_SKILL_SUCC_HealCastorOnTargetDead_INTERVAL_A_TO_ME</name>
-		<body>You regenerate %num0 HP from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você recuperou %num0 HP por causa da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2952,7 +2952,7 @@
 	<string>
 		<id>1200695</id>
 		<name>STR_SKILL_SUCC_Polymorph_A_TO_ME</name>
-		<body>[%SkillCaster] used [%SkillName] to transform you into %0.</body>
+		<body>[%SkillCaster] usou a habilidade [%SkillName] para te transformar em um %0.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2976,7 +2976,7 @@
 	<string>
 		<id>1200699</id>
 		<name>STR_SKILL_SUCC_PROCHeal_Instant_HEAL_A_TO_ME</name>
-		<body>You regenerate %num0 HP from [%SkillName] used by [%SkillCaster].</body>
+		<body>Você recuperou %num0 HP por causa da habilidade [%SkillName] usada por [%SkillCaster].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -3054,7 +3054,7 @@
 	<string>
 		<id>1200712</id>
 		<name>STR_SKILL_SUCC_ShapeChange_A_TO_ME</name>
-		<body>[%SkillCaster] used [%SkillName] to transform you into %0.</body>
+		<body>[%SkillCaster] usou a habilidade [%SkillName] para te transformar em um %0.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -4278,7 +4278,7 @@
 	<string>
 		<id>1200916</id>
 		<name>STR_SKILL_SUCC_ReturnHome_A_TO_B</name>
-		<body>[%SkillCaster] uses [%SkillName].</body>
+		<body>[%SkillCaster] usou a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -14090,7 +14090,7 @@
 	<string>
 		<id>1301033</id>
 		<name>STR_ARTIFACT_CASTING</name>
-		<body>The %1 (%0) is activating the %2 Artefact.</body>
+		<body>%1 (%0) está ativando o Artefact %2.</body>
 		<message_type>55</message_type>
 		<display_type>3</display_type>
 		<ment>ab_artifact_cast_fix</ment>
@@ -14098,7 +14098,7 @@
 	<string>
 		<id>1301034</id>
 		<name>STR_ARTIFACT_CORE_CASTING</name>
-		<body>The %1 Artefact core in %0&apos;s possession has been deactivated.</body>
+		<body>O Artefact %1 em posse de %0 foi desativado.</body>
 		<message_type>55</message_type>
 		<display_type>3</display_type>
 		<ment>ab_artifact_core_fix</ment>
@@ -14106,7 +14106,7 @@
 	<string>
 		<id>1301035</id>
 		<name>STR_ARTIFACT_CANCELED</name>
-		<body>The activation of the %1 Artefact in %0 possession has been cancelled.</body>
+		<body>A ativação do Artefact %1 em posse de %0 foi cancelada.</body>
 		<message_type>55</message_type>
 		<display_type>3</display_type>
 		<ment>ab_artifact_cancel_fix</ment>
@@ -14114,7 +14114,7 @@
 	<string>
 		<id>1301036</id>
 		<name>STR_ARTIFACT_FIRE</name>
-		<body>%1 (%0) has succeeded in activating the %2 Artefact.</body>
+		<body>%1 (%0) ativou o Artefact %2 com sucesso.</body>
 		<message_type>55</message_type>
 		<display_type>3</display_type>
 		<ment>ab_artifact_fire_fix</ment>
@@ -14122,7 +14122,7 @@
 	<string>
 		<id>1301037</id>
 		<name>STR_ABYSS_GUILD_CASTLE_TAKEN</name>
-		<body>%0 Legion lost %1.</body>
+		<body>A Legião %0 não conseguiu defender %1.</body>
 		<message_type>55</message_type>
 		<display_type>19</display_type>
 		<ment>ab_failed_fix</ment>
@@ -14130,7 +14130,7 @@
 	<string>
 		<id>1301038</id>
 		<name>STR_ABYSS_GUILD_WIN_CASTLE</name>
-		<body>%0 has conquered %1.</body>
+		<body>%0 conquistou %1.</body>
 		<message_type>55</message_type>
 		<display_type>19</display_type>
 		<ment>ab_succeeded_fix</ment>
@@ -14138,7 +14138,7 @@
 	<string>
 		<id>1301039</id>
 		<name>STR_ABYSS_WIN_CASTLE</name>
-		<body>%0 succeeded in conquering %1.</body>
+		<body>%0 conquistou %1 com sucesso.</body>
 		<message_type>55</message_type>
 		<display_type>19</display_type>
 		<ment>ab_succeeded_fix</ment>
@@ -14146,7 +14146,7 @@
 	<string>
 		<id>1301040</id>
 		<name>STR_ABYSS_PVP_ON</name>
-		<body>%0 is now vulnerable.</body>
+		<body>A Guerra em %0 começou.</body>
 		<message_type>55</message_type>
 		<display_type>3</display_type>
 		<ment>ab_attack_start_fix</ment>
@@ -14154,14 +14154,14 @@
 	<string>
 		<id>1301041</id>
 		<name>STR_ABYSS_PVP_OFF</name>
-		<body>%0 is no longer vulnerable.</body>
+		<body>A Guerra em %0 terminou.</body>
 		<message_type>55</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1301042</id>
 		<name>STR_ABYSS_CARRIER_DROP_DRAGON</name>
-		<body>The Dredgion has disgorged a horde of Balaur troopers.</body>
+		<body>A Dredgion lançou uma horda de tropas Balaur.</body>
 		<message_type>55</message_type>
 		<display_type>3</display_type>
 		<ment>ab_dragon_strong_fix</ment>
@@ -14169,7 +14169,7 @@
 	<string>
 		<id>1301043</id>
 		<name>STR_ABYSS_WARP_DRAGON</name>
-		<body>The Balaur Teleport Raiders appeared.</body>
+		<body>Os Balaur Teleport Raiders apareceram.</body>
 		<message_type>55</message_type>
 		<display_type>3</display_type>
 		<ment>ab_dragon_small_fix</ment>
@@ -14177,7 +14177,7 @@
 	<string>
 		<id>1301044</id>
 		<name>STR_ABYSS_CARRIER_SPAWN</name>
-		<body>A dredgion has appeared.</body>
+		<body>Uma Dredgion apareceu.</body>
 		<message_type>55</message_type>
 		<display_type>3</display_type>
 		<ment>ab_carrier_start_fix</ment>
@@ -14192,7 +14192,7 @@
 	<string>
 		<id>1301046</id>
 		<name>STR_ABYSS_CASTLE_TAKEN</name>
-		<body>%0 failed to defend %1.</body>
+		<body>%0 não conseguiu defender %1.</body>
 		<message_type>55</message_type>
 		<display_type>19</display_type>
 		<ment>ab_failed_fix</ment>
@@ -14200,7 +14200,7 @@
 	<string>
 		<id>1301047</id>
 		<name>STR_VENDOR_REGISTER_SOLD_OUT</name>
-		<body>O item '%0' foi vendido no broker.</body>
+		<body>O item %0 foi vendido no broker.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 		<ment>alert_auction_complete_fix</ment>
@@ -14208,7 +14208,7 @@
 	<string>
 		<id>1301048</id>
 		<name>STR_ABYSS_SHIELD_BROKEN</name>
-		<body>%1 of the %0 killed the Aetheric Field Generator.</body>
+		<body>%1 dos %0 derrotou o Aetheric Field Generator.</body>
 		<message_type>55</message_type>
 		<display_type>3</display_type>
 		<ment>ab_die_fix</ment>
@@ -14216,7 +14216,7 @@
 	<string>
 		<id>1301049</id>
 		<name>STR_ABYSS_DOOR_BROKEN</name>
-		<body>%1 of the %0 destroyed the Castle Gate.</body>
+		<body>%1 dos %0 destruiu o Castle Gate.</body>
 		<message_type>55</message_type>
 		<display_type>3</display_type>
 		<ment>ab_destruction_fix</ment>
@@ -14224,7 +14224,7 @@
 	<string>
 		<id>1301050</id>
 		<name>STR_ABYSS_DOOR_ATTACKED</name>
-		<body>The Castle Gate is under attack.</body>
+		<body>O Castle Gate está sendo atacado.</body>
 		<message_type>55</message_type>
 		<display_type>3</display_type>
 		<ment>ab_danger_alert_fix</ment>
@@ -14232,7 +14232,7 @@
 	<string>
 		<id>1301051</id>
 		<name>STR_ABYSS_DOOR_ATSTAKE</name>
-		<body>The Castle Gate is in danger.</body>
+		<body>O Castle Gate está em perigo.</body>
 		<message_type>55</message_type>
 		<display_type>3</display_type>
 		<ment>ab_danger_alert_fix</ment>
@@ -14240,7 +14240,7 @@
 	<string>
 		<id>1301052</id>
 		<name>STR_ABYSS_SHIELD_ATTACKED</name>
-		<body>The Aetheric Field Generator is under attack.</body>
+		<body>O Aetheric Field Generator está sendo atacado.</body>
 		<message_type>55</message_type>
 		<display_type>3</display_type>
 		<ment>ab_danger_alert_fix</ment>
@@ -14248,7 +14248,7 @@
 	<string>
 		<id>1301053</id>
 		<name>STR_ABYSS_REPAIR_ATTACKED</name>
-		<body>The Gate Guardian Stone is under attack.</body>
+		<body>O Gate Guardian Stone está sendo atacado.</body>
 		<message_type>55</message_type>
 		<display_type>3</display_type>
 		<ment>ab_danger_alert_fix</ment>
@@ -14256,7 +14256,7 @@
 	<string>
 		<id>1301054</id>
 		<name>STR_ABYSS_REPAIR_BROKEN</name>
-		<body>%1 of the %0 destroyed the Gate Guardian Stone.</body>
+		<body>%1 dos %0 destruiu a Gate Guardian Stone.</body>
 		<message_type>55</message_type>
 		<display_type>3</display_type>
 		<ment>ab_destruction_fix</ment>
@@ -14264,7 +14264,7 @@
 	<string>
 		<id>1301055</id>
 		<name>STR_ABYSS_BOSS_ATTACKED</name>
-		<body>The Guardian General is under attack.</body>
+		<body>O Guardian General está sendo atacado.</body>
 		<message_type>55</message_type>
 		<display_type>3</display_type>
 		<ment>ab_danger_alert_fix</ment>
@@ -14272,35 +14272,35 @@
 	<string>
 		<id>1301056</id>
 		<name>STR_GLIDE_NOT_ENOUGH_SPEED_FOR_GLIDE</name>
-		<body>You cannot start gliding as you are moving too slowly.</body>
+		<body>Você não pode planar porque está se movendo muito devagar.</body>
 		<message_type>54</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1301057</id>
 		<name>STR_GLIDE_CANNOT_GLIDE_ABNORMAL_STATUS</name>
-		<body>You cannot start gliding while in an Altered State.</body>
+		<body>Você não pode planar enquanto estiver em um Estado Alterado.</body>
 		<message_type>54</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1301058</id>
 		<name>STR_GLIDE_CANNOT_GLIDE_COMBAT_MODE</name>
-		<body>You cannot change to the combat mode while gliding.</body>
+		<body>Você não pode mudar para o modo de batalha enquanto está planando.</body>
 		<message_type>54</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1301059</id>
 		<name>STR_GLIDE_ONLY_DEVA_CAN</name>
-		<body>You can glide when you become a Daeva.</body>
+		<body>Você pode planar quando virar um Daeva.</body>
 		<message_type>54</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1301060</id>
 		<name>STR_SKILL_INSUFFICIENT_COST_FOR_TOGGLE_SKILLL</name>
-		<body>You do not have enough mana to continue using %0.</body>
+		<body>Você não tem mana o suficiente para contuniar usando a habilidade %0.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
