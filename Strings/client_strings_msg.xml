@@ -3,28 +3,28 @@
 	<string>
 		<id>1200000</id>
 		<name>STR_MSG_COMBAT_MY_ATTACK</name>
-		<body>Você infligiu %num1 de dano em %0.</body>
+		<body>Você causou %num1 de dano em %0.</body>
 		<message_type>16</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200001</id>
 		<name>STR_MSG_COMBAT_MY_CRITICAL</name>
-		<body>Ataque Crítico! Você infligiu %num1 de dano crítico em %0.</body>
+		<body>Ataque Crítico! Você causou %num1 de dano crítico em %0.</body>
 		<message_type>17</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200002</id>
 		<name>STR_MSG_COMBAT_MY_SUMMONED_ATTACK</name>
-		<body>%0 infligiu %num2 de dano em %1.</body>
+		<body>%0 causou %num2 de dano em %1.</body>
 		<message_type>16</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1200003</id>
 		<name>STR_MSG_COMBAT_MY_SUMMONED_CRITICAL</name>
-		<body>Ataque Crítico! %0 infligiu %num2 de dano crítico em %1.</body>
+		<body>Ataque Crítico! %0 causou %num2 de dano crítico em %1.</body>
 		<message_type>17</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -38,7 +38,7 @@
 	<string>
 		<id>1200005</id>
 		<name>STR_MSG_COMBAT_MY_SUMMONED_ENEMY_CRITICAL</name>
-		<body>Ataque Crítico! %0 infligiu %num2 de dano crítico em %1.</body>
+		<body>Ataque Crítico! %0 causou %num2 de dano crítico em %1.</body>
 		<message_type>23</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -810,7 +810,7 @@
 	<string>
 		<id>1200338</id>
 		<name>STR_SKILL_SUCC_CarveSignet_ME_TO_SELF</name>
-		<body>[%SkillName] infligiu %num0 de dano em você e cravou uma 'Rune'..</body>
+		<body>[%SkillName] causou %num0 de dano em você e cravou uma 'Rune'..</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -1728,7 +1728,7 @@
 	<string>
 		<id>1200491</id>
 		<name>STR_SKILL_SUCC_CarveSignet_ME_TO_B</name>
-		<body>[%SkillName] infligiu %num0 de dano em [%SkillTarget] cravou uma 'Rune'.</body>
+		<body>[%SkillName] causou %num0 de dano em [%SkillTarget] cravou uma 'Rune'.</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -2646,7 +2646,7 @@
 	<string>
 		<id>1200644</id>
 		<name>STR_SKILL_SUCC_CarveSignet_A_TO_ME</name>
-		<body>[%SkillCaster] infligiu %num0 de dano e aplicou uma Runa em você usando a habilidade [%SkillName].</body>
+		<body>[%SkillCaster] causou %num0 de dano e aplicou uma Runa em você usando a habilidade [%SkillName].</body>
 		<display_type>1</display_type>
 	</string>
 	<string>
@@ -6558,14 +6558,14 @@
 	<string>
 		<id>1220000</id>
 		<name>STR_MSG_COMBAT_PARTY_ATTACK</name>
-		<body>%0 infligiu %num2 de dano em %1.</body>
+		<body>%0 causou %num2 de dano em %1.</body>
 		<message_type>28</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1220001</id>
 		<name>STR_MSG_COMBAT_PARTY_CRITICAL</name>
-		<body>Ataque Crítico! %0 infligiu %num2 de dano crítico em %1.</body>
+		<body>Ataque Crítico! %0 causou %num2 de dano crítico em %1.</body>
 		<message_type>28</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -6670,14 +6670,14 @@
 	<string>
 		<id>1240000</id>
 		<name>STR_MSG_COMBAT_OTHER_FRIENDLY_ATTACK</name>
-		<body>%0 infligiu %num2 de dano em %1.</body>
+		<body>%0 causou %num2 de dano em %1.</body>
 		<message_type>38</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1240001</id>
 		<name>STR_MSG_COMBAT_OTHER_FRIENDLY_CRITICAL</name>
-		<body>Ataque Crítico! %0 infligiu %num2 de dano crítico em %1.</body>
+		<body>Ataque Crítico! %0 causou %num2 de dano crítico em %1.</body>
 		<message_type>38</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -6726,14 +6726,14 @@
 	<string>
 		<id>1250000</id>
 		<name>STR_MSG_COMBAT_OTHER_HOSTILE_ATTACK</name>
-		<body>%0 infligiu %num2 de dano em %1.</body>
+		<body>%0 causou %num2 de dano em %1.</body>
 		<message_type>43</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1250001</id>
 		<name>STR_MSG_COMBAT_OTHER_HOSTILE_CRITICAL</name>
-		<body>Ataque Crítico! %0 infligiu %num2 de dano crítico em %1.</body>
+		<body>Ataque Crítico! %0 causou %num2 de dano crítico em %1.</body>
 		<message_type>43</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -6782,14 +6782,14 @@
 	<string>
 		<id>1260000</id>
 		<name>STR_MSG_COMBAT_OTHER_NPC_ATTACK</name>
-		<body>%0 infligiu %num2 de dano em %1.</body>
+		<body>%0 causou %num2 de dano em %1.</body>
 		<message_type>48</message_type>
 		<display_type>1</display_type>
 	</string>
 	<string>
 		<id>1260001</id>
 		<name>STR_MSG_COMBAT_OTHER_NPC_CRITICAL</name>
-		<body>Ataque Crítico! %0 infligiu %num2 de dano crítico em %1.</body>
+		<body>Ataque Crítico! %0 causou %num2 de dano crítico em %1.</body>
 		<message_type>48</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -16915,7 +16915,7 @@
 	<string>
 		<id>1400023</id>
 		<name>STR_ABYSS_ORDER_RANKER_DIE</name>
-		<body>%1 dos %0 %2 morreu em %3.</body>
+		<body>%2, %1 dos %0, morreu em %3.</body>
 		<message_type>55</message_type>
 		<display_type>1</display_type>
 	</string>
