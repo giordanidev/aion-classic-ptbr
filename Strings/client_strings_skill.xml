@@ -153,22 +153,22 @@
 	<string>
 		<id>280240</id>
 		<name>STR_SKILL_PowerBlow_DESC</name>
-		<body>Gathers power and attacks the enemy with a powerful swing of the weapon.</body>
+		<body>Concentra o poder e ataca o inimigo com um golpe poderoso da arma.</body>
 	</string>
 	<string>
 		<id>280248</id>
 		<name>STR_SKILL_ClashingHoly_DESC</name>
-		<body>Attacks an enemy with a ball of earth magic. It can inflict additional damage when used against a stumbled enemy.</body>
+		<body>Ataca um inimigo com uma bola de magia da terra. Pode causar dano adicional quando usado contra um inimigo caído (stumble).</body>
 	</string>
 	<string>
 		<id>280261</id>
 		<name>STR_SKILL_Tornado_DESC</name>
-		<body>Creates a strong blast of wind around the target, attacking all enemies within the area of effect. It also slows the movement speed of enemies.</body>
+		<body>Cria uma forte rajada de vento ao redor do alvo, atacando todos os inimigos dentro da área de efeito. Também diminui a Velocidade de Movimento dos inimigos.</body>
 	</string>
 	<string>
 		<id>280262</id>
 		<name>STR_SKILL_IceStorm_DESC</name>
-		<body>Creates a storm of ice around you, attacking all nearby enemies.</body>
+		<body>Cria uma tempestade de gelo ao seu redor, atacando todos os inimigos próximos.</body>
 	</string>
 	<string>
 		<id>280305</id>
@@ -568,7 +568,7 @@
 	<string>
 		<id>281386</id>
 		<name>STR_SKILL_Death_DESC</name>
-		<body>Um efeito colateral temporário da morte, que diminui a Velocidade de Movimento por um curto período de tempo.</body>
+		<body>Um efeito colateral temporário causado pela sua morte, que diminui a Velocidade de Movimento por um curto período de tempo.</body>
 	</string>
 	<string>
 		<id>281387</id>
@@ -588,7 +588,7 @@
 	<string>
 		<id>281390</id>
 		<name>STR_SKILL_SlicingBlow_DESC</name>
-		<body>Inflige um corte profundo. Se a habilidade for bem sucedida, você pode usar Stunning Blow.</body>
+		<body>Causa um corte profundo. Se a habilidade for bem sucedida, você pode usar Stunning Blow.</body>
 	</string>
 	<string>
 		<id>281391</id>
@@ -768,7 +768,7 @@
 	<string>
 		<id>281430</id>
 		<name>STR_SKILL_NPCORCHISHBERSERK_DESC</name>
-		<body>Enters the Berserk mode, which increases your attack power but decreases your defence.</body>
+		<body>Entra no modo Berserk, que aumenta seu poder de ataque, mas diminui sua defesa.</body>
 	</string>
 	<string>
 		<id>281431</id>
@@ -788,7 +788,7 @@
 	<string>
 		<id>281434</id>
 		<name>STR_SKILL_NPCORCHISHFOCUS_DESC</name>
-		<body>Boosts your concentration to raise the chance of critical strikes.</body>
+		<body>Aumenta sua concentração para aumentar a chance de ataques críticos.</body>
 	</string>
 	<string>
 		<id>281435</id>
@@ -838,7 +838,7 @@
 	<string>
 		<id>281444</id>
 		<name>STR_SKILL_NPCSHADOWBLADE_DESC</name>
-		<body>Collapses the target&apos;s stance, preventing it from taking any action.</body>
+		<body>Reduz a postura do alvo, impedindo-o de realizar qualquer ação.</body>
 	</string>
 	<string>
 		<id>281445</id>
@@ -848,7 +848,7 @@
 	<string>
 		<id>281446</id>
 		<name>STR_SKILL_NPCSHADOWBIND_DESC</name>
-		<body>The target becomes immobilized.</body>
+		<body>O alvo fica imobilizado.</body>
 	</string>
 	<string>
 		<id>281447</id>
@@ -868,7 +868,7 @@
 	<string>
 		<id>281450</id>
 		<name>STR_SKILL_NPCMIMICPRESS_DESC</name>
-		<body>The target continues to bleed and slowly loses HP.</body>
+		<body>Faz com que o alvo sangre e perca HP lentamente.</body>
 	</string>
 	<string>
 		<id>281451</id>
@@ -958,7 +958,7 @@
 	<string>
 		<id>281468</id>
 		<name>STR_Skill_TripleEdge1_DESC</name>
-		<body>Corta o inimigo rapidamente. A primeira habilidade sequência Triple Edge.</body>
+		<body>Corta o inimigo rapidamente. A primeira habilidade da sequência Triple Edge.</body>
 	</string>
 	<string>
 		<id>281469</id>
@@ -968,7 +968,7 @@
 	<string>
 		<id>281470</id>
 		<name>STR_Skill_TripleEdge2_DESC</name>
-		<body>Corta um inimigo para infligir uma ferida profunda. A segunda habilidade da sequência Triple Edge.</body>
+		<body>Corta um inimigo para causar uma ferida profunda. A segunda habilidade da sequência Triple Edge.</body>
 	</string>
 	<string>
 		<id>281471</id>
@@ -998,7 +998,7 @@
 	<string>
 		<id>281476</id>
 		<name>STR_Skill_RipostingEdge_DESC</name>
-		<body>Ataca um ponto vulnerável e faz o inimigo cair (stumble). Disponível somente após o Parry ser bem-sucedido.</body>
+		<body>Ataca um ponto vulnerável e faz o inimigo cair (stumble). Disponível somente após um Parry bem-sucedido.</body>
 	</string>
 	<string>
 		<id>281477</id>
@@ -1008,7 +1008,7 @@
 	<string>
 		<id>281478</id>
 		<name>STR_Skill_RapidShot_DESC</name>
-		<body>Você rapidamente atira várias flechas no oponente.</body>
+		<body>Você atira várias flechas no oponente rapidamente.</body>
 	</string>
 	<string>
 		<id>281479</id>
@@ -1028,7 +1028,7 @@
 	<string>
 		<id>281482</id>
 		<name>STR_Skill_WolfClaw_DESC</name>
-		<body>Concentrates your effort on inflicting a critical strike. Your accuracy decreases while you are concentrating.</body>
+		<body>Concentra seu esforço em causar um golpe crítico. Sua precisão diminui enquanto você está se concentrando.</body>
 	</string>
 	<string>
 		<id>281483</id>
@@ -1108,7 +1108,7 @@
 	<string>
 		<id>281498</id>
 		<name>STR_Skill_Explosion_DESC</name>
-		<body>Ataca os ferimentos vulneráveis do inimigo e o faz cair (stumble). Disponível somente após o Scream of Wind Soul ser bem-sucedido.</body>
+		<body>Ataca os ferimentos vulneráveis do inimigo e o faz cair (stumble). Disponível somente após Scream of Wind Soul ser bem-sucedido.</body>
 	</string>
 	<string>
 		<id>281499</id>
@@ -1158,7 +1158,7 @@
 	<string>
 		<id>281508</id>
 		<name>STR_Skill_DPATK1_DESC</name>
-		<body>Reúne o poder da luz sagrada e a detona para destruir todos os inimigos próximos. Depois de lançar a habilidade, você perde todos a DP.</body>
+		<body>Reúne o poder da luz sagrada e a detona para destruir todos os inimigos próximos. Depois de lançar a habilidade, você perde toda a DP.</body>
 	</string>
 	<string>
 		<id>281509</id>
@@ -1178,7 +1178,7 @@
 	<string>
 		<id>281512</id>
 		<name>STR_Skill_JumpBlow_DESC</name>
-		<body>Pula para atacar o inimigo e o derruba.</body>
+		<body>Pula para atacar o inimigo e o derruba (stumble).</body>
 	</string>
 	<string>
 		<id>281513</id>
@@ -1528,7 +1528,7 @@
 	<string>
 		<id>281600</id>
 		<name>STR_Skill_StumbleStun_DESC</name>
-		<body>Você caiu após receber um forte choque. Você não pode fazer nada por um período de tempo.</body>
+		<body>Você caiu (stumble) após receber um forte choque. Você não pode fazer nada por um período de tempo.</body>
 	</string>
 	<string>
 		<id>281601</id>
@@ -1538,7 +1538,7 @@
 	<string>
 		<id>281602</id>
 		<name>STR_Skill_Guard_DESC</name>
-		<body>Levanta o escudo e se prepara para o ataque inimigo.</body>
+		<body>Levanta o escudo e se prepara para o ataque do inimigo.</body>
 	</string>
 	<string>
 		<id>281603</id>
@@ -1548,7 +1548,7 @@
 	<string>
 		<id>281604</id>
 		<name>STR_SYSTEM_SKILL_POLYMORPH_FUNGUS_DESC</name>
-		<body>Você se tornou temporariamente um Fungen.</body>
+		<body>Você se tornou um Fungen temporariamente.</body>
 	</string>
 	<string>
 		<id>281605</id>
@@ -1598,7 +1598,7 @@
 	<string>
 		<id>281614</id>
 		<name>STR_SKILL_BattleMaster_DESC</name>
-		<body>Aumenta seu HP máximo, ataques físicos e mágicos, dependendo do nível da habilidade.</body>
+		<body>Aumenta seu HP máximo e ataques físicos e mágicos, dependendo do nível da habilidade.</body>
 	</string>
 	<string>
 		<id>281615</id>
@@ -1608,7 +1608,7 @@
 	<string>
 		<id>281616</id>
 		<name>STR_Skill_ClashingImpact_DESC</name>
-		<body>Convoca o poder da terra para infligir grandes danos ao inimigo. Disponível apenas após o sucesso do Stunning Impact.</body>
+		<body>Convoca o poder da terra para causar grandes danos ao inimigo. Disponível apenas após o sucesso do Stunning Impact.</body>
 	</string>
 	<string>
 		<id>281617</id>
@@ -2553,12 +2553,12 @@
 	<string>
 		<id>281827</id>
 		<name>STR_SKILL_P_EQUIP_EnhancedShield_G1</name>
-		<body>Shield</body>
+		<body>Escudo</body>
 	</string>
 	<string>
 		<id>281828</id>
 		<name>STR_SKILL_P_EQUIP_EnhancedShield_G1_DESC</name>
-		<body>Allows you to use shields.</body>
+		<body>Permite usar escudos.</body>
 	</string>
 	<string>
 		<id>281829</id>
@@ -2573,7 +2573,7 @@
 	<string>
 		<id>281831</id>
 		<name>STR_SKILL_P_EQUIP_Dagger_G1</name>
-		<body>Advanced Dagger Training I</body>
+		<body>Treinamento Avançado de Adaga I</body>
 	</string>
 	<string>
 		<id>281832</id>
@@ -2583,7 +2583,7 @@
 	<string>
 		<id>281833</id>
 		<name>STR_SKILL_P_EQUIP_Mace_G1</name>
-		<body>Advanced Mace Training I</body>
+		<body>Treinamento Avançado de Mace I</body>
 	</string>
 	<string>
 		<id>281834</id>
@@ -2593,62 +2593,62 @@
 	<string>
 		<id>281835</id>
 		<name>STR_SKILL_FI_EQUIP_Cloth</name>
-		<body>Luxury Clothing Proficiency</body>
+		<body>Proficiência em Roupas de Luxo</body>
 	</string>
 	<string>
 		<id>281836</id>
 		<name>STR_SKILL_FI_EQUIP_Cloth_DESC</name>
-		<body>Allows you to wear Luxurious Clothing with great proficiency. You look fabulous.</body>
+		<body>Permite que você use roupas luxuosas com grande proficiência. Você ficará fabuloso(a).</body>
 	</string>
 	<string>
 		<id>281837</id>
 		<name>STR_SKILL_P_EQUIP_Leather_G1</name>
-		<body>Advanced Leather Armour Proficiency I</body>
+		<body>Proficiência Avançada em Armadura Leather I</body>
 	</string>
 	<string>
 		<id>281838</id>
 		<name>STR_SKILL_P_EQUIP_Leather_G1_DESC</name>
-		<body>Grants Advanced Leather Armour Proficiency.</body>
+		<body>Concede Proficiência Avançada em Armadura Leather.</body>
 	</string>
 	<string>
 		<id>281839</id>
 		<name>STR_SKILL_P_EQUIP_Chain_G1</name>
-		<body>Advanced Chain Armour Proficiency I</body>
+		<body>Proficiência Avançada em Armadura Chain I</body>
 	</string>
 	<string>
 		<id>281840</id>
 		<name>STR_SKILL_P_EQUIP_Chain_G1_DESC</name>
-		<body>Grants Advanced Chain Armour Proficiency.</body>
+		<body>Concede Proficiência Avançada em Armadura Chain.</body>
 	</string>
 	<string>
 		<id>281841</id>
 		<name>STR_SKILL_P_EQUIP_Shield_G1</name>
-		<body>Advanced Shield Training I</body>
+		<body>Treinamento Avançado de Escudo I</body>
 	</string>
 	<string>
 		<id>281842</id>
 		<name>STR_SKILL_P_EQUIP_Shield_G1_DESC</name>
-		<body>Allows you to use shields skilfully.</body>
+		<body>Permite usar escudos habilmente.</body>
 	</string>
 	<string>
 		<id>281843</id>
 		<name>STR_SKILL_P_EQUIP_2HSword_G1</name>
-		<body>Advanced Greatsword Training I</body>
+		<body>Treinamento Avançado em Espada Longa I</body>
 	</string>
 	<string>
 		<id>281844</id>
 		<name>STR_SKILL_P_EQUIP_2HSword_G1_DESC</name>
-		<body>Allows you to use greatswords skilfully.</body>
+		<body>Permite que você use espadas longas habilmente.</body>
 	</string>
 	<string>
 		<id>281845</id>
 		<name>STR_SKILL_P_EQUIP_Polearm_G1</name>
-		<body>Advanced Polearm Training I</body>
+		<body>Treinamento Avançado de Foice I</body>
 	</string>
 	<string>
 		<id>281846</id>
 		<name>STR_SKILL_P_EQUIP_Polearm_G1_DESC</name>
-		<body>Allows you to use polearm skilfully.</body>
+		<body>Permite que você use foices habilmente.</body>
 	</string>
 	<string>
 		<id>281847</id>
@@ -2658,7 +2658,7 @@
 	<string>
 		<id>281848</id>
 		<name>STR_SKILL_P_EQUIP_Bow_G1_DESC</name>
-		<body>Allows you to use bows skilfully.</body>
+		<body>Permite que você use arcos habilmente.</body>
 	</string>
 	<string>
 		<id>281849</id>
@@ -2673,12 +2673,12 @@
 	<string>
 		<id>281851</id>
 		<name>STR_SKILL_P_EQUIP_Dual_G1</name>
-		<body>Advanced Dual-Wielding I</body>
+		<body>Empunhadura Dupla Avançada I</body>
 	</string>
 	<string>
 		<id>281852</id>
 		<name>STR_SKILL_P_EQUIP_Dual_DESC</name>
-		<body>Allows you to use dual weapons skilfully.</body>
+		<body>Permite que você use duas armas habilmente.</body>
 	</string>
 	<string>
 		<id>281853</id>
@@ -2693,7 +2693,7 @@
 	<string>
 		<id>281855</id>
 		<name>STR_SKILL_KN_EQUIP_Dagger</name>
-		<body>Advanced Dagger Training I</body>
+		<body>Treinamento Avançado de Adaga I</body>
 	</string>
 	<string>
 		<id>281856</id>
@@ -2703,7 +2703,7 @@
 	<string>
 		<id>281857</id>
 		<name>STR_SKILL_KN_EQUIP_Mace</name>
-		<body>Advanced Mace Training I</body>
+		<body>Treinamento Avançado de Mace I</body>
 	</string>
 	<string>
 		<id>281858</id>
@@ -2713,52 +2713,52 @@
 	<string>
 		<id>281859</id>
 		<name>STR_SKILL_KN_EQUIP_Cloth</name>
-		<body>Luxury Clothing Proficiency</body>
+		<body>Proficiência em Roupas de Luxo</body>
 	</string>
 	<string>
 		<id>281860</id>
 		<name>STR_SKILL_KN_EQUIP_Cloth_DESC</name>
-		<body>Allows you to wear Luxurious Clothing with great proficiency. You look fabulous.</body>
+		<body>Permite que você use roupas luxuosas com grande proficiência. Você ficará fabuloso.</body>
 	</string>
 	<string>
 		<id>281861</id>
 		<name>STR_SKILL_KN_EQUIP_Leather</name>
-		<body>Advanced Leather Armour Proficiency</body>
+		<body>Proficiência Avançada em Armadura Leather</body>
 	</string>
 	<string>
 		<id>281862</id>
 		<name>STR_SKILL_KN_EQUIP_Leather_DESC</name>
-		<body>Grants Advanced Leather Armour Proficiency.</body>
+		<body>Concede Proficiência Avançada em Armadura Leather.</body>
 	</string>
 	<string>
 		<id>281863</id>
 		<name>STR_SKILL_KN_EQUIP_Chain</name>
-		<body>Advanced Chain Armour Proficiency</body>
+		<body>Proficiência Avançada em Armadura Chain</body>
 	</string>
 	<string>
 		<id>281864</id>
 		<name>STR_SKILL_KN_EQUIP_Chain_DESC</name>
-		<body>Grants Advanced Chain Armour Proficiency.</body>
+		<body>Concede Proficiência Avançada em Armadura Chain.</body>
 	</string>
 	<string>
 		<id>281865</id>
 		<name>STR_SKILL_KN_EQUIP_Shield</name>
-		<body>Advanced Shield Training</body>
+		<body>Treinamento Avançado de Escudo</body>
 	</string>
 	<string>
 		<id>281866</id>
 		<name>STR_SKILL_KN_EQUIP_Shield_DESC</name>
-		<body>Allows you to use shields skilfully.</body>
+		<body>Permite usar escudos habilmente.</body>
 	</string>
 	<string>
 		<id>281867</id>
 		<name>STR_SKILL_KN_EQUIP_2HSword</name>
-		<body>Advanced Greatsword Training I</body>
+		<body>Treinamento Avançado em Espada Longa I</body>
 	</string>
 	<string>
 		<id>281868</id>
 		<name>STR_SKILL_KN_EQUIP_2HSword_DESC</name>
-		<body>Allows you to use greatswords skilfully.</body>
+		<body>Permite que você use espadas longas habilmente.</body>
 	</string>
 	<string>
 		<id>281869</id>
@@ -2793,12 +2793,12 @@
 	<string>
 		<id>281875</id>
 		<name>STR_SKILL_SC_EQUIP_EnhancedBow</name>
-		<body>Enhanced Bow</body>
+		<body>Arquerismo Aprimorado</body>
 	</string>
 	<string>
 		<id>281876</id>
 		<name>STR_SKILL_SC_EQUIP_EnhancedBow_DESC</name>
-		<body>Allows you to use bows.</body>
+		<body>Permite que você use arcos.</body>
 	</string>
 	<string>
 		<id>281877</id>
@@ -2823,12 +2823,12 @@
 	<string>
 		<id>281881</id>
 		<name>STR_SKILL_SC_EQUIP_EnhancedDual</name>
-		<body>Advanced Dual-Wielding</body>
+		<body>Empunhadura Dupla Avançada</body>
 	</string>
 	<string>
 		<id>281882</id>
 		<name>STR_SKILL_SC_EQUIP_EnhancedDual_DESC</name>
-		<body>Allows you to use dual weapons.</body>
+		<body>Permite que você use duas armas.</body>
 	</string>
 	<string>
 		<id>281883</id>
@@ -2843,7 +2843,7 @@
 	<string>
 		<id>281885</id>
 		<name>STR_SKILL_RA_EQUIP_Dagger</name>
-		<body>Advanced Dagger Training I</body>
+		<body>Treinamento Avançado de Adaga I</body>
 	</string>
 	<string>
 		<id>281886</id>
@@ -2858,37 +2858,37 @@
 	<string>
 		<id>281888</id>
 		<name>STR_SKILL_RA_EQUIP_Bow_DESC</name>
-		<body>Allows you to use bows skilfully.</body>
+		<body>Permite que você use arcos habilmente.</body>
 	</string>
 	<string>
 		<id>281889</id>
 		<name>STR_SKILL_RA_EQUIP_Cloth</name>
-		<body>Luxury Clothing Proficiency</body>
+		<body>Proficiência em Roupas de Luxo</body>
 	</string>
 	<string>
 		<id>281890</id>
 		<name>STR_SKILL_RA_EQUIP_Cloth_DESC</name>
-		<body>Allows you to wear Luxurious Clothing with great proficiency. You look fabulous.</body>
+		<body>Permite que você use roupas luxuosas com grande proficiência. Você ficará fabuloso(a).</body>
 	</string>
 	<string>
 		<id>281891</id>
 		<name>STR_SKILL_RA_EQUIP_Leather</name>
-		<body>Advanced Leather Armour Proficiency</body>
+		<body>Proficiência Avançada em Armadura Leather</body>
 	</string>
 	<string>
 		<id>281892</id>
 		<name>STR_SKILL_RA_EQUIP_Leather_DESC</name>
-		<body>Grants Advanced Leather Armour Proficiency.</body>
+		<body>Concede Proficiência Avançada em Armadura Leather.</body>
 	</string>
 	<string>
 		<id>281893</id>
 		<name>STR_SKILL_RA_EQUIP_Dual</name>
-		<body>Advanced Dual-Wielding</body>
+		<body>Empunhadura Dupla Avançada</body>
 	</string>
 	<string>
 		<id>281894</id>
 		<name>STR_SKILL_RA_EQUIP_Dual_DESC</name>
-		<body>Allows you to use dual weapons skilfully.</body>
+		<body>Permite que você use duas armas habilmente.</body>
 	</string>
 	<string>
 		<id>281895</id>
@@ -2903,7 +2903,7 @@
 	<string>
 		<id>281897</id>
 		<name>STR_SKILL_AS_EQUIP_Dagger</name>
-		<body>Advanced Dagger Training I</body>
+		<body>Treinamento Avançado de Adaga I</body>
 	</string>
 	<string>
 		<id>281898</id>
@@ -2918,37 +2918,37 @@
 	<string>
 		<id>281900</id>
 		<name>STR_SKILL_AS_EQUIP_Bow_DESC</name>
-		<body>Allows you to use bows skilfully.</body>
+		<body>Permite que você use arcos habilmente.</body>
 	</string>
 	<string>
 		<id>281901</id>
 		<name>STR_SKILL_AS_EQUIP_Cloth</name>
-		<body>Luxury Clothing Proficiency</body>
+		<body>Proficiência em Roupas de Luxo</body>
 	</string>
 	<string>
 		<id>281902</id>
 		<name>STR_SKILL_AS_EQUIP_Cloth_DESC</name>
-		<body>Allows you to wear Luxurious Clothing with great proficiency. You look fabulous.</body>
+		<body>Permite que você use roupas luxuosas com grande proficiência. Você ficará fabuloso(a).</body>
 	</string>
 	<string>
 		<id>281903</id>
 		<name>STR_SKILL_AS_EQUIP_Leather</name>
-		<body>Advanced Leather Armour Proficiency</body>
+		<body>Proficiência Avançada em Armadura Leather</body>
 	</string>
 	<string>
 		<id>281904</id>
 		<name>STR_SKILL_AS_EQUIP_Leather_DESC</name>
-		<body>Grants Advanced Leather Armour Proficiency.</body>
+		<body>Concede Proficiência Avançada em Armadura Leather.</body>
 	</string>
 	<string>
 		<id>281905</id>
 		<name>STR_SKILL_AS_EQUIP_Dual</name>
-		<body>Advanced Dual-Wielding</body>
+		<body>Empunhadura Dupla Avançada</body>
 	</string>
 	<string>
 		<id>281906</id>
 		<name>STR_SKILL_AS_EQUIP_Dual_DESC</name>
-		<body>Allows you to use dual weapons skilfully.</body>
+		<body>Permite que você use duas armas habilmente.</body>
 	</string>
 	<string>
 		<id>281907</id>
@@ -2963,12 +2963,12 @@
 	<string>
 		<id>281909</id>
 		<name>STR_SKILL_CL_EQUIP_EnhancedStaff</name>
-		<body>Basic Staff Training</body>
+		<body>Treinamento Básico de Cetro</body>
 	</string>
 	<string>
 		<id>281910</id>
 		<name>STR_SKILL_CL_EQUIP_EnhancedStaff_DESC</name>
-		<body>Allows you to use staves.</body>
+		<body>Permite que você use cetros.</body>
 	</string>
 	<string>
 		<id>281911</id>
@@ -3003,7 +3003,7 @@
 	<string>
 		<id>281917</id>
 		<name>STR_SKILL_PR_EQUIP_Mace</name>
-		<body>Advanced Mace Training I</body>
+		<body>Treinamento Avançado de Mace I</body>
 	</string>
 	<string>
 		<id>281918</id>
@@ -3013,47 +3013,47 @@
 	<string>
 		<id>281919</id>
 		<name>STR_SKILL_P_EQUIP_Staff_G1</name>
-		<body>Advanced Staff Training I</body>
+		<body>Treinamento Avançado de Cetro I</body>
 	</string>
 	<string>
 		<id>281920</id>
 		<name>STR_SKILL_P_EQUIP_Staff_G1_DESC</name>
-		<body>Allows you to use staves skilfully.</body>
+		<body>Permite que você use cetros habilmente.</body>
 	</string>
 	<string>
 		<id>281921</id>
 		<name>STR_SKILL_PR_EQUIP_Cloth</name>
-		<body>Luxury Clothing Proficiency</body>
+		<body>Proficiência em Roupas de Luxo</body>
 	</string>
 	<string>
 		<id>281922</id>
 		<name>STR_SKILL_PR_EQUIP_Cloth_DESC</name>
-		<body>Allows you to wear Luxurious Clothing with great proficiency. You look fabulous.</body>
+		<body>Permite que você use roupas luxuosas com grande proficiência. Você ficará fabuloso(a).</body>
 	</string>
 	<string>
 		<id>281923</id>
 		<name>STR_SKILL_PR_EQUIP_Leather</name>
-		<body>Advanced Leather Armour Proficiency</body>
+		<body>Proficiência Avançada em Armadura Leather</body>
 	</string>
 	<string>
 		<id>281924</id>
 		<name>STR_SKILL_PR_EQUIP_Leather_DESC</name>
-		<body>Grants Advanced Leather Armour Proficiency.</body>
+		<body>Concede Proficiência Avançada em Armadura Leather.</body>
 	</string>
 	<string>
 		<id>281925</id>
 		<name>STR_SKILL_PR_EQUIP_Chain</name>
-		<body>Advanced Chain Armour Proficiency</body>
+		<body>Proficiência Avançada em Armadura Chain</body>
 	</string>
 	<string>
 		<id>281926</id>
 		<name>STR_SKILL_PR_EQUIP_Chain_DESC</name>
-		<body>Grants Advanced Chain Armour Proficiency.</body>
+		<body>Concede Proficiência Avançada em Armadura Chain.</body>
 	</string>
 	<string>
 		<id>281927</id>
 		<name>STR_SKILL_CH_EQUIP_Mace</name>
-		<body>Advanced Mace Training I</body>
+		<body>Treinamento Avançado de Mace I</body>
 	</string>
 	<string>
 		<id>281928</id>
@@ -3063,42 +3063,42 @@
 	<string>
 		<id>281929</id>
 		<name>STR_SKILL_CH_EQUIP_Staff</name>
-		<body>Advanced Staff Training I</body>
+		<body>Treinamento Avançado de Cetro I</body>
 	</string>
 	<string>
 		<id>281930</id>
 		<name>STR_SKILL_CH_EQUIP_Staff_DESC</name>
-		<body>Allows you to use staves skilfully.</body>
+		<body>Permite que você use cetros habilmente.</body>
 	</string>
 	<string>
 		<id>281931</id>
 		<name>STR_SKILL_CH_EQUIP_Cloth</name>
-		<body>Luxury Clothing Proficiency</body>
+		<body>Proficiência em Roupas de Luxo</body>
 	</string>
 	<string>
 		<id>281932</id>
 		<name>STR_SKILL_CH_EQUIP_Cloth_DESC</name>
-		<body>Allows you to wear Luxurious Clothing with great proficiency. You look fabulous.</body>
+		<body>Permite que você use roupas luxuosas com grande proficiência. Você ficará fabuloso(a).</body>
 	</string>
 	<string>
 		<id>281933</id>
 		<name>STR_SKILL_CH_EQUIP_Leather</name>
-		<body>Advanced Leather Armour Proficiency</body>
+		<body>Proficiência Avançada em Armadura Leather</body>
 	</string>
 	<string>
 		<id>281934</id>
 		<name>STR_SKILL_CH_EQUIP_Leather_DESC</name>
-		<body>Grants Advanced Leather Armour Proficiency.</body>
+		<body>Concede Proficiência Avançada em Armadura Leather.</body>
 	</string>
 	<string>
 		<id>281935</id>
 		<name>STR_SKILL_CH_EQUIP_Chain</name>
-		<body>Advanced Chain Armour Proficiency</body>
+		<body>Proficiência Avançada em Armadura Chain</body>
 	</string>
 	<string>
 		<id>281936</id>
 		<name>STR_SKILL_CH_EQUIP_Chain_DESC</name>
-		<body>Grants Advanced Chain Armour Proficiency.</body>
+		<body>Concede Proficiência Avançada em Armadura Chain.</body>
 	</string>
 	<string>
 		<id>281937</id>
@@ -3108,7 +3108,7 @@
 	<string>
 		<id>281938</id>
 		<name>STR_SKILL_P_EQUIP_EnhancedBook_G1_DESC</name>
-		<body>Allows you to use spellbooks.</body>
+		<body>Permite que você use livros de feitiços.</body>
 	</string>
 	<string>
 		<id>281939</id>
@@ -3123,42 +3123,42 @@
 	<string>
 		<id>281941</id>
 		<name>STR_SKILL_P_EQUIP_EnhancedRobe_G1</name>
-		<body>Basic Clothing Proficiency</body>
+		<body>Proficiência em Roupas Básicas</body>
 	</string>
 	<string>
 		<id>281942</id>
 		<name>STR_SKILL_P_EQUIP_EnhancedRobe_G1_DESC</name>
-		<body>Allows you to wear cloth armour.</body>
+		<body>Permite que você use armadura de pano.</body>
 	</string>
 	<string>
 		<id>281943</id>
 		<name>STR_SKILL_WI_EQUIP_Orb</name>
-		<body>Advanced Orb Training I</body>
+		<body>Treinamento Avançado de Orb I</body>
 	</string>
 	<string>
 		<id>281944</id>
 		<name>STR_SKILL_WI_EQUIP_Orb_DESC</name>
-		<body>Allows you to use orbs skilfully.</body>
+		<body>Permite que você use orbs habilmente.</body>
 	</string>
 	<string>
 		<id>281945</id>
 		<name>STR_SKILL_WI_EQUIP_Cloth</name>
-		<body>Luxury Clothing Proficiency</body>
+		<body>Proficiência em Roupas de Luxo</body>
 	</string>
 	<string>
 		<id>281946</id>
 		<name>STR_SKILL_WI_EQUIP_Cloth_DESC</name>
-		<body>Allows you to wear Luxurious Clothing with great proficiency. You look fabulous.</body>
+		<body>Permite que você use roupas luxuosas com grande proficiência. Você ficará fabuloso(a).</body>
 	</string>
 	<string>
 		<id>281947</id>
 		<name>STR_SKILL_P_EQUIP_Robe_G1</name>
-		<body>Advanced Cloth Armour Proficiency I</body>
+		<body>Proficiência Avançada em Armadura Cloth I</body>
 	</string>
 	<string>
 		<id>281948</id>
 		<name>STR_SKILL_P_EQUIP_Robe_G1_DESC</name>
-		<body>Grants Advanced Cloth Armour Proficiency.</body>
+		<body>Concede Proficiência Avançada em Armadura Cloth.</body>
 	</string>
 	<string>
 		<id>281949</id>
@@ -3168,7 +3168,7 @@
 	<string>
 		<id>281950</id>
 		<name>STR_SKILL_P_EQUIP_Book_G1_DESC</name>
-		<body>Allows you to use spellbooks skilfully.</body>
+		<body>Permite que você use livros de feitiços habilmente.</body>
 	</string>
 	<string>
 		<id>281951</id>
@@ -3178,37 +3178,37 @@
 	<string>
 		<id>281952</id>
 		<name>STR_SKILL_EL_EQUIP_Book_DESC</name>
-		<body>Allows you to use spellbooks skilfully.</body>
+		<body>Permite que você use livros de feitiços habilmente.</body>
 	</string>
 	<string>
 		<id>281953</id>
 		<name>STR_SKILL_EL_EQUIP_Cloth</name>
-		<body>Luxury Clothing Proficiency</body>
+		<body>Proficiência em Roupas de Luxo</body>
 	</string>
 	<string>
 		<id>281954</id>
 		<name>STR_SKILL_EL_EQUIP_Cloth_DESC</name>
-		<body>Allows you to wear Luxurious Clothing with great proficiency. You look fabulous.</body>
+		<body>Permite que você use roupas luxuosas com grande proficiência. Você ficará fabuloso(a).</body>
 	</string>
 	<string>
 		<id>281955</id>
 		<name>STR_SKILL_EL_EQUIP_Robe</name>
-		<body>Advanced Cloth Armour Proficiency</body>
+		<body>Proficiência Avançada em Armadura Cloth</body>
 	</string>
 	<string>
 		<id>281956</id>
 		<name>STR_SKILL_EL_EQUIP_Robe_DESC</name>
-		<body>Grants Advanced Cloth Armour Proficiency.</body>
+		<body>Concede Proficiência Avançada em Armadura Cloth.</body>
 	</string>
 	<string>
 		<id>281957</id>
 		<name>STR_SKILL_P_EQUIP_Orb_G1</name>
-		<body>Advanced Orb Training I</body>
+		<body>Treinamento Avançado de Orb I</body>
 	</string>
 	<string>
 		<id>281958</id>
 		<name>STR_SKILL_P_EQUIP_Orb_G1_DESC</name>
-		<body>Allows you to use orbs skilfully.</body>
+		<body>Permite que você use orbs habilmente.</body>
 	</string>
 	<string>
 		<id>281959</id>
@@ -3238,7 +3238,7 @@
 	<string>
 		<id>281964</id>
 		<name>STR_SKILL_WA_RobustHit_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. Aumenta a Provocação do alvo contra você. Inflige [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo é um Balaur.&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo é um Balaur.&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>281965</id>
@@ -3248,7 +3248,7 @@
 	<string>
 		<id>281966</id>
 		<name>STR_SKILL_WA_AvengingCrash_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MaxDamage]~[%e1.SkillATK_Instant.MinDamage] de dano físico no alvo após um Block bem sucedido e deixa o alvo em choque (stun) temporatiamente. Aumenta a Provocação do alvo contra você. Inflige [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo é um Balaur.&#xA;Requer um Escudo</body>
+		<body>Causa [%e1.SkillATK_Instant.MaxDamage]~[%e1.SkillATK_Instant.MinDamage] de dano físico no alvo após um Block bem sucedido e deixa o alvo em choque (stun) temporatiamente. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo é um Balaur.&#xA;Requer um Escudo</body>
 	</string>
 	<string>
 		<id>281967</id>
@@ -3258,7 +3258,7 @@
 	<string>
 		<id>281968</id>
 		<name>STR_SKILL_WA_RobustBlow_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 2&#xA;Ferocious Strike – Robust Blow.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 2&#xA;Ferocious Strike – Robust Blow.</body>
 	</string>
 	<string>
 		<id>281969</id>
@@ -3318,7 +3318,7 @@
 	<string>
 		<id>281980</id>
 		<name>STR_SKILL_SC_AssaultStabber_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, e causa [%e1.SkillATK_Instant.AddDamage] de dano físico adicional se for usado nas costas do alvo.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, e causa [%e1.SkillATK_Instant.AddDamage] de dano físico adicional se for usado nas costas do alvo.</body>
 	</string>
 	<string>
 		<id>281981</id>
@@ -3338,7 +3338,7 @@
 	<string>
 		<id>281984</id>
 		<name>STR_SKILL_SC_BlowBleed_DESC</name>
-		<body>Physical Attack + Bleeding&#xA;Strikes a target and causes it to bleed.</body>
+		<body>Ataca um alvo e o faz sangrar.</body>
 	</string>
 	<string>
 		<id>281985</id>
@@ -3348,7 +3348,7 @@
 	<string>
 		<id>281986</id>
 		<name>STR_SKILL_SC_SwiftEdge_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>281987</id>
@@ -3358,7 +3358,7 @@
 	<string>
 		<id>281988</id>
 		<name>STR_SKILL_SC_SwiftShock_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 2&#xA;Swift Edge – Soul Slash</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 2&#xA;Swift Edge – Soul Slash</body>
 	</string>
 	<string>
 		<id>281989</id>
@@ -3368,7 +3368,7 @@
 	<string>
 		<id>281990</id>
 		<name>STR_SKILL_SC_WhisperofWind_G1_DESC</name>
-		<body>For [%e1.AlwaysDodge.RemainTime], can dodges [%e1.AlwaysDodge.Count] physical attack(s) or resist [%e2.AlwaysResist.Count] magical attack(s).</body>
+		<body>Por [%e1.AlwaysDodge.RemainTime], pode desviar de [%e1.AlwaysDodge.Count] ataque(s) físico(s) ou resistir [%e2.AlwaysResist.Count] ataque(s) mágico(s).</body>
 	</string>
 	<string>
 		<id>281991</id>
@@ -3378,7 +3378,7 @@
 	<string>
 		<id>281992</id>
 		<name>STR_SKILL_SC_Hide_G1_DESC</name>
-		<body>Enters basic stealth for [%e1.Hide.RandomTime]~[%e1.Hide.RemainTime]. The skill decreases the movement speed by [%e1.Hide.Speed]%% while in effect.&#xA;Unable to use during battle.</body>
+		<body>Você fica invisível (básico) por [%e1.Hide.RandomTime]~[%e1.Hide.RemainTime]. Essa habilidade reduz a sua Velocidade de Movimento em [%e1.Hide.Speed]%% enquanto estiver ativada.&#xA;Não pode usar durante a batalha.</body>
 	</string>
 	<string>
 		<id>281993</id>
@@ -3388,7 +3388,7 @@
 	<string>
 		<id>281994</id>
 		<name>STR_SKILL_SC_StatUpCritical_DESC</name>
-		<body>Crit Spell Chance Buff&#xA;Temporarily increases your critical strike chance significantly.</body>
+		<body>Aumenta temporariamente sua chance de acerto crítico significativamente.</body>
 	</string>
 	<string>
 		<id>281995</id>
@@ -3398,7 +3398,7 @@
 	<string>
 		<id>281996</id>
 		<name>STR_SKILL_SC_HateDown_DESC</name>
-		<body>Magical Enmity Reduction&#xA;Reduces the target&apos;s enmity towards you.</body>
+		<body>Reduz a Provocação do alvo em relação a você.</body>
 	</string>
 	<string>
 		<id>281997</id>
@@ -3418,7 +3418,7 @@
 	<string>
 		<id>282000</id>
 		<name>STR_SKILL_CL_HallowSwing_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target&apos;s attack speed decreases for [%e2.Slow.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. A Velocidade de Ataque do alvo é reduzida por [%e2.Slow.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>282001</id>
@@ -3428,7 +3428,7 @@
 	<string>
 		<id>282002</id>
 		<name>STR_SKILL_CL_BlessofRock_G1_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] of a target within [%First_Target_Valid_Distance]m by [%e1.StatUp.Value]%% for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta a [%e1.StatUp.StatName] de um alvo que esteja até [%First_Target_Valid_Distance]m de distância em [%e1.StatUp.Value]%% por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>282003</id>
@@ -3438,7 +3438,7 @@
 	<string>
 		<id>282004</id>
 		<name>STR_SKILL_CL_Blind_DESC</name>
-		<body>Magical Blindness Debuff&#xA;Lowers the target&apos;s accuracy.</body>
+		<body>Reduz a Precisão do alvo significativamente.</body>
 	</string>
 	<string>
 		<id>282005</id>
@@ -3448,7 +3448,7 @@
 	<string>
 		<id>282006</id>
 		<name>STR_SKILL_CL_Heal_G1_DESC</name>
-		<body>Restores [%e1.Heal_Instant.Heal] HP of a target within [%First_Target_Valid_Distance]m.</body>
+		<body>Cura [%e1.Heal_Instant.Heal] de HP de um alvo que esteja até [%First_Target_Valid_Distance]m de distância.</body>
 	</string>
 	<string>
 		<id>282007</id>
@@ -3458,7 +3458,7 @@
 	<string>
 		<id>282008</id>
 		<name>STR_SKILL_CL_DispelPhysical_DESC</name>
-		<body>Remove magical altered states&#xA;Cures the target of physical altered states.</body>
+		<body>Cura o alvo de estados físicos alterados.</body>
 	</string>
 	<string>
 		<id>282009</id>
@@ -3468,7 +3468,7 @@
 	<string>
 		<id>282010</id>
 		<name>STR_SKILL_CL_Revive_G1_DESC</name>
-		<body>Resurrects a target within [%First_Target_Valid_Distance]m of you.</body>
+		<body>Ressuscita um alvo que esteja até [%First_Target_Valid_Distance]m de distância de você.</body>
 	</string>
 	<string>
 		<id>282011</id>
@@ -3478,7 +3478,7 @@
 	<string>
 		<id>282012</id>
 		<name>STR_SKILL_MA_FlameBolt_G1_DESC</name>
-		<body>Inflicts [%e1.SpellATK_Instant.FixDamage] magical fire damage on a target within [%First_Target_Valid_Distance]m of you.&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de fogo em um alvo que esteja até [%First_Target_Valid_Distance]m de distância de você.&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>282013</id>
@@ -3618,7 +3618,7 @@
 	<string>
 		<id>282040</id>
 		<name>STR_SKILL_FI_SmallBlow_DESC</name>
-		<body>Physical Strike&#xA;Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.</body>
+		<body>Physical Strike&#xA;Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.</body>
 	</string>
 	<string>
 		<id>282041</id>
@@ -3628,7 +3628,7 @@
 	<string>
 		<id>282042</id>
 		<name>STR_SKILL_WA_RobustHit_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>282043</id>
@@ -3638,7 +3638,7 @@
 	<string>
 		<id>282044</id>
 		<name>STR_SKILL_WA_AvengingCrash_G2_DESC</name>
-		<body>Upon success of Block, Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo by bashing it with the shield, and stuns it temporarily.&#xA;Requer um Escudo&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Upon success of Block, Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo by bashing it with the shield, and stuns it temporarily.&#xA;Requer um Escudo&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>282045</id>
@@ -3648,7 +3648,7 @@
 	<string>
 		<id>282046</id>
 		<name>STR_SKILL_WA_RobustBlow_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 2&#xA;Ferocious Strike – Robust Blow.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 2&#xA;Ferocious Strike – Robust Blow.</body>
 	</string>
 	<string>
 		<id>282047</id>
@@ -3688,7 +3688,7 @@
 	<string>
 		<id>282054</id>
 		<name>STR_SKILL_FI_RobustSmash_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 3&#xA;Robust Blow – Rupture.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 3&#xA;Robust Blow – Rupture.</body>
 	</string>
 	<string>
 		<id>282055</id>
@@ -3938,7 +3938,7 @@
 	<string>
 		<id>282104</id>
 		<name>STR_SKILL_KN_RobustHit_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>282105</id>
@@ -3958,7 +3958,7 @@
 	<string>
 		<id>282108</id>
 		<name>STR_SKILL_KN_RobustBlow_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 2&#xA;Ferocious Strike – Robust Blow.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 2&#xA;Ferocious Strike – Robust Blow.</body>
 	</string>
 	<string>
 		<id>282109</id>
@@ -3998,7 +3998,7 @@
 	<string>
 		<id>282116</id>
 		<name>STR_SKILL_KN_AvengingBlade_G1_DESC</name>
-		<body>Deals [%e1.SkillATK_Instant.MaxDamage] to [%e1.SkillATK_Instant.MinDamage] physical damage to the target after a successful block. Aumenta a Provocação do alvo contra você. Inflige [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo é um Balaur.&#xA;Requer um Escudo&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Deals [%e1.SkillATK_Instant.MaxDamage] to [%e1.SkillATK_Instant.MinDamage] physical damage to the target after a successful block. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo é um Balaur.&#xA;Requer um Escudo&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>282117</id>
@@ -4168,7 +4168,7 @@
 	<string>
 		<id>282150</id>
 		<name>STR_SKILL_KN_LayHand_G1_DESC</name>
-		<body>Restores [%e1.Heal_Instant.Heal] HP of a target within [%First_Target_Valid_Distance]m.</body>
+		<body>Cura [%e1.Heal_Instant.Heal] de HP de um alvo que esteja até [%First_Target_Valid_Distance]m de distância.</body>
 	</string>
 	<string>
 		<id>282151</id>
@@ -4258,7 +4258,7 @@
 	<string>
 		<id>282168</id>
 		<name>STR_SKILL_SC_AssaultStabber_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, e causa [%e1.SkillATK_Instant.AddDamage] de dano físico adicional se for usado nas costas do alvo.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, e causa [%e1.SkillATK_Instant.AddDamage] de dano físico adicional se for usado nas costas do alvo.</body>
 	</string>
 	<string>
 		<id>282169</id>
@@ -4288,7 +4288,7 @@
 	<string>
 		<id>282174</id>
 		<name>STR_SKILL_SC_SwiftEdge_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>282175</id>
@@ -4298,7 +4298,7 @@
 	<string>
 		<id>282176</id>
 		<name>STR_SKILL_SC_SwiftShock_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 2&#xA;Swift Edge – Soul Slash</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 2&#xA;Swift Edge – Soul Slash</body>
 	</string>
 	<string>
 		<id>282177</id>
@@ -4338,7 +4338,7 @@
 	<string>
 		<id>282184</id>
 		<name>STR_SKILL_RA_SwiftCrush_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and causes [%e2.Bleed.Damage] bleeding damage for [%e2.Bleed.RemainTime].</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and causes [%e2.Bleed.Damage] bleeding damage for [%e2.Bleed.RemainTime].</body>
 	</string>
 	<string>
 		<id>282185</id>
@@ -4638,7 +4638,7 @@
 	<string>
 		<id>282244</id>
 		<name>STR_SKILL_AS_AssaultStabber_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. Inflicts additional [%e1.SkillATK_Instant.AddDamage] damage if used on the target&apos;s back.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. Inflicts additional [%e1.SkillATK_Instant.AddDamage] damage if used on the target&apos;s back.</body>
 	</string>
 	<string>
 		<id>282245</id>
@@ -4668,7 +4668,7 @@
 	<string>
 		<id>282250</id>
 		<name>STR_SKILL_AS_SwiftEdge_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>282251</id>
@@ -4678,7 +4678,7 @@
 	<string>
 		<id>282252</id>
 		<name>STR_SKILL_AS_SwiftShock_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target is sometimes stunned for [%e2.Stun.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Swift Edge – Soul Slash.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target is sometimes stunned for [%e2.Stun.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Swift Edge – Soul Slash.</body>
 	</string>
 	<string>
 		<id>282253</id>
@@ -4708,7 +4708,7 @@
 	<string>
 		<id>282258</id>
 		<name>STR_SKILL_AS_SplatterStabber_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and inflicts additional [%e2.SpellATK.Damage] damage if used on the target&apos;s back.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and inflicts additional [%e2.SpellATK.Damage] damage if used on the target&apos;s back.</body>
 	</string>
 	<string>
 		<id>282259</id>
@@ -4968,7 +4968,7 @@
 	<string>
 		<id>282310</id>
 		<name>STR_SKILL_CL_HallowSwing_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target&apos;s attack speed decreases for [%e2.Slow.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. A Velocidade de Ataque do alvo é reduzida por [%e2.Slow.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>282311</id>
@@ -5008,7 +5008,7 @@
 	<string>
 		<id>282318</id>
 		<name>STR_SKILL_CL_BlessofRock_G2_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] of a target within [%First_Target_Valid_Distance]m by [%e1.StatUp.Value]%% for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta a [%e1.StatUp.StatName] de um alvo que esteja até [%First_Target_Valid_Distance]m de distância em [%e1.StatUp.Value]%% por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>282319</id>
@@ -5148,7 +5148,7 @@
 	<string>
 		<id>282346</id>
 		<name>STR_SKILL_CL_Heal_G2_DESC</name>
-		<body>Restores [%e1.Heal_Instant.Heal] HP of a target within [%First_Target_Valid_Distance]m.</body>
+		<body>Cura [%e1.Heal_Instant.Heal] de HP de um alvo que esteja até [%First_Target_Valid_Distance]m de distância.</body>
 	</string>
 	<string>
 		<id>282347</id>
@@ -5168,7 +5168,7 @@
 	<string>
 		<id>282350</id>
 		<name>STR_SKILL_CL_Revive_G2_DESC</name>
-		<body>Resurrects a target within [%First_Target_Valid_Distance]m of you.</body>
+		<body>Ressuscita um alvo que esteja até [%First_Target_Valid_Distance]m de distância de você.</body>
 	</string>
 	<string>
 		<id>282351</id>
@@ -5348,7 +5348,7 @@
 	<string>
 		<id>282388</id>
 		<name>STR_SKILL_CH_ViolentSwing_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. Decreases the target&apos;s [%e2.StatDown.StatName] by [%e2.StatDown.Value] and [%e3.StatDown.StatName] by [%e3.StatDown.Value]%% for [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. Decreases the target&apos;s [%e2.StatDown.StatName] by [%e2.StatDown.Value] and [%e3.StatDown.StatName] by [%e3.StatDown.Value]%% for [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>282389</id>
@@ -5358,7 +5358,7 @@
 	<string>
 		<id>282390</id>
 		<name>STR_SKILL_CH_HallowSwing_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. &#xA;The target&apos;s attack speed decreases for [%e2.Slow.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. &#xA;A Velocidade de Ataque do alvo é reduzida por [%e2.Slow.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>282391</id>
@@ -5368,7 +5368,7 @@
 	<string>
 		<id>282392</id>
 		<name>STR_SKILL_CH_TriangleShock_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and reduces its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Meteor Strike - Incandescent Blow.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and reduces its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Meteor Strike - Incandescent Blow.</body>
 	</string>
 	<string>
 		<id>282393</id>
@@ -5428,7 +5428,7 @@
 	<string>
 		<id>282404</id>
 		<name>STR_SKILL_CH_SilenceSwing_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and additionally silences it for [%e2.Silence.RemainTime].</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and additionally silences it for [%e2.Silence.RemainTime].</body>
 	</string>
 	<string>
 		<id>282405</id>
@@ -5678,7 +5678,7 @@
 	<string>
 		<id>282454</id>
 		<name>STR_SKILL_MA_FlameBolt_G2_DESC</name>
-		<body>Inflicts [%e1.SpellATK_Instant.FixDamage] magical fire damage on a target within [%First_Target_Valid_Distance]m of you.&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de fogo em um alvo que esteja até [%First_Target_Valid_Distance]m de distância de você.&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>282455</id>
@@ -5698,7 +5698,7 @@
 	<string>
 		<id>282458</id>
 		<name>STR_SKILL_WI_FlameCage_G1_DESC</name>
-		<body>Inflicts [%e1.SpellATK_Instant.FixDamage] magical fire damage on a target within [%First_Target_Valid_Distance]m of you, and deals further [%e2.SpellATK.Damage] damage every [%e2.SpellATK.CheckTime] for [%e2.SpellATK.RemainTime].</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de fogo em um alvo que esteja até [%First_Target_Valid_Distance]m de distância de você, and deals further [%e2.SpellATK.Damage] damage every [%e2.SpellATK.CheckTime] for [%e2.SpellATK.RemainTime].</body>
 	</string>
 	<string>
 		<id>282459</id>
@@ -5758,7 +5758,7 @@
 	<string>
 		<id>282470</id>
 		<name>STR_SKILL_WI_MassExplosion_G1_DESC</name>
-		<body>Inflicts [%e1.SpellATK_Instant.FixDamage] magical fire damage on a target within [%First_Target_Valid_Distance]m of you and on up to 6 enemies within a 5m radius of the target.&#xA;Stigma Skill</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de fogo em um alvo que esteja até [%First_Target_Valid_Distance]m de distância de você and on up to 6 enemies within a 5m radius of the target.&#xA;Stigma Skill</body>
 	</string>
 	<string>
 		<id>282471</id>
@@ -6321,22 +6321,22 @@
 	<string>
 		<id>282585</id>
 		<name>STR_SKILL_PR_EQUIP_Shield</name>
-		<body>Advanced Shield Training</body>
+		<body>Treinamento Avançado de Escudo</body>
 	</string>
 	<string>
 		<id>282586</id>
 		<name>STR_SKILL_PR_EQUIP_Shield_DESC</name>
-		<body>Allows you to use shields skilfully.</body>
+		<body>Permite usar escudos habilmente.</body>
 	</string>
 	<string>
 		<id>282587</id>
 		<name>STR_SKILL_CH_EQUIP_Shield</name>
-		<body>Advanced Shield Training</body>
+		<body>Treinamento Avançado de Escudo</body>
 	</string>
 	<string>
 		<id>282588</id>
 		<name>STR_SKILL_CH_EQUIP_Shield_DESC</name>
-		<body>Allows you to use shields skilfully.</body>
+		<body>Permite usar escudos habilmente.</body>
 	</string>
 	<string>
 		<id>282589</id>
@@ -7192,7 +7192,7 @@
 	<string>
 		<id>282760</id>
 		<name>STR_SKILL_PR_GreatHeal_G1_DESC</name>
-		<body>Restores [%e1.Heal_Instant.Heal] HP of a target within [%First_Target_Valid_Distance]m.</body>
+		<body>Cura [%e1.Heal_Instant.Heal] de HP de um alvo que esteja até [%First_Target_Valid_Distance]m de distância.</body>
 	</string>
 	<string>
 		<id>282761</id>
@@ -8282,7 +8282,7 @@
 	<string>
 		<id>282978</id>
 		<name>STR_SKILL_FI_SmallBlow_G3_DESC</name>
-		<body>Physical Strike&#xA;Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.</body>
+		<body>Physical Strike&#xA;Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.</body>
 	</string>
 	<string>
 		<id>282979</id>
@@ -8332,7 +8332,7 @@
 	<string>
 		<id>282988</id>
 		<name>STR_SKILL_KN_LayHand_G2_DESC</name>
-		<body>Restores [%e1.Heal_Instant.Heal] HP of a target within [%First_Target_Valid_Distance]m.</body>
+		<body>Cura [%e1.Heal_Instant.Heal] de HP de um alvo que esteja até [%First_Target_Valid_Distance]m de distância.</body>
 	</string>
 	<string>
 		<id>282989</id>
@@ -8402,7 +8402,7 @@
 	<string>
 		<id>283002</id>
 		<name>STR_SKILL_RA_SwiftCrush_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and causes [%e2.Bleed.Damage] bleeding damage for [%e2.Bleed.RemainTime].</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and causes [%e2.Bleed.Damage] bleeding damage for [%e2.Bleed.RemainTime].</body>
 	</string>
 	<string>
 		<id>283003</id>
@@ -8462,7 +8462,7 @@
 	<string>
 		<id>283014</id>
 		<name>STR_SKILL_AS_AssaultStabber_G3_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. Inflicts additional [%e1.SkillATK_Instant.AddDamage] damage if used on the target&apos;s back.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. Inflicts additional [%e1.SkillATK_Instant.AddDamage] damage if used on the target&apos;s back.</body>
 	</string>
 	<string>
 		<id>283015</id>
@@ -8482,7 +8482,7 @@
 	<string>
 		<id>283018</id>
 		<name>STR_SKILL_CL_Heal_G3_DESC</name>
-		<body>Restores [%e1.Heal_Instant.Heal] HP of a target within [%First_Target_Valid_Distance]m.</body>
+		<body>Cura [%e1.Heal_Instant.Heal] de HP de um alvo que esteja até [%First_Target_Valid_Distance]m de distância.</body>
 	</string>
 	<string>
 		<id>283019</id>
@@ -8552,7 +8552,7 @@
 	<string>
 		<id>283032</id>
 		<name>STR_SKILL_CH_ViolentSwing_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. Decreases the target&apos;s [%e2.StatDown.StatName] by [%e2.StatDown.Value] and [%e3.StatDown.StatName] by [%e3.StatDown.Value]%% for [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. Decreases the target&apos;s [%e2.StatDown.StatName] by [%e2.StatDown.Value] and [%e3.StatDown.StatName] by [%e3.StatDown.Value]%% for [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>283033</id>
@@ -8622,7 +8622,7 @@
 	<string>
 		<id>283046</id>
 		<name>STR_SKILL_MA_FlameBolt_G3_DESC</name>
-		<body>Inflicts [%e1.SpellATK_Instant.FixDamage] magical fire damage on a target within [%First_Target_Valid_Distance]m of you.&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de fogo em um alvo que esteja até [%First_Target_Valid_Distance]m de distância de você.&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>283047</id>
@@ -8632,7 +8632,7 @@
 	<string>
 		<id>283048</id>
 		<name>STR_SKILL_WI_MassExplosion_G2_DESC</name>
-		<body>Inflicts [%e1.SpellATK_Instant.FixDamage] magical fire damage on a target within [%First_Target_Valid_Distance]m of you and on up to 6 enemies within a 5m radius of the target.&#xA;Stigma Skill</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de fogo em um alvo que esteja até [%First_Target_Valid_Distance]m de distância de você and on up to 6 enemies within a 5m radius of the target.&#xA;Stigma Skill</body>
 	</string>
 	<string>
 		<id>283049</id>
@@ -8752,7 +8752,7 @@
 	<string>
 		<id>283072</id>
 		<name>STR_SKILL_Stigma_EnhancedStaff_DESC</name>
-		<body>Allows you to use staves.</body>
+		<body>Permite que você use cetros.</body>
 	</string>
 	<string>
 		<id>283073</id>
@@ -8782,7 +8782,7 @@
 	<string>
 		<id>283078</id>
 		<name>STR_SKILL_Stigma_EnhancedRobe_DESC</name>
-		<body>Allows you to wear cloth armour.</body>
+		<body>Permite que você use armadura de pano.</body>
 	</string>
 	<string>
 		<id>283079</id>
@@ -8842,7 +8842,7 @@
 	<string>
 		<id>283090</id>
 		<name>STR_SKILL_Stigma_EnhancedShield_DESC</name>
-		<body>Allows you to use shields.</body>
+		<body>Permite usar escudos.</body>
 	</string>
 	<string>
 		<id>283091</id>
@@ -8872,7 +8872,7 @@
 	<string>
 		<id>283096</id>
 		<name>STR_SKILL_Stigma_EnhancedDual_DESC</name>
-		<body>Allows you to use dual weapons.</body>
+		<body>Permite que você use duas armas.</body>
 	</string>
 	<string>
 		<id>283097</id>
@@ -9082,7 +9082,7 @@
 	<string>
 		<id>283138</id>
 		<name>STR_SKILL_FI_RobustSmash_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 3&#xA;Rage – Rupture.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 3&#xA;Rage – Rupture.</body>
 	</string>
 	<string>
 		<id>283139</id>
@@ -10447,7 +10447,7 @@
 	<string>
 		<id>283455</id>
 		<name>STR_SKILL_WA_RobustSmash_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target is sometimes stunned.&#xA;Habilidade de Sequência nível 3&#xA;Rage – Rupture</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target is sometimes stunned.&#xA;Habilidade de Sequência nível 3&#xA;Rage – Rupture</body>
 	</string>
 	<string>
 		<id>283456</id>
@@ -10477,7 +10477,7 @@
 	<string>
 		<id>283461</id>
 		<name>STR_SKILL_CL_BlessofHealth_G1_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] of a target within [%First_Target_Valid_Distance]m by [%e1.StatUp.Value]%% for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta a [%e1.StatUp.StatName] de um alvo que esteja até [%First_Target_Valid_Distance]m de distância em [%e1.StatUp.Value]%% por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>283462</id>
@@ -10547,7 +10547,7 @@
 	<string>
 		<id>283475</id>
 		<name>STR_SKILL_FI_LockdownImpact_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target is bound for [%e2.Bind.RemainTime].&#xA;Stigma Skill.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target is bound for [%e2.Bind.RemainTime].&#xA;Stigma Skill.</body>
 	</string>
 	<string>
 		<id>283476</id>
@@ -10567,7 +10567,7 @@
 	<string>
 		<id>283479</id>
 		<name>STR_SKILL_FI_LockdownImpact_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target is bound for [%e2.Bind.RemainTime].&#xA;Stigma Skill.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target is bound for [%e2.Bind.RemainTime].&#xA;Stigma Skill.</body>
 	</string>
 	<string>
 		<id>283480</id>
@@ -10617,7 +10617,7 @@
 	<string>
 		<id>283489</id>
 		<name>STR_SKILL_FI_OverturningBlow_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.</body>
 	</string>
 	<string>
 		<id>283490</id>
@@ -10637,7 +10637,7 @@
 	<string>
 		<id>283493</id>
 		<name>STR_SKILL_WA_RobustHit_G3_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>283494</id>
@@ -10647,7 +10647,7 @@
 	<string>
 		<id>283495</id>
 		<name>STR_SKILL_FI_RobustBlow_G3_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 2&#xA;Ferocious Strike – Robust Blow.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 2&#xA;Ferocious Strike – Robust Blow.</body>
 	</string>
 	<string>
 		<id>283496</id>
@@ -10677,7 +10677,7 @@
 	<string>
 		<id>283501</id>
 		<name>STR_SKILL_FI_RobustSmash_G3_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 3&#xA;Rage – Rupture.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 3&#xA;Rage – Rupture.</body>
 	</string>
 	<string>
 		<id>283502</id>
@@ -10776,7 +10776,7 @@
 	<string>
 		<id>283521</id>
 		<name>STR_SKILL_FI_LockdownImpact_G3_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target is bound for [%e2.Bind.RemainTime].&#xA;Stigma Skill.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target is bound for [%e2.Bind.RemainTime].&#xA;Stigma Skill.</body>
 	</string>
 	<string>
 		<id>283522</id>
@@ -10826,7 +10826,7 @@
 	<string>
 		<id>283531</id>
 		<name>STR_SKILL_KN_HamstringSlash_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] and [%e3.StatDown.StatName] by [%e3.StatDown.Value] for [%e2.StatDown.RemainTime].</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] and [%e3.StatDown.StatName] by [%e3.StatDown.Value] for [%e2.StatDown.RemainTime].</body>
 	</string>
 	<string>
 		<id>283532</id>
@@ -10856,7 +10856,7 @@
 	<string>
 		<id>283537</id>
 		<name>STR_SKILL_KN_AvengingBlade_G2_DESC</name>
-		<body>When you succeed in using Block, Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo by bashing it with the shield.&#xA;Requer um Escudo&#xA;Habilidade de Sequência nível 1.</body>
+		<body>When you succeed in using Block, Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo by bashing it with the shield.&#xA;Requer um Escudo&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>283538</id>
@@ -10906,7 +10906,7 @@
 	<string>
 		<id>283547</id>
 		<name>STR_SKILL_KN_LayHand_G3_DESC</name>
-		<body>Restores [%e1.Heal_Instant.Heal] HP of a target within [%First_Target_Valid_Distance]m.</body>
+		<body>Cura [%e1.Heal_Instant.Heal] de HP de um alvo que esteja até [%First_Target_Valid_Distance]m de distância.</body>
 	</string>
 	<string>
 		<id>283548</id>
@@ -10946,7 +10946,7 @@
 	<string>
 		<id>283555</id>
 		<name>STR_SKILL_KN_ShieldImpactG1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and stuns it for [%e2.Stun.RemainTime].</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and stuns it for [%e2.Stun.RemainTime].</body>
 	</string>
 	<string>
 		<id>283556</id>
@@ -10966,7 +10966,7 @@
 	<string>
 		<id>283559</id>
 		<name>STR_SKILL_KN_RobustBlow_G3_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 2&#xA;Ferocious Strike – Robust Blow.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 2&#xA;Ferocious Strike – Robust Blow.</body>
 	</string>
 	<string>
 		<id>283560</id>
@@ -10976,7 +10976,7 @@
 	<string>
 		<id>283561</id>
 		<name>STR_SKILL_KN_RobustHit_G3_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>283562</id>
@@ -11046,7 +11046,7 @@
 	<string>
 		<id>283575</id>
 		<name>STR_SKILL_KN_HamstringSlash_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and decreases its [%e2.StatDown.StatName] and [%e3.StatDown.StatName] by [%e2.StatDown.Value] and [%e3.StatDown.Value] respectively for [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Shield Counter – Hamstring Slash.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and decreases its [%e2.StatDown.StatName] and [%e3.StatDown.StatName] by [%e2.StatDown.Value] and [%e3.StatDown.Value] respectively for [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Shield Counter – Hamstring Slash.</body>
 	</string>
 	<string>
 		<id>283576</id>
@@ -11116,7 +11116,7 @@
 	<string>
 		<id>283589</id>
 		<name>STR_SKILL_SC_AssaultStabber_G3_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, e causa [%e1.SkillATK_Instant.AddDamage] de dano físico adicional se for usado nas costas do alvo.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, e causa [%e1.SkillATK_Instant.AddDamage] de dano físico adicional se for usado nas costas do alvo.</body>
 	</string>
 	<string>
 		<id>283590</id>
@@ -11196,7 +11196,7 @@
 	<string>
 		<id>283605</id>
 		<name>STR_SKILL_SC_SwiftEdge_G3_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>283606</id>
@@ -11206,7 +11206,7 @@
 	<string>
 		<id>283607</id>
 		<name>STR_SKILL_RA_SwiftShock_G3_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target is sometimes stunned for [%e2.Stun.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Swift Edge – Soul Slash.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target is sometimes stunned for [%e2.Stun.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Swift Edge – Soul Slash.</body>
 	</string>
 	<string>
 		<id>283608</id>
@@ -11236,7 +11236,7 @@
 	<string>
 		<id>283613</id>
 		<name>STR_SKILL_RA_SwiftCrush_G3_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and causes [%e2.Bleed.Damage] bleeding damage for [%e2.Bleed.RemainTime].</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and causes [%e2.Bleed.Damage] bleeding damage for [%e2.Bleed.RemainTime].</body>
 	</string>
 	<string>
 		<id>283614</id>
@@ -11336,7 +11336,7 @@
 	<string>
 		<id>283633</id>
 		<name>STR_SKILL_RA_AssaultStabber_G4_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. Inflicts additional [%e1.SkillATK_Instant.AddDamage] damage if used on the target&apos;s back.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. Inflicts additional [%e1.SkillATK_Instant.AddDamage] damage if used on the target&apos;s back.</body>
 	</string>
 	<string>
 		<id>283634</id>
@@ -11466,7 +11466,7 @@
 	<string>
 		<id>283659</id>
 		<name>STR_SKILL_AS_ViciousStab_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and additionally reduces its [%e3.StatDown.StatName] by [%e3.StatDown.Value].&#xA;The target also bleeds for [%e2.Bleed.RemainTime] if attacked from behind.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and additionally reduces its [%e3.StatDown.StatName] by [%e3.StatDown.Value].&#xA;The target also bleeds for [%e2.Bleed.RemainTime] if attacked from behind.</body>
 	</string>
 	<string>
 		<id>283660</id>
@@ -11536,7 +11536,7 @@
 	<string>
 		<id>283673</id>
 		<name>STR_SKILL_AS_SwiftEdge_G3_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>283674</id>
@@ -11546,7 +11546,7 @@
 	<string>
 		<id>283675</id>
 		<name>STR_SKILL_AS_SwiftShock_G3_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target is sometimes stunned for [%e2.Stun.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Swift Edge – Soul Slash.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target is sometimes stunned for [%e2.Stun.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Swift Edge – Soul Slash.</body>
 	</string>
 	<string>
 		<id>283676</id>
@@ -11615,7 +11615,7 @@
 	<string>
 		<id>283689</id>
 		<name>STR_SKILL_AS_AssaultStabber_G4_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. Inflicts additional [%e1.SkillATK_Instant.AddDamage] damage if used on the target&apos;s back.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. Inflicts additional [%e1.SkillATK_Instant.AddDamage] damage if used on the target&apos;s back.</body>
 	</string>
 	<string>
 		<id>283690</id>
@@ -11635,7 +11635,7 @@
 	<string>
 		<id>283693</id>
 		<name>STR_SKILL_AS_SplatterStabber_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and inflicts additional [%e2.SpellATK.Damage] damage if used on the target&apos;s back.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and inflicts additional [%e2.SpellATK.Damage] damage if used on the target&apos;s back.</body>
 	</string>
 	<string>
 		<id>283694</id>
@@ -11675,7 +11675,7 @@
 	<string>
 		<id>283701</id>
 		<name>STR_SKILL_AS_HeadBash_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;The target is also put to Sleep for [%e2.Sleep.RemainTime] if attacked from behind.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;The target is also put to Sleep for [%e2.Sleep.RemainTime] if attacked from behind.</body>
 	</string>
 	<string>
 		<id>283702</id>
@@ -11705,7 +11705,7 @@
 	<string>
 		<id>283707</id>
 		<name>STR_SKILL_AS_ViciousStab_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and additionally reduces its [%e3.StatDown.StatName] by [%e3.StatDown.Value].&#xA;The target also bleeds for [%e2.Bleed.RemainTime] if attacked from behind.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and additionally reduces its [%e3.StatDown.StatName] by [%e3.StatDown.Value].&#xA;The target also bleeds for [%e2.Bleed.RemainTime] if attacked from behind.</body>
 	</string>
 	<string>
 		<id>283708</id>
@@ -11735,7 +11735,7 @@
 	<string>
 		<id>283713</id>
 		<name>STR_SKILL_PR_EmergentHeal_G1_DESC</name>
-		<body>Restores [%e1.Heal_Instant.Heal] HP of a target within [%First_Target_Valid_Distance]m.</body>
+		<body>Cura [%e1.Heal_Instant.Heal] de HP de um alvo que esteja até [%First_Target_Valid_Distance]m de distância.</body>
 	</string>
 	<string>
 		<id>283714</id>
@@ -11885,7 +11885,7 @@
 	<string>
 		<id>283743</id>
 		<name>STR_SKILL_PR_EmergentHeal_G2_DESC</name>
-		<body>Restores [%e1.Heal_Instant.Heal] HP of a target within [%First_Target_Valid_Distance]m.</body>
+		<body>Cura [%e1.Heal_Instant.Heal] de HP de um alvo que esteja até [%First_Target_Valid_Distance]m de distância.</body>
 	</string>
 	<string>
 		<id>283744</id>
@@ -11905,7 +11905,7 @@
 	<string>
 		<id>283747</id>
 		<name>STR_SKILL_PR_HallowSwing_G3_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. &#xA;The target&apos;s attack speed decreases for [%e2.Slow.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. &#xA;A Velocidade de Ataque do alvo é reduzida por [%e2.Slow.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>283748</id>
@@ -11945,7 +11945,7 @@
 	<string>
 		<id>283755</id>
 		<name>STR_SKILL_PR_GreatHeal_G2_DESC</name>
-		<body>Restores [%e1.Heal_Instant.Heal] HP of a target within [%First_Target_Valid_Distance]m.</body>
+		<body>Cura [%e1.Heal_Instant.Heal] de HP de um alvo que esteja até [%First_Target_Valid_Distance]m de distância.</body>
 	</string>
 	<string>
 		<id>283756</id>
@@ -12055,7 +12055,7 @@
 	<string>
 		<id>283777</id>
 		<name>STR_SKILL_CH_TriangleShock_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and reduces its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Meteor Strike - Incandescent Blow.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and reduces its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Meteor Strike - Incandescent Blow.</body>
 	</string>
 	<string>
 		<id>283778</id>
@@ -12145,7 +12145,7 @@
 	<string>
 		<id>283795</id>
 		<name>STR_SKILL_CL_HallowSwing_G3_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target&apos;s attack speed decreases for [%e2.Slow.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. A Velocidade de Ataque do alvo é reduzida por [%e2.Slow.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>283796</id>
@@ -12175,7 +12175,7 @@
 	<string>
 		<id>283801</id>
 		<name>STR_SKILL_CH_ViolentSwing_G3_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. Decreases the target&apos;s [%e2.StatDown.StatName] by [%e2.StatDown.Value] and [%e3.StatDown.StatName] by [%e3.StatDown.Value]%% for [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. Decreases the target&apos;s [%e2.StatDown.StatName] by [%e2.StatDown.Value] and [%e3.StatDown.StatName] by [%e3.StatDown.Value]%% for [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>283802</id>
@@ -12185,7 +12185,7 @@
 	<string>
 		<id>283803</id>
 		<name>STR_SKILL_CH_SilenceSwing_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and additionally silences it for [%e2.Silence.RemainTime].</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and additionally silences it for [%e2.Silence.RemainTime].</body>
 	</string>
 	<string>
 		<id>283804</id>
@@ -12275,7 +12275,7 @@
 	<string>
 		<id>283821</id>
 		<name>STR_SKILL_CH_TriangleShock_G3_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and reduces its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Meteor Strike - Incandescent Blow.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and reduces its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Meteor Strike - Incandescent Blow.</body>
 	</string>
 	<string>
 		<id>283822</id>
@@ -12365,7 +12365,7 @@
 	<string>
 		<id>283839</id>
 		<name>STR_SKILL_WI_FlameCage_G2_DESC</name>
-		<body>Inflicts [%e1.SpellATK_Instant.FixDamage] magical fire damage on a target within [%First_Target_Valid_Distance]m of you, and deals further [%e2.SpellATK.Damage] damage every [%e2.SpellATK.CheckTime] for [%e2.SpellATK.RemainTime].</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de fogo em um alvo que esteja até [%First_Target_Valid_Distance]m de distância de você, and deals further [%e2.SpellATK.Damage] damage every [%e2.SpellATK.CheckTime] for [%e2.SpellATK.RemainTime].</body>
 	</string>
 	<string>
 		<id>283840</id>
@@ -12485,7 +12485,7 @@
 	<string>
 		<id>283863</id>
 		<name>STR_SKILL_WI_MassExplosion_G3_DESC</name>
-		<body>Inflicts [%e1.SpellATK_Instant.FixDamage] magical fire damage on a target within [%First_Target_Valid_Distance]m of you and on up to 6 enemies within a 5m radius of the target.&#xA;Stigma Skill</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de fogo em um alvo que esteja até [%First_Target_Valid_Distance]m de distância de você and on up to 6 enemies within a 5m radius of the target.&#xA;Stigma Skill</body>
 	</string>
 	<string>
 		<id>283864</id>
@@ -13261,7 +13261,7 @@
 	<string>
 		<id>284041</id>
 		<name>STR_SKILL_KN_RobustSmash_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target is sometimes stunned.&#xA;Habilidade de Sequência nível 3&#xA;Rage – Rupture</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target is sometimes stunned.&#xA;Habilidade de Sequência nível 3&#xA;Rage – Rupture</body>
 	</string>
 	<string>
 		<id>284042</id>
@@ -13271,7 +13271,7 @@
 	<string>
 		<id>284043</id>
 		<name>STR_SKILL_KN_RobustSmash_G3_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target is sometimes stunned.&#xA;Habilidade de Sequência nível 3&#xA;Rage – Rupture</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target is sometimes stunned.&#xA;Habilidade de Sequência nível 3&#xA;Rage – Rupture</body>
 	</string>
 	<string>
 		<id>284044</id>
@@ -14092,7 +14092,7 @@
 	<string>
 		<id>284215</id>
 		<name>STR_SKILL_FI_ArmorBreak_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target&apos;s [%e2.StatDown.StatName] decreases by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime].</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target&apos;s [%e2.StatDown.StatName] decreases by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime].</body>
 	</string>
 	<string>
 		<id>284216</id>
@@ -14142,7 +14142,7 @@
 	<string>
 		<id>284225</id>
 		<name>STR_SKILL_RA_GaiaEdge_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target becomes immobilized for [%e2.Root.RemainTime].</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target becomes immobilized for [%e2.Root.RemainTime].</body>
 	</string>
 	<string>
 		<id>284226</id>
@@ -14152,7 +14152,7 @@
 	<string>
 		<id>284227</id>
 		<name>STR_SKILL_RA_GaiaEdge_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target becomes immobilized for [%e2.Root.RemainTime].</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target becomes immobilized for [%e2.Root.RemainTime].</body>
 	</string>
 	<string>
 		<id>284228</id>
@@ -14182,7 +14182,7 @@
 	<string>
 		<id>284233</id>
 		<name>STR_SKILL_CL_BlessofHealth_G2_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] of a target within [%First_Target_Valid_Distance]m by [%e1.StatUp.Value]%% for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta a [%e1.StatUp.StatName] de um alvo que esteja até [%First_Target_Valid_Distance]m de distância em [%e1.StatUp.Value]%% por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>284234</id>
@@ -14212,7 +14212,7 @@
 	<string>
 		<id>284239</id>
 		<name>STR_SKILL_CH_SonicRush_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and decreases its movement speed for [%e2.Snare.RemainTime].&#xA;Habilidade de Sequência nível 3&#xA;Booming Strike - Booming Smash.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and decreases its movement speed for [%e2.Snare.RemainTime].&#xA;Habilidade de Sequência nível 3&#xA;Booming Strike - Booming Smash.</body>
 	</string>
 	<string>
 		<id>284240</id>
@@ -14270,7 +14270,7 @@
 	<string>
 		<id>284251</id>
 		<name>STR_SKILL_CH_SonicAssault_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 4&#xA;Booming Smash – Booming Assault.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 4&#xA;Booming Smash – Booming Assault.</body>
 	</string>
 	<string>
 		<id>284252</id>
@@ -14290,7 +14290,7 @@
 	<string>
 		<id>284255</id>
 		<name>STR_SKILL_CH_SonicStorm_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target has a small chance to become stunned for [%e2.Stun.RemainTime].&#xA;Habilidade de Sequência nível 4&#xA;Booming Assault, Stamina Recharge – Resonance Haze.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target has a small chance to become stunned for [%e2.Stun.RemainTime].&#xA;Habilidade de Sequência nível 4&#xA;Booming Assault, Stamina Recharge – Resonance Haze.</body>
 	</string>
 	<string>
 		<id>284256</id>
@@ -14300,7 +14300,7 @@
 	<string>
 		<id>284257</id>
 		<name>STR_SKILL_CH_SonicRush_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and decreases its movement speed for [%e2.Snare.RemainTime].&#xA;Habilidade de Sequência nível 3&#xA;Booming Strike - Booming Smash.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and decreases its movement speed for [%e2.Snare.RemainTime].&#xA;Habilidade de Sequência nível 3&#xA;Booming Strike - Booming Smash.</body>
 	</string>
 	<string>
 		<id>284258</id>
@@ -17855,7 +17855,7 @@
 	<string>
 		<id>284987</id>
 		<name>STR_SKILL_Stigma_Equip_EnhancedStaff_DESC</name>
-		<body>Allows you to use staves.</body>
+		<body>Permite que você use cetros.</body>
 	</string>
 	<string>
 		<id>284988</id>
@@ -17885,7 +17885,7 @@
 	<string>
 		<id>284993</id>
 		<name>STR_SKILL_Stigma_Equip_EnhancedBook_DESC</name>
-		<body>Allows you to use spellbooks.</body>
+		<body>Permite que você use livros de feitiços.</body>
 	</string>
 	<string>
 		<id>284994</id>
@@ -17895,7 +17895,7 @@
 	<string>
 		<id>284995</id>
 		<name>STR_SKILL_Stigma_Equip_EnhancedCloth_DESC</name>
-		<body>Allows you to wear cloth armour.</body>
+		<body>Permite que você use armadura de pano.</body>
 	</string>
 	<string>
 		<id>284996</id>
@@ -17915,7 +17915,7 @@
 	<string>
 		<id>284999</id>
 		<name>STR_SKILL_Stigma_RobustHit_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.</body>
 	</string>
 	<string>
 		<id>285000</id>
@@ -20382,7 +20382,7 @@
 	<string>
 		<id>285498</id>
 		<name>STR_SKILL_WA_QuickBlow_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.</body>
 	</string>
 	<string>
 		<id>285499</id>
@@ -20392,7 +20392,7 @@
 	<string>
 		<id>285500</id>
 		<name>STR_SKILL_WA_QuickBlow_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.</body>
 	</string>
 	<string>
 		<id>285501</id>
@@ -20402,7 +20402,7 @@
 	<string>
 		<id>285502</id>
 		<name>STR_SKILL_WA_QuickBlow_G3_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.</body>
 	</string>
 	<string>
 		<id>285503</id>
@@ -21913,7 +21913,7 @@
 	<string>
 		<id>285806</id>
 		<name>STR_SKILL_AS_BackAssault_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime]. It inflicts additional [%e1.SkillATK_Instant.AddDamage] damage if dealt behind the target.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime]. It inflicts additional [%e1.SkillATK_Instant.AddDamage] damage if dealt behind the target.</body>
 	</string>
 	<string>
 		<id>285807</id>
@@ -21993,7 +21993,7 @@
 	<string>
 		<id>285822</id>
 		<name>STR_SKILL_AS_FrontAssault_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. If the skill is used in front of the target, it inflicts additional damage on the target and causes it to spin.&#xA;Habilidade de Sequência nível 1</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. If the skill is used in front of the target, it inflicts additional damage on the target and causes it to spin.&#xA;Habilidade de Sequência nível 1</body>
 	</string>
 	<string>
 		<id>285823</id>
@@ -22248,7 +22248,7 @@
 	<string>
 		<id>285873</id>
 		<name>STR_SKILL_AS_WoundingSlash_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and aggravates damage of poisoning if it is poisoned already.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and aggravates damage of poisoning if it is poisoned already.</body>
 	</string>
 	<string>
 		<id>285874</id>
@@ -22398,7 +22398,7 @@
 	<string>
 		<id>285903</id>
 		<name>STR_SKILL_CH_ParryingStrike_G1_DESC</name>
-		<body>Upon success of parry, Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and stuns it temporarily.</body>
+		<body>Upon success of parry, Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and stuns it temporarily.</body>
 	</string>
 	<string>
 		<id>285904</id>
@@ -22413,7 +22413,7 @@
 	<string>
 		<id>285906</id>
 		<name>STR_SKILL_CH_ParryingStrike_G2_DESC</name>
-		<body>Upon success of parry, Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and stuns it temporarily.</body>
+		<body>Upon success of parry, Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and stuns it temporarily.</body>
 	</string>
 	<string>
 		<id>285907</id>
@@ -22428,7 +22428,7 @@
 	<string>
 		<id>285909</id>
 		<name>STR_SKILL_CH_PentacleShock_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and puts it in the [%e1.SkillATK_Instant.AddEffect] state.&#xA;Habilidade de Sequência nível 3&#xA;Incandescent Blow – Pentacle Shock.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and puts it in the [%e1.SkillATK_Instant.AddEffect] state.&#xA;Habilidade de Sequência nível 3&#xA;Incandescent Blow – Pentacle Shock.</body>
 	</string>
 	<string>
 		<id>285910</id>
@@ -22443,7 +22443,7 @@
 	<string>
 		<id>285912</id>
 		<name>STR_SKILL_CH_RaisingRush_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and puts it in the [%e1.SkillATK_Instant.AddEffect] state.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and puts it in the [%e1.SkillATK_Instant.AddEffect] state.</body>
 	</string>
 	<string>
 		<id>285913</id>
@@ -22453,7 +22453,7 @@
 	<string>
 		<id>285914</id>
 		<name>STR_SKILL_CH_SonicAssault_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 4&#xA;Booming Smash – Booming Assault.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 4&#xA;Booming Smash – Booming Assault.</body>
 	</string>
 	<string>
 		<id>285915</id>
@@ -22483,7 +22483,7 @@
 	<string>
 		<id>285920</id>
 		<name>STR_SKILL_CH_SonicRush_G3_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and decreases its movement speed for [%e2.Snare.RemainTime].&#xA;Habilidade de Sequência nível 3&#xA;Booming Strike - Booming Smash.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and decreases its movement speed for [%e2.Snare.RemainTime].&#xA;Habilidade de Sequência nível 3&#xA;Booming Strike - Booming Smash.</body>
 	</string>
 	<string>
 		<id>285921</id>
@@ -22493,7 +22493,7 @@
 	<string>
 		<id>285922</id>
 		<name>STR_SKILL_CH_SonicSlug_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and puts it in the [%e1.SkillATK_Instant.AddEffect] state.&#xA;Habilidade de Sequência nível 5&#xA;Resonance Haze – Resonance Smash.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and puts it in the [%e1.SkillATK_Instant.AddEffect] state.&#xA;Habilidade de Sequência nível 5&#xA;Resonance Haze – Resonance Smash.</body>
 	</string>
 	<string>
 		<id>285923</id>
@@ -22503,7 +22503,7 @@
 	<string>
 		<id>285924</id>
 		<name>STR_SKILL_CH_SonicStorm_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target has a small chance to become stunned for [%e2.Stun.RemainTime].&#xA;Habilidade de Sequência nível 4&#xA;Booming Assault, Stamina Recharge – Resonance Haze.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target has a small chance to become stunned for [%e2.Stun.RemainTime].&#xA;Habilidade de Sequência nível 4&#xA;Booming Assault, Stamina Recharge – Resonance Haze.</body>
 	</string>
 	<string>
 		<id>285925</id>
@@ -22513,7 +22513,7 @@
 	<string>
 		<id>285926</id>
 		<name>STR_SKILL_CH_SonicSwing_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and reduces its [%e2.StatDown.StatName] by [%e2.StatDown.Value]%% for [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Hallowed Strike – Booming Strike.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and reduces its [%e2.StatDown.StatName] by [%e2.StatDown.Value]%% for [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Hallowed Strike – Booming Strike.</body>
 	</string>
 	<string>
 		<id>285927</id>
@@ -22523,7 +22523,7 @@
 	<string>
 		<id>285928</id>
 		<name>STR_SKILL_CH_SonicSwing_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and reduces its [%e2.StatDown.StatName] by [%e2.StatDown.Value]%% for [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Hallowed Strike – Booming Strike.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and reduces its [%e2.StatDown.StatName] by [%e2.StatDown.Value]%% for [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Hallowed Strike – Booming Strike.</body>
 	</string>
 	<string>
 		<id>285929</id>
@@ -22533,7 +22533,7 @@
 	<string>
 		<id>285930</id>
 		<name>STR_SKILL_CH_SonicSwing_G3_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and reduces its [%e2.StatDown.StatName] by [%e2.StatDown.Value]%% for [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Hallowed Strike – Booming Strike.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and reduces its [%e2.StatDown.StatName] by [%e2.StatDown.Value]%% for [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Hallowed Strike – Booming Strike.</body>
 	</string>
 	<string>
 		<id>285931</id>
@@ -22588,7 +22588,7 @@
 	<string>
 		<id>285941</id>
 		<name>STR_SKILL_CL_BlessofHealth_G3_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] of a target within [%First_Target_Valid_Distance]m by [%e1.StatUp.Value]%% for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta a [%e1.StatUp.StatName] de um alvo que esteja até [%First_Target_Valid_Distance]m de distância em [%e1.StatUp.Value]%% por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>285942</id>
@@ -22603,7 +22603,7 @@
 	<string>
 		<id>285944</id>
 		<name>STR_SKILL_CL_BlessofHealth_G4_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] of a target within [%First_Target_Valid_Distance]m by [%e1.StatUp.Value]%% for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta a [%e1.StatUp.StatName] de um alvo que esteja até [%First_Target_Valid_Distance]m de distância em [%e1.StatUp.Value]%% por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>285945</id>
@@ -22618,7 +22618,7 @@
 	<string>
 		<id>285947</id>
 		<name>STR_SKILL_CL_BlessofRock_G3_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] of a target within [%First_Target_Valid_Distance]m by [%e1.StatUp.Value]%% for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta a [%e1.StatUp.StatName] de um alvo que esteja até [%First_Target_Valid_Distance]m de distância em [%e1.StatUp.Value]%% por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>285948</id>
@@ -22663,7 +22663,7 @@
 	<string>
 		<id>285956</id>
 		<name>STR_SKILL_CL_Heal_G4_DESC</name>
-		<body>Restores [%e1.Heal_Instant.Heal] HP of a target within [%First_Target_Valid_Distance]m.</body>
+		<body>Cura [%e1.Heal_Instant.Heal] de HP de um alvo que esteja até [%First_Target_Valid_Distance]m de distância.</body>
 	</string>
 	<string>
 		<id>285957</id>
@@ -22688,7 +22688,7 @@
 	<string>
 		<id>285961</id>
 		<name>STR_SKILL_CL_Revive_G3_DESC</name>
-		<body>Resurrects a target within [%First_Target_Valid_Distance]m of you.</body>
+		<body>Ressuscita um alvo que esteja até [%First_Target_Valid_Distance]m de distância de você.</body>
 	</string>
 	<string>
 		<id>285962</id>
@@ -23828,7 +23828,7 @@
 	<string>
 		<id>286189</id>
 		<name>STR_SKILL_RA_SpiralWave_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. A bleeding target receives an additional [%e1.SkillATK_Instant.AddDamage] physical damage and also becomes blinded for [%e2.Blind.RemainTime].</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. A bleeding target receives an additional [%e1.SkillATK_Instant.AddDamage] physical damage and also becomes blinded for [%e2.Blind.RemainTime].</body>
 	</string>
 	<string>
 		<id>286190</id>
@@ -23863,7 +23863,7 @@
 	<string>
 		<id>286196</id>
 		<name>STR_SKILL_SC_AssaultStabber_G4_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, e causa [%e1.SkillATK_Instant.AddDamage] de dano físico adicional se for usado nas costas do alvo.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, e causa [%e1.SkillATK_Instant.AddDamage] de dano físico adicional se for usado nas costas do alvo.</body>
 	</string>
 	<string>
 		<id>286197</id>
@@ -23918,7 +23918,7 @@
 	<string>
 		<id>286207</id>
 		<name>STR_SKILL_SC_SwiftEdge_G4_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>286208</id>
@@ -23928,7 +23928,7 @@
 	<string>
 		<id>286209</id>
 		<name>STR_SKILL_SC_SwiftShock_G3_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 2&#xA;Swift Edge – Soul Slash</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 2&#xA;Swift Edge – Soul Slash</body>
 	</string>
 	<string>
 		<id>286210</id>
@@ -23943,7 +23943,7 @@
 	<string>
 		<id>286212</id>
 		<name>STR_SKILL_SC_SwiftShock_G4_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 2&#xA;Swift Edge – Soul Slash</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 2&#xA;Swift Edge – Soul Slash</body>
 	</string>
 	<string>
 		<id>286213</id>
@@ -24073,7 +24073,7 @@
 	<string>
 		<id>286238</id>
 		<name>STR_SKILL_FI_RaisingImpact_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and immobilizes it in mid-air.&#xA;Only for ground target.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and immobilizes it in mid-air.&#xA;Only for ground target.</body>
 	</string>
 	<string>
 		<id>286239</id>
@@ -24103,7 +24103,7 @@
 	<string>
 		<id>286244</id>
 		<name>STR_SKILL_FI_RobustImpulse_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 4&#xA;Rupture - Reckless Strike.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 4&#xA;Rupture - Reckless Strike.</body>
 	</string>
 	<string>
 		<id>286245</id>
@@ -24113,7 +24113,7 @@
 	<string>
 		<id>286246</id>
 		<name>STR_SKILL_FI_RobustImpulse_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 4&#xA;Rupture - Reckless Strike.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 4&#xA;Rupture - Reckless Strike.</body>
 	</string>
 	<string>
 		<id>286247</id>
@@ -24228,7 +24228,7 @@
 	<string>
 		<id>286271</id>
 		<name>STR_SKILL_KN_AvengingBlade_G3_DESC</name>
-		<body>When you succeed in using Block, Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo by bashing it with the shield.&#xA;Requer um Escudo&#xA;Habilidade de Sequência nível 1.</body>
+		<body>When you succeed in using Block, Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo by bashing it with the shield.&#xA;Requer um Escudo&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>286272</id>
@@ -24268,7 +24268,7 @@
 	<string>
 		<id>286279</id>
 		<name>STR_SKILL_KN_BreakSight_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and blinds it for [%e2.Blind.RemainTime].</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and blinds it for [%e2.Blind.RemainTime].</body>
 	</string>
 	<string>
 		<id>286280</id>
@@ -24378,7 +24378,7 @@
 	<string>
 		<id>286301</id>
 		<name>STR_SKILL_KN_Judgement_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo with a Greatsword, and also stuns it for [%e2.Stun.RemainTime].&#xA;Habilidade de Sequência nível 3&#xA;Divine Blow – Judgment</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo with a Greatsword, and also stuns it for [%e2.Stun.RemainTime].&#xA;Habilidade de Sequência nível 3&#xA;Divine Blow – Judgment</body>
 	</string>
 	<string>
 		<id>286302</id>
@@ -24388,7 +24388,7 @@
 	<string>
 		<id>286303</id>
 		<name>STR_SKILL_KN_PowerSlash_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.</body>
 	</string>
 	<string>
 		<id>286304</id>
@@ -24398,7 +24398,7 @@
 	<string>
 		<id>286305</id>
 		<name>STR_SKILL_KN_RobustBurst_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and stuns it for [%e2.Stun.RemainTime].</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and stuns it for [%e2.Stun.RemainTime].</body>
 	</string>
 	<string>
 		<id>286306</id>
@@ -24413,7 +24413,7 @@
 	<string>
 		<id>286308</id>
 		<name>STR_SKILL_KN_RobustBurst_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and stuns it for [%e2.Stun.RemainTime].&#xA;Habilidade de Sequência nível 3&#xA;Rage – Strike Head.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and stuns it for [%e2.Stun.RemainTime].&#xA;Habilidade de Sequência nível 3&#xA;Rage – Strike Head.</body>
 	</string>
 	<string>
 		<id>286309</id>
@@ -24428,7 +24428,7 @@
 	<string>
 		<id>286311</id>
 		<name>STR_SKILL_KN_RobustBurst_G3_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and stuns it for [%e2.Stun.RemainTime].&#xA;Habilidade de Sequência nível 3&#xA;Rage – Strike Head.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and stuns it for [%e2.Stun.RemainTime].&#xA;Habilidade de Sequência nível 3&#xA;Rage – Strike Head.</body>
 	</string>
 	<string>
 		<id>286312</id>
@@ -24488,7 +24488,7 @@
 	<string>
 		<id>286323</id>
 		<name>STR_SKILL_KN_ShieldImpact_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and puts it in the [%e1.SkillATK_Instant.AddEffect] state.&#xA;Habilidade de Sequência nível 2&#xA;Shield Counter, Provoking Shield Counter, Avenging Blow – Face Smash.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and puts it in the [%e1.SkillATK_Instant.AddEffect] state.&#xA;Habilidade de Sequência nível 2&#xA;Shield Counter, Provoking Shield Counter, Avenging Blow – Face Smash.</body>
 	</string>
 	<string>
 		<id>286324</id>
@@ -24518,7 +24518,7 @@
 	<string>
 		<id>286329</id>
 		<name>STR_SKILL_WA_ArmorBreak_G1_DESC</name>
-		<body>Inflicts [%e1.SkillATK_Instant.MinDamage] to [%e1.SkillATK_Instant.MaxDamage] physical damage on a target, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime] seconds. Aumenta a Provocação do alvo contra você. Inflige [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo é um Balaur.</body>
+		<body>Inflicts [%e1.SkillATK_Instant.MinDamage] to [%e1.SkillATK_Instant.MaxDamage] physical damage on a target, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime] seconds. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo é um Balaur.</body>
 	</string>
 	<string>
 		<id>286330</id>
@@ -24533,7 +24533,7 @@
 	<string>
 		<id>286332</id>
 		<name>STR_SKILL_WA_ArmorBreak_G2_DESC</name>
-		<body>Inflicts [%e1.SkillATK_Instant.MinDamage] to [%e1.SkillATK_Instant.MaxDamage] physical damage on a target, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime] seconds. Aumenta a Provocação do alvo contra você. Inflige [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo é um Balaur.</body>
+		<body>Inflicts [%e1.SkillATK_Instant.MinDamage] to [%e1.SkillATK_Instant.MaxDamage] physical damage on a target, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime] seconds. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo é um Balaur.</body>
 	</string>
 	<string>
 		<id>286333</id>
@@ -24548,7 +24548,7 @@
 	<string>
 		<id>286335</id>
 		<name>STR_SKILL_WA_ArmorBreak_G3_DESC</name>
-		<body>Inflicts [%e1.SkillATK_Instant.MinDamage] to [%e1.SkillATK_Instant.MaxDamage] physical damage on a target, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime] seconds. Aumenta a Provocação do alvo contra você. Inflige [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo é um Balaur.</body>
+		<body>Inflicts [%e1.SkillATK_Instant.MinDamage] to [%e1.SkillATK_Instant.MaxDamage] physical damage on a target, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime] seconds. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo é um Balaur.</body>
 	</string>
 	<string>
 		<id>286336</id>
@@ -24563,7 +24563,7 @@
 	<string>
 		<id>286338</id>
 		<name>STR_SKILL_WA_AvengingCrash_G3_DESC</name>
-		<body>Upon success of Block, Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo by bashing it with the shield, and stuns it temporarily.&#xA;Requer um Escudo&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Upon success of Block, Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo by bashing it with the shield, and stuns it temporarily.&#xA;Requer um Escudo&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>286339</id>
@@ -24573,7 +24573,7 @@
 	<string>
 		<id>286340</id>
 		<name>STR_SKILL_WA_AvengingCrash_G4_DESC</name>
-		<body>Upon success of Block, Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo by bashing it with the shield, and stuns it temporarily.&#xA;Requer um Escudo&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Upon success of Block, Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo by bashing it with the shield, and stuns it temporarily.&#xA;Requer um Escudo&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>286341</id>
@@ -24608,7 +24608,7 @@
 	<string>
 		<id>286347</id>
 		<name>STR_SKILL_WA_RobustBlow_G3_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 2&#xA;Ferocious Strike – Robust Blow.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 2&#xA;Ferocious Strike – Robust Blow.</body>
 	</string>
 	<string>
 		<id>286348</id>
@@ -24618,7 +24618,7 @@
 	<string>
 		<id>286349</id>
 		<name>STR_SKILL_WA_RobustBlow_G4_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 2&#xA;Ferocious Strike – Robust Blow.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 2&#xA;Ferocious Strike – Robust Blow.</body>
 	</string>
 	<string>
 		<id>286350</id>
@@ -24628,7 +24628,7 @@
 	<string>
 		<id>286351</id>
 		<name>STR_SKILL_WA_RobustHit_G4_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>286352</id>
@@ -24763,7 +24763,7 @@
 	<string>
 		<id>286378</id>
 		<name>STR_SKILL_WI_FlameCage_G3_DESC</name>
-		<body>Inflicts [%e1.SpellATK_Instant.FixDamage] magical fire damage on a target within [%First_Target_Valid_Distance]m of you, and deals further [%e2.SpellATK.Damage] damage every [%e2.SpellATK.CheckTime] for [%e2.SpellATK.RemainTime].</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de fogo em um alvo que esteja até [%First_Target_Valid_Distance]m de distância de você, and deals further [%e2.SpellATK.Damage] damage every [%e2.SpellATK.CheckTime] for [%e2.SpellATK.RemainTime].</body>
 	</string>
 	<string>
 		<id>286379</id>
@@ -24953,7 +24953,7 @@
 	<string>
 		<id>286416</id>
 		<name>STR_SKILL_MA_FlameBolt_G4_DESC</name>
-		<body>Inflicts [%e1.SpellATK_Instant.FixDamage] magical fire damage on a target within [%First_Target_Valid_Distance]m of you.&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de fogo em um alvo que esteja até [%First_Target_Valid_Distance]m de distância de você.&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>286417</id>
@@ -26741,7 +26741,7 @@
 	<string>
 		<id>286779</id>
 		<name>STR_SKILL_AS_BackAssault_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime]. It inflicts additional [%e1.SkillATK_Instant.AddDamage] damage if dealt behind the target.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime]. It inflicts additional [%e1.SkillATK_Instant.AddDamage] damage if dealt behind the target.</body>
 	</string>
 	<string>
 		<id>286780</id>
@@ -26811,7 +26811,7 @@
 	<string>
 		<id>286793</id>
 		<name>STR_SKILL_AS_DarknessIllusion_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and deals an additional random damage if used on its back.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and deals an additional random damage if used on its back.</body>
 	</string>
 	<string>
 		<id>286794</id>
@@ -26831,7 +26831,7 @@
 	<string>
 		<id>286797</id>
 		<name>STR_SKILL_AS_DeadlyCounter_G1_DESC</name>
-		<body>Upon success of Parry, Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.</body>
+		<body>Upon success of Parry, Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.</body>
 	</string>
 	<string>
 		<id>286798</id>
@@ -26861,7 +26861,7 @@
 	<string>
 		<id>286803</id>
 		<name>STR_SKILL_AS_FrontAssault_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. If the skill is used in front of the target, it inflicts additional damage on the target and causes it to spin.&#xA;Habilidade de Sequência nível 1</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. If the skill is used in front of the target, it inflicts additional damage on the target and causes it to spin.&#xA;Habilidade de Sequência nível 1</body>
 	</string>
 	<string>
 		<id>286804</id>
@@ -26951,7 +26951,7 @@
 	<string>
 		<id>286821</id>
 		<name>STR_SKILL_AS_SilentDagger_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and silences it.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and silences it.</body>
 	</string>
 	<string>
 		<id>286822</id>
@@ -27011,7 +27011,7 @@
 	<string>
 		<id>286833</id>
 		<name>STR_SKILL_AS_WoundingSlash_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and aggravates damage of poisoning if it is poisoned already.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and aggravates damage of poisoning if it is poisoned already.</body>
 	</string>
 	<string>
 		<id>286834</id>
@@ -27121,7 +27121,7 @@
 	<string>
 		<id>286855</id>
 		<name>STR_SKILL_CH_CrossCounter_G1_DESC</name>
-		<body>Upon success of Parry, Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.</body>
+		<body>Upon success of Parry, Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.</body>
 	</string>
 	<string>
 		<id>286856</id>
@@ -27211,7 +27211,7 @@
 	<string>
 		<id>286873</id>
 		<name>STR_SKILL_CH_ParryingStrike_G3_DESC</name>
-		<body>Upon success of parry, Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and stuns it temporarily.</body>
+		<body>Upon success of parry, Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and stuns it temporarily.</body>
 	</string>
 	<string>
 		<id>286874</id>
@@ -27221,7 +27221,7 @@
 	<string>
 		<id>286875</id>
 		<name>STR_SKILL_CH_PentacleShock_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and puts it in the [%e1.SkillATK_Instant.AddEffect] state.&#xA;Habilidade de Sequência nível 3&#xA;Incandescent Blow – Pentacle Shock.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and puts it in the [%e1.SkillATK_Instant.AddEffect] state.&#xA;Habilidade de Sequência nível 3&#xA;Incandescent Blow – Pentacle Shock.</body>
 	</string>
 	<string>
 		<id>286876</id>
@@ -27231,7 +27231,7 @@
 	<string>
 		<id>286877</id>
 		<name>STR_SKILL_CH_RaisingRush_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and puts it in the [%e1.SkillATK_Instant.AddEffect] state.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and puts it in the [%e1.SkillATK_Instant.AddEffect] state.</body>
 	</string>
 	<string>
 		<id>286878</id>
@@ -27241,7 +27241,7 @@
 	<string>
 		<id>286879</id>
 		<name>STR_SKILL_CH_SonicAssault_G3_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 4&#xA;Booming Smash – Booming Assault.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 4&#xA;Booming Smash – Booming Assault.</body>
 	</string>
 	<string>
 		<id>286880</id>
@@ -27261,7 +27261,7 @@
 	<string>
 		<id>286883</id>
 		<name>STR_SKILL_CH_SonicRush_G4_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and decreases its movement speed for [%e2.Snare.RemainTime].&#xA;Habilidade de Sequência nível 3&#xA;Booming Strike - Booming Smash.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and decreases its movement speed for [%e2.Snare.RemainTime].&#xA;Habilidade de Sequência nível 3&#xA;Booming Strike - Booming Smash.</body>
 	</string>
 	<string>
 		<id>286884</id>
@@ -27271,7 +27271,7 @@
 	<string>
 		<id>286885</id>
 		<name>STR_SKILL_CH_SonicSlug_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and puts it in the [%e1.SkillATK_Instant.AddEffect] state.&#xA;Habilidade de Sequência nível 5&#xA;Resonance Haze – Resonance Smash.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and puts it in the [%e1.SkillATK_Instant.AddEffect] state.&#xA;Habilidade de Sequência nível 5&#xA;Resonance Haze – Resonance Smash.</body>
 	</string>
 	<string>
 		<id>286886</id>
@@ -27281,7 +27281,7 @@
 	<string>
 		<id>286887</id>
 		<name>STR_SKILL_CH_SonicStorm_G3_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target has a small chance to become stunned for [%e2.Stun.RemainTime].&#xA;Habilidade de Sequência nível 4&#xA;Booming Assault, Stamina Recharge – Resonance Haze.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target has a small chance to become stunned for [%e2.Stun.RemainTime].&#xA;Habilidade de Sequência nível 4&#xA;Booming Assault, Stamina Recharge – Resonance Haze.</body>
 	</string>
 	<string>
 		<id>286888</id>
@@ -27291,7 +27291,7 @@
 	<string>
 		<id>286889</id>
 		<name>STR_SKILL_CH_SonicSwing_G4_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and reduces its [%e2.StatDown.StatName] by [%e2.StatDown.Value]%% for [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Hallowed Strike – Booming Strike.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and reduces its [%e2.StatDown.StatName] by [%e2.StatDown.Value]%% for [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Hallowed Strike – Booming Strike.</body>
 	</string>
 	<string>
 		<id>286890</id>
@@ -27301,7 +27301,7 @@
 	<string>
 		<id>286891</id>
 		<name>STR_SKILL_CH_SpritCrash_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo with high accuracy.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo with high accuracy.</body>
 	</string>
 	<string>
 		<id>286892</id>
@@ -27331,7 +27331,7 @@
 	<string>
 		<id>286897</id>
 		<name>STR_SKILL_CH_TriangleShock_G4_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and reduces its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Meteor Strike - Incandescent Blow.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and reduces its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Meteor Strike - Incandescent Blow.</body>
 	</string>
 	<string>
 		<id>286898</id>
@@ -27341,7 +27341,7 @@
 	<string>
 		<id>286899</id>
 		<name>STR_SKILL_CH_ViolentSwing_G4_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. Decreases the target&apos;s [%e2.StatDown.StatName] by [%e2.StatDown.Value] and [%e3.StatDown.StatName] by [%e3.StatDown.Value]%% for [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. Decreases the target&apos;s [%e2.StatDown.StatName] by [%e2.StatDown.Value] and [%e3.StatDown.StatName] by [%e3.StatDown.Value]%% for [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>286900</id>
@@ -27351,7 +27351,7 @@
 	<string>
 		<id>286901</id>
 		<name>STR_SKILL_CL_BlessofHealth_G5_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] of a target within [%First_Target_Valid_Distance]m by [%e1.StatUp.Value]%% for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta a [%e1.StatUp.StatName] de um alvo que esteja até [%First_Target_Valid_Distance]m de distância em [%e1.StatUp.Value]%% por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>286902</id>
@@ -27361,7 +27361,7 @@
 	<string>
 		<id>286903</id>
 		<name>STR_SKILL_CL_BlessofRock_G4_DESC</name>
-		<body>Increases [%e1.StatUp.StatName] of a target within [%First_Target_Valid_Distance]m by [%e1.StatUp.Value]%% for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta a [%e1.StatUp.StatName] de um alvo que esteja até [%First_Target_Valid_Distance]m de distância em [%e1.StatUp.Value]%% por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>286904</id>
@@ -27381,7 +27381,7 @@
 	<string>
 		<id>286907</id>
 		<name>STR_SKILL_CL_HallowSwing_G4_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. &#xA;The target&apos;s attack speed decreases for [%e2.Slow.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. &#xA;A Velocidade de Ataque do alvo é reduzida por [%e2.Slow.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>286908</id>
@@ -27391,7 +27391,7 @@
 	<string>
 		<id>286909</id>
 		<name>STR_SKILL_CL_Heal_G5_DESC</name>
-		<body>Restores [%e1.Heal_Instant.Heal] HP of a target within [%First_Target_Valid_Distance]m.</body>
+		<body>Cura [%e1.Heal_Instant.Heal] de HP de um alvo que esteja até [%First_Target_Valid_Distance]m de distância.</body>
 	</string>
 	<string>
 		<id>286910</id>
@@ -27411,7 +27411,7 @@
 	<string>
 		<id>286913</id>
 		<name>STR_SKILL_CL_Revive_G4_DESC</name>
-		<body>Resurrects a target within [%First_Target_Valid_Distance]m of you.</body>
+		<body>Ressuscita um alvo que esteja até [%First_Target_Valid_Distance]m de distância de você.</body>
 	</string>
 	<string>
 		<id>286914</id>
@@ -27981,7 +27981,7 @@
 	<string>
 		<id>287027</id>
 		<name>STR_SKILL_FI_LockdownImpact_G4_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target is bound for [%e2.Bind.RemainTime].&#xA;Stigma Skill.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target is bound for [%e2.Bind.RemainTime].&#xA;Stigma Skill.</body>
 	</string>
 	<string>
 		<id>287028</id>
@@ -28011,7 +28011,7 @@
 	<string>
 		<id>287033</id>
 		<name>STR_SKILL_FI_RaisingImpact_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and immobilizes it in mid-air.&#xA;Only for ground target.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and immobilizes it in mid-air.&#xA;Only for ground target.</body>
 	</string>
 	<string>
 		<id>287034</id>
@@ -28041,7 +28041,7 @@
 	<string>
 		<id>287039</id>
 		<name>STR_SKILL_FI_RobustSmash_G4_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 3&#xA;Rage – Rupture.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 3&#xA;Rage – Rupture.</body>
 	</string>
 	<string>
 		<id>287040</id>
@@ -28201,7 +28201,7 @@
 	<string>
 		<id>287071</id>
 		<name>STR_SKILL_KN_AvengingBlade_G4_DESC</name>
-		<body>When you succeed in using Block, Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo by bashing it with the shield.&#xA;Requer um Escudo&#xA;Habilidade de Sequência nível 1.</body>
+		<body>When you succeed in using Block, Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo by bashing it with the shield.&#xA;Requer um Escudo&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>287072</id>
@@ -28341,7 +28341,7 @@
 	<string>
 		<id>287099</id>
 		<name>STR_SKILL_KN_LayHand_G4_DESC</name>
-		<body>Restores [%e1.Heal_Instant.Heal] HP of a target within [%First_Target_Valid_Distance]m.</body>
+		<body>Cura [%e1.Heal_Instant.Heal] de HP de um alvo que esteja até [%First_Target_Valid_Distance]m de distância.</body>
 	</string>
 	<string>
 		<id>287100</id>
@@ -28361,7 +28361,7 @@
 	<string>
 		<id>287103</id>
 		<name>STR_SKILL_KN_PowerSlash_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.</body>
 	</string>
 	<string>
 		<id>287104</id>
@@ -28371,7 +28371,7 @@
 	<string>
 		<id>287105</id>
 		<name>STR_SKILL_KN_RobustBurst_G4_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and stuns it for [%e2.Stun.RemainTime].&#xA;Habilidade de Sequência nível 3&#xA;Rage – Strike Head.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and stuns it for [%e2.Stun.RemainTime].&#xA;Habilidade de Sequência nível 3&#xA;Rage – Strike Head.</body>
 	</string>
 	<string>
 		<id>287106</id>
@@ -28431,7 +28431,7 @@
 	<string>
 		<id>287117</id>
 		<name>STR_SKILL_KN_ShieldImpact_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and puts it into the [%e1.SkillATK_Instant.AddEffect] state.&#xA;Habilidade de Sequência nível 3&#xA;Avenging Blow, Hamstring Slash – Face Smash.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and puts it into the [%e1.SkillATK_Instant.AddEffect] state.&#xA;Habilidade de Sequência nível 3&#xA;Avenging Blow, Hamstring Slash – Face Smash.</body>
 	</string>
 	<string>
 		<id>287118</id>
@@ -28461,7 +28461,7 @@
 	<string>
 		<id>287123</id>
 		<name>STR_SKILL_MA_FlameBolt_G5_DESC</name>
-		<body>Inflicts [%e1.SpellATK_Instant.FixDamage] magical fire damage on a target within [%First_Target_Valid_Distance]m of you.&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de fogo em um alvo que esteja até [%First_Target_Valid_Distance]m de distância de você.&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>287124</id>
@@ -28671,7 +28671,7 @@
 	<string>
 		<id>287165</id>
 		<name>STR_SKILL_PR_EmergentHeal_G3_DESC</name>
-		<body>Restores [%e1.Heal_Instant.Heal] HP of a target within [%First_Target_Valid_Distance]m.</body>
+		<body>Cura [%e1.Heal_Instant.Heal] de HP de um alvo que esteja até [%First_Target_Valid_Distance]m de distância.</body>
 	</string>
 	<string>
 		<id>287166</id>
@@ -28701,7 +28701,7 @@
 	<string>
 		<id>287171</id>
 		<name>STR_SKILL_PR_GreatHeal_G3_DESC</name>
-		<body>Restores [%e1.Heal_Instant.Heal] HP of a target within [%First_Target_Valid_Distance]m.</body>
+		<body>Cura [%e1.Heal_Instant.Heal] de HP de um alvo que esteja até [%First_Target_Valid_Distance]m de distância.</body>
 	</string>
 	<string>
 		<id>287172</id>
@@ -29231,7 +29231,7 @@
 	<string>
 		<id>287277</id>
 		<name>STR_SKILL_SC_AssaultStabber_G5_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, e causa [%e1.SkillATK_Instant.AddDamage] de dano físico adicional se for usado nas costas do alvo.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, e causa [%e1.SkillATK_Instant.AddDamage] de dano físico adicional se for usado nas costas do alvo.</body>
 	</string>
 	<string>
 		<id>287278</id>
@@ -29261,7 +29261,7 @@
 	<string>
 		<id>287283</id>
 		<name>STR_SKILL_SC_SwiftEdge_G5_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>287284</id>
@@ -29271,7 +29271,7 @@
 	<string>
 		<id>287285</id>
 		<name>STR_SKILL_SC_SwiftShock_G5_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 2&#xA;Swift Edge – Soul Slash</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 2&#xA;Swift Edge – Soul Slash</body>
 	</string>
 	<string>
 		<id>287286</id>
@@ -29291,7 +29291,7 @@
 	<string>
 		<id>287289</id>
 		<name>STR_SKILL_WA_ArmorBreak_G4_DESC</name>
-		<body>Inflicts [%e1.SkillATK_Instant.MinDamage] to [%e1.SkillATK_Instant.MaxDamage] physical damage on a target, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime] seconds. Aumenta a Provocação do alvo contra você. Inflige [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo é um Balaur.</body>
+		<body>Inflicts [%e1.SkillATK_Instant.MinDamage] to [%e1.SkillATK_Instant.MaxDamage] physical damage on a target, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime] seconds. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo é um Balaur.</body>
 	</string>
 	<string>
 		<id>287290</id>
@@ -29301,7 +29301,7 @@
 	<string>
 		<id>287291</id>
 		<name>STR_SKILL_WA_AvengingCrash_G5_DESC</name>
-		<body>Upon success of Block, Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo by bashing it with the shield, and stuns it temporarily.&#xA;Requer um Escudo&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Upon success of Block, Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo by bashing it with the shield, and stuns it temporarily.&#xA;Requer um Escudo&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>287292</id>
@@ -29331,7 +29331,7 @@
 	<string>
 		<id>287297</id>
 		<name>STR_SKILL_WA_RobustBlow_G5_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 2&#xA;Ferocious Strike – Robust Blow.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 2&#xA;Ferocious Strike – Robust Blow.</body>
 	</string>
 	<string>
 		<id>287298</id>
@@ -29341,7 +29341,7 @@
 	<string>
 		<id>287299</id>
 		<name>STR_SKILL_WA_RobustHit_G5_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>287300</id>
@@ -29471,7 +29471,7 @@
 	<string>
 		<id>287325</id>
 		<name>STR_SKILL_WI_FlameCage_G4_DESC</name>
-		<body>Inflicts [%e1.SpellATK_Instant.FixDamage] magical fire damage on a target within [%First_Target_Valid_Distance]m of you, and deals further [%e2.SpellATK.Damage] damage every [%e2.SpellATK.CheckTime] for [%e2.SpellATK.RemainTime].</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de fogo em um alvo que esteja até [%First_Target_Valid_Distance]m de distância de você, and deals further [%e2.SpellATK.Damage] damage every [%e2.SpellATK.CheckTime] for [%e2.SpellATK.RemainTime].</body>
 	</string>
 	<string>
 		<id>287326</id>
@@ -29571,7 +29571,7 @@
 	<string>
 		<id>287345</id>
 		<name>STR_SKILL_WI_MassExplosion_G4_DESC</name>
-		<body>Inflicts [%e1.SpellATK_Instant.FixDamage] magical fire damage on a target within [%First_Target_Valid_Distance]m of you and on up to 6 enemies within a 5m radius of the target.&#xA;Stigma Skill</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de fogo em um alvo que esteja até [%First_Target_Valid_Distance]m de distância de você and on up to 6 enemies within a 5m radius of the target.&#xA;Stigma Skill</body>
 	</string>
 	<string>
 		<id>287346</id>
@@ -29691,7 +29691,7 @@
 	<string>
 		<id>287369</id>
 		<name>STR_SKILL_Stigma_EnhancedOrb_DESC</name>
-		<body>Allows you to use orbs skilfully.</body>
+		<body>Permite que você use orbs habilmente.</body>
 	</string>
 	<string>
 		<id>287370</id>
@@ -29701,7 +29701,7 @@
 	<string>
 		<id>287371</id>
 		<name>STR_SKILL_Stigma_Polearm_DESC</name>
-		<body>Allows you to use polearm skilfully.</body>
+		<body>Permite que você use foices habilmente.</body>
 	</string>
 	<string>
 		<id>287372</id>
@@ -29711,17 +29711,17 @@
 	<string>
 		<id>287373</id>
 		<name>STR_SKILL_Stigma_2HSword_DESC</name>
-		<body>Allows you to use greatswords skilfully.</body>
+		<body>Permite que você use espadas longas habilmente.</body>
 	</string>
 	<string>
 		<id>287374</id>
 		<name>STR_SKILL_Stigma_Bow</name>
-		<body>Enhanced Bow</body>
+		<body>Arquerismo Aprimorado</body>
 	</string>
 	<string>
 		<id>287375</id>
 		<name>STR_SKILL_Stigma_Bow_DESC</name>
-		<body>Allows you to use bows skilfully.</body>
+		<body>Permite que você use arcos habilmente.</body>
 	</string>
 	<string>
 		<id>287376</id>
@@ -29756,7 +29756,7 @@
 	<string>
 		<id>287382</id>
 		<name>STR_SKILL_Stigma_CounterSlash_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo while you are in the evasion state. The target sometimes becomes stunned for [%e2.Stun.RemainTime].</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo while you are in the evasion state. The target sometimes becomes stunned for [%e2.Stun.RemainTime].</body>
 	</string>
 	<string>
 		<id>287383</id>
@@ -31659,7 +31659,7 @@
 	<string>
 		<id>287765</id>
 		<name>STR_SKILL_RA_SpiralWave_G2_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. A bleeding target receives an additional [%e1.SkillATK_Instant.AddDamage] physical damage and also becomes blinded for [%e2.Blind.RemainTime].</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. A bleeding target receives an additional [%e1.SkillATK_Instant.AddDamage] physical damage and also becomes blinded for [%e2.Blind.RemainTime].</body>
 	</string>
 	<string>
 		<id>287766</id>
@@ -35148,7 +35148,7 @@
 	<string>
 		<id>288465</id>
 		<name>STR_SKILL_AS_AirWalk_G1_DESC</name>
-		<body>Puts you into an advanced hide state without affecting movement speed for [%e1.Hide.RemainTime].&#xA;Flight Only Skill&#xA;Unable to use during battle.</body>
+		<body>Puts you into an advanced hide state without affecting movement speed for [%e1.Hide.RemainTime].&#xA;Flight Only Skill&#xA;Não pode usar durante a batalha.</body>
 	</string>
 	<string>
 		<id>288466</id>
@@ -37383,7 +37383,7 @@
 	<string>
 		<id>288913</id>
 		<name>STR_SKILL_Stigma_Heal_G2_DESC</name>
-		<body>Restores [%e1.Heal_Instant.Heal] HP of a target within [%First_Target_Valid_Distance]m.</body>
+		<body>Cura [%e1.Heal_Instant.Heal] de HP de um alvo que esteja até [%First_Target_Valid_Distance]m de distância.</body>
 	</string>
 	<string>
 		<id>288914</id>
@@ -37468,7 +37468,7 @@
 	<string>
 		<id>288930</id>
 		<name>STR_SKILL_Stigma_Heal_G1_DESC</name>
-		<body>Restores [%e1.Heal_Instant.Heal] HP of a target within [%First_Target_Valid_Distance]m.</body>
+		<body>Cura [%e1.Heal_Instant.Heal] de HP de um alvo que esteja até [%First_Target_Valid_Distance]m de distância.</body>
 	</string>
 	<string>
 		<id>288931</id>
@@ -37658,7 +37658,7 @@
 	<string>
 		<id>288968</id>
 		<name>STR_SKILL_Stigma_Heal_G3_DESC</name>
-		<body>Restores [%e1.Heal_Instant.Heal] HP of a target within [%First_Target_Valid_Distance]m.</body>
+		<body>Cura [%e1.Heal_Instant.Heal] de HP de um alvo que esteja até [%First_Target_Valid_Distance]m de distância.</body>
 	</string>
 	<string>
 		<id>288969</id>
@@ -38908,7 +38908,7 @@
 	<string>
 		<id>289218</id>
 		<name>STR_SKILL_P_EQUIP_Dagger_G2</name>
-		<body>Advanced Dagger Training II</body>
+		<body>Treinamento Avançado de Adaga II</body>
 	</string>
 	<string>
 		<id>289219</id>
@@ -38918,7 +38918,7 @@
 	<string>
 		<id>289220</id>
 		<name>STR_SKILL_P_EQUIP_Mace_G2</name>
-		<body>Advanced Mace Training II</body>
+		<body>Treinamento Avançado de Mace II</body>
 	</string>
 	<string>
 		<id>289221</id>
@@ -38928,17 +38928,17 @@
 	<string>
 		<id>289222</id>
 		<name>STR_SKILL_P_EQUIP_2HSword_G2</name>
-		<body>Advanced Greatsword Training II</body>
+		<body>Treinamento Avançado em Espada Longa II</body>
 	</string>
 	<string>
 		<id>289223</id>
 		<name>STR_SKILL_P_EQUIP_2HSword_G2_DESC</name>
-		<body>Allows you to use greatswords skilfully.</body>
+		<body>Permite que você use espadas longas habilmente.</body>
 	</string>
 	<string>
 		<id>289224</id>
 		<name>STR_SKILL_P_EQUIP_Polearm_G2</name>
-		<body>Advanced Polearm Training II</body>
+		<body>Treinamento Avançado de Foice II</body>
 	</string>
 	<string>
 		<id>289225</id>
@@ -38953,7 +38953,7 @@
 	<string>
 		<id>289227</id>
 		<name>STR_SKILL_P_EQUIP_Bow_G2_DESC</name>
-		<body>Allows you to use bows skilfully.</body>
+		<body>Permite que você use arcos habilmente.</body>
 	</string>
 	<string>
 		<id>289228</id>
@@ -38968,7 +38968,7 @@
 	<string>
 		<id>289230</id>
 		<name>STR_SKILL_P_EQUIP_Dagger_G3</name>
-		<body>Advanced Dagger Training III</body>
+		<body>Treinamento Avançado de Adaga III</body>
 	</string>
 	<string>
 		<id>289231</id>
@@ -38978,7 +38978,7 @@
 	<string>
 		<id>289232</id>
 		<name>STR_SKILL_P_EQUIP_Mace_G3</name>
-		<body>Advanced Mace Training III</body>
+		<body>Treinamento Avançado de Mace III</body>
 	</string>
 	<string>
 		<id>289233</id>
@@ -38988,17 +38988,17 @@
 	<string>
 		<id>289234</id>
 		<name>STR_SKILL_P_EQUIP_2HSword_G3</name>
-		<body>Advanced Greatsword Training III</body>
+		<body>Treinamento Avançado em Espada Longa III</body>
 	</string>
 	<string>
 		<id>289235</id>
 		<name>STR_SKILL_P_EQUIP_2HSword_G3_DESC</name>
-		<body>Allows you to use greatswords skilfully.</body>
+		<body>Permite que você use espadas longas habilmente.</body>
 	</string>
 	<string>
 		<id>289236</id>
 		<name>STR_SKILL_P_EQUIP_Polearm_G3</name>
-		<body>Advanced Polearm Training III</body>
+		<body>Treinamento Avançado de Foice III</body>
 	</string>
 	<string>
 		<id>289237</id>
@@ -39013,7 +39013,7 @@
 	<string>
 		<id>289239</id>
 		<name>STR_SKILL_P_EQUIP_Bow_G3_DESC</name>
-		<body>Allows you to use bows skilfully.</body>
+		<body>Permite que você use arcos habilmente.</body>
 	</string>
 	<string>
 		<id>289240</id>
@@ -39028,7 +39028,7 @@
 	<string>
 		<id>289242</id>
 		<name>STR_SKILL_KN_EQUIP_Mace_G2</name>
-		<body>Advanced Mace Training II</body>
+		<body>Treinamento Avançado de Mace II</body>
 	</string>
 	<string>
 		<id>289243</id>
@@ -39038,12 +39038,12 @@
 	<string>
 		<id>289244</id>
 		<name>STR_SKILL_KN_EQUIP_2HSword_G2</name>
-		<body>Advanced Greatsword Training II</body>
+		<body>Treinamento Avançado em Espada Longa II</body>
 	</string>
 	<string>
 		<id>289245</id>
 		<name>STR_SKILL_KN_EQUIP_2HSword_G2_DESC</name>
-		<body>Allows you to use greatswords skilfully.</body>
+		<body>Permite que você use espadas longas habilmente.</body>
 	</string>
 	<string>
 		<id>289246</id>
@@ -39058,7 +39058,7 @@
 	<string>
 		<id>289248</id>
 		<name>STR_SKILL_KN_EQUIP_Mace_G3</name>
-		<body>Advanced Mace Training III</body>
+		<body>Treinamento Avançado de Mace III</body>
 	</string>
 	<string>
 		<id>289249</id>
@@ -39068,12 +39068,12 @@
 	<string>
 		<id>289250</id>
 		<name>STR_SKILL_KN_EQUIP_2HSword_G3</name>
-		<body>Advanced Greatsword Training III</body>
+		<body>Treinamento Avançado em Espada Longa III</body>
 	</string>
 	<string>
 		<id>289251</id>
 		<name>STR_SKILL_KN_EQUIP_2HSword_G3_DESC</name>
-		<body>Allows you to use greatswords skilfully.</body>
+		<body>Permite que você use espadas longas habilmente.</body>
 	</string>
 	<string>
 		<id>289252</id>
@@ -39088,7 +39088,7 @@
 	<string>
 		<id>289254</id>
 		<name>STR_SKILL_RA_EQUIP_Dagger_G2</name>
-		<body>Advanced Dagger Training II</body>
+		<body>Treinamento Avançado de Adaga II</body>
 	</string>
 	<string>
 		<id>289255</id>
@@ -39103,7 +39103,7 @@
 	<string>
 		<id>289257</id>
 		<name>STR_SKILL_RA_EQUIP_Bow_G2_DESC</name>
-		<body>Allows you to use bows skilfully.</body>
+		<body>Permite que você use arcos habilmente.</body>
 	</string>
 	<string>
 		<id>289258</id>
@@ -39118,7 +39118,7 @@
 	<string>
 		<id>289260</id>
 		<name>STR_SKILL_RA_EQUIP_Dagger_G3</name>
-		<body>Advanced Dagger Training III</body>
+		<body>Treinamento Avançado de Adaga III</body>
 	</string>
 	<string>
 		<id>289261</id>
@@ -39133,7 +39133,7 @@
 	<string>
 		<id>289263</id>
 		<name>STR_SKILL_RA_EQUIP_Bow_G3_DESC</name>
-		<body>Allows you to use bows skilfully.</body>
+		<body>Permite que você use arcos habilmente.</body>
 	</string>
 	<string>
 		<id>289264</id>
@@ -39148,7 +39148,7 @@
 	<string>
 		<id>289266</id>
 		<name>STR_SKILL_AS_EQUIP_Dagger_G2</name>
-		<body>Advanced Dagger Training II</body>
+		<body>Treinamento Avançado de Adaga II</body>
 	</string>
 	<string>
 		<id>289267</id>
@@ -39163,7 +39163,7 @@
 	<string>
 		<id>289269</id>
 		<name>STR_SKILL_AS_EQUIP_Bow_G2_DESC</name>
-		<body>Allows you to use bows skilfully.</body>
+		<body>Permite que você use arcos habilmente.</body>
 	</string>
 	<string>
 		<id>289270</id>
@@ -39178,7 +39178,7 @@
 	<string>
 		<id>289272</id>
 		<name>STR_SKILL_AS_EQUIP_Dagger_G3</name>
-		<body>Advanced Dagger Training III</body>
+		<body>Treinamento Avançado de Adaga III</body>
 	</string>
 	<string>
 		<id>289273</id>
@@ -39193,12 +39193,12 @@
 	<string>
 		<id>289275</id>
 		<name>STR_SKILL_AS_EQUIP_Bow_G3_DESC</name>
-		<body>Allows you to use bows skilfully.</body>
+		<body>Permite que você use arcos habilmente.</body>
 	</string>
 	<string>
 		<id>289276</id>
 		<name>STR_SKILL_PR_EQUIP_Mace_G2</name>
-		<body>Advanced Mace Training II</body>
+		<body>Treinamento Avançado de Mace II</body>
 	</string>
 	<string>
 		<id>289277</id>
@@ -39208,17 +39208,17 @@
 	<string>
 		<id>289278</id>
 		<name>STR_SKILL_P_EQUIP_Staff_G2</name>
-		<body>Advanced Staff Training II</body>
+		<body>Treinamento Avançado de Cetro II</body>
 	</string>
 	<string>
 		<id>289279</id>
 		<name>STR_SKILL_P_EQUIP_Staff_G2_DESC</name>
-		<body>Allows you to use staves skilfully.</body>
+		<body>Permite que você use cetros habilmente.</body>
 	</string>
 	<string>
 		<id>289280</id>
 		<name>STR_SKILL_PR_EQUIP_Mace_G3</name>
-		<body>Advanced Mace Training III</body>
+		<body>Treinamento Avançado de Mace III</body>
 	</string>
 	<string>
 		<id>289281</id>
@@ -39228,17 +39228,17 @@
 	<string>
 		<id>289282</id>
 		<name>STR_SKILL_P_EQUIP_Staff_G3</name>
-		<body>Advanced Staff Training III</body>
+		<body>Treinamento Avançado de Cetro III</body>
 	</string>
 	<string>
 		<id>289283</id>
 		<name>STR_SKILL_P_EQUIP_Staff_G3_DESC</name>
-		<body>Allows you to use staves skilfully.</body>
+		<body>Permite que você use cetros habilmente.</body>
 	</string>
 	<string>
 		<id>289284</id>
 		<name>STR_SKILL_CH_EQUIP_Mace_G2</name>
-		<body>Advanced Mace Training II</body>
+		<body>Treinamento Avançado de Mace II</body>
 	</string>
 	<string>
 		<id>289285</id>
@@ -39248,17 +39248,17 @@
 	<string>
 		<id>289286</id>
 		<name>STR_SKILL_CH_EQUIP_Staff_G2</name>
-		<body>Advanced Staff Training II</body>
+		<body>Treinamento Avançado de Cetro II</body>
 	</string>
 	<string>
 		<id>289287</id>
 		<name>STR_SKILL_CH_EQUIP_Staff_G2_DESC</name>
-		<body>Allows you to use staves skilfully.</body>
+		<body>Permite que você use cetros habilmente.</body>
 	</string>
 	<string>
 		<id>289288</id>
 		<name>STR_SKILL_CH_EQUIP_Mace_G3</name>
-		<body>Advanced Mace Training III</body>
+		<body>Treinamento Avançado de Mace III</body>
 	</string>
 	<string>
 		<id>289289</id>
@@ -39268,12 +39268,12 @@
 	<string>
 		<id>289290</id>
 		<name>STR_SKILL_CH_EQUIP_Staff_G3</name>
-		<body>Advanced Staff Training III</body>
+		<body>Treinamento Avançado de Cetro III</body>
 	</string>
 	<string>
 		<id>289291</id>
 		<name>STR_SKILL_CH_EQUIP_Staff_G3_DESC</name>
-		<body>Allows you to use staves skilfully.</body>
+		<body>Permite que você use cetros habilmente.</body>
 	</string>
 	<string>
 		<id>289292</id>
@@ -39283,7 +39283,7 @@
 	<string>
 		<id>289293</id>
 		<name>STR_SKILL_P_EQUIP_Book_G2_DESC</name>
-		<body>Allows you to use spellbooks skilfully.</body>
+		<body>Permite que você use livros de feitiços habilmente.</body>
 	</string>
 	<string>
 		<id>289294</id>
@@ -39293,7 +39293,7 @@
 	<string>
 		<id>289295</id>
 		<name>STR_SKILL_P_EQUIP_Book_G3_DESC</name>
-		<body>Allows you to use spellbooks skilfully.</body>
+		<body>Permite que você use livros de feitiços habilmente.</body>
 	</string>
 	<string>
 		<id>289296</id>
@@ -39303,17 +39303,17 @@
 	<string>
 		<id>289297</id>
 		<name>STR_SKILL_EL_EQUIP_Book_G2_DESC</name>
-		<body>Allows you to use spellbooks skilfully.</body>
+		<body>Permite que você use livros de feitiços habilmente.</body>
 	</string>
 	<string>
 		<id>289298</id>
 		<name>STR_SKILL_P_EQUIP_Orb_G2</name>
-		<body>Advanced Orb Training II</body>
+		<body>Treinamento Avançado de Orb II</body>
 	</string>
 	<string>
 		<id>289299</id>
 		<name>STR_SKILL_P_EQUIP_Orb_G2_DESC</name>
-		<body>Allows you to use orbs skilfully.</body>
+		<body>Permite que você use orbs habilmente.</body>
 	</string>
 	<string>
 		<id>289300</id>
@@ -39323,17 +39323,17 @@
 	<string>
 		<id>289301</id>
 		<name>STR_SKILL_EL_EQUIP_Book_G3_DESC</name>
-		<body>Allows you to use spellbooks skilfully.</body>
+		<body>Permite que você use livros de feitiços habilmente.</body>
 	</string>
 	<string>
 		<id>289302</id>
 		<name>STR_SKILL_P_EQUIP_Orb_G3</name>
-		<body>Advanced Orb Training III</body>
+		<body>Treinamento Avançado de Orb III</body>
 	</string>
 	<string>
 		<id>289303</id>
 		<name>STR_SKILL_P_EQUIP_Orb_G3_DESC</name>
-		<body>Allows you to use orbs skilfully.</body>
+		<body>Permite que você use orbs habilmente.</body>
 	</string>
 	<string>
 		<id>289304</id>
@@ -41233,7 +41233,7 @@
 	<string>
 		<id>289683</id>
 		<name>STR_SKILL_P_EQUIP_Dual_G2</name>
-		<body>Advanced Dual-Wielding II</body>
+		<body>Empunhadura Dupla Avançada II</body>
 	</string>
 	<string>
 		<id>289684</id>
@@ -41318,7 +41318,7 @@
 	<string>
 		<id>289700</id>
 		<name>STR_SKILL_KN_AvengingBash_DESC</name>
-		<body>Deals [%e1.SkillATK_Instant.MinDamage] to [%e1.SkillATK_Instant.MaxDamage] physical damage after a successful block with the shield. Aumenta a Provocação do alvo contra você. Inflige [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo é um Balaur.&#xA;Requer um Escudo&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Deals [%e1.SkillATK_Instant.MinDamage] to [%e1.SkillATK_Instant.MaxDamage] physical damage after a successful block with the shield. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo é um Balaur.&#xA;Requer um Escudo&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>289701</id>
@@ -41398,7 +41398,7 @@
 	<string>
 		<id>289716</id>
 		<name>STR_SKILL_KN_WeaponBreak_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target&apos;s attack speed decreases for [%e2.Slow.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. A Velocidade de Ataque do alvo é reduzida por [%e2.Slow.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>289717</id>
@@ -41433,7 +41433,7 @@
 	<string>
 		<id>289723</id>
 		<name>STR_SKILL_StigmaI_EQUIP_Dual_G1</name>
-		<body>Stigma Advanced Dual-Wielding I</body>
+		<body>Stigma Empunhadura Dupla Avançada I</body>
 	</string>
 	<string>
 		<id>289724</id>
@@ -41443,7 +41443,7 @@
 	<string>
 		<id>289725</id>
 		<name>STR_SKILL_StigmaI_EQUIP_Dual_G2</name>
-		<body>Stigma Advanced Dual-Wielding II</body>
+		<body>Stigma Empunhadura Dupla Avançada II</body>
 	</string>
 	<string>
 		<id>289726</id>
@@ -41958,22 +41958,22 @@
 	<string>
 		<id>289828</id>
 		<name>STR_SKILL_Stigma_P_EQUIP_Dagger_G1</name>
-		<body>Advanced Dagger Training I</body>
+		<body>Treinamento Avançado de Adaga I</body>
 	</string>
 	<string>
 		<id>289829</id>
 		<name>STR_SKILL_Stigma_P_EQUIP_Mace_G1</name>
-		<body>Advanced Mace Training I</body>
+		<body>Treinamento Avançado de Mace I</body>
 	</string>
 	<string>
 		<id>289830</id>
 		<name>STR_SKILL_Stigma_P_EQUIP_2HSword_G1</name>
-		<body>Advanced Greatsword Training I</body>
+		<body>Treinamento Avançado em Espada Longa I</body>
 	</string>
 	<string>
 		<id>289831</id>
 		<name>STR_SKILL_Stigma_P_EQUIP_Polearm_G1</name>
-		<body>Advanced Polearm Training I</body>
+		<body>Treinamento Avançado de Foice I</body>
 	</string>
 	<string>
 		<id>289832</id>
@@ -41983,7 +41983,7 @@
 	<string>
 		<id>289833</id>
 		<name>STR_SKILL_Stigma_P_EQUIP_Staff_G1</name>
-		<body>Advanced Staff Training I</body>
+		<body>Treinamento Avançado de Cetro I</body>
 	</string>
 	<string>
 		<id>289834</id>
@@ -41993,7 +41993,7 @@
 	<string>
 		<id>289835</id>
 		<name>STR_SKILL_Stigma_P_EQUIP_Orb_G1</name>
-		<body>Advanced Orb Training I</body>
+		<body>Treinamento Avançado de Orb I</body>
 	</string>
 	<string>
 		<id>289836</id>
@@ -48733,12 +48733,12 @@
 	<string>
 		<id>291183</id>
 		<name>STR_SKILL_P_EQUIP_Dual_G3</name>
-		<body>Advanced Dual-Wielding III</body>
+		<body>Empunhadura Dupla Avançada III</body>
 	</string>
 	<string>
 		<id>291184</id>
 		<name>STR_SKILL_P_EQUIP_Dual_G4</name>
-		<body>Advanced Dual-Wielding IV</body>
+		<body>Empunhadura Dupla Avançada IV</body>
 	</string>
 	<string>
 		<id>291185</id>
@@ -48968,7 +48968,7 @@
 	<string>
 		<id>291230</id>
 		<name>STR_SKILL_PR_FirstAid_DESC</name>
-		<body>Restores [%e1.Heal_Instant.Heal] HP of a target within [%First_Target_Valid_Distance]m.&#xA;Stigma Skill</body>
+		<body>Cura [%e1.Heal_Instant.Heal] de HP de um alvo que esteja até [%First_Target_Valid_Distance]m de distância.&#xA;Stigma Skill</body>
 	</string>
 	<string>
 		<id>291231</id>
@@ -52798,7 +52798,7 @@
 	<string>
 		<id>291999</id>
 		<name>STR_SKILL_P_EQUIP_Dagger_G4</name>
-		<body>Advanced Dagger Training IV</body>
+		<body>Treinamento Avançado de Adaga IV</body>
 	</string>
 	<string>
 		<id>292000</id>
@@ -52808,7 +52808,7 @@
 	<string>
 		<id>292001</id>
 		<name>STR_SKILL_P_EQUIP_Mace_G4</name>
-		<body>Advanced Mace Training IV</body>
+		<body>Treinamento Avançado de Mace IV</body>
 	</string>
 	<string>
 		<id>292002</id>
@@ -52818,22 +52818,22 @@
 	<string>
 		<id>292003</id>
 		<name>STR_SKILL_P_EQUIP_2HSword_G4</name>
-		<body>Advanced Greatsword Training IV</body>
+		<body>Treinamento Avançado em Espada Longa IV</body>
 	</string>
 	<string>
 		<id>292004</id>
 		<name>STR_SKILL_P_EQUIP_2HSword_G4_DESC</name>
-		<body>Allows you to use greatswords skilfully.</body>
+		<body>Permite que você use espadas longas habilmente.</body>
 	</string>
 	<string>
 		<id>292005</id>
 		<name>STR_SKILL_P_EQUIP_Polearm_G4</name>
-		<body>Advanced Polearm Training IV</body>
+		<body>Treinamento Avançado de Foice IV</body>
 	</string>
 	<string>
 		<id>292006</id>
 		<name>STR_SKILL_P_EQUIP_Polearm_G4_DESC</name>
-		<body>Allows you to use polearm skilfully.</body>
+		<body>Permite que você use foices habilmente.</body>
 	</string>
 	<string>
 		<id>292007</id>
@@ -52843,7 +52843,7 @@
 	<string>
 		<id>292008</id>
 		<name>STR_SKILL_P_EQUIP_Bow_G4_DESC</name>
-		<body>Allows you to use bows skilfully.</body>
+		<body>Permite que você use arcos habilmente.</body>
 	</string>
 	<string>
 		<id>292009</id>
@@ -53248,12 +53248,12 @@
 	<string>
 		<id>292089</id>
 		<name>STR_SKILL_P_EQUIP_Staff_G4</name>
-		<body>Advanced Staff Training IV</body>
+		<body>Treinamento Avançado de Cetro IV</body>
 	</string>
 	<string>
 		<id>292090</id>
 		<name>STR_SKILL_P_EQUIP_Staff_G4_DESC</name>
-		<body>Allows you to use staves skilfully.</body>
+		<body>Permite que você use cetros habilmente.</body>
 	</string>
 	<string>
 		<id>292091</id>
@@ -53758,7 +53758,7 @@
 	<string>
 		<id>292191</id>
 		<name>STR_SKILL_P_EQUIP_Dual_G5</name>
-		<body>Advanced Dual-Wielding V</body>
+		<body>Empunhadura Dupla Avançada V</body>
 	</string>
 	<string>
 		<id>292192</id>
@@ -54008,7 +54008,7 @@
 	<string>
 		<id>292242</id>
 		<name>STR_SKILL_P_EQUIP_Book_G4_DESC</name>
-		<body>Allows you to use spellbooks skilfully.</body>
+		<body>Permite que você use livros de feitiços habilmente.</body>
 	</string>
 	<string>
 		<id>292243</id>
@@ -54193,12 +54193,12 @@
 	<string>
 		<id>292280</id>
 		<name>STR_SKILL_P_EQUIP_Orb_G4</name>
-		<body>Advanced Orb Training IV</body>
+		<body>Treinamento Avançado de Orb IV</body>
 	</string>
 	<string>
 		<id>292281</id>
 		<name>STR_SKILL_P_EQUIP_Orb_G4_DESC</name>
-		<body>Allows you to use orbs skilfully.</body>
+		<body>Permite que você use orbs habilmente.</body>
 	</string>
 	<string>
 		<id>292282</id>
@@ -57137,12 +57137,12 @@
 	<string>
 		<id>292869</id>
 		<name>STR_SKILL_WA_AvengingCrash_G1_2nd_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MaxDamage] - [%e1.SkillATK_Instant.MinDamage] de dano físico no alvo após um Block bem sucedido e deixa o alvo em choque (stun) temporatiamente. Aumenta a Provocação do alvo contra você. Inflige [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo é um Balaur.&#xA;Requer um Escudo&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SkillATK_Instant.MaxDamage] - [%e1.SkillATK_Instant.MinDamage] de dano físico no alvo após um Block bem sucedido e deixa o alvo em choque (stun) temporatiamente. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo é um Balaur.&#xA;Requer um Escudo&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>292870</id>
 		<name>STR_SKILL_WA_ArmorBreak_G1_2nd_DESC</name>
-		<body>Inflicts [%e1.SkillATK_Instant.MinDamage] to [%e1.SkillATK_Instant.MaxDamage] physical damage on a target, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime] seconds. Aumenta a Provocação do alvo contra você. Inflige [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo é um Balaur.&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Inflicts [%e1.SkillATK_Instant.MinDamage] to [%e1.SkillATK_Instant.MaxDamage] physical damage on a target, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime] seconds. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo é um Balaur.&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>292871</id>
@@ -59172,7 +59172,7 @@
 	<string>
 		<id>293277</id>
 		<name>STR_SKILL_EL_Escape_G1_DESC</name>
-		<body>Puts group members within 20m of you into basic stealth for [%e1.Hide.RemainTime], during which they cannot move.&#xA;Unable to use during battle.&#xA;Stigma Skill.</body>
+		<body>Puts group members within 20m of you into basic stealth for [%e1.Hide.RemainTime], during which they cannot move.&#xA;Não pode usar durante a batalha.&#xA;Stigma Skill.</body>
 	</string>
 	<string>
 		<id>293278</id>
@@ -61887,7 +61887,7 @@
 	<string>
 		<id>293821</id>
 		<name>STR_PreChain_P_EQUIP_Dual</name>
-		<body>Advanced Dual-Wielding</body>
+		<body>Empunhadura Dupla Avançada</body>
 	</string>
 	<string>
 		<id>293822</id>
@@ -68542,7 +68542,7 @@
 	<string>
 		<id>295155</id>
 		<name>STR_SKILL_CH_ShockWave_G1_DESC</name>
-		<body>Inflige [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and puts it in the [%e1.SkillATK_Instant.AddEffect] state.&#xA;Stigma Skill</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo and puts it in the [%e1.SkillATK_Instant.AddEffect] state.&#xA;Stigma Skill</body>
 	</string>
 	<string>
 		<id>295156</id>
@@ -81882,7 +81882,7 @@
 	<string>
 		<id>297941</id>
 		<name>STR_IDArena_Solo_S5_Pr_Heal_G3_DESC</name>
-		<body>Restores [%e1.Heal_Instant.Heal] HP of a target within [%First_Target_Valid_Distance]m.</body>
+		<body>Cura [%e1.Heal_Instant.Heal] de HP de um alvo que esteja até [%First_Target_Valid_Distance]m de distância.</body>
 	</string>
 	<string>
 		<id>297942</id>

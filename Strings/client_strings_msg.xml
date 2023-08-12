@@ -16340,7 +16340,7 @@
 	<string>
 		<id>1390214</id>
 		<name>STR_MSG_NOTIFY_PLAYING_TIME</name>
-		<body>Você já está jogando há %0 hora(s). Por favor, cuide da sua saúde e dê uma pausa.</body>
+		<body>Você já está jogando há %0 hora(s). Por favor, cuide da sua saúde e faça uma pausa.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>
