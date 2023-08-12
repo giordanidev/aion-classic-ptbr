@@ -3488,7 +3488,7 @@
 	<string>
 		<id>282014</id>
 		<name>STR_SKILL_MA_DelayedExplosion_G1_DESC</name>
-		<body>Inflicts [%e1.DelayedSpellATK_Instant.MinDamage] ~ [%e1.DelayedSpellATK_Instant.MaxDamage] magical wind damage after a delay of [%e1.DelayedSpellATK_Instant.DelayedTime].</body>
+		<body>Causa [%e1.DelayedSpellATK_Instant.MinDamage]~[%e1.DelayedSpellATK_Instant.MaxDamage] de dano mágico de vento após [%e1.DelayedSpellATK_Instant.DelayedTime].</body>
 	</string>
 	<string>
 		<id>282015</id>
@@ -3498,7 +3498,7 @@
 	<string>
 		<id>282016</id>
 		<name>STR_SKILL_MA_GravityCage_G1_DESC</name>
-		<body>Inflicts [%e1.SpellATK_Instant.FixDamage] magical earth damage on a target within [%First_Target_Valid_Distance]m of you, and deals further [%e2.SpellATK.Damage] damage every [%e2.SpellATK.CheckTime] for [%e2.SpellATK.RemainTime].</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico da terra em um alvo que esteja até [%First_Target_Valid_Distance]m de distância de você, e causa um dano adicional de [%e2.SpellATK.Damage] a cada [%e2.SpellATK.CheckTime] por [%e2.SpellATK.RemainTime].</body>
 	</string>
 	<string>
 		<id>282017</id>
@@ -3518,7 +3518,7 @@
 	<string>
 		<id>282020</id>
 		<name>STR_SKILL_MA_BurningShield_G1_DESC</name>
-		<body>For [%e1.Reflector.RemainTime], returns [%e1.Reflector.Damage] damage back to an enemy within [%e1.Reflector.MaxRange]m that [%e1.Reflector.Condition]s you.</body>
+		<body>Por [%e1.Reflector.RemainTime], retorna [%e1.Reflector.Damage] de dano de volta a um inimigo que esteja até [%e1.Reflector.MaxRange]m que [%e1.Reflector.Condition] você.</body>
 	</string>
 	<string>
 		<id>282021</id>
@@ -3528,7 +3528,7 @@
 	<string>
 		<id>282022</id>
 		<name>STR_SKILL_MA_ShortTeleport_DESC</name>
-		<body>Magical Teleport (random direction) &#xA;Teleports the caster in a random direction.</body>
+		<body>Teletransporta o conjurador em uma direção aleatória.</body>
 	</string>
 	<string>
 		<id>282023</id>
@@ -3538,7 +3538,7 @@
 	<string>
 		<id>282024</id>
 		<name>STR_SKILL_FI_StatBoostPhysicalDefense_DESC</name>
-		<body>Boosts [%e1.StatBoost.StatName].</body>
+		<body>Aumenta a [%e1.StatBoost.StatName].</body>
 	</string>
 	<string>
 		<id>282025</id>
@@ -3548,7 +3548,7 @@
 	<string>
 		<id>282026</id>
 		<name>STR_SKILL_P_StatBoostMaxHP_G1_DESC</name>
-		<body>Boosts [%e1.StatBoost.StatName].</body>
+		<body>Aumenta a [%e1.StatBoost.StatName].</body>
 	</string>
 	<string>
 		<id>282027</id>
@@ -3558,7 +3558,7 @@
 	<string>
 		<id>282028</id>
 		<name>STR_SKILL_FI_StatBoostParry_DESC</name>
-		<body>Boosts [%e1.StatBoost.StatName].</body>
+		<body>Aumenta o [%e1.StatBoost.StatName].</body>
 	</string>
 	<string>
 		<id>282029</id>
@@ -3568,7 +3568,7 @@
 	<string>
 		<id>282030</id>
 		<name>STR_SKILL_P_StatBoostPhysicalOffense_G1_DESC</name>
-		<body>Boosts [%e1.StatBoost.StatName].</body>
+		<body>Aumenta o [%e1.StatBoost.StatName].</body>
 	</string>
 	<string>
 		<id>282031</id>
@@ -3578,7 +3578,7 @@
 	<string>
 		<id>282032</id>
 		<name>STR_SKILL_P_StatBoostBlock_G1_DESC</name>
-		<body>Boosts [%e1.StatBoost.StatName].</body>
+		<body>Aumenta o [%e1.StatBoost.StatName].</body>
 	</string>
 	<string>
 		<id>282033</id>
@@ -6008,7 +6008,7 @@
 	<string>
 		<id>282520</id>
 		<name>STR_SKILL_MA_GravityCage_G2_DESC</name>
-		<body>Inflicts [%e1.SpellATK_Instant.FixDamage] magical earth damage on a target within [%First_Target_Valid_Distance]m of you, and deals further [%e2.SpellATK.Damage] damage every [%e2.SpellATK.CheckTime] for [%e2.SpellATK.RemainTime].</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico da terra em um alvo que esteja até [%First_Target_Valid_Distance]m de distância de você, e causa um dano adicional de [%e2.SpellATK.Damage] a cada [%e2.SpellATK.CheckTime] por [%e2.SpellATK.RemainTime].</body>
 	</string>
 	<string>
 		<id>282521</id>
@@ -6038,7 +6038,7 @@
 	<string>
 		<id>282526</id>
 		<name>STR_SKILL_EL_BurningShield_G2_DESC</name>
-		<body>For [%e1.Reflector.RemainTime], returns [%e1.Reflector.Damage] damage back to an enemy within [%e1.Reflector.MaxRange]m that [%e1.Reflector.Condition]s you.</body>
+		<body>Por [%e1.Reflector.RemainTime], retorna [%e1.Reflector.Damage] de dano de volta a um inimigo que esteja até [%e1.Reflector.MaxRange]m que [%e1.Reflector.Condition] você.</body>
 	</string>
 	<string>
 		<id>282527</id>
@@ -12654,7 +12654,7 @@
 	<string>
 		<id>283897</id>
 		<name>STR_SKILL_MA_GravityCage_G3_DESC</name>
-		<body>Inflicts [%e1.SpellATK_Instant.FixDamage] magical earth damage on a target within [%First_Target_Valid_Distance]m of you, and deals further [%e2.SpellATK.Damage] damage every [%e2.SpellATK.CheckTime] for [%e2.SpellATK.RemainTime].</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico da terra em um alvo que esteja até [%First_Target_Valid_Distance]m de distância de você, e causa um dano adicional de [%e2.SpellATK.Damage] a cada [%e2.SpellATK.CheckTime] por [%e2.SpellATK.RemainTime].</body>
 	</string>
 	<string>
 		<id>283898</id>
@@ -12704,7 +12704,7 @@
 	<string>
 		<id>283907</id>
 		<name>STR_SKILL_EL_BurningShield_G3_DESC</name>
-		<body>For [%e1.Reflector.RemainTime], returns [%e1.Reflector.Damage] damage back to an enemy within [%e1.Reflector.MaxRange]m that [%e1.Reflector.Condition]s you.</body>
+		<body>Por [%e1.Reflector.RemainTime], retorna [%e1.Reflector.Damage] de dano de volta a um inimigo que esteja até [%e1.Reflector.MaxRange]m que [%e1.Reflector.Condition] você.</body>
 	</string>
 	<string>
 		<id>283908</id>
@@ -23158,7 +23158,7 @@
 	<string>
 		<id>286055</id>
 		<name>STR_SKILL_MA_GravityCage_G4_DESC</name>
-		<body>Inflicts [%e1.SpellATK_Instant.FixDamage] magical earth damage on a target within [%First_Target_Valid_Distance]m of you, and deals further [%e2.SpellATK.Damage] damage every [%e2.SpellATK.CheckTime] for [%e2.SpellATK.RemainTime].</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico da terra em um alvo que esteja até [%First_Target_Valid_Distance]m de distância de você, e causa um dano adicional de [%e2.SpellATK.Damage] a cada [%e2.SpellATK.CheckTime] por [%e2.SpellATK.RemainTime].</body>
 	</string>
 	<string>
 		<id>286056</id>
@@ -28481,7 +28481,7 @@
 	<string>
 		<id>287127</id>
 		<name>STR_SKILL_MA_GravityCage_G5_DESC</name>
-		<body>Inflicts [%e1.SpellATK_Instant.FixDamage] magical earth damage on a target within [%First_Target_Valid_Distance]m of you, and deals further [%e2.SpellATK.Damage] damage every [%e2.SpellATK.CheckTime] for [%e2.SpellATK.RemainTime].</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico da terra em um alvo que esteja até [%First_Target_Valid_Distance]m de distância de você, e causa um dano adicional de [%e2.SpellATK.Damage] a cada [%e2.SpellATK.CheckTime] por [%e2.SpellATK.RemainTime].</body>
 	</string>
 	<string>
 		<id>287128</id>
