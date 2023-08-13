@@ -4591,7 +4591,7 @@
 	<string>
 		<id>900498</id>
 		<name>STR_TOOLTIP_CASTDELAY</name>
-		<body>Tempo de Conjuração</body>
+		<body>Conjuração</body>
 	</string>
 	<string>
 		<id>900499</id>
@@ -10525,7 +10525,7 @@
 	<string>
 		<id>901721</id>
 		<name>STR_SUMMON_PARTY_DO_YOU_ACCEPT_REQUEST</name>
-		<body>&lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; quer te teletransportar usando &lt;font color=&quot;ffff00&quot;&gt;%1&lt;/font&gt;. Aceita ser teletransportado para a posição de %0? \n\nVocê deve decidir em %2 segundos.</body>
+		<body>&lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; quer te teletransportar usando &lt;font color=&quot;ffff00&quot;&gt;%1&lt;/font&gt;. Aceita ser teletransportado para a posição de %0? &lt;p&gt;&#xA;&lt;/p&gt;Você deve decidir em %2 segundos.</body>
 	</string>
 	<string>
 		<id>901722</id>
