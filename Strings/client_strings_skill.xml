@@ -10577,7 +10577,7 @@
 	<string>
 		<id>283481</id>
 		<name>STR_SKILL_FI_Rampage_G1_DESC</name>
-		<body>Increases [%e2.StatUp.StatName] by [%e2.StatUp.Value] and [%e3.StatDown.StatName] by [%e3.StatDown.Value] for [%e1.SpellATK.RemainTime].&#xA;In the meantime, HP slowly decreases.</body>
+		<body>Aumenta a [%e2.StatUp.StatName] em [%e2.StatUp.Value] e [%e3.StatDown.StatName] em [%e3.StatDown.Value] por [%e1.SpellATK.RemainTime]. Enquanto isso, a HP diminui lentamente.</body>
 	</string>
 	<string>
 		<id>283482</id>
@@ -10607,7 +10607,7 @@
 	<string>
 		<id>283487</id>
 		<name>STR_SKILL_FI_Howling_G1_DESC</name>
-		<body>Lowers [%e1.StatDown.StatName] of the enemies within a 7m radius of you by [%e1.StatDown.Value] for [%e1.StatDown.RemainTime].&#xA;Habilidade de Stigma</body>
+		<body>Reduz a [%e1.StatDown.StatName] dos inimigos em um raio de 7m de você em [%e1.StatDown.Value] por [%e1.StatDown.RemainTime].&#xA;Habilidade de Stigma</body>
 	</string>
 	<string>
 		<id>283488</id>
@@ -10697,7 +10697,7 @@
 	<string>
 		<id>283505</id>
 		<name>STR_SKILL_FI_MercilessBlow_G1_DESC</name>
-		<body>Inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] physical damage on a target, and inflicts additional [%e1.SkillATK_Instant.AddDamage] damage if the target is in [%e1.SkillATK_Instant.AddEffectCondition] state.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico a um alvo e causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo estiver no estado [%e1.SkillATK_Instant.AddEffectCondition].</body>
 	</string>
 	<string>
 		<id>283506</id>
@@ -10707,7 +10707,7 @@
 	<string>
 		<id>283507</id>
 		<name>STR_SKILL_P_Tanacity_G1_DESC</name>
-		<body>Has a chance to add the Stun effect to attacks if [%e1.CondSkillLauncher.ConditionStat] falls below [%e1.CondSkillLauncher.Condition]%%.</body>
+		<body>Cada ataque tem chance de atordoar (stun) o alvo se [%e1.CondSkillLauncher.ConditionStat] cair abaixo de [%e1.CondSkillLauncher.Condition]%%.</body>
 	</string>
 	<string>
 		<id>283508</id>
@@ -24033,7 +24033,7 @@
 	<string>
 		<id>286230</id>
 		<name>STR_SKILL_FI_Howling_G2_DESC</name>
-		<body>Lowers [%e1.StatDown.StatName] of the enemies within a 7m radius of you by [%e1.StatDown.Value] for [%e1.StatDown.RemainTime].&#xA;Habilidade de Stigma</body>
+		<body>Reduz a [%e1.StatDown.StatName] dos inimigos em um raio de 7m de você em [%e1.StatDown.Value] por [%e1.StatDown.RemainTime].&#xA;Habilidade de Stigma</body>
 	</string>
 	<string>
 		<id>286231</id>
@@ -27971,7 +27971,7 @@
 	<string>
 		<id>287025</id>
 		<name>STR_SKILL_FI_Howling_G3_DESC</name>
-		<body>Lowers [%e1.StatDown.StatName] of the enemies within a 7m radius of you by [%e1.StatDown.Value] for [%e1.StatDown.RemainTime].&#xA;Habilidade de Stigma</body>
+		<body>Reduz a [%e1.StatDown.StatName] dos inimigos em um raio de 7m de você em [%e1.StatDown.Value] por [%e1.StatDown.RemainTime].&#xA;Habilidade de Stigma</body>
 	</string>
 	<string>
 		<id>287026</id>
