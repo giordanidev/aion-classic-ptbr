@@ -10756,7 +10756,7 @@
 	<string>
 		<id>283517</id>
 		<name>STR_SKILL_WA_Steadiness_G1_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].&#xA;Habilidade de Stigma</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].&#xA;Habilidade de Stigma</body>
 	</string>
 	<string>
 		<id>283518</id>
@@ -10766,7 +10766,7 @@
 	<string>
 		<id>283519</id>
 		<name>STR_SKILL_FI_Rampage_G2_DESC</name>
-		<body>Increases both [%e2.StatUp.StatName] and [%e3.StatDown.StatName] by [%e3.StatDown.Value] for [%e1.SpellATK.RemainTime].&#xA;In the meantime, HP slowly decreases.</body>
+		<body>Aumenta [%e2.StatUp.StatName] e [%e3.StatDown.StatName] em [%e3.StatDown.Value] por [%e1.SpellATK.RemainTime]. Enquanto isso, a HP diminui lentamente.</body>
 	</string>
 	<string>
 		<id>283520</id>
@@ -10786,7 +10786,7 @@
 	<string>
 		<id>283523</id>
 		<name>STR_SKILL_FI_ImpulseQuake_G1_DESC</name>
-		<body>Inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] physical damage on the nearby enemies, and inflicts additional [%e1.SkillATK_Instant.AddDamage] damage when the targets have fallen down.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico aos inimigos próximos e causa [%e1.SkillATK_Instant.AddDamage] de dano adicional quando os alvos caírem (knockdown).</body>
 	</string>
 	<string>
 		<id>283524</id>
@@ -10886,7 +10886,7 @@
 	<string>
 		<id>283543</id>
 		<name>STR_SKILL_KN_Steadiness_G1_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>283544</id>
@@ -11526,7 +11526,7 @@
 	<string>
 		<id>283671</id>
 		<name>STR_SKILL_AS_ClearFocus_G1_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>283672</id>
@@ -12425,7 +12425,7 @@
 	<string>
 		<id>283851</id>
 		<name>STR_SKILL_WI_BoostTomb_G1_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>283852</id>
@@ -21963,7 +21963,7 @@
 	<string>
 		<id>285816</id>
 		<name>STR_SKILL_AS_ClearFocus_G2_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>285817</id>
@@ -22368,7 +22368,7 @@
 	<string>
 		<id>285897</id>
 		<name>STR_SKILL_CH_ParryFocus_G1_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>285898</id>
@@ -22383,7 +22383,7 @@
 	<string>
 		<id>285900</id>
 		<name>STR_SKILL_CH_ParryFocus_G2_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>285901</id>
@@ -22558,7 +22558,7 @@
 	<string>
 		<id>285935</id>
 		<name>STR_SKILL_CH_WordofPower_G1_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Parrying Strike – Power Spell.</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Parrying Strike – Power Spell.</body>
 	</string>
 	<string>
 		<id>285936</id>
@@ -22573,7 +22573,7 @@
 	<string>
 		<id>285938</id>
 		<name>STR_SKILL_CH_WordofPower_G2_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Parrying Strike – Power Spell.</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Parrying Strike – Power Spell.</body>
 	</string>
 	<string>
 		<id>285939</id>
@@ -24778,7 +24778,7 @@
 	<string>
 		<id>286381</id>
 		<name>STR_SKILL_WI_FocusCasting_G1_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>286382</id>
@@ -24838,7 +24838,7 @@
 	<string>
 		<id>286393</id>
 		<name>STR_SKILL_WI_BoostTomb_G2_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>286394</id>
@@ -26791,7 +26791,7 @@
 	<string>
 		<id>286789</id>
 		<name>STR_SKILL_AS_ClearFocus_G3_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>286790</id>
@@ -27201,7 +27201,7 @@
 	<string>
 		<id>286871</id>
 		<name>STR_SKILL_CH_ParryFocus_G3_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>286872</id>
@@ -28081,7 +28081,7 @@
 	<string>
 		<id>287047</id>
 		<name>STR_SKILL_FI_ShapnessSword_G1_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>287048</id>
@@ -28451,7 +28451,7 @@
 	<string>
 		<id>287121</id>
 		<name>STR_SKILL_KN_Steadiness_G2_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>287122</id>
@@ -29251,7 +29251,7 @@
 	<string>
 		<id>287281</id>
 		<name>STR_SKILL_SC_SpiritofGale_G5_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>287282</id>
@@ -37683,7 +37683,7 @@
 	<string>
 		<id>288973</id>
 		<name>STR_SKILL_Stigma_ParryFocus_G1_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>288974</id>
@@ -41183,7 +41183,7 @@
 	<string>
 		<id>289673</id>
 		<name>STR_SKILL_StigmaI_Steadiness_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>289674</id>
@@ -46138,7 +46138,7 @@
 	<string>
 		<id>290664</id>
 		<name>STR_SKILL_WA_Dash_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>290665</id>
@@ -46358,7 +46358,7 @@
 	<string>
 		<id>290708</id>
 		<name>STR_SKILL_WI_ArcanePower_G1_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].&#xA;Habilidade de Stigma</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].&#xA;Habilidade de Stigma</body>
 	</string>
 	<string>
 		<id>290709</id>
@@ -48553,7 +48553,7 @@
 	<string>
 		<id>291147</id>
 		<name>STR_SKILL_RA_EagleEye_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>291148</id>
@@ -48568,7 +48568,7 @@
 	<string>
 		<id>291150</id>
 		<name>STR_SKILL_RA_HawkEye_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>291151</id>
@@ -57727,7 +57727,7 @@
 	<string>
 		<id>292987</id>
 		<name>STR_SKILL_KN_Stigma_ResistArmor_G1_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].&#xA;Habilidade de Stigma</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].&#xA;Habilidade de Stigma</body>
 	</string>
 	<string>
 		<id>292988</id>
