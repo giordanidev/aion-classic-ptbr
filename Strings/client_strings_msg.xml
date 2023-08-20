@@ -12753,7 +12753,7 @@
 	<string>
 		<id>1300842</id>
 		<name>STR_CHAT_CHANNEL_JOIN</name>
-		<body>Você entrou no canal %0.</body>
+		<body>Você entrou no canal '%0'.</body>
 		<message_type>53</message_type>
 		<display_type>1</display_type>
 	</string>

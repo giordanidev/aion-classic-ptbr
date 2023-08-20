@@ -22211,7 +22211,7 @@
 	<string>
 		<id>904884</id>
 		<name>STR_VENDOR_DIALOG_FLAG_BUY_EACH</name>
-		<body>Compra parcial possível [%gchar:FLAG_BUY_EACH]</body>
+		<body>Compra parcial [%gchar:FLAG_BUY_EACH]</body>
 	</string>
 	<string>
 		<id>904885</id>
