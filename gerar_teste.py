@@ -59,7 +59,7 @@ def encode():
 
     print("Gerando arquivo .PAK!")
     #Não está funcionando para o arquivo \strings\client_strings_item2.xml em algumas ocasiões!
-    subprocess.run([".\\Aion_Encdec.exe", "-r", "data_ptBR.pak"])
+    subprocess.run([".\\Aion_Encdec.exe", "-r", "data_ptBR.pak"], timeout=15)
     print("Arquivo .PAK gerado!")
 
     orig_repack = ".\\REPACK\\data_ptBR.pak"
