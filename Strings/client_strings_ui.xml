@@ -11260,7 +11260,7 @@
 	<string>
 		<id>901873</id>
 		<name>STR_INSTANT_DUNGEON_ENTER_CONFIRM</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Você quer entrar na &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;?&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Pressionar o botão &lt;font color=&quot;ffff00&quot;&gt;Entrar&lt;/font&gt; move você para a zona selecionada.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Tempo Restante: %DURATIONTIME1&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Você quer entrar em &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;?&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Pressionar o botão &lt;font color=&quot;ffff00&quot;&gt;Entrar&lt;/font&gt; move você para a zona selecionada.&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;Tempo Restante: %DURATIONTIME1&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901874</id>
@@ -16306,7 +16306,7 @@
 	<string>
 		<id>903284</id>
 		<name>STR_INSTANCE_DUNGEON_PARTY_MATCH_QUICK</name>
-		<body>Entrada de grupo rápida</body>
+		<body>Entrada Rápida</body>
 	</string>
 	<string>
 		<id>903285</id>
@@ -16336,7 +16336,7 @@
 	<string>
 		<id>903290</id>
 		<name>STR_INSTANT_DUNGEON_PARTY_MATCH_FAST_ENTER</name>
-		<body>Entrada de grupo rápida</body>
+		<body>Entrada Rápida</body>
 	</string>
 	<string>
 		<id>903291</id>
@@ -22211,7 +22211,7 @@
 	<string>
 		<id>904884</id>
 		<name>STR_VENDOR_DIALOG_FLAG_BUY_EACH</name>
-		<body>Compra parcial possível [%gchar:FLAG_BUY_EACH]</body>
+		<body>Compra parcial [%gchar:FLAG_BUY_EACH]</body>
 	</string>
 	<string>
 		<id>904885</id>
@@ -27424,7 +27424,7 @@
 	<string>
 		<id>905926</id>
 		<name>STR_TOOLTIP_FORTRESS_SEQUENTIAL_OCCUPY</name>
-		<body>Número de capturas repetidas</body>
+		<body>Capturas em sequência</body>
 	</string>
 	<string>
 		<id>905927</id>
@@ -27434,7 +27434,7 @@
 	<string>
 		<id>905928</id>
 		<name>STR_TOOLTIP_FORTRESS_SEQUENTIAL_OCCUPY_MAX</name>
-		<body>máximo %0 vezes</body>
+		<body>máximo %0 vez(es)</body>
 	</string>
 	<string>
 		<id>905929</id>

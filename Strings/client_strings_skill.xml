@@ -2198,7 +2198,7 @@
 	<string>
 		<id>281756</id>
 		<name>STR_SYSTEM_SKILL_CH_AuraStatUpAreaSpeedEffect_DESC</name>
-		<body>Magical movement speed aura</body>
+		<body>Aura mágica de Velocidade de Movimento</body>
 	</string>
 	<string>
 		<id>281757</id>
@@ -3128,7 +3128,7 @@
 	<string>
 		<id>281942</id>
 		<name>STR_SKILL_P_EQUIP_EnhancedRobe_G1_DESC</name>
-		<body>Permite que você use armadura de pano.</body>
+		<body>Permite que você use armadura Cloth.</body>
 	</string>
 	<string>
 		<id>281943</id>
@@ -4208,7 +4208,7 @@
 	<string>
 		<id>282158</id>
 		<name>STR_SKILL_KN_Provoke_G2_DESC</name>
-		<body>Provoca um alvo que esteja a até [%First_Target_Valid_Distance]m de você, causa [%e1.SpellATK_Instant.FixDamage] de dano mágico no alvo e aumenta sua Provocação em relação a você.</body>
+		<body>Provoca um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você, causa [%e1.SpellATK_Instant.FixDamage] de dano mágico no alvo e aumenta sua Provocação em relação a você.</body>
 	</string>
 	<string>
 		<id>282159</id>
@@ -5348,7 +5348,7 @@
 	<string>
 		<id>282388</id>
 		<name>STR_SKILL_CH_ViolentSwing_G1_DESC</name>
-		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. Diminui a [%e2.StatDown.StatName] do alvo em [%e2.StatDown.Value] e a [%e3.StatDown.StatName] em [%e3.StatDown.Value]%% por [%e2.StatDown.RemainTime ].&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. Diminui a [%e2.StatDown.StatName] do alvo em [%e2.StatDown.Value] e a [%e3.StatDown.StatName] em [%e3.StatDown.Value]%% por [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>282389</id>
@@ -5788,7 +5788,7 @@
 	<string>
 		<id>282476</id>
 		<name>STR_SKILL_WI_HydroPress_G1_DESC</name>
-		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo dentro que esteja a até [%First_Target_Valid_Distance]m de distância de você.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você.</body>
 	</string>
 	<string>
 		<id>282477</id>
@@ -7152,7 +7152,7 @@
 	<string>
 		<id>282752</id>
 		<name>STR_SKILL_MA_FrozenShock_G1_DESC</name>
-		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo dentro que esteja a até [%First_Target_Valid_Distance]m de distância de você e o coloca no estado [%e1.SpellATK_Instant.AddEffect].&#xA;Habilidade de Sequência nível 2&#xA;Ice Chain – Frozen Shock.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você e o coloca no estado [%e1.SpellATK_Instant.AddEffect].&#xA;Habilidade de Sequência nível 2&#xA;Ice Chain – Frozen Shock.</body>
 	</string>
 	<string>
 		<id>282753</id>
@@ -7162,7 +7162,7 @@
 	<string>
 		<id>282754</id>
 		<name>STR_SKILL_NPCSuicide_DESC</name>
-		<body>Decreases the HP slowly while in effect.</body>
+		<body>Diminui a HP lentamente enquanto estiver ativo.</body>
 	</string>
 	<string>
 		<id>282755</id>
@@ -7182,7 +7182,7 @@
 	<string>
 		<id>282758</id>
 		<name>STR_SKILL_AS_CounterSlash_G2_DESC</name>
-		<body>Deals [%e1.SkillATK_Instant.MinDamage]-[%e1.SkillATK_Instant.MaxDamage] physical damage to the target while you are in the evasion state. The target may become stunned for [%e2.Stun.RemainTime].</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo após uma Evasão bem-sucedida e tem uma chance de atordoá-lo (stun) por [%e2.Stun.RemainTime].</body>
 	</string>
 	<string>
 		<id>282759</id>
@@ -7202,7 +7202,7 @@
 	<string>
 		<id>282762</id>
 		<name>STR_SKILL_MA_FrozenShock_G2_DESC</name>
-		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo dentro que esteja a até [%First_Target_Valid_Distance]m de distância de você e o coloca no estado [%e1.SpellATK_Instant.AddEffect].&#xA;Habilidade de Sequência nível 2&#xA;Ice Chain – Frozen Shock.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você e o coloca no estado [%e1.SpellATK_Instant.AddEffect].&#xA;Habilidade de Sequência nível 2&#xA;Ice Chain – Frozen Shock.</body>
 	</string>
 	<string>
 		<id>282763</id>
@@ -7212,7 +7212,7 @@
 	<string>
 		<id>282764</id>
 		<name>STR_SKILL_EL_StoneShock_G1_DESC</name>
-		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de terra em um alvo a até [%First_Target_Valid_Distance]m de distância de você, and puts it in the [%e1.SpellATK_Instant.AddEffect] state.&#xA;Habilidade de Sequência nível 2&#xA;Chain of Earth – Stone Shock.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de terra em um alvo a até [%First_Target_Valid_Distance]m de distância de você e o coloca no estado [%e1.SpellATK_Instant.AddEffect].&#xA;Habilidade de Sequência nível 2&#xA;Chain of Earth – Stone Shock.</body>
 	</string>
 	<string>
 		<id>282765</id>
@@ -7262,7 +7262,7 @@
 	<string>
 		<id>282774</id>
 		<name>STR_SKILL_PR_TrapStatUPBlockChance_DESC</name>
-		<body>Summons a symbol that boosts the chance of Block for you and your allies nearby.</body>
+		<body>Invoca um símbolo que aumenta a chance de bloqueio para você e seus aliados próximos.</body>
 	</string>
 	<string>
 		<id>282775</id>
@@ -7427,152 +7427,152 @@
 	<string>
 		<id>282807</id>
 		<name>STR_SKILL_NAS_SmallBlow_Brandish_DESC</name>
-		<body>You were hit by Brandish and received damage.</body>
+		<body>Você foi atingido por Brandish e recebeu dano.</body>
 	</string>
 	<string>
 		<id>282808</id>
 		<name>STR_SKILL_NAS_SmallBlow_Hit_DESC</name>
-		<body>You were hit by Thrash and received damage.</body>
+		<body>Você foi atingido por Thrash e recebeu dano.</body>
 	</string>
 	<string>
 		<id>282809</id>
 		<name>STR_SKILL_NAS_SmallBlow_Pick_DESC</name>
-		<body>You were pecked and received damage.</body>
+		<body>Você foi bicado e recebeu dano.</body>
 	</string>
 	<string>
 		<id>282810</id>
 		<name>STR_SKILL_NAS_StatUpCritical_shout_DESC</name>
-		<body>The chance of critical strikes has increased.</body>
+		<body>A chance de ataques críticos aumentou.</body>
 	</string>
 	<string>
 		<id>282811</id>
 		<name>STR_SKILL_NAS_StatUpCritical_D3_DESC</name>
-		<body>The chance of critical strikes has increased.</body>
+		<body>A chance de ataques críticos aumentou.</body>
 	</string>
 	<string>
 		<id>282812</id>
 		<name>STR_SKILL_NAS_BlowChain_KrallAS_DESC</name>
-		<body>You were hit by Pierce Chain Skill and received damage.</body>
+		<body>Você foi atingido por Pierce Chain Skill e recebeu dano.</body>
 	</string>
 	<string>
 		<id>282813</id>
 		<name>STR_SKILL_NAS_Chain1BlowStun_KrallAS_DESC</name>
-		<body>You are stunned after getting hit by Rapid Pierce Chain Skill.</body>
+		<body>Você ficou atordoado (stun) após ser atingido pela Rapid Pierce Chain Skill.</body>
 	</string>
 	<string>
 		<id>282814</id>
 		<name>STR_SKILL_NAS_Poison_Insect_DESC</name>
-		<body>You are poisoned with Deadly Poison.</body>
+		<body>Você está envenenado com Deadly Poison.</body>
 	</string>
 	<string>
 		<id>282815</id>
 		<name>STR_SKILL_NAS_Poison_Knife_DESC</name>
-		<body>You are poisoned after getting slashed by Poison Knife.</body>
+		<body>Você está envenenado depois de ser cortado por Poison Knife.</body>
 	</string>
 	<string>
 		<id>282816</id>
 		<name>STR_SKILL_NAS_Poison_Liquid_DESC</name>
-		<body>You have become poisoned.</body>
+		<body>Você está envenenado.</body>
 	</string>
 	<string>
 		<id>282817</id>
 		<name>STR_SKILL_NAS_BlowBleed_Cut_DESC</name>
-		<body>You are bleeding after getting hit by a weapon.</body>
+		<body>Você está sangrando após ser atingido por uma arma.</body>
 	</string>
 	<string>
 		<id>282818</id>
 		<name>STR_SKILL_NAS_BlowBleed_Thorn_DESC</name>
-		<body>You are bleeding after getting pierced by a thorn.</body>
+		<body>Você está sangrando depois de ser perfurado por um espinho.</body>
 	</string>
 	<string>
 		<id>282819</id>
 		<name>STR_SKILL_NAS_BlowBleed_Bite_DESC</name>
-		<body>You are bleeding after getting bitten.</body>
+		<body>Você está sangrando depois de ser mordido.</body>
 	</string>
 	<string>
 		<id>282820</id>
 		<name>STR_SKILL_NAS_BlowBleed_Meatpick_DESC</name>
-		<body>You are bleeding after getting pecked.</body>
+		<body>Você está sangrando depois de ser bicado.</body>
 	</string>
 	<string>
 		<id>282821</id>
 		<name>STR_SKILL_NAS_Polymorph_Fungy_DESC</name>
-		<body>You became a mushroom after getting infected.</body>
+		<body>Você se tornou um cogumelo depois de ser infectado.</body>
 	</string>
 	<string>
 		<id>282822</id>
 		<name>STR_SKILL_NAS_Invisible_DESC</name>
-		<body>You used Hide and are now Invisible.</body>
+		<body>Você usou Hide e agora está invisível.</body>
 	</string>
 	<string>
 		<id>282823</id>
 		<name>STR_SKILL_NRA_SmallShot_DESC</name>
-		<body>You were Intercepted and received damage.</body>
+		<body>Você foi interceptado e recebeu dano.</body>
 	</string>
 	<string>
 		<id>282824</id>
 		<name>STR_SKILL_NRA_SmallShot_Thornspew_DESC</name>
-		<body>You were pierced by thorns and received damage.</body>
+		<body>Você foi perfurado por espinhos e recebeu danos.</body>
 	</string>
 	<string>
 		<id>282825</id>
 		<name>STR_SKILL_NRA_BlowPosion_Throw_DESC</name>
-		<body>You have become poisoned.</body>
+		<body>Você está envenenado.</body>
 	</string>
 	<string>
 		<id>282826</id>
 		<name>STR_SKILL_NRA_BlowPosion_Spew_DESC</name>
-		<body>You have become poisoned.</body>
+		<body>Você está envenenado.</body>
 	</string>
 	<string>
 		<id>282827</id>
 		<name>STR_SKILL_NRA_Attack_Water_DESC</name>
-		<body>You were hit by Water Bomb and received damage.</body>
+		<body>Você foi atingido por Water Bomb e recebeu dano.</body>
 	</string>
 	<string>
 		<id>282828</id>
 		<name>STR_SKILL_NRA_Attack_Long_DESC</name>
-		<body>You were hit by Single Strike and received damage.</body>
+		<body>Você foi atingido por Single Strike e recebeu dano.</body>
 	</string>
 	<string>
 		<id>282829</id>
 		<name>STR_SKILL_NRA_FLY_DeadShot_Watergun_DESC</name>
-		<body>You are unable to fly.</body>
+		<body>Você não pode voar.</body>
 	</string>
 	<string>
 		<id>282830</id>
 		<name>STR_SKILL_NRA_FLY_DeadShot_Shooting_DESC</name>
-		<body>You are unable to fly.</body>
+		<body>Você não pode voar.</body>
 	</string>
 	<string>
 		<id>282831</id>
 		<name>STR_SKILL_NRA_Spin_D3_DESC</name>
-		<body>You are stunned after getting hit by Whirling Surge.</body>
+		<body>Você ficou atordoado (stun) depois de ser atingido por Whirling Surge.</body>
 	</string>
 	<string>
 		<id>282832</id>
 		<name>STR_SKILL_NRA_BlowBleed_Meatpierce_DESC</name>
-		<body>You are bleeding after getting hit by Pierce Flesh.</body>
+		<body>Você está sangrando depois de ser atingido por Pierce Flesh.</body>
 	</string>
 	<string>
 		<id>282833</id>
 		<name>STR_SKILL_NRA_StatUpHitAccuracy_D3_DESC</name>
-		<body>Accuracy has increased.</body>
+		<body>A Precisão aumentou.</body>
 	</string>
 	<string>
 		<id>282834</id>
 		<name>STR_SKILL_NPR_SmallBurst_DESC</name>
-		<body>You were hit by the Infernal Blaze and received damage.</body>
+		<body>Você foi atingido pelo Infernal Blaze e recebeu dano.</body>
 	</string>
 	<string>
 		<id>282835</id>
 		<name>STR_SKILL_NPR_Heal_DESC</name>
-		<body>Your HP was restored by Cure of Life.</body>
+		<body>Sua HP foi restaurada por Cure of Life.</body>
 	</string>
 	<string>
 		<id>282836</id>
 		<name>STR_SKILL_NPR_Root_DESC</name>
-		<body>You are immobilized after getting hit by Root.</body>
+		<body>Você está imobilizado após ser atingido por Root.</body>
 	</string>
 	<string>
 		<id>282837</id>
@@ -7697,17 +7697,17 @@
 	<string>
 		<id>282861</id>
 		<name>STR_SKILL_NFI_StatUpPhysicalDefense_Shout_DESC</name>
-		<body>Physical defence has increased.</body>
+		<body>A defesa física aumentou.</body>
 	</string>
 	<string>
 		<id>282862</id>
 		<name>STR_SKILL_NFI_StatUpPhysicalDefense_D3_DESC</name>
-		<body>Physical defence has increased.</body>
+		<body>A defesa física aumentou.</body>
 	</string>
 	<string>
 		<id>282863</id>
 		<name>STR_SKILL_NFI_SmallBurst_Aircut_DESC</name>
-		<body>You were hit by Wind Blade and received damage.</body>
+		<body>Você foi atingido por Wind Blade e recebeu dano.</body>
 	</string>
 	<string>
 		<id>282864</id>
@@ -7717,102 +7717,102 @@
 	<string>
 		<id>282865</id>
 		<name>STR_SKILL_NFI_SmallBlow_Stone_DESC</name>
-		<body>You were hit by Stone Dust and received damage.</body>
+		<body>Você foi atingido por Stone Dust e recebeu dano.</body>
 	</string>
 	<string>
 		<id>282866</id>
 		<name>STR_SKILL_NFI_SmallBlow_Press_DESC</name>
-		<body>You were hit by Press Strike and received damage.</body>
+		<body>Você foi atingido por Press Strike e recebeu dano.</body>
 	</string>
 	<string>
 		<id>282867</id>
 		<name>STR_SKILL_NFI_SmallBlow_Hit_DESC</name>
-		<body>You were hit by Thrash and received damage.</body>
+		<body>Você foi atingido por Thrash e recebeu dano.</body>
 	</string>
 	<string>
 		<id>282868</id>
 		<name>STR_SKILL_NFI_SmallBlow_Pierce_DESC</name>
-		<body>You were hit by Pierce Chain Skill and received damage.</body>
+		<body>Você foi atingido por Pierce Chain Skill e recebeu dano.</body>
 	</string>
 	<string>
 		<id>282869</id>
 		<name>STR_SKILL_NFI_SmallBlow_Pick_DESC</name>
-		<body>You were hit by Scratch and received damage.</body>
+		<body>Você foi atingido por Scratch e recebeu dano.</body>
 	</string>
 	<string>
 		<id>282870</id>
 		<name>STR_SKILL_NFI_SmallBlow_Tongs_DESC</name>
-		<body>You were hit by Pincers Smash and received damage.</body>
+		<body>Você foi atingido por Pincers Smash e recebeu dano.</body>
 	</string>
 	<string>
 		<id>282871</id>
 		<name>STR_SKILL_NFI_SmallBlow_Brandish_DESC</name>
-		<body>You were hit by Brandish and received damage.</body>
+		<body>Você foi atingido por Brandish e recebeu dano.</body>
 	</string>
 	<string>
 		<id>282872</id>
 		<name>STR_SKILL_NFI_BlowChain_KrallFI_DESC</name>
-		<body>You were hit by Bash Chain Skill and received damage.</body>
+		<body>Você foi atingido por Bash Chain Skill e recebeu dano.</body>
 	</string>
 	<string>
 		<id>282873</id>
 		<name>STR_SKILL_NFI_Chain1Blow_KrallFI_DESC</name>
-		<body>You were hit by Rapid Bash Chain Skill and received damage.</body>
+		<body>Você foi atingido pela Rapid Bash Chain Skill e recebeu dano.</body>
 	</string>
 	<string>
 		<id>282874</id>
 		<name>STR_SKILL_NFI_KnockBack_D3_DESC</name>
-		<body>You are stunned after getting hit by Thrust.</body>
+		<body>Você está atordoado depois de ser atingido por Thrust.</body>
 	</string>
 	<string>
 		<id>282875</id>
 		<name>STR_SKILL_NKN_StatUpPhysicalDefense_D3_DESC</name>
-		<body>Physical defence has increased.</body>
+		<body>A defesa física aumentou.</body>
 	</string>
 	<string>
 		<id>282876</id>
 		<name>STR_SKILL_NKN_StatUpPhysicalDefense_Cr_DESC</name>
-		<body>Physical defence has increased.</body>
+		<body>A defesa física aumentou.</body>
 	</string>
 	<string>
 		<id>282877</id>
 		<name>STR_SKILL_NKN_Helpcall_DESC</name>
-		<body>You heard Command.</body>
+		<body>Você ouviu o comando.</body>
 	</string>
 	<string>
 		<id>282878</id>
 		<name>STR_SKILL_NKN_KnockBack_D3_DESC</name>
-		<body>You are stunned after getting hit by Thrust.</body>
+		<body>Você está atordoado depois de ser atingido por Thrust.</body>
 	</string>
 	<string>
 		<id>282879</id>
 		<name>STR_SKILL_NWI_SmallBurst_Beam_DESC</name>
-		<body>You were hit by Flame Bullet and received damage.</body>
+		<body>Você foi atingido por Flame Bullet e recebeu dano.</body>
 	</string>
 	<string>
 		<id>282880</id>
 		<name>STR_SKILL_NWI_SmallBurst_Magic_DESC</name>
-		<body>You were hit by Magic Flame Bullet and received damage.</body>
+		<body>Você foi atingido por Magic Flame Bullet e recebeu dano.</body>
 	</string>
 	<string>
 		<id>282881</id>
 		<name>STR_SKILL_NWI_BurstChain_KrallWI_DESC</name>
-		<body>You were hit by Flame Bullet Chain Skill and received damage.</body>
+		<body>Você foi atingido pela habilidade Flame Bullet Chain e recebeu dano.</body>
 	</string>
 	<string>
 		<id>282882</id>
 		<name>STR_SKILL_NWI_Chain1Burst_KrallWI_DESC</name>
-		<body>You were hit by Fast Flame Bullet Chain Skill and received damage.</body>
+		<body>Você foi atingido pela habilidade Fast Flame Bullet Chain e recebeu dano.</body>
 	</string>
 	<string>
 		<id>282883</id>
 		<name>STR_SKILL_NWI_FLY_DeadShot_Ambush_DESC</name>
-		<body>You are unable to fly.</body>
+		<body>Você não pode voar.</body>
 	</string>
 	<string>
 		<id>282884</id>
 		<name>STR_SKILL_NWI_AreaBurst_Explosion_DESC</name>
-		<body>You were hit by Explosion and received damage.</body>
+		<body>Você foi atingido por Explosion e recebeu dano.</body>
 	</string>
 	<string>
 		<id>282885</id>
@@ -7827,12 +7827,12 @@
 	<string>
 		<id>282887</id>
 		<name>STR_SKILL_NEL_Petrification_DESC</name>
-		<body>You are petrified.</body>
+		<body>Você está petrificado.</body>
 	</string>
 	<string>
 		<id>282888</id>
 		<name>STR_SKILL_NEL_Disease_DESC</name>
-		<body>You became diseased.</body>
+		<body>Você ficou doente.</body>
 	</string>
 	<string>
 		<id>282889</id>
@@ -7882,7 +7882,7 @@
 	<string>
 		<id>282898</id>
 		<name>STR_SKILL_Angel_FI_DP_DeathBlow_DESC</name>
-		<body>Attacks enemies within a 15m radius by generating shockwave in the vicinity, and inflicts [%e1.DeathBlow.Damage] damage.&#xA;Special Attack Skill</body>
+		<body>Ataca os inimigos em um raio de 15m gerando ondas de choque nas proximidades e causa [%e1.DeathBlow.Damage] de dano.&#xA;Habilidade de Ataque Especial</body>
 	</string>
 	<string>
 		<id>282899</id>
@@ -7892,7 +7892,7 @@
 	<string>
 		<id>282900</id>
 		<name>STR_SKILL_Angel_KN_DP_DeathBlow_DESC</name>
-		<body>Attacks enemies within a 15m radius with a deific halo and inflicts [%e1.DeathBlow.Damage] damage.&#xA;Special Attack Skill</body>
+		<body>Ataca os inimigos em um raio de 15m com um halo divino e causa [%e1.DeathBlow.Damage] de dano.&#xA;Habilidade de Ataque Especial</body>
 	</string>
 	<string>
 		<id>282901</id>
@@ -7902,7 +7902,7 @@
 	<string>
 		<id>282902</id>
 		<name>STR_SKILL_Angel_RA_DP_DeathBlow_DESC</name>
-		<body>Inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] physical damage on a target within [%First_Target_Valid_Distance]m of you and other enemies within a 15m radius of the target.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico em um alvo a até [%First_Target_Valid_Distance]m de distância de você e de outros inimigos em um raio de 15m do alvo.</body>
 	</string>
 	<string>
 		<id>282903</id>
@@ -7912,7 +7912,7 @@
 	<string>
 		<id>282904</id>
 		<name>STR_SKILL_Angel_AS_DP_DeathBlow_DESC</name>
-		<body>Attacks nearby enemies by launching a storm of spinning daggers, and inflicts [%e1.DeathBlow.Damage] damage.&#xA;Special Attack Skill</body>
+		<body>Ataca inimigos próximos lançando uma tempestade de adagas giratórias e causa [%e1.DeathBlow.Damage] de dano.&#xA;Habilidade de Ataque Especial</body>
 	</string>
 	<string>
 		<id>282905</id>
@@ -7922,7 +7922,7 @@
 	<string>
 		<id>282906</id>
 		<name>STR_SKILL_Angel_PR_DP_DeathBlow_DESC</name>
-		<body>Attacks nearby enemies by dropping bolts of lightning in the vicinity, and inflicts [%e1.DeathBlow.Damage] damage.&#xA;Special Attack Skill</body>
+		<body>Ataca inimigos próximos lançando raios nas proximidades e causa [%e1.DeathBlow.Damage] de dano.&#xA;Habilidade de Ataque Especial</body>
 	</string>
 	<string>
 		<id>282907</id>
@@ -7932,7 +7932,7 @@
 	<string>
 		<id>282908</id>
 		<name>STR_SKILL_Angel_CH_DP_DeathBlow_DESC</name>
-		<body>Attacks nearby enemies with sound wave, and inflicts [%e1.DeathBlow.Damage] damage.&#xA;Special Attack Skill</body>
+		<body>Ataca inimigos próximos com ondas sonoras e causa [%e1.DeathBlow.Damage] de dano.&#xA;Habilidade de Ataque Especial</body>
 	</string>
 	<string>
 		<id>282909</id>
@@ -7942,7 +7942,7 @@
 	<string>
 		<id>282910</id>
 		<name>STR_SKILL_Angel_WI_DP_DeathBlow_DESC</name>
-		<body>Attacks a target and nearby enemies within [%First_Target_Valid_Distance]m radius by dropping meteorites, and inflicts [%e1.DeathBlow.Damage] damage.&#xA;Special Attack Skill</body>
+		<body>Ataca um alvo e inimigos próximos em um raio de [%First_Target_Valid_Distance]m, soltando meteoritos e causando [%e1.DeathBlow.Damage] de dano.&#xA;Habilidade de Ataque Especial</body>
 	</string>
 	<string>
 		<id>282911</id>
@@ -7952,7 +7952,7 @@
 	<string>
 		<id>282912</id>
 		<name>STR_SKILL_Angel_EL_DP_DeathBlow_DESC</name>
-		<body>Attacks a target and nearby enemies within [%First_Target_Valid_Distance]m radius by gathering the power of Light, and inflicts [%e1.DeathBlow.Damage] damage.&#xA;Special Attack Skill</body>
+		<body>Ataca um alvo e inimigos próximos em um raio de [%First_Target_Valid_Distance] m reunindo o poder da Luz e causa [%e1.DeathBlow.Damage] de dano.&#xA;Habilidade de Ataque Especial</body>
 	</string>
 	<string>
 		<id>282913</id>
@@ -7962,7 +7962,7 @@
 	<string>
 		<id>282914</id>
 		<name>STR_SKILL_Devil_FI_DP_DeathBlow_DESC</name>
-		<body>Attacks enemies within a 15m radius by generating shockwave in the vicinity, and inflicts [%e1.DeathBlow.Damage] damage.&#xA;Special Attack Skill</body>
+		<body>Ataca os inimigos em um raio de 15m gerando ondas de choque nas proximidades e causa [%e1.DeathBlow.Damage] de dano.&#xA;Habilidade de Ataque Especial</body>
 	</string>
 	<string>
 		<id>282915</id>
@@ -7972,7 +7972,7 @@
 	<string>
 		<id>282916</id>
 		<name>STR_SKILL_Devil_KN_DP_DeathBlow_DESC</name>
-		<body>Attacks enemies within a 15m radius with a deific halo and inflicts [%e1.DeathBlow.Damage] damage.&#xA;Special Attack Skill</body>
+		<body>Ataca os inimigos em um raio de 15m com um halo divino e causa [%e1.DeathBlow.Damage] de dano.&#xA;Habilidade de Ataque Especial</body>
 	</string>
 	<string>
 		<id>282917</id>
@@ -7982,7 +7982,7 @@
 	<string>
 		<id>282918</id>
 		<name>STR_SKILL_Devil_RA_DP_DeathBlow_DESC</name>
-		<body>Inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] physical damage on a target within [%First_Target_Valid_Distance]m of you and other enemies within a 15m radius of the target.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico em um alvo a até [%First_Target_Valid_Distance]m de distância de você e de outros inimigos em um raio de 15m do alvo.</body>
 	</string>
 	<string>
 		<id>282919</id>
@@ -7992,7 +7992,7 @@
 	<string>
 		<id>282920</id>
 		<name>STR_SKILL_Devil_AS_DP_DeathBlow_DESC</name>
-		<body>Attacks nearby enemies by launching a storm of spinning daggers, and inflicts [%e1.DeathBlow.Damage] damage.&#xA;Special Attack Skill</body>
+		<body>Ataca inimigos próximos lançando uma tempestade de adagas giratórias e causa [%e1.DeathBlow.Damage] de dano.&#xA;Habilidade de Ataque Especial</body>
 	</string>
 	<string>
 		<id>282921</id>
@@ -8002,7 +8002,7 @@
 	<string>
 		<id>282922</id>
 		<name>STR_SKILL_Devil_PR_DP_DeathBlow_DESC</name>
-		<body>Attacks nearby enemies by summoning the Prayer of Darkness in the vicinity and inflicts [%e1.DeathBlow.Damage] damage.&#xA;Special Attack Skill</body>
+		<body>Ataca os inimigos próximos invocando a Oração da Escuridão nas proximidades e causa [%e1.DeathBlow.Damage] de dano.&#xA;Habilidade de Ataque Especial</body>
 	</string>
 	<string>
 		<id>282923</id>
@@ -8012,7 +8012,7 @@
 	<string>
 		<id>282924</id>
 		<name>STR_SKILL_Devil_CH_DP_DeathBlow_DESC</name>
-		<body>Attacks nearby enemies with sound wave, and inflicts [%e1.DeathBlow.Damage] damage.&#xA;Special Attack Skill</body>
+		<body>Ataca inimigos próximos com ondas sonoras e causa [%e1.DeathBlow.Damage] de dano.&#xA;Habilidade de Ataque Especial</body>
 	</string>
 	<string>
 		<id>282925</id>
@@ -8022,7 +8022,7 @@
 	<string>
 		<id>282926</id>
 		<name>STR_SKILL_Devil_WI_DP_DeathBlow_DESC</name>
-		<body>Attacks a target and nearby enemies within [%First_Target_Valid_Distance]m radius by detonating the ground where they&apos;re standing, and inflicts [%e1.DeathBlow.Damage] damage.&#xA;Special Attack Skill</body>
+		<body>Ataca um alvo e inimigos próximos dentro de um raio de [%First_Target_Valid_Distance]m detonando o chão onde eles estão parados e causando [%e1.DeathBlow.Damage] de dano.&#xA;Habilidade de Ataque Especial</body>
 	</string>
 	<string>
 		<id>282927</id>
@@ -8032,7 +8032,7 @@
 	<string>
 		<id>282928</id>
 		<name>STR_SKILL_Devil_EL_DP_DeathBlow_DESC</name>
-		<body>Attacks a target and nearby enemies within [%First_Target_Valid_Distance]m radius by summoning a giant hand from the earth, and inflicts [%e1.DeathBlow.Damage] damage.&#xA;Special Attack Skill</body>
+		<body>Ataca um alvo e inimigos próximos em um raio de [%First_Target_Valid_Distance]m invocando uma mão gigante da terra e causa [%e1.DeathBlow.Damage] de dano.&#xA;Habilidade de Ataque Especial</body>
 	</string>
 	<string>
 		<id>282929</id>
@@ -8042,7 +8042,7 @@
 	<string>
 		<id>282930</id>
 		<name>STR_CONVERT_DESC</name>
-		<body>A Daeva&apos;s ability that changes the properties of matter.</body>
+		<body>A habilidade de um Daeva que altera as propriedades da matéria.</body>
 	</string>
 	<string>
 		<id>282931</id>
@@ -8052,7 +8052,7 @@
 	<string>
 		<id>282932</id>
 		<name>STR_GATHERING_A_DESC</name>
-		<body>You can acquire various materials on Atreia through gathering.</body>
+		<body>Você pode adquirir vários materiais em Atreia através da coleta.</body>
 	</string>
 	<string>
 		<id>282933</id>
@@ -8062,7 +8062,7 @@
 	<string>
 		<id>282934</id>
 		<name>STR_GATHERING_B_DESC</name>
-		<body>You can obtain materials through extracting the vitality of objects.</body>
+		<body>Você pode obter materiais extraindo a vitalidade de objetos.</body>
 	</string>
 	<string>
 		<id>282935</id>
@@ -8072,7 +8072,7 @@
 	<string>
 		<id>282936</id>
 		<name>STR_AERIAL_GATHERING_DESC</name>
-		<body>You can obtain the Aether Crystals floating in the sky.</body>
+		<body>Você pode obter os Aether Crystals flutuando no céu.</body>
 	</string>
 	<string>
 		<id>282937</id>
@@ -8087,12 +8087,12 @@
 	<string>
 		<id>282939</id>
 		<name>STR_SKILL_NAS_SmallBlow_Bite_DESC</name>
-		<body>You were Bitten and received damage.</body>
+		<body>Você foi mordido e recebeu dano.</body>
 	</string>
 	<string>
 		<id>282940</id>
 		<name>STR_SKILL_NFI_Stun_Scream_DESC</name>
-		<body>You are stunned after hearing the Scream.</body>
+		<body>Você ficou atordoado (stun) depois de ouvir o grito.</body>
 	</string>
 	<string>
 		<id>282941</id>
@@ -8102,7 +8102,7 @@
 	<string>
 		<id>282942</id>
 		<name>STR_SKILL_NFI_KnockBack_PressSP_DESC</name>
-		<body>You are stunned after getting hit by Powerful Knockback.</body>
+		<body>Você está atordoado depois de ser atingido por Powerful Knockback.</body>
 	</string>
 	<string>
 		<id>282943</id>
@@ -8112,7 +8112,7 @@
 	<string>
 		<id>282944</id>
 		<name>STR_SYSTEM_SKILL_Polymorph_Parrot_DESC</name>
-		<body>Transforms into a Kaylelini.</body>
+		<body>Se transforma em um Kaylelini.</body>
 	</string>
 	<string>
 		<id>282945</id>
@@ -8122,7 +8122,7 @@
 	<string>
 		<id>282946</id>
 		<name>STR_SKILL_DP_Transfer_DESC</name>
-		<body>Transfers all of your DP to a group member who is about to use a special attack skill.</body>
+		<body>Transfere toda a sua DP para um membro do grupo que está prestes a usar uma habilidade de ataque especial.</body>
 	</string>
 	<string>
 		<id>282947</id>
@@ -8132,7 +8132,7 @@
 	<string>
 		<id>282948</id>
 		<name>STR_SKILL_NWI_NWI_SmallBurst_Quest_DESC</name>
-		<body>A divine punishment is laid on the man who tried to steal a dress of the goddess.</body>
+		<body>Um castigo divino recai sobre o homem que tentou roubar um vestido da deusa.</body>
 	</string>
 	<string>
 		<id>282949</id>
@@ -8142,7 +8142,7 @@
 	<string>
 		<id>282950</id>
 		<name>STR_SKILL_NEL_Curse_Dark_DESC</name>
-		<body>You are cursed.</body>
+		<body>Você está amaldiçoado.</body>
 	</string>
 	<string>
 		<id>282951</id>
@@ -8152,7 +8152,7 @@
 	<string>
 		<id>282952</id>
 		<name>STR_SKILL_NEL_SmallBurst_Dark_DESC</name>
-		<body>You were hit by Shockwave and received damage.</body>
+		<body>Você foi atingido por Shockwave e recebeu dano.</body>
 	</string>
 	<string>
 		<id>282953</id>
@@ -8162,7 +8162,7 @@
 	<string>
 		<id>282954</id>
 		<name>STR_SKILL_NFI_SmallBurst_Darkcut_DESC</name>
-		<body>You were hit by Death Strike and received damage.</body>
+		<body>Você foi atingido por Death Strike e recebeu dano.</body>
 	</string>
 	<string>
 		<id>282955</id>
@@ -8172,7 +8172,7 @@
 	<string>
 		<id>282956</id>
 		<name>STR_SKILL_NEL_Snare_Dark_DESC</name>
-		<body>You are filled with Fear and suffer slower movement speed.</body>
+		<body>Você está cheio de medo (fear) e por isso sua Velocidade de Movimento foi reduzida.</body>
 	</string>
 	<string>
 		<id>282957</id>
@@ -8182,7 +8182,7 @@
 	<string>
 		<id>282958</id>
 		<name>STR_SKILL_NWI_FLY_DeadShot_Gargoyle_DESC</name>
-		<body>You are unable to fly.</body>
+		<body>Você não pode voar.</body>
 	</string>
 	<string>
 		<id>282959</id>
@@ -8192,7 +8192,7 @@
 	<string>
 		<id>282960</id>
 		<name>STR_SKILL_NWI_SmallBurst_Gargoyle_DESC</name>
-		<body>You were shot by Firearm and received damage.</body>
+		<body>Você foi baleado por arma de fogo e recebeu dano.</body>
 	</string>
 	<string>
 		<id>282961</id>
@@ -8202,7 +8202,7 @@
 	<string>
 		<id>282962</id>
 		<name>STR_SKILL_RA_BackdashStab_G1_DESC</name>
-		<body>Inflicts [%e1.BackDashATK.MinDamage]~[%e1.BackDashATK.MaxDamage] physical damage on the target, and you are pushed back 25m. O alvo às vezes fica atordoado (stun) por [%e2.Stun.RemainTime].&#xA;Habilidade de Stigma.</body>
+		<body>Causa [%e1.BackDashATK.MinDamage]~[%e1.BackDashATK.MaxDamage] de dano físico no alvo e você é empurrado 25m para trás. O alvo às vezes fica atordoado (stun) por [%e2.Stun.RemainTime].&#xA;Habilidade de Stigma.</body>
 	</string>
 	<string>
 		<id>282963</id>
@@ -8212,7 +8212,7 @@
 	<string>
 		<id>282964</id>
 		<name>STR_SKILL_AS_DashAttack_G1_DESC</name>
-		<body>Inflicts [%e1.DashATK.MinDamage]~[%e1.DashATK.MaxDamage] physical damage by dashing to the target within [%First_Target_Valid_Distance]m.</body>
+		<body>Causa [%e1.DashATK.MinDamage]~[%e1.DashATK.MaxDamage] de dano físico ao correr para o alvo em uma distância de até [%First_Target_Valid_Distance]m.</body>
 	</string>
 	<string>
 		<id>282965</id>
@@ -8222,7 +8222,7 @@
 	<string>
 		<id>282966</id>
 		<name>STR_SKILL_AS_MoveBehindAttack_DESC</name>
-		<body>Moves to the rear of the target and attacks it from behind</body>
+		<body>Move-se para as costas do alvo e o ataca por trás.</body>
 	</string>
 	<string>
 		<id>282967</id>
@@ -8242,17 +8242,17 @@
 	<string>
 		<id>282970</id>
 		<name>STR_SKILL_NFI_BrownieHelpcall1_DESC</name>
-		<body>You heard a Quiet Shout.</body>
+		<body>Você ouviu um Grito Silencioso.</body>
 	</string>
 	<string>
 		<id>282971</id>
 		<name>STR_SKILL_NFI_BrownieHelpcall2_DESC</name>
-		<body>You heard a Loud Shout.</body>
+		<body>Você ouviu um Grito Alto.</body>
 	</string>
 	<string>
 		<id>282972</id>
 		<name>STR_SKILL_NFI_BrownieHelpcall3_DESC</name>
-		<body>You heard a Very Loud Shout.</body>
+		<body>Você ouviu um Grito Muito Alto.</body>
 	</string>
 	<string>
 		<id>282973</id>
@@ -8262,7 +8262,7 @@
 	<string>
 		<id>282974</id>
 		<name>STR_SKILL_RA_StreamingArrow_G1_DESC</name>
-		<body>Attacks a target within [%First_Target_Valid_Distance]m while in mid-air, and Inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] physical damage.</body>
+		<body>Ataca um alvo que esteja a até [%First_Target_Valid_Distance]m de distância enquanto está no ar (aetherhold) e causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico.</body>
 	</string>
 	<string>
 		<id>282975</id>
@@ -8272,7 +8272,7 @@
 	<string>
 		<id>282976</id>
 		<name>STR_SKILL_AS_FlyingStabber_G1_DESC</name>
-		<body>Inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] physical damage on an airborne target, and causes it to crash to the ground.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico a um alvo no ar (aetherhold) e faz com que ele caia no chão.</body>
 	</string>
 	<string>
 		<id>282977</id>
@@ -8282,7 +8282,7 @@
 	<string>
 		<id>282978</id>
 		<name>STR_SKILL_FI_SmallBlow_G3_DESC</name>
-		<body>Physical Strike&#xA;Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.</body>
+		<body>Ataque Físico&#xA;Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.</body>
 	</string>
 	<string>
 		<id>282979</id>
@@ -8292,7 +8292,7 @@
 	<string>
 		<id>282980</id>
 		<name>STR_SKILL_FI_SeismicWave_G2_DESC</name>
-		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico em até 3 inimigos que estejam a até 7m ao seu redor.&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico em até 3 inimigos que estejam em um raio de 7m.&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>282981</id>
@@ -8302,7 +8302,7 @@
 	<string>
 		<id>282982</id>
 		<name>STR_SKILL_FI_BlowChain_G3_DESC</name>
-		<body>Ataque Físico + Reduce Defence&#xA;(Habilidade de Sequência nível 1.)&#xA;Attacks a target and temporarily lowers its defence power.</body>
+		<body>Ataque Físico + Redução de Defesa&#xA;Ataca um alvo e reduz temporariamente seu poder de defesa.&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>282983</id>
@@ -8312,7 +8312,7 @@
 	<string>
 		<id>282984</id>
 		<name>STR_SKILL_FI_AggressiveMode_G2_DESC</name>
-		<body>Increases your [%e1.StatBoost.StatName] but decreases your [%e2.StatBoost.StatName].&#xA;Habilidade Ativa</body>
+		<body>Aumenta seu [%e1.StatBoost.StatName], mas diminui seu [%e2.StatBoost.StatName].&#xA;Habilidade Ativa</body>
 	</string>
 	<string>
 		<id>282985</id>
@@ -8322,7 +8322,7 @@
 	<string>
 		<id>282986</id>
 		<name>STR_SKILL_KN_Provoke_G3_DESC</name>
-		<body>Provoca um alvo que esteja a até [%First_Target_Valid_Distance]m de você, causa [%e1.SpellATK_Instant.FixDamage] de dano mágico no alvo e aumenta sua Provocação em relação a você.</body>
+		<body>Provoca um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você, causa [%e1.SpellATK_Instant.FixDamage] de dano mágico no alvo e aumenta sua Provocação em relação a você.</body>
 	</string>
 	<string>
 		<id>282987</id>
@@ -8362,7 +8362,7 @@
 	<string>
 		<id>282994</id>
 		<name>STR_SKILL_NFI_Summon_QGargoyleBoss_DESC</name>
-		<body>A gargoyle is summoned.</body>
+		<body>Um gárgula é invocado.</body>
 	</string>
 	<string>
 		<id>282995</id>
@@ -8372,7 +8372,7 @@
 	<string>
 		<id>282996</id>
 		<name>STR_SKILL_NFI_Blow_QGargoyleBoss_DESC</name>
-		<body>You were hit by Severe Blow and received damage.</body>
+		<body>Você foi atingido por Severe Blow e recebeu dano.</body>
 	</string>
 	<string>
 		<id>282997</id>
@@ -8382,7 +8382,7 @@
 	<string>
 		<id>282998</id>
 		<name>STR_SKILL_NFI_Stumble_QGargoyleBoss_DESC</name>
-		<body>You are stunned after getting hit by Thrust.</body>
+		<body>Você está atordoado depois de ser atingido por Thrust.</body>
 	</string>
 	<string>
 		<id>282999</id>
@@ -8412,7 +8412,7 @@
 	<string>
 		<id>283004</id>
 		<name>STR_SKILL_RA_BlowChain_G3_DESC</name>
-		<body>Ataque Físico&#xA;(Habilidade de Sequência nível 1.)</body>
+		<body>Ataque Físico&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>283005</id>
@@ -8422,7 +8422,7 @@
 	<string>
 		<id>283006</id>
 		<name>STR_SKILL_RA_Light_ExplosionTrap_G2_DESC</name>
-		<body>Uses 3 Tripeed fruits to set up a ranged trap around you. The trap remains active for [%e1.SummonTrap.SummonTime] and explodes when an enemy approaches. Its area of effect is within a 10m radius.</body>
+		<body>Usa 3 Tripeed Fruits para montar uma armadilha de longo alcance ao seu redor. A armadilha permanece ativa por [%e1.SummonTrap.SummonTime] e explode quando um inimigo se aproxima em um raio de 10m.</body>
 	</string>
 	<string>
 		<id>283007</id>
@@ -8432,7 +8432,7 @@
 	<string>
 		<id>283008</id>
 		<name>STR_SKILL_AS_BlowChain_G3_DESC</name>
-		<body>Ataque Físico&#xA;(Habilidade de Sequência nível 1.)</body>
+		<body>Ataque Físico&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>283009</id>
@@ -8442,7 +8442,7 @@
 	<string>
 		<id>283010</id>
 		<name>STR_SKILL_AS_DashAttack_G2_DESC</name>
-		<body>Inflicts [%e1.DashATK.MinDamage]~[%e1.DashATK.MaxDamage] physical damage by dashing to the target within [%First_Target_Valid_Distance]m.</body>
+		<body>Causa [%e1.DashATK.MinDamage]~[%e1.DashATK.MaxDamage] de dano físico ao correr para o alvo em uma distância de até [%First_Target_Valid_Distance]m.</body>
 	</string>
 	<string>
 		<id>283011</id>
@@ -8452,7 +8452,7 @@
 	<string>
 		<id>283012</id>
 		<name>STR_SKILL_AS_PoisoningIntention_G2_DESC</name>
-		<body>Uses 2 Scolopen Poison to spread the poison on weapon. For [%e1.Provoker.RemainTime], there is a [%e1.Provoker.ConditionProb]%% chance of poisoning the target with each attack.</body>
+		<body>Usa 2 Scolopen Poison para espalhar o veneno na arma. Por [%e1.Provoker.RemainTime], há [%e1.Provoker.ConditionProb]%% de chance de envenenar o alvo com cada ataque.</body>
 	</string>
 	<string>
 		<id>283013</id>
@@ -8472,7 +8472,7 @@
 	<string>
 		<id>283016</id>
 		<name>STR_SKILL_AS_BreezeofCalm_G2_DESC</name>
-		<body>Decreases the Enmity of a target within [%First_Target_Valid_Distance]m.</body>
+		<body>Diminui a Provocação de um alvo que esteja a até [%First_Target_Valid_Distance]m de distância.</body>
 	</string>
 	<string>
 		<id>283017</id>
@@ -8522,7 +8522,7 @@
 	<string>
 		<id>283026</id>
 		<name>STR_SKILL_PR_Regeneration_G2_DESC</name>
-		<body>Magical Healing&#xA;Inicialmente Cura o HP do alvo em [%e1.Heal_Instant.Heal] e depois recupera seu HP em [%e2.Heal.CheckTimeHeal] a cada [%e2.Heal.CheckTime] por [%e2.Heal.RemainTime].</body>
+		<body>Cura Mágica&#xA;Inicialmente Cura o HP do alvo em [%e1.Heal_Instant.Heal] e depois recupera seu HP em [%e2.Heal.CheckTimeHeal] a cada [%e2.Heal.CheckTime] por [%e2.Heal.RemainTime].</body>
 	</string>
 	<string>
 		<id>283027</id>
@@ -8552,7 +8552,7 @@
 	<string>
 		<id>283032</id>
 		<name>STR_SKILL_CH_ViolentSwing_G2_DESC</name>
-		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. Diminui a [%e2.StatDown.StatName] do alvo em [%e2.StatDown.Value] e a [%e3.StatDown.StatName] em [%e3.StatDown.Value]%% por [%e2.StatDown.RemainTime ].&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. Diminui a [%e2.StatDown.StatName] do alvo em [%e2.StatDown.Value] e a [%e3.StatDown.StatName] em [%e3.StatDown.Value]%% por [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>283033</id>
@@ -8582,7 +8582,7 @@
 	<string>
 		<id>283038</id>
 		<name>STR_SKILL_CH_BlowChain_G3_DESC</name>
-		<body>Ataque Físico&#xA;(Habilidade de Sequência nível 1.)</body>
+		<body>Ataque Físico&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>283039</id>
@@ -8602,7 +8602,7 @@
 	<string>
 		<id>283042</id>
 		<name>STR_SKILL_MA_IceGrab_G1_DESC</name>
-		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo dentro que esteja a até [%First_Target_Valid_Distance]m de distância de você of you, and reduces its movement speed for [%e2.Snare.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você e reduz sua Velocidade de Movimento por [%e2.Snare.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>283043</id>
@@ -8612,7 +8612,7 @@
 	<string>
 		<id>283044</id>
 		<name>STR_SKILL_MA_IceGrab_G2_DESC</name>
-		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo dentro que esteja a até [%First_Target_Valid_Distance]m de distância de você of you, and reduces its movement speed for [%e2.Snare.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você e reduz sua Velocidade de Movimento por [%e2.Snare.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>283045</id>
@@ -8642,7 +8642,7 @@
 	<string>
 		<id>283050</id>
 		<name>STR_SKILL_WI_FrozenField_G2_DESC</name>
-		<body>Inflicts [%e1.SpellATK_Instant.FixDamage] water damage on the enemies within a 15m radius of you, and immobilizes them for [%e2.Root.RemainTime].</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] dano mágico de água nos inimigos em um raio de 15m de você e os imobiliza por [%e2.Root.RemainTime].</body>
 	</string>
 	<string>
 		<id>283051</id>
@@ -8662,7 +8662,7 @@
 	<string>
 		<id>283054</id>
 		<name>STR_SKILL_WI_Snarechain_G3_DESC</name>
-		<body>Magical Water Strike + Snare&#xA;(Habilidade de Sequência nível 1.)&#xA;Inflicts damage on a target and reduces its movement speed.</body>
+		<body>Golpe Mágico de Água + Armadilha&#xA;Causa dano a um alvo e reduz sua Velocidade de Movimento.&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>283055</id>
@@ -8682,7 +8682,7 @@
 	<string>
 		<id>283058</id>
 		<name>STR_SKILL_EL_EarthGrab_G1_DESC</name>
-		<body>Inflicts [%e1.SpellATK_Instant.FixDamage] earth damage on a target within [%First_Target_Valid_Distance]m, decreases its movement speed for [%e3.Snare.RandomTime]~[%e3.Snare.RemainTime], and deals additional [%e2.SpellATK.Damage] damage every [%e2.SpellATK.CheckTime].&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] dano mágico de terra em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância, diminui sua Velocidade de Movimento por [%e3.Snare.RandomTime]~[%e3.Snare.RemainTime] e causa [%e2 adicionais .SpellATK.Damage] de dano adicional a cada [%e2.SpellATK.CheckTime].&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>283059</id>
@@ -8722,7 +8722,7 @@
 	<string>
 		<id>283066</id>
 		<name>STR_SKILL_EL_BurningWind_G2_DESC</name>
-		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de terra no alvo. The skill also makes the target bleed and decreases its [%e3.StatDown.StatName] by [%e3.StatDown.Value]%% and [%e4.StatDown.StatName] by [%e4.StatDown.Value]%% for [%e2.Bleed.RemainTime].</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de terra no alvo. A habilidade também faz o alvo sangrar e diminui seu [%e3.StatDown.StatName] em [%e3.StatDown.Value]%% e [%e4.StatDown.StatName] em [%e4.StatDown.Value]%% por [%e2.Bleed.RemainTime].</body>
 	</string>
 	<string>
 		<id>283067</id>
@@ -8782,7 +8782,7 @@
 	<string>
 		<id>283078</id>
 		<name>STR_SKILL_Stigma_EnhancedRobe_DESC</name>
-		<body>Permite que você use armadura de pano.</body>
+		<body>Permite que você use armadura Cloth.</body>
 	</string>
 	<string>
 		<id>283079</id>
@@ -8852,7 +8852,7 @@
 	<string>
 		<id>283092</id>
 		<name>STR_SKILL_Stigma_DelayedBurst_DESC</name>
-		<body>Magical Delayed Strike&#xA;Inflicts damage a while after the spell is cast.</body>
+		<body>Ataque Mágico com Atraso&#xA;Causa dano um pouco depois que o feitiço é lançado.</body>
 	</string>
 	<string>
 		<id>283093</id>
@@ -8862,7 +8862,7 @@
 	<string>
 		<id>283094</id>
 		<name>STR_SKILL_Stigma_DodgeStun_DESC</name>
-		<body>Physical Dodge -&gt; Strike + Stun&#xA;Counter skill triggered when an attack is dodged&#xA;Attacks the target and stuns it temporarily.</body>
+		<body>Esquiva Física -&gt; Strike + Stun&#xA;Habilidade de contra-ataque acionada quando um ataque é desviado&#xA;Ataca o alvo e o atordoa (stun) temporariamente.</body>
 	</string>
 	<string>
 		<id>283095</id>
@@ -8882,7 +8882,7 @@
 	<string>
 		<id>283098</id>
 		<name>STR_SKILL_Stigma_SmallDOT_DESC</name>
-		<body>Sustainable Magic Blow&#xA;Inflicts damage on a target at a certain interval.</body>
+		<body>Ataque Mágico Sustentável&#xA;Causa dano a um alvo em um determinado intervalo.</body>
 	</string>
 	<string>
 		<id>283099</id>
@@ -8892,7 +8892,7 @@
 	<string>
 		<id>283100</id>
 		<name>STR_SKILL_Stigma_BlockKnockBack_DESC</name>
-		<body>Bashes the target with a shield and knocks it back.&#xA;It can be triggered after you used Block. Requer um Escudo. O alvo não pode desviar.</body>
+		<body>Golpeia o alvo com um escudo e o empurra (knockback). Pode ser usado depois de um Block bem-sucedido.&#xA;O alvo não pode desviar.&#xA;Requer um Escudo.</body>
 	</string>
 	<string>
 		<id>283101</id>
@@ -8902,7 +8902,7 @@
 	<string>
 		<id>283102</id>
 		<name>STR_SKILL_Stigma_StatUpDodge_DESC</name>
-		<body>Magical Evasion Rate Buff&#xA;Temporarily boosts your evasion rate significantly.</body>
+		<body>Buff de Taxa de Evasão Mágica&#xA;Aumenta temporariamente sua taxa de evasão significativamente.</body>
 	</string>
 	<string>
 		<id>283103</id>
@@ -8912,7 +8912,7 @@
 	<string>
 		<id>283104</id>
 		<name>STR_SKILL_Stigma_Reflect_DESC</name>
-		<body>Magical Buff (Reflect)&#xA;Returns a part of the physical damage received back to the enemy.</body>
+		<body>Buff Mágico (Refletir)&#xA;Devolve uma parte do dano físico recebido ao inimigo.</body>
 	</string>
 	<string>
 		<id>283105</id>
@@ -8942,7 +8942,7 @@
 	<string>
 		<id>283110</id>
 		<name>STR_SKILL_NFI_SmallBlow_SlaveKrall_DESC</name>
-		<body>You were hit by Strike of Loyalty and received damage.</body>
+		<body>Você foi atingido por Strike of Loyalty e recebeu dano.</body>
 	</string>
 	<string>
 		<id>283111</id>
@@ -8952,7 +8952,7 @@
 	<string>
 		<id>283112</id>
 		<name>STR_SKILL_NFI_Blow_SlaveKrall_DESC</name>
-		<body>You were hit by Smash and received damage.</body>
+		<body>Você foi atingido por Smash e recebeu dano.</body>
 	</string>
 	<string>
 		<id>283113</id>
@@ -8962,7 +8962,7 @@
 	<string>
 		<id>283114</id>
 		<name>STR_SKILL_NKN_StatUpPhyDefense_ShortD3_DESC</name>
-		<body>Physical defence has increased.</body>
+		<body>A defesa física aumentou.</body>
 	</string>
 	<string>
 		<id>283115</id>
@@ -8972,7 +8972,7 @@
 	<string>
 		<id>283116</id>
 		<name>STR_SKILL_NKN_BlowChain_KrallKN_DESC</name>
-		<body>You were hit by Severe Blow Chain Skill and received damage.</body>
+		<body>Você foi atingido por Severe Blow Chain Skill e recebeu dano.</body>
 	</string>
 	<string>
 		<id>283117</id>
@@ -8982,7 +8982,7 @@
 	<string>
 		<id>283118</id>
 		<name>STR_SKILL_NKN_Chain1BlowStun_KrallKN_DESC</name>
-		<body>You are stunned after getting hit by Rapid Severe Blow Chain Skill.</body>
+		<body>Você ficou atordoado (stun) após ser atingido pela habilidade Rapid Severe Blow Chain Skill.</body>
 	</string>
 	<string>
 		<id>283119</id>
@@ -8992,7 +8992,7 @@
 	<string>
 		<id>283120</id>
 		<name>STR_SKILL_NWI_SmallBurst_SlaveKrall_DESC</name>
-		<body>You were hit by Flame Bullet of Loyalty and received damage.</body>
+		<body>Você foi atingido por Flame Bullet of Loyalty e recebeu dano.</body>
 	</string>
 	<string>
 		<id>283121</id>
@@ -9002,7 +9002,7 @@
 	<string>
 		<id>283122</id>
 		<name>STR_SKILL_NWI_AreaBurst_SlaveKrall_DESC</name>
-		<body>You were hit by Explosion of Loyalty and received damage.</body>
+		<body>Você foi atingido por Explosão de Lealdade e recebeu dano.</body>
 	</string>
 	<string>
 		<id>283123</id>
@@ -9012,7 +9012,7 @@
 	<string>
 		<id>283124</id>
 		<name>STR_SKILL_NWI_Reflect_KrallWI_DESC</name>
-		<body>Returns a part of the received damage back to the enemy.</body>
+		<body>Devolve uma parte do dano recebido ao inimigo.</body>
 	</string>
 	<string>
 		<id>283125</id>
@@ -9022,7 +9022,7 @@
 	<string>
 		<id>283126</id>
 		<name>STR_SKILL_NWI_Burst_LF1boss_DESC</name>
-		<body>You were hit by Flame Bullet of Wrath and received damage.</body>
+		<body>Você foi atingido por Flame Bullet of Wrath e recebeu dano.</body>
 	</string>
 	<string>
 		<id>283127</id>
@@ -9032,7 +9032,7 @@
 	<string>
 		<id>283128</id>
 		<name>STR_SKILL_NWI_TargetAreaBurst_LF1boss_DESC</name>
-		<body>You suffered damage from the Chain Flame Bullet of Wrath.</body>
+		<body>Você sofreu dano da Chain Flame Bullet of Wrath.</body>
 	</string>
 	<string>
 		<id>283129</id>
@@ -9042,7 +9042,7 @@
 	<string>
 		<id>283130</id>
 		<name>STR_SKILL_NWI_AreaBurst_LF1boss_DESC</name>
-		<body>You were hit by Explosion of Wrath and received damage.</body>
+		<body>Você foi atingido por Explosion of Wrath e recebeu dano.</body>
 	</string>
 	<string>
 		<id>283131</id>
@@ -9052,7 +9052,7 @@
 	<string>
 		<id>283132</id>
 		<name>STR_SKILL_NWI_AreaSleep_LF1boss_DESC</name>
-		<body>You have been put to Sleep.</body>
+		<body>Você foi colocado para dormir.</body>
 	</string>
 	<string>
 		<id>283133</id>
@@ -9072,7 +9072,7 @@
 	<string>
 		<id>283136</id>
 		<name>STR_SKILL_NKN_Greatheal_D3_DESC</name>
-		<body>Your HP was restored by Healing Grace.</body>
+		<body>Sua HP foi restaurada por Healing Grace.</body>
 	</string>
 	<string>
 		<id>283137</id>
@@ -9102,7 +9102,7 @@
 	<string>
 		<id>283142</id>
 		<name>STR_SKILL_P_StatBoostDodge_G1_DESC</name>
-		<body>Increases the evasion rate.</body>
+		<body>Aumenta a taxa de Evasão.</body>
 	</string>
 	<string>
 		<id>283143</id>
@@ -9112,7 +9112,7 @@
 	<string>
 		<id>283144</id>
 		<name>STR_SKILL_RA_StatBoostDodge_DESC</name>
-		<body>Boosts [%e1.StatBoost.StatName].</body>
+		<body>Aumenta a [%e1.StatBoost.StatName].</body>
 	</string>
 	<string>
 		<id>283145</id>
@@ -9122,7 +9122,7 @@
 	<string>
 		<id>283146</id>
 		<name>STR_SKILL_Quest_StatupDefense_DESC</name>
-		<body>Maximises the Quest Slime&apos;s magical and physical defences.</body>
+		<body>Maximiza as defesas mágicas e físicas do Quest Slime.</body>
 	</string>
 	<string>
 		<id>283147</id>
@@ -9132,7 +9132,7 @@
 	<string>
 		<id>283148</id>
 		<name>STR_SKILL_Test_QuestDispel_DESC</name>
-		<body>Neutralizes the maximised magical and physical defences of the Quest Slime.</body>
+		<body>Neutraliza as defesas mágicas e físicas maximizadas do Quest Slime.</body>
 	</string>
 	<string>
 		<id>283149</id>
@@ -9142,7 +9142,7 @@
 	<string>
 		<id>283150</id>
 		<name>STR_SKILL_Quest_Poison_Liquid_DESC</name>
-		<body>Enhanced poison skill of the Quest Slime</body>
+		<body>Habilidade de veneno aprimorada do Quest Slime</body>
 	</string>
 	<string>
 		<id>283151</id>
@@ -9152,7 +9152,7 @@
 	<string>
 		<id>283152</id>
 		<name>STR_SKILL_EL_PetOrderUseUltraSkill_DESC</name>
-		<body>Orders your spirit to use its special attack.</body>
+		<body>Ordena seu espírito para usar seu ataque especial.</body>
 	</string>
 	<string>
 		<id>283153</id>
@@ -9192,17 +9192,17 @@
 	<string>
 		<id>283174</id>
 		<name>STR_SKILL_NFI_SmallBlowArea_SD3_DESC</name>
-		<body>You were hit by Wrath of Master and received damage.</body>
+		<body>Você foi atingido por Wrath of Master e recebeu dano.</body>
 	</string>
 	<string>
 		<id>283175</id>
 		<name>STR_SKILL_MA_EQUIP_EnhancedOrb</name>
-		<body>Basic Orb Training</body>
+		<body>Treinamento Básico de Orb </body>
 	</string>
 	<string>
 		<id>283176</id>
 		<name>STR_SKILL_MA_EQUIP_EnhancedOrb_DESC</name>
-		<body>Allows you to use orbs.</body>
+		<body>Permite que você use orbs.</body>
 	</string>
 	<string>
 		<id>283177</id>
@@ -9222,7 +9222,7 @@
 	<string>
 		<id>283180</id>
 		<name>STR_SKILL_Blow_QundeadBoss_DESC</name>
-		<body>The powerful strike of Tenacity, who appears in the class change quests.</body>
+		<body>O poderoso ataque de Tenacity, que aparece nas missões de mudança de classe.</body>
 	</string>
 	<string>
 		<id>283181</id>
@@ -9232,7 +9232,7 @@
 	<string>
 		<id>283182</id>
 		<name>STR_SKILL_Hide_QUndeadBoss_DESC</name>
-		<body>The hiding skill of Tenacity, who appears in the class change quests [this effect makes one miss the target].</body>
+		<body>A habilidade de se esconder de Tenacity, que aparece nas quests de mudança de classe [esse efeito faz errar o alvo].</body>
 	</string>
 	<string>
 		<id>283183</id>
@@ -9242,7 +9242,7 @@
 	<string>
 		<id>283184</id>
 		<name>STR_SKILL_NAS_BlowBleed_Scratch_DESC</name>
-		<body>You are bleeding after getting Scratched.</body>
+		<body>Você está sangrando depois de ser arranhado.</body>
 	</string>
 	<string>
 		<id>283185</id>
@@ -9252,7 +9252,7 @@
 	<string>
 		<id>283186</id>
 		<name>STR_SKILL_NAS_Hide_ShadowS_DESC</name>
-		<body>You used Hide and are now Invisible.</body>
+		<body>Você usou Hide e agora está invisível.</body>
 	</string>
 	<string>
 		<id>283187</id>
@@ -9262,7 +9262,7 @@
 	<string>
 		<id>283188</id>
 		<name>STR_SKILL_NAS_Snare_Eye_DESC</name>
-		<body>You are under the effect of Eye of Enervation and suffer slower movement speed.</body>
+		<body>Você está sob o efeito de Eye of Enervation e sua Velocidade de Movimento ficou mais lenta.</body>
 	</string>
 	<string>
 		<id>283189</id>
@@ -9272,7 +9272,7 @@
 	<string>
 		<id>283190</id>
 		<name>STR_SKILL_NFI_AreaBlow_Basic_DESC</name>
-		<body>You were hit by Wrathful Crush and received damage.</body>
+		<body>Você foi atingido por Wrathful Crush e recebeu dano.</body>
 	</string>
 	<string>
 		<id>283191</id>
@@ -9282,7 +9282,7 @@
 	<string>
 		<id>283192</id>
 		<name>STR_SKILL_NFI_AreaStun_DF1ch_DESC</name>
-		<body>You are stunned after getting hit by Wrathful Wave.</body>
+		<body>Você está atordoado (stun) depois de ser atingido por Wrathful Wave.</body>
 	</string>
 	<string>
 		<id>283193</id>
@@ -9292,7 +9292,7 @@
 	<string>
 		<id>283194</id>
 		<name>STR_SKILL_NFI_ArStormBlow_DF1ch_DESC</name>
-		<body>You were hit by Wrathful Strike and received damage.</body>
+		<body>Você foi atingido por Wrathful Strike e recebeu dano.</body>
 	</string>
 	<string>
 		<id>283195</id>
@@ -9302,7 +9302,7 @@
 	<string>
 		<id>283196</id>
 		<name>STR_SKILL_NFI_Blow_DF1ch_DESC</name>
-		<body>You were hit by Wrathful Punch and received damage.</body>
+		<body>Você foi atingido por Wrathful Punch e recebeu dano.</body>
 	</string>
 	<string>
 		<id>283197</id>
@@ -9312,7 +9312,7 @@
 	<string>
 		<id>283198</id>
 		<name>STR_SKILL_NFI_Blow_SlaveLycan_DESC</name>
-		<body>You were hit by Strike and received damage.</body>
+		<body>Você foi atingido por Strike e recebeu dano.</body>
 	</string>
 	<string>
 		<id>283199</id>
@@ -9322,7 +9322,7 @@
 	<string>
 		<id>283200</id>
 		<name>STR_SKILL_NFI_BlowChain_LycanFI_DESC</name>
-		<body>You were hit by Strike Chain Skill and received damage.</body>
+		<body>Você foi atingido por Strike Chain Skill e recebeu dano.</body>
 	</string>
 	<string>
 		<id>283201</id>
@@ -9392,7 +9392,7 @@
 	<string>
 		<id>283214</id>
 		<name>STR_SKILL_NFI_SmallBlow_SlaveLycan_DESC</name>
-		<body>You were hit by Strike of Loyalty and received damage.</body>
+		<body>Você foi atingido por Strike of Loyalty e recebeu dano.</body>
 	</string>
 	<string>
 		<id>283215</id>
@@ -9412,7 +9412,7 @@
 	<string>
 		<id>283218</id>
 		<name>STR_SKILL_NFI_StatUpPhysicalDefense_Trickdie_DESC</name>
-		<body>Physical defence has increased.</body>
+		<body>A defesa física aumentou.</body>
 	</string>
 	<string>
 		<id>283219</id>
@@ -9472,7 +9472,7 @@
 	<string>
 		<id>283230</id>
 		<name>STR_SKILL_NKN_LightHealSelf_D3_DESC</name>
-		<body>Your HP was restored by Cure of Life.</body>
+		<body>Sua HP foi restaurada por Cure of Life.</body>
 	</string>
 	<string>
 		<id>283231</id>
@@ -9482,7 +9482,7 @@
 	<string>
 		<id>283232</id>
 		<name>STR_SKILL_NKN_SmallBlow_Brandish_DESC</name>
-		<body>You were hit by Brandish and received damage.</body>
+		<body>Você foi atingido por Brandish e recebeu dano.</body>
 	</string>
 	<string>
 		<id>283233</id>
@@ -9492,7 +9492,7 @@
 	<string>
 		<id>283234</id>
 		<name>STR_SKILL_NKN_StatUpPhysicalDefense_LycanPR_DESC</name>
-		<body>Physical defence has increased.</body>
+		<body>A defesa física aumentou.</body>
 	</string>
 	<string>
 		<id>283235</id>
@@ -9502,7 +9502,7 @@
 	<string>
 		<id>283236</id>
 		<name>STR_SKILL_NKN_StatUpPhysicalDefense_Protect_DESC</name>
-		<body>Physical defence has increased.</body>
+		<body>A defesa física aumentou.</body>
 	</string>
 	<string>
 		<id>283237</id>
@@ -9542,7 +9542,7 @@
 	<string>
 		<id>283244</id>
 		<name>STR_SKILL_NRA_Poison_Thornspew_DESC</name>
-		<body>You have become poisoned.</body>
+		<body>Você está envenenado.</body>
 	</string>
 	<string>
 		<id>283245</id>
@@ -9587,7 +9587,7 @@
 	<string>
 		<id>283253</id>
 		<name>STR_SKILL_NWI_Reflectshort_D3_DESC</name>
-		<body>Returns a part of the received damage back to the enemy.</body>
+		<body>Devolve uma parte do dano recebido ao inimigo.</body>
 	</string>
 	<string>
 		<id>283254</id>
@@ -9637,7 +9637,7 @@
 	<string>
 		<id>283271</id>
 		<name>STR_SKILL_WA_Rage_G1_DESC</name>
-		<body>For [%e1.StatUp.RemainTime],[%e1.StatUp.StatName] is increased by [%e1.StatUp.Value] and you receive a protective shield which has a [%e2.Shield.ConditionProb]%% chance of absorbing up to [%e2.Shield.ShieldValue] damage each time you receive [%e2.Shield.Condition].&#xA;Habilidade de Sequência nível 2&#xA;Ferocious Strike – Rage</body>
+		<body>Por [%e1.StatUp.RemainTime], [%e1.StatUp.StatName] é aumentado em [%e1.StatUp.Value] e você recebe um escudo protetor que tem [%e2.Shield.ConditionProb]%% de chance de absorver até [%e2.Shield.ShieldValue] de dano cada vez que recebe [%e2.Shield.Condition].&#xA;Habilidade de Sequência nível 2&#xA;Ferocious Strike – Rage</body>
 	</string>
 	<string>
 		<id>283272</id>
@@ -9647,7 +9647,7 @@
 	<string>
 		<id>283273</id>
 		<name>STR_SKILL_Devil_Debuff_DESC</name>
-		<body>You feel lethargic and drowsy for no reason.</body>
+		<body>Você se sente letárgico e sonolento sem motivo.</body>
 	</string>
 	<string>
 		<id>283274</id>
@@ -9657,7 +9657,7 @@
 	<string>
 		<id>283275</id>
 		<name>STR_SKILL_P_StatBoostParry_G1_DESC</name>
-		<body>Increases your parry rate.</body>
+		<body>Aumenta sua taxa de Parry.</body>
 	</string>
 	<string>
 		<id>283276</id>
@@ -9677,7 +9677,7 @@
 	<string>
 		<id>283279</id>
 		<name>STR_SKILL_Mending_G1_DESC</name>
-		<body>Uses 1 bandage to restore your HP by [%e1.Heal_Instant.Heal].</body>
+		<body>Usa 1 Bandage para restaurar sua HP em [%e1.Heal_Instant.Heal].</body>
 	</string>
 	<string>
 		<id>283292</id>
@@ -9687,7 +9687,7 @@
 	<string>
 		<id>283293</id>
 		<name>STR_SKILL_NRA_StatUpCritical_ShortD3_DESC</name>
-		<body>The chance of critical strikes has increased.</body>
+		<body>Aumenta a chance de ataques críticos.</body>
 	</string>
 	<string>
 		<id>283298</id>
@@ -9697,7 +9697,7 @@
 	<string>
 		<id>283299</id>
 		<name>STR_SKILL_WA_Rage_G2_DESC</name>
-		<body>For [%e1.StatUp.RemainTime],[%e1.StatUp.StatName] is increased by [%e1.StatUp.Value] and you receive a protective shield which has a [%e2.Shield.ConditionProb]%% chance of absorbing up to [%e2.Shield.ShieldValue] damage each time you receive [%e2.Shield.Condition].&#xA;Habilidade de Sequência nível 2&#xA;Ferocious Strike – Rage</body>
+		<body>Por [%e1.StatUp.RemainTime], [%e1.StatUp.StatName] é aumentado em [%e1.StatUp.Value] e você recebe um escudo protetor que tem [%e2.Shield.ConditionProb]%% de chance de absorver até [%e2.Shield.ShieldValue] de dano cada vez que recebe [%e2.Shield.Condition].&#xA;Habilidade de Sequência nível 2&#xA;Ferocious Strike – Rage</body>
 	</string>
 	<string>
 		<id>283300</id>
@@ -9707,7 +9707,7 @@
 	<string>
 		<id>283301</id>
 		<name>STR_SKILL_WA_Rage_G3_DESC</name>
-		<body>For [%e1.StatUp.RemainTime],[%e1.StatUp.StatName] is increased by [%e1.StatUp.Value] and you receive a protective shield which has a [%e2.Shield.ConditionProb]%% chance of absorbing up to [%e2.Shield.ShieldValue] damage each time you receive [%e2.Shield.Condition].&#xA;Habilidade de Sequência nível 2&#xA;Ferocious Strike – Rage</body>
+		<body>Por [%e1.StatUp.RemainTime], [%e1.StatUp.StatName] é aumentado em [%e1.StatUp.Value] e você recebe um escudo protetor que tem [%e2.Shield.ConditionProb]%% de chance de absorver até [%e2.Shield.ShieldValue] de dano cada vez que recebe [%e2.Shield.Condition].&#xA;Habilidade de Sequência nível 2&#xA;Ferocious Strike – Rage</body>
 	</string>
 	<string>
 		<id>283302</id>
@@ -9717,7 +9717,7 @@
 	<string>
 		<id>283303</id>
 		<name>STR_SKILL_NKN_StatUpPhysicalDefense_D2ME_DESC</name>
-		<body>Physical defence has increased.</body>
+		<body>Aumenta act defesa física.</body>
 	</string>
 	<string>
 		<id>283304</id>
@@ -9727,7 +9727,7 @@
 	<string>
 		<id>283305</id>
 		<name>STR_SKILL_KN_Rage_G2_DESC</name>
-		<body>Your [%e1.StatUp.StatName] increases by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime], and you can bear damage up to [%e2.Shield.CoverValue] whenever you receive [%e2.Shield.Condition].&#xA;Habilidade de Sequência nível 2&#xA;Ferocious Strike – Rage.</body>
+		<body>Seu [%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime], e você pode suportar danos de até [%e2.Shield.CoverValue] sempre que receber [%e2 .Shield.Condition].&#xA;Habilidade de Sequência nível 2&#xA;Ferocious Strike – Rage.</body>
 	</string>
 	<string>
 		<id>283306</id>
@@ -9737,7 +9737,7 @@
 	<string>
 		<id>283307</id>
 		<name>STR_SKILL_KN_Rage_G3_DESC</name>
-		<body>Your [%e1.StatUp.StatName] increases by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime], and you can bear damage up to [%e2.Shield.CoverValue] whenever you receive [%e2.Shield.Condition].&#xA;Habilidade de Sequência nível 2&#xA;Ferocious Strike – Rage.</body>
+		<body>Seu [%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime], e você pode suportar danos de até [%e2.Shield.CoverValue] sempre que receber [%e2 .Shield.Condition].&#xA;Habilidade de Sequência nível 2&#xA;Ferocious Strike – Rage.</body>
 	</string>
 	<string>
 		<id>283308</id>
@@ -9747,7 +9747,7 @@
 	<string>
 		<id>283309</id>
 		<name>STR_SYSTEM_SKILL_CH_AuraStatUpAreaPhyAttackEffect_G2_DESC</name>
-		<body>Magical Ataque Físico Aura</body>
+		<body>Aura de Ataque Mágico e Físico</body>
 	</string>
 	<string>
 		<id>283310</id>
@@ -9757,7 +9757,7 @@
 	<string>
 		<id>283311</id>
 		<name>STR_SYSTEM_SKILL_CH_AuraStatUpAreaSpeedEffect_G2_DESC</name>
-		<body>Magical movement speed aura</body>
+		<body>Aura mágica de Velocidade de Movimento</body>
 	</string>
 	<string>
 		<id>283312</id>
@@ -9767,7 +9767,7 @@
 	<string>
 		<id>283313</id>
 		<name>STR_SKILL_KN_Guardian_G1_DESC</name>
-		<body>Boosts your physical defence each time you are attacked with the probability of [%e1.Provoker.ConditionProb]%% for [%e1.Provoker.RemainTime].</body>
+		<body>Aumenta sua defesa física cada vez que você é atacado com [%e1.Provoker.ConditionProb]%% de probabilidade por [%e1.Provoker.RemainTime].</body>
 	</string>
 	<string>
 		<id>283314</id>
@@ -9777,7 +9777,7 @@
 	<string>
 		<id>283315</id>
 		<name>STR_SKILL_KN_Guardian_G2_DESC</name>
-		<body>Boosts your physical defence each time you are attacked with the probability of [%e1.Provoker.ConditionProb]%% for [%e1.Provoker.RemainTime].</body>
+		<body>Aumenta sua defesa física cada vez que você é atacado com [%e1.Provoker.ConditionProb]%% de probabilidade por [%e1.Provoker.RemainTime].</body>
 	</string>
 	<string>
 		<id>283316</id>
@@ -9787,7 +9787,7 @@
 	<string>
 		<id>283317</id>
 		<name>STR_SKILL_PEL_Taunt_G1_DESC</name>
-		<body>A Taunt skill of the earth spirit.</body>
+		<body>Uma habilidade de Provocação do espírito da terra.</body>
 	</string>
 	<string>
 		<id>283318</id>
@@ -9797,7 +9797,7 @@
 	<string>
 		<id>283319</id>
 		<name>STR_SKILL_PEL_Taunt_G2_DESC</name>
-		<body>A Taunt skill of the earth spirit.</body>
+		<body>Uma habilidade de Provocação do espírito da terra.</body>
 	</string>
 	<string>
 		<id>283320</id>
@@ -9807,7 +9807,7 @@
 	<string>
 		<id>283321</id>
 		<name>STR_SKILL_PEL_Air_G1_DESC</name>
-		<body>A Stun skill of the wind spirit.</body>
+		<body>Uma habilidade de atordoamento (stun) do espírito do vento.</body>
 	</string>
 	<string>
 		<id>283322</id>
@@ -9817,7 +9817,7 @@
 	<string>
 		<id>283323</id>
 		<name>STR_SKILL_PEL_Air_G2_DESC</name>
-		<body>A Stun skill of the wind spirit.</body>
+		<body>Uma habilidade de atordoamento (stun) do espírito do vento.</body>
 	</string>
 	<string>
 		<id>283324</id>
@@ -9827,7 +9827,7 @@
 	<string>
 		<id>283325</id>
 		<name>STR_SKILL_Mending_G2_DESC</name>
-		<body>Uses 1 Lesser Odella Powder to restore your HP by [%e1.Heal_Instant.Heal].</body>
+		<body>Usa 1 Lesser Odella Powder para restaurar sua HP em [%e1.Heal_Instant.Heal].</body>
 	</string>
 	<string>
 		<id>283326</id>
@@ -9837,7 +9837,7 @@
 	<string>
 		<id>283327</id>
 		<name>STR_SKILL_Mending_G3_DESC</name>
-		<body>Uses 1 Odella Powder to restore your HP by [%e1.Heal_Instant.Heal].</body>
+		<body>Usa 1 Odella Powder para restaurar sua HP em [%e1.Heal_Instant.Heal].</body>
 	</string>
 	<string>
 		<id>283328</id>
@@ -9907,7 +9907,7 @@
 	<string>
 		<id>283341</id>
 		<name>STR_SKILL_NFI_SmallBlow_StaggerD2_DESC</name>
-		<body>You are stunned after getting Pushed Off.</body>
+		<body>Você ficou atordoado (stun) depois de ser empurrado.</body>
 	</string>
 	<string>
 		<id>283342</id>
@@ -9917,7 +9917,7 @@
 	<string>
 		<id>283343</id>
 		<name>STR_SKILL_NWI_RandomMoveLoc_Nr_DESC</name>
-		<body>You teleported.</body>
+		<body>Você se teletransportou.</body>
 	</string>
 	<string>
 		<id>283344</id>
@@ -10437,7 +10437,7 @@
 	<string>
 		<id>283453</id>
 		<name>STR_SKILL_WA_ParryFocus_G1_DESC</name>
-		<body>Your [%e1.StatUp.StatName] increases by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime]. You cannot move while the skill is in effect.</body>
+		<body>Seu [%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime]. Você não pode se mover enquanto a habilidade estiver ativa.</body>
 	</string>
 	<string>
 		<id>283454</id>
@@ -10447,7 +10447,7 @@
 	<string>
 		<id>283455</id>
 		<name>STR_SKILL_WA_RobustSmash_G1_DESC</name>
-		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target is sometimes stunned.&#xA;Habilidade de Sequência nível 3&#xA;Rage – Rupture</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. Ás vezes o alvo fica atordoado (stun).&#xA;Habilidade de Sequência nível 3&#xA;Rage – Rupture</body>
 	</string>
 	<string>
 		<id>283456</id>
@@ -10457,7 +10457,7 @@
 	<string>
 		<id>283457</id>
 		<name>STR_SKILL_MA_IgnicBurn_G1_DESC</name>
-		<body>Inflicts [%e1.SpellATK_Instant.FixDamage] magical fire damage on a target within [%First_Target_Valid_Distance]m. The target&apos;s [%e2.StatDown.StatName] decreases by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Flame Bolt – Blaze.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] dano mágico de fogo em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância. A [%e2.StatDown.StatName] do alvo diminui em [%e2.StatDown.Value] por [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Flame Bolt – Blaze.</body>
 	</string>
 	<string>
 		<id>283458</id>
@@ -10467,7 +10467,7 @@
 	<string>
 		<id>283459</id>
 		<name>STR_SKILL_MA_StoneSkin_G1_DESC</name>
-		<body>Forms a protective shield for [%e1.Shield.RemainTime] that has a [%e1.Shield.ConditionProb]%% chance to absorb damage when you receive [%e1.Shield.Condition]. If attacked by another PC, you will suffer less damage. The protective shield remains until it absorbs a total of [%e1.Shield.ShieldValue] damage.</body>
+		<body>Forma um escudo protetor por [%e1.Shield.RemainTime] que tem [%e1.Shield.ConditionProb]%% de chance de absorver dano quando você recebe [%e1.Shield.Condition]. Se atacado por outro jogador, você sofrerá menos danos. O escudo protetor permanece até absorver um total de [%e1.Shield.ShieldValue] de dano.</body>
 	</string>
 	<string>
 		<id>283460</id>
@@ -10487,7 +10487,7 @@
 	<string>
 		<id>283463</id>
 		<name>STR_SKILL_CL_ConversionEnergy_G1_DESC</name>
-		<body>Instantly restores the HP of a target within [%First_Target_Valid_Distance]m by [%e1.Heal_Instant.Heal], and also restores [%e2.Heal.CheckTimeHeal] of HP every [%e2.Heal.CheckTime] for [%e2.Heal.RemainTime].</body>
+		<body>Restaura a HP de um alvo que esteja a até [%First_Target_Valid_Distance]m de distância em [%e1.Heal_Instant.Heal] e também restaura [%e2.Heal.CheckTimeHeal] de HP a cada [%e2.Heal.CheckTime] por [%e2. Heal.RemainTime].</body>
 	</string>
 	<string>
 		<id>283464</id>
@@ -10497,7 +10497,7 @@
 	<string>
 		<id>283465</id>
 		<name>STR_SKILL_CL_ImbueWind_G1_DESC</name>
-		<body>For [%e1.Provoker.RemainTime], has a [%e1.Provoker.ConditionProb]%% chance to inflict additional [%e1.Provoker.OtherSkill.e1.ProcATK_Instant.Damage] damage on the target whenever you [%e1.Provoker.Condition].</body>
+		<body>Por [%e1.Provoker.RemainTime], tem [%e1.Provoker.ConditionProb]%% de chance de causar [%e1.Provoker.OtherSkill.e1.ProcATK_Instant.Damage] dano adicional no alvo sempre que você [%e1.Provoker.Condition].</body>
 	</string>
 	<string>
 		<id>283466</id>
@@ -10507,7 +10507,7 @@
 	<string>
 		<id>283467</id>
 		<name>STR_MATERIAL_SKILL_PROC_FIRE_DAMAGE_DESC</name>
-		<body>Body burns with lava.</body>
+		<body>O corpo queima com lava.</body>
 	</string>
 	<string>
 		<id>283468</id>
@@ -10537,7 +10537,7 @@
 	<string>
 		<id>283473</id>
 		<name>STR_SKILL_MA_RefreshMind_G1_DESC</name>
-		<body>Restores your MP by [%e1.MPHeal_Instant.Heal].</body>
+		<body>Restaura a sua MP em [%e1.MPHeal_Instant.Heal].</body>
 	</string>
 	<string>
 		<id>283474</id>
@@ -10547,7 +10547,7 @@
 	<string>
 		<id>283475</id>
 		<name>STR_SKILL_FI_LockdownImpact_G1_DESC</name>
-		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target is bound for [%e2.Bind.RemainTime].&#xA;Habilidade de Stigma.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. O alvo fica de mãos amarradas (bind) por [%e2.Bind.RemainTime].&#xA;Habilidade de Stigma.</body>
 	</string>
 	<string>
 		<id>283476</id>
@@ -10557,7 +10557,7 @@
 	<string>
 		<id>283477</id>
 		<name>STR_SKILL_FI_Provoke_G3_DESC</name>
-		<body>Provoca um alvo que esteja a até [%First_Target_Valid_Distance]m de você, causa [%e1.SpellATK_Instant.FixDamage] de dano mágico no alvo e aumenta sua Provocação em relação a você.</body>
+		<body>Provoca um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você, causa [%e1.SpellATK_Instant.FixDamage] de dano mágico no alvo e aumenta sua Provocação em relação a você.</body>
 	</string>
 	<string>
 		<id>283478</id>
@@ -10567,7 +10567,7 @@
 	<string>
 		<id>283479</id>
 		<name>STR_SKILL_FI_LockdownImpact_G2_DESC</name>
-		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target is bound for [%e2.Bind.RemainTime].&#xA;Habilidade de Stigma.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. O alvo fica de mãos amarradas (bind) por [%e2.Bind.RemainTime].&#xA;Habilidade de Stigma.</body>
 	</string>
 	<string>
 		<id>283480</id>
@@ -10577,7 +10577,7 @@
 	<string>
 		<id>283481</id>
 		<name>STR_SKILL_FI_Rampage_G1_DESC</name>
-		<body>Increases [%e2.StatUp.StatName] by [%e2.StatUp.Value] and [%e3.StatDown.StatName] by [%e3.StatDown.Value] for [%e1.SpellATK.RemainTime].&#xA;In the meantime, HP slowly decreases.</body>
+		<body>Aumenta a [%e2.StatUp.StatName] em [%e2.StatUp.Value] e [%e3.StatDown.StatName] em [%e3.StatDown.Value] por [%e1.SpellATK.RemainTime]. Enquanto isso, a HP diminui lentamente.</body>
 	</string>
 	<string>
 		<id>283482</id>
@@ -10587,7 +10587,7 @@
 	<string>
 		<id>283483</id>
 		<name>STR_SKILL_FI_DefenseMode_G2_DESC</name>
-		<body>Increases your [%e1.StatBoost.StatName] but decreases your [%e2.StatBoost.StatName].&#xA;Habilidade Ativa</body>
+		<body>Aumenta seu [%e1.StatBoost.StatName], mas diminui seu [%e2.StatBoost.StatName].&#xA;Habilidade Ativa</body>
 	</string>
 	<string>
 		<id>283484</id>
@@ -10607,7 +10607,7 @@
 	<string>
 		<id>283487</id>
 		<name>STR_SKILL_FI_Howling_G1_DESC</name>
-		<body>Lowers [%e1.StatDown.StatName] of the enemies within a 7m radius of you by [%e1.StatDown.Value] for [%e1.StatDown.RemainTime].&#xA;Habilidade de Stigma</body>
+		<body>Reduz a [%e1.StatDown.StatName] dos inimigos em um raio de 7m de você em [%e1.StatDown.Value] por [%e1.StatDown.RemainTime].&#xA;Habilidade de Stigma</body>
 	</string>
 	<string>
 		<id>283488</id>
@@ -10627,7 +10627,7 @@
 	<string>
 		<id>283491</id>
 		<name>STR_SKILL_FI_Rage_G4_DESC</name>
-		<body>Your [%e1.StatUp.StatName] increases by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime], and you can bear damage up to [%e2.Shield.CoverValue] whenever you receive [%e2.Shield.Condition].&#xA;Habilidade de Sequência nível 2&#xA;Ferocious Strike – Rage.</body>
+		<body>Seu [%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime], e você pode suportar danos de até [%e2.Shield.CoverValue] sempre que receber [%e2 .Shield.Condition].&#xA;Habilidade de Sequência nível 2&#xA;Ferocious Strike – Rage.</body>
 	</string>
 	<string>
 		<id>283492</id>
@@ -10667,7 +10667,7 @@
 	<string>
 		<id>283499</id>
 		<name>STR_SKILL_FI_SeismicWave_G3_DESC</name>
-		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico em até 3 inimigos que estejam a até 7m ao seu redor.&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico em até 3 inimigos que estejam em um raio de 7m.&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>283500</id>
@@ -10697,7 +10697,7 @@
 	<string>
 		<id>283505</id>
 		<name>STR_SKILL_FI_MercilessBlow_G1_DESC</name>
-		<body>Inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] physical damage on a target, and inflicts additional [%e1.SkillATK_Instant.AddDamage] damage if the target is in [%e1.SkillATK_Instant.AddEffectCondition] state.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico a um alvo e causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo estiver no estado [%e1.SkillATK_Instant.AddEffectCondition].</body>
 	</string>
 	<string>
 		<id>283506</id>
@@ -10707,7 +10707,7 @@
 	<string>
 		<id>283507</id>
 		<name>STR_SKILL_P_Tanacity_G1_DESC</name>
-		<body>Has a chance to add the Stun effect to attacks if [%e1.CondSkillLauncher.ConditionStat] falls below [%e1.CondSkillLauncher.Condition]%%.</body>
+		<body>Cada ataque tem chance de atordoar (stun) o alvo se [%e1.CondSkillLauncher.ConditionStat] cair abaixo de [%e1.CondSkillLauncher.Condition]%%.</body>
 	</string>
 	<string>
 		<id>283508</id>
@@ -10717,7 +10717,7 @@
 	<string>
 		<id>283509</id>
 		<name>STR_SKILL_FI_AggressiveMode_G3_DESC</name>
-		<body>Increases your [%e1.StatBoost.StatName] but decreases your [%e2.StatBoost.StatName].&#xA;Habilidade Ativa</body>
+		<body>Aumenta seu [%e1.StatBoost.StatName], mas diminui seu [%e2.StatBoost.StatName].&#xA;Habilidade Ativa</body>
 	</string>
 	<string>
 		<id>283510</id>
@@ -10737,7 +10737,7 @@
 	<string>
 		<id>283513</id>
 		<name>STR_SKILL_FI_Provoke_G4_DESC</name>
-		<body>Provoca um alvo que esteja a até [%First_Target_Valid_Distance]m de você, causa [%e1.SpellATK_Instant.FixDamage] de dano mágico no alvo e aumenta sua Provocação em relação a você.</body>
+		<body>Provoca um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você, causa [%e1.SpellATK_Instant.FixDamage] de dano mágico no alvo e aumenta sua Provocação em relação a você.</body>
 	</string>
 	<string>
 		<id>283514</id>
@@ -10756,7 +10756,7 @@
 	<string>
 		<id>283517</id>
 		<name>STR_SKILL_WA_Steadiness_G1_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].&#xA;Habilidade de Stigma</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].&#xA;Habilidade de Stigma</body>
 	</string>
 	<string>
 		<id>283518</id>
@@ -10766,7 +10766,7 @@
 	<string>
 		<id>283519</id>
 		<name>STR_SKILL_FI_Rampage_G2_DESC</name>
-		<body>Increases both [%e2.StatUp.StatName] and [%e3.StatDown.StatName] by [%e3.StatDown.Value] for [%e1.SpellATK.RemainTime].&#xA;In the meantime, HP slowly decreases.</body>
+		<body>Aumenta [%e2.StatUp.StatName] e [%e3.StatDown.StatName] em [%e3.StatDown.Value] por [%e1.SpellATK.RemainTime]. Enquanto isso, a HP diminui lentamente.</body>
 	</string>
 	<string>
 		<id>283520</id>
@@ -10776,7 +10776,7 @@
 	<string>
 		<id>283521</id>
 		<name>STR_SKILL_FI_LockdownImpact_G3_DESC</name>
-		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target is bound for [%e2.Bind.RemainTime].&#xA;Habilidade de Stigma.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. O alvo fica de mãos amarradas (bind) por [%e2.Bind.RemainTime].&#xA;Habilidade de Stigma.</body>
 	</string>
 	<string>
 		<id>283522</id>
@@ -10786,7 +10786,7 @@
 	<string>
 		<id>283523</id>
 		<name>STR_SKILL_FI_ImpulseQuake_G1_DESC</name>
-		<body>Inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] physical damage on the nearby enemies, and inflicts additional [%e1.SkillATK_Instant.AddDamage] damage when the targets have fallen down.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico aos inimigos próximos e causa [%e1.SkillATK_Instant.AddDamage] de dano adicional quando os alvos caírem (knockdown).</body>
 	</string>
 	<string>
 		<id>283524</id>
@@ -10836,7 +10836,7 @@
 	<string>
 		<id>283533</id>
 		<name>STR_SKILL_KN_GreatHeal_G1_DESC</name>
-		<body>Magical Healing&#xA;Cura a HP do alvo em [%e1.Heal_Instant.Heal].</body>
+		<body>Cura Mágica&#xA;Cura a HP do alvo em [%e1.Heal_Instant.Heal].</body>
 	</string>
 	<string>
 		<id>283534</id>
@@ -10886,7 +10886,7 @@
 	<string>
 		<id>283543</id>
 		<name>STR_SKILL_KN_Steadiness_G1_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>283544</id>
@@ -10896,7 +10896,7 @@
 	<string>
 		<id>283545</id>
 		<name>STR_SKILL_KN_Provoke_G4_DESC</name>
-		<body>Provoca um alvo que esteja a até [%First_Target_Valid_Distance]m de você, causa [%e1.SpellATK_Instant.FixDamage] de dano mágico no alvo e aumenta sua Provocação em relação a você.</body>
+		<body>Provoca um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você, causa [%e1.SpellATK_Instant.FixDamage] de dano mágico no alvo e aumenta sua Provocação em relação a você.</body>
 	</string>
 	<string>
 		<id>283546</id>
@@ -10926,7 +10926,7 @@
 	<string>
 		<id>283551</id>
 		<name>STR_SKILL_KN_Guardian_G3_DESC</name>
-		<body>Boosts your physical defence each time you are attacked with the probability of [%e1.Provoker.ConditionProb]%% for [%e1.Provoker.RemainTime].</body>
+		<body>Aumenta sua defesa física cada vez que você é atacado com [%e1.Provoker.ConditionProb]%% de probabilidade por [%e1.Provoker.RemainTime].</body>
 	</string>
 	<string>
 		<id>283552</id>
@@ -10956,7 +10956,7 @@
 	<string>
 		<id>283557</id>
 		<name>STR_SKILL_KN_Rage_G4_DESC</name>
-		<body>Your [%e1.StatUp.StatName] increases by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime], and you can bear damage up to [%e2.Shield.CoverValue] whenever you receive [%e2.Shield.Condition].&#xA;Habilidade de Sequência nível 2&#xA;Ferocious Strike – Rage.</body>
+		<body>Seu [%e1.StatUp.StatName] aumenta em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime], e você pode suportar danos de até [%e2.Shield.CoverValue] sempre que receber [%e2 .Shield.Condition].&#xA;Habilidade de Sequência nível 2&#xA;Ferocious Strike – Rage.</body>
 	</string>
 	<string>
 		<id>283558</id>
@@ -11056,7 +11056,7 @@
 	<string>
 		<id>283577</id>
 		<name>STR_SKILL_KN_GreatHeal_G2_DESC</name>
-		<body>Magical Healing&#xA;Cura a HP do alvo em [%e1.Heal_Instant.Heal].</body>
+		<body>Cura Mágica&#xA;Cura a HP do alvo em [%e1.Heal_Instant.Heal].</body>
 	</string>
 	<string>
 		<id>283578</id>
@@ -11066,7 +11066,7 @@
 	<string>
 		<id>283579</id>
 		<name>STR_SKILL_KN_LayonHand_G1_DESC</name>
-		<body>Magical Healing&#xA;Cura a HP do alvo em [%e1.Heal_Instant.Heal].</body>
+		<body>Cura Mágica&#xA;Cura a HP do alvo em [%e1.Heal_Instant.Heal].</body>
 	</string>
 	<string>
 		<id>283580</id>
@@ -11126,7 +11126,7 @@
 	<string>
 		<id>283591</id>
 		<name>STR_SKILL_RA_CounterSlash_G3_DESC</name>
-		<body>Deals [%e1.SkillATK_Instant.MinDamage]-[%e1.SkillATK_Instant.MaxDamage] physical damage to the target while you are in the evasion state. The target may become stunned for [%e2.Stun.RemainTime].</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo após uma Evasão bem-sucedida e tem uma chance de atordoá-lo (stun) por [%e2.Stun.RemainTime].</body>
 	</string>
 	<string>
 		<id>283592</id>
@@ -11166,7 +11166,7 @@
 	<string>
 		<id>283599</id>
 		<name>STR_SKILL_RA_BackdashStab_G2_DESC</name>
-		<body>Inflicts [%e1.BackDashATK.MinDamage]~[%e1.BackDashATK.MaxDamage] physical damage on the target, and you are pushed back 25m. O alvo às vezes fica atordoado (stun) por [%e2.Stun.RemainTime].&#xA;Habilidade de Stigma.</body>
+		<body>Causa [%e1.BackDashATK.MinDamage]~[%e1.BackDashATK.MaxDamage] de dano físico no alvo e você é empurrado 25m para trás. O alvo às vezes fica atordoado (stun) por [%e2.Stun.RemainTime].&#xA;Habilidade de Stigma.</body>
 	</string>
 	<string>
 		<id>283600</id>
@@ -11346,7 +11346,7 @@
 	<string>
 		<id>283635</id>
 		<name>STR_SKILL_RA_CounterSlash_G4_DESC</name>
-		<body>Deals [%e1.SkillATK_Instant.MinDamage]-[%e1.SkillATK_Instant.MaxDamage] physical damage to the target while you are in the evasion state. The target may become stunned for [%e2.Stun.RemainTime].</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo após uma Evasão bem-sucedida e tem uma chance de atordoá-lo (stun) por [%e2.Stun.RemainTime].</body>
 	</string>
 	<string>
 		<id>283636</id>
@@ -11446,7 +11446,7 @@
 	<string>
 		<id>283655</id>
 		<name>STR_SKILL_AS_CounterSlash_G3_DESC</name>
-		<body>Deals [%e1.SkillATK_Instant.MinDamage]-[%e1.SkillATK_Instant.MaxDamage] physical damage to the target while you are in the evasion state. The target may become stunned for [%e2.Stun.RemainTime].</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo após uma Evasão bem-sucedida e tem uma chance de atordoá-lo (stun) por [%e2.Stun.RemainTime].</body>
 	</string>
 	<string>
 		<id>283656</id>
@@ -11516,7 +11516,7 @@
 	<string>
 		<id>283669</id>
 		<name>STR_SKILL_AS_FlyingStabber_G2_DESC</name>
-		<body>Inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] physical damage on an airborne target, and causes it to crash to the ground.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico a um alvo no ar (aetherhold) e faz com que ele caia no chão.</body>
 	</string>
 	<string>
 		<id>283670</id>
@@ -11526,7 +11526,7 @@
 	<string>
 		<id>283671</id>
 		<name>STR_SKILL_AS_ClearFocus_G1_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>283672</id>
@@ -11566,7 +11566,7 @@
 	<string>
 		<id>283679</id>
 		<name>STR_SKILL_AS_DashAttack_G3_DESC</name>
-		<body>Inflicts [%e1.DashATK.MinDamage]~[%e1.DashATK.MaxDamage] physical damage by dashing to the target within [%First_Target_Valid_Distance]m.</body>
+		<body>Causa [%e1.DashATK.MinDamage]~[%e1.DashATK.MaxDamage] de dano físico ao correr para o alvo em uma distância de até [%First_Target_Valid_Distance]m.</body>
 	</string>
 	<string>
 		<id>283680</id>
@@ -11625,7 +11625,7 @@
 	<string>
 		<id>283691</id>
 		<name>STR_SKILL_AS_BreezeofCalm_G3_DESC</name>
-		<body>Decreases the Enmity of a target within [%First_Target_Valid_Distance]m.</body>
+		<body>Diminui a Provocação de um alvo que esteja a até [%First_Target_Valid_Distance]m de distância.</body>
 	</string>
 	<string>
 		<id>283692</id>
@@ -11685,7 +11685,7 @@
 	<string>
 		<id>283703</id>
 		<name>STR_SKILL_AS_CounterSlash_G4_DESC</name>
-		<body>Deals [%e1.SkillATK_Instant.MinDamage]-[%e1.SkillATK_Instant.MaxDamage] physical damage to the target while you are in the evasion state. The target may become stunned for [%e2.Stun.RemainTime].</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo após uma Evasão bem-sucedida e tem uma chance de atordoá-lo (stun) por [%e2.Stun.RemainTime].</body>
 	</string>
 	<string>
 		<id>283704</id>
@@ -11925,7 +11925,7 @@
 	<string>
 		<id>283751</id>
 		<name>STR_SKILL_PR_Regeneration_G3_DESC</name>
-		<body>Magical Healing&#xA;Inicialmente Cura o HP do alvo em [%e1.Heal_Instant.Heal] e depois recupera seu HP em [%e2.Heal.CheckTimeHeal] a cada [%e2.Heal.CheckTime] por [%e2.Heal.RemainTime].</body>
+		<body>Cura Mágica&#xA;Inicialmente Cura o HP do alvo em [%e1.Heal_Instant.Heal] e depois recupera seu HP em [%e2.Heal.CheckTimeHeal] a cada [%e2.Heal.CheckTime] por [%e2.Heal.RemainTime].</body>
 	</string>
 	<string>
 		<id>283752</id>
@@ -12175,7 +12175,7 @@
 	<string>
 		<id>283801</id>
 		<name>STR_SKILL_CH_ViolentSwing_G3_DESC</name>
-		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. Diminui a [%e2.StatDown.StatName] do alvo em [%e2.StatDown.Value] e a [%e3.StatDown.StatName] em [%e3.StatDown.Value]%% por [%e2.StatDown.RemainTime ].&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. Diminui a [%e2.StatDown.StatName] do alvo em [%e2.StatDown.Value] e a [%e3.StatDown.StatName] em [%e3.StatDown.Value]%% por [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>283802</id>
@@ -12335,7 +12335,7 @@
 	<string>
 		<id>283833</id>
 		<name>STR_SKILL_WI_HydroPress_G2_DESC</name>
-		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo dentro que esteja a até [%First_Target_Valid_Distance]m de distância de você.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você.</body>
 	</string>
 	<string>
 		<id>283834</id>
@@ -12425,7 +12425,7 @@
 	<string>
 		<id>283851</id>
 		<name>STR_SKILL_WI_BoostTomb_G1_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>283852</id>
@@ -12495,7 +12495,7 @@
 	<string>
 		<id>283865</id>
 		<name>STR_SKILL_WI_FrozenField_G3_DESC</name>
-		<body>Inflicts [%e1.SpellATK_Instant.FixDamage] water damage on the enemies within a 15m radius of you, and immobilizes them for [%e2.Root.RemainTime].</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] dano mágico de água nos inimigos em um raio de 15m de você e os imobiliza por [%e2.Root.RemainTime].</body>
 	</string>
 	<string>
 		<id>283866</id>
@@ -12565,7 +12565,7 @@
 	<string>
 		<id>283879</id>
 		<name>STR_SKILL_WI_HydroPress_G3_DESC</name>
-		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo dentro que esteja a até [%First_Target_Valid_Distance]m de distância de você.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você.</body>
 	</string>
 	<string>
 		<id>283880</id>
@@ -12823,7 +12823,7 @@
 	<string>
 		<id>283931</id>
 		<name>STR_SKILL_EL_EarthGrab_G2_DESC</name>
-		<body>Inflicts [%e1.SpellATK_Instant.FixDamage] earth damage on a target within [%First_Target_Valid_Distance]m, decreases its movement speed for [%e3.Snare.RandomTime]~[%e3.Snare.RemainTime], and deals additional [%e2.SpellATK.Damage] damage every [%e2.SpellATK.CheckTime].&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] dano mágico de terra em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância, diminui sua Velocidade de Movimento por [%e3.Snare.RandomTime]~[%e3.Snare.RemainTime] e causa [%e2 adicionais .SpellATK.Damage] de dano adicional a cada [%e2.SpellATK.CheckTime].&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>283932</id>
@@ -12833,7 +12833,7 @@
 	<string>
 		<id>283933</id>
 		<name>STR_SKILL_EL_StoneShock_G2_DESC</name>
-		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de terra em um alvo a até [%First_Target_Valid_Distance]m de distância de você, and puts it in the [%e1.SpellATK_Instant.AddEffect] state.&#xA;Habilidade de Sequência nível 2&#xA;Chain of Earth – Stone Shock.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de terra em um alvo a até [%First_Target_Valid_Distance]m de distância de você e o coloca no estado [%e1.SpellATK_Instant.AddEffect].&#xA;Habilidade de Sequência nível 2&#xA;Chain of Earth – Stone Shock.</body>
 	</string>
 	<string>
 		<id>283934</id>
@@ -13261,7 +13261,7 @@
 	<string>
 		<id>284041</id>
 		<name>STR_SKILL_KN_RobustSmash_G2_DESC</name>
-		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target is sometimes stunned.&#xA;Habilidade de Sequência nível 3&#xA;Rage – Rupture</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. Ás vezes o alvo fica atordoado (stun).&#xA;Habilidade de Sequência nível 3&#xA;Rage – Rupture</body>
 	</string>
 	<string>
 		<id>284042</id>
@@ -13271,7 +13271,7 @@
 	<string>
 		<id>284043</id>
 		<name>STR_SKILL_KN_RobustSmash_G3_DESC</name>
-		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target is sometimes stunned.&#xA;Habilidade de Sequência nível 3&#xA;Rage – Rupture</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. Ás vezes o alvo fica atordoado (stun).&#xA;Habilidade de Sequência nível 3&#xA;Rage – Rupture</body>
 	</string>
 	<string>
 		<id>284044</id>
@@ -13281,7 +13281,7 @@
 	<string>
 		<id>284045</id>
 		<name>STR_SKILL_CL_ConversionEnergy_G2_DESC</name>
-		<body>Instantly restores the HP of a target within [%First_Target_Valid_Distance]m by [%e1.Heal_Instant.Heal], and also restores [%e2.Heal.CheckTimeHeal] of HP every [%e2.Heal.CheckTime] for [%e2.Heal.RemainTime].</body>
+		<body>Restaura a HP de um alvo que esteja a até [%First_Target_Valid_Distance]m de distância em [%e1.Heal_Instant.Heal] e também restaura [%e2.Heal.CheckTimeHeal] de HP a cada [%e2.Heal.CheckTime] por [%e2. Heal.RemainTime].</body>
 	</string>
 	<string>
 		<id>284046</id>
@@ -13301,7 +13301,7 @@
 	<string>
 		<id>284049</id>
 		<name>STR_SKILL_CL_ImbueWind_G2_DESC</name>
-		<body>For [%e1.Provoker.RemainTime], has a [%e1.Provoker.ConditionProb]%% chance to inflict additional [%e1.Provoker.OtherSkill.e1.ProcATK_Instant.Damage] damage on the target whenever you [%e1.Provoker.Condition].</body>
+		<body>Por [%e1.Provoker.RemainTime], tem [%e1.Provoker.ConditionProb]%% de chance de causar [%e1.Provoker.OtherSkill.e1.ProcATK_Instant.Damage] dano adicional no alvo sempre que você [%e1.Provoker.Condition].</body>
 	</string>
 	<string>
 		<id>284050</id>
@@ -13341,7 +13341,7 @@
 	<string>
 		<id>284057</id>
 		<name>STR_SKILL_MA_IgnicBurn_G2_DESC</name>
-		<body>Inflicts [%e1.SpellATK_Instant.FixDamage] magical fire damage on a target within [%First_Target_Valid_Distance]m. The target&apos;s [%e2.StatDown.StatName] decreases by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Flame Bolt – Blaze.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] dano mágico de fogo em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância. A [%e2.StatDown.StatName] do alvo diminui em [%e2.StatDown.Value] por [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Flame Bolt – Blaze.</body>
 	</string>
 	<string>
 		<id>284058</id>
@@ -13351,7 +13351,7 @@
 	<string>
 		<id>284059</id>
 		<name>STR_SKILL_MA_IgnicBurn_G3_DESC</name>
-		<body>Inflicts [%e1.SpellATK_Instant.FixDamage] magical fire damage on a target within [%First_Target_Valid_Distance]m. The target&apos;s [%e2.StatDown.StatName] decreases by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Flame Bolt – Blaze.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] dano mágico de fogo em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância. A [%e2.StatDown.StatName] do alvo diminui em [%e2.StatDown.Value] por [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Flame Bolt – Blaze.</body>
 	</string>
 	<string>
 		<id>284060</id>
@@ -13371,7 +13371,7 @@
 	<string>
 		<id>284063</id>
 		<name>STR_SKILL_MA_RefreshMind_G2_DESC</name>
-		<body>Restores your MP by [%e1.MPHeal_Instant.Heal].</body>
+		<body>Restaura a sua MP em [%e1.MPHeal_Instant.Heal].</body>
 	</string>
 	<string>
 		<id>284064</id>
@@ -13501,7 +13501,7 @@
 	<string>
 		<id>284089</id>
 		<name>STR_SKILL_RA_Dark_ExplosionTrap_G2_DESC</name>
-		<body>Uses 3 Tripeed fruits to set up a ranged trap around you. The trap remains active for [%e1.SummonTrap.SummonTime] and explodes when an enemy approaches. Its area of effect is within a 10m radius.</body>
+		<body>Usa 3 Tripeed Fruits para montar uma armadilha de longo alcance ao seu redor. A armadilha permanece ativa por [%e1.SummonTrap.SummonTime] e explode quando um inimigo se aproxima em um raio de 10m.</body>
 	</string>
 	<string>
 		<id>284090</id>
@@ -14280,7 +14280,7 @@
 	<string>
 		<id>284253</id>
 		<name>STR_SKILL_CH_SonicBreeze_G1_DESC</name>
-		<body>Restores your MP by [%e1.MPHeal_Instant.Heal].&#xA;Habilidade de Sequência nível 3&#xA;Booming Smash – Stamina Recharge</body>
+		<body>Restaura a sua MP em [%e1.MPHeal_Instant.Heal].&#xA;Habilidade de Sequência nível 3&#xA;Booming Smash – Stamina Recharge</body>
 	</string>
 	<string>
 		<id>284254</id>
@@ -14329,7 +14329,7 @@
 	<string>
 		<id>284263</id>
 		<name>STR_SKILL_WI_HydroBurst_G1_DESC</name>
-		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo dentro que esteja a até [%First_Target_Valid_Distance]m de distância de você.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você.</body>
 	</string>
 	<string>
 		<id>284264</id>
@@ -14491,7 +14491,7 @@
 	<string>
 		<id>284297</id>
 		<name>STR_SKILL_PEL_Taunt_G3_DESC</name>
-		<body>A Taunt skill of the earth spirit.</body>
+		<body>Uma habilidade de Provocação do espírito da terra.</body>
 	</string>
 	<string>
 		<id>284298</id>
@@ -14501,7 +14501,7 @@
 	<string>
 		<id>284299</id>
 		<name>STR_SKILL_PEL_Air_G3_DESC</name>
-		<body>A Stun skill of the wind spirit.</body>
+		<body>Uma habilidade de atordoamento (stun) do espírito do vento.</body>
 	</string>
 	<string>
 		<id>284300</id>
@@ -16015,7 +16015,7 @@
 	<string>
 		<id>284617</id>
 		<name>STR_NSC_SUpDodge_Nr_DESC</name>
-		<body>Increases the evasion rate.</body>
+		<body>Aumenta a taxa de Evasão.</body>
 	</string>
 	<string>
 		<id>284618</id>
@@ -17100,7 +17100,7 @@
 	<string>
 		<id>284834</id>
 		<name>STR_GNSC_SUpDodge_Nr_DESC</name>
-		<body>Increases the evasion rate.</body>
+		<body>Aumenta a taxa de Evasão.</body>
 	</string>
 	<string>
 		<id>284835</id>
@@ -17895,7 +17895,7 @@
 	<string>
 		<id>284995</id>
 		<name>STR_SKILL_Stigma_Equip_EnhancedCloth_DESC</name>
-		<body>Permite que você use armadura de pano.</body>
+		<body>Permite que você use armadura Cloth.</body>
 	</string>
 	<string>
 		<id>284996</id>
@@ -19285,7 +19285,7 @@
 	<string>
 		<id>285276</id>
 		<name>STR_SKILL_NEL_Petrification_DESC_Abnormal</name>
-		<body>You are petrified.</body>
+		<body>Você está petrificado.</body>
 	</string>
 	<string>
 		<id>285277</id>
@@ -19685,7 +19685,7 @@
 	<string>
 		<id>285356</id>
 		<name>STR_NGR_SkillATKDrain_Instant_Vampire_DESC_Abnormal</name>
-		<body>You are cursed. You can remove the Altered State by using physical healing magic.</body>
+		<body>Você está amaldiçoado. You can remove the Altered State by using physical healing magic.</body>
 	</string>
 	<string>
 		<id>285357</id>
@@ -21963,7 +21963,7 @@
 	<string>
 		<id>285816</id>
 		<name>STR_SKILL_AS_ClearFocus_G2_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>285817</id>
@@ -22368,7 +22368,7 @@
 	<string>
 		<id>285897</id>
 		<name>STR_SKILL_CH_ParryFocus_G1_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>285898</id>
@@ -22383,7 +22383,7 @@
 	<string>
 		<id>285900</id>
 		<name>STR_SKILL_CH_ParryFocus_G2_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>285901</id>
@@ -22463,7 +22463,7 @@
 	<string>
 		<id>285916</id>
 		<name>STR_SKILL_CH_SonicBreeze_G2_DESC</name>
-		<body>Restores your MP by [%e1.MPHeal_Instant.Heal].&#xA;Habilidade de Sequência nível 3&#xA;Booming Smash – Stamina Recharge</body>
+		<body>Restaura a sua MP em [%e1.MPHeal_Instant.Heal].&#xA;Habilidade de Sequência nível 3&#xA;Booming Smash – Stamina Recharge</body>
 	</string>
 	<string>
 		<id>285917</id>
@@ -22558,7 +22558,7 @@
 	<string>
 		<id>285935</id>
 		<name>STR_SKILL_CH_WordofPower_G1_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Parrying Strike – Power Spell.</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Parrying Strike – Power Spell.</body>
 	</string>
 	<string>
 		<id>285936</id>
@@ -22573,7 +22573,7 @@
 	<string>
 		<id>285938</id>
 		<name>STR_SKILL_CH_WordofPower_G2_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Parrying Strike – Power Spell.</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Parrying Strike – Power Spell.</body>
 	</string>
 	<string>
 		<id>285939</id>
@@ -22633,7 +22633,7 @@
 	<string>
 		<id>285950</id>
 		<name>STR_SKILL_CL_ConversionEnergy_G3_DESC</name>
-		<body>Instantly restores the HP of a target within [%First_Target_Valid_Distance]m by [%e1.Heal_Instant.Heal], and also restores [%e2.Heal.CheckTimeHeal] of HP every [%e2.Heal.CheckTime] for [%e2.Heal.RemainTime].</body>
+		<body>Restaura a HP de um alvo que esteja a até [%First_Target_Valid_Distance]m de distância em [%e1.Heal_Instant.Heal] e também restaura [%e2.Heal.CheckTimeHeal] de HP a cada [%e2.Heal.CheckTime] por [%e2. Heal.RemainTime].</body>
 	</string>
 	<string>
 		<id>285951</id>
@@ -22648,7 +22648,7 @@
 	<string>
 		<id>285953</id>
 		<name>STR_SKILL_CL_ConversionEnergy_G4_DESC</name>
-		<body>Instantly restores the HP of a target within [%First_Target_Valid_Distance]m by [%e1.Heal_Instant.Heal], and also restores [%e2.Heal.CheckTimeHeal] of HP every [%e2.Heal.CheckTime] for [%e2.Heal.RemainTime].</body>
+		<body>Restaura a HP de um alvo que esteja a até [%First_Target_Valid_Distance]m de distância em [%e1.Heal_Instant.Heal] e também restaura [%e2.Heal.CheckTimeHeal] de HP a cada [%e2.Heal.CheckTime] por [%e2. Heal.RemainTime].</body>
 	</string>
 	<string>
 		<id>285954</id>
@@ -22673,7 +22673,7 @@
 	<string>
 		<id>285958</id>
 		<name>STR_SKILL_CL_ImbueWind_G3_DESC</name>
-		<body>For [%e1.Provoker.RemainTime], has a [%e1.Provoker.ConditionProb]%% chance to inflict additional [%e1.Provoker.OtherSkill.e1.ProcATK_Instant.Damage] damage on the target whenever you [%e1.Provoker.Condition].</body>
+		<body>Por [%e1.Provoker.RemainTime], tem [%e1.Provoker.ConditionProb]%% de chance de causar [%e1.Provoker.OtherSkill.e1.ProcATK_Instant.Damage] dano adicional no alvo sempre que você [%e1.Provoker.Condition].</body>
 	</string>
 	<string>
 		<id>285959</id>
@@ -22768,7 +22768,7 @@
 	<string>
 		<id>285977</id>
 		<name>STR_SKILL_EL_CursedTouchWater_G1_DESC</name>
-		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo dentro que esteja a até [%First_Target_Valid_Distance]m de distância de você and also transforms it into a Water Spirit for [%e2.Deform.RemainTime]. During this time, [%e3.StatUp.StatName] increases by [%e3.StatUp.Value] while [%e4.StatDown.StatName] decreases by [%e4.StatDown.Value].</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você and also transforms it into a Water Spirit for [%e2.Deform.RemainTime]. During this time, [%e3.StatUp.StatName] increases by [%e3.StatUp.Value] while [%e4.StatDown.StatName] decreases by [%e4.StatDown.Value].</body>
 	</string>
 	<string>
 		<id>285978</id>
@@ -22913,7 +22913,7 @@
 	<string>
 		<id>286006</id>
 		<name>STR_SKILL_EL_EarthGrab_G3_DESC</name>
-		<body>Inflicts [%e1.SpellATK_Instant.FixDamage] earth damage on a target within [%First_Target_Valid_Distance]m, decreases its movement speed for [%e3.Snare.RandomTime]~[%e3.Snare.RemainTime], and deals additional [%e2.SpellATK.Damage] damage every [%e2.SpellATK.CheckTime].&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] dano mágico de terra em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância, diminui sua Velocidade de Movimento por [%e3.Snare.RandomTime]~[%e3.Snare.RemainTime] e causa [%e2 adicionais .SpellATK.Damage] de dano adicional a cada [%e2.SpellATK.CheckTime].&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>286007</id>
@@ -23263,7 +23263,7 @@
 	<string>
 		<id>286076</id>
 		<name>STR_SKILL_PR_CourseWound_G1_DESC</name>
-		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo dentro que esteja a até [%First_Target_Valid_Distance]m de distância de você, and reduces the effect of recovery magic it receives by 50%% for [%e2.DeboostHealAmount.RemainTime].&#xA;Habilidade de Stigma.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você, and reduces the effect of recovery magic it receives by 50%% for [%e2.DeboostHealAmount.RemainTime].&#xA;Habilidade de Stigma.</body>
 	</string>
 	<string>
 		<id>286077</id>
@@ -23278,7 +23278,7 @@
 	<string>
 		<id>286079</id>
 		<name>STR_SKILL_PR_CourseWound_G2_DESC</name>
-		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo dentro que esteja a até [%First_Target_Valid_Distance]m de distância de você, and reduces the effect of recovery magic it receives by 50%% for [%e2.DeboostHealAmount.RemainTime].&#xA;Habilidade de Stigma.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você, and reduces the effect of recovery magic it receives by 50%% for [%e2.DeboostHealAmount.RemainTime].&#xA;Habilidade de Stigma.</body>
 	</string>
 	<string>
 		<id>286080</id>
@@ -23628,7 +23628,7 @@
 	<string>
 		<id>286149</id>
 		<name>STR_SKILL_RA_BreezeofCalm_G1_DESC</name>
-		<body>Decreases the Enmity of a target within [%First_Target_Valid_Distance]m.</body>
+		<body>Diminui a Provocação de um alvo que esteja a até [%First_Target_Valid_Distance]m de distância.</body>
 	</string>
 	<string>
 		<id>286150</id>
@@ -23638,7 +23638,7 @@
 	<string>
 		<id>286151</id>
 		<name>STR_SKILL_RA_BreezeofCalm_G2_DESC</name>
-		<body>Decreases the Enmity of a target within [%First_Target_Valid_Distance]m.</body>
+		<body>Diminui a Provocação de um alvo que esteja a até [%First_Target_Valid_Distance]m de distância.</body>
 	</string>
 	<string>
 		<id>286152</id>
@@ -23993,7 +23993,7 @@
 	<string>
 		<id>286222</id>
 		<name>STR_SKILL_FI_DefenseMode_G3_DESC</name>
-		<body>Increases your [%e1.StatBoost.StatName] but decreases your [%e2.StatBoost.StatName].&#xA;Habilidade Ativa</body>
+		<body>Aumenta seu [%e1.StatBoost.StatName], mas diminui seu [%e2.StatBoost.StatName].&#xA;Habilidade Ativa</body>
 	</string>
 	<string>
 		<id>286223</id>
@@ -24033,7 +24033,7 @@
 	<string>
 		<id>286230</id>
 		<name>STR_SKILL_FI_Howling_G2_DESC</name>
-		<body>Lowers [%e1.StatDown.StatName] of the enemies within a 7m radius of you by [%e1.StatDown.Value] for [%e1.StatDown.RemainTime].&#xA;Habilidade de Stigma</body>
+		<body>Reduz a [%e1.StatDown.StatName] dos inimigos em um raio de 7m de você em [%e1.StatDown.Value] por [%e1.StatDown.RemainTime].&#xA;Habilidade de Stigma</body>
 	</string>
 	<string>
 		<id>286231</id>
@@ -24593,7 +24593,7 @@
 	<string>
 		<id>286344</id>
 		<name>STR_SKILL_WA_Rage_G4_DESC</name>
-		<body>For [%e1.StatUp.RemainTime],[%e1.StatUp.StatName] is increased by [%e1.StatUp.Value] and you receive a protective shield which has a [%e2.Shield.ConditionProb]%% chance of absorbing up to [%e2.Shield.ShieldValue] damage each time you receive [%e2.Shield.Condition].&#xA;Habilidade de Sequência nível 2&#xA;Ferocious Strike – Rage</body>
+		<body>Por [%e1.StatUp.RemainTime], [%e1.StatUp.StatName] é aumentado em [%e1.StatUp.Value] e você recebe um escudo protetor que tem [%e2.Shield.ConditionProb]%% de chance de absorver até [%e2.Shield.ShieldValue] de dano cada vez que recebe [%e2.Shield.Condition].&#xA;Habilidade de Sequência nível 2&#xA;Ferocious Strike – Rage</body>
 	</string>
 	<string>
 		<id>286345</id>
@@ -24778,7 +24778,7 @@
 	<string>
 		<id>286381</id>
 		<name>STR_SKILL_WI_FocusCasting_G1_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>286382</id>
@@ -24803,7 +24803,7 @@
 	<string>
 		<id>286386</id>
 		<name>STR_SKILL_WI_HydroBurst_G2_DESC</name>
-		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo dentro que esteja a até [%First_Target_Valid_Distance]m de distância de você.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você.</body>
 	</string>
 	<string>
 		<id>286387</id>
@@ -24813,7 +24813,7 @@
 	<string>
 		<id>286388</id>
 		<name>STR_SKILL_WI_HydroBurst_G3_DESC</name>
-		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo dentro que esteja a até [%First_Target_Valid_Distance]m de distância de você.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você.</body>
 	</string>
 	<string>
 		<id>286389</id>
@@ -24838,7 +24838,7 @@
 	<string>
 		<id>286393</id>
 		<name>STR_SKILL_WI_BoostTomb_G2_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>286394</id>
@@ -24963,7 +24963,7 @@
 	<string>
 		<id>286418</id>
 		<name>STR_SKILL_MA_FrozenShock_G3_DESC</name>
-		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo dentro que esteja a até [%First_Target_Valid_Distance]m de distância de você e o coloca no estado [%e1.SpellATK_Instant.AddEffect].&#xA;Habilidade de Sequência nível 2&#xA;Ice Chain – Frozen Shock.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você e o coloca no estado [%e1.SpellATK_Instant.AddEffect].&#xA;Habilidade de Sequência nível 2&#xA;Ice Chain – Frozen Shock.</body>
 	</string>
 	<string>
 		<id>286419</id>
@@ -24973,7 +24973,7 @@
 	<string>
 		<id>286420</id>
 		<name>STR_SKILL_MA_IceGrab_G3_DESC</name>
-		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo dentro que esteja a até [%First_Target_Valid_Distance]m de distância de você of you, and reduces its movement speed for [%e2.Snare.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você e reduz sua Velocidade de Movimento por [%e2.Snare.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>286421</id>
@@ -24988,7 +24988,7 @@
 	<string>
 		<id>286423</id>
 		<name>STR_SKILL_MA_IceGrab_G4_DESC</name>
-		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo dentro que esteja a até [%First_Target_Valid_Distance]m de distância de você of you, and reduces its movement speed for [%e2.Snare.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você e reduz sua Velocidade de Movimento por [%e2.Snare.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>286424</id>
@@ -25003,7 +25003,7 @@
 	<string>
 		<id>286426</id>
 		<name>STR_SKILL_MA_IgnicBurn_G4_DESC</name>
-		<body>Inflicts [%e1.SpellATK_Instant.FixDamage] magical fire damage on a target within [%First_Target_Valid_Distance]m. The target&apos;s [%e2.StatDown.StatName] decreases by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Flame Bolt – Blaze.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] dano mágico de fogo em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância. A [%e2.StatDown.StatName] do alvo diminui em [%e2.StatDown.Value] por [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Flame Bolt – Blaze.</body>
 	</string>
 	<string>
 		<id>286427</id>
@@ -26791,7 +26791,7 @@
 	<string>
 		<id>286789</id>
 		<name>STR_SKILL_AS_ClearFocus_G3_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>286790</id>
@@ -26821,7 +26821,7 @@
 	<string>
 		<id>286795</id>
 		<name>STR_SKILL_AS_DashAttack_G4_DESC</name>
-		<body>Inflicts [%e1.DashATK.MinDamage]~[%e1.DashATK.MaxDamage] physical damage by dashing to the target within [%First_Target_Valid_Distance]m.</body>
+		<body>Causa [%e1.DashATK.MinDamage]~[%e1.DashATK.MaxDamage] de dano físico ao correr para o alvo em uma distância de até [%First_Target_Valid_Distance]m.</body>
 	</string>
 	<string>
 		<id>286796</id>
@@ -27201,7 +27201,7 @@
 	<string>
 		<id>286871</id>
 		<name>STR_SKILL_CH_ParryFocus_G3_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>286872</id>
@@ -27251,7 +27251,7 @@
 	<string>
 		<id>286881</id>
 		<name>STR_SKILL_CH_SonicBreeze_G3_DESC</name>
-		<body>Restores your MP by [%e1.MPHeal_Instant.Heal].&#xA;Habilidade de Sequência nível 3&#xA;Booming Smash – Stamina Recharge</body>
+		<body>Restaura a sua MP em [%e1.MPHeal_Instant.Heal].&#xA;Habilidade de Sequência nível 3&#xA;Booming Smash – Stamina Recharge</body>
 	</string>
 	<string>
 		<id>286882</id>
@@ -27341,7 +27341,7 @@
 	<string>
 		<id>286899</id>
 		<name>STR_SKILL_CH_ViolentSwing_G4_DESC</name>
-		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. Diminui a [%e2.StatDown.StatName] do alvo em [%e2.StatDown.Value] e a [%e3.StatDown.StatName] em [%e3.StatDown.Value]%% por [%e2.StatDown.RemainTime ].&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. Diminui a [%e2.StatDown.StatName] do alvo em [%e2.StatDown.Value] e a [%e3.StatDown.StatName] em [%e3.StatDown.Value]%% por [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>286900</id>
@@ -27371,7 +27371,7 @@
 	<string>
 		<id>286905</id>
 		<name>STR_SKILL_CL_ConversionEnergy_G5_DESC</name>
-		<body>Instantly restores the HP of a target within [%First_Target_Valid_Distance]m by [%e1.Heal_Instant.Heal], and also restores [%e2.Heal.CheckTimeHeal] of HP every [%e2.Heal.CheckTime] for [%e2.Heal.RemainTime].</body>
+		<body>Restaura a HP de um alvo que esteja a até [%First_Target_Valid_Distance]m de distância em [%e1.Heal_Instant.Heal] e também restaura [%e2.Heal.CheckTimeHeal] de HP a cada [%e2.Heal.CheckTime] por [%e2. Heal.RemainTime].</body>
 	</string>
 	<string>
 		<id>286906</id>
@@ -27401,7 +27401,7 @@
 	<string>
 		<id>286911</id>
 		<name>STR_SKILL_CL_ImbueWind_G4_DESC</name>
-		<body>For [%e1.Provoker.RemainTime], has a [%e1.Provoker.ConditionProb]%% chance to inflict additional [%e1.Provoker.OtherSkill.e1.ProcATK_Instant.Damage] damage on the target whenever you [%e1.Provoker.Condition].</body>
+		<body>Por [%e1.Provoker.RemainTime], tem [%e1.Provoker.ConditionProb]%% de chance de causar [%e1.Provoker.OtherSkill.e1.ProcATK_Instant.Damage] dano adicional no alvo sempre que você [%e1.Provoker.Condition].</body>
 	</string>
 	<string>
 		<id>286912</id>
@@ -27441,7 +27441,7 @@
 	<string>
 		<id>286919</id>
 		<name>STR_SKILL_EL_CursedTouchWater_G2_DESC</name>
-		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo dentro que esteja a até [%First_Target_Valid_Distance]m de distância de você and transforms it into a water spirit for [%e2.Deform.RemainTime]. During this time, [%e3.StatUp.StatName] increases by [%e3.StatUp.Value] while [%e4.StatDown.StatName] decreases by [%e4.StatDown.Value].</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você and transforms it into a water spirit for [%e2.Deform.RemainTime]. During this time, [%e3.StatUp.StatName] increases by [%e3.StatUp.Value] while [%e4.StatDown.StatName] decreases by [%e4.StatDown.Value].</body>
 	</string>
 	<string>
 		<id>286920</id>
@@ -27461,7 +27461,7 @@
 	<string>
 		<id>286923</id>
 		<name>STR_SKILL_EL_CurzedLayWater_G1_DESC</name>
-		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo dentro que esteja a até [%First_Target_Valid_Distance]m de distância de você and also transforms it into a water spirit for [%e2.Deform.RemainTime]. During this time, [%e3.StatUp.StatName] increases by [%e3.StatUp.Value] while [%e4.StatDown.StatName] decreases by [%e4.StatDown.Value].</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você and also transforms it into a water spirit for [%e2.Deform.RemainTime]. During this time, [%e3.StatUp.StatName] increases by [%e3.StatUp.Value] while [%e4.StatDown.StatName] decreases by [%e4.StatDown.Value].</body>
 	</string>
 	<string>
 		<id>286924</id>
@@ -27591,7 +27591,7 @@
 	<string>
 		<id>286949</id>
 		<name>STR_SKILL_EL_EarthGrab_G4_DESC</name>
-		<body>Inflicts [%e1.SpellATK_Instant.FixDamage] earth damage on a target within [%First_Target_Valid_Distance]m, decreases its movement speed for [%e3.Snare.RandomTime]~[%e3.Snare.RemainTime], and deals additional [%e2.SpellATK.Damage] damage every [%e2.SpellATK.CheckTime].&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] dano mágico de terra em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância, diminui sua Velocidade de Movimento por [%e3.Snare.RandomTime]~[%e3.Snare.RemainTime] e causa [%e2 adicionais .SpellATK.Damage] de dano adicional a cada [%e2.SpellATK.CheckTime].&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>286950</id>
@@ -27851,7 +27851,7 @@
 	<string>
 		<id>287001</id>
 		<name>STR_SKILL_EL_StoneShock_G3_DESC</name>
-		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de terra em um alvo a até [%First_Target_Valid_Distance]m de distância de você, and puts it in the [%e1.SpellATK_Instant.AddEffect] state.&#xA;Habilidade de Sequência nível 2&#xA;Chain of Earth – Stone Shock.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de terra em um alvo a até [%First_Target_Valid_Distance]m de distância de você e o coloca no estado [%e1.SpellATK_Instant.AddEffect].&#xA;Habilidade de Sequência nível 2&#xA;Chain of Earth – Stone Shock.</body>
 	</string>
 	<string>
 		<id>287002</id>
@@ -27871,7 +27871,7 @@
 	<string>
 		<id>287005</id>
 		<name>STR_SKILL_FI_AggressiveMode_G4_DESC</name>
-		<body>Increases your [%e1.StatBoost.StatName] but decreases your [%e2.StatBoost.StatName].&#xA;Habilidade Ativa</body>
+		<body>Aumenta seu [%e1.StatBoost.StatName], mas diminui seu [%e2.StatBoost.StatName].&#xA;Habilidade Ativa</body>
 	</string>
 	<string>
 		<id>287006</id>
@@ -27921,7 +27921,7 @@
 	<string>
 		<id>287015</id>
 		<name>STR_SKILL_FI_DefenseMode_G4_DESC</name>
-		<body>Increases your [%e1.StatBoost.StatName] but decreases your [%e2.StatBoost.StatName].&#xA;Habilidade Ativa</body>
+		<body>Aumenta seu [%e1.StatBoost.StatName], mas diminui seu [%e2.StatBoost.StatName].&#xA;Habilidade Ativa</body>
 	</string>
 	<string>
 		<id>287016</id>
@@ -27971,7 +27971,7 @@
 	<string>
 		<id>287025</id>
 		<name>STR_SKILL_FI_Howling_G3_DESC</name>
-		<body>Lowers [%e1.StatDown.StatName] of the enemies within a 7m radius of you by [%e1.StatDown.Value] for [%e1.StatDown.RemainTime].&#xA;Habilidade de Stigma</body>
+		<body>Reduz a [%e1.StatDown.StatName] dos inimigos em um raio de 7m de você em [%e1.StatDown.Value] por [%e1.StatDown.RemainTime].&#xA;Habilidade de Stigma</body>
 	</string>
 	<string>
 		<id>287026</id>
@@ -27981,7 +27981,7 @@
 	<string>
 		<id>287027</id>
 		<name>STR_SKILL_FI_LockdownImpact_G4_DESC</name>
-		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. The target is bound for [%e2.Bind.RemainTime].&#xA;Habilidade de Stigma.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. O alvo fica de mãos amarradas (bind) por [%e2.Bind.RemainTime].&#xA;Habilidade de Stigma.</body>
 	</string>
 	<string>
 		<id>287028</id>
@@ -28071,7 +28071,7 @@
 	<string>
 		<id>287045</id>
 		<name>STR_SKILL_FI_SeismicWave_G4_DESC</name>
-		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico em até 3 inimigos que estejam a até 7m ao seu redor.&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico em até 3 inimigos que estejam em um raio de 7m.&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>287046</id>
@@ -28081,7 +28081,7 @@
 	<string>
 		<id>287047</id>
 		<name>STR_SKILL_FI_ShapnessSword_G1_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>287048</id>
@@ -28321,7 +28321,7 @@
 	<string>
 		<id>287095</id>
 		<name>STR_SKILL_KN_Guardian_G4_DESC</name>
-		<body>Boosts your physical defence each time you are attacked with the probability of [%e1.Provoker.ConditionProb]%% for [%e1.Provoker.RemainTime].</body>
+		<body>Aumenta sua defesa física cada vez que você é atacado com [%e1.Provoker.ConditionProb]%% de probabilidade por [%e1.Provoker.RemainTime].</body>
 	</string>
 	<string>
 		<id>287096</id>
@@ -28451,7 +28451,7 @@
 	<string>
 		<id>287121</id>
 		<name>STR_SKILL_KN_Steadiness_G2_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>287122</id>
@@ -28471,7 +28471,7 @@
 	<string>
 		<id>287125</id>
 		<name>STR_SKILL_MA_FrozenShock_G4_DESC</name>
-		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo dentro que esteja a até [%First_Target_Valid_Distance]m de distância de você e o coloca no estado [%e1.SpellATK_Instant.AddEffect].&#xA;Habilidade de Sequência nível 2&#xA;Ice Chain – Frozen Shock.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você e o coloca no estado [%e1.SpellATK_Instant.AddEffect].&#xA;Habilidade de Sequência nível 2&#xA;Ice Chain – Frozen Shock.</body>
 	</string>
 	<string>
 		<id>287126</id>
@@ -28491,7 +28491,7 @@
 	<string>
 		<id>287129</id>
 		<name>STR_SKILL_MA_IceGrab_G5_DESC</name>
-		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo dentro que esteja a até [%First_Target_Valid_Distance]m de distância de você of you, and reduces its movement speed for [%e2.Snare.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você e reduz sua Velocidade de Movimento por [%e2.Snare.RemainTime].&#xA;Habilidade de Sequência nível 1.</body>
 	</string>
 	<string>
 		<id>287130</id>
@@ -28501,7 +28501,7 @@
 	<string>
 		<id>287131</id>
 		<name>STR_SKILL_MA_IgnicBurn_G5_DESC</name>
-		<body>Inflicts [%e1.SpellATK_Instant.FixDamage] magical fire damage on a target within [%First_Target_Valid_Distance]m. The target&apos;s [%e2.StatDown.StatName] decreases by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Flame Bolt – Blaze.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] dano mágico de fogo em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância. A [%e2.StatDown.StatName] do alvo diminui em [%e2.StatDown.Value] por [%e2.StatDown.RemainTime].&#xA;Habilidade de Sequência nível 2&#xA;Flame Bolt – Blaze.</body>
 	</string>
 	<string>
 		<id>287132</id>
@@ -28511,7 +28511,7 @@
 	<string>
 		<id>287133</id>
 		<name>STR_SKILL_MA_RefreshMind_G4_DESC</name>
-		<body>Restores your MP by [%e1.MPHeal_Instant.Heal].</body>
+		<body>Restaura a sua MP em [%e1.MPHeal_Instant.Heal].</body>
 	</string>
 	<string>
 		<id>287134</id>
@@ -28901,7 +28901,7 @@
 	<string>
 		<id>287211</id>
 		<name>STR_SKILL_RA_BackdashStab_G3_DESC</name>
-		<body>Inflicts [%e1.BackDashATK.MinDamage]~[%e1.BackDashATK.MaxDamage] physical damage on the target, and you are pushed back 25m. O alvo às vezes fica atordoado (stun) por [%e2.Stun.RemainTime].&#xA;Habilidade de Stigma.</body>
+		<body>Causa [%e1.BackDashATK.MinDamage]~[%e1.BackDashATK.MaxDamage] de dano físico no alvo e você é empurrado 25m para trás. O alvo às vezes fica atordoado (stun) por [%e2.Stun.RemainTime].&#xA;Habilidade de Stigma.</body>
 	</string>
 	<string>
 		<id>287212</id>
@@ -28931,7 +28931,7 @@
 	<string>
 		<id>287217</id>
 		<name>STR_SKILL_RA_BreezeofCalm_G3_DESC</name>
-		<body>Decreases the Enmity of a target within [%First_Target_Valid_Distance]m.</body>
+		<body>Diminui a Provocação de um alvo que esteja a até [%First_Target_Valid_Distance]m de distância.</body>
 	</string>
 	<string>
 		<id>287218</id>
@@ -29251,7 +29251,7 @@
 	<string>
 		<id>287281</id>
 		<name>STR_SKILL_SC_SpiritofGale_G5_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>287282</id>
@@ -29321,7 +29321,7 @@
 	<string>
 		<id>287295</id>
 		<name>STR_SKILL_WA_Rage_G5_DESC</name>
-		<body>For [%e1.StatUp.RemainTime],[%e1.StatUp.StatName] is increased by [%e1.StatUp.Value] and you receive a protective shield which has a [%e2.Shield.ConditionProb]%% chance of absorbing up to [%e2.Shield.ShieldValue] damage each time you receive [%e2.Shield.Condition].&#xA;Habilidade de Sequência nível 2&#xA;Ferocious Strike – Rage</body>
+		<body>Por [%e1.StatUp.RemainTime], [%e1.StatUp.StatName] é aumentado em [%e1.StatUp.Value] e você recebe um escudo protetor que tem [%e2.Shield.ConditionProb]%% de chance de absorver até [%e2.Shield.ShieldValue] de dano cada vez que recebe [%e2.Shield.Condition].&#xA;Habilidade de Sequência nível 2&#xA;Ferocious Strike – Rage</body>
 	</string>
 	<string>
 		<id>287296</id>
@@ -29481,7 +29481,7 @@
 	<string>
 		<id>287327</id>
 		<name>STR_SKILL_WI_FrozenField_G4_DESC</name>
-		<body>Inflicts [%e1.SpellATK_Instant.FixDamage] water damage on the enemies within a 15m radius of you, and immobilizes them for [%e2.Root.RemainTime].</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] dano mágico de água nos inimigos em um raio de 15m de você e os imobiliza por [%e2.Root.RemainTime].</body>
 	</string>
 	<string>
 		<id>287328</id>
@@ -29501,7 +29501,7 @@
 	<string>
 		<id>287331</id>
 		<name>STR_SKILL_WI_GlacialSwam_G1_DESC</name>
-		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo dentro que esteja a até [%First_Target_Valid_Distance]m de distância de você.&#xA;Habilidade de Sequência nível 2&#xA;Flood – Ice Cyclone</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você.&#xA;Habilidade de Sequência nível 2&#xA;Flood – Ice Cyclone</body>
 	</string>
 	<string>
 		<id>287332</id>
@@ -29511,7 +29511,7 @@
 	<string>
 		<id>287333</id>
 		<name>STR_SKILL_WI_HydroBurst_G4_DESC</name>
-		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo dentro que esteja a até [%First_Target_Valid_Distance]m de distância de você.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você.</body>
 	</string>
 	<string>
 		<id>287334</id>
@@ -29521,7 +29521,7 @@
 	<string>
 		<id>287335</id>
 		<name>STR_SKILL_WI_HydroPress_G4_DESC</name>
-		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo dentro que esteja a até [%First_Target_Valid_Distance]m de distância de você.</body>
+		<body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você.</body>
 	</string>
 	<string>
 		<id>287336</id>
@@ -29686,7 +29686,7 @@
 	<string>
 		<id>287368</id>
 		<name>STR_SKILL_Stigma_EnhancedOrb</name>
-		<body>Basic Orb Training</body>
+		<body>Treinamento Básico de Orb </body>
 	</string>
 	<string>
 		<id>287369</id>
@@ -37668,7 +37668,7 @@
 	<string>
 		<id>288970</id>
 		<name>STR_SKILL_Stigma_Guardian_G1_DESC</name>
-		<body>Boosts your physical defence each time you are attacked with the probability of [%e1.Provoker.ConditionProb]%% for [%e1.Provoker.RemainTime].</body>
+		<body>Aumenta sua defesa física cada vez que você é atacado com [%e1.Provoker.ConditionProb]%% de probabilidade por [%e1.Provoker.RemainTime].</body>
 	</string>
 	<string>
 		<id>288971</id>
@@ -37683,7 +37683,7 @@
 	<string>
 		<id>288973</id>
 		<name>STR_SKILL_Stigma_ParryFocus_G1_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>288974</id>
@@ -38538,7 +38538,7 @@
 	<string>
 		<id>289144</id>
 		<name>STR_NEL_PetrificationTA_Nr_Abnormal</name>
-		<body>You are petrified.</body>
+		<body>Você está petrificado.</body>
 	</string>
 	<string>
 		<id>289145</id>
@@ -40983,7 +40983,7 @@
 	<string>
 		<id>289633</id>
 		<name>STR_SKILL_FI_DivineRage_DESC</name>
-		<body>High probability to hit and then deals [%e1.DeathBlow.Damage]physical damage to the target by using all divine power.&#xA;Special Attack Skill</body>
+		<body>High probability to hit and then deals [%e1.DeathBlow.Damage]physical damage to the target by using all divine power.&#xA;Habilidade de Ataque Especial</body>
 	</string>
 	<string>
 		<id>289634</id>
@@ -41183,7 +41183,7 @@
 	<string>
 		<id>289673</id>
 		<name>STR_SKILL_StigmaI_Steadiness_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>289674</id>
@@ -41263,7 +41263,7 @@
 	<string>
 		<id>289689</id>
 		<name>STR_SKILL_KN_DivineJudgement_DESC</name>
-		<body>Deals [%e1.DeathBlow.Damage] damage to the target.&#xA;Special Attack Skill</body>
+		<body>Deals [%e1.DeathBlow.Damage] damage to the target.&#xA;Habilidade de Ataque Especial</body>
 	</string>
 	<string>
 		<id>289690</id>
@@ -44723,7 +44723,7 @@
 	<string>
 		<id>290381</id>
 		<name>STR_GNEL_Petrification_Chain1_Abnormal</name>
-		<body>You are petrified. Taking ongoing damage.</body>
+		<body>Você está petrificado. Taking ongoing damage.</body>
 	</string>
 	<string>
 		<id>290382</id>
@@ -46138,7 +46138,7 @@
 	<string>
 		<id>290664</id>
 		<name>STR_SKILL_WA_Dash_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>290665</id>
@@ -46358,7 +46358,7 @@
 	<string>
 		<id>290708</id>
 		<name>STR_SKILL_WI_ArcanePower_G1_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].&#xA;Habilidade de Stigma</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].&#xA;Habilidade de Stigma</body>
 	</string>
 	<string>
 		<id>290709</id>
@@ -48553,7 +48553,7 @@
 	<string>
 		<id>291147</id>
 		<name>STR_SKILL_RA_EagleEye_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>291148</id>
@@ -48568,7 +48568,7 @@
 	<string>
 		<id>291150</id>
 		<name>STR_SKILL_RA_HawkEye_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].</body>
 	</string>
 	<string>
 		<id>291151</id>
@@ -55228,7 +55228,7 @@
 	<string>
 		<id>292489</id>
 		<name>STR_NGR_CurseShapeTA_Ghost_Abnormal</name>
-		<body>You are cursed and have turned into a monster.</body>
+		<body>Você está amaldiçoado and have turned into a monster.</body>
 	</string>
 	<string>
 		<id>292490</id>
@@ -57727,7 +57727,7 @@
 	<string>
 		<id>292987</id>
 		<name>STR_SKILL_KN_Stigma_ResistArmor_G1_DESC</name>
-		<body>Increases your [%e1.StatUp.StatName] by [%e1.StatUp.Value] for [%e1.StatUp.RemainTime].&#xA;Habilidade de Stigma</body>
+		<body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].&#xA;Habilidade de Stigma</body>
 	</string>
 	<string>
 		<id>292988</id>
@@ -59462,7 +59462,7 @@
 	<string>
 		<id>293335</id>
 		<name>STR_SKILL_PR_HateDecrease_G1_DESC</name>
-		<body>Decreases the Enmity of a target within [%First_Target_Valid_Distance]m.</body>
+		<body>Diminui a Provocação de um alvo que esteja a até [%First_Target_Valid_Distance]m de distância.</body>
 	</string>
 	<string>
 		<id>293336</id>
@@ -59472,7 +59472,7 @@
 	<string>
 		<id>293337</id>
 		<name>STR_SKILL_PR_HateDecrease_G2_DESC</name>
-		<body>Decreases the Enmity of a target within [%First_Target_Valid_Distance]m.</body>
+		<body>Diminui a Provocação de um alvo que esteja a até [%First_Target_Valid_Distance]m de distância.</body>
 	</string>
 	<string>
 		<id>293338</id>
@@ -59482,7 +59482,7 @@
 	<string>
 		<id>293339</id>
 		<name>STR_SKILL_PR_HateDecrease_G3_DESC</name>
-		<body>Decreases the Enmity of a target within [%First_Target_Valid_Distance]m.</body>
+		<body>Diminui a Provocação de um alvo que esteja a até [%First_Target_Valid_Distance]m de distância.</body>
 	</string>
 	<string>
 		<id>293340</id>
@@ -72017,7 +72017,7 @@
 	<string>
 		<id>295850</id>
 		<name>STR_MATERIAL_SKILL_PROC_FIRE_DAMAGE_1_DESC</name>
-		<body>Body burns with lava.</body>
+		<body>O corpo queima com lava.</body>
 	</string>
 	<string>
 		<id>295851</id>
@@ -74597,7 +74597,7 @@
 	<string>
 		<id>296426</id>
 		<name>STR_BNWI_DeformDrakan_TA_DESC_Abnormal</name>
-		<body>You are cursed and turned into stone. You can remove the condition by using mental healing magic.</body>
+		<body>Você está amaldiçoado and turned into stone. You can remove the condition by using mental healing magic.</body>
 	</string>
 	<string>
 		<id>296427</id>
@@ -75492,12 +75492,12 @@
 	<string>
 		<id>296605</id>
 		<name>STR_BNWI_IDElimBoss_PhyDefUPSelf_Nr_Desc</name>
-		<body>Physical defence has increased significantly. The effect can be removed with Yellow Smoke.</body>
+		<body>A defesa física aumentou significantly. The effect can be removed with Yellow Smoke.</body>
 	</string>
 	<string>
 		<id>296606</id>
 		<name>STR_BNWI_IDElimBoss_PhyDefUPSelf_Nr_Desc_Abnormal</name>
-		<body>Physical defence has increased significantly. The effect can be removed with Yellow Smoke.</body>
+		<body>A defesa física aumentou significantly. The effect can be removed with Yellow Smoke.</body>
 	</string>
 	<string>
 		<id>296607</id>
@@ -80132,7 +80132,7 @@
 	<string>
 		<id>297536</id>
 		<name>STR_IDArena_S6_Buff_DESC_Abnormal</name>
-		<body>Physical defence has increased. This condition can be removed.</body>
+		<body>A defesa física aumentou. This condition can be removed.</body>
 	</string>
 	<string>
 		<id>297537</id>
@@ -82845,7 +82845,7 @@
 	<string>
 		<id>298736</id>
 		<name>STR_IDDramata_Curse_Nr_DESC_Abnormal</name>
-		<body>You are cursed. You cannot remove the Altered State by using physical healing magic or potion.</body>
+		<body>Você está amaldiçoado. You cannot remove the Altered State by using physical healing magic or potion.</body>
 	</string>
 	<string>
 		<id>298737</id>
