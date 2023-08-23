@@ -11835,7 +11835,7 @@
 	<string>
 		<id>1300711</id>
 		<name>STR_MSG_RECEIVE_MAIL</name>
-		<body>Cegou uma carta!</body>
+		<body>Chegou uma nova carta! Para ver o conteúdo vá até um Mailbox ou, se disponível, chame um entregador expresso!</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
