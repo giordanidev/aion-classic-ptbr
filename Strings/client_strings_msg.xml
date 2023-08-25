@@ -18280,14 +18280,14 @@
 	<string>
 		<id>1400217</id>
 		<name>STR_MSG_PARTY_MATCH_DECLINED</name>
-		<body>I'm looking for another class at the moment. It's a shame, but let's play together next time. Have a good time in Aion!</body>
+		<body>I'm looking for something else at the moment, sorry. Maybe next time?! GLHF!</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1400218</id>
 		<name>STR_MSG_FORCE_MATCH_DECLINED</name>
-		<body>I'm looking for another class at the moment. It's a shame, but let's play together next time. Have a good time in Aion!</body>
+		<body>I'm looking for something else at the moment, sorry. Maybe next time?! GLHF!</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
