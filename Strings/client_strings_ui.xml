@@ -3386,7 +3386,7 @@
 	<string>
 		<id>900257</id>
 		<name>STR_ATTACK_SPEED</name>
-		<body>Veloc. Ataque</body>
+		<body>Velocidade Ataque</body>
 	</string>
 	<string>
 		<id>900258</id>
@@ -4426,7 +4426,7 @@
 	<string>
 		<id>900465</id>
 		<name>STR_DEFEND_PHYSICAL</name>
-		<body>Def. Física</body>
+		<body>Defesa Física</body>
 	</string>
 	<string>
 		<id>900466</id>
@@ -4871,7 +4871,7 @@
 	<string>
 		<id>900554</id>
 		<name>STR_TOOLTIP_SKILL_STAT_PHYDEFEND</name>
-		<body>Def. Física</body>
+		<body>Defesa Física</body>
 	</string>
 	<string>
 		<id>900555</id>
@@ -4891,7 +4891,7 @@
 	<string>
 		<id>900558</id>
 		<name>STR_TOOLTIP_SKILL_STAT_ATTACKDELAY</name>
-		<body>Veloc. Ataque</body>
+		<body>Velocidade Ataque</body>
 	</string>
 	<string>
 		<id>900559</id>
@@ -8369,7 +8369,7 @@
 	<string>
 		<id>901287</id>
 		<name>STR_TOOLTIP_SKILL_STAT_FLYSPEED</name>
-		<body>Veloc. Voo</body>
+		<body>Velocidade Voo</body>
 	</string>
 	<string>
 		<id>901288</id>
@@ -10525,7 +10525,7 @@
 	<string>
 		<id>901721</id>
 		<name>STR_SUMMON_PARTY_DO_YOU_ACCEPT_REQUEST</name>
-		<body>&lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; quer te teletransportar usando &lt;font color=&quot;ffff00&quot;&gt;%1&lt;/font&gt;. Aceita ser teletransportado para a posição de %0? &lt;p&gt;&#xA;&lt;/p&gt;Você deve decidir em %2 segundos.</body>
+		<body>&lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt; quer te teletransportar usando &lt;font color=&quot;ffff00&quot;&gt;%1&lt;/font&gt;. Aceita ser teletransportado para a posição de %0? &lt;p&gt;&#xA;&#xA;&lt;/p&gt;Você deve decidir em %2 segundos.</body>
 	</string>
 	<string>
 		<id>901722</id>
@@ -10935,7 +10935,7 @@
 	<string>
 		<id>901808</id>
 		<name>STR_CANNOT_RESURRECT_DESC_BIND_STONE_FOR_SLAYER</name>
-		<body>&lt;p align=&quot;left&quot;&gt;&lt;font color=&quot;505895&quot;&gt;Você irá renascer no Kisk em %0 a menos que escolha outro método de ressurreição dentro de %1 minuto(s).&lt;/font&gt;&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;&lt;font color=&quot;505895&quot;&gt;Tempo de Espera da Ressurreição: %2 segundos restantes&lt;/font&gt;&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;&lt;font color=&quot;505895&quot;&gt;Você irá renascer no Kisk em %0 a menos que escolha outro método de ressurreição dentro de %1 minuto(s).&lt;/font&gt;&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;&lt;font color=&quot;505895&quot;&gt;Você poderá decidir em %2 segundos.&lt;/font&gt;&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901809</id>
@@ -11105,7 +11105,7 @@
 	<string>
 		<id>901842</id>
 		<name>STR_BOOSTCASTINGTIME</name>
-		<body>Veloc. Conjuração</body>
+		<body>Velocidade Conjuração</body>
 	</string>
 	<string>
 		<id>901843</id>
@@ -11255,17 +11255,17 @@
 	<string>
 		<id>901872</id>
 		<name>STR_INSTANT_DUNGEON_WAITING_INFO</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Método de Entrada: %0&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Progresso: %1&lt;/p&gt;&#xA;&lt;p&gt;&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Tempo de espera decorrido: %DURATIONTIME2 %3&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Método de entrada: %0 &#xA;Progresso: %1 &#xA;Tempo decorrido: %DURATIONTIME2 %3&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901873</id>
 		<name>STR_INSTANT_DUNGEON_ENTER_CONFIRM</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Você quer entrar em &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;?&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Pressionar o botão &lt;font color=&quot;ffff00&quot;&gt;Entrar&lt;/font&gt; move você para a zona selecionada.&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;Tempo Restante: %DURATIONTIME1&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Você quer entrar em &lt;font color=&quot;ffff00&quot;&gt;%0&lt;/font&gt;? &#xA;Pressionar o botão &lt;font color=&quot;ffff00&quot;&gt;Entrar&lt;/font&gt; move você para a zona selecionada. &#xA;&#xA;Você deve decidir em %DURATIONTIME1.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901874</id>
 		<name>STR_INSTANT_DUNGEON_RESURRECT</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Se você clicar em &lt;font color=&quot;ffff00&quot;&gt;Concordar&lt;/font&gt;, você irá renascer imediatamente no &lt;font color=&quot;ffff00&quot;&gt;Ponto de Partida de %0&lt;/font&gt;.&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Em até %1 minutos outras pessoas podem te ressuscitar no local atual.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Você pode escolher uma opção em %2 segundos.&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Se clicar em &lt;font color=&quot;ffff00&quot;&gt;Concordar&lt;/font&gt;, você irá renascer imediatamente no &lt;font color=&quot;ffff00&quot;&gt;Ponto de Partida de %0&lt;/font&gt;. &#xA;Em até %1 minuto(s) outras pessoas podem te ressuscitar no local atual. &#xA;&#xA;Você poderá escolher uma opção em %2 segundos.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901875</id>
@@ -11280,7 +11280,7 @@
 	<string>
 		<id>901877</id>
 		<name>STR_EDIT_CHAR_ITEM_USE_CONFIRM</name>
-		<body>&lt;p&gt;Usar %0 mudará sua aparência.&lt;/p&gt;&#xA;&lt;p&gt;Tem certeza de que deseja mudar sua aparência?&lt;/p&gt;</body>
+		<body>&lt;p&gt;Usar %0 mudará sua aparência. &#xA;&#xA;Tem certeza de que deseja mudar sua aparência?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901878</id>
@@ -11350,7 +11350,7 @@
 	<string>
 		<id>901891</id>
 		<name>STR_INSTANT_DUNGEON_IDLF1_RESURRECT</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Se você clicar em &lt;font color=&quot;ffff00&quot;&gt;Concordar&lt;/font&gt;, você irá renascer imediatamente no &lt;font color=&quot;ffff00&quot;&gt;Ponto de Partida de %0&lt;/font&gt;.&lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Se clicar em &lt;font color=&quot;ffff00&quot;&gt;Concordar&lt;/font&gt;, você irá renascer imediatamente no &lt;font color=&quot;ffff00&quot;&gt;Ponto de Partida de %0&lt;/font&gt;.&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>901892</id>
@@ -11524,7 +11524,7 @@
 	<string>
 		<id>901927</id>
 		<name>STR_INSTANT_DUNGEON_ENTER_CONFIRM_TIME</name>
-		<body>(Máx. %DURATIONTIME0)</body>
+		<body>(máx. %DURATIONTIME0)</body>
 	</string>
 	<string>
 		<id>901928</id>
@@ -12418,7 +12418,7 @@
 	<string>
 		<id>902105</id>
 		<name>STR_TOOLTIP_SKILL_STAT_HEAL_BOOST</name>
-		<body>Aumento de Cura</body>
+		<body>Cura</body>
 	</string>
 	<string>
 		<id>902106</id>
@@ -16326,7 +16326,7 @@
 	<string>
 		<id>903288</id>
 		<name>STR_INSTANT_DUNGEON_WAITING_INFO_ADD_NAME</name>
-		<body>&lt;p align=&quot;left&quot;&gt;Instância: %0&lt;/p&gt;&#xA;&lt;p&gt;&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Tipo de Entrada: %1&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Progresso: %2&lt;/p&gt;&#xA;&lt;p&gt;&lt;/p&gt;&#xA;&lt;p align=&quot;left&quot;&gt;Tempo de espera: %DURATIONTIME3 %4 &lt;/p&gt;</body>
+		<body>&lt;p align=&quot;left&quot;&gt;Instância: %0 &#xA;Tipo de entrada: %1 &#xA;Progresso: %2 &#xA;Tempo de espera: %DURATIONTIME3 %4 &lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>903289</id>
@@ -16341,7 +16341,7 @@
 	<string>
 		<id>903291</id>
 		<name>STR_INSTANT_DUNGEON_WAITING_INFO_PARTY_MATCH_STATUS_INDISPENSABLE</name>
-		<body>(Esperando por jogadores da classe necessária)</body>
+		<body>(Aguardando por jogadores da classe necessária)</body>
 	</string>
 	<string>
 		<id>903292</id>
@@ -16351,7 +16351,7 @@
 	<string>
 		<id>903293</id>
 		<name>STR_UPGRADE_ITEM_CONFIRM</name>
-		<body>&lt;p&gt;Você está prestes a comprar o item selecionado por %0.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Continuar?&lt;/p&gt;</body>
+		<body>&lt;p&gt;Você está prestes a comprar o item selecionado por %0. &#xA;&#xA;Continuar?&lt;/p&gt;</body>
 	</string>
 	<string>
 		<id>903294</id>
@@ -16386,27 +16386,27 @@
 	<string>
 		<id>903301</id>
 		<name>STR_INSTANCE_BUFF_10_DESC</name>
-		<body>Aumenta o Dano Físico em 15, Dano Mágico em 95, HP Máximo em 440 e Aumento de Cura em 30.</body>
+		<body>Aumenta o Dano Físico em 15, Dano Mágico em 95, HP Máximo em 440 e Cura em 30.</body>
 	</string>
 	<string>
 		<id>903302</id>
 		<name>STR_INSTANCE_BUFF_20_DESC</name>
-		<body>Aumenta o Dano Físico em 20, Dano Mágico em 105, HP Máximo em 520 e Aumento de Cura em 30.</body>
+		<body>Aumenta o Dano Físico em 20, Dano Mágico em 105, HP Máximo em 520 e Cura em 30.</body>
 	</string>
 	<string>
 		<id>903303</id>
 		<name>STR_INSTANCE_BUFF_30_DESC</name>
-		<body>Aumenta o Dano Físico em 20, Dano Mágico em 115, HP Máximo em 600 e Aumento de Cura em 30.</body>
+		<body>Aumenta o Dano Físico em 20, Dano Mágico em 115, HP Máximo em 600 e Cura em 30.</body>
 	</string>
 	<string>
 		<id>903304</id>
 		<name>STR_INSTANCE_BUFF_40_DESC</name>
-		<body>Aumenta o Dano Físico em 25, Dano Mágico em 125, HP Máximo em 680 e Aumento de Cura em 50.</body>
+		<body>Aumenta o Dano Físico em 25, Dano Mágico em 125, HP Máximo em 680 e Cura em 50.</body>
 	</string>
 	<string>
 		<id>903305</id>
 		<name>STR_INSTANCE_BUFF_50_DESC</name>
-		<body>Aumenta o Dano Físico em 25, Dano Mágico em 125, HP Máximo em 680 e Aumento de Cura em 50.</body>
+		<body>Aumenta o Dano Físico em 25, Dano Mágico em 125, HP Máximo em 680 e Cura em 50.</body>
 	</string>
 	<string>
 		<id>903306</id>

@@ -18106,7 +18106,7 @@
 	<string>
 		<id>1400193</id>
 		<name>STR_OTHER_USER_USE_RESURRECTDEBUFF_SKILL_ALREADY</name>
-		<body>Este jogador já está sendo ressuscitado.</body>
+		<body>Este jogador já foi ressuscitado.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -18120,7 +18120,7 @@
 	<string>
 		<id>1400195</id>
 		<name>STR_MSG_INSTANCE_REMAIN_TIME</name>
-		<body>O tempo de ataque restante é %DURATIONTIME0.</body>
+		<body>A instância termina em %DURATIONTIME0.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
@@ -18171,7 +18171,7 @@
 	<string>
 		<id>1400202</id>
 		<name>STR_MSG_INSTANCE_REMAIN_TIME_60</name>
-		<body>O tempo de ataque restante é %DURATIONTIME0.</body>
+		<body>A instância termina em %DURATIONTIME0.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 		<ment>score_alert_60s_fix</ment>
@@ -18179,7 +18179,7 @@
 	<string>
 		<id>1400203</id>
 		<name>STR_MSG_INSTANCE_REMAIN_TIME_30</name>
-		<body>O tempo de ataque restante é %DURATIONTIME0.</body>
+		<body>A instância termina em %DURATIONTIME0.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 		<ment>score_alert_30s_fix</ment>
@@ -18187,7 +18187,7 @@
 	<string>
 		<id>1400204</id>
 		<name>STR_MSG_INSTANCE_REMAIN_TIME_10</name>
-		<body>O tempo de ataque restante é %DURATIONTIME0.</body>
+		<body>A instância termina em %DURATIONTIME0.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 		<ment>score_alert_10s_fix</ment>
@@ -18195,7 +18195,7 @@
 	<string>
 		<id>1400205</id>
 		<name>STR_MSG_INSTANCE_REMAIN_TIME_5</name>
-		<body>O tempo de ataque restante é %DURATIONTIME0.</body>
+		<body>A instância termina em %DURATIONTIME0.</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 		<ment>score_alert_5s_fix</ment>
@@ -18280,14 +18280,14 @@
 	<string>
 		<id>1400217</id>
 		<name>STR_MSG_PARTY_MATCH_DECLINED</name>
-		<body>I'm looking for another class at the moment. It's a shame, but let's play together next time. Have a good time in Aion!</body>
+		<body>Not at this time, sorry. It's a shame, but maybe next time. Have a good time in Aion! GLHF!</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1400218</id>
 		<name>STR_MSG_FORCE_MATCH_DECLINED</name>
-		<body>I'm looking for another class at the moment. It's a shame, but let's play together next time. Have a good time in Aion!</body>
+		<body>Not at this time, sorry. It's a shame, but maybe next time. Have a good time in Aion! GLHF!</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
