@@ -24,7 +24,7 @@
 	<string>
 		<id>1200003</id>
 		<name>STR_MSG_COMBAT_MY_SUMMONED_CRITICAL</name>
-		<body>Ataque Crítico! %0 causou %num2 de dano crítico em %1.</body>
+		<body>Ataque Crítico!&nbsp; %0 causou %num2 de dano crítico em %1.</body>
 		<message_type>17</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -38,7 +38,7 @@
 	<string>
 		<id>1200005</id>
 		<name>STR_MSG_COMBAT_MY_SUMMONED_ENEMY_CRITICAL</name>
-		<body>Ataque Crítico! %0 causou %num2 de dano crítico em %1.</body>
+		<body>Ataque Crítico!&nbsp; %0 causou %num2 de dano crítico em %1.</body>
 		<message_type>23</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -6565,7 +6565,7 @@
 	<string>
 		<id>1220001</id>
 		<name>STR_MSG_COMBAT_PARTY_CRITICAL</name>
-		<body>Ataque Crítico! %0 causou %num2 de dano crítico em %1.</body>
+		<body>Ataque Crítico!&nbsp; %0 causou %num2 de dano crítico em %1.</body>
 		<message_type>28</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -6677,7 +6677,7 @@
 	<string>
 		<id>1240001</id>
 		<name>STR_MSG_COMBAT_OTHER_FRIENDLY_CRITICAL</name>
-		<body>Ataque Crítico! %0 causou %num2 de dano crítico em %1.</body>
+		<body>Ataque Crítico!&nbsp; %0 causou %num2 de dano crítico em %1.</body>
 		<message_type>38</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -6733,7 +6733,7 @@
 	<string>
 		<id>1250001</id>
 		<name>STR_MSG_COMBAT_OTHER_HOSTILE_CRITICAL</name>
-		<body>Ataque Crítico! %0 causou %num2 de dano crítico em %1.</body>
+		<body>Ataque Crítico!&nbsp; %0 causou %num2 de dano crítico em %1.</body>
 		<message_type>43</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -6789,7 +6789,7 @@
 	<string>
 		<id>1260001</id>
 		<name>STR_MSG_COMBAT_OTHER_NPC_CRITICAL</name>
-		<body>Ataque Crítico! %0 causou %num2 de dano crítico em %1.</body>
+		<body>Ataque Crítico!&nbsp; %0 causou %num2 de dano crítico em %1.</body>
 		<message_type>48</message_type>
 		<display_type>1</display_type>
 	</string>
@@ -18280,14 +18280,14 @@
 	<string>
 		<id>1400217</id>
 		<name>STR_MSG_PARTY_MATCH_DECLINED</name>
-		<body>I'm looking for something else at the moment, sorry. Maybe next time?! GLHF!</body>
+		<body>Not at this time, sorry. Maybe next time! GLHF!!</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
 	<string>
 		<id>1400218</id>
 		<name>STR_MSG_FORCE_MATCH_DECLINED</name>
-		<body>I'm looking for something else at the moment, sorry. Maybe next time?! GLHF!</body>
+		<body>Not at this time, sorry. Maybe next time! GLHF!!</body>
 		<message_type>53</message_type>
 		<display_type>3</display_type>
 	</string>
