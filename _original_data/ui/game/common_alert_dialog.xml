@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v4_close" flag="close" frame="466,130,347,148" last_modified="2014-08-22 12:58:41" name="common_alert_dialog" preset="v4_msgbox" shadow_offset="8,8" title_frame="3,3,398,14" title_height="25" type="dlg_common_alert" ui_mode="housing;housing_building">
+	<Widget defbutton="True" font="ui_default" frame="252,117,88,24" name="cancel" preset="v4_button" text="STR_QUIT_ALERT_DIALOG__CANCEL" type="button">
+	</Widget>
+	<Widget flag="multiline;wordwrap" font="ui_default" frame="13,35,309,62" name="timer_text" text_offset="15,15" type="static" valign="middle">
+	</Widget>
+</Dialog>

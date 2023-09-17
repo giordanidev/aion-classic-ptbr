@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="P01">That&apos;s the right key!</Text>
+	<Text label="P02">Hurry! Before they see you!</Text>
+	<Text label="P03">Thank you for freeing me.</Text>
+	<Text label="P04">Now I need you to free Gardugu--the Krall in that cage over there.</Text>
+	<Text label="P05">He&apos;s an important Krall, and friendly to the Elyos.</Text>
+	<Text label="P06">He was...he was captured while trying to help me.</Text>
+	<Text label="P07"> </Text>
+</CutSceneText>

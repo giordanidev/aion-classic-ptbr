@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="P01">Cross the bridge at the gate to Hanarkand.</Text>
+	<Text label="P02">At the prison entrance, disguise yourself as a Balaur using their equipment.</Text>
+	<Text label="P03">Once disguised, you&apos;ll be able to trick the Balaur guard away from the prison.</Text>
+	<Text label="P04">You&apos;ll have to finish the task quickly.</Text>
+	<Text label="P05">Otherwise, he might notice your disguise.</Text>
+	<Text label="P06">Inside, look for an imprisoned Reian tribeswoman named Donikia.</Text>
+</CutSceneText>

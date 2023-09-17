@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Preload last_modified="2021-10-01 16:52:12" name="battlepass">
+	<Skin name="bp_Event_badge" src_image="240,165,65,28" texture="textures/ui/v4_common_1">
+	</Skin>
+	<Skin name="bp_Hot_badge" src_image="240,194,65,28" texture="textures/ui/v4_common_1">
+	</Skin>
+	<Category name="scroll">
+		<Skin name="bp_scroll" src_image="770,991,5,5" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Preset name="bp_scroll" type="scrollbar">
+			<SkinRef name="bp_scroll" state="up">
+			</SkinRef>
+			<SkinRef name="bp_scroll" state="over">
+			</SkinRef>
+			<SkinRef name="bp_scroll" state="down">
+			</SkinRef>
+		</Preset>
+	</Category>
+	<Category name="slot">
+		<Preset name="bp_listview" type="listview">
+			<SkinRef name="v4_slot_over" state="slot_mouseover">
+			</SkinRef>
+			<SkinRef name="bp_slot" state="slot_filled">
+			</SkinRef>
+		</Preset>
+		<Preset name="bp_listview_premium" type="listview">
+			<SkinRef name="v4_slot_over" state="slot_mouseover">
+			</SkinRef>
+			<SkinRef name="bp_slot_premium" state="slot_filled">
+			</SkinRef>
+		</Preset>
+		<Skin name="bp_slot" src_image="260,530,44,50" texture="textures/ui/battlepass/battlepass" type="single">
+		</Skin>
+		<Skin name="bp_slot_premium" src_image="259,473,46,52" texture="textures/ui/battlepass/battlepass" type="single">
+		</Skin>
+	</Category>
+	<Category name="static">
+		<Skin name="bp_lv" src_image="349,373,17,14" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_quna_static" size_left_top="13,24" size_middle_top="0,24" size_right_top="13,24" src_left_top="262,447,13,24" src_middle_top="275,447,14,24" src_right_top="289,447,13,24" texture="textures/ui/battlepass/battlepass" type="tiled">
+		</Skin>
+		<Preset name="bp_level_gauge_bg" type="static">
+			<SkinRef name="bp_level_gauge_bg2" state="1">
+			</SkinRef>
+			<SkinRef name="bp_level_gauge_bg" state="0">
+			</SkinRef>
+		</Preset>
+		<Preset name="bp_quna_static" type="static">
+			<SkinRef name="bp_quna_static" state="0">
+			</SkinRef>
+		</Preset>
+		<Preset name="bp_level" type="static">
+			<SkinRef name="bp_level" state="0">
+			</SkinRef>
+			<SkinRef name="bp_level_dim" state="1">
+			</SkinRef>
+			<SkinRef name="bp_level_now" state="2">
+			</SkinRef>
+		</Preset>
+		<Preset name="bp_glow_up" type="static">
+			<SkinRef name="bp_glow_half_up" state="0">
+			</SkinRef>
+		</Preset>
+		<Preset name="bp_glow_down" type="static">
+			<SkinRef name="bp_glow_half_down" state="0">
+			</SkinRef>
+		</Preset>
+		<Preset name="bp_mission_type_static" type="static">
+			<SkinRef name="bp_label_day" state="0">
+			</SkinRef>
+			<SkinRef name="bp_label_week" state="1">
+			</SkinRef>
+			<SkinRef name="bp_label_season" state="2">
+			</SkinRef>
+		</Preset>
+	</Category>
+	<Category name="gauge">
+		<Preset name="battle_pass_level_gauge" type="gauge">
+			<SkinRef main_state="0" name="bp_level_gauge" sub_state="gauge">
+			</SkinRef>
+		</Preset>
+		<Preset name="battle_pass_mission_progress_gauge" type="gauge">
+			<SkinRef main_state="0" name="bp_mission_progress_gauge" sub_state="gauge">
+			</SkinRef>
+		</Preset>
+		<Preset name="battle_pass_gauge" type="gauge">
+			<SkinRef main_state="0" name="bp_mission_gauge" sub_state="gauge">
+			</SkinRef>
+		</Preset>
+	</Category>
+	<Category name="image">
+		<Skin name="bp_hud_up" src_image="132,399,33,33" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_hud_over" src_image="167,399,33,33" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_hud_down" src_image="202,399,33,33" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Preset name="bp_hud_btn" type="button">
+			<SkinRef main_state="0" name="bp_hud_up" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="0" name="bp_hud_over" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="0" name="bp_hud_down" sub_state="down">
+			</SkinRef>
+		</Preset>
+		<Skin name="bp_hud_new" src_image="237,399,33,33" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_popup" size_left_bottom="43,43" size_left_middle="43,0" size_left_top="43,32" size_middle_bottom="0,43" size_middle_middle="0,0" size_middle_top="0,32" size_right_bottom="46,43" size_right_middle="46,0" size_right_top="46,32" src_left_bottom="571,907,43,43" src_left_middle="571,863,43,44" src_left_top="571,831,43,32" src_middle_bottom="614,907,31,43" src_middle_middle="614,863,31,44" src_middle_top="614,831,31,32" src_right_bottom="645,907,46,43" src_right_middle="645,863,46,44" src_right_top="645,831,46,32" texture="textures/ui/battlepass/battlepass" type="tiled">
+		</Skin>
+		<Skin name="bp_popup_header" size_left_bottom="25,18" size_left_middle="25,0" size_left_top="25,25" size_middle_bottom="0,18" size_middle_middle="0,0" size_middle_top="0,25" size_right_bottom="13,18" size_right_middle="13,0" size_right_top="13,25" src_left_bottom="732,934,25,18" src_left_middle="732,916,25,18" src_left_top="732,891,25,25" src_middle_bottom="757,934,7,18" src_middle_middle="757,916,7,18" src_middle_top="757,891,7,25" src_right_bottom="764,934,13,18" src_right_middle="764,916,13,18" src_right_top="764,891,13,25" texture="textures/ui/battlepass/battlepass" type="tiled">
+		</Skin>
+		<Skin name="bp_cover" size_left_bottom="3,3" size_left_middle="3,0" size_left_top="3,3" size_middle_bottom="0,3" size_middle_middle="0,0" size_middle_top="0,3" size_right_bottom="3,3" size_right_middle="3,0" size_right_top="3,3" src_left_bottom="758,993,3,3" src_left_middle="758,989,3,4" src_left_top="758,986,3,3" src_middle_bottom="761,993,4,3" src_middle_middle="761,989,4,4" src_middle_top="761,986,4,3" src_right_bottom="765,993,3,3" src_right_middle="765,989,3,4" src_right_top="765,986,3,3" texture="textures/ui/battlepass/battlepass" type="tiled">
+		</Skin>
+		<Preset name="bp_map_scroll_dot" type="static">
+			<SkinRef name="bp_map_off" state="0">
+			</SkinRef>
+			<SkinRef name="bp_map_on" state="1">
+			</SkinRef>
+		</Preset>
+		<Skin name="bp_acquired" src_image="424,425,38,30" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_reward_bg" src_image="360,1,360,280" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_mission_progress_gauge" src_image="0,1020,700,4" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_gra_up_bg" src_image="782,747,8,106" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_gra_down_bg" src_image="782,857,8,160" texture="textures/ui/battlepass/battlepass" type="single">
+		</Skin>
+		<Skin name="bp_premium_bg" src_image="676,733,98,98" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_premium_open_bg" src_image="833,631,189,189" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_level_gauge_bg" src_image="1,594,448,357" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_level_gauge_bg2" src_image="0,0,448,357" texture="textures/ui/battlepass/battlepass2">
+		</Skin>
+		<Skin name="bp_level_gauge" src_image="0,0,344,344" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_next_level_bg" src_image="468,747,196,84" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_complete_bg" size_left_bottom="14,14" size_left_middle="14,0" size_left_top="14,14" size_middle_bottom="0,14" size_middle_middle="0,0" size_middle_top="0,14" size_right_bottom="14,14" size_right_middle="14,0" size_right_top="14,14" src_left_bottom="707,585,14,14" src_left_middle="707,563,14,22" src_left_top="707,549,14,14" src_middle_bottom="721,585,22,14" src_middle_middle="721,563,22,22" src_middle_top="721,549,22,14" src_right_bottom="743,585,14,14" src_right_middle="743,563,14,22" src_right_top="743,549,14,14" texture="textures/ui/battlepass/battlepass" type="tiled">
+		</Skin>
+		<Skin name="bp_mission_gauge" src_image="468,601,128,128" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_mission_gauge_bg" src_image="599,622,100,100" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_gauge_light" src_image="467,834,100,100" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_mission_gauge_shadow" src_image="702,627,102,102" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_label_day" src_image="427,529,34,16" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_label_week" src_image="427,547,34,16" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_label_season" src_image="427,565,34,16" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_map_on" src_image="427,459,10,10" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_map_off" src_image="427,471,10,10" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_mission_seperator" size_left_top="3,2" size_middle_top="0,2" size_right_top="3,2" src_left_top="427,483,3,2" src_middle_top="430,483,4,2" src_right_top="434,483,3,2" texture="textures/ui/battlepass/battlepass" type="tiled">
+		</Skin>
+		<Skin name="bp_tab_seperator" src_image="463,545,2,36" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_slash" src_image="440,462,23,23" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_lock" src_image="340,543,26,36" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_new" src_image="370,543,16,16" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_desc_pin" src_image="373,565,10,15" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_level_dim" src_image="765,563,32,38" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_level" src_image="429,491,32,38" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_level_now" src_image="800,560,32,38" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_img_scroll" src_image="340,461,78,78" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_img_reward" src_image="340,395,62,62" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_alert" src_image="375,303,88,87" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_tab_selected" src_image="468,505,236,92" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_glow_half_up" src_image="468,399,268,102" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_glow_half_down" src_image="468,293,268,102" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_header" size_left_top="360,62" size_middle_top="0,62" size_right_top="358,62" src_left_top="1,955,360,62" src_middle_top="361,955,2,62" src_right_top="363,955,358,62" texture="textures/ui/battlepass/battlepass" type="tiled">
+		</Skin>
+		<Skin name="bp_coin" src_image="390,543,34,38" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_start_menu" src_image="275,409,22,22" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_buy_level_bg" src_image="741,440,101,100" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Preset name="bp_label" type="static">
+			<SkinRef name="bp_label_day" state="0">
+			</SkinRef>
+			<SkinRef name="bp_label_week" state="1">
+			</SkinRef>
+			<SkinRef name="bp_label_season" state="2">
+			</SkinRef>
+		</Preset>
+		<Preset name="bp_cover" type="static">
+			<SkinRef name="bp_cover" state="0">
+			</SkinRef>
+		</Preset>
+	</Category>
+	<Category name="button">
+		<Skin name="bp_tab2_up" src_image="725,157,230,40" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_tab2_over" src_image="725,199,230,40" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_tab2_down" src_image="725,241,230,40" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_charge_btn_up" src_image="774,29,34,34" texture="textures/ui/shop_spinel">
+		</Skin>
+		<Skin name="bp_charge_btn_over" src_image="810,29,34,34" texture="textures/ui/shop_spinel">
+		</Skin>
+		<Skin name="bp_charge_btn_down" src_image="846,29,34,34" texture="textures/ui/shop_spinel">
+		</Skin>
+		<Skin name="bp_button1_up" src_image="0,448,130,32" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_button1_over" src_image="0,414,130,32" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_button1_down" src_image="0,380,130,32" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_button1_disable" src_image="0,346,130,32" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_button2_up" src_image="0,550,130,32" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_button2_over" src_image="0,516,130,32" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_button2_down" src_image="0,482,130,32" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_button2_disable" src_image="0,346,130,32" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_help_up" src_image="134,476,28,30" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_help_over" src_image="168,476,28,30" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_help_down" src_image="202,476,28,30" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_check_over" src_image="209,511,34,27" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_check_checked" src_image="171,511,34,27" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_check_unchecked" src_image="133,511,34,27" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_close_up" src_image="134,446,24,24" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_close_over" src_image="164,446,24,24" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_close_down" src_image="194,446,24,24" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_levelup_up" size_left_top="17,40" size_middle_top="0,40" size_right_top="17,40" src_left_top="132,542,17,40" src_middle_top="149,542,6,40" src_right_top="155,542,17,40" texture="textures/ui/battlepass/battlepass" type="tiled">
+		</Skin>
+		<Skin name="bp_levelup_over" size_left_top="17,40" size_middle_top="0,40" size_right_top="17,40" src_left_top="174,542,17,40" src_middle_top="191,542,6,40" src_right_top="197,542,17,40" texture="textures/ui/battlepass/battlepass" type="tiled">
+		</Skin>
+		<Skin name="bp_levelup_down" size_left_top="17,40" size_middle_top="0,40" size_right_top="17,40" src_left_top="216,542,17,40" src_middle_top="233,542,6,40" src_right_top="239,542,17,40" texture="textures/ui/battlepass/battlepass" type="tiled">
+		</Skin>
+		<Skin name="bp_mission_gauge_over" src_image="822,822,200,200" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_btn_premium_up" src_image="724,8,213,39" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_btn_premium_over" src_image="724,55,213,39" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Skin name="bp_btn_premium_down" src_image="724,102,213,39" texture="textures/ui/battlepass/battlepass">
+		</Skin>
+		<Preset name="bp_tab2" type="button">
+			<SkinRef main_state="0" name="bp_tab2_up" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="0" name="bp_tab2_over" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="0" name="bp_tab2_down" sub_state="down">
+			</SkinRef>
+			<SkinRef main_state="1" name="bp_tab2_down" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="1" name="bp_tab2_down" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="1" name="bp_tab2_down" sub_state="down">
+			</SkinRef>
+		</Preset>
+		<Preset name="bp_mission_gauge_button" type="button">
+			<SkinRef main_state="0" name="bp_mission_gauge_over" sub_state="over">
+			</SkinRef>
+		</Preset>
+		<Preset name="bp_button1" type="button">
+			<SkinRef main_state="0" name="bp_button1_up" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="0" name="bp_button1_over" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="0" name="bp_button1_down" sub_state="down">
+			</SkinRef>
+			<SkinRef main_state="0" name="bp_button1_disable" sub_state="disable">
+			</SkinRef>
+		</Preset>
+		<Preset name="bp_button2" type="button">
+			<SkinRef main_state="0" name="bp_button2_up" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="0" name="bp_button2_over" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="0" name="bp_button2_down" sub_state="down">
+			</SkinRef>
+			<SkinRef main_state="0" name="bp_button2_disable" sub_state="disable">
+			</SkinRef>
+		</Preset>
+		<Preset name="bp_help" type="button">
+			<SkinRef main_state="0" name="bp_help_up" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="0" name="bp_help_over" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="0" name="bp_help_down" sub_state="down">
+			</SkinRef>
+		</Preset>
+		<Preset name="bp_check" type="button">
+			<SkinRef main_state="0" name="bp_check_unchecked" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="0" name="bp_check_checked" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="0" name="bp_check_over" sub_state="down">
+			</SkinRef>
+			<SkinRef main_state="1" name="bp_check_over" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="1" name="bp_check_over" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="1" name="bp_check_over" sub_state="down">
+			</SkinRef>
+		</Preset>
+		<Preset name="bp_close" type="button">
+			<SkinRef main_state="0" name="bp_close_up" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="0" name="bp_close_over" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="0" name="bp_close_down" sub_state="down">
+			</SkinRef>
+		</Preset>
+		<Preset name="bp_levelup" type="button">
+			<SkinRef main_state="0" name="bp_levelup_up" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="0" name="bp_levelup_over" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="0" name="bp_levelup_down" sub_state="down">
+			</SkinRef>
+		</Preset>
+		<Preset name="bp_charge_btn" type="button">
+			<SkinRef main_state="0" name="bp_charge_btn_up" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="0" name="bp_charge_btn_over" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="0" name="bp_charge_btn_down" sub_state="down">
+			</SkinRef>
+		</Preset>
+		<Preset name="bp_btn_premium" type="button">
+			<SkinRef main_state="0" name="bp_btn_premium_up" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="0" name="bp_btn_premium_over" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="0" name="bp_btn_premium_down" sub_state="down">
+			</SkinRef>
+		</Preset>
+	</Category>
+	<Category name="dialog">
+		<Skin name="bp_dialog" size_left_bottom="5,5" size_left_middle="5,0" size_left_top="5,5" size_middle_bottom="0,5" size_middle_middle="0,0" size_middle_top="0,5" size_right_bottom="5,5" size_right_middle="5,0" size_right_top="5,5" src_left_bottom="758,1013,5,5" src_left_middle="758,1003,5,10" src_left_top="758,998,5,5" src_middle_bottom="763,1013,10,5" src_middle_middle="763,1003,10,10" src_middle_top="763,998,10,5" src_right_bottom="773,1013,5,5" src_right_middle="773,1003,5,10" src_right_top="773,998,5,5" texture="textures/ui/battlepass/battlepass" type="tiled">
+		</Skin>
+		<Preset name="bp_dialog" type="window">
+			<SkinRef name="bp_dialog" state="frame">
+			</SkinRef>
+		</Preset>
+	</Category>
+	<Category name="map">
+		<Category name="basic">
+			<Skin name="bp_map_basic_0" src_image="0,0,420,511" texture="textures/ui/BattlePass/Map/bp_map_A_00">
+			</Skin>
+			<Skin name="bp_map_basic_1" src_image="0,0,420,511" texture="textures/ui/BattlePass/Map/bp_map_A_01">
+			</Skin>
+			<Skin name="bp_map_basic_2" src_image="0,0,420,511" texture="textures/ui/BattlePass/Map/bp_map_A_02">
+			</Skin>
+			<Skin name="bp_map_basic_3" src_image="0,0,420,511" texture="textures/ui/BattlePass/Map/bp_map_A_03">
+			</Skin>
+		</Category>
+		<Category name="easy">
+			<Skin name="bp_map_easy_0" src_image="0,0,420,511" texture="textures/ui/BattlePass/Map/bp_map_b_00">
+			</Skin>
+			<Skin name="bp_map_easy_1" src_image="0,0,420,511" texture="textures/ui/BattlePass/Map/bp_map_b_01">
+			</Skin>
+			<Skin name="bp_map_easy_2" src_image="0,0,420,511" texture="textures/ui/BattlePass/Map/bp_map_b_02">
+			</Skin>
+			<Skin name="bp_map_easy_3" src_image="0,0,420,511" texture="textures/ui/BattlePass/Map/bp_map_b_03">
+			</Skin>
+		</Category>
+		<Category name="return">
+			<Skin name="bp_map_return_0" src_image="0,0,420,511" texture="textures/ui/battlepass/map/bp_map_c_00">
+			</Skin>
+			<Skin name="bp_map_return_1" src_image="0,0,420,511" texture="textures/ui/battlepass/map/bp_map_c_01">
+			</Skin>
+			<Skin name="bp_map_return_2" src_image="0,0,420,511" texture="textures/ui/battlepass/map/bp_map_c_02">
+			</Skin>
+			<Skin name="bp_map_return_3" src_image="0,0,420,511" texture="textures/ui/battlepass/map/bp_map_c_03">
+			</Skin>
+		</Category>
+		<Skin name="bp_map_tropical_0" src_image="0,0,420,511" texture="textures/ui/BattlePass/Map/bp_map_00">
+		</Skin>
+		<Skin name="bp_map_tropical_1" src_image="0,0,420,511" texture="textures/ui/BattlePass/Map/bp_map_01">
+		</Skin>
+		<Skin name="bp_map_tropical_2" src_image="0,0,420,511" texture="textures/ui/BattlePass/Map/bp_map_02">
+		</Skin>
+		<Skin name="bp_map_tropical_3" src_image="0,0,420,511" texture="textures/ui/BattlePass/Map/bp_map_03">
+		</Skin>
+		<Skin name="bp_map_tropical_4" src_image="0,0,420,511" texture="textures/ui/BattlePass/Map/bp_map_04">
+		</Skin>
+		<Skin name="bp_map_tropical_5" src_image="0,0,420,511" texture="textures/ui/BattlePass/Map/bp_map_05">
+		</Skin>
+		<Skin name="bp_map_tropical_6" src_image="0,0,420,511" texture="textures/ui/BattlePass/Map/bp_map_06">
+		</Skin>
+		<Skin name="bp_map_tropical_7" src_image="0,0,420,511" texture="textures/ui/BattlePass/Map/bp_map_07">
+		</Skin>
+		<Skin name="bp_map_tropical_8" src_image="0,0,420,511" texture="textures/ui/BattlePass/Map/bp_map_08">
+		</Skin>
+	</Category>
+	<Category name="pass">
+		<Category name="easy">
+			<Skin name="path_easy_0" src_image="0,0,420,511" texture="textures/ui/BattlePass/Map/map_pass_02">
+			</Skin>
+			<Skin name="path_easy_active_0" src_image="0,0,420,511" texture="textures/ui/BattlePass/Map/map_pass_02_active">
+			</Skin>
+			<Skin name="path_easy_start" src_image="0,0,420,511" texture="textures/ui/BattlePass/Map/map_pass_01_start">
+			</Skin>
+			<Skin name="path_easy_active_start" src_image="0,0,420,511" texture="textures/ui/BattlePass/Map/map_pass_01_start_active">
+			</Skin>
+			<Skin name="path_easy_end" src_image="0,0,420,511" texture="textures/ui/BattlePass/Map/map_pass_02">
+			</Skin>
+			<Skin name="path_easy_active_end" src_image="0,0,420,511" texture="textures/ui/BattlePass/Map/map_pass_02_active">
+			</Skin>
+		</Category>
+		<Category name="basic">
+			<Skin name="path_basic_0" src_image="0,0,420,511" texture="textures/ui/BattlePass/Map/map_pass_02">
+			</Skin>
+			<Skin name="path_basic_active_0" src_image="0,0,420,511" texture="textures/ui/BattlePass/Map/map_pass_02_active">
+			</Skin>
+			<Skin name="path_basic_start" src_image="0,0,420,511" texture="textures/ui/BattlePass/Map/map_pass_01_start">
+			</Skin>
+			<Skin name="path_basic_active_start" src_image="0,0,420,511" texture="textures/ui/BattlePass/Map/map_pass_01_start_active">
+			</Skin>
+			<Skin name="path_basic_end" src_image="0,0,420,511" texture="textures/ui/BattlePass/Map/map_pass_02">
+			</Skin>
+			<Skin name="path_basic_active_end" src_image="0,0,420,511" texture="textures/ui/BattlePass/Map/map_pass_02_active">
+			</Skin>
+		</Category>
+		<Category name="return">
+			<Skin name="path_return_0" src_image="0,0,420,511" texture="textures/ui/BattlePass/Map/map_pass_02">
+			</Skin>
+			<Skin name="path_return_active_0" src_image="0,0,420,511" texture="textures/ui/BattlePass/Map/map_pass_02_active">
+			</Skin>
+			<Skin name="path_return_start" src_image="0,0,420,511" texture="textures/ui/BattlePass/Map/map_pass_01_start">
+			</Skin>
+			<Skin name="path_return_active_start" src_image="0,0,420,511" texture="textures/ui/BattlePass/Map/map_pass_01_start_active">
+			</Skin>
+			<Skin name="path_return_end" src_image="0,0,420,511" texture="textures/ui/BattlePass/Map/map_pass_02">
+			</Skin>
+			<Skin name="path_return_active_end" src_image="0,0,420,511" texture="textures/ui/BattlePass/Map/map_pass_02_active">
+			</Skin>
+		</Category>
+	</Category>
+</Preload>

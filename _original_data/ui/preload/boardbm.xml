@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Preload last_modified="2022-05-10 14:39:13" name="BoardBM">
+	<Skin name="boardbm_menu_btn_up" src_image="544,102,41,45" texture="textures/ui/v4_common_1">
+	</Skin>
+	<Skin name="boardbm_menu_btn_over" src_image="544,148,41,45" texture="textures/ui/v4_common_1">
+	</Skin>
+	<Skin name="boardbm_menu_btn_down" src_image="544,194,41,45" texture="textures/ui/v4_common_1">
+	</Skin>
+	<Preset name="boardbm_menu_button" type="button">
+		<SkinRef main_state="0" name="boardbm_menu_btn_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="boardbm_menu_btn_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="boardbm_menu_btn_down" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="boardbm_double_badge" src_image="788,605,28,28" texture="textures/ui/BM_LuckyDice">
+	</Skin>
+	<Skin name="boardbm_normal_01" size_left_bottom="16,16" size_left_middle="16,0" size_left_top="16,16" size_middle_bottom="0,16" size_middle_middle="0,0" size_middle_top="0,16" size_right_bottom="16,16" size_right_middle="16,0" size_right_top="16,16" src_left_bottom="734,642,16,16" src_left_middle="734,621,16,21" src_left_top="734,605,16,16" src_middle_bottom="750,642,21,16" src_middle_middle="750,621,21,21" src_middle_top="750,605,21,16" src_right_bottom="771,642,16,16" src_right_middle="771,621,16,21" src_right_top="771,605,16,16" texture="Textures/UI/BM_LuckyDice" type="tiled">
+	</Skin>
+	<Skin name="pop_cover" size_left_middle="20,0" size_middle_middle="0,0" size_right_middle="20,0" src_left_middle="702,842,20,43" src_middle_middle="722,842,65,43" src_right_middle="787,842,20,43" texture="Textures/UI/BM_LuckyDice" type="tiled">
+	</Skin>
+	<Preset name="pop_cover" type="static">
+		<SkinRef name="pop_cover" state="0">
+		</SkinRef>
+	</Preset>
+	<Skin border="3" name="pop_dialog_01" size_left_bottom="38,46" size_left_middle="38,0" size_left_top="38,66" size_middle_bottom="0,46" size_middle_middle="0,0" size_middle_top="0,66" size_right_bottom="38,46" size_right_middle="38,0" size_right_top="38,66" src_left_bottom="217,960,38,46" src_left_middle="217,916,38,44" src_left_top="217,850,38,66" src_middle_bottom="255,960,269,46" src_middle_middle="255,916,269,44" src_middle_top="255,850,269,66" src_right_bottom="524,960,38,46" src_right_middle="524,916,38,44" src_right_top="524,850,38,66" texture="Textures/UI/BM_LuckyDice" type="tiled">
+	</Skin>
+	<Skin name="pop_close_up" src_image="642,651,17,17" texture="Textures/UI/BM_LuckyDice">
+	</Skin>
+	<Skin name="pop_close_over" src_image="665,651,17,17" texture="Textures/UI/BM_LuckyDice">
+	</Skin>
+	<Skin name="pop_close_down" src_image="688,651,17,17" texture="Textures/UI/BM_LuckyDice">
+	</Skin>
+	<Preset name="pop_close" type="button">
+		<SkinRef main_state="0" name="pop_close_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="pop_close_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="pop_close_down" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="pop_button_up" size_left_middle="20,0" size_middle_middle="0,0" size_right_middle="20,0" src_left_middle="567,852,20,30" src_middle_middle="587,852,81,30" src_right_middle="668,852,20,30" texture="Textures/UI/BM_LuckyDice" type="tiled">
+	</Skin>
+	<Skin name="pop_button_over" size_left_middle="20,0" size_middle_middle="0,0" size_right_middle="20,0" src_left_middle="567,887,20,30" src_middle_middle="587,887,81,30" src_right_middle="668,887,20,30" texture="Textures/UI/BM_LuckyDice" type="tiled">
+	</Skin>
+	<Skin name="pop_button_down" size_left_middle="20,0" size_middle_middle="0,0" size_right_middle="20,0" src_left_middle="567,921,20,30" src_middle_middle="587,921,81,30" src_right_middle="668,921,20,30" texture="Textures/UI/BM_LuckyDice" type="tiled">
+	</Skin>
+	<Preset name="pop_button" type="button">
+		<SkinRef main_state="0" name="pop_button_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="pop_button_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="pop_button_down" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Preset name="luna_container2" type="static">
+		<SkinRef name="luna_container2" state="0">
+		</SkinRef>
+	</Preset>
+	<Skin name="luna_container2" size_middle_bottom="0,11" size_middle_middle="0,0" size_middle_top="0,11" src_middle_bottom="316,832,371,11" src_middle_middle="316,829,371,3" src_middle_top="316,818,371,11" texture="textures/ui/bm_luckydice" type="tiled">
+	</Skin>
+	<Skin name="boardbm_dialog_bg" src_image="1,3,852,596" texture="textures/ui/BM_LuckyDice">
+	</Skin>
+	<Skin name="boardbm_dialog_title" src_image="1,605,600,80" texture="textures/ui/BM_LuckyDice">
+	</Skin>
+	<Skin name="boardbm_close_up" src_image="602,605,42,42" texture="Textures/UI/BM_LuckyDice" type="single">
+	</Skin>
+	<Skin name="boardbm_close_over" src_image="645,605,42,42" texture="Textures/UI/BM_LuckyDice" type="single">
+	</Skin>
+	<Skin name="boardbm_close_down" src_image="688,605,42,42" texture="Textures/UI/BM_LuckyDice" type="single">
+	</Skin>
+	<Preset name="boardbm_close" type="button">
+		<SkinRef main_state="0" name="boardbm_close_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="boardbm_close_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="boardbm_close_down" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="boardbm_dice_bg" size_left_middle="11,0" size_middle_middle="0,0" size_right_middle="11,0" src_left_middle="257,763,11,19" src_middle_middle="268,763,32,19" src_right_middle="300,763,11,19" texture="Textures/UI/BM_LuckyDice" type="tiled">
+	</Skin>
+	<Skin name="boardbm_button_up" size_left_middle="20,0" size_middle_middle="0,0" size_right_middle="20,0" src_left_middle="696,687,20,50" src_middle_middle="716,687,85,50" src_right_middle="801,687,20,50" texture="Textures/UI/BM_LuckyDice" type="tiled">
+	</Skin>
+	<Skin name="boardbm_button_over" size_left_middle="20,0" size_middle_middle="0,0" size_right_middle="20,0" src_left_middle="696,738,20,50" src_middle_middle="716,738,85,50" src_right_middle="801,738,20,50" texture="Textures/UI/BM_LuckyDice" type="tiled">
+	</Skin>
+	<Skin name="boardbm_button_down" size_left_middle="20,0" size_middle_middle="0,0" size_right_middle="20,0" src_left_middle="696,789,20,50" src_middle_middle="716,789,85,50" src_right_middle="801,789,20,50" texture="Textures/UI/BM_LuckyDice" type="tiled">
+	</Skin>
+	<Preset name="boardbm_button" type="button">
+		<SkinRef main_state="0" name="boardbm_button_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="boardbm_button_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="boardbm_button_down" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="boardbm_roll_up" src_image="315,686,126,128" texture="Textures/UI/BM_LuckyDice" type="single">
+	</Skin>
+	<Skin name="boardbm_roll_over" src_image="442,686,126,128" texture="Textures/UI/BM_LuckyDice" type="single">
+	</Skin>
+	<Skin name="boardbm_roll_down" src_image="569,686,126,128" texture="Textures/UI/BM_LuckyDice" type="single">
+	</Skin>
+	<Skin name="boardbm_free_roll_up" src_image="315,686,126,128" texture="Textures/UI/BM_LuckyDice" type="single">
+	</Skin>
+	<Skin name="boardbm_free_roll_over" src_image="442,686,126,128" texture="Textures/UI/BM_LuckyDice" type="single">
+	</Skin>
+	<Skin name="boardbm_free_roll_down" src_image="569,686,126,128" texture="Textures/UI/BM_LuckyDice" type="single">
+	</Skin>
+	<Preset name="boardbm_roll" type="button">
+		<SkinRef main_state="0" name="boardbm_roll_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="boardbm_roll_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="boardbm_roll_down" sub_state="down">
+		</SkinRef>
+		<SkinRef main_state="1" name="boardbm_free_roll_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="1" name="boardbm_free_roll_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="1" name="boardbm_free_roll_down" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="boardbm_start" src_image="1,686,80,84" texture="Textures/UI/BM_LuckyDice">
+	</Skin>
+	<Skin name="boardbm_place" src_image="82,686,80,84" texture="Textures/UI/BM_LuckyDice">
+	</Skin>
+	<Skin name="boardbm_horse" src_image="788,635,34,50" texture="textures/ui/BM_LuckyDice">
+	</Skin>
+	<Skin name="boardbm_horse_shadow" src_image="85,838,26,49" texture="textures/ui/BM_LuckyDice">
+	</Skin>
+	<Skin name="boardbm_horse_spot" src_image="1,856,80,84" texture="textures/ui/BM_LuckyDice">
+	</Skin>
+	<Skin name="boardbm_itemcolor" src_image="163,686,80,84" texture="textures/ui/BM_LuckyDice">
+	</Skin>
+	<Skin name="boardbm_slot_bg" src_image="209,771,44,44" texture="textures/ui/BM_LuckyDice">
+	</Skin>
+	<Preset name="boardbm_itemview" type="itemview">
+		<SkinRef name="boardbm_slot_bg" state="slot">
+		</SkinRef>
+		<SkinRef name="v4_slot_over" state="slot_mouseover">
+		</SkinRef>
+		<SkinRef name="boardbm_slot_bg" state="slot_filled">
+		</SkinRef>
+		<SkinRef name="v4_slot_close" state="slot_close">
+		</SkinRef>
+	</Preset>
+	<Skin name="boardbm_acquire" src_image="218,816,30,30" texture="textures/ui/BM_LuckyDice">
+	</Skin>
+	<Skin name="boardbm_acquire_bg" src_image="1,771,80,84" texture="textures/ui/BM_LuckyDice">
+	</Skin>
+	<Skin name="boardbm_shadow" size_left_bottom="25,25" size_left_middle="25,0" size_left_top="25,25" size_middle_bottom="0,25" size_middle_middle="0,0" size_middle_top="0,25" size_right_bottom="25,25" size_right_middle="25,0" size_right_top="25,25" src_left_bottom="257,816,25,25" src_left_middle="257,813,25,3" src_left_top="257,788,25,25" src_middle_bottom="282,816,3,25" src_middle_middle="282,813,3,3" src_middle_top="282,788,3,25" src_right_bottom="285,816,25,25" src_right_middle="285,813,25,3" src_right_top="285,788,25,25" texture="textures/ui/BM_LuckyDice" type="tiled">
+	</Skin>
+	<Skin name="boardbm_dice_result" src_image="822,687,104,104" texture="textures/ui/BM_LuckyDice">
+	</Skin>
+	<Skin name="boardbm_free_dice" src_image="253,687,31,33" texture="textures/ui/BM_LuckyDice">
+	</Skin>
+	<Skin name="boardbm_paid_dice" src_image="253,725,31,33" texture="textures/ui/BM_LuckyDice">
+	</Skin>
+</Preload>

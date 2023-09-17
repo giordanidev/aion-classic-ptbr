@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="10,5" frame="466,130,347,148" last_modified="2020-09-07 20:08:54" name="force_ready_dialog" preset="v4_msgbox" title_frame="3,3,398,14" type="dlg_force_ready">
+	<Widget flag="multiline;wordwrap" frame="20,32,299,42" name="msg" type="static">
+	</Widget>
+	<Widget frame="20,79,142,22" text="STR_FORCE_READY_DIALOG__REMAIN_TIME" type="static">
+	</Widget>
+	<Widget frame="177,79,142,22" halign="right" name="time" type="static">
+	</Widget>
+	<Widget defbutton="False" frame="208,112,129,26" name="cancel" preset="v4_button" text="STR_FORCE_READY_DIALOG__CANCEL" type="button">
+	</Widget>
+	<Widget defbutton="True" flag="not_visible" frame="150,112,94,26" name="ready" preset="v4_button" text="STR_FORCE_READY_DIALOG__READY" type="button">
+	</Widget>
+	<Widget defbutton="False" flag="not_visible" frame="243,112,94,26" name="denied" preset="v4_button" text="STR_FORCE_READY_DIALOG__NOT_READY" type="button">
+	</Widget>
+</Dialog>

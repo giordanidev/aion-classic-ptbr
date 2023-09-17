@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Screen folder="game_hud_s1" last_modified="2020-09-07 20:10:12" name="UI_Game" version="53">
+	<Dialog name="widewing_left_dialog">
+	</Dialog>
+	<Dialog name="widewing_right_dialog">
+	</Dialog>
+	<Dialog name="exp_bar_dialog">
+	</Dialog>
+	<Dialog name="pet_dialog">
+	</Dialog>
+	<Dialog name="basic_status_dialog">
+	</Dialog>
+	<Dialog name="quickbar_dialog">
+	</Dialog>
+	<Dialog name="start_dialog">
+	</Dialog>
+	<Dialog name="radar_dialog">
+	</Dialog>
+	<Dialog name="subzone_name_dialog">
+	</Dialog>
+</Screen>

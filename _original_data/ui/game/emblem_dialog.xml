@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="left" close_offset="10,5" flag="close;" frame="437,130,271,276" last_modified="2020-09-07 20:08:54" name="emblem_dialog" preset="v4_msgbox2" title_align="center" title_frame="3,3,265,14" type="dlg_emblem">
+	<Widget frame="3,23,256,40" padding="10,10" preset="v4_staticbox2" text="STR_EMBLEM_DIALOG__SELECT" type="static">
+	</Widget>
+	<Widget frame="63,66,138,138" type="image">
+		<Skin name="v4_guild_make_emblem_bg">
+		</Skin>
+	</Widget>
+	<Widget frame="72,75,120,120" name="emblem_bg_img" type="image">
+	</Widget>
+	<Widget frame="77,80,110,110" name="emblem_img" type="image">
+	</Widget>
+	<Widget frame="33,120,19,25" name="prev" preset="v4_prev_btn" type="button">
+	</Widget>
+	<Widget frame="209,124,19,25" name="next" preset="v4_next_btn" type="button">
+	</Widget>
+	<Widget frame="133,208,126,26" name="custom_emblem" preset="v4_button" text="STR_EMBLEM_DIALOG__REGISTER_CUSTOM" type="button">
+	</Widget>
+	<Widget frame="83,240,88,26" name="ok" preset="v4_button" text="STR_EMBLEM_DIALOG__DIALOG_OK" type="button">
+	</Widget>
+	<Widget frame="171,240,88,26" name="cancel" preset="v4_button" text="STR_EMBLEM_DIALOG__DIALOG_CANCEL" type="button">
+	</Widget>
+	<Widget frame="5,208,126,26" name="emblem_bgcolor" preset="v4_button" text="STR_EMBLEM_DIALOG__SELECT_COLOR" type="button">
+	</Widget>
+</Dialog>

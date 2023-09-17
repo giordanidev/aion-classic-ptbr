@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="left" flag="close;title" frame="324,400,303,190" last_modified="2021-05-14 16:20:12" name="gm_packet_save_dialog" preset="v4_dialog" title_frame="3,3,301,14" title_offset="9,1" title_text="STR_GM_DIALOG_PACKET_SAVE" type="dlg_gm_packet_save">
+	<Widget frame="0,9,299,164" name="packet_save" preset="v4_staticbox" type="container">
+		<Widget alphanumeric="False" frame="112,16,173,28" h_padding="5" max_length="255" name="char_id" preset="v4_editbox" type="editbox" v_padding="5">
+		</Widget>
+		<Widget alphanumeric="False" frame="112,51,173,28" h_padding="5" max_length="255" name="start_time" preset="v4_editbox" type="editbox" v_padding="5">
+		</Widget>
+		<Widget alphanumeric="False" frame="112,86,173,28" h_padding="5" max_length="255" name="duration_time" preset="v4_editbox" type="editbox" v_padding="5">
+		</Widget>
+		<Widget frame="41,125,89,26" name="packet_save_start" preset="v4_button" text="STR_GM_DIALOG_PACKET_SAVE_START" type="button">
+		</Widget>
+		<Widget frame="169,125,89,26" name="packet_save_end" preset="v4_button" text="STR_GM_DIALOG_PACKET_SAVE_END" type="button">
+		</Widget>
+		<Widget frame="32,17,54,25" text="STR_GM_DIALOG_PACKET_SAVE_CHAR_ID" type="static">
+		</Widget>
+		<Widget frame="10,52,99,25" text="STR_GM_DIALOG_PACKET_SAVE_START_TIME" type="static">
+		</Widget>
+		<Widget frame="16,86,88,25" text="STR_GM_DIALOG_PACKET_SAVE_REMAIN_TIME" type="static">
+		</Widget>
+	</Widget>
+</Dialog>

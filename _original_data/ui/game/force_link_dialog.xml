@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="left" close_offset="7,5" flag="close" frame="500,700,319,343" last_modified="2020-09-07 20:08:54" name="force_link_dialog" title_frame="3,3,263,14" type="dlg_force_link">
+	<Widget frame="0,0,320,293" type="image" v_pos_align="proportion">
+		<Skin name="v4_popup3">
+		</Skin>
+	</Widget>
+	<Widget frame="0,288,320,30" type="image" v_pos_align="bottom">
+		<Skin name="v4_popup">
+		</Skin>
+	</Widget>
+	<Widget frame="6,23,306,258" name="bg" preset="v4_container" type="image">
+		<Widget frame="4,4,118,20" name="leaderLabel" text="STR_FORCE_LINK_DIALOG__LEADER" type="static">
+		</Widget>
+		<Widget frame="126,4,175,20" name="leaderName" type="static">
+		</Widget>
+		<Widget frame="4,27,118,20" name="viceleaderLabel" text="STR_FORCE_LINK_DIALOG__VICE_LEADER" type="static">
+		</Widget>
+		<Widget frame="126,27,175,20" name="viceLeaderName1" type="static">
+		</Widget>
+		<Widget frame="126,50,175,20" name="viceLeaderName2" type="static">
+		</Widget>
+		<Widget frame="126,73,175,20" name="viceLeaderName3" type="static">
+		</Widget>
+		<Widget frame="126,96,175,20" name="viceLeaderName4" type="static">
+		</Widget>
+		<Widget frame="4,119,118,20" name="numLabel" text="STR_FORCE_LINK_DIALOG__MEMBER_NUM" type="static">
+		</Widget>
+		<Widget frame="126,119,175,20" name="memberNum" type="static">
+		</Widget>
+		<Widget frame="4,142,118,20" name="levelLabel" text="STR_FORCE_LINK_DIALOG__MEMBER_LEVEL" type="static">
+		</Widget>
+		<Widget frame="126,142,175,20" name="memberLevel" type="static">
+		</Widget>
+		<Widget frame="4,164,93,20" name="gameClass1_desc" type="static">
+		</Widget>
+		<Widget frame="101,164,46,20" name="gameClass1_num" type="static">
+		</Widget>
+		<Widget frame="160,164,93,20" name="gameClass2_desc" type="static">
+		</Widget>
+		<Widget frame="256,164,46,20" name="gameClass2_num" type="static">
+		</Widget>
+		<Widget frame="4,186,93,20" name="gameClass3_desc" type="static">
+		</Widget>
+		<Widget frame="101,186,46,20" name="gameClass3_num" type="static">
+		</Widget>
+		<Widget frame="160,186,93,20" name="gameClass4_desc" type="static">
+		</Widget>
+		<Widget frame="256,186,46,20" name="gameClass4_num" type="static">
+		</Widget>
+		<Widget frame="4,208,93,20" name="gameClass5_desc" type="static">
+		</Widget>
+		<Widget frame="101,208,46,20" name="gameClass5_num" type="static">
+		</Widget>
+		<Widget frame="160,208,93,20" name="gameClass6_desc" type="static">
+		</Widget>
+		<Widget frame="256,208,46,20" name="gameClass6_num" type="static">
+		</Widget>
+		<Widget frame="4,230,93,20" name="gameClass7_desc" type="static">
+		</Widget>
+		<Widget frame="101,230,46,20" name="gameClass7_num" type="static">
+		</Widget>
+		<Widget frame="160,230,93,20" name="gameClass8_desc" type="static">
+		</Widget>
+		<Widget frame="256,230,46,20" name="gameClass8_num" type="static">
+		</Widget>
+	</Widget>
+	<Widget frame="5,291,308,21" name="join" preset="v4_popup_button" text="STR_FORCE_LINK_DIALOG__JOIN" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget frame="0,313,320,30" type="image" v_pos_align="bottom">
+		<Skin name="v4_popup">
+		</Skin>
+	</Widget>
+	<Widget frame="5,316,308,21" name="party_match" preset="v4_popup_button" text="STR_FORCE_LINK_DIALOG__PARTY_MATCH" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

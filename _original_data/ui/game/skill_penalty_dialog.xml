@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="transparent;not_movable;not_active" frame="800,2,48,48" h_pos_align="center" last_modified="2020-09-07 20:08:54" name="skill_penalty_dialog" quad_offset="0,0" type="dlg_skill_penalty" v_pos_align="top">
+	<Widget cell_padding="2" frame="2,2,44,44" item_height="44" item_width="44" name="penalty_item1" preset="v4_buff_slot_showonly" type="itemview">
+	</Widget>
+</Dialog>

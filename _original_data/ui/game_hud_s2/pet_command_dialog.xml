@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="not_movable" frame="120,882,261,62" h_pos_align="center" last_modified="2020-09-07 20:10:18" name="pet_command_dialog" preset="v4_hud_pet_command_s2" type="dlg_pet_command" v_pos_align="bottom">
+	<Widget cell_padding="2" frame="50,15,44,44" item_height="44" item_width="44" name="pet_cmd1" one_click_action="True" preset="v4_quickbar_slot" type="itemview">
+	</Widget>
+	<Widget cell_padding="2" frame="93,15,44,44" item_height="44" item_width="44" name="pet_cmd2" one_click_action="True" preset="v4_quickbar_slot" type="itemview">
+	</Widget>
+	<Widget cell_padding="2" frame="136,15,44,44" item_height="44" item_width="44" name="pet_cmd3" one_click_action="True" preset="v4_quickbar_slot" type="itemview">
+	</Widget>
+	<Widget cell_padding="2" frame="179,15,44,44" item_height="44" item_width="44" name="pet_cmd4" one_click_action="True" preset="v4_quickbar_slot" type="itemview">
+	</Widget>
+	<Widget font="v3_shortcut" frame="54,20,36,36" halign="left" name="pet_cmd_num1" type="static" valign="top">
+	</Widget>
+	<Widget font="v3_shortcut" frame="97,20,36,36" halign="left" name="pet_cmd_num2" type="static" valign="top">
+	</Widget>
+	<Widget font="v3_shortcut" frame="140,20,36,36" halign="left" name="pet_cmd_num3" type="static" valign="top">
+	</Widget>
+	<Widget font="v3_shortcut" frame="183,20,36,36" halign="left" name="pet_cmd_num4" type="static" valign="top">
+	</Widget>
+	<Widget frame="25,19,23,23" name="pet_mode_auto" preset="v4_pet_mode" tooltip="STR_PET_DIALOG__TOOLTIP_PET_MODE_AUTO" type="button">
+	</Widget>
+</Dialog>

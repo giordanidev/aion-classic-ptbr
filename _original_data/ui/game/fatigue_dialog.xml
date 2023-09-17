@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog frame="0,0,131,27" last_modified="2020-09-07 20:08:54" name="fatigue_dialog" type="dlg_fatigue">
+	<Widget frame="26,13,28,17" type="static">
+		<Skin name="v4_fatigue">
+		</Skin>
+	</Widget>
+	<Widget frame="0,0,27,27" name="recover" preset="v4_fatigue_btn" type="button">
+	</Widget>
+	<Widget flag="active" frame="51,16,78,11" gauge_adjust="-2,-2" name="fatigue" preset="v4_fatigue_gauge" type="gauge">
+	</Widget>
+</Dialog>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="not_movable" frame="0,0,244,150" last_modified="2020-09-16 10:14:16" name="shop_spinel_today" preset="shop_buy_dialog" type="dlg_shop_spinel_today" ui_mode="housing">
+	<Widget font="ui_default" frame="6,5,232,34" halign="center" padding="2,0" type="static">
+		<Skin name="v5_attend_static">
+		</Skin>
+	</Widget>
+	<Widget font="ui_default" frame="71,10,25,25" halign="center" padding="2,0" type="static">
+		<Skin name="v5_spinel_shop_hud_up">
+		</Skin>
+	</Widget>
+	<Widget font="ui_default" font_size="15" frame="88,11,91,23" halign="center" padding="2,0" text="STR_QUNAMARKET_DIALOG__TODAYLIST_TITLE_" type="static">
+	</Widget>
+	<Widget font="ui_default" frame="6,40,232,104" halign="center" padding="2,0" preset="v5_scheduled_mission_container" type="static">
+		<Skin name="v5_attend_static">
+		</Skin>
+	</Widget>
+	<Widget can_click_item="True" direction_size="4" direction_type="vertical" drag_block_separator="true" elastic_grid_max_rect="0,0,300,300" elastic_grid_size="False" fit_item_size="True" fixed_item_size="True" flag="vscroll" frame="10,42,225,100" inner_scroll="False" item_halign="left" item_spacing="0,0" name="main_grid" scroll_type="hidden" skin_type="shop" type="grid">
+	</Widget>
+	<Widget frame="15,45,48,48" name="proto_container" type="container">
+		<Widget cell_padding="2" flag="wordwrap" frame="2,2,44,44" item_height="64" item_width="64" name="item_slot" preset="v5_deco_itemview" type="itemview">
+		</Widget>
+	</Widget>
+</Dialog>

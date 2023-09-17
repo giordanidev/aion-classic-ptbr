@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="left" close_offset="7,5" flag="close" frame="500,700,195,232" last_modified="2022-04-11 15:04:20" name="party_link_dialog" title_frame="3,3,189,14" type="dlg_party_link">
+	<Widget frame="0,0,194,178" type="image" v_pos_align="proportion">
+		<Skin name="v4_popup3">
+		</Skin>
+	</Widget>
+	<Widget frame="0,173,194,32" name="join_bg" type="image" v_pos_align="bottom">
+		<Skin name="v4_popup">
+		</Skin>
+	</Widget>
+	<Widget frame="0,200,194,32" name="party_match_bg" type="image" v_pos_align="bottom">
+		<Skin name="v4_popup">
+		</Skin>
+	</Widget>
+	<Widget frame="6,23,177,143" name="bg" preset="v4_container" type="image">
+		<Widget frame="4,4,63,20" name="level1" type="static">
+		</Widget>
+		<Widget frame="67,4,106,20" name="class1" type="static">
+		</Widget>
+		<Widget frame="4,27,63,20" name="level2" type="static">
+		</Widget>
+		<Widget frame="67,27,106,20" name="class2" type="static">
+		</Widget>
+		<Widget frame="4,50,63,20" name="level3" type="static">
+		</Widget>
+		<Widget frame="67,50,106,20" name="class3" type="static">
+		</Widget>
+		<Widget frame="4,73,63,20" name="level4" type="static">
+		</Widget>
+		<Widget frame="67,73,106,20" name="class4" type="static">
+		</Widget>
+		<Widget frame="4,96,63,20" name="level5" type="static">
+		</Widget>
+		<Widget frame="67,96,106,20" name="class5" type="static">
+		</Widget>
+		<Widget frame="4,119,63,20" name="level6" type="static">
+		</Widget>
+		<Widget frame="67,119,106,20" name="class6" type="static">
+		</Widget>
+	</Widget>
+	<Widget frame="5,176,180,21" name="join" preset="v4_popup_button" text="STR_PARTY_LINK_DIALOG__JOIN" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget frame="5,203,180,21" name="party_match" preset="v4_popup_button" text="STR_PARTY_LINK_DIALOG__PARTY_MATCH" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

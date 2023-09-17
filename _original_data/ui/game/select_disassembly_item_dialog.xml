@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="task" close_offset="4,1" close_preset="v5_close" flag="close;title" frame="430,162,460,346" last_modified="11.08.2023 11:49:12" name="select_disassembly_item_dialog" preset="v4_dialog2" shadow_offset="8,8" title_align="center" title_frame="3,3,104,14" title_height="25" title_offset="0,5" title_text="STR_DISASSEMBLY_ITEM_SELECT_DIALOG" type="dlg_select_disassembly_item">
+	<Widget cell_padding="2" cell_space="0,0" flag="vscroll" frame="3,58,449,226" item_height="44" item_width="44" list_padding="3,3" name="item_list" preset="v4_listview_sel_frame" scroll_type="visible" slot_num="10" type="listview" viewmode="detail">
+		<Column align="" title="" width="373">
+		</Column>
+	</Widget>
+	<Widget font="ui_default" frame="364,289,88,26" name="cancel" preset="v4_button" text="STR_DISASSEMBLY_ITEM_SELECT_DIALOG__CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="275,289,88,26" name="confirm" preset="v4_button" text="STR_DISASSEMBLY_ITEM_SELECT_DIALOG__OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget flag="wordwrap;multiline" font="ui_static_title" frame="3,4,449,51" halign="center" name="tip" padding="5,0" preset="v4_staticbox2" text="STR_DISASSEMBLY_ITEM_SELECT_DIALOG__DESC" type="static" valign="middle">
+	</Widget>
+</Dialog>

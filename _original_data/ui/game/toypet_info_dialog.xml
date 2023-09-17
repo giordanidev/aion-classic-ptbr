@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="left" close_offset="5,7" flag="close;title" frame="150,150,304,495" last_modified="21.04.2023 09:53:24" name="toypet_info_dialog" preset="v4_dialog" title_align="center" title_frame="3,3,298,14" title_offset="0,5" title_text="STR_TOYPET_INFO_DIALOG" type="dlg_toypet_info">
+	<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="4,10,223,45" item_height="44" item_width="44" name="toypet" preset="v4_listview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="listview" viewmode="detail">
+		<Column align="" title="" width="1000">
+		</Column>
+	</Widget>
+	<Widget frame="230,22,65,21" halign="right" name="option" preset="v4_quest_ind_expand" style="checkbox" text="STR_TOYPET_INFO_DIALOG__POPUP" text_offset="5,0" type="button">
+	</Widget>
+	<Widget frame="0,55,297,420" h_pos_align="proportion" name="tabsheet" type="tabsheet" v_pos_align="proportion">
+		<Widget frame="0,0,297,25" h_pos_align="proportion" name="tab" preset="v4_tab" tab_offset="4,0" tab_space="0" type="tab">
+			<Widget frame="4,0,60,25" name="tab_info" preset="v4_tab_button" text="STR_TOYPET_INFO_DIALOG__INFO" type="tabbutton">
+			</Widget>
+			<Widget flag="not_visible" frame="64,0,60,25" name="tab_warehouse" preset="v4_tab_button" text="STR_TOYPET_INFO_DIALOG__WAREHOUSE" type="tabbutton">
+			</Widget>
+			<Widget flag="not_visible" frame="124,0,60,25" name="tab_feeding" preset="v4_tab_button" text="STR_TOYPET_INFO_DIALOG__FEEDING" type="tabbutton">
+			</Widget>
+			<Widget flag="not_visible" frame="184,0,60,25" name="tab_doping" preset="v4_tab_button" text="STR_TOYPET_INFO_DIALOG__DOPING" type="tabbutton">
+			</Widget>
+			<Widget flag="not_visible" frame="244,0,60,25" name="tab_looting" preset="v4_tab_button" text="STR_TOYPET_INFO_DIALOG__LOOTING" type="tabbutton">
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,297,395" h_pos_align="proportion" name="page_info" preset="v4_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget flag="multiline;wordwrap" frame="21,26,268,105" halign="left" name="info_desc" text_offset="30, 0" type="static" valign="top">
+			</Widget>
+			<Widget font_size="14" frame="16,2,260,21" text="STR_TOYPET_INFO_DIALOG__INFO_DESC" type="static">
+			</Widget>
+			<Widget font_size="14" frame="17,141,260,21" text="STR_TOYPET_INFO_DIALOG__INFO_FEATURE" type="static">
+			</Widget>
+			<Widget flag="truncate" frame="22,326,255,18" name="info_func_sp" type="static" valign="top">
+			</Widget>
+			<Widget frame="22,308,255,18" text="STR_TOYPET_INFO_DIALOG__FUNC_SP" type="static" valign="top">
+			</Widget>
+			<Widget flag="truncate" frame="22,279,255,18" name="info_func2" type="static" valign="top">
+			</Widget>
+			<Widget frame="22,261,255,18" text="STR_TOYPET_INFO_DIALOG__FUNC2" type="static" valign="top">
+			</Widget>
+			<Widget flag="truncate" frame="22,230,255,18" name="info_func1" type="static" valign="top">
+			</Widget>
+			<Widget frame="22,212,255,18" text="STR_TOYPET_INFO_DIALOG__FUNC1" type="static" valign="top">
+			</Widget>
+			<Widget flag="truncate" frame="22,182,255,18" name="info_birthday" type="static" valign="top">
+			</Widget>
+			<Widget frame="22,164,255,18" text="STR_TOYPET_INFO_DIALOG__BIRTHDAY" type="static" valign="top">
+			</Widget>
+			<Widget frame="165,369,128,26" name="list" preset="v4_button" text="STR_TOYPET_INFO_DIALOG__INFO_LIST" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="5,8,8,8" type="image">
+				<Skin name="v4_dot" state="0">
+				</Skin>
+			</Widget>
+			<Widget frame="10,136,277,2" preset="v4_ruler" type="image">
+			</Widget>
+			<Widget frame="5,147,8,8" type="image">
+				<Skin name="v4_dot" state="0">
+				</Skin>
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,297,395" h_pos_align="proportion" name="page_warehouse" preset="v4_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget flag="multiline;wordwrap" frame="10,6,275,98" halign="center" scroll_type="hidden" text="STR_TOYPET_INFO_DIALOG__WAREHOUSE_DESC" text_offset="30, 0" type="static" valign="middle">
+			</Widget>
+			<Widget cell_padding="2" cell_space="-1,-1" flag="vscroll" frame="4,138,287,222" item_height="44" item_width="44" list_padding="3,3" name="warehouse" one_click_action="False" preset="v4_listview_frame" reserve_slots="False" scroll_type="visible" slot_num="30" type="listview" viewmode="icon">
+			</Widget>
+			<Widget frame="6,111,278,20" name="warehouse_desc" type="static">
+			</Widget>
+			<Widget frame="272,371,21,21" name="warehouse_sort" preset="v4_inv_sort" tooltip="STR_INVENTORY_DIALOG__TOOLTIP_AUTO_SORT" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="4,371,22,22" name="warehouse_to_inv" preset="v4_toypet_warehouse" tooltip="STR_TOYPET_INFO_DIALOG__WAREHOUSE_TOOLTIP_CUBE" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="6,105,283,2" preset="v4_ruler" type="image">
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,297,395" h_pos_align="proportion" name="page_feeding" preset="v4_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget flag="multiline;wordwrap;active;truncate" frame="17,142,265,73" name="feed_love_flavor" type="static" valign="top">
+			</Widget>
+			<Widget frame="17,124,265,18" text="STR_TOYPET_INFO_DIALOG__FEED_LOVE_FLAVOR" type="static" valign="top">
+			</Widget>
+			<Widget flag="active;truncate" frame="17,84,265,36" name="feed_flavor" type="static" valign="top">
+			</Widget>
+			<Widget frame="17,66,265,18" text="STR_TOYPET_INFO_DIALOG__FEED_FLAVOR" type="static" valign="top">
+			</Widget>
+			<Widget flag="truncate" frame="17,26,265,36" name="feed_state" type="static" valign="top">
+			</Widget>
+			<Widget frame="17,8,265,18" text="STR_TOYPET_INFO_DIALOG__FEED_STATE" type="static" valign="top">
+			</Widget>
+			<Widget frame="5,126,8,8" type="image">
+				<Skin name="v4_dot" state="0">
+				</Skin>
+			</Widget>
+			<Widget frame="5,68,8,8" type="image">
+				<Skin name="v4_dot" state="0">
+				</Skin>
+			</Widget>
+			<Widget frame="5,10,8,8" type="image">
+				<Skin name="v4_dot" state="0">
+				</Skin>
+			</Widget>
+			<Widget frame="15,219,273,18" text="STR_TOYPET_INFO_DIALOG__FEED_SOURCE" type="static">
+			</Widget>
+			<Widget frame="99,271,93,44" type="image">
+				<Skin name="v4_toypet_feed">
+				</Skin>
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="123,241,44,44" item_height="44" item_width="44" name="feed_source" preset="v4_listview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget flag="not_visible" frame="166,369,132,26" name="feed_cancel" preset="v4_button" text="STR_TOYPET_INFO_DIALOG__FEED_CANCEL" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="5,224,8,8" type="image">
+				<Skin name="v4_dot" state="0">
+				</Skin>
+			</Widget>
+			<Widget frame="6,216,283,2" preset="v4_ruler" type="image">
+			</Widget>
+			<Widget flag="truncate" frame="9,319,279,40" name="feed_source_desc" padding="10,0" preset="v4_container" type="static">
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,297,395" h_pos_align="proportion" name="page_doping" preset="v4_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget cell_padding="2" cell_space="1,1" flag="vscroll" frame="14,317,271,45" item_height="44" item_width="44" name="scroll_doping_list" one_click_action="False" preset="v4_listview" reserve_slots="False" scroll_type="hidden" slot_num="6" type="listview" viewmode="icon">
+			</Widget>
+			<Widget frame="172,369,125,26" name="doping" preset="v4_button" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget cell_padding="2" cell_space="1,1" flag="vscroll" frame="58,236,46,45" item_height="44" item_width="44" name="food_doping_list" one_click_action="False" preset="v4_listview" reserve_slots="False" scroll_type="hidden" slot_num="1" type="listview" viewmode="icon">
+			</Widget>
+			<Widget frame="6,112,283,2" preset="v4_ruler" type="image">
+			</Widget>
+			<Widget flag="multiline;wordwrap" frame="10,6,275,102" halign="center" scroll_type="hidden" text="STR_TOYPET_INFO_DIALOG__DOPING_DESC" text_offset="30, 0" type="static" valign="middle">
+			</Widget>
+			<Widget cell_padding="2" cell_space="1,1" flag="vscroll" frame="199,236,46,45" item_height="44" item_width="44" name="drink_doping_list" one_click_action="False" preset="v4_listview" reserve_slots="False" scroll_type="hidden" slot_num="1" type="listview" viewmode="icon">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="14,166,274,45" item_height="44" item_width="44" name="doping_skill" preset="v4_listview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="listview" viewmode="detail">
+				<Column align="" title="" width="1000">
+				</Column>
+			</Widget>
+			<Widget frame="4,371,22,22" name="doping_inv" preset="v4_toypet_warehouse" tooltip="STR_TOYPET_INFO_DIALOG__WAREHOUSE_TOOLTIP_CUBE" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget flag="truncate" frame="11,118,278,40" name="doping_desc" type="static">
+			</Widget>
+			<Widget flag="truncate" frame="27,214,106,20" halign="center" text="STR_TOYPET_INFO_DIALOG__DOPING_FOOD" type="static">
+			</Widget>
+			<Widget flag="truncate" frame="169,214,106,20" halign="center" text="STR_TOYPET_INFO_DIALOG__DOPING_DRINK" type="static">
+			</Widget>
+			<Widget frame="14,296,271,20" text="STR_TOYPET_INFO_DIALOG__DOPING_SCROLL" type="static">
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,297,395" h_pos_align="proportion" name="page_looting" preset="v4_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="13,156,166,45" item_height="44" item_width="44" name="looting_skill" preset="v4_listview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="listview" viewmode="detail">
+				<Column align="" title="" width="1000">
+				</Column>
+			</Widget>
+			<Widget frame="11,112,278,40" name="looting_desc" type="static">
+			</Widget>
+			<Widget frame="6,107,283,2" preset="v4_ruler" type="image">
+			</Widget>
+			<Widget flag="multiline;wordwrap" frame="10,6,275,97" halign="center" scroll_type="hidden" text="STR_TOYPET_INFO_DIALOG__LOOTING_DESC" text_offset="30, 0" type="static" valign="middle">
+			</Widget>
+			<Widget flag="multiline;wordwrap" frame="23,205,268,78" halign="left" scroll_type="hidden" text="STR_TOYPET_INFO_DIALOG__LOOTING_DESC01" text_offset="30, 0" type="static" valign="top">
+			</Widget>
+			<Widget flag="multiline;wordwrap" frame="23,285,268,78" halign="left" scroll_type="hidden" text="STR_TOYPET_INFO_DIALOG__LOOTING_DESC02" text_offset="30, 0" type="static" valign="top">
+			</Widget>
+			<Widget frame="11,208,8,8" type="image">
+				<Skin name="v4_dot" state="0">
+				</Skin>
+			</Widget>
+			<Widget frame="11,287,8,9" type="image">
+				<Skin name="v4_dot" state="0">
+				</Skin>
+			</Widget>
+			<Widget frame="172,369,125,26" name="looting" preset="v4_button" type="button" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+	</Widget>
+</Dialog>

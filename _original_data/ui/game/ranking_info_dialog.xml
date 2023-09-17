@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="5,7" flag="close;title" frame="0,0,504,502" last_modified="2022-03-17 14:57:27" name="ranking_info_dialog" preset="v4_dialog" title_align="center" title_frame="3,3,398,14" title_height="25" title_offset="0,5" title_text="STR_RANK_INFO_DIALOG" type="dlg_ranking_info">
+	<Widget frame="0,0,498,26" h_pos_align="proportion" name="rank_name" padding="10,0" text_shade="True" type="static" v_pos_align="top">
+	</Widget>
+	<Widget frame="1,25,156,446" type="container">
+		<Widget frame="0,0,156,446" h_pos_align="proportion" type="image" v_pos_align="top">
+			<Skin name="v4_staticbox_bg">
+			</Skin>
+		</Widget>
+		<Widget frame="4,28,148,415" h_pos_align="proportion" type="image" v_pos_align="top">
+			<Skin name="v4_staticbox_bg2">
+			</Skin>
+		</Widget>
+		<Widget flag="truncate" font_size="14" frame="0,0,154,34" h_pos_align="proportion" name="gauge_name" padding="7,0" text="STR_RANK_INFO_DIALOG__POINT" type="static" v_pos_align="top">
+		</Widget>
+		<Widget align="bottom" clock="True" frame="21,43,28,390" gradient="False" name="rank_gauge" preset="rank_bottom_gauge" type="gauge">
+			<Widget frame="0,0,28,98" h_pos_align="proportion" name="rank_gradation" preset="rank_bottom_gauge_gradation" type="image">
+			</Widget>
+		</Widget>
+		<Widget frame="12,33,46,408" h_pos_align="proportion" type="image" v_pos_align="top">
+			<Skin name="rank_bottom_gauge_bg">
+			</Skin>
+		</Widget>
+		<Widget frame="0,0,156,20" name="ctn_marking1" type="container">
+			<Widget font_size="14" frame="57,0,66,20" h_pos_align="proportion" name="point" type="static" v_pos_align="top">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,156,20" name="ctn_marking2" type="container">
+			<Widget font_size="14" frame="57,0,66,20" h_pos_align="proportion" name="point" type="static" v_pos_align="top">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,156,20" name="ctn_marking3" type="container">
+			<Widget font_size="14" frame="57,0,66,20" h_pos_align="proportion" name="point" type="static" v_pos_align="top">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,156,20" name="ctn_marking4" type="container">
+			<Widget font_size="14" frame="57,0,66,20" h_pos_align="proportion" name="point" type="static" v_pos_align="top">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,156,20" name="ctn_marking5" type="container">
+			<Widget font_size="14" frame="57,0,66,20" h_pos_align="proportion" name="point" type="static" v_pos_align="top">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,156,20" name="ctn_marking6" type="container">
+			<Widget font_size="14" frame="57,0,66,20" h_pos_align="proportion" name="point" type="static" v_pos_align="top">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,156,20" name="ctn_marking7" type="container">
+			<Widget font_size="14" frame="57,0,66,20" h_pos_align="proportion" name="point" type="static" v_pos_align="top">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,156,20" name="ctn_marking8" type="container">
+			<Widget font_size="14" frame="57,0,66,20" h_pos_align="proportion" name="point" type="static" v_pos_align="top">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,156,20" name="ctn_marking9" type="container">
+			<Widget font_size="14" frame="57,0,66,20" h_pos_align="proportion" name="point" type="static" v_pos_align="top">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,156,20" name="ctn_marking10" type="container">
+			<Widget font_size="14" frame="57,0,66,20" h_pos_align="proportion" name="point" type="static" v_pos_align="top">
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget frame="158,25,340,230" type="container">
+		<Widget frame="0,0,340,230" h_pos_align="proportion" type="image" v_pos_align="top">
+			<Skin name="v4_staticbox_bg">
+			</Skin>
+		</Widget>
+		<Widget frame="6,28,328,196" h_pos_align="proportion" type="image" v_pos_align="top">
+			<Skin name="v4_staticbox_bg2">
+			</Skin>
+		</Widget>
+		<Widget flag="truncate" font_size="14" frame="0,0,329,34" h_pos_align="proportion" padding="7,0" text="STR_RANK_INFO_DIALOG__THIS_SEASON" type="static" v_pos_align="top">
+		</Widget>
+		<Widget frame="0,25,162,102" name="point_season_info_ctn" type="container">
+			<Widget flag="truncate" frame="15,9,143,25" text="STR_RANK_INFO_DIALOG__THIS_SEASON_POINT" type="static">
+			</Widget>
+			<Widget flag="truncate" frame="25,39,133,25" text="STR_RANK_INFO_DIALOG__PRE_SEASON_POINT" type="static">
+			</Widget>
+			<Widget flag="truncate" frame="25,69,133,25" text="STR_RANK_INFO_DIALOG__HIGHEST_POINT" type="static">
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,162,102" name="glorypoint_season_info_ctn" type="container">
+			<Widget flag="truncate" frame="15,9,143,25" text="STR_RANK_INFO_DIALOG__THIS_SEASON_GLORY_POINT" type="static">
+			</Widget>
+			<Widget flag="truncate" frame="25,39,133,25" text="STR_RANK_INFO_DIALOG__PRE_SEASON_GLORY_POINT" type="static">
+			</Widget>
+			<Widget flag="truncate" frame="25,69,133,25" text="STR_RANK_INFO_DIALOG__HIGHEST_GLORY_POINT" type="static">
+			</Widget>
+		</Widget>
+		<Widget flag="not_visible" frame="0,25,162,102" name="time_season_info_ctn" type="container">
+			<Widget flag="truncate" frame="15,9,143,25" text="STR_RANK_INFO_DIALOG__THIS_SEASON_TIME" type="static">
+			</Widget>
+			<Widget flag="truncate" frame="25,39,133,25" text="STR_RANK_INFO_DIALOG__PRE_SEASON_TIME" type="static">
+			</Widget>
+			<Widget flag="truncate" frame="25,69,133,25" text="STR_RANK_INFO_DIALOG__HIGHEST_TIME" type="static">
+			</Widget>
+		</Widget>
+		<Widget frame="165,34,163,25" h_pos_align="proportion" name="season_point" padding="5,0" preset="v4_staticbox" text_color="0.2784,0.8235,0.2118,1.0" text_disabled_color="0.2784,0.8235,0.2118,1.0" text_over_color="0.2784,0.8235,0.2118,1.0" text_selected_color="0.2784,0.8235,0.2118,1.0" type="static" v_pos_align="top">
+		</Widget>
+		<Widget frame="165,64,163,25" h_pos_align="proportion" name="last_point" padding="5,0" preset="v4_staticbox" type="static" v_pos_align="top">
+		</Widget>
+		<Widget frame="165,94,163,25" h_pos_align="proportion" name="best_point" padding="5,0" preset="v4_staticbox" type="static" v_pos_align="top">
+		</Widget>
+		<Widget frame="7,125,326,2" h_pos_align="proportion" name="content_sep" type="image">
+			<Skin name="v4_shop_button3_down">
+			</Skin>
+		</Widget>
+		<Widget flag="truncate" frame="15,134,143,25" h_pos_align="proportion" text="STR_RANK_INFO_DIALOG__THIS_SEASON_RANK" type="static" v_pos_align="top">
+		</Widget>
+		<Widget flag="truncate" frame="25,164,133,25" h_pos_align="proportion" text="STR_RANK_INFO_DIALOG__PRE_SEASON_RANK" type="static" v_pos_align="top">
+		</Widget>
+		<Widget flag="truncate" frame="25,195,133,25" h_pos_align="proportion" text="STR_RANK_INFO_DIALOG__HIGHEST_RANK" type="static" v_pos_align="top">
+		</Widget>
+		<Widget frame="165,134,163,25" h_pos_align="proportion" name="season_rank" padding="5,0" preset="v4_staticbox" text_color="0.2784,0.8235,0.2118,1.0" text_disabled_color="0.2784,0.8235,0.2118,1.0" text_over_color="0.2784,0.8235,0.2118,1.0" text_selected_color="0.2784,0.8235,0.2118,1.0" type="static" v_pos_align="top">
+		</Widget>
+		<Widget frame="165,164,163,25" h_pos_align="proportion" name="last_rank" padding="5,0" preset="v4_staticbox" type="static" v_pos_align="top">
+		</Widget>
+		<Widget frame="165,194,163,25" h_pos_align="proportion" name="best_rank" padding="5,0" preset="v4_staticbox" type="static" v_pos_align="top">
+		</Widget>
+	</Widget>
+	<Widget frame="158,256,340,215" type="container">
+		<Widget frame="0,0,340,215" h_pos_align="proportion" type="image" v_pos_align="top">
+			<Skin name="v4_staticbox_bg">
+			</Skin>
+		</Widget>
+		<Widget frame="6,32,328,179" h_pos_align="proportion" type="image" v_pos_align="top">
+			<Skin name="v4_staticbox_bg2">
+			</Skin>
+		</Widget>
+		<Widget font_size="14" frame="0,0,339,31" h_pos_align="proportion" padding="7,0" text="STR_RANK_INFO_DIALOG__REWARD" type="static" v_pos_align="top">
+		</Widget>
+		<Widget cell_padding="2" cell_space="0,0" column_set0=" ,130,right" flag="vscroll;truncate" frame="6,31,328,183" item_height="44" item_width="44" list_padding="3,3" name="reward_list" preset="v4_listview_sel" reserve_slots="False" scroll_type="auto" slot_num="10" split_num="1" type="listview" viewmode="detail">
+			<Column align="" title="" width="260">
+			</Column>
+		</Widget>
+		<Widget font_size="14" frame="0,0,340,215" halign="center" name="static_no_reward" padding="5,0" text="STR_RANK_INFO_DIALOG__NO_REWARD" type="static" valign="middle">
+		</Widget>
+	</Widget>
+</Dialog>

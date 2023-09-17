@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog frame="0,0,1280,960" h_pos_align="center" last_modified="2020-09-07 20:08:54" name="indun_title_idarena_pvp_dialog" type="dlg_indun_title_idarena_pvp" v_pos_align="top">
+	<Widget frame="362,244,314,92" name="stage_bg" type="container">
+		<Skin name="v4_indun_title_bg">
+		</Skin>
+		<Widget font_size="48" frame="20,17,208,57" halign="right" name="stage_text" padding="5,0" text_color="0.9804,0.9098,0.2824,1.0" text_shade="True" type="static">
+		</Widget>
+	</Widget>
+	<Widget frame="616,244,314,92" name="round_bg" type="container">
+		<Skin name="v4_indun_title_bg">
+		</Skin>
+		<Widget font_size="48" frame="77,17,208,57" halign="left" name="round_text" padding="5,0" text_color="0.9804,0.9098,0.2824,1.0" text_shade="True" type="static">
+		</Widget>
+	</Widget>
+	<Widget frame="529,188,223,186" name="emblem" type="container">
+		<Skin name="v4_indun_title_emblem">
+		</Skin>
+	</Widget>
+</Dialog>

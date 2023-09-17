@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="task" close_offset="5,7" flag="close;title" frame="15,140,506,403" last_modified="2020-09-07 20:08:54" name="exchange_dialog" preset="v4_dialog2" title_align="center" title_frame="3,3,515,14" title_offset="0,5" title_text="STR_EXCHANGE_DIALOG" type="dlg_exchange">
+	<Widget frame="0,56,251,301" name="player_bg" type="image">
+		<Skin name="v4_exchange_bg_my" state="0">
+		</Skin>
+		<Skin name="v4_exchange_okbg_my" state="1">
+		</Skin>
+		<Skin name="v4_exchange_errbg_my" state="2">
+		</Skin>
+	</Widget>
+	<Widget frame="252,56,248,301" name="other_bg" type="image">
+		<Skin name="v4_exchange_okbg_other" state="1">
+		</Skin>
+	</Widget>
+	<Widget frame="7,19,244,34" type="image">
+		<Skin name="v4_exchange_name_my">
+		</Skin>
+	</Widget>
+	<Widget frame="249,19,244,34" type="image">
+		<Skin name="v4_exchange_name_other">
+		</Skin>
+	</Widget>
+	<Widget flag="truncate" frame="283,24,184,24" halign="center" name="xc_others_name" type="static">
+	</Widget>
+	<Widget frame="252,13,18,35" name="xc_other_lock" type="image">
+		<Skin name="v4_exchange_lock_off_other" state="0">
+		</Skin>
+		<Skin name="v4_exchange_lock_on_other" state="1">
+		</Skin>
+	</Widget>
+	<Widget cell_padding="2" cell_space="0,0" column_set0=" ,130,right" flag="vscroll;truncate" frame="256,90,237,227" item_height="44" item_width="44" list_padding="3,3" name="xc_others_list" preset="v4_listview_frame" reserve_slots="True" scroll_type="visible" slot_num="18" type="listview" viewmode="detail">
+		<Column align="" title="" width="1000">
+		</Column>
+	</Widget>
+	<Widget font="v3_money" frame="256,65,237,24" halign="right" name="xc_others_gold" preset="v4_staticbox" type="static" valign="middle">
+	</Widget>
+	<Widget flag="not_enabled;not_visible" font="v3_trade_button" frame="257,323,236,26" halign="center" name="xc_others_ready" preset="v4_button" style="pushbutton" text="STR_EXCHANGE_DIALOG__READY" type="button" valign="middle">
+	</Widget>
+	<Widget frame="257,66,24,22" type="image">
+		<Skin name="v4_gold">
+		</Skin>
+	</Widget>
+	<Widget flag="truncate" frame="30,24,184,24" halign="center" name="xc_my_name" type="static">
+	</Widget>
+	<Widget frame="235,13,18,35" name="xc_my_lock" type="image">
+		<Skin name="v4_exchange_lock_off_my" state="0">
+		</Skin>
+		<Skin name="v4_exchange_lock_on_my" state="1">
+		</Skin>
+	</Widget>
+	<Widget cell_padding="2" cell_space="0,0" column_set0=" ,130,right" flag="vscroll;truncate" frame="7,89,237,227" item_height="44" item_width="44" list_padding="3,3" name="xc_my_list" preset="v4_listview_frame" reserve_slots="True" scroll_type="visible" slot_num="18" type="listview" viewmode="detail">
+		<Column align="" title="" width="1000">
+		</Column>
+	</Widget>
+	<Widget font="v3_money" frame="7,64,237,24" halign="right" name="xc_my_money" preset="v4_editbox" type="static" valign="middle">
+	</Widget>
+	<Widget frame="8,65,24,22" item_height="17" item_width="21" name="xc_my_money_item" preset="v4_gold" type="itemview">
+	</Widget>
+	<Widget font="v3_trade_button" frame="8,323,236,26" halign="center" name="xc_my_ready" preset="v4_button" style="pushbutton" text="STR_EXCHANGE_DIALOG__READY" type="button" valign="middle">
+	</Widget>
+	<Widget flag="not_enabled" frame="326,356,88,26" name="ok" preset="v4_button" text="STR_EXCHANGE_DIALOG__OK" type="button" valign="middle">
+	</Widget>
+	<Widget frame="412,356,88,26" name="cancel" preset="v4_button" text="STR_EXCHANGE_DIALOG__CANCEL" type="button" valign="middle">
+	</Widget>
+</Dialog>

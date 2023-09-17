@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="004_1">(The medicine appears to have lost it effect.)</Text>
+	<Text label="004_2">(It appears that he just managed to get away.)</Text>
+	<Text label="003_1">You made it out alive!</Text>
+	<Text label="003_2">It&apos;s amazing that you made it back safe and sound from the Orc Camp!</Text>
+	<Text label="003_3">How are things there?</Text>
+	<Text label="006_1">Aagh, I&apos;m injured... But I managed to get the information. I need to report back to Reol...</Text>
+</CutSceneText>

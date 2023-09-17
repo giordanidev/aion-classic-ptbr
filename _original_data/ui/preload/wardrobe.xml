@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Preload last_modified="2021-07-21 18:11:53" name="wardrobe">
+	<Category name="scroll">
+		<Preset name="wardrobe_scroll_minus" type="button">
+			<SkinRef main_state="0" name="wardrobe_scroll_minus_up" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="0" name="wardrobe_scroll_minus_over" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="0" name="wardrobe_scroll_minus_down" sub_state="down">
+			</SkinRef>
+		</Preset>
+		<Preset name="wardrobe_scroll_plus" type="button">
+			<SkinRef main_state="0" name="wardrobe_scroll_plus_up" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="0" name="wardrobe_scroll_plus_over" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="0" name="wardrobe_scroll_plus_down" sub_state="down">
+			</SkinRef>
+		</Preset>
+		<Preset name="wardrobe_scroll" type="scrollbar">
+			<SkinRef name="wardrobe_scroll_slider_up" state="up">
+			</SkinRef>
+			<SkinRef name="wardrobe_scroll_slider_over" state="over">
+			</SkinRef>
+			<SkinRef name="wardrobe_scroll_slider_down" state="down">
+			</SkinRef>
+		</Preset>
+		<Skin name="wardrobe_scroll_minus_up" src_image="953,115,8,8" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="wardrobe_scroll_minus_over" src_image="967,115,8,8" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="wardrobe_scroll_minus_down" src_image="982,115,8,8" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="wardrobe_scroll_plus_up" src_image="953,126,8,8" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="wardrobe_scroll_plus_over" src_image="967,126,8,8" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="wardrobe_scroll_plus_down" src_image="982,126,8,8" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="wardrobe_scroll_slider_up" size_middle_bottom="0,9" size_middle_middle="0,0" size_middle_top="0,9" src_middle_bottom="954,169,6,9" src_middle_middle="954,145,6,24" src_middle_top="954,136,6,9" texture="textures/ui/wardrobe" type="tiled">
+		</Skin>
+		<Skin name="wardrobe_scroll_slider_over" size_middle_bottom="0,9" size_middle_middle="0,0" size_middle_top="0,9" src_middle_bottom="968,169,6,9" src_middle_middle="968,145,6,24" src_middle_top="968,136,6,9" texture="textures/ui/wardrobe" type="tiled">
+		</Skin>
+		<Skin name="wardrobe_scroll_slider_down" size_middle_bottom="0,9" size_middle_middle="0,0" size_middle_top="0,9" src_middle_bottom="983,169,6,9" src_middle_middle="983,145,6,24" src_middle_top="983,136,6,9" texture="textures/ui/wardrobe" type="tiled">
+		</Skin>
+	</Category>
+	<Category name="tab_symbols">
+		<Preset name="all_tab_button" type="button">
+			<SkinRef main_state="0" name="all_tab_button_down" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="0" name="all_tab_button_over" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="0" name="all_tab_button_up" sub_state="down">
+			</SkinRef>
+			<SkinRef main_state="1" name="all_tab_button_up" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="1" name="all_tab_button_up" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="1" name="all_tab_button_up" sub_state="down">
+			</SkinRef>
+		</Preset>
+		<Skin name="all_tab_button_up" src_image="260,119,44,44" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="all_tab_button_over" src_image="260,73,44,44" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="all_tab_button_down" src_image="260,27,44,44" texture="textures/ui/wardrobe">
+		</Skin>
+		<Preset name="head_tab_button" type="button">
+			<SkinRef main_state="0" name="head_tab_button_down" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="0" name="head_tab_button_over" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="0" name="head_tab_button_up" sub_state="down">
+			</SkinRef>
+			<SkinRef main_state="1" name="head_tab_button_up" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="1" name="head_tab_button_up" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="1" name="head_tab_button_up" sub_state="down">
+			</SkinRef>
+		</Preset>
+		<Skin name="head_tab_button_up" src_image="306,119,44,44" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="head_tab_button_over" src_image="306,73,44,44" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="head_tab_button_down" src_image="306,27,44,44" texture="textures/ui/wardrobe">
+		</Skin>
+		<Preset name="Accessories_tab_button" type="button">
+			<SkinRef main_state="0" name="Accessories_tab_button_down" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="0" name="Accessories_tab_button_over" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="0" name="Accessories_tab_button_up" sub_state="down">
+			</SkinRef>
+			<SkinRef main_state="1" name="Accessories_tab_button_up" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="1" name="Accessories_tab_button_up" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="1" name="Accessories_tab_button_up" sub_state="down">
+			</SkinRef>
+		</Preset>
+		<Skin name="Accessories_tab_button_up" src_image="352,119,44,44" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="Accessories_tab_button_over" src_image="352,73,44,44" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="Accessories_tab_button_down" src_image="352,27,44,44" texture="textures/ui/wardrobe">
+		</Skin>
+		<Preset name="top_tab_button" type="button">
+			<SkinRef main_state="0" name="top_tab_button_down" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="0" name="top_tab_button_over" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="0" name="top_tab_button_up" sub_state="down">
+			</SkinRef>
+			<SkinRef main_state="1" name="top_tab_button_up" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="1" name="top_tab_button_up" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="1" name="top_tab_button_up" sub_state="down">
+			</SkinRef>
+		</Preset>
+		<Skin name="top_tab_button_up" src_image="398,119,44,44" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="top_tab_button_over" src_image="398,73,44,44" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="top_tab_button_down" src_image="398,27,44,44" texture="textures/ui/wardrobe">
+		</Skin>
+		<Preset name="shoulder_tab_button" type="button">
+			<SkinRef main_state="0" name="shoulder_tab_button_down" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="0" name="shoulder_tab_button_over" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="0" name="shoulder_tab_button_up" sub_state="down">
+			</SkinRef>
+			<SkinRef main_state="1" name="shoulder_tab_button_up" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="1" name="shoulder_tab_button_up" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="1" name="shoulder_tab_button_up" sub_state="down">
+			</SkinRef>
+		</Preset>
+		<Skin name="shoulder_tab_button_up" src_image="444,119,44,44" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="shoulder_tab_button_over" src_image="444,73,44,44" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="shoulder_tab_button_down" src_image="444,27,44,44" texture="textures/ui/wardrobe">
+		</Skin>
+		<Preset name="pants_tab_button" type="button">
+			<SkinRef main_state="0" name="pants_tab_button_down" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="0" name="pants_tab_button_over" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="0" name="pants_tab_button_up" sub_state="down">
+			</SkinRef>
+			<SkinRef main_state="1" name="pants_tab_button_up" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="1" name="pants_tab_button_up" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="1" name="pants_tab_button_up" sub_state="down">
+			</SkinRef>
+		</Preset>
+		<Skin name="pants_tab_button_up" src_image="490,119,44,44" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="pants_tab_button_over" src_image="490,73,44,44" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="pants_tab_button_down" src_image="490,27,44,44" texture="textures/ui/wardrobe">
+		</Skin>
+		<Preset name="hand_tab_button" type="button">
+			<SkinRef main_state="0" name="hand_tab_button_down" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="0" name="hand_tab_button_over" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="0" name="hand_tab_button_up" sub_state="down">
+			</SkinRef>
+			<SkinRef main_state="1" name="hand_tab_button_up" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="1" name="hand_tab_button_up" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="1" name="hand_tab_button_up" sub_state="down">
+			</SkinRef>
+		</Preset>
+		<Skin name="hand_tab_button_up" src_image="536,119,44,44" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="hand_tab_button_over" src_image="536,73,44,44" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="hand_tab_button_down" src_image="536,27,44,44" texture="textures/ui/wardrobe">
+		</Skin>
+		<Preset name="foot_tab_button" type="button">
+			<SkinRef main_state="0" name="foot_tab_button_down" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="0" name="foot_tab_button_over" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="0" name="foot_tab_button_up" sub_state="down">
+			</SkinRef>
+			<SkinRef main_state="1" name="foot_tab_button_up" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="1" name="foot_tab_button_up" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="1" name="foot_tab_button_up" sub_state="down">
+			</SkinRef>
+		</Preset>
+		<Skin name="foot_tab_button_up" src_image="582,119,44,44" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="foot_tab_button_over" src_image="582,73,44,44" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="foot_tab_button_down" src_image="582,27,44,44" texture="textures/ui/wardrobe">
+		</Skin>
+		<Preset name="wing_tab_button" type="button">
+			<SkinRef main_state="0" name="wing_tab_button_down" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="0" name="wing_tab_button_over" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="0" name="wing_tab_button_up" sub_state="down">
+			</SkinRef>
+			<SkinRef main_state="1" name="wing_tab_button_up" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="1" name="wing_tab_button_up" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="1" name="wing_tab_button_up" sub_state="down">
+			</SkinRef>
+		</Preset>
+		<Skin name="wing_tab_button_up" src_image="628,119,44,44" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="wing_tab_button_over" src_image="628,73,44,44" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="wing_tab_button_down" src_image="628,27,44,44" texture="textures/ui/wardrobe">
+		</Skin>
+		<Preset name="weapon_tab_button" type="button">
+			<SkinRef main_state="0" name="weapon_tab_button_down" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="0" name="weapon_tab_button_over" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="0" name="weapon_tab_button_up" sub_state="down">
+			</SkinRef>
+			<SkinRef main_state="1" name="weapon_tab_button_up" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="1" name="weapon_tab_button_up" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="1" name="weapon_tab_button_up" sub_state="down">
+			</SkinRef>
+		</Preset>
+		<Skin name="weapon_tab_button_up" src_image="674,119,44,44" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="weapon_tab_button_over" src_image="674,73,44,44" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="weapon_tab_button_down" src_image="674,27,44,44" texture="textures/ui/wardrobe">
+		</Skin>
+		<Preset name="shield_tab_button" type="button">
+			<SkinRef main_state="0" name="shield_tab_button_down" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="0" name="shield_tab_button_over" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="0" name="shield_tab_button_up" sub_state="down">
+			</SkinRef>
+			<SkinRef main_state="1" name="shield_tab_button_up" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="1" name="shield_tab_button_up" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="1" name="shield_tab_button_up" sub_state="down">
+			</SkinRef>
+		</Preset>
+		<Skin name="shield_tab_button_up" src_image="720,119,44,44" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="shield_tab_button_over" src_image="720,73,44,44" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="shield_tab_button_down" src_image="720,27,44,44" texture="textures/ui/wardrobe">
+		</Skin>
+	</Category>
+	<Category name="3dview_bg">
+		<Skin name="3dview_bg_01" src_image="616,413,400,602" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="3dview_bg_02" src_image="4,4,400,602" texture="textures/ui/wardrobe_bg">
+		</Skin>
+		<Skin name="3dview_bg_03" src_image="411,4,400,602" texture="textures/ui/wardrobe_bg">
+		</Skin>
+	</Category>
+	<Category name="star">
+		<Preset name="wardrobe_favorites" type="button">
+			<SkinRef main_state="1" name="wardrobe_favorites_check" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="1" name="wardrobe_favorites_check" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="1" name="wardrobe_favorites_check" sub_state="down">
+			</SkinRef>
+			<SkinRef main_state="0" name="wardrobe_favorites_uncheck" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="0" name="wardrobe_favorites_uncheck" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="0" name="wardrobe_favorites_uncheck" sub_state="down">
+			</SkinRef>
+		</Preset>
+		<Skin name="wardrobe_favorites_check" src_image="360,2,24,24" texture="textures/ui/wardrobe" type="single">
+		</Skin>
+		<Skin name="wardrobe_favorites_uncheck" src_image="335,2,24,24" texture="textures/ui/wardrobe" type="q">
+		</Skin>
+	</Category>
+	<Category name="search">
+		<Preset name="wardrobe_search_bar" type="static">
+			<SkinRef name="wardrobe_search_bar_bg" state="0">
+			</SkinRef>
+		</Preset>
+		<Skin name="wardrobe_search_bar_bg" size_left_middle="28,0" size_middle_middle="0,0" size_right_middle="28,0" src_left_middle="872,226,28,26" src_middle_middle="900,226,92,26" src_right_middle="992,226,28,26" texture="textures/ui/wardrobe" type="tiled">
+		</Skin>
+		<Preset name="wardrobe_search" type="button">
+			<SkinRef main_state="0" name="wardrobe_search_bg" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="0" name="wardrobe_search_over" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="0" name="wardrobe_search_down" sub_state="down">
+			</SkinRef>
+		</Preset>
+		<Skin name="wardrobe_search_bg" src_image="385,2,24,24" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="wardrobe_search_over" src_image="410,2,24,24" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="wardrobe_search_down" src_image="435,2,24,24" texture="textures/ui/wardrobe">
+		</Skin>
+		<Preset name="wardrobe_search_close" type="button">
+			<SkinRef main_state="0" name="wardrobe_search_close_bg" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="0" name="wardrobe_search_close_over" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="0" name="wardrobe_search_close_down" sub_state="down">
+			</SkinRef>
+		</Preset>
+		<Skin name="wardrobe_search_close_bg" src_image="460,2,24,24" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="wardrobe_search_close_over" src_image="485,2,24,24" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="wardrobe_search_close_down" src_image="510,2,24,24" texture="textures/ui/wardrobe">
+		</Skin>
+	</Category>
+	<Category name="close">
+		<Preset name="wardrobe_dialog_close" type="button">
+			<SkinRef main_state="0" name="wardrobe_dialog_close_bg" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="0" name="wardrobe_dialog_close_over" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="0" name="wardrobe_dialog_close_down" sub_state="down">
+			</SkinRef>
+		</Preset>
+		<Skin name="wardrobe_dialog_close_bg" src_image="536,2,24,24" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="wardrobe_dialog_close_over" src_image="561,2,24,24" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="wardrobe_dialog_close_down" src_image="586,2,24,24" texture="textures/ui/wardrobe">
+		</Skin>
+	</Category>
+	<Category name="tab">
+		<Skin name="wardrobe_Tab_line" src_image="2,169,894,40" texture="textures/ui/wardrobe">
+		</Skin>
+		<Preset name="wardrobe_main_tab" type="button">
+			<SkinRef main_state="0" name="wardrobe_main_tab_over" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="0" name="wardrobe_main_tab_click" sub_state="down">
+			</SkinRef>
+			<SkinRef main_state="1" name="wardrobe_main_tab_up" sub_state="up">
+			</SkinRef>
+			<SkinRef main_state="1" name="wardrobe_main_tab_up" sub_state="over">
+			</SkinRef>
+			<SkinRef main_state="1" name="wardrobe_main_tab_up" sub_state="down">
+			</SkinRef>
+		</Preset>
+		<Skin name="wardrobe_main_tab_up" src_image="514,213,112,40" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="wardrobe_main_tab_over" src_image="629,213,112,40" texture="textures/ui/wardrobe">
+		</Skin>
+		<Skin name="wardrobe_main_tab_click" src_image="629,213,112,40" texture="textures/ui/wardrobe">
+		</Skin>
+	</Category>
+	<Category name="dialog">
+		<Skin name="wardrobe_dialog_03_head" src_image="903,191,118,30" texture="textures/ui/wardrobe">
+		</Skin>
+		<Preset name="wardrobe_dialog_01" type="window">
+			<SkinRef name="wardrobe_dialog_01" state="frame">
+			</SkinRef>
+		</Preset>
+		<Skin border="3" name="wardrobe_dialog_01" size_left_bottom="22,38" size_left_middle="22,0" size_left_top="22,31" size_middle_bottom="0,38" size_middle_middle="0,0" size_middle_top="0,31" size_right_bottom="22,38" size_right_middle="22,0" size_right_top="22,31" src_left_bottom="0,128,22,38" src_left_middle="0,31,22,97" src_left_top="0,0,22,31" src_middle_bottom="22,128,214,38" src_middle_middle="22,31,214,97" src_middle_top="22,0,214,31" src_right_bottom="236,128,22,38" src_right_middle="236,31,22,97" src_right_top="236,0,22,31" texture="textures/ui/wardrobe" type="tiled">
+		</Skin>
+		<Preset name="wardrobe_dialog_02" type="tabframe">
+			<SkinRef name="wardrobe_dialog_02" state="frame">
+			</SkinRef>
+		</Preset>
+		<Skin name="wardrobe_dialog_02" size_left_bottom="15,15" size_left_middle="15,0" size_left_top="15,15" size_middle_bottom="0,15" size_middle_middle="0,0" size_middle_top="0,15" size_right_bottom="15,15" size_right_middle="15,0" size_right_top="15,15" src_left_bottom="877,58,15,15" src_left_middle="877,18,15,40" src_left_top="877,3,15,15" src_middle_bottom="892,58,40,15" src_middle_middle="892,18,40,40" src_middle_top="892,3,40,15" src_right_bottom="932,58,15,15" src_right_middle="932,18,15,40" src_right_top="932,3,15,15" texture="textures/ui/wardrobe" type="tiled">
+		</Skin>
+		<Preset name="wardrobe_dialog_03" type="tabframe">
+			<SkinRef name="wardrobe_dialog_03" state="frame">
+			</SkinRef>
+		</Preset>
+		<Skin name="wardrobe_dialog_03" size_left_bottom="15,15" size_left_middle="15,0" size_left_top="15,15" size_middle_bottom="0,15" size_middle_middle="0,0" size_middle_top="0,15" size_right_bottom="15,15" size_right_middle="15,0" size_right_top="15,15" src_left_bottom="877,131,15,15" src_left_middle="877,91,15,40" src_left_top="877,76,15,15" src_middle_bottom="892,131,40,15" src_middle_middle="892,91,40,40" src_middle_top="892,76,40,15" src_right_bottom="932,131,15,15" src_right_middle="932,91,15,40" src_right_top="932,76,15,15" texture="textures/ui/wardrobe" type="tiled">
+		</Skin>
+		<Preset name="wardrobe_dialog_04" type="tabframe">
+			<SkinRef name="wardrobe_dialog_04" state="frame">
+			</SkinRef>
+		</Preset>
+		<Skin name="wardrobe_dialog_04" size_left_bottom="15,15" size_left_middle="15,0" size_left_top="15,15" size_middle_bottom="0,15" size_middle_middle="0,0" size_middle_top="0,15" size_right_bottom="15,15" size_right_middle="15,0" size_right_top="15,15" src_left_bottom="650,312,15,15" src_left_middle="650,272,15,40" src_left_top="650,257,15,15" src_middle_bottom="665,312,40,15" src_middle_middle="665,272,40,40" src_middle_top="665,257,40,15" src_right_bottom="705,312,15,15" src_right_middle="705,272,15,40" src_right_top="705,257,15,15" texture="textures/ui/wardrobe" type="tiled">
+		</Skin>
+		<Preset name="wardrobe_dialog_05" type="tabframe">
+			<SkinRef name="wardrobe_dialog_05" state="frame">
+			</SkinRef>
+		</Preset>
+		<Skin name="wardrobe_dialog_05" size_left_bottom="15,15" size_left_middle="15,0" size_left_top="15,15" size_middle_bottom="0,15" size_middle_middle="0,0" size_middle_top="0,15" size_right_bottom="15,15" size_right_middle="15,0" size_right_top="15,15" src_left_bottom="723,312,15,15" src_left_middle="723,272,15,40" src_left_top="723,257,15,15" src_middle_bottom="738,312,40,15" src_middle_middle="738,272,40,40" src_middle_top="738,257,40,15" src_right_bottom="778,312,15,15" src_right_middle="778,272,15,40" src_right_top="778,257,15,15" texture="textures/ui/wardrobe" type="tiled">
+		</Skin>
+	</Category>
+	<Skin name="wardrobe_dialog_bg" size_middle_bottom="0,30" size_middle_middle="0,0" size_middle_top="0,30" src_middle_bottom="770,132,15,30" src_middle_middle="770,57,15,75" src_middle_top="770,27,15,30" texture="textures/ui/wardrobe" type="tiled">
+	</Skin>
+	<Skin name="wardrobe_slot_dye_badge" src_image="261,141,20,20" texture="textures/ui/v4_common_1">
+	</Skin>
+	<Skin name="wardrobe_charge_bg" src_image="2,439,484,174" texture="textures/ui/wardrobe">
+	</Skin>
+	<Skin name="wardrobe_paint_bg" src_image="2,617,484,174" texture="textures/ui/wardrobe">
+	</Skin>
+	<Preset name="wardrobe_charge" type="button">
+		<SkinRef main_state="0" name="wardrobe_charge_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="wardrobe_charge_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="wardrobe_charge_down" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="wardrobe_charge_up" src_image="795,257,28,28" texture="textures/ui/wardrobe">
+	</Skin>
+	<Skin name="wardrobe_charge_over" src_image="825,257,28,28" texture="textures/ui/wardrobe">
+	</Skin>
+	<Skin name="wardrobe_charge_down" src_image="855,257,28,28" texture="textures/ui/wardrobe">
+	</Skin>
+	<Preset name="wardrobe_grid" type="static">
+		<SkinRef name="wardrobe_grid_up" state="0">
+		</SkinRef>
+		<SkinRef name="wardrobe_grid_over" state="1">
+		</SkinRef>
+	</Preset>
+	<Skin name="wardrobe_grid_up" src_image="2,213,452,52" texture="textures/ui/wardrobe">
+	</Skin>
+	<Skin name="wardrobe_grid_over" src_image="2,269,452,52" texture="textures/ui/wardrobe">
+	</Skin>
+	<Preset name="wardrobe_grid_lock" type="button">
+		<SkinRef main_state="0" name="wardrobe_grid_lock_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="wardrobe_grid_lock_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="wardrobe_grid_lock_up" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="wardrobe_grid_lock_up" src_image="2,325,452,52" texture="textures/ui/wardrobe">
+	</Skin>
+	<Skin name="wardrobe_grid_lock_over" src_image="2,381,452,52" texture="textures/ui/wardrobe">
+	</Skin>
+	<Skin name="wardrobe_grid_select" size_left_bottom="15,9" size_left_middle="15,0" size_left_top="15,9" size_middle_bottom="0,9" size_middle_middle="0,0" size_middle_top="0,9" size_right_bottom="15,9" size_right_middle="15,0" size_right_top="15,9" src_left_bottom="744,244,15,9" src_left_middle="744,222,15,22" src_left_top="744,213,15,9" src_middle_bottom="759,244,82,9" src_middle_middle="759,222,82,22" src_middle_top="759,213,82,9" src_right_bottom="841,244,15,9" src_right_middle="841,222,15,22" src_right_top="841,213,15,9" texture="textures/ui/wardrobe" type="tiled">
+	</Skin>
+	<Preset name="wardrobe_grid_select" type="static">
+		<SkinRef name="wardrobe_grid_select" state="0">
+		</SkinRef>
+	</Preset>
+	<Preset name="wardrobe_refresh_btn" type="button">
+		<SkinRef main_state="0" name="wardrobe_refresh_btn_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="wardrobe_refresh_btn_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="wardrobe_refresh_btn_down" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="wardrobe_refresh_btn_up" src_image="839,58,36,36" texture="textures/ui/wardrobe">
+	</Skin>
+	<Skin name="wardrobe_refresh_btn_over" src_image="839,95,36,36" texture="textures/ui/wardrobe">
+	</Skin>
+	<Skin name="wardrobe_refresh_btn_down" src_image="839,132,36,36" texture="textures/ui/wardrobe">
+	</Skin>
+	<Preset name="wardrobe_delete_btn" type="button">
+		<SkinRef main_state="0" name="wardrobe_delete_btn_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="wardrobe_delete_btn_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="wardrobe_delete_btn_down" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="wardrobe_delete_btn_up" src_image="793,58,44,44" texture="textures/ui/wardrobe">
+	</Skin>
+	<Skin name="wardrobe_delete_btn_over" src_image="793,103,44,44" texture="textures/ui/wardrobe">
+	</Skin>
+	<Skin name="wardrobe_delete_btn_down" src_image="793,58,44,44" texture="textures/ui/wardrobe">
+	</Skin>
+	<Preset name="wardrobe_1_btn" type="button">
+		<SkinRef main_state="0" name="wardrobe_1_btn_down" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="wardrobe_1_btn_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="wardrobe_1_btn_up" sub_state="down">
+		</SkinRef>
+		<SkinRef main_state="1" name="wardrobe_1_btn_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="1" name="wardrobe_1_btn_up" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="1" name="wardrobe_1_btn_up" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="wardrobe_1_btn_up" src_image="789,29,29,29" texture="textures/ui/wardrobe">
+	</Skin>
+	<Skin name="wardrobe_1_btn_over" src_image="790,30,27,27" texture="textures/ui/wardrobe">
+	</Skin>
+	<Skin name="wardrobe_1_btn_down" src_image="789,0,29,29" texture="textures/ui/wardrobe">
+	</Skin>
+	<Preset name="wardrobe_2_btn" type="button">
+		<SkinRef main_state="0" name="wardrobe_2_btn_down" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="wardrobe_2_btn_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="wardrobe_2_btn_up" sub_state="down">
+		</SkinRef>
+		<SkinRef main_state="1" name="wardrobe_2_btn_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="1" name="wardrobe_2_btn_up" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="1" name="wardrobe_2_btn_up" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="wardrobe_2_btn_up" src_image="818,29,29,29" texture="textures/ui/wardrobe">
+	</Skin>
+	<Skin name="wardrobe_2_btn_over" src_image="819,30,27,27" texture="textures/ui/wardrobe">
+	</Skin>
+	<Skin name="wardrobe_2_btn_down" src_image="818,0,29,29" texture="textures/ui/wardrobe">
+	</Skin>
+	<Preset name="wardrobe_3_btn" type="button">
+		<SkinRef main_state="0" name="wardrobe_3_btn_down" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="wardrobe_3_btn_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="wardrobe_3_btn_up" sub_state="down">
+		</SkinRef>
+		<SkinRef main_state="1" name="wardrobe_3_btn_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="1" name="wardrobe_3_btn_up" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="1" name="wardrobe_3_btn_up" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="wardrobe_3_btn_up" src_image="847,29,29,29" texture="textures/ui/wardrobe">
+	</Skin>
+	<Skin name="wardrobe_3_btn_over" src_image="848,30,27,27" texture="textures/ui/wardrobe">
+	</Skin>
+	<Skin name="wardrobe_3_btn_down" src_image="847,0,29,29" texture="textures/ui/wardrobe">
+	</Skin>
+	<Preset name="wardrobe_change_btn" type="button">
+		<SkinRef main_state="0" name="wardrobe_change_btn_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="wardrobe_change_btn_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="wardrobe_change_btn_down" sub_state="down">
+		</SkinRef>
+		<SkinRef main_state="0" name="wardrobe_change_btn_down" sub_state="disable">
+		</SkinRef>
+	</Preset>
+	<Skin name="wardrobe_change_btn_up" size_left_middle="28,0" size_middle_middle="0,0" size_right_middle="28,0" src_left_middle="514,256,28,34" src_middle_middle="542,256,76,34" src_right_middle="618,256,28,34" texture="textures/ui/wardrobe" type="tiled">
+	</Skin>
+	<Skin name="wardrobe_change_btn_over" size_left_middle="28,0" size_middle_middle="0,0" size_right_middle="28,0" src_left_middle="514,292,28,34" src_middle_middle="542,292,76,34" src_right_middle="618,292,28,34" texture="textures/ui/wardrobe" type="tiled">
+	</Skin>
+	<Skin name="wardrobe_change_btn_down" size_left_middle="28,0" size_middle_middle="0,0" size_right_middle="28,0" src_left_middle="514,328,28,34" src_middle_middle="542,328,76,34" src_right_middle="618,328,28,34" texture="textures/ui/wardrobe" type="tiled">
+	</Skin>
+	<Preset name="wardrobe_shotcut_btn" type="button">
+		<SkinRef main_state="0" name="wardrobe_shotcut_btn_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="wardrobe_shotcut_btn_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="wardrobe_shotcut_btn_down" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="wardrobe_shotcut_btn_up" src_image="352,59,41,45" texture="textures/ui/v4_common_1" type="single">
+	</Skin>
+	<Skin name="wardrobe_shotcut_btn_over" src_image="352,105,41,45" texture="textures/ui/v4_common_1" type="single">
+	</Skin>
+	<Skin name="wardrobe_shotcut_btn_down" src_image="352,151,41,45" texture="textures/ui/v4_common_1" type="single">
+	</Skin>
+	<Preset name="wardrobe_help" type="button">
+		<SkinRef main_state="0" name="wardrobe_help_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="wardrobe_help_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="wardrobe_help_down" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="wardrobe_help_up" src_image="851,183,27,26" texture="textures/ui/wardrobe">
+	</Skin>
+	<Skin name="wardrobe_help_over" src_image="795,287,27,26" texture="textures/ui/wardrobe">
+	</Skin>
+	<Skin name="wardrobe_help_down" src_image="824,287,27,26" texture="textures/ui/wardrobe">
+	</Skin>
+</Preload>

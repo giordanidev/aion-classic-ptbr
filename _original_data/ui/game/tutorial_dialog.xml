@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="left" close_offset="5,7" flag="close;title" frame="713,200,522,556" last_modified="2020-09-07 20:08:54" name="tutorial_dialog" preset="v4_dialog2" title_align="center" title_frame="3,3,311,14" title_offset="0,5" title_text="STR_TUTORIAL_DIALOG" type="dlg_tutorial">
+	<Widget flag="vscroll" frame="3,39,510,343" name="help" padding="10,10" preset="v4_staticbox" scroll_type="visible" type="videopanel">
+	</Widget>
+	<Widget frame="428,510,88,26" name="cancel" preset="v4_button" text="STR_TUTORIAL_DIALOG__CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget flag="nonclient" frame="483,5,18,18" name="minimize" preset="v4_minimize" type="button">
+	</Widget>
+	<Widget frame="312,510,116,26" name="popup" preset="v4_button" text="STR_TUTORIAL_DIALOG__POPUP" type="button">
+	</Widget>
+	<Widget frame="6,513,300,18" name="end_tutorial" preset="v4_check" style="checkbox" text="STR_TUTORIAL_DIALOG__END_TUTORIAL" text_offset="5,0" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget color="1.0,1.0,1.0,0.8" flag="not_visible" frame="213,165,90,90" h_pos_align="center" name="forward" preset="v4_next" text_shade="False" type="button" v_pos_align="middle">
+	</Widget>
+	<Widget frame="16,353,102,23" name="replay" preset="v4_help_tutorial_replay" text="STR_TUTORIAL_DIALOG__REPLAY" text_offset="13,0" text_shade="False" type="button">
+	</Widget>
+	<Widget font_size="-14" frame="16,18,246,20" name="tutorial_title" text_color="1.0,0.8667,0.5608,1.0" type="static">
+	</Widget>
+	<Widget font_size="-12" frame="264,20,245,16" name="subtitle" type="static">
+	</Widget>
+	<Widget frame="4,382,510,125" type="image">
+		<Skin name="v4_help_tutorial_bg">
+		</Skin>
+		<Widget flag="multiline;wordwrap;vscroll" font_size="-12" frame="19,15,472,78" name="desc" scroll_skin_type="default" scroll_type="auto" type="htmlview" valign="middle">
+		</Widget>
+		<Widget frame="238,93,32,20" h_pos_align="center" name="ctn_page_btn" type="container">
+			<Widget frame="0,0,32,20" name="page_no" text="[ 1 ]" type="button">
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget frame="3,39,511,467" preset="v4_help_tutorial_frame" type="image">
+	</Widget>
+	<Widget frame="7,384,503,10" type="image">
+		<Skin name="v4_help_tutorial_bar">
+		</Skin>
+	</Widget>
+</Dialog>

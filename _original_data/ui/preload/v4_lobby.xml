@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Preload last_modified="2020-09-07 16:15:20" name="v4_lobby">
+	<Skin name="lobby_deco_up_left" src_image="3,343,817,92" texture="Textures/UI/v4_lobby_frame">
+	</Skin>
+	<Skin name="lobby_deco_up_right" src_image="4,459,817,92" texture="Textures/UI/v4_lobby_frame">
+	</Skin>
+	<Skin name="lobby_deco_down_left" src_image="3,1,817,159" texture="Textures/UI/v4_lobby_frame">
+	</Skin>
+	<Skin name="lobby_deco_down_right" src_image="4,170,817,159" texture="Textures/UI/v4_lobby_frame">
+	</Skin>
+	<Skin name="lobby_aion_copyrights" src_image="114,442,678,20" texture="Textures/UI/v4_L10N">
+	</Skin>
+	<Skin name="lobby_aion_banner" src_image="0,300,624,134" texture="Textures/UI/v4_L10N">
+	</Skin>
+	<Skin name="lobby_aion_banner_fx1" src_image="320,120,150,150" texture="Textures/UI/v4_L10N">
+	</Skin>
+	<Skin name="lobby_aion_banner_fx2" src_image="475,120,150,150" texture="Textures/UI/v4_L10N">
+	</Skin>
+	<Skin name="lobby_button_basic_up" size_left_middle="26,26" size_middle_middle="26,26" size_right_middle="26,26" src_left_middle="258,368,26,26" src_middle_middle="310,368,26,26" src_right_middle="361,368,26,26" texture="Textures/UI/v4_lobby_basic" type="tiled">
+	</Skin>
+	<Skin name="lobby_button_basic_over" size_left_middle="26,26" size_middle_middle="26,26" size_right_middle="26,26" src_left_middle="258,389,26,26" src_middle_middle="310,389,26,26" src_right_middle="361,389,26,26" texture="Textures/UI/v4_lobby_basic" type="tiled">
+	</Skin>
+	<Skin name="lobby_button_basic_down" size_left_middle="26,26" size_middle_middle="26,26" size_right_middle="26,26" src_left_middle="392,424,26,26" src_middle_middle="444,424,26,26" src_right_middle="495,424,26,26" texture="Textures/UI/v4_lobby_basic" type="tiled">
+	</Skin>
+	<Skin name="lobby_button_basic_default" size_left_middle="26,26" size_middle_middle="26,26" size_right_middle="26,26" src_left_middle="258,445,26,26" src_middle_middle="310,445,26,26" src_right_middle="361,445,26,26" texture="Textures/UI/v4_lobby_basic" type="tiled">
+	</Skin>
+	<Preset name="lobby_button_basic" type="button">
+		<SkinRef main_state="0" name="lobby_button_basic_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="lobby_button_basic_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="lobby_button_basic_down" sub_state="down">
+		</SkinRef>
+		<SkinRef main_state="0" name="lobby_button_basic_default" sub_state="defbutton">
+		</SkinRef>
+	</Preset>
+	<Skin name="lobby_button_login_up" src_image="16,156,92,29" texture="Textures/UI/v4_lobby_basic">
+	</Skin>
+	<Skin name="lobby_button_login_over" src_image="16,188,92,29" texture="Textures/UI/v4_lobby_basic">
+	</Skin>
+	<Skin name="lobby_button_login_down" src_image="16,220,92,29" texture="Textures/UI/v4_lobby_basic">
+	</Skin>
+	<Preset name="lobby_button_login" type="button">
+		<SkinRef main_state="0" name="lobby_button_login_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="lobby_button_login_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="lobby_button_login_down" sub_state="down">
+		</SkinRef>
+		<SkinRef main_state="0" name="lobby_button_login_up" sub_state="defbutton">
+		</SkinRef>
+	</Preset>
+	<Skin name="lobby_button_default_up" size_left_middle="28,25" size_middle_middle="24,25" size_right_middle="28,25" src_left_middle="199,361,28,25" src_middle_middle="234,361,24,25" src_right_middle="265,361,28,25" texture="Textures/UI/v4_lobby_create" type="tiled">
+	</Skin>
+	<Skin name="lobby_button_default_over" size_left_middle="28,25" size_middle_middle="24,25" size_right_middle="28,25" src_left_middle="199,389,28,25" src_middle_middle="234,389,24,25" src_right_middle="265,389,28,25" texture="Textures/UI/v4_lobby_create" type="tiled">
+	</Skin>
+	<Skin name="lobby_button_default_down" size_left_middle="28,25" size_middle_middle="24,25" size_right_middle="28,25" src_left_middle="199,417,28,25" src_middle_middle="234,417,24,25" src_right_middle="265,417,28,25" texture="Textures/UI/v4_lobby_create" type="tiled">
+	</Skin>
+	<Skin name="lobby_button_default_default" size_left_middle="28,25" size_middle_middle="24,25" size_right_middle="28,25" src_left_middle="199,445,28,25" src_middle_middle="234,445,24,25" src_right_middle="265,445,28,25" texture="Textures/UI/v4_lobby_create" type="tiled">
+	</Skin>
+	<Preset name="lobby_button_default" type="button">
+		<SkinRef main_state="0" name="lobby_button_default_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="lobby_button_default_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="lobby_button_default_down" sub_state="down">
+		</SkinRef>
+		<SkinRef main_state="0" name="lobby_button_default_default" sub_state="defbutton">
+		</SkinRef>
+	</Preset>
+	<Skin name="lobby_button_func_up" size_left_middle="28,25" size_middle_middle="24,25" size_right_middle="28,25" src_left_middle="99,367,28,25" src_middle_middle="134,367,24,25" src_right_middle="165,367,28,25" texture="Textures/UI/v4_lobby_create" type="tiled">
+	</Skin>
+	<Skin name="lobby_button_func_over" size_left_middle="28,25" size_middle_middle="24,25" size_right_middle="28,25" src_left_middle="99,395,28,25" src_middle_middle="134,395,24,25" src_right_middle="165,395,28,25" texture="Textures/UI/v4_lobby_create" type="tiled">
+	</Skin>
+	<Skin name="lobby_button_func_down" size_left_middle="28,25" size_middle_middle="24,25" size_right_middle="28,25" src_left_middle="99,423,28,25" src_middle_middle="134,423,24,25" src_right_middle="165,423,28,25" texture="Textures/UI/v4_lobby_create" type="tiled">
+	</Skin>
+	<Skin name="lobby_button_func_default" size_left_middle="28,25" size_middle_middle="24,25" size_right_middle="28,25" src_left_middle="99,451,28,25" src_middle_middle="134,451,24,25" src_right_middle="165,451,28,25" texture="Textures/UI/v4_lobby_create" type="tiled">
+	</Skin>
+	<Preset name="lobby_button_func" type="button">
+		<SkinRef main_state="0" name="lobby_button_func_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="lobby_button_func_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="lobby_button_func_down" sub_state="down">
+		</SkinRef>
+		<SkinRef main_state="0" name="lobby_button_func_default" sub_state="defbutton">
+		</SkinRef>
+	</Preset>
+	<Skin name="lobby_dialog_frame" size_left_bottom="100,60" size_left_middle="100,0" size_left_top="100,60" size_middle_bottom="0,60" size_middle_middle="0,0" size_middle_top="0,60" size_right_bottom="100,60" size_right_middle="100,0" size_right_top="100,60" src_left_bottom="16,353,100,60" src_left_middle="16,314,100,39" src_left_top="16,254,100,60" src_middle_bottom="116,353,34,60" src_middle_middle="116,314,34,39" src_middle_top="116,254,34,60" src_right_bottom="150,353,100,60" src_right_middle="150,314,100,39" src_right_top="150,254,100,60" texture="Textures/UI/v4_lobby_basic" type="tiled">
+	</Skin>
+	<Preset name="lobby_dialog" type="window">
+		<SkinRef name="lobby_dialog_frame" state="frame">
+		</SkinRef>
+	</Preset>
+	<Skin name="lobby_login_frame_upper" src_image="257,158,339,29" texture="Textures/UI/v4_lobby_basic">
+	</Skin>
+	<Skin name="lobby_login_frame_lower" size_left_bottom="10,10" size_left_middle="10,0" size_left_top="10,10" size_middle_bottom="0,10" size_middle_middle="0,0" size_middle_top="0,10" size_right_bottom="10,10" size_right_middle="10,0" size_right_top="10,10" src_left_bottom="166,226,10,10" src_left_middle="166,207,10,19" src_left_top="166,197,10,10" src_middle_bottom="176,226,52,10" src_middle_middle="176,207,52,19" src_middle_top="176,197,52,10" src_right_bottom="228,226,10,10" src_right_middle="228,207,10,19" src_right_top="228,197,10,10" texture="Textures/UI/v4_lobby_basic" type="tiled">
+	</Skin>
+	<Skin name="lobby_login_frame_inner" size_left_bottom="3,3" size_left_middle="3,0" size_left_top="3,3" size_middle_bottom="0,3" size_middle_middle="0,0" size_middle_top="0,3" size_right_bottom="3,3" size_right_middle="3,0" size_right_top="3,3" src_left_bottom="114,230,3,3" src_left_middle="114,198,3,32" src_left_top="114,195,3,3" src_middle_bottom="117,230,32,3" src_middle_middle="117,198,32,32" src_middle_top="117,195,32,3" src_right_bottom="149,230,3,3" src_right_middle="149,198,3,32" src_right_top="149,195,3,3" texture="Textures/UI/v4_lobby_basic" type="tiled">
+	</Skin>
+	<Skin name="lobby_list_seperator" size_left_middle="100,2" size_middle_middle="0,2" size_right_middle="100,2" src_left_middle="17,420,100,2" src_middle_middle="117,420,27,2" src_right_middle="194,420,100,2" texture="Textures/UI/v4_lobby_basic" type="tiled">
+	</Skin>
+	<Skin name="lobby_list_up" size_left_middle="100,24" size_middle_middle="0,24" size_right_middle="100,24" src_left_middle="14,426,100,24" src_middle_middle="114,426,33,24" src_right_middle="147,426,100,24" texture="Textures/UI/v4_lobby_basic" type="tiled">
+	</Skin>
+	<Skin name="lobby_list_over" size_left_middle="100,24" size_middle_middle="0,24" size_right_middle="100,24" src_left_middle="241,202,100,24" src_middle_middle="341,202,26,24" src_right_middle="367,202,100,24" texture="Textures/UI/v4_lobby_basic" type="tiled">
+	</Skin>
+	<Skin name="lobby_list_selected" size_left_middle="100,24" size_middle_middle="0,24" size_right_middle="100,24" src_left_middle="241,231,100,24" src_middle_middle="341,231,26,24" src_right_middle="367,231,100,24" texture="Textures/UI/v4_lobby_basic" type="tiled">
+	</Skin>
+	<Skin name="lobby_scroll_slider_bg" size_middle_bottom="15,16" size_middle_middle="15,0" size_middle_top="15,16" src_middle_bottom="268,372,15,16" src_middle_middle="268,282,15,90" src_middle_top="268,266,15,16" texture="Textures/UI/v4_lobby_basic" type="tiled">
+	</Skin>
+	<Skin name="lobby_scroll_slider_up" size_middle_bottom="0,10" size_middle_middle="0,0" size_middle_top="0,10" src_middle_bottom="290,310,15,10" src_middle_middle="290,298,15,12" src_middle_top="290,288,15,10" texture="Textures/UI/v4_lobby_basic" type="tiled">
+	</Skin>
+	<Skin name="lobby_scroll_slider_over" size_middle_bottom="0,10" size_middle_middle="0,0" size_middle_top="0,10" src_middle_bottom="311,310,15,10" src_middle_middle="311,298,15,12" src_middle_top="311,288,15,10" texture="Textures/UI/v4_lobby_basic" type="tiled">
+	</Skin>
+	<Skin name="lobby_scroll_slider_down" size_middle_bottom="0,10" size_middle_middle="0,0" size_middle_top="0,10" src_middle_bottom="331,310,15,10" src_middle_middle="331,298,15,12" src_middle_top="331,288,15,10" texture="Textures/UI/v4_lobby_basic" type="tiled">
+	</Skin>
+	<Skin name="lobby_scroll_minus_up" src_image="290,266,15,16" texture="Textures/UI/v4_lobby_basic">
+	</Skin>
+	<Skin name="lobby_scroll_minus_over" src_image="311,266,15,16" texture="Textures/UI/v4_lobby_basic">
+	</Skin>
+	<Skin name="lobby_scroll_minus_down" src_image="331,266,15,16" texture="Textures/UI/v4_lobby_basic">
+	</Skin>
+	<Preset name="lobby_scroll_minus" type="button">
+		<SkinRef main_state="0" name="lobby_scroll_minus_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="lobby_scroll_minus_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="lobby_scroll_minus_down" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="lobby_scroll_plus_up" src_image="290,327,15,16" texture="Textures/UI/v4_lobby_basic">
+	</Skin>
+	<Skin name="lobby_scroll_plus_over" src_image="311,327,15,16" texture="Textures/UI/v4_lobby_basic">
+	</Skin>
+	<Skin name="lobby_scroll_plus_down" src_image="331,327,15,16" texture="Textures/UI/v4_lobby_basic">
+	</Skin>
+	<Preset name="lobby_scroll_plus" type="button">
+		<SkinRef main_state="0" name="lobby_scroll_plus_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="lobby_scroll_plus_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="lobby_scroll_plus_down" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Preset name="lobby_scroll" type="scrollbar">
+		<SkinRef name="lobby_scroll_slider_up" state="up">
+		</SkinRef>
+		<SkinRef name="lobby_scroll_slider_over" state="over">
+		</SkinRef>
+		<SkinRef name="lobby_scroll_slider_down" state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="login_edit_bg" size_left_middle="10,23" size_middle_middle="0,23" size_right_middle="10,23" src_left_middle="114,160,10,23" src_middle_middle="124,160,116,23" src_right_middle="240,160,10,23" texture="Textures/UI/v4_lobby_basic" type="tiled">
+	</Skin>
+	<Skin name="login_ecard_grid" repeat="False" src_image="894,258,23,21" texture="Textures/UI/v4_popup2">
+	</Skin>
+	<Skin name="login_ecard_bg" size_left_bottom="4,4" size_left_middle="4,0" size_left_top="4,4" size_middle_bottom="0,4" size_middle_middle="0,0" size_middle_top="0,4" size_right_bottom="4,4" size_right_middle="4,0" size_right_top="4,4" src_left_bottom="827,317,4,4" src_left_middle="827,288,4,4" src_left_top="827,258,4,4" src_middle_bottom="857,317,4,4" src_middle_middle="857,288,4,4" src_middle_top="857,258,4,4" src_right_bottom="886,317,4,4" src_right_middle="886,288,4,4" src_right_top="886,258,4,4" texture="Textures/UI/v4_popup2" type="tiled">
+	</Skin>
+	<Preset name="login_ecard_bg" type="static">
+		<SkinRef name="login_ecard_bg" state="0">
+		</SkinRef>
+	</Preset>
+	<Skin name="lobby_button_char_up" src_image="345,16,153,80" texture="Textures/UI/v4_lobby_select">
+	</Skin>
+	<Skin name="lobby_button_char_over" src_image="345,104,153,80" texture="Textures/UI/v4_lobby_select">
+	</Skin>
+	<Skin name="lobby_button_char_check" src_image="345,189,153,80" texture="Textures/UI/v4_lobby_select">
+	</Skin>
+	<Skin name="lobby_button_char_delete" src_image="345,275,153,80" texture="Textures/UI/v4_lobby_select">
+	</Skin>
+	<Skin name="lobby_button_char_punish" src_image="345,367,153,80" texture="Textures/UI/v4_lobby_select">
+	</Skin>
+	<Preset name="lobby_button_char" type="button">
+		<SkinRef main_state="0" name="lobby_button_char_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="lobby_button_char_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="lobby_button_char_over" sub_state="down">
+		</SkinRef>
+		<SkinRef main_state="1" name="lobby_button_char_check" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="1" name="lobby_button_char_check" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="1" name="lobby_button_char_check" sub_state="down">
+		</SkinRef>
+		<SkinRef main_state="2" name="lobby_button_char_delete" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="2" name="lobby_button_char_delete" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="2" name="lobby_button_char_delete" sub_state="down">
+		</SkinRef>
+		<SkinRef main_state="3" name="lobby_button_char_punish" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="3" name="lobby_button_char_punish" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="3" name="lobby_button_char_punish" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="lobby_char_cond_bg" size_middle_bottom="152,7" size_middle_middle="152,7" size_middle_top="152,7" src_middle_bottom="345,483,152,7" src_middle_middle="345,470,152,7" src_middle_top="345,458,152,7" texture="Textures/UI/v4_lobby_select" type="tiled">
+	</Skin>
+	<Preset name="lobby_char_cond_bg" type="static">
+		<SkinRef name="lobby_char_cond_bg" state="0">
+		</SkinRef>
+	</Preset>
+	<Skin name="lobby_button_class_left_up" src_image="10,23,115,54" texture="Textures/UI/v4_lobby_select">
+	</Skin>
+	<Skin name="lobby_button_class_left_over" src_image="10,95,115,54" texture="Textures/UI/v4_lobby_select">
+	</Skin>
+	<Skin name="lobby_button_class_left_check" src_image="10,169,115,54" texture="Textures/UI/v4_lobby_select">
+	</Skin>
+	<Preset name="lobby_button_class_left" type="button">
+		<SkinRef main_state="0" name="lobby_button_class_left_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="lobby_button_class_left_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="lobby_button_class_left_over" sub_state="down">
+		</SkinRef>
+		<SkinRef main_state="1" name="lobby_button_class_left_check" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="1" name="lobby_button_class_left_check" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="1" name="lobby_button_class_left_check" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="lobby_button_class_right_up" src_image="205,23,117,54" texture="Textures/UI/v4_lobby_select">
+	</Skin>
+	<Skin name="lobby_button_class_right_over" src_image="205,95,117,54" texture="Textures/UI/v4_lobby_select">
+	</Skin>
+	<Skin name="lobby_button_class_right_check" src_image="205,169,117,54" texture="Textures/UI/v4_lobby_select">
+	</Skin>
+	<Preset name="lobby_button_class_right" type="button">
+		<SkinRef main_state="0" name="lobby_button_class_right_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="lobby_button_class_right_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="lobby_button_class_right_over" sub_state="down">
+		</SkinRef>
+		<SkinRef main_state="1" name="lobby_button_class_right_check" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="1" name="lobby_button_class_right_check" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="1" name="lobby_button_class_right_check" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="lobby_button_class_center_up" src_image="126,16,80,68" texture="Textures/UI/v4_lobby_select">
+	</Skin>
+	<Skin name="lobby_button_class_center_over" src_image="126,88,80,68" texture="Textures/UI/v4_lobby_select">
+	</Skin>
+	<Skin name="lobby_button_class_center_check" src_image="126,162,80,68" texture="Textures/UI/v4_lobby_select">
+	</Skin>
+	<Preset name="lobby_button_class_center" type="button">
+		<SkinRef main_state="0" name="lobby_button_class_center_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="lobby_button_class_center_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="lobby_button_class_center_over" sub_state="down">
+		</SkinRef>
+		<SkinRef main_state="1" name="lobby_button_class_center_check" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="1" name="lobby_button_class_center_check" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="1" name="lobby_button_class_center_check" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Preset name="lobby_class_center" type="static">
+		<SkinRef name="lobby_button_class_center_up" state="0">
+		</SkinRef>
+		<SkinRef name="lobby_button_class_center_check" state="1">
+		</SkinRef>
+	</Preset>
+	<Skin name="lobby_class_warrior_off" src_image="30,363,42,52" texture="Textures/UI/v4_lobby_select">
+	</Skin>
+	<Skin name="lobby_class_warrior_on" src_image="30,417,42,52" texture="Textures/UI/v4_lobby_select">
+	</Skin>
+	<Skin name="lobby_class_scout_off" src_image="199,364,42,52" texture="Textures/UI/v4_lobby_select">
+	</Skin>
+	<Skin name="lobby_class_scout_on" src_image="199,418,42,52" texture="Textures/UI/v4_lobby_select">
+	</Skin>
+	<Skin name="lobby_class_mage_off" src_image="85,363,42,52" texture="Textures/UI/v4_lobby_select">
+	</Skin>
+	<Skin name="lobby_class_mage_on" src_image="85,417,42,52" texture="Textures/UI/v4_lobby_select">
+	</Skin>
+	<Skin name="lobby_class_cleric_off" src_image="143,363,42,52" texture="Textures/UI/v4_lobby_select">
+	</Skin>
+	<Skin name="lobby_class_cleric_on" src_image="143,417,42,52" texture="Textures/UI/v4_lobby_select">
+	</Skin>
+	<Preset name="class_symbol" type="static">
+		<SkinRef name="lobby_class_warrior_off" state="0">
+		</SkinRef>
+		<SkinRef name="lobby_class_scout_off" state="1">
+		</SkinRef>
+		<SkinRef name="lobby_class_mage_off" state="2">
+		</SkinRef>
+		<SkinRef name="lobby_class_cleric_off" state="3">
+		</SkinRef>
+	</Preset>
+	<Preset name="lobby_class_warrior" type="static">
+		<SkinRef name="lobby_class_warrior_off" state="0">
+		</SkinRef>
+		<SkinRef name="lobby_class_warrior_on" state="1">
+		</SkinRef>
+	</Preset>
+	<Preset name="lobby_class_scout" type="static">
+		<SkinRef name="lobby_class_scout_off" state="0">
+		</SkinRef>
+		<SkinRef name="lobby_class_scout_on" state="1">
+		</SkinRef>
+	</Preset>
+	<Preset name="lobby_class_mage" type="static">
+		<SkinRef name="lobby_class_mage_off" state="0">
+		</SkinRef>
+		<SkinRef name="lobby_class_mage_on" state="1">
+		</SkinRef>
+	</Preset>
+	<Preset name="lobby_class_cleric" type="static">
+		<SkinRef name="lobby_class_cleric_off" state="0">
+		</SkinRef>
+		<SkinRef name="lobby_class_cleric_on" state="1">
+		</SkinRef>
+	</Preset>
+	<Skin name="lobby_desc_frame" size_left_bottom="60,24" size_left_middle="60,0" size_left_top="60,24" size_middle_bottom="0,24" size_middle_middle="0,0" size_middle_top="0,24" size_right_bottom="54,24" size_right_middle="54,0" size_right_top="54,24" src_left_bottom="828,125,60,24" src_left_middle="828,107,60,20" src_left_top="828,79,60,24" src_middle_bottom="892,125,7,24" src_middle_middle="892,107,7,20" src_middle_top="892,79,7,24" src_right_bottom="903,125,54,24" src_right_middle="903,104,54,20" src_right_top="903,79,54,24" texture="Textures/UI/v4_lobby_frame" type="tiled">
+	</Skin>
+	<Skin name="lobby_gauge_frame" size_left_middle="48,23" size_middle_middle="0,23" size_right_middle="48,23" src_left_middle="826,158,48,23" src_middle_middle="879,158,1,23" src_right_middle="884,158,48,23" texture="Textures/UI/v4_lobby_frame" type="tiled">
+	</Skin>
+	<Preset name="lobby_gauge_frame" type="static">
+		<SkinRef name="lobby_gauge_frame" state="0">
+		</SkinRef>
+	</Preset>
+	<Skin name="lobby_gauge_bg" size_left_middle="24,0" size_middle_middle="0,16" size_right_middle="24,0" src_left_middle="832,190,24,16" src_middle_middle="861,190,14,16" src_right_middle="885,190,24,16" texture="Textures/UI/v4_lobby_frame" type="tiled">
+	</Skin>
+	<Preset name="lobby_gauge_bg" type="static">
+		<SkinRef name="lobby_gauge_bg" state="0">
+		</SkinRef>
+	</Preset>
+	<Skin name="lobby_gauge_left_a" src_image="832,15,97,13" texture="Textures/UI/v4_lobby_frame">
+	</Skin>
+	<Skin name="lobby_gauge_left_b" src_image="832,30,97,13" texture="Textures/UI/v4_lobby_frame">
+	</Skin>
+	<Skin name="lobby_gauge_right_a" src_image="832,45,97,13" texture="Textures/UI/v4_lobby_frame">
+	</Skin>
+	<Skin name="lobby_gauge_right_b" src_image="832,60,97,13" texture="Textures/UI/v4_lobby_frame">
+	</Skin>
+	<Preset name="lobby_gauge_left_a" type="gauge">
+		<SkinRef main_state="0" name="lobby_gauge_left_a" sub_state="gauge">
+		</SkinRef>
+	</Preset>
+	<Preset name="lobby_gauge_left_b" type="gauge">
+		<SkinRef main_state="0" name="lobby_gauge_left_b" sub_state="gauge">
+		</SkinRef>
+	</Preset>
+	<Preset name="lobby_gauge_right_a" type="gauge">
+		<SkinRef main_state="0" name="lobby_gauge_right_a" sub_state="gauge">
+		</SkinRef>
+	</Preset>
+	<Preset name="lobby_gauge_right_b" type="gauge">
+		<SkinRef main_state="0" name="lobby_gauge_right_b" sub_state="gauge">
+		</SkinRef>
+	</Preset>
+	<Skin name="create_button_light_up" src_image="7,513,419,511" texture="Textures/UI/v4_lobby_race">
+	</Skin>
+	<Skin name="create_button_light_over" src_image="468,513,419,511" texture="Textures/UI/v4_lobby_race">
+	</Skin>
+	<Skin name="create_button_light_check" src_image="899,513,419,511" texture="Textures/UI/v4_lobby_race">
+	</Skin>
+	<Preset name="create_button_light" type="button">
+		<SkinRef main_state="0" name="create_button_light_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_button_light_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_button_light_over" sub_state="down">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_button_light_check" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_button_light_check" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_button_light_check" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="create_button_dark_up" src_image="6,0,419,511" texture="Textures/UI/v4_lobby_race">
+	</Skin>
+	<Skin name="create_button_dark_over" src_image="465,0,419,511" texture="Textures/UI/v4_lobby_race">
+	</Skin>
+	<Skin name="create_button_dark_check" src_image="899,0,419,511" texture="Textures/UI/v4_lobby_race">
+	</Skin>
+	<Preset name="create_button_dark" type="button">
+		<SkinRef main_state="0" name="create_button_dark_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_button_dark_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_button_dark_over" sub_state="down">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_button_dark_check" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_button_dark_check" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_button_dark_check" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="lobby_tooltip_frame" size_left_bottom="24,24" size_left_middle="24,0" size_left_top="24,21" size_middle_bottom="0,21" size_middle_middle="0,0" size_middle_top="0,21" size_right_bottom="23,21" size_right_middle="23,0" size_right_top="23,21" src_left_bottom="732,319,24,21" src_left_middle="732,305,24,6" src_left_top="732,277,24,21" src_middle_bottom="764,319,12,21" src_middle_middle="764,305,12,6" src_middle_top="764,277,12,21" src_right_bottom="784,319,23,21" src_right_middle="784,305,23,6" src_right_top="784,277,23,21" texture="Textures/UI/v4_lobby_create" type="tiled">
+	</Skin>
+	<Preset name="lobby_tooltip_frame" type="static">
+		<SkinRef name="lobby_tooltip_frame" state="0">
+		</SkinRef>
+	</Preset>
+	<Skin name="create_dlg_frame_out" size_left_bottom="15,15" size_left_middle="15,0" size_left_top="15,15" size_middle_bottom="0,15" size_middle_middle="0,0" size_middle_top="0,15" size_right_bottom="15,15" size_right_middle="15,0" size_right_top="15,15" src_left_bottom="823,322,15,15" src_left_middle="823,305,15,7" src_left_top="823,281,15,15" src_middle_bottom="847,322,13,15" src_middle_middle="847,305,13,7" src_middle_top="847,281,13,15" src_right_bottom="867,322,15,15" src_right_middle="867,305,15,7" src_right_top="867,281,15,15" texture="Textures/UI/v4_lobby_create" type="tiled">
+	</Skin>
+	<Preset name="create_dlg_frame_out" type="static">
+		<SkinRef name="create_dlg_frame_out" state="0">
+		</SkinRef>
+	</Preset>
+	<Skin name="create_dlg_frame_in" size_left_bottom="22,14" size_left_middle="22,0" size_left_top="22,14" size_middle_bottom="0,14" size_middle_middle="0,0" size_middle_top="0,14" size_right_bottom="22,14" size_right_middle="22,0" size_right_top="22,14" src_left_bottom="656,319,22,14" src_left_middle="656,300,22,15" src_left_top="656,282,22,14" src_middle_bottom="682,319,7,14" src_middle_middle="682,300,7,15" src_middle_top="682,282,7,14" src_right_bottom="693,319,22,14" src_right_middle="693,300,22,15" src_right_top="693,282,22,14" texture="Textures/UI/v4_lobby_create" type="tiled">
+	</Skin>
+	<Preset name="create_dlg_frame_in" type="static">
+		<SkinRef name="create_dlg_frame_in" state="0">
+		</SkinRef>
+	</Preset>
+	<Skin name="create_dlg_seperator" src_image="79,145,184,1" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Preset name="create_dlg_seperator" type="static">
+		<SkinRef name="create_dlg_seperator" state="0">
+		</SkinRef>
+	</Preset>
+	<Skin name="create_tab_line_A_left" src_image="765,46,4,3" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_tab_line_A_middle" src_image="772,46,2,3" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_tab_line_A_right" src_image="777,46,4,3" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_tabpage_A" size_left_bottom="10,10" size_left_middle="10,0" size_left_top="10,10" size_middle_bottom="0,10" size_middle_middle="0,0" size_middle_top="0,10" size_right_bottom="10,10" size_right_middle="10,0" size_right_top="10,10" src_left_bottom="689,57,10,10" src_left_middle="689,20,10,37" src_left_top="689,10,10,10" src_middle_bottom="699,57,51,10" src_middle_middle="699,20,51,37" src_middle_top="699,10,51,10" src_right_bottom="750,57,10,10" src_right_middle="750,20,10,37" src_right_top="750,10,10,10" texture="Textures/UI/v4_lobby_create" type="tiled">
+	</Skin>
+	<Preset name="create_tab_A" type="tabframe">
+		<SkinRef name="create_tab_line_A_left" state="left_tabline">
+		</SkinRef>
+		<SkinRef name="create_tab_line_A_middle" state="middle_tabline">
+		</SkinRef>
+		<SkinRef name="create_tab_line_A_right" state="right_tabline">
+		</SkinRef>
+	</Preset>
+	<Preset name="create_tabpage_A" type="static">
+		<SkinRef name="create_tabpage_A" state="0">
+		</SkinRef>
+	</Preset>
+	<Skin name="create_tab_button_A_up" size_left_middle="24,0" size_middle_middle="0,0" size_right_middle="24,0" src_left_middle="786,23,24,27" src_middle_middle="814,23,15,27" src_right_middle="834,23,24,27" texture="Textures/UI/v4_lobby_create" type="tiled">
+	</Skin>
+	<Skin name="create_tab_button_A_over" size_left_middle="24,0" size_middle_middle="0,0" size_right_middle="24,0" src_left_middle="942,19,24,27" src_middle_middle="970,19,15,27" src_right_middle="990,19,24,27" texture="Textures/UI/v4_lobby_create" type="tiled">
+	</Skin>
+	<Skin name="create_tab_button_A_down" size_left_middle="24,0" size_middle_middle="0,0" size_right_middle="24,0" src_left_middle="864,23,24,27" src_middle_middle="892,23,15,27" src_right_middle="912,23,24,27" texture="Textures/UI/v4_lobby_create" type="tiled">
+	</Skin>
+	<Preset name="create_tab_button_A" type="button">
+		<SkinRef main_state="0" name="create_tab_button_A_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_tab_button_A_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_tab_button_A_down" sub_state="down">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_tab_button_A_down" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_tab_button_A_down" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_tab_button_A_down" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="create_tab_line_B_left" src_image="766,84,4,3" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_tab_line_B_middle" src_image="773,84,2,3" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_tab_line_B_right" src_image="778,84,4,3" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_tabpage_B" size_left_bottom="10,10" size_left_middle="10,0" size_left_top="10,10" size_middle_bottom="0,10" size_middle_middle="0,0" size_middle_top="0,10" size_right_bottom="10,10" size_right_middle="10,0" size_right_top="10,10" src_left_bottom="944,138,10,10" src_left_middle="944,101,10,37" src_left_top="944,91,10,10" src_middle_bottom="954,138,51,10" src_middle_middle="954,101,51,37" src_middle_top="954,91,51,10" src_right_bottom="1005,138,10,10" src_right_middle="1005,101,10,37" src_right_top="1005,91,10,10" texture="Textures/UI/v4_lobby_create" type="tiled">
+	</Skin>
+	<Preset name="create_tab_B" type="tabframe">
+		<SkinRef name="create_tab_line_B_left" state="left_tabline">
+		</SkinRef>
+		<SkinRef name="create_tab_line_B_middle" state="middle_tabline">
+		</SkinRef>
+		<SkinRef name="create_tab_line_B_right" state="right_tabline">
+		</SkinRef>
+	</Preset>
+	<Preset name="create_tabpage_B" type="static">
+		<SkinRef name="create_tabpage_B" state="0">
+		</SkinRef>
+	</Preset>
+	<Skin name="create_tab_button_B_up" size_left_middle="24,0" size_middle_middle="0,0" size_right_middle="24,0" src_left_middle="789,62,24,27" src_middle_middle="817,62,15,27" src_right_middle="837,62,24,27" texture="Textures/UI/v4_lobby_create" type="tiled">
+	</Skin>
+	<Skin name="create_tab_button_B_over" size_left_middle="24,0" size_middle_middle="0,0" size_right_middle="24,0" src_left_middle="944,58,24,27" src_middle_middle="972,58,15,27" src_right_middle="992,58,24,27" texture="Textures/UI/v4_lobby_create" type="tiled">
+	</Skin>
+	<Skin name="create_tab_button_B_down" size_left_middle="24,0" size_middle_middle="0,0" size_right_middle="24,0" src_left_middle="866,62,24,27" src_middle_middle="894,62,15,27" src_right_middle="914,62,24,27" texture="Textures/UI/v4_lobby_create" type="tiled">
+	</Skin>
+	<Preset name="create_tab_button_B" type="button">
+		<SkinRef main_state="0" name="create_tab_button_B_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_tab_button_B_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_tab_button_B_down" sub_state="down">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_tab_button_B_down" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_tab_button_B_down" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_tab_button_B_down" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="lobby_picker" src_image="915,200,13,13" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_color_frame" size_left_bottom="5,5" size_left_middle="5,0" size_left_top="5,5" size_middle_bottom="0,5" size_middle_top="0,5" size_right_bottom="5,5" size_right_middle="5,0" size_right_top="5,5" src_left_bottom="874,119,5,5" src_left_middle="874,96,5,23" src_left_top="874,91,5,5" src_middle_bottom="879,119,23,5" src_middle_top="879,91,23,5" src_right_bottom="902,119,5,5" src_right_middle="902,96,5,23" src_right_top="902,91,5,5" texture="Textures/UI/v4_lobby_create" type="tiled">
+	</Skin>
+	<Skin name="create_color_slider_up" src_image="909,117,21,11" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_color_slider_over" src_image="909,104,21,11" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_color_slider_down" src_image="909,91,21,11" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Preset name="create_color_table" type="colortable">
+		<SkinRef name="create_color_frame" state="frame">
+		</SkinRef>
+	</Preset>
+	<Preset name="create_color_slider" type="slide">
+		<SkinRef name="create_color_frame" state="bg">
+		</SkinRef>
+		<SkinRef name="create_color_slider_up" state="up">
+		</SkinRef>
+		<SkinRef name="create_color_slider_over" state="over">
+		</SkinRef>
+		<SkinRef name="create_color_slider_down" state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="create_edit_bg" size_left_middle="36,23" size_middle_middle="0,23" size_right_middle="36,23" src_left_middle="602,7,36,23" src_middle_middle="642,7,1,23" src_right_middle="646,7,36,23" texture="Textures/UI/v4_lobby_create" type="tiled">
+	</Skin>
+	<Skin name="create_custom_bg" src_image="604,133,288,126" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_button_head_up" src_image="367,18,108,108" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_button_head_over" src_image="367,131,108,108" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_button_head_check" src_image="367,245,108,108" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Preset name="create_button_head" type="button">
+		<SkinRef main_state="0" name="create_button_head_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_button_head_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_button_head_over" sub_state="down">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_button_head_check" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_button_head_check" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_button_head_check" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="create_button_body_up" src_image="483,18,108,108" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_button_body_over" src_image="483,131,108,108" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_button_body_check" src_image="483,245,108,108" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Preset name="create_button_body" type="button">
+		<SkinRef main_state="0" name="create_button_body_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_button_body_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_button_body_over" sub_state="down">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_button_body_check" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_button_body_check" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_button_body_check" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="create_symbol_head" src_image="243,198,88,89" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_symbol_body" src_image="144,195,89,89" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_button_minus_up" src_image="602,37,14,13" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_button_minus_over" src_image="620,37,14,13" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_button_minus_down" src_image="638,37,14,13" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_button_plus_up" src_image="602,53,14,13" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_button_plus_over" src_image="620,53,14,13" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_button_plus_down" src_image="638,53,14,13" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_button_drop_up" src_image="603,92,26,26" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_button_drop_over" src_image="636,92,26,26" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_button_drop_down" src_image="668,92,26,26" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Preset name="create_combobox_button" type="button">
+		<SkinRef main_state="0" name="create_button_drop_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_button_drop_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_button_drop_down" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Preset name="create_combobox_list" type="listbox">
+		<SkinRef name="v4_droplist_bg" state="frame">
+		</SkinRef>
+		<SkinRef name="v4_item_selected" state="row_selected">
+		</SkinRef>
+		<SkinRef name="v4_item_over" state="row_over">
+		</SkinRef>
+	</Preset>
+	<Preset name="create_listbox" type="extensible">
+		<SkinRef name="create_dlg_frame_line" state="bg">
+		</SkinRef>
+	</Preset>
+	<Skin name="create_button_feat_bg" size_left_middle="26,26" size_middle_middle="0,26" size_right_middle="26,26" src_left_middle="30,207,26,26" src_middle_middle="66,207,2,26" src_right_middle="78,207,26,26" texture="Textures/UI/v4_lobby_create" type="tiled">
+	</Skin>
+	<Skin name="create_button_feat_left_up" src_image="30,239,26,26" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_button_feat_left_over" src_image="30,271,26,26" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_button_feat_left_down" src_image="30,303,26,26" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_button_feat_left_disable" src_image="30,335,26,26" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Preset name="create_button_feat_left" type="button">
+		<SkinRef main_state="0" name="create_button_feat_left_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_button_feat_left_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_button_feat_left_down" sub_state="down">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_button_feat_left_disable" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_button_feat_left_disable" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_button_feat_left_disable" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="create_button_feat_right_up" src_image="78,239,26,26" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_button_feat_right_over" src_image="78,271,26,26" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_button_feat_right_down" src_image="78,303,26,26" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_button_feat_right_disable" src_image="78,335,26,26" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Preset name="create_button_feat_right" type="button">
+		<SkinRef main_state="0" name="create_button_feat_right_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_button_feat_right_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_button_feat_right_down" sub_state="down">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_button_feat_right_disable" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_button_feat_right_disable" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_button_feat_right_disable" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="create_voice_button_up" src_image="18,120,22,21" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_voice_button_over" src_image="18,141,22,21" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_voice_button_down" src_image="18,162,22,21" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Preset name="create_voice_button" type="button">
+		<SkinRef main_state="0" name="create_voice_button_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_voice_button_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_voice_button_down" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="create_custom_slide_bg" src_image="78,120,178,19" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_custom_slide_knob_up" src_image="48,120,21,21" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_custom_slide_knob_over" src_image="48,145,21,21" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_custom_slide_knob_down" src_image="48,170,21,21" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Preset name="create_custom_slide" type="slide">
+		<SkinRef name="create_custom_slide_bg" state="bg">
+		</SkinRef>
+		<SkinRef name="create_custom_slide_knob_up" state="up">
+		</SkinRef>
+		<SkinRef name="create_custom_slide_knob_over" state="over">
+		</SkinRef>
+		<SkinRef name="create_custom_slide_knob_down" state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="create_color_button_up" src_image="303,119,21,21" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_color_button_over" src_image="303,150,21,21" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_color_button_check" src_image="334,150,21,21" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_color_button_color" src_image="334,119,21,21" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Preset name="create_color_button" type="button">
+		<SkinRef main_state="0" name="create_color_button_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_color_button_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_color_button_over" sub_state="down">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_color_button_color" sub_state="color">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_color_button_check" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_color_button_check" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_color_button_check" sub_state="down">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_color_button_color" sub_state="color">
+		</SkinRef>
+	</Preset>
+	<Skin name="create_button_turnleft_up" src_image="661,364,61,37" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_button_turnleft_over" src_image="661,459,61,37" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_button_turnleft_down" src_image="661,413,61,37" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_button_turnright_up" src_image="766,363,61,37" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_button_turnright_over" src_image="766,459,61,37" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_button_turnright_down" src_image="766,413,61,37" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Preset name="create_button_turnleft" type="button">
+		<SkinRef main_state="0" name="create_button_turnleft_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_button_turnleft_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_button_turnleft_down" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Preset name="create_button_turnright" type="button">
+		<SkinRef main_state="0" name="create_button_turnright_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_button_turnright_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_button_turnright_down" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="create_button_zoomin_up" src_image="902,259,31,31" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_button_zoomin_over" src_image="902,293,31,31" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_button_zoomin_down" src_image="902,326,31,31" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_button_zoomout_up" src_image="936,259,31,31" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_button_zoomout_over" src_image="936,293,31,31" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_button_zoomout_down" src_image="936,326,31,31" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Preset name="create_button_zoomin" type="button">
+		<SkinRef main_state="0" name="create_button_zoomin_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_button_zoomin_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_button_zoomin_down" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Preset name="create_button_zoomout" type="button">
+		<SkinRef main_state="0" name="create_button_zoomout_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_button_zoomout_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_button_zoomout_down" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="create_armor_light_up" src_image="382,360,47,47" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_armor_light_over" src_image="382,409,47,47" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_armor_light_down" src_image="382,458,47,47" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_armor_normal_up" src_image="438,360,47,47" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_armor_normal_over" src_image="438,409,47,47" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_armor_normal_down" src_image="438,458,47,47" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_armor_heavy_up" src_image="494,360,47,47" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_armor_heavy_over" src_image="494,409,47,47" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_armor_heavy_down" src_image="494,458,47,47" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Preset name="create_armor_light" type="button">
+		<SkinRef main_state="0" name="create_armor_light_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_armor_light_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_armor_light_down" sub_state="down">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_armor_light_down" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_armor_light_down" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_armor_light_down" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Preset name="create_armor_normal" type="button">
+		<SkinRef main_state="0" name="create_armor_normal_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_armor_normal_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_armor_normal_down" sub_state="down">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_armor_normal_down" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_armor_normal_down" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_armor_normal_down" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Preset name="create_armor_heavy" type="button">
+		<SkinRef main_state="0" name="create_armor_heavy_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_armor_heavy_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_armor_heavy_down" sub_state="down">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_armor_heavy_down" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_armor_heavy_down" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_armor_heavy_down" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="create_helmet_on_up" src_image="550,360,47,47" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_helmet_on_over" src_image="550,409,47,47" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_helmet_on_down" src_image="550,458,47,47" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_helmet_off_up" src_image="599,360,47,47" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_helmet_off_over" src_image="599,409,47,47" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_helmet_off_down" src_image="599,458,47,47" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Preset name="create_helmet" type="button">
+		<SkinRef main_state="1" name="create_helmet_on_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_helmet_on_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="1" name="create_helmet_on_down" sub_state="down">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_helmet_off_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_helmet_off_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_helmet_off_down" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="create_preset_minus_up" src_image="986,170,19,15" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_preset_minus_over" src_image="986,195,19,15" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_preset_minus_down" src_image="986,223,19,15" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Preset name="create_preset_minus" type="button">
+		<SkinRef main_state="0" name="create_preset_minus_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_preset_minus_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_preset_minus_down" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="create_preset_plus_up" src_image="986,255,19,15" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_preset_plus_over" src_image="986,282,19,15" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Skin name="create_preset_plus_down" src_image="986,307,19,15" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+	<Preset name="create_preset_plus" type="button">
+		<SkinRef main_state="0" name="create_preset_plus_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_preset_plus_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="create_preset_plus_down" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="create_combobox_marker" src_image="837,360,168,53" texture="Textures/UI/v4_lobby_create">
+	</Skin>
+</Preload>

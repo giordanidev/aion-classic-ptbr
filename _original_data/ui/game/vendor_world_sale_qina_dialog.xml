@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="5,8" flag="close;title" frame="370,100,493,351" last_modified="2022-07-02 18:09:05" name="vendor_world_sale_qina_dialog" preset="v4_dialog2" shadow_offset="8,8" title_align="left" title_frame="3,3,469,14" title_height="25" title_offset="5,5" title_text="STR_VENDOR_WORLD_DIALOG__SALE_KINA_TITLE" type="dlg_vendor_world_sale_qina">
+	<Widget frame="0,154,484,138" preset="v4_staticbox" type="image">
+	</Widget>
+	<Widget font="ui_default" frame="6,219,272,20" scroll_type="hidden" text="STR_VENDOR_WORLD_DIALOG__SALE_PRICE_MSG" type="static">
+	</Widget>
+	<Widget alphanumeric="False" font="v3_money" frame="13,263,268,24" h_align="right" h_padding="5" halign="right" max_length="10" name="price" numeric="1" preset="v4_editbox" tabstop="2" type="editbox" v_padding="5">
+	</Widget>
+	<Widget defbutton="true" font="ui_default" frame="347,294,68,26" h_pos_align="right" name="ok" preset="v4_button" text="STR_ITEM_PRICE_COUNT_DIALOG__OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="417,294,68,26" h_pos_align="right" name="cancel" preset="v4_button" text="STR_ITEM_PRICE_COUNT_DIALOG__CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget frame="287,51,4,166" type="image">
+		<Skin name="v4_num_ruler">
+		</Skin>
+	</Widget>
+	<Widget frame="310,187,153,25" halign="center" name="qina1" preset="v4_num_button" single_click_only="True" text="STR_VENDOR_WORLD_DIALOG__KINA_AMOUNT_ADD_10M" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+	<Widget frame="310,212,153,25" halign="center" name="qina5" preset="v4_num_button" single_click_only="True" text="STR_VENDOR_WORLD_DIALOG__KINA_AMOUNT_ADD_50M" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+	<Widget frame="310,237,153,25" halign="center" name="qina10" preset="v4_num_button" single_click_only="True" text="STR_VENDOR_WORLD_DIALOG__KINA_AMOUNT_ADD_1HM" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+	<Widget frame="310,262,153,25" halign="center" name="qina100" preset="v4_num_button" single_click_only="True" text="STR_VENDOR_WORLD_DIALOG__KINA_AMOUNT_ADD_BILLION" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+	<Widget font="v3_money" font_size="-14" frame="92,238,185,23" halign="right" name="price_view" padding="5,0" type="static">
+	</Widget>
+	<Widget font="ui_default" frame="6,51,243,20" scroll_type="hidden" text="STR_VENDOR_WORLD_DIALOG__KINA_PRICE_PIECE_INFO" type="static">
+	</Widget>
+	<Widget flag="truncate" font="ui_list" frame="6,5,475,44" item_height="44" item_width="44" name="item" preset="v4_listview_frame" reserve_slots="True" scroll_type="hidden" slot_num="1" type="listview" viewmode="detail">
+		<Column align="" title="" width="1000">
+		</Column>
+	</Widget>
+	<Widget font="ui_default" frame="6,159,197,20" scroll_type="hidden" text="STR_VENDOR_WORLD_DIALOG__KINA_AMOUNT_MSG" type="static">
+	</Widget>
+	<Widget frame="258,184,22,22" name="last_val" preset="v4_last_page" type="button">
+	</Widget>
+	<Widget frame="236,184,22,22" name="next_val" preset="v4_next_page" type="button">
+	</Widget>
+	<Widget font="v3_money" frame="60,183,176,24" halign="center" name="count" preset="v4_editbox" type="static" valign="middle">
+	</Widget>
+	<Widget frame="37,184,22,22" name="prev_val" preset="v4_prev_page" type="button">
+	</Widget>
+	<Widget frame="15,184,22,22" name="first_val" preset="v4_first_page" type="button">
+	</Widget>
+	<Widget font="ui_default" frame="296,160,161,20" halign="left" scroll_type="hidden" text="STR_VENDOR_WORLD_DIALOG__QINA_QUICK_TITLE" type="static">
+	</Widget>
+	<Widget font="v3_money" frame="118,124,160,22" halign="right" name="max_price_view" padding="5,0" type="static">
+	</Widget>
+	<Widget font="ui_default" frame="14,124,101,22" halign="left" text="STR_VENDOR_SELL_DIALOG__MAX_PRICE" type="static">
+	</Widget>
+	<Widget font="ui_default" frame="14,100,101,22" halign="left" text="STR_VENDOR_SELL_DIALOG__MIN_PRICE" type="static">
+	</Widget>
+	<Widget font="v3_money" frame="118,100,160,22" halign="right" name="min_price_view" padding="5,0" type="static">
+	</Widget>
+	<Widget font="v3_money" frame="118,76,160,22" halign="right" name="avg_price_view" padding="5,0" type="static">
+	</Widget>
+	<Widget font="ui_default" frame="14,76,101,22" halign="left" text="STR_VENDOR_SELL_DIALOG__AVG_PRICE" type="static">
+	</Widget>
+	<Widget frame="286,170,4,120" type="image">
+		<Skin name="v4_num_ruler">
+		</Skin>
+	</Widget>
+	<Widget font="ui_default" frame="14,238,79,23" text="STR_VENDOR_SELL_DIALOG__PRICE_ENTERED" type="static">
+	</Widget>
+	<Widget flag="wordwrap;multiline" font="ui_default" frame="296,53,179,47" halign="left" text="STR_VENDOR_WORLD_DIALOG__TOTAL_SALE_KINA_DESC" type="static" valign="top">
+	</Widget>
+	<Widget font="ui_default" frame="300,100,101,22" halign="left" text="STR_VENDOR_WORLD_DIALOG__COLUMN_KINA_PRICE_PIECE" type="static">
+	</Widget>
+	<Widget font="v3_money" frame="304,124,174,22" halign="right" name="qina_price_piece_view" padding="5,0" type="static">
+	</Widget>
+	<Widget font="ui_default" frame="2,295,336,22" halign="left" name="qina_limit" text="STR_UI_VENDOR_WORLD_LIMIT_QINA_INFO" type="static">
+	</Widget>
+</Dialog>

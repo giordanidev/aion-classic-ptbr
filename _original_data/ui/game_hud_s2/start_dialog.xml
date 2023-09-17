@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="not_movable;visible" frame="967,867,313,93" h_pos_align="center" last_modified="2020-09-07 20:10:18" name="start_dialog" preset="v4_hud_start_s2" type="dlg_start" v_pos_align="bottom">
+	<Widget frame="11,38,37,37" name="start_button" preset="v4_start_button" tooltip="STR_START_DIALOG__TOOLTIP_MENU" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget frame="59,38,37,37" name="prophet_button" preset="v4_propet_button" tooltip="STR_START_DIALOG__TOOLTIP_WORLD_INFLUENCE" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget flag="visible" frame="111,9,66,66" name="fly_gauge" preset="v4_fly_gauge" type="flygauge">
+	</Widget>
+</Dialog>

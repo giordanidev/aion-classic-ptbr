@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="not_movable" frame="859,539,406,225" last_modified="2022-07-01 22:15:36" name="inventory_attach_dialog" preset="v4_inv_dialog" title_frame="3,3,401,14" type="dlg_inventory_attach">
+	<Widget frame="-2,30,404,137" preset="v4_inv_tabpage" type="image">
+	</Widget>
+	<Widget cell_padding="2" cell_space="-1,-1" frame="6,32,389,130" group="0" item_height="44" item_width="44" name="list0" preset="v4_listview" reserve_slots="true" slot_num="27" type="listview" viewmode="icon">
+	</Widget>
+	<Widget cell_padding="2" cell_space="-1,-1" flag="not_visible" frame="6,32,389,130" group="1" item_height="44" item_width="44" name="list1" preset="v4_listview" reserve_slots="true" slot_num="27" type="listview" viewmode="icon">
+	</Widget>
+	<Widget cell_padding="2" cell_space="-1,-1" flag="not_visible" frame="6,32,389,130" group="2" item_height="44" item_width="44" name="list2" preset="v4_listview" reserve_slots="true" slot_num="27" type="listview" viewmode="icon">
+	</Widget>
+	<Widget cell_padding="2" cell_space="-1,-1" flag="not_visible" frame="6,32,389,130" group="3" item_height="44" item_width="44" name="list3" preset="v4_listview" reserve_slots="true" slot_num="27" type="listview" viewmode="icon">
+	</Widget>
+	<Widget cell_padding="2" cell_space="-1,-1" flag="not_visible" frame="6,32,389,130" group="3" item_height="44" item_width="44" name="list4" preset="v4_listview" reserve_slots="true" slot_num="27" type="listview" viewmode="icon">
+	</Widget>
+	<Widget flag="truncate" font="v3_tab" frame="5,5,79,25" name="button0" preset="v4_inv_tab_button" type="button">
+	</Widget>
+	<Widget flag="truncate" font="v3_tab" frame="83,5,79,25" name="button1" preset="v4_inv_tab_button" type="button">
+	</Widget>
+	<Widget flag="truncate" font="v3_tab" frame="161,5,79,25" name="button2" preset="v4_inv_tab_button" type="button">
+	</Widget>
+	<Widget flag="truncate" font="v3_tab" frame="239,5,79,25" name="button3" preset="v4_inv_tab_button" type="button">
+	</Widget>
+	<Widget flag="truncate" font="v3_tab" frame="317,5,79,25" name="button4" preset="v4_inv_tab_button" type="button">
+	</Widget>
+	<Widget frame="0,167,403,48" name="bottom" type="container">
+		<Widget frame="1,0,26,23" item_height="30" item_width="30" name="trashcan" preset="v4_inv_trashcan" type="itemview">
+		</Widget>
+		<Widget font="v3_money" frame="153,0,226,24" halign="right" name="money" padding="5,0" preset="v4_staticbox" text_offset="5,0" type="static" valign="middle">
+		</Widget>
+		<Widget frame="154,1,24,22" item_height="17" item_width="21" name="money_item" preset="v4_gold" type="itemview">
+		</Widget>
+		<Widget frame="30,28,61,18" halign="left" name="slot_count" type="static">
+		</Widget>
+		<Widget cell_padding="1" frame="7,26,21,21" item_height="21" item_width="21" name="inv_temp" preset="v4_inv_tempslot" type="itemview">
+		</Widget>
+		<Widget frame="380,2,21,21" name="sort" preset="v4_inv_sort" tooltip="STR_INVENTORY_DIALOG__TOOLTIP_AUTO_SORT" type="button">
+		</Widget>
+		<Widget frame="130,1,22,22" name="inv_to_toypet" preset="v4_toypet_inventory" tooltip="STR_TOYPET_DIALOG__WAREHOUSE_BUTTON" type="button">
+		</Widget>
+		<Widget frame="106,1,22,22" name="inv_to_coin" preset="v4_inv_extra" tooltip="STR_INVENTORY_DIALOG_TOOLTIP_EXTRA_INVENTORY" type="button">
+		</Widget>
+		<Widget font="ui_default" frame="152,23,248,24" halign="center" name="spinel_back" padding="2,0" preset="v4_staticbox" type="static" v_pos_align="bottom">
+			<Skin name="shop_money_bg">
+			</Skin>
+		</Widget>
+		<Widget defbutton="False" font="ui_default" frame="379,25,21,21" name="charge_btn" preset="shop_charge_btn" type="button" v_pos_align="bottom" valign="middle">
+		</Widget>
+		<Widget font="v3_money" frame="153,23,222,24" halign="right" name="my_money" type="static" v_pos_align="bottom" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget frame="-2,26,7,4" type="image">
+		<Skin name="v4_inv_tab_line_left">
+		</Skin>
+	</Widget>
+	<Widget frame="395,26,7,4" name="tabline" type="image">
+		<Skin name="v4_inv_tab_line_right">
+		</Skin>
+	</Widget>
+	<Widget font="ui_default" frame="447,55,388,44" name="extend" preset="inventory_lock" type="button">
+	</Widget>
+	<Widget frame="448,102,388,44" name="extend_lock1" type="image">
+		<Skin name="inventory_lock_disable">
+		</Skin>
+	</Widget>
+	<Widget frame="448,147,388,44" name="extend_lock2" type="image">
+		<Skin name="inventory_lock_disable">
+		</Skin>
+	</Widget>
+</Dialog>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="left" close_offset="5,7" flag="title;close" frame="20,145,506,512" last_modified="24.03.2023 22:00:17" name="guild_info_dialog" preset="v4_dialog" title_align="center" title_frame="3,3,457,14" title_offset="0,5" title_text="STR_DLG_GUILD_INFO" type="dlg_guild_info">
+	<Widget frame="0,9,500,229" preset="v4_dialog_box" type="container">
+		<Widget frame="6,75,488,125" preset="v4_container" type="image">
+		</Widget>
+		<Widget flag="not_visible" frame="10,85,479,109" repeat_type="repeat_y" type="image">
+			<Skin name="v4_row_line_22">
+			</Skin>
+		</Widget>
+		<Widget frame="7,7,64,64" name="guild_emblem" type="image">
+		</Widget>
+		<Widget flag="transparent" frame="158,83,200,18" name="guild_disperse" type="static">
+		</Widget>
+		<Widget frame="292,8,190,20" halign="center" name="guild_name" preset="v4_staticbox" type="static">
+		</Widget>
+		<Widget frame="163,8,106,20" halign="center" name="guild_level" preset="v4_staticbox" type="static">
+		</Widget>
+		<Widget frame="163,29,106,20" halign="center" name="guild_order" preset="v4_staticbox" type="static">
+		</Widget>
+		<Widget flag="transparent" frame="92,50,63,20" text="STR_DLG_GUILD_INFO__WIDGET3" type="static">
+		</Widget>
+		<Widget flag="transparent" frame="92,29,63,20" text="STR_DLG_GUILD_INFO__WIDGET4" type="static">
+		</Widget>
+		<Widget flag="transparent" frame="13,83,144,18" text="STR_DLG_GUILD_INFO__WIDGET10" type="static">
+		</Widget>
+		<Widget flag="transparent" frame="92,8,63,20" text="STR_DLG_GUILD_INFO__LEVEL" type="static">
+		</Widget>
+		<Widget flag="multiline;wordwrap;active;vscroll" frame="13,107,476,86" name="guild_notice" padding="5,5" type="static" valign="top">
+		</Widget>
+		<Widget frame="364,77,128,26" name="button_notice" preset="v4_button" text="STR_DLG_GUILD_INFO__NOTICE_WRITE" type="button">
+		</Widget>
+		<Widget frame="163,50,319,20" halign="center" name="guild_member_count" preset="v4_staticbox" type="static">
+		</Widget>
+		<Widget flag="transparent" frame="292,29,53,20" text="STR_DLG_GUILD_INFO__WIDGET5" type="static">
+		</Widget>
+		<Widget frame="344,29,138,20" halign="center" name="guild_point" preset="v4_staticbox" type="static">
+		</Widget>
+	</Widget>
+	<Widget frame="0,214,500,278" h_pos_align="proportion" name="guild_tabframe" type="tabsheet" v_pos_align="proportion">
+		<Widget frame="0,0,500,25" h_pos_align="proportion" preset="v4_tab" tab_frame="0,0,465,25" tab_offset="4,0" tab_space="0" type="tab">
+			<Widget frame="3,0,80,25" name="guild_tab_member" preset="v4_tab_button" text="STR_DLG_GUILD_INFO__GUILD_TABFRAME_GUILD_TAB_MEMBER" type="tabbutton">
+			</Widget>
+			<Widget frame="83,0,80,25" name="guild_tab_history" preset="v4_tab_button" text="STR_DLG_GUILD_INFO__GUILD_TABFRAME_GUILD_TAB_HISTORY" type="tabbutton">
+			</Widget>
+			<Widget frame="163,0,80,25" name="guild_tab_reward" preset="v4_tab_button" text="STR_GUILD_INFO_DIALOG__GUILD_TABFRAME_GUILD_TAB_REWARD" type="tabbutton">
+			</Widget>
+		</Widget>
+		<Widget frame="0,24,500,254" h_pos_align="proportion" name="guild_page_member" preset="v4_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget column_heading="True" flag="truncate;vscroll" frame="6,4,490,218" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="member_list" preset="v4_listview_ex" scroll_type="visible" type="listviewex">
+				<Column align="left" img_width="" sort="text" title="STR_DLG_GUILD_INFO__COLUMN_HEAD_NAME" width="109">
+				</Column>
+				<Column align="center" sort="number" title="STR_DLG_GUILD_INFO__COLUMN_HEAD_LEVEL" width="50">
+				</Column>
+				<Column align="center" sort="text" title="STR_DLG_GUILD_INFO__COLUMN_HEAD_CLASS" width="83">
+				</Column>
+				<Column align="center" sort="param" title="STR_DLG_GUILD_INFO__COLUMN_HEAD_TITLE" width="95">
+				</Column>
+				<Column align="center" img_width="112" sort="text" title="STR_DLG_GUILD_INFO__COLUMN_HEAD_POS" width="112">
+				</Column>
+				<Column align="center" sort="text" title="STR_DLG_GUILD_INFO__COLUMN_HEAD_NICKNAME" width="103">
+				</Column>
+				<Column align="center" sort="none" title="STR_DLG_GUILD_INFO__COLUMN_HEAD_WORDS" width="143">
+				</Column>
+				<Column align="center" img_width="99" sort="param" title="STR_DLG_GUILD_INFO__COLUMN_HEAD_LOGIN" width="99">
+				</Column>
+			</Widget>
+			<Widget frame="453,7,22,25" name="button_toggle_page" preset="v4_extra_col" type="button">
+			</Widget>
+			<Widget frame="4,231,363,19" halign="left" name="button_show_offline" preset="v4_check" style="checkbox" text="STR_DLG_GUILD_INFO__BUTTON_SHOW_OFFLINE" text_offset="5,0" type="button">
+			</Widget>
+		</Widget>
+		<Widget frame="0,24,500,254" h_pos_align="proportion" name="guild_page_history" preset="v4_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget column_heading="True" flag="truncate;" frame="3,5,493,197" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="history_list" preset="v4_listview_ex" type="listviewex">
+				<Column align="left" img_width="" sort="none" title="STR_GUILD_INFO_DIALOG__HISTORY_COL_DATE" width="100">
+				</Column>
+				<Column align="left" sort="none" title="STR_GUILD_INFO_DIALOG__HISTORY_COL_EVENT" width="393">
+				</Column>
+			</Widget>
+			<Widget frame="304,203,21,22" name="last_page_btn" preset="v4_last_page" type="button">
+			</Widget>
+			<Widget frame="282,203,21,22" name="next_page_btn" preset="v4_next_page" type="button">
+			</Widget>
+			<Widget frame="219,206,62,16" halign="center" name="list_page" type="static">
+			</Widget>
+			<Widget frame="197,203,21,22" name="prev_page_btn" preset="v4_prev_page" type="button">
+			</Widget>
+			<Widget frame="175,203,21,22" name="first_page_btn" preset="v4_first_page" type="button">
+			</Widget>
+		</Widget>
+		<Widget frame="0,24,500,254" h_pos_align="proportion" name="guild_page_reward" preset="v4_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget column_heading="True" flag="truncate;" frame="3,5,493,197" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="reward_list" preset="v4_listview_ex" type="listviewex">
+				<Column align="left" img_width="" sort="none" title="STR_GUILD_INFO_DIALOG__REWARD_COL_DATE" width="100">
+				</Column>
+				<Column align="center" img_width="" sort="none" title="STR_GUILD_INFO_DIALOG__REWARD_COL_FORTRESS" width="150">
+				</Column>
+				<Column align="center" img_width="" sort="none" title="STR_GUILD_INFO_DIALOG__REWARD_COL_TYPE" width="110">
+				</Column>
+				<Column align="right" img_width="" sort="none" title="STR_GUILD_INFO_DIALOG__REWARD_COL_GOLD" width="130">
+				</Column>
+			</Widget>
+			<Widget frame="304,203,21,22" name="reward_last_page_btn" preset="v4_last_page" type="button">
+			</Widget>
+			<Widget frame="282,203,21,22" name="reward_next_page_btn" preset="v4_next_page" type="button">
+			</Widget>
+			<Widget frame="219,206,62,16" halign="center" name="reward_list_page" type="static">
+			</Widget>
+			<Widget frame="197,203,21,22" name="reward_prev_page_btn" preset="v4_prev_page" type="button">
+			</Widget>
+			<Widget frame="175,203,21,22" name="reward_first_page_btn" preset="v4_first_page" type="button">
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget frame="331,216,166,19" halign="right" name="button_menu" preset="v4_button_next_page" style="checkbox" text="STR_DLG_GUILD_INFO__GUILD_MENU" text_offset="5,0" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget frame="392,466,108,26" name="cancel" preset="v4_button" text="STR_DLG_DIALOG__CLOSE" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

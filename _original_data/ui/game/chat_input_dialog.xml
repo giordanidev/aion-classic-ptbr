@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog frame="0,873,394,30" last_modified="2020-09-07 20:08:54" name="chat_input_dialog" preset="v4_chat_write_frame" type="dlg_chat_input" ui_mode="housing;toypet">
+	<Widget frame="368,4,20,20" h_pos_align="right" name="chat_ime" preset="v4_chat_language" type="button" v_pos_align="top">
+	</Widget>
+	<Widget frame="4,3,27,24" h_pos_align="left" name="chat_whisper" preset="v4_chat_menu" type="button">
+	</Widget>
+	<Widget frame="41,2,316,27" h_pos_align="proportion" type="container" v_pos_align="top">
+		<Widget font="v3_chatinput" frame="2,2,109,19" h_pos_align="left" name="prompt" type="static" v_pos_align="top" valign="middle">
+		</Widget>
+		<Widget defbutton="true" font="v3_chatinput" frame="2,2,312,19" h_padding="2" h_pos_align="proportion" name="chat_input" type="editbox" v_align="middle" v_padding="3" v_pos_align="top">
+		</Widget>
+	</Widget>
+</Dialog>

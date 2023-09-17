@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Preload last_modified="2021-01-14 10:25:35" name="Yeti">
+	<Category name="emblem">
+		<Skin name="emblem_Job_warrior" src_image="0,0,256,256" texture="textures/ui/job_image/emblem_job_warrior">
+		</Skin>
+		<Skin name="emblem_Job_fighter" src_image="0,0,256,256" texture="textures/ui/job_image/emblem_job_fighter">
+		</Skin>
+		<Skin name="emblem_Job_knight" src_image="0,0,256,256" texture="textures/ui/job_image/emblem_job_knight">
+		</Skin>
+		<Skin name="emblem_Job_scout" src_image="0,0,256,256" texture="textures/ui/job_image/emblem_job_scout">
+		</Skin>
+		<Skin name="emblem_Job_assassin" src_image="0,0,256,256" texture="textures/ui/job_image/emblem_job_assassin">
+		</Skin>
+		<Skin name="emblem_Job_ranger" src_image="0,0,256,256" texture="textures/ui/job_image/emblem_job_ranger">
+		</Skin>
+		<Skin name="emblem_Job_mage" src_image="0,0,256,256" texture="textures/ui/job_image/emblem_job_mage">
+		</Skin>
+		<Skin name="emblem_Job_wizard" src_image="0,0,256,256" texture="textures/ui/job_image/emblem_job_wizard">
+		</Skin>
+		<Skin name="emblem_Job_elementalist" src_image="0,0,256,256" texture="textures/ui/job_image/emblem_job_elementalist">
+		</Skin>
+		<Skin name="emblem_Job_cleric" src_image="0,0,256,256" texture="textures/ui/job_image/emblem_job_cleric">
+		</Skin>
+		<Skin name="emblem_Job_priest" src_image="0,0,256,256" texture="textures/ui/job_image/emblem_job_priest">
+		</Skin>
+		<Skin name="emblem_Job_chanter" src_image="0,0,256,256" texture="textures/ui/job_image/emblem_job_chanter">
+		</Skin>
+		<Skin name="emblem_Job_engineer" src_image="0,0,256,256" texture="textures/ui/job_image/emblem_job_engineer">
+		</Skin>
+		<Skin name="emblem_Job_rider" src_image="0,0,256,256" texture="textures/ui/job_image/emblem_job_rider">
+		</Skin>
+		<Skin name="emblem_Job_gunner" src_image="0,0,256,256" texture="textures/ui/job_image/emblem_job_gunner">
+		</Skin>
+		<Skin name="emblem_Job_artist" src_image="0,0,256,256" texture="textures/ui/job_image/emblem_job_artist">
+		</Skin>
+		<Skin name="emblem_Job_bard" src_image="0,0,256,256" texture="textures/ui/job_image/emblem_job_bard">
+		</Skin>
+		<Skin name="emblem_Job_painter" src_image="0,0,256,256" texture="textures/ui/job_image/emblem_job_painter">
+		</Skin>
+		<Preset name="Yeti_job_image" type="static">
+			<SkinRef name="emblem_Job_warrior" state="0">
+			</SkinRef>
+			<SkinRef name="emblem_Job_fighter" state="1">
+			</SkinRef>
+			<SkinRef name="emblem_Job_knight" state="2">
+			</SkinRef>
+			<SkinRef name="emblem_Job_scout" state="3">
+			</SkinRef>
+			<SkinRef name="emblem_Job_assassin" state="4">
+			</SkinRef>
+			<SkinRef name="emblem_Job_ranger" state="5">
+			</SkinRef>
+			<SkinRef name="emblem_Job_mage" state="6">
+			</SkinRef>
+			<SkinRef name="emblem_Job_wizard" state="7">
+			</SkinRef>
+			<SkinRef name="emblem_Job_elementalist" state="8">
+			</SkinRef>
+			<SkinRef name="emblem_Job_cleric" state="9">
+			</SkinRef>
+			<SkinRef name="emblem_Job_priest" state="10">
+			</SkinRef>
+			<SkinRef name="emblem_Job_chanter" state="11">
+			</SkinRef>
+			<SkinRef name="emblem_Job_engineer" state="12">
+			</SkinRef>
+			<SkinRef name="emblem_Job_rider" state="13">
+			</SkinRef>
+			<SkinRef name="emblem_Job_gunner" state="14">
+			</SkinRef>
+			<SkinRef name="emblem_Job_artist" state="15">
+			</SkinRef>
+			<SkinRef name="emblem_Job_bard" state="16">
+			</SkinRef>
+			<SkinRef name="emblem_Job_painter" state="17">
+			</SkinRef>
+		</Preset>
+	</Category>
+	<Preset name="Yeti_shotcut_btn" type="button">
+		<SkinRef main_state="0" name="Yeti_shotcut_btn_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="Yeti_shotcut_btn_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="Yeti_shotcut_btn_down" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="Yeti_shotcut_btn_up" src_image="307,59,41,45" texture="textures/ui/v4_common_1" type="single">
+	</Skin>
+	<Skin name="Yeti_shotcut_btn_over" src_image="307,105,41,45" texture="textures/ui/v4_common_1" type="single">
+	</Skin>
+	<Skin name="Yeti_shotcut_btn_down" src_image="307,151,41,45" texture="textures/ui/v4_common_1" type="single">
+	</Skin>
+	<Preset name="Yeti_off_btn" type="button">
+		<SkinRef main_state="0" name="Yeti_off_btn_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="Yeti_off_btn_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="Yeti_off_btn_down" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="Yeti_off_btn_up" src_image="3,735,98,98" texture="Textures/UI/yeti" type="single">
+	</Skin>
+	<Skin name="Yeti_off_btn_over" src_image="105,735,98,98" texture="Textures/UI/yeti" type="single">
+	</Skin>
+	<Skin name="Yeti_off_btn_down" src_image="3,835,98,98" texture="Textures/UI/yeti" type="single">
+	</Skin>
+	<Preset name="Yeti_setting_auto_btn" type="button">
+		<SkinRef main_state="0" name="Yeti_setting_auto_btn_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="Yeti_setting_auto_btn_up" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="Yeti_setting_auto_btn_down" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="Yeti_setting_auto_btn_up" src_image="3,330,108,108" texture="Textures/UI/yeti" type="single">
+	</Skin>
+	<Skin name="Yeti_setting_auto_btn_over" src_image="114,513,108,108" texture="Textures/UI/yeti" type="single">
+	</Skin>
+	<Skin name="Yeti_setting_auto_btn_down" src_image="114,330,108,108" texture="Textures/UI/yeti" type="single">
+	</Skin>
+	<Preset name="Yeti_auto_btn" type="button">
+		<SkinRef main_state="0" name="Yeti_auto_btn_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="Yeti_auto_btn_up" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="Yeti_auto_btn_down" sub_state="down">
+		</SkinRef>
+		<SkinRef main_state="1" name="Yeti_auto_on_btn_over" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="1" name="Yeti_auto_on_btn_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="1" name="Yeti_auto_on_btn_down" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="Yeti_auto_on_btn_up" src_image="269,331,108,108" texture="Textures/UI/yeti" type="single">
+	</Skin>
+	<Skin name="Yeti_auto_on_btn_over" src_image="269,442,108,108" texture="Textures/UI/yeti" type="single">
+	</Skin>
+	<Skin name="Yeti_auto_on_btn_down" src_image="380,333,108,108" texture="Textures/UI/yeti" type="single">
+	</Skin>
+	<Skin name="Yeti_auto_btn_up" src_image="114,219,108,108" texture="Textures/UI/yeti" type="single">
+	</Skin>
+	<Skin name="Yeti_auto_btn_over" src_image="380,443,108,108" texture="Textures/UI/yeti" type="single">
+	</Skin>
+	<Skin name="Yeti_auto_btn_down" src_image="337,114,108,108" texture="Textures/UI/yeti" type="single">
+	</Skin>
+	<Preset name="Yeti_reset_btn" type="button">
+		<SkinRef main_state="0" name="Yeti_reset_btn_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="Yeti_reset_btn_up" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="Yeti_reset_btn_down" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="Yeti_reset_btn_up" src_image="3,219,108,108" texture="Textures/UI/yeti" type="single">
+	</Skin>
+	<Skin name="Yeti_reset_btn_over" src_image="3,624,108,108" texture="Textures/UI/yeti" type="single">
+	</Skin>
+	<Skin name="Yeti_reset_btn_down" src_image="226,219,108,108" texture="Textures/UI/yeti" type="single">
+	</Skin>
+	<Preset name="Yeti_180_btn" type="button">
+		<SkinRef main_state="0" name="Yeti_180_btn_dimmed" sub_state="disable">
+		</SkinRef>
+		<SkinRef main_state="0" name="Yeti_180_btn_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="Yeti_180_btn_up" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="Yeti_180_btn_down" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="Yeti_180_btn_dimmed" src_image="225,553,108,108" texture="Textures/UI/yeti" type="single">
+	</Skin>
+	<Skin name="Yeti_180_btn_up" src_image="114,108,108,108" texture="Textures/UI/yeti" type="single">
+	</Skin>
+	<Skin name="Yeti_180_btn_over" src_image="114,624,108,108" texture="Textures/UI/yeti" type="single">
+	</Skin>
+	<Skin name="Yeti_180_btn_down" src_image="337,3,108,108" texture="Textures/UI/yeti" type="single">
+	</Skin>
+	<Preset name="Yeti_return_btn" type="button">
+		<SkinRef main_state="0" name="Yeti_return_btn_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="Yeti_return_btn_up" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="Yeti_return_btn_down" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="Yeti_return_btn_up" src_image="3,108,108,108" texture="Textures/UI/yeti" type="single">
+	</Skin>
+	<Skin name="Yeti_return_btn_over" src_image="3,513,108,108" texture="Textures/UI/yeti" type="single">
+	</Skin>
+	<Skin name="Yeti_return_btn_down" src_image="226,108,108,108" texture="Textures/UI/yeti" type="single">
+	</Skin>
+	<Skin name="Yeti_gauge_red" src_image="4,480,6,6" texture="textures/ui/yeti">
+	</Skin>
+	<Skin name="Yeti_gauge_blue" src_image="4,491,6,6" texture="textures/ui/yeti">
+	</Skin>
+	<Skin name="Yeti_gauge_green" src_image="137,480,6,6" texture="textures/ui/yeti">
+	</Skin>
+	<Skin name="Yeti_gauge_abnormal" src_image="137,469,6,6" texture="textures/ui/yeti">
+	</Skin>
+	<Skin name="Yeti_gauge_yel" src_image="4,502,6,6" texture="textures/ui/yeti">
+	</Skin>
+	<Skin name="Yeti_gauge_bg" src_image="133,443,131,8" texture="textures/ui/yeti" type="single">
+	</Skin>
+	<Preset name="Yeti_bar_hp_gauge" type="gauge">
+		<SkinRef main_state="0" name="Yeti_gauge_bg" sub_state="bg">
+		</SkinRef>
+		<SkinRef main_state="0" name="Yeti_gauge_red" sub_state="gauge">
+		</SkinRef>
+		<SkinRef main_state="1" name="Yeti_gauge_bg" sub_state="bg">
+		</SkinRef>
+		<SkinRef main_state="1" name="Yeti_gauge_abnormal" sub_state="gauge">
+		</SkinRef>
+	</Preset>
+	<Preset name="Yeti_bar_mp_gauge" type="gauge">
+		<SkinRef main_state="0" name="Yeti_gauge_bg" sub_state="bg">
+		</SkinRef>
+		<SkinRef main_state="0" name="Yeti_gauge_blue" sub_state="gauge">
+		</SkinRef>
+	</Preset>
+	<Preset name="Yeti_bar_dp_gauge" type="gauge">
+		<SkinRef main_state="0" name="Yeti_gauge_bg" sub_state="bg">
+		</SkinRef>
+		<SkinRef main_state="0" name="Yeti_gauge_green" sub_state="gauge">
+		</SkinRef>
+		<SkinRef main_state="1" name="Yeti_gauge_yel" sub_state="gauge">
+		</SkinRef>
+		<SkinRef main_state="2" name="Yeti_gauge_yel" sub_state="gauge">
+		</SkinRef>
+	</Preset>
+	<Preset name="Yeti_exp_detail_gauge" type="gauge">
+		<SkinRef main_state="0" name="Yeti_exp_bar" sub_state="gauge">
+		</SkinRef>
+		<SkinRef main_state="1" name="Yeti_exp_bar" sub_state="gauge">
+		</SkinRef>
+		<SkinRef main_state="2" name="Yeti_exp_bar" sub_state="gauge">
+		</SkinRef>
+		<SkinRef main_state="3" name="Yeti_exp_bar" sub_state="gauge">
+		</SkinRef>
+		<SkinRef main_state="4" name="Yeti_exp_bar" sub_state="gauge">
+		</SkinRef>
+		<SkinRef main_state="5" name="Yeti_exp_bar" sub_state="gauge">
+		</SkinRef>
+		<SkinRef main_state="6" name="Yeti_exp_bar" sub_state="gauge">
+		</SkinRef>
+		<SkinRef main_state="7" name="Yeti_exp_bar" sub_state="gauge">
+		</SkinRef>
+		<SkinRef main_state="8" name="Yeti_exp_bar" sub_state="gauge">
+		</SkinRef>
+		<SkinRef main_state="9" name="Yeti_exp_bar" sub_state="gauge">
+		</SkinRef>
+	</Preset>
+	<Preset name="Yeti_exp_temp_gauge" type="gauge">
+		<SkinRef main_state="0" name="Yeti_exp_bar_temp" sub_state="gauge">
+		</SkinRef>
+		<SkinRef main_state="1" name="Yeti_exp_bar_temp" sub_state="gauge">
+		</SkinRef>
+		<SkinRef main_state="2" name="Yeti_exp_bar_temp" sub_state="gauge">
+		</SkinRef>
+		<SkinRef main_state="3" name="Yeti_exp_bar_temp" sub_state="gauge">
+		</SkinRef>
+		<SkinRef main_state="4" name="Yeti_exp_bar_temp" sub_state="gauge">
+		</SkinRef>
+		<SkinRef main_state="5" name="Yeti_exp_bar_temp" sub_state="gauge">
+		</SkinRef>
+		<SkinRef main_state="6" name="Yeti_exp_bar_temp" sub_state="gauge">
+		</SkinRef>
+		<SkinRef main_state="7" name="Yeti_exp_bar_temp" sub_state="gauge">
+		</SkinRef>
+		<SkinRef main_state="8" name="Yeti_exp_bar_temp" sub_state="gauge">
+		</SkinRef>
+		<SkinRef main_state="9" name="Yeti_exp_bar_temp" sub_state="gauge">
+		</SkinRef>
+		<SkinRef main_state="0" name="Yeti_exp_bar_bg" sub_state="bg">
+		</SkinRef>
+		<SkinRef main_state="1" name="Yeti_exp_bar_bg" sub_state="bg">
+		</SkinRef>
+		<SkinRef main_state="2" name="Yeti_exp_bar_bg" sub_state="bg">
+		</SkinRef>
+		<SkinRef main_state="3" name="Yeti_exp_bar_bg" sub_state="bg">
+		</SkinRef>
+		<SkinRef main_state="4" name="Yeti_exp_bar_bg" sub_state="bg">
+		</SkinRef>
+		<SkinRef main_state="5" name="Yeti_exp_bar_bg" sub_state="bg">
+		</SkinRef>
+		<SkinRef main_state="6" name="Yeti_exp_bar_bg" sub_state="bg">
+		</SkinRef>
+		<SkinRef main_state="7" name="Yeti_exp_bar_bg" sub_state="bg">
+		</SkinRef>
+		<SkinRef main_state="8" name="Yeti_exp_bar_bg" sub_state="bg">
+		</SkinRef>
+		<SkinRef main_state="9" name="Yeti_exp_bar_bg" sub_state="bg">
+		</SkinRef>
+	</Preset>
+	<Skin name="Yeti_exp_bar_temp" src_image="136,493,122,16" texture="textures/ui/yeti">
+	</Skin>
+	<Skin name="Yeti_exp_bar" src_image="3,459,122,16" texture="textures/ui/yeti">
+	</Skin>
+	<Skin name="Yeti_exp_bar_bg" src_image="3,441,122,16" texture="textures/ui/yeti">
+	</Skin>
+	<Preset name="Yeti_Quest_scroll_minus" type="button">
+		<SkinRef main_state="0" name="Yeti_Quest_scroll_minus_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="Yeti_Quest_scroll_minus_up" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="Yeti_Quest_scroll_minus_up" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Preset name="Yeti_Quest_scroll_plus" type="button">
+		<SkinRef main_state="0" name="Yeti_Quest_scroll_plus_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="Yeti_Quest_scroll_plus_up" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="Yeti_Quest_scroll_plus_up" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Preset name="Yeti_Quest_scroll_slider" type="scrollbar">
+		<SkinRef name="Yeti_Quest_scroll_slider_up" state="up">
+		</SkinRef>
+		<SkinRef name="Yeti_Quest_scroll_slider_up" state="over">
+		</SkinRef>
+		<SkinRef name="Yeti_Quest_scroll_slider_up" state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="Yeti_Quest_scroll_minus_up" src_image="248,334,16,11" texture="textures/ui/yeti">
+	</Skin>
+	<Skin name="Yeti_Quest_scroll_plus_up" src_image="248,423,16,11" texture="textures/ui/yeti">
+	</Skin>
+	<Skin name="Yeti_Quest_scroll_slider_up" size_middle_bottom="0,8" size_middle_middle="0,0" size_middle_top="0,8" src_middle_bottom="248,412,16,8" src_middle_middle="248,379,16,7" src_middle_top="248,347,16,8" texture="textures/ui/yeti" type="tiled">
+	</Skin>
+	<Skin name="Yeti_Quest_scroll_slider_bg" size_middle_bottom="0,29" size_middle_middle="0,0" size_middle_top="0,29" src_middle_bottom="226,409,19,29" src_middle_middle="226,359,19,50" src_middle_top="226,330,19,29" texture="textures/ui/yeti" type="tiled">
+	</Skin>
+	<Skin name="Yeti_Quest_frame" size_left_bottom="30,30" size_left_middle="30,0" size_left_top="30,40" size_middle_bottom="0,30" size_middle_middle="0,0" size_middle_top="0,40" size_right_bottom="30,30" size_right_middle="30,0" size_right_top="30,40" src_image="653,166,652,441" src_left_bottom="337,295,30,30" src_left_middle="337,255,30,40" src_left_top="337,225,30,30" src_middle_bottom="367,295,40,30" src_middle_middle="367,255,40,40" src_middle_top="367,225,40,30" src_right_bottom="407,295,30,30" src_right_middle="407,255,30,40" src_right_top="407,225,30,30" texture="textures/ui/yeti" type="tiled">
+	</Skin>
+	<Preset name="Yeti_Quest_frame" type="window">
+		<SkinRef name="Yeti_Quest_frame" state="frame">
+		</SkinRef>
+	</Preset>
+	<Preset name="Yeti_Quest_open_btn" type="button">
+		<SkinRef main_state="0" name="Yeti_Quest_open_btn_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="Yeti_Quest_open_btn_up" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="Yeti_Quest_open_btn_up" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="Yeti_Quest_open_btn_up" src_image="442,227,53,103" texture="Textures/UI/yeti" type="single">
+	</Skin>
+	<Preset name="Yeti_Quest_close_btn" type="button">
+		<SkinRef main_state="0" name="Yeti_Quest_close_btn_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="Yeti_Quest_close_btn_up" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="Yeti_Quest_close_btn_up" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="Yeti_Quest_close_btn_up" src_image="447,122,53,103" texture="Textures/UI/yeti" type="single">
+	</Skin>
+	<Preset name="Yeti_buff_btn" type="button">
+		<SkinRef main_state="0" name="Yeti_buff_btn_up" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="Yeti_buff_btn_over" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="Yeti_buff_btn_down" sub_state="down">
+		</SkinRef>
+		<SkinRef main_state="1" name="Yeti_buff_btn_down" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="1" name="Yeti_buff_btn_down" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="1" name="Yeti_buff_btn_down" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Skin name="Yeti_buff_btn_up" src_image="3,3,124,102" texture="Textures/UI/yeti" type="single">
+	</Skin>
+	<Skin name="Yeti_buff_btn_over" src_image="337,554,124,102" texture="Textures/UI/yeti" type="single">
+	</Skin>
+	<Skin name="Yeti_buff_btn_down" src_image="131,3,124,102" texture="Textures/UI/yeti" type="single">
+	</Skin>
+</Preload>

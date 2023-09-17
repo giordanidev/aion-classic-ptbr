@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="not_active;transparent;not_movable" frame="0,2,128,120" h_pos_align="proportion" last_modified="2021-01-08 17:59:35" name="buff_info_yeti" quad_offset="0,0" type="dlg_buff_info_yeti" v_pos_align="top">
+	<Widget flag="visible" frame="2,2,124,102" name="buff_info" preset="Yeti_buff_btn" type="button">
+	</Widget>
+	<Widget font_size="24" frame="74,76,40,30" halign="right" name="buff_count" text_color="1.0,1.0,1.0,1.0" text_shade="True" type="static">
+	</Widget>
+</Dialog>

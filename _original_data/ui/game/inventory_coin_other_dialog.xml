@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" flag="close;title" frame="0,0,300,335" last_modified="2022-05-18 13:16:27" name="inventory_coin_other_dialog" preset="v4_dialog" title_frame="3,3,290,14" title_height="25" title_offset="0,5" title_text="STR_INVENTORY_DIALOG_EXTRA_INVENTORY" type="dlg_inventory_coin_other">
+	<Widget cell_padding="2" cell_space="-1, 0" flag="vscroll" frame="5,2,286,270" item_height="44" item_width="44" list_padding="3, 3" name="list" one_click_action="False" preset="v4_listview_frame" reserve_slots="False" scroll_type="visible" skin_type="version4" slot_num="42" type="listview" v_pos_align="top" viewmode="icon">
+	</Widget>
+	<Widget frame="0,273,290,29" name="bottom" type="container" v_pos_align="bottom">
+		<Widget cell_padding="1" frame="3,2,21,21" item_height="21" item_width="21" name="inv_temp" preset="v4_inv_tempslot" type="itemview">
+		</Widget>
+		<Widget frame="266,3,21,21" name="sort" preset="v4_inv_sort" tooltip="STR_INVENTORY_DIALOG__TOOLTIP_AUTO_SORT" type="button">
+		</Widget>
+		<Widget font="ui_default" frame="29,4,61,18" halign="left" name="slot_count" type="static">
+		</Widget>
+	</Widget>
+</Dialog>

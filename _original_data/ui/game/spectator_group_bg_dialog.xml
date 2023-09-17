@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="transparent;not_active;not_movable" frame="0,0,431,416" last_modified="2021-12-15 15:07:46" name="spectator_group_bg_dialog" title_frame="3,3,398,14" title_offset="9,1" type="dlg_spectator_group_bg" ui_mode="spectator">
+	<Widget frame="0,0,431,416" h_pos_align="proportion" name="bg_image" preset="v4_spectator_group_bg" type="image" v_pos_align="proportion">
+	</Widget>
+	<Widget font_size="15" frame="23,4,385,26" halign="center" name="group_name" text="test" type="static">
+	</Widget>
+	<Widget font="ui_default" frame="410,195,13,27" h_pos_align="right" name="fold_button" preset="v5_spectator_fold_btn" type="button" v_pos_align="middle">
+	</Widget>
+	<Widget frame="0,0,431,416" name="expand_cnt" type="container">
+	</Widget>
+</Dialog>

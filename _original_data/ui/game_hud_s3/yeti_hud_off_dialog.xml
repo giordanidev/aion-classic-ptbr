@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="not_movable;visible" frame="0,0,116,100" h_pos_align="center" last_modified="2021-01-13 15:51:44" name="yeti_hud_off_dialog" title_frame="3,3,398,14" type="dlg_yeti_hud_off" v_pos_align="bottom">
+	<Widget frame="0,0,98,98" h_pos_align="left" name="btn_yeti_off" preset="Yeti_off_btn" type="button">
+	</Widget>
+</Dialog>

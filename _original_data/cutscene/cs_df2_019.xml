@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="P01">To begin the flight skills test, fly through the ring just above me.</Text>
+	<Text label="P02">The number of lights at the top of each ring tells you the order in which to go through them.</Text>
+	<Text label="P03">To pass the test, fly through all six rings in the correct order, then return to me before the time has elapsed.</Text>
+</CutSceneText>

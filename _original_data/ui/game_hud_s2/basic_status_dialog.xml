@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="not_movable;visible" frame="4,5,344,78" h_pos_align="left" last_modified="2020-09-07 20:10:18" name="basic_status_dialog" preset="v4_hud_char_s2" type="dlg_basic_status" v_pos_align="top">
+	<Widget frame="28,24,40,40" name="emblem" type="image">
+	</Widget>
+	<Widget font="v3_level" frame="3,31,24,24" halign="center" name="level" text_shade="False" type="static" valign="middle">
+	</Widget>
+	<Widget align="left" font="button" frame="126,19,179,13" gauge_adjust="0,0" name="hp_gauge_bg" preset="v4_hp_gauge_bg" skin_extend="False" stage="2" state_depended="True" type="gauge">
+	</Widget>
+	<Widget align="left" font="button" frame="126,19,179,13" gauge_adjust="0,0" name="hp_gauge" preset="v4_hp_gauge" skin_extend="False" stage="2" state_depended="True" type="gauge">
+	</Widget>
+	<Widget align="left" font="button" frame="126,37,179,13" gauge_adjust="0,0" name="mp_gauge_bg" preset="v4_mp_gauge_bg" skin_extend="False" type="gauge">
+	</Widget>
+	<Widget align="left" font="button" frame="126,37,179,13" gauge_adjust="0,0" name="mp_gauge" preset="v4_mp_gauge" skin_extend="False" type="gauge">
+	</Widget>
+	<Widget align="left" font="button" frame="126,55,179,13" gauge_adjust="0,0" name="dp_gauge_1" skin_extend="False" type="gauge">
+		<Skin main_state="0" name="v4_gauge_green" sub_state="gauge">
+		</Skin>
+	</Widget>
+	<Widget align="left" font="button" frame="126,55,179,13" gauge_adjust="0,0" name="dp_gauge_2" skin_extend="False" type="gauge">
+		<Skin main_state="0" name="v4_gauge_yel" sub_state="gauge">
+		</Skin>
+	</Widget>
+	<Widget align="left" font="button" frame="126,55,179,13" gauge_adjust="0,0" name="dp_gauge_3" skin_extend="False" type="gauge">
+		<Skin main_state="0" name="v4_gauge_orange" sub_state="gauge">
+		</Skin>
+	</Widget>
+	<Widget align="left" font="button" frame="126,56,179,11" gauge_adjust="-1,-1" name="dp_gauge_text" skin_extend="False" type="gauge">
+	</Widget>
+	<Widget flag="not_visible" frame="37,2,21,14" name="leader_marker" type="image">
+		<Skin name="v4_force_leader" state="0">
+		</Skin>
+	</Widget>
+	<Widget flag="not_visible" frame="37,5,21,14" name="vice_leader_marker" type="image">
+		<Skin name="v4_force_viceleader" state="0">
+		</Skin>
+	</Widget>
+	<Widget frame="69,32,26,26" name="boost_marker" type="image">
+		<Skin name="v4_combat_marker">
+		</Skin>
+	</Widget>
+	<Widget frame="306,52,19,19" name="dp_level" type="image">
+		<Skin name="v4_dp_level_1" state="1">
+		</Skin>
+		<Skin name="v4_dp_level_2" state="2">
+		</Skin>
+		<Skin name="v4_dp_level_3" state="3">
+		</Skin>
+	</Widget>
+	<Widget frame="97,19,27,17" type="image">
+		<Skin name="v4_hud_hp_s2">
+		</Skin>
+	</Widget>
+	<Widget frame="97,37,27,17" type="image">
+		<Skin name="v4_hud_mp_s2">
+		</Skin>
+	</Widget>
+	<Widget frame="97,55,27,17" type="image">
+		<Skin name="v4_hud_dp_s2">
+		</Skin>
+	</Widget>
+</Dialog>

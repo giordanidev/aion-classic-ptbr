@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="Reahl00">Ah, greetings. You&apos;ve arrived at just the right time! Do you all know this Daeva? This is [%username]. He saved my life.</Text>
+	<Text label="KIHOK01">Of course, we know him. They also talk about him in the Red Flame Squad.</Text>
+	<Text label="Reahl01A">I&apos;ll get to the point, as we don&apos;t have much time.</Text>
+	<Text label="Reahl02">After analysing the information from the knights, it appears that we will soon be subject to a major attack by the Tursin Orcs.</Text>
+	<Text label="Reahl03">The Orcs&apos; attack target will be broad but detailed. So it won&apos;t be easy to stop them if we don&apos;t fight with all of our artillery.</Text>
+	<Text label="Reahl04">Today&apos;s meeting is about planning our defensive tactics against the Orcs as soon as possible so that we can keep any damage to a minimum.</Text>
+	<Text label="Hong05">The Orcs want to launch such a major attack? Do they even have enough armed forces? They will come across civilians who are transporting materials.</Text>
+	<Text label="Vellus06">Sadly, that&apos;s true. We have proof from the leaders that some Elyos are passing on military information to the Orcs.</Text>
+	<Text label="Hong07">You mean to say that our proud Tijerid soldiers have given information to the Orcs? Who was it?</Text>
+	<Text label="Reahl08">You probably know him pretty well. The turncoat Yurid Jeridis who recently tried to murder Elyos soldiers from Tijerid.</Text>
+	<Text label="ALL09">...</Text>
+	<Text label="Reahl10">I&apos;ll give you details of the operation plan now. This attack by the Orcs is clearly aimed at all areas of control in Tijerid.</Text>
+	<Text label="Reahl11">The frontal attackers will be warded off by the Order of Knights stationed in the town, and by Red Flame Squads 1 and 7 outside the masonry zone.</Text>
+	<Text label="ALL12">Yes sir!</Text>
+	<Text label="Reahl13">Red Flame Squad 2 will support Squad 3, and Squad 6 will support Squad 5.</Text>
+	<Text label="ALL14">Yes sir!</Text>
+	<Text label="Reahl15">All of the other squads will remain in the middle, and on the left and right flanks. In an emergency, you need to be ready to lend a hand quickly.</Text>
+	<Text label="ALL16">Yes.</Text>
+	<Text label="Keidian17">Erole has also been informed, in case the worst comes to the worst.</Text>
+	<Text label="Vellus18">That wouldn&apos;t have been necessary! You don&apos;t really think our heroic Tijerid soldiers can&apos;t fend off the Orcs, do you?</Text>
+	<Text label="Reahl19">Excellent work, Keidian.</Text>
+	<Text label="Reahl20">And [%username], I&apos;d like you to do me one more favour.</Text>
+	<Text label="SOL21">Yes.</Text>
+	<Text label="Reahl22">Commanding Officer Ledins Prishon from the Howling Hell Outpost has reported that the Orcs are getting restless.</Text>
+	<Text label="Reahl23">But as you are aware, we don&apos;t have enough men to investigate this.</Text>
+	<Text label="Reahl24">Just like at the of Howling Hell Outpost, we don&apos;t have enough men to help with preparations.</Text>
+	<Text label="Reahl25">You are at least as reliable as a Tijerid solider. Take care of it.</Text>
+	<Text label="Reahl26">Take your companions with you, if you like.</Text>
+	<Text label="Reahl27">I am giving you the task of finding Ledins Prishon in the Howling Hell and helping him.</Text>
+	<Text label="SOL28">Yes sir!</Text>
+</CutSceneText>

@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v4_close" flag="close;title" frame="100,100,546,612" last_modified="2021-07-01 14:14:35" name="builder_dev_dialog" preset="v4_dialog" shadow_offset="8,8" title_align="center" title_frame="3,3,41,14" title_height="25" title_offset="0,5" title_text="오염" type="dlg_builder_dev">
+	<Widget frame="0,4,540,580" h_pos_align="proportion" type="tabsheet" v_pos_align="proportion">
+		<Widget btn_move_anim="False" frame="0,0,540,25" h_pos_align="proportion" preset="v4_tab" tab_offset="4,0" type="tab">
+			<Widget font="ui_default" frame="7,1,54,25" name="tab_basic" preset="v4_tab_button" text="STR_BUILDER_DEV_DIALOG__TAB_BASIC" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="61,1,54,25" name="tab_setting" preset="v4_tab_button" text="STR_BUILDER_DEV_DIALOG__TAB_SETTING" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="115,1,54,25" name="tab_global" preset="v4_tab_button" text="STR_BUILDER_DEV_DIALOG__TAB_GLOBAL" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="169,1,54,25" name="tab_npc" preset="v4_tab_button" text="STR_BUILDER_DEV_DIALOG__NPC" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="223,1,54,25" name="tab_item" preset="v4_tab_button" text="STR_BUILDER_DEV_DIALOG__ITEM" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="277,1,54,25" name="tab_manual" preset="v4_tab_button" text="STR_BUILDER_DEV_DIALOG__MANUAL" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="331,1,54,25" name="tab_test" preset="v4_tab_button" text="STR_BUILDER_DEV_DIALOG__MANUAL" type="tabbutton">
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,540,555" h_pos_align="proportion" name="basic_page" preset="v4_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget font="ui_default" frame="12,42,185,29" name="basic_clear_indun_coolt" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__BASIC_CLEARINDUNCOOLTIME" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="12,10,185,29" name="basic_attrbonus" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__BASIC_ATTRBONUS" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="487,61,46,29" name="basic_cooltime_off" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__OFF" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="439,61,46,29" name="basic_cooltime_on" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__ON" type="button">
+			</Widget>
+			<Widget flag="truncate" font="ui_default" frame="283,67,150,19" name="basic_cooltime_desc" text="STR_BUILDER_DEV_DIALOG__BASIC_SKILLCOOLTIME" type="static">
+			</Widget>
+			<Widget frame="269,74,8,8" type="image">
+				<Skin name="v4_dot" state="0">
+				</Skin>
+			</Widget>
+			<Widget font="ui_default" frame="487,93,46,29" name="basic_gauge_off" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__OFF" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="439,93,46,29" name="basic_gauge_on" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__ON" type="button">
+			</Widget>
+			<Widget flag="truncate" font="ui_default" frame="283,100,150,19" name="basic_gauge_desc" text="STR_BUILDER_DEV_DIALOG__GLOBAL_ITEMGAUGE" type="static">
+			</Widget>
+			<Widget frame="269,107,8,8" type="image">
+				<Skin name="v4_dot" state="0">
+				</Skin>
+			</Widget>
+			<Widget font="ui_default" frame="400,357,132,29" name="basic_teleport" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__BASIC_TELEPORT" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget alphanumeric="False" font="ui_editbox" frame="217,359,179,25" h_padding="5" name="basic_teleport_charname" preset="v4_editbox" text="STR_BUILDER_DEV_DIALOG__BASIC_TELEPORT_CHARNAME" type="editbox" v_padding="5" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="12,106,185,29" name="basic_resurrect" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__BASIC_RESURRECT" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="12,138,185,29" name="basic_recall" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__BASIC_RECALL" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="487,157,46,29" name="basic_chatlog_off" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__OFF" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="439,157,46,29" name="basic_chatlog_on" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__ON" type="button">
+			</Widget>
+			<Widget flag="truncate" font="ui_default" frame="283,163,150,19" name="basic_chatlog" text="STR_BUILDER_DEV_DIALOG__BASIC_CHATLOG" type="static">
+			</Widget>
+			<Widget frame="269,170,8,8" type="image">
+				<Skin name="v4_dot" state="0">
+				</Skin>
+			</Widget>
+			<Widget font="ui_default" frame="12,74,185,29" name="basic_clear_system_bonus" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__BASIC_CLEARSYSTEMBONUS" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="487,125,46,29" name="basic_invisible_off" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__OFF" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="439,125,46,29" name="basic_invisible_on" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__ON" type="button">
+			</Widget>
+			<Widget flag="truncate" font="ui_default" frame="283,131,150,19" name="basic_invisible" text="STR_BUILDER_DEV_DIALOG__BASIC_INVISIBLE" type="static">
+			</Widget>
+			<Widget frame="269,138,8,8" type="image">
+				<Skin name="v4_dot" state="0">
+				</Skin>
+			</Widget>
+			<Widget font="ui_default" frame="400,389,132,29" name="basic_attr" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__BASIC_ATTR" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_combo" frame="217,392,114,25" item_padding="2" name="basic_attr_index" preset="v4_staticbox2" type="combobox" v_pos_align="bottom">
+			</Widget>
+			<Widget alphanumeric="False" font="ui_editbox" frame="334,392,62,25" h_padding="5" name="basic_attr_value" preset="v4_editbox" type="editbox" v_padding="5" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="487,189,46,29" name="basic_warfog_off" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__OFF" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="439,189,46,29" name="basic_warfog_on" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__ON" type="button">
+			</Widget>
+			<Widget flag="truncate" font="ui_default" frame="283,195,150,19" name="basic_warfog" text="STR_BUILDER_DEV_DIALOG__BASIC_WARFOG" type="static">
+			</Widget>
+			<Widget frame="269,202,8,8" type="image">
+				<Skin name="v4_dot" state="0">
+				</Skin>
+			</Widget>
+			<Widget font="ui_default" frame="202,288,160,23" name="test_auto_skill_test_loop" preset="v4_check" style="checkbox" text="STR_GUILD_CHALLENGE_TASK_REPEAT_COUNT" text_offset="1,0" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="269,319,163,29" name="test_auto_skill_test" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__TEST_AUTO_SKILL_TEST" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="435,319,100,29" name="test_auto_skill_test_cancel" preset="v4_button" text="STR_COMMON__CANCEL" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="11,187,185,29" name="save_option" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__SAVE_OPTION" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="11,286,185,29" name="load_option" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__LOAD_OPTION" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="11,220,185,29" name="save_option_environment" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__SAVE_OPTION_ENVIRONMENT" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="11,253,185,29" name="save_option_quickbar" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__SAVE_OPTION_QUICKBAR" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="256,9,280,37" preset="v4_container" type="container">
+				<Widget frame="8,5,58,21" text="STR_LOBBY_LOGIN__ACCOUNT" type="static">
+				</Widget>
+				<Widget frame="71,5,202,21" name="static_account_id" type="static">
+				</Widget>
+			</Widget>
+			<Widget alphanumeric="False" font="ui_editbox" frame="365,287,168,25" h_padding="5" name="test_auto_skill_name" preset="v4_editbox" type="editbox" v_padding="5" v_pos_align="bottom">
+			</Widget>
+			<Widget cell_padding="2" frame="281,234,44,44" item_height="44" item_width="44" name="change_item_slot1" preset="v4_itemview" type="itemview">
+			</Widget>
+			<Widget cell_padding="2" frame="338,234,44,44" item_height="44" item_width="44" name="change_item_slot2" preset="v4_itemview" type="itemview">
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,540,555" h_pos_align="proportion" name="setting_page" preset="v4_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget font="ui_default" frame="407,392,127,29" name="basic_equip_setting" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__BASIC_SETTING_EQUIP" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="271,392,131,29" name="basic_item_setting" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__BASIC_SETTING_ITEM" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="145,392,124,29" name="basic_setting" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__BASIC_SETTING" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_combo" frame="55,396,84,24" item_padding="2" name="basic_setting_class" preset="v4_staticbox2" type="combobox" v_pos_align="bottom">
+			</Widget>
+			<Widget alphanumeric="False" font="ui_editbox" frame="5,396,48,24" h_padding="5" name="basic_setting_level" preset="v4_editbox" type="editbox" v_padding="5" v_pos_align="bottom">
+			</Widget>
+			<Widget flag="multiline;wordwrap" font="ui_default" frame="7,366,524,31" name="basic_setting_desc" text="STR_BUILDER_DEV_DIALOG__BASIC_SETTING_DESC" text_color="1.0,0.0,0.0,1.0" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="352,103,182,29" name="basic_add_dev_skill" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__BASIC_ADDDEVSKILL" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="352,71,182,29" name="basic_remove_all_skill" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__BASIC_REMOVESKILL" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="352,39,182,29" name="basic_add_all_skill_with_stigma" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__BASIC_ADDALLSKILL" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="352,7,182,29" name="basic_add_all_skill" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__BASIC_ADDSKILL" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="166,103,182,29" name="basic_add_all_combine_skill" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__BASIC_ADDCOMBINESKILL" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="166,71,182,29" name="basic_reset_inven" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__RESETINVEN" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="166,39,182,29" name="basic_inventory" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__BASIC_OPENINVENTORY" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="166,7,182,29" name="basic_stigma" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__BASIC_OPENSTIGMA" type="button">
+			</Widget>
+			<Widget font="ui_combo" frame="12,39,89,25" item_padding="2" name="basic_class_select" preset="v4_staticbox2" type="combobox">
+			</Widget>
+			<Widget font="ui_default" frame="104,37,58,29" name="basic_class" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__BASIC_CLASS" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="104,6,58,29" name="basic_level" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__BASIC_LEVEL" type="button">
+			</Widget>
+			<Widget alphanumeric="False" font="ui_editbox" frame="12,8,88,25" h_padding="5" name="basic_level_edit" preset="v4_editbox" type="editbox" v_padding="5">
+			</Widget>
+			<Widget font="ui_default" frame="13,190,170,19" name="skill_search_desc" text="STR_BUILDER_DEV_DIALOG__SKILL_SEARCH" type="static" v_pos_align="top">
+			</Widget>
+			<Widget font="ui_default" frame="123,324,155,29" name="skill_search_add" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__SKILL_ADD" type="button" v_pos_align="top">
+			</Widget>
+			<Widget font="ui_default" frame="125,267,75,24" h_pos_align="right" name="skill_search_cancel" preset="v4_button" text="STR_VENDOR_DIALOG__SEARCH_CANCEL" type="button" v_pos_align="top">
+			</Widget>
+			<Widget font="ui_default" frame="203,267,71,24" h_pos_align="right" name="skill_search" preset="v4_button" text="STR_VENDOR_DIALOG__VENDOR_TAB_FRAME_WIDGET4" type="button" v_pos_align="top">
+			</Widget>
+			<Widget alphanumeric="False" font="ui_edit" frame="8,239,266,24" h_padding="5" h_pos_align="proportion" name="skill_search_edit" preset="v4_editbox" type="editbox" v_padding="5" v_pos_align="top" valign="bottom">
+			</Widget>
+			<Widget font="ui_combo" frame="140,212,133,24" name="skill_search_option" preset="v4_staticbox2" type="combobox" v_pos_align="top">
+			</Widget>
+			<Widget font="ui_combo" frame="8,212,128,24" name="skill_search_class" preset="v4_staticbox2" type="combobox" v_pos_align="top">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="vscroll" font="ui_list" frame="284,212,245,139" h_pos_align="proportion" header_font="v3_columnhead" header_height="0" item_height="44" item_width="44" list_padding="3,3" name="skill_search_result" preset="v4_listview_sel_frame" scroll_type="visible" skin_type="version5" slot_num="5" type="listview" v_pos_align="bottom" viewmode="detail">
+				<Column align="left" title="Name" width="9999">
+				</Column>
+			</Widget>
+			<Widget frame="9,179,8,8" type="image">
+				<Skin name="v4_dot" state="0">
+				</Skin>
+			</Widget>
+			<Widget font="ui_default" frame="26,172,147,19" name="proc_probability_desc" text="STR_BUILDER_DEV_DIALOG__PROC_PROBABILITY" type="static">
+			</Widget>
+			<Widget font="ui_default" frame="179,166,46,29" name="proc_probability_on" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__ON" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="227,166,46,29" name="proc_probability_off" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__OFF" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="23,140,110,19" name="transGenderDesc_static" type="static">
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,540,555" h_pos_align="proportion" name="global_page" preset="v4_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget font="ui_default" frame="26,37,209,19" name="global_flying_desc" text="STR_BUILDER_DEV_DIALOG__GLOBAL_FLYING" type="static">
+			</Widget>
+			<Widget frame="9,44,8,8" type="image">
+				<Skin name="v4_dot" state="0">
+				</Skin>
+			</Widget>
+			<Widget font="ui_default" frame="287,30,46,29" name="global_flying_off" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__OFF" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="239,30,46,29" name="global_flying_on" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__ON" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="6,6,528,22" name="global_desc" text="STR_BUILDER_DEV_DIALOG__GLOBAL_DESC" text_color="1.0,0.0,0.0,1.0" type="static">
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,540,555" h_pos_align="proportion" name="npc_page" preset="v4_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget font="ui_default" frame="9,6,165,29" name="npc_test_naction" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__NPC_TEST_NACTION" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="432,248,106,29" name="npc_search_wish" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__NPC_WISH" type="button" v_pos_align="top">
+			</Widget>
+			<Widget flag="vscroll" font="ui_default" frame="6,187,421,90" item_height="21" list_padding="3,3" name="npc_search_result" preset="v4_listbox" scroll_type="visible" type="listbox" v_pos_align="top">
+			</Widget>
+			<Widget font="ui_default" frame="468,160,67,24" h_pos_align="right" name="npc_search_cancel" preset="v4_button" text="STR_VENDOR_DIALOG__SEARCH_CANCEL" type="button" v_pos_align="top">
+			</Widget>
+			<Widget font="ui_default" frame="390,160,75,24" h_pos_align="right" name="npc_search" preset="v4_button" text="STR_VENDOR_DIALOG__VENDOR_TAB_FRAME_WIDGET4" type="button" v_pos_align="top">
+			</Widget>
+			<Widget alphanumeric="False" font="ui_edit" frame="217,160,170,24" h_padding="5" h_pos_align="proportion" name="npc_search_edit" preset="v4_editbox" type="editbox" v_padding="5" v_pos_align="top" valign="bottom">
+			</Widget>
+			<Widget font="ui_combo" frame="87,160,127,24" name="npc_search_option" preset="v4_staticbox2" type="combobox" v_pos_align="top">
+			</Widget>
+			<Widget font="ui_default" frame="12,137,110,19" name="npc_search_desc" text="STR_BUILDER_DEV_DIALOG__NPC_SEARCH" type="static" v_pos_align="top">
+			</Widget>
+			<Widget font="ui_combo" frame="7,160,78,24" name="npc_search_function" preset="v4_staticbox2" type="combobox" v_pos_align="top">
+			</Widget>
+			<Widget font="ui_default" frame="187,37,165,29" name="npc_stigma" preset="v4_button" text="STR_NPCTITLE_STIGMA_MASTER" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="368,68,165,29" name="npc_customize" preset="v4_button" text="STR_NPCTITLE_PLASTIC_WHOLE" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="187,68,165,29" name="npc_charge" preset="v4_button" text="STR_NPCTITLE_HOLYPOWER_RECHARGER" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="368,37,165,29" name="npc_pet" preset="v4_button" text="STR_NPCTITLE_PET_PARCEL_OUT" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="432,217,106,29" name="npc_search_teleport" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__NPC_TELEPORT" type="button" v_pos_align="top">
+			</Widget>
+			<Widget font="ui_default" frame="187,6,165,29" name="npc_warehouse" preset="v4_button" text="STR_NPCTITLE_CHARACTER_WAREHOUSE_KEEPER" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="368,6,165,29" name="npc_soulhealer" preset="v4_button" text="STR_NPCTITLE_SOUL_HEALER" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="9,37,165,29" name="npc_vendor" preset="v4_button" text="STR_NPCTITLE_MIDDLEMAN" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="468,305,67,24" h_pos_align="right" name="quest_search_cancel" preset="v4_button" text="STR_VENDOR_DIALOG__SEARCH_CANCEL" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="390,305,75,24" h_pos_align="right" name="quest_search" preset="v4_button" text="STR_VENDOR_DIALOG__VENDOR_TAB_FRAME_WIDGET4" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget alphanumeric="False" font="ui_edit" frame="217,305,171,24" h_padding="5" h_pos_align="proportion" name="quest_search_edit" preset="v4_editbox" type="editbox" v_padding="5" v_pos_align="bottom" valign="bottom">
+			</Widget>
+			<Widget font="ui_combo" frame="87,305,128,24" name="quest_search_option" preset="v4_staticbox2" type="combobox" v_pos_align="bottom">
+			</Widget>
+			<Widget flag="vscroll" font="ui_default" frame="6,332,420,90" item_height="21" list_padding="3,3" name="quest_search_result" preset="v4_listbox" scroll_type="visible" type="listbox" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="432,361,106,29" name="quest_search_end" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__QUEST_END" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="12,281,110,19" name="quest_search_desc" text="STR_BUILDER_DEV_DIALOG__QUEST_SEARCH" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="432,392,106,29" name="quest_search_add" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__QUEST_ADD" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget alphanumeric="False" font="ui_edit" frame="51,305,32,24" h_padding="5" max_length="3" name="quest_search_level_max" numeric="1" preset="v4_editbox" type="editbox" v_padding="5" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="37,305,14,24" halign="center" text="STR_VENDOR_DIALOG__WAVE" type="static" v_pos_align="bottom" valign="middle">
+			</Widget>
+			<Widget alphanumeric="False" font="ui_edit" frame="6,305,32,24" h_padding="5" max_length="3" name="quest_search_level_min" numeric="1" preset="v4_editbox" type="editbox" v_padding="5" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,540,555" h_pos_align="proportion" name="item_page" preset="v4_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget font="ui_combo" frame="6,12,277,24" name="item_set_list" preset="v4_staticbox2" type="combobox">
+			</Widget>
+			<Widget font="ui_default" frame="316,9,152,28" name="item_wish_setitems" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__ITEM_SETITEM" type="button">
+			</Widget>
+			<Widget alphanumeric="False" font="ui_edit" frame="186,178,205,24" h_padding="5" h_pos_align="proportion" name="item_search_edit" preset="v4_editbox" type="editbox" v_padding="5" v_pos_align="bottom" valign="bottom">
+			</Widget>
+			<Widget font="ui_combo" frame="96,178,86,24" name="item_search_option" preset="v4_staticbox2" type="combobox" v_pos_align="bottom">
+			</Widget>
+			<Widget alphanumeric="False" font="ui_edit" frame="56,178,32,24" h_padding="5" max_length="3" name="item_search_level_max" numeric="1" preset="v4_editbox" type="editbox" v_padding="5" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="42,178,14,24" halign="center" text="STR_VENDOR_DIALOG__WAVE" type="static" v_pos_align="bottom" valign="middle">
+			</Widget>
+			<Widget alphanumeric="False" font="ui_edit" frame="11,178,32,24" h_padding="5" max_length="3" name="item_search_level_min" numeric="1" preset="v4_editbox" type="editbox" v_padding="5" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="441,150,85,23" name="item_search_quality6" preset="v4_check" style="checkbox" text="STR_VENDOR_DIALOG__SEARCH_QUALITY_MYTHIC" text_offset="1,0" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="355,150,85,23" name="item_search_quality5" preset="v4_check" style="checkbox" text="STR_VENDOR_DIALOG__SEARCH_QUALITY_EPIC" text_offset="1,0" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="269,150,85,23" name="item_search_quality4" preset="v4_check" style="checkbox" text="STR_VENDOR_DIALOG__SEARCH_QUALITY_UNIQUE" text_offset="1,0" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="183,150,85,23" name="item_search_quality3" preset="v4_check" style="checkbox" text="STR_VENDOR_DIALOG__SEARCH_QUALITY_LEGEND" text_offset="1,0" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="97,150,85,23" name="item_search_quality2" preset="v4_check" style="checkbox" text="STR_VENDOR_DIALOG__SEARCH_QUALITY_RARE" text_offset="1,0" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="11,150,85,23" name="item_search_quality1" preset="v4_check" style="checkbox" text="STR_VENDOR_DIALOG__SEARCH_QUALITY_NORMAL" text_offset="1,0" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget button_size="19,19" exclusive="true" flag="vscroll" font="ui_tree" frame="6,207,179,180" item_height="22" level_space="19" name="item_search_kind" preset="v4_treeview" scroll_type="visible" skin_type="version5" space="5" type="treeview" v_pos_align="bottom">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="vscroll" font="ui_list" frame="189,207,343,182" h_pos_align="proportion" header_font="v3_columnhead" header_height="0" item_height="44" item_width="44" list_padding="3,3" name="item_search_result" preset="v4_listview_sel_frame" scroll_type="visible" skin_type="version5" slot_num="5" type="listview" v_pos_align="bottom" viewmode="detail">
+				<Column align="left" title="Name" width="9999">
+				</Column>
+			</Widget>
+			<Widget font="ui_default" frame="396,178,55,24" h_pos_align="right" name="item_search" preset="v4_button" text="STR_VENDOR_DIALOG__VENDOR_TAB_FRAME_WIDGET4" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="420,393,115,29" name="item_search_wish" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__ITEM_WISH" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget alphanumeric="False" font="ui_editbox" frame="366,395,51,24" h_padding="5" max_length="3" name="item_search_wish_num" numeric="1" preset="v4_editbox" type="editbox" v_padding="5" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="454,178,77,24" h_pos_align="right" name="item_search_cancel" preset="v4_button" text="STR_VENDOR_DIALOG__SEARCH_CANCEL" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="316,39,152,29" name="item_remove" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__ITEM_REMOVE" type="button">
+			</Widget>
+			<Widget font="ui_combo" frame="6,42,277,24" name="item_remove_quality" preset="v4_staticbox2" type="combobox">
+			</Widget>
+			<Widget font="ui_default" frame="164,398,200,19" halign="right" name="item_search_num_desc" text="STR_BUILDER_DEV_DIALOG__ITEM_SEARCH_NUM_DESC" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget cell_padding="2" frame="9,87,44,44" item_height="44" item_width="44" name="item_slot" preset="v4_itemview" type="itemview">
+			</Widget>
+			<Widget font="ui_default" frame="75,121,24,24" name="item_enchant_up" preset="v4_plus" single_click_only="True" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="76,99,158,19" name="item_enchant_label" text="STR_BUILDER_DEV_DIALOG__ITEM_ENCHANT" type="static">
+			</Widget>
+			<Widget frame="62,105,8,8" type="image">
+				<Skin name="v4_dot" state="0">
+				</Skin>
+			</Widget>
+			<Widget font="ui_default" frame="99,121,24,24" name="item_enchant_down" preset="v4_minus" single_click_only="True" type="button">
+			</Widget>
+			<Widget alphanumeric="False" font="ui_editbox" frame="126,121,40,24" h_padding="5" max_length="3" name="item_enchant_count" numeric="1" preset="v4_editbox" type="editbox" v_padding="5" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="169,121,24,24" name="item_enchant_wish_count" preset="v4_button" single_click_only="True" text="STR_COMMON__OK" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="487,96,51,24" name="item_equip_left" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__ITEM_EQUIP_LEFT" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="246,105,8,8" type="image">
+				<Skin name="v4_dot" state="0">
+				</Skin>
+			</Widget>
+			<Widget font="ui_default" frame="260,96,171,19" name="item_equip_label" text="STR_BUILDER_DEV_DIALOG__ITEM_EQUIP" type="static">
+			</Widget>
+			<Widget font="ui_default" frame="434,96,51,24" name="item_equip_right" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__ITEM_EQUIP_RIGHT" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="7,394,132,29" name="item_rich" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__ITEM_REMOVE" type="button">
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,540,555" h_pos_align="proportion" name="manual_page" preset="v4_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget alphanumeric="False" flag="multiline;wordwrap" font="ui_editbox" frame="3,3,533,397" h_align="left" h_padding="5" h_pos_align="proportion" max_length="4096" max_line="100" name="manual_edit" preset="v4_editbox" type="editbox" v_align="top" v_padding="5" v_pos_align="proportion">
+			</Widget>
+			<Widget font="ui_default" frame="388,403,149,24" name="manual_command" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__MANUAL_COMMAND" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget alphanumeric="False" font="ui_editbox" frame="339,403,42,23" h_align="right" h_padding="3" halign="right" max_length="3" name="manual_repeat_count" numeric="1" preset="v4_editbox" tabstop="1" type="editbox" v_padding="3" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="162,404,177,19" halign="right" name="item_search_num_desc" text="STR_BUILDER_DEV_DIALOG__REPEAT_COUNT" type="static" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,540,555" h_pos_align="proportion" name="test_page" preset="v4_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget alphanumeric="False" font="ui_editbox" frame="16,47,330,30" h_padding="5" name="msg_edit" preset="v4_editbox" type="editbox" v_padding="5">
+			</Widget>
+			<Widget font="ui_default" frame="370,51,137,25" name="display_msg" preset="v4_button" type="button">
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget flag="multiline;wordwrap;vscroll;active" frame="0,458,540,95" h_pos_align="proportion" name="pending" padding="10,10" preset="v4_staticbox" scroll_type="visible" text_color="0.0,1.0,0.0,1.0" type="static" v_pos_align="bottom" valign="top">
+	</Widget>
+	<Widget font="ui_default" frame="462,557,77,24" name="cancel_command" preset="v4_button" text="STR_COMMON__CANCEL" type="button">
+	</Widget>
+	<Widget font="ui_default" frame="383,557,77,24" name="save_log" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__SAVE" type="button">
+	</Widget>
+	<Widget font="ui_default" frame="304,557,77,24" name="clear_log" preset="v4_button" text="STR_BUILDER_DEV_DIALOG__CLEAR" type="button">
+	</Widget>
+</Dialog>

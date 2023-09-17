@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v4_close" flag="title;close" frame="251,397,348,170" last_modified="2020-09-07 20:08:54" name="personal_channel_room_dialog" preset="v4_msgbox" shadow_offset="8,8" title_align="center" title_frame="3,3,343,14" title_height="25" title_offset="0,5" title_text="STR_CHAT_ROOM_MANAGEMENT_DIALOG__NEW" type="dlg_personal_channel_room">
+	<Widget font="ui_default" frame="0,0,310,35" halign="left" name="room_static" padding="10, 10" text="STR_CHAT_ROOM_NEW_NAME" type="static" valign="top">
+	</Widget>
+	<Widget alphanumeric="False" font="ui_editbox" frame="6,28,331,24" h_padding="5" max_length="10" name="channel_name_edit" preset="v4_editbox" tabstop="1" type="editbox" v_padding="5">
+	</Widget>
+	<Widget defbutton="true" font="ui_default" frame="164,114,88,24" h_pos_align="right" name="ok" preset="v4_button" text="STR_COMMON__OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="0,52,313,39" halign="left" padding="10, 10" text="STR_CHAT_ROOM_NEW_PASSWORD" type="static" valign="top">
+	</Widget>
+	<Widget font="ui_default" frame="253,114,88,24" h_pos_align="right" name="cancel" preset="v4_button" text="STR_COMMON__CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget alphanumeric="False" font="ui_editbox" frame="6,79,331,24" h_padding="5" max_length="10" name="channel_pass_edit" preset="v4_editbox" tabstop="1" type="editbox" v_padding="5">
+	</Widget>
+</Dialog>

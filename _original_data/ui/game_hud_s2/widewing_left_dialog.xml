@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="transparent;visible;not_movable" frame="-101,895,101,65" h_pos_align="center" last_modified="2020-09-07 20:10:18" name="widewing_left_dialog" type="dlg_widewing_left" v_pos_align="bottom">
+	<Widget frame="0,0,101,65" type="image">
+		<Skin name="v4_hud_wide_left_s2">
+		</Skin>
+	</Widget>
+</Dialog>

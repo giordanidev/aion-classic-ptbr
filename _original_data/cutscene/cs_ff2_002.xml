@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="OrcS01">Nyahahahaha, you turncoat! Not bad, not bad!!!</Text>
+	<Text label="OrcS02">Thanks to you, we can steal the Elyos&apos; supplies! Nyahahahaha!</Text>
+	<Text label="URID03">Turncoat!? Wash your mouth out!</Text>
+	<Text label="OrcS04">What?! I was going to ignore that...</Text>
+	<Text label="OrcS05">Have you forgotten that you were driven out of your own country?</Text>
+	<Text label="URID06">Worthless orc! I ought to tear you limb from limb!</Text>
+	<Text label="Calain07">Stop it. This isn&apos;t the time to be quarreling.</Text>
+	<Text label="Calain08">You can carry on later once we&apos;ve annihilated the Elyos in Tijerid.</Text>
+	<Text label="Calain09">They must suspect something in Tijerid by now.</Text>
+	<Text label="Calain10">We need to complete the mission before Yurid&apos;s military information ceases to be useful.</Text>
+	<Text label="OrcS11">Let&apos;s set off and destroy them right away!!</Text>
+	<Text label="Calain12">We need a plan first.</Text>
+	<Text label="SE13">(Clank)</Text>
+	<Text label="OrcS14">Who goes there?!</Text>
+	<Text label="PC14A">Wadanka!</Text>
+	<Text label="OrcS15">Idiot! Be on your guard!</Text>
+	<Text label="Calain16">... Then let&apos;s discuss the plan in more detail.</Text>
+	<Text label="Nare4">...</Text>
+</CutSceneText>

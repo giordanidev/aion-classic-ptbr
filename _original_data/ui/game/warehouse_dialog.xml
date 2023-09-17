@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="task" close_offset="5,7" flag="close;title" frame="15,130,406,403" last_modified="2020-09-07 20:08:54" name="warehouse_dialog" preset="v4_dialog3" title_align="center" title_frame="3,3,224,14" title_offset="0,5" title_text="STR_WAREHOUSE_DIALOG" type="dlg_warehouse">
+	<Widget frame="3,15,394,370" group="personal" name="personal_container" type="container">
+		<Widget frame="10,5,252,25" name="personal_title" type="static">
+		</Widget>
+		<Widget cell_padding="2" cell_space="-1, -1" flag="vscroll" frame="7,30,376,179" item_height="44" item_width="44" list_padding="3,3" name="personal_warehouse" one_click_action="False" preset="v4_listview_frame" reserve_slots="True" scroll_type="visible" slot_num="64" type="listview" viewmode="icon">
+		</Widget>
+		<Widget font="v3_tab" frame="-3,218,400,25" halign="left" name="account_title_button" preset="v4_inv_tab_button2" text_offset="16, 0" type="button">
+		</Widget>
+		<Widget frame="-3,243,400,96" name="account_container" preset="v4_inv_tabpage" type="container">
+			<Widget cell_padding="2" cell_space="-1,-1" flag="vscroll" frame="10,0,376,93" item_height="44" item_width="44" list_padding="3,3" name="account_warehouse" one_click_action="False" preset="v4_listview_frame" reserve_slots="True" scroll_type="visible" slot_num="16" type="listview" viewmode="icon">
+			</Widget>
+		</Widget>
+		<Widget frame="276,1,119,26" name="extend" preset="v4_button" text="STR_WAREHOUSE_DIALOG__EXPAND" type="button">
+		</Widget>
+	</Widget>
+	<Widget flag="not_visible" frame="3,15,394,337" group="guild" name="guild_container" type="container">
+		<Widget cell_padding="2" cell_space="-1,-1" flag="vscroll" frame="7,28,376,309" item_height="44" item_width="44" list_padding="3,3" name="guild_warehouse" one_click_action="False" preset="v4_listview_frame" reserve_slots="True" scroll_type="visible" slot_num="56" type="listview" viewmode="icon">
+		</Widget>
+		<Widget frame="8,2,278,25" name="guild_title" type="static">
+		</Widget>
+		<Widget frame="266,1,119,26" name="guild_history" preset="v4_button" text="STR_WAREHOUSE_DIALOG__GUILD_HISTORY" type="button">
+		</Widget>
+	</Widget>
+	<Widget frame="368,357,21,21" name="sort" preset="v4_inv_sort" tooltip="STR_WAREHOUSE_DIALOG__TOOLTIP_AUTO_SORT" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="v3_money" frame="116,355,242,24" halign="right" name="money" preset="v4_staticbox" type="static" v_pos_align="bottom" valign="middle">
+	</Widget>
+	<Widget frame="117,356,24,22" item_height="17" item_width="21" name="money_item" preset="v4_gold" type="itemview" v_pos_align="bottom">
+	</Widget>
+</Dialog>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="task" close_offset="10,5" flag="close;title" frame="99,162,310,307" last_modified="2022-05-09 17:31:26" name="ranking_badge_dialog" preset="v4_popup" title_align="left" title_frame="3,3,78,14" title_offset="0,5" title_text="STR_RANK_DIALOG__RANK_BADGE_CHOOSE" type="dlg_ranking_badge">
+	<Widget cell_padding="2" cell_space="0,0" flag="vscroll" frame="-4,7,300,270" item_height="44" item_width="44" list_padding="3,3" name="item_list" preset="v4_listview_frame" scroll_type="visible" slot_num="10" type="listview" viewmode="detail">
+		<Column align="" title="" width="223">
+		</Column>
+	</Widget>
+</Dialog>

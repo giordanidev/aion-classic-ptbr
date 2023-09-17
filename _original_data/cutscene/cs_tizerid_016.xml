@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="Reahl00">You&apos;ve come, [%username]. Sadly, I need to ask you for another major favour.</Text>
+	<Text label="Reahl01">As you probably know, the Tursin Orcs have retreated and there has been no word of Yurid.</Text>
+	<Text label="Vellus02">Soldiers have been dispatched to find out where he is.</Text>
+	<Text label="Vellus03">The scouts dispatched to the Vein of Flame disappeared, so Red Flame Soldiers have now been sent to Barat Forge Caverns.</Text>
+	<Text label="Vellus04">We don&apos;t have any news of them either. Knights have now been dispatched as well... But they too have been missing for a few days.</Text>
+	<Text label="Vellus05">The dungeons are complicated and as dangerous as a labyrinth, but not to the extent that they would cause all knights to disappear.</Text>
+	<Text label="SOL06">At this location?</Text>
+	<Text label="Reahl07">We believe that the turncoat Yurid is hiding out there too.</Text>
+	<Text label="Reahl08">Go there with your companions and try to find some leads.</Text>
+	<Text label="Reahl09">Once this mission is complete, I&apos;ll entrust my post to Bellus and go to the Vein of Flame myself.</Text>
+	<Text label="Vellus10">The entrance to the dungeon is located in Fregion&apos;s Throat in the Barat Forge Caverns.</Text>
+	<Text label="Vellus11">Make sure you are well prepared, as it is a very dangerous location.</Text>
+	<Text label="Reahl12">I would like to thank you on behalf of all the residents of Tijerid for what you have done.</Text>
+	<Text label="NPCA13">And to think all these disasters were caused by the Asmodians...</Text>
+	<Text label="NPCBl14">I thought there were no Asmodians left in Sanctum...</Text>
+	<Text label="Vellus15">I think there are other Asmodians in Elysea, apart from Kalain.</Text>
+	<Text label="Reahl16">But if we make this public knowledge, it will cause a great deal of confusion in Elysea. Let&apos;s keep an eye on the situation.</Text>
+	<Text label="RICAIEN17">The Tower of Light is currently denying this situation.</Text>
+	<Text label="RICAIEN18">There seems to be plenty of confusion in the Tower of Light as well.</Text>
+	<Text label="RICAIEN19">Which is why the 4th Order of Knights went to investigate. Once again, we ended up here while on the trail of the Asmodians.</Text>
+	<Text label="RICAIEN20">Omens have also been spotted in Fesra, Erole and Juhdenil, and are being examined.</Text>
+	<Text label="RICAIEN21">This is only possible because my companion Aize has the ability to track down omens.</Text>
+	<Text label="Vellus22">We must prepare ourselves thoroughly. It could easily trigger a 3rd Abyss War.</Text>
+	<Text label="RICAIEN23">That doesn&apos;t bear thinking about. But we need to think about it as an option.</Text>
+	<Text label="Reahl24">The world will be plunged into chaos yet again.</Text>
+	<Text label="RICAIEN25">Now that the case is closed, I&apos;ll return to the Tower of Light.</Text>
+	<Text label="RICAIEN26">[%username], I don&apos;t know if we&apos;ll need your help again some day.</Text>
+	<Text label="RICAIEN27">I will ask you for your help again.</Text>
+</CutSceneText>

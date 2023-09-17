@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<servers>
+	<server>
+		<id>1</id>
+		<name>QA1 Server 1</name>
+		<lang>ENG</lang>
+		<time_zone>+1</time_zone>
+		<time_disp>GMT+1</time_disp>
+	</server>
+	<server>
+		<id>2</id>
+		<name>QA1 Server 2</name>
+		<lang>ENG</lang>
+		<time_zone>+1</time_zone>
+		<time_disp>GMT+1</time_disp>
+	</server>
+	<server>
+		<id>11</id>
+		<name>QA2 Server 1</name>
+		<lang>ENG</lang>
+		<time_zone>+1</time_zone>
+		<time_disp>GMT+1</time_disp>
+	</server>
+	<server>
+		<id>12</id>
+		<name>QA2 Server 2</name>
+		<lang>ENG</lang>
+		<time_zone>+1</time_zone>
+		<time_disp>GMT+1</time_disp>
+	</server>
+	<server>
+		<id>21</id>
+		<name>Atreia</name>
+		<lang>ENG</lang>
+		<time_zone>+1</time_zone>
+		<time_disp>GMT+1</time_disp>
+	</server>
+	<server>
+		<id>22</id>
+		<name>Tahabata</name>
+		<marker>new</marker>
+		<lang>ENG</lang>
+		<time_zone>+1</time_zone>
+		<time_disp>GMT+1</time_disp>
+	</server>
+	<server>
+		<id>23</id>
+		<name>Bakarma</name>
+		<lang>ENG</lang>
+		<time_zone>+1</time_zone>
+		<time_disp>GMT+1</time_disp>
+	</server>
+	<server>
+		<id>24</id>
+		<name>Indratu</name>
+		<lang>ENG</lang>
+		<time_zone>+1</time_zone>
+		<time_disp>GMT+1</time_disp>
+	</server>
+	<server>
+		<id>103</id>
+		<name>Union</name>
+		<lang>ENG</lang>
+		<time_zone>+1</time_zone>
+		<time_disp>GMT+1</time_disp>
+	</server>
+</servers>

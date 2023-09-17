@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="visible;not_movable" frame="353,766,241,116" h_pos_align="center" last_modified="2021-01-13 16:53:21" name="yeti_hud_bottom_Dialog" type="dlg_yeti_hud_bottom" v_pos_align="bottom">
+	<Widget flag="transparent" frame="0,0,243,108" name="border" type="container">
+		<Widget frame="11,0,108,108" name="btn_return" preset="Yeti_return_btn" type="button">
+		</Widget>
+		<Widget frame="124,0,108,108" name="btn_turn_camera" preset="Yeti_reset_btn" type="button">
+		</Widget>
+	</Widget>
+</Dialog>

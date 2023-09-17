@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="left" close_offset="5,7" close_preset="v4_close" flag="close;title" frame="781,100,428,782" last_modified="2022-01-18 20:31:52" name="web_service_ncmsg_dialog" preset="v4_dialog2" shadow_offset="8,8" title_align="center" title_frame="3,3,440,14" title_height="25" title_offset="0,5" type="dlg_web_service_ncmsg">
+	<Widget frame="6,5,412,712" h_pos_align="proportion" name="main_browser" preset="v4_staticbox" type="browser" v_pos_align="proportion">
+	</Widget>
+	<Widget font="ui_default" frame="350,725,70,24" h_pos_align="right" name="cancel" preset="v4_button" text="STR_DLG_DIALOG__CLOSE" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

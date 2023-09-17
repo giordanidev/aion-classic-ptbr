@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="right" close_offset="5,7" close_preset="v4_close" flag="close;title;not_visible" frame="650,160,300,142" last_modified="21.04.2023 10:54:08" name="toypet_warehouse_dialog" preset="v4_dialog" shadow_offset="8,8" title_align="center" title_frame="3,3,398,14" title_height="25" title_offset="0,5" title_text="STR_TOYPET_WAREHOUSE_DIALOG__TITLE" type="dlg_toypet_warehouse">
+	<Widget flag="nonclient" frame="266,7,16,16" name="expand" preset="v4_inv_expand" type="button">
+	</Widget>
+	<Widget frame="0,3,293,76" name="pet_inv_container" type="container">
+		<Widget frame="2,2,270,72" name="pet_inv_scrollable" rearrange="True" scroll_type="visible" step="1" type="scrollable" v_pos_align="proportion">
+			<Widget flag="truncate" font="v3_tab" frame="0,0,268,28" name="pet_inv_button0" preset="v4_inv_tab_button2" text="STR_PET_WAREHOUSE_INVENTORY_INFO" type="button">
+				<Widget font="ui_default" frame="9,5,19,19" name="pet_inv_activate0" preset="pet_inv_activate" tooltip="STR_TOYPET_WAREHOUSE_DIALOG__ACTIVATE" type="button">
+				</Widget>
+				<Widget frame="237,7,15,15" name="pet_inv_time_badge0" preset="pet_warehouse_timer" tooltip="STR_PET_WAREHOUSE_INVENTORY_TIME" type="static">
+				</Widget>
+			</Widget>
+			<Widget frame="0,28,268,50" name="pet_inventory0" preset="v4_inv_tabpage" type="container">
+				<Widget cell_padding="2" cell_space="-1,-1" frame="5,1,260,44" item_height="44" item_width="44" name="pet_inventory_list0" preset="v4_listview" reserve_slots="False" slot_num="6" type="listview" viewmode="icon">
+				</Widget>
+			</Widget>
+			<Widget flag="truncate" font="v3_tab" frame="0,78,268,28" name="pet_inv_button1" preset="v4_inv_tab_button2" text="STR_PET_WAREHOUSE_INVENTORY_INFO" type="button">
+				<Widget font="ui_default" frame="9,5,19,19" name="pet_inv_activate1" preset="pet_inv_activate" tooltip="STR_TOYPET_WAREHOUSE_DIALOG__ACTIVATE" type="button">
+				</Widget>
+				<Widget frame="237,7,15,15" name="pet_inv_time_badge1" preset="pet_warehouse_timer" tooltip="STR_PET_WAREHOUSE_INVENTORY_TIME" type="static">
+				</Widget>
+			</Widget>
+			<Widget frame="0,106,268,50" name="pet_inventory1" preset="v4_inv_tabpage" type="container">
+				<Widget cell_padding="2" cell_space="-1,-1" frame="5,1,260,44" item_height="44" item_width="44" name="pet_inventory_list1" preset="v4_listview" reserve_slots="False" slot_num="6" type="listview" viewmode="icon">
+				</Widget>
+			</Widget>
+			<Widget flag="truncate" font="v3_tab" frame="0,156,268,28" name="pet_inv_button2" preset="v4_inv_tab_button2" text="STR_PET_WAREHOUSE_INVENTORY_INFO" type="button">
+				<Widget font="ui_default" frame="9,5,19,19" name="pet_inv_activate2" preset="pet_inv_activate" tooltip="STR_TOYPET_WAREHOUSE_DIALOG__ACTIVATE" type="button">
+				</Widget>
+				<Widget frame="237,7,15,15" name="pet_inv_time_badge2" preset="pet_warehouse_timer" tooltip="STR_PET_WAREHOUSE_INVENTORY_TIME" type="static">
+				</Widget>
+			</Widget>
+			<Widget frame="0,184,268,50" name="pet_inventory2" preset="v4_inv_tabpage" type="container">
+				<Widget cell_padding="2" cell_space="-1,-1" frame="5,1,260,44" item_height="44" item_width="44" name="pet_inventory_list2" preset="v4_listview" reserve_slots="False" slot_num="6" type="listview" viewmode="icon">
+				</Widget>
+			</Widget>
+			<Widget flag="truncate" font="v3_tab" frame="0,234,268,28" name="pet_inv_button3" preset="v4_inv_tab_button2" text="STR_PET_WAREHOUSE_INVENTORY_INFO" type="button">
+				<Widget font="ui_default" frame="9,5,19,19" name="pet_inv_activate3" preset="pet_inv_activate" tooltip="STR_TOYPET_WAREHOUSE_DIALOG__ACTIVATE" type="button">
+				</Widget>
+				<Widget frame="237,7,15,15" name="pet_inv_time_badge3" preset="pet_warehouse_timer" tooltip="STR_PET_WAREHOUSE_INVENTORY_TIME" type="static">
+				</Widget>
+			</Widget>
+			<Widget frame="0,262,268,50" name="pet_inventory3" preset="v4_inv_tabpage" type="container">
+				<Widget cell_padding="2" cell_space="-1,-1" frame="5,1,260,44" item_height="44" item_width="44" name="pet_inventory_list3" preset="v4_listview" reserve_slots="False" slot_num="6" type="listview" viewmode="icon">
+				</Widget>
+			</Widget>
+			<Widget flag="truncate" font="v3_tab" frame="0,312,268,28" name="pet_inv_button4" preset="v4_inv_tab_button2" text="STR_PET_WAREHOUSE_INVENTORY_INFO" type="button">
+				<Widget font="ui_default" frame="9,5,19,19" name="pet_inv_activate4" preset="pet_inv_activate" tooltip="STR_TOYPET_WAREHOUSE_DIALOG__ACTIVATE" type="button">
+				</Widget>
+				<Widget frame="237,7,15,15" name="pet_inv_time_badge4" preset="pet_warehouse_timer" tooltip="STR_PET_WAREHOUSE_INVENTORY_TIME" type="static">
+				</Widget>
+			</Widget>
+			<Widget frame="0,340,268,50" name="pet_inventory4" preset="v4_inv_tabpage" type="container">
+				<Widget cell_padding="2" cell_space="-1,-1" frame="5,1,260,44" item_height="44" item_width="44" name="pet_inventory_list4" preset="v4_listview" reserve_slots="False" slot_num="6" type="listview" viewmode="icon">
+				</Widget>
+			</Widget>
+			<Widget flag="truncate" font="v3_tab" frame="0,390,268,28" name="pet_inv_button5" preset="v4_inv_tab_button2" text="STR_PET_WAREHOUSE_INVENTORY_INFO" type="button">
+				<Widget font="ui_default" frame="9,5,19,19" name="pet_inv_activate5" preset="pet_inv_activate" tooltip="STR_TOYPET_WAREHOUSE_DIALOG__ACTIVATE" type="button">
+				</Widget>
+				<Widget frame="237,7,15,15" name="pet_inv_time_badge5" preset="pet_warehouse_timer" tooltip="STR_PET_WAREHOUSE_INVENTORY_TIME" type="static">
+				</Widget>
+			</Widget>
+			<Widget frame="0,418,268,50" name="pet_inventory5" preset="v4_inv_tabpage" type="container">
+				<Widget cell_padding="2" cell_space="-1,-1" frame="5,1,260,44" item_height="44" item_width="44" name="pet_inventory_list5" preset="v4_listview" reserve_slots="False" slot_num="6" type="listview" viewmode="icon">
+				</Widget>
+			</Widget>
+			<Widget flag="truncate" font="v3_tab" frame="0,468,268,28" name="pet_inv_button6" preset="v4_inv_tab_button2" text="STR_PET_WAREHOUSE_INVENTORY_INFO" type="button">
+				<Widget font="ui_default" frame="9,5,19,19" name="pet_inv_activate6" preset="pet_inv_activate" tooltip="STR_TOYPET_WAREHOUSE_DIALOG__ACTIVATE" type="button">
+				</Widget>
+				<Widget frame="237,7,15,15" name="pet_inv_time_badge6" preset="pet_warehouse_timer" tooltip="STR_PET_WAREHOUSE_INVENTORY_TIME" type="static">
+				</Widget>
+			</Widget>
+			<Widget frame="0,496,268,50" name="pet_inventory6" preset="v4_inv_tabpage" type="container">
+				<Widget cell_padding="2" cell_space="-1,-1" frame="5,1,260,44" item_height="44" item_width="44" name="pet_inventory_list6" preset="v4_listview" reserve_slots="False" slot_num="6" type="listview" viewmode="icon">
+				</Widget>
+			</Widget>
+			<Widget flag="truncate" font="v3_tab" frame="0,546,268,28" name="pet_inv_button7" preset="v4_inv_tab_button2" text="STR_PET_WAREHOUSE_INVENTORY_INFO" type="button">
+				<Widget font="ui_default" frame="9,5,19,19" name="pet_inv_activate7" preset="pet_inv_activate" tooltip="STR_TOYPET_WAREHOUSE_DIALOG__ACTIVATE" type="button">
+				</Widget>
+				<Widget frame="237,7,15,15" name="pet_inv_time_badge7" preset="pet_warehouse_timer" tooltip="STR_PET_WAREHOUSE_INVENTORY_TIME" type="static">
+				</Widget>
+			</Widget>
+			<Widget frame="0,574,268,50" name="pet_inventory7" preset="v4_inv_tabpage" type="container">
+				<Widget cell_padding="2" cell_space="-1,-1" frame="5,1,260,44" item_height="44" item_width="44" name="pet_inventory_list7" preset="v4_listview" reserve_slots="False" slot_num="6" type="listview" viewmode="icon">
+				</Widget>
+			</Widget>
+			<Widget flag="truncate" font="v3_tab" frame="0,624,268,28" name="pet_inv_button8" preset="v4_inv_tab_button2" text="STR_PET_WAREHOUSE_INVENTORY_INFO" type="button">
+				<Widget font="ui_default" frame="9,5,19,19" name="pet_inv_activate8" preset="pet_inv_activate" tooltip="STR_TOYPET_WAREHOUSE_DIALOG__ACTIVATE" type="button">
+				</Widget>
+				<Widget frame="237,7,15,15" name="pet_inv_time_badge8" preset="pet_warehouse_timer" tooltip="STR_PET_WAREHOUSE_INVENTORY_TIME" type="static">
+				</Widget>
+			</Widget>
+			<Widget frame="0,652,268,50" name="pet_inventory8" preset="v4_inv_tabpage" type="container">
+				<Widget cell_padding="2" cell_space="-1,-1" frame="5,1,260,44" item_height="44" item_width="44" name="pet_inventory_list8" preset="v4_listview" reserve_slots="False" slot_num="6" type="listview" viewmode="icon">
+				</Widget>
+			</Widget>
+			<Widget flag="truncate" font="v3_tab" frame="0,702,268,28" name="pet_inv_button9" preset="v4_inv_tab_button2" text="STR_PET_WAREHOUSE_INVENTORY_INFO" type="button">
+				<Widget font="ui_default" frame="9,5,19,19" name="pet_inv_activate9" preset="pet_inv_activate" tooltip="STR_TOYPET_WAREHOUSE_DIALOG__ACTIVATE" type="button">
+				</Widget>
+				<Widget frame="237,7,15,15" name="pet_inv_time_badge9" preset="pet_warehouse_timer" tooltip="STR_PET_WAREHOUSE_INVENTORY_TIME" type="static">
+				</Widget>
+			</Widget>
+			<Widget frame="0,730,268,50" name="pet_inventory9" preset="v4_inv_tabpage" type="container">
+				<Widget cell_padding="2" cell_space="-1,-1" frame="5,1,260,44" item_height="44" item_width="44" name="pet_inventory_list9" preset="v4_listview" reserve_slots="False" slot_num="6" type="listview" viewmode="icon">
+				</Widget>
+			</Widget>
+			<Widget flag="truncate" font="v3_tab" frame="0,780,268,28" name="pet_inv_button10" preset="v4_inv_tab_button2" text="STR_PET_WAREHOUSE_INVENTORY_INFO" type="button">
+				<Widget font="ui_default" frame="9,5,19,19" name="pet_inv_activate10" preset="pet_inv_activate" tooltip="STR_TOYPET_WAREHOUSE_DIALOG__ACTIVATE" type="button">
+				</Widget>
+				<Widget frame="237,7,15,15" name="pet_inv_time_badge10" preset="pet_warehouse_timer" tooltip="STR_PET_WAREHOUSE_INVENTORY_TIME" type="static">
+				</Widget>
+			</Widget>
+			<Widget frame="0,808,268,50" name="pet_inventory10" preset="v4_inv_tabpage" type="container">
+				<Widget cell_padding="2" cell_space="-1,-1" frame="5,1,260,44" item_height="44" item_width="44" name="pet_inventory_list10" preset="v4_listview" reserve_slots="False" slot_num="6" type="listview" viewmode="icon">
+				</Widget>
+			</Widget>
+			<Widget flag="truncate" font="v3_tab" frame="0,858,268,28" name="pet_inv_button11" preset="v4_inv_tab_button2" text="STR_PET_WAREHOUSE_INVENTORY_INFO" type="button">
+				<Widget font="ui_default" frame="9,5,19,19" name="pet_inv_activate11" preset="pet_inv_activate" tooltip="STR_TOYPET_WAREHOUSE_DIALOG__ACTIVATE" type="button">
+				</Widget>
+				<Widget frame="237,7,15,15" name="pet_inv_time_badge11" preset="pet_warehouse_timer" tooltip="STR_PET_WAREHOUSE_INVENTORY_TIME" type="static">
+				</Widget>
+			</Widget>
+			<Widget frame="0,886,268,50" name="pet_inventory11" preset="v4_inv_tabpage" type="container">
+				<Widget cell_padding="2" cell_space="-1,-1" frame="5,1,260,44" item_height="44" item_width="44" name="pet_inventory_list11" preset="v4_listview" reserve_slots="False" slot_num="6" type="listview" viewmode="icon">
+				</Widget>
+			</Widget>
+			<Widget flag="truncate" font="v3_tab" frame="0,936,268,28" name="pet_inv_button12" preset="v4_inv_tab_button2" text="STR_PET_WAREHOUSE_INVENTORY_INFO" type="button">
+				<Widget font="ui_default" frame="9,5,19,19" name="pet_inv_activate12" preset="pet_inv_activate" tooltip="STR_TOYPET_WAREHOUSE_DIALOG__ACTIVATE" type="button">
+				</Widget>
+				<Widget frame="237,7,15,15" name="pet_inv_time_badge12" preset="pet_warehouse_timer" tooltip="STR_PET_WAREHOUSE_INVENTORY_TIME" type="static">
+				</Widget>
+			</Widget>
+			<Widget frame="0,964,268,50" name="pet_inventory12" preset="v4_inv_tabpage" type="container">
+				<Widget cell_padding="2" cell_space="-1,-1" frame="5,1,260,44" item_height="44" item_width="44" name="pet_inventory_list12" preset="v4_listview" reserve_slots="False" slot_num="6" type="listview" viewmode="icon">
+				</Widget>
+			</Widget>
+			<Widget flag="truncate" font="v3_tab" frame="0,1014,268,28" name="pet_inv_button13" preset="v4_inv_tab_button2" text="STR_PET_WAREHOUSE_INVENTORY_INFO" type="button">
+				<Widget font="ui_default" frame="9,5,19,19" name="pet_inv_activate13" preset="pet_inv_activate" tooltip="STR_TOYPET_WAREHOUSE_DIALOG__ACTIVATE" type="button">
+				</Widget>
+				<Widget frame="237,7,15,15" name="pet_inv_time_badge13" preset="pet_warehouse_timer" tooltip="STR_PET_WAREHOUSE_INVENTORY_TIME" type="static">
+				</Widget>
+			</Widget>
+			<Widget frame="0,1042,268,50" name="pet_inventory13" preset="v4_inv_tabpage" type="container">
+				<Widget cell_padding="2" cell_space="-1,-1" frame="5,1,260,44" item_height="44" item_width="44" name="pet_inventory_list13" preset="v4_listview" reserve_slots="False" slot_num="6" type="listview" viewmode="icon">
+				</Widget>
+			</Widget>
+			<Widget flag="truncate" font="v3_tab" frame="0,1092,268,28" name="pet_inv_button14" preset="v4_inv_tab_button2" text="STR_PET_WAREHOUSE_INVENTORY_INFO" type="button">
+				<Widget font="ui_default" frame="9,5,19,19" name="pet_inv_activate14" preset="pet_inv_activate" tooltip="STR_TOYPET_WAREHOUSE_DIALOG__ACTIVATE" type="button">
+				</Widget>
+				<Widget frame="237,7,15,15" name="pet_inv_time_badge14" preset="pet_warehouse_timer" tooltip="STR_PET_WAREHOUSE_INVENTORY_TIME" type="static">
+				</Widget>
+			</Widget>
+			<Widget frame="0,1120,268,50" name="pet_inventory14" preset="v4_inv_tabpage" type="container">
+				<Widget cell_padding="2" cell_space="-1,-1" frame="5,1,260,44" item_height="44" item_width="44" name="pet_inventory_list14" preset="v4_listview" reserve_slots="False" slot_num="6" type="listview" viewmode="icon">
+				</Widget>
+			</Widget>
+			<Widget flag="truncate" font="v3_tab" frame="0,1170,268,28" name="pet_inv_button15" preset="v4_inv_tab_button2" text="STR_PET_WAREHOUSE_INVENTORY_INFO" type="button">
+				<Widget font="ui_default" frame="9,5,19,19" name="pet_inv_activate15" preset="pet_inv_activate" tooltip="STR_TOYPET_WAREHOUSE_DIALOG__ACTIVATE" type="button">
+				</Widget>
+				<Widget frame="237,7,15,15" name="pet_inv_time_badge15" preset="pet_warehouse_timer" tooltip="STR_PET_WAREHOUSE_INVENTORY_TIME" type="static">
+				</Widget>
+			</Widget>
+			<Widget frame="0,1198,268,50" name="pet_inventory15" preset="v4_inv_tabpage" type="container">
+				<Widget cell_padding="2" cell_space="-1,-1" frame="5,1,260,44" item_height="44" item_width="44" name="pet_inventory_list15" preset="v4_listview" reserve_slots="False" slot_num="6" type="listview" viewmode="icon">
+				</Widget>
+			</Widget>
+			<Widget flag="truncate" font="v3_tab" frame="0,1248,268,28" name="pet_inv_button16" preset="v4_inv_tab_button2" text="STR_PET_WAREHOUSE_INVENTORY_INFO" type="button">
+				<Widget font="ui_default" frame="9,5,19,19" name="pet_inv_activate16" preset="pet_inv_activate" tooltip="STR_TOYPET_WAREHOUSE_DIALOG__ACTIVATE" type="button">
+				</Widget>
+				<Widget frame="237,7,15,15" name="pet_inv_time_badge16" preset="pet_warehouse_timer" tooltip="STR_PET_WAREHOUSE_INVENTORY_TIME" type="static">
+				</Widget>
+			</Widget>
+			<Widget frame="0,1276,268,50" name="pet_inventory16" preset="v4_inv_tabpage" type="container">
+				<Widget cell_padding="2" cell_space="-1,-1" frame="5,1,260,44" item_height="44" item_width="44" name="pet_inventory_list16" preset="v4_listview" reserve_slots="False" slot_num="6" type="listview" viewmode="icon">
+				</Widget>
+			</Widget>
+			<Widget flag="truncate" font="v3_tab" frame="0,1326,268,28" name="pet_inv_button17" preset="v4_inv_tab_button2" text="STR_PET_WAREHOUSE_INVENTORY_INFO" type="button">
+				<Widget font="ui_default" frame="9,5,19,19" name="pet_inv_activate17" preset="pet_inv_activate" tooltip="STR_TOYPET_WAREHOUSE_DIALOG__ACTIVATE" type="button">
+				</Widget>
+				<Widget frame="237,7,15,15" name="pet_inv_time_badge17" preset="pet_warehouse_timer" tooltip="STR_PET_WAREHOUSE_INVENTORY_TIME" type="static">
+				</Widget>
+			</Widget>
+			<Widget frame="0,1354,268,50" name="pet_inventory17" preset="v4_inv_tabpage" type="container">
+				<Widget cell_padding="2" cell_space="-1,-1" frame="5,1,260,44" item_height="44" item_width="44" name="pet_inventory_list17" preset="v4_listview" reserve_slots="False" slot_num="6" type="listview" viewmode="icon">
+				</Widget>
+			</Widget>
+			<Widget flag="truncate" font="v3_tab" frame="0,1404,268,28" name="pet_inv_button18" preset="v4_inv_tab_button2" text="STR_PET_WAREHOUSE_INVENTORY_INFO" type="button">
+				<Widget font="ui_default" frame="9,5,19,19" name="pet_inv_activate18" preset="pet_inv_activate" tooltip="STR_TOYPET_WAREHOUSE_DIALOG__ACTIVATE" type="button">
+				</Widget>
+				<Widget frame="237,7,15,15" name="pet_inv_time_badge18" preset="pet_warehouse_timer" tooltip="STR_PET_WAREHOUSE_INVENTORY_TIME" type="static">
+				</Widget>
+			</Widget>
+			<Widget frame="0,1432,268,50" name="pet_inventory18" preset="v4_inv_tabpage" type="container">
+				<Widget cell_padding="2" cell_space="-1,-1" frame="5,1,260,44" item_height="44" item_width="44" name="pet_inventory_list18" preset="v4_listview" reserve_slots="False" slot_num="6" type="listview" viewmode="icon">
+				</Widget>
+			</Widget>
+			<Widget flag="truncate" font="v3_tab" frame="0,1482,268,28" name="pet_inv_button19" preset="v4_inv_tab_button2" text="STR_PET_WAREHOUSE_INVENTORY_INFO" type="button">
+				<Widget font="ui_default" frame="9,5,19,19" name="pet_inv_activate19" preset="pet_inv_activate" tooltip="STR_TOYPET_WAREHOUSE_DIALOG__ACTIVATE" type="button">
+				</Widget>
+				<Widget frame="237,7,15,15" name="pet_inv_time_badge19" preset="pet_warehouse_timer" tooltip="STR_PET_WAREHOUSE_INVENTORY_TIME" type="static">
+				</Widget>
+			</Widget>
+			<Widget frame="0,1510,268,50" name="pet_inventory19" preset="v4_inv_tabpage" type="container">
+				<Widget cell_padding="2" cell_space="-1,-1" frame="5,1,260,44" item_height="44" item_width="44" name="pet_inventory_list19" preset="v4_listview" reserve_slots="False" slot_num="6" type="listview" viewmode="icon">
+				</Widget>
+			</Widget>
+		</Widget>
+		<Widget frame="271,3,16,76" h_pos_align="right" linker="pet_inv_scrollable" name="pet_inv_scroll" preset="v4_scroll" step_multiplier="44" type="scrollbar" v_pos_align="proportion">
+			<Widget flag="not_active" frame="1,1,16,12" h_pos_align="proportion" name="minus" preset="v4_scroll_minus" type="button">
+			</Widget>
+			<Widget flag="not_active" frame="0,64,16,12" h_pos_align="proportion" name="plus" preset="v4_scroll_plus" type="button" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget frame="1,80,287,31" name="pet_bottom" type="container">
+		<Widget font="ui_default" frame="266,5,22,22" name="pet_inv_cube" preset="v4_toypet_warehouse" tooltip="STR_TOYPET_WAREHOUSE_DIALOG__CUBE" type="button">
+		</Widget>
+	</Widget>
+</Dialog>

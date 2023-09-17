@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="transparent;not_movable;not_active" frame="360,800,505,47" last_modified="2020-09-07 20:08:54" name="help_indicator_dialog" type="dlg_help_indicator">
+	<Widget frame="0,0,505,47" name="container" type="container">
+		<Widget flag="not_visible" frame="1,1,41,45" name="tutorial_button1" preset="v4_help_tutorial" type="button">
+		</Widget>
+		<Widget flag="not_visible" frame="43,1,41,45" name="tutorial_button2" preset="v4_help_tutorial" type="button">
+		</Widget>
+		<Widget flag="not_visible" frame="85,1,41,45" name="tutorial_button3" preset="v4_help_tutorial" type="button">
+		</Widget>
+		<Widget flag="not_visible" frame="127,1,41,45" name="tutorial_button4" preset="v4_help_tutorial" type="button">
+		</Widget>
+		<Widget flag="not_visible" frame="169,1,41,45" name="tutorial_button5" preset="v4_help_tutorial" type="button">
+		</Widget>
+		<Widget flag="not_visible" frame="211,1,41,45" name="tutorial_button6" preset="v4_help_tutorial" type="button">
+		</Widget>
+		<Widget flag="not_visible" frame="253,1,41,45" name="tutorial_button7" preset="v4_help_tutorial" type="button">
+		</Widget>
+		<Widget flag="not_visible" frame="295,1,41,45" name="tutorial_button8" preset="v4_help_tutorial" type="button">
+		</Widget>
+		<Widget flag="not_visible" frame="337,1,41,45" name="tutorial_button9" preset="v4_help_tutorial" type="button">
+		</Widget>
+		<Widget flag="not_visible" frame="379,1,41,45" name="tutorial_button10" preset="v4_help_tutorial" type="button">
+		</Widget>
+		<Widget flag="not_visible" frame="421,1,41,45" name="tutorial_button11" preset="v4_help_tutorial" type="button">
+		</Widget>
+		<Widget flag="not_visible" frame="463,1,41,45" name="tutorial_button12" preset="v4_help_tutorial" type="button">
+		</Widget>
+	</Widget>
+</Dialog>

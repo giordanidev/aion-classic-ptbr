@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Preload last_modified="2021-11-03 14:26:08" name="pogusgame">
+	<Skin name="deco_ribbon" src_image="1,1,658,66" texture="textures/ui/pogusgame">
+	</Skin>
+	<Skin name="btn_exit_0" src_image="46,68,44,44" texture="textures/ui/pogusgame">
+	</Skin>
+	<Skin name="btn_exit_1" src_image="46,113,44,44" texture="textures/ui/pogusgame">
+	</Skin>
+	<Skin name="btn_exit_2" src_image="46,158,44,44" texture="textures/ui/pogusgame">
+	</Skin>
+	<Skin name="btn_board_0" src_image="1,68,44,44" texture="textures/ui/pogusgame">
+	</Skin>
+	<Skin name="btn_board_1" src_image="1,113,44,44" texture="textures/ui/pogusgame">
+	</Skin>
+	<Skin name="btn_board_2" src_image="1,158,44,44" texture="textures/ui/pogusgame">
+	</Skin>
+	<Preset name="pogus_board_btn" type="button">
+		<SkinRef main_state="0" name="btn_board_0" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="btn_board_1" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="btn_board_2" sub_state="down">
+		</SkinRef>
+	</Preset>
+	<Preset name="pogus_exit_btn" type="button">
+		<SkinRef main_state="0" name="btn_exit_0" sub_state="up">
+		</SkinRef>
+		<SkinRef main_state="0" name="btn_exit_1" sub_state="over">
+		</SkinRef>
+		<SkinRef main_state="0" name="btn_exit_2" sub_state="down">
+		</SkinRef>
+	</Preset>
+</Preload>

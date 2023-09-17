@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="P01">These are wild beasts that don&apos;t care who or what they&apos;re fighting--</Text>
+	<Text label="P02">they want to kill something, and it might as well be you.</Text>
+	<Text label="P03">You&apos;ll have a time limit, so kill them as fast as you can.</Text>
+	<Text label="P04">They&apos;re all ferocious, but they&apos;re nothing compared to the Balaur.</Text>
+	<Text label="P05">You must pass this test to get to the Abyss...</Text>
+	<Text label="P06">...so, ready? Begin!</Text>
+</CutSceneText>

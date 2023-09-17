@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="title" frame="0,0,351,278" last_modified="2021-07-22 14:54:14" name="choice_dialog" preset="v4_msgbox" title_frame="3,3,345,14" type="dlg_choice">
+	<Widget font="ui_default" frame="254,228,88,26" h_pos_align="right" name="cancel" preset="v4_button" text="STR_ITEM_PRICE_COUNT_DIALOG__CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget defbutton="true" font="ui_default" frame="164,228,88,26" h_pos_align="right" name="ok" preset="v4_button" text="STR_ITEM_PRICE_COUNT_DIALOG__OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget frame="0,8,340,218" h_pos_align="proportion" preset="v4_staticbox" type="image" v_pos_align="proportion">
+	</Widget>
+	<Widget flag="multiline" font="ui_default" frame="8,10,331,35" h_pos_align="proportion" name="message" padding="10,10" type="htmlview">
+	</Widget>
+	<Widget frame="28,50,134,108" h_pos_align="center" preset="v4_staticbox" type="image" v_pos_align="bottom">
+		<Widget flag="truncate" font="ui_default" frame="4,4,126,100" h_pos_align="proportion" name="choice1" preset="v4_title_btn" text_offset="0,10" type="button" v_pos_align="proportion" valign="bottom">
+			<Widget frame="37,15,54,48" h_pos_align="center" name="choice1_qina" type="image">
+				<Skin name="choice_qina">
+				</Skin>
+			</Widget>
+			<Widget frame="44,19,39,39" h_pos_align="center" name="choice1_ap" type="image">
+				<Skin name="choice_ap">
+				</Skin>
+			</Widget>
+			<Widget frame="44,19,39,39" name="choice1_luna" type="image">
+				<Skin name="luna_luna">
+				</Skin>
+			</Widget>
+			<Widget cell_padding="2" flag="not_active" frame="42,16,44,44" h_pos_align="center" item_height="44" item_width="44" name="choice1_item" preset="v4_itemview" scroll_type="6" type="itemview">
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget frame="182,50,134,108" h_pos_align="center" preset="v4_staticbox" type="image" v_pos_align="bottom">
+		<Widget flag="truncate" font="ui_default" frame="4,4,126,100" h_pos_align="proportion" name="choice2" preset="v4_title_btn" text_offset="0,10" type="button" v_pos_align="proportion" valign="bottom">
+			<Widget frame="37,15,54,48" h_pos_align="center" name="choice2_qina" type="image">
+				<Skin name="choice_qina">
+				</Skin>
+			</Widget>
+			<Widget frame="44,19,39,39" h_pos_align="center" name="choice2_ap" type="image">
+				<Skin name="choice_ap">
+				</Skin>
+			</Widget>
+			<Widget frame="44,19,39,39" name="choice2_luna" type="image">
+				<Skin name="luna_luna">
+				</Skin>
+			</Widget>
+			<Widget cell_padding="2" flag="not_active" frame="42,16,44,44" h_pos_align="center" item_height="44" item_width="44" name="choice2_item" preset="v4_itemview" scroll_type="6" type="itemview">
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget font="v3_money" frame="148,168,190,22" h_pos_align="proportion" halign="right" name="choice1_my_count" padding="5,0" preset="v4_staticbox" type="static" v_pos_align="bottom">
+	</Widget>
+	<Widget flag="truncate" font="ui_default" frame="5,167,139,23" h_pos_align="left" halign="right" name="choice1_my_desc" padding="2,0" type="static" v_pos_align="bottom">
+	</Widget>
+	<Widget font="v3_money" frame="148,192,190,22" h_pos_align="proportion" halign="right" name="choice2_my_count" padding="12,0" preset="v4_staticbox" type="static" v_pos_align="bottom">
+	</Widget>
+	<Widget flag="truncate" font="ui_default" frame="5,191,139,23" h_pos_align="left" halign="right" name="choice2_my_desc" padding="2,0" type="static" v_pos_align="bottom">
+	</Widget>
+</Dialog>

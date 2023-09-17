@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="5,7" flag="close;title" frame="220,130,812,630" last_modified="2022-07-03 14:38:50" name="vendor_world_dialog" preset="v4_dialog" title_align="center" title_frame="3,3,806,14" title_offset="0,5" title_text="STR_VENDOR_WORLD_DIALOG__TITLE" type="dlg_vendor_world">
+	<Widget frame="1,11,804,118" name="vendor_banner_bg" type="image">
+		<Skin name="vendor_banner_bg">
+		</Skin>
+	</Widget>
+	<Widget frame="0,71,807,539" h_pos_align="proportion" name="vendor_tab_frame" type="tabsheet" v_pos_align="proportion">
+		<Widget btn_move_anim="False" frame="0,0,806,25" h_pos_align="proportion" name="vendor_tab" preset="v4_tab" tab_frame="0,0,686,25" tab_offset="3,0" tab_space="0" type="tab">
+			<Widget frame="8,0,120,25" name="qina_list_btn" preset="v4_tab_button" text="STR_VENDOR_WORLD_DIALOG__TAB_KINA" type="tabbutton">
+			</Widget>
+			<Widget frame="128,0,120,25" name="item_list_btn" preset="v4_tab_button" text="STR_VENDOR_WORLD_DIALOG__TAB_ITEM" type="tabbutton">
+			</Widget>
+			<Widget frame="248,0,120,25" name="register_item_btn" preset="v4_tab_button" text="STR_VENDOR_WORLD_DIALOG__TAB_REGISTRATION" type="tabbutton">
+			</Widget>
+			<Widget frame="368,0,120,25" name="account_btn" preset="v4_tab_button" text="STR_VENDOR_DIALOG__VENDOR_TAB_FRAME_ACCOUNT_BTN" type="tabbutton">
+			</Widget>
+			<Widget frame="488,0,120,25" name="account_record_btn" preset="v4_tab_button" text="STR_VENDOR_WORLD_DIALOG__TAB_INCOME_RECORD" type="tabbutton">
+			</Widget>
+		</Widget>
+		<Widget frame="0,24,807,515" h_pos_align="proportion" name="tabpage_qina" preset="v4_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget cell_padding="2" cell_space="0,0" column_customizing="True" flag="truncate" frame="5,31,800,426" header_font="v3_columnhead" header_height="24" item_height="44" item_width="44" list_padding="3,3" name="qina_list_view" page_num="9" preset="v4_listview_sel_frame" scroll_type="hidden" slot_num="9" type="listview">
+				<Column name="column_qina_list" sort="text" title="STR_VENDOR_WORLD_DIALOG__COLUMN_KINA" width="250">
+				</Column>
+				<Column align="right" name="column_qina_sale_price" sort="param" title="STR_VENDOR_WORLD_DIALOG__COLUMN_SALE_PRICE" width="300">
+				</Column>
+				<Column align="right" name="column_qina_sale_price_piece" sort="param" title="STR_VENDOR_WORLD_DIALOG__COLUMN_KINA_PRICE_PIECE" width="200">
+				</Column>
+			</Widget>
+			<Widget color="1.0,1.0,1.0,1.0" frame="450,4,352,24" halign="right" name="qina_get_notice" text="STR_VENDOR_WORLD_DIALOG__QINA_BOX_GUIDE" type="static">
+			</Widget>
+			<Widget color="1.0,1.0,1.0,1.0" frame="620,462,96,24" halign="right" name="qina_registration_count_title" text="STR_VENDOR_WORLD_DIALOG__REGISTRATION_AMOUNT" type="static">
+			</Widget>
+			<Widget color="1.0,1.0,1.0,1.0" font="v3_money" frame="719,462,84,24" halign="center" name="qina_registration_count" preset="v4_staticbox" type="static" valign="middle">
+			</Widget>
+			<Widget frame="585,490,110,24" h_pos_align="center" name="qina_list_refresh_btn" preset="v4_button" text="STR_VENDOR_WORLD_DIALOG__REFRESH_BUTTON" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="695,490,110,24" name="item_list_buy_btn" preset="v4_button" text="STR_VENDOR_WORLD_DIALOG__BUY_BUTTON" type="button">
+			</Widget>
+			<Widget button_size="21,22" button_space="2" font="v3_button" frame="172,462,466,24" name="qina_list_exchange_page" page_num="10" page_size="18,22" page_space="7" space="10" type="pagecontrol">
+			</Widget>
+			<Widget flag="not_visible" frame="215,201,377,24" halign="center" name="no_qina_msg" text="STR_VENDOR_WORLD_DIALOG__NO_QINA_MSG" type="static">
+			</Widget>
+		</Widget>
+		<Widget frame="0,24,807,515" h_pos_align="proportion" name="tabpage_item" preset="v4_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget frame="3,33,165,427" preset="v4_staticbox" type="image">
+			</Widget>
+			<Widget font="v3_columnhead" frame="6,36,158,24" halign="center" preset="v4_header1" text="STR_VENDOR_DIALOG__VENDOR_TAB_FRAME_WIDGET1" type="static">
+			</Widget>
+			<Widget frame="3,1,801,32" name="search_ctn" type="container">
+				<Skin name="v4_container_bg" state="0">
+				</Skin>
+				<Skin name="v4_container_bg" state="1">
+				</Skin>
+				<Widget alphanumeric="False" frame="507,4,174,24" h_padding="5" name="search_edit" preset="v4_editbox" type="editbox" v_padding="5" valign="bottom">
+				</Widget>
+				<Widget frame="683,3,60,26" name="search_btn" preset="v4_button" text="STR_VENDOR_DIALOG__VENDOR_TAB_FRAME_WIDGET4" type="button">
+				</Widget>
+				<Widget alphanumeric="False" frame="419,4,36,24" h_padding="5" max_length="3" name="search_level_min" numeric="1" preset="v4_editbox" type="editbox" v_padding="5">
+				</Widget>
+				<Widget alphanumeric="False" frame="466,4,36,24" h_padding="5" max_length="3" name="search_level_max" numeric="1" preset="v4_editbox" type="editbox" v_padding="5">
+				</Widget>
+				<Widget frame="453,4,14,24" halign="center" text="STR_VENDOR_WORLD_DIALOG__LEVEL_DASH" type="static" valign="middle">
+				</Widget>
+				<Widget frame="7,4,51,23" name="search_quality1" preset="v4_check" style="checkbox" text="STR_VENDOR_DIALOG__SEARCH_QUALITY_NORMAL" text_offset="3,0" type="button">
+				</Widget>
+				<Widget frame="61,4,51,23" name="search_quality2" preset="v4_check" style="checkbox" text="STR_VENDOR_DIALOG__SEARCH_QUALITY_RARE" text_offset="3,0" type="button">
+				</Widget>
+				<Widget frame="115,4,51,23" name="search_quality3" preset="v4_check" style="checkbox" text="STR_VENDOR_DIALOG__SEARCH_QUALITY_LEGEND" text_offset="3,0" type="button">
+				</Widget>
+				<Widget frame="169,4,51,23" name="search_quality4" preset="v4_check" style="checkbox" text="STR_VENDOR_DIALOG__SEARCH_QUALITY_UNIQUE" text_offset="3,0" type="button">
+				</Widget>
+				<Widget frame="223,4,51,23" name="search_quality5" preset="v4_check" style="checkbox" text="STR_VENDOR_DIALOG__SEARCH_QUALITY_EPIC" text_offset="3,0" type="button">
+				</Widget>
+				<Widget frame="742,3,60,26" name="search_cancel_btn" preset="v4_button" text="STR_VENDOR_DIALOG__SEARCH_CANCEL" type="button">
+				</Widget>
+				<Widget frame="376,4,38,24" halign="right" padding="1,0" text="STR_VENDOR_DIALOG__SEARCH_LEVEL" type="static">
+				</Widget>
+				<Widget frame="278,4,94,23" name="search_race" preset="v4_check" style="checkbox" text="STR_VENDOR_WORLD_DIALOG__RACE_VIEW_CHECK" text_offset="3,0" type="button">
+				</Widget>
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" column_customizing="True" flag="truncate" frame="168,33,636,427" header_font="v3_columnhead" header_height="24" item_height="44" item_width="44" list_padding="3,3" name="total_sell_list" page_num="9" preset="v4_listview_sel_frame" reserve_slots="False" scroll_type="hidden" slot_num="9" type="listview" viewmode="detail">
+				<Column align="" title="STR_VENDOR_DIALOG__VENDOR_TAB_FRAME_COLUMN_NAME" width="220">
+				</Column>
+				<Column align="center" title="STR_VENDOR_DIALOG__VENDOR_TAB_FRAME_COLUMN_LEVEL" width="47">
+				</Column>
+				<Column align="right" title="STR_VENDOR_WORLD_DIALOG__COLUMN_SALE_PRICE" width="160">
+				</Column>
+				<Column align="right" title="STR_VENDOR_WORLD_DIALOG__COLUMN_ITEM_PRICE_PIECE" width="160">
+				</Column>
+			</Widget>
+			<Widget flag="not_visible" frame="228,221,528,24" halign="center" name="no_item_msg" text="STR_VENDOR_DIALOG__VENDOR_TAB_FRAME_NO_ITEM_MSG" type="static">
+			</Widget>
+			<Widget frame="620,462,96,24" halign="right" padding="1,0" text="STR_VENDOR_WORLD_DIALOG__REGISTRATION_AMOUNT" type="static">
+			</Widget>
+			<Widget frame="9,490,570,24" halign="left" text="STR_VENDOR_WORLD_DIALOG__PAPER_DOLL_GUIDE" type="static">
+			</Widget>
+			<Widget font="v3_money" frame="719,462,84,24" halign="center" name="total_item_count" preset="v4_staticbox" type="static" valign="middle">
+			</Widget>
+			<Widget frame="585,489,110,26" h_pos_align="right" name="refresh_btn" preset="v4_button" text="STR_VENDOR_DIALOG__VENDOR_TAB_FRAME_REFRESH_BTN" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="694,489,110,25" h_pos_align="right" name="buy_btn" preset="v4_button" text="STR_VENDOR_DIALOG__VENDOR_TAB_FRAME_BUY_BTN" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget button_size="19,19" exclusive="true" flag="vscroll" frame="6,62,157,398" item_height="22" level_space="19" name="vendor_kind" preset="v4_treeview" space="5" type="treeview">
+			</Widget>
+			<Widget button_size="21,22" button_space="2" font="v3_button" frame="172,462,466,24" name="vendor_page" page_num="10" page_size="18,22" page_space="7" space="10" type="pagecontrol">
+			</Widget>
+		</Widget>
+		<Widget frame="0,24,807,515" h_pos_align="proportion" name="tabpage_register" preset="v4_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget frame="10,8,200,24" halign="left" name="selling_tab_name" type="static">
+			</Widget>
+			<Widget frame="0,8,796,24" name="ctn_fee_desc" type="container">
+				<Widget frame="520,0,284,24" halign="left" name="fee_desc" text="STR_VENDOR_WORLD_DIALOG__FEE_TITLE" type="static">
+				</Widget>
+				<Widget frame="642,0,160,24" halign="left" name="fee_grade" type="static">
+				</Widget>
+				<Widget frame="680,0,124,24" halign="left" name="fee_grade_desc" type="static">
+				</Widget>
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" column_customizing="True" flag="truncate;vscroll" frame="5,31,800,426" header_font="v3_columnhead" header_height="24" item_height="44" item_width="44" list_padding="3,3" name="selling_item_list" preset="v4_listview_sel_frame" reserve_slots="True" scroll_type="visible" slot_num="9" type="listview" viewmode="detail">
+				<Column align="" title="STR_VENDOR_DIALOG__VENDOR_TAB_FRAME_SELLING_COLUMN_NAME" width="464">
+				</Column>
+				<Column align="right" title="STR_VENDOR_WORLD_DIALOG__COLUMN_SALE_PRICE" width="166">
+				</Column>
+				<Column align="center" title="STR_VENDOR_DIALOG__VENDOR_TAB_FRAME_SELLING_COLUMN_COUNT" width="100">
+				</Column>
+			</Widget>
+			<Widget frame="9,490,566,24" halign="left" text="STR_VENDOR_WORLD_DIALOG__REGISTRATION_NOTICE" type="static">
+			</Widget>
+			<Widget frame="533,460,89,24" halign="right" text="STR_VENDOR_DIALOG__VENDOR_TAB_FRAME_SELLING_ITEM_LIST_EXPECT_TOTAL_PRICE" type="static">
+			</Widget>
+			<Widget font="v3_money" frame="628,460,175,24" halign="right" name="money_selling" preset="v4_staticbox" type="static" valign="middle">
+			</Widget>
+			<Widget frame="694,489,110,25" h_pos_align="right" name="qina_sale_btn" preset="v4_button" text="STR_VENDOR_WORLD_DIALOG__SALE_KINA_BUTTON" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="585,489,110,26" h_pos_align="right" halign="center" name="stop_sell_btn" preset="v4_button" text="STR_VENDOR_WORLD_DIALOG__SALE_CANCLE_BUTTON" type="button" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="0,24,807,515" h_pos_align="proportion" name="tabpage_account" preset="v4_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget frame="10,8,200,24" halign="left" name="sold_tab_name" text="STR_VENDOR_DIALOG__VENDOR_TAB_FRAME_SOLD_SOLD_ITEM_LIST" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" column_customizing="True" flag="truncate" frame="5,31,798,426" header_font="v3_columnhead" header_height="24" item_height="44" item_width="44" list_padding="3,3" name="sold_item_list" page_num="9" preset="v4_listview_frame" reserve_slots="False" scroll_type="hidden" slot_num="9" type="listview" viewmode="detail">
+				<Column align="" title="STR_VENDOR_DIALOG__VENDOR_TAB_FRAME_SOLD_COLUMN_NAME" width="200">
+				</Column>
+				<Column align="right" title="STR_VENDOR_WORLD_DIALOG__COLUMN_SALE_PRICE" width="185">
+				</Column>
+				<Column align="center" title="STR_VENDOR_DIALOG__VENDOR_TAB_FRAME_SOLD_COLUMN_TIME" width="185">
+				</Column>
+				<Column align="right" title="STR_VENDOR_WORLD_DIALOG__COLUMN_INCOME_PRICE" width="180">
+				</Column>
+			</Widget>
+			<Widget frame="563,460,73,24" halign="left" text="STR_VENDOR_WORLD_DIALOG__INCOME_TOTAL_PRICE_DESC" type="static">
+			</Widget>
+			<Widget font="v3_money" frame="628,460,175,24" halign="right" name="money" preset="v4_staticbox" type="static" valign="middle">
+			</Widget>
+			<Widget frame="694,489,110,25" h_pos_align="right" name="collect_btn" preset="v4_button" text="STR_VENDOR_WORLD_DIALOG__INCOME_EXE_BUTTON" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="458,461,21,22" name="sold_last_page_btn" preset="v4_last_page" type="button">
+			</Widget>
+			<Widget frame="435,461,21,22" name="sold_next_page_btn" preset="v4_next_page" type="button">
+			</Widget>
+			<Widget frame="372,462,62,21" halign="center" name="sold_list_page" preset="v4_editbox" type="static">
+			</Widget>
+			<Widget frame="350,461,21,22" name="sold_prev_page_btn" preset="v4_prev_page" type="button">
+			</Widget>
+			<Widget frame="328,461,21,22" name="sold_first_page_btn" preset="v4_first_page" type="button">
+			</Widget>
+			<Widget flag="not_visible" frame="215,201,377,24" halign="center" name="no_sold_msg" text="STR_VENDOR_DIALOG__NO_SOLD_ITEM_MSG" type="static">
+			</Widget>
+			<Widget frame="10,491,668,23" halign="left" name="account_tip" padding="1,0" text="STR_VENDOR_WORLD_DIALOG__ACCOUNT_TIP" type="static">
+			</Widget>
+		</Widget>
+		<Widget frame="0,24,807,515" h_pos_align="proportion" name="tabpage_account_record" preset="v4_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget cell_padding="2" cell_space="0,0" column_customizing="True" flag="truncate" frame="5,31,798,426" header_font="v3_columnhead" header_height="24" item_height="44" item_width="44" list_padding="3,3" name="income_recored_list_view" preset="v4_listview_frame" reserve_slots="True" scroll_type="hidden" slot_num="9" type="listview">
+				<Column name="column_income_recored_item" title="STR_VENDOR_WORLD_DIALOG__COLUMN_ITEM" width="200">
+				</Column>
+				<Column align="right" name="column_income_recored_sale_price" title="STR_VENDOR_WORLD_DIALOG__COLUMN_SALE_PRICE" width="185">
+				</Column>
+				<Column align="right" name="column_income_recored_total_price" title="STR_VENDOR_WORLD_DIALOG__COLUMN_INCOME_PRICE" width="185">
+				</Column>
+				<Column align="center" name="column_income_recored_sale_date" title="STR_VENDOR_WORLD_DIALOG__COLUMN_SALE_DATE" width="185">
+				</Column>
+			</Widget>
+			<Widget frame="218,232,377,24" halign="center" name="no_recored_msg" text="STR_VENDOR_WORLD_DIALOG__NO_RECORD_MSG" type="static">
+			</Widget>
+			<Widget frame="0,0,805,28" name="income_recored_info_ctn" type="container">
+				<Skin name="v4_container_bg" state="0">
+				</Skin>
+				<Skin name="v4_container_bg" state="1">
+				</Skin>
+				<Widget frame="10,4,151,23" halign="left" name="income_recored_desc" padding="1,0" text="STR_UI_VENDOR_WORLD_INCOME_RECORED_STATUS" type="static">
+				</Widget>
+			</Widget>
+			<Widget color="1.0,1.0,1.0,1.0" frame="563,460,73,24" halign="right" name="income_recored_total_price_title" text="STR_VENDOR_WORLD_DIALOG__INCOME_TOTAL_PRICE_DESC" type="static">
+			</Widget>
+			<Widget font="v3_money" frame="646,460,157,24" halign="right" name="income_recored_total_price" preset="v4_staticbox" type="static" valign="middle">
+			</Widget>
+			<Widget frame="10,491,303,23" halign="left" name="income_recored_tip" padding="1,0" text="STR_VENDOR_WORLD_DIALOG__INCOME_TIP" type="static">
+			</Widget>
+			<Widget button_size="21,22" button_space="2" font="v3_button" frame="239,462,332,24" name="income_recored_page" page_num="10" page_size="18,22" page_space="7" space="10" type="pagecontrol">
+			</Widget>
+		</Widget>
+	</Widget>
+</Dialog>

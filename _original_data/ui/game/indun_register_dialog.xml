@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="left" close_offset="5,7" flag="title;close" frame="440,130,342,306" last_modified="2020-09-07 20:08:54" name="indun_register_dialog" preset="v4_dialog2" title_align="center" title_frame="3,3,135,14" title_offset="0,5" title_text="STR_INDUN_REGISTER_DIALOG" type="dlg_indun_register">
+	<Widget flag="vscroll" frame="8,39,320,82" name="desc" padding="3,3" preset="v4_container2" type="htmlview" v_pos_align="top">
+	</Widget>
+	<Widget frame="10,16,314,24" name="indun_name" type="static">
+	</Widget>
+	<Widget frame="248,260,88,26" name="close" preset="v4_button" text="STR_DLG_DIALOG__CLOSE" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget frame="0,260,96,26" name="btn_help" preset="v4_button" text="STR_COMMON__HELP" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font_size="16" frame="8,126,320,40" name="btn_request_normal" preset="v4_shop_button3" text="STR_INDUN_REGISTER_DIALOG__REGISTER_NORMAL" type="button">
+	</Widget>
+	<Widget font_size="16" frame="8,169,320,40" name="btn_request_quick" preset="v4_shop_button3" text="STR_INDUN_REGISTER_DIALOG__REGISTER_QUICK" type="button">
+	</Widget>
+	<Widget font_size="16" frame="8,212,320,40" name="btn_request_party" preset="v4_shop_button3" text="STR_INDUN_REGISTER_DIALOG__REGISTER_PARTY" type="button">
+	</Widget>
+</Dialog>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="transparent;not_movable;not_active" frame="98,2,262,101" h_pos_align="proportion" last_modified="2020-09-07 20:08:54" name="buff_status_dialog" quad_offset="0,0" type="dlg_buff_status" v_pos_align="top">
+	<Widget cell_padding="1" frame="3,3,32,32" item_height="32" item_width="32" name="buff_item1" preset="v4_buff_slot" type="itemview">
+	</Widget>
+	<Widget cell_padding="1" frame="35,3,32,32" item_height="32" item_width="32" name="buff_item2" preset="v4_buff_slot" type="itemview">
+	</Widget>
+	<Widget cell_padding="1" frame="67,3,32,32" item_height="32" item_width="32" name="buff_item3" preset="v4_buff_slot" type="itemview">
+	</Widget>
+	<Widget cell_padding="1" frame="99,3,32,32" item_height="32" item_width="32" name="buff_item4" preset="v4_buff_slot" type="itemview">
+	</Widget>
+	<Widget cell_padding="1" frame="131,3,32,32" item_height="32" item_width="32" name="buff_item5" preset="v4_buff_slot" type="itemview">
+	</Widget>
+	<Widget cell_padding="1" frame="163,3,32,32" item_height="32" item_width="32" name="buff_item6" preset="v4_buff_slot" type="itemview">
+	</Widget>
+	<Widget cell_padding="1" frame="195,3,32,32" item_height="32" item_width="32" name="buff_item7" preset="v4_buff_slot" type="itemview">
+	</Widget>
+	<Widget cell_padding="1" frame="227,3,32,32" item_height="32" item_width="32" name="buff_item8" preset="v4_buff_slot" type="itemview">
+	</Widget>
+	<Widget cell_padding="1" frame="3,35,32,32" item_height="32" item_width="32" name="buff_item9" preset="v4_buff_slot" type="itemview">
+	</Widget>
+	<Widget cell_padding="1" frame="35,35,32,32" item_height="32" item_width="32" name="buff_item10" preset="v4_buff_slot" type="itemview">
+	</Widget>
+	<Widget cell_padding="1" frame="67,35,32,32" item_height="32" item_width="32" name="buff_item11" preset="v4_buff_slot" type="itemview">
+	</Widget>
+	<Widget cell_padding="1" frame="99,35,32,32" item_height="32" item_width="32" name="buff_item12" preset="v4_buff_slot" type="itemview">
+	</Widget>
+	<Widget cell_padding="1" frame="131,35,32,32" item_height="32" item_width="32" name="buff_item13" preset="v4_buff_slot" type="itemview">
+	</Widget>
+	<Widget cell_padding="1" frame="163,35,32,32" item_height="32" item_width="32" name="buff_item14" preset="v4_buff_slot" type="itemview">
+	</Widget>
+	<Widget cell_padding="1" frame="195,35,32,32" item_height="32" item_width="32" name="buff_item15" preset="v4_buff_slot" type="itemview">
+	</Widget>
+	<Widget cell_padding="1" frame="227,35,32,32" item_height="32" item_width="32" name="buff_item16" preset="v4_buff_slot" type="itemview">
+	</Widget>
+	<Widget cell_padding="1" frame="3,66,32,32" item_height="32" item_width="32" name="buff_item17" preset="v4_buff_slot" type="itemview">
+	</Widget>
+	<Widget cell_padding="1" frame="35,66,32,32" item_height="32" item_width="32" name="buff_item18" preset="v4_buff_slot" type="itemview">
+	</Widget>
+	<Widget cell_padding="1" frame="67,66,32,32" item_height="32" item_width="32" name="buff_item19" preset="v4_buff_slot" type="itemview">
+	</Widget>
+	<Widget cell_padding="1" frame="99,66,32,32" item_height="32" item_width="32" name="buff_item20" preset="v4_buff_slot" type="itemview">
+	</Widget>
+	<Widget cell_padding="1" frame="131,66,32,32" item_height="32" item_width="32" name="buff_item21" preset="v4_buff_slot" type="itemview">
+	</Widget>
+	<Widget cell_padding="1" frame="163,66,32,32" item_height="32" item_width="32" name="buff_item22" preset="v4_buff_slot" type="itemview">
+	</Widget>
+	<Widget cell_padding="1" frame="195,66,32,32" item_height="32" item_width="32" name="buff_item23" preset="v4_buff_slot" type="itemview">
+	</Widget>
+	<Widget cell_padding="1" frame="227,66,32,32" item_height="32" item_width="32" name="buff_item24" preset="v4_buff_slot" type="itemview">
+	</Widget>
+</Dialog>
