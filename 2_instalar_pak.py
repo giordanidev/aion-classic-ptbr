@@ -1,10 +1,5 @@
 import os, shutil, subprocess, zipfile
 
-#print("Gerando arquivo .PAK!")
-#Não está funcionando para o arquivo \strings\client_strings_item2.xml
-#subprocess.call([r".\\Aion Encdec.exe", "-r", "data_ptBR.pak"])
-#print("Arquivo .PAK gerado!")
-
 orig_repack = ".\\REPACK\\data_ptBR.pak"
 dest_repack = "E:\\JOGOS\\aionclassic\\l10n\\ENG\\data\\data_ptBR.pak"
 dest_test = ".\\arquivo\\data_ptBR.pak"

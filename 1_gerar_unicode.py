@@ -2,7 +2,7 @@ import sys, os, codecs, shutil, subprocess
 
 def encode():
     print("INICIANDO!")
-    files = ["strings\\client_strings_ui.xml",
+    arquivos = ["strings\\client_strings_ui.xml",
              "strings\\client_strings_msg.xml",
              "strings\\stringtable_dialog.xml",
              "strings\\client_strings_item.xml",
@@ -12,9 +12,9 @@ def encode():
              "cutscene\\cs_ab1_001.xml"
     ]
 
-    for filename in files:
-        orig = ".\\"+filename
-        dest = ".\\PAK\\data_ptBR\\"+filename
+    for arquivo in arquivos:
+        orig = ".\\"+arquivo
+        dest = ".\\PAK\\data_ptBR\\"+arquivo
 
         print(f"Verificando se arquivo existe: {dest}")
         if os.path.isfile(dest):
