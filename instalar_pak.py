@@ -1,4 +1,4 @@
-import os,  shutil, subprocess
+import os, shutil, subprocess
 
 #print("Gerando arquivo .PAK!")
 #Não está funcionando para o arquivo \strings\client_strings_item2.xml
