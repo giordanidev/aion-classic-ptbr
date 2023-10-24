@@ -48,5 +48,6 @@ try:
     with zipfile.ZipFile(zip_test, 'r') as file:
         print(file.namelist())
     os.remove(".\\data_ptBR.pak")
+    print("Arquivo zip criado com sucesso!")
 except:
          print("Não foi possível criar o arquivo zip.")
