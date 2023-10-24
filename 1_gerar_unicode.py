@@ -9,7 +9,8 @@ def encode():
              "strings\\client_strings_item2.xml",
              "strings\\client_strings_skill.xml",
              "strings\\client_strings_level.xml",
-             "cutscene\\cs_ab1_001.xml"
+             "cutscene\\cs_ab1_001.xml",
+             "cutscene\\cs_ab1_002.xml"
     ]
 
     for arquivo in arquivos:
