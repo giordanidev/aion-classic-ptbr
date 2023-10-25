@@ -1,9 +1,15 @@
 import os, shutil, subprocess, zipfile
 
-orig_repack = ".\\REPACK\\data_ptBR.pak"
-dest_repack = "E:\\JOGOS\\aionclassic\\l10n\\ENG\\data\\data_ptBR.pak"
-dest_test = ".\\arquivo\\data_ptBR.pak"
-zip_test = ".\\arquivo\\data_ptBR.zip"
+orig_repack_eu = ".\\REPACK\\data_eu_ptBR.pak"
+dest_repack_eu = ".\\arquivo\\data_eu_ptBR.pak"
+dest_zip_eu = ".\\arquivo\\data_eu_ptBR.zip"
+
+orig_repack_na = ".\\REPACK\\data_na_ptBR.pak"
+dest_repack_na = ".\\arquivo\\data_na_ptBR.pak"
+dest_zip_na = ".\\arquivo\\data_na_ptBR.zip"
+
+# TODO
+# ARRUMAR TUDO!
 
 print(f"Instalando orig_repack: {orig_repack} -> dest_repack: '{dest_repack}'")
 print(f"Verificando se arquivo existe: {dest_repack}")
