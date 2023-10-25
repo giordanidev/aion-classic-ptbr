@@ -4,9 +4,9 @@ orig_repack_eu = ".\\REPACK\\data_eu_ptBR.pak"
 dest_repack_eu = ".\\arquivo\\data_eu_ptBR.pak"
 dest_zip_eu = ".\\arquivo\\data_eu_ptBR.zip"
 
-orig_repack_na = ".\\REPACK\\data_na_ptBR.pak"
-dest_repack_na = ".\\arquivo\\data_na_ptBR.pak"
-dest_zip_na = ".\\arquivo\\data_na_ptBR.zip"
+orig_repack_na = ".\\REPACK\\Data_na_ptBR.pak"
+dest_repack_na = ".\\arquivo\\Data_na_ptBR.pak"
+dest_zip_na = ".\\arquivo\\Data_na_ptBR.zip"
 
 # TODO
 # ARRUMAR TUDO!
