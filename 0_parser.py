@@ -14,7 +14,7 @@ arquivos = ["strings\\client_strings_ui.xml",
 ]
 """
 
-originais = ["_data_eu\\", "_data_na\\"]
+originais = ["_data_eu\\", "_Data_na\\"]
 contagem = 0
 
 for arquivo in arquivos:

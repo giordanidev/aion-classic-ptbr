@@ -16,7 +16,7 @@ def encode():
 
     for arquivo in arquivos:
         orig = ".\\"+arquivo
-        dest = ".\\PAK\\data_ptBR\\"+arquivo
+        dest = ".\\PAK\\data_eu_ptBR\\"+arquivo
 
         print(f"Verificando se arquivo existe: {dest}")
         if os.path.isfile(dest):
