@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="P01">We finally managed to capture a draconute!</Text>
+	<Text label="P02">Now to get it to Grunn.</Text>
+	<Text label="P03">Go to Primum Landing. Tell Grunn what happened here.</Text>
+	<Text label="P04">We&apos;ll follow once we get this thing ready for transport.</Text>
+</CutSceneText>

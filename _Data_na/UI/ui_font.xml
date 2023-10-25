@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Screen name="UI_Font" widget_cnt="8">
+	<Dialog flag="not_movable;visible;alwaysfittoscreen" frame="0,0,1280,1024" h_pos_align="proportion" name="font_dialog" type="dlg_font" v_pos_align="proportion">
+		<Widget frame="184,15,427,26" name="font_name_in" preset="v4_editbox" type="editbox" v_align="middle">
+		</Widget>
+		<Widget frame="68,15,110,25" name="font_name" type="static" valign="middle">
+		</Widget>
+		<Widget frame="617,15,110,25" name="font_size" type="static" valign="middle">
+		</Widget>
+		<Widget frame="738,15,89,26" name="font_size_in" preset="v4_editbox" type="editbox" v_align="middle">
+		</Widget>
+		<Widget frame="858,11,138,32" halign="center" name="apply" preset="v4_button" type="button" valign="middle">
+		</Widget>
+		<Widget flag="multiline;wordwrap" frame="16,50,1249,954" h_padding="6" h_pos_align="proportion" max_length="5000" name="playground" preset="v4_editbox" type="editbox" v_padding="6" v_pos_align="proportion">
+		</Widget>
+		<Widget frame="1018,11,138,32" halign="center" name="exit" preset="v4_button" type="button" valign="middle">
+		</Widget>
+	</Dialog>
+</Screen>

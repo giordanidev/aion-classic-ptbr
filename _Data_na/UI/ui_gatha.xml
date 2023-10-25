@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Screen last_modified="2022-07-19 15:19:25" name="UI_Gatha" version="53">
+	<Dialog close_offset="13,13" close_preset="gatha01_close_button" flag="close;title" font="gatha_title" frame="762,100,297,602" name="gatha_reward_dialog" preset="gatha01_frame2" title_align="center" title_frame="3,3,283,14" type="dlg_gatha_reward">
+		<Widget font="ui_default" frame="214,55,71,41" name="s_button" preset="gatha01_reward_tab" type="button">
+		</Widget>
+		<Widget font="ui_default" frame="146,55,71,41" name="a_button" preset="gatha01_reward_tab" type="button">
+		</Widget>
+		<Widget font="ui_default" frame="78,55,71,41" name="b_button" preset="gatha01_reward_tab" type="button">
+		</Widget>
+		<Widget font="ui_default" frame="10,55,71,41" name="c_button" preset="gatha01_reward_tab" type="button">
+		</Widget>
+		<Widget cell_padding="2,2" cell_space="0,-1" flag="vscroll" font="ui_list" frame="13,98,270,475" header_font="v3_columnhead" header_height="0" item_height="44" item_width="44" list_padding="0,0" name="list" preset="v4_listview" scroll_type="visible" skin_type="version5" slot_num="11" type="listview">
+			<Column align="" title="" width="9999">
+			</Column>
+		</Widget>
+		<Widget font="ui_default" frame="14,28,171,21" name="show_fever" preset="v4_check" style="checkbox" text="STR_GACHA_DIALOG__SHOW_FEVER_REWARD" text_offset="5,0" type="button" valign="middle">
+		</Widget>
+		<Widget font="ui_default" frame="190,26,92,26" name="show_rate" preset="v4_html_button" text="STR_GACHA_DIALOG_PROBABILITY" type="button">
+		</Widget>
+		<Widget frame="12,38,273,2" preset="v5_ruler" type="image">
+		</Widget>
+		<Widget frame="231,57,36,33" name="s_image" type="image">
+			<Skin name="gatha01_reward_tab_s" state="0">
+			</Skin>
+			<Skin name="gatha01_reward_tab_s_over" state="1">
+			</Skin>
+		</Widget>
+		<Widget frame="164,57,36,33" name="a_image" type="image">
+			<Skin name="gatha01_reward_tab_a" state="0">
+			</Skin>
+			<Skin name="gatha01_reward_tab_a_over" state="1">
+			</Skin>
+		</Widget>
+		<Widget frame="96,57,36,33" name="b_image" type="image">
+			<Skin name="gatha01_reward_tab_b" state="0">
+			</Skin>
+			<Skin name="gatha01_reward_tab_b_over" state="1">
+			</Skin>
+		</Widget>
+		<Widget frame="28,57,36,33" name="c_image" type="image">
+			<Skin name="gatha01_reward_tab_c" state="0">
+			</Skin>
+			<Skin name="gatha01_reward_tab_c_over" state="1">
+			</Skin>
+		</Widget>
+	</Dialog>
+	<Dialog close_offset="13,13" close_preset="gatha01_close_button" flag="close;title" font="gatha_title" frame="53,100,296,602" name="gatha_help_dialog" preset="gatha01_frame2" title_align="center" title_frame="3,3,283,14" type="dlg_gatha_help">
+		<Widget flag="vscroll" font="ui_default" frame="14,26,268,548" html_margin="10,10" name="desc" preset="v4_staticbox" scroll_type="visible" type="htmlview" v_pos_align="proportion">
+		</Widget>
+	</Dialog>
+	<Dialog align_type="left" close_offset="12,30" close_preset="gatha01_close_button" flag="close;title" font="gatha_title" frame="218,100,412,620" name="gatha_enchant_dialog" preset="gatha01_frame" title_align="center" title_frame="3,3,406,14" title_height="40" title_offset="0,16" title_text="STR_GACHA_DIALOG" type="dlg_gatha_enchant">
+		<Widget flag="not_visible;nonclient" frame="0,0,412,620" group="fever_fx" name="fever_frame_fx" type="image">
+			<Skin name="gatha01_frame_fx">
+			</Skin>
+		</Widget>
+		<Widget font="ui_default" frame="283,18,114,24" halign="right" name="show_reward" preset="v4_quest_ind_expand" style="checkbox" text="STR_GACHA_DIALOG__SHOW_REWARD" text_offset="2,0" type="button">
+		</Widget>
+		<Widget frame="13,-3,22,28" h_pos_align="proportion" name="show_help" preset="gatha01_help_button" tooltip="STR_COMMON__HELP" type="button" v_pos_align="proportion">
+		</Widget>
+		<Widget frame="151,284,104,77" type="image">
+			<Skin name="gatha01_rank_bg">
+			</Skin>
+		</Widget>
+		<Widget frame="20,188,368,170" name="reward_bg" preset="gatha01_reward_bg" type="image">
+		</Widget>
+		<Widget flag="active" frame="48,261,74,70" name="reward_c" type="image">
+			<Skin name="gatha01_reward_c" state="0">
+			</Skin>
+			<Skin name="gatha01_reward_c_over" state="1">
+			</Skin>
+		</Widget>
+		<Widget flag="active" frame="115,210,74,70" name="reward_b" type="image">
+			<Skin name="gatha01_reward_b" state="0">
+			</Skin>
+			<Skin name="gatha01_reward_b_over" state="1">
+			</Skin>
+		</Widget>
+		<Widget flag="active" frame="212,210,74,70" name="reward_a" type="image">
+			<Skin name="gatha01_reward_a" state="0">
+			</Skin>
+			<Skin name="gatha01_reward_a_over" state="1">
+			</Skin>
+		</Widget>
+		<Widget flag="active" frame="283,261,74,70" name="reward_s" type="image">
+			<Skin name="gatha01_reward_s" state="0">
+			</Skin>
+			<Skin name="gatha01_reward_s_over" state="1">
+			</Skin>
+		</Widget>
+		<Widget frame="73,304,261,261" type="image">
+			<Skin name="gatha01_bg" state="0">
+			</Skin>
+		</Widget>
+		<Widget frame="72,304,261,261" group="challenge" name="challenge_group" type="container">
+			<Widget align="bottom" clock="True" frame="52,55,159,159" gauge_adjust="0,0" name="challenge_gauge" preset="gatha01_gauge" skin_extend="False" stage="2" state_depended="True" type="gauge">
+			</Widget>
+			<Widget frame="52,55,159,159" name="gatha_image" type="image">
+				<Skin src_image="0,0,159,159" texture="textures/gatha/success_weapon01">
+				</Skin>
+			</Widget>
+		</Widget>
+		<Widget frame="72,302,261,261" group="reward" name="reward_group" type="container">
+			<Widget frame="52,55,159,159" type="image">
+				<Skin name="gatha01_reward">
+				</Skin>
+			</Widget>
+			<Widget cell_padding="0" frame="112,115,40,40" item_height="40" item_width="40" name="reward_item" type="itemview">
+			</Widget>
+		</Widget>
+		<Widget frame="72,304,261,261" group="cover" name="gatha_cover" type="image">
+			<Skin name="gatha01_cover" state="0">
+			</Skin>
+		</Widget>
+		<Widget font="gatha_text" frame="129,284,149,23" halign="center" text="STR_GACHA_DIALOG__CURRENT_POINT" text_shade="True" type="static">
+		</Widget>
+		<Widget font="gatha_text" font_size="-32" frame="169,306,37,33" halign="right" name="gatha_point_text" text="5" text_color="1.0,1.0,0.0,1.0" text_shade="True" type="static" valign="bottom">
+		</Widget>
+		<Widget font="gatha_button" font_size="16" frame="20,449,92,93" name="reward" preset="gatha01_button" text_color="0.0,0.0,0.0,1.0" text_disabled_color="0.2588,0.2588,0.2588,1.0" text_offset="0,-3" text_over_color="0.9647,1.0,0.0,1.0" text_selected_color="0.9647,1.0,0.0,1.0" type="button" v_pos_align="bottom">
+		</Widget>
+		<Widget font="gatha_button" font_size="16" frame="299,449,92,93" name="challenge" preset="gatha01_button" text_color="0.0,0.0,0.0,1.0" text_disabled_color="0.2588,0.2588,0.2588,1.0" text_offset="0,-3" text_over_color="0.9647,1.0,0.0,1.0" text_selected_color="0.9647,1.0,0.0,1.0" type="button" v_pos_align="bottom">
+		</Widget>
+		<Widget frame="118,3,162,154" name="fever_image2" type="image">
+			<Skin name="gatha01_fever_image2" state="0">
+			</Skin>
+		</Widget>
+		<Widget clock="True" frame="27,151,356,27" name="fever_gauge" preset="gatha01_fever_gauge" tooltip="STR_GACHA_DIALOG__FEVER_GAUGE_INFO_TOOLTIP" type="gauge">
+		</Widget>
+		<Widget font="gatha_text" frame="37,175,340,22" halign="center" name="fever_text" text="Lucky Point Bar (0/100)" text_shade="True" type="static">
+		</Widget>
+		<Widget font="gatha_text" frame="198,324,23,13" halign="center" text="STR_GACHA_DIALOG__SLASH" text_shade="True" type="static" valign="bottom">
+		</Widget>
+		<Widget font="gatha_text" frame="217,322,23,13" halign="left" name="max_gatha_point_text" text="7" text_shade="True" type="static" valign="bottom">
+		</Widget>
+		<Widget frame="101,535,65,23" halign="right" text="STR_GACHA_DIALOG__MY_COIN" text_shade="True" tooltip="STR_GACHA_DIALOG__COIN_GET_INFO_TOOLTIP" type="static" v_pos_align="bottom">
+		</Widget>
+		<Widget flag="active" font="v3_money" frame="170,536,104,23" halign="right" name="my_coin" padding="5,0" text="100" tooltip="STR_GACHA_DIALOG__COIN_GET_INFO_TOOLTIP" type="static" v_pos_align="bottom">
+			<Skin name="gatha01_coin_bg">
+			</Skin>
+		</Widget>
+		<Widget font="ui_default" frame="273,533,31,30" name="add_coin" preset="gatha01_add_coin" tooltip="STR_GATHA_DIALOG__SHOPLINK" type="button">
+		</Widget>
+		<Widget frame="115,151,6,27" type="image">
+			<Skin name="gatha01_fever_separator" state="0">
+			</Skin>
+		</Widget>
+		<Widget frame="202,151,6,27" type="image">
+			<Skin name="gatha01_fever_separator" state="0">
+			</Skin>
+		</Widget>
+		<Widget frame="289,151,6,27" type="image">
+			<Skin name="gatha01_fever_separator" state="0">
+			</Skin>
+		</Widget>
+		<Widget frame="109,109,44,44" name="fever_bonus_fx1" tooltip="STR_GACHA_DIALOG__FEVER_TIME_INFO_TOOLTIP" type="image">
+		</Widget>
+		<Widget frame="155,109,44,44" name="fever_bonus_fx2" tooltip="STR_GACHA_DIALOG__FEVER_TIME_INFO_TOOLTIP" type="image">
+		</Widget>
+		<Widget frame="200,109,44,44" name="fever_bonus_fx3" tooltip="STR_GACHA_DIALOG__FEVER_TIME_INFO_TOOLTIP" type="image">
+		</Widget>
+		<Widget frame="246,109,44,44" name="fever_bonus_fx4" tooltip="STR_GACHA_DIALOG__FEVER_TIME_INFO_TOOLTIP" type="image">
+		</Widget>
+		<Widget flag="not_visible" frame="3,137,405,58" group="fever_fx" name="fever_fx" type="image">
+			<Skin name="gatha01_fever_fx">
+			</Skin>
+		</Widget>
+		<Widget frame="146,52,112,104" name="fever_blacksmith_fx" type="image">
+		</Widget>
+		<Widget frame="101,107,196,48" name="fever_image" type="image">
+			<Skin name="gatha01_fever_image" state="0">
+			</Skin>
+		</Widget>
+		<Widget flag="not_visible;nonclient" frame="109,149,44,44" name="fever_bonus1" type="image">
+			<Skin name="gatha01_fever_bonus_1">
+			</Skin>
+		</Widget>
+		<Widget flag="not_visible;nonclient" frame="155,149,44,44" name="fever_bonus2" type="image">
+			<Skin name="gatha01_fever_bonus_2">
+			</Skin>
+		</Widget>
+		<Widget flag="not_visible;nonclient" frame="200,149,44,44" name="fever_bonus3" type="image">
+			<Skin name="gatha01_fever_bonus_3">
+			</Skin>
+		</Widget>
+		<Widget flag="not_visible;nonclient" frame="246,149,44,44" name="fever_bonus4" type="image">
+			<Skin name="gatha01_fever_bonus_4">
+			</Skin>
+		</Widget>
+		<Widget frame="146,52,112,104" name="fever_bonus_gift_fx" type="image">
+		</Widget>
+		<Widget frame="146,52,112,104" name="fever_bonus_star_fx" type="image">
+		</Widget>
+	</Dialog>
+</Screen>

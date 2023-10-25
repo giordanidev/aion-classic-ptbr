@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Screen last_modified="2022-11-01 11:22:09" name="UI_Wait" version="53">
+	<Dialog close_offset="10,5" flag="title" frame="440,130,400,211" name="wait_dialog" preset="v4_dialog2" title_align="center" title_frame="3,3,416,14" title_offset="10,5" title_text="STR_WAIT_DIALOG__TITLE" type="dlg_wait" v_pos_align="middle">
+		<Widget frame="1,12,392,150" type="container">
+			<Skin name="v4_staticbox_bg">
+			</Skin>
+			<Widget frame="36,15,323,30" halign="center" name="desc" text="STR_WAIT_DIALOG__DESC" type="static" valign="middle">
+			</Widget>
+			<Widget flag="not_visible" frame="36,232,150,20" halign="right" text="STR_WAIT_DIALOG__STATIC_NUMBER" type="static">
+			</Widget>
+			<Widget color="0.9961,0.6667,0.3961,1.0" font_size="14" frame="47,68,300,30" halign="center" name="remainNumber" text_color="0.9961,0.6667,0.3961,1.0" type="static">
+			</Widget>
+			<Widget flag="not_visible" frame="36,265,150,20" halign="right" text="STR_WAIT_DIALOG__STATIC_TIME" type="static">
+			</Widget>
+			<Widget flag="not_visible" frame="47,101,300,30" halign="left" name="remainTime" type="static">
+			</Widget>
+		</Widget>
+		<Widget defbutton="False" frame="144,164,110,26" name="server_select" preset="v4_button" text="STR_WAIT_DIALOG__CANCLE" type="button" v_pos_align="bottom">
+		</Widget>
+		<Widget flag="not_visible" frame="316,327,76,26" name="quit" preset="v4_button" text="STR_WAIT_DIALOG__QUIT" type="button" v_pos_align="bottom">
+		</Widget>
+	</Dialog>
+</Screen>

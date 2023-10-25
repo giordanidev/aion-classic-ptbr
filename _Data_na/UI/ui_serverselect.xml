@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Screen last_modified="2023-06-12 17:14:42" name="UI_ServerSelect" version="53">
+	<Widget flag="not_movable;not_showfocus;visible;alwaysfittoscreen;transparent" frame="0,0,1680,1050" h_pos_align="center" name="decoration_dialog" type="window" v_pos_align="middle">
+		<Widget frame="0,0,1680,92" h_pos_align="center" type="static" v_pos_align="top">
+			<Widget frame="23,0,817,92" type="static">
+				<Skin name="lobby_deco_up_left" state="0">
+				</Skin>
+			</Widget>
+			<Widget frame="840,0,817,92" type="static">
+				<Skin name="lobby_deco_up_right" state="0">
+				</Skin>
+			</Widget>
+		</Widget>
+		<Widget frame="0,891,1680,159" h_pos_align="center" type="static" v_pos_align="bottom">
+			<Widget frame="23,0,817,159" type="static">
+				<Skin name="lobby_deco_down_left" state="0">
+				</Skin>
+			</Widget>
+			<Widget frame="840,0,817,159" type="static">
+				<Skin name="lobby_deco_down_right" state="0">
+				</Skin>
+			</Widget>
+		</Widget>
+	</Widget>
+	<Dialog flag="not_movable;visible;transparent;alwaysfittoscreen" frame="0,0,1280,960" h_pos_align="center" name="server_select_dialog" type="dlg_select_server" v_pos_align="middle">
+		<Widget flag="visible" font_size="15" frame="221,124,867,652" h_pos_align="center" halign="center" name="server_list_bg" padding="0,12" text="STR_LOBBY_SELECT__SERVER_LIST" text_color="0.93,0.93,0.87,1.0" type="static" v_pos_align="middle" valign="top">
+			<Skin name="lobby_dialog_frame" state="0">
+			</Skin>
+		</Widget>
+		<Widget frame="226,738,858,30" h_pos_align="center" name="server_status_container" type="container" v_pos_align="middle">
+			<Widget frame="0,0,858,30" h_pos_align="center" name="server_bg" type="image" v_pos_align="middle">
+				<Skin name="v4_staticbox_bg2">
+				</Skin>
+			</Widget>
+			<Widget flag="truncate" font="ui_default" font_size="14" frame="461,1,176,30" halign="left" name="server_text_01" padding="0,0" scroll_type="hidden" text="STR_SERVER_LIST_DIALOG__OPEN" type="static" valign="middle">
+			</Widget>
+			<Widget flag="truncate" font="ui_default" font_size="14" frame="676,1,176,30" halign="left" name="server_text_02" padding="0,0" scroll_type="hidden" text="STR_SERVER_LIST_DIALOG__CLOSE" type="static" valign="middle">
+			</Widget>
+			<Widget frame="431,7,16,16" image="v2_server_status_Green" name="server_stat_Green" type="image">
+				<Skin name="v2_server_status_Green">
+				</Skin>
+			</Widget>
+			<Widget frame="643,8,16,16" image="v2_server_status_Red" name="server_stat_Red" type="image">
+				<Skin name="v2_server_status_Red">
+				</Skin>
+			</Widget>
+		</Widget>
+		<Widget can_click_item="True" direction_size="4" direction_type="vertical" drag_block_separator="true" elastic_grid_max_rect="0,0,320,320" elastic_grid_size="False" fit_item_size="False" fixed_item_size="True" flag="vscroll" frame="225,159,860,574" h_pos_align="center" inner_scroll="False" item_halign="left" item_padding="2,2" item_spacing="1,1" name="main_grid" scroll_type="auto" skin_type="shop" type="grid" v_pos_align="middle">
+		</Widget>
+		<Widget frame="230,164,208,120" name="server_list_container" type="container">
+			<Widget frame="0,0,208,120" name="server_bg" preset="Server_dialog" type="image">
+			</Widget>
+			<Widget flag="truncate" font="ui_default" font_size="16" frame="16,39,176,30" halign="center" name="server_name" padding="0,0" scroll_type="hidden" text="여기는서버이름구역" type="static" valign="middle">
+			</Widget>
+			<Widget font="ui_default" font_size="15" frame="9,8,100,20" halign="left" name="server_tip" padding="2,0" text="최근 접속" text_color="0.2824,0.549,0.949,1.0" type="static" valign="middle">
+			</Widget>
+			<Widget frame="10,96,16,16" name="server_state" preset="Server_status" type="image">
+			</Widget>
+			<Widget font="ui_default" font_size="15" frame="180,95,20,18" halign="center" name="cha_info" padding="2,0" text="0" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+			</Widget>
+			<Widget frame="150,91,27,27" name="cha_icon_set" preset="Server_character_info" type="image">
+			</Widget>
+		</Widget>
+		<Widget action="request_play" flag="not_visible" font="button" font_size="12" frame="200,900,100,25" h_pos_align="center" name="logout_button" preset="lobby_button_default" text="STR_LOBBY_LOGIN__TITLE" text_color="0.66,0.72,0.72,1.0" text_over_color="0.95,1.0,0.90,1.0" text_selected_color="0.64,1.0,0.6,1.0" type="button" v_pos_align="bottom">
+		</Widget>
+		<Widget action="request_play" font="button" font_size="12" frame="377,900,100,25" h_pos_align="center" name="prev_button" preset="lobby_button_default" text="STR_LOBBY_SERVER__PREV" text_color="0.66,0.72,0.72,1.0" text_over_color="0.95,1.0,0.90,1.0" text_selected_color="0.64,1.0,0.6,1.0" type="button" v_pos_align="bottom">
+		</Widget>
+		<Widget action="request_play" defbutton="true" font="button" font_size="12" frame="535,900,100,25" h_pos_align="center" name="start_button" preset="lobby_button_default" text="STR_LOBBY_SERVER__START" text_color="0.66,0.72,0.72,1.0" text_over_color="0.95,1.0,0.90,1.0" text_selected_color="0.64,1.0,0.6,1.0" type="button" v_pos_align="bottom">
+		</Widget>
+		<Widget action="quit_login" font="button" font_size="12" frame="645,900,100,25" h_pos_align="center" name="quit_button" preset="lobby_button_default" text="STR_LOBBY_SERVER__QUIT" text_color="0.66,0.72,0.72,1.0" text_over_color="0.95,1.0,0.90,1.0" text_selected_color="0.64,1.0,0.6,1.0" type="button" v_pos_align="bottom">
+		</Widget>
+		<Widget action="quit_login" font="button" frame="10,10,272,72" h_pos_align="left" name="security_button" preset="security_info_slot" text_color="0.66,0.72,0.72,1.0" text_over_color="0.95,1.0,0.90,1.0" text_selected_color="0.64,1.0,0.6,1.0" type="button" v_pos_align="top">
+			<Widget flag="truncate" font="ui_default" font_size="16" frame="71,7,176,30" halign="center" name="security_state" padding="0,0" scroll_type="hidden" text="STR_SERVER_LIST_DIALOG_CONFIGURATION" type="static" valign="middle">
+			</Widget>
+			<Widget font="ui_default" font_size="16" frame="109,38,100,24" halign="center" name="security_info" padding="2,0" text="미등록" text_color="1.0,0.0,0.0,1.0" type="static" valign="middle">
+			</Widget>
+			<Widget frame="11,7,49,58" name="security_icon_set" preset="security_info" type="image">
+			</Widget>
+		</Widget>
+	</Dialog>
+</Screen>

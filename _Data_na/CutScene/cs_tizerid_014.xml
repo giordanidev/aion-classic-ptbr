@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="Reahl00">Oh, welcome. You came at the right time!! You all know about this person, right? It&apos;s [%username], who saved my life.</Text>
+	<Text label="KIHOK01">Of course, all those exploits are very well known in the Red Flame Brigade.</Text>
+	<Text label="Reahl01A">I will get straight to the point, as we are pressed for time.</Text>
+	<Text label="Reahl02">The intelligence bureau of the Blood Sky Knights, after assessing all the information that have been collected so far, has concluded that a large scale offensive from the Tursin Krall is imminent.</Text>
+	<Text label="Reahl03">The operational objectives of the Krall this time are extensive and elaborate, so unless we give all we&apos;ve got it would be difficult to defend against.</Text>
+	<Text label="Reahl04">The purpose of today&apos;s strategy session is to immediately establish a defense plan against the Krall offensive to minimize the losses.</Text>
+	<Text label="Hong05">Krall are about to launch such a huge offensive? Do they even have such strength left? Only thing they should be able to do is raiding the civilians transporting supplies...</Text>
+	<Text label="Vellus06">Unfortunately, what I am saying is true. The commanders have discovered that a few Elyos are handing over military information to the Krall.</Text>
+	<Text label="Hong07">Are you telling us that our proud soldiers of Tijerid are siding with the Krall bastards? Who the hell are they...?</Text>
+	<Text label="Reahl08">One of them is someone you know well. It is the traitor who recently fled after failing to assassinate the soldiers of the Tijerid Elysean Army, Jurid Jeridise.</Text>
+	<Text label="ALL09">. . . . . . . . .</Text>
+	<Text label="Reahl10">...Then, I will tell you the plan of our operation. This Krall offensive is clearly directed at all sectors of Tijerid.</Text>
+	<Text label="Reahl11">First, to stop the enemies coming from the front, the Blood Sky Knights and the First and Seventh Red Flame Squads garrisoned in the city will defend the front position of the Lewindal Stonefort!</Text>
+	<Text label="ALL12">Yes sir!</Text>
+	<Text label="Reahl13">The Second Squad will support the Third, and the Sixth will support the Fifth Squad.</Text>
+	<Text label="ALL14">Yes!</Text>
+	<Text label="Reahl15">The remaining troops of the Red Flame Squads will wait in reserve at the center of Tijerid as well as the Leftwing and Rightwing, and move quickly to reinforce in times of emergency.</Text>
+	<Text label="ALL16">I understand.</Text>
+	<Text label="Keidian17">I&apos;ve already contacted Erole, just in case.</Text>
+	<Text label="Vellus18">You need not have done that! Surely you cannot be thinking that the brave forces of Tijerid will be defeated by the likes of Krall?</Text>
+	<Text label="Reahl19">... Thank you for your hard work, Keydion.</Text>
+	<Text label="Reahl20">And [%username], I am sorry but there is one thing I would like you to do for me.</Text>
+	<Text label="SOL21">Yes.</Text>
+	<Text label="Reahl22">[Leddins Precian], the captain of the [Wilderness of Roar Outpost] has reported that the Krall nearby are showing suspicious movements.</Text>
+	<Text label="Reahl23">But as you can see, we have no troops in reserve to investigate the matter.</Text>
+	<Text label="Reahl24">And the Wilderness of Roar Outpost itself is short of men due to the defense preparations.</Text>
+	<Text label="Reahl25">I find you as reliable as any regular soldier of Tijerid Army, so I would like you to handle this.</Text>
+	<Text label="Reahl26">It would be good to go with some companions as well if you find it necessary.</Text>
+	<Text label="Reahl27">Then, I ask of you to go to [Leddins Precian] in the [Wilderness of Roar] and provide him with assistance.</Text>
+	<Text label="SOL28">Understood!</Text>
+</CutSceneText>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="Vellus00">Welcome! The national hero of Tijerid, [%username]!</Text>
+	<Text label="Reahl01">I cannot imagine what would Tijerid be like now if it weren&apos;t for you...</Text>
+	<Text label="Reahl02">I apologize that I didn&apos;t consider your advice carefully enough.</Text>
+	<Text label="Vellus03">Anyway, I wonder how did those Krall think of feigning a frontal assault while sneaking into the underground waterway to poison the city&apos;s water supply...</Text>
+	<Text label="Reahl04">This is too shrewd for a Krall to come up with.</Text>
+	<Text label="Vellus05">It wasn&apos;t the Krall! It must&apos;ve been Jurid who came up with it! How dare he even think of massacring ordinary citizens when he already attempted to revolt!</Text>
+	<Text label="Reahl06">. . . . . .</Text>
+	<Text label="SOL07">I managed to dispose of the Krall chieftain named [Shandu], but I didn&apos;t see Jurid.</Text>
+	<Text label="Vellus08">We must mobilize our entire army and ferret him out from the hole he is hiding in!</Text>
+	<Text label="ALL09">We can&apos;t mobilize all our soldiers just to catch a traitor. They are already exhausted as it is after fighting the Krall...</Text>
+	<Text label="Vellus10">... Lord Rheal!!</Text>
+	<Text label="Vellus11">I have been with you and your brother for a long time, first as a teacher, and now as your advisor.</Text>
+	<Text label="Vellus12">I tried my best to lead both of you on to the path of righteousness, but it is my fault that Jurid has turned out this way.</Text>
+	<Text label="Vellus13">... As the responsibility lies with me, I will take it upon myself to find Jurid and put an end to all of it.</Text>
+	<Text label="Reahl14">Calm down, Sir Belus.</Text>
+	<Text label="Reahl15">Jurid is my only big brother. And it was he who should have become the Soldier of the Elysean Army...</Text>
+	<Text label="Reahl16">... If he did became one, perhaps things might not have ended up like this.</Text>
+	<Text label="Reahl17">...In any case, I wish that... You would leave this matter with me.</Text>
+	<Text label="Vellus18">...I understand, my lord. If that&apos;s what Lord Rheal thinks...</Text>
+	<Text label="Reahl19">Oh, I&apos;m sorry. I had forgotten about you, [%username], the hero who saved Tijerid.</Text>
+	<Text label="Reahl20">On behalf of Tijerid, I sincerely express my gratitude.</Text>
+	<Text label="SOL21">There is no need.</Text>
+	<Text label="Reahl22">I will have the knight guarding the audience chamber, Tellia, to prepare your reward.</Text>
+	<Text label="Reahl23">It may seem a little inadequate for all that you&apos;ve done, but I hope you will continue to work hard for the good of Tijerid.</Text>
+</CutSceneText>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="004_1">(The effect of potion seems to have almost run out)</Text>
+	<Text label="004_2">(It seems you just made it)</Text>
+	<Text label="003_1">You somehow managed to get out of there alive!</Text>
+	<Text label="003_2">You are amazing, to escape from the Krall Camp in one piece.</Text>
+	<Text label="003_3">What was their settlement like?</Text>
+	<Text label="006_1">Ugh... They&apos;ve got me... But, since I got the information... I must hurry and report to Lord Rheal...</Text>
+</CutSceneText>

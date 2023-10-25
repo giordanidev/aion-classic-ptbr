@@ -2,16 +2,17 @@ import sys, os, codecs, shutil, subprocess
 
 def encode():
     print("INICIANDO!")
-    arquivos = ["strings\\client_strings_ui.xml",
-             "strings\\client_strings_msg.xml",
-             "strings\\stringtable_dialog.xml",
-             "strings\\client_strings_item.xml",
-             "strings\\client_strings_item2.xml",
-             "strings\\client_strings_skill.xml",
-             "strings\\client_strings_level.xml",
-             "cutscene\\cs_ab1_001.xml",
-             "cutscene\\cs_ab1_002.xml"
-    ]
+    arquivos = [
+                "strings\\client_strings_ui.xml",
+                "strings\\client_strings_msg.xml",
+                "strings\\stringtable_dialog.xml",
+                "strings\\client_strings_item.xml",
+                "strings\\client_strings_item2.xml",
+                "strings\\client_strings_skill.xml",
+                "strings\\client_strings_level.xml",
+                "cutscene\\cs_ab1_001.xml", # não passar pelo parse
+                "cutscene\\cs_ab1_002.xml" # não passar pelo parse
+                ]
 
     for arquivo in arquivos:
         orig = ".\\"+arquivo

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="P01">Dranas regenerate quickly, so it&apos;s difficult to destroy them.</Text>
+	<Text label="P02">I struggled with the solution for quite a while.</Text>
+	<Text label="P03">But then I realized....</Text>
+	<Text label="P04">Have you noticed the Klaws in Balaurea?</Text>
+	<Text label="P05">They have a digestive gland strong enough to digest even Dranas.</Text>
+	<Text label="P06">Recover a Klaw&apos;s Digestive Gland and take it to Diana of Sanctum.</Text>
+	<Text label="P07">She will make you a powerful Drana solvent.</Text>
+</CutSceneText>

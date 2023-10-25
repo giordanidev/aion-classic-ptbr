@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="P01">Wait, this is the new Daeva?</Text>
+	<Text label="P02">This &quot;Daeva&quot; used to be one of Ulgorn&apos;s Raiders!</Text>
+	<Text label="P03">This has got to be a joke!</Text>
+	<Text label="P04">An ex-raider becoming a Daeva?</Text>
+	<Text label="P05">
+	</Text>
+	<Text label="P06">Show the proof of your divinity for all to see!</Text>
+	<Text label="P07">In the name of Azphel,</Text>
+	<Text label="P08">I recognize you as a Daeva!</Text>
+	<Text label="P09">Young Daeva,</Text>
+	<Text label="P10">you will now be trusted with protecting Asmodae</Text>
+	<Text label="P11">and securing victory once and for all.</Text>
+</CutSceneText>

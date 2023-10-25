@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="JE0">What happened here, is...</Text>
+	<Text label="JE00">Patie! There is an item missing! Did you forget it again?</Text>
+	<Text label="PET01">What are you talking about! I do forget things often, but it isn&apos;t me this time!</Text>
+	<Text label="JE02">Patie, I can forgive mistakes, but not lies!</Text>
+	<Text label="PET03">What a thing to say! Are you blaming me even without checking what really happened?</Text>
+	<Text label="JE04">Wait, wait Patie!</Text>
+	<Text label="JE05">Patie... Uhm, the thing is... It was actually Gais who...</Text>
+	<Text label="PET06">Forget it. I&apos;ve already heard about it from this person.</Text>
+	<Text label="JE07">Oh... Ri-right....</Text>
+	<Text label="PET8">I assume you have something to say to me?</Text>
+	<Text label="JE09">I&apos;m sorry... I really don&apos;t know how to apologize to you for this...</Text>
+	<Text label="PET10">Hmm, well, it&apos;s all right. I&apos;ll forgive you, since you said you are sorry.</Text>
+	<Text label="JE11">... Really...?</Text>
+	<Text label="PET12">Yes. To be honest, it is true that I am normally quite careless, right? And you&apos;ve been cleaning up my mess all this time.</Text>
+	<Text label="JE13">That&apos;s true, but...</Text>
+	<Text label="PET14">So, let&apos;s just call it even. I&apos;ve never actually thanked you properly for all you&apos;ve done for me, anyway.</Text>
+</CutSceneText>

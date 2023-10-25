@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="Self">Hm... I can&apos;t decide...</Text>
+	<Text label="Warr1">What an adventurer really need is strength, isn&apos;t it?</Text>
+	<Text label="Warr2">That feeling of striking a monster and defeating it is simply the best!</Text>
+	<Text label="Warr3">Not anyone can swing those stylish weapons around~!!</Text>
+	<Text label="Cler1">Tsk tsk, what is so good about such primitive bragging of brawn, anyway...</Text>
+	<Text label="Cler2">The best is without a doubt the Cleric who is loved by all!</Text>
+	<Text label="Cler3">Don&apos;t you think a real adventurer is someone who is essential in any group?</Text>
+	<Text label="Mage1">Huhu, magic is the choice of a true adventurer, don&apos;t you know~</Text>
+	<Text label="Mage2">A Mage who concentrates his mind to blow enemies with a single strike is just so cool~</Text>
+	<Text label="Scou1">Tut tut, what a bunch of dimwits... Don&apos;t you know the Scout is in fashion now?</Text>
+	<Text label="Scou2">Which bumpkins still choose those banal classes?</Text>
+	<Text label="Scou3">Only a speedy Scout can know about the hidden joys of the game!</Text>
+	<Text label="Every">What!!</Text>
+	<Text label="Nare1">Warrior</Text>
+	<Text label="Nare2">Cleric</Text>
+	<Text label="Nare3">Mage</Text>
+	<Text label="Nare4">Scout</Text>
+</CutSceneText>

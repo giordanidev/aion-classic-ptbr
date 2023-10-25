@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="REAL01">Ah, you are here.... [%username], I&apos;ve summoned you to entrust you with a special mission.</Text>
+	<Text label="REAL02">Are you aware that the Krall&apos;s attacks lately have become more intense? This is related to that.</Text>
+	<Text label="BELUS03">Of course, those puny offensives by the Krall are nothing when compared to the might of our Tijerid...</Text>
+	<Text label="BELUS04">But, I find it quite suspicious that they&apos;ve been aiming specifically for the weak spots of our Tijerid forces recently.</Text>
+	<Text label="REAL05">And incredibly, the Krall apparently know exactly what our garrison&apos;s vulnerabilities are.</Text>
+	<Text label="BELUS06">They&apos;ve singled out important military facilities like the supply depots and armories for raids...</Text>
+	<Text label="BELUS07">And when we send troops in response, they already know the movement route of our troops and withdraw quickly...</Text>
+	<Text label="BELUS08">None of the units were able to engage the Krall properly in a battle, yet.</Text>
+	<Text label="BELUS09">This means, it is highly likely that someone who knows our forces well is cooperating with the Krall.</Text>
+	<Text label="BELUS10">Someone who has a complete grasp of the movements of all units, which is a classified military information of Tijerid...</Text>
+	<Text label="REAL11">...Please don&apos;t worry about me. Please continue.</Text>
+	<Text label="BELUS12">I&apos;m saying it is highly probable that those rebels who attempted to assassinate the soldiers of the Elysean Army may have leaked the information to the Krall.</Text>
+	<Text label="BELUS13">Of course, it still requires a thorough investigation, though.</Text>
+	<Text label="REAL14">So I decided that someone should go and find out who is behind the Krall.</Text>
+	<Text label="BELUS15">And in order to do that, I&apos;ve set up a plan to infiltrate the Krall&apos;s main base and discover what is going on.</Text>
+	<Text label="SOL16">What? No way...</Text>
+	<Text label="BELUS17">Hahahaha! You look pale, [%username]. Don&apos;t be too shocked.</Text>
+	<Text label="BELUS18">As much faith as we have on you, we wouldn&apos;t give you an order to kill every Krall in sight and charge to the middle of the Krall&apos;s main base.</Text>
+	<Text label="BELUS19">Well, in my younger days it would&apos;ve been a piece of cake, but it would be too much for you. Muahaha!</Text>
+	<Text label="REAL20">Please stop teasing me and get to the point.</Text>
+	<Text label="BELUS21">I&apos;ve summoned you because there are other ways, you know. Do you know of a wizard called [Drenon Mines]?</Text>
+	<Text label="SOL22">Yes, during the previous catapult mission...</Text>
+	<Text label="BELUS23">Oh, this will be easy, then. Go and see that old hag. She should have ready for you a perfect potion you can use to sneak into the Krall den.</Text>
+	<Text label="REAL24">I am told that the name of the Krall chieftain is [Shandu]. You should be able to find out where he is by questioning the Goblin Engineer we captured last time.</Text>
+	<Text label="BELUS25">As [Glass of Tree] in the [Leftwing Port] is guarding the prison, go and ask the chap to see the captive.</Text>
+	<Text label="REAL26">I wish you luck, then. [%username].</Text>
+	<Text label="BELUS27">What did you say!! Jurid that fool...!</Text>
+	<Text label="REAL28A">Did you definitely see them correctly?</Text>
+	<Text label="SOL28B">Yes, I swear it was them.</Text>
+	<Text label="BELUS29A">We must mobilize the Blood Sky Knights and the Red Flame Brigade immediately and punish them!</Text>
+	<Text label="REAL29B">. . . . . .</Text>
+	<Text label="BELUS30A">Lord Mikael, you must not hesitate!</Text>
+	<Text label="REAL30B">...Well, let&apos;s calm down a little. We only lacked the evidence, but weren&apos;t we already expecting something like this, anyway?</Text>
+	<Text label="BELUS31">Are you still agonizing over your blood tie, when things have gone this far?!</Text>
+	<Text label="REAL32">...No, that&apos;s not it. But... Let us not move hastily, without learning just what exactly it is that they are aiming for.</Text>
+	<Text label="BELUS33">Hm... Well, if you say so, Lord Mikael...</Text>
+	<Text label="REAL34">They must be provoking the Elyos sporadically because they are up to something big.</Text>
+	<Text label="REAL35">Let&apos;s first send messages to the captains of all regional outposts, telling them to increase the number of scouts and follow the movements of Krall closely.</Text>
+	<Text label="BELUS36">I understand.</Text>
+	<Text label="REAL37">Oh, I forgot about you... I am very grateful, [%username], as if not for you we wouldn&apos;t have learned of all this.</Text>
+	<Text label="REAL38">I will leave the reward for this success with Tellia who is in front of the audience chamber, so don&apos;t forget to pick it up when you leave.</Text>
+	<Text label="SOL39">Thank you.</Text>
+</CutSceneText>

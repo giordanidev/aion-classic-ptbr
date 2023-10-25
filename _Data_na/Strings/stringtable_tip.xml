@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<string_tips generated_time="2023/07/20 20:02:48">
+	<string_tip>
+		<id>920001</id>
+		<name>STR_TIP_BASIC001</name>
+		<body>Tip: You do not lose XP when you are killed by a player in the Arena or PvP. </body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920002</id>
+		<name>STR_TIP_BASIC002</name>
+		<body>Tip: You do not lose Abyss Points when you are killed by a player in the Arena or PvP. </body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920003</id>
+		<name>STR_TIP_BASIC003</name>
+		<body>Tip: Learn new skills by purchasing a Skill Book from the Class Instructor or Trainer.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920004</id>
+		<name>STR_TIP_BASIC004</name>
+		<body>Tip: Access Help by pressing the &lt;H&gt; key.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920005</id>
+		<name>STR_TIP_BASIC005</name>
+		<body>Tip: After Level 6, you lose XP when you die.\nSome lost XP can be restored by Soul Healers next to Obelisks. </body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920006</id>
+		<name>STR_TIP_BASIC006</name>
+		<body>Tip: To change where you resurrect when you die, bind to an Obelisk.\nTo find nearby Obelisks type &quot;/where obelisk&quot;.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920007</id>
+		<name>STR_TIP_BASIC007</name>
+		<body>Tip: The Abyss is available to characters Level 25 or higher.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920008</id>
+		<name>STR_TIP_BASIC008</name>
+		<body>Tip: To link information on an item, quest, or skill in Chat, press the Ctrl key then Right-Click the item.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920009</id>
+		<name>STR_TIP_BASIC009</name>
+		<body>Tip: To link quest information in Chat, press the Ctrl key then Right-Click the Quests Window.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920010</id>
+		<name>STR_TIP_BASIC010</name>
+		<body>Tip: To link item information in Chat, press the Ctrl key then Right-Click the Item in the Crafting Window</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920011</id>
+		<name>STR_TIP_BASIC011</name>
+		<body>Tip: To view a character&apos;s class, level, or other information, Click the name of the character in Chat.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920012</id>
+		<name>STR_TIP_BASIC012</name>
+		<body>Tip: To preview weapons and armor on your character, press the Ctrl key then Click the item.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920013</id>
+		<name>STR_TIP_BASIC013</name>
+		<body>Tip: To change the camera angle press the Shift key then Right-Click and drag.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920014</id>
+		<name>STR_TIP_BASIC014</name>
+		<body>Tip: Toggle Auto-Run by pressing &lt;NumLock&gt; or Clicking both mouse buttons at the same time.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920015</id>
+		<name>STR_TIP_BASIC015</name>
+		<body>Tip: To reduce loading times adjust graphic settings &lt;Start Menu-Preferences-Graphics Settings&gt;.\n They can also be auto adjusted by turning on &lt;Auto&gt;</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920016</id>
+		<name>STR_TIP_BASIC016</name>
+		<body>Tip: Cities and many towns have Mailboxes where you can send and receive mail.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920017</id>
+		<name>STR_TIP_BASIC017</name>
+		<body>Tip: It&apos;s not the fall that gets you, it&apos;s the impact! Falling from a great height will inflict potentially fatal fall damage.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920018</id>
+		<name>STR_TIP_BASIC018</name>
+		<body>Tip: You can Ascend as a Daeva and choose a sub-class when you reach Level 10.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920019</id>
+		<name>STR_TIP_BASIC019</name>
+		<body>Tip: The green gauge around the Fly button (wings icon) displays your remaining flying time.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920020</id>
+		<name>STR_TIP_BASIC020</name>
+		<body>Tip: Daevas can glide by pressing the &lt;Space Bar&gt; in the middle of a jump.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920021</id>
+		<name>STR_TIP_BASIC021</name>
+		<body>Tip: Zones that are extremely populated may have more than one Zone Channel. Group members need to be on the same Channel.\nChange your Channel number in &lt;Start Menu-Support-Change Channel&gt;.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920022</id>
+		<name>STR_TIP_BASIC022</name>
+		<body>Tip: The Fly button (wings icon) toggles flight on and off.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920023</id>
+		<name>STR_TIP_BASIC023</name>
+		<body>Tip: Aggressive monsters and characters of opposing races are displayed as red dots on the Compass.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920024</id>
+		<name>STR_TIP_BASIC024</name>
+		<body>Tip: Whisper back to the last person who sent you a Whisper by pressing the &lt;T&gt; key.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920025</id>
+		<name>STR_TIP_BASIC025</name>
+		<body>Tip: Check the box in the Quest Window to load a quest in the Quest Tracker.\nQuest Tracker allows you to monitor your quest progress from the UI while playing.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920026</id>
+		<name>STR_TIP_BASIC026</name>
+		<body>Tip: Click blue words in quests to bring up a definition with more detailed information.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920027</id>
+		<name>STR_TIP_BASIC027</name>
+		<body>Tip: The Menu button at the bottom of the screen offers access to many useful windows. Default &lt;F10&gt; key for Menu.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920028</id>
+		<name>STR_TIP_BASIC028</name>
+		<body>Tip: Group Leaders can display brands on targets by Right-Clicking the Show Brand Action in the Skills window.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920029</id>
+		<name>STR_TIP_BASIC029</name>
+		<body>Tip: Press &lt;B&gt; key to activate or deactivate equipped Power Shards.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920030</id>
+		<name>STR_TIP_BASIC030</name>
+		<body>Tip: Find NPCs or locations by typing &quot;/where CharacterName&quot; in Chat.\n Typing &quot;/where&apos; in Chat will cancel.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920031</id>
+		<name>STR_TIP_BASIC031</name>
+		<body>Tip: To view both the Map and the Game Screen at the same time, use the transparent overlay. Default &lt;N&gt; key.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920032</id>
+		<name>STR_TIP_BASIC032</name>
+		<body>Tip: To mark locations on your Map and link to them in chat, press Ctrl then Right-Click on the Map.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920033</id>
+		<name>STR_TIP_BASIC033</name>
+		<body>Tip: Right-Clicking a location mark you&apos;ve made on the Map opens a pop-up menu with additional features.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920034</id>
+		<name>STR_TIP_BASIC034</name>
+		<body>Tip: Clicking the Abandon button on the Crafting Request in the Mission/Quests Window will abandon the current Crafting Quest.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920035</id>
+		<name>STR_TIP_BASIC035</name>
+		<body>Tip: When your Craft skill is maxed out for your Skill Level, talk to a Crafting Master to access the next level.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920036</id>
+		<name>STR_TIP_BASIC036</name>
+		<body>Tip: To view current Legion or Character rankings, first click the Influence Ratio icon on the bottom right of the screen, then the Abyss Rank button.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920037</id>
+		<name>STR_TIP_BASIC037</name>
+		<body>Tip: Legions can only be created or disbanded by visiting the Legions Board in Pandaemonium or Sanctum.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920038</id>
+		<name>STR_TIP_BASIC038</name>
+		<body>Tip: Moving during combat can increase your defense or attack.\nOn-screen arrows indicate the current active bonuses.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920039</id>
+		<name>STR_TIP_BASIC039</name>
+		<body>Tip: Up to three additional Quickbars, as well as two floating Quickbars, are available in &lt;Preferences-Game Options-UI&gt;.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920040</id>
+		<name>STR_TIP_BASIC040</name>
+		<body>Tip: Fortresses and cities have warehouses where you can store spare items.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920041</id>
+		<name>STR_TIP_BASIC041</name>
+		<body>Tip: All characters on an account share one account warehouse.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920042</id>
+		<name>STR_TIP_BASIC042</name>
+		<body>Tip: Expand your Cube (inventory) space by visiting a Cube Artisan.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920043</id>
+		<name>STR_TIP_ADVANCED001</name>
+		<body>Tip: Rifts are corridors to enemy territory. There is a limit on the number of characters who can travel through a Rift. </body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920044</id>
+		<name>STR_TIP_ADVANCED002</name>
+		<body>Tip: Toggle the Altitude Lock while Flying by pressing &lt;Scroll Lock&gt;.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920045</id>
+		<name>STR_TIP_ADVANCED003</name>
+		<body>Tip: To copy character, item, or location information from Chat to your Memo Pad, Right-Click the information.\nNavigate to your Memo Pad through Menu/Community.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920046</id>
+		<name>STR_TIP_ADVANCED004</name>
+		<body>Tip: Capturing a fortress in the Abyss temporarily boosts the abilities of all members of the conquering race.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920047</id>
+		<name>STR_TIP_ADVANCED005</name>
+		<body>Tip: Significant differences in influence ratio will give a PvP boost to the disadvantaged race.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920048</id>
+		<name>STR_TIP_ADVANCED006</name>
+		<body>Tip: Fortresses and cities have Abyss Distributors where you can spend Abyss Points on armor and weapons.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920049</id>
+		<name>STR_TIP_ADVANCED007</name>
+		<body>Tip: You can consume food and beverages at the same time.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920050</id>
+		<name>STR_TIP_ADVANCED008</name>
+		<body>Tip: At Level 20, you can start quests that qualify you to equip Stigma Stones.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920051</id>
+		<name>STR_TIP_ADVANCED009</name>
+		<body>Tip: In increasing order of rarity and value, Normal items are White, Rare are Green, Heroic are Blue, and Fabled are Yellow.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920052</id>
+		<name>STR_TIP_ADVANCED010</name>
+		<body>Tip: Once you reach Level 20 or higher, you can change your item appearance via the Item Remodeller in a city.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920053</id>
+		<name>STR_TIP_ADVANCED011</name>
+		<body>Tip: Enchanting your weapon with Godstones is a snap. Just Double-Click and apply it to your weapon of choice.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920054</id>
+		<name>STR_TIP_ADVANCED012</name>
+		<body>Tip: Quest types include &apos;Missions&apos;, &apos;Quests&apos;, and &apos;Crafting Quests&apos;.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920055</id>
+		<name>STR_TIP_ADVANCED013</name>
+		<body>Tip: When a quest marker appears as a double arrow, the NPC has a reward waiting for you.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920056</id>
+		<name>STR_TIP_ADVANCED014</name>
+		<body>Tip: To toggle the camera view to face your character, click the &lt;Scroll Wheel&gt;.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920057</id>
+		<name>STR_TIP_ADVANCED015</name>
+		<body>Tip: Default &lt;Shift-Z&gt; to switch between weapons.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920058</id>
+		<name>STR_TIP_ADVANCED016</name>
+		<body>Tip: You don&apos;t have to go to a mailbox to read Express Mail.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920059</id>
+		<name>STR_TIP_ADVANCED017</name>
+		<body>Tip: When you receive Express Mail, just click the Express Mail Icon next to your Compass.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920060</id>
+		<name>STR_TIP_ADVANCED018</name>
+		<body>Tip: You can check your Chain Skills in the Skills Window.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920061</id>
+		<name>STR_TIP_ADVANCED019</name>
+		<body>Tip: Cycle through nearby targets by pressing &lt;Tab&gt;.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920062</id>
+		<name>STR_TIP_ADVANCED020</name>
+		<body>Tip: The number of dots on the left of the Target Window indicates the difficulty of the monster.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920063</id>
+		<name>STR_TIP_ADVANCED021</name>
+		<body>Tip: Some hard-to-find NPCs wander around or only appear at specific times, rather than remaining in one spot.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920064</id>
+		<name>STR_TIP_ADVANCED022</name>
+		<body>Tip: View the current status of the Abyss War by selecting the Abyss on the Map.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920065</id>
+		<name>STR_TIP_ADVANCED023</name>
+		<body>Tip: When a Legion reaches Level 3, they can design and register their own Legion Emblem. </body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920066</id>
+		<name>STR_TIP_ADVANCED024</name>
+		<body>Tip: DP does not reset until the character has been logged off for 5 minutes.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920067</id>
+		<name>STR_TIP_ADVANCED025</name>
+		<body>Tip: Well-timed attacks can interrupt an enemy&apos;s Skill or Spell. </body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920068</id>
+		<name>STR_TIP_ADVANCED026</name>
+		<body>Tip: Altered States may cause you to become temporarily immobilized or unable to fight.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920069</id>
+		<name>STR_TIP_ADVANCED027</name>
+		<body>Tip: Altered States such as Bleed, Poison, or Burn will cause you to suffer periodic damage. </body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920070</id>
+		<name>STR_TIP_ADVANCED028</name>
+		<body>Tip: You do not lose XP when you are killed in the Arena.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920071</id>
+		<name>STR_TIP_ADVANCED029</name>
+		<body>Tip: Spiritmasters can issue commands to Spirits by using the Command buttons next to the Quickbar.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920072</id>
+		<name>STR_TIP_ADVANCED030</name>
+		<body>Tip: When you use an item to transform into a Worg or Karnif, you will cannot use skills.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920073</id>
+		<name>STR_TIP_ADVANCED031</name>
+		<body>Tip: Dredgions take interest in the race with a higher Influence Ratio.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920074</id>
+		<name>STR_TIP_ADVANCED032</name>
+		<body>Tip: Artifacts play an important strategic role in a Fortress Siege.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920075</id>
+		<name>STR_TIP_ADVANCED033</name>
+		<body>Tip: You can earn Abyss Points in Fortress Battles, or by hunting monsters in the Abyss.  </body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920076</id>
+		<name>STR_TIP_ADVANCED034</name>
+		<body>Tip: Special skills may be available depending on your Abyss Rank.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920077</id>
+		<name>STR_TIP_ADVANCED035</name>
+		<body>Tip: Teleporting is more expensive in the Abyss when a Fortress Battle is in progress there. </body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920078</id>
+		<name>STR_TIP_ADVANCED036</name>
+		<body>Tip: You can use a Gate Repair Stone to Repair a Gate</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920079</id>
+		<name>STR_TIP_ADVANCED037</name>
+		<body>Tip: The Aetheric Field of a fortress is lost when the Aetheric Field Generator is destroyed. </body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920080</id>
+		<name>STR_TIP_ADVANCED038</name>
+		<body>Tip: Using higher level Enchantment Stones, increases the success rate of Enchantments. </body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920081</id>
+		<name>STR_TIP_ADVANCED039</name>
+		<body>Tip: If you have armor or weapons you no longer want, you can create Enchantment Stones by using Extraction tools.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920082</id>
+		<name>STR_TIP_ADVANCED040</name>
+		<body>Tip: You can extract higher level Enchantment Stones from higher ranked items. </body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920083</id>
+		<name>STR_TIP_ADVANCED041</name>
+		<body>Tip: A failed Enchantment attempt weakens previous Enchantments on that item by 1 level.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920084</id>
+		<name>STR_TIP_ADVANCED042</name>
+		<body>Tip: To use a Godstone to strengthen an item, you need to visit a Godstone Socketer.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920085</id>
+		<name>STR_TIP_ADVANCED043</name>
+		<body>Tip: Soul Bound items cannot be sold or traded to other characters, but can be sold to Merchants.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920086</id>
+		<name>STR_TIP_ADVANCED044</name>
+		<body>Tip: To divide multiple items, use Shift then Double-Click the item stack.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920087</id>
+		<name>STR_TIP_ADVANCED045</name>
+		<body>Tip: A Critical Success during crafting will result in a higher tier item, which will have better bonuses.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920088</id>
+		<name>STR_TIP_ADVANCED046</name>
+		<body>Tip: Increase your crafting skills faster by completing Work Orders.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920089</id>
+		<name>STR_TIP_ADVANCED047</name>
+		<body>Tip: Players can type &quot;/dice&quot; or &quot;/roll&quot; to make random decisions.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920090</id>
+		<name>STR_TIP_ADVANCED048</name>
+		<body>Tip: Group Leaders can choose to divide loot by having members roll dice or bid on items.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920091</id>
+		<name>STR_TIP_ADVANCED049</name>
+		<body>Tip: Sell all junk items at once by clicking &lt;Sell all Misc&gt; in the merchant&apos;s Sell Window.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920092</id>
+		<name>STR_TIP_ADVANCED050</name>
+		<body>Tip: Trade Brokers allow you to buy or sell items on consignment.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920093</id>
+		<name>STR_TIP_ADVANCED051</name>
+		<body>Tip: Once your Legion is Level 2 or higher, you can use the Legion Item Merchant.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920094</id>
+		<name>STR_TIP_ADVANCED052</name>
+		<body>Tip: You can attach items or Kinah to mail that you send.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920095</id>
+		<name>STR_TIP_ADVANCED053</name>
+		<body>Tip: When mail arrives, a letter icon will appear next to the Compass. To read regular mail, go to a mailbox.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920096</id>
+		<name>STR_TIP_ADVANCED054</name>
+		<body>Tip: Use the Auto Arrange Inventory button at the bottom of your Cube to sort items by type.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920097</id>
+		<name>STR_TIP_ADVANCED055</name>
+		<body>Tip: A Daeva that finds themselves in water may be prevented from taking flight. Deep water is dangerous and can injure or kill characters.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920098</id>
+		<name>STR_TIP_ADVANCED056</name>
+		<body>Tip: Some food, items, and potions increase the duration of your flying time.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920099</id>
+		<name>STR_TIP_ADVANCED057</name>
+		<body>Tip: You cannot use items while gliding.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920100</id>
+		<name>STR_TIP_ADVANCED058</name>
+		<body>Tip: Once you become a Daeva, you can use a teleporter to travel to other regions and cities.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920101</id>
+		<name>STR_TIP_ADVANCED059</name>
+		<body>Tip: You cannot use items while on an Airship or Hoverstone.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920102</id>
+		<name>STR_TIP_ADVANCED060</name>
+		<body>Tip: Emotes can liven up your communication with other players.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920103</id>
+		<name>STR_TIP_ADVANCED061</name>
+		<body>Tip: Make your skills, actions, and items more accessible by dragging them to the Quickbars.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920104</id>
+		<name>STR_TIP_ADVANCED062</name>
+		<body>Tip: You can lock the Quickbar slots by clicking the Padlock icon to the left of the Quickbar.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920105</id>
+		<name>STR_TIP_ADVANCED063</name>
+		<body>Tip: The UI can be toggled off for clean screenshots by pressing &lt;F12&gt;.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920106</id>
+		<name>STR_TIP_ADVANCED064</name>
+		<body>Tip: To hide all other players on the screen, toggle with &lt;Shift-F12&gt;.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920107</id>
+		<name>STR_TIP_ADVANCED065</name>
+		<body>Tip: When your icon on the Compass is magenta, you are at an altitude that risks fatal fall damage.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920108</id>
+		<name>STR_TIP_ADVANCED066</name>
+		<body>Tip: The &lt;Enter&gt; key opens the Chat Window.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920109</id>
+		<name>STR_TIP_ADVANCED067</name>
+		<body>Tip: Click and drag the Chat Window tabs to rearrange them, or to put them anywhere on the screen.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920110</id>
+		<name>STR_TIP_ADVANCED068</name>
+		<body>Tip: To send another Whisper to the same person, press &lt;Tab&gt; while in the Chat Window.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920111</id>
+		<name>STR_TIP_ADVANCED069</name>
+		<body>Tip: Video Tutorials are available in &lt;1:1 Inquiries-Beginner Help&gt;.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920112</id>
+		<name>STR_TIP_ADVANCED070</name>
+		<body>Tip: You can see how your Class Skills chain together in the Chain tab of the Skills Window.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920113</id>
+		<name>STR_TIP_ADVANCED071</name>
+		<body>Tip: For easier communication, add friends to your Friends list. Default &lt;V&gt; key for Social.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920114</id>
+		<name>STR_TIP_ADVANCED072</name>
+		<body>Tip: Display the distance to your target in &lt;Preferences-Game Options-Combat Info&gt;.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920115</id>
+		<name>STR_TIP_ADVANCED073</name>
+		<body>Tip: Set the UI to top or bottom in &lt;Preferences-Game Options-UI&gt;.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920116</id>
+		<name>STR_TIP_ADVANCED074</name>
+		<body>Tip: Macros allow more convenient access to sequences of actions you perform frequently.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920117</id>
+		<name>STR_TIP_ADVANCED075</name>
+		<body>Tip: To Auto-Follow a targeted group member, Double-Click the Group Window.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920118</id>
+		<name>STR_TIP_ADVANCED076</name>
+		<body>Tip: Important hints for quests may appear in NPC dialogs and cutscenes.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920119</id>
+		<name>STR_TIP_ADVANCED077</name>
+		<body>Tip: Complete Coin Quests to earn more Coins, which can be exchanged for valuable or rare rewards. </body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920120</id>
+		<name>STR_TIP_ADVANCED078</name>
+		<body>Tip: Certain monsters drop items that begin quests.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920121</id>
+		<name>STR_TIP_ADVANCED079</name>
+		<body>Tip: When a monster shouts during combat, its companions may join the fight.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920122</id>
+		<name>STR_TIP_ADVANCED080</name>
+		<body>Tip: Monsters with unique names are more powerful, and drop more valuable items.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920123</id>
+		<name>STR_TIP_ADVANCED081</name>
+		<body>Tip: NPCs in enemy bases have more powerful stats and skills than normal monsters.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920124</id>
+		<name>STR_TIP_ADVANCED082</name>
+		<body>Tip: Treasure Chests don&apos;t always yield valuable items.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920125</id>
+		<name>STR_TIP_ADVANCED083</name>
+		<body>Tip: Some Skills cannot be used while flying. </body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920126</id>
+		<name>STR_TIP_ADVANCED084</name>
+		<body>Tip: You cannot request a duel with a player who is in combat or trading.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920127</id>
+		<name>STR_TIP_ADVANCED085</name>
+		<body>Tip: In the Arena, all players outside your group count as enemies.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920128</id>
+		<name>STR_TIP_ADVANCED086</name>
+		<body>Tip: Prices and taxes fluctuate with your race&apos;s Influence Ratio. </body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920129</id>
+		<name>STR_TIP_ADVANCED087</name>
+		<body>Tip: Check remaining time, bindings, and resurrections at a Kisk.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920130</id>
+		<name>STR_TIP_ADVANCED088</name>
+		<body>Tip: Many towns have a Manastone Remover who can remove Manastones from an item so others can be added.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920131</id>
+		<name>STR_TIP_ADVANCED089</name>
+		<body>Tip: To restore an item&apos;s original color, buy Dye Remover from a city merchant.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920132</id>
+		<name>STR_TIP_ADVANCED090</name>
+		<body>Tip: Vortices floating in the sky provide Aether for crafting.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920133</id>
+		<name>STR_TIP_ADVANCED091</name>
+		<body>Tip: You increase your Legion&apos;s level by earning Abyss Points.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920134</id>
+		<name>STR_TIP_ADVANCED092</name>
+		<body>Tip: You can create a private chat channel for you and your friends.\nType &quot;/channelhelp&quot; to learn more.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920135</id>
+		<name>STR_TIP_ADVANCED093</name>
+		<body>Tip: Open a private store to sell things to other players. Default &lt;Y&gt; key.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920136</id>
+		<name>STR_TIP_ADVANCED094</name>
+		<body>Tip: You cannot progress some quests unless you are wearing a specific title.  </body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920137</id>
+		<name>STR_TIP_ADVANCED095</name>
+		<body>Tip: The icon next to the Compass tells you the current time of day/night.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920138</id>
+		<name>STR_TIP_ADVANCED096</name>
+		<body>Tip: To know when you can capture a fortress or artifact, hover your cursor over its icon on the Abyss Map.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920139</id>
+		<name>STR_TIP_ADVANCED097</name>
+		<body>Tip: You can reduce the size of the UI and windows in &lt;Preferences-Game Options-UI&gt;.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920140</id>
+		<name>STR_TIP_ADVANCED098</name>
+		<body>Tip: Some Merchant NPCs may only appear at certain times of day or events.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920141</id>
+		<name>STR_TIP_ADVANCED099</name>
+		<body>Tip: Test your skills against other players by dueling.\nTo Request Duel, Right-click the player or type &quot;/duel&quot;.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920142</id>
+		<name>STR_TIP_ADVANCED100</name>
+		<body>Tip: You can enable your target&apos;s target view in &lt;Preferences-Game Options-Combat Info&gt;.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920143</id>
+		<name>STR_TIP_ADVANCED101</name>
+		<body>Tip: To send a Whisper to someone, type &quot;/w CharacterName&quot; then the message in Chat.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920144</id>
+		<name>STR_TIP_BASIC043</name>
+		<body>Tip: Press &lt;H&gt; key to open Help, where you can view Beginner Help and Chat Commands info.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920145</id>
+		<name>STR_TIP_BASIC044</name>
+		<body>Tip: Limited Sale Merchant NPCs that are [Sold Out] cannot sell particular items until their goods are restocked.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920146</id>
+		<name>STR_TIP_BASIC045</name>
+		<body>Tip: Items with a one-per-day limit can&apos;t be purchased if their daily limit has been reached, even if the Merchant NPC has not [Sold Out]. Items will be available for purchase again at a specified time.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920147</id>
+		<name>STR_TIP_BASIC046</name>
+		<body>Tip: Items marked as &quot;Bundled Material Items&quot; can be split into 3 lower grade material items of the same type.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920148</id>
+		<name>STR_TIP_BASIC047</name>
+		<body>Tip: Fusing 2 two-handed weapons enhances its stats and increases its number of Manastone slots. You can combine weapons by visiting the Armsfusion Officers in large cities.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920149</id>
+		<name>STR_TIP_BASIC048</name>
+		<body>Tip: You can obtain a daily quest when you join a special organization. The daily quest is reset at 9:00 AM.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920150</id>
+		<name>STR_TIP_BASIC049</name>
+		<body>Tip: You can receive various rewards by completing daily quests.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920151</id>
+		<name>STR_TIP_BASIC050</name>
+		<body>Tip: Mist Merchants lend items for a set period of time.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920152</id>
+		<name>STR_TIP_BASIC051</name>
+		<body>Tip: A Mist item cannot be enchanted, Manastone Socketed, or sold. It disappears automatically when its time limit expires.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920153</id>
+		<name>STR_TIP_BASIC052</name>
+		<body>Tip: Using a supplement increases the success rate of enchanting or Manastone socketing. Supplements can be purchased from Potion Suppliers in every village.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920154</id>
+		<name>STR_TIP_BASIC053</name>
+		<body>Tip: When enchanting, you must use a supplement that is appropriate for the level of the weapon.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920155</id>
+		<name>STR_TIP_BASIC054</name>
+		<body>Tip: When you reach Level 50, you are allowed to travel to Balaurea. Use the Aerolink in each city.</body>
+		<rank>3</rank>
+	</string_tip>
+	<string_tip>
+		<id>920156</id>
+		<name>STR_TIP_BASIC055</name>
+		<body>Tip: Balaurea has Windstreams, which enable you to travel to your destination faster. You can catch a Windstream by gliding into it.</body>
+		<rank>3</rank>
+	</string_tip>
+	<string_tip>
+		<id>920157</id>
+		<name>STR_TIP_BASIC056</name>
+		<body>Tip: You can find a group more easily by pressing the &lt;Shift+V&gt; keys or &lt;Start Menu-Find Group&gt; to open the Find Group window.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920158</id>
+		<name>STR_TIP_BASIC057</name>
+		<body>Tip: Using the info boards in a city allows you to locate an NPC easily.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920159</id>
+		<name>STR_TIP_BASIC058</name>
+		<body>Tip: You can find out the wait time remaining for instanced zones by using &lt;Start Menu-Instance Info&gt; or the &quot;/CheckEntry&quot; command.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920160</id>
+		<name>STR_TIP_BASIC059</name>
+		<body>Tip: You can still check your mail at the Mailbox even when the Express Courier is not there.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920161</id>
+		<name>STR_TIP_BASIC060</name>
+		<body>Tip: You can&apos;t receive new mail if your Mailbox is full.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920162</id>
+		<name>STR_TIP_BASIC061</name>
+		<body>Tip: When using a Trade Broker NPC, Right-Clicking items will automatically enter the search word on the Trade Broker window.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920163</id>
+		<name>STR_TIP_BASIC062</name>
+		<body>Tip: When you reach Level 10, you may use a Teleport Statue to go to an Empyrean Lord&apos;s Temple.</body>
+		<rank>1</rank>
+	</string_tip>
+	<string_tip>
+		<id>920164</id>
+		<name>STR_TIP_ADVANCED102</name>
+		<body>Tip: You may only join one organization at a time that gives daily quests. To join another organization, you must leave the current one first.</body>
+		<rank>2</rank>
+	</string_tip>
+	<string_tip>
+		<id>920165</id>
+		<name>STR_TIP_ADVANCED103</name>
+		<body>Tip: While traveling on a Windstream, attempting to change direction or alter speed may cause you to exit.</body>
+		<rank>3</rank>
+	</string_tip>
+	<string_tip>
+		<id>920166</id>
+		<name>STR_TIP_ADVANCED104</name>
+		<body>Tip: When you defeat certain foes, ascending air currents or geysers may form nearby. You can ride the geyser to a higher elevation by gliding above it.</body>
+		<rank>3</rank>
+	</string_tip>
+</string_tips>
