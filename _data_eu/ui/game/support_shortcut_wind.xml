@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<Dialog flag="transparent" frame="0,0,600,43" last_modified="2020-09-07 20:08:54" name="support_shortcut_wind" type="dlg_shortcut_wind">
-	<Widget cell_padding="0" flag="visible" font="v3_shortcut" frame="515,1,40,40" item_height="40" item_width="40" name="skill_1" one_click_action="True" type="itemview">
-	</Widget>
-	<Widget cell_padding="0" flag="visible" font="v3_shortcut" frame="557,1,40,40" item_height="40" item_width="40" name="skill_2" one_click_action="True" type="itemview">
-	</Widget>
-</Dialog>

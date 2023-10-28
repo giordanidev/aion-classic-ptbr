@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE xml [
+    <!ENTITY nbsp "&#0160;">
+	<!ENTITY larr "&#8592;">
+]>
 <strings>
 	<string>
 		<id>280007</id>
@@ -338,7 +342,7 @@
 	<string>
 		<id>280503</id>
 		<name>STR_SKILL_Stun</name>
-		<body>Stunned</body>
+		<body>Em choque (stunned)</body>
 	</string>
 	<string>
 		<id>280529</id>
@@ -348,7 +352,7 @@
 	<string>
 		<id>280549</id>
 		<name>STR_SKILL_Stun_DESC</name>
-		<body>Você foi atingido pelo choque. Você não pode fazer nada por um período de tempo.</body>
+		<body>Você está em choque (stunned). Você não pode fazer nada por um período de tempo.</body>
 	</string>
 	<string>
 		<id>280572</id>
@@ -37218,12 +37222,12 @@
 	<string>
 		<id>288880</id>
 		<name>STR_SKILL_AS_CorruptingCut_G1_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>288881</id>
 		<name>STR_SKILL_AS_CorruptingCut_G2_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>288882</id>
@@ -37298,12 +37302,12 @@
 	<string>
 		<id>288896</id>
 		<name>STR_SKILL_PR_Tremor_G1_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>288897</id>
 		<name>STR_SKILL_PR_Tremor_G2_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>288898</id>
@@ -37448,7 +37452,7 @@
 	<string>
 		<id>288926</id>
 		<name>STR_SKILL_Stigma_CounterSlash_G1_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>288927</id>
@@ -37483,7 +37487,7 @@
 	<string>
 		<id>288933</id>
 		<name>STR_SKILL_Stigma_StunningHand_G1_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>288934</id>
@@ -37553,7 +37557,7 @@
 	<string>
 		<id>288947</id>
 		<name>STR_SKILL_Stigma_DashAttack_G1_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>288948</id>
@@ -37618,7 +37622,7 @@
 	<string>
 		<id>288960</id>
 		<name>STR_SKILL_Stigma_BlindSide_G1_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>288961</id>
@@ -37713,7 +37717,7 @@
 	<string>
 		<id>288979</id>
 		<name>STR_SKILL_Stigma_Backdashstab_G1_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>288980</id>
@@ -37738,7 +37742,7 @@
 	<string>
 		<id>288984</id>
 		<name>STR_SKILL_Stigma_CounterSlash_G2_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>288985</id>
@@ -37818,7 +37822,7 @@
 	<string>
 		<id>289000</id>
 		<name>STR_SKILL_Abyss_Def_40L_80_DMG_G1_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>289001</id>
@@ -37968,7 +37972,7 @@
 	<string>
 		<id>289030</id>
 		<name>STR_NFI_SpellLong_Earth_Nr_DESC_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>289031</id>
@@ -38118,12 +38122,12 @@
 	<string>
 		<id>289060</id>
 		<name>STR_NPR_SpellStun_Scream_DESC_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>289061</id>
 		<name>STR_NRA_StunSDownDefMd_Nr_LC_DESC_Abnormal</name>
-		<body>Stunned. [%e3.StatDown.StatName] and [%e4.StatDown.StatName] decreased.</body>
+		<body>Em choque (stunned). [%e3.StatDown.StatName] and [%e4.StatDown.StatName] decreased.</body>
 	</string>
 	<string>
 		<id>289062</id>
@@ -38183,7 +38187,7 @@
 	<string>
 		<id>289073</id>
 		<name>STR_BNEL_SpellATK_Strong_DF2Ch_DESC_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>289074</id>
@@ -38228,22 +38232,22 @@
 	<string>
 		<id>289082</id>
 		<name>STR_SKILL_FI_FirstBlade_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>289083</id>
 		<name>STR_SKILL_RA_HeavyShot_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>289084</id>
 		<name>STR_SKILL_CH_SonicStorm_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>289085</id>
 		<name>STR_SKILL_Q_OddBurn_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>289086</id>
@@ -38573,7 +38577,7 @@
 	<string>
 		<id>289151</id>
 		<name>STR_BNRA_StunSDDefdispelBFTA_Mortal_DESC_Abonrmal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>289152</id>
@@ -38623,7 +38627,7 @@
 	<string>
 		<id>289161</id>
 		<name>STR_NGR_SpellATKDrain_StunTA_Poi_DESC_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>289162</id>
@@ -38648,12 +38652,12 @@
 	<string>
 		<id>289166</id>
 		<name>STR_GFI_WingBlade_Stun_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>289167</id>
 		<name>STR_GFI_WingBladeTA_Stun_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>289168</id>
@@ -39618,7 +39622,7 @@
 	<string>
 		<id>289360</id>
 		<name>STR_GRA_SatkLong_Stun_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>289361</id>
@@ -39768,7 +39772,7 @@
 	<string>
 		<id>289390</id>
 		<name>STR_GWI_SpellStun_Nr_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>289391</id>
@@ -39783,7 +39787,7 @@
 	<string>
 		<id>289393</id>
 		<name>STR_GWI_SpellStunTA_Nr_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>289394</id>
@@ -39958,7 +39962,7 @@
 	<string>
 		<id>289428</id>
 		<name>STR_GPR_SpellLongStun_Air_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>289429</id>
@@ -39973,7 +39977,7 @@
 	<string>
 		<id>289431</id>
 		<name>STR_GPR_StunTA_Nr_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>289432</id>
@@ -39988,7 +39992,7 @@
 	<string>
 		<id>289434</id>
 		<name>STR_GPR_SpellStunTA_Air_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>289435</id>
@@ -40083,7 +40087,7 @@
 	<string>
 		<id>289453</id>
 		<name>STR_NPC_SKILL_PEL_TempestSkill1_G1_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>289454</id>
@@ -40138,7 +40142,7 @@
 	<string>
 		<id>289464</id>
 		<name>STR_GFI_WindBlade_Fly3_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>289465</id>
@@ -40153,7 +40157,7 @@
 	<string>
 		<id>289467</id>
 		<name>STR_GFI_WindBlade_Fly4_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>289468</id>
@@ -40168,7 +40172,7 @@
 	<string>
 		<id>289470</id>
 		<name>STR_GFI_WindBlade_Fly5_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>289471</id>
@@ -40488,7 +40492,7 @@
 	<string>
 		<id>289534</id>
 		<name>STR_GAS_DashAtkStun_Nr_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>289535</id>
@@ -40553,7 +40557,7 @@
 	<string>
 		<id>289547</id>
 		<name>STR_GAS_Assassinate_Nr_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>289548</id>
@@ -40568,7 +40572,7 @@
 	<string>
 		<id>289550</id>
 		<name>STR_GAS_SatkSpinStun_Nr_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>289551</id>
@@ -40673,7 +40677,7 @@
 	<string>
 		<id>289571</id>
 		<name>STR_GAS_TeleporttoBehind_Nr_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>289572</id>
@@ -40708,7 +40712,7 @@
 	<string>
 		<id>289578</id>
 		<name>STR_GAS_WindBlade_Fly3_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>289579</id>
@@ -40723,7 +40727,7 @@
 	<string>
 		<id>289581</id>
 		<name>STR_GAS_WindBlade_Fly4_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>289582</id>
@@ -40738,7 +40742,7 @@
 	<string>
 		<id>289584</id>
 		<name>STR_GAS_Satk_Big_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>289585</id>
@@ -40798,7 +40802,7 @@
 	<string>
 		<id>289596</id>
 		<name>STR_GAS_WingBlade_Stun_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>289597</id>
@@ -40813,7 +40817,7 @@
 	<string>
 		<id>289599</id>
 		<name>STR_GAS_WingBladeTA_Stun_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>289600</id>
@@ -41428,7 +41432,7 @@
 	<string>
 		<id>289722</id>
 		<name>STR_SKILL_KN_Judgement_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>289723</id>
@@ -42038,7 +42042,7 @@
 	<string>
 		<id>289844</id>
 		<name>STR_SKILL_WA_AvengingCrash_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>289845</id>
@@ -42698,7 +42702,7 @@
 	<string>
 		<id>289976</id>
 		<name>STR_AWI_SpellAr_Lr_Nr_BombManSummon_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>289977</id>
@@ -42713,7 +42717,7 @@
 	<string>
 		<id>289979</id>
 		<name>STR_AWI_SpellAr_Lr_Nr_BombManSummon2_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>289980</id>
@@ -43048,12 +43052,12 @@
 	<string>
 		<id>290046</id>
 		<name>STR_DGFI_WingBladeStun_Nr_DESC_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>290047</id>
 		<name>STR_DGFI_WingBladeStun_TA_DESC_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>290048</id>
@@ -43258,12 +43262,12 @@
 	<string>
 		<id>290088</id>
 		<name>STR_DGFI_ShieldStun_Nr_DESC_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>290089</id>
 		<name>STR_DGFI_ShieldStun_TA_DESC_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>290090</id>
@@ -43348,7 +43352,7 @@
 	<string>
 		<id>290106</id>
 		<name>STR_DGRA_SatkStun_TA_DESC_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>290107</id>
@@ -43363,7 +43367,7 @@
 	<string>
 		<id>290109</id>
 		<name>STR_DGAS_SatkSpinStun_Nr_DESC_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>290110</id>
@@ -43903,12 +43907,12 @@
 	<string>
 		<id>290217</id>
 		<name>STR_DGPR_SpellStun_Nr_DESC_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>290218</id>
 		<name>STR_DGPR_SpellStun_TA_DESC_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>290219</id>
@@ -43938,7 +43942,7 @@
 	<string>
 		<id>290224</id>
 		<name>STR_DGPR_Stun_TA_DESC_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>290225</id>
@@ -44063,22 +44067,22 @@
 	<string>
 		<id>290249</id>
 		<name>STR_DGFI_WindBlade_Fly3_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>290250</id>
 		<name>STR_DGFI_WindBlade_Fly4_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>290251</id>
 		<name>STR_DGRA_SatkLong_Fly3_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>290252</id>
 		<name>STR_DGRA_SatkLong_Fly4_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>290253</id>
@@ -44378,7 +44382,7 @@
 	<string>
 		<id>290312</id>
 		<name>STR_DGWI_SpellStun_Nr_DESC_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>290313</id>
@@ -45158,7 +45162,7 @@
 	<string>
 		<id>290468</id>
 		<name>STR_GNPR_SpStunTA_AddSUdef_Stu_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>290469</id>
@@ -45613,7 +45617,7 @@
 	<string>
 		<id>290559</id>
 		<name>STR_NWI_SpellShortStun_Thunder_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>290560</id>
@@ -46053,7 +46057,7 @@
 	<string>
 		<id>290647</id>
 		<name>STR_AGCTF_SpellStun_TA_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>290648</id>
@@ -46498,7 +46502,7 @@
 	<string>
 		<id>290736</id>
 		<name>STR_SKILL_WI_HellFire_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>290737</id>
@@ -46568,7 +46572,7 @@
 	<string>
 		<id>290750</id>
 		<name>STR_SKILL_WI_Meteor_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>290751</id>
@@ -46953,12 +46957,12 @@
 	<string>
 		<id>290827</id>
 		<name>STR_DGFI_H_SatkSpinStun_Nr_DESC_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>290828</id>
 		<name>STR_DGRA_H_SpellStun_Nr_DESC_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>290829</id>
@@ -46978,7 +46982,7 @@
 	<string>
 		<id>290832</id>
 		<name>STR_DGAS_H_SpellStun_TA_DESC_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>290833</id>
@@ -46988,7 +46992,7 @@
 	<string>
 		<id>290834</id>
 		<name>STR_DGWI_H_SpellStun_Nr_DESC_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>290835</id>
@@ -47003,7 +47007,7 @@
 	<string>
 		<id>290837</id>
 		<name>STR_DGPR_H_WingBladeStun_Nr_DESC_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>290838</id>
@@ -47013,7 +47017,7 @@
 	<string>
 		<id>290839</id>
 		<name>STR_DGPR_H_ShieldStun_TA_DESC_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>290840</id>
@@ -47123,7 +47127,7 @@
 	<string>
 		<id>290861</id>
 		<name>STR_NRA_SATKLgStunTA_mortal_ADDleh_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>290862</id>
@@ -47413,7 +47417,7 @@
 	<string>
 		<id>290919</id>
 		<name>STR_GNWI_StunAr_Ar_MovObj_DESC_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>290920</id>
@@ -48223,7 +48227,7 @@
 	<string>
 		<id>291081</id>
 		<name>STR_NPC_SKILL_EL_Pet_Interupt_Air_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>291082</id>
@@ -48328,7 +48332,7 @@
 	<string>
 		<id>291102</id>
 		<name>STR_NPC_SKILL_EL_Pet_Interupt_Tempest_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>291103</id>
@@ -48928,7 +48932,7 @@
 	<string>
 		<id>291222</id>
 		<name>STR_SKILL_AS_StuningIntention_Proc_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>291223</id>
@@ -49723,7 +49727,7 @@
 	<string>
 		<id>291383</id>
 		<name>GNWA_SUpPyDefShort_Shanduka_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>291384</id>
@@ -49733,7 +49737,7 @@
 	<string>
 		<id>291385</id>
 		<name>GNWI_MpattackStun_StillSleep_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>291386</id>
@@ -50698,7 +50702,7 @@
 	<string>
 		<id>291578</id>
 		<name>STR_SKILL_Abyss_Artifact_UltraFireRampage_G1_Abnormal</name>
-		<body>Artefact Effect.&#xA;Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Artefact Effect.&#xA;Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>291579</id>
@@ -51328,7 +51332,7 @@
 	<string>
 		<id>291705</id>
 		<name>STR_BNFI_SStunNoFlyTA40_Ch_Po_Abnormal</name>
-		<body>Stunned. Unable to fly.</body>
+		<body>Em choque (stunned). Unable to fly.</body>
 	</string>
 	<string>
 		<id>291706</id>
@@ -51393,7 +51397,7 @@
 	<string>
 		<id>291718</id>
 		<name>STR_BNKN_SatkStunTA20_Chain1_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>291719</id>
@@ -51418,7 +51422,7 @@
 	<string>
 		<id>291723</id>
 		<name>STR_BNKN_StunATKTA30_AddShield_no_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>291724</id>
@@ -51463,7 +51467,7 @@
 	<string>
 		<id>291732</id>
 		<name>STR_BNPEL_SpellLongStunTA15_Ch1_Water_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>291733</id>
@@ -51513,7 +51517,7 @@
 	<string>
 		<id>291742</id>
 		<name>STR_BNPR_NoFlyStun3sHTA40ApFly_Lc_No_Abnormal</name>
-		<body>Stunned. Unable to fly.</body>
+		<body>Em choque (stunned). Unable to fly.</body>
 	</string>
 	<string>
 		<id>291743</id>
@@ -51673,7 +51677,7 @@
 	<string>
 		<id>291774</id>
 		<name>STR_NGR_BomblehparStunTA7_Po_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>291775</id>
@@ -52178,7 +52182,7 @@
 	<string>
 		<id>291875</id>
 		<name>STR_BNSC_StunSA10_Nr_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>291876</id>
@@ -52583,12 +52587,12 @@
 	<string>
 		<id>291956</id>
 		<name>STR_AGC_SatkStun_Nr_DESC_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>291957</id>
 		<name>STR_AGC_SatkStun_Lr_DESC_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>291958</id>
@@ -52613,17 +52617,17 @@
 	<string>
 		<id>291962</id>
 		<name>STR_AGC_SpellStun_TA_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>291963</id>
 		<name>STR_AGC_SpellStunTA_Mid_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>291964</id>
 		<name>STR_AGC_SpellStunTA_Lr_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>291965</id>
@@ -53148,7 +53152,7 @@
 	<string>
 		<id>292069</id>
 		<name>STR_SKILL_KN_GodJudgement_G1_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>292070</id>
@@ -53418,7 +53422,7 @@
 	<string>
 		<id>292123</id>
 		<name>STR_SKILL_CH_MortalStrike_G1_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>292124</id>
@@ -53868,7 +53872,7 @@
 	<string>
 		<id>292213</id>
 		<name>STR_SKILL_AS_FlyingDagger_G1_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>292214</id>
@@ -54733,7 +54737,7 @@
 	<string>
 		<id>292388</id>
 		<name>STR_SKILL_AS_SpiralStab_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>292389</id>
@@ -55298,7 +55302,7 @@
 	<string>
 		<id>292503</id>
 		<name>STR_NWI_SpellStun_Thunder_NC_No_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>292504</id>
@@ -56622,7 +56626,7 @@
 	<string>
 		<id>292766</id>
 		<name>STR_SKILL_Abyss_Artifact_UltraFireRampage_G2_Abnormal</name>
-		<body>Artefact Effect.&#xA;Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Artefact Effect.&#xA;Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>292767</id>
@@ -56782,7 +56786,7 @@
 	<string>
 		<id>292798</id>
 		<name>STR_GNPR_SpStunTA_AddSUatt_Stu_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>292799</id>
@@ -57037,7 +57041,7 @@
 	<string>
 		<id>292849</id>
 		<name>STR_GNAS_SatkStunApPosC3AddTA7_Ch2_Po_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>292850</id>
@@ -57182,7 +57186,7 @@
 	<string>
 		<id>292878</id>
 		<name>STR_SKILL_KN_Stigma_GodJudgement_G1_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>292879</id>
@@ -57337,7 +57341,7 @@
 	<string>
 		<id>292909</id>
 		<name>STR_SYSTEM_SKILL_FI_Tanacity_Stun_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>292910</id>
@@ -57747,7 +57751,7 @@
 	<string>
 		<id>292991</id>
 		<name>STR_SKILL_KN_Stigma_GodPunishment_G1_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>292992</id>
@@ -58547,7 +58551,7 @@
 	<string>
 		<id>293151</id>
 		<name>STR_Chf_SatkTA30Stun_Area_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>293152</id>
@@ -58952,7 +58956,7 @@
 	<string>
 		<id>293232</id>
 		<name>STR_SKILL_CH_BrutalStrike_G1_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>293233</id>
@@ -59117,7 +59121,7 @@
 	<string>
 		<id>293266</id>
 		<name>STR_BNMA_SpellStunLong_TA_DESC_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>293267</id>
@@ -59622,7 +59626,7 @@
 	<string>
 		<id>293367</id>
 		<name>STR_BNPEL_SpellStunBleedTA_Lr_DESC_Abnormal</name>
-		<body>Stunned and bleeding. Unable to use physical skills or items, and cannot move or attack.</body>
+		<body>Em choque (stunned) and bleeding. Unable to use physical skills or items, and cannot move or attack.</body>
 	</string>
 	<string>
 		<id>293368</id>
@@ -59647,7 +59651,7 @@
 	<string>
 		<id>293372</id>
 		<name>STR_BNPEL_SpellStun_Nr_DESC_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>293373</id>
@@ -60247,7 +60251,7 @@
 	<string>
 		<id>293492</id>
 		<name>STR_SKILL_FI_TechnicalCounter_G1_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>293493</id>
@@ -60327,7 +60331,7 @@
 	<string>
 		<id>293508</id>
 		<name>STR_SKILL_KN_BrainStorm_G1_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>293509</id>
@@ -60867,7 +60871,7 @@
 	<string>
 		<id>293616</id>
 		<name>STR_SKILL_WI_IllusionStorm_G1_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>293617</id>
@@ -61457,7 +61461,7 @@
 	<string>
 		<id>293735</id>
 		<name>STR_BNEL_StunSA7_Nr_DESC_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>293736</id>
@@ -61532,7 +61536,7 @@
 	<string>
 		<id>293750</id>
 		<name>STR_BNPR_StunSA_Hide_DESC_Abnormal</name>
-		<body>Stunned. Can&apos;t move, use skills and items, or attack.</body>
+		<body>Em choque (stunned). Can&apos;t move, use skills and items, or attack.</body>
 	</string>
 	<string>
 		<id>293751</id>
@@ -64057,7 +64061,7 @@
 	<string>
 		<id>294255</id>
 		<name>STR_SYSTEM_SKILL_Test_Stun_Abnormal</name>
-		<body>Stunned.</body>
+		<body>Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>294256</id>
@@ -64277,7 +64281,7 @@
 	<string>
 		<id>294299</id>
 		<name>STR_BNAS_StunSA_Nr_DESC_Abnormal</name>
-		<body>Stunned.</body>
+		<body>Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>294300</id>
@@ -64327,7 +64331,7 @@
 	<string>
 		<id>294309</id>
 		<name>STR_BNWI_WeaponBind_Nr_Desc_Abnormal</name>
-		<body>Stunned.</body>
+		<body>Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>294310</id>
@@ -64342,7 +64346,7 @@
 	<string>
 		<id>294312</id>
 		<name>STR_BNWI_SpellStunSA_Nr_Desc_Abnormal</name>
-		<body>Stunned.</body>
+		<body>Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>294313</id>
@@ -64482,12 +64486,12 @@
 	<string>
 		<id>294343</id>
 		<name>STR_SKILL_Stun_2</name>
-		<body>Stunned</body>
+		<body>Em choque (stunned)</body>
 	</string>
 	<string>
 		<id>294344</id>
 		<name>STR_SKILL_Stun_2_DESC</name>
-		<body>Você foi atingido pelo choque. Você não pode fazer nada por um período de tempo.</body>
+		<body>Você está em choque (stunned). Você não pode fazer nada por um período de tempo.</body>
 	</string>
 	<string>
 		<id>294345</id>
@@ -64497,12 +64501,12 @@
 	<string>
 		<id>294346</id>
 		<name>STR_SKILL_Stun_3</name>
-		<body>Stunned</body>
+		<body>Em choque (stunned)</body>
 	</string>
 	<string>
 		<id>294347</id>
 		<name>STR_SKILL_Stun_3_DESC</name>
-		<body>Você foi atingido pelo choque. Você não pode fazer nada por um período de tempo.</body>
+		<body>Você está em choque (stunned). Você não pode fazer nada por um período de tempo.</body>
 	</string>
 	<string>
 		<id>294348</id>
@@ -64512,12 +64516,12 @@
 	<string>
 		<id>294349</id>
 		<name>STR_SKILL_Stun_4</name>
-		<body>Stunned</body>
+		<body>Em choque (stunned)</body>
 	</string>
 	<string>
 		<id>294350</id>
 		<name>STR_SKILL_Stun_4_DESC</name>
-		<body>Você foi atingido pelo choque. Você não pode fazer nada por um período de tempo.</body>
+		<body>Você está em choque (stunned). Você não pode fazer nada por um período de tempo.</body>
 	</string>
 	<string>
 		<id>294351</id>
@@ -64647,12 +64651,12 @@
 	<string>
 		<id>294376</id>
 		<name>STR_BNFI_NepBoss_PhyAtkStagerArea_Po_DESC</name>
-		<body>Stunned.</body>
+		<body>Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>294377</id>
 		<name>STR_BNFI_NepBoss_PhyAtkStagerArea_Po_DESC_Abnormal</name>
-		<body>Stunned.</body>
+		<body>Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>294378</id>
@@ -64662,12 +64666,12 @@
 	<string>
 		<id>294379</id>
 		<name>STR_BNFI_NepBoss_StoneFallArea_AA_DESC</name>
-		<body>Stunned.</body>
+		<body>Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>294380</id>
 		<name>STR_BNFI_NepBoss_StoneFallArea_AA_DESC_Abnormal</name>
-		<body>Stunned.</body>
+		<body>Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>294381</id>
@@ -64722,12 +64726,12 @@
 	<string>
 		<id>294391</id>
 		<name>STR_BNFI_NepBoss_PhyAtkStager_Nr_DESC</name>
-		<body>Stunned.</body>
+		<body>Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>294392</id>
 		<name>STR_BNFI_NepBoss_PhyAtkStager_Nr_DESC_Abnormal</name>
-		<body>Stunned.</body>
+		<body>Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>294393</id>
@@ -64752,12 +64756,12 @@
 	<string>
 		<id>294397</id>
 		<name>STR_NFI_Nep_PhyAtkArea_Po_DESC</name>
-		<body>Stunned.</body>
+		<body>Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>294398</id>
 		<name>STR_NFI_Nep_PhyAtkArea_Po_DESC_Abnormal</name>
-		<body>Stunned.</body>
+		<body>Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>294399</id>
@@ -64797,12 +64801,12 @@
 	<string>
 		<id>294406</id>
 		<name>STR_BNFI_NepEng_PhyAtkStagerArea_AA_DESC</name>
-		<body>Stunned.</body>
+		<body>Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>294407</id>
 		<name>STR_BNFI_NepEng_PhyAtkStagerArea_AA_DESC_Abnormal</name>
-		<body>Stunned.</body>
+		<body>Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>294408</id>
@@ -64932,12 +64936,12 @@
 	<string>
 		<id>294433</id>
 		<name>STR_BNRA_SATKLong_Poi_DESC</name>
-		<body>Stunned.</body>
+		<body>Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>294434</id>
 		<name>STR_BNRA_SATKLong_Poi_DESC_Abnormal</name>
-		<body>Stunned.</body>
+		<body>Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>294435</id>
@@ -65042,7 +65046,7 @@
 	<string>
 		<id>294455</id>
 		<name>STR_GGRA_StunLong_Nr_Desc_Abnormal</name>
-		<body>Stunned.</body>
+		<body>Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>294456</id>
@@ -65142,7 +65146,7 @@
 	<string>
 		<id>294475</id>
 		<name>STR_BNAS_StunSA_LFRaid_Desc_Abnormal</name>
-		<body>Stunned.</body>
+		<body>Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>294476</id>
@@ -65462,7 +65466,7 @@
 	<string>
 		<id>294539</id>
 		<name>STR_GGPR_StunSA_Nr_Desc_Abnormal</name>
-		<body>Stunned.</body>
+		<body>Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>294540</id>
@@ -65837,7 +65841,7 @@
 	<string>
 		<id>294614</id>
 		<name>STR_BN_EarthTA_Henchman_DESC_Abnormal</name>
-		<body>Stunned.</body>
+		<body>Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>294615</id>
@@ -66122,7 +66126,7 @@
 	<string>
 		<id>294671</id>
 		<name>STR_BNMA_SpellStunLr_TA_DESC_Abnormal</name>
-		<body>Stunned.</body>
+		<body>Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>294672</id>
@@ -66722,7 +66726,7 @@
 	<string>
 		<id>294791</id>
 		<name>STR_STR_BNPR_Stunmid_Nr_DESC_Abnormal</name>
-		<body>Stunned.</body>
+		<body>Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>294792</id>
@@ -66817,7 +66821,7 @@
 	<string>
 		<id>294810</id>
 		<name>STR_NAS_Stunlow_Nr_DESC_Abnormal</name>
-		<body>Stunned.</body>
+		<body>Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>294811</id>
@@ -66877,7 +66881,7 @@
 	<string>
 		<id>294822</id>
 		<name>STR_BNAS_StunSA5_Lr_DESC_Abnormal</name>
-		<body>Stunned.</body>
+		<body>Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>294823</id>
@@ -66957,7 +66961,7 @@
 	<string>
 		<id>294838</id>
 		<name>STR_BNAS_phyattStun_Lr_DESC_Abnormal</name>
-		<body>Stunned.</body>
+		<body>Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>294839</id>
@@ -68262,7 +68266,7 @@
 	<string>
 		<id>295099</id>
 		<name>STR_SKILL_AS_StunBurst_Abnormal</name>
-		<body>Stunned.</body>
+		<body>Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>295100</id>
@@ -68357,7 +68361,7 @@
 	<string>
 		<id>295118</id>
 		<name>STR_SKILL_AS_VenomSlash_Abnormal</name>
-		<body>Stunned.</body>
+		<body>Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>295119</id>
@@ -68577,7 +68581,7 @@
 	<string>
 		<id>295162</id>
 		<name>STR_SKILL_CH_ShockAttack_Abnormal</name>
-		<body>Stunned.</body>
+		<body>Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>295163</id>
@@ -68682,7 +68686,7 @@
 	<string>
 		<id>295183</id>
 		<name>STR_SKILL_WI_StormShock_Abnormal</name>
-		<body>Stunned.</body>
+		<body>Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>295184</id>
@@ -70867,7 +70871,7 @@
 	<string>
 		<id>295620</id>
 		<name>STR_SGFI_ShieldStun_TA_DESC_Abnormal</name>
-		<body>Stunned.</body>
+		<body>Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>295621</id>
@@ -71707,7 +71711,7 @@
 	<string>
 		<id>295788</id>
 		<name>STR_BN_SAtkStun_Henchman_DESC_Abnormal</name>
-		<body>Stunned.</body>
+		<body>Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>295789</id>
@@ -73147,12 +73151,12 @@
 	<string>
 		<id>296076</id>
 		<name>STR_IDCatacombs_BombDrakan_stun_DESC</name>
-		<body>A strong explosion rocks the area. Stunned.</body>
+		<body>A strong explosion rocks the area. Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>296077</id>
 		<name>STR_IDCatacombs_BombDrakan_stun_DESC_Abnormal</name>
-		<body>A strong explosion rocks the area. Stunned.</body>
+		<body>A strong explosion rocks the area. Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>296078</id>
@@ -73747,7 +73751,7 @@
 	<string>
 		<id>296256</id>
 		<name>STR_NPC_SelfExplosion_Abnormal</name>
-		<body>Stunned.</body>
+		<body>Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>296257</id>
@@ -73882,7 +73886,7 @@
 	<string>
 		<id>296283</id>
 		<name>STR_SKILL_RA_LightningShot_Abnormal</name>
-		<body>Stunned.</body>
+		<body>Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>296284</id>
@@ -73907,7 +73911,7 @@
 	<string>
 		<id>296288</id>
 		<name>STR_Q_IDTempleMission_Fall_DESC_Abnormal</name>
-		<body>Stunned.</body>
+		<body>Em choque (stunned).</body>
 	</string>
 	<string>
 		<id>296289</id>

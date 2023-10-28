@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<Dialog flag="not_movable;visible" frame="939,889,104,71" h_pos_align="center" last_modified="2020-09-07 20:10:11" name="start_dialog" preset="v4_hud_start_s1" type="dlg_start" v_pos_align="bottom">
-	<Widget frame="10,16,37,37" name="start_button" preset="v4_start_button" tooltip="STR_START_DIALOG__TOOLTIP_MENU" type="button" v_pos_align="bottom">
-	</Widget>
-	<Widget frame="59,16,37,37" name="prophet_button" preset="v4_propet_button" tooltip="STR_START_DIALOG__TOOLTIP_WORLD_INFLUENCE" type="button" v_pos_align="bottom">
-	</Widget>
-</Dialog>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<Dialog flag="title" frame="15,140,217,292" last_modified="2020-09-07 20:08:54" name="idarena_pvp_rank_dialog" preset="v4_force_sep" title_align="center" title_frame="3,3,161,14" title_height="23" title_offset="0,9" title_text="STR_IDARENA_PVP_RANK_DIALOG" type="dlg_idarena_pvp_rank">
-	<Widget cell_padding="5" flag="truncate;not_active" frame="3,0,210,267" header_height="23" item_height="22" list_padding="3,1" name="list" preset="v4_listview_ex" scroll_type="hidden" type="listviewex">
-		<Column align="left" img_width="" sample_text="" sort="param" title="STR_IDARENA_PVP_RANK_DIALOG__COL_NAME" width="140">
-		</Column>
-		<Column align="right" img_width="" sample_text="" sort="param" title="STR_IDARENA_PVP_RANK_DIALOG__COL_SCORE" width="65">
-		</Column>
-	</Widget>
-</Dialog>

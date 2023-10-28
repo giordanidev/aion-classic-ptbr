@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE xml [
+    <!ENTITY nbsp "&#0160;">
+]>
 <strings>
 	<string>
 		<id>1200000</id>

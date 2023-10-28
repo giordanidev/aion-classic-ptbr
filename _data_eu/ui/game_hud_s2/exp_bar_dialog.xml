@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<Dialog flag="not_movable;visible" frame="152,1016,978,9" h_pos_align="center" last_modified="2020-09-07 20:10:18" name="exp_bar_dialog" type="dlg_exp_bar" v_pos_align="bottom">
-	<Widget frame="0,0,976,6" gradient="True" name="temp_exp_gauge" preset="v4_exp_temp_gauge" space="2" stage="20" type="gauge" v_pos_align="bottom">
-	</Widget>
-	<Widget frame="0,0,976,6" gradient="True" name="exp_gauge" preset="v4_exp_detail_gauge" space="2" stage="20" type="gauge" v_pos_align="bottom">
-	</Widget>
-</Dialog>

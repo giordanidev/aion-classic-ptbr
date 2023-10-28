@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<Dialog frame="0,0,1280,960" h_pos_align="center" last_modified="2015-09-17 11:36:00" name="fx_title_dialog" type="dlg_fx_title" v_pos_align="top">
-	<Widget frame="40,244,1200,92" h_pos_align="proportion" name="title_fx" type="container" v_pos_align="proportion">
-	</Widget>
-	<Widget frame="40,10,1200,560" name="title" type="container">
-		<Widget flag="wordwrap;multiline;textalpha" font_size="48" frame="0,16,1200,528" h_pos_align="proportion" halign="center" name="title_text" padding="5,0" text_color="1.0,0.6602,0.0117,1.0" text_shade="True" type="static" v_pos_align="proportion" valign="middle">
-		</Widget>
-	</Widget>
-</Dialog>

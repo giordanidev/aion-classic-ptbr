@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<Dialog close_offset="10,5" flag="close" frame="466,130,347,148" last_modified="2020-09-07 20:08:54" name="quit_alert_dialog" preset="v4_msgbox" title_frame="3,3,398,14" type="dlg_quit_alert" ui_mode="housing">
-	<Widget defbutton="True" frame="230,112,108,28" name="cancel" preset="v4_button" text="STR_QUIT_ALERT_DIALOG__CANCEL" type="button">
-	</Widget>
-	<Widget flag="multiline;wordwrap" frame="13,35,309,62" name="timer_text" text_offset="15,15" type="static" valign="middle">
-	</Widget>
-</Dialog>

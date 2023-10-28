@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<Dialog align_type="left" close_offset="5,7" flag="close;title" frame="100,10,1039,935" last_modified="2020-10-19 16:54:27" name="ingame_web_shop_dialog" preset="v4_shop_dialog" shadow_offset="8,8" title_align="center" title_frame="3,3,478,14" title_height="25" title_offset="0,5" type="dlg_ingame_web_shop" ui_mode="housing">
-	<Widget frame="5,3,1024,868" h_pos_align="proportion" name="main_browser" preset="v5_staticbox" type="browser" v_pos_align="proportion">
-	</Widget>
-	<Widget font="ui_default" frame="925,878,105,24" h_pos_align="right" name="cancel" preset="v4_button" text="STR_DLG_DIALOG__CLOSE" type="button" v_pos_align="bottom">
-	</Widget>
-</Dialog>
