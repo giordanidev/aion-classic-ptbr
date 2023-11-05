@@ -20,14 +20,28 @@ for traducao in arquivos:
     traducao_tree = parser.parse(traducao)
     #print(arquivo_tree)
     traducao_root = traducao_tree.getroot()
-    traducao_chunks = 5000
+    traducao_chunks_linhas = 5000
 
-    if (len(traducao_root) > traducao_chunks):
-         total_chunks = math.ceil(len(traducao_root)/traducao_chunks)
-         print(len(traducao_root))
-         print(total_chunks)
+    total_chunks = math.ceil(len(traducao_root)/traducao_chunks_linhas)
+    print(len(traducao_root))
+    print(total_chunks)
+
+    linha_atual = 0
+    linha_atual_total = 0
+    linha_total = len(traducao_root)
+    chunk_atual = 0
+    traducao_chunks = []
+    while chunk_atual < total_chunks:
+        print(f"Criando chunk {chunk_atual} de {total_chunks-1}")
+        while linha_atual <= traducao_chunks_linhas:
+            for linha in traducao:
+                print(f"Linha {linha_atual_total} de {linha_total}", end="\r")
+                linha_atual += 1
+                linha_atual_total += 1
+        linha_atual = 0
+        print("")
+        chunk_atual += 1
     break
-
     for original in originais:
         start_time = time.monotonic()
         contagem = 0
