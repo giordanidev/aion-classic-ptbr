@@ -1872,12 +1872,12 @@
   <string>
     <id>400377</id>
     <name>STR_LF2_SZ_OP</name>
-    <body>Eltnen Fortress\nFortaleza de Eltnen</body>
+    <body>Eltnen Fortress\nEltnen Fortress</body>
   </string>
   <string>
     <id>400378</id>
     <name>STR_LF2_SZ_A1</name>
-    <body>Manduri Forest\nFloresta Manduri</body>
+    <body>Manduri Forest\nManduri Forest</body>
   </string>
   <string>
     <id>400379</id>
@@ -1977,8 +1977,7 @@
   <string>
     <id>400398</id>
     <name>STR_LF2_SZ_OP_SUB_1</name>
-    <body>Eltnen Fortress Battlements\n--Eltnen Fortress Battlements--
-(Ruínas da Fortaleza de Eltnen)</body>
+    <body>Eltnen Fortress Battlements\nEltnen Fortress Battlements</body>
   </string>
   <string>
     <id>400399</id>
