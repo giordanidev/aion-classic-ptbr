@@ -37,7 +37,7 @@ for traducao in arquivos:
         print(f"Criando chunk {chunk_atual+1} de {total_chunks}")
         while linha_atual_total <= linhas_total and linhas_restantes > 0 and linha_atual <= traducao_chunks_linhas:
             print(f"Linha {linha_atual_total} de {linhas_total} - Linha atual: {linha_atual} - Linhas restantes: {linhas_restantes}", end="\r")
-            traducao_chunks += [chunk_atual, traducao_root[linha_atual]]
+            traducao_chunks[chunk_atual] += traducao_root[linha_atual]
             linha_atual += 1
             linha_atual_total += 1
         linha_atual = 0
