@@ -2,10 +2,10 @@ import lxml.etree as parser
 import shutil, os, time, math
 
 arquivos = [
-    #"strings\\client_strings_ui.xml",
+    "strings\\client_strings_ui.xml",
     #"strings\\client_strings_msg.xml",
     #"strings\\stringtable_dialog.xml",
-    "strings\\client_strings_item.xml",
+    #"strings\\client_strings_item.xml",
     #"strings\\client_strings_item2.xml",
     #"strings\\client_strings_skill.xml",
     #"strings\\client_strings_level.xml"
@@ -20,7 +20,7 @@ for traducao in arquivos:
     traducao_tree = parser.parse(traducao)
     #print(arquivo_tree)
     traducao_root = traducao_tree.getroot()
-    traducao_chunks_linhas = 5000
+    traducao_chunks_linhas = 10000
 
     total_chunks = math.ceil(len(traducao_root)/traducao_chunks_linhas)
     print(len(traducao_root))
@@ -34,16 +34,16 @@ for traducao in arquivos:
     while chunk_atual < total_chunks:
         linhas_restantes = linhas_total - linha_atual_total
         print(linhas_restantes)
-        print(f"Criando chunk {chunk_atual} de {total_chunks-1}")
+        print(f"Criando chunk {chunk_atual+1} de {total_chunks}")
         while linha_atual_total <= linhas_total and linhas_restantes > 0 and linha_atual <= traducao_chunks_linhas:
-            print(f"Linha {linha_atual_total} de {linhas_total}", end="\r")
+            print(f"Linha {linha_atual_total} de {linhas_total} - Linha atual: {linha_atual} - Linhas restantes: {linhas_restantes}", end="\r")
             traducao_chunks += [chunk_atual, traducao_root[linha_atual]]
             linha_atual += 1
             linha_atual_total += 1
         linha_atual = 0
         print("")
         chunk_atual += 1
-    print(traducao_chunks)
+    #print(traducao_chunks)
     break
     for original in originais:
         start_time = time.monotonic()
