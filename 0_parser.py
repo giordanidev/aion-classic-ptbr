@@ -23,12 +23,12 @@ for traducao in arquivos:
     traducao_chunks_linhas = 5000
 
     total_chunks = math.ceil(len(traducao_root)/traducao_chunks_linhas)
-    print(len(traducao_root))
-    print(total_chunks)
+    print(f"Lihas totais: {len(traducao_root)}")
+    print(f"Número de chunks: {total_chunks}")
 
     linha_atual = 0
     linha_atual_total = 0
-    print(traducao_root[linha_atual_total])
+    #print(traducao_root[linha_atual_total])
     linhas_total = len(traducao_root)-1
     linhas_restantes = linhas_total
     chunk_atual = 0
@@ -37,18 +37,20 @@ for traducao in arquivos:
         traducao_chunks[chunk_atual] = []
         #print(linhas_restantes)
         print(f"Criando chunk {chunk_atual+1} de {total_chunks}")
-        while linha_atual_total <= 1 and linhas_restantes > 0 and linha_atual < traducao_chunks_linhas:
-            linhas_restantes = linhas_total - linha_atual_total
-            print(f"Linha {linha_atual_total} de {linhas_total} - Linha atual: {linha_atual} - Linhas restantes: {linhas_restantes}", end="\r")
-            if traducao_root[linha_atual_total].tag in ['string', 'string_tip']:
-                traducao_chunks[chunk_atual] += traducao_root[linha_atual_total]
+        for linha in traducao_root:
+            print(f"Linha: {linha}")
+            while linha_atual_total <= 1 and linha_atual < traducao_chunks_linhas:
+                linhas_restantes = linhas_total - linha_atual_total
+                print(f"Linha {linha_atual_total} de {linhas_total} - Linha atual: {linha_atual} - Linhas restantes: {linhas_restantes}", end="\r")
+                traducao_chunks[chunk_atual] += linha
+                traducao_root.remove(linha)
                 #print(traducao_chunks[chunk_atual])
-            linha_atual += 1
-            linha_atual_total += 1
-        linha_atual = 0
-        print("")
-        chunk_atual += 1
-    print(len(traducao_chunks[0]))
+                linha_atual += 1
+                linha_atual_total += 1
+            linha_atual = 0
+            print("")
+            chunk_atual += 1
+    print(traducao_chunks[0])
     break
     for original in originais:
         start_time = time.monotonic()
