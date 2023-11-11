@@ -18,7 +18,6 @@ parsed = "_parsed\\"
 for traducao in arquivos:
     print(f"Arquivo: {traducao}")
     traducao_tree = parser.parse(traducao)
-    #print(arquivo_tree)
     traducao_root = traducao_tree.getroot()
     traducao_chunks_linhas = 5000
 
@@ -28,29 +27,26 @@ for traducao in arquivos:
 
     linha_atual = 0
     linha_atual_total = 0
-    #print(traducao_root[linha_atual_total])
     linhas_total = len(traducao_root)-1
     linhas_restantes = linhas_total
     chunk_atual = 0
     traducao_chunks = {}
-    while chunk_atual < total_chunks:
-        traducao_chunks[chunk_atual] = []
-        #print(linhas_restantes)
-        print(f"Criando chunk {chunk_atual+1} de {total_chunks}")
-        for linha in traducao_root:
-            print(f"Linha: {linha}")
-            while linha_atual_total <= 1 and linha_atual < traducao_chunks_linhas:
-                linhas_restantes = linhas_total - linha_atual_total
-                print(f"Linha {linha_atual_total} de {linhas_total} - Linha atual: {linha_atual} - Linhas restantes: {linhas_restantes}", end="\r")
-                traducao_chunks[chunk_atual] += linha
-                traducao_root.remove(linha)
-                #print(traducao_chunks[chunk_atual])
-                linha_atual += 1
-                linha_atual_total += 1
-            linha_atual = 0
-            print("")
-            chunk_atual += 1
-    print(traducao_chunks[0])
+    traducao_chunks[chunk_atual] = []
+    print(f"Criando chunk {chunk_atual} de {total_chunks}")
+    for linha in traducao_root:
+        if linha_atual_total <= linhas_total and linha_atual <= traducao_chunks_linhas:
+            linhas_restantes = linhas_total - linha_atual_total
+            print(f"Linha {linha_atual_total+1} de {linhas_total+1}- Linha chunk atual: {linha_atual+1} - Chunk atual: {chunk_atual+1} - Linhas restantes: {linhas_restantes} ", end="\r")
+            traducao_chunks[chunk_atual].append(linha)
+            
+            linha_atual += 1
+            linha_atual_total += 1
+            if linha_atual == traducao_chunks_linhas:
+                chunk_atual += 1
+                linha_atual = 0
+                traducao_chunks[chunk_atual] = []
+                print("")
+    print("")
     break
     for original in originais:
         start_time = time.monotonic()
