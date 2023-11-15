@@ -1,118 +1,119 @@
 import lxml.etree as parser
-import shutil, os, time, math
+import os, time
+from pathlib import Path
+
+print(f">>>>> INICIANDO PARSE", end="\r")
+start_time_total = time.monotonic()
 
 arquivos = [
-    #"strings\\client_strings_ui.xml",
-    #"strings\\client_strings_msg.xml",
-    #"strings\\stringtable_dialog.xml",
+    "strings\\client_strings_ui.xml",
+    "strings\\client_strings_msg.xml",
+    "strings\\stringtable_dialog.xml",
     "strings\\client_strings_item.xml",
-    #"strings\\client_strings_item2.xml",
-    #"strings\\client_strings_skill.xml",
-    #"strings\\client_strings_level.xml"
+    "strings\\client_strings_item2.xml",
+    "strings\\client_strings_skill.xml",
+    "strings\\client_strings_level.xml"
 ]
+arquivos_len = len(arquivos)
 
-originais = ["_data_eu\\", "_Data_na\\"]
+print(f">>>>> INICIANDO PARSE :: {arquivos_len} arquivos encontrados", end="\r")
+
+originais = ["_data_eu", "_Data_na"]
 #originais = ["_data_eu\\"]
-parsed = "_parsed\\"
+parsed = "_parsed"
 
-for traducao in arquivos:
-    print(f"Arquivo: {traducao}")
-    traducao_tree = parser.parse(traducao)
-    traducao_root = traducao_tree.getroot()
-    traducao_chunks_linhas = 5000
+print(f">>>>> INICIANDO PARSE :: {arquivos_len} arquivos encontrados :: {len(originais)} iteração(ões) :: Total de {arquivos_len*len(originais)} parses", end="\r")
+print("")
 
-    total_chunks = math.ceil(len(traducao_root)/traducao_chunks_linhas)
-    print(f"Lihas totais: {len(traducao_root)}")
-    print(f"Número de chunks: {total_chunks}")
+for original in originais:
 
-    linha_atual = 0
-    linha_atual_total = 0
-    linhas_total = len(traducao_root)-1
-    linhas_restantes = linhas_total
-    chunk_atual = 0
-    traducao_chunks = {}
-    traducao_chunks[chunk_atual] = []
-    print(f"Criando chunk {chunk_atual} de {total_chunks}")
-    for linha in traducao_root:
-        if linha_atual_total <= linhas_total and linha_atual <= traducao_chunks_linhas:
-            linhas_restantes = linhas_total - linha_atual_total
-            print(f"Linha {linha_atual_total+1} de {linhas_total+1}- Linha chunk atual: {linha_atual+1} - Chunk atual: {chunk_atual+1} - Linhas restantes: {linhas_restantes} ", end="\r")
-            traducao_chunks[chunk_atual].append(linha)
-            
-            linha_atual += 1
-            linha_atual_total += 1
-            if linha_atual == traducao_chunks_linhas:
-                chunk_atual += 1
-                linha_atual = 0
-                traducao_chunks[chunk_atual] = []
-                print("")
-    print("")
-    break
-    for original in originais:
-        start_time = time.monotonic()
+    print(f">>>>> ITERAÇÃO: {original}")
+    start_time_original = time.monotonic()
+
+    contagem_arquivo = 1
+    for traducao in arquivos:
+        start_time_traducao = time.monotonic()
         contagem = 0
-        original = original+traducao
-        dest = parsed+original
+        original_file = original+"\\"+traducao
+        dest = parsed+"\\"+original_file
+        print(f"[{contagem_arquivo}/{arquivos_len}] Arquivo: {traducao}")
 
-        print(f"Original: {original} \nFinal: {dest}")
-        original_tree = parser.parse(original)
+        original_tree = parser.parse(original_file)
         original_root = original_tree.getroot()
-        linhas_total = len(original_root)
+        original_len = len(original_root)
 
-        novo_parse = parser.Element(original_root.tag)
+        traducao_tree = Path(traducao)
+        traducao_root = parser.iterparse(traducao_tree, events=('start', 'end'))
 
-        for original_linha in original_root:
-            novo_string = parser.SubElement(novo_parse, original_linha.tag)
+        novo_parse = parser.Element('strings')
 
+        start_time_line = time.monotonic()
+        for original_string in original_root:
+            texto_traducao = None
+            #print(f"original_string.find('name') :: {original_string.find('name')}")
+            if original_string.find('name') is not None:
+                #print(f"original_string.find('body') :: {original_string.find('body')}")
+                if original_string.find('body') is not None:
+
+                    for event, traducao_string in traducao_root:
+                        #print(f"event :: {event}")
+                        if event == 'end':
+                            #print(f"traducao_string.tag :: {traducao_string.tag}")
+                            if (traducao_string.tag == 'string'):
+                                #print(f"traducao_string.find('name') :: {traducao_string.find('name')}")
+                                if traducao_string.find('name') is not None:
+                                    #print(f"traducao_string.find('body') :: {traducao_string.find('body')}")
+                                    if traducao_string.find('body') is not None:
+                                        
+                                        #print(f"traducao_string.find('name').text :: {traducao_string.find('name').text} || original_string.find('name').text :: {original_string.find('name').text}")
+                                        if traducao_string.find('name').text == original_string.find('name').text:
+                                            #print("FOUND ME!")
+                                            texto_traducao = traducao_string
+                                            #print(f"traducao_string.find('body').text: {traducao_string.find('body').text}")
+                                            #traducao_string.clear()
+                                            break
+
+            #print(f"texto_traducao :: {texto_traducao}")
+            if texto_traducao == None:
+                texto_traducao = original_string
+            novo_string = parser.SubElement(novo_parse, texto_traducao.tag)
+            #print(f"novo_string :: {novo_string}")
+
+            
+            #print(f"texto_traducao :: {texto_traducao.find('name').text}")
+            for elemento in texto_traducao:
+                #print(f"elemento :: {elemento}")
+                #print(f"texto_traducao.find(elemento.tag).text :: {texto_traducao.find(elemento.tag).text}")
+                parser.SubElement(novo_string, elemento.tag).text = texto_traducao.find(elemento.tag).text
+
+            execution_time = "%.2f" % (time.monotonic() - start_time_line)
+            print(f"[{contagem_arquivo}/{arquivos_len}] Parsing: {str(contagem)}/{original_len} ({execution_time}s)", end="\r")
             contagem += 1
-            linha_nome = original_linha.find('name').text
-
-            traducao_linha = traducao_root.find(f".//*[name='{linha_nome}']")
-            
-            if traducao_linha is not None:
-                #print(linha_original, linha_original.find('id').text)
-                if traducao_linha.find('body') is not None:
-                    #print(linha_original.find('body').text)
-                    if original_linha.find('body') is not None:
-                        texto_traducao = original_linha.find('body').text
-                    else:
-                        texto_traducao = traducao_linha.find('body').text
-                traducao_linha.getparent().remove(traducao_linha)
-            #else:
-                #print("Linha não encontrada!")
-            
-            for elemento in original_linha:
-                if texto_traducao is not None:  
-                    if (elemento.tag == 'body'):
-                            parser.SubElement(novo_string, elemento.tag).text = texto_traducao
-                            texto_traducao = None
-                    else:
-                        parser.SubElement(novo_string, elemento.tag).text = original_linha.find(elemento.tag).text
-                else:
-                    parser.SubElement(novo_string, elemento.tag).text = original_linha.find(elemento.tag).text
-
-            execution_time = "%.2f" % (time.monotonic() - start_time)
-            print(f"Parsing: {str(contagem)}/{str(linhas_total)} em {execution_time}s.", end="\r")
-            #if (contagem >= 10): # Número de linhas para testar!
+            #if contagem >= 4:
             #    break
+        #break
         print("")
-        #print(parser.tostring(novo_parse, encoding='utf-8', xml_declaration=True, pretty_print=True))
 
+        print(f"[{contagem_arquivo}/{arquivos_len}] Verificando arquivo.", end="\r")
         if os.path.isfile(dest):
-            print("- Arquivo existe, removendo.")
+            print(f"[{contagem_arquivo}/{arquivos_len}] Verificando arquivo :: Arquivo existe :: Removendo", end="\r")
             os.remove(dest)
-            print("- Arquivo removido.")
+            print(f"[{contagem_arquivo}/{arquivos_len}] Verificando arquivo :: Arquivo existe :: Removido", end="\r")
         else:
-            print("- Arquivo não existe.")
+            print(f"[{contagem_arquivo}/{arquivos_len}] Verificando arquivo :: Arquivo não existe.", end="\r")
             if not os.path.isdir(os.path.dirname(dest)):
-                    print("- Diretório não existe. Criando diretório.")
+                    print(f"[{contagem_arquivo}/{arquivos_len}] Verificando arquivo :: Arquivo não existe :: Diretório não existe :: Criando diretório", end="\r")
                     os.makedirs(os.path.dirname(dest))
-                    print("- Diretório criado.")
-
-        print(f"- Copiando original: {original} -> dest: {dest}")
-        shutil.copy2(original, dest)
-        print("- Copiado com sucesso!")
+                    print(f"[{contagem_arquivo}/{arquivos_len}] Verificando arquivo :: Arquivo não existe :: Diretório não existe :: Diretório criado", end="\r")
+        print("")
 
         parser.ElementTree(novo_parse).write(dest, encoding='utf-8', xml_declaration=True, pretty_print=True)
-        #.indent(novo_parse, space="\t", level=0)
-        print("============== Arquivo finalizado! ==============")
+        execution_time = "%.2f" % (time.monotonic() - start_time_traducao)
+        print(f"[{contagem_arquivo}/{arquivos_len}] Arquivo salvo em '{dest}' ({execution_time}s)")
+        contagem_arquivo += 1
+
+    execution_time = "%.2f" % (time.monotonic() - start_time_original)
+    print(f"##### ITERAÇÃO FINALIZADA: {original} ({execution_time}s)")
+    
+execution_time = "%.2f" % (time.monotonic() - start_time_total)
+print(f"!!!!! SCRIPT FINALIZADO ({execution_time}s)")

@@ -3,77 +3,77 @@
   <string>
     <id>400000</id>
     <name>STR_SZ_EE3_EAST_PLATEAU</name>
-    <body>Eastern Farr Plateau\nYou have entered the Eastern Farr Plateau.</body>
+    <body>Eastern Far Plateau\nYou have entered the Eastern Far Plateau.</body>
   </string>
   <string>
     <id>400001</id>
     <name>STR_SZ_EE3_WEST_PLATEAU</name>
-    <body>Western Farr Plateau\nYou have entered the Western Farr Plateau.</body>
+    <body>Western Far Plateau\nYou have entered the Western Far Plateau.</body>
   </string>
   <string>
     <id>400002</id>
     <name>STR_SZ_TEST_SLOPE_0</name>
-    <body>00Room Sleeping Forest Lizard\n00Room Sleeping Forest Lizard</body>
+    <body>00 Room Sleeping Forest Lizard\n00 Room Sleeping Forest Lizard</body>
   </string>
   <string>
     <id>400003</id>
     <name>STR_SZ_TEST_SLOPE_1</name>
-    <body>01Room GoGoSing1\n01Room GoGoSing1</body>
+    <body>01 Room GoGoSing1\n01 Room GoGoSing1</body>
   </string>
   <string>
     <id>400004</id>
     <name>STR_SZ_TEST_SLOPE_2</name>
-    <body>02Room Star Audience\n02Room Star Audience</body>
+    <body>02 Room Star Audience\n02 Room Star Audience</body>
   </string>
   <string>
     <id>400005</id>
     <name>STR_SZ_TEST_SLOPE_3</name>
-    <body>03Room GoGoSing2\n03Room GoGoSing2</body>
+    <body>03 Room GoGoSing2\n03 Room GoGoSing2</body>
   </string>
   <string>
     <id>400006</id>
     <name>STR_SZ_TEST_SLOPE_4</name>
-    <body>04Room Abyss Module\n04Room Abyss Module</body>
+    <body>04 Room Abyss Module\n04 Room Abyss Module</body>
   </string>
   <string>
     <id>400007</id>
     <name>STR_SZ_TEST_SLOPE_5</name>
-    <body>05Room Drakie Kindergarten\n05Room Drakie Kindergarten</body>
+    <body>05 Room Drakie Kindergarten\n05 Room Drakie Kindergarten</body>
   </string>
   <string>
     <id>400008</id>
     <name>STR_SZ_TEST_SLOPE_6</name>
-    <body>06Room Beauty Loves Pomegranate\n06Room Beauty Loves Pomegranate</body>
+    <body>06 Room Beauty Loves Pomegranate\n06 Room Beauty Loves Pomegranate</body>
   </string>
   <string>
     <id>400009</id>
     <name>STR_SZ_TEST_SLOPE_7</name>
-    <body>07Room Bad Boys\n07Room Bad Boys</body>
+    <body>07 Room Bay Boys\n07 Room Bay Boys</body>
   </string>
   <string>
     <id>400010</id>
     <name>STR_SZ_TEST_SLOPE_8</name>
-    <body>BossRoom Your Beginning Was Humble\nBossRoom Your Beginning Was Humble</body>
+    <body>Boss Room Your Beginning Was Humble\nBoss Room Your Beginning Was Humble</body>
   </string>
   <string>
     <id>400011</id>
     <name>STR_SZ_TEST_SLOPE_9</name>
-    <body>StartRoom Your End Will Be Great\nStartRoom Your End Will Be Great</body>
+    <body>Start Room Your End Will Be Great\nStart Room Your End Will Be Great</body>
   </string>
   <string>
     <id>400012</id>
     <name>STR_SZ_TEST_SLOPE_10</name>
-    <body>PITRoom I Have Fallen\nPITRoom I Have Fallen</body>
+    <body>PIT Room I Have Fallen\nPIT Room I Have Fallen</body>
   </string>
   <string>
     <id>400013</id>
     <name>STR_SZ_TEST_SLOPE_11</name>
-    <body>HiddenRoom I Smell Something\nHiddenRoom I Smell Something</body>
+    <body>Hidden Room I Smell Something\nHidden Room I Smell Something</body>
   </string>
   <string>
     <id>400014</id>
     <name>STR_SZ_TEST_SLOPE_12</name>
-    <body>You are in DF3 Balaur instanced dungeon.\nYou are in DF3 Balaur instanced dungeon.</body>
+    <body>DF3 Balaur Instanced Dungeon\nYou are currently in DF3 Balaur Instanced Dungeon.</body>
   </string>
   <string>
     <id>400015</id>
@@ -598,7 +598,7 @@
   <string>
     <id>400119</id>
     <name>STR_ZONE_COMMENT_FF2</name>
-    <body>A vast wasteland where a fierce battle had taken place during the Elyos-Asmodian War, it is infested with numerous wild beasts and Krall but the Guard Posts scattered in various locations protect the Elyos from getting harmed. Lewindal Stonefort was built after the Krall invasion to further strengthen the defense of the city, and it is a safe place with many stationed guards as well as a center of active resource management. Moreover, it is where the lifeline of Tijerid, Cheravic Docks, is located, which receives the resources arriving from other countries by ships and sends them to the city by road. The wasteland is divided into two halves where the opposing Elyos and Krall have taken the north and south respectively.</body>
+    <body>A vast wasteland where a fierce battle had taken place during the Elyos-Asmodian War, it is infested with numerous wild beasts and Krall but the Guard Posts scattered in various locations protect the Elyos from getting harmed. Lewindal Stonefort was built after the Krall invasion to further strengthen the defence of the city, and it is a safe place with many stationed guards as well as a centre of active resource management. Moreover, it is where the lifeline of Tijerid, Cheravic Docks, is located, which receives the resources arriving from other countries by ships and sends them to the city by road. The wasteland is divided into two halves where the opposing Elyos and Krall have taken the north and south respectively.</body>
   </string>
   <string>
     <id>400120</id>
@@ -688,7 +688,7 @@
   <string>
     <id>400137</id>
     <name>STR_ZONE_COMMENT_EE2</name>
-    <body>It has been a long while since the people of Erole built the Outer Castle and begun to develop the surrounding areas to expand their living space. Maybe it is due to bad fengshui, but despite a favorable natural environment a continuous stream of inexplicable accidents disrupted the development process and the fruits of their labor are only evident inside the Outer Castle. The ruins of facilities used for development and half-finished buildings are commonly found, and the only thing still intact is the road laid for the transport of materials. Yet they still managed to complete the Lighthouse, which is used for keeping a watch on the surroundings and there are guards regularly patrolling the road between the Outer Castle and the Lighthouse.</body>
+    <body>It has been a long while since the people of Erole built the Outer Castle and begun to develop the surrounding areas to expand their living space. Maybe it is due to bad fengshui, but despite a favourable natural environment a continuous stream of inexplicable accidents disrupted the development process and the fruits of their labour are only evident inside the Outer Castle. The ruins of facilities used for development and half-finished buildings are commonly found, and the only thing still intact is the road laid for the transport of materials. Yet they still managed to complete the Lighthouse, which is used for keeping a watch on the surroundings and there are guards regularly patrolling the road between the Outer Castle and the Lighthouse.</body>
   </string>
   <string>
     <id>400138</id>
@@ -863,7 +863,7 @@
   <string>
     <id>400172</id>
     <name>STR_SZ_TIZERIDB_GARDEN_OF_GLORY</name>
-    <body>Garden of Glory\nGarden of Glory</body>
+    <body>Garden of GloryGarden of Glory\n</body>
   </string>
   <string>
     <id>400173</id>
@@ -883,7 +883,7 @@
   <string>
     <id>400176</id>
     <name>STR_SZ_FFE3_D</name>
-    <body>Mycospora\nMycospora</body>
+    <body>Mycospora</body>
   </string>
   <string>
     <id>400177</id>
@@ -923,7 +923,7 @@
   <string>
     <id>400184</id>
     <name>STR_SZ_FFE3_L</name>
-    <body>Abyssal Gate\nAbyssal Gate</body>
+    <body>Abyss Gate\nAbyss Gate</body>
   </string>
   <string>
     <id>400185</id>
@@ -1007,7 +1007,7 @@
   <string>
     <id>400201</id>
     <name>STR_SZ_LF1_BALBOA_FARMSTEAD</name>
-    <body>Belbua's Farm\nBelbua's Farm</body>
+    <body>Belbua’s Farm\nBelbua’s Farm</body>
   </string>
   <string>
     <id>400202</id>
@@ -1057,7 +1057,7 @@
   <string>
     <id>400211</id>
     <name>STR_SZ_LF1_ILLUSIONARY_LAKE</name>
-    <body>Miraju's Holy Ground\nMiraju's Holy Ground</body>
+    <body>Miraju’s Holy Ground\nMiraju’s Holy Ground</body>
   </string>
   <string>
     <id>400212</id>
@@ -1122,7 +1122,7 @@
   <string>
     <id>400227</id>
     <name>STR_SZ_LF1_SPA_OF_NYMPH</name>
-    <body>Nymph's Pond\nNymph's Pond</body>
+    <body>Nymph’s Pond\nNymph’s Pond</body>
   </string>
   <string>
     <id>400228</id>
@@ -1132,17 +1132,17 @@
   <string>
     <id>400229</id>
     <name>STR_SZ_LF1_NEST_OF_CONDOR</name>
-    <body>Talun's Nest\nTalun's Nest</body>
+    <body>Talun’s Nest\nTalun’s Nest</body>
   </string>
   <string>
     <id>400230</id>
     <name>STR_SZ_LF1_CAMP</name>
-    <body>Pilgrims' Respite\nPilgrims' Respite</body>
+    <body>Pilgrim’s Respite\nPilgrim’s Respite</body>
   </string>
   <string>
     <id>400231</id>
     <name>STR_SZ_LF1_ROOM_OF_TKrallHEAD</name>
-    <body>Kraka's Den\nKraka's Den</body>
+    <body>Kraka’s Den\nKraka’s Den</body>
   </string>
   <string>
     <id>400232</id>
@@ -1177,17 +1177,17 @@
   <string>
     <id>400238</id>
     <name>STR_SZ_LF1_1_Q1</name>
-    <body>Kales's Farm\nKales's Farm</body>
+    <body>Kales’s Farm\nKales’s Farm</body>
   </string>
   <string>
     <id>400239</id>
     <name>STR_SZ_LF1_2_Q1</name>
-    <body>Feira's Dock\nFeira's Dock</body>
+    <body>Feira’s Dock\nFeira’s Dock</body>
   </string>
   <string>
     <id>400240</id>
     <name>STR_SZ_LF1_4_Q1</name>
-    <body>Melponeh's Campsite\nMelponeh's Campsite</body>
+    <body>Melponeh’s Campsite\nMelponeh’s Campsite</body>
   </string>
   <string>
     <id>400241</id>
@@ -1197,7 +1197,7 @@
   <string>
     <id>400242</id>
     <name>STR_SZ_LF1A_9C_Q1</name>
-    <body>Geolus Campsite\nGeolus Campsite</body>
+    <body>Geolus’ Campsite\nGeolus’ Campsite</body>
   </string>
   <string>
     <id>400243</id>
@@ -1367,12 +1367,12 @@
   <string>
     <id>400276</id>
     <name>STR_SZ_DF1_1_Q2</name>
-    <body>Guheitun's Tent\nGuheitun's Tent</body>
+    <body>Guheitun’s Tent\nGuheitun’s Tent</body>
   </string>
   <string>
     <id>400277</id>
     <name>STR_SZ_DF1_2_Q1</name>
-    <body>Negi's Dock\nNegi's Dock</body>
+    <body>Negi’s Dock\nNegi’s Dock</body>
   </string>
   <string>
     <id>400278</id>
@@ -1387,7 +1387,7 @@
   <string>
     <id>400280</id>
     <name>STR_SZ_DF1_3_Q3</name>
-    <body>Kard's Campsite\nKard's Campsite</body>
+    <body>Kard’s Campsite\nKard’s Campsite</body>
   </string>
   <string>
     <id>400281</id>
@@ -1432,7 +1432,7 @@
   <string>
     <id>400289</id>
     <name>STR_SZ_DF1A_9_A_2</name>
-    <body>Manir's Dock\nManir's Dock</body>
+    <body>Manir’s Dock\nManir’s Dock</body>
   </string>
   <string>
     <id>400290</id>
@@ -1467,7 +1467,7 @@
   <string>
     <id>400296</id>
     <name>STR_SZ_DF1A_10_B</name>
-    <body>Idun's Lake\nIdun's Lake</body>
+    <body>Idun’s Lake\nIdun’s Lake</body>
   </string>
   <string>
     <id>400297</id>
@@ -1512,22 +1512,22 @@
   <string>
     <id>400305</id>
     <name>STR_SZ_DF1A_9_A_Q2</name>
-    <body>Manir's Campsite\nManir's Campsite</body>
+    <body>Manir’s Campsite\nManir’s Campsite</body>
   </string>
   <string>
     <id>400306</id>
     <name>STR_SZ_DF1A_9_A_Q3</name>
-    <body>Karl's Campsite\nKarl's Campsite</body>
+    <body>Karl’s Campsite\nKarl’s Campsite</body>
   </string>
   <string>
     <id>400307</id>
     <name>STR_SZ_DF1A_9_C1_Q1</name>
-    <body>Kaibech's Campsite\nKaibech's Campsite</body>
+    <body>Kaibech’s Campsite\nKaibech’s Campsite</body>
   </string>
   <string>
     <id>400308</id>
     <name>STR_SZ_DF1A_9_B_Q1</name>
-    <body>Gunmarson's Campsite\nGunmarson's Campsite</body>
+    <body>Gunmarson’s Campsite\nGunmarson’s Campsite</body>
   </string>
   <string>
     <id>400309</id>
@@ -1537,7 +1537,7 @@
   <string>
     <id>400310</id>
     <name>STR_SZ_DF1A_11_B1_Q1</name>
-    <body>Trader's Berth\nTrader's Berth</body>
+    <body>Traders Berth\nTraders Berth</body>
   </string>
   <string>
     <id>400311</id>
@@ -1557,7 +1557,7 @@
   <string>
     <id>400314</id>
     <name>STR_SZ_DF1A_9_A_Q4</name>
-    <body>Moslan Relics\nMoslan Relics</body>
+    <body>Moslan Relic\nMoslan Relic</body>
   </string>
   <string>
     <id>400315</id>
@@ -1572,7 +1572,7 @@
   <string>
     <id>400317</id>
     <name>STR_SZ_DF1A_12_Q1</name>
-    <body>Zemurru's Grave\nZemurru's Grave</body>
+    <body>Zemurru’s Grave\nZemurru’s Grave</body>
   </string>
   <string>
     <id>400318</id>
@@ -1652,7 +1652,7 @@
   <string>
     <id>400333</id>
     <name>STR_SZ_DF1_7_bossRoom</name>
-    <body>Hatata's Hideout\nHatata's Hideout</body>
+    <body>Hatata’s Hideout\nHatata’s Hideout</body>
   </string>
   <string>
     <id>400334</id>
@@ -1832,7 +1832,7 @@
   <string>
     <id>400369</id>
     <name>STR_SIGN_ST_LC1_Tuning_ItemShop</name>
-    <body>Basic Armor Shop</body>
+    <body>Basic Armour Shop</body>
   </string>
   <string>
     <id>400370</id>
@@ -1872,12 +1872,12 @@
   <string>
     <id>400377</id>
     <name>STR_LF2_SZ_OP</name>
-    <body>Eltnen Fortress\nEltnen Fortress</body>
+    <body>Eltnen Fortress\nFortaleza de Eltnen</body>
   </string>
   <string>
     <id>400378</id>
     <name>STR_LF2_SZ_A1</name>
-    <body>Manduri Forest\nManduri Forest</body>
+    <body>Manduri Forest\nFloresta Manduri</body>
   </string>
   <string>
     <id>400379</id>
@@ -1977,7 +1977,8 @@
   <string>
     <id>400398</id>
     <name>STR_LF2_SZ_OP_SUB_1</name>
-    <body>Eltnen Fortress Entrance\nEltnen Fortress Entrance</body>
+    <body>Eltnen Fortress Battlements\n--Eltnen Fortress Battlements--
+(Ruínas da Fortaleza de Eltnen)</body>
   </string>
   <string>
     <id>400399</id>
@@ -1997,7 +1998,7 @@
   <string>
     <id>400402</id>
     <name>STR_LF2_SZ_C1_SUB_1</name>
-    <body>Sataloca's Tomb\nSataloca's Tomb</body>
+    <body>Sataloca’s Tomb\nWhere Sataloca was interred.</body>
   </string>
   <string>
     <id>400403</id>
@@ -2027,7 +2028,7 @@
   <string>
     <id>400408</id>
     <name>STR_LF2_SZ_E1_SUB_1</name>
-    <body>Mabangtah's Hideout\nMabangtah's Hideout</body>
+    <body>Mabangtah’s Hideout\nMabangtah’s Hideout</body>
   </string>
   <string>
     <id>400409</id>
@@ -2177,7 +2178,7 @@
   <string>
     <id>400438</id>
     <name>STR_LF1_SZ_Ager</name>
-    <body>Ager's Farm\nAger's Farm</body>
+    <body>Ager’s Farm\nAger’s Farm</body>
   </string>
   <string>
     <id>400439</id>
@@ -2227,7 +2228,7 @@
   <string>
     <id>400448</id>
     <name>STR_LF3_SZ_B</name>
-    <body>Vaizel's Peak\nVaizel's Peak</body>
+    <body>Vaizel’s Peak\nVaizel’s Peak</body>
   </string>
   <string>
     <id>400449</id>
@@ -2237,12 +2238,12 @@
   <string>
     <id>400450</id>
     <name>STR_LF3_SZ_C2</name>
-    <body>Klawtan's Wallow\nKlawtan's Wallow</body>
+    <body>Klawtan’s Wallow\nKlawtan’s Wallow</body>
   </string>
   <string>
     <id>400451</id>
     <name>STR_LF3_SZ_C3</name>
-    <body>Gojira's Nest\nGojira's Nest</body>
+    <body>Gojira Nest\nGojira Nest</body>
   </string>
   <string>
     <id>400452</id>
@@ -2252,7 +2253,7 @@
   <string>
     <id>400453</id>
     <name>STR_LF3_SZ_C5</name>
-    <body>Lepharist Research Center\nLepharist Research Center</body>
+    <body>Lepharist Research Centre\nLepharist Research Centre</body>
   </string>
   <string>
     <id>400454</id>
@@ -2262,7 +2263,7 @@
   <string>
     <id>400455</id>
     <name>STR_LF3_SZ_D2</name>
-    <body>Black Tears Swamp\nBlack Tears Swamp</body>
+    <body>Black Tear Swamp\nBlack Tear Swamp</body>
   </string>
   <string>
     <id>400456</id>
@@ -2282,7 +2283,7 @@
   <string>
     <id>400459</id>
     <name>STR_LF3_SZ_D6</name>
-    <body>Gray Fog Marshes\nGray Fog Marshes</body>
+    <body>Grey Fog Marshes\nGrey Fog Marshes</body>
   </string>
   <string>
     <id>400460</id>
@@ -2302,7 +2303,7 @@
   <string>
     <id>400463</id>
     <name>STR_LF3_SZ_DTW</name>
-    <body>Arbolu's Haven\nArbolu's Haven</body>
+    <body>Arbolu’s Haven\nArbolu’s Haven</body>
   </string>
   <string>
     <id>400464</id>
@@ -2317,7 +2318,7 @@
   <string>
     <id>400466</id>
     <name>STR_LF3_SZ_E3</name>
-    <body>Dragon's Blood Canyon\nDragon's Blood Canyon</body>
+    <body>Dragon’s Blood Canyon\nDragon’s Blood Canyon</body>
   </string>
   <string>
     <id>400467</id>
@@ -2782,12 +2783,12 @@
   <string>
     <id>400559</id>
     <name>STR_Ab1_SZ_1131_A</name>
-    <body>Siel's Western Fortress\nSiel's Western Fortress</body>
+    <body>Siel’s Western Fortress\nSiel’s Western Fortress</body>
   </string>
   <string>
     <id>400560</id>
     <name>STR_Ab1_SZ_1131_B</name>
-    <body>Siel's Left Wing\nSiel's Left Wing</body>
+    <body>Siel’s Left Wing\nSiel’s Left Wing</body>
   </string>
   <string>
     <id>400561</id>
@@ -2797,12 +2798,12 @@
   <string>
     <id>400562</id>
     <name>STR_Ab1_SZ_1131_D</name>
-    <body>Forsaken Isle\nForsaken Isle</body>
+    <body>Island of Oblivion\nIsland of Oblivion</body>
   </string>
   <string>
     <id>400563</id>
     <name>STR_Ab1_SZ_1131_E</name>
-    <body>Siel's Left Wing\nSiel's Left Wing</body>
+    <body>Siel’s Left Wing\nSiel’s Left Wing</body>
   </string>
   <string>
     <id>400564</id>
@@ -2812,12 +2813,12 @@
   <string>
     <id>400565</id>
     <name>STR_Ab1_SZ_1132_A</name>
-    <body>Siel's Eastern Fortress\nSiel's Eastern Fortress</body>
+    <body>Siel’s Eastern Fortress\nSiel’s Eastern Fortress</body>
   </string>
   <string>
     <id>400566</id>
     <name>STR_Ab1_SZ_1132_B</name>
-    <body>Siel's Right Wing\nSiel's Right Wing</body>
+    <body>Siel’s Right Wing\nSiel’s Right Wing</body>
   </string>
   <string>
     <id>400567</id>
@@ -2832,22 +2833,22 @@
   <string>
     <id>400569</id>
     <name>STR_Ab1_SZ_1132_E</name>
-    <body>Siel's Right Wing\nSiel's Right Wing</body>
+    <body>Siel’s Right Wing\nSiel’s Right Wing</body>
   </string>
   <string>
     <id>400570</id>
     <name>STR_Ab1_SZ_1141</name>
-    <body>Sulfur Archipelago\nSulfur Archipelago</body>
+    <body>Sulphur Archipelago\nSulphur Archipelago</body>
   </string>
   <string>
     <id>400571</id>
     <name>STR_Ab1_SZ_1141_A</name>
-    <body>Sulfur Fortress\nSulfur Fortress</body>
+    <body>Sulphur Fortress\nSulphur Fortress</body>
   </string>
   <string>
     <id>400572</id>
     <name>STR_Ab1_SZ_1141_B</name>
-    <body>Sulfur Swamp\nSulfur Swamp</body>
+    <body>Sulphur Swamp\nSulphur Swamp</body>
   </string>
   <string>
     <id>400573</id>
@@ -2932,7 +2933,7 @@
   <string>
     <id>400589</id>
     <name>STR_SZ_DC1_SUB_6</name>
-    <body>Capitol Building\nCapitol Building</body>
+    <body>National Assembly Building\nNational Assembly Building</body>
   </string>
   <string>
     <id>400590</id>
@@ -3012,7 +3013,7 @@
   <string>
     <id>400605</id>
     <name>STR_IDAbGateL2_SZ_Geranaia</name>
-    <body>Geranaia\nGeranaia</body>
+    <body>Gerana\nGerana</body>
   </string>
   <string>
     <id>400606</id>
@@ -3122,12 +3123,12 @@
   <string>
     <id>400627</id>
     <name>STR_LF3_SZ_C4_2</name>
-    <body>Research Center Overwatch\nResearch Center Overwatch</body>
+    <body>Research Centre Overwatch\nResearch Centre Overwatch</body>
   </string>
   <string>
     <id>400628</id>
     <name>STR_LF3_SZ_C4_3</name>
-    <body>Senea's Campsite\nSenea's Campsite</body>
+    <body>Senea’s Campsite\nSenea’s Campsite</body>
   </string>
   <string>
     <id>400629</id>
@@ -3137,7 +3138,7 @@
   <string>
     <id>400630</id>
     <name>STR_LF3_SZ_D6_1</name>
-    <body>Berone's Ruined House\nBerone's Ruined House</body>
+    <body>Berone’s Ruined House\nBerone’s Ruined House</body>
   </string>
   <string>
     <id>400631</id>
@@ -3182,7 +3183,7 @@
   <string>
     <id>400639</id>
     <name>STR_LF3_SZ_F2_1</name>
-    <body>Changarnerk's Campsite\nChangarnerk's Campsite</body>
+    <body>Changarnerk Campsite\nChangarnerk Campsite</body>
   </string>
   <string>
     <id>400640</id>
@@ -3192,7 +3193,7 @@
   <string>
     <id>400641</id>
     <name>STR_LF3_SZ_F4_2</name>
-    <body>Ruined Drake Temple\nRuined Drake Temple</body>
+    <body>Drake Temple Ruins\nDrake Temple Ruins</body>
   </string>
   <string>
     <id>400642</id>
@@ -3257,12 +3258,12 @@
   <string>
     <id>400654</id>
     <name>STR_Ab1_SZ_1141_E</name>
-    <body>Sulfur Flow\nSulfur Flow</body>
+    <body>Sulphur Flow\nSulphur Flow</body>
   </string>
   <string>
     <id>400655</id>
     <name>STR_Ab1_SZ_1141_F</name>
-    <body>Krakon's Dispute\nKrakon's Dispute</body>
+    <body>Krakon’s Dispute\nKrakon’s Dispute</body>
   </string>
   <string>
     <id>400656</id>
@@ -3297,7 +3298,7 @@
   <string>
     <id>400662</id>
     <name>STR_Ab1_DynAirport_SUB_L_1141</name>
-    <body>Sulfur Tree Archipelago</body>
+    <body>Sulphur Archipelago</body>
   </string>
   <string>
     <id>400663</id>
@@ -3352,12 +3353,12 @@
   <string>
     <id>400673</id>
     <name>STR_SIGN_RS_LF3_C4_2</name>
-    <body>Research Overwatch</body>
+    <body>Research Centre Overwatch</body>
   </string>
   <string>
     <id>400674</id>
     <name>STR_SIGN_RS_LF3_C5</name>
-    <body>Lepharist Research Center</body>
+    <body>Lepharist Research Centre</body>
   </string>
   <string>
     <id>400675</id>
@@ -3372,7 +3373,7 @@
   <string>
     <id>400677</id>
     <name>STR_SIGN_RS_LF3_D6</name>
-    <body>Gray Fog Marshes</body>
+    <body>Grey Fog Marshes</body>
   </string>
   <string>
     <id>400678</id>
@@ -3552,7 +3553,7 @@
   <string>
     <id>400713</id>
     <name>STR_IDLF3LP_SZ_5</name>
-    <body>Ormenon's Room\nOrmenon's Room</body>
+    <body>Ormenon’s Room\nOrmenon’s Room</body>
   </string>
   <string>
     <id>400714</id>
@@ -3622,7 +3623,7 @@
   <string>
     <id>400727</id>
     <name>STR_Ab1_DynAirport_SUB_D_1141</name>
-    <body>Sulfur Tree Archipelago</body>
+    <body>Sulphur Archipelago</body>
   </string>
   <string>
     <id>400728</id>
@@ -3682,7 +3683,7 @@
   <string>
     <id>400739</id>
     <name>STR_SZ_DF2_SUB_B2_ID</name>
-    <body>Octanu's Lair\nOctanu's Lair</body>
+    <body>Octanu’s Lair\nOctanu’s Lair</body>
   </string>
   <string>
     <id>400740</id>
@@ -3782,7 +3783,7 @@
   <string>
     <id>400759</id>
     <name>STR_SZ_DF2_SUB_C1_ID</name>
-    <body>Taran's Cavern\nTaran's Cavern</body>
+    <body>Taran’s Cavern\nTaran’s Cavern</body>
   </string>
   <string>
     <id>400760</id>
@@ -3792,7 +3793,7 @@
   <string>
     <id>400761</id>
     <name>STR_SZ_DF2_SUB_D5_ID</name>
-    <body>Wonshikutz's Laboratory\nWonshikutz's Laboratory</body>
+    <body>Wonshikutz’s Laboratory\nWonshikutz’s Laboratory</body>
   </string>
   <string>
     <id>400762</id>
@@ -3822,7 +3823,7 @@
   <string>
     <id>400767</id>
     <name>STR_SZ_DF2_SUB_A3_1</name>
-    <body>Kellan's Cabin\nKellan's Cabin</body>
+    <body>Kellan’s Cabin\nKellan’s Cabin</body>
   </string>
   <string>
     <id>400768</id>
@@ -3837,7 +3838,7 @@
   <string>
     <id>400770</id>
     <name>STR_SZ_DF2_SUB_B4_1</name>
-    <body>Karhel's Aetheric Field\nKarhel's Aetheric Field</body>
+    <body>Karhel’s Aetheric Field\nKarhel’s Aetheric Field</body>
   </string>
   <string>
     <id>400771</id>
@@ -3862,7 +3863,7 @@
   <string>
     <id>400775</id>
     <name>STR_SZ_DF2_SUB_E2_1</name>
-    <body>Chaikata's Hideout\nChaikata's Hideout</body>
+    <body>Chaikata’s Hideout\nChaikata’s Hideout</body>
   </string>
   <string>
     <id>400776</id>
@@ -3882,7 +3883,7 @@
   <string>
     <id>400779</id>
     <name>STR_SZ_DF2_SUB_E4_3</name>
-    <body>Kasaka's Wood Cave\nKasaka's Wood Cave</body>
+    <body>Kasika’s Wood Cave\nKasika’s Wood Cave</body>
   </string>
   <string>
     <id>400780</id>
@@ -3962,7 +3963,7 @@
   <string>
     <id>400795</id>
     <name>STR_SZ_IDDF2Flying</name>
-    <body>Sky Temple Interior\nSky Temple Interior</body>
+    <body>Sky Temple (Interior)\nSky Temple (Interior)</body>
   </string>
   <string>
     <id>400796</id>
@@ -3997,7 +3998,7 @@
   <string>
     <id>400802</id>
     <name>STR_Ab1_SZ_1251_E</name>
-    <body>Sword's Edge\nSword's Edge</body>
+    <body>Sword’s Edge\nSword’s Edge</body>
   </string>
   <string>
     <id>400803</id>
@@ -4082,7 +4083,7 @@
   <string>
     <id>400819</id>
     <name>STR_SIGN_ST_DC1_Weapon</name>
-    <body>Weapon and Armor Workshop</body>
+    <body>Weapon and Armour Workshop</body>
   </string>
   <string>
     <id>400820</id>
@@ -4142,7 +4143,7 @@
   <string>
     <id>400831</id>
     <name>STR_SIGN_ST_LC1_Defence</name>
-    <body>Armorsmithy</body>
+    <body>Armoursmithy</body>
   </string>
   <string>
     <id>400832</id>
@@ -4202,7 +4203,7 @@
   <string>
     <id>400849</id>
     <name>STR_DF3_SZ_C1</name>
-    <body>Mosbear Snowfield \nMosbear Snowfield</body>
+    <body>Mosbear Snowfield\nMosbear Snowfield</body>
   </string>
   <string>
     <id>400850</id>
@@ -4212,7 +4213,7 @@
   <string>
     <id>400851</id>
     <name>STR_DF3_SZ_C3</name>
-    <body>Mahisha's Nest\nMahisha's Nest</body>
+    <body>Mahisha’s Nest\nMahisha’s Nest</body>
   </string>
   <string>
     <id>400852</id>
@@ -4237,7 +4238,7 @@
   <string>
     <id>400856</id>
     <name>STR_DF3_SZ_D1</name>
-    <body>Kurngalfberg\nKurngalfberg</body>
+    <body>Kurngalfsberg\nKurngalfsberg</body>
   </string>
   <string>
     <id>400857</id>
@@ -4257,7 +4258,7 @@
   <string>
     <id>400860</id>
     <name>STR_DF3_SZ_D5</name>
-    <body>Beluslan's Roof\nBeluslan's Roof</body>
+    <body>Beluslan’s Roof\nBeluslan’s Roof</body>
   </string>
   <string>
     <id>400861</id>
@@ -4277,22 +4278,22 @@
   <string>
     <id>400864</id>
     <name>STR_DF3_SZ_E4</name>
-    <body>Anair Harbor\nAnair Harbor</body>
+    <body>Anair Harbour\nAnair Harbour</body>
   </string>
   <string>
     <id>400865</id>
     <name>STR_DF3_SZ_E5</name>
-    <body>Alukina's Palace\nAlukina's Palace</body>
+    <body>Alukina’s Palace\nAlukina’s Palace</body>
   </string>
   <string>
     <id>400866</id>
     <name>STR_DF3_SZ_F</name>
-    <body>Red Mane Cavern \nRed Mane Cavern</body>
+    <body>Red Mane Cavern\nRed Mane Cavern</body>
   </string>
   <string>
     <id>400867</id>
     <name>STR_DF3_SZ_G1</name>
-    <body>Fang Troll Encampment \nFang Troll Encampment</body>
+    <body>Fang Troll Encampment\nFang Troll Encampment</body>
   </string>
   <string>
     <id>400868</id>
@@ -4417,7 +4418,7 @@
   <string>
     <id>400892</id>
     <name>STR_Ab1_SZ_1111_SUB_E</name>
-    <body>Teminon's Leap\nTeminon's Leap</body>
+    <body>Teminon’s Leap\nTeminon’s Leap</body>
   </string>
   <string>
     <id>400893</id>
@@ -4437,7 +4438,7 @@
   <string>
     <id>400896</id>
     <name>STR_Ab1_SZ_1121_SUB_C</name>
-    <body>Russet Plaza\nRusset Plaza</body>
+    <body>Central Red Plaza\nCentral Red Plaza</body>
   </string>
   <string>
     <id>400897</id>
@@ -4452,7 +4453,7 @@
   <string>
     <id>400899</id>
     <name>STR_Ab1_SZ_1121_SUB_F</name>
-    <body>Broken Nobelium\nBroken Nobelium</body>
+    <body>Nobelium Baltia\nNobelium Baltia</body>
   </string>
   <string>
     <id>400900</id>
@@ -4522,7 +4523,7 @@
   <string>
     <id>400913</id>
     <name>STR_Ab1_SV_1141</name>
-    <body>Sulfur Fortress</body>
+    <body>Sulphur Fortress</body>
   </string>
   <string>
     <id>400914</id>
@@ -4637,17 +4638,17 @@
   <string>
     <id>400936</id>
     <name>STR_LF2A_SZ_Q1</name>
-    <body>Meniherk's First Excavation Site\nMeniherk's First Excavation Site</body>
+    <body>Meniherk’s First Excavation Site\nMeniherk’s First Excavation Site</body>
   </string>
   <string>
     <id>400937</id>
     <name>STR_LF2A_SZ_Q2</name>
-    <body>Meniherk's Second Excavation Site\nMeniherk's Second Excavation Site</body>
+    <body>Meniherk’s Second Excavation Site\nMeniherk’s Second Excavation Site</body>
   </string>
   <string>
     <id>400938</id>
     <name>STR_LF2A_SZ_Q3</name>
-    <body>Meniherk's Third Excavation Site\nMeniherk's Third Excavation Site</body>
+    <body>Meniherk’s Third Excavation Site\nMeniherk’s Third Excavation Site</body>
   </string>
   <string>
     <id>400939</id>
@@ -4667,7 +4668,7 @@
   <string>
     <id>400942</id>
     <name>STR_DF3_SZ_C3_2</name>
-    <body>Kidorun's Campsite\nKidorun's Campsite</body>
+    <body>Kidorun’s Campsite\nKidorun’s Campsite</body>
   </string>
   <string>
     <id>400943</id>
@@ -4732,7 +4733,7 @@
   <string>
     <id>400955</id>
     <name>STR_DF3_SZ_G4_3</name>
-    <body>Alquimia Research Center\nAlquimia Research Center</body>
+    <body>Alquimia Research Centre\nAlquimia Research Centre</body>
   </string>
   <string>
     <id>400956</id>
@@ -4907,17 +4908,17 @@
   <string>
     <id>400990</id>
     <name>STR_DF3_SZ_C2_2</name>
-    <body>Beritra's Weapon\nBeritra's Weapon</body>
+    <body>Beritra’s Weapon\nBeritra’s Weapon</body>
   </string>
   <string>
     <id>400991</id>
     <name>STR_DF2A_SZ_D_1</name>
-    <body>Griffon's Claw Encampment\nGriffon's Claw Encampment</body>
+    <body>Griffon’s Claw Encampment\nGriffon’s Claw Encampment</body>
   </string>
   <string>
     <id>400992</id>
     <name>STR_IDDF3_LP_SZ_All</name>
-    <body>Alquimia Research Center\nAlquimia Research Center</body>
+    <body>Alquimia Research Centre\nAlquimia Research Centre</body>
   </string>
   <string>
     <id>400993</id>
@@ -4967,7 +4968,7 @@
   <string>
     <id>401002</id>
     <name>STR_Ab1_Art_Reward_Dkisas_G1</name>
-    <body>Kysis' Renewal</body>
+    <body>Kysis's Renewal</body>
   </string>
   <string>
     <id>401003</id>
@@ -4982,12 +4983,12 @@
   <string>
     <id>401005</id>
     <name>STR_DF3_SZ_D1_3</name>
-    <body>The Sacred Orchard\nThe Sacred Orchard</body>
+    <body>Sacred Orchard\nSacred Orchard</body>
   </string>
   <string>
     <id>401006</id>
     <name>STR_IDDF3_Dragon_SZ_All</name>
-    <body>Draupnir Cave Interior\nDraupnir Cave Interior</body>
+    <body>Draupnir Cave (Interior)\nDraupnir Cave (Interior)</body>
   </string>
   <string>
     <id>401007</id>
@@ -4997,7 +4998,7 @@
   <string>
     <id>401008</id>
     <name>STR_IDDF3_Dragon_SZ_00</name>
-    <body>Chirurgeon's Room\nChirurgeon's Room</body>
+    <body>Surgeon’s Room\nSurgeon’s Room</body>
   </string>
   <string>
     <id>401009</id>
@@ -5022,7 +5023,7 @@
   <string>
     <id>401013</id>
     <name>STR_IDDF3_Dragon_SZ_05</name>
-    <body>Unstable Drakie Experiment Area\nUnstable Drakie Experiment Area</body>
+    <body>Unstable Drakie\nUnstable Drakie</body>
   </string>
   <string>
     <id>401014</id>
@@ -5032,12 +5033,12 @@
   <string>
     <id>401015</id>
     <name>STR_IDDF3_Dragon_SZ_07</name>
-    <body>Nimbarka's Study\nNimbarka's Study</body>
+    <body>Nimbarka’s Study\nNimbarka’s Study</body>
   </string>
   <string>
     <id>401016</id>
     <name>STR_IDDF3_Dragon_SZ_boss</name>
-    <body>Beritra's Oracle\nBeritra's Oracle</body>
+    <body>Beritra’s Oracle\nBeritra’s Oracle</body>
   </string>
   <string>
     <id>401017</id>
@@ -5072,7 +5073,7 @@
   <string>
     <id>401023</id>
     <name>STR_ZONE_NAME_IDDF3_lp</name>
-    <body>Alquimia Research Center</body>
+    <body>Alquimia Research Centre</body>
   </string>
   <string>
     <id>401024</id>
@@ -5122,12 +5123,12 @@
   <string>
     <id>401033</id>
     <name>STR_IDLF3_Castle_Indratoo_SZ_A</name>
-    <body>Indratu Fortress Interior\nIndratu Fortress Interior</body>
+    <body>Indratu Fortress (Interior)\nIndratu Fortress (Interior)</body>
   </string>
   <string>
     <id>401034</id>
     <name>STR_IDLF3_Castle_Indratoo_SZ_B</name>
-    <body>Indratu Fortress Sublevel\nIndratu Fortress Sublevel</body>
+    <body>Indratu Fortress (Underground)\nIndratu Fortress (Underground)</body>
   </string>
   <string>
     <id>401035</id>
@@ -5162,12 +5163,12 @@
   <string>
     <id>401041</id>
     <name>STR_IDLF3_Castle_Lehpar_SZ_A</name>
-    <body>Azoturan Fortress Interior\nAzoturan Fortress Interior</body>
+    <body>Azoturan Fortress (Interior)\nAzoturan Fortress (Interior)</body>
   </string>
   <string>
     <id>401042</id>
     <name>STR_IDLF3_Castle_Lehpar_SZ_B</name>
-    <body>Azoturan Fortress Sublevel\nAzoturan Fortress Sublevel</body>
+    <body>Azoturan Fortress (Underground)\nAzoturan Fortress (Underground)</body>
   </string>
   <string>
     <id>401043</id>
@@ -5312,7 +5313,7 @@
   <string>
     <id>401071</id>
     <name>STR_LF2B_SZ_C3</name>
-    <body>Fregion's Flame\nFregion's Flame</body>
+    <body>Fregion’s Flame\nFregion’s Flame</body>
   </string>
   <string>
     <id>401072</id>
@@ -5412,12 +5413,12 @@
   <string>
     <id>401091</id>
     <name>STR_DF2B_SZ_A1_1</name>
-    <body>Heirnir's Cabin\nHeirnir's Cabin</body>
+    <body>Heirnir’s Cabin\nHeirnir’s Cabin</body>
   </string>
   <string>
     <id>401092</id>
     <name>STR_DF2B_SZ_A2_3</name>
-    <body>Shaman's House\nShaman's House</body>
+    <body>Shaman’s House\nShaman’s House</body>
   </string>
   <string>
     <id>401093</id>
@@ -5427,7 +5428,7 @@
   <string>
     <id>401094</id>
     <name>STR_DF2B_SZ_C1_1</name>
-    <body>BuBu Chan's Hideout\nBuBu Chan's Hideout</body>
+    <body>BuBu Chan’s Hideout\nBuBu Chan’s Hideout</body>
   </string>
   <string>
     <id>401095</id>
@@ -5437,7 +5438,7 @@
   <string>
     <id>401096</id>
     <name>STR_DF2B_SZ_D1_2</name>
-    <body>Stragglers' Shelter\nStragglers' Shelter</body>
+    <body>Stragglers’ Shelter\nStragglers’ Shelter</body>
   </string>
   <string>
     <id>401097</id>
@@ -5577,7 +5578,7 @@
   <string>
     <id>401124</id>
     <name>STR_IDDF2A_Adma_SZ_Adma</name>
-    <body>Adma Stronghold Interior\nAdma Stronghold Interior</body>
+    <body>Adma Stronghold (Interior)\nAdma Stronghold (Interior)</body>
   </string>
   <string>
     <id>401125</id>
@@ -5597,12 +5598,12 @@
   <string>
     <id>401128</id>
     <name>STR_IDDF2A_Adma_SZ_Adma2F</name>
-    <body>Adma Stronghold Second Floor\nAdma Stronghold Second Floor</body>
+    <body>Adma Stronghold (Level 2)\nAdma Stronghold (Level 2)</body>
   </string>
   <string>
     <id>401129</id>
     <name>STR_IDDF2A_Adma_SZ_Princess</name>
-    <body>Karemiwen's Bedroom\nKaremiwen's Bedroom</body>
+    <body>Karemiwen’s Bedroom\nKaremiwen’s Bedroom</body>
   </string>
   <string>
     <id>401130</id>
@@ -5637,7 +5638,7 @@
   <string>
     <id>401136</id>
     <name>STR_IDLF2a_Lab_SZ_01</name>
-    <body>Researchers' Lounge\nResearchers' Lounge</body>
+    <body>Researchers’ Lounge\nResearchers’ Lounge</body>
   </string>
   <string>
     <id>401137</id>
@@ -5707,7 +5708,7 @@
   <string>
     <id>401150</id>
     <name>STR_IDLF2a_Lab_SZ_All</name>
-    <body>Theobomos Lab Interior\nTheobomos Lab Interior</body>
+    <body>Theobomos Lab (Interior)\nTheobomos Lab (Interior)</body>
   </string>
   <string>
     <id>401151</id>
@@ -5737,7 +5738,7 @@
   <string>
     <id>401156</id>
     <name>STR_IDAbRe_Low_Divine_SZ_All</name>
-    <body>Sulfur Tree Nest\nSulfur Tree Nest</body>
+    <body>Sulphur Tree Nest\nSulphur Tree Nest</body>
   </string>
   <string>
     <id>401157</id>
@@ -5747,7 +5748,7 @@
   <string>
     <id>401158</id>
     <name>STR_IDAbRe_Low_Wciel_SZ_All</name>
-    <body>The Ashikar Legion Hideout</body>
+    <body>Left Wing Chamber\nLeft Wing Chamber</body>
   </string>
   <string>
     <id>401159</id>
@@ -5807,7 +5808,7 @@
   <string>
     <id>401170</id>
     <name>STR_SZ_IDLF1_09</name>
-    <body>Laboratory of Hewahewa\nLaboratory of Hewahewa</body>
+    <body>Banakin’s Laboratory\nBanakin’s Laboratory</body>
   </string>
   <string>
     <id>401171</id>
@@ -5822,7 +5823,7 @@
   <string>
     <id>401173</id>
     <name>STR_SZ_IDAb1_Dreadgion_01</name>
-    <body>Escape Hatch\nEscape Hatch</body>
+    <body>Escape Hatch\nEscape hatch</body>
   </string>
   <string>
     <id>401174</id>
@@ -5832,12 +5833,12 @@
   <string>
     <id>401175</id>
     <name>STR_SZ_IDAb1_Dreadgion_03</name>
-    <body>Primary Armory\nPrimary Armory</body>
+    <body>Primary Armoury\nPrimary Armoury</body>
   </string>
   <string>
     <id>401176</id>
     <name>STR_SZ_IDAb1_Dreadgion_04</name>
-    <body>Backup Armory\nBackup Armory</body>
+    <body>Backup Armoury\nBackup Armoury</body>
   </string>
   <string>
     <id>401177</id>
@@ -5862,12 +5863,12 @@
   <string>
     <id>401181</id>
     <name>STR_SZ_IDAb1_Dreadgion_09</name>
-    <body>Ready Room 1\nReady Room 1</body>
+    <body>First Ready Room\nFirst Ready Room</body>
   </string>
   <string>
     <id>401182</id>
     <name>STR_SZ_IDAb1_Dreadgion_10</name>
-    <body>Ready Room 2\nReady Room 2</body>
+    <body>Second Ready Room\nSecond Ready Room</body>
   </string>
   <string>
     <id>401183</id>
@@ -5882,7 +5883,7 @@
   <string>
     <id>401185</id>
     <name>STR_SZ_IDAb1_Dreadgion_13</name>
-    <body>The Brig\nThe Brig</body>
+    <body>Primary Brig\nPrimary Brig</body>
   </string>
   <string>
     <id>401186</id>
@@ -5897,7 +5898,7 @@
   <string>
     <id>401188</id>
     <name>STR_SZ_IDAb1_Dreadgion_16</name>
-    <body>Captain's Cabin\nCaptain's Cabin</body>
+    <body>Captain’s Cabin\nCaptain’s Cabin</body>
   </string>
   <string>
     <id>401189</id>
@@ -5922,12 +5923,12 @@
   <string>
     <id>401193</id>
     <name>STR_ZONE_NAME_IDAb1_Dreadgion</name>
-    <body>Barnath Dredgion</body>
+    <body>Dredgion</body>
   </string>
   <string>
     <id>401194</id>
     <name>STR_SZ_IDLF1_11</name>
-    <body>Scar's Hideout\nScar's Hideout</body>
+    <body>Scar’s Hideout\nScar’s Hideout</body>
   </string>
   <string>
     <id>401195</id>
@@ -5937,17 +5938,17 @@
   <string>
     <id>401196</id>
     <name>STR_SZ_IDLF1_13</name>
-    <body>Room of Dimension\nRoom of Dimension</body>
+    <body>Room of Dimension\n</body>
   </string>
   <string>
     <id>401197</id>
     <name>STR_ZONE_Comment_IDAb1_Dreadgion</name>
-    <body>The Dredgion of the Baranath Legion, who are terrorizing Reshanta. Elyos and Asmodians must kill its captain, Adhati, while keeping each other in check. Abyss Points are up for grabs.</body>
+    <body>The Dredgion of the Baranath Legion, which is terrorizing Reshanta. Elyos and Asmodians must kill its captain, Adhati, while keeping each other in check. Abyss Points are up for grabs.</body>
   </string>
   <string>
     <id>401198</id>
     <name>STR_ZONE_NAME_IDAbRe_Low_Divine</name>
-    <body>Sulfur Tree Nest</body>
+    <body>Sulphur Tree Nest</body>
   </string>
   <string>
     <id>401199</id>
@@ -5957,277 +5958,277 @@
   <string>
     <id>401200</id>
     <name>STR_ZONE_NAME_IDAbRe_Low_Wciel</name>
-    <body>The Ashikar Legion Hideout</body>
+    <body>Left Wing Chamber</body>
   </string>
   <string>
     <id>401201</id>
     <name>STR_ZONE_NAME_IDAbRe_Up_Asteria</name>
-    <body>Carpus Isle Storeroom</body>
+    <body>Asteria Chamber</body>
   </string>
   <string>
     <id>401202</id>
     <name>STR_ZONE_NAME_IDAbRe_Up_Rhoo</name>
-    <body>Hamate Isle Storeroom</body>
+    <body>Chamber of Roah</body>
   </string>
   <string>
     <id>401203</id>
     <name>STR_ZONE_NAME_IDAbRe_Up3_Crotan</name>
-    <body>Isle of Roots Storeroom</body>
+    <body>Krotan Chamber</body>
   </string>
   <string>
     <id>401204</id>
     <name>STR_ZONE_NAME_IDAbRe_Up3_Dkisas</name>
-    <body>Grave of Steel Storeroom</body>
+    <body>Kysis Chamber</body>
   </string>
   <string>
     <id>401205</id>
     <name>STR_ZONE_NAME_IDAbRe_Up3_Lamiren</name>
-    <body>Twilight Battlefield Storeroom</body>
+    <body>Miren Chamber</body>
   </string>
   <string>
     <id>401206</id>
     <name>STR_IDAbRe_Up3_Crotan_SZ_All</name>
-    <body>Miren Chamber</body>
+    <body>Krotan Chamber\nKrotan Chamber</body>
   </string>
   <string>
     <id>401207</id>
     <name>STR_IDAbRe_Up3_Crotan_SZ_LizardWeapon</name>
-    <body>Krotan Chamber\nKrotan Chamber</body>
+    <body>Draconute Weapons Chamber\nDraconute Weapons Chamber</body>
   </string>
   <string>
     <id>401208</id>
     <name>STR_IDAbRe_Up3_Crotan_SZ_LizardRoom</name>
-    <body>Weapons Depot\nWeapons Depot</body>
+    <body>Weapon Depot\nWeapon Depot</body>
   </string>
   <string>
     <id>401209</id>
     <name>STR_IDAbRe_Up3_Crotan_SZ_NagaWeapon</name>
-    <body>Weapons Depot\nWeapons Depot</body>
+    <body>Naga Weapons Chamber\nNaga Weapons Chamber</body>
   </string>
   <string>
     <id>401210</id>
     <name>STR_IDAbRe_Up3_Crotan_SZ_NagaRoom</name>
-    <body>Supply Base\nSupply Base</body>
+    <body>Supply Depot\nSupply Depot</body>
   </string>
   <string>
     <id>401211</id>
     <name>STR_IDAbRe_Up3_Crotan_SZ_DrakanWeapon</name>
-    <body>Supply Depot\nSupply Depot</body>
+    <body>Drakan Weapons Chamber\nDrakan Weapons Chamber</body>
   </string>
   <string>
     <id>401212</id>
     <name>STR_IDAbRe_Up3_Crotan_SZ_DrakanRoom</name>
-    <body>Operations Room\nOperations Room</body>
+    <body>Operation Centre\nOperation Centre</body>
   </string>
   <string>
     <id>401213</id>
     <name>STR_IDAbRe_Up3_Crotan_SZ_DrakanSortie</name>
-    <body>Operations Room\nOperations Room</body>
+    <body>Drakan Ready Room\nDrakan Ready Room</body>
   </string>
   <string>
     <id>401214</id>
     <name>STR_IDAbRe_Up3_Crotan_SZ_GuardianWeapon</name>
-    <body>Drakan Ready Room\nDrakan Ready Room</body>
+    <body>Arsenal\nArsenal</body>
   </string>
   <string>
     <id>401215</id>
     <name>STR_IDAbRe_Up3_Crotan_SZ_GuardianArmor</name>
-    <body>Arsenal\nArsenal</body>
+    <body>Armoury\nArmoury</body>
   </string>
   <string>
     <id>401216</id>
     <name>STR_IDAbRe_Up3_Crotan_SZ_DrakanChief</name>
-    <body>Armory\nArmory</body>
+    <body>Ulsaruk’ Vault\nUlsaruk’ Vault</body>
   </string>
   <string>
     <id>401217</id>
     <name>STR_IDAbRe_Up3_Crotan_Sz_Artifact</name>
-    <body>Artifact Control Room\nArtifact Control Room</body>
+    <body>Artefact Control Room\nArtefact Control Room</body>
   </string>
   <string>
     <id>401218</id>
     <name>STR_IDAbRe_Up3_Crotan_SZ_Guardian</name>
-    <body>Ascension Chamber\nAscension Chamber</body>
+    <body>Lord’s Ascension Site\nLord’s Ascension Site</body>
   </string>
   <string>
     <id>401219</id>
     <name>STR_IDShulackShip_SZ_1F</name>
-    <body>Krotan Ascension Chamber\nKrotan Ascension Chamber</body>
+    <body>Lower Level Deck\nLower Level Deck</body>
   </string>
   <string>
     <id>401220</id>
     <name>STR_IDShulackShip_SZ_1F_00</name>
-    <body>Lower Level Deck\nLower Level Deck</body>
+    <body>No.1 Cargo Hold\nNo.1 Cargo Hold</body>
   </string>
   <string>
     <id>401221</id>
     <name>STR_IDShulackShip_SZ_1F_01</name>
-    <body>No. 1 Cargo Hold\nNo. 1 Cargo Hold</body>
+    <body>No.2 Cargo Hold\nNo.2 Cargo Hold</body>
   </string>
   <string>
     <id>401222</id>
     <name>STR_IDShulackShip_SZ_1F_02</name>
-    <body>No. 2 Cargo Hold\nNo.</body>
+    <body>Prison Zone\nPrison Zone</body>
   </string>
   <string>
     <id>401223</id>
     <name>STR_IDShulackShip_SZ_1F_03</name>
-    <body>2 Cargo Hold</body>
+    <body>Central Engine Room\nCentral Engine Room</body>
   </string>
   <string>
     <id>401224</id>
     <name>STR_IDShulackShip_SZ_1F_Boss</name>
-    <body>Prison Zone\nPrison Zone</body>
+    <body>Drana Generator Chamber\nDrana Generator Chamber</body>
   </string>
   <string>
     <id>401225</id>
     <name>STR_IDShulackShip_SZ_1F_H1</name>
-    <body>Central Engine Room\nCentral Engine Room</body>
+    <body>Cargo Elevator (lower level)\nCargo Elevator (lower level)</body>
   </string>
   <string>
     <id>401226</id>
     <name>STR_IDShulackShip_SZ_1F_H2</name>
-    <body>Drana Generator Chamber\nDrana Generator Chamber</body>
+    <body>Antique Storage\nAntique Storage</body>
   </string>
   <string>
     <id>401227</id>
     <name>STR_IDShulackShip_SZ_1F_H3</name>
-    <body>Cargo Elevator\nCargo Elevator</body>
+    <body>Menagerie\nMenagerie</body>
   </string>
   <string>
     <id>401228</id>
     <name>STR_IDShulackShip_SZ_1F_H4</name>
-    <body>Antique Storage\nAntique Storage</body>
+    <body>The Brig\nThe Brig</body>
   </string>
   <string>
     <id>401229</id>
     <name>STR_IDShulackShip_SZ_1F_H5</name>
-    <body>Menagerie\nMenagerie</body>
+    <body>Warden’s Chamber\nWarden’s Chamber</body>
   </string>
   <string>
     <id>401230</id>
     <name>STR_IDShulackShip_SZ_1F_H6</name>
-    <body>The Brig\nThe Brig</body>
+    <body>Anchor Hangar\nAnchor Hangar</body>
   </string>
   <string>
     <id>401231</id>
     <name>STR_IDShulackShip_SZ_1F_Q1</name>
-    <body>Warden's Chamber\nWarden's Chamber</body>
+    <body>Prison Cell on Steel Rake\nPrison Cell on Steel Rake</body>
   </string>
   <string>
     <id>401232</id>
     <name>STR_IDShulackShip_SZ_1F_Q2</name>
-    <body>Anchor Hangar\nAnchor Hangar</body>
+    <body>Escape Exit\nEscape Exit</body>
   </string>
   <string>
     <id>401233</id>
     <name>STR_IDShulackShip_SZ_2F</name>
-    <body>Inside the Prison Cell on Steel Rake\nInside the Prison Cell on Steel Rake</body>
+    <body>Waist Deck\nWaist Deck</body>
   </string>
   <string>
     <id>401234</id>
     <name>STR_IDShulackShip_SZ_2F_00</name>
-    <body>Emergency Escape Exit\nEmergency Escape Exit</body>
+    <body>The Stern of Steel Rake\nThe Stern of Steel Rake</body>
   </string>
   <string>
     <id>401235</id>
     <name>STR_IDShulackShip_SZ_2F_01</name>
-    <body>Waist Deck\nWaist Deck</body>
+    <body>Sailor Waiting Room\nSailor Waiting Room</body>
   </string>
   <string>
     <id>401236</id>
     <name>STR_IDShulackShip_SZ_2F_02</name>
-    <body>The Stern of Steel Rake\nThe Stern of Steel Rake</body>
+    <body>Portside Deck\nPortside Deck</body>
   </string>
   <string>
     <id>401237</id>
     <name>STR_IDShulackShip_SZ_2F_03</name>
-    <body>Sailor Waiting Room\nSailor Waiting Room</body>
+    <body>Starboard Deck\nStarboard Deck</body>
   </string>
   <string>
     <id>401238</id>
     <name>STR_IDShulackShip_SZ_2F_04</name>
-    <body>Portside Deck\nPortside Deck</body>
+    <body>Sea Song Tavern\nSea Song Tavern</body>
   </string>
   <string>
     <id>401239</id>
     <name>STR_IDShulackShip_SZ_2F_05</name>
-    <body>Starboard Deck\nStarboard Deck</body>
+    <body>Loot Depository\nLoot Depository</body>
   </string>
   <string>
     <id>401240</id>
     <name>STR_IDShulackShip_SZ_2F_06</name>
-    <body>Sea Song Tavern\nSea Song Tavern</body>
+    <body>Restricted Zone\nRestricted Zone</body>
   </string>
   <string>
     <id>401241</id>
     <name>STR_IDShulackShip_SZ_2F_Boss</name>
-    <body>Loot Depository\nLoot Depository</body>
+    <body>Grogget’s Safe\nGrogget’s Safe</body>
   </string>
   <string>
     <id>401242</id>
     <name>STR_IDShulackShip_SZ_2F_H1</name>
-    <body>Restricted Zone\nRestricted Zone</body>
+    <body>Mercenary Quarters\nMercenary Quarters</body>
   </string>
   <string>
     <id>401243</id>
     <name>STR_IDShulackShip_SZ_2F_H2</name>
-    <body>Grogget's Safe\nGrogget's Safe</body>
+    <body>Tavern Air Vent\nTavern Air Vent</body>
   </string>
   <string>
     <id>401244</id>
     <name>STR_IDShulackShip_SZ_2F_Q1</name>
-    <body>Mercenary Quarters\nMercenary Quarters</body>
+    <body>Navigation Resource Room\nNavigation Resource Room</body>
   </string>
   <string>
     <id>401245</id>
     <name>STR_IDShulackShip_SZ_2F_Q2</name>
-    <body>Tavern Air Vent\nTavern Air Vent</body>
+    <body>Wine Store\nWine Store</body>
   </string>
   <string>
     <id>401246</id>
     <name>STR_IDShulackShip_SZ_3F</name>
-    <body>Navigation Resource Room\nNavigation Resource Room</body>
+    <body>Upper Level Deck\nUpper Level Deck</body>
   </string>
   <string>
     <id>401247</id>
     <name>STR_IDShulackShip_SZ_3F_00</name>
-    <body>Wine Store\nWine Store</body>
+    <body>Bridge Deck\nBridge Deck</body>
   </string>
   <string>
     <id>401248</id>
     <name>STR_IDShulackShip_SZ_3F_01</name>
-    <body>Upper Level Deck\nUpper Level Deck</body>
+    <body>Central Deck\nCentral Deck</body>
   </string>
   <string>
     <id>401249</id>
     <name>STR_IDShulackShip_SZ_3F_02</name>
-    <body>Bridge Deck\nBridge Deck</body>
+    <body>Armoury\nArmoury</body>
   </string>
   <string>
     <id>401250</id>
     <name>STR_IDShulackShip_SZ_3F_03</name>
-    <body>Central Deck\nCentral Deck</body>
+    <body>Gun Repair Deck\nGun Repair Deck</body>
   </string>
   <string>
     <id>401251</id>
     <name>STR_IDShulackShip_SZ_3F_04</name>
-    <body>Armory\nArmory</body>
+    <body>Large Gun Deck\nLarge Gun Deck</body>
   </string>
   <string>
     <id>401252</id>
     <name>STR_IDShulackShip_SZ_3F_05</name>
-    <body>Gun Repair Deck\nGun Repair Deck</body>
+    <body>Anchor Hangar\nAnchor Hangar</body>
   </string>
   <string>
     <id>401253</id>
     <name>STR_IDShulackShip_SZ_3F_Boss</name>
-    <body>Large Gun Deck\nLarge Gun Deck</body>
+    <body>The Bridge\nThe Bridge</body>
   </string>
   <string>
     <id>401254</id>
     <name>STR_IDShulackShip_SZ_All</name>
-    <body>Anchor Hangar\nAnchor Hangar</body>
+    <body>Steel Rake\nSteel Rake</body>
   </string>
   <string>
     <id>401255</id>
@@ -6237,137 +6238,137 @@
   <string>
     <id>401256</id>
     <name>STR_IDAbRe_Up3_Dkisas_SZ_All</name>
-    <body>Inside Steel Rake\nInside Steel Rake</body>
+    <body>Kysis Chamber\nKysis Chamber</body>
   </string>
   <string>
     <id>401257</id>
     <name>STR_IDAbRe_Up3_Dkisas_SZ_LizardWeapon</name>
-    <body>Steel RakeKysis Chamber\nKysis Chamber</body>
+    <body>Draconute Weapons Chamber\nDraconute Weapons Chamber</body>
   </string>
   <string>
     <id>401258</id>
     <name>STR_IDAbRe_Up3_Dkisas_SZ_LizardRoom</name>
-    <body>Weapons Depot\nWeapons Depot</body>
+    <body>Weapon Depot\nWeapon Depot</body>
   </string>
   <string>
     <id>401259</id>
     <name>STR_IDAbRe_Up3_Dkisas_SZ_NagaWeapon</name>
-    <body>Weapons Depot\nWeapons Depot</body>
+    <body>Naga Weapons Chamber\nNaga Weapons Chamber</body>
   </string>
   <string>
     <id>401260</id>
     <name>STR_IDAbRe_Up3_Dkisas_SZ_NagaRoom</name>
-    <body>Supply Base\nSupply Base</body>
+    <body>Supply Depot\nSupply Depot</body>
   </string>
   <string>
     <id>401261</id>
     <name>STR_IDAbRe_Up3_Dkisas_SZ_DrakanWeapon</name>
-    <body>Supply Depot\nSupply Depot</body>
+    <body>Drakan Weapons Chamber\nDrakan Weapons Chamber</body>
   </string>
   <string>
     <id>401262</id>
     <name>STR_IDAbRe_Up3_Dkisas_SZ_DrakanRoom</name>
-    <body>Operations Room\nOperations Room</body>
+    <body>Operation Centre\nOperation Centre</body>
   </string>
   <string>
     <id>401263</id>
     <name>STR_IDAbRe_Up3_Dkisas_SZ_DrakanSortie</name>
-    <body>Operations Room\nOperations Room</body>
+    <body>Drakan Ready Room\nDrakan Ready Room</body>
   </string>
   <string>
     <id>401264</id>
     <name>STR_IDAbRe_Up3_Dkisas_SZ_GuardianWeapon</name>
-    <body>Drakan Ready Room\nDrakan Ready Room</body>
+    <body>Arsenal\nArsenal</body>
   </string>
   <string>
     <id>401265</id>
     <name>STR_IDAbRe_Up3_Dkisas_SZ_GuardianArmor</name>
-    <body>Arsenal\nArsenal</body>
+    <body>Armoury\nArmoury</body>
   </string>
   <string>
     <id>401266</id>
     <name>STR_IDAbRe_Up3_Dkisas_SZ_DrakanChief</name>
-    <body>Armory\nArmory</body>
+    <body>Ulsaruk’ Vault\nUlsaruk’ Vault</body>
   </string>
   <string>
     <id>401267</id>
     <name>STR_IDAbRe_Up3_Dkisas_Sz_Artifact</name>
-    <body>Artifact Control Room\nArtifact Control Room</body>
+    <body>Artefact Control Room\nArtefact Control Room</body>
   </string>
   <string>
     <id>401268</id>
     <name>STR_IDAbRe_Up3_Dkisas_SZ_Guardian</name>
-    <body>Ascension Chamber\nAscension Chamber</body>
+    <body>Lord’s Ascension Site\nLord’s Ascension Site</body>
   </string>
   <string>
     <id>401269</id>
     <name>STR_IDAbRe_Up3_Lamiren_SZ_All</name>
-    <body>Kysis Ascension Chamber\nKysis Ascension Chamber</body>
+    <body>Miren Chamber\nMiren Chamber</body>
   </string>
   <string>
     <id>401270</id>
     <name>STR_IDAbRe_Up3_Lamiren_SZ_LizardWeapon</name>
-    <body>Miren Chamber\nMiren Chamber</body>
+    <body>Draconute Weapons Chamber\nDraconute Weapons Chamber</body>
   </string>
   <string>
     <id>401271</id>
     <name>STR_IDAbRe_Up3_Lamiren_SZ_LizardRoom</name>
-    <body>Weapons Depot\nWeapons Depot</body>
+    <body>Weapon Depot\nWeapon Depot</body>
   </string>
   <string>
     <id>401272</id>
     <name>STR_IDAbRe_Up3_Lamiren_SZ_NagaWeapon</name>
-    <body>Weapons Depot\nWeapons Depot</body>
+    <body>Naga Weapons Chamber\nNaga Weapons Chamber</body>
   </string>
   <string>
     <id>401273</id>
     <name>STR_IDAbRe_Up3_Lamiren_SZ_NagaRoom</name>
-    <body>Supply Base\nSupply Base</body>
+    <body>Supply Depot\nSupply Depot</body>
   </string>
   <string>
     <id>401274</id>
     <name>STR_IDAbRe_Up3_Lamiren_SZ_DrakanWeapon</name>
-    <body>Supply Depot\nSupply Depot</body>
+    <body>Drakan Weapons Chamber\nDrakan Weapons Chamber</body>
   </string>
   <string>
     <id>401275</id>
     <name>STR_IDAbRe_Up3_Lamiren_SZ_DrakanRoom</name>
-    <body>Operations Room\nOperations Room</body>
+    <body>Operation Centre\nOperation Centre</body>
   </string>
   <string>
     <id>401276</id>
     <name>STR_IDAbRe_Up3_Lamiren_SZ_DrakanSortie</name>
-    <body>Operations Room\nOperations Room</body>
+    <body>Drakan Ready Room\nDrakan Ready Room</body>
   </string>
   <string>
     <id>401277</id>
     <name>STR_IDAbRe_Up3_Lamiren_SZ_GuardianWeapon</name>
-    <body>Drakan Ready Room\nDrakan Ready Room</body>
+    <body>Arsenal\nArsenal</body>
   </string>
   <string>
     <id>401278</id>
     <name>STR_IDAbRe_Up3_Lamiren_SZ_GuardianArmor</name>
-    <body>Arsenal\nArsenalArmory\nArmory</body>
+    <body>Armoury\nArmoury</body>
   </string>
   <string>
     <id>401279</id>
     <name>STR_IDAbRe_Up3_Lamiren_SZ_DrakanChief</name>
-    <body>Ulsaruk's Vault\nUlsaruk's Vault</body>
+    <body>Ulsaruk’ Vault\nUlsaruk’ Vault</body>
   </string>
   <string>
     <id>401280</id>
     <name>STR_IDAbRe_Up3_Lamiren_Sz_Artifact</name>
-    <body>Artifact Control Room\nArtifact Control Room</body>
+    <body>Artefact Control Room\nArtefact Control Room</body>
   </string>
   <string>
     <id>401281</id>
     <name>STR_IDAbRe_Up3_Lamiren_SZ_Guardian</name>
-    <body>Ascension Chamber\nAscension Chamber</body>
+    <body>Lord’s Ascension Site\nLord’s Ascension Site</body>
   </string>
   <string>
     <id>401282</id>
     <name>STR_Ab1_SZ_1121_2</name>
-    <body>Nobelium Fragment\nNobelium Fragment</body>
+    <body>Nobelium Aiolia\nNobelium Aiolia</body>
   </string>
   <string>
     <id>401283</id>
@@ -6377,7 +6378,7 @@
   <string>
     <id>401284</id>
     <name>STR_IDShulackShip_SZ_2F_07</name>
-    <body>Sailors Quarters\nSailors Quarters</body>
+    <body>Sailor Quarters\nSailor Quarters</body>
   </string>
   <string>
     <id>401285</id>
@@ -6437,7 +6438,7 @@
   <string>
     <id>401296</id>
     <name>STR_IDElim_SZ_1F</name>
-    <body>Taloc's Roots\nTaloc's Roots</body>
+    <body>Taloc’s Roots\nTaloc’s Roots</body>
   </string>
   <string>
     <id>401297</id>
@@ -6467,12 +6468,12 @@
   <string>
     <id>401302</id>
     <name>STR_IDElim_SZ_1F_Boss</name>
-    <body>Kinquid's Den\nKinquid's Den</body>
+    <body>Kinquid’s Den\nKinquid’s Den</body>
   </string>
   <string>
     <id>401303</id>
     <name>STR_IDElim_SZ_2F_Field</name>
-    <body>Taloc's Boughs\nTaloc's Boughs</body>
+    <body>Taloc’s Boughs\nTaloc’s Boughs</body>
   </string>
   <string>
     <id>401304</id>
@@ -6482,27 +6483,27 @@
   <string>
     <id>401305</id>
     <name>STR_IDElim_SZ_2F_Egg</name>
-    <body>Klawtira Broodlair\nKlawtira Broodlair</body>
+    <body>Supraklaw Broodlair\nSupraklaw Broodlair</body>
   </string>
   <string>
     <id>401306</id>
     <name>STR_IDElim_SZ_2F_Water</name>
-    <body>Taloc's Tears\nTaloc's Tears</body>
+    <body>Taloc’s Tears\nTaloc’s Tears</body>
   </string>
   <string>
     <id>401307</id>
     <name>STR_IDElim_SZ_2F_Hidden</name>
-    <body>Dorkin's Nook\nDorkin's Nook</body>
+    <body>Dorkin’s Nook\nDorkin’s Nook</body>
   </string>
   <string>
     <id>401308</id>
     <name>STR_IDElim_SZ_2F_Boss</name>
-    <body>Mosqua's Nest\nMosqua's Nest</body>
+    <body>Mosqua’s Nest\nMosqua’s Nest</body>
   </string>
   <string>
     <id>401309</id>
     <name>STR_IDElim_SZ_3F</name>
-    <body>Taloc's Heart\nTaloc's Heart</body>
+    <body>Taloc’s Heart\nTaloc’s Heart</body>
   </string>
   <string>
     <id>401310</id>
@@ -6532,7 +6533,7 @@
   <string>
     <id>401315</id>
     <name>STR_IDTemple_Up_SZ_A1</name>
-    <body>Friar's Vault\nFriar's Vault</body>
+    <body>Friar’s Vault\nFriar’s Vault</body>
   </string>
   <string>
     <id>401316</id>
@@ -6557,17 +6558,17 @@
   <string>
     <id>401320</id>
     <name>STR_IDTemple_Up_SZ_B2</name>
-    <body>Midnight Baptizing Chamber\nMidnight Baptizing Chamber</body>
+    <body>Path of Baptism\nPath of Baptism</body>
   </string>
   <string>
     <id>401321</id>
     <name>STR_IDTemple_Up_SZ_B3</name>
-    <body>Chamber of Guidance\nChamber of Guidance</body>
+    <body>Chamber of Guidance\nChamber of Guidance.</body>
   </string>
   <string>
     <id>401322</id>
     <name>STR_IDTemple_Up_SZ_C</name>
-    <body>Great Chapel\nGreat Chapel</body>
+    <body>Central Corridor\nCentral Corridor</body>
   </string>
   <string>
     <id>401323</id>
@@ -6577,7 +6578,7 @@
   <string>
     <id>401324</id>
     <name>STR_IDTemple_Up_SZ_C2</name>
-    <body>Central Corridor\nCentral Corridor</body>
+    <body>Great Chapel\nGreat Chapel</body>
   </string>
   <string>
     <id>401325</id>
@@ -6642,7 +6643,7 @@
   <string>
     <id>401337</id>
     <name>STR_IDTemple_Low_SZ_C3</name>
-    <body>Debilkarim's Forge\nDebilkarim's Forge</body>
+    <body>Debilkarim’s Forge\nDebilkarim’s Forge</body>
   </string>
   <string>
     <id>401338</id>
@@ -6672,7 +6673,7 @@
   <string>
     <id>401343</id>
     <name>STR_LF4_SZ_A2_Caspa</name>
-    <body>Taloc's Hill\nTaloc's Hill</body>
+    <body>Taloc’s Hill\nTaloc’s Hill</body>
   </string>
   <string>
     <id>401344</id>
@@ -6682,7 +6683,7 @@
   <string>
     <id>401345</id>
     <name>STR_LF4_SZ_A3</name>
-    <body>Taloc's Forest\nTaloc's Forest</body>
+    <body>Taloc’s Forest\nTaloc’s Forest</body>
   </string>
   <string>
     <id>401346</id>
@@ -6732,7 +6733,7 @@
   <string>
     <id>401355</id>
     <name>STR_LF4_SZ_B6_FanaticAltar</name>
-    <body>The Lordspire\nThe Lordspire</body>
+    <body>Altar of the Dragon Lord\nAltar of the Dragon Lord</body>
   </string>
   <string>
     <id>401356</id>
@@ -6742,7 +6743,7 @@
   <string>
     <id>401357</id>
     <name>STR_LF4_SZ_B7_NeutCave</name>
-    <body>Klawnickt's Cave\nKlawnickt's Cave</body>
+    <body>Klawnickt’s Cave\nKlawnickt’s Cave</body>
   </string>
   <string>
     <id>401358</id>
@@ -6772,7 +6773,7 @@
   <string>
     <id>401363</id>
     <name>STR_LF4_SZ_C3_Dramata</name>
-    <body>Dramata Lair\nDramata Lair</body>
+    <body>Dramata Refuge\nDramata Refuge</body>
   </string>
   <string>
     <id>401364</id>
@@ -6792,7 +6793,7 @@
   <string>
     <id>401367</id>
     <name>STR_LF4_SZ_C5_Od</name>
-    <body>Conqueror's Ravine\nConqueror's Ravine</body>
+    <body>Conqueror’s Ravine\nConqueror’s Ravine</body>
   </string>
   <string>
     <id>401368</id>
@@ -6817,7 +6818,7 @@
   <string>
     <id>401372</id>
     <name>STR_SZ_DF4_A2_Under</name>
-    <body>The Netherworld\nThe Netherworld</body>
+    <body>Netherworld\nNetherworld</body>
   </string>
   <string>
     <id>401373</id>
@@ -6867,7 +6868,7 @@
   <string>
     <id>401382</id>
     <name>STR_SZ_DF4_B4</name>
-    <body>Lost City of Marayas\nLost City of Marayas</body>
+    <body>Lost City Of Marayas\nLost City Of Marayas</body>
   </string>
   <string>
     <id>401383</id>
@@ -6922,7 +6923,7 @@
   <string>
     <id>401393</id>
     <name>STR_SZ_DF4_B4_Castle</name>
-    <body>Gelkmaros Defense Base\nGelkmaros Defense Base</body>
+    <body>Gelkmaros Defence Base\nGelkmaros Defence Base</body>
   </string>
   <string>
     <id>401394</id>
@@ -6932,7 +6933,7 @@
   <string>
     <id>401395</id>
     <name>STR_LF4_SZ_A5_Shulack</name>
-    <body>Rokoros Village\nRokoros Village</body>
+    <body>Rokoros\nRokoros</body>
   </string>
   <string>
     <id>401396</id>
@@ -6952,7 +6953,7 @@
   <string>
     <id>401399</id>
     <name>STR_LF4_Art_Reward_NorthernFortress_G1</name>
-    <body>Dragon's Favor</body>
+    <body>Dragon's Favour</body>
   </string>
   <string>
     <id>401400</id>
@@ -6967,7 +6968,7 @@
   <string>
     <id>401402</id>
     <name>STR_LF4_Art_SouthernFortress_G1</name>
-    <body>Avarice's Favor</body>
+    <body>Avarice's Favour</body>
   </string>
   <string>
     <id>401403</id>
@@ -6982,7 +6983,7 @@
   <string>
     <id>401405</id>
     <name>STR_DF4_Art_NorthernFortress_G1</name>
-    <body>Vorgaltem's Favor</body>
+    <body>Vorgaltem's Favour</body>
   </string>
   <string>
     <id>401406</id>
@@ -6997,7 +6998,7 @@
   <string>
     <id>401408</id>
     <name>STR_DF4_Art_SouthernFortress_G1</name>
-    <body>Crimson Favor</body>
+    <body>Crimson Favour</body>
   </string>
   <string>
     <id>401409</id>
@@ -7017,7 +7018,7 @@
   <string>
     <id>401412</id>
     <name>STR_IDCatacombs_SZ_A1</name>
-    <body>Beshmundir's Walk\nBeshmundir's Walk</body>
+    <body>Beshmundir’s Walk\nBeshmundir’s Walk</body>
   </string>
   <string>
     <id>401413</id>
@@ -7027,7 +7028,7 @@
   <string>
     <id>401414</id>
     <name>STR_IDCatacombs_SZ_A3</name>
-    <body>Watcher's Nexus\nWatcher's Nexus</body>
+    <body>Watcher’s Nexus\nWatcher’s Nexus</body>
   </string>
   <string>
     <id>401415</id>
@@ -7057,7 +7058,7 @@
   <string>
     <id>401420</id>
     <name>STR_IDCatacombs_SZ_B4</name>
-    <body>Macunbello's Refuge\nMacunbello's Refuge</body>
+    <body>Macunbello’s Refuge\nMacunbello’s Refuge</body>
   </string>
   <string>
     <id>401421</id>
@@ -7067,7 +7068,7 @@
   <string>
     <id>401422</id>
     <name>STR_IDCatacombs_SZ_B6</name>
-    <body>Hero's Vault\nHero's Vault</body>
+    <body>Hero’s Vault\nHero’s Vault</body>
   </string>
   <string>
     <id>401423</id>
@@ -7272,12 +7273,12 @@
   <string>
     <id>401463</id>
     <name>STR_SZ_DF4_C2_3</name>
-    <body>Klawtiar's Maze\nKlawtiar's Maze</body>
+    <body>Klawtiar’s Maze\nKlawtiar’s Maze</body>
   </string>
   <string>
     <id>401464</id>
     <name>STR_SZ_DF4_C6_2</name>
-    <body>Padmarashka's Cave\nPadmarashka's Cave</body>
+    <body>Padmarashka’s Cave\nPadmarashka’s Cave</body>
   </string>
   <string>
     <id>401465</id>
@@ -7287,7 +7288,7 @@
   <string>
     <id>401466</id>
     <name>STR_Underpass_SZ_S2</name>
-    <body>Silentera Eastgate\nSilentera Eastgate</body>
+    <body>Silentera East Gate\nSilentera East Gate</body>
   </string>
   <string>
     <id>401467</id>
@@ -7302,7 +7303,7 @@
   <string>
     <id>401469</id>
     <name>STR_Underpass_SZ_A3</name>
-    <body>Eastern Corridor\nEastern Corridor</body>
+    <body>Eastern Great Corridor\nEastern Great Corridor</body>
   </string>
   <string>
     <id>401470</id>
@@ -7312,7 +7313,7 @@
   <string>
     <id>401471</id>
     <name>STR_Underpass_SZ_A5</name>
-    <body>Shadows Egress\nShadows Egress</body>
+    <body>Shadow’s Egress\nShadow’s Egress</body>
   </string>
   <string>
     <id>401472</id>
@@ -7327,7 +7328,7 @@
   <string>
     <id>401474</id>
     <name>STR_Underpass_SZ_B3</name>
-    <body>Western Corridor\nWestern Corridor</body>
+    <body>Western Great Corridor\nWestern Great Corridor</body>
   </string>
   <string>
     <id>401475</id>
@@ -7367,7 +7368,7 @@
   <string>
     <id>401482</id>
     <name>STR_Underpass_SZ_D</name>
-    <body>Hope's Demise\nHope's Demise</body>
+    <body>Hope’s Demise\nHope’s Demise</body>
   </string>
   <string>
     <id>401483</id>
@@ -7434,7 +7435,7 @@
   <string>
     <id>401496</id>
     <name>STR_LF4_SV_2111</name>
-    <body>Heranas</body>
+    <body>Veille</body>
   </string>
   <string>
     <id>401497</id>
@@ -7444,7 +7445,7 @@
   <string>
     <id>401498</id>
     <name>STR_DF4_SV_3111</name>
-    <body>Tegrak</body>
+    <body>Mastarius</body>
   </string>
   <string>
     <id>401499</id>
@@ -7549,12 +7550,12 @@
   <string>
     <id>401519</id>
     <name>STR_SZ_DF4_C5_Q1</name>
-    <body>Batalrion's Campsite\nBatalrion's Campsite</body>
+    <body>Batalrion’s Campsite\nBatalrion’s Campsite</body>
   </string>
   <string>
     <id>401520</id>
     <name>STR_LF4_SZ_A1_NPC</name>
-    <body>Investigator's Campsite\nInvestigator's Campsite</body>
+    <body>Investigator’s Campsite\nInvestigator’s Campsite</body>
   </string>
   <string>
     <id>401521</id>
@@ -7574,7 +7575,7 @@
   <string>
     <id>401524</id>
     <name>STR_LF4_SZ_A4_NPC</name>
-    <body>Doria's Campsite\nDoria's Campsite</body>
+    <body>Doria’s Campsite\nDoria’s Campsite</body>
   </string>
   <string>
     <id>401525</id>
@@ -7599,7 +7600,7 @@
   <string>
     <id>401529</id>
     <name>STR_LF4_SZ_B1_NPC</name>
-    <body>Philon's Campsite\nPhilon's Campsite</body>
+    <body>Philon’s Campsite\nPhilon’s Campsite</body>
   </string>
   <string>
     <id>401530</id>
@@ -7709,12 +7710,12 @@
   <string>
     <id>401551</id>
     <name>STR_DF4_Airport_SUB_B6spot</name>
-    <body>Subterranea Post</body>
+    <body>Subterranea Observation Post</body>
   </string>
   <string>
     <id>401552</id>
     <name>STR_LC1_Airport_SPOT_Dock</name>
-    <body>Outer Port of Sanctum</body>
+    <body>Outer Dock</body>
   </string>
   <string>
     <id>401553</id>
@@ -7759,7 +7760,7 @@
   <string>
     <id>401561</id>
     <name>STR_Underpass_SZ_Q10025</name>
-    <body>Front of Beshmundir's Walk\nFront of Beshmundir's Walk</body>
+    <body>Beshmundir’s Walk\nBeshmundir’s Walk</body>
   </string>
   <string>
     <id>401562</id>
@@ -7874,7 +7875,7 @@
   <string>
     <id>401584</id>
     <name>STR_SZ_DF4_B3_Q1</name>
-    <body>Farbin's Campsite\nFarbin's Campsite</body>
+    <body>Farbin’s Campsite\nFarbin’s Campsite</body>
   </string>
   <string>
     <id>401585</id>
@@ -7889,7 +7890,7 @@
   <string>
     <id>401587</id>
     <name>STR_IDTemple_Low_SZ_B3</name>
-    <body>Kingspin's Nest\nKingspin's Nest</body>
+    <body>Kingspin’s Nest\nKingspin’s Nest</body>
   </string>
   <string>
     <id>401588</id>
@@ -7944,7 +7945,7 @@
   <string>
     <id>401598</id>
     <name>STR_SIGN_ST_LF4_ArmorShop</name>
-    <body>Armor Distribution Office</body>
+    <body>Armour Distribution Office</body>
   </string>
   <string>
     <id>401599</id>
@@ -7969,7 +7970,7 @@
   <string>
     <id>401603</id>
     <name>STR_SIGN_NM_DF4_ArmorShop</name>
-    <body>Armor Distribution Office</body>
+    <body>Armour Distribution Office</body>
   </string>
   <string>
     <id>401604</id>
@@ -8034,12 +8035,12 @@
   <string>
     <id>401616</id>
     <name>STR_LF4_SZ_B7_All</name>
-    <body>Mount Marut\nMount Marut</body>
+    <body>Marut Mountains\nMarut Mountains</body>
   </string>
   <string>
     <id>401617</id>
     <name>STR_LF4_SZ_C1_UnderPass</name>
-    <body>Inggison Silentera Entrance\nInggison Silentera Entrance</body>
+    <body>Inggison Entrance to the Silentera Canyon\nInggison Entrance to the Silentera Canyon</body>
   </string>
   <string>
     <id>401618</id>
@@ -8094,12 +8095,12 @@
   <string>
     <id>401628</id>
     <name>STR_SZ_DF4_C3_UnderPass</name>
-    <body>Gelkmaros Silentera Entrance\nGelkmaros Silentera Entrance</body>
+    <body>Gelkmaros Entrance to Silentera\nGelkmaros Entrance to Silentera</body>
   </string>
   <string>
     <id>401629</id>
     <name>STR_LF4_SIGN_C1_UnderPass</name>
-    <body>Inggison Silentera Entrance</body>
+    <body>Inggison Entrance to Silentera</body>
   </string>
   <string>
     <id>401630</id>
@@ -8139,7 +8140,7 @@
   <string>
     <id>401637</id>
     <name>STR_SIGN_DF4_B4_Castle</name>
-    <body>Gelkmaros Defense Base</body>
+    <body>Gelkmaros Defence Base</body>
   </string>
   <string>
     <id>401638</id>
@@ -8199,7 +8200,7 @@
   <string>
     <id>401649</id>
     <name>STR_LF3_Airport_SUB_CHENGARUNG</name>
-    <body>Changarnerk's Campsite</body>
+    <body>Changarnerk Campsite</body>
   </string>
   <string>
     <id>401650</id>
@@ -8244,7 +8245,7 @@
   <string>
     <id>401658</id>
     <name>STR_DF3_Airport_SUB_KIDORUN</name>
-    <body>Kidorun's Campsite</body>
+    <body>Kidorun Campsite</body>
   </string>
   <string>
     <id>401659</id>
@@ -8279,12 +8280,12 @@
   <string>
     <id>401665</id>
     <name>STR_LF2_SZ_G1_NPC</name>
-    <body>Novan's Crossing\nNovan's Crossing</body>
+    <body>Novan’s Crossing\nNovan’s Crossing</body>
   </string>
   <string>
     <id>401666</id>
     <name>STR_LF2B_SZ_C2_NPC</name>
-    <body>Josnack's Vigil\nJosnack's Vigil</body>
+    <body>Josnack’s Vigil\nJosnack’s Vigil</body>
   </string>
   <string>
     <id>401667</id>
@@ -8324,7 +8325,7 @@
   <string>
     <id>401674</id>
     <name>STR_IDNovice_SZ_boss</name>
-    <body>Hamerun's Office\nHamerun's Office</body>
+    <body>Hamerun’s Office\nHamerun’s Office</body>
   </string>
   <string>
     <id>401675</id>
@@ -8339,27 +8340,27 @@
   <string>
     <id>401677</id>
     <name>STR_ZONE_Comment_IDDreadgion_02</name>
-    <body>The Dredgion of the Chantra Legion. Red and Blue teams must vanquish Captain Zanata while keeping each other in check. Abyss Points can be obtained as rewards.</body>
+    <body>The Dredgion of the Chantra Legion supplies Balaur armies on the front lines. Elyos and Asmodians must vanquish Captain Zanata while keeping each other in check. Abyss Points are up for grabs.</body>
   </string>
   <string>
     <id>401678</id>
     <name>STR_IDCromede_SZ_Cave</name>
-    <body>Hidden Cave</body>
+    <body>Grand Cavern\nGrand Cavern</body>
   </string>
   <string>
     <id>401679</id>
     <name>STR_IDCromede_SZ_Seal_Entrance</name>
-    <body>Grand Cavern\nGrand Cavern</body>
+    <body>Vault Gate\nVault Gate</body>
   </string>
   <string>
     <id>401680</id>
     <name>STR_IDCromede_SZ_Seal_Room</name>
-    <body>Vault Gate\nVault Gate</body>
+    <body>Temple Vault\nTemple Vault</body>
   </string>
   <string>
     <id>401681</id>
     <name>STR_IDCromede_SZ_Prison</name>
-    <body>Temple Vault\nTemple Vault</body>
+    <body>Kaliga Dungeons\nKaliga Dungeons</body>
   </string>
   <string>
     <id>401682</id>
@@ -8384,12 +8385,12 @@
   <string>
     <id>401686</id>
     <name>STR_IDCromede_SZ_BedRoom</name>
-    <body>Angerr's Bedroom\nAngerr's Bedroom</body>
+    <body>Angerr’s Bedroom\nAngerr’s Bedroom</body>
   </string>
   <string>
     <id>401687</id>
     <name>STR_IDCromede_SZ_Secret_Living_Room</name>
-    <body>Secret Reception Room\nSecret Reception Room</body>
+    <body>Secret Reception\nSecret Reception</body>
   </string>
   <string>
     <id>401688</id>
@@ -8429,7 +8430,7 @@
   <string>
     <id>401699</id>
     <name>STR_IDAbRe_Core_SZ_B</name>
-    <body>Pazuzu's Sanctuary\nPazuzu's Sanctuary</body>
+    <body>Pazuzu’s Sanctuary\nPazuzu’s Sanctuary</body>
   </string>
   <string>
     <id>401700</id>
@@ -8444,7 +8445,7 @@
   <string>
     <id>401702</id>
     <name>STR_IDAbRe_Core_SZ_E</name>
-    <body>Kaluva's Nest\nKaluva's Nest</body>
+    <body>Kaluva’s Nest\nKaluva’s Nest</body>
   </string>
   <string>
     <id>401703</id>
@@ -8464,7 +8465,7 @@
   <string>
     <id>401706</id>
     <name>STR_SZ_iddreadgion_02_01</name>
-    <body>Escape Hatch\nEscape Hatch</body>
+    <body>Escape Hatch\nEscape hatch</body>
   </string>
   <string>
     <id>401707</id>
@@ -8474,12 +8475,12 @@
   <string>
     <id>401708</id>
     <name>STR_SZ_iddreadgion_02_03</name>
-    <body>Primary Armory\nPrimary Armory</body>
+    <body>Primary Armoury\nPrimary Armoury</body>
   </string>
   <string>
     <id>401709</id>
     <name>STR_SZ_iddreadgion_02_04</name>
-    <body>Backup Armory\nBackup Armory</body>
+    <body>Backup Armoury\nBackup Armoury</body>
   </string>
   <string>
     <id>401710</id>
@@ -8504,12 +8505,12 @@
   <string>
     <id>401714</id>
     <name>STR_SZ_iddreadgion_02_09</name>
-    <body>Ready Room 1\nReady Room 1</body>
+    <body>First Ready Room\nFirst Ready Room</body>
   </string>
   <string>
     <id>401715</id>
     <name>STR_SZ_iddreadgion_02_10</name>
-    <body>Ready Room 2\nReady Room 2</body>
+    <body>Second Ready Room\nSecond Ready Room</body>
   </string>
   <string>
     <id>401716</id>
@@ -8539,7 +8540,7 @@
   <string>
     <id>401721</id>
     <name>STR_SZ_iddreadgion_02_16</name>
-    <body>Captain's Cabin\nCaptain's Cabin</body>
+    <body>Captain’s Cabin\nCaptain’s Cabin</body>
   </string>
   <string>
     <id>401722</id>
@@ -8569,7 +8570,7 @@
   <string>
     <id>401727</id>
     <name>STR_ZONE_NAME_IDCromede</name>
-    <body>Kromede's Trial</body>
+    <body>Nightmare</body>
   </string>
   <string>
     <id>401728</id>
@@ -8624,7 +8625,7 @@
   <string>
     <id>401738</id>
     <name>STR_IDF4Re_Station_SZ_Depot_01</name>
-    <body>Omega storehouse\nOmega Storehouse</body>
+    <body>Omega Storehouse\nOmega Storehouse</body>
   </string>
   <string>
     <id>401739</id>
@@ -8649,7 +8650,7 @@
   <string>
     <id>401743</id>
     <name>STR_IDF4Re_Station_SZ_Shulack</name>
-    <body>Popkin's Parts Storage\nPopkin's Parts Storage</body>
+    <body>Popkin’s Parts Storage\nPopkin’s Parts Storage</body>
   </string>
   <string>
     <id>401744</id>
@@ -8694,7 +8695,7 @@
   <string>
     <id>401752</id>
     <name>STR_idf4re_drana_SZ_Stage_01_1</name>
-    <body>Narayana Canyon\nNarayana Canyon</body>
+    <body>Narayama Canyon\nNarayama Canyon</body>
   </string>
   <string>
     <id>401753</id>
@@ -8709,37 +8710,37 @@
   <string>
     <id>401755</id>
     <name>STR_IDElemental_1_SZ_All</name>
-    <body>Ladis Forest\nLadis Forest</body>
+    <body>Elementis Forest\nElementis Forest</body>
   </string>
   <string>
     <id>401756</id>
     <name>STR_IDElemental_1_SZ_1</name>
-    <body>Ladis Cave\nLadis Cave</body>
+    <body>Elementis Cave\nElementis Cave</body>
   </string>
   <string>
     <id>401757</id>
     <name>STR_IDElemental_1_SZ_2</name>
-    <body>Canyonguard Canyon\nCanyonguard Canyon</body>
+    <body>Canyonguard’s Ravine\nCanyonguard’s Ravine</body>
   </string>
   <string>
     <id>401758</id>
     <name>STR_IDElemental_1_SZ_3</name>
-    <body>Canyonguard Cliff Path\nCanyonguard Cliff Path</body>
+    <body>Ravine Trail\nRavine Trail</body>
   </string>
   <string>
     <id>401759</id>
     <name>STR_IDElemental_1_SZ_4</name>
-    <body>Jurdin's Demesne\nJurdin's Demesne</body>
+    <body>Jurdin’s Domain\nJurdin’s Domain</body>
   </string>
   <string>
     <id>401760</id>
     <name>STR_IDElemental_1_SZ_5</name>
-    <body>Forest of Spirits\nForest of Spirits</body>
+    <body>Spiritfall Forest\nSpiritfall Forest</body>
   </string>
   <string>
     <id>401761</id>
     <name>STR_IDElemental_1_SZ_6</name>
-    <body>Lake Ladis\nLake Ladis</body>
+    <body>Lake Elementis\nLake Elementis</body>
   </string>
   <string>
     <id>401762</id>
@@ -8749,22 +8750,22 @@
   <string>
     <id>401763</id>
     <name>STR_IDElemental_2_SZ_All</name>
-    <body>Dorgel Manor\nDorgel Manor</body>
+    <body>Argent Manor\nArgent Manor</body>
   </string>
   <string>
     <id>401764</id>
     <name>STR_IDElemental_2_SZ_1</name>
-    <body>Sap Flow Route\nSap Flow Route</body>
+    <body>Sap Trail\nSap Trail</body>
   </string>
   <string>
     <id>401765</id>
     <name>STR_IDElemental_2_SZ_2</name>
-    <body>Cadella's Reception Room\nCadella's Reception Room</body>
+    <body>Cadella’s Anteroom\nCadella’s Anteroom</body>
   </string>
   <string>
     <id>401766</id>
     <name>STR_IDElemental_2_SZ_3</name>
-    <body>Soul Dryer Rack\nSoul Dryer Rack</body>
+    <body>Golem Territory\nGolem Territory</body>
   </string>
   <string>
     <id>401767</id>
@@ -8774,17 +8775,17 @@
   <string>
     <id>401768</id>
     <name>STR_IDElemental_2_SZ_5</name>
-    <body>Light Experiment Lab\nLight Experiment Lab</body>
+    <body>Laboratory of Light\nLaboratory of Light</body>
   </string>
   <string>
     <id>401769</id>
     <name>STR_IDElemental_2_SZ_6</name>
-    <body>Celestial Observation Chamber\nCelestial Observation Chamber</body>
+    <body>Celestial Observatory\nCelestial Observatory</body>
   </string>
   <string>
     <id>401770</id>
     <name>STR_IDElemental_2_SZ_7</name>
-    <body>2F Corridor\n2F Corridor</body>
+    <body>Balcony\nBalcony</body>
   </string>
   <string>
     <id>401771</id>
@@ -8809,27 +8810,27 @@
   <string>
     <id>401775</id>
     <name>STR_IDYun_SZ_3</name>
-    <body>Residential Zone\nResidential Zone</body>
+    <body>Living Quarters\nLiving Quarters</body>
   </string>
   <string>
     <id>401776</id>
     <name>STR_IDYun_SZ_4</name>
-    <body>Fortress Entrance\nFortress Entrance</body>
+    <body>Fortress Battlements\nFortress Battlements</body>
   </string>
   <string>
     <id>401777</id>
     <name>STR_IDYun_SZ_5</name>
-    <body>Siel Smithy\nCiel Smithy</body>
+    <body>Siel’s Forge\nSiel’s Forge</body>
   </string>
   <string>
     <id>401778</id>
     <name>STR_IDYun_SZ_6</name>
-    <body>Materials Depot\nMaterials Depot</body>
+    <body>Storehouse\nStorehouse</body>
   </string>
   <string>
     <id>401779</id>
     <name>STR_IDYun_SZ_7</name>
-    <body>Rentus Command Center\nRentus Command Center</body>
+    <body>The Bridge\nThe Bridge</body>
   </string>
   <string>
     <id>401780</id>
@@ -8859,12 +8860,12 @@
   <string>
     <id>401785</id>
     <name>STR_IDStation_SZ_01_A</name>
-    <body>Sky Fortress Supply Zone\nSky Fortress Supply Zone</body>
+    <body>Sky Fortress Warehouse Zone\nSky Fortress Warehouse Zone</body>
   </string>
   <string>
     <id>401786</id>
     <name>STR_IDStation_SZ_01_B_1</name>
-    <body>Supply Materials Depot\nSupply Materials Depot</body>
+    <body>Material Supply Depot\nMaterial Supply Depot</body>
   </string>
   <string>
     <id>401787</id>
@@ -8879,37 +8880,37 @@
   <string>
     <id>401789</id>
     <name>STR_IDStation_SZ_02_A</name>
-    <body>Dredgion Control Zone\nDredgion Control Zone</body>
+    <body>Dredgion Fabrication Zone\nDredgion Fabrication Zone</body>
   </string>
   <string>
     <id>401790</id>
     <name>STR_IDStation_SZ_02_Named</name>
-    <body>Expert Workshop\nExpert Workshop</body>
+    <body>Supervisor’s Workshop\nSupervisor’s Workshop</body>
   </string>
   <string>
     <id>401791</id>
     <name>STR_IDStation_SZ_03_A</name>
-    <body>Airship Boarding Ground\nAirship Boarding Ground</body>
+    <body>Airship Dock\nAirship Dock</body>
   </string>
   <string>
     <id>401792</id>
     <name>STR_IDStation_SZ_03_B</name>
-    <body>Sky Fortress Command Area\nSky Fortress Command Area</body>
+    <body>Sky Fortress Command Centre\nSky Fortress Command Centre</body>
   </string>
   <string>
     <id>401793</id>
     <name>STR_IDStation_SZ_03_C_1</name>
-    <body>Dredgion Control Center\nDredgion Control Center</body>
+    <body>Drakan Operations Room\nDrakan Operations Room</body>
   </string>
   <string>
     <id>401794</id>
     <name>STR_IDStation_SZ_03_C_2</name>
-    <body>Dredgion Control Center\nDredgion Control Center</body>
+    <body>Drakan Operations Room\nDrakan Operations Room</body>
   </string>
   <string>
     <id>401795</id>
     <name>STR_IDStation_SZ_03_Named</name>
-    <body>Ashunatal's Power Chamber\nAshunatal's Power Chamber</body>
+    <body>Ashunatal’s Ready Room\nAshunatal’s Ready Room</body>
   </string>
   <string>
     <id>401796</id>
@@ -8979,67 +8980,67 @@
   <string>
     <id>401809</id>
     <name>STR_IDRaksha_SubZone_00_Thames</name>
-    <body>Tahmes\nTahmes</body>
+    <body>Raksang\nRaksang</body>
   </string>
   <string>
     <id>401810</id>
     <name>STR_IDRaksha_SubZone_01_Hole</name>
-    <body>Tahmes Dungeon Entrance\nTahmes Dungeon Entrance</body>
+    <body>Raksang Dungeon Chasm\nRaksang Dungeon Chasm</body>
   </string>
   <string>
     <id>401811</id>
     <name>STR_IDRaksha_SubZone_11_0F_</name>
-    <body>Dungeon Control Chamber\nDungeon Control Chamber</body>
+    <body>Dungeon Surveillance Centre\nDungeon Surveillance Centre</body>
   </string>
   <string>
     <id>401812</id>
     <name>STR_IDRaksha_SubZone_12_1F_</name>
-    <body>Sealing Device Control Room\nSealing Device Control Room</body>
+    <body>Seal Generation Zone\nSeal Generation Zone</body>
   </string>
   <string>
     <id>401813</id>
     <name>STR_IDRaksha_SubZone_13_1F_Entrance</name>
-    <body>Tahmes Entrance\nTahmes Entrance</body>
+    <body>Raksang Entrance\nRaksang Entrance</body>
   </string>
   <string>
     <id>401814</id>
     <name>STR_IDRaksha_SubZone_21_2F_</name>
-    <body>Collapsed Cell\nCollapsed Cell</body>
+    <body>Terror’s Vault\nTerror’s Vault</body>
   </string>
   <string>
     <id>401815</id>
     <name>STR_IDRaksha_SubZone_22_2F_MirrorRoom</name>
-    <body>Interrogation Room of Illusion\nInterrogation Room of Illusion</body>
+    <body>Agony Chamber\nAgony Chamber</body>
   </string>
   <string>
     <id>401816</id>
     <name>STR_IDRaksha_SubZone_31_3F_</name>
-    <body>Prison Cell of Hell\nPrison Cell of Hell</body>
+    <body>Seven Hells Prison\nSeven Hells Prison</body>
   </string>
   <string>
     <id>401817</id>
     <name>STR_IDRaksha_SubZone_32_3F_FireRoom</name>
-    <body>Execution Ground of Fire\nExecution Ground of Fire</body>
+    <body>Torment Chamber\nTorment Chamber</body>
   </string>
   <string>
     <id>401818</id>
     <name>STR_IDRaksha_SubZone_41_4F_</name>
-    <body>Ground of Tahmes\nGround of Tahmes</body>
+    <body>Raksang Depths\nRaksang Depths</body>
   </string>
   <string>
     <id>401819</id>
     <name>STR_IDRaksha_SubZone_51_5F_</name>
-    <body>Seal of Raksha\nSeal of Raksha</body>
+    <body>Raksha’s Seal\nRaksha’s Seal</body>
   </string>
   <string>
     <id>401820</id>
     <name>STR_IDRaksha_SubZone_52_5F_road</name>
-    <body>Hell Path of Tahmes\nHell Path of Tahmes</body>
+    <body>Hellpath\nHellpath</body>
   </string>
   <string>
     <id>401821</id>
     <name>STR_IDRaksha_SubZone_53_5F_Raksha</name>
-    <body>Sealed Site of Raksha\nSealed Site of Raksha</body>
+    <body>Destroyed Guardian’s Seal von Raksha\nDestroyed Guardian’S Seal von Raksha</body>
   </string>
   <string>
     <id>401822</id>
@@ -9069,7 +9070,7 @@
   <string>
     <id>401827</id>
     <name>STR_LF2_SZ_G0</name>
-    <body>Ruins Site Guard Post\nRuins Site Guard Post</body>
+    <body>Novan’s Crossing\nNovan’s Crossing</body>
   </string>
   <string>
     <id>401828</id>
@@ -9154,7 +9155,7 @@
   <string>
     <id>402053</id>
     <name>STR_IDArena_pvp01_SZ_03</name>
-    <body>Mumu Farmland\nMumu Farmland</body>
+    <body>MuMu Farm\nMuMu Farm</body>
   </string>
   <string>
     <id>402054</id>
@@ -9254,7 +9255,7 @@
   <string>
     <id>403251</id>
     <name>STR_IDDramata_01_SZ_02</name>
-    <body>Padmarashka's Nest\nPadmarashka's Nest</body>
+    <body>Padmarashka’s Nest\nPadmarashka’s Nest</body>
   </string>
   <string>
     <id>403259</id>
@@ -9269,27 +9270,27 @@
   <string>
     <id>403261</id>
     <name>STR_SZ_DF2_Dflame_A</name>
-    <body>Judgement Corridor</body>
+    <body>Corridor of Decision</body>
   </string>
   <string>
     <id>403262</id>
     <name>STR_ZONE_NAME_IDTiamatLab_War</name>
-    <body>Tiak Research Base</body>
+    <body>Tiarkh Testing Lab</body>
   </string>
   <string>
     <id>403263</id>
     <name>STR_ZONE_Comment_IDTiamatLab_War</name>
-    <body>This is a secret base where Tiamat secretly conducted the experiment with Siel's Relics. Collect information before the opposing faction does and complete the mission of destroying the base to receive Abyss Points.</body>
+    <body>A secret lab where, under Tiamat’s supervision, experiments with Siel’s Relic were conducted. Storm the lab before the enemy faction has a chance to do so and get rewarded with Abyss Points.</body>
   </string>
   <string>
     <id>403264</id>
     <name>STR_ZONE_NAME_IDShulackShip_Q</name>
-    <body>Warden's Chamber</body>
+    <body>Prison Cell on Steel Rake</body>
   </string>
   <string>
     <id>403265</id>
     <name>STR_IDTiamatLab_War_SZ_A_01</name>
-    <body>First Escape Hatch</body>
+    <body>Escape Hatch</body>
   </string>
   <string>
     <id>403266</id>
@@ -9299,42 +9300,42 @@
   <string>
     <id>403267</id>
     <name>STR_IDTiamatLab_War_SZ_B_01</name>
-    <body>First Escape Passage</body>
+    <body>Emergency Corridor</body>
   </string>
   <string>
     <id>403268</id>
     <name>STR_IDTiamatLab_War_SZ_B_02</name>
-    <body>Secondary Escape Passage</body>
+    <body>Secondary Emergency Corridor</body>
   </string>
   <string>
     <id>403269</id>
     <name>STR_IDTiamatLab_War_SZ_C_01</name>
-    <body>Distorted Infernal Cavern</body>
+    <body>Chasm of Remains</body>
   </string>
   <string>
     <id>403270</id>
     <name>STR_IDTiamatLab_War_SZ_C_SUB_01</name>
-    <body>Infernal Pass</body>
+    <body>Path of Remains</body>
   </string>
   <string>
     <id>403271</id>
     <name>STR_IDTiamatLab_War_SZ_D_01</name>
-    <body>West Sorting Chamber</body>
+    <body>Western Selection Hall</body>
   </string>
   <string>
     <id>403272</id>
     <name>STR_IDTiamatLab_War_SZ_D_02</name>
-    <body>East Sorting Chamber</body>
+    <body>Eastern Selection Hall</body>
   </string>
   <string>
     <id>403273</id>
     <name>STR_IDTiamatLab_War_SZ_E_01</name>
-    <body>Drana Cultivation Zone</body>
+    <body>Drana Cultivation Area</body>
   </string>
   <string>
     <id>403274</id>
     <name>STR_IDTiamatLab_War_SZ_F_01</name>
-    <body>Central Control Zone</body>
+    <body>Administration Headquarters</body>
   </string>
   <string>
     <id>403275</id>
@@ -9344,32 +9345,32 @@
   <string>
     <id>403276</id>
     <name>STR_IDTiamatLab_War_SZ_G_01</name>
-    <body>Control Passage 1</body>
+    <body>1st Jurisdiction Path</body>
   </string>
   <string>
     <id>403277</id>
     <name>STR_IDTiamatLab_War_SZ_G_02</name>
-    <body>Control Passage 2</body>
+    <body>2nd Jurisdiction Path</body>
   </string>
   <string>
     <id>403278</id>
     <name>STR_IDTiamatLab_War_SZ_H_01</name>
-    <body>Restricted Area</body>
+    <body>Harrowing Hall</body>
   </string>
   <string>
     <id>403279</id>
     <name>STR_ZONE_NAME_IDTiamatLab_Q</name>
-    <body>Closed Tiak Research Base</body>
+    <body>Locked Tiarkh Testing Lab</body>
   </string>
   <string>
     <id>403280</id>
     <name>STR_IDTiamatLab_War_SZ_FW_01</name>
-    <body>West Laboratory</body>
+    <body>Western Laboratory</body>
   </string>
   <string>
     <id>403281</id>
     <name>STR_IDTiamatLab_War_SZ_FE_01</name>
-    <body>East Laboratory</body>
+    <body>Eastern Laboratory</body>
   </string>
   <string>
     <id>403282</id>
@@ -9379,12 +9380,12 @@
   <string>
     <id>403283</id>
     <name>STR_ZONE_Comment_IDArena_Glory</name>
-    <body>&lt;p&gt;This Arena allows outstanding warriors of the Crucible Coliseum to compete with each other.&lt;/p&gt;&lt;p&gt;Each training match consists of a maximum of 3 rounds, but it can end earlier if the time limit is reached or if one player accrues the winning number of points.&lt;/p&gt;&lt;p&gt;If you enter the Instance, all Boost effects currently active will be removed.&lt;/p&gt;</body>
+    <body>&lt;p&gt;An arena for those who leave the Crucible Coliseum with flying colours and now wish to compete among the best.&lt;/p&gt;&lt;p&gt;Each training match consists of a maximum of 3 rounds, but it can end before that if you reach the time limit, or if one player accrues the winning number of points.&lt;/p&gt;&lt;p&gt;If you enter the Instance, all Enchant effects currently affecting you will be removed.&lt;/p&gt;</body>
   </string>
   <string>
     <id>403284</id>
     <name>STR_IDArena_Glory_SZ_01</name>
-    <body>Alquimia Secret Waterway</body>
+    <body>Alquimia Cesspool</body>
   </string>
   <string>
     <id>403285</id>
@@ -9394,22 +9395,22 @@
   <string>
     <id>403286</id>
     <name>STR_IDArena_Glory_SZ_03</name>
-    <body>Decayed Yard</body>
+    <body>Marshes of Doom</body>
   </string>
   <string>
     <id>403287</id>
     <name>STR_IDArena_Glory_SZ_04</name>
-    <body>Collapsed Celestial Tower</body>
+    <body>Turris Ruins</body>
   </string>
   <string>
     <id>403288</id>
     <name>STR_IDArena_Glory_SZ_05</name>
-    <body>Ancient Desert Temple</body>
+    <body>Zigguratia</body>
   </string>
   <string>
     <id>403289</id>
     <name>STR_IDArena_Glory_SZ_06</name>
-    <body>Trepone Skytower</body>
+    <body>Trepone Floating Tower</body>
   </string>
   <string>
     <id>403290</id>
@@ -9424,242 +9425,242 @@
   <string>
     <id>403292</id>
     <name>STR_ZONE_NAME_IDPogusgame</name>
-    <body>Shugo Games</body>
+    <body>Jakunerk Game</body>
   </string>
   <string>
     <id>403293</id>
     <name>STR_ZONE_Comment_IDPogusgame</name>
-    <body>&lt;p&gt;Welcome to the Shugo Games.&lt;/p&gt;&lt;p&gt;Remember, participation is voluntary.&lt;/p&gt;&lt;p&gt;Please make wise decisions, and take care of yourself!&lt;/p&gt;</body>
+    <body>&lt;p&gt;Welcome to the Jakunerk Game.&lt;/p&gt;&lt;p&gt;No one here has been forced to take part in the game.&lt;/p&gt;&lt;p&gt;Think carefully about your decisions and don’t forget that you only live once.&lt;/p&gt;</body>
   </string>
   <string>
     <id>403294</id>
     <name>STR_IDPogusgame_Lobby</name>
-    <body>Shugo Games Waiting Room</body>
+    <body>Jakunerk Waiting Area</body>
   </string>
   <string>
     <id>403295</id>
     <name>STR_IDPogusgame_Stage1</name>
-    <body>Game 1 Room</body>
+    <body>Game Room 1</body>
   </string>
   <string>
     <id>403296</id>
     <name>STR_IDPogusgame_Stage1_Wait</name>
-    <body>Game 1 Waiting Room</body>
+    <body>Game Room 1 Lobby</body>
   </string>
   <string>
     <id>403297</id>
     <name>STR_IDPogusgame_Stage2</name>
-    <body>Game 2 Room</body>
+    <body>Game Room 2</body>
   </string>
   <string>
     <id>403298</id>
     <name>STR_IDPogusgame_Stage2_Wait</name>
-    <body>Game 2 Waiting Room</body>
+    <body>Game Room 2 Lobby</body>
   </string>
   <string>
     <id>403299</id>
     <name>STR_IDPogusgame_Stage3</name>
-    <body>Game 3 Room</body>
+    <body>Game Room 3</body>
   </string>
   <string>
     <id>403300</id>
     <name>STR_IDPogusgame_Stage3_Wait</name>
-    <body>Game 3 Waiting Room</body>
+    <body>Game Room 3 Lobby</body>
   </string>
   <string>
     <id>403301</id>
     <name>STR_IDPogusgame_Stage4</name>
-    <body>Game 4 Room</body>
+    <body>Game Room 4</body>
   </string>
   <string>
     <id>403302</id>
     <name>STR_IDPogusgame_Stage4_Wait</name>
-    <body>Game 4 Waiting Room</body>
+    <body>Game Room 4 Lobby</body>
   </string>
   <string>
     <id>403303</id>
     <name>STR_IDPogusgame_Stage5</name>
-    <body>Game 5 Room</body>
+    <body>Game Room 5</body>
   </string>
   <string>
     <id>403304</id>
     <name>STR_IDPogusgame_Stage5_Wait</name>
-    <body>Game 5 Waiting Room</body>
+    <body>Game Room 5 Lobby</body>
   </string>
   <string>
     <id>403305</id>
     <name>STR_IDPogusgame_Stage1_Reward</name>
-    <body>1st Game Reward Room</body>
+    <body>Reward Room (1st game)</body>
   </string>
   <string>
     <id>403306</id>
     <name>STR_IDPogusgame_Stage5_Wait2</name>
-    <body>5th Game Bleachers</body>
+    <body>Stand (5th game)</body>
   </string>
   <string>
     <id>403307</id>
     <name>STR_IDPogusgame_Stage2_Reward</name>
-    <body>2nd Game Reward Room</body>
+    <body>Reward Room (2nd game)</body>
   </string>
   <string>
     <id>403308</id>
     <name>STR_IDPogusgame_Stage3_Reward</name>
-    <body>3rd Game Reward Room</body>
+    <body>Reward Room (3rd game)</body>
   </string>
   <string>
     <id>403309</id>
     <name>STR_IDPogusgame_Stage4_Reward</name>
-    <body>4th Game Reward Room</body>
+    <body>Reward Room (4th game)</body>
   </string>
   <string>
     <id>403310</id>
     <name>STR_IDPogusgame_Stage5_Reward</name>
-    <body>5th Game Reward Room</body>
+    <body>Reward Room (5th game)</body>
   </string>
   <string>
     <id>403311</id>
     <name>STR_ZONE_NAME_IDDF3_Dragon_Boss</name>
-    <body>Twisted Draupnir Cave</body>
+    <body>Draupnir Grotto</body>
   </string>
   <string>
     <id>403312</id>
     <name>STR_IDDF3_Dragon_Boss_SZ_ALL</name>
-    <body>Twisted Draupnir Cave</body>
+    <body>Draupnir Grotto</body>
   </string>
   <string>
     <id>403313</id>
     <name>STR_IDDF3_Dragon_Boss_SZ_01</name>
-    <body>Distorted Drakenseer's Lair</body>
+    <body>Raging Beritra’s Oracle</body>
   </string>
   <string>
     <id>403314</id>
     <name>STR_Underpass_SZ_I_01</name>
-    <body>Nexus Square</body>
+    <body>Hora Agora</body>
   </string>
   <string>
     <id>403315</id>
     <name>STR_Underpass_SZ_I_02</name>
-    <body>Collapsed Great Corridor</body>
+    <body>Inverted Corridor</body>
   </string>
   <string>
     <id>403316</id>
     <name>STR_Underpass_SZ_I_03</name>
-    <body>Collapsed West Corridor</body>
+    <body>Inverted Western Corridor</body>
   </string>
   <string>
     <id>403317</id>
     <name>STR_Underpass_SZ_I_04</name>
-    <body>Collapsed East Corridor</body>
+    <body>Inverted Eastern Corridor</body>
   </string>
   <string>
     <id>403318</id>
     <name>STR_ZONE_NAME_IDAbRe_Low_Divine_WIN</name>
-    <body>Sulfur Tree Nest (Occupying Force)</body>
+    <body>Sulphur Tree Nest (Conqueror)</body>
   </string>
   <string>
     <id>403319</id>
     <name>STR_ZONE_NAME_IDAbRe_Low_Wciel_WIN</name>
-    <body>Left Wing Chamber (Occupying Force)</body>
+    <body>Left Wing Chamber (Conqueror)</body>
   </string>
   <string>
     <id>403320</id>
     <name>STR_ZONE_NAME_IDAbRe_Low_Eciel_WIN</name>
-    <body>Right Wing Chamber (Occupying Force)</body>
+    <body>Right Wing Chamber (Conqueror)</body>
   </string>
   <string>
     <id>403321</id>
     <name>STR_ZONE_NAME_IDAbRe_Up_Rhoo_WIN</name>
-    <body>Chamber of Roah (Occupying Force)</body>
+    <body>Chamber of Roah (Conqueror)</body>
   </string>
   <string>
     <id>403322</id>
     <name>STR_ZONE_NAME_IDAbRe_Up_Asteria_WIN</name>
-    <body>Asteria Chamber (Occupying Force)</body>
+    <body>Asteria Chamber (Conqueror)</body>
   </string>
   <string>
     <id>403323</id>
     <name>STR_ZONE_NAME_IDAbRe_Up3_Crotan_WIN</name>
-    <body>Krotan Chamber (Occupying Force)</body>
+    <body>Krotan Chamber (Conqueror)</body>
   </string>
   <string>
     <id>403324</id>
     <name>STR_ZONE_NAME_IDAbRe_Up3_Dkisas_WIN</name>
-    <body>Kysis Barracks (Occupying Force)</body>
+    <body>Kysis Chamber (Conqueror)</body>
   </string>
   <string>
     <id>403325</id>
     <name>STR_ZONE_NAME_IDAbRe_Up3_Lamiren_WIN</name>
-    <body>Miren Chamber (Occupying Force)</body>
+    <body>Miren Chamber (Conqueror)</body>
   </string>
   <string>
     <id>403326</id>
     <name>STR_ZONE_NAME_IDAbRe_Core_WIN</name>
-    <body>Abyssal Splinter (Occupying Force)</body>
+    <body>Abyssal Splinter</body>
   </string>
   <string>
     <id>403327</id>
     <name>STR_ZONE_NAME_IDAbRe_Low_Divine_LOSE</name>
-    <body>Sulfur Tree Nest (Non-occupying Force)</body>
+    <body>Sulphur Tree Nest (Challenger)</body>
   </string>
   <string>
     <id>403328</id>
     <name>STR_ZONE_NAME_IDAbRe_Low_Wciel_LOSE</name>
-    <body>Left Wing Chamber (Non-occupying Force)</body>
+    <body>Left Wing Chamber (Challenger)</body>
   </string>
   <string>
     <id>403329</id>
     <name>STR_ZONE_NAME_IDAbRe_Low_Eciel_LOSE</name>
-    <body>Right Wing Chamber (Non-occupying Force)</body>
+    <body>Right Wing Chamber (Challenger)</body>
   </string>
   <string>
     <id>403330</id>
     <name>STR_ZONE_NAME_IDAbRe_Up_Rhoo_LOSE</name>
-    <body>Chamber of Roah (Non-occupying Force)</body>
+    <body>Chamber of Roah (Challenger)</body>
   </string>
   <string>
     <id>403331</id>
     <name>STR_ZONE_NAME_IDAbRe_Up_Asteria_LOSE</name>
-    <body>Asteria Chamber (Non-occupying Force)</body>
+    <body>Asteria Chamber (Challenger)</body>
   </string>
   <string>
     <id>403332</id>
     <name>STR_ZONE_NAME_IDAbRe_Up3_Crotan_LOSE</name>
-    <body>Krotan Chamber (Non-occupying Force)</body>
+    <body>Krotan Chamber (Challenger)</body>
   </string>
   <string>
     <id>403333</id>
     <name>STR_ZONE_NAME_IDAbRe_Up3_Dkisas_LOSE</name>
-    <body>Kysis Barracks (Non-occupying Force)</body>
+    <body>Kysis Chamber (Challenger)</body>
   </string>
   <string>
     <id>403334</id>
     <name>STR_ZONE_NAME_IDAbRe_Up3_Lamiren_LOSE</name>
-    <body>Miren Chamber (Non-occupying Force)</body>
+    <body>Miren Chamber (Challenger)</body>
   </string>
   <string>
     <id>403335</id>
     <name>STR_ZONE_NAME_IDAbRe_Core_LOSE</name>
-    <body>Abyssal Splinter (Non-occupying Force)</body>
+    <body>Abyssal Splinter (Challenger)</body>
   </string>
   <string>
     <id>403336</id>
     <name>STR_ZONE_NAME_IDCatacombs_Normal</name>
-    <body>Beshmundir Temple (Easy)</body>
+    <body>Beshmundir Temple (normal)</body>
   </string>
   <string>
     <id>403337</id>
     <name>STR_ZONE_NAME_IDCatacombs_Hard</name>
-    <body>Beshmundir Temple (Hard)</body>
+    <body>Beshmundir Temple (difficult)</body>
   </string>
   <string>
     <id>403338</id>
     <name>STR_ZONE_NAME_IDCatacombs_Hell</name>
-    <body>Unyielding Beshmundir Temple</body>
+    <body>Liberated Beshmundir Temple</body>
   </string>
   <string>
     <id>403339</id>
     <name>STR_ZONE_NAME_IDCatacombs_Hell_DESC</name>
-    <body>Beshmundir Temple (Unyielding Path)</body>
+    <body>Liberated Beshmundir Temple</body>
   </string>
   <string>
     <id>403340</id>
