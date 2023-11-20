@@ -9,8 +9,8 @@ parsed = "_parsed"
 # TODO
 # VERIFICAR SKILLS POR VERSÃO
 # ADICIONAR DRY PARA REMOVER ARQUIVOS
-versao_na = "2.8"
-versao_eu = "2.0"
+versao_na = "28"
+versao_eu = "20"
 arquivos = [
     "strings\\client_strings_ui.xml",
     "strings\\client_strings_msg.xml",
@@ -209,16 +209,16 @@ def repack():
 
         print(f"[{contagem_arquivo}/{iteracoes}] Verificando se arquivos existem: {dest} | {zip_dest}")
         for destino in destinos_final:
-            if os.path.isfile(dest):
+            if os.path.isfile(destino):
                 print(f"[{contagem_arquivo}/{iteracoes}] Arquivo existe: '{destino}' :: Removendo.", end="\r")
-                os.remove(dest)
+                os.remove(destino)
                 print(f"[{contagem_arquivo}/{iteracoes}] Arquivo existe: '{destino}' :: Removido.")
             else:
                 print(f"[{contagem_arquivo}/{iteracoes}] Arquivo não existe: '{destino}'.")
-                if not os.path.isdir(os.path.dirname(dest)):
-                    print(f"[{contagem_arquivo}/{iteracoes}] Diretório não existe :: Criando diretório: '{os.path.dirname(dest)}'.", end="\r")
-                    os.makedirs(os.path.dirname(dest))
-                    print(f"[{contagem_arquivo}/{iteracoes}] Diretório não existe :: Diretório criado: '{os.path.dirname(dest)}'.")
+                if not os.path.isdir(os.path.dirname(destino)):
+                    print(f"[{contagem_arquivo}/{iteracoes}] Diretório não existe :: Criando diretório: '{os.path.dirname(destino)}'.", end="\r")
+                    os.makedirs(os.path.dirname(destino))
+                    print(f"[{contagem_arquivo}/{iteracoes}] Diretório não existe :: Diretório criado: '{os.path.dirname(destino)}'.")
 
         #COPIAR PAK PARA A PASTA ARQUIVO E PASTA PRINCIPAL
         for destino in destinos:
