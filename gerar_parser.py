@@ -8,6 +8,7 @@ originais = ["data_eu", "Data_na"]
 parsed = "_parsed"
 # TODO
 # VERIFICAR SKILLS POR VERSÃO
+# ADICIONAR DRY PARA REMOVER ARQUIVOS
 versao_na = "2.8"
 versao_eu = "2.0"
 arquivos = [
