@@ -22,18 +22,18 @@ arquivos = [
     "strings\\client_strings_level.xml"
 ]
 
-def verificar_arquivos(contagem_arquivo, iteracoes, destino):
-    print(f"[{contagem_arquivo}/{iteracoes}] Verificando arquivo: {destino}", end="\r")
-    if os.path.isfile(destino):
-        print(f"[{contagem_arquivo}/{iteracoes}] Arquivo existe: '{destino}' :: Removendo.", end="\r")
-        os.remove(destino)
-        print(f"[{contagem_arquivo}/{iteracoes}] Arquivo existe: '{destino}' :: Removido.")
+def verificar_arquivos(contagem_arquivo, iteracoes, dest):
+    print(f"[{contagem_arquivo}/{iteracoes}] Verificando arquivo: {dest}", end="\r")
+    if os.path.isfile(dest):
+        print(f"[{contagem_arquivo}/{iteracoes}] Arquivo existe: '{dest}' :: Removendo.", end="\r")
+        os.remove(dest)
+        print(f"[{contagem_arquivo}/{iteracoes}] Arquivo existe: '{dest}' :: Removido.")
     else:
-        print(f"[{contagem_arquivo}/{iteracoes}] Arquivo não existe: '{destino}'.")
-        if not os.path.isdir(os.path.dirname(destino)):
-            print(f"[{contagem_arquivo}/{iteracoes}] Diretório não existe :: Criando diretório: '{os.path.dirname(destino)}'.", end="\r")
-            os.makedirs(os.path.dirname(destino))
-            print(f"[{contagem_arquivo}/{iteracoes}] Diretório não existe :: Diretório criado: '{os.path.dirname(destino)}'.")
+        print(f"[{contagem_arquivo}/{iteracoes}] Arquivo não existe: '{dest}'.")
+        if not os.path.isdir(os.path.dirname(dest)):
+            print(f"[{contagem_arquivo}/{iteracoes}] Diretório não existe :: Criando diretório: '{os.path.dirname(dest)}'.", end="\r")
+            os.makedirs(os.path.dirname(dest))
+            print(f"[{contagem_arquivo}/{iteracoes}] Diretório não existe :: Diretório criado: '{os.path.dirname(dest)}'.")
 
 def parsing():
     print(f">>>>> INICIANDO PARSE", end="\r")
@@ -196,26 +196,21 @@ def repack():
 
         orig = f"REPACK\z_{original}_ptBR.pak"
         dest_temp = f"z_{original}_ptBR.pak"
-        dest = f"{downloads}\z_{original}_ptBR.pak"
-        zip_dest = f"{downloads}\z_{original}_ptBR.zip"
-        destinos = [dest_temp, dest]
-        destinos_final = [zip_dest, dest]
+        dest = f"{downloads}\z_{original}_ptBR.zip"
 
-        for destino in destinos_final:
-            verificar_arquivos(contagem_arquivo, iteracoes, destino)
+        verificar_arquivos(contagem_arquivo, iteracoes, dest)
 
-        #COPIAR PAK PARA A PASTA ARQUIVO E PASTA PRINCIPAL
-        for destino in destinos:
-            shutil.copy2(orig, destino)
-            print(f"[{contagem_arquivo}/{iteracoes}] Arquivo copiado: {destino}")
+        #COPIAR PAK PARA A PASTA TEMPORÁRIA PRINCIPAL PARA CRIAR O ZIP
+        shutil.copy2(orig, dest_temp)
+        print(f"[{contagem_arquivo}/{iteracoes}] Arquivo copiado: {dest_temp}")
 
-        with zipfile.ZipFile(zip_dest, 'w') as file:
+        with zipfile.ZipFile(dest, 'w') as file:
             file.write(dest_temp)
         #with zipfile.ZipFile(zip_dest, 'r') as file:
         #    print(file.namelist())
 
         os.remove(dest_temp)
-        print(f"[{contagem_arquivo}/{iteracoes}] Arquivo zip criado com sucesso: '{zip_dest}'.")
+        print(f"[{contagem_arquivo}/{iteracoes}] Arquivo zip criado com sucesso: '{dest}'.")
         contagem_arquivo += 1
 
         execution_time = "%.2f" % (time.monotonic() - start_time_original)
