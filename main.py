@@ -1,3 +1,6 @@
+# TODO
+# VERIFICAR SKILLS POR VERSÃO
+
 import lxml.etree as parser
 import os, time, codecs, shutil, zipfile, subprocess, sys
 from pathlib import Path
@@ -6,9 +9,7 @@ print(f"+|+|+ SCRIPT INICIADO")
 start_time_python = time.monotonic()
 originais = ["data_eu", "Data_na"]
 parsed = "_parsed"
-# TODO
-# VERIFICAR SKILLS POR VERSÃO
-# ADICIONAR DRY PARA REMOVER ARQUIVOS
+downloads = "_arquivo"
 versao_na = "280"
 versao_eu = "200"
 arquivos = [
@@ -20,6 +21,19 @@ arquivos = [
     "strings\\client_strings_skill.xml",
     "strings\\client_strings_level.xml"
 ]
+
+def verificar_arquivos(contagem_arquivo, iteracoes, destino):
+    print(f"[{contagem_arquivo}/{iteracoes}] Verificando arquivo: {destino}", end="\r")
+    if os.path.isfile(destino):
+        print(f"[{contagem_arquivo}/{iteracoes}] Arquivo existe: '{destino}' :: Removendo.", end="\r")
+        os.remove(destino)
+        print(f"[{contagem_arquivo}/{iteracoes}] Arquivo existe: '{destino}' :: Removido.")
+    else:
+        print(f"[{contagem_arquivo}/{iteracoes}] Arquivo não existe: '{destino}'.")
+        if not os.path.isdir(os.path.dirname(destino)):
+            print(f"[{contagem_arquivo}/{iteracoes}] Diretório não existe :: Criando diretório: '{os.path.dirname(destino)}'.", end="\r")
+            os.makedirs(os.path.dirname(destino))
+            print(f"[{contagem_arquivo}/{iteracoes}] Diretório não existe :: Diretório criado: '{os.path.dirname(destino)}'.")
 
 def parsing():
     print(f">>>>> INICIANDO PARSE", end="\r")
@@ -40,7 +54,7 @@ def parsing():
             start_time_traducao = time.monotonic()
             contagem = 0
             original_file = f"_originais\{original}\{traducao}"
-            dest = f"{parsed}\{original_file}"
+            dest = f"{parsed}\{original}\{traducao}"
             print(f"[{contagem_arquivo}/{iteracoes}] Arquivo: {traducao}")
 
             original_tree = parser.parse(original_file)
@@ -81,17 +95,7 @@ def parsing():
             print("")
             """
             
-            print(f"[{contagem_arquivo}/{iteracoes}] Verificando arquivo.", end="\r")
-            if os.path.isfile(dest):
-                print(f"[{contagem_arquivo}/{iteracoes}] Verificando arquivo :: Arquivo existe :: Removendo", end="\r")
-                os.remove(dest)
-                print(f"[{contagem_arquivo}/{iteracoes}] Verificando arquivo :: Arquivo existe :: Removido")
-            else:
-                print(f"[{contagem_arquivo}/{iteracoes}] Verificando arquivo :: Arquivo não existe.", end="\r")
-                if not os.path.isdir(os.path.dirname(dest)):
-                        print(f"[{contagem_arquivo}/{iteracoes}] Verificando arquivo :: Arquivo não existe :: Diretório não existe :: Criando diretório", end="\r")
-                        os.makedirs(os.path.dirname(dest))
-                        print(f"[{contagem_arquivo}/{iteracoes}] Verificando arquivo :: Arquivo não existe :: Diretório não existe :: Diretório criado")
+            verificar_arquivos(contagem_arquivo, iteracoes, dest)
             
             parser.ElementTree(novo_parse).write(dest, encoding='utf-8', xml_declaration=True, pretty_print=True)
             execution_time = "%.2f" % (time.monotonic() - start_time_traducao)
@@ -127,19 +131,9 @@ def unicode():
             start_time_arquivo = time.monotonic()
             orig = f"{parsed}\{original}\{arquivo}"
             dest = f"PAK\z_{original}_ptBR\{arquivo}"
-            
-            print(f"[{contagem_arquivo}/{iteracoes}] Verificando arquivo.", end="\r")
-            if os.path.isfile(dest):
-                print(f"[{contagem_arquivo}/{iteracoes}] Verificando arquivo :: Arquivo existe :: Removendo", end="\r")
-                os.remove(dest)
-                print(f"[{contagem_arquivo}/{iteracoes}] Verificando arquivo :: Arquivo existe :: Removido")
-            else:
-                print(f"[{contagem_arquivo}/{iteracoes}] Verificando arquivo :: Arquivo não existe.", end="\r")
-                if not os.path.isdir(os.path.dirname(dest)):
-                        print(f"[{contagem_arquivo}/{iteracoes}] Verificando arquivo :: Arquivo não existe :: Diretório não existe :: Criando diretório", end="\r")
-                        os.makedirs(os.path.dirname(dest))
-                        print(f"[{contagem_arquivo}/{iteracoes}] Verificando arquivo :: Arquivo não existe :: Diretório não existe :: Diretório criado")
-            
+
+            verificar_arquivos(contagem_arquivo, iteracoes, dest)
+
             print(f"[{contagem_arquivo}/{iteracoes}] Copiando arquivo: '{orig}' -> '{dest}'", end="\r")
             if os.path.isfile(orig):
                 shutil.copy2(orig, dest)
@@ -202,24 +196,14 @@ def repack():
 
         orig = f"REPACK\z_{original}_ptBR.pak"
         dest_temp = f"z_{original}_ptBR.pak"
-        dest = f"arquivo\z_{original}_ptBR.pak"
-        zip_dest = f"arquivo\z_{original}_ptBR.zip"
+        dest = f"{downloads}\z_{original}_ptBR.pak"
+        zip_dest = f"{downloads}\z_{original}_ptBR.zip"
         destinos = [dest_temp, dest]
         destinos_final = [zip_dest, dest]
-        
-        print(f"[{contagem_arquivo}/{iteracoes}] Verificando se arquivos existem: {dest} | {zip_dest}")
+
         for destino in destinos_final:
-            if os.path.isfile(destino):
-                print(f"[{contagem_arquivo}/{iteracoes}] Arquivo existe: '{destino}' :: Removendo.", end="\r")
-                os.remove(destino)
-                print(f"[{contagem_arquivo}/{iteracoes}] Arquivo existe: '{destino}' :: Removido.")
-            else:
-                print(f"[{contagem_arquivo}/{iteracoes}] Arquivo não existe: '{destino}'.")
-                if not os.path.isdir(os.path.dirname(destino)):
-                    print(f"[{contagem_arquivo}/{iteracoes}] Diretório não existe :: Criando diretório: '{os.path.dirname(destino)}'.", end="\r")
-                    os.makedirs(os.path.dirname(destino))
-                    print(f"[{contagem_arquivo}/{iteracoes}] Diretório não existe :: Diretório criado: '{os.path.dirname(destino)}'.")
-        
+            verificar_arquivos(contagem_arquivo, iteracoes, destino)
+
         #COPIAR PAK PARA A PASTA ARQUIVO E PASTA PRINCIPAL
         for destino in destinos:
             shutil.copy2(orig, destino)
