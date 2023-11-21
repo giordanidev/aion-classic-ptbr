@@ -9,8 +9,8 @@ parsed = "_parsed"
 # TODO
 # VERIFICAR SKILLS POR VERSÃO
 # ADICIONAR DRY PARA REMOVER ARQUIVOS
-versao_na = "28"
-versao_eu = "20"
+versao_na = "280"
+versao_eu = "200"
 arquivos = [
     "strings\\client_strings_ui.xml",
     "strings\\client_strings_msg.xml",
@@ -39,7 +39,7 @@ def parsing():
         for traducao in arquivos:
             start_time_traducao = time.monotonic()
             contagem = 0
-            original_file = f"{original}\{traducao}"
+            original_file = f"_originais\{original}\{traducao}"
             dest = f"{parsed}\{original_file}"
             print(f"[{contagem_arquivo}/{iteracoes}] Arquivo: {traducao}")
 
@@ -80,7 +80,7 @@ def parsing():
                 contagem += 1
             print("")
             """
-
+            
             print(f"[{contagem_arquivo}/{iteracoes}] Verificando arquivo.", end="\r")
             if os.path.isfile(dest):
                 print(f"[{contagem_arquivo}/{iteracoes}] Verificando arquivo :: Arquivo existe :: Removendo", end="\r")
@@ -92,7 +92,7 @@ def parsing():
                         print(f"[{contagem_arquivo}/{iteracoes}] Verificando arquivo :: Arquivo não existe :: Diretório não existe :: Criando diretório", end="\r")
                         os.makedirs(os.path.dirname(dest))
                         print(f"[{contagem_arquivo}/{iteracoes}] Verificando arquivo :: Arquivo não existe :: Diretório não existe :: Diretório criado")
-
+            
             parser.ElementTree(novo_parse).write(dest, encoding='utf-8', xml_declaration=True, pretty_print=True)
             execution_time = "%.2f" % (time.monotonic() - start_time_traducao)
             print(f"[{contagem_arquivo}/{iteracoes}] Arquivo salvo em '{dest}' ({execution_time}s)")
@@ -127,7 +127,7 @@ def unicode():
             start_time_arquivo = time.monotonic()
             orig = f"{parsed}\{original}\{arquivo}"
             dest = f"PAK\z_{original}_ptBR\{arquivo}"
-
+            
             print(f"[{contagem_arquivo}/{iteracoes}] Verificando arquivo.", end="\r")
             if os.path.isfile(dest):
                 print(f"[{contagem_arquivo}/{iteracoes}] Verificando arquivo :: Arquivo existe :: Removendo", end="\r")
@@ -139,7 +139,7 @@ def unicode():
                         print(f"[{contagem_arquivo}/{iteracoes}] Verificando arquivo :: Arquivo não existe :: Diretório não existe :: Criando diretório", end="\r")
                         os.makedirs(os.path.dirname(dest))
                         print(f"[{contagem_arquivo}/{iteracoes}] Verificando arquivo :: Arquivo não existe :: Diretório não existe :: Diretório criado")
-
+            
             print(f"[{contagem_arquivo}/{iteracoes}] Copiando arquivo: '{orig}' -> '{dest}'", end="\r")
             if os.path.isfile(orig):
                 shutil.copy2(orig, dest)
@@ -206,7 +206,7 @@ def repack():
         zip_dest = f"arquivo\z_{original}_ptBR.zip"
         destinos = [dest_temp, dest]
         destinos_final = [zip_dest, dest]
-
+        
         print(f"[{contagem_arquivo}/{iteracoes}] Verificando se arquivos existem: {dest} | {zip_dest}")
         for destino in destinos_final:
             if os.path.isfile(destino):
@@ -219,7 +219,7 @@ def repack():
                     print(f"[{contagem_arquivo}/{iteracoes}] Diretório não existe :: Criando diretório: '{os.path.dirname(destino)}'.", end="\r")
                     os.makedirs(os.path.dirname(destino))
                     print(f"[{contagem_arquivo}/{iteracoes}] Diretório não existe :: Diretório criado: '{os.path.dirname(destino)}'.")
-
+        
         #COPIAR PAK PARA A PASTA ARQUIVO E PASTA PRINCIPAL
         for destino in destinos:
             shutil.copy2(orig, destino)
@@ -240,9 +240,9 @@ def repack():
     execution_time = "%.2f" % (time.monotonic() - start_time_total)
     print(f"!!!!! REPACK FINALIZADO ({execution_time}s)")
 
-#parsing()
-#unicode()
-#repack()
+parsing()
+unicode()
+repack()
 
 execution_time = "%.2f" % (time.monotonic() - start_time_python)
 print(f"+|+|+ SCRIPT CONCLUÍDO ({execution_time}s)")
