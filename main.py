@@ -39,7 +39,7 @@ def verificar_arquivos(contagem_arquivo, iteracoes, dest):
 def parsing():
     print(f">>>>> INICIANDO PARSE", end="\r")
     start_time_total = time.monotonic()
-
+    contagem_arquivo = 1
     arquivos_len = len(arquivos)
     iteracoes = arquivos_len*len(originais)
 
@@ -50,7 +50,6 @@ def parsing():
         print(f"##### ITERAÇÃO: {original}")
         start_time_original = time.monotonic()
         ignorar = False
-        contagem_arquivo = 1
         for traducao in arquivos:
             for texto in traducao.split("_"):
                 if texto in ignorar_parse:
