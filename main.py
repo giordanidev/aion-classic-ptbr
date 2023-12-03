@@ -53,7 +53,6 @@ def parsing():
         contagem_arquivo = 1
         for traducao in arquivos:
             for texto in traducao.split("_"):
-                print(texto)
                 if texto in ignorar_parse:
                     ignorar = True
 
