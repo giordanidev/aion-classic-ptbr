@@ -24554,7 +24554,7 @@ Atualizada em: %DATETIME1</body>
   <string>
     <id>1401087</id>
     <name>STR_MSG_MOVE_SERVER_COMPLETE</name>
-    <body>You have entered %0.</body>
+    <body>Você entrou em %0.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>

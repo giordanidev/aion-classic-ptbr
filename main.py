@@ -12,6 +12,7 @@ parsed = "_parsed"
 downloads = "_arquivo"
 versao_na = "280"
 versao_eu = "200"
+ignorar_parse = ["ui.xml", "msg.xml", "dialog.xml", "level.xml"]
 arquivos = [
     "strings\\client_strings_ui.xml",
     "strings\\client_strings_msg.xml",
@@ -48,9 +49,14 @@ def parsing():
 
         print(f"##### ITERAÇÃO: {original}")
         start_time_original = time.monotonic()
-
+        ignorar = False
         contagem_arquivo = 1
         for traducao in arquivos:
+            for texto in traducao.split("_"):
+                print(texto)
+                if texto in ignorar_parse:
+                    ignorar = True
+
             start_time_traducao = time.monotonic()
             contagem = 0
             original_file = f"_originais\{original}\{traducao}"
@@ -87,7 +93,13 @@ def parsing():
                 novo_string = parser.SubElement(novo_parse, texto_traducao.tag)
                 
                 for elemento in texto_traducao:
-                    parser.SubElement(novo_string, elemento.tag).text = texto_traducao.find(elemento.tag).text
+                    if ignorar == False:
+                        if "DESC" in elemento.text.split("_"):
+                            parser.SubElement(novo_string, elemento.tag).text = texto_traducao.find(elemento.tag).text
+                        else:
+                            parser.SubElement(novo_string, elemento.tag).text = original_string.find(elemento.tag).text
+                    else:
+                        parser.SubElement(novo_string, elemento.tag).text = texto_traducao.find(elemento.tag).text
             """
                 execution_time = "%.2f" % (time.monotonic() - start_time_line)
                 sys.stdout.write(f"[{contagem_arquivo}/{iteracoes}] Parsing: {str(contagem)}/{original_len} ({execution_time}s)", end="\r")
@@ -220,8 +232,8 @@ def repack():
     print(f"!!!!! REPACK FINALIZADO ({execution_time}s)")
 
 parsing()
-unicode()
-repack()
+#unicode()
+#repack()
 
 execution_time = "%.2f" % (time.monotonic() - start_time_python)
 print(f"+|+|+ SCRIPT CONCLUÍDO ({execution_time}s)")
