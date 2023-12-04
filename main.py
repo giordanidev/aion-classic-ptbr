@@ -12,7 +12,7 @@ parsed = "_parsed"
 downloads = "_arquivo"
 versao_na = "280"
 versao_eu = "200"
-ignorar_parse = ["ui.xml", "msg.xml", "dialog.xml", "level.xml"]
+ignorar_parse = ["ui.xml", "msg.xml", "dialog.xml", "level.xml"] #quando "ignorar" for "Verdadeiro", o arquivo será traduzido por completo
 arquivos = [
     "strings\\client_strings_ui.xml",
     "strings\\client_strings_msg.xml",
@@ -91,6 +91,7 @@ def parsing():
                 novo_string = parser.SubElement(novo_parse, texto_traducao.tag)
                 
                 for elemento in texto_traducao:
+                    #quando "ignorar" for "Verdadeiro", o arquivo será traduzido por completo
                     if ignorar == False:
                         if "DESC" in elemento.text.split("_"):
                             parser.SubElement(novo_string, elemento.tag).text = texto_traducao.find(elemento.tag).text
@@ -123,7 +124,7 @@ def unicode():
     start_time_total = time.monotonic()
     arquivos.extend([
                 "cutscene\\cs_ab1_001.xml", # não passar pelo parser
-                "cutscene\\cs_ab1_002.xml" # não passar pelo parser
+                "cutscene\\cs_ab1_002.xml"  # não passar pelo parser
                 ])
 
     contagem_arquivo = 1
