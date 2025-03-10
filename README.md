@@ -17,7 +17,7 @@
 
 Qualquer ajuda será muito bem vinda!
 
-- Para testar a tradução no estado atual baixem o arquivo [AQUI](https://github.com/giordanidev/aion-classic-ptbr/raw/main/teste/data_ptbr.pak)
+- Para testar a tradução no estado atual baixem o arquivo [AQUI](https://github.com/giordanidev/aion-classic-ptbr/tree/main/_arquivo)
 - Coloquem o arquivo na pasta "l10n/ENG/data" do jogo, como na imagem abaixo:
 ![Pasta](https://i.imgur.com/2YwIkRS.png)
 - Para remover a tradução apenas remova o arquivo da pasta novamente.
