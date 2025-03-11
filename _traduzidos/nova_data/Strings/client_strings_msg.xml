@@ -24344,7 +24344,6 @@ Atualizada em: %DATETIME1</body>
   <string>
     <id>1401057</id>
     <name>STR_MSG_INSTANCE_NOTICE_BLANK</name>
-    <body>NEW</body>
     <message_type>53</message_type>
     <display_type>2</display_type>
   </string>
@@ -26408,104 +26407,6 @@ Atualizada em: %DATETIME1</body>
     <display_type>3</display_type>
   </string>
   <string>
-    <id>1401437</id>
-    <name>STR_MSG_YETI_PUSH_BOTTING_END</name>
-    <body>%0! You’re waiting for combat support.</body>
-    <message_type>53</message_type>
-    <display_type>3</display_type>
-  </string>
-  <string>
-    <id>1401438</id>
-    <name>STR_MSG_YETI_PUSH_ATTACKED_BY_PC</name>
-    <body>%0! You’re being attacked by other players.</body>
-    <message_type>53</message_type>
-    <display_type>3</display_type>
-  </string>
-  <string>
-    <id>1401439</id>
-    <name>STR_MSG_YETI_PUSH_KILLED_BY_PC</name>
-    <body>%1! You were attacked by %0 and died.</body>
-    <message_type>53</message_type>
-    <display_type>3</display_type>
-  </string>
-  <string>
-    <id>1401440</id>
-    <name>STR_MSG_YETI_PUSH_KILLED</name>
-    <body>%0! You have died. Check whether combat support is possible.</body>
-    <message_type>53</message_type>
-    <display_type>3</display_type>
-  </string>
-  <string>
-    <id>1401441</id>
-    <name>STR_MSG_YETI_PUSH_SOLD</name>
-    <body>Sell %0. Do you want to sell items?</body>
-    <message_type>53</message_type>
-    <display_type>3</display_type>
-  </string>
-  <string>
-    <id>1401442</id>
-    <name>STR_MSG_UI_STYLE_YETI_END</name>
-    <body>Yeti style expired.</body>
-    <message_type>53</message_type>
-    <display_type>3</display_type>
-  </string>
-  <string>
-    <id>1401443</id>
-    <name>STR_MSG_UI_STYLE_YETI_START</name>
-    <body>Successfully changed to Yeti style.</body>
-    <message_type>53</message_type>
-    <display_type>3</display_type>
-  </string>
-  <string>
-    <id>1401444</id>
-    <name>STR_MSG_YETI_PUSH_TITLE</name>
-    <body>&lt;GameName&gt;%0&lt;/GameName&gt;&lt;ServerName&gt;%1&lt;/ServerName&gt;&lt;CharacterName&gt;%2&lt;/CharacterName&gt;</body>
-    <message_type>53</message_type>
-    <display_type>3</display_type>
-  </string>
-  <string>
-    <id>1401445</id>
-    <name>STR_MSG_YETI_PUSH_BODY_1</name>
-    <body>&lt;CharacterName&gt;%0&lt;/CharacterName&gt;</body>
-    <message_type>53</message_type>
-    <display_type>3</display_type>
-  </string>
-  <string>
-    <id>1401446</id>
-    <name>STR_MSG_YETI_PUSH_BODY_2</name>
-    <body>&lt;CharacterName&gt;%0&lt;/CharacterName&gt;&lt;KillerCharacterName&gt;%1&lt;/KillerCharacterName&gt;</body>
-    <message_type>53</message_type>
-    <display_type>3</display_type>
-  </string>
-  <string>
-    <id>1401447</id>
-    <name>STR_MSG_YETI_PUSH_BODY_3</name>
-    <body>&lt;ItemName&gt;%0&lt;/ItemName &gt;</body>
-    <message_type>53</message_type>
-    <display_type>3</display_type>
-  </string>
-  <string>
-    <id>1401448</id>
-    <name>STR_CMD_SHOUT_OUTPUT_YETI</name>
-    <body>%0 shouts:</body>
-    <message_type>2</message_type>
-    <display_type>1</display_type>
-  </string>
-  <string>
-    <id>1401449</id>
-    <name>STR_CMD_WHISPER_SEND_YETI</name>
-    <body>You whisper to %0:</body>
-    <message_type>2</message_type>
-    <display_type>1</display_type>
-  </string>
-  <string>
-    <id>1401450</id>
-    <name>STR_CMD_WHISPER_RECV_YETI</name>
-    <body>%0 whispers:</body>
-    <message_type>2</message_type>
-    <display_type>1</display_type>
-  </string>
-  <string>
     <id>1401451</id>
     <name>STR_FUNCTION_CANT_FIND_VALID_TARGET</name>
     <body>There is no valid target.</body>
@@ -26644,27 +26545,6 @@ Atualizada em: %DATETIME1</body>
     <message_type>17</message_type>
     <display_type>1024</display_type>
     <ment>ab_carrier_start_fix</ment>
-  </string>
-  <string>
-    <id>1401470</id>
-    <name>STR_MSG_PURIFY_SUCCESS</name>
-    <body>By the power of the Lord, the purification was successful.</body>
-    <message_type>53</message_type>
-    <display_type>3</display_type>
-  </string>
-  <string>
-    <id>1401471</id>
-    <name>STR_MSG_PURIFY_NOMONEY</name>
-    <body>You need more Kinah.</body>
-    <message_type>53</message_type>
-    <display_type>3</display_type>
-  </string>
-  <string>
-    <id>1401472</id>
-    <name>STR_MSG_PURIFY_DONOT</name>
-    <body>There’s no need to purify.</body>
-    <message_type>53</message_type>
-    <display_type>3</display_type>
   </string>
   <string>
     <id>1401473</id>
@@ -28423,611 +28303,4410 @@ Atualizada em: %DATETIME1</body>
     <display_type>3</display_type>
   </string>
   <string>
+    <id>1401718</id>
+    <name>STR_MSG_INSTANCE_CANT_ENTER_PC_ROOM</name>
+    <body> </body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
     <id>1401719</id>
     <name>STR_MSG_FAIL_MOVE_SERVER</name>
-    <body>Changing to the Battlefield Server/integrated instance server failed.</body>
+    <body>Failed to move to the Integrated Server/Instance Server.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401720</id>
     <name>STR_MSG_CANT_MOVE_ORIGINAL_SERVER_INVALID_DESTINATION</name>
-    <body>You cannot switch from the current region to the main server.</body>
+    <body>You cannot move from the current region to the Normal Server.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401721</id>
     <name>STR_MSG_PARTY_MATCH_NOT_SOLO</name>
-    <body>You cannot send a server-wide request while you are part of a group.</body>
+    <body>Cannot post an Instance Group offer while in a group.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401722</id>
     <name>STR_MSG_EQUIPMENT_CHANGE_FAILED_01</name>
-    <body>You cannot change your equipment set while the private store is open.</body>
+    <body>Cannot change gear sets while in your private store.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401723</id>
     <name>STR_MSG_EQUIPMENT_CHANGE_FAILED_02</name>
-    <body>You cannot change equipment set because affected items have been listed in the private store.</body>
+    <body>Cannot change gear sets with items registered in your private store.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401724</id>
     <name>STR_PARTY_ENTERED_PARTY_NOTI_01</name>
-    <body>If you click on the button on the right in the group window, a window will appear containing group options.</body>
+    <body>Click the right button above the Group window to open a pop-up menu and check the party options.</body>
     <message_type>5</message_type>
     <display_type>1</display_type>
   </string>
   <string>
     <id>1401725</id>
     <name>STR_PARTY_ENTERED_PARTY_NOTI_02</name>
-    <body>You can use the Group chat. You can write something using ‘/g’ or ‘/group’.</body>
+    <body>Group chat is now available. Enter ‘/g’ or ‘/group’ and type your message.</body>
     <message_type>5</message_type>
     <display_type>1</display_type>
   </string>
   <string>
     <id>1401726</id>
     <name>STR_FORCE_ENTERED_FORCE_NOTI_01</name>
-    <body>You can view the status of the alliance under ‘Start menu - Community - Alliance’.</body>
+    <body>Check your Alliance status in Start Menu - Community - Alliance window.</body>
     <message_type>6</message_type>
     <display_type>1</display_type>
   </string>
   <string>
     <id>1401727</id>
     <name>STR_FORCE_ENTERED_FORCE_NOTI_02</name>
-    <body>You can use the Alliance chat. You can write something using ‘/a’ or ‘/alliance’.</body>
+    <body>Alliance chat is now available. Enter ‘/a’ or ‘/force’ and type your message.</body>
     <message_type>6</message_type>
     <display_type>1</display_type>
   </string>
   <string>
     <id>1401728</id>
     <name>STR_UNION_ENTER_UNION_NOTI_01</name>
-    <body>You can view the status of the League under ‘Start menu - Community - League’.</body>
+    <body>Check your Alliance Union status in the Start Menu - Community - Alliance Union window.</body>
     <message_type>69</message_type>
     <display_type>1</display_type>
   </string>
   <string>
     <id>1401729</id>
     <name>STR_UNION_ENTER_UNION_NOTI_02</name>
-    <body>You can use the League chat. You can write something using ‘/l’ or ‘/league’.</body>
+    <body>Alliance Union chat is now available. Enter ‘/u’ or ‘/union’ and type your message.</body>
     <message_type>69</message_type>
     <display_type>1</display_type>
   </string>
   <string>
     <id>1401730</id>
     <name>STR_MSG_INSTANCE_MATCH_CANT_ENTER_WITHOUT_ITEM</name>
-    <body>Your request cannot be entered. You don’t possess the required item.</body>
+    <body>You cannot post an Instance Group offer because you do not have the required item.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401731</id>
     <name>STR_MSG_INSTANCE_MATCH_CANT_ENTER_WITHOUT_QUEST</name>
-    <body>Your request cannot be entered. The required quest has not been completed.</body>
+    <body>You cannot post an Instance Group offer because you have not completed the required quest.</body>
   </string>
   <string>
     <id>1401732</id>
     <name>STR_MSG_LUCKYDICE_NOT_SEASON</name>
-    <body>The ‘Lucky Dice’ season hasn’t started yet.</body>
+    <body>Shugo Sweep season is not active.</body>
     <message_type>53</message_type>
     <display_type>1</display_type>
   </string>
   <string>
     <id>1401733</id>
     <name>STR_MSG_LUCKYDICE_NO_FREEDICE</name>
-    <body>It’s not a free die.</body>
+    <body>No Free Dice available.</body>
     <message_type>53</message_type>
     <display_type>1</display_type>
   </string>
   <string>
     <id>1401734</id>
     <name>STR_MSG_LUCKYDICE_NO_DICE_RESULT_VALUE</name>
-    <body>No score available. Roll your dice and you can resume moving.</body>
+    <body>No dice result. You can move after rolling the dice.</body>
     <message_type>53</message_type>
     <display_type>1</display_type>
   </string>
   <string>
     <id>1401735</id>
     <name>STR_MSG_LUCKYDICE_DICE_RESULT_VALUE_ALREADY</name>
-    <body>The score has already been determined. You have to move before rolling the dice.</body>
+    <body>Available dice result. You can roll the dice after moving.</body>
     <message_type>53</message_type>
     <display_type>1</display_type>
   </string>
   <string>
     <id>1401736</id>
     <name>STR_MSG_LUCKYDICE_CANT_CHARGE_FREEDICE</name>
-    <body>You can only recharge your free die during the ‘Lucky Dice’ season or when it is time to roll the dice.</body>
+    <body>Free Dice can only be recharged during a Shugo Sweep season or when you can roll the dice.</body>
     <message_type>53</message_type>
     <display_type>1</display_type>
   </string>
   <string>
     <id>1401737</id>
     <name>STR_MSG_LUCKYDICE_END_POINT</name>
-    <body>Your piece has reached its destination.</body>
+    <body>Your piece has reached the END.</body>
     <message_type>53</message_type>
     <display_type>1</display_type>
   </string>
   <string>
     <id>1401738</id>
     <name>STR_MSG_RANK_ICON_TITLE_GET</name>
-    <body>You receive a title for your ranking from the previous season.</body>
+    <body>You have earned the icon title based on your previous ranking season result.</body>
     <message_type>53</message_type>
     <display_type>1</display_type>
   </string>
   <string>
     <id>1401739</id>
     <name>STR_MSG_Event_Raid_ManduriGiant</name>
-    <body>Rampant Mantutu has appeared.</body>
+    <body>Raging Mantutu has appeared.</body>
     <message_type>15</message_type>
     <display_type>1024</display_type>
   </string>
   <string>
     <id>1401740</id>
     <name>STR_MSG_WARRING_UNSAVED_MACRO</name>
-    <body>Exceeds the allowed number of characters for macros and cannot be saved. You will no longer be able to open this macro text after your next login.</body>
+    <body>The maximum number of characters that can be saved as macro has been exceeded and cannot be saved. Please note that the contents of the created macro cannot be retrieved upon reconnecting.</body>
     <message_type>53</message_type>
     <display_type>1</display_type>
   </string>
   <string>
     <id>1401741</id>
     <name>STR_MSG_BATTLE_OVER_ENTER_NOTICE</name>
-    <body>Only one entry request for an instance or a battlefield can be active at a time.</body>
+    <body>Can only request entry to either an instance dungeon or a battleground at one time.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401742</id>
     <name>STR_MSG_CANNOT_TELEPORT_TO_NPC</name>
-    <body>You cannot teleport to the quest target while in this state.</body>
+    <body>Cannot teleport to the quest target in your current state.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401743</id>
     <name>STR_MSG_CANNOT_TELEPORT_TO_NPC_NPC_ERROR</name>
-    <body>You cannot currently teleport to the quest target because it hasn’t appeared yet.</body>
+    <body>Cannot teleport to the quest target because the quest target has not appeared yet.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401744</id>
     <name>STR_MSG_CANNOT_TELEPORT_TO_NPC_WORLD_ERROR</name>
-    <body>You cannot teleport to a target that’s located in another region. You must be in the same region.</body>
+    <body>Cannot teleport to a target in another region. Go to the region and try again.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401745</id>
     <name>STR_MSG_CANNOT_TELEPORT_TO_NPC_BATTLE</name>
-    <body>You cannot teleport to the quest target while in combat mode.</body>
+    <body>Cannot teleport to the quest target during combat.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401746</id>
     <name>STR_MSG_CANNOT_TELEPORT_TO_NPC_OTHER</name>
-    <body>In %0, you cannot teleport to the quest target.</body>
+    <body>You cannot teleport to a quest target in %0.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401747</id>
     <name>STR_MSG_RECEIVE_GIFT_NOTICE</name>
-    <body>%0 gave you a gift. You can accept the gift in the ‘My Shop’ tab.</body>
+    <body>%0's gift has arrived for you. You can accept it by opening Wallet &gt; Gifts.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401748</id>
     <name>STR_MSG_UNREGISTERED_TOYPET_WAREHOUSE</name>
-    <body>You must first hatch the pet to be able to use the function.</body>
+    <body>Useable after getting a pet with a pouch.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401749</id>
     <name>STR_MSG_GACHA_TIME_END</name>
-    <body>The game time for ‘Dimensional Workbench’ has expired. Try again next time.</body>
+    <body>Dimensional Forge has ended. Please try again next time.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401750</id>
     <name>STR_MSG_GACHA_FEVERTIME_START</name>
-    <body>Nyerk Fever has begun!</body>
+    <body>Upgrade Frenzy!!!!</body>
     <message_type>53</message_type>
     <display_type>1</display_type>
   </string>
   <string>
     <id>1401751</id>
     <name>STR_MSG_GACHA_ITEM_OWNER</name>
-    <body>Character</body>
+    <body> </body>
     <message_type>53</message_type>
     <display_type>1</display_type>
   </string>
   <string>
     <id>1401752</id>
     <name>STR_MSG_INDUN_NEW_ENTRANCE</name>
-    <body>There’s a new instance you can enter.</body>
+    <body>New instance zones have unlocked for you at this level.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401753</id>
     <name>STR_MSG_NOT_ENOUGH_ITEM</name>
-    <body>You do not have enough items.</body>
+    <body>You need more items.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401754</id>
     <name>STR_MSG_NOT_MOVE_COIN_INVENTORY</name>
-    <body>You cannot move this item into the cube.</body>
+    <body>Cannot be moved to the Exclusive Cube.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401755</id>
     <name>STR_MSG_NOT_MOVE_BASIC_INVENTORY</name>
-    <body>You cannot move the item into your inventory (cube).</body>
+    <body>Cannot be moved to the Inventory (Cube).</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401756</id>
     <name>STR_MSG_GET_ITEM_EXTRA</name>
-    <body>%0 was put into a cube.</body>
-    <message_type>53</message_type>
+    <body>Received %0% and stored it in your Exclusive Cube.</body>
+    <message_type>62</message_type>
     <display_type>1</display_type>
   </string>
   <string>
     <id>1401757</id>
     <name>STR_MSG_GET_ITEM_EXTRA_MULTI</name>
-    <body>%num1x %0 was put into a cube.</body>
-    <message_type>53</message_type>
+    <body>Received %num1 %0 and stored them in your Exclusive Cube.</body>
+    <message_type>62</message_type>
     <display_type>1</display_type>
   </string>
   <string>
     <id>1401758</id>
     <name>STR_MSG_WAREHOUSE_PET_SUMMON_NOTICE</name>
-    <body>First summon the warehouse pet.</body>
+    <body>Useable after summoning the corresponding pet with a pouch.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401759</id>
     <name>STR_MSG_WAREHOUSE_CANT_MOVE_ITEM</name>
-    <body>Only the items in the bag of the summoned pet can be moved.</body>
+    <body>You can only move items to the summoned pet's pouch.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401760</id>
     <name>STR_MSG_INSTANCE_OPEN_IDArena_Glory</name>
-    <body>You can take part in the combat in the Arena of Glory.</body>
+    <body>Arena of Glory now available.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401761</id>
     <name>STR_MSG_QUNAMARKET_GET_ALL</name>
-    <body>&lt;p&gt;You receive all products at once (max. 100 items).&lt;/p&gt;
-&lt;p&gt;However, products with a remaining cancellation period are excluded from this.&lt;/p&gt;</body>
+    <body>&lt;p&gt;All items will be delivered at once. (Up to 100)&lt;/p&gt;
+&lt;p&gt;Items with a remaining return period are excluded.&lt;/p&gt;</body>
     <message_type>53</message_type>
     <display_type>1</display_type>
   </string>
   <string>
     <id>1401762</id>
     <name>STR_MSG_CANT_INVITE_PARTY_FORCE_NOT_NORMAL_CHAR_NAME</name>
-    <body>Group/alliance invitation not possible because the character name is invalid.</body>
+    <body>Your character name is invalid, so you cannot join a group or alliance.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401763</id>
     <name>STR_MSG_GACHA_ITEM_REWARD</name>
-    <body>You have received %0 as a reward for the Dimensional Workbench.</body>
+    <body>You won %0% from the Dimensional Forge.</body>
     <message_type>53</message_type>
     <display_type>1</display_type>
   </string>
   <string>
     <id>1401764</id>
     <name>STR_MSG_GACHA_ITEM_REWARD_MULTI</name>
-    <body>You have received %1x %0 as a reward for the Dimensional Workbench.</body>
+    <body>You won %1 %0 from the Dimensional Forge.</body>
     <message_type>53</message_type>
     <display_type>1</display_type>
   </string>
   <string>
     <id>1401765</id>
     <name>STR_MSG_GACHA_FEVER_ITEM_REWARD</name>
-    <body>You have received %0 as a reward for polishing in the other dimension.</body>
+    <body>The netherworld gave you %0% as a reward for refinement.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401766</id>
     <name>STR_MSG_GACHA_FEVER_ITEM_REWARD_MULTI</name>
-    <body>You have received %1x %0 as a reward for polishing in the other dimension.</body>
+    <body>The netherworld gave you %1 %0 as a reward for refinement.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401767</id>
     <name>STR_MSG_GACHA_ITEM_USE</name>
-    <body>%0 was used.</body>
+    <body>You used a %0.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401768</id>
     <name>STR_MSG_GACHA_ITEM_USE_MULTI</name>
-    <body>%1x %0 was used.</body>
+    <body>You used %1 %0s.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401769</id>
     <name>STR_MSG_LUCKYDICE_CHARGE_FREEDICE</name>
-    <body>You have used your Lucky Dice to recharge your free die once.</body>
+    <body>You used the Golden Dice to recharge Free Dice 1 time.</body>
     <message_type>53</message_type>
     <display_type>1</display_type>
   </string>
   <string>
     <id>1401770</id>
     <name>STR_PERSONAL_SHOP_DISABLED_IN_HIDDEN_MODE</name>
-    <body>You can’t open private stores while you are hidden.</body>
+    <body>You cannot open a private store under stealth.</body>
     <message_type>54</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401771</id>
     <name>STR_PERSONAL_SHOP_CLOSED_FOR_HIDDEN_MODE</name>
-    <body>Since you can’t open your private store whilst hidden, it will be automatically closed.</body>
+    <body>Your private store closed automatically because you are under stealth.</body>
     <message_type>54</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401772</id>
     <name>STR_MSG_INVENTORY_EXTEND_NOT_ENOUGH_LEVEL</name>
-    <body>Extension possible from level %0.</body>
+    <body>You can expand it upon reaching L%0.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401774</id>
+    <name>STR_MSG_IDF4Re_Solo_Door_Open_01</name>
+    <body>The next door is open.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401775</id>
+    <name>STR_MSG_IDF4Re_Solo_Door_Open_02</name>
+    <body>The next door is open.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401776</id>
     <name>STR_MSG_WORLD_VENDOR_BAN</name>
-    <body>The use of the Auction House is restricted.</body>
+    <body>You cannot use the Integrated World Exchange.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401777</id>
     <name>STR_MSG_WORLD_VENDOR_ITEM_CANNOT_BE_REGISTER</name>
-    <body>This item cannot be registered in the Auction House.</body>
+    <body>This item cannot be registered to the Integrated World Exchange.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401778</id>
     <name>STR_MSG_WORLD_VENDOR_GOLD_EXCESS</name>
-    <body>You can trade up to 1 billion Kinah per week.</body>
+    <body>You can trade up to 1,000,000,000 Kinah per week.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401779</id>
     <name>STR_MSG_WORLD_VENDOR_GOLD_STANDARD</name>
-    <body>You do not have enough Kinah. You need at least 10 million Kinah.</body>
+    <body>Not enough Kinah. You need at least 10,000,000 Kinah.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401780</id>
     <name>STR_MSG_WORLD_VENDOR_FULL_BASKET</name>
-    <body>You can register a maximum of 15 items at a time in the Auction House.</body>
+    <body>Up to 15 items can be registered at the World Exchange.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401781</id>
     <name>STR_MSG_WORLD_VENDOR_NOT_ENOUGH_GOLD</name>
-    <body>Trading is possible from 10 million Kinah. The registration has failed.</body>
+    <body>You can only trade 1,000,000 or more Kinah. The current trade is not possible.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401782</id>
     <name>STR_MSG_WORLD_VENDOR_SOLD_OUT</name>
-    <body>The items registered in the Auction House have been sold. (%0)</body>
+    <body>An item registered to the World Exchange has been sold (%0).</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401783</id>
     <name>STR_MSG_WORLD_VENDOR_CONNECT_SALES_SUCCESS</name>
-    <body>There are items in the Auction House that can be billed.</body>
+    <body>You have an unsettled balance at the Integrated World Exchange.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401784</id>
     <name>STR_MSG_WORLD_VENDOR_BELOW_STANDARD</name>
-    <body>You can use the Auction House once you have reached level 10.</body>
+    <body>Only Daevas who have Ascended can use the Integrated World Exchange.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
+    <id>1401785</id>
+    <name>STR_REWARD_ITEM_USER_REWARD_ITEMS</name>
+    <body>You sold the item.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401786</id>
+    <name>STR_MSG_QUNAMARKET_CAN_NOT_TRY_ON</name>
+    <body>You cannot wear this item before buying it.</body>
+    <message_type>53</message_type>
+    <display_type>2</display_type>
+  </string>
+  <string>
+    <id>1401787</id>
+    <name>STR_MSG_QUNAMARKET_CAN_NOT_TRY_ON_01</name>
+    <body>Includes an item that cannot be worn before buying it.</body>
+    <message_type>53</message_type>
+    <display_type>2</display_type>
+  </string>
+  <string>
     <id>1401788</id>
     <name>STR_MSG_WORLD_VENDOR_NOT_ENOUGH_QUNA</name>
-    <body>You don’t have enough Quna.</body>
+    <body>Not enough Quna.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401789</id>
     <name>STR_MSG_WORLD_VENDOR_REGISTRATION_STACK</name>
-    <body>%1x %0 has been registered in the Auction House.</body>
+    <body>Registered %1 %0% to the World Exchange.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401790</id>
     <name>STR_MSG_WORLD_VENDOR_REGISTRATION_CANCLE</name>
-    <body>Cancelled the registration of items in the Auction House.</body>
+    <body>Cancelled item registered to the World Exchange.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401791</id>
     <name>STR_MSG_WORLD_VENDOR_USED_QUNA</name>
-    <body>%0[%gchar:quna] Quna were paid for the trade.</body>
+    <body>Paid %0[%gchar:quna] Quna for the trade.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401792</id>
     <name>STR_MSG_WORLD_VENDOR_CLOSE_NOTICE</name>
-    <body>The use of the Auction House will soon be restricted.</body>
+    <body>World Exchange will be unavailable.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401793</id>
     <name>STR_MSG_WORLD_VENDOR_ACCOUNT_END</name>
-    <body>%0 items have been traded.</body>
+    <body>Settled %0 traded items.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401794</id>
     <name>STR_MSG_WORLD_VENDOR_USED_ERROR</name>
-    <body>An error has occurred in the Auction House.</body>
+    <body>An error occurred while using the exchange.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401795</id>
     <name>STR_MSG_WORLD_VENDOR_MASTER_KEY</name>
-    <body>The use of the Auction House is currently restricted.</body>
+    <body>The World Exchange is currently unavailable.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401796</id>
     <name>STR_MSG_WORLD_VENDOR_CAN_NOT_USE_LEVEL</name>
-    <body>The use of the Auction House is restricted in this region.</body>
+    <body>World Exchange is unavailable in this region.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401797</id>
+    <name>STR_MSG_IDF4Re_Solo_Leave_Time</name>
+    <body>You must escape in %0 minutes.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401798</id>
+    <name>STR_MSG_INSTANCE_START_IDF4Re_Solo</name>
+    <body>Starting the Tempus Infiltration.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+    <ment>score_game_start_fix</ment>
+  </string>
+  <string>
+    <id>1401799</id>
+    <name>STR_MSG_INSTANCE_START_IDF4Re_Solo_Q</name>
+    <body>Starting the Tempus Infiltration.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+    <ment>score_game_start_fix</ment>
+  </string>
+  <string>
+    <id>1401800</id>
+    <name>STR_MSG_SPAWN_LF4_C1_Golem_Named_55_Al</name>
+    <body>Advent of Omega</body>
+    <message_type>8</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1401801</id>
+    <name>STR_MSG_SPAWN_LF4_C5_DrakanPr_noble_Named_55_Ah</name>
+    <body>Advent of Head Priest Nashuma</body>
+    <message_type>8</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1401802</id>
+    <name>STR_MSG_SPAWN_DF4_LizardTest_Mutant_Nmd_55_Al</name>
+    <body>Advent of Ragnarok</body>
+    <message_type>8</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1401803</id>
+    <name>STR_MSG_SPAWN_DF4_Cellatu_DR_55_Ah</name>
+    <body>Advent of Turatu Spawnfoot</body>
+    <message_type>8</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1401804</id>
+    <name>STR_MSG_SPAWN_LF4_A5_Fungy_Cactus_Named_52_Ah</name>
+    <body>Titch Kippie has appeared.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401805</id>
+    <name>STR_MSG_SPAWN_LF4_A5_ShulackKn_Named_52_Ae</name>
+    <body>Glugbeard has appeared.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401806</id>
+    <name>STR_MSG_SPAWN_LF4_A5_ShulackWi_Named_53_Ah</name>
+    <body>Elder Narikiki has appeared.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401807</id>
+    <name>STR_MSG_SPAWN_LF4_A3_BrohumMFi_Named_53_An</name>
+    <body>Chief Kurnus has appeared.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401808</id>
+    <name>STR_MSG_SPAWN_LF4_B1_Baku_Giraffe_Named_53_An</name>
+    <body>Rockhorn has appeared.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401809</id>
+    <name>STR_MSG_SPAWN_LF4_B7_Neut_Flyhigh_Named_54_An</name>
+    <body>Tiritaphon has appeared.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401810</id>
+    <name>STR_MSG_SPAWN_LF4_B8_Merdion_Drana_Named_54_An</name>
+    <body>Mervin has appeared.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401811</id>
+    <name>STR_MSG_SPAWN_LF4_B2_Bookie_Named_54_An</name>
+    <body>Skuma Silvereye has appeared.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401812</id>
+    <name>STR_MSG_SPAWN_LF4_B5_Warg_Meerkat_Named_54_An</name>
+    <body>Skar has appeared.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401813</id>
+    <name>STR_MSG_SPAWN_LF4_B6_FanaticEl_Named_54_Ah</name>
+    <body>Mutated Head Priest Malika Zitan has appeared.</body>
+    <message_type>8</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1401814</id>
+    <name>STR_MSG_SPAWN_LF4_B7_Neut_Queen_Named_55_Ah</name>
+    <body>Queen Klawnickt has appeared.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401815</id>
+    <name>STR_MSG_SPAWN_LF4_C1_DragonFly_Named_55_An</name>
+    <body>Kyang Redmane has appeared.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401816</id>
+    <name>STR_MSG_SPAWN_LF4_C3_DrakanFi_noble_Named_55_Ah</name>
+    <body>Latzio Stoneheart has appeared.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401817</id>
+    <name>STR_MSG_SPAWN_LF4_C3_DrakanPr_noble_Named_55_Ah</name>
+    <body>Captain Voltayre has appeared.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401818</id>
+    <name>STR_MSG_SPAWN_LLF4_C4_EttinBig_Named_55_An</name>
+    <body>Baydeeafa has appeared.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401819</id>
+    <name>STR_MSG_SPAWN_LF4_C5_DrakanWi_vil_Named_55_Ae</name>
+    <body>Sukana the Learned has appeared.</body>
+    <message_type>8</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1401820</id>
+    <name>STR_MSG_SPAWN_DF4_Bee_DR_Nmd_52_An</name>
+    <body>Flesh-eating Swarm has appeared.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401821</id>
+    <name>STR_MSG_SPAWN_DF4_Crestlich_DR_Nmd_52_n</name>
+    <body>Alpha Kuruku has appeared.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401822</id>
+    <name>STR_MSG_SPAWN_DF4_mammoth_DR_Nmd_52_An</name>
+    <body>Alpha Mansat has appeared.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401823</id>
+    <name>STR_MSG_SPAWN_DF4_Mosbear_DR_Nmd_52_An</name>
+    <body>Camu the Forestkeeper has appeared.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401824</id>
+    <name>STR_MSG_SPAWN_DF4_Fethlot_Highland_Nmd_52_n</name>
+    <body>Windchaser has appeared.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401825</id>
+    <name>STR_MSG_SPAWN_DF4_Owllau_Fi_Nmd_53_Ah</name>
+    <body>Deathwing has appeared.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401826</id>
+    <name>STR_MSG_SPAWN_DF4_Owllau_Pr_Nmd_53_Ah</name>
+    <body>Chieftain Ulagu has appeared.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401827</id>
+    <name>STR_MSG_SPAWN_DF4_MillipedeFish_Nmd_53_An</name>
+    <body>Orciphae has appeared.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401828</id>
+    <name>STR_MSG_SPAWN_DF4_Spakle_DR_Nmd_54_An</name>
+    <body>Skully Crimsonshell has appeared.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401829</id>
+    <name>STR_MSG_SPAWN_DF4_FanaticWi_Nmd_55_Ah</name>
+    <body>Mutated Head Priest Malika Heka has appeared.</body>
+    <message_type>8</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1401830</id>
+    <name>STR_MSG_SPAWN_DF4_Neut_Worker_Nmd_55_Ah</name>
+    <body>Pincers Prime has appeared.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401831</id>
+    <name>STR_MSG_SPAWN_DF4_DrakanFi_vil_Nmd_55_Ah</name>
+    <body>Hashak the Plough has appeared.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401832</id>
+    <name>STR_MSG_SPAWN_DF4_DrakanWi_vil_Nmd_55_Ah</name>
+    <body>Elder Malekor has appeared.</body>
+    <message_type>8</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1401833</id>
+    <name>STR_MSG_SPAWN_DF4_Nepilim_Nmd_55_Ah</name>
+    <body>Gravekeeper Basaim has appeared.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401834</id>
+    <name>STR_MSG_SPAWN_DF4_Varanus_Crk_Nmd_55_An</name>
+    <body>Minga Bigeyes has appeared.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401835</id>
     <name>STR_MSG_WORLD_VENDOR_SOLD_OUT_WARNING</name>
-    <body>The item has already been sold.</body>
+    <body>This item has already been sold.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401836</id>
     <name>STR_MSG_WORLD_VENDOR_QINA_REGISTRATION_FAIL</name>
-    <body>Currently no Kinah can be registered. The used Kinah will be placed in the inventory as a bundle.</body>
+    <body>You cannot register Kinah now. Consumed Kinah will be returned to your inventory.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401837</id>
+    <name>STR_MSG_IDF4Re_Solo_Kick_Alarm</name>
+    <body>You must escape in %0 seconds.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+    <ment>timer_failed_fix</ment>
+  </string>
+  <string>
+    <id>1401838</id>
+    <name>STR_SKILL_EFFECT_TIMEFREEZING_BEGIN</name>
+    <body>Your body is frozen in time.</body>
+    <message_type>20</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401839</id>
+    <name>STR_SKILL_EFFECT_TIMEFREEZING_END</name>
+    <body>Your body is no longer frozen in time.</body>
+    <message_type>20</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401840</id>
+    <name>STR_SKILL_SUCC_TimeFreezing_ME_TO_SELF</name>
+    <body>You have been frozen in time after using [%SkillName].</body>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401841</id>
+    <name>STR_SKILL_SUCC_TimeFreezing_END_ME_TO_SELF</name>
+    <body>You have escaped time control status.</body>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401842</id>
+    <name>STR_SKILL_SUCC_TimeFreezing_ME_TO_B</name>
+    <body>[%SkillTarget]% has been frozen in time after using [%SkillName].</body>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401843</id>
+    <name>STR_SKILL_SUCC_TimeFreezing_END_ME_TO_B</name>
+    <body>[%SkillTarget]% has escaped time control status.</body>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401844</id>
+    <name>STR_SKILL_SUCC_TimeFreezing_A_TO_ME</name>
+    <body>You have been frozen in time after [%SkillCaster]%‘s [%SkillName].</body>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401845</id>
+    <name>STR_SKILL_SUCC_TimeFreezing_END_A_TO_ME</name>
+    <body>You have escaped time control status.</body>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401846</id>
+    <name>STR_SKILL_SUCC_TimeFreezing_A_TO_SELF</name>
+    <body>You have been frozen in time after [%SkillCaster]% used [%SkillName]%.</body>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401847</id>
+    <name>STR_SKILL_SUCC_TimeFreezing_END_A_TO_SELF</name>
+    <body>[%SkillTarget]% has escaped time control status.</body>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401848</id>
+    <name>STR_SKILL_SUCC_TimeFreezing_A_TO_B</name>
+    <body>[%SkillTarget]% has been frozen in time after [%SkillCaster]% used [%SkillCaster]%.</body>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401849</id>
+    <name>STR_SKILL_SUCC_TimeFreezing_END_A_TO_B</name>
+    <body>[%SkillTarget]% has escaped time control status.</body>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401850</id>
+    <name>STR_SKILL_SUCC_TimeFreezing_END_ME</name>
+    <body>You have escaped time control status.</body>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401851</id>
+    <name>STR_SKILL_SUCC_TimeFreezing_END_A</name>
+    <body>%0% has escaped time control status.</body>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401852</id>
+    <name>STR_REWARD_ITEM_USER_ACCUONT_TRIAL_REJECT_QUEST_RELICS</name>
+    <body>You cannot sell Relics while Siel's Energy is off.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401853</id>
     <name>STR_MSG_WORLD_VENDOR_CAN_NOT_USE</name>
-    <body>You cannot use the Auction House in your current state.</body>
+    <body>World Exchange unavailable in current state.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401854</id>
     <name>STR_MSG_CANT_OPEN_STORE_VENDOR_USE</name>
-    <body>You cannot open a private store while using the Auction House.</body>
+    <body>Cannot open a private store while using the World Exchange.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
+    <id>1401855</id>
+    <name>STR_MSG_WORLD_VENDOR_REMOVE_CHARACTER_CANCEL</name>
+    <body>You cannot delete characters that have registered or settlement items in the World Exchange.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401856</id>
+    <name>STR_SKILL_NOT_ENOUGH_SP</name>
+    <body>You do not have enough Lightning Charge to use that skill.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401857</id>
+    <name>STR_MSG_Spawn_Underpass_NepilimBoss_01</name>
+    <body>Suspicious activity has been detected in the Silentera Canyon.</body>
+    <message_type>8</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1401858</id>
+    <name>STR_MSG_Spawn_Underpass_NepilimBoss_02</name>
+    <body>Enraged Debilkarim the Maker has appeared in Silentera Canyon.</body>
+    <message_type>8</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1401859</id>
+    <name>STR_MSG_Spawn_Underpass_DrakanFiNmd_01</name>
+    <body>Suspicious activity has been detected in the Silentera Canyon.</body>
+    <message_type>8</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1401860</id>
+    <name>STR_MSG_Spawn_Underpass_DrakanFiNmd_02</name>
+    <body>Enraged Captain Lakhara has appeared in the Silentera Canyon.</body>
+    <message_type>8</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1401861</id>
+    <name>STR_MSG_BROADCAST_TEST_1</name>
+    <body>%0 has obtained %3 from %2 in %WORLDNAME1. (Blade of Ruin)</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401862</id>
+    <name>STR_MSG_BROADCAST_TEST_2</name>
+    <body>%0 has obtained %3 from %2 in %WORLDNAME1. (Flat-Edged Blade-Mace)</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401863</id>
+    <name>STR_MSG_BROADCAST_TEST_3</name>
+    <body>%0 has succeeded in enchanting %3 to Level %2. (Unleashed Blade 14 or higher)</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401864</id>
+    <name>STR_MSG_BROADCAST_TEST_4</name>
+    <body>%0 has succeeded in enchanting %3 to Level %2. (Stormwing Spear, Scale Sword 13 or above)</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401865</id>
+    <name>STR_MSG_BROADCAST_TEST_5</name>
+    <body>%0 has succeeded in crafting %3. (Major Elemental Water)</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401866</id>
+    <name>STR_MSG_BROADCAST_TEST_6</name>
+    <body>%0 has succeeded in crafting %3. (Wings of Raging Wind L20 or above)</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401867</id>
+    <name>STR_MSG_BROADCAST_TEST_7</name>
+    <body>%0 used %3. (Minor Potion)</body>
+    <message_type>53</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1401868</id>
+    <name>STR_MSG_BROADCAST_TEST_8</name>
+    <body>%0 used %3. (Raging Wind Dash L20 or above)</body>
+    <message_type>53</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1401869</id>
+    <name>STR_MSG_BROADCAST_TEST_9</name>
+    <body>%0 has succeeded in enchanting %3 to Level %2. (Archon Legion Sword 10 or higher, Elyos)</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401870</id>
+    <name>STR_MSG_BROADCAST_Enchant_01</name>
+    <body>%0 has succeeded in enchanting %3 to Level %2.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
     <id>1401871</id>
     <name>STR_MSG_CHAT_ROLL_FORBIDDEN_COUNTRY</name>
-    <body>This function is not available.</body>
+    <body>(Not for our region)</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401872</id>
+    <name>STR_MSG_INSTANCE_CANT_ENTER_FOR_POLYMORPH</name>
+    <body>You cannot enter an Instanced Zone while in the Transparent Transformation status.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401873</id>
+    <name>STR_MSG_DRAGON_DIRECT_PORTAL_OPEN</name>
+    <body>A rift has opened in Balaurea.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401874</id>
     <name>STR_MSG_NOT_ENOUGH_QUNA</name>
-    <body>You don’t have enough Quna.</body>
+    <body>Not enough Quna.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401875</id>
     <name>STR_MSG_GIVEUP_COMBINESKILL_EXPERT_QUNA_POPUP</name>
-    <body>Removing Expert knowledge will cost %0 Quna. You will forget all recipes from level 400 and all associated quests. Do you really want to remove Expert knowledge?</body>
+    <body>Removing Expert Crafting Knowledge will cost %0 Quna. You will forget all recipes of Skill Level 400 or higher and all records of the quests you've done with those recipes. Are you sure you want to remove Expert Crafting Knowledge?</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401876</id>
     <name>STR_MSG_GIVEUP_COMBINESKILL_MASTER_QUNA_POPUP</name>
-    <body>Removing Master crafting knowledge will cost %0 Quna. You will forget all recipes of Skill Level 500 or higher, and all records of the quests you’ve completed with those recipes. Do you really want to remove Master crafting knowledge?</body>
+    <body>Removing Master Crafting Knowledge will cost %0 Quna. You will forget all recipes of Skill Level 500 or higher and all records of the quests you've done with those recipes. Are you sure you want to remove Master Crafting Knowledge?</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401877</id>
+    <name>STR_MSG_GUILD_PROCESS</name>
+    <body>Legion application is being processed.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401878</id>
+    <name>STR_MSG_GUILD_CANT_JOIN</name>
+    <body>Your Legion application is currently limited</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401879</id>
+    <name>STR_MSG_GUILD_CANT_JOIN_MAX_LEVEL</name>
+    <body>You must meet the level requirement to apply to a Legion.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401880</id>
+    <name>STR_MSG_GUILD_CANT_JOIN_PROCESS_CHANGE</name>
+    <body>Legion application process has changed.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401881</id>
+    <name>STR_MSG_GUILD_CANT_JOIN_MAX_MEMBER</name>
+    <body>This Legion has exceeded it's maximum number of applicants.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401882</id>
+    <name>STR_MSG_GUILD_JOIN_CANT_CANCEL</name>
+    <body>Your Legion application cannot be canceled, as it has already been accepted.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401883</id>
+    <name>STR_MSG_GUILD_REJECT_INVITE_CANT_CANCEL</name>
+    <body>Your Legion application cannot be canceled, as it has already been rejected.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401884</id>
+    <name>STR_MSG_GUILD_INVITE_HE_JOINED_CANCEL</name>
+    <body>That character has canceled their Legion application.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401885</id>
+    <name>STR_MSG_GUILD_APPLICANT_MAX</name>
+    <body>The Legion has exceeded the maximum number of accepted applicationed.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401886</id>
+    <name>STR_MSG_GUILD_APPLICANT_CANT_JOIN</name>
+    <body>Your Legion application is being processed, and cannot currently be accepted. </body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401887</id>
+    <name>STR_MSG_GUILD_APPLICANT_CANT_CREATE</name>
+    <body>You cannot create a Legion while your Legion application is being processed.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401888</id>
+    <name>STR_MSG_GUILD_APPLIACNT_CANT_SELECT_MAX</name>
+    <body>Selected members is greater than the maximum number of members permitted to join a legion. No more applications can be accepted.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401889</id>
+    <name>STR_GUILD_JOIN_REFUSAL</name>
+    <body>Your Legion application has been rejected.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401890</id>
+    <name>STR_GUILD_JOIN_APPORVE</name>
+    <body>Your Legion application has been accepted.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401891</id>
+    <name>STR_GUILD_JOIN_SERVER_CHANGE</name>
+    <body>Your application to join this legion has been accepted, but you need to move to the Normal Server first to use legion functions. </body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401892</id>
+    <name>STR_GUILD_CHANGE_JOIN_SETTING_DONE</name>
+    <body>Legion application settings have changed.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401893</id>
+    <name>STR_GUILD_NOT_CHANGE_JOIN_SETTING</name>
+    <body>No changes.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401894</id>
+    <name>STR_MSG_GUILD_APPLICANT_SELECT_MAX</name>
+    <body>The number of applications to this Legion exceeds it's maximum occupancy. No more applications can be accepted.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401895</id>
+    <name>STR_GUILD_DISPERSE_STAYMODE_CANCEL_2</name>
+    <body>You cannot delete a character who has an open Legion application. Cancel the application and try again.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401896</id>
+    <name>STR_MSG_GUILD_INVITE_HE_JOINED_CANCEL_2</name>
+    <body>%0 has been deleted.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401897</id>
+    <name>STR_MSG_GUILD_INVITE_I_JOINED_MSGBOX</name>
+    <body>You have joined the &lt;P&gt;%0 Legion.&lt;/P&gt;
+&lt;P&gt;Click Start Menu - Community - Legion%1 menu to check out the details.&lt;/P&gt;
+&lt;P&gt;Enter /Legion, /G commands in the Chat window to start Legion Chat.&lt;/P&gt;</body>
+    <message_type>53</message_type>
+    <display_type>4</display_type>
+  </string>
+  <string>
+    <id>1401898</id>
+    <name>STR_MSG_GUILD_CAN_JOIN_LEVEL</name>
+    <body>You've reached the level where you can join a Legion. Use Search Legion to find the Legion you want.&lt;a href="search_guild_dialog"&gt;Open Search Legion&lt;/a&gt;</body>
+    <message_type>103</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401899</id>
+    <name>STR_MSG_GUILD_PROCESS_JOIN_MEMBER</name>
+    <body>You have a new legion applicant. </body>
+    <message_type>7</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401900</id>
+    <name>STR_MSG_GUILD_PROCESS_END</name>
+    <body>This character already entered the legion.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401901</id>
+    <name>STR_LEVEL_LIMIT_QUEST_NOT_FINISHED2</name>
+    <body>You can only advance to L16 after you have completed the Brohum Field Investigation mission.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401902</id>
+    <name>STR_GUILD_JOIN_CANNOT_JOIN</name>
+    <body>You can join a Legion in %3 day(s) %0 hour(s) %1 minute(s) %2 second(s).</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401903</id>
+    <name>STR_GUILD_JOIN_CANNOT_CREATE</name>
+    <body>You can create a Legion in %3 day(s) %0 hour(s) %1 minute(s) %2 second(s).</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401904</id>
+    <name>STR_GUILD_CANNOT_INVITE</name>
+    <body>The invited player won't be able to join a Legion for %3 day(s) %0 hour(s) %1 minute(s) %2 second(s) more.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401905</id>
+    <name>STR_GUILD_BANISHIED_FROM_GUILD_BY_HIM_OFF</name>
+    <body>You have been removed from the Legion.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401906</id>
+    <name>STR_MSG_GUILD_MISSION_SUCCESS</name>
+    <body>You have completed a Legion mission.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401907</id>
+    <name>STR_MSG_GUILD_MISSION_DAILY_REWARD_MAX</name>
+    <body>You cannot receive any more daily Legion mission rewards.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401908</id>
+    <name>STR_MSG_GUILD_MISSION_WEEKLY_REWARD_MAX</name>
+    <body>You cannot receive any more weekly Legion mission rewards.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401909</id>
+    <name>STR_MSG_COMBAT_POWER_REWARD_NOTICE</name>
+    <body>You have reached your Daeva Potential Goal and can receive a reward. Check the pop-up message for your Daeva Potential Reward.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401910</id>
+    <name>STR_MSG_STORYBOOK_REGISTER_RESTRICT</name>
+    <body>The Storybook registration function is currently locked.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401911</id>
+    <name>STR_MSG_STORYBOOK_ALREADY_FINISH</name>
+    <body>This Storybook has already been completed.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401912</id>
+    <name>STR_MSG_STORYBOOK_REGISTER_ITEM_NOT_FOUND</name>
+    <body>You do not have any items that can be registered in the Storybook.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401913</id>
+    <name>STR_MSG_STORYBOOK_FINISH</name>
+    <body>You have completed the Storybook.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401914</id>
+    <name>STR_GUILD_GROWTH_GET_EXP</name>
+    <body>Legion has gained %num0 XP.</body>
+    <message_type>7</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401915</id>
+    <name>STR_GUILD_GROWTH_LEVEL_UP</name>
+    <body>Your Legion has reached Level %0.</body>
+    <message_type>7</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401916</id>
+    <name>STR_GUILD_GROWTH_GET_REWARD</name>
+    <body>Legion has acquired %0%.</body>
+    <message_type>7</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401917</id>
+    <name>STR_GUILD_GROWTH_LEVEL_OPEN</name>
+    <body>Your Legion has reached Level %0 and can unlock a new buff build.</body>
+    <message_type>7</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401918</id>
+    <name>STR_GUILD_GROWTH_LEVEL_MAX</name>
+    <body>&lt;p&gt;Your Legion has reached the highest Level.&lt;/p&gt;
+&lt;p&gt;You can receive rewards when gaining additional XP.&lt;/p&gt;</body>
+    <message_type>7</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401919</id>
+    <name>STR_GUILD_GROWTH_LEVEL_MAX_GET_EXP</name>
+    <body>&lt;p&gt;You have received rewards for gaining the maximum XP.&lt;/p&gt;
+&lt;p&gt;XP has been reset.&lt;/p&gt;</body>
+    <message_type>7</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401920</id>
+    <name>STR_MSG_GUILD_DONATION_GET_MY_REWARD</name>
+    <body>Gained %0% from Continuous Coin Production.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401921</id>
+    <name>STR_MSG_GUILD_DONATION_GET_GUILD_POINT</name>
+    <body>Legion production points increased.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401922</id>
+    <name>STR_MSG_GUILD_DONATION_GET_GUILD_REWARD</name>
+    <body>Legion has received rewards for gaining all daily Legion Coin Production points.</body>
+    <message_type>7</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401923</id>
+    <name>STR_MSG_GUILD_DONATION_ITEM</name>
+    <body>Used %0 to produce Legion Personal Coins.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401924</id>
+    <name>STR_MSG_GUILD_DONATION_GOLD</name>
+    <body>Used %num0Kinah to produce Legion Personal Coins.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401925</id>
+    <name>STR_MSG_GUILD_DONATION_QUNA</name>
+    <body>Used %0Quna to produce Legion Personal Coins.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401926</id>
+    <name>STR_MSG_GUILD_DONATION_MAX_COUNT</name>
+    <body>You have used all available daily coin production attempts.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401927</id>
+    <name>STR_MSG_GUILD_DONATION_NOT_ENOUGH_ITEM</name>
+    <body>You do not have enough items for crafting.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401928</id>
+    <name>STR_MSG_GUILD_DONATION_NOT_ENOUGH_GOLD</name>
+    <body>You do not have enough Kinah for crafting.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401929</id>
+    <name>STR_MSG_GUILD_DONATION_NOT_ENOUGH_QUNA</name>
+    <body>You do not have enough Quna for crafting.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401930</id>
+    <name>STR_MSG_GUILD_BUFF_ACTIVE</name>
+    <body>Legion has activated the %0 buff.</body>
+    <message_type>7</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401931</id>
+    <name>STR_MSG_GUILD_BUFF_ENCHANT</name>
+    <body>Legion has enchanted the %0 buff.</body>
+    <message_type>7</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401932</id>
+    <name>STR_MSG_GUILD_BUFF_ENCHANT_MAX</name>
+    <body>Has enchanted to the maximum Level and can unlock the next buff.</body>
+    <message_type>7</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401933</id>
+    <name>STR_MSG_GUILD_BUFF_TAKING</name>
+    <body>Legion has unlocked the %0 buff.</body>
+    <message_type>7</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401934</id>
+    <name>STR_MSG_GUILD_BUFF_BUY</name>
+    <body>Purchased Legion buff.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401935</id>
+    <name>STR_MSG_GUILD_BUFF_CHANGE_BUY_FAIL</name>
+    <body>Purchase failed as the Legion buff status has been changed.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401936</id>
+    <name>STR_MSG_GUILD_BUFF_BUY_FAIL</name>
+    <body>You do not have enough Legion Personal Coins to purchase the buff.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401937</id>
+    <name>STR_MSG_GUILD_BUFF_ACTIVE_FAIL</name>
+    <body>You do not have enough Legion Essence to activate the buff.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401938</id>
+    <name>STR_MSG_GUILD_BUFF_ENCHANT_FAIL</name>
+    <body>You do not have enough Legion Essence to enchant the buff.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401939</id>
+    <name>STR_MSG_GUILD_BUFF_TAKING_FAIL</name>
+    <body>You do not have enough Legion Essence to unlock the buff.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401940</id>
+    <name>STR_MSG_GUILD_BUFF_ACTIVE_FAIL_2</name>
+    <body>You are not allowed to activate the buff.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401941</id>
+    <name>STR_MSG_GUILD_BUFF_ENCHANT_FAIL_2</name>
+    <body>You are not allowed to enchant the buff.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401942</id>
+    <name>STR_MSG_GUILD_BUFF_TAKING_FAIL_2</name>
+    <body>You are not allowed to unlock the buff.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401943</id>
+    <name>STR_MSG_GUILD_BUFF_ENCHANT_FAIL_3</name>
+    <body>The buff has reached the maximum Level and cannot be enchanted any more.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401944</id>
+    <name>STR_MSG_GUILD_BUFF_TAKING_FAIL_3</name>
+    <body>You cannot unlock this buff as another buff of the same Level has been unlocked.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401945</id>
+    <name>STR_CHAR_PUNISH_END_TIME_LIMITLESS</name>
+    <body>Permanent access restriction</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401946</id>
+    <name>STR_MSG_GUILD_MAKING_START</name>
+    <body>Legion will start crafting %0.</body>
+    <message_type>7</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401947</id>
+    <name>STR_MSG_GUILD_MAKING_COMPLETION</name>
+    <body>Legion has completed crafting %0.</body>
+    <message_type>7</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401948</id>
+    <name>STR_MSG_GUILD_MAKING_COMPLETION_2</name>
+    <body>Crafted item will be stored in the Legion warehouse.</body>
+    <message_type>7</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401949</id>
+    <name>STR_MSG_GUILD_MAKING_START_FAIL</name>
+    <body>Crafting in progress.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401950</id>
+    <name>STR_MSG_GUILD_MAKING_DONATION</name>
+    <body>%0% has donated %1 %2.</body>
+    <message_type>7</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401951</id>
+    <name>STR_MSG_GUILD_MAKING_DONATION_FAIL</name>
+    <body>Unable to donate materials.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401952</id>
+    <name>STR_MSG_GUILD_MAKING_DONATION_FAIL_2</name>
+    <body>Not enough items.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401953</id>
+    <name>STR_MSG_GUILD_MAKING_DONATION_FAIL_3</name>
+    <body>The number of selected items exceeds the required amount.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401954</id>
+    <name>STR_MSG_GUILD_MAKING_DONATION_FAIL_4</name>
+    <body>You cannot donate as the materials donation status has been changed.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401955</id>
+    <name>STR_LEVEL_LIMIT_QUEST_NOT_FINISHED3</name>
+    <body>You can only advance to L19 after you have completed the Chainsword of Thunderous Power mission.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401956</id>
+    <name>STR_MSG_COMBAT_POWER_REWARD_GET</name>
+    <body>You obtained %1 %0% as your Daeva Potential Reward.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401957</id>
+    <name>STR_MSG_GUILD_DONATION_FAIL</name>
+    <body>Unable to produce coins.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>
   <string>
     <id>1401958</id>
     <name>STR_MSG_Event_CN_Raid_Kakuna</name>
-    <body>Newborn Gojira has appeared.</body>
+    <body>(Not for our region)</body>
     <message_type>15</message_type>
     <display_type>1024</display_type>
   </string>
   <string>
     <id>1401959</id>
     <name>STR_MSG_Event_CN_Raid_Kakuna_L</name>
-    <body>Elyos Tamed Gojira has appeared.</body>
+    <body>(Not for our region)</body>
     <message_type>15</message_type>
     <display_type>1024</display_type>
   </string>
   <string>
     <id>1401960</id>
     <name>STR_MSG_Event_CN_Raid_Kakuna_D</name>
-    <body>Asmodian Tamed Gojira has appeared.</body>
+    <body>(Not for our region)</body>
     <message_type>15</message_type>
     <display_type>1024</display_type>
   </string>
   <string>
     <id>1401961</id>
     <name>STR_MSG_Event_CN_Raid_Kakuna_L_02</name>
-    <body>Elyos Defender Gojira has appeared.</body>
+    <body>(Not for our region)</body>
     <message_type>15</message_type>
     <display_type>1024</display_type>
   </string>
   <string>
     <id>1401962</id>
     <name>STR_MSG_Event_CN_Raid_Kakuna_D_02</name>
-    <body>Asmodian Defender Gojira has appeared.</body>
+    <body>(Not for our region)</body>
     <message_type>15</message_type>
     <display_type>1024</display_type>
   </string>
   <string>
+    <id>1401963</id>
+    <name>STR_MSG_GUILD_BUFF_BUY_FAIL_2</name>
+    <body>Unable to purchase buff.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401964</id>
+    <name>STR_MSG_GUILD_BUFF_ACTIVE_FAIL_3</name>
+    <body>Unable to activate buff.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401965</id>
+    <name>STR_MSG_IDLDF1_Ctrl_01</name>
+    <body>You can only enter by weakening the Samael Garrison barrier by defeating the Draconute Captain.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+    <ment>ab_danger_alert_fix</ment>
+  </string>
+  <string>
+    <id>1401966</id>
+    <name>STR_MSG_IDLDF1_Ctrl_02</name>
+    <body>You are now able to enter the Samael Battalion Garrison as the Samael Battalion Garrison barrier has been weakened.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+    <ment>ab_danger_alert_fix</ment>
+  </string>
+  <string>
+    <id>1401967</id>
+    <name>STR_MSG_IDLDF1_Ctrl_03</name>
+    <body>Some of the Balaur Legion has retreated after becoming aware of the Executor. </body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+    <ment>ab_danger_alert_fix</ment>
+  </string>
+  <string>
+    <id>1401968</id>
+    <name>STR_MSG_IDLDF1_Ctrl_04</name>
+    <body>The Samael Battalion Garrison barrier has been weakened.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+    <ment>ab_danger_alert_fix</ment>
+  </string>
+  <string>
+    <id>1401969</id>
+    <name>STR_DEATH_REGISTER_RESURRECT_POINT_02</name>
+    <body>%SUBZONE0% has been registered as the Bind Point.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401970</id>
+    <name>STR_MSG_GUILD_MAKING_START_ESSENCE</name>
+    <body>Legion will start crafting Legion Essence.</body>
+    <message_type>7</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401971</id>
+    <name>STR_MSG_GUILD_MAKING_COMPLETION_ESSENCE</name>
+    <body>Legion has completed crafting Legion Essence.</body>
+    <message_type>7</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401972</id>
+    <name>STR_MSG_GUILD_MAKING_BOOKMARK_DONT_HAVE_RIGHT</name>
+    <body>You are not allowed to set Crafting Favorites.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401973</id>
+    <name>STR_MSG_GUILD_MISSION_REWARD_EXP</name>
+    <body>Gained %num0 Growth XP for completing a Legion mission.</body>
+    <message_type>7</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401974</id>
+    <name>STR_MSG_GUILD_MISSION_REWARD_ESSENCE</name>
+    <body>Acquired %0 Legion Essence for completing a Legion mission.</body>
+    <message_type>7</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401975</id>
+    <name>STR_MSG_GUILD_MISSION_REWARD_ESSENCE_PIECE</name>
+    <body>Acquired %0 Legion Essence Shards for completing a Legion mission.</body>
+    <message_type>7</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401976</id>
+    <name>STR_MSG_STORYBOOK_REGISTER_RESTRICT_ACTION</name>
+    <body>You cannot register items in the Storybook while using and disassembling items.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401977</id>
+    <name>STR_GUILD_CHANGE_JOIN_CAN_NOT_LEVEL_SETTING</name>
+    <body>Unable to set the Join Legion Settings Level above L%0.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401978</id>
+    <name>STR_GUILD_GET_GUILD_COIN</name>
+    <body>Acquired %0 Legion Personal Coins.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401979</id>
+    <name>STR_GUILD_GET_ESSENCE</name>
+    <body>Legion has acquired %0 Legion Essence.</body>
+    <message_type>7</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401980</id>
+    <name>STR_GUILD_GET_ESSENCE_PIECE</name>
+    <body>Legion has acquired %0 Legion Essence Shards.</body>
+    <message_type>7</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401981</id>
+    <name>STR_MSG_GUILD_MAKING_FAIL</name>
+    <body>Unable to craft.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401982</id>
+    <name>STR_MSG_GUILD_BUFF_GET_FAIL</name>
+    <body>Unable to purchase buff.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401983</id>
+    <name>STR_MSG_GUILD_BUFF_FAIL</name>
+    <body>Unable to change buff status.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401984</id>
+    <name>STR_MSG_GUILD_MAKING_MATERIAL_SCARCE</name>
+    <body>Unable to craft as you do not have enough materials required for crafting.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401985</id>
+    <name>STR_MSG_GUILD_MAKING_DONT_HAVE_RIGHT</name>
+    <body>Unable to craft as you are not allowed to perform crafting.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401986</id>
+    <name>STR_MSG_GUILD_MAKING_DONATION_MONEY</name>
+    <body>%0% has donated %num1 Kinah.</body>
+    <message_type>7</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401987</id>
+    <name>STR_MSG_CANNOT_ENTER_GAME_BLADE</name>
+    <body>[Unable to Enter] Executors can enter from 8PM on November 9th.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401988</id>
+    <name>STR_MSG_GUILD_ITEM_REGISTER_FAIL</name>
+    <body>You cannot use items waiting to be registered.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401989</id>
+    <name>STR_MSG_MOROS_UNRECORDABLE_COUNT</name>
+    <body>Unable to record as you do not have enough items.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401990</id>
+    <name>STR_MSG_MOROS_UNRECORDABLE_ITEM</name>
+    <body>This item cannot be recorded.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401991</id>
+    <name>STR_MSG_MOROS_LEVELUP</name>
+    <body>Moros's Level has increased.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401992</id>
+    <name>STR_MSG_Event_Raid_27_Kakuna</name>
+    <body>Enraged Gojira has appeared.</body>
+    <message_type>15</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1401993</id>
+    <name>STR_MSG_IDLDF1_BionicCPUNamed_55_Ah_EnterAttack</name>
+    <body>Drana Booster has activated combat mode.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401994</id>
+    <name>STR_MSG_MOROS_RESTRICT</name>
+    <body>Unlocked after reaching L50.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401995</id>
+    <name>STR_MSG_MOROS_RECORD_CAN_NOT</name>
+    <body>Currently unable to record.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401996</id>
+    <name>STR_MSG_MOROS_RECORD_FAIL</name>
+    <body>Record failed.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401997</id>
+    <name>STR_MSG_TITLE_VENDOR_FAIL</name>
+    <body>The brokered item cannot be canceled as your Inventory (Cube) is full.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1401998</id>
+    <name>STR_MSG_GUILD_MAKING_BOOKMARK</name>
+    <body>Favorites settings have been changed.</body>
+    <message_type>7</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1401999</id>
+    <name>STR_MSG_GUILD_MAKING_BOOKMARK_FAIL</name>
+    <body>Unable to change Favorites settings as the cooldown has not finished.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402000</id>
+    <name>STR_MSG_GUILD_MAKING_BOOKMARK_FAIL_2</name>
+    <body>Failed to set Favorites.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402001</id>
+    <name>STR_MSG_GUILD_BUFF_INITIALIZATION_SUCCESS</name>
+    <body>%0buff has been reset.</body>
+    <message_type>7</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1402002</id>
+    <name>STR_MSG_GUILD_BUFF_INITIALIZATION_NOT_ENOUGH_ITEM</name>
+    <body>You do not have enough goods to reset buff.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402003</id>
+    <name>STR_MSG_GUILD_BUFF_INITIALIZATION_FAIL</name>
+    <body>Failed to reset buff.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402004</id>
+    <name>STR_MSG_GUILD_BUFF_INITIALIZATION_DONT_HAVE_RIGHT</name>
+    <body>You are not allowed to reset buff.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402005</id>
+    <name>STR_MSG_GUILD_BUFF_INITIALIZATION_FAIL_2</name>
+    <body>Currently unable to reset buff.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402006</id>
+    <name>STR_MSG_MOROS_COUNT</name>
+    <body>1 Moros record attempt has been recharged.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402007</id>
+    <name>STR_ERROR_DELETE_WORLD_HAS_MULTIPLE_RACE</name>
+    <body>Unable to apply for recovery as characters of different factions exist in the same server.</body>
+  </string>
+  <string>
+    <id>1402008</id>
+    <name>STR_MSG_MOROS_UNRECORDABLE_POINT</name>
+    <body>You cannot register items beyond the maximum Record Points.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1402009</id>
+    <name>STR_MSG_Tiamat_Raid_01</name>
+    <body>Tiamat will leave the throne if she loses interest in the battle against the Daeva.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402010</id>
+    <name>STR_MSG_Tiamat_Raid_02</name>
+    <body>Tiamat has lost interest in the Daeva and is leaving the throne.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402011</id>
+    <name>STR_MSG_MOROS_RECORD</name>
+    <body>Recorded item in Moros.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1402012</id>
+    <name>STR_MSG_MOROD_RECORD_ITEM_FAIL</name>
+    <body>You do not have any items to record.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1402013</id>
+    <name>STR_MSG_GUILD_ACTIVITY_CHANGE</name>
+    <body>Legion activity settings have been changed.</body>
+    <message_type>7</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1402014</id>
+    <name>STR_MSG_GUILD_ACTIVITY_CHANGE_FAIL1</name>
+    <body>Unable to change Legion activity settings any more today.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402015</id>
+    <name>STR_MSG_GUILD_ACTIVITY_CHANGE_FAIL2</name>
+    <body>Failed to change Legion activity settings.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402016</id>
+    <name>STR_RVR_PVP_ON_2111</name>
+    <body>Inggison Agent Battle has started.</body>
+    <message_type>3</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1402017</id>
+    <name>STR_RVR_PVP_OFF_2111</name>
+    <body>Inggison Agent Battle has ended.</body>
+    <message_type>55</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402018</id>
+    <name>STR_MSG_MOROS_EQUIPED_ITEM</name>
+    <body>You cannot record an equipped item.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1402019</id>
+    <name>STR_MSG_MOROS_TEMPORARY_EXCHANGE_ITEM</name>
+    <body>You cannot record items that are temporarily tradable.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1402020</id>
+    <name>STR_MSG_NON_FFA_ATTRUBUTE_ONSELF</name>
+    <body>You cannot attack in a safe zone.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402021</id>
+    <name>STR_MSG_NON_FFA_ATTRUBUTE_TARGET</name>
+    <body>You cannot attack a target that is in a safe zone.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402022</id>
+    <name>STR_MSG_FFA_FIELD</name>
+    <body>You have entered an area where you can battle characters of the same faction.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402023</id>
+    <name>STR_MSG_NON_FFA_FIELD</name>
+    <body>You have entered an area where you cannot battle characters of the same faction.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402024</id>
+    <name>STR_MSG_MATCH_GIVEUP_PENALTY_TICKET</name>
+    <body>As you have not participated in the battleground you applied for, the Entry fee has been deducted.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402025</id>
+    <name>STR_MSG_MATCH_GIVEUP_PENALTY_POINT</name>
+    <body>As you have not participated in the battleground you applied for, you have received a penalty. (Entry fee, Ranking Points deduction)</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402026</id>
+    <name>STR_MSG_MATCH_PENALTY_NOTICE</name>
+    <body>You can enter %0. If you forfeit entry, you may receive a penalty.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402027</id>
+    <name>STR_MSG_ALTER_SWITCH_OFF</name>
+    <body>Alter mode has been deactivated.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402028</id>
+    <name>STR_MSG_ALTER_SWITCH_ON</name>
+    <body>Alter mode has been activated.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402029</id>
+    <name>STR_MSG_ALTER_MODE_OPEN</name>
+    <body>Alter mode has been unlocked.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402030</id>
+    <name>STR_MSG_CANT_SEARCH_BTN_COOL</name>
+    <body>You cannot use the search function for 10 seconds after performing a search. Please try again after a while.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402031</id>
+    <name>STR_RVR_PVP_ON_3111</name>
+    <body>Gelkmaros Agent Battle has started.</body>
+    <message_type>3</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1402032</id>
+    <name>STR_RVR_PVP_OFF_3111</name>
+    <body>Gelkmaros Agent Battle has ended.</body>
+    <message_type>55</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402033</id>
+    <name>STR_MSG_EVENT_F4_01</name>
+    <body>Enemies have appeared in Gelkmaros.</body>
+    <message_type>15</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1402034</id>
+    <name>STR_MSG_EVENT_F4_02</name>
+    <body>Enemies have appeared in Inggison.</body>
+    <message_type>15</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1402035</id>
+    <name>STR_MSG_EVENT_F4_03</name>
+    <body>A Noble Treasure Chest has appeared in Gelkmaros.</body>
+    <message_type>15</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1402036</id>
+    <name>STR_MSG_EVENT_F4_04</name>
+    <body>A Noble Treasure Chest has appeared in Inggison.</body>
+    <message_type>15</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1402037</id>
+    <name>STR_MSG_EVENT_F4_05</name>
+    <body>Tiamat has appeared in Gelkmaros.</body>
+    <message_type>15</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1402038</id>
+    <name>STR_MSG_EVENT_F4_06</name>
+    <body>Tiamat has appeared in Inggison.</body>
+    <message_type>15</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1402039</id>
+    <name>STR_VENDOR_NOT_ENOUGH_QINA</name>
+    <body>Unable to attempt registration as you do not have enough Kinah.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402040</id>
+    <name>STR_MSG_BROADCAST_F4_RAID_LOOT_01</name>
+    <body>%0 has obtained %3 from %2 in %WORLDNAME1.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402041</id>
+    <name>STR_MSG_WHITEDAY_CANDYTREE_01</name>
+    <body>Soil for Candy Trees has appeared.</body>
+    <message_type>15</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1402042</id>
+    <name>STR_MSG_WHITEDAY_CANDYTREE_FAIL_01</name>
+    <body>Failed to grow Candy Tree.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
     <id>1402043</id>
     <name>STR_MSG_NP_CHANNEL_TIMEOUT_ERROR</name>
-    <body>Server request timed out.</body>
+    <body>A timeout occurred during communication with the server.</body>
     <message_type>53</message_type>
     <display_type>1</display_type>
   </string>
   <string>
     <id>1402044</id>
     <name>STR_MSG_NP_UNKNOWN_ERROR</name>
-    <body>An unknown error occurred communicating with the server.</body>
+    <body>An unknown error has occurred during communication with the server.</body>
     <message_type>53</message_type>
     <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1402045</id>
+    <name>STR_MSG_DrakanFiNamed_SPAWN_IDDREADGION_02</name>
+    <body>Rajaya the Inquisitor has appeared in the Gravity Control Center.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402046</id>
+    <name>STR_MSG_Junction_Teleport_Level_55l</name>
+    <body>You must be at least L56 to enter.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402047</id>
+    <name>STR_MSG_Junction_Teleport_Many</name>
+    <body>You cannot use it, as there are too many other users at the moment. Please try again later.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402048</id>
+    <name>STR_MSG_Junction_Teleport_Ready</name>
+    <body>Unavailable, please try again later.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402049</id>
+    <name>STR_MSG_CANNOT_ENTER_MAXUSER</name>
+    <body>Cannot enter due to exceeding the maximum number of participants.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402050</id>
+    <name>STR_MSG_CANNOT_ENTER_NOTHINGSERVER</name>
+    <body>Unable to access the integrated server.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402051</id>
+    <name>STR_MSG_WHITEDAY_CANDYTREE_FAIL_02</name>
+    <body>[Event] You do not have a Candy Tree Seed.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1402052</id>
+    <name>STR_MSG_WHITEDAY_CANDYTREE_FAIL_03</name>
+    <body>[Event] You do not have Growth Fertilizer.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1402053</id>
+    <name>STR_MSG_CANT_ENTER_WORLD_USE_MATCHMAKER</name>
+    <body>You cannot enter while the Instance Group or matching is in progress.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402054</id>
+    <name>STR_CAMP_BOSS_ATTACKED</name>
+    <body>The Base Guardian is under attack.</body>
+    <message_type>55</message_type>
+    <display_type>3</display_type>
+    <ment>ab_danger_alert_fix</ment>
+  </string>
+  <string>
+    <id>1402055</id>
+    <name>STR_MSG_BLOCKLIST_IMPORT_CANT_ADD</name>
+    <body>The target is either on a different server or offline and cannot be added.</body>
+    <message_type>55</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402056</id>
+    <name>STR_MSG_LDF3_01_RvR_Start_1</name>
+    <body>The Tiamat's Shadow has appeared in Apheta Beluslan.</body>
+    <message_type>1</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1402057</id>
+    <name>STR_MSG_LDF3_01_RvR_End_1</name>
+    <body>The Tiamat's Shadow disappears from Apheta Beluslan.</body>
+    <message_type>55</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402058</id>
+    <name>STR_MSG_CANT_ENTER_WORLD_USE_DUEL</name>
+    <body>That action is not available during a duel.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1402059</id>
+    <name>STR_CAMP_WIN_FORT</name>
+    <body>%0% has captured the %1 Bind Point.</body>
+    <message_type>55</message_type>
+    <display_type>3</display_type>
+    <ment>ab_artifact_get_fix</ment>
+  </string>
+  <string>
+    <id>1402060</id>
+    <name>STR_CAMP_LOSE_FORT</name>
+    <body>The %0 Bind Point has been lost to %1%.</body>
+    <message_type>55</message_type>
+    <display_type>3</display_type>
+    <ment>ab_artifact_lose_fix</ment>
+  </string>
+  <string>
+    <id>1402061</id>
+    <name>STR_MSG_EVENT_FAKE_IDNovice_F4_01</name>
+    <body>Monsters from Haramel are roaming Inggison.</body>
+    <message_type>15</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1402062</id>
+    <name>STR_MSG_EVENT_FAKE_IDNovice_F4_02</name>
+    <body>Monsters from Haramel are roaming Gelkmaros.</body>
+    <message_type>15</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1402063</id>
+    <name>STR_MSG_EVENT_FAKE_MiniCastle_F4_01</name>
+    <body>Monsters from the Nochsana Training Camp are roaming Inggison.</body>
+    <message_type>15</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1402064</id>
+    <name>STR_MSG_EVENT_FAKE_MiniCastle_F4_02</name>
+    <body>Monsters from the Nochsana Training Camp are roaming Gelkmaros.</body>
+    <message_type>15</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1402065</id>
+    <name>STR_MSG_EVENT_FAKE_Dflame_F4_01</name>
+    <body>Monsters from the Fire Temple are roaming Inggison.</body>
+    <message_type>15</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1402066</id>
+    <name>STR_MSG_EVENT_FAKE_Dflame_F4_02</name>
+    <body>Monsters from the Fire Temple are roaming Gelkmaros.</body>
+    <message_type>15</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1402067</id>
+    <name>STR_MSG_EVENT_FAKE_IDShulackShip_F4_01</name>
+    <body>Monsters from the Steel Rake are roaming Inggison.</body>
+    <message_type>15</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1402068</id>
+    <name>STR_MSG_EVENT_FAKE_IDShulackShip_F4_02</name>
+    <body>Monsters from the Steel Rake are roaming Gelkmaros.</body>
+    <message_type>15</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1402069</id>
+    <name>STR_MSG_EVENT_FAKE_IDLF1_F4_01</name>
+    <body>Monsters from Dark Poeta are roaming Inggison.</body>
+    <message_type>15</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1402070</id>
+    <name>STR_MSG_EVENT_FAKE_IDLF1_F4_02</name>
+    <body>Monsters from Dark Poeta are roaming Gelkmaros.</body>
+    <message_type>15</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1402757</id>
+    <name>STR_SKILL_SUCC_Reflector_ME_TO_SELF_01</name>
+    <body>You reflected the skill by using [%SkillName].</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1402758</id>
+    <name>STR_SKILL_SUCC_Reflector_A_TO_SELF_01</name>
+    <body>[%SkillCaster] used [%SkillName] to reflect an attack.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1402759</id>
+    <name>STR_SKILL_SUCC_Reflector_PROTECT_A_to_ME_01</name>
+    <body>You have reflected an attack back to [%SkillCaster].</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1402760</id>
+    <name>STR_SKILL_SUCC_Reflector_PROTECT_ME_to_B_01</name>
+    <body>Your attack on [%SkillTarget] was reflected back to you.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1402761</id>
+    <name>STR_SKILL_SUCC_Reflector_PROTECT_A_to_B_01</name>
+    <body>[%SkillTarget] has reflected an attack back to [%SkillCaster].</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1402762</id>
+    <name>STR_SKILL_SUCC_Reflector_ME_TO_B_01</name>
+    <body>You used [%SkillName] to reflect a skill to [%SkillTarget].</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1402763</id>
+    <name>STR_SKILL_SUCC_Reflector_A_TO_ME_01</name>
+    <body>[%SkillCaster] used [%SkillName] to reflect your attack.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1402764</id>
+    <name>STR_SKILL_SUCC_Reflector_A_TO_B_01</name>
+    <body>[%SkillCaster] used [%SkillName] to reflect an attack back to [%SkillTarget].</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1403337</id>
+    <name>STR_MSG_CANT_BOOST_WHILE_IN_STATE</name>
+    <body>You cannot use Gliding Boost in your current state.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403338</id>
+    <name>STR_MSG_CANT_BOOST_ENOUGH_FP</name>
+    <body>You need more Flight Time to use Gliding Boost.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403339</id>
+    <name>STR_MSG_CANT_BOOST_TIME_NOT_READY</name>
+    <body>Gliding Boost is still on cooldown.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403340</id>
+    <name>STR_MSG_SPAWN_LDF3_01_E5_SeirenReBossD_58_Ah</name>
+    <body>Advent of Mutated Queen Alukina</body>
+    <message_type>8</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403341</id>
+    <name>STR_MSG_SPAWN_LDF3_01_D3_MammothGhostNmdD_58_Ah</name>
+    <body>Advent of Mutated Masto the Ancient</body>
+    <message_type>8</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403342</id>
+    <name>STR_MSG_CANNOT_ENTER_NOT_ENOUGH_QINA</name>
+    <body>You do not have enough Kinah to board the ship.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403343</id>
+    <name>STR_MSG_LDF3_01_recipe_shop</name>
+    <body>Design Merchant Kensrunerk has appeared somewhere in Apheta Beluslan.</body>
+    <message_type>15</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403344</id>
+    <name>STR_STORYBOOK_UNKNOWN_ERROR</name>
+    <body>An unknown error has occurred while appraising the shard.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1403345</id>
+    <name>STR_STORYBOOK_ITEM_ERROR</name>
+    <body>This item cannot be appraised.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1403346</id>
+    <name>STR_STORYBOOK_ITEM_COUNT_ERROR</name>
+    <body>You have exceeded the maximum number of items that can be appraised at once.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403347</id>
+    <name>STR_MSG_EVENT_LDF3_01_HolyStone</name>
+    <body>Mutated Rafslan Godstone has appeared.</body>
+    <message_type>15</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403348</id>
+    <name>STR_MSG_INSTANCE_REGISTER_CANCEL_REQUESTED</name>
+    <body>You have requested to cancel the entry to %0. You cannot make an entry request for 10 seconds.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403349</id>
+    <name>STR_MSG_IDPHAISTOS_Raid_01</name>
+    <body>Raden who has boarded the Phaistos is getting ready to escape from the battle.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403350</id>
+    <name>STR_MSG_IDPHAISTOS_Raid_02</name>
+    <body>Raden is escaping from the ruins.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403351</id>
+    <name>STR_KICK_NO_MEMBERSHIP_BUY_NSHOP</name>
+    <body>&lt;p&gt;To play in the Standard Server, you need Siel's Aura (Ticket) or Siel's Aura (PC Café).&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;You can buy Siel's Aura at the Aion Shop.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Do you want to purchase the item?&lt;/p&gt;</body>
+  </string>
+  <string>
+    <id>1403352</id>
+    <name>STR_MEMBERSHIP_BUY_NSHOP</name>
+    <body>Buy</body>
+  </string>
+  <string>
+    <id>1403353</id>
+    <name>STR_MSG_WARDROBE_COMPLETE_SPECIAL_DYE</name>
+    <body>%0%'s special dye has successfully been completed.</body>
+  </string>
+  <string>
+    <id>1403354</id>
+    <name>STR_GLIDE_CANNOT_GLIDE_RECEIVE_QUEST</name>
+    <body>You cannot respond to a quest request while gliding.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403355</id>
+    <name>STR_STORYBOOK_UNKNOWN_DISASSEMBLE_ERROR</name>
+    <body>An unknown error has occurred while disassembling the shard.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1403356</id>
+    <name>STR_STORYBOOK_ITEM_DISASSEMBLE_ERROR</name>
+    <body>Item cannot be disassembled.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1403357</id>
+    <name>STR_STORYBOOK_ITEM_DISASSEMBLE_COUNT_ERROR</name>
+    <body>You have exceeded the maximum number of items that can be disassembled at once.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403358</id>
+    <name>STR_MSG_TITLE_ALREADY_SAME_TITLE</name>
+    <body>You already have the same title.</body>
+  </string>
+  <string>
+    <id>1403359</id>
+    <name>STR_MSG_ITEM_CANCELED_RETURN_BINDSTONE</name>
+    <body>The registered Kisk has been removed and you have cancelled using the item.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403360</id>
+    <name>STR_MSG_CAN_NOT_MORE_EXTEND</name>
+    <body>There are no further extensions.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403361</id>
+    <name>STR_MSG_Recall_CANNOT_STATE_ACCEPT_EFFECT</name>
+    <body>%0's %1 cannot be accept in your current state.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403362</id>
+    <name>STR_SKILL_CANT_FIND_VALID_GROUP</name>
+    <body>No target within skill range found.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403363</id>
+    <name>STR_MSG_WARDROBE_COMPLETE_REGISTER_HAIR</name>
+    <body>%0 has been registered to hair wardrobe.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403364</id>
+    <name>STR_MSG_WARDROBE_DELETE_ITEM_HAIR</name>
+    <body>%0 has been deleted from hair wardrobe.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403365</id>
+    <name>STR_MSG_WARDROBE_COMPLETE_CHANGE_HAIR</name>
+    <body>Hairstyle changed to %0.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403366</id>
+    <name>STR_MSG_WARDROBE_FAVORITE_ITEM_HAIR</name>
+    <body>%0 has been added to Favorites.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403367</id>
+    <name>STR_MSG_WARDROBE_CANNOT_REGISTER_LACK_SLOT_HAIR</name>
+    <body>Hair wardrobe is full.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403368</id>
+    <name>STR_MSG_WARDROBE_COMPLETE_EXPAND_SLOT_HAIR</name>
+    <body>Hair wardrobe has been expanded by 1 slot.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403369</id>
+    <name>STR_MSG_WARDROBE_CANNOT_EXPAND_MAX_SLOT_HAIR</name>
+    <body>Your hair wardrobe cannot be further expanded.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403370</id>
+    <name>STR_MSG_WARDROBE_CANNOT_REGISTER_DIF_GENDER_RACE_HAIR</name>
+    <body>Unusable gender- or faction-specific items cannot be registered.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403371</id>
+    <name>STR_MSG_WARDROBE_UI_CANNOT_USE_GENDER_RESTRICT_HAIR</name>
+    <body>Unusable gender-specific hairs cannot be registered in wardrobe.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403372</id>
+    <name>STR_MSG_LDF3_01_supply_npc_spawn</name>
+    <body>A supply merchant has appeared somewhere in Apheta Beluslan.</body>
+    <message_type>15</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403373</id>
+    <name>STR_MSG_IDRaksha_solo_WaveMid</name>
+    <body>Prepare for combat! More enemies swarming in!</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+    <ment>ab_danger_alert_fix</ment>
+  </string>
+  <string>
+    <id>1403374</id>
+    <name>STR_MSG_IDRaksha_solo_WaveLast</name>
+    <body>Hold a little longer and you will survive.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+    <ment>ab_danger_alert_fix</ment>
+  </string>
+  <string>
+    <id>1403375</id>
+    <name>STR_MSG_IDRaksha_solo_WaveLast01</name>
+    <body>Only a few enemies left!</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+    <ment>ab_danger_alert_fix</ment>
+  </string>
+  <string>
+    <id>1403376</id>
+    <name>STR_MSG_IDRaksha_DrakanGiantSheildDispel</name>
+    <body>The Indomitable Armor of Gatekeeper Melkennis has disappeared.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403377</id>
+    <name>STR_SKILL_CANT_FIND_RECALL_CASTER_01</name>
+    <body>Summoner cannot be found. Summon canceled.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403378</id>
+    <name>STR_SKILL_CANT_FIND_RECALL_CASTER_02</name>
+    <body>Indeterminate summoner location. Summon refused.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403379</id>
+    <name>STR_SKILL_CANT_FIND_RECALL_TARGET_01</name>
+    <body>Summon target cannot be found. Skill canceled.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403380</id>
+    <name>STR_SKILL_FAIL_GROUP_RECALL_TARGET_01</name>
+    <body>Target already summoned elsewhere. Summon failed.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403381</id>
+    <name>STR_CLASSCHANGE_FAIL</name>
+    <body>Class Change failed.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403382</id>
+    <name>STR_CLASSCHANGE_SUCCESS</name>
+    <body>Class Change completed.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403383</id>
+    <name>STR_MSG_PURPLE_SECONDARY_ACCREDITATION_01</name>
+    <body>Secondary authorization error. Please try authenticating again.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403384</id>
+    <name>STR_MSG_PURPLE_SECONDARY_ACCREDITATION_02</name>
+    <body>You have reached the maximum number of NC Verification requests. Please try again in 3 minutes.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403385</id>
+    <name>STR_MSG_PURPLE_MAX_COUNT_ACCREDITATION_01</name>
+    <body>You have too many devices registered and cannot proceed. Please try again after going to the Manage Device Registration page and removing one of the registered devices.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403386</id>
+    <name>STR_MSG_NOT_INSTALL_WEBVIEW2_RUNTIME_01</name>
+    <body>Webview2 Runtime installation is required.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403387</id>
+    <name>STR_MSG_PURPLE_SECONDARY_ACCREDITATION_03</name>
+    <body>Secondary authorization error. Please try authenticating again.(%0)</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403388</id>
+    <name>STR_MSG_PURPLE_SECURITY_SETTINGS_ERROR_01</name>
+    <body>Failed to access the Security Settings page. Please proceed to the Security Settings through the homepage.(%0)</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403389</id>
+    <name>STR_MSG_CERTIFICATION_SERVER_ACCESS_FAIL_INFO_01</name>
+    <body>Failed to connect to the authorization server. If the issue continues to persist, please contact Customer Support.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403390</id>
+    <name>STR_LEVEL_LIMIT_QUEST_NOT_FINISHED4</name>
+    <body>You can only advance to L11 after you have completed the Ambitions for Revenge mission.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403391</id>
+    <name>STR_LEVEL_LIMIT_QUEST_NOT_FINISHED5</name>
+    <body>You can only advance to L21 after you have completed the Back to Reality mission.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403392</id>
+    <name>STR_CLASSCHANGE_CANNOT</name>
+    <body>Cannot proceed with Class Change in your current state.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403393</id>
+    <name>STR_MSG_IDTartaros_H_Raid_01</name>
+    <body>Tragic Samael is preparing to disappear into a rift in time.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403394</id>
+    <name>STR_MSG_IDTartaros_H_Raid_02</name>
+    <body>Tragic Samael has disappeared into a rift in time.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403395</id>
+    <name>STR_MSG_IDTartaros_H_Raid_03</name>
+    <body>Tragic Samael is preparing a powerful attack.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403396</id>
+    <name>STR_GOD_Mission_Ariel_01</name>
+    <body>"As Empyrean Lords, we must intervene in the face of disaster."</body>
+    <message_type>18</message_type>
+    <display_type>2048</display_type>
+    <ment>STR_GOD_Mission_Ariel_01_fix</ment>
+  </string>
+  <string>
+    <id>1403397</id>
+    <name>STR_GOD_Mission_Asphel_01</name>
+    <body>"What if our intervention leads to greater devastation?"</body>
+    <message_type>19</message_type>
+    <display_type>2048</display_type>
+    <ment>STR_GOD_Mission_Asphel_01_fix</ment>
+  </string>
+  <string>
+    <id>1403398</id>
+    <name>STR_GOD_Mission_Ariel_02</name>
+    <body>"What are you doing? Azphel!"</body>
+    <message_type>18</message_type>
+    <display_type>2048</display_type>
+    <ment>STR_GOD_Mission_Ariel_02_fix</ment>
+  </string>
+  <string>
+    <id>1403399</id>
+    <name>STR_GOD_Mission_Asphel_02</name>
+    <body>"It is but a simple test. Keep quiet and watch."</body>
+    <message_type>19</message_type>
+    <display_type>2048</display_type>
+    <ment>STR_GOD_Mission_Asphel_02_fix</ment>
+  </string>
+  <string>
+    <id>1403400</id>
+    <name>STR_GOD_Mission_Ariel_03</name>
+    <body>"Stop this! Let them go!"</body>
+    <message_type>18</message_type>
+    <display_type>2048</display_type>
+    <ment>STR_GOD_Mission_Ariel_03_fix</ment>
+  </string>
+  <string>
+    <id>1403401</id>
+    <name>STR_GOD_Mission_Asphel_03</name>
+    <body>"Just a small helping hand is all they need to resolve this."</body>
+    <message_type>19</message_type>
+    <display_type>2048</display_type>
+    <ment>STR_GOD_Mission_Asphel_03_fix</ment>
+  </string>
+  <string>
+    <id>1403402</id>
+    <name>STR_MSG_TOURNAMENT_OBSERVER_NO_USER_TO_ADD</name>
+    <body>There is no player to add to Spectator Mode.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403403</id>
+    <name>STR_MSG_LDF3_01_DESTINATION_DIRECT_PORTAL_OPEN</name>
+    <body>A Rift into Apheta Beluslan has appeared.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403404</id>
+    <name>STR_MSG_CONFIG_UNABLE_CREATE_CHARACTER</name>
+    <body>Character creation is not currently available on this server.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403405</id>
+    <name>STR_MSG_CLASSCHANGE_MAX_COUNT</name>
+    <body>The number of available Class Changes have all been exhausted.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403406</id>
+    <name>STR_MSG_CLASSCHANGE_CANNOT_MATCHING</name>
+    <body>Cannot proceed with Class Change while on standby after entry request.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403407</id>
+    <name>STR_MSG_CLASSCHANGE_CANNOT_JOIN_PARTY</name>
+    <body>Cannot proceed with Class Chang while in a group or alliance.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403408</id>
+    <name>STR_MSG_CHAR_TITLE_BOOKMARKING</name>
+    <body>Do you want to bookmark the selected title?</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403409</id>
+    <name>STR_MSG_LDF10_01_RvR_Start_1</name>
+    <body>Tiamat's Shadow has appeared in Rafslan.</body>
+    <message_type>1</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403410</id>
+    <name>STR_MSG_LDF10_01_RvR_End_1</name>
+    <body>Tiamat's Shadow has disappeared from Rafslan.</body>
+    <message_type>55</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403411</id>
+    <name>STR_MSG_IDFist_Kenshiro_01</name>
+    <body>"Here...! Come this way."</body>
+    <message_type>20</message_type>
+    <display_type>2048</display_type>
+    <ment>STR_IDFist_Kenshiro_01_fix</ment>
+  </string>
+  <string>
+    <id>1403412</id>
+    <name>STR_MSG_IDFist_Kenshiro_02</name>
+    <body>"I'll lead the way, so follow closely."</body>
+    <message_type>20</message_type>
+    <display_type>2048</display_type>
+    <ment>STR_IDFist_Kenshiro_02_fix</ment>
+  </string>
+  <string>
+    <id>1403413</id>
+    <name>STR_MSG_IDFist_Kenshiro_03</name>
+    <body>"Let me take care of this."</body>
+    <message_type>20</message_type>
+    <display_type>2048</display_type>
+    <ment>STR_IDFist_Kenshiro_03_fix</ment>
+  </string>
+  <string>
+    <id>1403414</id>
+    <name>STR_MSG_IDFist_Kenshiro_04</name>
+    <body>"Jagi...you've come back... The one who once strove to succeed the Hokuto Shinken... It won't be an easy fight."</body>
+    <message_type>20</message_type>
+    <display_type>2048</display_type>
+    <ment>STR_IDFist_Kenshiro_04_fix</ment>
+  </string>
+  <string>
+    <id>1403415</id>
+    <name>STR_MSG_UNUSABLE_ITEM_ERROR</name>
+    <body>This item cannot be used.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403416</id>
+    <name>STR_MSG_BROADCAST_LDF10_treasure_Shugo_01</name>
+    <body>A treasure box will soon appear in the Lawless Land.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1403417</id>
+    <name>STR_MSG_EQUIPMENT_CHANGE_LOCK</name>
+    <body>It cannot be used right now.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403418</id>
+    <name>STR_MSG_IDLDF1_01_Q_intro_01</name>
+    <message_type>24</message_type>
+    <display_type>1024</display_type>
+    <ment>idldf1_01_Q_intro_fix</ment>
+  </string>
+  <string>
+    <id>1403419</id>
+    <name>STR_MSG_INSTANCE_START_IDFist</name>
+    <body>Searching Aster of Reconciliation.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403420</id>
+    <name>STR_MSG_INSTANCE_START_IDFist_01</name>
+    <body>Searching Enigmatic Aster.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403421</id>
+    <name>STR_MSG_IDFist_Kenshiro_05</name>
+    <body>"That I'd meet you again... Like this, Yuria?"</body>
+    <message_type>20</message_type>
+    <display_type>2048</display_type>
+    <ment>STR_IDFist_Kenshiro_05_fix</ment>
+  </string>
+  <string>
+    <id>1403422</id>
+    <name>STR_MSG_IDFist_Kenshiro_06</name>
+    <body>"Thanks. For letting me meet a miracle at the edge of the world!"</body>
+    <message_type>20</message_type>
+    <display_type>2048</display_type>
+    <ment>STR_IDFist_Kenshiro_06_fix</ment>
+  </string>
+  <string>
+    <id>1403423</id>
+    <name>STR_MSG_WARDROBE_INVALID_STANCE</name>
+    <body>You may not change hairstyles from %0.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403424</id>
+    <name>STR_MSG_SPAWN_LDF10_Krall_Nmd_01</name>
+    <body>Advent of Grand Chieftain Huuta</body>
+    <message_type>8</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403425</id>
+    <name>STR_MSG_SPAWN_LDF10_Lycan_Nmd_01</name>
+    <body>Advent of Grand Chieftain Shiraka</body>
+    <message_type>8</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403426</id>
+    <name>STR_MSG_CANNOT_ENTER_GAME_STRIKER</name>
+    <body>[Unable to Enter] Fighters can enter starting at 8PM on October 25th.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403427</id>
+    <name>STR_MSG_HUD_GRID_SAVE_01</name>
+    <body>The preset has been applied.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403428</id>
+    <name>STR_MSG_LDF10_SUPPLY_A</name>
+    <body>A supply merchant has appeared near the Withered Parhelic Plains.</body>
+    <message_type>15</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403429</id>
+    <name>STR_MSG_LDF10_SUPPLY_B</name>
+    <body>A supply merchant has appeared near the Dreary Yolf Basin.</body>
+    <message_type>15</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403430</id>
+    <name>STR_MSG_LDF10_SUPPLY_C</name>
+    <body>A supply merchant has appeared near the Jagged Stone Valley.</body>
+    <message_type>15</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403431</id>
+    <name>STR_MSG_IDFist_01</name>
+    <body>Kenshiro has appeared on Aster Bridge.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403432</id>
+    <name>STR_MSG_IDFist_02</name>
+    <body>You can only enter Mr. Heart Bind Point after defeating hidden Jagi in Jagi's Hideout.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403433</id>
+    <name>STR_MSG_IDFist_03</name>
+    <body>Defeat Jagi to enter Mr. Heart Bind Point.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403434</id>
+    <name>STR_MSG_IDFist_04</name>
+    <body>Defeat all the Jako in the Abandoned Aster Village in order to move to the next region.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403435</id>
+    <name>STR_MSG_IDFist_05</name>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403436</id>
+    <name>STR_MSG_IDFist_06</name>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403437</id>
+    <name>STR_MSG_WARDROBE_CANNOT_CHANGE_HAIR_SAME_CONDITION</name>
+    <body>You may not change to the same hairstyle you are wearing.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403438</id>
+    <name>STR_MSG_SPAWN_LDF10_IDFist_01_Heart_20_Ah1_event</name>
+    <body>Advent of Mr. Heart</body>
+    <message_type>8</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403439</id>
+    <name>STR_MSG_IDLDF1_01_Q_30072_01</name>
+    <body>Training certificate acquired.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403440</id>
+    <name>STR_MSG_RACE_RATIO_01</name>
+    <body>Cannot be checked in current position.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403441</id>
+    <name>STR_MSG_HUD_GRID_SAVE_PRESET</name>
+    <body>Save current settings in %0?</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403442</id>
+    <name>STR_MSG_HUD_GRID_APLLY_PRESET</name>
+    <body>Apply %0 to current screen?</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403443</id>
+    <name>STR_MSG_HUD_GRID_SAVE_PRESET_ERROR</name>
+    <body>Value has not been saved. Please save to apply.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403444</id>
+    <name>STR_MSG_HUD_GRID_SAVE_PRESET_EXIT</name>
+    <body>Exit without saving?</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403445</id>
+    <name>STR_MSG_HUD_GRID_SAVE_PRESET_CANCEL</name>
+    <body>Current value will be reset. Continue summoning?</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403446</id>
+    <name>STR_MSG_SPAWN_LDF10_Ctrl_NPC_04</name>
+    <body>A powerful monster has appeared in the Lawless Land.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1403447</id>
+    <name>STR_MSG_GUILD_BUFF_ENCHANT_FAIL_4</name>
+    <body>Currently unable to enchant buff.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403448</id>
+    <name>STR_INGAME_BLOCK_IN_NO_GATHER</name>
+    <body>You are currently banned from Essencetapping and Aethertapping. %0 minutes remaining.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1403449</id>
+    <name>STR_INGAME_BLOCK_ENABLE_NO_GATHER</name>
+    <body>You are banned from Essencetapping and Aethertapping for %0 minutes.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1403450</id>
+    <name>STR_INGAME_BLOCK_DISABLE_NO_GATHER</name>
+    <body>You may resume Essencetapping and Aethertapping.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1403451</id>
+    <name>STR_MSG_Event_BaseBall_01</name>
+    <body>A large baseball has appeared in Atreia.</body>
+    <message_type>15</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403452</id>
+    <name>STR_MSG_Event_BaseBall_02</name>
+    <body>A twin baseball has appeared in Atreia.</body>
+    <message_type>15</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403453</id>
+    <name>STR_MSG_SPAWN_LDF10_ElementalkingH_Nmd_01</name>
+    <body>Advent of Runaway Yamennes</body>
+    <message_type>8</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403454</id>
+    <name>STR_MSG_MEMO_SAVE</name>
+    <body>Memo Pad contents saved.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403455</id>
+    <name>STR_MSG_MEMO_COOLTIME</name>
+    <body>Memo Pad may be saved once every 5 seconds. Remaining time: %0 sec.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403456</id>
+    <name>STR_MSG_CANDYMACE_01</name>
+    <body>Diad Commando Arrival</body>
+    <message_type>8</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403457</id>
+    <name>STR_MSG_CANDYMACE_02</name>
+    <body>Commando Leader Varata will appear soon in an enraged state.</body>
+    <message_type>15</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403458</id>
+    <name>STR_MSG_CANDYMACE_03</name>
+    <body>Advent of Commando Leader Varata</body>
+    <message_type>8</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403459</id>
+    <name>STR_MSG_SERVER_MAINTENANCE</name>
+    <body>Currently under maintenance. Please try again at a later time.</body>
+    <message_type>53</message_type>
+    <display_type>2</display_type>
+  </string>
+  <string>
+    <id>1403460</id>
+    <name>STR_MSG_LF4_RVR_START</name>
+    <body>Zantra has invaded Inggison Illusion Fortress.</body>
+    <message_type>1</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403461</id>
+    <name>STR_MSG_LF4_RVR_END</name>
+    <body>Inggison Illusion Fortress invasion has ended.</body>
+    <message_type>55</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403462</id>
+    <name>STR_MSG_DF4_RVR_START</name>
+    <body>Nuzanta has invaded Gelkmaros Fortress.</body>
+    <message_type>1</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403463</id>
+    <name>STR_MSG_DF4_RVR_END</name>
+    <body>Gelkmaros Fortress invasion has ended.</body>
+    <message_type>55</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403464</id>
+    <name>STR_MSG_INFINITY_INDUN_TIMEATTACK_RECORD_TIME</name>
+    <body>You've set a new Tower of Illusion Record! (%1 for Floor %0)</body>
+    <message_type>53</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403465</id>
+    <name>STR_MSG_IDInfinity_01</name>
+    <body>The Tog is preoccupied with a chunk of meat.</body>
+  </string>
+  <string>
+    <id>1403466</id>
+    <name>STR_MSG_IDInfinity_02</name>
+    <body>Destroy the feeder to lure the Tog.</body>
+  </string>
+  <string>
+    <id>1403467</id>
+    <name>STR_MSG_IDInfinity_03</name>
+    <body>Marabata has divided. Destroy the Marabata with the core.</body>
+  </string>
+  <string>
+    <id>1403468</id>
+    <name>STR_MSG_IDInfinity_04</name>
+    <body>Destroy it before the egg hatches.</body>
+  </string>
+  <string>
+    <id>1403469</id>
+    <name>STR_MSG_IDInfinity_05</name>
+    <body>Bollvig Blackheart has entered a terrifying frenzy. Avoid combat until the terrifying frenzy goes away.</body>
+  </string>
+  <string>
+    <id>1403470</id>
+    <name>STR_MSG_IDInfinity_06</name>
+    <body>Coming into contact with the Aether Bomb that Vanktrist summoned can cause great damage.</body>
+  </string>
+  <string>
+    <id>1403471</id>
+    <name>STR_MSG_IDInfinity_07</name>
+    <body>The danger zone has been disabled. Move to a safer location to avoid the Vengeful Orb.</body>
+  </string>
+  <string>
+    <id>1403472</id>
+    <name>STR_MSG_IDInfinity_Explosion_MSG_01</name>
+    <body>The artifact has been charged.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403473</id>
+    <name>STR_MSG_IDInfinity_Explosion_MSG_02</name>
+    <body>Artifact charging is complete. The artifact will soon explode.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403474</id>
+    <name>STR_MSG_IDInfinity_Cannot_Teleport</name>
+    <body>You cannot use the function because you do not have a Tower of Challenge Teleport Scroll.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403475</id>
+    <name>STR_MSG_IDInfinity_Teleport_4F</name>
+    <body>You will consume 1 Tower of Challenge Teleport Scroll to start at Floor 4.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403476</id>
+    <name>STR_MSG_INFINITY_INDUN_RESURRECT_IN_IDARENA</name>
+    <body>Challenge failed.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403477</id>
+    <name>STR_MSG_MEMO_CANNOT_LOAD</name>
+    <body>Cannot load Memo Pad contents.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403478</id>
+    <name>STR_MSG_MEMO_LOAD_SUCCESS</name>
+    <body>Successfully recalled account Memo Pad saved on your computer.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403479</id>
+    <name>STR_MSG_MEMO_LOAD_FAIL</name>
+    <body>Failed to recall account Memo Pad saved on your computer.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403480</id>
+    <name>STR_FXMSG_TEST_18</name>
+    <body>Type #18 FX message</body>
+    <message_type>18</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403481</id>
+    <name>STR_FXMSG_TEST_19</name>
+    <body>Type #19 FX message</body>
+    <message_type>19</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403482</id>
+    <name>STR_FXMSG_TEST_20</name>
+    <body>Type #20 FX message</body>
+    <message_type>20</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403483</id>
+    <name>STR_FXMSG_TEST_21</name>
+    <body>Type #21 FX message</body>
+    <message_type>21</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403484</id>
+    <name>STR_FXMSG_TEST_22</name>
+    <body>Type #22 FX message</body>
+    <message_type>22</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403485</id>
+    <name>STR_FXMSG_TEST_23</name>
+    <body>Type #23 FX message</body>
+    <message_type>23</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403486</id>
+    <name>STR_FXMSG_TEST_24</name>
+    <body>Type #24 FX message</body>
+    <message_type>24</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403487</id>
+    <name>STR_MSG_LDF10_Diad_RvR_Start</name>
+    <body>The Dark Master has appeared in Rafslan.</body>
+    <message_type>1</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403488</id>
+    <name>STR_MSG_LDF10_Diad_RvR_End</name>
+    <body>The Darkness of Rafslan has disappeared.</body>
+    <message_type>55</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403489</id>
+    <name>STR_MSG_MEMO_LOCAL_SAVE</name>
+    <body>Saving data on computer due to limited server space.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403490</id>
+    <name>STR_MSG_INSTANCE_OPEN_IDdranamine_War</name>
+    <body>An infiltration route into the Black Vevium Battlefield is open.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403491</id>
+    <name>STR_GATHER_RESTRICTION_APPLY</name>
+    <body>%0 collection restriction applied. (Remaining restriction time: %1 min.)</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1403492</id>
+    <name>STR_GATHER_RESTRICTION_APPLY_ALREADY</name>
+    <body>This user already has a collection restriction applied. (%0 restriction, Remaining restriction time: %1 min.)</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1403493</id>
+    <name>STR_MSG_SPAWN_IDdranamine_War_ShellizardName</name>
+    <body>Mutated Chimera Alashiana has appeared.</body>
+    <message_type>8</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403494</id>
+    <name>STR_MSG_SPAWN_IDdranamine_War_ShellizardBossName</name>
+    <body>Ferocious Mutated Chimera Alashiana has appeared.</body>
+    <message_type>8</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403495</id>
+    <name>STR_MSG_IDdranamine_War_Score_OBJ_01_A</name>
+    <body>The Red Team has occupied the Zone 1 Mining Device.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403496</id>
+    <name>STR_MSG_IDdranamine_War_Score_OBJ_01_B</name>
+    <body>The Blue Team has occupied the Zone 1 Mining Device.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403497</id>
+    <name>STR_MSG_IDdranamine_War_Score_OBJ_02_A</name>
+    <body>The Red Team has occupied the Zone 2 Mining Device.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403498</id>
+    <name>STR_MSG_IDdranamine_War_Score_OBJ_02_B</name>
+    <body>The Blue Team has occupied the Zone 2 Mining Device.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403499</id>
+    <name>STR_MSG_IDdranamine_War_Score_OBJ_03_A</name>
+    <body>The Red Team has occupied the Zone 3 Mining Device.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403500</id>
+    <name>STR_MSG_IDdranamine_War_Score_OBJ_03_B</name>
+    <body>The Blue Team has occupied the Zone 3 Mining Device.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403501</id>
+    <name>STR_MSG_IDdranamine_War_Score_OBJ_04_A</name>
+    <body>The Red Team has occupied the Zone 4 Mining Device.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403502</id>
+    <name>STR_MSG_IDdranamine_War_Score_OBJ_04_B</name>
+    <body>The Blue Team has occupied the Zone 4 Mining Device.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403503</id>
+    <name>STR_MSG_IDdranamine_War_Score_OBJ_05_A</name>
+    <body>The Red Team has occupied the Central Zone Mining Device.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403504</id>
+    <name>STR_MSG_IDdranamine_War_Score_OBJ_05_B</name>
+    <body>The Blue Team has occupied the Central Zone Mining Device.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403505</id>
+    <name>STR_MSG_INSTANCE_START_IDdranamine_War</name>
+    <body>Black Vevium Battlefield occupation will begin.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+    <ment>score_game_start_fix</ment>
+  </string>
+  <string>
+    <id>1403506</id>
+    <name>STR_MSG_IDdranamine_War_blue_ATTACK_01</name>
+    <body>The Blue Team Commander starts the battle.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+    <ment>ab_danger_alert_fix</ment>
+  </string>
+  <string>
+    <id>1403507</id>
+    <name>STR_MSG_IDdranamine_War_red_ATTACK_01</name>
+    <body>The Red Team Commander starts the battle.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+    <ment>ab_danger_alert_fix</ment>
+  </string>
+  <string>
+    <id>1403508</id>
+    <name>STR_MSG_IDdranamine_War_blue_ATTACK_02</name>
+    <body>The Blue Team Commander is in combat.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+    <ment>ab_danger_alert_fix</ment>
+  </string>
+  <string>
+    <id>1403509</id>
+    <name>STR_MSG_IDdranamine_War_red_ATTACK_02</name>
+    <body>The Red Team Commander is in combat.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+    <ment>ab_danger_alert_fix</ment>
+  </string>
+  <string>
+    <id>1403510</id>
+    <name>STR_MSG_CANT_WATCH_IN_THIS_ZONE</name>
+    <body>You cannot View Details in this area.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403511</id>
+    <name>STR_MSG_IDdranamine_War_TeamA_Win_01</name>
+    <body>The Red Team has won the battle at the Hidden Mine.</body>
+    <message_type>7</message_type>
+    <display_type>1024</display_type>
+    <ment>alert_access_chief_fix</ment>
+  </string>
+  <string>
+    <id>1403512</id>
+    <name>STR_MSG_IDdranamine_War_TeamB_Win_01</name>
+    <body>The Blue Team has won the battle at the Hidden Mine.</body>
+    <message_type>7</message_type>
+    <display_type>1024</display_type>
+    <ment>alert_access_chief_fix</ment>
+  </string>
+  <string>
+    <id>1403513</id>
+    <name>STR_MSG_CANT_WATCH_CHAR_INFO</name>
+    <body>You cannot see Character Profile in this region.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403514</id>
+    <name>STR_MSG_GET_SCORE_01</name>
+    <body>The %0 Team has earned %1 points from %num2.</body>
+    <message_type>60</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1403515</id>
+    <name>STR_MSG_DUEL_PARTNER_CANT_AREA</name>
+    <body>%0 is in a duel-free zone.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403516</id>
+    <name>STR_MSG_REMOVE_SCORE_01</name>
+    <body>The %0 Team has lost %1 points to %num2.</body>
+    <message_type>60</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1403517</id>
+    <name>STR_MSG_REMOVE_SCORE_02</name>
+    <body>The %0 Team has lost %num1 points.</body>
+    <message_type>60</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1403518</id>
+    <name>STR_STIGMA_PAGE_CHANGE_CANNT_UNEQUIP_CURRENT_ITEM</name>
+    <body>If weapon has been equipped via Stigma, you may change the page after disabling the weapon.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403519</id>
+    <name>STR_STIGMA_PAGE_CHANGE_CANNT_EQUIP_AVAILABLE_STIGMA_POINT</name>
+    <body>You need %0 Stigma Shard(s) to change the Stigma Page.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403520</id>
+    <name>STR_MSG_IDdranamine_War_Score_OBJ_06_A</name>
+    <body>The Red Team is occupying Mining Zone 1.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403521</id>
+    <name>STR_MSG_IDdranamine_War_Score_OBJ_06_B</name>
+    <body>The Blue Team is occupying Mining Zone 1.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403522</id>
+    <name>STR_MSG_IDdranamine_War_Score_OBJ_07_A</name>
+    <body>The Red Team is occupying Mining Zone 2.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403523</id>
+    <name>STR_MSG_IDdranamine_War_Score_OBJ_07_B</name>
+    <body>The Blue Team is occupying Mining Zone 2.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403524</id>
+    <name>STR_MSG_IDdranamine_War_Score_OBJ_08_A</name>
+    <body>The Red Team is occupying Mining Zone 3.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403525</id>
+    <name>STR_MSG_IDdranamine_War_Score_OBJ_08_B</name>
+    <body>The Blue Team is occupying Mining Zone 3.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403526</id>
+    <name>STR_MSG_IDdranamine_War_Score_OBJ_09_A</name>
+    <body>The Red Team is occupying Mining Zone 4.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403527</id>
+    <name>STR_MSG_IDdranamine_War_Score_OBJ_09_B</name>
+    <body>The Blue Team is occupying Mining Zone 4.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403528</id>
+    <name>STR_MSG_IDdranamine_War_Score_OBJ_10_A</name>
+    <body>The Red Team is occupying the Central Mining Zone.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403529</id>
+    <name>STR_MSG_IDdranamine_War_Score_OBJ_10_B</name>
+    <body>The Blue Team is occupying the Central Mining Zone.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403530</id>
+    <name>STR_MSG_IDdranamine_War_1vs1_01</name>
+    <body>The Hidden Mine Transportation Passage has appeared.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403531</id>
+    <name>STR_MSG_IDDF2_DFLAME_BUFF_INFO</name>
+    <body>You have received the protection of the temple after entering the Fire Temple.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403532</id>
+    <name>STR_MSG_IDDF2_DFLAME_SKILL_INFO</name>
+    <body>You have acquired a powerful item that can be used in the Fire Temple. Double-click or register to Quickbar to use.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403533</id>
+    <name>STR_MSG_IDdranamine_War_ShellizardName_ATTACK_01</name>
+    <body>Mutated Chimera Alashiana starts combat.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+    <ment>ab_danger_alert_fix</ment>
+  </string>
+  <string>
+    <id>1403534</id>
+    <name>STR_MSG_IDdranamine_War_ShellizardBossName_ATTACK_01</name>
+    <body>Ferocious Mutated Chimera Alashiana starts combat.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+    <ment>ab_danger_alert_fix</ment>
+  </string>
+  <string>
+    <id>1403535</id>
+    <name>STR_MSG_IDdranamine_War_DrakanWizardNamed_ATTACK_01</name>
+    <body>Vevium Production Administrator Vascaron starts combat.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+    <ment>ab_danger_alert_fix</ment>
+  </string>
+  <string>
+    <id>1403536</id>
+    <name>STR_MSG_IDdranamine_War_DrakanWizardNamed_01</name>
+    <body>Vevium Production Administrator Vascaron has appeared.</body>
+    <message_type>8</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403537</id>
+    <name>STR_MSG_IDDF2_DFLAME_TELEPORT_INFO</name>
+    <body>You have left the teleport zone. Moving to a valid zone.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403542</id>
+    <name>STR_SKILL_SUCC_Control_ME_TO_B</name>
+    <body>You used [%SkillName] to make [%SkillTarget] %0.</body>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1403543</id>
+    <name>STR_CONTROL_EFFECT</name>
+    <body>Delirium</body>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1403544</id>
+    <name>STR_MSG_IDINFINITY_CLASSIC_MSG_01</name>
+    <body>Defeat both Heliot and Erebus by using a Shield Dispeller.</body>
+    <message_type>8</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403545</id>
+    <name>STR_MSG_IDINFINITY_CLASSIC_MSG_02</name>
+    <body>The Tower of Illusion is vibrating due to Lamash's attack.
+\nThe Power of Illusion obtained by destroying an Illusion Fragment will help during combat.</body>
+    <message_type>8</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403546</id>
+    <name>STR_MSG_IDINFINITY_CLASSIC_MSG_03</name>
+    <body>There are faint traces of the Power of Illusion.</body>
+    <message_type>8</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403547</id>
+    <name>STR_MSG_IDINFINITY_CLASSIC_MSG_04</name>
+    <body>There are noteable traces of the Power of Illusion.</body>
+    <message_type>8</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403548</id>
+    <name>STR_MSG_IDINFINITY_CLASSIC_MSG_05</name>
+    <body>There are strong traces of the Power of Illusion.</body>
+    <message_type>8</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403549</id>
+    <name>STR_MSG_IDINFINITY_CLASSIC_MSG_06</name>
+    <body>Test 6</body>
+    <message_type>15</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403550</id>
+    <name>STR_MSG_IDINFINITY_CLASSIC_MSG_07</name>
+    <body>Your XP was all restored by helping Inggril.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403551</id>
+    <name>STR_MSG_IDINFINITY_CLASSIC_MSG_08</name>
+    <body>Your XP and MP were all restored by diligently helping Inggril.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403552</id>
+    <name>STR_MSG_IDINFINITY_CLASSIC_MSG_09</name>
+    <body>Your casting time, XP, and MP were all restored by quickly helping Inggril.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403553</id>
+    <name>STR_MSG_IDINFINITY_CLASSIC_MSG_10</name>
+    <body>Your XP was all restored by helping Inggness.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403554</id>
+    <name>STR_MSG_IDINFINITY_CLASSIC_MSG_11</name>
+    <body>Your XP and MP were all restored by diligently helping Inggness.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403555</id>
+    <name>STR_MSG_IDINFINITY_CLASSIC_MSG_12</name>
+    <body>Your casting time, XP, and MP were all restored by quickly helping Inggness.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403556</id>
+    <name>STR_MSG_IDINFINITY_CLASSIC_MSG_13</name>
+    <body>Test 13</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403557</id>
+    <name>STR_MSG_IDINFINITY_CLASSIC_MSG_14</name>
+    <body>Test 14</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403558</id>
+    <name>STR_MSG_IDINFINITY_CLASSIC_MSG_15</name>
+    <body>Test 15</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403559</id>
+    <name>STR_MSG_IDdranamine_War_ShellizardName_SPAWN_02</name>
+    <body>Mutated Chimera Alashiana has appeared.\nA passage to the elimination game has appeared in the waiting room.</body>
+    <message_type>8</message_type>
+    <display_type>1024</display_type>
+    <ment>ab_danger_alert_fix</ment>
+  </string>
+  <string>
+    <id>1403560</id>
+    <name>STR_MSG_IDdranamine_War_ShellizardBossName_SPAWN_02</name>
+    <body>Ferocious Mutated Chimera Alashiana has appeared.\nA passage to the elimination game has appeared in the waiting room.</body>
+    <message_type>8</message_type>
+    <display_type>1024</display_type>
+    <ment>ab_danger_alert_fix</ment>
+  </string>
+  <string>
+    <id>1403561</id>
+    <name>STR_SKILL_SUCC_Control_A_TO_ME</name>
+    <body>You have become %0 because [%SkillCaster] used [%SkillName].</body>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1403562</id>
+    <name>STR_SKILL_SUCC_Control_A_TO_B</name>
+    <body>[%SkillTarget] has become %0 because [%SkillCaster] used [%SkillName].</body>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1403563</id>
+    <name>STR_MSG_IDDragon_Twin_01</name>
+    <body>There are two different presences inside the Citadel of the Sacred.</body>
+    <message_type>8</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403564</id>
+    <name>STR_MSG_IDDragon_Twin_02</name>
+    <body>There is a powerful presence other than Burning Cursed Yaksha. (Unused)</body>
+    <message_type>8</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403565</id>
+    <name>STR_MSG_IDDragon_Twin_03</name>
+    <body>There is a powerful presence other than Melted Heart Yaksha. (Unused)</body>
+    <message_type>8</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403566</id>
+    <name>STR_MSG_IDDragon_Twin_04</name>
+    <body>A Suspicious Teleportation Orb has appeared in the citadel.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403567</id>
+    <name>STR_MSG_IDDragon_Twin_05</name>
+    <body>Combat detected. Teleportation inside the citadel blocked.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403568</id>
+    <name>STR_MSG_IDDragon_Twin_06</name>
+    <body>You have discovered Arch Diad's hideout.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403569</id>
+    <name>STR_MSG_CUSTOMANIMATION_ITEM_OFF</name>
+    <body>Conditions for applied motion not met. Reverting to default motions.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1403570</id>
+    <name>STR_MSG_COMBAT_MY_PVPABYSS_POINT_GAIN</name>
+    <body>You have gained %num0 Abyss Points from PvP.</body>
+    <message_type>60</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1403571</id>
+    <name>STR_MSG_EVENT_LDF10_01</name>
+    <body>Enemies have appeared in Rafslan.</body>
+    <message_type>15</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403572</id>
+    <name>STR_MSG_EVENT_LDF10_02</name>
+    <body>Tiamat has appeared in Rafslan.</body>
+    <message_type>15</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403573</id>
+    <name>STR_MSG_STIGMA_PAGE_CANNT_CHANGE_LACK_SHARD</name>
+    <body>Gear set has been changed but page has not been changed due to a lack of Stigma Shards.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403574</id>
+    <name>STR_MSG_STIGMA_PAGE_CANNT_CHANGE</name>
+    <body>You cannot change your Stigma Page.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403575</id>
+    <name>STR_STIGMA_PAGE_CHANGE</name>
+    <body>Stigma Page changed.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403576</id>
+    <name>STR_MSG_PAGE_CHANGE_CANNT_OPEN_SHOP</name>
+    <body>You cannot open a private store while changing a Stigma Page.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403577</id>
+    <name>STR_STIGMA_PAGE_NOT_CHANGE_WORLD_MSG</name>
+    <body>Unable to change in this region.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403578</id>
+    <name>STR_MSG_PAGE_CHANGE_CANNT_QUEST_UNCLEAR</name>
+    <body>Unable to change because quest conditions have not been met.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403579</id>
+    <name>STR_MSG_STIGMA_PAGE_CANNT_UNEQUIP</name>
+    <body>Unable to equip or disable while changing a Stigma Page.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403580</id>
+    <name>STR_MSG_IDDokkaebi_Imoog_01</name>
+    <body>Oh no, the fiends are attacking the village guardian!</body>
+    <message_type>22</message_type>
+    <display_type>2048</display_type>
+    <ment>STR_IDDokkaebi_Imoog_01_fix</ment>
+  </string>
+  <string>
+    <id>1403581</id>
+    <name>STR_MSG_IDDokkaebi_Imoog_02</name>
+    <body>Now that the wicked censer has been destroyed, the fiends will no longer rampage.</body>
+    <message_type>22</message_type>
+    <display_type>2048</display_type>
+    <ment>STR_IDDokkaebi_Imoog_02_fix</ment>
+  </string>
+  <string>
+    <id>1403582</id>
+    <name>STR_MSG_IDDokkaebi_Imoog_03</name>
+    <body>Well done! You've saved the village and the totem from the fiends!</body>
+    <message_type>22</message_type>
+    <display_type>2048</display_type>
+    <ment>STR_IDDokkaebi_Imoog_03_fix</ment>
+  </string>
+  <string>
+    <id>1403583</id>
+    <name>STR_MSG_IDDokkaebi_Imoog_04</name>
+    <body>Oh no, this is not how a Great General should look.</body>
+    <message_type>22</message_type>
+    <display_type>2048</display_type>
+    <ment>STR_IDDokkaebi_Imoog_04_fix</ment>
+  </string>
+  <string>
+    <id>1403584</id>
+    <name>STR_MSG_PAGE_EQUIP_CANNT_QUEST_UNCLEAR</name>
+    <body>Unable to equip because quest conditions have not been met.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403585</id>
+    <name>STR_STIGMA_PAGE_CHANGE_CANCEL</name>
+    <body>Stigma Page change canceled.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403586</id>
+    <name>STR_MSG_BROADCAST_WARP_OPEN_01</name>
+    <body>Acquired %2 because %0 used %1.</body>
+    <message_type>53</message_type>
+    <display_type>19</display_type>
+  </string>
+  <string>
+    <id>1403587</id>
+    <name>STR_MSG_IDDokkaebi_Imoog_05</name>
+    <body>This smell... It's the scent of a wicked censer! I think it's coming from that den!</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+    <ment>STR_IDDokkaebi_Imoog_05_fix</ment>
+  </string>
+  <string>
+    <id>1403588</id>
+    <name>STR_MSG_LDF3_supply2_npc_spawn</name>
+    <body>A supply merchant has appeared somewhere in Rafslan.</body>
+    <message_type>15</message_type>
+    <display_type>1024</display_type>
+  </string>
+  <string>
+    <id>1403589</id>
+    <name>STR_MSG_COMBAT_MY_PVPABYSS_POINT_CHANGE</name>
+    <body>Converted %num0 PvP Abyss Points into accumulated Abyss Points.</body>
+    <message_type>53</message_type>
+    <display_type>1</display_type>
+  </string>
+  <string>
+    <id>1403590</id>
+    <name>STR_NOT_CONNECTED_WEEKLY_REWARD_POPUP_MSG</name>
+    <body>The selected character will receive a reward. Would you like to select this character?
+\n(All selections are final. Rewards will be sent via mail.)\n*Caution*\nIf the mail is received without Siel's Aura, AP will not be awarded.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403591</id>
+    <name>STR_NOT_CONNECTED_WEEKLY_REWARD_POPUP_WORLD_ENTER</name>
+    <body>You may enter the world after collecting your offline reward.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403592</id>
+    <name>STR_RETURN_USER_PERIOD_END</name>
+    <body>Returning user period has ended. You will no longer receive returning user benefits.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403593</id>
+    <name>STR_MSG_IDDokkaebi_01</name>
+    <body>A sound is coming from the Plenilune Grounds pavilion.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+    <ment>alert_godelite_buff_1_fix</ment>
+  </string>
+  <string>
+    <id>1403594</id>
+    <name>STR_MSG_IDDokkaebi_02</name>
+    <body>Wearing the Eye of the Dokkaebi will reveal entities of the underworld.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+    <ment>alert_godelite_buff_1_fix</ment>
+  </string>
+  <string>
+    <id>1403595</id>
+    <name>STR_MSG_IDDokkaebi_03</name>
+    <body>The well-polished mirror reflects the well of Lantern Village.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+    <ment>alert_godelite_buff_1_fix</ment>
+  </string>
+  <string>
+    <id>1403596</id>
+    <name>STR_MSG_IDDokkaebi_04</name>
+    <body>The sound of someone crying is coming from the depths of Vermeil Rapids.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+    <ment>alert_godelite_buff_1_fix</ment>
+  </string>
+  <string>
+    <id>1403597</id>
+    <name>STR_MSG_IDDokkaebi_Reaper_01</name>
+    <body>Your name is...</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+    <ment>STR_MSG_IDDokkaebi_Reaper_01_fix</ment>
+  </string>
+  <string>
+    <id>1403598</id>
+    <name>STR_MSG_General_Officer_Quest</name>
+    <body>Not enough PvP kills.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403599</id>
+    <name>STR_ENCHANT_ERROR_TEMPORARY_EXCHANGE_ITEM</name>
+    <body>You cannot enchant items that are temporarily tradable.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403600</id>
+    <name>STR_MSG_REGION_CHAT_BLOCK_01</name>
+    <body>Blocked due to repeated chat entries.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403601</id>
+    <name>STR_MSG_REGION_CHAT_BLOCK_02</name>
+    <body>You are currently blocked due to repeated chat entries. (Remaining time: %d sec.)</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403602</id>
+    <name>STR_MSG_BROADCAST_PVP_QUEST_WRAP_OPEN</name>
+    <body>Acquired %2 because %0 used %1.</body>
+    <message_type>53</message_type>
+    <display_type>19</display_type>
+  </string>
+  <string>
+    <id>1403603</id>
+    <name>STR_MSG_REGION_CHAT_BLOCK_03</name>
+    <body>No longer blocked due to repeated chat entries. </body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403604</id>
+    <name>STR_MSG_IDDokkaebi_05</name>
+    <body>Gangcheol leaves Charring Peak when he loses interest in Daevas.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403605</id>
+    <name>STR_MSG_IDDokkaebi_06</name>
+    <body>Gangcheol has left Charring Peak after losing interest in Daevas.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403606</id>
+    <name>STR_MSG_IDDokkaebi_07</name>
+    <body>The Charring Peak Treasure Plate has been unsealed due to the defeat of Drowning Blues.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403625</id>
+    <name>STR_DEVAPASS_ADVANCED_REWARD_INVENTORY_NOTICE</name>
+    <body>When you unlock Daeva Pass Premiun, you can save and use the items.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
+  </string>
+  <string>
+    <id>1403626</id>
+    <name>STR_DEVAPASS_ADVANCED_REWARD_INVENTORY_OPEN</name>
+    <body>When you unlock Daeva Pass Premiun, you can use the cube as your benefit.</body>
+    <message_type>53</message_type>
+    <display_type>3</display_type>
   </string>
 </strings>

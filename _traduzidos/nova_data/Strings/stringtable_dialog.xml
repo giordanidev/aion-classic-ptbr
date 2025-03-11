@@ -13784,29 +13784,34 @@
 &lt;/html&gt;</body>
   </string>
   <string>
+    <id>912660</id>
+    <name>STR_INDUN_COOLTIME_DIALOG__INDUN_ENTER_RESET</name>
+    <body>Reset Time</body>
+  </string>
+  <string>
     <id>912661</id>
     <name>STR_GACHA_DIALOG</name>
-    <body>Dimensional Workbench</body>
+    <body>Dimensional Forge</body>
   </string>
   <string>
     <id>912662</id>
     <name>STR_GATHA_DIALOG__SHOPLINK</name>
-    <body>Click on the box to purchase extra coins.</body>
+    <body>Click on the button to buy additional coins.</body>
   </string>
   <string>
     <id>912663</id>
     <name>STR_GACHA_DIALOG_PROBABILITY</name>
-    <body>Probability Info</body>
+    <body>Probability Information</body>
   </string>
   <string>
     <id>912664</id>
     <name>STR_GACHA_DIALOG__SHOW_REWARD</name>
-    <body>Rewards</body>
+    <body>Reward List</body>
   </string>
   <string>
     <id>912665</id>
     <name>STR_GACHA_DIALOG__CURRENT_POINT</name>
-    <body>Current Polish Nível</body>
+    <body>Current Refinement Level</body>
   </string>
   <string>
     <id>912666</id>
@@ -13821,209 +13826,209 @@
   <string>
     <id>912668</id>
     <name>STR_GACHA_DIALOG__REWARD_S</name>
-    <body>Recompensa (Classe S)</body>
+    <body>Grade S Reward</body>
   </string>
   <string>
     <id>912669</id>
     <name>STR_GACHA_DIALOG__REWARD_A</name>
-    <body>Recompensa (Classe A)</body>
+    <body>Grade A Reward</body>
   </string>
   <string>
     <id>912670</id>
     <name>STR_GACHA_DIALOG__REWARD_B</name>
-    <body>Recompensa (Classe B)</body>
+    <body>Grade B Reward</body>
   </string>
   <string>
     <id>912671</id>
     <name>STR_GACHA_DIALOG__REWARD_C</name>
-    <body>Recompensa (Classe C)</body>
+    <body>Grade C Reward</body>
   </string>
   <string>
     <id>912672</id>
     <name>STR_GACHA_DIALOG__SHOW_FEVER_REWARD</name>
-    <body>View Nyerk Fever reward</body>
+    <body>Frenzy Rewards</body>
   </string>
   <string>
     <id>912673</id>
     <name>STR_GACHA_DIALOG__SHOW_NORMAL_REWARD</name>
-    <body>View normal reward</body>
+    <body>Rewards</body>
   </string>
   <string>
     <id>912674</id>
     <name>STR_GACHA_DIALOG__EXPLANATION</name>
-    <body>About the Dimensional Workbench</body>
+    <body>Dimensional Forge Description</body>
   </string>
   <string>
     <id>912675</id>
     <name>STR_GACHA_DIALOG__SHOW_EXPLANATION</name>
-    <body>Game Information</body>
+    <body>How to Play</body>
   </string>
   <string>
     <id>912676</id>
     <name>STR_INDUN_DIALOG__GO_TO_POSITION</name>
-    <body>Ver Localização</body>
+    <body>Confirm Location</body>
   </string>
   <string>
     <id>912677</id>
     <name>STR_DIALOG__TOOLTIP_INDUN_GUIDE</name>
-    <body>Verificar Entrada de Instância</body>
+    <body>Check Available Instance Zones</body>
   </string>
   <string>
     <id>912678</id>
     <name>STR_INVENTORY_DIALOG_EXTRA_INVENTORY</name>
-    <body>Cubo Adicional</body>
+    <body>Exclusive Cube</body>
   </string>
   <string>
     <id>912679</id>
     <name>STR_INVENTORY_DIALOG_TOOLTIP_EXTRA_INVENTORY</name>
     <body>&lt;html&gt;
-&lt;font font_xml = "tooltip_guide_title"&gt;Cubo Adicional&lt;/font&gt;
+&lt;font font_xml = "tooltip_guide_title"&gt;Exclusive Cube&lt;/font&gt;
 &lt;br&gt;&lt;br&gt;
-&lt;font font_xml = "tooltip_guide_body"&gt;Um inventário exclusivo para missões, moedas, medalhas e itens de evento.&lt;/font&gt;
+&lt;font font_xml = "tooltip_guide_body"&gt;An exclusive inventory for quests, coins, medals and event items.&lt;/font&gt;
 &lt;/html&gt;</body>
   </string>
   <string>
     <id>912680</id>
     <name>STR_TOYPET_WAREHOUSE_DIALOG__ACTIVATE</name>
     <body>&lt;html&gt;
-&lt;font font_xml = "tooltip_guide_title"&gt;Ativar sacola&lt;/font&gt;
+&lt;font font_xml = "tooltip_guide_title"&gt;Enable Pouch&lt;/font&gt;
 &lt;br&gt;&lt;br&gt;
-&lt;font font_xml = "tooltip_guide_body"&gt;Invoca um mascote com uma sacola.&lt;/font&gt;
+&lt;font font_xml = "tooltip_guide_body"&gt;Summon a pet with a pouch to use its pouch.&lt;/font&gt;
 &lt;/html&gt;</body>
   </string>
   <string>
     <id>912681</id>
     <name>STR_TOYPET_DIALOG__WAREHOUSE_BUTTON</name>
     <body>&lt;html&gt;
-&lt;font font_xml = "tooltip_guide_title"&gt;Sacola integrada do mascote&lt;/font&gt;
+&lt;font font_xml = "tooltip_guide_title"&gt;Integrated Pet Pouch&lt;/font&gt;
 &lt;br&gt;&lt;br&gt;
-&lt;font font_xml = "tooltip_guide_body"&gt;Todas as sacolas dos mascotes adotados podem ser visualizadas. Precisa invocar um mascote para usar a sacola.&lt;/font&gt;
+&lt;font font_xml = "tooltip_guide_body"&gt;You can check the pouches of all the pets you have. You can only use pouches of pets that are summoned.&lt;/font&gt;
 &lt;/html&gt;</body>
   </string>
   <string>
     <id>912682</id>
     <name>STR_RANK_DIALOG__RANK_BADGE_DURATION_TIME</name>
-    <body>Tempo restante para o selo: </body>
+    <body>Remaining time for the selected badge: </body>
   </string>
   <string>
     <id>912683</id>
     <name>STR_LUCKYDICE_DIALOG_END</name>
-    <body>Você esgotou seu número máximo de reinícios de jogo.</body>
+    <body>No Reset Game attempts remaining.</body>
   </string>
   <string>
     <id>912684</id>
     <name>STR_MAILBOX_DIALOG__TAKEALL</name>
-    <body>Pegar Tudo</body>
+    <body>Take All</body>
   </string>
   <string>
     <id>912685</id>
     <name>STR_VENDOR_WORLD_DIALOG__TITLE</name>
-    <body>Global Auction House</body>
+    <body>Integrated World Exchange</body>
   </string>
   <string>
     <id>912686</id>
     <name>STR_VENDOR_WORLD_DIALOG__TAB_KINA</name>
-    <body>Kinah</body>
+    <body>Kinah List</body>
   </string>
   <string>
     <id>912687</id>
     <name>STR_VENDOR_WORLD_DIALOG__TAB_ITEM</name>
-    <body>Itens</body>
+    <body>Item List</body>
   </string>
   <string>
     <id>912688</id>
     <name>STR_VENDOR_WORLD_DIALOG__TAB_REGISTRATION</name>
-    <body>Registrar</body>
+    <body>For Sale</body>
   </string>
   <string>
     <id>912689</id>
     <name>STR_VENDOR_WORLD_DIALOG__TAB_INCOME</name>
-    <body>Receitas</body>
+    <body>Collect</body>
   </string>
   <string>
     <id>912690</id>
     <name>STR_VENDOR_WORLD_DIALOG__TAB_INCOME_RECORD</name>
-    <body>Detalhes da fatura</body>
+    <body>Transaction History</body>
   </string>
   <string>
     <id>912691</id>
     <name>STR_VENDOR_WORLD_DIALOG__COLUMN_KINA</name>
-    <body>Bens de Kinah</body>
+    <body>Kinah Product</body>
   </string>
   <string>
     <id>912692</id>
     <name>STR_VENDOR_WORLD_DIALOG__COLUMN_ITEM</name>
-    <body>Itens</body>
+    <body>Item</body>
   </string>
   <string>
     <id>912693</id>
     <name>STR_VENDOR_WORLD_DIALOG__COLUMN_SALE_PRICE</name>
-    <body>Preço de Venda</body>
+    <body>Sale Amount</body>
   </string>
   <string>
     <id>912694</id>
     <name>STR_VENDOR_WORLD_DIALOG__COLUMN_INCOME_PRICE</name>
-    <body>Receitas</body>
+    <body>Settlement Amount</body>
   </string>
   <string>
     <id>912695</id>
     <name>STR_VENDOR_WORLD_DIALOG__COLUMN_KINA_PRICE_PIECE</name>
-    <body>Quantidade em 10 milhões</body>
+    <body>Price in ten millions</body>
   </string>
   <string>
     <id>912696</id>
     <name>STR_VENDOR_WORLD_DIALOG__COLUMN_ITEM_PRICE_PIECE</name>
-    <body>Preço Unitário</body>
+    <body>Sale Price per Unit</body>
   </string>
   <string>
     <id>912697</id>
     <name>STR_VENDOR_WORLD_DIALOG__COLUMN_DEADLINE</name>
-    <body>Fim do tempo</body>
+    <body>End Time</body>
   </string>
   <string>
     <id>912698</id>
     <name>STR_VENDOR_WORLD_DIALOG__COLUMN_SALE_DATE</name>
-    <body>Horário de Vendas</body>
+    <body>Sales Hour</body>
   </string>
   <string>
     <id>912699</id>
     <name>STR_VENDOR_WORLD_DIALOG__REGISTRATION_AMOUNT</name>
-    <body>Quantidade registrada</body>
+    <body>Registered Quantity</body>
   </string>
   <string>
     <id>912700</id>
     <name>STR_VENDOR_WORLD_DIALOG__REFRESH_BUTTON</name>
-    <body>Atualizar</body>
+    <body>Refresh</body>
   </string>
   <string>
     <id>912701</id>
     <name>STR_VENDOR_WORLD_DIALOG__BUY_BUTTON</name>
-    <body>Comprar</body>
+    <body>Buy</body>
   </string>
   <string>
     <id>912702</id>
     <name>STR_VENDOR_WORLD_DIALOG__INCOME_EXE_BUTTON</name>
-    <body>Receitas</body>
+    <body>Collect</body>
   </string>
   <string>
     <id>912703</id>
     <name>STR_VENDOR_WORLD_DIALOG__SALE_CANCLE_BUTTON</name>
-    <body>Cancelar Venda</body>
+    <body>Cancel Sale</body>
   </string>
   <string>
     <id>912704</id>
     <name>STR_VENDOR_WORLD_DIALOG__SALE_KINA_BUTTON</name>
-    <body>Digitar Kinah</body>
+    <body>Transfer Kinah</body>
   </string>
   <string>
     <id>912705</id>
     <name>STR_VENDOR_WORLD_DIALOG__RACE_VIEW_CHECK</name>
-    <body>Por Facção</body>
+    <body>Faction Exclusive</body>
   </string>
   <string>
     <id>912706</id>
     <name>STR_VENDOR_WORLD_DIALOG__FEE_TITLE</name>
-    <body>Custos de registro:</body>
+    <body>Registration Fee:</body>
   </string>
   <string>
     <id>912707</id>
@@ -14033,129 +14038,134 @@
   <string>
     <id>912708</id>
     <name>STR_VENDOR_WORLD_DIALOG__REGISTRATION_TOTAL_PRICE</name>
-    <body>Preço Estimado</body>
+    <body>Estimated Sales</body>
   </string>
   <string>
     <id>912709</id>
     <name>STR_VENDOR_WORLD_DIALOG__INCOME_TOTAL_PRICE_DESC</name>
-    <body>Rendimento total</body>
+    <body>Total Settlement Amount</body>
   </string>
   <string>
     <id>912710</id>
     <name>STR_VENDOR_WORLD_DIALOG__BUY_KINA_TITLE</name>
-    <body>Comprar Kinah</body>
+    <body>Buy Kinah</body>
   </string>
   <string>
     <id>912711</id>
     <name>STR_VENDOR_WORLD_DIALOG__BUY_ITEM_TITLE</name>
-    <body>Itens de compra</body>
+    <body>Buy</body>
   </string>
   <string>
     <id>912712</id>
     <name>STR_VENDOR_WORLD_DIALOG__MY_QUNA_TITLE</name>
-    <body>Sua Quna</body>
+    <body>Current Quna</body>
   </string>
   <string>
     <id>912713</id>
     <name>STR_VENDOR_WORLD_DIALOG__PURCHASE_MSG</name>
-    <body>Deseja concluir a compra?</body>
+    <body>Buy the item?</body>
   </string>
   <string>
     <id>912714</id>
     <name>STR_VENDOR_WORLD_DIALOG__SALE_KINA_TITLE</name>
-    <body>Entrar Kinah</body>
+    <body>Transfer Kinah</body>
   </string>
   <string>
     <id>912715</id>
     <name>STR_VENDOR_WORLD_DIALOG__SALE_ITEM_TITLE</name>
-    <body>Registrar item</body>
+    <body>Register Item</body>
   </string>
   <string>
     <id>912716</id>
     <name>STR_VENDOR_WORLD_DIALOG__SALE_AMOUNT_TITLE</name>
-    <body>Valor de venda</body>
+    <body>Sale Quantity</body>
   </string>
   <string>
     <id>912717</id>
     <name>STR_VENDOR_WORLD_DIALOG__KINA_AMOUNT_ADD_10M</name>
-    <body>10 milhões de Kinah</body>
+    <body>10,000,000 Kinah</body>
   </string>
   <string>
     <id>912718</id>
     <name>STR_VENDOR_WORLD_DIALOG__KINA_AMOUNT_ADD_50M</name>
-    <body>50 milhões de Kinah</body>
+    <body>50,000,000 Kinah</body>
   </string>
   <string>
     <id>912719</id>
     <name>STR_VENDOR_WORLD_DIALOG__KINA_AMOUNT_ADD_1HM</name>
-    <body>100 milhões de Kinah</body>
+    <body>100,000,000 Kinah</body>
   </string>
   <string>
     <id>912720</id>
     <name>STR_VENDOR_WORLD_DIALOG__KINA_AMOUNT_ADD_BILLION</name>
-    <body>1 bilhão de Kinah</body>
+    <body>1,000,000,000 Kinah</body>
   </string>
   <string>
     <id>912721</id>
     <name>STR_VENDOR_WORLD_DIALOG__FEE_INFO</name>
-    <body>Informações sobre taxas</body>
+    <body>Fee Info</body>
   </string>
   <string>
     <id>912722</id>
     <name>STR_VENDOR_WORLD_DIALOG__FEE_STEP</name>
-    <body>Prestação</body>
+    <body>Fee Level</body>
   </string>
   <string>
     <id>912723</id>
     <name>STR_VENDOR_WORLD_DIALOG__FEE_REGISTRATION</name>
-    <body>Custos de registro</body>
+    <body>Registration Fee</body>
   </string>
   <string>
     <id>912724</id>
     <name>STR_VENDOR_WORLD_DIALOG__FEE_ACCOUNT</name>
-    <body>Taxa da receita</body>
+    <body>Settlement Fee</body>
   </string>
   <string>
     <id>912725</id>
     <name>STR_VENDOR_WORLD_DIALOG__SALE_PRICE_MSG</name>
-    <body>Digite o preço de venda.</body>
+    <body>Enter the sale price.</body>
   </string>
   <string>
     <id>912726</id>
     <name>STR_VENDOR_WORLD_DIALOG__TOTAL_SALE_DESC</name>
-    <body>&lt;Valor da venda&gt;
-Vender tudo dentro do valor registrado</body>
+    <body>&lt;Sale Quantity&gt;
+Sell as much as has been registered</body>
   </string>
   <string>
     <id>912727</id>
     <name>STR_VENDOR_WORLD_DIALOG__TOTAL_SALE_KINA_DESC</name>
-    <body>&lt;Limite de registro&gt;
-Limitado a 1 bilhão por semana</body>
+    <body>&lt;Registration Limit&gt;
+Up to 1,000,000,000 every week</body>
   </string>
   <string>
     <id>912728</id>
     <name>STR_VENDOR_WORLD_DIALOG__KINA_AMOUNT_MSG</name>
-    <body>Escolha um valor de Kinah que deseja vender.</body>
+    <body>Adjust the amount of Kinah to sell.</body>
   </string>
   <string>
     <id>912729</id>
     <name>STR_VENDOR_WORLD_DIALOG__SALE_CHECK</name>
-    <body>Confirmar</body>
+    <body>Confirm Registration</body>
   </string>
   <string>
     <id>912730</id>
     <name>STR_VENDOR_WORLD_DIALOG__SAKE_CHECK_MSG</name>
-    <body>Registrar o item para venda?</body>
+    <body>Register item for sale?</body>
   </string>
   <string>
     <id>912731</id>
     <name>STR_VENDOR_WORLD_DIALOG__KINA_PRICE_PIECE_INFO</name>
-    <body>Informação de preço (por 10 milhões de Kinah)</body>
+    <body>Market Price Info (in ten millions)</body>
   </string>
   <string>
     <id>912732</id>
     <name>STR_VENDOR_WORLD_DIALOG__ITEM_PRICE_PIECE</name>
-    <body>Informação de preço (por peça)</body>
+    <body>Market Price Info (per unit)</body>
+  </string>
+  <string>
+    <id>912733</id>
+    <name>STR_TRADE_DIALOG__ITEM_TABFRAME_WIDGET</name>
+    <body>Shopping Cart</body>
   </string>
   <string>
     <id>912734</id>
@@ -14163,32 +14173,32 @@ Limitado a 1 bilhão por semana</body>
     <body>&lt;html&gt;
 &lt;font font_xml = "tooltip_guide_title"&gt;What is a Dimensional Crystal?&lt;/font&gt;
 &lt;br&gt;&lt;br&gt;
-&lt;font font_xml = "tooltip_guide_body"&gt;The crystals are required for polishing.&lt;/font&gt;&lt;br&gt;
-&lt;font font_xml = "tooltip_guide_body"&gt;You can purchase Dimensional Crystals from &lt;font color="62C15B"&gt;Dimensinerk&lt;/font&gt; in the capital city.&lt;/font&gt;
+&lt;font font_xml = "tooltip_guide_body"&gt;A crystal needed for refinement.&lt;/font&gt;&lt;br&gt;
+&lt;font font_xml = "tooltip_guide_body"&gt;Dimensional Crystals are sold by &lt;font color="62C15B"&gt;Nethernerk&lt;/font&gt; in big cities.&lt;/font&gt;
 &lt;/html&gt;</body>
   </string>
   <string>
     <id>912735</id>
     <name>STR_VENDOR_WORLD_DIALOG__PURCHASE_PRICE</name>
-    <body>Preço de compra</body>
+    <body>Purchase Amount</body>
   </string>
   <string>
     <id>912736</id>
     <name>STR_VENDOR_WORLD_DIALOG__PURCHASE_AMOUNT</name>
-    <body>Quantidade de compra</body>
+    <body>Purchase Quantity</body>
   </string>
   <string>
     <id>912737</id>
     <name>STR_VENDOR_WORLD_DIALOG__PURCHASE_PRICE_PIECE</name>
-    <body>Preço Unitário</body>
+    <body>Purchase Price per Unit</body>
   </string>
   <string>
     <id>912738</id>
     <name>STR_GACHA_DIALOG__FEVER_GAUGE_INFO_TOOLTIP</name>
     <body>&lt;html&gt;
-&lt;font font_xml = "tooltip_guide_title"&gt;Nyerk Fever Display&lt;/font&gt;
+&lt;font font_xml = "tooltip_guide_title"&gt;Frenzy Gauge&lt;/font&gt;
 &lt;br&gt;&lt;br&gt;
-&lt;font font_xml = "tooltip_guide_body"&gt;Shows received Shugo Game Pontos.&lt;/font&gt;
+&lt;font font_xml = "tooltip_guide_body"&gt;Displays the accrued Frenzy Points.&lt;/font&gt;
 &lt;/html&gt;</body>
   </string>
   <string>
@@ -14197,68 +14207,2658 @@ Limitado a 1 bilhão por semana</body>
     <body>&lt;html&gt;
 &lt;font font_xml = "tooltip_guide_title"&gt;Dimensional Star&lt;/font&gt;
 &lt;br&gt;&lt;br&gt;
-&lt;font font_xml = "tooltip_guide_body"&gt;You receive Dimensional Stars when Nyerk Fever is activated.&lt;/font&gt;&lt;br&gt;
-&lt;font font_xml = "tooltip_guide_body"&gt;Collect 4 Dimensional Stars to receive a &lt;font color="62C15B"&gt;Dimensional Gift&lt;/font&gt; (this consumes the stars.)&lt;/font&gt;
+&lt;font font_xml = "tooltip_guide_body"&gt;You get Dimensional Stars when Refinement Frenzy! is triggered.&lt;/font&gt;&lt;br&gt;
+&lt;font font_xml = "tooltip_guide_body"&gt;You can get a &lt;font color="62C15B"&gt;Dimensional Gift&lt;/font&gt; by collecting 4 Dimensional Stars, and the stars disappear when you receive the gift.&lt;/font&gt;
 &lt;/html&gt;</body>
+  </string>
+  <string>
+    <id>912740</id>
+    <name>STR_TRADE_DIALOG__TITLE</name>
+    <body>Sell</body>
   </string>
   <string>
     <id>912741</id>
     <name>STR_VENDOR_WORLD_DIALOG__QINA_QUICK_TITLE</name>
-    <body>Definir valor de Kinah</body>
+    <body>Kinah Quantity Setting Support</body>
+  </string>
+  <string>
+    <id>912742</id>
+    <name>STR_INDUN_ACCOUNT_IDF4Re_Solo_DIALOG__SCORE</name>
+    <body>Score</body>
   </string>
   <string>
     <id>912743</id>
     <name>STR_VENDOR_WORLD_DIALOG__PAPER_DOLL_GUIDE</name>
-    <body>Os itens equipados podem ser visualizados pressionando CTRL + clique esquerdo no ícone em [Visualização].</body>
+    <body>Ctrl+left-click an item to [Preview] the equipment item.</body>
   </string>
   <string>
     <id>912744</id>
     <name>STR_VENDOR_WORLD_DIALOG__QINA_BOX_GUIDE</name>
-    <body>Os Kinah comprados são colocados em seu inventário (cubo) como um pacote.</body>
+    <body>Purchased Kinah is sent to your inventory (Cube) as a bundle.</body>
   </string>
   <string>
     <id>912745</id>
     <name>STR_VENDOR_WORLD_DIALOG__REGISTRATION_NOTICE</name>
-    <body>Você pode registrar itens clicando com o botão direito do mouse ou arrastando-os para a janela.</body>
+    <body>Right-click or drag the item to the window to register it.</body>
   </string>
   <string>
     <id>912746</id>
     <name>STR_VENDOR_WORLD_DIALOG__INCOME_TIP</name>
-    <body>Um cálculo de receita é criado para os últimos 28 dias.</body>
+    <body>The settlement history shows items within the last 28 days.</body>
   </string>
   <string>
     <id>912747</id>
     <name>STR_VENDOR_WORLD_DIALOG__NO_QINA_MSG</name>
-    <body>Nenhum item de venda registrado disponível.</body>
+    <body>No Kinah product is registered in the Exchange.</body>
   </string>
   <string>
     <id>912748</id>
     <name>STR_VENDOR_WORLD_DIALOG__NO_RECORD_MSG</name>
-    <body>Nenhuma receita disponível nos últimos 28 dias.</body>
+    <body>No settlement history within the last 28 days.</body>
   </string>
   <string>
     <id>912749</id>
     <name>STR_VENDOR_WORLD_DIALOG__ACCOUNT_TIP</name>
-    <body>Será cobrada uma taxa nas parcelas no ato da inscrição.</body>
+    <body>The settlement fee is calculated at the time of the registration [Level Fee].</body>
+  </string>
+  <string>
+    <id>912750</id>
+    <name>STR_VENDOR_WORLD_DIALOG__HELP_FEE</name>
+    <body>&lt;html&gt;
+&lt;font font_xml = "tooltip_guide_title"&gt; Fee Info&lt;/font&gt;
+&lt;table border="1" cellspacing="0" bordercolor="gray"&gt;
+&lt;tr &gt;&lt;td align="center" width="80"&gt;-&lt;/td&gt;&lt;td align="center" width="60"&gt;Level 1&lt;/td&gt;&lt;td align="center" width="60"&gt;Level 2&lt;/td&gt;&lt;/tr&gt;
+&lt;tr &gt;&lt;td align="center"&gt;Register (Kinah)&lt;/td&gt;&lt;td align="right"&gt;%0%&lt;/td&gt;&lt;td align="right"&gt;%1%&lt;/td&gt;&lt;/tr&gt;
+&lt;tr &gt;&lt;td align="center" &gt;Settlement (Quna)&lt;/td&gt;&lt;td align="right"&gt;%2%&lt;/td&gt;&lt;td align="right"&gt;%3%&lt;/td&gt;&lt;/tr&gt; 
+&lt;/table&gt;&lt;br&gt;&lt;br&gt;
+&lt;/html&gt;</body>
+  </string>
+  <string>
+    <id>912751</id>
+    <name>STR_INVENTORY_DIALOG__TOOLTIP_CUBE_TAB_FUNCTION</name>
+    <body>&lt;html&gt;
+&lt;font font_xml = "tooltip_guide_title"&gt;Cube&lt;/font&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;font font_xml = "tooltip_guide_body"&gt;Right-click the Cube feature to use it.&lt;/font&gt;
+&lt;/html&gt;</body>
+  </string>
+  <string>
+    <id>912752</id>
+    <name>STR_VENDOR_WORLD_DIALOG__ACCOUNT_FEE</name>
+    <body>The settlement fee is 8%.</body>
+  </string>
+  <string>
+    <id>912753</id>
+    <name>STR_STORYBOOK_DIALOG_MAIN_TITLE</name>
+    <body>Storybook</body>
+  </string>
+  <string>
+    <id>912754</id>
+    <name>STR_STORYBOOK_DIALOG_PUZZLE_TAB</name>
+    <body>Ancient Art</body>
+  </string>
+  <string>
+    <id>912755</id>
+    <name>STR_STORYBOOK_DIALOG_NATURE_TAB</name>
+    <body>Essence of Nature</body>
+  </string>
+  <string>
+    <id>912756</id>
+    <name>STR_STORYBOOK_DIALOG_ADVENTURE_TAB</name>
+    <body>Book of Adventure</body>
+  </string>
+  <string>
+    <id>912757</id>
+    <name>STR_STORYBOOK_DIALOG_LIST</name>
+    <body>List</body>
+  </string>
+  <string>
+    <id>912758</id>
+    <name>STR_STORYBOOK_DIALOG_REGISTRATION_BUTTON</name>
+    <body>Register</body>
+  </string>
+  <string>
+    <id>912759</id>
+    <name>STR_STORYBOOK_DIALOG_REWARD</name>
+    <body>Reward</body>
+  </string>
+  <string>
+    <id>912760</id>
+    <name>STR_SEARCH_GUILD_DIALOG__TITLE</name>
+    <body>Search Legion</body>
+  </string>
+  <string>
+    <id>912761</id>
+    <name>STR_SEARCH_GUILD_DIALOG__APPLYING_GUILD_NAME</name>
+    <body>Applied To</body>
+  </string>
+  <string>
+    <id>912762</id>
+    <name>STR_SEARCH_GUILD_DIALOG__COMBO_GUILD_NAME</name>
+    <body>Legion Name</body>
+  </string>
+  <string>
+    <id>912763</id>
+    <name>STR_SEARCH_GUILD_DIALOG__COMBO_GUILD_INTRO</name>
+    <body>Legion Intro</body>
+  </string>
+  <string>
+    <id>912764</id>
+    <name>STR_SEARCH_GUILD_DIALOG__SEARCH</name>
+    <body>Search</body>
+  </string>
+  <string>
+    <id>912765</id>
+    <name>STR_SEARCH_GUILD_DIALOG__SEARCH_CANCEL</name>
+    <body>Reset</body>
+  </string>
+  <string>
+    <id>912766</id>
+    <name>STR_SEARCH_GUILD_DIALOG__GUILD_NAME</name>
+    <body>Legion Name</body>
+  </string>
+  <string>
+    <id>912767</id>
+    <name>STR_SEARCH_GUILD_DIALOG__GUILD_MASTER</name>
+    <body>Brigade General</body>
+  </string>
+  <string>
+    <id>912768</id>
+    <name>STR_SEARCH_GUILD_DIALOG__GUILD_LEVEL</name>
+    <body>Level</body>
+  </string>
+  <string>
+    <id>912769</id>
+    <name>STR_SEARCH_GUILD_DIALOG__MEMBER_COUNT</name>
+    <body>Member</body>
+  </string>
+  <string>
+    <id>912770</id>
+    <name>STR_SEARCH_GUILD_DIALOG__RECENTLY_ONLINE</name>
+    <body>Recent login</body>
+  </string>
+  <string>
+    <id>912771</id>
+    <name>STR_SEARCH_GUILD_DIALOG__RESTRICT_LEVEL</name>
+    <body>Level Restriction</body>
+  </string>
+  <string>
+    <id>912772</id>
+    <name>STR_SEARCH_GUILD_DIALOG__INTRODUCTION</name>
+    <body>Introduction</body>
+  </string>
+  <string>
+    <id>912773</id>
+    <name>STR_SEARCH_GUILD_DIALOG__JOIN</name>
+    <body>Join</body>
+  </string>
+  <string>
+    <id>912774</id>
+    <name>STR_GUILD_JOIN_DIALOG__TITLE</name>
+    <body>Join Legion Settings</body>
+  </string>
+  <string>
+    <id>912775</id>
+    <name>STR_GUILD_JOIN_DIALOG__TAB_SETTING</name>
+    <body>Membership Setting</body>
+  </string>
+  <string>
+    <id>912776</id>
+    <name>STR_GUILD_JOIN_DIALOG__TAB_APPLICANT</name>
+    <body>Applicants</body>
+  </string>
+  <string>
+    <id>912777</id>
+    <name>STR_GUILD_JOIN_DIALOG__JOIN_TYPE</name>
+    <body>App Process</body>
+  </string>
+  <string>
+    <id>912778</id>
+    <name>STR_GUILD_JOIN_DIALOG__RESTRICT_LEVEL</name>
+    <body>App Lv. Req.</body>
+  </string>
+  <string>
+    <id>912779</id>
+    <name>STR_GUILD_JOIN_DIALOG__INTRODUCTION</name>
+    <body>Enter an introduction &lt;max 32 letters&gt;</body>
+  </string>
+  <string>
+    <id>912780</id>
+    <name>STR_GUILD_JOIN_DIALOG__APPLICANT_NAME</name>
+    <body>Name</body>
+  </string>
+  <string>
+    <id>912781</id>
+    <name>STR_GUILD_JOIN_DIALOG__APPLICANT_CLASS</name>
+    <body>Class</body>
+  </string>
+  <string>
+    <id>912782</id>
+    <name>STR_GUILD_JOIN_DIALOG__APPLICANT_LEVEL</name>
+    <body>Level</body>
+  </string>
+  <string>
+    <id>912783</id>
+    <name>STR_GUILD_JOIN_DIALOG__APPLICANT_INTRODUCTION</name>
+    <body>Introduction</body>
+  </string>
+  <string>
+    <id>912784</id>
+    <name>STR_GUILD_JOIN_DIALOG__APPROVAL</name>
+    <body>Approve</body>
+  </string>
+  <string>
+    <id>912785</id>
+    <name>STR_GUILD_JOIN_DIALOG__REFUSAL</name>
+    <body>Decline</body>
+  </string>
+  <string>
+    <id>912786</id>
+    <name>STR_SEARCH_GUILD_DIALOG__APPLY_CANCEL</name>
+    <body>Cancel Application</body>
+  </string>
+  <string>
+    <id>912787</id>
+    <name>STR_GUILD_JOIN_DIALOG__JOIN_OPEN</name>
+    <body>Anyone</body>
+  </string>
+  <string>
+    <id>912788</id>
+    <name>STR_GUILD_JOIN_DIALOG__JOIN_APPROVAL</name>
+    <body>Only approved applicants</body>
+  </string>
+  <string>
+    <id>912789</id>
+    <name>STR_GUILD_JOIN_DIALOG__JOIN_CLOSE</name>
+    <body>Cannot join</body>
+  </string>
+  <string>
+    <id>912790</id>
+    <name>STR_DLG_GUILD_AUTH__WIDGET19</name>
+    <body>Perform Craft / Set Favorites</body>
+  </string>
+  <string>
+    <id>912791</id>
+    <name>STR_DLG_GUILD_AUTH__WIDGET20</name>
+    <body>Buff Enchant / Activate / Reset</body>
+  </string>
+  <string>
+    <id>912792</id>
+    <name>STR_PLAYER_INFO_DIALOG__COMBATPOWER</name>
+    <body>Daeva Potential</body>
+  </string>
+  <string>
+    <id>912793</id>
+    <name>STR_PLAYER_INFO_DIALOG__COMBATPOWER_TOOLTIP</name>
+    <body>For Potential Tooltip</body>
+  </string>
+  <string>
+    <id>912794</id>
+    <name>STR_COMBAT_POWER_DIALOG__RANK</name>
+    <body>Daeva Potential</body>
+  </string>
+  <string>
+    <id>912795</id>
+    <name>STR_COMBAT_POWER_DIALOG__MY_POWER</name>
+    <body>My Daeva Potential</body>
+  </string>
+  <string>
+    <id>912796</id>
+    <name>STR_COMBAT_POWER_DIALOG__TITLE</name>
+    <body>Daeva Potential</body>
+  </string>
+  <string>
+    <id>912797</id>
+    <name>STR_COMBAT_POWER_DIALOG__REWARD_TITLE</name>
+    <body>Daeva Potential Reward</body>
+  </string>
+  <string>
+    <id>912798</id>
+    <name>STR_COMBAT_POWER_DIALOG__GOAL_INFO</name>
+    <body>Target Daeva Potential</body>
+  </string>
+  <string>
+    <id>912799</id>
+    <name>STR_SEARCH_GUILD_DIALOG__GUILD_ACTIVITY</name>
+    <body>Main Activity</body>
+  </string>
+  <string>
+    <id>912800</id>
+    <name>STR_SEARCH_GUILD_DIALOG__GUILD_GROWTH_LEVEL</name>
+    <body>Growth Stage</body>
+  </string>
+  <string>
+    <id>912801</id>
+    <name>STR_GUILD_JOIN_DIALOG__GUILD_ACTIVITY</name>
+    <body>Main Activity</body>
+  </string>
+  <string>
+    <id>912802</id>
+    <name>STR_GUILD_JOIN_DIALOG_ACTIVITY_PVP</name>
+    <body>PvP</body>
+  </string>
+  <string>
+    <id>912803</id>
+    <name>STR_GUILD_JOIN_DIALOG_ACTIVITY_PVE</name>
+    <body>PvE</body>
+  </string>
+  <string>
+    <id>912804</id>
+    <name>STR_GUILD_JOIN_DIALOG_ACTIVITY_COLLECT</name>
+    <body>Gather / Craft</body>
+  </string>
+  <string>
+    <id>912805</id>
+    <name>STR_GUILD_JOIN_DIALOG_ACTIVITY_PRODUCTION</name>
+    <body>Craft</body>
+  </string>
+  <string>
+    <id>912806</id>
+    <name>STR_GUILD_JOIN_DIALOG_ACTIVITY_FRIENDSHIP</name>
+    <body>Social</body>
+  </string>
+  <string>
+    <id>912807</id>
+    <name>STR_GUILD_JOIN_DIALOG_ACTIVITY_FREEDOM</name>
+    <body>Free</body>
+  </string>
+  <string>
+    <id>912808</id>
+    <name>STR_DLG_GUILD_INFO__GUILD_TABFRAME_GUILD_TAB_MAIN</name>
+    <body>Legion</body>
+  </string>
+  <string>
+    <id>912809</id>
+    <name>STR_DLG_GUILD_INFO__GUILD_TABFRAME_GUILD_TAB_DONATION</name>
+    <body>Coin Production</body>
+  </string>
+  <string>
+    <id>912810</id>
+    <name>STR_DLG_GUILD_INFO__GUILD_TABFRAME_GUILD_TAB_MISSION</name>
+    <body>Campaign</body>
+  </string>
+  <string>
+    <id>912811</id>
+    <name>STR_DLG_GUILD_INFO__GUILD_TABFRAME_GUILD_TAB_PRODUCTION</name>
+    <body>Craft</body>
+  </string>
+  <string>
+    <id>912812</id>
+    <name>STR_DLG_GUILD_INFO__GUILD_TABFRAME_GUILD_TAB_BUFF</name>
+    <body>Buff</body>
+  </string>
+  <string>
+    <id>912813</id>
+    <name>STR_DLG_GUILD_INFO__WIDGET6</name>
+    <body>Legion Essence</body>
+  </string>
+  <string>
+    <id>912814</id>
+    <name>STR_DLG_GUILD_INFO__COMMON_COIN</name>
+    <body>0</body>
+  </string>
+  <string>
+    <id>912815</id>
+    <name>STR_DLG_GUILD_INFO__WIDGET7</name>
+    <body>Legion Personal Coin</body>
+  </string>
+  <string>
+    <id>912816</id>
+    <name>STR_DLG_GUILD_INFO__PERSONAL_COIN</name>
+    <body>0</body>
+  </string>
+  <string>
+    <id>912817</id>
+    <name>STR_DLG_GUILD_INFO__WIDGET8</name>
+    <body>Growth Stage</body>
+  </string>
+  <string>
+    <id>912818</id>
+    <name>STR_DLG_GUILD_INFO__GROWTH_LEVEL</name>
+    <body>Level</body>
+  </string>
+  <string>
+    <id>912819</id>
+    <name>STR_DLG_GUILD_INFO__WIDGET9</name>
+    <body>Growth XP</body>
+  </string>
+  <string>
+    <id>912820</id>
+    <name>STR_DLG_GUILD_INFO__GROWTH_EXP</name>
+    <body>%num0/%num1</body>
+  </string>
+  <string>
+    <id>912821</id>
+    <name>STR_DLG_GUILD_INFO__COLUMN_HEAD_CONTRIBUTIVENESS</name>
+    <body>Contribution (Weekly/Total)</body>
+  </string>
+  <string>
+    <id>912822</id>
+    <name>STR_DLG_GUILD_INFO__GUILD_MISSION_TAB_DAILY</name>
+    <body>Daily Mission</body>
+  </string>
+  <string>
+    <id>912823</id>
+    <name>STR_DLG_GUILD_INFO__GUILD_MISSION_TAB_WEEKLY</name>
+    <body>Weekly Mission</body>
+  </string>
+  <string>
+    <id>912824</id>
+    <name>STR_DLG_GUILD_MISSION_COMPLETE_TITLE_DAILY</name>
+    <body>Daily Mission Reward</body>
+  </string>
+  <string>
+    <id>912825</id>
+    <name>STR_DLG_GUILD_MISSION_COMPLETE_TITLE_WEEKLY</name>
+    <body>Weekly Mission Reward</body>
+  </string>
+  <string>
+    <id>912826</id>
+    <name>STR_LOBBY_LOGIN__CREDIT_SHOW_VER_2_7</name>
+    <body>AION REVENANT</body>
+  </string>
+  <string>
+    <id>912827</id>
+    <name>STR_IDARENA_TEAM_DIALOG</name>
+    <body>Results</body>
+  </string>
+  <string>
+    <id>912828</id>
+    <name>STR_IDARENA_TEAM_DIALOG__PARTY_RANK</name>
+    <body>Group Rank</body>
+  </string>
+  <string>
+    <id>912829</id>
+    <name>STR_IDARENA_TEAM_DIALOG__PARTY_SCORE</name>
+    <body>Group Score</body>
+  </string>
+  <string>
+    <id>912830</id>
+    <name>STR_IDARENA_TEAM_DIALOG__COL_RANK</name>
+    <body>Ranking</body>
+  </string>
+  <string>
+    <id>912831</id>
+    <name>STR_IDARENA_TEAM_DIALOG__COL_NAME</name>
+    <body>Group Name</body>
+  </string>
+  <string>
+    <id>912832</id>
+    <name>STR_IDARENA_TEAM_DIALOG__COL_KILL</name>
+    <body>Kills</body>
+  </string>
+  <string>
+    <id>912833</id>
+    <name>STR_IDARENA_TEAM_DIALOG__COL_SCORE</name>
+    <body>Points</body>
+  </string>
+  <string>
+    <id>912834</id>
+    <name>STR_IDARENA_TEAM_DIALOG__COL_BONUS_SCORE</name>
+    <body>Rank Bonus</body>
+  </string>
+  <string>
+    <id>912835</id>
+    <name>STR_IDARENA_TEAM_DIALOG__COL_TOTAL_SCORE</name>
+    <body>Total Score</body>
+  </string>
+  <string>
+    <id>912836</id>
+    <name>STR_IDARENA_TEAM_DIALOG__LEAVE</name>
+    <body>Exit</body>
+  </string>
+  <string>
+    <id>912837</id>
+    <name>STR_IDARENA_TEAM_RANK_DIALOG</name>
+    <body>Ranking Data</body>
+  </string>
+  <string>
+    <id>912838</id>
+    <name>STR_IDARENA_TEAM_RANK_DIALOG__COL_NAME</name>
+    <body>Group Name</body>
+  </string>
+  <string>
+    <id>912839</id>
+    <name>STR_IDARENA_TEAM_RANK_DIALOG__COL_SCORE</name>
+    <body>Score</body>
+  </string>
+  <string>
+    <id>912840</id>
+    <name>STR_IDARENA_TEAM_DIALOG__COL_PARTICIPATION</name>
+    <body>Participation</body>
+  </string>
+  <string>
+    <id>912841</id>
+    <name>STR_IDARENA_TEAM_DIALOG__REWARD_DEFT</name>
+    <body>Basic Reward</body>
+  </string>
+  <string>
+    <id>912842</id>
+    <name>STR_IDARENA_TEAM_DIALOG__REWARD_RANK</name>
+    <body>Rank Reward</body>
+  </string>
+  <string>
+    <id>912843</id>
+    <name>STR_IDARENA_TEAM_DIALOG__REWARD_PLAY</name>
+    <body>Score Reward</body>
+  </string>
+  <string>
+    <id>912844</id>
+    <name>STR_IDARENA_TEAM_DIALOG__REWARD_TOTAL</name>
+    <body>Total Reward</body>
+  </string>
+  <string>
+    <id>912845</id>
+    <name>STR_GUILDDONATION_MY_DONATION_TITLE</name>
+    <body>My Continuous Coin Production Status</body>
+  </string>
+  <string>
+    <id>912846</id>
+    <name>STR_GUILDDONATION_MY_DONATION_REWARD</name>
+    <body>Continuous Coin Production Reward</body>
+  </string>
+  <string>
+    <id>912847</id>
+    <name>STR_GUILDDONATION_GUILD_DONATION_TITLE</name>
+    <body>Legion Daily Coin Production Status</body>
+  </string>
+  <string>
+    <id>912848</id>
+    <name>STR_GUILD_DONATION_GUILD_COUNT_REWARD</name>
+    <body>Production Points Reward</body>
+  </string>
+  <string>
+    <id>912849</id>
+    <name>STR_DLG_GUILD_DONATION__DONATION</name>
+    <body>Required Materials</body>
+  </string>
+  <string>
+    <id>912850</id>
+    <name>STR_DLG_GUILD_DONATION__REWARD</name>
+    <body>Result</body>
+  </string>
+  <string>
+    <id>912851</id>
+    <name>STR_DLG_GUILD_DONATION__REWARD_BUTTON</name>
+    <body>Crafting</body>
+  </string>
+  <string>
+    <id>912852</id>
+    <name>STR_GUILD_DONATION_DIALOG__TITLE</name>
+    <body>Crafting</body>
+  </string>
+  <string>
+    <id>912853</id>
+    <name>STR_DLG_GUILD_INFO__GUILD_BUFF_TAB_01</name>
+    <body>PvE</body>
+  </string>
+  <string>
+    <id>912854</id>
+    <name>STR_DLG_GUILD_INFO__GUILD_BUFF_TAB_02</name>
+    <body>PvP Defense</body>
+  </string>
+  <string>
+    <id>912855</id>
+    <name>STR_DLG_GUILD_INFO__GUILD_BUFF_TAB_03</name>
+    <body>PvP Attack</body>
+  </string>
+  <string>
+    <id>912856</id>
+    <name>STR_DLG_GUILD_BUFF__ACTIVE_BUTTON</name>
+    <body>Activate</body>
+  </string>
+  <string>
+    <id>912857</id>
+    <name>STR_DLG_GUILD_BUFF__BUY_BUTTON</name>
+    <body>Purchase</body>
+  </string>
+  <string>
+    <id>912858</id>
+    <name>STR_GUILD_BUFF_GUILD_TAKING_10LV</name>
+    <body>Can be obtained upon reaching L10.</body>
+  </string>
+  <string>
+    <id>912859</id>
+    <name>STR_GUILD_BUFF_GUILD_TAKING_20LV</name>
+    <body>Can be obtained upon reaching L20.</body>
+  </string>
+  <string>
+    <id>912860</id>
+    <name>STR_GUILD_BUFF_DIALOG___BUY_TITLE</name>
+    <body>Purchase Buff</body>
+  </string>
+  <string>
+    <id>912861</id>
+    <name>STR_GUILD_BUFF_DIALOG___ACTIVE_TITLE</name>
+    <body>Activate Buff</body>
+  </string>
+  <string>
+    <id>912862</id>
+    <name>STR_GUILD_BUFF_DIALOG___ENCHANT_TITLE</name>
+    <body>Enchant Buff</body>
+  </string>
+  <string>
+    <id>912863</id>
+    <name>STR_GUILD_BUFF_DIALOG___TAKING_TITLE</name>
+    <body>Acquire Buff</body>
+  </string>
+  <string>
+    <id>912864</id>
+    <name>STR_COMBAT_POWER_DIALOG__STATS_TOOLTIP</name>
+    <body>You can check the Daeva Potential after Ascension.</body>
+  </string>
+  <string>
+    <id>912865</id>
+    <name>STR_COMBAT_POWER_DIALOG__RANK_NOTICE</name>
+    <body>The Daeva Potential info and ranking are updated every 4 hours.</body>
+  </string>
+  <string>
+    <id>912866</id>
+    <name>STR_STORYBOOK_DIALOG_FULL_SCREEN_TOOLTIP</name>
+    <body>View Enlarged Image (Close ESC)</body>
+  </string>
+  <string>
+    <id>912867</id>
+    <name>STR_DLG_GUILD_INFO__GUILD_MAKING_TAB_COMMON</name>
+    <body>Common</body>
+  </string>
+  <string>
+    <id>912868</id>
+    <name>STR_DLG_GUILD_INFO__GUILD_MAKING_TAB_EVENT</name>
+    <body>Event</body>
+  </string>
+  <string>
+    <id>912869</id>
+    <name>STR_DLG_GUILD_INFO__GUILD_MAKING_TAB_BOOKMARK</name>
+    <body>Bookmark</body>
+  </string>
+  <string>
+    <id>912870</id>
+    <name>STR_GUILD_MAKING_GUILD_MAKING_TIME</name>
+    <body>Crafting Time</body>
+  </string>
+  <string>
+    <id>912871</id>
+    <name>STR_GUILD_MAKING_GUILD_MAKING_MATERIAL</name>
+    <body>Crafting Material</body>
+  </string>
+  <string>
+    <id>912872</id>
+    <name>STR_DLG_GUILD_MAKING__MATERIAL_BUTTON</name>
+    <body>Donate Materials</body>
+  </string>
+  <string>
+    <id>912873</id>
+    <name>STR_DLG_GUILD_MAKING__MAKING_BUTTON</name>
+    <body>Craft</body>
+  </string>
+  <string>
+    <id>912874</id>
+    <name>STR_GUILD_MAKING_DIALOG__TITLE</name>
+    <body>Craft</body>
+  </string>
+  <string>
+    <id>912875</id>
+    <name>STR_GUILD_MAKING_DIALOG__MATERIAL_TITLE</name>
+    <body>Donate Materials</body>
+  </string>
+  <string>
+    <id>912876</id>
+    <name>STR_GUILD_MAKING_GUILD_MAKING_MATERIAL_ITEM</name>
+    <body>Material Item</body>
+  </string>
+  <string>
+    <id>912877</id>
+    <name>STR_GUILD_MAKING_GUILD_MAKING_MATERIAL_COUNT</name>
+    <body>Quantity</body>
+  </string>
+  <string>
+    <id>912878</id>
+    <name>STR_COMBAT_POWER_DIALOG__REWARD_TOOLTIP</name>
+    <body>&lt;html&gt;
+&lt;font font_xml = "tooltip_guide_title"&gt;Target Progress&lt;/font&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;font font_xml = "tooltip_guide_body"&gt;The target completion is based on the highest value in the character's Daeva Potential info. (Highest record / target)&lt;/font&gt;
+&lt;/html&gt;</body>
   </string>
   <string>
     <id>912879</id>
     <name>STR_CHAR_LINK_DIALOG__INVITE_GUILD</name>
-    <body>Convidar para Legião</body>
+    <body>Invite to Legion</body>
   </string>
   <string>
     <id>912880</id>
     <name>STR_CHAR_LINK_DIALOG__ADD_BUDDY</name>
-    <body>Adicionar Amigo</body>
+    <body>Add Friend</body>
+  </string>
+  <string>
+    <id>912881</id>
+    <name>STR_COMBAT_POWER_DIALOG__RANK_TOOLTIP</name>
+    <body>&lt;html&gt;
+&lt;font font_xml = "tooltip_guide_title"&gt;My Current Ranking&lt;/font&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;font font_xml = "tooltip_guide_body"&gt;Ranking is displayed based on the server and class on the leaderboard.&lt;/font&gt;
+&lt;/html&gt;</body>
+  </string>
+  <string>
+    <id>912882</id>
+    <name>STR_COMBAT_POWER_DIALOG__VALUE_TOOLTIP</name>
+    <body>&lt;html&gt;
+&lt;font font_xml = "tooltip_guide_title"&gt;My Daeva Potential&lt;/font&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;font font_xml = "tooltip_guide_body"&gt;Potential is displayed based on the latest updated record.&lt;/font&gt;
+&lt;/html&gt;</body>
+  </string>
+  <string>
+    <id>912883</id>
+    <name>STR_DIALOG_RANK_NO_SEASON</name>
+    <body>No battles performed yet.</body>
+  </string>
+  <string>
+    <id>912884</id>
+    <name>STR_DLG_GUILD_BUFF_COST</name>
+    <body>Legion Essence Usage Status</body>
+  </string>
+  <string>
+    <id>912885</id>
+    <name>STR_GLOBAL_OPTION_DIALOG__GAME_SP_HIDE_OTHER</name>
+    <body>Display Lightning Charge Gauge</body>
+  </string>
+  <string>
+    <id>912886</id>
+    <name>STR_VENDOR_DIALOG__WIDGET_CHAINSWORD</name>
+    <body>Chainsword</body>
+  </string>
+  <string>
+    <id>912887</id>
+    <name>STR_DLG_GUILD_INFO__WIDGET11</name>
+    <body>Legion Essence Shard</body>
+  </string>
+  <string>
+    <id>912888</id>
+    <name>STR_EMOTICON_DIALOG</name>
+    <body>Emoticon</body>
+  </string>
+  <string>
+    <id>912889</id>
+    <name>STR_GUILD_MAKING_TIME_LEFT</name>
+    <body>Remaining time until crafting completed</body>
+  </string>
+  <string>
+    <id>912890</id>
+    <name>STR_WHO_DIALOG__INPUT_EMOTICON_IN_TODAY_WORDS</name>
+    <body>&lt;html&gt;
+&lt;font font_xml = "tooltip_guide_title"&gt;Emoticon&lt;/font&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;font font_xml = "tooltip_guide_body"&gt;You can add an emoticon to your Today's Short Message.&lt;/font&gt;
+&lt;/html&gt;</body>
+  </string>
+  <string>
+    <id>912891</id>
+    <name>STR_STORYBOOK_DIALOG_PUZZLE_HELP</name>
+    <body>Tip. Collect Painting Pieces through various activities and use Appraise to complete Ancient Art.</body>
+  </string>
+  <string>
+    <id>912892</id>
+    <name>STR_STORYBOOK_DIALOG_NATURE_HELP</name>
+    <body>Tip. Collect Essence of Nature through gathering to complete drawings.</body>
+  </string>
+  <string>
+    <id>912893</id>
+    <name>STR_STORYBOOK_DIALOG_ADVENTURE_HELP</name>
+    <body>Tip. Obtain Adventure Log Pages from Story Quests and discover hidden stories.</body>
+  </string>
+  <string>
+    <id>912894</id>
+    <name>STR_DLG_GUILD_BUFF_BUY_BUFF_LIST</name>
+    <body>Acquired Buff</body>
+  </string>
+  <string>
+    <id>912895</id>
+    <name>STR_DLG_GUILD_BUFF_ENCHANT_BUFF_BEFORE</name>
+    <body>Before Enchantment</body>
+  </string>
+  <string>
+    <id>912896</id>
+    <name>STR_DLG_GUILD_BUFF_ENCHANT_BUFF_AFTER</name>
+    <body>After Enchantment</body>
+  </string>
+  <string>
+    <id>912897</id>
+    <name>STR_DLG_GUILD_MAKING</name>
+    <body>Crafting</body>
+  </string>
+  <string>
+    <id>912898</id>
+    <name>STR_SERVER_LIST_DIALOG__OPEN</name>
+    <body>Able to access server.</body>
+  </string>
+  <string>
+    <id>912899</id>
+    <name>STR_SERVER_LIST_DIALOG__CLOSE</name>
+    <body>Unable to access server. (Under Maintenance)</body>
+  </string>
+  <string>
+    <id>912900</id>
+    <name>STR_DLG_GUILD_MAKING_POSSIBLE</name>
+    <body>Craftable</body>
+  </string>
+  <string>
+    <id>912901</id>
+    <name>STR_WAIT_DIALOG__CANCLE</name>
+    <body>Cancel Queueing</body>
+  </string>
+  <string>
+    <id>912902</id>
+    <name>STR_WAIT_DIALOG__TITLE</name>
+    <body>Waiting Info</body>
+  </string>
+  <string>
+    <id>912903</id>
+    <name>STR_MOROS_DIALOG_MAIN_TITLE</name>
+    <body>Moros Time Record</body>
+  </string>
+  <string>
+    <id>912904</id>
+    <name>STR_MOROS_DIALOG_MAIN_TAB</name>
+    <body>Moros</body>
+  </string>
+  <string>
+    <id>912905</id>
+    <name>STR_MOROS_DIALOG_SKILL_TAB</name>
+    <body>Skills</body>
+  </string>
+  <string>
+    <id>912906</id>
+    <name>STR_MOROS_DIALOG_RECORD_POINT</name>
+    <body>Record Points</body>
+  </string>
+  <string>
+    <id>912907</id>
+    <name>STR_MOROS_DIALOG_RECORD</name>
+    <body>Record</body>
+  </string>
+  <string>
+    <id>912908</id>
+    <name>STR_MOROS_DIALOG_RESTRICT</name>
+    <body>Opened upon completing Mission</body>
+  </string>
+  <string>
+    <id>912909</id>
+    <name>STR_LOGINSTAGE_BLOCK_REASON</name>
+    <body>Cause for Access Restriction</body>
+  </string>
+  <string>
+    <id>912910</id>
+    <name>STR_DLG_GUILD_DONATION_MY_TIP</name>
+    <body>Tip. My Continuous Coin Production Status is refreshed if coin production is performed more than once per day.</body>
+  </string>
+  <string>
+    <id>912911</id>
+    <name>STR_DLG_GUILD_MISSION_TIP</name>
+    <body>Tip. You must complete a set number of missions to receive rewards.</body>
+  </string>
+  <string>
+    <id>912912</id>
+    <name>STR_DEVAPASS_DIALOG_GUILD_ADVANCED_REWARD</name>
+    <body>Unlock Premium Rewards: Legion Benefits</body>
+  </string>
+  <string>
+    <id>912913</id>
+    <name>STR_DEVAPASS_DIALOG_GUILD_ADVANCED_REWARD_DESC</name>
+    <body>Rewards given to all Legion members, player included.</body>
+  </string>
+  <string>
+    <id>912914</id>
+    <name>STR_DLG_GUILD_BUFF__INITIALIZATION_BUTTON</name>
+    <body>Initialize</body>
+  </string>
+  <string>
+    <id>912915</id>
+    <name>STR_MOROS_DIALOG_RECORD_TIP</name>
+    <body>Tip. One Item Record charge is recharged every 30 minutes.</body>
+  </string>
+  <string>
+    <id>912916</id>
+    <name>STR_GUILD_ACTIVITY_DIALOG__TITLE</name>
+    <body>Legion Activity Settings</body>
+  </string>
+  <string>
+    <id>912917</id>
+    <name>STR_DLG_GUILD_ACTIVITY1</name>
+    <body>Mission Activity</body>
+  </string>
+  <string>
+    <id>912918</id>
+    <name>STR_DLG_GUILD_ACTIVITY2</name>
+    <body>Legion Disposition</body>
+  </string>
+  <string>
+    <id>912919</id>
+    <name>STR_GUILD_JOIN_DIALOG_ACTIVITY_NONE</name>
+    <body>Not selected</body>
+  </string>
+  <string>
+    <id>912920</id>
+    <name>STR_DLG_GUILD_MISSION_ACTIVITIY_DESC</name>
+    <body>&lt;p&gt;Mission Activity can be changed once every day&lt;/p&gt;
+&lt;p&gt;and the Legion Mission that can be performed will differ depending on the Activity settings.&lt;/p&gt;</body>
+  </string>
+  <string>
+    <id>912921</id>
+    <name>STR_ALTER_DIALOG_INFO_TITLE</name>
+    <body>Alter Book</body>
+  </string>
+  <string>
+    <id>912922</id>
+    <name>STR_ALTER_DIALOG_MARK_TOOLTIP</name>
+    <body>&lt;html&gt;
+&lt;font font_xml = "tooltip_guide_title"&gt;Alter Brand&lt;/font&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;font font_xml = "tooltip_guide_body"&gt;Brand engraved with the Traces of Alter&lt;/font&gt;
+&lt;/html&gt;</body>
+  </string>
+  <string>
+    <id>912923</id>
+    <name>STR_ALTER_DIALOG_POINT_TOOLTIP</name>
+    <body>&lt;html&gt;
+&lt;font font_xml = "tooltip_guide_title"&gt;Alter Points&lt;/font&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;font font_xml = "tooltip_guide_body"&gt;Score representing the level of sin accumulated from killing characters of the same faction as the player. Alter Points cannot be obtained by killing a Destroyer.&lt;/font&gt;
+&lt;/html&gt;</body>
+  </string>
+  <string>
+    <id>912924</id>
+    <name>STR_ALTER_DIALOG_UNKNOWN_POINT_TOOLTIP</name>
+    <body>&lt;html&gt;
+&lt;font font_xml = "tooltip_guide_title"&gt;???&lt;/font&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;font font_xml = "tooltip_guide_body"&gt;Sealed by the power of the Empyrean Lord. Information that currently cannot be checked.&lt;/font&gt;
+&lt;/html&gt;</body>
+  </string>
+  <string>
+    <id>912925</id>
+    <name>STR_ALTER_CONSOLE_DIALOG_SWITCH</name>
+    <body>&lt;html&gt;
+&lt;font font_xml = "tooltip_guide_title"&gt;Switch to Alter Mode&lt;/font&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;font font_xml = "tooltip_guide_body"&gt;Would you really like to disable restrictions?&lt;/font&gt;
+&lt;font font_xml = "tooltip_guide_body"&gt;If you disable restrictions, you will be able to attack characters of the same faction.&lt;/font&gt;
+&lt;/html&gt;</body>
+  </string>
+  <string>
+    <id>912926</id>
+    <name>STR_ALTER_CONSOLE_DIALOG_INFO_BTN</name>
+    <body>Alter Book</body>
+  </string>
+  <string>
+    <id>912927</id>
+    <name>STR_VENDOR_WORLD_DIALOG__KINA_AMOUNT_ADD_1M</name>
+    <body>1,000,000 Kinah</body>
+  </string>
+  <string>
+    <id>912928</id>
+    <name>STR_AIONLOOK_DIALOG_TITLE</name>
+    <body>Aion Look</body>
+  </string>
+  <string>
+    <id>912929</id>
+    <name>STR_AIONLOOK_DIALOG_DYE_BUTTON</name>
+    <body>View Dye</body>
+  </string>
+  <string>
+    <id>912930</id>
+    <name>STR_AIONLOOK_DIALOG_DYE_SELECT</name>
+    <body>Current Selection </body>
   </string>
   <string>
     <id>912931</id>
     <name>STR_GM_DIALOG__CHANNEL_CHATTING_BLACKLIST</name>
-    <body>Block channel chat</body>
+    <body>Block Channel Chat</body>
+  </string>
+  <string>
+    <id>912932</id>
+    <name>STR_INDUN_TIMER__TOOLTIP_VINDACHI_POINT</name>
+    <body>Red Score</body>
+  </string>
+  <string>
+    <id>912933</id>
+    <name>STR_INDUN_TIMER__TOOLTIP_LUGBUG_POINT</name>
+    <body>Blue Score</body>
+  </string>
+  <string>
+    <id>912934</id>
+    <name>STR_INDUN_ACCOUNT_IDDRE_DIALOG__VINDACHI</name>
+    <body>Red</body>
+  </string>
+  <string>
+    <id>912935</id>
+    <name>STR_INDUN_ACCOUNT_IDDRE_DIALOG__LUGBUG</name>
+    <body>Blue</body>
+  </string>
+  <string>
+    <id>912936</id>
+    <name>STR_INDUN_ACCOUNT_IDDRE_DIALOG__VINDACHI_WINNER</name>
+    <body>Red Victory</body>
+  </string>
+  <string>
+    <id>912937</id>
+    <name>STR_INDUN_ACCOUNT_IDDRE_DIALOG__LUGBUG_WINNER</name>
+    <body>Blue Victory</body>
+  </string>
+  <string>
+    <id>912938</id>
+    <name>STR_QUNAMARKET_BUTTON_DEVAPASS</name>
+    <body>Daeva Pass</body>
+  </string>
+  <string>
+    <id>912939</id>
+    <name>STR_QUNAMARKET_BUTTON_AIONLOOK</name>
+    <body>Aion Look</body>
+  </string>
+  <string>
+    <id>912940</id>
+    <name>STR_RESURRECT__DIALOG_SELECT</name>
+    <body>Select Resurrection Method</body>
+  </string>
+  <string>
+    <id>912941</id>
+    <name>STR_GLOBAL_OPTION_DIALOG_GRAPHIC_PRESET</name>
+    <body>Preset</body>
+  </string>
+  <string>
+    <id>912942</id>
+    <name>STR_GLOBAL_OPTION_DIALOG_TOOLTIP_GRAPHIC_PRESET</name>
+    <body>You can save up to a maximum of 5 GFX Engine settings, which can be selected and applied.\nClick Apply or Confirm after editing to save the settings in the selected Preset.\nYou can save GFX Quality settings, Weather FX, Effects Display etc.</body>
+  </string>
+  <string>
+    <id>912943</id>
+    <name>STR_GLOBAL_OPTION_DIALOG_GRAPHIC_QUALITY_NAME_1</name>
+    <body>Settings 1</body>
+  </string>
+  <string>
+    <id>912944</id>
+    <name>STR_GLOBAL_OPTION_DIALOG_GRAPHIC_QUALITY_NAME_2</name>
+    <body>Settings 2</body>
+  </string>
+  <string>
+    <id>912945</id>
+    <name>STR_GLOBAL_OPTION_DIALOG_GRAPHIC_QUALITY_NAME_3</name>
+    <body>Settings 3</body>
+  </string>
+  <string>
+    <id>912946</id>
+    <name>STR_GLOBAL_OPTION_DIALOG_GRAPHIC_QUALITY_NAME_4</name>
+    <body>Settings 4</body>
+  </string>
+  <string>
+    <id>912947</id>
+    <name>STR_GLOBAL_OPTION_DIALOG_GRAPHIC_QUALITY_NAME_5</name>
+    <body>Settings 5</body>
+  </string>
+  <string>
+    <id>912948</id>
+    <name>STR_GLOBAL_OPTION_DIALOG_GRAPHIC_QUALITY_NAME_EDIT</name>
+    <body>Edit Name</body>
+  </string>
+  <string>
+    <id>912949</id>
+    <name>STR_GLOBAL_OPTION_DIALOG_GRAPHIC_QUALITY_SAVE</name>
+    <body>Save</body>
+  </string>
+  <string>
+    <id>912950</id>
+    <name>STR_QUEST_DIALOG__QUEST_GET_REWARD</name>
+    <body>Reward</body>
+  </string>
+  <string>
+    <id>912951</id>
+    <name>STR_QUNAMARKET_DIALOG_TAB_HOME</name>
+    <body>Home</body>
+  </string>
+  <string>
+    <id>912952</id>
+    <name>STR_QUNAMARKET_DIALOG_TAB_SHOP</name>
+    <body>SHOP</body>
+  </string>
+  <string>
+    <id>912953</id>
+    <name>STR_QUNAMARKET_DIALOG_TAB_WARDROBE</name>
+    <body>Wardrobe</body>
+  </string>
+  <string>
+    <id>912954</id>
+    <name>STR_QUNAMARKET_DIALOG_BUTTON_CHANGE_LOOK</name>
+    <body>Appearance</body>
+  </string>
+  <string>
+    <id>912955</id>
+    <name>STR_QUNAMARKET_DIALOG_BUTTON_CHANGE_GENDER</name>
+    <body>Gender</body>
+  </string>
+  <string>
+    <id>912956</id>
+    <name>STR_QUNAMARKET_DIALOG_BUTTON_CUSTOMIZING_DIMMEDTOOLTIP</name>
+    <body>Can only be used in Pandaemonium or Sanctum.</body>
+  </string>
+  <string>
+    <id>912957</id>
+    <name>STR_NEW_MAP_SHOW_CAMP</name>
+    <body>Base</body>
+  </string>
+  <string>
+    <id>912958</id>
+    <name>STR_GLOBAL_OPTION_DIALOG_BADGE_SHOW_TITLE</name>
+    <body>Display ranking badges</body>
+  </string>
+  <string>
+    <id>912959</id>
+    <name>STR_DLG_DOPING_CHANGE_NAME_1</name>
+    <body>Buff 1</body>
+  </string>
+  <string>
+    <id>912960</id>
+    <name>STR_DLG_DOPING_CHANGE_NAME_2</name>
+    <body>Buff 2</body>
+  </string>
+  <string>
+    <id>912961</id>
+    <name>STR_DLG_DOPING_CHANGE_NAME_3</name>
+    <body>Buff 3</body>
+  </string>
+  <string>
+    <id>912962</id>
+    <name>STR_STORYBOOK_DIALOG_APPRAISE_MENU</name>
+    <body>Appraise</body>
+  </string>
+  <string>
+    <id>912963</id>
+    <name>STR_STORYBOOK_DIALOG_APPRAISE_TITLE</name>
+    <body>Appraise Unconfirmed Pieces</body>
+  </string>
+  <string>
+    <id>912964</id>
+    <name>STR_STORYBOOK_DIALOG_APPRAISE_DECS</name>
+    <body>Select an Unconfirmed Puzzle Piece to appraise.</body>
+  </string>
+  <string>
+    <id>912965</id>
+    <name>STR_STORYBOOK_DIALOG_APPRAISE_BUTTON</name>
+    <body>Start Appraisal</body>
+  </string>
+  <string>
+    <id>912966</id>
+    <name>STR_STORYBOOK_DIALOG_APPRAISE_RESULT</name>
+    <body>Appraisal Results</body>
+  </string>
+  <string>
+    <id>912967</id>
+    <name>STR_CHAT_OPTION_DIALOG__WIDGET4</name>
+    <body>Show Time</body>
+  </string>
+  <string>
+    <id>912968</id>
+    <name>STR_CHAT_OPTION_DIALOG__RECORD_TIME_NONE</name>
+    <body>None</body>
+  </string>
+  <string>
+    <id>912969</id>
+    <name>STR_CHAT_OPTION_DIALOG__RECORD_TIME_MIN</name>
+    <body>15:30</body>
+  </string>
+  <string>
+    <id>912970</id>
+    <name>STR_CHAT_OPTION_DIALOG__RECORD_TIME_SEC</name>
+    <body>15:30:01</body>
+  </string>
+  <string>
+    <id>912971</id>
+    <name>STR_DLG_GUILD_INFO__GUILD_TABFRAME_GUILD_TAB_PRODUCTION_HISTORY</name>
+    <body>Production History</body>
+  </string>
+  <string>
+    <id>912972</id>
+    <name>STR_DLG_GUILD_INFO__GUILD_TABFRAME_GUILD_TAB_WAREHOUSE</name>
+    <body>Warehouse Usage Log</body>
+  </string>
+  <string>
+    <id>912973</id>
+    <name>STR_REGION_GUIDE_ITEM_01</name>
+    <body>You can obtain Legion Essence Shards through Legion Missions or Coin Production activities. You can make 1 Legion Essence with 10 Legion Essence Shards.</body>
+  </string>
+  <string>
+    <id>912974</id>
+    <name>STR_REGION_GUIDE_ITEM_02</name>
+    <body>This coin is used to unlock and enchant a Legion buff.</body>
+  </string>
+  <string>
+    <id>912975</id>
+    <name>STR_REGION_GUIDE_ITEM_03</name>
+    <body>This coin is used to buy a Legion buff. When buying a buff, the Legion buff is applied to the character for 1 hour.</body>
+  </string>
+  <string>
+    <id>912976</id>
+    <name>STR_MSG_SPECIAL_DYE_ITEM</name>
+    <body>Do you want to dye %0% with %1?\nWhen dying, the existing dye disappears with a chance a new dye is applied.</body>
+  </string>
+  <string>
+    <id>912977</id>
+    <name>STR_MSG_SPECIAL_DYE_ITEM_CONFIRM</name>
+    <body>%0%'s current dye may be changed.\nDo you really want to proceed?</body>
   </string>
   <string>
     <id>912978</id>
     <name>STR_GLOBAL_OPTION_DIALOG__GAME_WORDBALLOON</name>
-    <body>Show Speech Bubbles</body>
+    <body>Display Speech Bubble</body>
+  </string>
+  <string>
+    <id>912979</id>
+    <name>STR_NEW_MAP_SHOW_ZONE_NAME</name>
+    <body>Zone Name</body>
+  </string>
+  <string>
+    <id>912980</id>
+    <name>STR_NEW_MAP_SHOW_ZONE_EVENT</name>
+    <body>Event</body>
+  </string>
+  <string>
+    <id>912981</id>
+    <name>STR_STORYBOOK_DIALOG_DISASSEMBLE_MENU</name>
+    <body>Disassemble</body>
+  </string>
+  <string>
+    <id>912982</id>
+    <name>STR_STORYBOOK_DIALOG_DISASSEMBLE_TITLE</name>
+    <body>Disassemble Piece</body>
+  </string>
+  <string>
+    <id>912983</id>
+    <name>STR_STORYBOOK_DIALOG_DISASSEMBLE_DECS</name>
+    <body>Select a puzzle piece to disassemble.</body>
+  </string>
+  <string>
+    <id>912984</id>
+    <name>STR_STORYBOOK_DIALOG_DISASSEMBLE_BUTTON</name>
+    <body>Start Disassembly</body>
+  </string>
+  <string>
+    <id>912985</id>
+    <name>STR_STORYBOOK_DIALOG_DISASSEMBLE_RESULT</name>
+    <body>Disassembly Result</body>
+  </string>
+  <string>
+    <id>912986</id>
+    <name>STR_LOBBY_CREATE_DESCRIPTION_MOUSE</name>
+    <body>Scroll: Zoom In/Out</body>
+  </string>
+  <string>
+    <id>912987</id>
+    <name>STR_LOBBY_CREATE_DESCRIPTION_ROTATION</name>
+    <body>Spin</body>
+  </string>
+  <string>
+    <id>912988</id>
+    <name>STR_SERVER_LIST_DIALOG_CONFIGURATION</name>
+    <body>Security Settings</body>
+  </string>
+  <string>
+    <id>912989</id>
+    <name>STR_LOBBY_CREATE_DESCRIPTION_MALE</name>
+    <body>Male</body>
+  </string>
+  <string>
+    <id>912990</id>
+    <name>STR_LOBBY_CREATE_DESCRIPTION_FEMALE</name>
+    <body>Female</body>
+  </string>
+  <string>
+    <id>912991</id>
+    <name>STR_LOBBY_CREATE_DESCRIPTION_DRESSUP</name>
+    <body>Preview Outfit</body>
+  </string>
+  <string>
+    <id>912992</id>
+    <name>STR_DIALOG_WARDROBE_SPECIAL_DYE_ALERT</name>
+    <body>Some colors apply only to certain skins.</body>
+  </string>
+  <string>
+    <id>912993</id>
+    <name>STR_CLASSCHANGE_DIALOG_TITLE</name>
+    <body>Class Change</body>
+  </string>
+  <string>
+    <id>912994</id>
+    <name>STR_CLASSCHANGE_DIALOG_CLASS_CHOICE</name>
+    <body>Select Class</body>
+  </string>
+  <string>
+    <id>912995</id>
+    <name>STR_CLASSCHANGE_DIALOG_EQUIP_CHANGE</name>
+    <body>Change Equipment</body>
+  </string>
+  <string>
+    <id>912996</id>
+    <name>STR_CLASSCHANGE_DIALOG_EQUIP_WEAPON</name>
+    <body>Weapon</body>
+  </string>
+  <string>
+    <id>912997</id>
+    <name>STR_CLASSCHANGE_DIALOG_EQUIP_TORSO</name>
+    <body>Jacket</body>
+  </string>
+  <string>
+    <id>912998</id>
+    <name>STR_CLASSCHANGE_DIALOG_EQUIP_PANTS</name>
+    <body>Pants</body>
+  </string>
+  <string>
+    <id>912999</id>
+    <name>STR_CLASSCHANGE_DIALOG_EQUIP_SHOULDER</name>
+    <body>Pauldrons</body>
+  </string>
+  <string>
+    <id>913000</id>
+    <name>STR_CLASSCHANGE_DIALOG_EQUIP_GLOVE</name>
+    <body>Gloves</body>
+  </string>
+  <string>
+    <id>913001</id>
+    <name>STR_CLASSCHANGE_DIALOG_EQUIP_SHOES</name>
+    <body>Shoes</body>
+  </string>
+  <string>
+    <id>913002</id>
+    <name>STR_CLASSCHANGE_DIALOG_EQUIP_HEAD</name>
+    <body>Helmet</body>
+  </string>
+  <string>
+    <id>913003</id>
+    <name>STR_CLASSCHANGE_DIALOG_EQUIP_NECK</name>
+    <body>Necklace</body>
+  </string>
+  <string>
+    <id>913004</id>
+    <name>STR_CLASSCHANGE_DIALOG_EQUIP_EAR</name>
+    <body>Earrings</body>
+  </string>
+  <string>
+    <id>913005</id>
+    <name>STR_CLASSCHANGE_DIALOG_EQUIP_FINGER</name>
+    <body>Ring</body>
+  </string>
+  <string>
+    <id>913006</id>
+    <name>STR_CLASSCHANGE_DIALOG_EQUIP_WAIST</name>
+    <body>Belt</body>
+  </string>
+  <string>
+    <id>913007</id>
+    <name>STR_CLASSCHANGE_DIALOG_EQUIP_CHANGE_ADD_COST</name>
+    <body>Additional Cost</body>
+  </string>
+  <string>
+    <id>913008</id>
+    <name>STR_CLASSCHANGE_DIALOG_EQUIP_CHANGE_TITLE</name>
+    <body>Change Equipment</body>
+  </string>
+  <string>
+    <id>913009</id>
+    <name>STR_CLASSCHANGE_DIALOG_EQUIP_MY_EQUIP</name>
+    <body>Owned Equipment</body>
+  </string>
+  <string>
+    <id>913010</id>
+    <name>STR_CLASSCHANGE_DIALOG_EQUIP_CHANGE_EQUIP</name>
+    <body>Changed Equipment</body>
+  </string>
+  <string>
+    <id>913011</id>
+    <name>STR_CLASSCHANGE_DIALOG_EQUIP_PREVIEW</name>
+    <body>Preview Changed Equipment</body>
+  </string>
+  <string>
+    <id>913012</id>
+    <name>STR_CLASSCHANGE_DIALOG_EQUIP_RESET</name>
+    <body>Reset</body>
+  </string>
+  <string>
+    <id>913013</id>
+    <name>STR_CLASSCHANGE_DIALOG_FINAL</name>
+    <body>Class Change</body>
+  </string>
+  <string>
+    <id>913014</id>
+    <name>STR_CLASSCHANGE_DIALOG_ADD_COST</name>
+    <body>Additional Cost</body>
+  </string>
+  <string>
+    <id>913015</id>
+    <name>STR_CLASSCHANGE_DIALOG_BASIC_COST</name>
+    <body>Base Cost</body>
+  </string>
+  <string>
+    <id>913016</id>
+    <name>STR_CLASSCHANGE_DIALOG_TOTAL_COST</name>
+    <body>Class Change Total Cost</body>
+  </string>
+  <string>
+    <id>913017</id>
+    <name>STR_CLASSCHANGE_DIALOG_MY_QUNA</name>
+    <body>Current Quna</body>
+  </string>
+  <string>
+    <id>913018</id>
+    <name>STR_CLASSCHANGE_DIALOG_BTN</name>
+    <body>Class Change</body>
+  </string>
+  <string>
+    <id>913019</id>
+    <name>STR_CLASSCHANGE_DIALOG_FINISHED_BTN</name>
+    <body>Complete</body>
+  </string>
+  <string>
+    <id>913020</id>
+    <name>STR_NEW_MAP_SHOW_GROUP_GIVABLE</name>
+    <body>NPCs of Available Group Quests</body>
+  </string>
+  <string>
+    <id>913021</id>
+    <name>STR_NEW_MAP_SHOW_GROUP_WORKING</name>
+    <body>NPCs of Active Group Quests</body>
+  </string>
+  <string>
+    <id>913022</id>
+    <name>STR_NEW_MAP_SHOW_GROUP_FINISHED</name>
+    <body>NPCs of Completed Group Quests</body>
+  </string>
+  <string>
+    <id>913023</id>
+    <name>STR_DIALOG_WARDROBE_DIALOG_TAB_TITLE_HAIR</name>
+    <body>Hair Wardrobe</body>
+  </string>
+  <string>
+    <id>913024</id>
+    <name>STR_LOBBY_CREATE_DESCRIPTION_PRESET_FACE</name>
+    <body>Face Presets</body>
+  </string>
+  <string>
+    <id>913025</id>
+    <name>STR_LOBBY_CREATE_DESCRIPTION_PRESET_BODY</name>
+    <body>Body Presets</body>
+  </string>
+  <string>
+    <id>913026</id>
+    <name>STR_DLG_START_MENU_CHARACTOR</name>
+    <body>Character</body>
+  </string>
+  <string>
+    <id>913027</id>
+    <name>STR_DLG_START_MENU_CONTENTS</name>
+    <body>Contents</body>
+  </string>
+  <string>
+    <id>913028</id>
+    <name>STR_DLG_START_MENU_COMMUNITY</name>
+    <body>Community</body>
+  </string>
+  <string>
+    <id>913029</id>
+    <name>STR_DLG_START_MENU_SERVICE</name>
+    <body>Services</body>
+  </string>
+  <string>
+    <id>913030</id>
+    <name>STR_DLG_START_MENU_CHAR_INFO</name>
+    <body>Profile</body>
+  </string>
+  <string>
+    <id>913031</id>
+    <name>STR_DLG_START_MENU_TITLE</name>
+    <body>Title</body>
+  </string>
+  <string>
+    <id>913032</id>
+    <name>STR_DLG_START_MENU_RANK</name>
+    <body>Ranks</body>
+  </string>
+  <string>
+    <id>913033</id>
+    <name>STR_DLG_START_MENU_INVENTORY</name>
+    <body>Inventory</body>
+  </string>
+  <string>
+    <id>913034</id>
+    <name>STR_DLG_START_MENU_GENERAL_SKILL</name>
+    <body>Skills</body>
+  </string>
+  <string>
+    <id>913035</id>
+    <name>STR_DLG_START_MENU_STIGMA_SKILL</name>
+    <body>Stigma Skills</body>
+  </string>
+  <string>
+    <id>913036</id>
+    <name>STR_DLG_START_MENU_PET</name>
+    <body>Pets</body>
+  </string>
+  <string>
+    <id>913037</id>
+    <name>STR_DLG_START_MENU_MOTION</name>
+    <body>Motions</body>
+  </string>
+  <string>
+    <id>913038</id>
+    <name>STR_DLG_START_MENU_MISSION</name>
+    <body>Quests</body>
+  </string>
+  <string>
+    <id>913039</id>
+    <name>STR_DLG_START_MENU_SMELT</name>
+    <body>Smelt</body>
+  </string>
+  <string>
+    <id>913040</id>
+    <name>STR_DLG_START_MENU_GATHERING</name>
+    <body>Gather / Craft</body>
+  </string>
+  <string>
+    <id>913041</id>
+    <name>STR_DLG_START_MENU_POWER_RATIO</name>
+    <body>Dominance</body>
+  </string>
+  <string>
+    <id>913042</id>
+    <name>STR_DLG_START_MENU_MOROS</name>
+    <body>Moros</body>
+  </string>
+  <string>
+    <id>913043</id>
+    <name>STR_DLG_START_MENU_MAP</name>
+    <body>World Map</body>
+  </string>
+  <string>
+    <id>913044</id>
+    <name>STR_DLG_START_MENU_STORY_BOOK</name>
+    <body>Storybook</body>
+  </string>
+  <string>
+    <id>913045</id>
+    <name>STR_DLG_START_MENU_ARTIFACT_CAL</name>
+    <body>Appraise Relic</body>
+  </string>
+  <string>
+    <id>913046</id>
+    <name>STR_DLG_START_MENU_PERSONAL_SHOP</name>
+    <body>Private Store</body>
+  </string>
+  <string>
+    <id>913047</id>
+    <name>STR_DLG_START_MENU_SCHEDULE</name>
+    <body>Daeva Schedule</body>
+  </string>
+  <string>
+    <id>913048</id>
+    <name>STR_DLG_START_MENU_PARTY_RESEARCH</name>
+    <body>Find Group</body>
+  </string>
+  <string>
+    <id>913049</id>
+    <name>STR_DLG_START_MENU_FRIEND</name>
+    <body>Friends</body>
+  </string>
+  <string>
+    <id>913050</id>
+    <name>STR_DLG_START_MENU_PERSONAL_CHANNEL</name>
+    <body>My Channel</body>
+  </string>
+  <string>
+    <id>913051</id>
+    <name>STR_DLG_START_MENU_RANKING</name>
+    <body>Ranking</body>
+  </string>
+  <string>
+    <id>913052</id>
+    <name>STR_DLG_START_MENU_REGION</name>
+    <body>Legion</body>
+  </string>
+  <string>
+    <id>913053</id>
+    <name>STR_DLG_START_MENU_REGION_RESEARCH</name>
+    <body>Find Legion</body>
+  </string>
+  <string>
+    <id>913054</id>
+    <name>STR_DLG_START_MENU_FORCE</name>
+    <body>Alliance</body>
+  </string>
+  <string>
+    <id>913055</id>
+    <name>STR_DLG_START_MENU_FORCE_UNION</name>
+    <body>League</body>
+  </string>
+  <string>
+    <id>913056</id>
+    <name>STR_DLG_START_MENU_MACRO</name>
+    <body>Macros</body>
+  </string>
+  <string>
+    <id>913057</id>
+    <name>STR_DLG_START_MENU_MEMO</name>
+    <body>Memo Pad</body>
+  </string>
+  <string>
+    <id>913058</id>
+    <name>STR_DLG_START_MENU_HELP_DISPLAYS</name>
+    <body>Help</body>
+  </string>
+  <string>
+    <id>913059</id>
+    <name>STR_DLG_START_MENU_CUSTOMER_SUPPORT</name>
+    <body>Customer Support</body>
+  </string>
+  <string>
+    <id>913060</id>
+    <name>STR_DLG_START_MENU_ITEM_RESTORATION</name>
+    <body>Item Restoration Request</body>
+  </string>
+  <string>
+    <id>913061</id>
+    <name>STR_DLG_START_MENU_CHANNEL_CHANGE</name>
+    <body>Channels</body>
+  </string>
+  <string>
+    <id>913062</id>
+    <name>STR_DLG_START_MENU_DEVA_PASS</name>
+    <body>Daeva Pass</body>
+  </string>
+  <string>
+    <id>913063</id>
+    <name>STR_DLG_START_MENU_AION_LOOK</name>
+    <body>Aion Look</body>
+  </string>
+  <string>
+    <id>913064</id>
+    <name>STR_DLG_START_MENU_N_SHOP</name>
+    <body>Aion Shop</body>
+  </string>
+  <string>
+    <id>913065</id>
+    <name>STR_DLG_START_MENU_AION_HOME</name>
+    <body>AION Home</body>
+  </string>
+  <string>
+    <id>913066</id>
+    <name>STR_DLG_START_MENU_QUNA_MARKET</name>
+    <body>Aion Shop</body>
+  </string>
+  <string>
+    <id>913067</id>
+    <name>STR_DLG_START_MENU_CONFIGURATION</name>
+    <body>Settings</body>
+  </string>
+  <string>
+    <id>913068</id>
+    <name>STR_DLG_START_MENU_CHARACTER_SETECTION</name>
+    <body>Characters</body>
+  </string>
+  <string>
+    <id>913069</id>
+    <name>STR_DLG_START_MENU_ACCESS_REWARD</name>
+    <body>Login Rewards</body>
+  </string>
+  <string>
+    <id>913070</id>
+    <name>STR_DLG_START_MENU_ACCOUNT_INFO</name>
+    <body>Account Information</body>
+  </string>
+  <string>
+    <id>913071</id>
+    <name>STR_DLG_START_MENU_LOG_OFF</name>
+    <body>Quit</body>
+  </string>
+  <string>
+    <id>913072</id>
+    <name>STR_DLG_START_MENU_WORLD_EXCHANGE</name>
+    <body>IWE </body>
+  </string>
+  <string>
+    <id>913073</id>
+    <name>STR_DLG_START_HUD_GRID</name>
+    <body>Edit HUD</body>
+  </string>
+  <string>
+    <id>913074</id>
+    <name>STR_DLG_START_SHORT_CUTS_MENU_ALL</name>
+    <body>Game Menu</body>
+  </string>
+  <string>
+    <id>913075</id>
+    <name>STR_DLG_START_SHORT_CUTS_MENU_QUICK</name>
+    <body>Quick Menu</body>
+  </string>
+  <string>
+    <id>913076</id>
+    <name>STR_DLG_START_MENU_BOOKMARK_INFO</name>
+    <body>You may bookmark up to 3 menus below. Access registered bookmarks via shortcuts in the lower-right corner of the screen.</body>
+  </string>
+  <string>
+    <id>913077</id>
+    <name>STR_DIALOG_WARDROBE_DIALOG_HAIR_CHANGE</name>
+    <body>Change Hair</body>
+  </string>
+  <string>
+    <id>913078</id>
+    <name>STR_DLG_START_MENU_RANKING_01</name>
+    <body>Competition</body>
+  </string>
+  <string>
+    <id>913079</id>
+    <name>STR_DLG_START_MENU_RANKING_02</name>
+    <body>Daeva Potential</body>
+  </string>
+  <string>
+    <id>913080</id>
+    <name>STR_CLASSCHANGE_DIALOG_FIGHT</name>
+    <body>Gladiator</body>
+  </string>
+  <string>
+    <id>913081</id>
+    <name>STR_CLASSCHANGE_DIALOG_KNIGHT</name>
+    <body>Templar</body>
+  </string>
+  <string>
+    <id>913082</id>
+    <name>STR_CLASSCHANGE_DIALOG_ASSASSIN</name>
+    <body>Assassin</body>
+  </string>
+  <string>
+    <id>913083</id>
+    <name>STR_CLASSCHANGE_DIALOG_RANGER</name>
+    <body>Ranger</body>
+  </string>
+  <string>
+    <id>913084</id>
+    <name>STR_CLASSCHANGE_DIALOG_WIZARD</name>
+    <body>Sorcerer</body>
+  </string>
+  <string>
+    <id>913085</id>
+    <name>STR_CLASSCHANGE_DIALOG_ELEMENTALLIST</name>
+    <body>Spiritmaster</body>
+  </string>
+  <string>
+    <id>913086</id>
+    <name>STR_CLASSCHANGE_DIALOG_PRIEST</name>
+    <body>Cleric</body>
+  </string>
+  <string>
+    <id>913087</id>
+    <name>STR_CLASSCHANGE_DIALOG_CHANTER</name>
+    <body>Chanter</body>
+  </string>
+  <string>
+    <id>913088</id>
+    <name>STR_CLASSCHANGE_DIALOG_THUNDERER</name>
+    <body>Executor</body>
+  </string>
+  <string>
+    <id>913089</id>
+    <name>STR_CLASSCHANGE_DIALOG_NO_SELECT</name>
+    <body>No class is selected.</body>
+  </string>
+  <string>
+    <id>913090</id>
+    <name>STR_CLASSCHANGE_DIALOG_SELECT_CHECK</name>
+    <body>Changing to %0.</body>
+  </string>
+  <string>
+    <id>913091</id>
+    <name>STR_CLASSCHANGE_DIALOG_EQUIP_CHANGE_ADD_COST_02</name>
+    <body>0</body>
+  </string>
+  <string>
+    <id>913092</id>
+    <name>STR_CLASSCHANGE_DIALOG_BUTTON_FINISH_COST</name>
+    <body>Total Cost %0</body>
+  </string>
+  <string>
+    <id>913093</id>
+    <name>STR_CLASSCHANGE_DIALOG_EQUIP_CHANGE_SET</name>
+    <body>Select equipment to change.</body>
+  </string>
+  <string>
+    <id>913094</id>
+    <name>STR_DLG_START_MENU_MAIL_DELIVERY</name>
+    <body>Black Cloud Traders Mail</body>
+  </string>
+  <string>
+    <id>913095</id>
+    <name>STR_PLAYER_INFO_DIALOG__STAT_MAGICAL_SKILL_BOOST_RESIST</name>
+    <body>Magic Offset</body>
+  </string>
+  <string>
+    <id>913096</id>
+    <name>STR_DLG_START_MENU_GACHA</name>
+    <body>Dimensional Forge</body>
+  </string>
+  <string>
+    <id>913097</id>
+    <name>STR_DLG_START_MENU_BATTLEFIELD_ENTRANCE</name>
+    <body>Quick Battlefield Entry</body>
+  </string>
+  <string>
+    <id>913098</id>
+    <name>STR_CLASSCHANGE_DIALOG_PREVIEW_TOOLTIP</name>
+    <body>Preview</body>
+  </string>
+  <string>
+    <id>913099</id>
+    <name>STR_LOBBY_CREATE__CUSTOM_HAIR_NOW</name>
+    <body>Current Hair Style</body>
+  </string>
+  <string>
+    <id>913100</id>
+    <name>STR_LOBBY_LOGIN__CREDIT_SHOW_VER_3_0</name>
+    <body>Fist of Eternity</body>
+  </string>
+  <string>
+    <id>913101</id>
+    <name>STR_DLG_CUSTOM_ANIM_SELECTION_ANIM_DESC</name>
+    <body>Selected Motion</body>
+  </string>
+  <string>
+    <id>913102</id>
+    <name>STR_DLG_CHAR_TITLE_BOOKMARK</name>
+    <body>Bookmarked Title</body>
+  </string>
+  <string>
+    <id>913103</id>
+    <name>STR_DLG_CHAR_TITLE_CURRENT</name>
+    <body>Current Title</body>
+  </string>
+  <string>
+    <id>913104</id>
+    <name>STR_DLG_CHAR_TITLE_SELECTION</name>
+    <body>Selected Title</body>
+  </string>
+  <string>
+    <id>913105</id>
+    <name>STR_DLG_START_SHORT_CUTS_SURVEY</name>
+    <body>Poll</body>
+  </string>
+  <string>
+    <id>913106</id>
+    <name>STR_NEW_MAP_SHOW_ARTIFACT_NPC</name>
+    <body>Exchange Relics</body>
+  </string>
+  <string>
+    <id>913107</id>
+    <name>STR_SKILL_DIALOG__REMARK_ABNORMAL</name>
+    <body>Target Status</body>
+  </string>
+  <string>
+    <id>913108</id>
+    <name>STR_SKILL_DIALOG__REMARK_ABNORMAL_OTHER</name>
+    <body>Current Mood</body>
+  </string>
+  <string>
+    <id>913109</id>
+    <name>STR_SKILL_DIALOG__REMARK_START</name>
+    <body>Activation</body>
+  </string>
+  <string>
+    <id>913110</id>
+    <name>STR_SKILL_DIALOG__REMARK_CHAIN</name>
+    <body>Chain Skills</body>
+  </string>
+  <string>
+    <id>913111</id>
+    <name>STR_SKILL_DIALOG__REMARK_COND</name>
+    <body>Conditional</body>
+  </string>
+  <string>
+    <id>913112</id>
+    <name>STR_SKILL_DIALOG__REMARK_ARROW</name>
+    <body>Unconditional Activation</body>
+  </string>
+  <string>
+    <id>913113</id>
+    <name>STR_SKILL_DIALOG__REMARK_ARROW_PROB</name>
+    <body>Chance Activation</body>
+  </string>
+  <string>
+    <id>913114</id>
+    <name>STR_SKILL_DIALOG__REMARK_PREMIUM_STIGMA</name>
+    <body>Greater Stigma</body>
+  </string>
+  <string>
+    <id>913115</id>
+    <name>STR_SKILL_DIALOG__REMARK_NORMAL_STIGMA</name>
+    <body>Normal Stigma</body>
+  </string>
+  <string>
+    <id>913116</id>
+    <name>STR_DLG_TOYPET_RENAME</name>
+    <body>Change Name</body>
+  </string>
+  <string>
+    <id>913117</id>
+    <name>STR_DLG_TOYPET_UNSUMMON</name>
+    <body>Disable Summon</body>
+  </string>
+  <string>
+    <id>913118</id>
+    <name>STR_DLG_HUD_EDIT_MODE</name>
+    <body>Edit HUD</body>
+  </string>
+  <string>
+    <id>913119</id>
+    <name>STR_DLG_HUD_EDIT_PRESET_01</name>
+    <body>Default Aion Style</body>
+  </string>
+  <string>
+    <id>913120</id>
+    <name>STR_DLG_HUD_EDIT_PRESET_02</name>
+    <body>Preset 1</body>
+  </string>
+  <string>
+    <id>913121</id>
+    <name>STR_DLG_HUD_EDIT_PRESET_03</name>
+    <body>Preset 2</body>
+  </string>
+  <string>
+    <id>913122</id>
+    <name>STR_DLG_HUD_EDIT_UI_SCALE</name>
+    <body>Adjust UI Size</body>
+  </string>
+  <string>
+    <id>913123</id>
+    <name>STR_DLG_HUD_EDIT_SAVE</name>
+    <body>Save</body>
+  </string>
+  <string>
+    <id>913124</id>
+    <name>STR_DLG_HUD_EDIT_EXIT</name>
+    <body>Leave</body>
+  </string>
+  <string>
+    <id>913125</id>
+    <name>STR_DLG_HUD_EDIT_BUFF</name>
+    <body>Buff Info</body>
+  </string>
+  <string>
+    <id>913126</id>
+    <name>STR_DLG_HUD_EDIT_DEBUFF</name>
+    <body>Debuff Info</body>
+  </string>
+  <string>
+    <id>913127</id>
+    <name>STR_DLG_HUD_EDIT_TARGET</name>
+    <body>Target Info</body>
+  </string>
+  <string>
+    <id>913128</id>
+    <name>STR_DLG_HUD_EDIT_PARTY</name>
+    <body>Group Info</body>
+  </string>
+  <string>
+    <id>913129</id>
+    <name>STR_DLG_HUD_EDIT_CONDITON_SKILL</name>
+    <body>Conditional Info</body>
+  </string>
+  <string>
+    <id>913130</id>
+    <name>STR_DLG_HUD_EDIT_CHAIN_SKILL</name>
+    <body>Chain Skill Info</body>
+  </string>
+  <string>
+    <id>913131</id>
+    <name>STR_DLG_HUD_EDIT_DEFAULT_SKILL_BAR</name>
+    <body>Default Skill Quickbar</body>
+  </string>
+  <string>
+    <id>913132</id>
+    <name>STR_DLG_HUD_EDIT_SKILL_BAR_01</name>
+    <body>Floating Quickbar 1</body>
+  </string>
+  <string>
+    <id>913133</id>
+    <name>STR_DLG_HUD_EDIT_SKILL_BAR_02</name>
+    <body>Floating Quickbar 2</body>
+  </string>
+  <string>
+    <id>913134</id>
+    <name>STR_DLG_HUD_EDIT_SKILL_BAR_03</name>
+    <body>Extra Quickbar</body>
+  </string>
+  <string>
+    <id>913135</id>
+    <name>STR_DLG_HUD_EDIT_SKILL_BAR_04</name>
+    <body>Floating Quickbar 4</body>
+  </string>
+  <string>
+    <id>913136</id>
+    <name>STR_DLG_HUD_EDIT_SKILL_BAR_05</name>
+    <body>Floating Quickbar 5</body>
+  </string>
+  <string>
+    <id>913137</id>
+    <name>STR_DLG_HUD_EDIT_SKILL_BAR_06</name>
+    <body>Floating Quickbar 6</body>
+  </string>
+  <string>
+    <id>913138</id>
+    <name>STR_DLG_HUD_EDIT_QUEST_NOTICE</name>
+    <body>Quest Indicator</body>
+  </string>
+  <string>
+    <id>913139</id>
+    <name>STR_DLG_HUD_EDIT_CHATTING</name>
+    <body>Chat Window</body>
+  </string>
+  <string>
+    <id>913140</id>
+    <name>STR_DLG_HUD_EDIT_MY_INFO</name>
+    <body>My Info</body>
+  </string>
+  <string>
+    <id>913141</id>
+    <name>STR_DLG_HUD_EDIT_GAUGE</name>
+    <body>Usage Gauge</body>
+  </string>
+  <string>
+    <id>913142</id>
+    <name>STR_DLG_HUD_EDIT_COMBAT_PET</name>
+    <body>Summon Info</body>
+  </string>
+  <string>
+    <id>913143</id>
+    <name>STR_DLG_HUD_EDIT_FOLLOW</name>
+    <body>Follow</body>
+  </string>
+  <string>
+    <id>913144</id>
+    <name>STR_DLG_HUD_EDIT_RADAR</name>
+    <body>Compass</body>
+  </string>
+  <string>
+    <id>913145</id>
+    <name>STR_DLG_HUD_EDIT_INVISIBLE_MAP</name>
+    <body>Transparent Map</body>
+  </string>
+  <string>
+    <id>913146</id>
+    <name>STR_DLG_HUD_EDIT_PROHIBIT</name>
+    <body>Immobilized</body>
+  </string>
+  <string>
+    <id>913147</id>
+    <name>STR_DLG_GUILD_INVITATION</name>
+    <body>Invite to Legion</body>
+  </string>
+  <string>
+    <id>913148</id>
+    <name>STR_DLG_GUILD_PROVISIONING</name>
+    <body>Permissions</body>
+  </string>
+  <string>
+    <id>913149</id>
+    <name>STR_DLG_GUILD_JOIN_CONDITION</name>
+    <body>Join Legion Settings</body>
+  </string>
+  <string>
+    <id>913150</id>
+    <name>STR_DLG_GUILD_PLAY_CONDITION</name>
+    <body>Legion Activity Settings</body>
+  </string>
+  <string>
+    <id>913151</id>
+    <name>STR_DLG_GUILD_SELF_INTRODUCTION</name>
+    <body>Self Introduction</body>
+  </string>
+  <string>
+    <id>913152</id>
+    <name>STR_DLG_GUILD_UNSUBSCRIBE</name>
+    <body>Leave Legion</body>
+  </string>
+  <string>
+    <id>913153</id>
+    <name>STR_DLG_EQUIPMENT_CHANGE_TITLE</name>
+    <body>Set Title</body>
+  </string>
+  <string>
+    <id>913154</id>
+    <name>STR_DLG_FORCE_MATCH_INVITE</name>
+    <body>Invite to Alliance</body>
+  </string>
+  <string>
+    <id>913155</id>
+    <name>STR_DLG_FORCE_MATCH_CREATE</name>
+    <body>Recruit Alliance</body>
+  </string>
+  <string>
+    <id>913156</id>
+    <name>STR_DLG_FORCE_MATCH_APPLY</name>
+    <body>Apply for Alliance</body>
+  </string>
+  <string>
+    <id>913157</id>
+    <name>STR_GLOBAL_OPTION_DIALOG__QUICKBAR_SHOW_SEP3</name>
+    <body>Show Floating Quickbar 3</body>
+  </string>
+  <string>
+    <id>913158</id>
+    <name>STR_DLG_HUD_EDIT_SHORTCUT_WIND</name>
+    <body>Windstream Boost</body>
+  </string>
+  <string>
+    <id>913159</id>
+    <name>STR_DLG_HUD_EDIT_SHORTCUT_GLIDE_WIND</name>
+    <body>Assault</body>
+  </string>
+  <string>
+    <id>913160</id>
+    <name>STR_DLG_START_MENU_INSTANT_ZONE_INFO</name>
+    <body>Instance Info</body>
+  </string>
+  <string>
+    <id>913161</id>
+    <name>STR_DLG_HUD_EDIT_TIMER</name>
+    <body>Timer</body>
+  </string>
+  <string>
+    <id>913162</id>
+    <name>STR_DLG_HUD_EDIT_ITEM_CHARGE</name>
+    <body>Conditioning</body>
+  </string>
+  <string>
+    <id>913163</id>
+    <name>STR_DLG_HUD_EDIT_REACLL</name>
+    <body>Summon</body>
+  </string>
+  <string>
+    <id>913164</id>
+    <name>STR_DLG_HUD_EDIT_APPLY</name>
+    <body>Apply</body>
+  </string>
+  <string>
+    <id>913165</id>
+    <name>STR_DLG_HUD_EDIT_GAUGE_SKILL</name>
+    <body>Skill Gauge</body>
+  </string>
+  <string>
+    <id>913166</id>
+    <name>STR_DLG_START_MENU_USE_GRADE</name>
+    <body>Game Content Rating</body>
+  </string>
+  <string>
+    <id>913167</id>
+    <name>STR_DLG_START_MENU_USE_GRADE_01</name>
+    <body>Game Content Rating Info</body>
+  </string>
+  <string>
+    <id>913168</id>
+    <name>STR_GM_DIALOG__REGISTER_GATHER_RESTRICTION</name>
+    <body>Restrict Gathering</body>
+  </string>
+  <string>
+    <id>913169</id>
+    <name>STR_DLG_START_MENU_DEVA_SCHEDULE</name>
+    <body>Daeva Schedule</body>
+  </string>
+  <string>
+    <id>913170</id>
+    <name>STR_MEMO_DIALOG__SAVE</name>
+    <body>Save</body>
+  </string>
+  <string>
+    <id>913171</id>
+    <name>STR_DLG_HUD_EDIT_GAUGE_GATHERING</name>
+    <body>Gathering Tool</body>
+  </string>
+  <string>
+    <id>913172</id>
+    <name>STR_DLG_HUD_EDIT_GAUGE_MAKING</name>
+    <body>Crafting Tool</body>
+  </string>
+  <string>
+    <id>913177</id>
+    <name>STR_INFINITY_INDUN_INFO_DIALOG__COL_REWARD_TITLE</name>
+    <body>Challenge Success Reward</body>
+  </string>
+  <string>
+    <id>913178</id>
+    <name>STR_INFINITY_INDUN__TOOLTIP_INFINITY_INFO_BTN</name>
+    <body>Reward Details</body>
+  </string>
+  <string>
+    <id>913179</id>
+    <name>STR_INFINITY_INDUN__TOOLTIP_INFINITY_LEAVE_BTN</name>
+    <body>Quit Challenge</body>
+  </string>
+  <string>
+    <id>913180</id>
+    <name>STR_INFINITY_INDUN_INFO_DIALOG__RANKING_BTN</name>
+    <body>View Rank</body>
+  </string>
+  <string>
+    <id>913181</id>
+    <name>STR_INFINITY_INDUN_INFO_DIALOG__LEAVE_BTN</name>
+    <body>End Challenge</body>
+  </string>
+  <string>
+    <id>913182</id>
+    <name>STR_INFINITY_INDUN_INFO_DIALOG__NOT_REWARD</name>
+    <body>Reward Distribution Complete</body>
+  </string>
+  <string>
+    <id>913183</id>
+    <name>STR_INFINITY_INDUN_INFO_DIALOG</name>
+    <body>Reward Details</body>
+  </string>
+  <string>
+    <id>913184</id>
+    <name>STR_NEW_MAP_SHOW_WINDPATH</name>
+    <body>Windstream</body>
+  </string>
+  <string>
+    <id>913185</id>
+    <name>STR_MEMO_DIALOG__LOAD</name>
+    <body>Summon Memo Pad</body>
+  </string>
+  <string>
+    <id>913186</id>
+    <name>STR_MEMO_DIALOG__LOAD_TOOLTIP</name>
+    <body>Contents of account memo pads saved on your computer can be recalled.</body>
+  </string>
+  <string>
+    <id>913187</id>
+    <name>STR_INDUN_TIMER_TOOLTIP_RED_POINT</name>
+    <body>Red Score</body>
+  </string>
+  <string>
+    <id>913188</id>
+    <name>STR_INDUN_TIMER_TOOLTIP_BLUE_POINT</name>
+    <body>Blue Score</body>
+  </string>
+  <string>
+    <id>913189</id>
+    <name>STR_INDUN_ACCOUNT_IDDRANA_DIALOG_VINDACHI</name>
+    <body>Red</body>
+  </string>
+  <string>
+    <id>913190</id>
+    <name>STR_INDUN_ACCOUNT_IDDRANA_DIALOG_LUGBUG</name>
+    <body>Blue</body>
+  </string>
+  <string>
+    <id>913191</id>
+    <name>STR_INDUN_ACCOUNT_IDDRANA_DIALOG_VINDACHI_WINNER</name>
+    <body>Red Victory</body>
+  </string>
+  <string>
+    <id>913192</id>
+    <name>STR_INDUN_ACCOUNT_IDDRANA_DIALOG_LUGBUG_WINNER</name>
+    <body>Blue Victory</body>
+  </string>
+  <string>
+    <id>913193</id>
+    <name>STR_INDUN_ACCOUNT_IDDRANA_DIALOG</name>
+    <body>Results</body>
+  </string>
+  <string>
+    <id>913194</id>
+    <name>STR_INDUN_ACCOUNT_IDDRANA_DIALOG_COLUMN_NAME</name>
+    <body>Character Name</body>
+  </string>
+  <string>
+    <id>913195</id>
+    <name>STR_INDUN_ACCOUNT_IDDRANA_DIALOG_COLUMN_RANK</name>
+    <body>Rank</body>
+  </string>
+  <string>
+    <id>913196</id>
+    <name>STR_INDUN_ACCOUNT_IDDRANA_DIALOG_COLUMN_KILL_PC</name>
+    <body>Defeat Player</body>
+  </string>
+  <string>
+    <id>913197</id>
+    <name>STR_INDUN_ACCOUNT_IDDRANA_DIALOG_COLUMN_KILL_DRAGON</name>
+    <body>Defeat Enemy</body>
+  </string>
+  <string>
+    <id>913198</id>
+    <name>STR_INDUN_ACCOUNT_IDDRANA_DIALOG_COLUMN_DESTROY_OBJECT</name>
+    <body>Occupy Facility</body>
+  </string>
+  <string>
+    <id>913199</id>
+    <name>STR_INDUN_ACCOUNT_IDDRANA_DIALOG_COLUMN_SCORE</name>
+    <body>Score</body>
+  </string>
+  <string>
+    <id>913200</id>
+    <name>STR_INDUN_ACCOUNT_IDDRANA_DIALOG_COLUMN_AP</name>
+    <body>Abyss Points</body>
+  </string>
+  <string>
+    <id>913201</id>
+    <name>STR_DLG_HUD_EDIT_STIGMA_PAGE_DELAY</name>
+    <body>Skill Gauge</body>
+  </string>
+  <string>
+    <id>913202</id>
+    <name>STR_STIGMA_PAGE_NO_1</name>
+    <body>Page 1</body>
+  </string>
+  <string>
+    <id>913203</id>
+    <name>STR_STIGMA_PAGE_NO_2</name>
+    <body>Page 2</body>
+  </string>
+  <string>
+    <id>913204</id>
+    <name>STR_STIGMA_PAGE_BTN_USE</name>
+    <body>Use</body>
+  </string>
+  <string>
+    <id>913205</id>
+    <name>STR_STIGMA_PAGE_BTN_USING</name>
+    <body>In use</body>
+  </string>
+  <string>
+    <id>913206</id>
+    <name>STR_STIGMA_PAGE_SKILL_SHORTCUT_TEXT</name>
+    <body>Quickbar after Page Change</body>
+  </string>
+  <string>
+    <id>913207</id>
+    <name>STR_STIGMA_PAGE_SKILL_SHORTCUT_COMBOBOX_UNSPECIFIED</name>
+    <body>Unspecified</body>
+  </string>
+  <string>
+    <id>913208</id>
+    <name>STR_STIGMA_PAGE_EQUIPMENT_SET_UI_TXT</name>
+    <body>Stigma Page</body>
+  </string>
+  <string>
+    <id>913209</id>
+    <name>STR_DLG_CLASSCHANGE_DIALOG_BUTTON_FINISH_COST_ITEM</name>
+    <body>%0</body>
+  </string>
+  <string>
+    <id>913210</id>
+    <name>STR_DLG_WRAP_POPUP_CONTENTS_TITLE</name>
+    <body>View Bundle Composition</body>
+  </string>
+  <string>
+    <id>913211</id>
+    <name>STR_DLG_WRAP_POPUP_CONTENTS_ITEM</name>
+    <body>Item Name</body>
+  </string>
+  <string>
+    <id>913212</id>
+    <name>STR_DLG_WRAP_POPUP_CONTENTS_COUNT</name>
+    <body>Quantity</body>
+  </string>
+  <string>
+    <id>913213</id>
+    <name>STR_DLG_WRAP_POPUP_CONTENTS_PROBABILITY</name>
+    <body>Probability</body>
+  </string>
+  <string>
+    <id>913215</id>
+    <name>STR_NEW_MAP_SHOW_PVPAREA_01</name>
+    <body>Lawless Land</body>
+  </string>
+  <string>
+    <id>913216</id>
+    <name>STR_DLG_STORYBOOK_APPRAISE_POPUP_TITLE</name>
+    <body>View Storybook Painting Appraisal Probabilities</body>
+  </string>
+  <string>
+    <id>913217</id>
+    <name>STR_DLG_SPEICAL_DYE_CONTENTS_TITLE</name>
+    <body>View Special Dye Probabilities</body>
+  </string>
+  <string>
+    <id>913218</id>
+    <name>STR_DLG_SPEICAL_DYE_CONTENTS_EXPLANATION</name>
+    <body>Using Special Dyes will dye your item according to the probabilities below. </body>
+  </string>
+  <string>
+    <id>913219</id>
+    <name>STR_DLG_SPEICAL_DYE_CONTENTS_COLOR</name>
+    <body>Color</body>
+  </string>
+  <string>
+    <id>913220</id>
+    <name>STR_DLG_SPEICAL_DYE_CONTENTS_PROBABILITY</name>
+    <body>Drop Rate</body>
+  </string>
+  <string>
+    <id>913221</id>
+    <name>STR_DLG_SPEICAL_DYE_WARDROBE_SIGNATURE</name>
+    <body>Features</body>
+  </string>
+  <string>
+    <id>913222</id>
+    <name>STR_DLG_SPEICAL_DYE_WARDROBE_COLOR</name>
+    <body>Color</body>
+  </string>
+  <string>
+    <id>913225</id>
+    <name>STR_DLG_TOYPET_POPUP_CONTENTS_TITLE</name>
+    <body>View Pet-Produced Item Probabilities</body>
+  </string>
+  <string>
+    <id>913226</id>
+    <name>STR_DLG_TOYPET_POPUP_CONTENTS_CONDITION_REWARD</name>
+    <body>The following items are rewarded when your pet's mood reaches 100%.</body>
+  </string>
+  <string>
+    <id>913227</id>
+    <name>STR_DLG_TOYPET_POPUP_CONTENTS_REWARD</name>
+    <body>Supplied Item</body>
+  </string>
+  <string>
+    <id>913228</id>
+    <name>STR_DLG_TOYPET_POPUP_CONTENTS_FAVORITE_FLAVOR</name>
+    <body>Upon feeding meal</body>
+  </string>
+  <string>
+    <id>913229</id>
+    <name>STR_DLG_TOYPET_POPUP_CONTENTS_LOVE_FLAVOR</name>
+    <body>Upon feeding snack</body>
+  </string>
+  <string>
+    <id>913230</id>
+    <name>STR_DLG_TOYPET_POPUP_CONTENTS_FLAVOR</name>
+    <body>Pet Food Item</body>
+  </string>
+  <string>
+    <id>913231</id>
+    <name>STR_DLG_COMBINE_POPUP_CONTENTS_TITLE</name>
+    <body>View Craft Probabilities</body>
+  </string>
+  <string>
+    <id>913232</id>
+    <name>STR_DLG_COMBINE_POPUP_CONTENTS_CLASSIFY</name>
+    <body>Distinguish</body>
+  </string>
+  <string>
+    <id>913233</id>
+    <name>STR_DLG_COMBINE_POPUP_CONTENTS_SUCCESS_PROBABILITY_01</name>
+    <body>Success Gauge Activation Probability</body>
+  </string>
+  <string>
+    <id>913234</id>
+    <name>STR_DLG_COMBINE_POPUP_CONTENTS_SUCCESS_PROBABILITY_02</name>
+    <body>Success Gauge Critical Activation Probability</body>
+  </string>
+  <string>
+    <id>913235</id>
+    <name>STR_DLG_COMBINE_POPUP_CONTENTS_FAILURE</name>
+    <body>Failed Gauge Activation Probability</body>
+  </string>
+  <string>
+    <id>913236</id>
+    <name>STR_DLG_COMBINE_POPUP_CONTENTS_COMBO01</name>
+    <body>Probability of 1 Combo Upon Successful Crafting</body>
+  </string>
+  <string>
+    <id>913237</id>
+    <name>STR_DLG_COMBINE_POPUP_CONTENTS_COMBO02</name>
+    <body>Probability of 2 Combos Upon Successful Crafting</body>
+  </string>
+  <string>
+    <id>913238</id>
+    <name>STR_DLG_COMBINE_POPUP_CONTENTS_COMBO03</name>
+    <body>Probability of 3 Combos Upon Successful Crafting</body>
+  </string>
+  <string>
+    <id>913239</id>
+    <name>STR_DLG_COMBINE_POPUP_CONTENTS_COMBO04</name>
+    <body>Probability of 4 Combos Upon Successful Crafting</body>
+  </string>
+  <string>
+    <id>913240</id>
+    <name>STR_DLG_TOYPET_POPUP_FLAVOR_EXPLANATION</name>
+    <body>Feed your pet the following item to receive a gift.</body>
+  </string>
+  <string>
+    <id>913241</id>
+    <name>STR_DLG_COMBINE_POPUP_CONTENTS_BUTTON</name>
+    <body>View Probabilities</body>
+  </string>
+  <string>
+    <id>913243</id>
+    <name>STR_DLG_STORYBOOK_DISASSEMBLE_POPUP_TITLE</name>
+    <body>View Storybook Painting Disassembly Probabilities</body>
+  </string>
+  <string>
+    <id>913244</id>
+    <name>STR_DLG_ASSEMBLY_POPUP_TITLE</name>
+    <body>View Assembly Item Result Details</body>
+  </string>
+  <string>
+    <id>913245</id>
+    <name>STR_PLAYER_INFO_DIALOG_ABYSS_RANK_POINT</name>
+    <body>PvP Abyss Points</body>
+  </string>
+  <string>
+    <id>913246</id>
+    <name>STR_PLAYER_INFO_DIALOG_ABYSS_POINT_NOW</name>
+    <body>Total Abyss Points</body>
+  </string>
+  <string>
+    <id>913247</id>
+    <name>STR_PLAYER_INFO_DIALOG_ABYSS_POINT_INFO</name>
+    <body>Point Info</body>
+  </string>
+  <string>
+    <id>913248</id>
+    <name>STR_NEW_MAP_SHOW_TREASURE_01_NPC</name>
+    <body>Ancient Crown Relics Exchange</body>
+  </string>
+  <string>
+    <id>913249</id>
+    <name>STR_NEW_MAP_SHOW_TREASURE_02_NPC</name>
+    <body>Ancient Goblet Relics Exchange</body>
+  </string>
+  <string>
+    <id>913250</id>
+    <name>STR_NEW_MAP_SHOW_TREASURE_03_NPC</name>
+    <body>Ancient Seal Relics Exchange</body>
+  </string>
+  <string>
+    <id>913251</id>
+    <name>STR_NEW_MAP_SHOW_TREASURE_04_NPC</name>
+    <body>Ancient Icon Relics Exchange</body>
+  </string>
+  <string>
+    <id>913252</id>
+    <name>STR_NOT_CONNECTED_REWARD_CHR_CHOICE</name>
+    <body>Please select character to which to send reward.</body>
+  </string>
+  <string>
+    <id>913253</id>
+    <name>STR_NOT_CONNECTED_DATE</name>
+    <body>Duration Available to Receive Rewards</body>
+  </string>
+  <string>
+    <id>913254</id>
+    <name>STR_NOT_CONNECTED_WEEK_CHECK</name>
+    <body>Week %d</body>
+  </string>
+  <string>
+    <id>913255</id>
+    <name>STR_NOT_CONNECTED_WEEKLY_REWARD_AP</name>
+    <body>Rewarded AP</body>
+  </string>
+  <string>
+    <id>913256</id>
+    <name>STR_NOT_CONNECTED_WEEKLY_REWARD_AP_CHECK</name>
+    <body>%d AP</body>
+  </string>
+  <string>
+    <id>913257</id>
+    <name>STR_NOT_CONNECTED_WEEKLY_REWARD_ITEM</name>
+    <body>Rewarded Item</body>
+  </string>
+  <string>
+    <id>913259</id>
+    <name>STR_DLG_GUILD_INFO_GUILD_MISSION_TAB_RETURN_USER</name>
+    <body>Returning Daeva Mission</body>
+  </string>
+  <string>
+    <id>913260</id>
+    <name>STR_DLG_GUILD_INFO_GUILD_MISSION_RETURN_USER_MISSION_REWARD</name>
+    <body>Returning Daeva Mission Reward</body>
+  </string>
+  <string>
+    <id>913261</id>
+    <name>STR_NOT_CONNECTED_WEEKLY_REWARD_LIST</name>
+    <body>Reward List</body>
+  </string>
+  <string>
+    <id>913262</id>
+    <name>STR_NOT_CONNECTED_WEEKLY_REWARD_POPUP</name>
+    <body>Acquire Reward</body>
+  </string>
+  <string>
+    <id>913263</id>
+    <name>STR_LOBBY_LOGIN__NOTCONNECT_PRESENT</name>
+    <body>Return Reward</body>
+  </string>
+  <string>
+    <id>913264</id>
+    <name>STR_NOT_CONNECTED_WEEKLY_HAVE_NOT_REWARD</name>
+    <body>No rewards available.</body>
+  </string>
+  <string>
+    <id>913265</id>
+    <name>STR_NOT_CONNECTED_WEEKLY_LV_LIMIT</name>
+    <body>L39 and below characters may not receive the reward.</body>
+  </string>
+  <string>
+    <id>913266</id>
+    <name>STR_NOT_CONNECTED_WEEKLY_DELETE_CHR_WAIT</name>
+    <body>Characters awaiting deletion may not receive the rewards.</body>
+  </string>
+  <string>
+    <id>913268</id>
+    <name>STR_DEVAPASS_ADVANCED_REWARD_INVENTORY_TITLE</name>
+    <body>Unlock Premium Reward Benefits</body>
+  </string>
+  <string>
+    <id>913269</id>
+    <name>STR_DEVAPASS_ADVANCED_REWARD_INVENTORY</name>
+    <body>Unlock Premium to Activate</body>
+  </string>
+  <string>
+    <id>913292</id>
+    <name>STR_ABYSS_RANK_DIALOG__COL_USER_POINT_NOPVP</name>
+    <body>Abyss Points</body>
   </string>
 </strings>

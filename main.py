@@ -135,11 +135,11 @@ def unicode():
 
     contagem_arquivo = 1
     arquivos_len = len(arquivos)
-    iteracoes = arquivos_len*len(caminho_originais)
+    iteracoes = arquivos_len*len(arquivos_originais)
 
-    print(f">>>>> INICIANDO TRANSCRIÇÃO :: {iteracoes} arquivos encontrados :: {len(caminho_originais)} iteração(ões) :: Total de {iteracoes} transcrições")
+    print(f">>>>> INICIANDO TRANSCRIÇÃO :: {iteracoes} arquivos encontrados :: {len(arquivos_originais)} iteração(ões) :: Total de {iteracoes} transcrições")
 
-    for original in caminho_originais:
+    for original in arquivos_originais:
         
         start_time_original = time.monotonic()
         print(f"##### ITERAÇÃO: {original}")
@@ -204,27 +204,29 @@ def repack():
     print(f"[{contagem_arquivo}/{iteracoes}] Gerando arquivo .PAK!", end="\r")
     subprocess.run([".\\Aion_Encdec.exe", "-r"])
     print(f"[{contagem_arquivo}/{iteracoes}] Gerando arquivo .PAK! :: Arquivo gerado")
-    for original in caminho_originais:
+    for original in arquivos_originais:
         start_time_original = time.monotonic()
         print(f"##### ITERAÇÃO: {original}")
 
-        orig = f"REPACK\\z_{original}_ptBR.pak"
-        dest_temp = f"z_{original}_ptBR.pak"
-        dest = f"{caminho_downloads}\\z_{original}_ptBR.zip"
+        origem = f"REPACK\\{original}.pak"
+        nome_pak = f"REPACK\\z_{original}_ptBR.pak"
+        shutil.move(origem, nome_pak) # renomear o pak para o nome final
+        pak_temp = f"z_{original}_ptBR.pak"
+        destino_zip = f"{caminho_downloads}\\z_{original}_ptBR.zip"
 
-        verificar_arquivos(contagem_arquivo, iteracoes, dest)
+        verificar_arquivos(contagem_arquivo, iteracoes, destino_zip)
 
         #COPIAR PAK PARA A PASTA TEMPORÁRIA PRINCIPAL PARA CRIAR O ZIP
-        shutil.copy2(orig, dest_temp)
-        print(f"[{contagem_arquivo}/{iteracoes}] Arquivo copiado: {dest_temp}")
+        shutil.copy2(nome_pak, pak_temp)
+        print(f"[{contagem_arquivo}/{iteracoes}] Arquivo copiado: {pak_temp}")
 
-        with zipfile.ZipFile(dest, 'w') as file:
-            file.write(dest_temp)
+        with zipfile.ZipFile(destino_zip, 'w') as file:
+            file.write(pak_temp)
         #with zipfile.ZipFile(zip_dest, 'r') as file:
         #    print(file.namelist())
 
-        os.remove(dest_temp)
-        print(f"[{contagem_arquivo}/{iteracoes}] Arquivo zip criado com sucesso: '{dest}'.")
+        os.remove(pak_temp)
+        print(f"[{contagem_arquivo}/{iteracoes}] Arquivo zip criado com sucesso: '{destino_zip}'.")
         contagem_arquivo += 1
 
         execution_time = "%.2f" % (time.monotonic() - start_time_original)
@@ -233,9 +235,9 @@ def repack():
     execution_time = "%.2f" % (time.monotonic() - start_time_total)
     print(f"!!!!! REPACK FINALIZADO ({execution_time}s)")
 
-parsing()
+#parsing()
 #unicode()
-#repack()
+repack()
 
 execution_time = "%.2f" % (time.monotonic() - start_time_python)
 print(f"+|+|+ SCRIPT CONCLUÍDO ({execution_time}s)")

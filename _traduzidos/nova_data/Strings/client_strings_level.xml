@@ -9673,8 +9673,1653 @@
     <body>Prison of Ice</body>
   </string>
   <string>
+    <id>403342</id>
+    <name>STR_ZONE_NAME_IDF4Re_Solo</name>
+    <body>Tempus</body>
+  </string>
+  <string>
+    <id>403343</id>
+    <name>STR_IDF4Re_Solo_SZ_All</name>
+    <body>Tempus Interior</body>
+  </string>
+  <string>
+    <id>403344</id>
+    <name>STR_IDF4Re_Solo_SZ_Lobby</name>
+    <body>Broken Vent</body>
+  </string>
+  <string>
+    <id>403345</id>
+    <name>STR_IDF4Re_Solo_SZ_Passage_1</name>
+    <body>Silent Crossroads</body>
+  </string>
+  <string>
+    <id>403346</id>
+    <name>STR_IDF4Re_Solo_SZ_Passage_2</name>
+    <body>Vigil Crossroads</body>
+  </string>
+  <string>
+    <id>403347</id>
+    <name>STR_IDF4Re_Solo_SZ_Lab_1</name>
+    <body>Drana Lab</body>
+  </string>
+  <string>
+    <id>403348</id>
+    <name>STR_IDF4Re_Solo_SZ_Lab_2</name>
+    <body>Tempus Production Chamber</body>
+  </string>
+  <string>
+    <id>403349</id>
+    <name>STR_IDF4Re_Solo_SZ_Prison_1</name>
+    <body>Prototype Prison</body>
+  </string>
+  <string>
+    <id>403350</id>
+    <name>STR_IDF4Re_Solo_SZ_SeWer_1</name>
+    <body>Closed Underground Waterway</body>
+  </string>
+  <string>
+    <id>403351</id>
+    <name>STR_IDF4Re_Solo_SZ_SeWer_2</name>
+    <body>Closed Underground Waterway</body>
+  </string>
+  <string>
+    <id>403352</id>
+    <name>STR_IDF4Re_Solo_SZ_SeWer_3</name>
+    <body>Closed Underground Waterway</body>
+  </string>
+  <string>
+    <id>403353</id>
+    <name>STR_IDF4Re_Solo_SZ_Boss</name>
+    <body>Tempus Research Center</body>
+  </string>
+  <string>
     <id>403354</id>
     <name>STR_LC1_Airport_SPOT_Hall</name>
-    <body>Protectors Hall</body>
+    <body>Protector's Hall</body>
+  </string>
+  <string>
+    <id>403355</id>
+    <name>STR_ZONE_NAME_IDF4Re_Solo_Q</name>
+    <body>Hidden Dimensional Tempus</body>
+  </string>
+  <string>
+    <id>403356</id>
+    <name>STR_IDArena_team01_SZ_01</name>
+    <body>Amphitheater</body>
+  </string>
+  <string>
+    <id>403357</id>
+    <name>STR_IDArena_team01_SZ_02</name>
+    <body>Sky Aether Valley</body>
+  </string>
+  <string>
+    <id>403358</id>
+    <name>STR_IDArena_team01_SZ_03</name>
+    <body>Ancient Sandy Shrine</body>
+  </string>
+  <string>
+    <id>403359</id>
+    <name>STR_IDArena_team01_SZ_04</name>
+    <body>Magma Caldera</body>
+  </string>
+  <string>
+    <id>403360</id>
+    <name>STR_IDArena_team01_SZ_05</name>
+    <body>Forgotten Labyrinth</body>
+  </string>
+  <string>
+    <id>403361</id>
+    <name>STR_IDArena_team01_SZ_06</name>
+    <body>Trepone Floating Tower</body>
+  </string>
+  <string>
+    <id>403362</id>
+    <name>STR_ZONE_NAME_IDArena_team01</name>
+    <body>Arena of Harmony</body>
+  </string>
+  <string>
+    <id>403363</id>
+    <name>STR_ZONE_NAME_IDArena_team01_T</name>
+    <body>Harmony Training Grounds</body>
+  </string>
+  <string>
+    <id>403364</id>
+    <name>STR_ZONE_NAME_IDAbRe_Low_Wciel_v25</name>
+    <body>The Ashikar Legion Hideout</body>
+  </string>
+  <string>
+    <id>403365</id>
+    <name>STR_ZONE_NAME_LDF1</name>
+    <body>Telos</body>
+  </string>
+  <string>
+    <id>403366</id>
+    <name>STR_LDF1_SZ_All</name>
+    <body>Telos\nTelos</body>
+  </string>
+  <string>
+    <id>403367</id>
+    <name>STR_ZONE_NAME_IDLDF1_Gate</name>
+    <body>Forgotten Space</body>
+  </string>
+  <string>
+    <id>403368</id>
+    <name>STR_ZONE_NAME_Test_artstudio</name>
+    <body>Test_artstudio</body>
+  </string>
+  <string>
+    <id>403369</id>
+    <name>STR_LF4_Art_UltraFireRampage_G1</name>
+    <body>Torment Blaze</body>
+  </string>
+  <string>
+    <id>403370</id>
+    <name>STR_DF4_Art_UltraFireRampage_G1</name>
+    <body>Torment Blaze</body>
+  </string>
+  <string>
+    <id>403371</id>
+    <name>STR_LDF1_SZ_A</name>
+    <body>Telos Beach\nTelos Beach</body>
+  </string>
+  <string>
+    <id>403372</id>
+    <name>STR_LDF1_SZ_A1</name>
+    <body>Dredgion Crash Site\nDredgion Crash Site</body>
+  </string>
+  <string>
+    <id>403373</id>
+    <name>STR_LDF1_SZ_B</name>
+    <body>Ephusium Hills\nEphusium Hills</body>
+  </string>
+  <string>
+    <id>403374</id>
+    <name>STR_LDF1_SZ_B1</name>
+    <body>Ephusium Village\nEphusium Village</body>
+  </string>
+  <string>
+    <id>403375</id>
+    <name>STR_LDF1_SZ_C</name>
+    <body>Brohum Field\nBrohum Field</body>
+  </string>
+  <string>
+    <id>403376</id>
+    <name>STR_LDF1_SZ_C1</name>
+    <body>(Not in use.)</body>
+  </string>
+  <string>
+    <id>403377</id>
+    <name>STR_LDF1_SZ_D</name>
+    <body>Thunderbolt Island of Broken Fantasy\nThunderbolt Island of Broken Fantasy</body>
+  </string>
+  <string>
+    <id>403378</id>
+    <name>STR_LDF1_SZ_D1</name>
+    <body>Thunderbolt Cliff Sentry Post\nThunderbolt Cliff Sentry Post</body>
+  </string>
+  <string>
+    <id>403379</id>
+    <name>STR_LDF1_SZ_D2</name>
+    <body>Thunderbolt Shard\nThunderbolt Shard</body>
+  </string>
+  <string>
+    <id>403380</id>
+    <name>STR_ZONE_NAME_LDF1_D</name>
+    <body>Telos</body>
+  </string>
+  <string>
+    <id>403381</id>
+    <name>STR_LDF1_D_SZ_All</name>
+    <body>Telos\nTelos</body>
+  </string>
+  <string>
+    <id>403382</id>
+    <name>STR_ZONE_NAME_IDLDF1</name>
+    <body>Telos of the Forgotten</body>
+  </string>
+  <string>
+    <id>403383</id>
+    <name>STR_IDLDF1_SZ_All</name>
+    <body>Telos of the Forgotten\nTelos of the Forgotten</body>
+  </string>
+  <string>
+    <id>403384</id>
+    <name>STR_LDF1_SZ_A2</name>
+    <body>Elim Plains\nElim Plains</body>
+  </string>
+  <string>
+    <id>403385</id>
+    <name>STR_IDLDF1_SZ_A1</name>
+    <body>Telos Western Beach\nTelos Western Beach</body>
+  </string>
+  <string>
+    <id>403386</id>
+    <name>STR_IDLDF1_SZ_A2</name>
+    <body>Telos Eastern Beach\nTelos Eastern Beach</body>
+  </string>
+  <string>
+    <id>403387</id>
+    <name>STR_IDLDF1_SZ_B</name>
+    <body>Ephusium Hills\nEphusium Hills</body>
+  </string>
+  <string>
+    <id>403388</id>
+    <name>STR_IDLDF1_SZ_B1</name>
+    <body>Samael Battalion Garrison\nSamael Battalion Garrison</body>
+  </string>
+  <string>
+    <id>403389</id>
+    <name>STR_IDLDF1_SZ_B2</name>
+    <body>Ephusium Crossing\nEphusium Crossing</body>
+  </string>
+  <string>
+    <id>403390</id>
+    <name>STR_IDLDF1_SZ_C</name>
+    <body>Southern Drana Field\nSouthern Drana Field</body>
+  </string>
+  <string>
+    <id>403391</id>
+    <name>STR_IDLDF1_SZ_D</name>
+    <body>Dragon Lord's Throne\nDragon Lord's Throne</body>
+  </string>
+  <string>
+    <id>403392</id>
+    <name>STR_IDLDF1_SZ_D1</name>
+    <body>Throne of Blood\nThrone of Blood</body>
+  </string>
+  <string>
+    <id>403393</id>
+    <name>STR_IDLDF1_SZ_Start</name>
+    <body>Abyssal Infiltration Route\nAbyssal Infiltration Route</body>
+  </string>
+  <string>
+    <id>403394</id>
+    <name>STR_IDLDF1_SZ_B3</name>
+    <body>Samael Barricade\nSamael Barricade</body>
+  </string>
+  <string>
+    <id>403395</id>
+    <name>STR_IDLDF1_SZ_C2</name>
+    <body>Anuhart Bind Point\nAnuhart Bind Point</body>
+  </string>
+  <string>
+    <id>403396</id>
+    <name>STR_IDLDF1_SZ_C1</name>
+    <body>Northern Drana Field\nNorthern Drana Field</body>
+  </string>
+  <string>
+    <id>403397</id>
+    <name>STR_IDLDF1_Gate_SZ_All</name>
+    <body>Forgotten Space</body>
+  </string>
+  <string>
+    <id>403398</id>
+    <name>STR_ZONE_NAME_IDLDF1_H</name>
+    <body>Dragon Lord's Throne: Telos</body>
+  </string>
+  <string>
+    <id>403399</id>
+    <name>STR_ZONE_NAME_IDLDF5_Fortress_Re</name>
+    <body>Idgel Dome</body>
+  </string>
+  <string>
+    <id>403400</id>
+    <name>STR_IDLDF1_H_SZ_D</name>
+    <body>Dragon Lord's Throne\nDragon Lord's Throne</body>
+  </string>
+  <string>
+    <id>403401</id>
+    <name>STR_LC1_Airport_SPOT_Street2</name>
+    <body>Exalted Path</body>
+  </string>
+  <string>
+    <id>403402</id>
+    <name>STR_DC1_Airport_SPOT_Bank</name>
+    <body>Temple of Gold</body>
+  </string>
+  <string>
+    <id>403403</id>
+    <name>STR_ZONE_NAME_LDF3_01</name>
+    <body>Apheta Beluslan</body>
+  </string>
+  <string>
+    <id>403404</id>
+    <name>STR_LF4_Art_CampWar_2015</name>
+    <body>Wildheart Grove Bind Point</body>
+  </string>
+  <string>
+    <id>403405</id>
+    <name>STR_LF4_Art_CampWar_2016</name>
+    <body>Phanoe Valley Bind Point</body>
+  </string>
+  <string>
+    <id>403406</id>
+    <name>STR_LF4_Art_CampWar_2017</name>
+    <body>Giant's Garden Bind Point</body>
+  </string>
+  <string>
+    <id>403407</id>
+    <name>STR_DF4_Art_CampWar_3015</name>
+    <body>Gelkmaros Falls Bind Point</body>
+  </string>
+  <string>
+    <id>403408</id>
+    <name>STR_DF4_Art_CampWar_3016</name>
+    <body>Dragonspine Rise Bind Point</body>
+  </string>
+  <string>
+    <id>403409</id>
+    <name>STR_DF4_Art_CampWar_3017</name>
+    <body>Viscum Swamp Bind Point</body>
+  </string>
+  <string>
+    <id>403410</id>
+    <name>STR_LDF3_01_SZ_10001_C</name>
+    <body>Apheta Beluslan Flameruin Outpost\nApheta Beluslan Flameruin Outpost</body>
+  </string>
+  <string>
+    <id>403411</id>
+    <name>STR_LDF3_01_SZ_10002_C</name>
+    <body>Apheta Beluslan Stokebellow Outpost\nApheta Beluslan Stokebellow Outpost</body>
+  </string>
+  <string>
+    <id>403412</id>
+    <name>STR_LDF3_01_SZ_10003_C</name>
+    <body>Apheta Beluslan Blazerack Outpost\nApheta Beluslan Blazerack Outpost</body>
+  </string>
+  <string>
+    <id>403413</id>
+    <name>STR_LDF3_01_SZ_10004_C</name>
+    <body>Apheta Beluslan Smoldergeist Outpost\nApheta Beluslan Smoldergeist Outpost</body>
+  </string>
+  <string>
+    <id>403414</id>
+    <name>STR_LDF3_01_SZ_10005_C</name>
+    <body>Apheta Beluslan Moltenspike Outpost\nApheta Beluslan Moltenspike Outpost</body>
+  </string>
+  <string>
+    <id>403415</id>
+    <name>STR_LDF3_01_SZ_10006_C</name>
+    <body>Apheta Beluslan 66th Outpost\nApheta Beluslan 66th Outpost</body>
+  </string>
+  <string>
+    <id>403416</id>
+    <name>STR_LDF3_01_SZ_10007_C</name>
+    <body>Apheta Beluslan 67th outpost\nApheta Beluslan 67th Outpost</body>
+  </string>
+  <string>
+    <id>403417</id>
+    <name>STR_LDF3_01_SZ_10008_C</name>
+    <body>Apheta Beluslan 68th Outpost\nApheta Beluslan 68th Outpost</body>
+  </string>
+  <string>
+    <id>403418</id>
+    <name>STR_LDF3_01_CW_10001</name>
+    <body>Apheta Beluslan Flameruin Outpost</body>
+  </string>
+  <string>
+    <id>403419</id>
+    <name>STR_LDF3_01_CW_10002</name>
+    <body>Apheta Beluslan Stokebellow Outpost</body>
+  </string>
+  <string>
+    <id>403420</id>
+    <name>STR_LDF3_01_CW_10003</name>
+    <body>Apheta Beluslan Blazerack Outpost</body>
+  </string>
+  <string>
+    <id>403421</id>
+    <name>STR_LDF3_01_CW_10004</name>
+    <body>Apheta Beluslan Smoldergeist Outpost</body>
+  </string>
+  <string>
+    <id>403422</id>
+    <name>STR_LDF3_01_CW_10005</name>
+    <body>Apheta Beluslan Moltenspike Outpost</body>
+  </string>
+  <string>
+    <id>403423</id>
+    <name>STR_LDF3_01_CW_10006</name>
+    <body>Apheta Beluslan 66th Outpost</body>
+  </string>
+  <string>
+    <id>403424</id>
+    <name>STR_LDF3_01_CW_10007</name>
+    <body>Apheta Beluslan 67th Outpost</body>
+  </string>
+  <string>
+    <id>403425</id>
+    <name>STR_LDF3_01_CW_10008</name>
+    <body>Apheta Beluslan 68th Outpost</body>
+  </string>
+  <string>
+    <id>403426</id>
+    <name>STR_LDF3_01_SZ_10009_C</name>
+    <body>Battleship Eos\nBattleship Eos</body>
+  </string>
+  <string>
+    <id>403427</id>
+    <name>STR_LDF3_01_SZ_10010_C</name>
+    <body>Battleship Midnox\nBattleship Midnox</body>
+  </string>
+  <string>
+    <id>403428</id>
+    <name>STR_LDF3_01_CW_10009</name>
+    <body>Battleship Eos</body>
+  </string>
+  <string>
+    <id>403429</id>
+    <name>STR_LDF3_01_CW_10010</name>
+    <body>Battleship Midnox</body>
+  </string>
+  <string>
+    <id>403430</id>
+    <name>STR_LDF3_01_SZ_A</name>
+    <body>Ship Crash Site\nShip Crash Site</body>
+  </string>
+  <string>
+    <id>403431</id>
+    <name>STR_LDF3_01_SZ_B</name>
+    <body>Black Plains\nBlack Plains</body>
+  </string>
+  <string>
+    <id>403432</id>
+    <name>STR_LDF3_01_SZ_C1</name>
+    <body>Mosbear Snowfield \nMosbear Snowfield</body>
+  </string>
+  <string>
+    <id>403433</id>
+    <name>STR_LDF3_01_SZ_C2</name>
+    <body>Besfer Ghost Village\nBesfer Ghost Village</body>
+  </string>
+  <string>
+    <id>403434</id>
+    <name>STR_LDF3_01_SZ_C3</name>
+    <body>Mahisha's Nest\nMahisha's Nest</body>
+  </string>
+  <string>
+    <id>403435</id>
+    <name>STR_LDF3_01_SZ_C4</name>
+    <body>Giants Valley\nGiants Valley</body>
+  </string>
+  <string>
+    <id>403436</id>
+    <name>STR_LDF3_01_SZ_C5</name>
+    <body>Malek Mine\nMalek Mine</body>
+  </string>
+  <string>
+    <id>403437</id>
+    <name>STR_LDF3_01_SZ_C6</name>
+    <body>Malek Pass\nMalek Pass</body>
+  </string>
+  <string>
+    <id>403438</id>
+    <name>STR_LDF3_01_SZ_C7</name>
+    <body>Mist Valley\nMist Valley</body>
+  </string>
+  <string>
+    <id>403439</id>
+    <name>STR_LDF3_01_SZ_D1</name>
+    <body>Kurngalfberg\nKurngalfberg</body>
+  </string>
+  <string>
+    <id>403440</id>
+    <name>STR_LDF3_01_SZ_D2</name>
+    <body>Hunibor Ice Gate\nHunibor Ice Gate</body>
+  </string>
+  <string>
+    <id>403441</id>
+    <name>STR_LDF3_01_SZ_D3</name>
+    <body>Mamut Graveyard\nMamut Graveyard</body>
+  </string>
+  <string>
+    <id>403442</id>
+    <name>STR_LDF3_01_SZ_D4</name>
+    <body>Frost Spirit Valley\nFrost Spirit Valley</body>
+  </string>
+  <string>
+    <id>403443</id>
+    <name>STR_LDF3_01_SZ_D5</name>
+    <body>Beluslan's Roof\nBeluslan's Roof</body>
+  </string>
+  <string>
+    <id>403444</id>
+    <name>STR_LDF3_01_SZ_E1</name>
+    <body>Besfer Refugee Camp\nBesfer Refugee Camp</body>
+  </string>
+  <string>
+    <id>403445</id>
+    <name>STR_LDF3_01_SZ_E2</name>
+    <body>The Whispering Forest\nThe Whispering Forest</body>
+  </string>
+  <string>
+    <id>403446</id>
+    <name>STR_LDF3_01_SZ_E3</name>
+    <body>Anair Ice Lake\nAnair Ice Lake</body>
+  </string>
+  <string>
+    <id>403447</id>
+    <name>STR_LDF3_01_SZ_E4</name>
+    <body>Anair Harbor\nAnair Harbor</body>
+  </string>
+  <string>
+    <id>403448</id>
+    <name>STR_LDF3_01_SZ_E5</name>
+    <body>Alukina's Palace\nAlukina's Palace</body>
+  </string>
+  <string>
+    <id>403449</id>
+    <name>STR_LDF3_01_SZ_F</name>
+    <body>Ice Caves Outpost\nIce Caves Outpost</body>
+  </string>
+  <string>
+    <id>403450</id>
+    <name>STR_LDF3_01_SZ_G1</name>
+    <body>Fang Troll Encampment \nFang Troll Encampment</body>
+  </string>
+  <string>
+    <id>403451</id>
+    <name>STR_LDF3_01_SZ_G2</name>
+    <body>Hoarfrost Fortress\nHoarfrost Fortress</body>
+  </string>
+  <string>
+    <id>403452</id>
+    <name>STR_LDF3_01_SZ_G3</name>
+    <body>Chaos Brambles\nChaos Brambles</body>
+  </string>
+  <string>
+    <id>403453</id>
+    <name>STR_LDF3_01_SZ_G4</name>
+    <body>Alquimia Stronghold\nAlquimia Stronghold</body>
+  </string>
+  <string>
+    <id>403454</id>
+    <name>STR_LDF3_01_SZ_G5</name>
+    <body>Hoarfrost Outpost\nHoarfrost Outpost</body>
+  </string>
+  <string>
+    <id>403455</id>
+    <name>STR_LDF3_01_SZ_G6</name>
+    <body>Bakarma Barracks\nBakarma Barracks</body>
+  </string>
+  <string>
+    <id>403456</id>
+    <name>STR_LDF3_01_SZ_H</name>
+    <body>Draupnir Cave\nDraupnir Cave</body>
+  </string>
+  <string>
+    <id>403457</id>
+    <name>STR_LDF3_01_SZ_C6_2</name>
+    <body>Lepharist Port\nLepharist Port</body>
+  </string>
+  <string>
+    <id>403458</id>
+    <name>STR_LDF3_01_SZ_E5_1</name>
+    <body>Road to Alukina's Palace\nRoad to Alukina's Palace</body>
+  </string>
+  <string>
+    <id>403459</id>
+    <name>STR_LDF3_01_SZ_B_2</name>
+    <body>Ghost Village Observation Post\nGhost Village Observation Post</body>
+  </string>
+  <string>
+    <id>403460</id>
+    <name>STR_LDF3_01_SZ_C3_3</name>
+    <body>The Lone Cottage\nThe Lone Cottage</body>
+  </string>
+  <string>
+    <id>403461</id>
+    <name>STR_LDF3_01_SZ_C6_3</name>
+    <body>Mine Port\nMine Port</body>
+  </string>
+  <string>
+    <id>403462</id>
+    <name>STR_LDF3_01_SZ_C6_4</name>
+    <body>Malek Mine\nMalek Mine</body>
+  </string>
+  <string>
+    <id>403463</id>
+    <name>STR_LDF3_01_SZ_C6_5</name>
+    <body>Malek Diggings\nMalek Diggings</body>
+  </string>
+  <string>
+    <id>403464</id>
+    <name>STR_LDF3_01_SZ_C6_6</name>
+    <body>Malek Mine Workshop\nMalek Mine Workshop</body>
+  </string>
+  <string>
+    <id>403465</id>
+    <name>STR_LDF3_01_SZ_D1_2</name>
+    <body>Camp Kistenian\nCamp Kistenian</body>
+  </string>
+  <string>
+    <id>403466</id>
+    <name>STR_LDF3_01_SZ_E2_2</name>
+    <body>Anair Lighthouse\nAnair Lighthouse</body>
+  </string>
+  <string>
+    <id>403467</id>
+    <name>STR_LDF3_01_SZ_G2_2</name>
+    <body>Glacier Peaks\nGlacier Peaks</body>
+  </string>
+  <string>
+    <id>403468</id>
+    <name>STR_LDF3_01_SZ_G2_3</name>
+    <body>Hoarfrost Shelter\nHoarfrost Shelter</body>
+  </string>
+  <string>
+    <id>403469</id>
+    <name>STR_LDF3_01_SZ_G2_4</name>
+    <body>Chaos Pass\nChaos Pass</body>
+  </string>
+  <string>
+    <id>403470</id>
+    <name>STR_LDF3_01_SZ_G2_5</name>
+    <body>Abandoned Campsite\nAbandoned Campsite</body>
+  </string>
+  <string>
+    <id>403471</id>
+    <name>STR_LDF3_01_SZ_G2_6</name>
+    <body>Alquimia Approach\nAlquimia Approach</body>
+  </string>
+  <string>
+    <id>403472</id>
+    <name>STR_LDF3_01_SZ_G4_3</name>
+    <body>Alquimia Research Center\nAlquimia Research Center</body>
+  </string>
+  <string>
+    <id>403473</id>
+    <name>STR_LDF3_01_SZ_G4_4</name>
+    <body>Lepharist Barracks\nLepharist Barracks</body>
+  </string>
+  <string>
+    <id>403474</id>
+    <name>STR_LDF3_01_SZ_G4_5</name>
+    <body>Alquimia Training Ground\nAlquimia Training Ground</body>
+  </string>
+  <string>
+    <id>403475</id>
+    <name>STR_LDF3_01_SZ_G6_2</name>
+    <body>Beluslan Observatory\nBeluslan Observatory</body>
+  </string>
+  <string>
+    <id>403476</id>
+    <name>STR_LDF3_01_SZ_C2_2</name>
+    <body>Beritra's Weapon\nBeritra's Weapon</body>
+  </string>
+  <string>
+    <id>403477</id>
+    <name>STR_LDF3_01_SZ_D1_3</name>
+    <body>Elim Sanctuary\nElim Sanctuary</body>
+  </string>
+  <string>
+    <id>403478</id>
+    <name>STR_ZONE_NAME_IDPHAISTOS_DISC</name>
+    <body>Phaistos' Disk</body>
+  </string>
+  <string>
+    <id>403479</id>
+    <name>STR_IDPHAISTOS_DISC_SZ_A</name>
+    <body>Ruins' Entrance\nRuins' Entrance</body>
+  </string>
+  <string>
+    <id>403480</id>
+    <name>STR_IDPHAISTOS_DISC_SZ_B</name>
+    <body>Phaistos' Disk\nPhaistos' Disk</body>
+  </string>
+  <string>
+    <id>403481</id>
+    <name>STR_LDF3_01_SZ_SOP_L_01</name>
+    <body>Black Plains Guardian Bind Point\nBlack Plains Guardian Bind Point</body>
+  </string>
+  <string>
+    <id>403482</id>
+    <name>STR_LDF3_01_SZ_SOP_L_02</name>
+    <body>Alquimia Stronghold Guardian Bind Point\nAlquimia Stronghold Guardian Bind Point</body>
+  </string>
+  <string>
+    <id>403483</id>
+    <name>STR_LDF3_01_SZ_SOP_D_01</name>
+    <body>Black Plains Archon Bind Point\nBlack Plains Archon Bind Point</body>
+  </string>
+  <string>
+    <id>403484</id>
+    <name>STR_LDF3_01_SZ_SOP_D_02</name>
+    <body>Bakarma Barracks Archon Bind Point\nBakarma Barracks Archon Bind Point</body>
+  </string>
+  <string>
+    <id>403485</id>
+    <name>STR_ZONEMAP_EVENT_AREA_SMALL_01</name>
+    <body>Event Quest Location</body>
+  </string>
+  <string>
+    <id>403486</id>
+    <name>STR_ZONEMAP_EVENT_AREA_MEDIUM_01</name>
+    <body>Event Quest Location</body>
+  </string>
+  <string>
+    <id>403487</id>
+    <name>STR_ZONEMAP_EVENT_AREA_LARGE_01</name>
+    <body>Event Quest Location</body>
+  </string>
+  <string>
+    <id>403488</id>
+    <name>STR_ZONEMAP_EVENT_NEW_01</name>
+    <body>New Instanced Dungeon</body>
+  </string>
+  <string>
+    <id>403489</id>
+    <name>STR_ZONEMAP_EVENT_EVENT_01</name>
+    <body>Event Instanced Dungeon</body>
+  </string>
+  <string>
+    <id>403490</id>
+    <name>STR_ZONEMAP_EVENT_DUBLE_01</name>
+    <body>×x2 Event</body>
+  </string>
+  <string>
+    <id>403491</id>
+    <name>STR_ZONEMAP_EVENT_TRIPLE_01</name>
+    <body>×x3 Event</body>
+  </string>
+  <string>
+    <id>403492</id>
+    <name>STR_ZONEMAP_EVENT_BOSS_01</name>
+    <body>Boss Appearance Area</body>
+  </string>
+  <string>
+    <id>403493</id>
+    <name>STR_ZONEMAP_EVENT_NPC_MERCHANT_01</name>
+    <body>Event Merchant</body>
+  </string>
+  <string>
+    <id>403494</id>
+    <name>STR_ZONEMAP_EVENT_NPC_QUEST_01</name>
+    <body>Event Quest</body>
+  </string>
+  <string>
+    <id>403495</id>
+    <name>STR_WORLD_NAME_LIGHT</name>
+    <body>Elysea</body>
+  </string>
+  <string>
+    <id>403496</id>
+    <name>STR_WORLD_NAME_DARK</name>
+    <body>Asmodae</body>
+  </string>
+  <string>
+    <id>403497</id>
+    <name>STR_WORLD_NAME_ABYSS</name>
+    <body>Reshanta</body>
+  </string>
+  <string>
+    <id>403498</id>
+    <name>STR_WORLD_NAME_DRAGON</name>
+    <body>Balaurea</body>
+  </string>
+  <string>
+    <id>403499</id>
+    <name>STR_WORLD_NAME_UNKNOWN</name>
+    <body>Farside</body>
+  </string>
+  <string>
+    <id>403500</id>
+    <name>STR_WORLD_NAME_INSTANCEDUNGEON</name>
+    <body>Instanced Dungeon</body>
+  </string>
+  <string>
+    <id>403501</id>
+    <name>STR_WORLD_NAME_BATTLEFIELD</name>
+    <body>Battlefield</body>
+  </string>
+  <string>
+    <id>403502</id>
+    <name>STR_WORLD_NAME_ARENA</name>
+    <body>Empyrean Crucible</body>
+  </string>
+  <string>
+    <id>403503</id>
+    <name>STR_UI_ZONE_MAP_AB1_BOTTOM</name>
+    <body>Base of Abyss</body>
+  </string>
+  <string>
+    <id>403504</id>
+    <name>STR_UI_ZONE_MAP_AB1_TOP</name>
+    <body>Heights of Abyss</body>
+  </string>
+  <string>
+    <id>403505</id>
+    <name>STR_UI_ZONE_MAP_AB1_INDEPTH</name>
+    <body>Core of Abyss</body>
+  </string>
+  <string>
+    <id>403506</id>
+    <name>STR_ZONEMAP_EVENT_NPC_Trade_NPC_01</name>
+    <body>Exchange Relics</body>
+  </string>
+  <string>
+    <id>403507</id>
+    <name>STR_ZONEMAP_EVENT_DUNGEON_01</name>
+    <body>Weapon Drop Rate Boost</body>
+  </string>
+  <string>
+    <id>403508</id>
+    <name>STR_LDF3_01_SZ_4011_A</name>
+    <body>Apheta Beluslan Fortress\nApheta Beluslan Fortress</body>
+  </string>
+  <string>
+    <id>403509</id>
+    <name>STR_LDF3_01_SV_4011</name>
+    <body>Apheta Beluslan Fortress</body>
+  </string>
+  <string>
+    <id>403510</id>
+    <name>STR_ZONE_NAME_IDTartaros</name>
+    <body>Tartarus</body>
+  </string>
+  <string>
+    <id>403511</id>
+    <name>STR_LDF3_01_Art_40111_G1</name>
+    <body>Apheta Beluslan Fortress' Favor</body>
+  </string>
+  <string>
+    <id>403512</id>
+    <name>STR_LDF3_01_Art_40121_G1</name>
+    <body>Flame Smash</body>
+  </string>
+  <string>
+    <id>403513</id>
+    <name>STR_LDF3_01_Art_40131_G1</name>
+    <body>Advancing Roar</body>
+  </string>
+  <string>
+    <id>403514</id>
+    <name>STR_ZONE_NAME_IDTartaros_H</name>
+    <body>Wall of Lament</body>
+  </string>
+  <string>
+    <id>403515</id>
+    <name>STR_ZONE_NAME_LDF10</name>
+    <body>Rafslan</body>
+  </string>
+  <string>
+    <id>403516</id>
+    <name>STR_LDF10_SZ_A</name>
+    <body>Contaminated Atulian Canyon\nContaminated Atulian Canyon</body>
+  </string>
+  <string>
+    <id>403517</id>
+    <name>STR_LDF10_SZ_B</name>
+    <body>Petrified Owl Mountains\nPetrified Owl Mountains</body>
+  </string>
+  <string>
+    <id>403518</id>
+    <name>STR_LDF10_SZ_C</name>
+    <body>Vevium Workhouse\nVevium Workhouse</body>
+  </string>
+  <string>
+    <id>403519</id>
+    <name>STR_LDF10_SZ_D</name>
+    <body>Withered Parhelic Plains\nWithered Parhelic Plains</body>
+  </string>
+  <string>
+    <id>403520</id>
+    <name>STR_LDF10_SZ_E</name>
+    <body>Temple of Ruins\nTemple of Ruins</body>
+  </string>
+  <string>
+    <id>403521</id>
+    <name>STR_LDF10_SZ_F</name>
+    <body>Zephyric Hills\nZephyric Hills</body>
+  </string>
+  <string>
+    <id>403522</id>
+    <name>STR_LDF10_SZ_G</name>
+    <body>Jagged Stone Valley\nJagged Stone Valley</body>
+  </string>
+  <string>
+    <id>403523</id>
+    <name>STR_LDF10_SZ_H</name>
+    <body>Black Drana Fields\nBlack Drana Fields</body>
+  </string>
+  <string>
+    <id>403524</id>
+    <name>STR_LDF10_SZ_I</name>
+    <body>Dreary Yolf Basin\nDreary Yolf Basin</body>
+  </string>
+  <string>
+    <id>403525</id>
+    <name>STR_LDF10_SZ_J</name>
+    <body>Rafslan Battlefield\nRafslan Battlefield</body>
+  </string>
+  <string>
+    <id>403526</id>
+    <name>STR_LDF10_SZ_K</name>
+    <body>Tiamat 508th Legion Garrison\nTiamat 508th Legion Garrison</body>
+  </string>
+  <string>
+    <id>403527</id>
+    <name>STR_LDF10_SZ_L</name>
+    <body>Black Drana Mine\nBlack Drana Mine</body>
+  </string>
+  <string>
+    <id>403528</id>
+    <name>STR_LDF10_SZ_OP_L</name>
+    <body>Battleship Eos\nBattleship Eos</body>
+  </string>
+  <string>
+    <id>403529</id>
+    <name>STR_LDF10_SZ_SOP_L_01</name>
+    <body>Northern Guardian Bind Point \nNorthern Guardian Bind Point</body>
+  </string>
+  <string>
+    <id>403530</id>
+    <name>STR_LDF10_SZ_SOP_L_02</name>
+    <body>Southern Guardian Bind Point\nSouthern Guardian Bind Point</body>
+  </string>
+  <string>
+    <id>403531</id>
+    <name>STR_LDF10_SZ_OP_D</name>
+    <body>Battleship Midnox\nBattleship Midnox</body>
+  </string>
+  <string>
+    <id>403532</id>
+    <name>STR_LDF10_SZ_SOP_D_01</name>
+    <body>Northern Archon Bind Point\nNorthern Archon Bind Point</body>
+  </string>
+  <string>
+    <id>403533</id>
+    <name>STR_LDF10_SZ_SOP_D_02</name>
+    <body>Southern Archon Bind Point\nSouthern Archon Bind Point</body>
+  </string>
+  <string>
+    <id>403534</id>
+    <name>STR_LDF10_SZ_YUN</name>
+    <body>Reian Campsite\nReian Campsite</body>
+  </string>
+  <string>
+    <id>403535</id>
+    <name>STR_LDF10_SZ_Base_v01</name>
+    <body>Rafslan 1st Outpost\nRafslan 1st Outpost</body>
+  </string>
+  <string>
+    <id>403536</id>
+    <name>STR_LDF10_SZ_Base_v02</name>
+    <body>Rafslan 2nd Outpost\nRafslan 2nd Outpost</body>
+  </string>
+  <string>
+    <id>403537</id>
+    <name>STR_LDF10_SZ_Base_v03</name>
+    <body>Rafslan 3rd Outpost\nRafslan 3rd Outpost</body>
+  </string>
+  <string>
+    <id>403538</id>
+    <name>STR_LDF10_SZ_Base_v04</name>
+    <body>Rafslan 4th Outpost\nRafslan 4th Outpost</body>
+  </string>
+  <string>
+    <id>403539</id>
+    <name>STR_LDF10_SZ_Base_v05</name>
+    <body>Rafslan 5th Outpost\nRafslan 5th Outpost</body>
+  </string>
+  <string>
+    <id>403540</id>
+    <name>STR_LDF10_SZ_Base_v06</name>
+    <body>Rafslan 6th Outpost\nRafslan 6th Outpost</body>
+  </string>
+  <string>
+    <id>403541</id>
+    <name>STR_LDF10_SZ_Base_v07</name>
+    <body>Rafslan 7th Outpost\nRafslan 7th Outpost</body>
+  </string>
+  <string>
+    <id>403542</id>
+    <name>STR_LDF10_SZ_Base_v08</name>
+    <body>Rafslan 8th Outpost\nRafslan 8th Outpost</body>
+  </string>
+  <string>
+    <id>403543</id>
+    <name>STR_LDF10_SZ_Base_v09</name>
+    <body>Rafslan 9th Outpost\nRafslan 9th Outpost</body>
+  </string>
+  <string>
+    <id>403544</id>
+    <name>STR_LDF10_SZ_Base_v10</name>
+    <body>(Unused) Rafslan 10th Outpost</body>
+  </string>
+  <string>
+    <id>403545</id>
+    <name>STR_LDF10_SZ_Base_v11</name>
+    <body>(Unused) Rafslan 11th Outpost</body>
+  </string>
+  <string>
+    <id>403546</id>
+    <name>STR_LDF10_SZ_Castle_01</name>
+    <body>Captured 67th Legion Fortress\nCaptured 67th Legion Fortress</body>
+  </string>
+  <string>
+    <id>403547</id>
+    <name>STR_LDF10_SZ_Castle_02</name>
+    <body>(Unused) Outer Fortress\n(Unused) Outer Fortress</body>
+  </string>
+  <string>
+    <id>403548</id>
+    <name>STR_LDF10_SZ_Castle_03</name>
+    <body>(Unused) Inner Fortress\n(Unused) Inner Fortress</body>
+  </string>
+  <string>
+    <id>403549</id>
+    <name>STR_LDF10_SZ_Castle_04</name>
+    <body>(Unused) Main Fortress\n(Unused) Main Fortress</body>
+  </string>
+  <string>
+    <id>403550</id>
+    <name>STR_LDF10_SZ_Castle_Artifact_01</name>
+    <body>(Unused) Artifact 1\n(Unused) Artifact 1</body>
+  </string>
+  <string>
+    <id>403551</id>
+    <name>STR_LDF10_SZ_Castle_Artifact_02</name>
+    <body>(Unused) Artifact 2\n(Unused) Artifact 2</body>
+  </string>
+  <string>
+    <id>403552</id>
+    <name>STR_LDF10_SZ_Castle_Artifact_03</name>
+    <body>(Unused) Artifact 3\n(Unused) Artifact 3</body>
+  </string>
+  <string>
+    <id>403553</id>
+    <name>STR_LDF3_01_SZ_4011_B</name>
+    <body>Apheta Beluslan Fortress Battlefield\nApheta Beluslan Fortress Battlefield</body>
+  </string>
+  <string>
+    <id>403554</id>
+    <name>STR_ZONEMAP_EVENT_NPC_SHUGO_AB1_7</name>
+    <body>Vindachinerk</body>
+  </string>
+  <string>
+    <id>403555</id>
+    <name>STR_LDF10_SZ_Krall</name>
+    <body>Brainwashed Krall Dorp</body>
+  </string>
+  <string>
+    <id>403556</id>
+    <name>STR_LDF10_SZ_Lycan</name>
+    <body>Brainwashed Mau Dorp</body>
+  </string>
+  <string>
+    <id>403557</id>
+    <name>STR_LDF10_SZ_Raid_01</name>
+    <body>Subterra Lord Habitat</body>
+  </string>
+  <string>
+    <id>403558</id>
+    <name>STR_LDF10_SZ_Raid_02</name>
+    <body>(Unused)</body>
+  </string>
+  <string>
+    <id>403559</id>
+    <name>STR_LDF10_SZ_B_Spot_01</name>
+    <body>Fallen Apsu Legion Camp</body>
+  </string>
+  <string>
+    <id>403560</id>
+    <name>STR_LDF10_SZ_D_Spot_01</name>
+    <body>Contaminated Lake Slan</body>
+  </string>
+  <string>
+    <id>403561</id>
+    <name>STR_LDF10_SZ_F_Spot_01</name>
+    <body>Murk Rift</body>
+  </string>
+  <string>
+    <id>403562</id>
+    <name>STR_ZONE_NAME_IDFist</name>
+    <body>Aster of Reconciliation</body>
+  </string>
+  <string>
+    <id>403563</id>
+    <name>STR_IDFist_SZ_All</name>
+    <body>Aster of Reconciliation\nAster of Reconciliation</body>
+  </string>
+  <string>
+    <id>403564</id>
+    <name>STR_SZ_IDFIst_A_01</name>
+    <body>Wasteland Slope\nWasteland Slope</body>
+  </string>
+  <string>
+    <id>403565</id>
+    <name>STR_SZ_IDFIst_A_02</name>
+    <body>Abandoned Aster Village\nAbandoned Aster Village</body>
+  </string>
+  <string>
+    <id>403566</id>
+    <name>STR_SZ_IDFIst_B_01</name>
+    <body>Aster Bridge\nAster Bridge</body>
+  </string>
+  <string>
+    <id>403567</id>
+    <name>STR_SZ_IDFIst_B_02</name>
+    <body>Aster Junction\nAster Junction</body>
+  </string>
+  <string>
+    <id>403568</id>
+    <name>STR_SZ_IDFIst_B_03</name>
+    <body>Jagi's Hideout\nJagi's Hideout</body>
+  </string>
+  <string>
+    <id>403569</id>
+    <name>STR_SZ_IDFIst_C_01</name>
+    <body>Mr. Heart Bind Point\nMr. Heart Bind Point</body>
+  </string>
+  <string>
+    <id>403570</id>
+    <name>STR_ZONEMAP_EVENT_FASHIONISTA</name>
+    <body>Fashionista</body>
+  </string>
+  <string>
+    <id>403571</id>
+    <name>STR_ZONE_NAME_IDLDF1_01_Q</name>
+    <body>Lumiere's Mansion</body>
+  </string>
+  <string>
+    <id>403572</id>
+    <name>STR_IDLDF1_01_Q_SZ_All</name>
+    <body>Lumiere's Mansion\nLumiere's Mansion</body>
+  </string>
+  <string>
+    <id>403573</id>
+    <name>STR_IDLDF1_01_Q_SZ_A01</name>
+    <body>Sparring Grounds\nSparring Grounds</body>
+  </string>
+  <string>
+    <id>403574</id>
+    <name>STR_IDLDF1_01_Q_SZ_A02</name>
+    <body>Square of Oath\nSquare of Oath</body>
+  </string>
+  <string>
+    <id>403575</id>
+    <name>STR_IDLDF1_01_Q_SZ_A03</name>
+    <body>Basics Training Ground\nBasics Training Ground</body>
+  </string>
+  <string>
+    <id>403576</id>
+    <name>STR_IDLDF1_01_Q_SZ_A04</name>
+    <body>Trainee Dormitory\nTrainee Dormitory</body>
+  </string>
+  <string>
+    <id>403577</id>
+    <name>STR_IDLDF1_01_Q_SZ_B01</name>
+    <body>Arena of the Dauntless\nArena of the Dauntless</body>
+  </string>
+  <string>
+    <id>403578</id>
+    <name>STR_IDLDF1_01_Q_SZ_B02</name>
+    <body>Main Gate Entrance\nMain Gate Entrance</body>
+  </string>
+  <string>
+    <id>403579</id>
+    <name>STR_IDLDF1_01_Q_SZ_B03</name>
+    <body>Arena of Belligerence\nArena of Belligerence</body>
+  </string>
+  <string>
+    <id>403580</id>
+    <name>STR_IDLDF1_01_Q_SZ_B04</name>
+    <body>Living Quarters\nLiving Quarters</body>
+  </string>
+  <string>
+    <id>403581</id>
+    <name>STR_IDLDF1_01_Q_SZ_B05</name>
+    <body>Classroom\nClassroom</body>
+  </string>
+  <string>
+    <id>403582</id>
+    <name>STR_IDLDF1_01_Q_SZ_B06</name>
+    <body>Archives of Knowledge\nArchives of Knowledge</body>
+  </string>
+  <string>
+    <id>403583</id>
+    <name>STR_IDLDF1_01_Q_SZ_B07</name>
+    <body>Restricted Zone Passage\nRestricted Zone Passage</body>
+  </string>
+  <string>
+    <id>403584</id>
+    <name>STR_ZONE_NAME_LDF1_01</name>
+    <body>Agaria</body>
+  </string>
+  <string>
+    <id>403585</id>
+    <name>STR_ZONE_NAME_LDF1_01_D</name>
+    <body>Agaria</body>
+  </string>
+  <string>
+    <id>403586</id>
+    <name>STR_LDF1_01_SZ_All</name>
+    <body>Agaria\nAgaria</body>
+  </string>
+  <string>
+    <id>403587</id>
+    <name>STR_LDF10_SZ_5011_A</name>
+    <body>Captured 67th Legion Fortress\nCaptured 67th Legion Fortress</body>
+  </string>
+  <string>
+    <id>403588</id>
+    <name>STR_LDF10_SV_5011</name>
+    <body>Captured 67th Legion Fortress</body>
+  </string>
+  <string>
+    <id>403589</id>
+    <name>STR_LDF10_SZ_20001_C</name>
+    <body>Rafslan 1st Outpost\nRafslan 1st Outpost</body>
+  </string>
+  <string>
+    <id>403590</id>
+    <name>STR_LDF10_SZ_20002_C</name>
+    <body>Rafslan 2nd Outpost\nRafslan 2nd Outpost</body>
+  </string>
+  <string>
+    <id>403591</id>
+    <name>STR_LDF10_SZ_20003_C</name>
+    <body>Rafslan 3rd Outpost\nRafslan 3rd Outpost</body>
+  </string>
+  <string>
+    <id>403592</id>
+    <name>STR_LDF10_SZ_20004_C</name>
+    <body>Rafslan 4th Outpost\nRafslan 4th Outpost</body>
+  </string>
+  <string>
+    <id>403593</id>
+    <name>STR_LDF10_SZ_20005_C</name>
+    <body>Rafslan 5th Outpost\nRafslan 5th Outpost</body>
+  </string>
+  <string>
+    <id>403594</id>
+    <name>STR_LDF10_SZ_20006_C</name>
+    <body>Rafslan 6th Outpost\nRafslan 6th Outpost</body>
+  </string>
+  <string>
+    <id>403595</id>
+    <name>STR_LDF10_SZ_20007_C</name>
+    <body>Rafslan 7th Outpost\nRafslan 7th Outpost</body>
+  </string>
+  <string>
+    <id>403596</id>
+    <name>STR_LDF10_SZ_20008_C</name>
+    <body>Rafslan 8th Outpost\nRafslan 8th Outpost</body>
+  </string>
+  <string>
+    <id>403597</id>
+    <name>STR_LDF10_SZ_20009_C</name>
+    <body>Rafslan 9th Outpost\nRafslan 9th Outpost</body>
+  </string>
+  <string>
+    <id>403598</id>
+    <name>STR_LDF10_SZ_20101_C</name>
+    <body>Battleship Eos\nBattleship Eos</body>
+  </string>
+  <string>
+    <id>403599</id>
+    <name>STR_LDF10_SZ_20201_C</name>
+    <body>Battleship Midnox\nBattleship Midnox</body>
+  </string>
+  <string>
+    <id>403600</id>
+    <name>STR_LDF10_CW_20001</name>
+    <body>Rafslan 1st Outpost</body>
+  </string>
+  <string>
+    <id>403601</id>
+    <name>STR_LDF10_CW_20002</name>
+    <body>Rafslan 2nd Outpost</body>
+  </string>
+  <string>
+    <id>403602</id>
+    <name>STR_LDF10_CW_20003</name>
+    <body>Rafslan 3rd Outpost</body>
+  </string>
+  <string>
+    <id>403603</id>
+    <name>STR_LDF10_CW_20004</name>
+    <body>Rafslan 4th Outpost</body>
+  </string>
+  <string>
+    <id>403604</id>
+    <name>STR_LDF10_CW_20005</name>
+    <body>Rafslan 5th Outpost</body>
+  </string>
+  <string>
+    <id>403605</id>
+    <name>STR_LDF10_CW_20006</name>
+    <body>Rafslan 6th Outpost</body>
+  </string>
+  <string>
+    <id>403606</id>
+    <name>STR_LDF10_CW_20007</name>
+    <body>Rafslan 7th Outpost</body>
+  </string>
+  <string>
+    <id>403607</id>
+    <name>STR_LDF10_CW_20008</name>
+    <body>Rafslan 8th Outpost</body>
+  </string>
+  <string>
+    <id>403608</id>
+    <name>STR_LDF10_CW_20009</name>
+    <body>Rafslan 9th Outpost</body>
+  </string>
+  <string>
+    <id>403609</id>
+    <name>STR_LDF10_CW_20101</name>
+    <body>Battleship Eos</body>
+  </string>
+  <string>
+    <id>403610</id>
+    <name>STR_LDF10_CW_20201</name>
+    <body>Battleship Midnox</body>
+  </string>
+  <string>
+    <id>403611</id>
+    <name>STR_IDTartaros_H_SZ_A</name>
+    <body>Mixed Time Path\nMixed Time Path</body>
+  </string>
+  <string>
+    <id>403612</id>
+    <name>STR_IDTartaros_H_SZ_B</name>
+    <body>Wall of Lament\nWall of Lament</body>
+  </string>
+  <string>
+    <id>403613</id>
+    <name>STR_IDLDF1_01_Q_SZ_C01</name>
+    <body>Confinement Facility\nConfinement Facility</body>
+  </string>
+  <string>
+    <id>403614</id>
+    <name>STR_IDLDF1_01_Q_SZ_C02</name>
+    <body>Records Room\nRecords Room</body>
+  </string>
+  <string>
+    <id>403615</id>
+    <name>STR_IDLDF1_01_Q_SZ_C03</name>
+    <body>Potions Lab\nPotions Lab</body>
+  </string>
+  <string>
+    <id>403616</id>
+    <name>STR_IDLDF1_01_Q_SZ_C04</name>
+    <body>Disposal Room\nDisposal Room</body>
+  </string>
+  <string>
+    <id>403617</id>
+    <name>STR_IDLDF1_01_Q_SZ_C05</name>
+    <body>Oversight Room\nOversight Room</body>
+  </string>
+  <string>
+    <id>403618</id>
+    <name>STR_IDLDF1_01_Q_SZ_C06</name>
+    <body>Western Confinement Passage\nWestern Confinement Passage</body>
+  </string>
+  <string>
+    <id>403619</id>
+    <name>STR_IDLDF1_01_Q_SZ_C07</name>
+    <body>Eastern Confinement Passage\nEastern Confinement Passage</body>
+  </string>
+  <string>
+    <id>403620</id>
+    <name>STR_IDLDF1_01_Q_SZ_D01</name>
+    <body>Confidential Area\nConfidential Area</body>
+  </string>
+  <string>
+    <id>403621</id>
+    <name>STR_ZONE_NAME_IDGods_Descent_Q</name>
+    <body>Space of Light and Darkness</body>
+  </string>
+  <string>
+    <id>403622</id>
+    <name>STR_IDGods_Descent_Q_SZ_All</name>
+    <body>Space of Light and Darkness\nSpace of Light and Darkness</body>
+  </string>
+  <string>
+    <id>403623</id>
+    <name>STR_ZONE_NAME_IDFist_01</name>
+    <body>Enigmatic Aster</body>
+  </string>
+  <string>
+    <id>403624</id>
+    <name>STR_IDLDF1_01_Q_SZ_B08</name>
+    <body>Path of Dignity\nPath of Dignity</body>
+  </string>
+  <string>
+    <id>403625</id>
+    <name>STR_IDFist_01_SZ_All</name>
+    <body>Enigmatic Aster\nEnigmatic Aster</body>
+  </string>
+  <string>
+    <id>403626</id>
+    <name>STR_ZONE_NAME_IDInfinity_Solo</name>
+    <body>Tower of Illusion</body>
+  </string>
+  <string>
+    <id>403627</id>
+    <name>STR_ZONE_NAME_IDInfinity_Party</name>
+    <body>Tower of Illusion (Cooperation)</body>
+  </string>
+  <string>
+    <id>403628</id>
+    <name>STR_ZONE_NAME_IDDranamine_War</name>
+    <body>Black Vevium Battlefield</body>
+  </string>
+  <string>
+    <id>403629</id>
+    <name>STR_ZONEMAP_WINDPATH_01</name>
+    <body>Windstream Starting Point</body>
+  </string>
+  <string>
+    <id>403630</id>
+    <name>STR_SZ_DF4_OP_Diad</name>
+    <body>Gelkmaros Fortress Square\nGelkmaros Fortress Square</body>
+  </string>
+  <string>
+    <id>403631</id>
+    <name>STR_LF4_SZ_OP_Diad</name>
+    <body>Inggison Illusion Fortress Square\nInggison Illusion Fortress Square</body>
+  </string>
+  <string>
+    <id>403632</id>
+    <name>STR_ZONE_NAME_IDInfinity_01</name>
+    <body>Tower of Illusion</body>
+  </string>
+  <string>
+    <id>403633</id>
+    <name>STR_ZONE_Comment_IDdranamine_War</name>
+    <body>A land containing Black Vevium, an important resource. Occupy more mining zones than the opposing team to receive Abyss points as a reward.</body>
+  </string>
+  <string>
+    <id>403634</id>
+    <name>STR_ZONE_NAME_IDDragon_Twin</name>
+    <body>Citadel of the Sacred</body>
+  </string>
+  <string>
+    <id>403635</id>
+    <name>STR_IDDragon_Twin_SZ_All</name>
+    <body>Citadel of the Sacred</body>
+  </string>
+  <string>
+    <id>403636</id>
+    <name>STR_IDDragon_Twin_SZ_A</name>
+    <body>External Path\nExternal Path</body>
+  </string>
+  <string>
+    <id>403637</id>
+    <name>STR_IDDragon_Twin_SZ_B</name>
+    <body>Smoldering Citadel of the Cursed\nSmoldering Citadel of the Cursed </body>
+  </string>
+  <string>
+    <id>403638</id>
+    <name>STR_IDDragon_Twin_SZ_C</name>
+    <body>Molten Citadel of Blaze\nMolten Citadel of Blaze</body>
+  </string>
+  <string>
+    <id>403639</id>
+    <name>STR_IDDragon_Twin_SZ_D</name>
+    <body>Arch Diad's Secret Hideout\nArch Diad's Secret Hideout</body>
+  </string>
+  <string>
+    <id>403640</id>
+    <name>STR_IDDragon_Twin_SZ_E</name>
+    <body>(Unused)</body>
+  </string>
+  <string>
+    <id>403641</id>
+    <name>STR_ZONE_IDdranamine_War_SZ_01</name>
+    <body>Battlefield Waiting Room\nBattlefield Waiting Room</body>
+  </string>
+  <string>
+    <id>403642</id>
+    <name>STR_ZONE_IDdranamine_War_SZ_02</name>
+    <body>Hidden Mine\nHidden Mine</body>
+  </string>
+  <string>
+    <id>403643</id>
+    <name>STR_ZONE_IDdranamine_War_SZ_03</name>
+    <body>Blue Team Battlefield Outpost\nBlue Team Battlefield Outpost</body>
+  </string>
+  <string>
+    <id>403644</id>
+    <name>STR_ZONE_IDdranamine_War_SZ_04</name>
+    <body>Red Team Battlefield Outpost\nRed Team Battlefield Outpost</body>
+  </string>
+  <string>
+    <id>403645</id>
+    <name>STR_ZONE_IDdranamine_War_SZ_05</name>
+    <body>Mining Zone 1\nMining Zone 1</body>
+  </string>
+  <string>
+    <id>403646</id>
+    <name>STR_ZONE_IDdranamine_War_SZ_06</name>
+    <body>Mining Zone 2\nMining Zone 2</body>
+  </string>
+  <string>
+    <id>403647</id>
+    <name>STR_ZONE_IDdranamine_War_SZ_07</name>
+    <body>Mining Zone 3\nMining Zone 3</body>
+  </string>
+  <string>
+    <id>403648</id>
+    <name>STR_ZONE_IDdranamine_War_SZ_08</name>
+    <body>Mining Zone 4\nMining Zone 4</body>
+  </string>
+  <string>
+    <id>403649</id>
+    <name>STR_ZONE_IDdranamine_War_SZ_09</name>
+    <body>Central Mining Zone\nCentral Mining Zone</body>
+  </string>
+  <string>
+    <id>403650</id>
+    <name>STR_ZONE_IDdranamine_War_SZ_10</name>
+    <body>Primary Vevium Storage\nPrimary Vevium Storage</body>
+  </string>
+  <string>
+    <id>403651</id>
+    <name>STR_ZONE_IDdranamine_War_SZ_11</name>
+    <body>Collapsed Repository\nCollapsed Repository</body>
+  </string>
+  <string>
+    <id>403652</id>
+    <name>STR_ZONE_IDdranamine_War_SZ_12</name>
+    <body>Razor Boulder Bridge\nRazor Boulder Bridge</body>
+  </string>
+  <string>
+    <id>403653</id>
+    <name>STR_ZONE_IDdranamine_War_SZ_13</name>
+    <body>Secondary Vevium Storage\nSecondary Vevium Storage</body>
+  </string>
+  <string>
+    <id>403654</id>
+    <name>STR_ZONEMAP_EVENT_STARWEAPON_SELLER</name>
+    <body>Starunerk</body>
+  </string>
+  <string>
+    <id>403655</id>
+    <name>STR_ZONE_NAME_IDDokkaebi</name>
+    <body>Allos Cosmos</body>
+  </string>
+  <string>
+    <id>403656</id>
+    <name>STR_IDDokkaebi_SZ_All</name>
+    <body>Charring Peak\nCharring Peak</body>
+  </string>
+  <string>
+    <id>403657</id>
+    <name>STR_IDDokkaebi_SZ_A</name>
+    <body>Piran Cave\nPiran Cave</body>
+  </string>
+  <string>
+    <id>403658</id>
+    <name>STR_IDDokkaebi_SZ_A_01</name>
+    <body>Vermeil Rapids\nVermeil Rapids</body>
+  </string>
+  <string>
+    <id>403659</id>
+    <name>STR_IDDokkaebi_SZ_A_02</name>
+    <body>Pinkladies Peak\nPinkladies Peak</body>
+  </string>
+  <string>
+    <id>403660</id>
+    <name>STR_IDDokkaebi_SZ_A_03</name>
+    <body>Vermeil Dock\nVermeil Dock</body>
+  </string>
+  <string>
+    <id>403661</id>
+    <name>STR_IDDokkaebi_SZ_A_04</name>
+    <body>Han Gully\nHan Gully</body>
+  </string>
+  <string>
+    <id>403662</id>
+    <name>STR_IDDokkaebi_SZ_B_01</name>
+    <body>Lantern Village\nLantern Village</body>
+  </string>
+  <string>
+    <id>403663</id>
+    <name>STR_IDDokkaebi_SZ_B_02</name>
+    <body>Lantern Junction\nLantern Junction</body>
+  </string>
+  <string>
+    <id>403664</id>
+    <name>STR_IDDokkaebi_SZ_B_03</name>
+    <body>Windswept Hollows\nWindswept Hollows</body>
+  </string>
+  <string>
+    <id>403665</id>
+    <name>STR_IDDokkaebi_SZ_C_02</name>
+    <body>Accord Shrine\nAccord Shrine</body>
+  </string>
+  <string>
+    <id>403666</id>
+    <name>STR_IDDokkaebi_SZ_C_03</name>
+    <body>Flash Firma\nFlash Firma</body>
+  </string>
+  <string>
+    <id>403667</id>
+    <name>STR_IDDokkaebi_SZ_D</name>
+    <body>Cave of Embers\nCave of Embers</body>
+  </string>
+  <string>
+    <id>403668</id>
+    <name>STR_IDDokkaebi_SZ_D_01</name>
+    <body>Cave Entry Point\nCave Entry Point</body>
+  </string>
+  <string>
+    <id>403669</id>
+    <name>STR_IDDokkaebi_SZ_D_02</name>
+    <body>Bridge of Oneness\nBridge of Oneness</body>
+  </string>
+  <string>
+    <id>403670</id>
+    <name>STR_IDDokkaebi_SZ_A_05</name>
+    <body>Plenilune Grounds\nPlenilune Grounds</body>
+  </string>
+  <string>
+    <id>403671</id>
+    <name>STR_IDDokkaebi_SZ_A_06</name>
+    <body>Evenfall Forest\nEvenfall Forest</body>
   </string>
 </strings>
