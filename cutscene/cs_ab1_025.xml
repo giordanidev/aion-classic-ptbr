@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<CutSceneText>
-	<Text label="P01">When you besiege a fortress, a Guardian General appears in an underground chamber.</Text>
-	<Text label="P02">The general reeks of power,</Text>
-	<Text label="P03">but you must defeat that general before you can claim the fortress.</Text>
-	<Text label="P04">After your Legion&apos;s victory, you&apos;ve captured the fortress,</Text>
-	<Text label="P05">and Pandaemonium will send a detachment of troops to help you defend it.</Text>
-	<Text label="P06">And if our position in the Abyss is weak, they&apos;ll send reinforcements.</Text>
-</CutSceneText>
