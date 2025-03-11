@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<CutSceneText>
-	<Text label="P01">All right, here&apos;s what you need to do. Listen carefully.</Text>
-	<Text label="P02">First, go into the cave and destroy the Aether Consuming Stone.</Text>
-	<Text label="P03">Then defeat Deputy Brigade General Yavant. He&apos;s in the Beritra Oracle Chamber.</Text>
-	<Text label="P04">That should stop the Aetheric Field Suppression Device,</Text>
-	<Text label="P05">and once the Aetheric Field comes back, the Balaur will no longer run rampant in Beluslan.</Text>
-</CutSceneText>

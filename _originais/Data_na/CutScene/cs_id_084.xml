@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<CutSceneText>
-	<Text label="P01">The Arena of Discpline is for one-on-one matches.</Text>
-	<Text label="P02">Your opponent may be Asmodian or Elyos.</Text>
-	<Text label="P03">You receive points for defeating your opponent, and the first to earn the target number wins.</Text>
-	<Text label="P04">The fight consists of three rounds, and you won&apos;t suffer from Soul Sickness if you die.</Text>
-	<Text label="P05">If no one reaches the point target, the winner is the one with more points at the end of three rounds.</Text>
-</CutSceneText>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<CutSceneText>
-	<Text label="P01">This test will show if you&apos;ve got what it takes</Text>
-	<Text label="P02">to fight the things you&apos;ll find in the Abyss.</Text>
-	<Text label="P03">In the room behind me are Elysean Spirits I&apos;ve summoned to do battle with you.</Text>
-	<Text label="P04">They may be dead, but don&apos;t fool yourself--they&apos;ve plenty of fight in them still!</Text>
-	<Text label="P05">There&apos;s a time limit, so kill all of them you can.</Text>
-	<Text label="P06">The task is yours! Go!</Text>
-</CutSceneText>

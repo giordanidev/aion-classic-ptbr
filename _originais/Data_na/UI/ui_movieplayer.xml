@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<Screen last_modified="2021-08-10 16:08:27" name="UI_MovePlayerScene" version="53">
-	<Dialog flag="not_movable;transparent;alwaysfittoscreen;not_visible" frame="0,0,1280,960" h_pos_align="center" name="video_dialog" type="dlg_video" v_pos_align="middle">
-		<Widget flag="alwaysfittoscreen;transparent" frame="0,0,1280,960" name="videopanel" type="videopanel">
-		</Widget>
-		<Widget font="ui_default" font_size="22" frame="1070,30,181,48" h_pos_align="right" halign="left" name="skip_video" preset="skip_button" text="STR_DIALOG_SKIP" text_color="0.6157,0.6157,0.6157,1.0" text_disabled_color="0.3804,0.3804,0.3804,1.0" text_offset="30,0" text_over_color="0.7608,0.7608,0.7608,1.0" text_selected_color="0.3804,0.3804,0.3804,1.0" type="button" v_pos_align="top">
-		</Widget>
-	</Dialog>
-</Screen>
