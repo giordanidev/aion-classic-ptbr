@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<CutSceneText>
-	<Text label="P01">Hmm...you need Aether powerful enough to restore the Beluslan Observatory....</Text>
-	<Text label="P02">Well then, you&apos;d better head for Leibo Island, I think.</Text>
-	<Text label="P03">It&apos;s hidden beneath the Eye of Reshanta, so hardly anyone knows it exists,</Text>
-	<Text label="P04">but the Aether there is the strongest in Reshanta.</Text>
-	<Text label="P05">Take this bottle. When you reach the island, remove the stopper and wait.</Text>
-	<Text label="P06">The Aether will flow into the bottle naturally.</Text>
-</CutSceneText>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<CutSceneText>
-	<Text label="P01">When you besiege a fortress, a Guardian General appears in a chamber underground.</Text>
-	<Text label="P02">Its power is tremendous to behold.</Text>
-	<Text label="P03">Before you claim the fortress, you must defeat the general.</Text>
-	<Text label="P04">Once your Legion kills the general, you capture the fortress,</Text>
-	<Text label="P05">and Sanctum will send a detachment of troops to help you defend it.</Text>
-	<Text label="P06">Sanctum also sends reinforcements when our position here is vulnerable.</Text>
-</CutSceneText>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<CutSceneText>
-	<Text label="P01">The Arena of Discipline is for one-on-one fights.</Text>
-	<Text label="P02">Your opponent may be Asmodian or Elyos.</Text>
-	<Text label="P03">Defeat your opponent to earn points. The first to earn the target number wins.</Text>
-	<Text label="P04">There will be 3 rounds, and when you resurrect, you won&apos;t suffer from Soul Sickness.</Text>
-	<Text label="P05">If no one reaches the points target, the contestant with more points after 3 rounds will be the winner.</Text>
-</CutSceneText>
