@@ -5,11 +5,14 @@ import lxml.etree as parser
 import os, time, codecs, shutil, zipfile, subprocess, sys
 from pathlib import Path
 
+#sys.exit("Error message")
+
 print(f"+|+|+ SCRIPT INICIADO")
 start_time_python = time.monotonic()
-originais = ["data_eu", "Data_na"]
-parsed = "_parsed"
-downloads = "_arquivo"
+originais = ".\\_originais"
+arquivos_originais = [name for name in os.listdir(originais) if os.path.isdir(os.path.join(originais, name))]
+parsed = ".\\_parsed"
+downloads = ".\\_arquivo"
 versao_na = "280"
 versao_eu = "200"
 ignorar_parse = ["ui.xml", "msg.xml", "dialog.xml", "level.xml"] #quando "ignorar" for "Verdadeiro", o arquivo será traduzido por completo
@@ -45,7 +48,7 @@ def parsing():
 
     print(f">>>>> INICIANDO PARSE :: {iteracoes} arquivos encontrados :: {len(originais)} iteração(ões) :: Total de {iteracoes} parses")
 
-    for original in originais:
+    for original in arquivos_originais:
 
         print(f"##### ITERAÇÃO: {original}")
         start_time_original = time.monotonic()
@@ -57,8 +60,8 @@ def parsing():
 
             start_time_traducao = time.monotonic()
             contagem = 0
-            original_file = f"_originais\{original}\{traducao}"
-            dest = f"{parsed}\{original}\{traducao}"
+            original_file = f"_originais\\{original}\\{traducao}"
+            dest = f"{parsed}\\{original}\\{traducao}"
             print(f"[{contagem_arquivo}/{iteracoes}] Arquivo: {traducao}")
 
             original_tree = parser.parse(original_file)
@@ -140,8 +143,8 @@ def unicode():
 
         for arquivo in arquivos:
             start_time_arquivo = time.monotonic()
-            orig = f"{parsed}\{original}\{arquivo}"
-            dest = f"PAK\z_{original}_ptBR\{arquivo}"
+            orig = f"{parsed}\\{original}\\{arquivo}"
+            dest = f"PAK\\z_{original}_ptBR\\{arquivo}"
 
             verificar_arquivos(contagem_arquivo, iteracoes, dest)
 
@@ -149,7 +152,7 @@ def unicode():
             if os.path.isfile(orig):
                 shutil.copy2(orig, dest)
             else:
-                shutil.copy2(f".\{arquivo}", dest)
+                shutil.copy2(f".\\{arquivo}", dest)
             print(f"[{contagem_arquivo}/{iteracoes}] Copiando arquivo: '{orig}' -> '{dest}' :: Arquivo copiado")
 
             f = codecs.open(dest, encoding='utf-8')
@@ -205,9 +208,9 @@ def repack():
         start_time_original = time.monotonic()
         print(f"##### ITERAÇÃO: {original}")
 
-        orig = f"REPACK\z_{original}_ptBR.pak"
+        orig = f"REPACK\\z_{original}_ptBR.pak"
         dest_temp = f"z_{original}_ptBR.pak"
-        dest = f"{downloads}\z_{original}_ptBR.zip"
+        dest = f"{downloads}\\z_{original}_ptBR.zip"
 
         verificar_arquivos(contagem_arquivo, iteracoes, dest)
 
