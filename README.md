@@ -1,12 +1,11 @@
-# Aion Classic EU pt_BR
+# Aion Classic NOVA VERSO 1.9
 
-### Só funciona para o CLASSIC EUROPEU por enquanto!!!
-
-> Comecei esse projeto para ajudar os BRs que não entendem Inglês e gostariam de uma tradução que facilitasse a vida!
+### Só funciona para o Aion Classic NOVA VERSO 1.9!!!
 
 **Para ajudar por favor visitem o discord: [http://discord.aiononline.com.br](http://discord.aiononline.com.br)**
+Procurem por @konkersgg.
 
-**Estamos jogando o Aion Classic EU: [http://classic.aiononline.com.br](http://classic.aiononline.com.br)**
+**Estamos jogando o Aion Classic NOVA VERSO 1.9: [http://classic.aiononline.com.br](http://classic.aiononline.com.br)**
 
 ## Estado atual da tradução:
 - [x] 100% **UI** (ainda há ajustes a serem feitos, como por exemplo textos muito longos, mas está traduzido :tada:)
