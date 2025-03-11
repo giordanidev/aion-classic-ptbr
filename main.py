@@ -1,30 +1,24 @@
-# TODO
-# VERIFICAR SKILLS POR VERSÃO
-
+#sys.exit()
 import lxml.etree as parser
 import os, time, codecs, shutil, zipfile, subprocess, sys
 from pathlib import Path
 
-#sys.exit("Error message")
-
 print(f"+|+|+ SCRIPT INICIADO")
 start_time_python = time.monotonic()
 originais = ".\\_originais"
-arquivos_originais = [name for name in os.listdir(originais) if os.path.isdir(os.path.join(originais, name))]
+arquivos_originais = [name for name in os.listdir(originais) if os.path.isdir(os.path.join(originais, name))] #puxa os diretorios na pasta _originais
+traduzidos = ".\\_traduzidos"
+
+arquivos = []
+for caminho, _, traduzir in os.walk(traduzidos):
+    for arquivo in traduzir:
+        arquivos.append(os.path.join(caminho, arquivo)) #puxa o caminho completo de todos os arquivos já traduzidos
+
 parsed = ".\\_parsed"
 downloads = ".\\_arquivo"
-versao_na = "280"
-versao_eu = "200"
-ignorar_parse = ["ui.xml", "msg.xml", "dialog.xml", "level.xml"] #quando "ignorar" for "Verdadeiro", o arquivo será traduzido por completo
-arquivos = [
-    "strings\\client_strings_ui.xml",
-    "strings\\client_strings_msg.xml",
-    "strings\\stringtable_dialog.xml",
-    "strings\\client_strings_item.xml",
-    "strings\\client_strings_item2.xml",
-    "strings\\client_strings_skill.xml",
-    "strings\\client_strings_level.xml"
-]
+#quando "ignorar" for "Verdadeiro", o arquivo será traduzido por completo
+#usado em arquivos que a descrição é o nome do item
+ignorar_parse = ["ui.xml", "msg.xml", "dialog.xml", "level.xml"]
 
 def verificar_arquivos(contagem_arquivo, iteracoes, dest):
     print(f"[{contagem_arquivo}/{iteracoes}] Verificando arquivo: {dest}", end="\r")
@@ -44,7 +38,7 @@ def parsing():
     start_time_total = time.monotonic()
     contagem_arquivo = 1
     arquivos_len = len(arquivos)
-    iteracoes = arquivos_len*len(originais)
+    iteracoes = arquivos_len*len(arquivos_originais)
 
     print(f">>>>> INICIANDO PARSE :: {iteracoes} arquivos encontrados :: {len(originais)} iteração(ões) :: Total de {iteracoes} parses")
 
@@ -104,7 +98,7 @@ def parsing():
                         parser.SubElement(novo_string, elemento.tag).text = texto_traducao.find(elemento.tag).text
             """
                 execution_time = "%.2f" % (time.monotonic() - start_time_line)
-                sys.stdout.write(f"[{contagem_arquivo}/{iteracoes}] Parsing: {str(contagem)}/{original_len} ({execution_time}s)", end="\r")
+                sys.stdout.write(f"[{contagem_arquivo}/{iteracoes}] Parsing: {str(contagem)}/{original_len} ({execution_time}s)"+"\r")
                 contagem += 1
             print("")
             """
