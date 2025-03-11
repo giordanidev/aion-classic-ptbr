@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="close;title" frame="300,200,335,615" last_modified="2016-10-28 16:51:44" name="relic_calc_dialog" preset="v5_dialog2" shadow_offset="8,8" title_height="25" title_offset="0,5" title_text="STR_RELICCALC_TITLE" type="dlg_relic_calc">
+	<Widget frame="4,1,320,23" name="changemode_container" type="container">
+		<Widget font="ui_combo" frame="0,0,160,23" max_items="3" name="exchangetype_combobox" preset="v5_staticbox3" type="combobox">
+			<Items>
+				<Item name="STR_RELICCALC_EXCHANGE_GAb1_BTN">
+				</Item>
+				<Item name="STR_RELICCALC_EXCHANGE_ab1_BTN">
+				</Item>
+				<Item name="STR_RELICCALC_EXCHANGE_BASE_BTN">
+				</Item>
+			</Items>
+		</Widget>
+		<Widget font="ui_combo" frame="161,0,160,23" max_items="2" name="searchrelic_combobox" preset="v5_staticbox3" type="combobox">
+			<Items>
+				<Item name="STR_RELICCALC_SEARCH_ALL">
+				</Item>
+				<Item name="STR_RELICCALC_SEARCH_INVENTORY">
+				</Item>
+			</Items>
+		</Widget>
+	</Widget>
+	<Widget frame="5,28,319,437" name="relic_container" preset="v5_staticbox" type="container">
+		<Widget frame="0,2,319,82" name="relicgroup_1_container" type="container">
+			<Widget flag="not_multiline;not_wordwrap;truncate" font="ui_static_title" frame="6,3,151,19" name="relicname_1_1" type="static">
+			</Widget>
+			<Widget flag="not_multiline;not_wordwrap;truncate" font="ui_static_title" frame="6,22,151,19" name="relicname_1_2" type="static">
+			</Widget>
+			<Widget flag="not_multiline;not_wordwrap;truncate" font="ui_static_title" frame="6,41,151,19" name="relicname_1_3" type="static">
+			</Widget>
+			<Widget flag="not_multiline;not_wordwrap;truncate" font="ui_static_title" frame="6,60,151,19" name="relicname_1_4" type="static">
+			</Widget>
+			<Widget flag="not_multiline;not_wordwrap" font="ui_static_title" frame="161,3,68,19" HAlign="right" name="relicpoint_1_1" type="static">
+			</Widget>
+			<Widget flag="not_multiline;not_wordwrap" font="ui_static_title" frame="161,22,68,19" HAlign="right" name="relicpoint_1_2" type="static">
+			</Widget>
+			<Widget flag="not_multiline;not_wordwrap" font="ui_static_title" frame="161,41,68,19" HAlign="right" name="relicpoint_1_3" type="static">
+			</Widget>
+			<Widget flag="not_multiline;not_wordwrap" font="ui_static_title" frame="161,60,68,19" HAlign="right" name="relicpoint_1_4" type="static">
+			</Widget>
+			<Widget frame="233,3,80,19" HAlign="center" name="relicspin_1_1" type="spin">
+			</Widget>
+			<Widget frame="233,22,80,19" HAlign="center" name="relicspin_1_2" type="spin">
+			</Widget>
+			<Widget frame="233,41,80,19" HAlign="center" name="relicspin_1_3" type="spin">
+			</Widget>
+			<Widget frame="233,60,80,19" HAlign="center" name="relicspin_1_4" type="spin">
+			</Widget>
+		</Widget>
+		<Widget frame="0,85,319,3" name="line1" preset="v5_ruler" type="image">
+		</Widget>
+		<Widget frame="0,90,319,82" name="relicgroup_2_comtainer" type="container">
+			<Widget flag="not_multiline;not_wordwrap;truncate" font="ui_static_title" frame="6,3,151,19" name="relicname_2_1" type="static">
+			</Widget>
+			<Widget flag="not_multiline;not_wordwrap;truncate" font="ui_static_title" frame="6,22,151,19" name="relicname_2_2" type="static">
+			</Widget>
+			<Widget flag="not_multiline;not_wordwrap;truncate" font="ui_static_title" frame="6,41,151,19" name="relicname_2_3" type="static">
+			</Widget>
+			<Widget flag="not_multiline;not_wordwrap;truncate" font="ui_static_title" frame="6,60,151,19" name="relicname_2_4" type="static">
+			</Widget>
+			<Widget flag="not_multiline;not_wordwrap" font="ui_static_title" frame="161,3,68,19" HAlign="right" name="relicpoint_2_1" type="static">
+			</Widget>
+			<Widget flag="not_multiline;not_wordwrap" font="ui_static_title" frame="161,22,68,19" HAlign="right" name="relicpoint_2_2" type="static">
+			</Widget>
+			<Widget flag="not_multiline;not_wordwrap" font="ui_static_title" frame="161,41,68,19" HAlign="right" name="relicpoint_2_3" type="static">
+			</Widget>
+			<Widget flag="not_multiline;not_wordwrap" font="ui_static_title" frame="161,60,68,19" HAlign="right" name="relicpoint_2_4" type="static">
+			</Widget>
+			<Widget frame="233,3,80,19" HAlign="center" name="relicspin_2_1" type="spin">
+			</Widget>
+			<Widget frame="233,22,80,19" HAlign="center" name="relicspin_2_2" type="spin">
+			</Widget>
+			<Widget frame="233,41,80,19" HAlign="center" name="relicspin_2_3" type="spin">
+			</Widget>
+			<Widget frame="233,60,80,19" HAlign="center" name="relicspin_2_4" type="spin">
+			</Widget>
+		</Widget>
+		<Widget frame="0,173,319,3" name="line2" preset="v5_ruler" type="image">
+		</Widget>
+		<Widget frame="0,178,319,82" name="relicgroup_3_comtainer" type="container">
+			<Widget flag="not_multiline;not_wordwrap;truncate" font="ui_static_title" frame="6,3,151,19" name="relicname_3_1" type="static">
+			</Widget>
+			<Widget flag="not_multiline;not_wordwrap;truncate" font="ui_static_title" frame="6,22,151,19" name="relicname_3_2" type="static">
+			</Widget>
+			<Widget flag="not_multiline;not_wordwrap;truncate" font="ui_static_title" frame="6,41,151,19" name="relicname_3_3" type="static">
+			</Widget>
+			<Widget flag="not_multiline;not_wordwrap;truncate" font="ui_static_title" frame="6,60,151,19" name="relicname_3_4" type="static">
+			</Widget>
+			<Widget flag="not_multiline;not_wordwrap" font="ui_static_title" frame="161,3,68,19" HAlign="right" name="relicpoint_3_1" type="static">
+			</Widget>
+			<Widget flag="not_multiline;not_wordwrap" font="ui_static_title" frame="161,22,68,19" HAlign="right" name="relicpoint_3_2" type="static">
+			</Widget>
+			<Widget flag="not_multiline;not_wordwrap" font="ui_static_title" frame="161,41,68,19" HAlign="right" name="relicpoint_3_3" type="static">
+			</Widget>
+			<Widget flag="not_multiline;not_wordwrap" font="ui_static_title" frame="161,60,68,19" HAlign="right" name="relicpoint_3_4" type="static">
+			</Widget>
+			<Widget frame="233,3,80,19" HAlign="center" name="relicspin_3_1" type="spin">
+			</Widget>
+			<Widget frame="233,22,80,19" HAlign="center" name="relicspin_3_2" type="spin">
+			</Widget>
+			<Widget frame="233,41,80,19" HAlign="center" name="relicspin_3_3" type="spin">
+			</Widget>
+			<Widget frame="233,60,80,19" HAlign="center" name="relicspin_3_4" type="spin">
+			</Widget>
+		</Widget>
+		<Widget frame="0,261,319,3" name="line3" preset="v5_ruler" type="image">
+		</Widget>
+		<Widget frame="0,266,319,82" name="relicgroup_4_comtainer" type="container">
+			<Widget flag="not_multiline;not_wordwrap;truncate" font="ui_static_title" frame="6,3,151,19" name="relicname_4_1" type="static">
+			</Widget>
+			<Widget flag="not_multiline;not_wordwrap;truncate" font="ui_static_title" frame="6,22,151,19" name="relicname_4_2" type="static">
+			</Widget>
+			<Widget flag="not_multiline;not_wordwrap;truncate" font="ui_static_title" frame="6,41,151,19" name="relicname_4_3" type="static">
+			</Widget>
+			<Widget flag="not_multiline;not_wordwrap;truncate" font="ui_static_title" frame="6,60,151,19" name="relicname_4_4" type="static">
+			</Widget>
+			<Widget flag="not_multiline;not_wordwrap" font="ui_static_title" frame="161,3,68,19" HAlign="right" name="relicpoint_4_1" type="static">
+			</Widget>
+			<Widget flag="not_multiline;not_wordwrap" font="ui_static_title" frame="161,22,68,19" HAlign="right" name="relicpoint_4_2" type="static">
+			</Widget>
+			<Widget flag="not_multiline;not_wordwrap" font="ui_static_title" frame="161,41,68,19" HAlign="right" name="relicpoint_4_3" type="static">
+			</Widget>
+			<Widget flag="not_multiline;not_wordwrap" font="ui_static_title" frame="161,60,68,19" HAlign="right" name="relicpoint_4_4" type="static">
+			</Widget>
+			<Widget frame="233,3,80,19" HAlign="center" name="relicspin_4_1" type="spin">
+			</Widget>
+			<Widget frame="233,22,80,19" HAlign="center" name="relicspin_4_2" type="spin">
+			</Widget>
+			<Widget frame="233,41,80,19" HAlign="center" name="relicspin_4_3" type="spin">
+			</Widget>
+			<Widget frame="233,60,80,19" HAlign="center" name="relicspin_4_4" type="spin">
+			</Widget>
+		</Widget>
+		<Widget frame="0,349,319,3" name="line4" preset="v5_ruler" type="image">
+		</Widget>
+		<Widget frame="0,354,319,82" name="relicgroup_5_comtainer" type="container">
+			<Widget flag="not_multiline;not_wordwrap;truncate" font="ui_static_title" frame="6,3,151,19" name="relicname_5_1" type="static">
+			</Widget>
+			<Widget flag="not_multiline;not_wordwrap;truncate" font="ui_static_title" frame="6,22,151,19" name="relicname_5_2" type="static">
+			</Widget>
+			<Widget flag="not_multiline;not_wordwrap;truncate" font="ui_static_title" frame="6,41,151,19" name="relicname_5_3" type="static">
+			</Widget>
+			<Widget flag="not_multiline;not_wordwrap;truncate" font="ui_static_title" frame="6,60,151,19" name="relicname_5_4" type="static">
+			</Widget>
+			<Widget flag="not_multiline;not_wordwrap" font="ui_static_title" frame="161,3,68,19" HAlign="right" name="relicpoint_5_1" type="static">
+			</Widget>
+			<Widget flag="not_multiline;not_wordwrap" font="ui_static_title" frame="161,22,68,19" HAlign="right" name="relicpoint_5_2" type="static">
+			</Widget>
+			<Widget flag="not_multiline;not_wordwrap" font="ui_static_title" frame="161,41,68,19" HAlign="right" name="relicpoint_5_3" type="static">
+			</Widget>
+			<Widget flag="not_multiline;not_wordwrap" font="ui_static_title" frame="161,60,68,19" HAlign="right" name="relicpoint_5_4" type="static">
+			</Widget>
+			<Widget frame="233,3,80,19" HAlign="center" name="relicspin_5_1" type="spin">
+			</Widget>
+			<Widget frame="233,22,80,19" HAlign="center" name="relicspin_5_2" type="spin">
+			</Widget>
+			<Widget frame="233,41,80,19" HAlign="center" name="relicspin_5_3" type="spin">
+			</Widget>
+			<Widget frame="233,60,80,19" HAlign="center" name="relicspin_5_4" type="spin">
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget frame="5,469,319,81" name="result_comtainer" preset="v5_staticbox" type="container">
+		<Widget font="ui_static_value" frame="5,5,309,72" name="result_html" preset="v5_staticbox2" type="htmlview">
+		</Widget>
+	</Widget>
+	<Widget font="ui_default" frame="260,558,68,24" halign="center" name="cancel" preset="v5_button" text="STR_RELICCALC_CLOSE_BTN" type="button">
+	</Widget>
+	<Widget font="ui_default" frame="2,558,68,24" halign="center" name="init_button" preset="v5_button" text="STR_RELICCALC_INIT_BTN" type="button">
+	</Widget>
+</Dialog>

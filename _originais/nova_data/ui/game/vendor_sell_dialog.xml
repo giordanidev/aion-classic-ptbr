@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="close;title" frame="382,100,490,316" last_modified="2015-01-07 17:16:13" name="vendor_sell_dialog" preset="v5_msgbox" shadow_offset="8,8" title_align="left" title_frame="3,3,466,14" title_height="25" title_offset="5,5" title_text="STR_VENDOR_SELL_DIALOG" type="dlg_vendor_sell">
+	<Widget frame="0,173,290,82" preset="v5_staticbox" type="image">
+	</Widget>
+	<Widget font="ui_default" frame="6,180,200,20" scroll_type="hidden" text="STR_VENDOR_SELL_DIALOG__PRICE_MESSAGE" type="static">
+	</Widget>
+	<Widget alphanumeric="False" font="v3_money" frame="13,226,271,24" h_align="right" h_padding="5" halign="right" max_length="10" name="price" numeric="1" preset="v5_editbox" tabstop="2" type="editbox" v_padding="5">
+	</Widget>
+	<Widget defbutton="true" font="ui_default" frame="362,260,60,24" h_pos_align="right" name="ok" preset="v5_button" text="STR_ITEM_PRICE_COUNT_DIALOG__OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="423,260,60,24" h_pos_align="right" name="cancel" preset="v5_button" text="STR_ITEM_PRICE_COUNT_DIALOG__CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="14,201,79,23" text="STR_VENDOR_SELL_DIALOG__PRICE_ENTERED" type="static">
+	</Widget>
+	<Widget frame="290,0,4,257" type="image">
+		<Skin name="v5_num_ruler">
+		</Skin>
+	</Widget>
+	<Widget frame="415,98,46,25" name="num0" preset="v5_num_button" single_click_only="True" text="STR_ITEM_PRICE_COUNT_DIALOG__0" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+	<Widget frame="331,148,28,25" name="num1" preset="v5_num_button" single_click_only="True" text="STR_ITEM_PRICE_COUNT_DIALOG__1" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+	<Widget frame="359,148,28,25" name="num2" preset="v5_num_button" single_click_only="True" text="STR_ITEM_PRICE_COUNT_DIALOG__2" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+	<Widget frame="387,148,28,25" name="num3" preset="v5_num_button" single_click_only="True" text="STR_ITEM_PRICE_COUNT_DIALOG__3" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+	<Widget frame="331,123,28,25" name="num4" preset="v5_num_button" single_click_only="True" text="STR_ITEM_PRICE_COUNT_DIALOG__4" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+	<Widget frame="359,123,28,25" name="num5" preset="v5_num_button" single_click_only="True" text="STR_ITEM_PRICE_COUNT_DIALOG__5" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+	<Widget frame="387,123,28,25" name="num6" preset="v5_num_button" single_click_only="True" text="STR_ITEM_PRICE_COUNT_DIALOG__6" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+	<Widget frame="331,98,28,25" name="num7" preset="v5_num_button" single_click_only="True" text="STR_ITEM_PRICE_COUNT_DIALOG__7" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+	<Widget frame="359,98,28,25" name="num8" preset="v5_num_button" single_click_only="True" text="STR_ITEM_PRICE_COUNT_DIALOG__8" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+	<Widget frame="387,98,28,25" name="num9" preset="v5_num_button" single_click_only="True" text="STR_ITEM_PRICE_COUNT_DIALOG__9" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+	<Widget frame="359,173,28,25" name="clear" preset="v5_num_button" single_click_only="True" text="STR_ITEM_PRICE_COUNT_DIALOG__CLEAR" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+	<Widget frame="387,173,28,25" name="back" preset="v5_num_button" single_click_only="True" text="STR_ITEM_PRICE_COUNT_DIALOG__BACK" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+	<Widget frame="331,173,28,25" name="all" preset="v5_num_button" single_click_only="True" text="STR_ITEM_PRICE_COUNT_DIALOG__ALL" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+	<Widget frame="415,123,46,25" name="num00" preset="v5_num_button" single_click_only="True" text="STR_ITEM_PRICE_COUNT_DIALOG__00" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+	<Widget frame="415,148,46,25" name="num000" preset="v5_num_button" single_click_only="True" text="STR_ITEM_PRICE_COUNT_DIALOG__000" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+	<Widget frame="415,173,46,25" name="num0000" preset="v5_num_button" single_click_only="True" text="STR_ITEM_PRICE_COUNT_DIALOG__0000" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+	<Widget font="v3_money" font_size="-14" frame="92,201,186,23" halign="right" name="price_view" padding="5,0" type="static">
+	</Widget>
+	<Widget font="ui_default" frame="6,55,200,20" scroll_type="hidden" text="STR_VENDOR_SELL_DIALOG__PRICE_INFO" type="static">
+	</Widget>
+	<Widget flag="truncate" font="ui_list" frame="6,5,272,44" item_height="44" item_width="44" name="item" preset="v5_listview_single" reserve_slots="True" scroll_type="hidden" slot_num="1" type="listview" viewmode="detail">
+		<Column align="" title="" width="1000">
+		</Column>
+	</Widget>
+	<Widget font="ui_default" frame="307,70,161,20" scroll_type="hidden" text="STR_VENDOR_SELL_DIALOG__NUMBER" type="static">
+	</Widget>
+	<Widget flag="not_visible" font="ui_default" frame="6,147,93,21" halign="right" name="open_web_nouse" preset="v5_expand_button" style="checkbox" text="STR_VENDOR_SELL_DIALOG__OPEN_WEB" text_offset="2,0" type="button">
+	</Widget>
+	<Widget font="v3_money" frame="118,124,160,22" halign="right" name="max_price_view" padding="5,0" preset="v5_staticbox" type="static">
+	</Widget>
+	<Widget font="ui_default" frame="16,124,101,22" text="STR_VENDOR_SELL_DIALOG__MAX_PRICE" type="static">
+	</Widget>
+	<Widget font="v3_money" frame="118,100,160,22" halign="right" name="min_price_view" padding="5,0" preset="v5_staticbox" type="static">
+	</Widget>
+	<Widget font="ui_default" frame="16,100,101,22" text="STR_VENDOR_SELL_DIALOG__MIN_PRICE" type="static">
+	</Widget>
+	<Widget font="v3_money" frame="118,76,160,22" halign="right" name="avg_price_view" padding="5,0" preset="v5_staticbox" type="static">
+	</Widget>
+	<Widget font="ui_default" frame="16,76,101,22" text="STR_VENDOR_SELL_DIALOG__AVG_PRICE" type="static">
+	</Widget>
+</Dialog>

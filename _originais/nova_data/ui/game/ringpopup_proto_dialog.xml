@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="not_visible;active" frame="100,100,288,288" last_modified="2015-05-14 18:29:25" name="ringpopup_proto_dialog" shadow_offset="8,8" title_align="center" title_frame="3,3,296,14" title_height="25" title_offset="10,2" type="dlg_ringpopup_proto">
+	<Widget flag="nonclient" frame="0,0,288,288" name="bg_shadow" preset="v5_ring_menu_bg_shadow" type="image">
+	</Widget>
+	<Widget flag="nonclient" frame="0,0,288,288" name="bg" preset="v5_ring_menu_bg" type="image">
+	</Widget>
+	<Widget flag="nonclient;active" font="ui_default" frame="103,11,81,81" name="item" preset="v5_ring_menu_btn_equip" type="button">
+		<Widget flag="not_active;nonclient;not_visible;truncate" frame="0,55,81,21" halign="center" name="desc" text="????" type="static">
+		</Widget>
+	</Widget>
+	<Widget frame="145,137,57,4" name="inner_radius" type="container">
+	</Widget>
+	<Widget frame="145,141,130,4" name="outer_radius" type="container">
+	</Widget>
+	<Widget flag="not_active;truncate" frame="104,136,81,19" halign="center" margin="2,2,2,2" name="menu_text" preset="v5_staticbox" text="????" type="static">
+	</Widget>
+</Dialog>

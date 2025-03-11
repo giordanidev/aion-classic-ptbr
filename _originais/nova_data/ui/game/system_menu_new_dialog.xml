@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="exclusive" close_offset="4,1" close_preset="v5_close" flag="close;title" frame="550,300,557,331" h_pos_align="center" last_modified="2015-05-07 17:31:38" name="system_menu_new_dialog" preset="v5_dialog2" shadow_offset="8,8" title_align="center" title_frame="3,3,551,14" title_height="25" title_offset="0,5" title_text="STR_PLAYER_HISTORY_DIALOG__MENU" type="dlg_system_menu_new" ui_mode="housing;housing_building" v_pos_align="middle">
+	<Widget font="ui_default" frame="11,274,100,24" h_pos_align="center" name="quit_game" preset="v5_button" text="STR_SYSTEM_MENU_DIALOG__QUIT_GAME" type="button">
+	</Widget>
+	<Widget font="ui_default" frame="118,274,100,24" h_pos_align="center" name="logout" preset="v5_button" text="STR_SYSTEM_MENU_DIALOG__LOGOUT" type="button">
+	</Widget>
+	<Widget font="ui_default" frame="225,274,100,24" h_pos_align="center" name="goto_select" preset="v5_button" text="STR_SYSTEM_MENU_DIALOG__GOTO_SELECT" type="button">
+	</Widget>
+	<Widget font="ui_default" frame="332,274,100,24" h_pos_align="center" name="option" preset="v5_button" text="STR_SYSTEM_MENU_DIALOG__OPTION" type="button">
+	</Widget>
+	<Widget font="ui_default" frame="439,274,100,24" h_pos_align="center" name="cancel" preset="v5_button" text="STR_SYSTEM_MENU_DIALOG__CANCEL" type="button">
+	</Widget>
+	<Widget frame="12,3,533,264" type="container">
+		<Widget font="v3_money" frame="328,61,178,24" h_pos_align="right" halign="right" name="log_money" padding="5,0" preset="v5_staticbox" text_offset="5,0" type="static" valign="middle">
+		</Widget>
+		<Widget flag="truncate" font="ui_default" frame="234,61,85,23" halign="left" text="STR_GOLD" text_shade="False" type="static">
+		</Widget>
+		<Widget font="v3_money" frame="328,169,178,24" h_pos_align="right" halign="right" name="log_ap" padding="5,0" preset="v5_staticbox" text_offset="5,0" type="static" valign="middle">
+		</Widget>
+		<Widget flag="truncate" font="ui_default" frame="234,115,85,23" halign="left" text="STR_PLAYER_HISTORY_CLEAR_QUEST" text_shade="False" type="static">
+		</Widget>
+		<Widget font="v3_money" frame="328,34,178,24" h_pos_align="right" halign="right" name="log_exp" padding="5,0" preset="v5_staticbox" text_offset="5,0" type="static" valign="middle">
+		</Widget>
+		<Widget flag="truncate" font="ui_default" frame="234,34,85,23" halign="left" text="STR_PLAYER_HISTORY_GET_XP" text_shade="False" type="static">
+		</Widget>
+		<Widget font="v3_money" frame="328,142,178,24" h_pos_align="right" halign="right" name="log_item" padding="5,0" preset="v5_staticbox" text_offset="5,0" type="static" valign="middle">
+		</Widget>
+		<Widget flag="truncate" font="ui_default" frame="234,196,85,23" halign="left" name="title_gp" text="STR_PLAYER_HISTORY_GET_GP" text_shade="False" type="static">
+		</Widget>
+		<Widget frame="506,196,21,22" name="btn_log_gp" preset="v5_next_page" type="button">
+		</Widget>
+		<Widget font="ui_default" frame="427,235,100,24" h_pos_align="center" name="reset_log" preset="v5_button" text="STR_VENDOR_DIALOG__SEARCH_CANCEL" type="button">
+		</Widget>
+		<Widget flag="truncate" font="ui_default" frame="234,88,85,23" halign="left" text="STR_PLAYER_HISTORY_KILL_MONSTER" text_shade="False" type="static">
+		</Widget>
+		<Widget font="v3_money" frame="328,88,178,24" h_pos_align="right" halign="right" name="log_kill" padding="5,0" preset="v5_staticbox" text_offset="5,0" type="static" valign="middle">
+		</Widget>
+		<Widget font="v3_money" frame="328,196,178,24" h_pos_align="right" halign="right" name="log_gp" padding="5,0" preset="v5_staticbox" text_offset="5,0" type="static" valign="middle">
+		</Widget>
+		<Widget flag="truncate" font="ui_default" frame="234,142,85,23" halign="left" text="STR_SKILL_INFO_ITEM" text_shade="False" type="static">
+		</Widget>
+		<Widget flag="truncate" font="ui_default" frame="234,169,85,23" halign="left" text="STR_PLAYER_HISTORY_GET_AP" text_shade="False" type="static">
+		</Widget>
+		<Widget font="v3_money" frame="328,115,178,24" h_pos_align="right" halign="right" name="log_quest" padding="5,0" preset="v5_staticbox" text_offset="5,0" type="static" valign="middle">
+		</Widget>
+		<Widget font="v3_money" frame="328,7,178,24" h_pos_align="right" halign="right" name="log_playtime" padding="5,0" preset="v5_staticbox" text_offset="5,0" type="static" valign="middle">
+		</Widget>
+		<Widget flag="truncate" font="ui_default" frame="234,7,85,23" halign="left" text="STR_PLAYER_HISTORY_PLAY_TIME" text_shade="False" type="static">
+		</Widget>
+		<Widget frame="506,169,21,22" name="btn_log_ap" preset="v5_next_page" type="button">
+		</Widget>
+		<Widget frame="506,142,21,22" name="btn_log_item_list" preset="v5_next_page" type="button">
+		</Widget>
+		<Widget frame="506,115,21,22" name="btn_log_quest" preset="v5_next_page" type="button">
+		</Widget>
+	</Widget>
+</Dialog>

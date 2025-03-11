@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="not_active;not_focusable" frame="507,758,271,45" h_pos_align="center" last_modified="2020-09-07 20:08:54" name="enchant_delay_dialog" type="dlg_enchant_delay" v_pos_align="bottom">
+	<Widget frame="0,7,271,38" name="delay_bg" preset="v4_hud_delay" type="image">
+	</Widget>
+	<Widget frame="29,0,213,16" halign="center" name="name" text_shade="True" type="static" valign="middle">
+	</Widget>
+	<Widget flag="not_visible" frame="21,22,228,10" name="delay2" preset="v4_delay_gauge_warning" type="gauge" value_type="float">
+	</Widget>
+	<Widget frame="21,22,228,10" name="delay" preset="v4_delay_gauge" type="gauge" value_type="float">
+	</Widget>
+</Dialog>

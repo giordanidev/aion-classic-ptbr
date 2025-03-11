@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="close;title" frame="390,150,351,401" last_modified="2020-08-28 22:02:45" name="familiar_sub_release_dialog" preset="v5_dialog2" shadow_offset="8,8" title_align="center" title_frame="3,3,428,14" title_height="25" title_offset="0,5" title_text="STR_UI_FAMILIAR_SUB_RELEASE_DIALOG_TITLE" type="dlg_familiar_sub_release">
+	<Widget frame="150,6,44,44" name="prototype" type="container">
+		<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="0,0,44,44" group="itemview" item_height="44" item_width="44" name="slot" preset="v5_familiar_slot" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+		</Widget>
+	</Widget>
+	<Widget frame="325,4,16,16" name="familiar_tip" tooltip="STR_DIALOG_FAMILIAR_SUB_RELEASE_TUTORIAL_TOOLTIP" type="image">
+		<Skin name="help_button_up">
+		</Skin>
+	</Widget>
+	<Widget frame="2,57,342,205" image="v5_static_bg4" name="con_sub" type="container">
+		<Widget frame="33,4,103,23" h_pos_align="right" halign="center" name="str_current" text="STR_UI_FAMILIAR_SUB_RELEASE_DIALOG_BEFORE_EQUIP" type="static" v_pos_align="top" valign="middle">
+		</Widget>
+		<Widget frame="204,4,103,23" h_pos_align="right" halign="center" name="str_new" text="STR_UI_FAMILIAR_SUB_RELEASE_DIALOG_AFTER_EQUIP" type="static" v_pos_align="top" valign="middle">
+		</Widget>
+		<Widget frame="59,20,57,26" name="current_grade_pos" type="container">
+		</Widget>
+		<Widget frame="59,20,57,26" name="current_grade_container" type="container">
+			<Widget frame="0,3,20,20" name="cur_tier_grade" preset="familiar_tier_grade_img" type="image">
+			</Widget>
+			<Widget frame="14,7,16,16" name="cur_tier_grade_sub1" preset="familiar_tier_grade_img" type="image">
+			</Widget>
+		</Widget>
+		<Widget frame="228,20,57,26" name="new_grade_pos" type="container">
+		</Widget>
+		<Widget frame="228,20,57,26" name="new_grade_container" type="container">
+			<Widget frame="0,3,20,20" name="new_tier_grade" preset="familiar_tier_grade_img" type="image">
+			</Widget>
+			<Widget frame="14,7,16,16" name="new_tier_grade_sub1" preset="familiar_tier_grade_img" type="image">
+			</Widget>
+		</Widget>
+		<Widget frame="77,26,20,20" name="grade_current" preset="familiar_tier_grade_img" type="image">
+		</Widget>
+		<Widget frame="246,27,20,20" name="grade_new" preset="familiar_tier_grade_img" type="image">
+		</Widget>
+		<Widget frame="0,46,338,157" margin="5,5,5,7" name="attr_desc" scroll_type="hidden" type="htmlview">
+		</Widget>
+		<Widget frame="157,10,27,36" name="arrow" type="image">
+			<Skin name="authorize_arrow" state="0">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="2,273,341,64" name="con_cost" type="container">
+		<Widget frame="8,6,113,23" h_pos_align="right" halign="right" name="str_my_money" text="STR_FAMILIAR_GROWTH_MYGOLD" type="static" v_pos_align="top" valign="middle">
+		</Widget>
+		<Widget font="v3_money" frame="125,6,215,23" h_pos_align="right" halign="right" name="my_money" padding="5,0" preset="v5_staticbox" type="static" v_pos_align="top" valign="middle">
+		</Widget>
+		<Widget frame="3,34,120,23" h_pos_align="right" halign="right" name="str_cost_money" text="STR_UI_FAMILIAR_SUB_RELEASE_DIALOG_EQUIP_MONEY" type="static" v_pos_align="top" valign="middle">
+		</Widget>
+		<Widget font="v3_money" frame="125,34,215,23" h_pos_align="right" halign="right" name="cost_money" padding="5,0" preset="v5_staticbox" type="static" v_pos_align="top" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget flag="nonclient" frame="6,296,340,5" h_pos_align="right" name="content_sep" preset="v5_tooltip_sep_content" type="image">
+	</Widget>
+	<Widget font="ui_default" frame="163,343,86,24" h_pos_align="right" name="ok" preset="v5_button" text="STR_UI_FAMILIAR_SUB_EQUIP_DIALOG_RELEASE_BUTTON" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="253,343,86,24" h_pos_align="right" name="cancel" preset="v5_button" text="STR_COMMON__CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

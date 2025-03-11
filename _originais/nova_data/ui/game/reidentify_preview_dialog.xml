@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="title" frame="440,130,486,449" last_modified="2014-08-22 12:58:42" name="reidentify_preview_dialog" preset="v5_msgbox" title_align="left" title_frame="3,3,280,14" title_offset="10,5" title_text="STR_REIDENTIFY_PREVIEW_DIALOG" type="dlg_reidentify_preview" v_pos_align="middle">
+	<Widget flag="multiline;wordwrap" font="ui_static_title" frame="53,7,421,44" halign="center" name="msg" padding="2,2" scroll_type="hidden" text_offset="30, 0" type="htmlview">
+	</Widget>
+	<Widget frame="0,57,480,334" name="con_bg" type="container">
+		<Skin name="v5_container_bg2">
+		</Skin>
+		<Widget frame="6,13,8,8" type="image">
+			<Skin name="v5_dot" state="0">
+			</Skin>
+		</Widget>
+		<Widget font="v3_option" frame="21,7,150,19" text="STR_REIDENTIFY_DIALOG_BEFORE" type="static">
+		</Widget>
+		<Widget frame="269,13,8,8" type="image">
+			<Skin name="v5_dot" state="0">
+			</Skin>
+		</Widget>
+		<Widget font="v3_option" frame="284,7,150,19" text="STR_REIDENTIFY_DIALOG_AFTER" type="static">
+		</Widget>
+		<Widget frame="214,141,53,75" name="arrow" type="image">
+		</Widget>
+		<Widget frame="6,29,204,295" name="con_old" type="container">
+			<Skin name="v5_container_bg4">
+			</Skin>
+			<Widget font="ui_default" frame="2,3,200,54" h_pos_align="proportion" name="option_old_0" type="htmlview" v_pos_align="top">
+			</Widget>
+			<Widget font="ui_default" frame="2,58,200,50" h_pos_align="proportion" name="option_old_1" type="htmlview" v_pos_align="top">
+			</Widget>
+			<Widget font="ui_default" frame="2,110,200,50" h_pos_align="proportion" name="option_old_2" type="htmlview" v_pos_align="top">
+			</Widget>
+			<Widget font="ui_default" frame="2,162,200,50" h_pos_align="proportion" name="option_old_3" type="htmlview" v_pos_align="top">
+			</Widget>
+			<Widget font="ui_default" frame="2,214,200,50" h_pos_align="proportion" name="option_old_4" type="htmlview" v_pos_align="top">
+			</Widget>
+			<Widget frame="2,266,200,2" h_pos_align="proportion" name="sep_old_0" preset="v5_tooltip_sep_content" type="image">
+			</Widget>
+			<Widget frame="2,268,200,2" h_pos_align="proportion" name="sep_old_1" preset="v5_tooltip_sep_content" type="image">
+			</Widget>
+			<Widget frame="2,270,200,2" h_pos_align="proportion" name="sep_old_2" preset="v5_tooltip_sep_content" type="image">
+			</Widget>
+			<Widget frame="2,272,200,2" h_pos_align="proportion" name="sep_old_3" preset="v5_tooltip_sep_content" type="image">
+			</Widget>
+		</Widget>
+		<Widget frame="269,29,204,295" name="con_new" type="container">
+			<Skin name="v5_container_bg3">
+			</Skin>
+			<Widget font="ui_default" frame="2,3,200,54" h_pos_align="proportion" name="option_new_0" type="htmlview" v_pos_align="top">
+			</Widget>
+			<Widget font="ui_default" frame="2,58,200,50" h_pos_align="proportion" name="option_new_1" type="htmlview" v_pos_align="top">
+			</Widget>
+			<Widget font="ui_default" frame="2,110,200,50" h_pos_align="proportion" name="option_new_2" type="htmlview" v_pos_align="top">
+			</Widget>
+			<Widget font="ui_default" frame="2,162,200,50" h_pos_align="proportion" name="option_new_3" type="htmlview" v_pos_align="top">
+			</Widget>
+			<Widget font="ui_default" frame="2,214,200,50" h_pos_align="proportion" name="option_new_4" type="htmlview" v_pos_align="top">
+			</Widget>
+			<Widget frame="2,266,200,2" h_pos_align="proportion" name="sep_new_0" preset="v5_tooltip_sep_content" type="image">
+			</Widget>
+			<Widget frame="2,268,200,2" h_pos_align="proportion" name="sep_new_1" preset="v5_tooltip_sep_content" type="image">
+			</Widget>
+			<Widget frame="2,270,200,2" h_pos_align="proportion" name="sep_new_2" preset="v5_tooltip_sep_content" type="image">
+			</Widget>
+			<Widget frame="2,272,200,2" h_pos_align="proportion" name="sep_new_3" preset="v5_tooltip_sep_content" type="image">
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget frame="2,392,479,29" name="bottom" type="container">
+		<Widget defbutton="False" font="ui_default" frame="293,3,91,24" name="apply" preset="v5_button" text="STR_REIDENTIFY_PREVIEW_DIALOG_OK" type="button">
+		</Widget>
+		<Widget font="ui_default" frame="385,3,91,24" name="cancel" preset="v5_button" text="STR_REIDENTIFY_PREVIEW_DIALOG_CANCLE" type="button">
+		</Widget>
+		<Widget defbutton="False" flag="not_visible" font="ui_default" frame="385,3,91,24" name="confirm" preset="v5_button" text="STR_REIDENTIFY_PREVIEW_DIALOG_OK" type="button">
+		</Widget>
+	</Widget>
+	<Widget cell_padding="2" flag="not_active" font="v3_shortcut" frame="7,7,44,44" item_height="44" item_width="44" name="slot" one_click_action="True" preset="v5_itemview" type="itemview">
+	</Widget>
+</Dialog>

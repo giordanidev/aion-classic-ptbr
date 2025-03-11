@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="not_movable" frame="10,10,61,671" last_modified="2014-08-22 12:58:41" name="housing_menu_dialog" title_frame="3,3,48,14" type="dlg_housing_menu" ui_mode="not_game;housing">
+	<Widget frame="0,0,61,61" name="container" type="container">
+		<Skin name="v5_housing_menu_frame">
+		</Skin>
+		<Widget flag="not_visible" frame="0,0,61,61" name="marker" preset="v5_housing_changed_marker" type="image">
+		</Widget>
+		<Widget frame="9,9,41,45" name="button" preset="v5_housing_menu_container" tooltip="STR_HOUSING_MENU_DIALOG__TOOLTIP_CONTAINER" type="button">
+		</Widget>
+	</Widget>
+	<Widget frame="0,61,61,61" name="roof" type="container">
+		<Skin name="v5_housing_menu_frame">
+		</Skin>
+		<Widget flag="not_visible" frame="0,0,61,61" name="marker" preset="v5_housing_changed_marker" type="image">
+		</Widget>
+		<Widget frame="9,9,41,45" name="button" preset="v5_housing_menu_roof" tooltip="STR_HOUSING_MENU_DIALOG__TOOLTIP_ROOF" type="button">
+		</Widget>
+	</Widget>
+	<Widget frame="0,122,61,61" name="outwall" type="container">
+		<Skin name="v5_housing_menu_frame">
+		</Skin>
+		<Widget flag="not_visible" frame="0,0,61,61" name="marker" preset="v5_housing_changed_marker" type="image">
+		</Widget>
+		<Widget frame="9,9,41,45" name="button" preset="v5_housing_menu_outwall" tooltip="STR_HOUSING_MENU_DIALOG__TOOLTIP_OUTWALL" type="button">
+		</Widget>
+	</Widget>
+	<Widget frame="0,183,61,61" name="frame" type="container">
+		<Skin name="v5_housing_menu_frame">
+		</Skin>
+		<Widget flag="not_visible" frame="0,0,61,61" name="marker" preset="v5_housing_changed_marker" type="image">
+		</Widget>
+		<Widget frame="9,9,41,45" name="button" preset="v5_housing_menu_frame" tooltip="STR_HOUSING_MENU_DIALOG__TOOLTIP_FRAME" type="button">
+		</Widget>
+	</Widget>
+	<Widget frame="0,244,61,61" name="door" type="container">
+		<Skin name="v5_housing_menu_frame">
+		</Skin>
+		<Widget flag="not_visible" frame="0,0,61,61" name="marker" preset="v5_housing_changed_marker" type="image">
+		</Widget>
+		<Widget frame="9,9,41,45" name="button" preset="v5_housing_menu_door" tooltip="STR_HOUSING_MENU_DIALOG__TOOLTIP_DOOR" type="button">
+		</Widget>
+	</Widget>
+	<Widget frame="0,305,61,61" name="garden" type="container">
+		<Skin name="v5_housing_menu_frame">
+		</Skin>
+		<Widget flag="not_visible" frame="0,0,61,61" name="marker" preset="v5_housing_changed_marker" type="image">
+		</Widget>
+		<Widget frame="9,9,41,45" name="button" preset="v5_housing_menu_garden" tooltip="STR_HOUSING_MENU_DIALOG__TOOLTIP_GARDEN" type="button">
+		</Widget>
+	</Widget>
+	<Widget frame="0,366,61,61" name="fence" type="container">
+		<Skin name="v5_housing_menu_frame">
+		</Skin>
+		<Widget flag="not_visible" frame="0,0,61,61" name="marker" preset="v5_housing_changed_marker" type="image">
+		</Widget>
+		<Widget frame="9,9,41,45" name="button" preset="v5_housing_menu_fence" tooltip="STR_HOUSING_MENU_DIALOG__TOOLTIP_FENCE" type="button">
+		</Widget>
+	</Widget>
+	<Widget frame="0,427,61,61" name="inwall1" type="container">
+		<Skin name="v5_housing_menu_frame">
+		</Skin>
+		<Widget flag="not_visible" frame="0,0,61,61" name="marker" preset="v5_housing_changed_marker" type="image">
+		</Widget>
+		<Widget frame="9,9,41,45" name="button" preset="v5_housing_menu_inwall" tooltip="STR_HOUSING_MENU_DIALOG__TOOLTIP_INWALL1" type="button">
+		</Widget>
+	</Widget>
+	<Widget frame="0,488,61,61" name="infloor1" type="container">
+		<Skin name="v5_housing_menu_frame">
+		</Skin>
+		<Widget flag="not_visible" frame="0,0,61,61" name="marker" preset="v5_housing_changed_marker" type="image">
+		</Widget>
+		<Widget frame="9,9,41,45" name="button" preset="v5_housing_menu_infloor" tooltip="STR_HOUSING_MENU_DIALOG__TOOLTIP_INFLOOR1" type="button">
+		</Widget>
+	</Widget>
+	<Widget frame="61,427,61,61" name="inwall2" type="container">
+		<Skin name="v5_housing_menu_frame">
+		</Skin>
+		<Widget flag="not_visible" frame="0,0,61,61" name="marker" preset="v5_housing_changed_marker" type="image">
+		</Widget>
+		<Widget frame="9,9,41,45" name="button" preset="v5_housing_menu_inwall" tooltip="STR_HOUSING_MENU_DIALOG__TOOLTIP_INWALL2" type="button">
+		</Widget>
+	</Widget>
+	<Widget frame="61,488,61,61" name="infloor2" type="container">
+		<Skin name="v5_housing_menu_frame">
+		</Skin>
+		<Widget flag="not_visible" frame="0,0,61,61" name="marker" preset="v5_housing_changed_marker" type="image">
+		</Widget>
+		<Widget frame="9,9,41,45" name="button" preset="v5_housing_menu_infloor" tooltip="STR_HOUSING_MENU_DIALOG__TOOLTIP_INFLOOR2" type="button">
+		</Widget>
+	</Widget>
+	<Widget frame="122,427,61,61" name="inwall3" type="container">
+		<Skin name="v5_housing_menu_frame">
+		</Skin>
+		<Widget flag="not_visible" frame="0,0,61,61" name="marker" preset="v5_housing_changed_marker" type="image">
+		</Widget>
+		<Widget frame="9,9,41,45" name="button" preset="v5_housing_menu_inwall" tooltip="STR_HOUSING_MENU_DIALOG__TOOLTIP_INWALL3" type="button">
+		</Widget>
+	</Widget>
+	<Widget frame="122,488,61,61" name="infloor3" type="container">
+		<Skin name="v5_housing_menu_frame">
+		</Skin>
+		<Widget flag="not_visible" frame="0,0,61,61" name="marker" preset="v5_housing_changed_marker" type="image">
+		</Widget>
+		<Widget frame="9,9,41,45" name="button" preset="v5_housing_menu_infloor" tooltip="STR_HOUSING_MENU_DIALOG__TOOLTIP_INFLOOR3" type="button">
+		</Widget>
+	</Widget>
+	<Widget frame="183,427,61,61" name="inwall4" type="container">
+		<Skin name="v5_housing_menu_frame">
+		</Skin>
+		<Widget flag="not_visible" frame="0,0,61,61" name="marker" preset="v5_housing_changed_marker" type="image">
+		</Widget>
+		<Widget frame="9,9,41,45" name="button" preset="v5_housing_menu_inwall" tooltip="STR_HOUSING_MENU_DIALOG__TOOLTIP_INWALL4" type="button">
+		</Widget>
+	</Widget>
+	<Widget frame="183,488,61,61" name="infloor4" type="container">
+		<Skin name="v5_housing_menu_frame">
+		</Skin>
+		<Widget flag="not_visible" frame="0,0,61,61" name="marker" preset="v5_housing_changed_marker" type="image">
+		</Widget>
+		<Widget frame="9,9,41,45" name="button" preset="v5_housing_menu_infloor" tooltip="STR_HOUSING_MENU_DIALOG__TOOLTIP_INFLOOR4" type="button">
+		</Widget>
+	</Widget>
+	<Widget frame="244,427,61,61" name="inwall5" type="container">
+		<Skin name="v5_housing_menu_frame">
+		</Skin>
+		<Widget flag="not_visible" frame="0,0,61,61" name="marker" preset="v5_housing_changed_marker" type="image">
+		</Widget>
+		<Widget frame="9,9,41,45" name="button" preset="v5_housing_menu_inwall" tooltip="STR_HOUSING_MENU_DIALOG__TOOLTIP_INWALL5" type="button">
+		</Widget>
+	</Widget>
+	<Widget frame="244,488,61,61" name="infloor5" type="container">
+		<Skin name="v5_housing_menu_frame">
+		</Skin>
+		<Widget flag="not_visible" frame="0,0,61,61" name="marker" preset="v5_housing_changed_marker" type="image">
+		</Widget>
+		<Widget frame="9,9,41,45" name="button" preset="v5_housing_menu_infloor" tooltip="STR_HOUSING_MENU_DIALOG__TOOLTIP_INFLOOR5" type="button">
+		</Widget>
+	</Widget>
+	<Widget frame="305,427,61,61" name="inwall6" type="container">
+		<Skin name="v5_housing_menu_frame">
+		</Skin>
+		<Widget flag="not_visible" frame="0,0,61,61" name="marker" preset="v5_housing_changed_marker" type="image">
+		</Widget>
+		<Widget frame="9,9,41,45" name="button" preset="v5_housing_menu_inwall" tooltip="STR_HOUSING_MENU_DIALOG__TOOLTIP_INWALL6" type="button">
+		</Widget>
+	</Widget>
+	<Widget frame="305,488,61,61" name="infloor6" type="container">
+		<Skin name="v5_housing_menu_frame">
+		</Skin>
+		<Widget flag="not_visible" frame="0,0,61,61" name="marker" preset="v5_housing_changed_marker" type="image">
+		</Widget>
+		<Widget frame="9,9,41,45" name="button" preset="v5_housing_menu_infloor" tooltip="STR_HOUSING_MENU_DIALOG__TOOLTIP_INFLOOR6" type="button">
+		</Widget>
+	</Widget>
+	<Widget frame="0,549,61,61" name="addon" type="container">
+		<Skin name="v5_housing_menu_frame">
+		</Skin>
+		<Widget flag="not_visible" frame="0,0,61,61" name="marker" preset="v5_housing_changed_marker" type="image">
+		</Widget>
+		<Widget frame="9,9,41,45" name="button" preset="v5_housing_menu_addon" tooltip="STR_HOUSING_MENU_DIALOG__TOOLTIP_ADDON" type="button">
+		</Widget>
+	</Widget>
+	<Widget frame="0,610,61,61" name="flag" type="container">
+		<Skin name="v5_housing_menu_frame">
+		</Skin>
+		<Widget flag="not_visible" frame="0,0,61,61" name="marker" preset="v5_housing_changed_marker" type="image">
+		</Widget>
+		<Widget frame="9,9,41,45" name="button" preset="v5_housing_menu_flag" tooltip="STR_HOUSING_MENU_DIALOG__TOOLTIP_EMBLEM" type="button">
+		</Widget>
+	</Widget>
+</Dialog>

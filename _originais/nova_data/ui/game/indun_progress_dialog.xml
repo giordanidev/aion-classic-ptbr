@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="not_movable" frame="0,0,190,200" last_modified="2016-11-21 18:07:43" name="indun_progress_dialog" type="dlg_indun_progress">
+	<Widget frame="0,0,190,200" name="progress_container" preset="v5_indun_hud_bg" type="container" v_pos_align="proportion">
+		<Widget font_size="14" frame="0,9,190,24" halign="center" name="name_1" type="static" valign="middle">
+		</Widget>
+		<Widget frame="8,35,174,24" h_pos_align="proportion" type="image" v_pos_align="top">
+			<Skin name="v5_indun_progress_gauge_bg">
+			</Skin>
+		</Widget>
+		<Widget align="left" frame="8,35,174,24" gradient="False" name="progress_1" preset="v5_indun_progress_gauge" stage="3" state_depended="True" type="gauge">
+		</Widget>
+		<Widget font_size="14" frame="8,35,174,24" halign="center" name="progress_desc_1" type="static" valign="middle">
+		</Widget>
+		<Widget flag="nonclient" frame="3,66,184,2" type="image">
+			<Skin name="v5_skill_detail_ruler_line">
+			</Skin>
+		</Widget>
+		<Widget font_size="14" frame="0,72,190,24" halign="center" name="name_2" type="static" valign="middle">
+		</Widget>
+		<Widget frame="8,98,174,24" h_pos_align="proportion" type="image" v_pos_align="top">
+			<Skin name="v5_indun_progress_gauge_bg">
+			</Skin>
+		</Widget>
+		<Widget align="left" frame="8,98,174,24" gradient="False" name="progress_2" preset="v5_indun_progress_gauge" stage="3" state_depended="True" type="gauge">
+		</Widget>
+		<Widget font_size="14" frame="8,98,174,24" halign="center" name="progress_desc_2" type="static" valign="middle">
+		</Widget>
+		<Widget flag="nonclient" frame="3,129,184,2" type="image">
+			<Skin name="v5_skill_detail_ruler_line">
+			</Skin>
+		</Widget>
+		<Widget font_size="14" frame="0,135,190,24" halign="center" name="name_3" type="static" valign="middle">
+		</Widget>
+		<Widget frame="8,161,174,24" h_pos_align="proportion" type="image" v_pos_align="top">
+			<Skin name="v5_indun_progress_gauge_bg">
+			</Skin>
+		</Widget>
+		<Widget align="left" frame="8,161,174,24" gradient="False" name="progress_3" preset="v5_indun_progress_gauge" stage="3" state_depended="True" type="gauge">
+		</Widget>
+		<Widget font_size="14" frame="8,161,174,24" halign="center" name="progress_desc_3" type="static" valign="middle">
+		</Widget>
+	</Widget>
+</Dialog>

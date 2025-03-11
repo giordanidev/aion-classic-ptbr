@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="close;title" frame="15,130,380,410" last_modified="2018-01-19 15:02:37" name="shop_kina_buy_all_dialog" preset="shop_buy_dialog" prev_html="True" shadow_offset="8,8" title_align="center" title_frame="3,3,297,14" title_height="25" title_offset="0,10" title_text="STR_QUNAMARKET_DIALOG__OFFER_TITLE" type="dlg_shop_kina_buy_all">
+	<Widget frame="10,5,360,334" type="image">
+		<Skin name="shop_buy_bg">
+		</Skin>
+	</Widget>
+	<Widget cell_padding="2" flag="wordwrap" frame="21,17,44,44" item_height="64" item_width="64" name="item_slot1" preset="v5_slot_helmet" type="itemview">
+	</Widget>
+	<Widget cell_padding="2" flag="wordwrap" frame="21,68,44,44" item_height="64" item_width="64" name="item_slot2" preset="v5_slot_armor" type="itemview">
+	</Widget>
+	<Widget cell_padding="2" flag="wordwrap" frame="21,119,44,44" item_height="64" item_width="64" name="item_slot3" preset="v5_slot_wing" type="itemview">
+	</Widget>
+	<Widget cell_padding="2" flag="wordwrap" frame="22,171,44,44" item_height="64" item_width="64" name="item_slot4" preset="shop_slot_motion" type="itemview">
+	</Widget>
+	<Widget flag="truncate" font="ui_default" frame="75,26,235,26" halign="left" name="item_name1" padding="2,0" type="static" valign="middle">
+	</Widget>
+	<Widget flag="truncate" font="ui_default" frame="75,77,235,26" halign="left" name="item_name2" padding="2,0" type="static" valign="middle">
+	</Widget>
+	<Widget flag="truncate" font="ui_default" frame="75,128,235,26" halign="left" name="item_name3" padding="2,0" type="static" valign="middle">
+	</Widget>
+	<Widget flag="truncate" font="ui_default" frame="75,180,235,26" halign="left" name="item_name4" padding="2,0" type="static" valign="middle">
+	</Widget>
+	<Widget font="ui_default" frame="131,229,210,26" halign="right" name="cost_sum_txt" padding="2,0" type="static">
+		<Skin name="shop_buy_txt_bg">
+		</Skin>
+	</Widget>
+	<Widget defbutton="False" font="ui_default" frame="93,341,90,35" name="buy_btn" preset="shop_buy_btn2" text="STR_QUNAMARKET_BUTTON_BUY" type="button" v_pos_align="bottom" valign="middle">
+	</Widget>
+	<Widget font="ui_default" frame="198,341,90,35" name="cancel" preset="shop_buy_btn2" text="STR_QUNAMARKET_BUTTON_CANCEL" type="button" v_pos_align="bottom" valign="middle">
+	</Widget>
+	<Widget frame="40,229,80,26" text="STR_QUNAMARKET_DIALOG__OFFER_TOTAL_TOTAL_PRICE" type="static">
+	</Widget>
+	<Widget frame="21,263,340,4" type="image">
+		<Skin name="shop_buy_line">
+		</Skin>
+	</Widget>
+	<Widget flag="multiline;wordwrap" frame="40,275,300,50" halign="center" text="STR_INGAME_MARKET_DIALOG__OFFER_COMMEND_RECALL" type="static" valign="middle">
+	</Widget>
+</Dialog>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="transparent;not_movable;" frame="0,0,578,189" last_modified="2017-01-24 13:32:43" name="spectator_group_skill_dialog" title_frame="3,3,655,14" type="dlg_spectator_group_skill" ui_mode="spectator">
+	<Widget frame="0,138,529,44" name="skill_item_cnt" type="container" v_pos_align="bottom">
+		<Widget frame="1,0,44,44" item_height="44" item_width="44" name="skill_item_1" preset="v5_buff_slot" type="itemview" v_pos_align="bottom">
+		</Widget>
+		<Widget frame="45,0,44,44" item_height="44" item_width="44" name="skill_item_2" preset="v5_buff_slot" type="itemview" v_pos_align="bottom">
+		</Widget>
+		<Widget frame="89,0,44,44" item_height="44" item_width="44" name="skill_item_3" preset="v5_buff_slot" type="itemview" v_pos_align="bottom">
+		</Widget>
+		<Widget frame="133,0,44,44" item_height="44" item_width="44" name="skill_item_4" preset="v5_buff_slot" type="itemview" v_pos_align="bottom">
+		</Widget>
+		<Widget frame="177,0,44,44" item_height="44" item_width="44" name="skill_item_5" preset="v5_buff_slot" type="itemview" v_pos_align="bottom">
+		</Widget>
+		<Widget frame="221,0,44,44" item_height="44" item_width="44" name="skill_item_6" preset="v5_buff_slot" type="itemview" v_pos_align="bottom">
+		</Widget>
+		<Widget frame="265,0,44,44" item_height="44" item_width="44" name="skill_item_7" preset="v5_buff_slot" type="itemview" v_pos_align="bottom">
+		</Widget>
+		<Widget frame="309,0,44,44" item_height="44" item_width="44" name="skill_item_8" preset="v5_buff_slot" type="itemview" v_pos_align="bottom">
+		</Widget>
+		<Widget frame="353,0,44,44" item_height="44" item_width="44" name="skill_item_9" preset="v5_buff_slot" type="itemview" v_pos_align="bottom">
+		</Widget>
+		<Widget frame="397,0,44,44" item_height="44" item_width="44" name="skill_item_10" preset="v5_buff_slot" type="itemview" v_pos_align="bottom">
+		</Widget>
+		<Widget frame="441,0,44,44" item_height="44" item_width="44" name="skill_item_11" preset="v5_buff_slot" type="itemview" v_pos_align="bottom">
+		</Widget>
+		<Widget frame="485,0,44,44" item_height="44" item_width="44" name="skill_item_12" preset="v5_buff_slot" type="itemview" v_pos_align="bottom">
+		</Widget>
+	</Widget>
+	<Widget flag="not_visible;truncate" font="ui_combo" frame="403,2,172,28" h_pos_align="right" name="camera_combo" padding="5,0" preset="tournament_combo_static" type="combobox">
+	</Widget>
+	<Widget flag="not_visible" font="ui_default" frame="467,34,108,28" h_pos_align="center" name="show_tournament" preset="tournament_button" text="STR_TOURNAMENT_OBSERVER_MATCH_TABLE_BTN" type="button">
+	</Widget>
+	<Widget flag="not_visible" font="ui_default" frame="467,66,108,28" h_pos_align="center" name="obs" preset="tournament_button" text="STR_TOURNAMENT_OBSERVER_QUIT_DIALOG__BUTTON_REC" type="button">
+	</Widget>
+	<Widget flag="not_visible" font="ui_default" frame="467,98,108,28" h_pos_align="center" name="exit_spectate" preset="tournament_button" text="STR_TOURNAMENT_OBSERVER_QUIT_DIALOG_TITLE" type="button">
+	</Widget>
+	<Widget frame="0,162,578,36" name="spectator_skill_bg" preset="spectator_skill_bg" type="image" v_pos_align="bottom">
+	</Widget>
+</Dialog>

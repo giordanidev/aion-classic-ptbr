@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<client_housing_towns>
+	<client_housing_town>
+		<id>310000</id>
+		<name>test_town_01</name>
+		<desc>STR_TEST_TOWN_01</desc>
+		<type>guild</type>
+		<occupied_race>Light</occupied_race>
+	</client_housing_town>
+</client_housing_towns>

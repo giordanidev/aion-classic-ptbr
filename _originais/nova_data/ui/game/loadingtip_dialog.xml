@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="close;title" frame="30,100,1206,738" last_modified="2014-08-22 12:58:41" name="loadingtip_dialog" preset="v5_dialog2" title_frame="3,3,890,14" title_text="STR_LOADINGTIP_DIALOG" type="dlg_loadingtip">
+	<Widget frame="0,0,1200,675" type="container">
+		<Widget frame="0,0,1200,675" name="image" type="image">
+		</Widget>
+	</Widget>
+	<Widget frame="633,682,21,22" name="next" preset="v5_next_page" type="button">
+	</Widget>
+	<Widget frame="547,682,21,22" name="prev" preset="v5_prev_page" type="button">
+	</Widget>
+	<Widget font="ui_default" frame="1123,681,75,24" name="cancel" preset="v5_button" text="STR_DLG_DIALOG__CLOSE" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

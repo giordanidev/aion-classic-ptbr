@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="title" frame="188,337,904,306" last_modified="2017-02-13 19:49:26" name="tournament_relay_choice_order_dialog" preset="v5_dialog" title_frame="3,3,1202,14" title_text="STR_TOURNAMENT_RELAY_SELECT_TURN_DIALOG_TITLE" type="dlg_tournament_relay_choice_order">
+	<Widget frame="0,0,898,275" preset="v5_staticbox" type="container">
+		<Widget frame="0,0,148,182" name="place_1" type="container">
+			<Widget frame="0,0,148,182" image="tournament_relay_flag_myteam" name="bg" type="static">
+			</Widget>
+			<Widget frame="0,18,148,25" halign="center" name="title" text="STR_FAMILIAR_GROWTH_DIALOG_FILTER_A_GRADE" type="static" valign="middle">
+			</Widget>
+			<Widget font_size="16" frame="0,43,148,25" halign="center" name="level" text="STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET2" text_color="0.9765,0.5059,0.1922,1.0" type="static" valign="middle">
+			</Widget>
+			<Widget flag="not_visible" frame="42,67,64,64" name="emblem" type="image">
+			</Widget>
+			<Widget frame="0,0,148,182" group="apply" h_pos_align="right" name="apply" preset="tournament_relay_flag_btn" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="59,76,30,30" group="apply" image="tournament_relay_order_1" name="apply_num" type="static">
+			</Widget>
+		</Widget>
+		<Widget frame="150,0,148,182" name="place_2" type="container">
+			<Widget frame="0,0,148,182" image="tournament_relay_flag_myteam" name="bg" type="static">
+			</Widget>
+			<Widget frame="0,18,148,25" halign="center" name="title" text="STR_FAMILIAR_GROWTH_DIALOG_FILTER_A_GRADE" type="static" valign="middle">
+			</Widget>
+			<Widget font_size="16" frame="0,43,148,25" halign="center" name="level" text="STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET2" text_color="0.9765,0.5059,0.1922,1.0" type="static" valign="middle">
+			</Widget>
+			<Widget flag="not_visible" frame="42,67,64,64" name="emblem" type="image">
+			</Widget>
+			<Widget frame="0,0,148,182" group="apply" h_pos_align="right" name="apply" preset="tournament_relay_flag_btn" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="59,76,30,30" group="apply" image="tournament_relay_order_2" name="apply_num" type="static">
+			</Widget>
+		</Widget>
+		<Widget frame="300,0,148,182" name="place_3" type="container">
+			<Widget frame="0,0,148,182" image="tournament_relay_flag_myteam" name="bg" type="static">
+			</Widget>
+			<Widget frame="0,18,148,25" halign="center" name="title" text="STR_FAMILIAR_GROWTH_DIALOG_FILTER_A_GRADE" type="static" valign="middle">
+			</Widget>
+			<Widget font_size="16" frame="0,43,148,25" halign="center" name="level" text="STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET2" text_color="0.9765,0.5059,0.1922,1.0" type="static" valign="middle">
+			</Widget>
+			<Widget flag="not_visible" frame="42,67,64,64" name="emblem" type="image">
+			</Widget>
+			<Widget frame="0,0,148,182" group="apply" h_pos_align="right" name="apply" preset="tournament_relay_flag_btn" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="59,76,30,30" group="apply" image="tournament_relay_order_3" name="apply_num" type="static">
+			</Widget>
+		</Widget>
+		<Widget frame="450,0,148,182" name="place_4" type="container">
+			<Widget frame="0,0,148,182" image="tournament_relay_flag_myteam" name="bg" type="static">
+			</Widget>
+			<Widget frame="0,18,148,25" halign="center" name="title" text="STR_FAMILIAR_GROWTH_DIALOG_FILTER_A_GRADE" type="static" valign="middle">
+			</Widget>
+			<Widget font_size="16" frame="0,43,148,25" halign="center" name="level" text="STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET2" text_color="0.9765,0.5059,0.1922,1.0" type="static" valign="middle">
+			</Widget>
+			<Widget flag="not_visible" frame="42,67,64,64" name="emblem" type="image">
+			</Widget>
+			<Widget frame="0,0,148,182" group="apply" h_pos_align="right" name="apply" preset="tournament_relay_flag_btn" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="59,76,30,30" group="apply" image="tournament_relay_order_4" name="apply_num" type="static">
+			</Widget>
+		</Widget>
+		<Widget frame="600,0,148,182" name="place_5" type="container">
+			<Widget frame="0,0,148,182" image="tournament_relay_flag_myteam" name="bg" type="static">
+			</Widget>
+			<Widget frame="0,18,148,25" halign="center" name="title" text="STR_FAMILIAR_GROWTH_DIALOG_FILTER_A_GRADE" type="static" valign="middle">
+			</Widget>
+			<Widget font_size="16" frame="0,43,148,25" halign="center" name="level" text="STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET2" text_color="0.9765,0.5059,0.1922,1.0" type="static" valign="middle">
+			</Widget>
+			<Widget flag="not_visible" frame="42,67,64,64" name="emblem" type="image">
+			</Widget>
+			<Widget frame="0,0,148,182" group="apply" h_pos_align="right" name="apply" preset="tournament_relay_flag_btn" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="59,76,30,30" group="apply" image="tournament_relay_order_5" name="apply_num" type="static">
+			</Widget>
+		</Widget>
+		<Widget frame="750,0,148,182" name="place_6" type="container">
+			<Widget frame="0,0,148,182" image="tournament_relay_flag_myteam" name="bg" type="static">
+			</Widget>
+			<Widget frame="0,18,148,25" halign="center" name="title" text="STR_FAMILIAR_GROWTH_DIALOG_FILTER_A_GRADE" type="static" valign="middle">
+			</Widget>
+			<Widget font_size="16" frame="0,43,148,25" halign="center" name="level" text="STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET2" text_color="0.9765,0.5059,0.1922,1.0" type="static" valign="middle">
+			</Widget>
+			<Widget flag="not_visible" frame="42,67,64,64" name="emblem" type="image">
+			</Widget>
+			<Widget frame="0,0,148,182" group="apply" h_pos_align="right" name="apply" preset="tournament_relay_flag_btn" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="59,76,30,30" group="apply" image="tournament_relay_order_6" name="apply_num" type="static">
+			</Widget>
+		</Widget>
+		<Widget frame="156,178,586,93" image="tournament_relay_bg" type="container">
+			<Widget frame="0,5,586,25" halign="center" text="STR_TOURNAMENT_RELAY_SELECT_TURN" type="static" valign="middle">
+			</Widget>
+			<Widget font_size="16" frame="0,30,586,30" halign="center" name="remain_time" text="STR_FORCE_READY_DIALOG__REMAIN_TIME" text_color="0.9843,0.3137,0.1098,1.0" type="static" valign="middle">
+			</Widget>
+			<Widget frame="253,65,80,25" h_pos_align="right" name="cancel_apply" preset="v5_button" text="STR_TOURNAMENT_RELAY_SELECT_CHANGE" type="button" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+	</Widget>
+</Dialog>

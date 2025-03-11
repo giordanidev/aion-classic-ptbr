@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="title;close" frame="15,140,406,431" last_modified="2016-01-13 11:35:47" name="membership_bonus_dialog" preset="v5_dialog" title_align="center" title_frame="3,3,369,14" title_height="23" title_offset="0,5" title_text="STR_MEMBERSHIP_CHARINFO_MEMBERSHIPDETAIL_TITLE" type="dlg_membership_bonus">
+	<Widget frame="31,2,338,65" preset="v5_staticbox5" type="container">
+		<Widget frame="80,1,48,48" name="vip_grade_image" preset="v5_vip_grade_img" type="image">
+		</Widget>
+		<Widget font="v3_level" frame="80,47,48,14" halign="center" name="vip_grade_achieve" type="static">
+		</Widget>
+		<Widget frame="146,11,164,40" name="vip_grade_info" type="htmlview">
+		</Widget>
+	</Widget>
+	<Widget font="v3_level" frame="39,70,170,14" name="vip_bonus_list_title" text="STR_MEMBERSHIP_CHARINFO_MEMBERSHIPDETAIL_GRADE_EFFECT_INFO" type="static">
+	</Widget>
+	<Widget flag="not_active" frame="29,85,342,288" h_pos_align="proportion" name="vip_bonus_list_bg" type="image" v_pos_align="proportion">
+		<Skin name="v5_static_bg6">
+		</Skin>
+	</Widget>
+	<Widget direction_size="1" direction_type="vertical" drag_block_separator="True" elastic_grid_max_rect="0,0,338,470" elastic_grid_size="true" fit_item_size="true" fixed_item_size="false" flag="vscroll;hscroll;snap_scroll" frame="31,90,338,278" h_pos_align="proportion" inner_scroll="false" item_padding="0" item_spacing="1" name="vip_bonus_list" skin_type="version5" type="grid" v_pos_align="proportion">
+	</Widget>
+	<Widget font="ui_default" frame="375,177,20,20" h_pos_align="right" name="vip_bonus_next" preset="v5_vip_next_page" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="5,177,20,20" h_pos_align="right" name="vip_bonus_prev" preset="v5_vip_prev_page" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="185,374,30,24" halign="center" name="vip_bonus_page" padding="1,0" text="STR_ITEM_PRICE_COUNT_DIALOG__1" type="static">
+	</Widget>
+	<Widget flag="not_visible" frame="500,25,338,40" name="prototype" type="container">
+		<Widget flag="not_active" frame="0,0,80,40" name="vip_title_bg" type="image" v_pos_align="proportion">
+			<Skin name="v5_static_bg7">
+			</Skin>
+		</Widget>
+		<Widget flag="not_active" frame="0,0,80,40" name="vip_title" scroll_type="hidden" text_shade="True" type="htmlview">
+		</Widget>
+		<Widget flag="not_active" frame="80,0,190,40" name="vip_bonus_title_bg" type="image" v_pos_align="proportion">
+			<Skin name="v5_static_bg7">
+			</Skin>
+		</Widget>
+		<Widget flag="not_active" frame="80,0,190,40" name="vip_bonus_title" scroll_type="hidden" text_shade="True" type="htmlview">
+		</Widget>
+		<Widget flag="not_active" frame="270,0,68,40" name="vip_bonus_value_bg" type="image">
+			<Skin name="v5_static_bg7">
+			</Skin>
+		</Widget>
+		<Widget flag="not_active" frame="270,0,68,40" name="vip_bonus_value" scroll_type="hidden" text_shade="True" type="htmlview">
+		</Widget>
+	</Widget>
+</Dialog>

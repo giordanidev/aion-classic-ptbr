@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="not_movable" frame="0,0,190,118" last_modified="2020-12-01 15:50:14" name="gab2_score_dialog" preset="v5_indun_hud_bg" type="dlg_gab2_score">
+	<Widget font_size="14" frame="8,4,175,20" halign="center" name="world_name" type="static" valign="middle">
+	</Widget>
+	<Widget font_size="14" frame="12,84,132,22" halign="center" name="remain_time" preset="v5_indun_hud_time" type="static" v_pos_align="middle" valign="middle">
+	</Widget>
+	<Widget flag="active" font_size="16" frame="12,34,80,21" halign="center" name="score_team1" preset="v5_indun_hud_score_light" type="static" v_pos_align="middle" valign="middle">
+	</Widget>
+	<Widget flag="active" font_size="16" frame="95,34,80,21" halign="center" name="score_team2" preset="v5_indun_hud_score_dark" type="static" v_pos_align="middle" valign="middle">
+	</Widget>
+	<Widget flag="active" font_size="16" frame="12,58,80,21" halign="center" name="score_team3" preset="v5_indun_hud_score_light" type="static" v_pos_align="middle" valign="middle">
+	</Widget>
+	<Widget flag="active" font_size="16" frame="95,58,80,21" halign="center" name="score_team4" preset="v5_indun_hud_score_dark" type="static" v_pos_align="middle" valign="middle">
+	</Widget>
+	<Widget flag="not_enabled" frame="12,34,80,21" halign="center" name="score_team1_fx" type="static" v_pos_align="middle" valign="middle">
+	</Widget>
+	<Widget flag="not_enabled" frame="95,34,80,21" halign="center" name="score_team2_fx" type="static" v_pos_align="middle" valign="middle">
+	</Widget>
+	<Widget flag="not_enabled" frame="12,58,80,21" halign="center" name="score_team3_fx" type="static" v_pos_align="middle" valign="middle">
+	</Widget>
+	<Widget flag="not_enabled" frame="95,58,80,21" halign="center" name="score_team4_fx" type="static" v_pos_align="middle" valign="middle">
+	</Widget>
+	<Widget frame="147,81,28,28" name="func_btn" preset="v5_indun_hud_btn" type="button">
+	</Widget>
+</Dialog>

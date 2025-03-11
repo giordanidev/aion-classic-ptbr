@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="title;close" frame="15,140,706,438" last_modified="2016-07-22 16:24:24" name="tournament_reward_dialog" preset="v5_dialog2" title_align="center" title_frame="3,3,799,14" title_height="23" title_offset="0,5" title_text="STR_TOURNAMENT_REWARD_DIALOG" type="dlg_tournament_reward">
+	<Widget frame="2,0,97,25" halign="center" preset="v5_staticbox" text="STR_TOURNAMENT_REWARD_DIALOG__COLUMN_ROUND" type="static">
+	</Widget>
+	<Widget frame="100,0,599,25" halign="center" preset="v5_staticbox" text="STR_TOURNAMENT_REWARD_DIALOG__COLUMN_REWARD" type="static">
+	</Widget>
+	<Widget direction_size="1" direction_type="vertical" drag_block_separator="True" elastic_grid_max_rect="0,0,338,470" elastic_grid_size="true" fit_item_size="true" fixed_item_size="false" frame="0,25,700,352" inner_scroll="false" item_padding="0" item_spacing="2" name="reward_list" skin_type="version5" type="grid">
+	</Widget>
+	<Widget frame="628,383,70,24" h_pos_align="right" name="cancel" preset="v5_button" text="STR_DLG_DIALOG__CLOSE" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget flag="not_visible" frame="0,500,698,132" name="prototype" type="container">
+		<Widget frame="0,0,97,132" halign="center" name="reward_round" preset="v5_staticbox" text="STR_TOURNAMENT_REWARD_DIALOG__COLUMN_REWARD" type="static">
+		</Widget>
+		<Widget cell_padding="0" cell_space="0,0" column_set0=" ,130,right" flag="truncate" frame="99,0,200,44" item_height="44" item_width="44" list_padding="0" name="reward_list1" preset="v5_listview_sel_frame" reserve_slots="False" scroll_type="visible" slot_num="1" split_num="1" type="listview" viewmode="detail">
+			<Column align="" title="" width="156">
+			</Column>
+		</Widget>
+		<Widget cell_padding="0" cell_space="0,0" column_set0=" ,130,right" flag="truncate" frame="299,0,200,44" item_height="44" item_width="44" list_padding="0" name="reward_list2" preset="v5_listview_sel_frame" reserve_slots="False" scroll_type="visible" slot_num="1" split_num="1" type="listview" viewmode="detail">
+			<Column align="" title="" width="156">
+			</Column>
+		</Widget>
+		<Widget cell_padding="0" cell_space="0,0" column_set0=" ,130,right" flag="truncate" frame="499,0,200,44" item_height="44" item_width="44" list_padding="0" name="reward_list3" preset="v5_listview_sel_frame" reserve_slots="False" scroll_type="visible" slot_num="1" split_num="1" type="listview" viewmode="detail">
+			<Column align="" title="" width="156">
+			</Column>
+		</Widget>
+		<Widget cell_padding="0" cell_space="0,0" column_set0=" ,130,right" flag="truncate" frame="99,44,200,44" item_height="44" item_width="44" list_padding="0" name="reward_list4" preset="v5_listview_sel_frame" reserve_slots="False" scroll_type="visible" slot_num="1" split_num="1" type="listview" viewmode="detail">
+			<Column align="" title="" width="156">
+			</Column>
+		</Widget>
+		<Widget cell_padding="0" cell_space="0,0" column_set0=" ,130,right" flag="truncate" frame="299,44,200,44" item_height="44" item_width="44" list_padding="0" name="reward_list5" preset="v5_listview_sel_frame" reserve_slots="False" scroll_type="visible" slot_num="1" split_num="1" type="listview" viewmode="detail">
+			<Column align="" title="" width="156">
+			</Column>
+		</Widget>
+		<Widget cell_padding="0" cell_space="0,0" column_set0=" ,130,right" flag="truncate" frame="499,44,200,44" item_height="44" item_width="44" list_padding="0" name="reward_list6" preset="v5_listview_sel_frame" reserve_slots="False" scroll_type="visible" slot_num="1" split_num="1" type="listview" viewmode="detail">
+			<Column align="" title="" width="156">
+			</Column>
+		</Widget>
+		<Widget cell_padding="0" cell_space="0,0" column_set0=" ,130,right" flag="truncate" frame="99,88,200,44" item_height="44" item_width="44" list_padding="0" name="reward_list7" preset="v5_listview_sel_frame" reserve_slots="False" scroll_type="visible" slot_num="1" split_num="1" type="listview" viewmode="detail">
+			<Column align="" title="" width="156">
+			</Column>
+		</Widget>
+	</Widget>
+</Dialog>

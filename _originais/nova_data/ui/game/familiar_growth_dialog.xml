@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="close;title" frame="390,150,421,351" last_modified="2020-08-27 22:17:33" name="familiar_growth_dialog" preset="v5_dialog2" shadow_offset="8,8" title_align="center" title_frame="3,3,428,14" title_height="25" title_offset="0,5" title_text="STR_FAMILIAR_GROWTH_DIALOG_INDEX" type="dlg_familiar_growth">
+	<Widget frame="3,2,409,50" name="con_grade_filter" type="container">
+		<Widget font="ui_combo" frame="0,27,126,23" h_pos_align="left" max_items="3" name="sort_type" preset="v5_staticbox3" type="combobox">
+			<Items>
+				<Item name="STR_FAMILIAR_GROWTH_DIALOG_SORT_GRADE2">
+				</Item>
+				<Item name="STR_FAMILIAR_GROWTH_DIALOG_SORT_GRADE1">
+				</Item>
+				<Item name="STR_FAMILIAR_GROWTH_DIALOG_SORT_GET">
+				</Item>
+			</Items>
+		</Widget>
+		<Widget font="ui_default" frame="243,27,80,23" h_pos_align="left" name="auto_select" preset="v5_button" text="STR_FAMILIAR_GROWTH_DIALOG_AUTO_SELECT_BUTTON" type="button">
+		</Widget>
+		<Widget font="ui_default" frame="329,27,80,23" h_pos_align="left" name="reset_selection" preset="v5_button" text="STR_FAMILIAR_GROWTH_DIALOG_INITIALIZE_BUTTON" type="button">
+		</Widget>
+		<Widget frame="0,0,409,23" type="container">
+			<Skin name="v5_trade_tab_frame">
+			</Skin>
+			<Widget font="ui_default" frame="0,0,67,23" h_pos_align="left" halign="center" name="filter_all" preset="v5_trade_tabbutton" text="STR_FAMILIAR_GROWTH_DIALOG_FILTER_ALL" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="67,0,67,23" h_pos_align="left" halign="center" name="filter_grade_s" preset="v5_trade_tabbutton" style="checkbox" text="STR_FAMILIAR_COMPOSE_TAB_FILTER_S_GRADE" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="134,0,67,23" h_pos_align="left" halign="center" name="filter_grade_a" preset="v5_trade_tabbutton" style="checkbox" text="STR_FAMILIAR_GROWTH_DIALOG_FILTER_A_GRADE" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="201,0,67,23" h_pos_align="left" halign="center" name="filter_grade_b" preset="v5_trade_tabbutton" style="checkbox" text="STR_FAMILIAR_GROWTH_DIALOG_FILTER_B_GRADE" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="268,0,67,23" h_pos_align="left" halign="center" name="filter_grade_c" preset="v5_trade_tabbutton" style="checkbox" text="STR_FAMILIAR_GROWTH_DIALOG_FILTER_C_GRADE" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="335,0,74,23" h_pos_align="left" halign="center" name="filter_grade_d" preset="v5_trade_tabbutton" style="checkbox" text="STR_FAMILIAR_GROWTH_DIALOG_FILTER_D_GRADE" type="button">
+			</Widget>
+			<Widget flag="not_visible;not_active" font="ui_default" frame="335,0,74,23" h_pos_align="left" halign="center" name="filter_feed_only" preset="v5_trade_tabbutton" style="checkbox" text="STR_FAMILIAR_GROWTH_DIALOG_FILTER_ONLY_GROWTH" type="button">
+			</Widget>
+			<Widget flag="not_active" frame="66,0,2,23" image="v5_trade_tab_seperator" type="image">
+			</Widget>
+			<Widget flag="not_active" frame="133,0,2,23" image="v5_trade_tab_seperator" type="image">
+			</Widget>
+			<Widget flag="not_active" frame="200,0,2,23" image="v5_trade_tab_seperator" type="image">
+			</Widget>
+			<Widget flag="not_active" frame="267,0,2,23" image="v5_trade_tab_seperator" type="image">
+			</Widget>
+			<Widget flag="not_active" frame="334,0,2,23" image="v5_trade_tab_seperator" type="image">
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget flag="not_visible;not_active" frame="3,1,409,23" group="auth_select" name="con_auth_select" type="container">
+		<Widget frame="200,1,157,23" halign="right" name="auth_select_desc" text="STR_DIALOG_FAMILIAR_AUTH_SELECT_DESC" type="static" valign="middle">
+		</Widget>
+		<Widget frame="362,0,47,23" halign="center" name="auth_select_num" text="STR_UI_FAMILIAR_AUTH_SELECT_NUM" type="static" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget frame="-1,57,417,138" h_pos_align="left" preset="v5_staticbox" type="container" v_pos_align="bottom">
+		<Widget can_click_item="True" direction_size="9" direction_type="vertical" drag_block_separator="true" elastic_grid_max_rect="0,0,550,406" elastic_grid_size="False" fit_item_size="False" fixed_item_size="False" flag="vscroll;" frame="4,3,409,132" h_pos_align="left" inner_scroll="false" item_padding="0" item_spacing="0" name="familiar_list" scroll_type="visible" skin_type="notice" type="grid" v_pos_align="top">
+			<Widget frame="0,0,44,44" name="prototype" type="container">
+				<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="0,0,44,44" group="itemview" item_height="44" item_width="44" name="slot" preset="v5_familiar_slot" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+				</Widget>
+				<Widget flag="not_visible;not_active" frame="0,0,44,44" image="familiar_growth_slot_warn" name="warn" type="image">
+				</Widget>
+				<Widget flag="not_visible;not_active" frame="0,0,44,44" image="familiar_growth_slot_selected" name="selected" type="image">
+				</Widget>
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget frame="2,199,410,24" h_pos_align="left" preset="v5_staticbox" type="container" v_pos_align="bottom">
+		<Widget flag="not_active" frame="3,3,18,18" image="v5_tooltip_info" name="selected" type="image">
+		</Widget>
+		<Widget frame="22,0,388,24" h_pos_align="proportion" halign="left" name="info" padding="5,0" type="static" v_pos_align="top" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget frame="44,236,167,23" h_pos_align="right" halign="right" text="STR_FAMILIAR_GROWTH_MYGOLD" type="static" v_pos_align="bottom" valign="middle">
+	</Widget>
+	<Widget font="v3_money" frame="217,236,195,23" h_pos_align="right" halign="right" name="my_money" padding="5,0" preset="v5_staticbox" type="static" v_pos_align="bottom" valign="middle">
+	</Widget>
+	<Widget frame="44,261,167,23" h_pos_align="right" halign="right" name="cost_name" text="STR_FAMILIAR_GROWTH_GOLD" type="static" v_pos_align="bottom" valign="middle">
+	</Widget>
+	<Widget font="v3_money" frame="217,261,195,23" h_pos_align="right" halign="right" name="cost" padding="5,0" preset="v5_staticbox" type="static" v_pos_align="bottom" valign="middle">
+	</Widget>
+	<Widget font="ui_default" frame="326,294,86,24" h_pos_align="right" name="confirm" preset="v5_button" text="STR_OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget frame="2,228,417,2" h_pos_align="right" name="content_sep" preset="v5_tooltip_sep_content" type="image" v_pos_align="bottom">
+	</Widget>
+</Dialog>

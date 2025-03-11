@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="close;title" frame="287,130,556,644" last_modified="2017-09-28 17:27:08" name="devanion_board_dialog" preset="v5_dialog" title_frame="3,3,398,14" title_offset="9,1" title_text="STR_NEW_DIALOG" type="dlg_devanion_board">
+	<Widget frame="0,0,550,582" h_pos_align="center" type="image" v_pos_align="middle">
+		<Skin name="v5_static_bg4">
+		</Skin>
+	</Widget>
+	<Widget frame="0,0,550,62" type="container">
+		<Widget frame="1,9,80,20" halign="left" name="lv" padding="5,0" text="level" type="static" valign="middle">
+		</Widget>
+		<Widget frame="87,9,276,20" name="exp" preset="v5_gauge_charge" type="gauge">
+		</Widget>
+		<Widget font="ui_default" frame="367,9,20,20" name="bm" preset="v5_button" text="bm" type="button">
+		</Widget>
+		<Widget frame="307,36,80,20" halign="left" name="dc" padding="5,0" text="dc" type="static" valign="middle">
+		</Widget>
+		<Widget defbutton="False" font="ui_default" frame="390,7,154,24" h_pos_align="right" name="initialization" preset="v5_button" text="STR_USE_CP_DAILOG__RESET" type="button" v_pos_align="middle">
+		</Widget>
+		<Widget font="ui_default" frame="390,36,154,24" h_pos_align="right" name="load" preset="v5_button" text="STR_USE_CP_DAILOG__SETTING" type="button" v_pos_align="middle">
+		</Widget>
+	</Widget>
+	<Widget frame="5,66,304,504" name="category_0" preset="v5_staticbox" type="container">
+	</Widget>
+	<Widget defbutton="False" font="ui_default" frame="323,587,76,24" h_pos_align="right" name="apply_setting" preset="v5_button" text="STR_USE_CP_DIALOG__OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="401,587,76,24" h_pos_align="right" name="cancel_setting" preset="v5_button" text="STR_USE_CP_DAILOG__CANCLE" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="479,587,68,24" h_pos_align="right" name="cancel" preset="v5_button" text="STR_DLG_DIALOG__CLOSE" type="button">
+	</Widget>
+</Dialog>

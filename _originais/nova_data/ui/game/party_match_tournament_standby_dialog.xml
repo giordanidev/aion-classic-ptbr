@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="left" close_offset="4,1" close_preset="v5_close" flag="close;title" frame="440,130,1208,794" h_pos_align="right" last_modified="2015-04-29 15:19:20" name="party_match_tournament_standby_dialog" preset="v5_dialog2" shadow_offset="8,8" title_align="center" title_frame="3,3,1167,14" title_height="25" title_offset="0,5" title_text="STR_INSTANCE_PREPARE_DIALOG" type="dlg_party_match_tournament_standby" v_pos_align="top">
+	<Widget defbutton="False" flag="not_visible" frame="1126,738,74,24" name="notready" preset="v5_button" text="STR_COMMON__CANCEL" type="button">
+	</Widget>
+	<Widget font="ui_default" frame="1126,738,74,24" name="giveup" preset="v5_button" text="STR_INSTANCE_PREPARE_DIALOG__CANCEL" type="button">
+	</Widget>
+	<Widget column_customizing="True" column_heading="True" flag="truncate;vscroll" font="ui_list" frame="4,71,294,160" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="member_list1" preset="v5_listview_ex" scroll_type="visible" skin_type="version5" type="listviewex">
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_INSTANCE_PREPARE_DIALOG__COL_NAME" width="105">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="number" title="STR_INSTANCE_PREPARE_DIALOG__COL_LEVEL" width="50">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_INSTANCE_PREPARE_DIALOG__COL_JOB" width="60">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="param" title="STR_INSTANCE_PREPARE_DIALOG__COL_READY" width="60">
+		</Column>
+	</Widget>
+	<Widget column_customizing="True" column_heading="True" flag="truncate;vscroll" font="ui_list" frame="304,71,294,160" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="member_list2" preset="v5_listview_ex" scroll_type="visible" skin_type="version5" type="listviewex">
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_INSTANCE_PREPARE_DIALOG__COL_NAME" width="105">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="number" title="STR_INSTANCE_PREPARE_DIALOG__COL_LEVEL" width="50">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_INSTANCE_PREPARE_DIALOG__COL_JOB" width="60">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="param" title="STR_INSTANCE_PREPARE_DIALOG__COL_READY" width="60">
+		</Column>
+	</Widget>
+	<Widget column_customizing="True" column_heading="True" flag="truncate;vscroll" font="ui_list" frame="604,71,294,160" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="member_list3" preset="v5_listview_ex" scroll_type="visible" skin_type="version5" type="listviewex">
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_INSTANCE_PREPARE_DIALOG__COL_NAME" width="105">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="number" title="STR_INSTANCE_PREPARE_DIALOG__COL_LEVEL" width="50">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_INSTANCE_PREPARE_DIALOG__COL_JOB" width="60">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="param" title="STR_INSTANCE_PREPARE_DIALOG__COL_READY" width="60">
+		</Column>
+	</Widget>
+	<Widget column_customizing="True" column_heading="True" flag="truncate;vscroll" font="ui_list" frame="904,71,294,160" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="member_list4" preset="v5_listview_ex" scroll_type="visible" skin_type="version5" type="listviewex">
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_INSTANCE_PREPARE_DIALOG__COL_NAME" width="105">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="number" title="STR_INSTANCE_PREPARE_DIALOG__COL_LEVEL" width="50">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_INSTANCE_PREPARE_DIALOG__COL_JOB" width="60">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="param" title="STR_INSTANCE_PREPARE_DIALOG__COL_READY" width="60">
+		</Column>
+	</Widget>
+	<Widget column_customizing="True" column_heading="True" flag="truncate;vscroll" font="ui_list" frame="4,236,294,160" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="member_list5" preset="v5_listview_ex" scroll_type="visible" skin_type="version5" type="listviewex">
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_INSTANCE_PREPARE_DIALOG__COL_NAME" width="105">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="number" title="STR_INSTANCE_PREPARE_DIALOG__COL_LEVEL" width="50">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_INSTANCE_PREPARE_DIALOG__COL_JOB" width="60">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="param" title="STR_INSTANCE_PREPARE_DIALOG__COL_READY" width="60">
+		</Column>
+	</Widget>
+	<Widget column_customizing="True" column_heading="True" flag="truncate;vscroll" font="ui_list" frame="304,236,294,160" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="member_list6" preset="v5_listview_ex" scroll_type="visible" skin_type="version5" type="listviewex">
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_INSTANCE_PREPARE_DIALOG__COL_NAME" width="105">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="number" title="STR_INSTANCE_PREPARE_DIALOG__COL_LEVEL" width="50">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_INSTANCE_PREPARE_DIALOG__COL_JOB" width="60">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="param" title="STR_INSTANCE_PREPARE_DIALOG__COL_READY" width="60">
+		</Column>
+	</Widget>
+	<Widget column_customizing="True" column_heading="True" flag="truncate;vscroll" font="ui_list" frame="604,236,294,160" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="member_list7" preset="v5_listview_ex" scroll_type="visible" skin_type="version5" type="listviewex">
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_INSTANCE_PREPARE_DIALOG__COL_NAME" width="105">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="number" title="STR_INSTANCE_PREPARE_DIALOG__COL_LEVEL" width="50">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_INSTANCE_PREPARE_DIALOG__COL_JOB" width="60">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="param" title="STR_INSTANCE_PREPARE_DIALOG__COL_READY" width="60">
+		</Column>
+	</Widget>
+	<Widget column_customizing="True" column_heading="True" flag="truncate;vscroll" font="ui_list" frame="904,236,294,160" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="member_list8" preset="v5_listview_ex" scroll_type="visible" skin_type="version5" type="listviewex">
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_INSTANCE_PREPARE_DIALOG__COL_NAME" width="105">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="number" title="STR_INSTANCE_PREPARE_DIALOG__COL_LEVEL" width="50">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_INSTANCE_PREPARE_DIALOG__COL_JOB" width="60">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="param" title="STR_INSTANCE_PREPARE_DIALOG__COL_READY" width="60">
+		</Column>
+	</Widget>
+	<Widget column_customizing="True" column_heading="True" flag="truncate;vscroll" font="ui_list" frame="4,401,294,160" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="member_list9" preset="v5_listview_ex" scroll_type="visible" skin_type="version5" type="listviewex">
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_INSTANCE_PREPARE_DIALOG__COL_NAME" width="105">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="number" title="STR_INSTANCE_PREPARE_DIALOG__COL_LEVEL" width="50">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_INSTANCE_PREPARE_DIALOG__COL_JOB" width="60">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="param" title="STR_INSTANCE_PREPARE_DIALOG__COL_READY" width="60">
+		</Column>
+	</Widget>
+	<Widget column_customizing="True" column_heading="True" flag="truncate;vscroll" font="ui_list" frame="304,401,294,160" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="member_list10" preset="v5_listview_ex" scroll_type="visible" skin_type="version5" type="listviewex">
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_INSTANCE_PREPARE_DIALOG__COL_NAME" width="105">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="number" title="STR_INSTANCE_PREPARE_DIALOG__COL_LEVEL" width="50">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_INSTANCE_PREPARE_DIALOG__COL_JOB" width="60">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="param" title="STR_INSTANCE_PREPARE_DIALOG__COL_READY" width="60">
+		</Column>
+	</Widget>
+	<Widget column_customizing="True" column_heading="True" flag="truncate;vscroll" font="ui_list" frame="604,401,294,160" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="member_list11" preset="v5_listview_ex" scroll_type="visible" skin_type="version5" type="listviewex">
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_INSTANCE_PREPARE_DIALOG__COL_NAME" width="105">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="number" title="STR_INSTANCE_PREPARE_DIALOG__COL_LEVEL" width="50">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_INSTANCE_PREPARE_DIALOG__COL_JOB" width="60">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="param" title="STR_INSTANCE_PREPARE_DIALOG__COL_READY" width="60">
+		</Column>
+	</Widget>
+	<Widget column_customizing="True" column_heading="True" flag="truncate;vscroll" font="ui_list" frame="906,401,294,160" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="member_list12" preset="v5_listview_ex" scroll_type="visible" skin_type="version5" type="listviewex">
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_INSTANCE_PREPARE_DIALOG__COL_NAME" width="105">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="number" title="STR_INSTANCE_PREPARE_DIALOG__COL_LEVEL" width="50">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_INSTANCE_PREPARE_DIALOG__COL_JOB" width="60">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="param" title="STR_INSTANCE_PREPARE_DIALOG__COL_READY" width="60">
+		</Column>
+	</Widget>
+	<Widget column_customizing="True" column_heading="True" flag="truncate;vscroll" font="ui_list" frame="4,566,294,160" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="member_list13" preset="v5_listview_ex" scroll_type="visible" skin_type="version5" type="listviewex">
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_INSTANCE_PREPARE_DIALOG__COL_NAME" width="105">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="number" title="STR_INSTANCE_PREPARE_DIALOG__COL_LEVEL" width="50">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_INSTANCE_PREPARE_DIALOG__COL_JOB" width="60">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="param" title="STR_INSTANCE_PREPARE_DIALOG__COL_READY" width="60">
+		</Column>
+	</Widget>
+	<Widget column_customizing="True" column_heading="True" flag="truncate;vscroll" font="ui_list" frame="304,566,294,160" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="member_list14" preset="v5_listview_ex" scroll_type="visible" skin_type="version5" type="listviewex">
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_INSTANCE_PREPARE_DIALOG__COL_NAME" width="105">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="number" title="STR_INSTANCE_PREPARE_DIALOG__COL_LEVEL" width="50">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_INSTANCE_PREPARE_DIALOG__COL_JOB" width="60">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="param" title="STR_INSTANCE_PREPARE_DIALOG__COL_READY" width="60">
+		</Column>
+	</Widget>
+	<Widget column_customizing="True" column_heading="True" flag="truncate;vscroll" font="ui_list" frame="604,566,294,160" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="member_list15" preset="v5_listview_ex" scroll_type="visible" skin_type="version5" type="listviewex">
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_INSTANCE_PREPARE_DIALOG__COL_NAME" width="105">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="number" title="STR_INSTANCE_PREPARE_DIALOG__COL_LEVEL" width="50">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_INSTANCE_PREPARE_DIALOG__COL_JOB" width="60">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="param" title="STR_INSTANCE_PREPARE_DIALOG__COL_READY" width="60">
+		</Column>
+	</Widget>
+	<Widget column_customizing="True" column_heading="True" flag="truncate;vscroll" font="ui_list" frame="904,566,294,160" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="member_list16" preset="v5_listview_ex" scroll_type="visible" skin_type="version5" type="listviewex">
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_INSTANCE_PREPARE_DIALOG__COL_NAME" width="105">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="number" title="STR_INSTANCE_PREPARE_DIALOG__COL_LEVEL" width="50">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_INSTANCE_PREPARE_DIALOG__COL_JOB" width="60">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="param" title="STR_INSTANCE_PREPARE_DIALOG__COL_READY" width="60">
+		</Column>
+	</Widget>
+	<Widget font="ui_static_title" frame="4,5,294,60" name="help_msg" padding="0,0" preset="v5_staticbox" scroll_type="hidden" text_offset="10,10" type="htmlview" v_pos_align="middle" valign="middle">
+	</Widget>
+	<Widget defbutton="False" font="ui_default" frame="1051,738,74,24" name="ready" preset="v5_button" text="STR_INSTANCE_PREPARE_DIALOG__READY_COMPLETE" type="button">
+	</Widget>
+</Dialog>

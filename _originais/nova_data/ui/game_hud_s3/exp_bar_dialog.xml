@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="visible;not_movable" frame="0,0,967,16" h_pos_align="center" last_modified="2020-08-03 10:44:58" name="exp_bar_dialog" type="dlg_exp_bar" v_pos_align="bottom">
+	<Widget frame="0,0,967,16" gradient="True" name="temp_exp_gauge" preset="Yeti_exp_temp_gauge" space="2" stage="10" type="gauge" v_pos_align="bottom">
+	</Widget>
+	<Widget frame="0,0,967,16" gradient="True" name="exp_gauge" preset="Yeti_exp_detail_gauge" space="2" stage="10" type="gauge" v_pos_align="bottom">
+	</Widget>
+</Dialog>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="P01">&quot;I knew it... You really are cut from the same cloth.&quot;</Text>
+	<Text label="P02">&quot;Of course you would be able to track them down.&quot;</Text>
+	<Text label="P03">&quot;I thought the soldiers I made were perfect...&quot;</Text>
+	<Text label="P04">&quot;... but it seems there were some defects mixed in!&quot;</Text>
+	<Text label="P05">&quot;Captain... My name is Ragnath.&quot;</Text>
+	<Text label="P06">&quot;Finally... your memory...&quot;</Text>
+	<Text label="P07">&quot;You got your memory back, Captain...&quot;</Text>
+	<Text label="P08">&quot;I&apos;ll protect YOU this time...&quot;</Text>
+	<Text label="P09">&quot;Please... seize your fate...&quot;</Text>
+</CutSceneText>

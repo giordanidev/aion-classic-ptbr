@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="left" close_offset="4,1" close_preset="v5_close" flag="close;title" frame="15,130,416,713" last_modified="2014-08-22 12:58:41" name="object_paperdoll_dialog" preset="v5_dialog" shadow_offset="8,8" title_align="center" title_frame="3,3,44,14" title_height="25" title_offset="0,5" title_text="STR_OBJECT_PAPERDOLL_DIALOG" type="dlg_object_paperdoll" ui_mode="housing">
+	<Widget frame="1,0,409,702" name="portrait" type="3dview">
+		<Skin name="shop_dress_bg" state="back">
+		</Skin>
+	</Widget>
+	<Widget frame="280,627,34,35" name="turnleft" preset="v5_potrait_left" type="button">
+	</Widget>
+	<Widget frame="102,627,34,35" name="turnright" preset="v5_potrait_right" type="button">
+	</Widget>
+</Dialog>

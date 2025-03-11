@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="not_active" frame="785,710,204,64" last_modified="2020-12-01 11:52:50" name="battle_pass_notice_dialog" type="dlg_battle_pass_notice">
+	<Widget frame="0,0,204,64" group="gradient" h_pos_align="left" type="image">
+		<Skin name="v4_hud_notice">
+		</Skin>
+	</Widget>
+	<Widget font_size="14" frame="20,18,150,30" halign="center" name="notice_text" text="STR_UI_DEVAPASS_LEVEL_UP_SHORT" text_color="0.7882,0.7294,0.4784,1.0" type="static">
+	</Widget>
+</Dialog>

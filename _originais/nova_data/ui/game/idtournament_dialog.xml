@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="close;title" frame="300,200,582,593" last_modified="2018-11-27 13:35:30" name="idtournament_dialog" preset="v5_dialog2" shadow_offset="8,8" title_align="center" title_frame="3,3,576,14" title_height="25" title_offset="0,5" title_text="STR_INDUN_ACCOUNT_TOURNAMENT_DIALOG" type="dlg_idtournament">
+	<Widget flag="nonclient" frame="0,0,582,405" group="guide" h_pos_align="proportion" name="frame_min" type="container" v_pos_align="proportion">
+	</Widget>
+	<Widget flag="nonclient" frame="0,0,582,522" group="guide" h_pos_align="proportion" name="frame_mid" type="container">
+	</Widget>
+	<Widget flag="nonclient" frame="0,0,582,593" group="guide" h_pos_align="proportion" name="frame_max" type="container">
+	</Widget>
+	<Widget frame="1,0,575,84" name="account_titile" type="container">
+		<Skin name="v5_indun_tournament_title" state="0">
+		</Skin>
+		<Skin name="v5_indun_tournament_title_win" state="1">
+		</Skin>
+		<Widget font_size="25" frame="84,14,406,34" halign="center" name="win_title" text_shade="True" type="static" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget frame="5,84,567,257" name="account" type="container">
+		<Widget frame="0,0,567,257" type="image">
+			<Skin name="v5_static_bg4" state="0">
+			</Skin>
+		</Widget>
+		<Widget frame="0,3,275,254" type="image">
+			<Skin name="v5_tournament_left_bg" state="0">
+			</Skin>
+		</Widget>
+		<Widget frame="291,3,275,254" type="image">
+			<Skin name="v5_tournament_right_bg" state="0">
+			</Skin>
+		</Widget>
+		<Widget frame="0,19,567,22" type="image">
+			<Skin name="v5_row_odd" state="0">
+			</Skin>
+		</Widget>
+		<Widget frame="0,41,567,36" type="image">
+			<Skin name="v5_row_even" state="0">
+			</Skin>
+		</Widget>
+		<Widget frame="0,77,567,36" type="image">
+			<Skin name="v5_row_odd" state="0">
+			</Skin>
+		</Widget>
+		<Widget frame="0,113,567,36" type="image">
+			<Skin name="v5_row_even" state="0">
+			</Skin>
+		</Widget>
+		<Widget frame="0,149,567,36" type="image">
+			<Skin name="v5_row_odd" state="0">
+			</Skin>
+		</Widget>
+		<Widget frame="0,185,567,36" type="image">
+			<Skin name="v5_row_even" state="0">
+			</Skin>
+		</Widget>
+		<Widget frame="0,221,567,36" type="image">
+			<Skin name="v5_row_odd" state="0">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="5" column_heading="False" flag="not_active" font="v3_listview" frame="35,42,497,214" h_pos_align="proportion" header_height="23" item_height="36" item_num="6" item_padding="4" item_padding_right="4" list_padding="3,1" name="account_list" type="listviewex" v_pos_align="proportion">
+			<Column align="center" img_width="" sample_text="12345" sort="none" title="STR_INDUN_ACCOUNT_BATTLEFIELD_DIALOG__LIGHT" width="160">
+			</Column>
+			<Column align="center" img_width="" sample_text="항목" sort="none" title="" width="160">
+			</Column>
+			<Column align="center" img_width="" sample_text="54321" sort="none" title="STR_INDUN_ACCOUNT_BATTLEFIELD_DIALOG__DARK" width="160">
+			</Column>
+		</Widget>
+		<Widget frame="35,18,175,23" halign="center" name="my_name" type="static" valign="middle">
+		</Widget>
+		<Widget frame="357,18,175,23" halign="center" name="opponent_name" type="static" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget frame="5,344,568,182" name="reward_info" type="container">
+		<Skin name="v5_indun_account_bottom">
+		</Skin>
+		<Widget cell_padding="2" cell_space="0,0" column_set0=" ,130,right" frame="0,0,567,182" item_height="44" item_width="44" list_padding="3,3" name="reward_full_list" preset="v5_listview_sel" reserve_slots="False" scroll_type="visible" slot_num="8" split_num="2" type="listview" viewmode="detail">
+			<Column align="" title="" width="235">
+			</Column>
+		</Widget>
+		<Widget cell_padding="2" cell_space="0,0" column_set0=" ,130,right" frame="0,0,567,50" item_height="44" item_width="44" list_padding="3,3" name="reward_rp_list" preset="v5_listview_sel" reserve_slots="False" scroll_type="visible" slot_num="2" split_num="2" type="listview" viewmode="detail">
+			<Column align="" title="" width="235">
+			</Column>
+		</Widget>
+		<Widget font_size="20" frame="5,49,562,66" halign="center" name="win_text" preset="v5_staticbox" text="STR_INDUN_ACCOUNT_BATTLEFIELD_DIALOG__BONUS_NONE" text_color="0.94,0.76,0.19,1" type="static">
+		</Widget>
+	</Widget>
+	<Widget font="ui_default" frame="6,536,88,24" h_pos_align="center" name="info" preset="v5_button" text="STR_INDUN_ACCOUNT_TOURNAMENT_DIALOG__INFO_BTN" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="227,536,122,24" h_pos_align="center" name="leave" preset="v5_button" text="STR_INDUN_ACCOUNT_TOURNAMENT_DIALOG__LEAVE" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="492,536,82,24" h_pos_align="right" name="cancel_button" preset="v5_button" text="STR_COMMON__OK" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

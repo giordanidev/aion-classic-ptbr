@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="not_active;not_focusable" frame="507,758,136,35" h_pos_align="center" last_modified="2020-09-07 20:08:54" name="target_assist_delay_dialog" type="dlg_target_assist_delay" v_pos_align="bottom">
+	<Widget frame="0,11,136,25" type="image">
+		<Skin name="v4_delay_bg_target_assist">
+		</Skin>
+	</Widget>
+	<Widget frame="8,19,120,9" name="delay" preset="v4_delay_gauge_target_assist" type="gauge" value_type="float">
+	</Widget>
+	<Widget flag="truncate" frame="0,0,136,16" halign="center" name="name" text_shade="True" type="static" valign="middle">
+	</Widget>
+</Dialog>

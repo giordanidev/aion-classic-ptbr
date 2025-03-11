@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="not_movable" frame="0,0,248,165" last_modified="2016-05-02 18:13:40" name="abyss_fort_score_dialog" type="dlg_abyss_fort_score">
+	<Widget frame="0,0,248,165" h_pos_align="proportion" type="image" v_pos_align="proportion">
+		<Skin name="v5_indun_hud_bg">
+		</Skin>
+	</Widget>
+	<Widget font_size="14" frame="13,10,155,23" halign="left" name="fort_name" type="static" valign="middle">
+	</Widget>
+	<Widget font_size="14" frame="13,39,222,24" halign="center" name="remain_time" preset="v5_indun_hud_time" type="static" valign="middle">
+	</Widget>
+	<Widget flag="truncate" font="ui_default" frame="13,71,104,20" h_pos_align="left" halign="left" name="race0" padding="5, 2" text="STR_WORLD_INFLUENCE_DIALOG__LIGHT" type="static" v_pos_align="middle">
+	</Widget>
+	<Widget flag="truncate" font="ui_default" frame="13,98,104,20" h_pos_align="left" halign="left" name="race1" padding="5, 2" text="STR_WORLD_INFLUENCE_DIALOG__DARK" type="static" v_pos_align="middle">
+	</Widget>
+	<Widget flag="truncate" font="ui_default" frame="13,125,104,20" h_pos_align="left" halign="left" name="race2" padding="5, 2" text="STR_WORLD_INFLUENCE_DIALOG__DRAGON" type="static" v_pos_align="middle">
+	</Widget>
+	<Widget flag="truncate" font="ui_default" frame="121,71,114,20" h_pos_align="left" halign="left" name="score0" padding="5, 2" text="123" type="static" v_pos_align="middle">
+	</Widget>
+	<Widget flag="truncate" font="ui_default" frame="121,98,114,20" h_pos_align="left" halign="left" name="score1" padding="5, 2" text="123" type="static" v_pos_align="middle">
+	</Widget>
+	<Widget flag="truncate" font="ui_default" frame="121,125,114,20" h_pos_align="left" halign="left" name="score2" padding="5, 2" text="123" type="static" v_pos_align="middle">
+	</Widget>
+</Dialog>

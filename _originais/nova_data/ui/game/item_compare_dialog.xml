@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="transparent;fittoscreenheight;not_movable;not_active" frame="0,0,509,960" last_modified="2017-01-03 15:30:50" name="item_compare_dialog" type="dlg_item_compare">
+	<Widget blur="True" font="ui_default" frame="0,75,424,884" margin="5,5" name="container" preset="v5_tooltip" type="container">
+		<Widget color="1,1,1,0.5" frame="95,0,159,873" h_pos_align="right" image="tooltip_left_column" name="main_bg" type="image" v_pos_align="proportion">
+		</Widget>
+		<Widget frame="254,0,159,873" h_pos_align="right" image="tooltip_right_column" name="compare_bg" preset="v5_staticbox" type="image" v_pos_align="proportion">
+		</Widget>
+		<Widget blur="False" frame="258,0,151,107" name="main_item" type="container">
+			<Widget font="item_compare_default" frame="6,6,138,18" h_pos_align="proportion" name="type" type="static">
+			</Widget>
+			<Widget flag="truncate;multiline;wordwrap" font="item_compare_default" frame="6,26,138,29" h_pos_align="proportion" name="desc" text="아이템이름\n두줄" type="static">
+			</Widget>
+			<Widget cell_padding="2" frame="6,57,44,44" item_height="44" item_width="44" name="item" preset="v5_itemview" type="itemview" v_pos_align="bottom">
+			</Widget>
+			<Widget font="item_compare_score" frame="58,77,86,24" h_pos_align="proportion" halign="left" name="score" text="10,000" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="item_compare_default" frame="58,57,47,18" text="STR_TOOLTIP_ITEM_SCORE" type="static">
+			</Widget>
+		</Widget>
+		<Widget blur="False" frame="99,0,151,107" name="compare_item" type="container">
+			<Widget font="item_compare_default" frame="6,6,138,18" h_pos_align="proportion" name="type" type="static">
+			</Widget>
+			<Widget flag="truncate;multiline;wordwrap" font="item_compare_default" frame="6,26,138,29" h_pos_align="proportion" name="desc" text="아이템이름\n두줄" type="static">
+			</Widget>
+			<Widget cell_padding="2" frame="6,57,44,44" item_height="44" item_width="44" name="item" preset="v5_itemview" type="itemview" v_pos_align="bottom">
+			</Widget>
+			<Widget font="item_compare_score" frame="58,77,86,24" h_pos_align="proportion" halign="left" name="score" text="10,000" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="item_compare_default" frame="58,57,47,18" text="STR_TOOLTIP_ITEM_SCORE" type="static">
+			</Widget>
+		</Widget>
+		<Widget flag="not_visible" frame="0,245,413,2" name="separator" preset="v5_tooltip_sep_content" type="image">
+		</Widget>
+		<Widget defbutton="False" flag="not_visible;truncate" font="item_compare_title" frame="0,121,404,22" name="title" text="능력치 총합" text_shade="False" type="static">
+		</Widget>
+		<Widget flag="not_visible;truncate" font="item_compare_default" frame="7,172,87,22" name="value3_title" text="물리 치명타 저항" type="static">
+		</Widget>
+		<Widget flag="not_visible;truncate" font="item_compare_default" frame="258,172,151,22" name="value3_main" text="723 - 754 + 180" type="static">
+		</Widget>
+		<Widget flag="not_visible;truncate" font="item_compare_default" frame="99,172,151,22" name="value3_comp" text="723 - 754 + 180" type="static">
+		</Widget>
+		<Widget flag="not_visible;truncate" font="item_compare_subtitle" frame="3,146,400,22" name="subtitle" text="물리 치명타 저항" text_shade="False" type="static">
+		</Widget>
+		<Widget flag="not_visible" font="item_compare_default" frame="258,197,153,44" html_margin="0" margin="3" name="content3_main" type="htmlview">
+		</Widget>
+		<Widget flag="not_visible" font="item_compare_default" frame="99,197,153,44" html_margin="0" margin="3" name="content3_comp" type="htmlview">
+		</Widget>
+	</Widget>
+	<Widget blur="True" frame="0,1,424,73" margin="3" name="help_container" preset="v5_tooltip" type="container">
+		<Widget font="item_compare_default" frame="0,0,417,66" html_margin="0,0" name="help_info" scroll_type="hidden" text="&lt;p&gt;텍스트&lt;/p&gt;&lt;p&gt;두줄&lt;/p&gt;&lt;p&gt;세줄&lt;/p&gt;" type="htmlview">
+		</Widget>
+	</Widget>
+	<Widget blend_type="screen" flag="not_visible" frame="428,440,80,80" image="tooltip_prev_arrow" name="prev_marker" type="image" v_pos_align="middle">
+	</Widget>
+	<Widget blend_type="screen" flag="not_visible" frame="517,440,80,80" image="tooltip_next_arrow" name="next_marker" type="image" v_pos_align="middle">
+	</Widget>
+</Dialog>

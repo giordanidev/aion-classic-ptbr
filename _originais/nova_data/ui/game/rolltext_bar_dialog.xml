@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog frame="0,0,1920,24" last_modified="2020-07-08 10:40:51" name="rolltext_bar_dialog" type="dlg_rolltext_bar">
+	<Widget frame="0,0,1920,24" h_pos_align="proportion" image="v7_dark_static" type="image" v_pos_align="proportion">
+	</Widget>
+</Dialog>

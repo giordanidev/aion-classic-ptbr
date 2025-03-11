@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="left" close_offset="5,7" flag="close;title" frame="100,130,641,421" last_modified="2020-09-07 20:08:54" name="party_match_dialog" preset="v4_dialog" title_align="center" title_frame="3,3,195,14" title_offset="0,5" title_text="STR_PARTY_MATCH_DIALOG" type="dlg_party_match">
+	<Widget frame="0,10,634,390" h_pos_align="proportion" name="tabsheet" type="tabsheet" v_pos_align="proportion">
+		<Widget frame="0,0,634,25" h_pos_align="proportion" name="tab" preset="v4_tab" tab_frame="0,0,634,25" tab_offset="4,0" tab_space="0" type="tab">
+			<Widget frame="4,0,73,25" preset="v4_tab_button" text="STR_PARTY_MATCH_DIALOG__TAB_OFFER" type="tabbutton">
+			</Widget>
+			<Widget frame="78,0,82,25" preset="v4_tab_button" text="STR_PARTY_MATCH_DIALOG__TAB_SEEK" type="tabbutton">
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,634,367" h_pos_align="proportion" name="offer_page" preset="v4_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget flag="truncate" frame="6,59,604,275" h_pos_align="proportion" header_font="v3_columnhead" header_height="25" item_height="20" list_padding="3,3" name="offer_list" preset="v4_listview_ex" scroll_type="visible" type="listviewex" v_pos_align="bottom">
+				<Column align="center" img_width="" sort="text" title="STR_PARTY_MATCH_DIALOG__OFFER_COL_TYPE" width="48">
+				</Column>
+				<Column align="left" img_width="" sort="text" title="STR_PARTY_MATCH_DIALOG__OFFER_COL_DESC" width="327">
+				</Column>
+				<Column align="left" img_width="" sort="text" title="STR_PARTY_MATCH_DIALOG__OFFER_COL_LEADER" width="112">
+				</Column>
+				<Column align="center" img_width="" sort="param" title="STR_PARTY_MATCH_DIALOG__OFFER_COL_MEMBER" width="48">
+				</Column>
+				<Column align="center" img_width="" sort="param" title="STR_PARTY_MATCH_DIALOG__OFFER_COL_LEVEL" width="62">
+				</Column>
+				<Column align="center" img_width="" sort="param" title="time" width="0">
+				</Column>
+			</Widget>
+			<Widget frame="609,59,21,275" h_pos_align="right" linker="offer_list" preset="v4_scroll" type="scrollbar" v_pos_align="bottom">
+				<Widget flag="not_active" frame="1,0,19,19" h_pos_align="proportion" name="minus" preset="v4_scroll_minus" type="button">
+				</Widget>
+				<Widget flag="not_active" frame="1,260,19,19" h_pos_align="proportion" name="plus" preset="v4_scroll_plus" type="button" v_pos_align="bottom">
+				</Widget>
+			</Widget>
+			<Widget frame="5,8,59,17" name="so_party" preset="v4_check" style="checkbox" text="STR_PARTY_MATCH_DIALOG__SEARCH_PARTY" text_offset="3,0" type="button">
+			</Widget>
+			<Widget frame="59,8,59,17" name="so_force" preset="v4_check" style="checkbox" text="STR_PARTY_MATCH_DIALOG__SEARCH_FORCE" text_offset="3,0" type="button">
+			</Widget>
+			<Widget frame="6,32,30,24" halign="left" padding="1,0" text="STR_PARTY_MATCH_DIALOG__SEARCH_LEVEL" type="static">
+			</Widget>
+			<Widget frame="37,32,39,23" h_padding="5" max_length="3" name="so_level_min" numeric="1" preset="v4_editbox" type="editbox" v_padding="5">
+			</Widget>
+			<Widget frame="78,31,14,24" halign="center" text="STR_VENDOR_DIALOG__WAVE" type="static" valign="middle">
+			</Widget>
+			<Widget frame="93,32,40,23" h_padding="5" max_length="3" name="so_level_max" numeric="1" preset="v4_editbox" type="editbox" v_padding="5">
+			</Widget>
+			<Widget frame="148,33,42,22" halign="left" padding="1,0" text="STR_PARTY_MATCH_DIALOG__SEARCH_WORD" type="static">
+			</Widget>
+			<Widget frame="191,32,317,23" h_padding="5" name="so_edit" preset="v4_editbox" type="editbox" v_padding="5" valign="bottom">
+			</Widget>
+			<Widget frame="510,30,61,26" name="so_btn" preset="v4_button" text="STR_PARTY_MATCH_DIALOG__SEARCH_OK" type="button">
+			</Widget>
+			<Widget frame="571,30,61,26" name="so_cancel_btn" preset="v4_button" text="STR_PARTY_MATCH_DIALOG__SEARCH_CANCEL" type="button">
+			</Widget>
+			<Widget frame="233,8,202,17" name="so_minimize" preset="v4_check" style="checkbox" text="STR_PARTY_MATCH_DIALOG__SEARCH_OFFER_MINIMIZE" text_offset="3,0" type="button">
+			</Widget>
+			<Widget frame="559,340,77,26" h_pos_align="right" name="desire" preset="v4_button" text="STR_PARTY_MATCH_DIALOG__DESIRE" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="477,340,83,26" h_pos_align="right" name="offer" preset="v4_button" text="STR_PARTY_MATCH_DIALOG__OFFER_PARTY" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="118,8,115,17" name="so_visible_my_article" preset="v4_check" style="checkbox" text="STR_PARTY_MATCH_DIALOG__OFFER_VISIBLE_MY_ARTICLE" text_offset="3,0" type="button">
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,634,367" h_pos_align="proportion" name="seek_page" preset="v4_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget flag="truncate" frame="6,59,604,275" h_pos_align="proportion" header_font="v3_columnhead" header_height="25" item_height="20" list_padding="3,3" name="seek_list" preset="v4_listview_ex" scroll_type="visible" type="listviewex" v_pos_align="bottom">
+				<Column align="left" img_width="" sort="text" title="STR_PARTY_MATCH_DIALOG__SEEK_COL_USER" width="125">
+				</Column>
+				<Column align="center" img_width="" sort="param" title="STR_PARTY_MATCH_DIALOG__SEEK_COL_CLASS" width="53">
+				</Column>
+				<Column align="center" img_width="" sort="number" title="STR_PARTY_MATCH_DIALOG__SEEK_COL_LEVEL" width="48">
+				</Column>
+				<Column align="center" img_width="" sort="text" title="STR_PARTY_MATCH_DIALOG__SEEK_COL_TYPE" width="48">
+				</Column>
+				<Column align="left" img_width="" sort="text" title="STR_PARTY_MATCH_DIALOG__SEEK_COL_DESC" width="325">
+				</Column>
+				<Column align="center" img_width="" sort="param" title="time" width="0">
+				</Column>
+			</Widget>
+			<Widget frame="609,59,21,275" h_pos_align="right" linker="seek_list" preset="v4_scroll" type="scrollbar" v_pos_align="bottom">
+				<Widget flag="not_active" frame="1,0,19,19" h_pos_align="proportion" name="minus" preset="v4_scroll_minus" type="button">
+				</Widget>
+				<Widget flag="not_active" frame="1,255,19,19" h_pos_align="proportion" name="plus" preset="v4_scroll_plus" type="button" v_pos_align="bottom">
+				</Widget>
+			</Widget>
+			<Widget frame="150,35,26,18" halign="left" text="STR_PARTY_MATCH_DIALOG__SEARCH_CLASS" type="static">
+			</Widget>
+			<Widget frame="179,32,82,23" name="ss_class" preset="v4_staticbox" type="combobox">
+			</Widget>
+			<Widget frame="5,8,59,17" name="ss_party" preset="v4_check" style="checkbox" text="STR_PARTY_MATCH_DIALOG__SEARCH_PARTY" text_offset="3,0" type="button">
+			</Widget>
+			<Widget frame="59,8,59,17" name="ss_force" preset="v4_check" style="checkbox" text="STR_PARTY_MATCH_DIALOG__SEARCH_FORCE" text_offset="3,0" type="button">
+			</Widget>
+			<Widget frame="6,32,30,24" halign="left" padding="1,0" text="STR_PARTY_MATCH_DIALOG__SEARCH_LEVEL" type="static">
+			</Widget>
+			<Widget frame="37,32,39,23" h_padding="5" max_length="3" name="ss_level_min" numeric="1" preset="v4_editbox" type="editbox" v_padding="5">
+			</Widget>
+			<Widget frame="78,31,14,24" halign="center" text="STR_VENDOR_DIALOG__WAVE" type="static" valign="middle">
+			</Widget>
+			<Widget frame="93,32,40,23" h_padding="5" max_length="3" name="ss_level_max" numeric="1" preset="v4_editbox" type="editbox" v_padding="5">
+			</Widget>
+			<Widget frame="277,33,42,22" halign="left" text="STR_PARTY_MATCH_DIALOG__SEARCH_WORD" type="static">
+			</Widget>
+			<Widget frame="318,32,190,23" h_padding="5" name="ss_edit" preset="v4_editbox" type="editbox" v_padding="5" valign="bottom">
+			</Widget>
+			<Widget frame="510,30,61,26" name="ss_btn" preset="v4_button" text="STR_PARTY_MATCH_DIALOG__SEARCH_OK" type="button">
+			</Widget>
+			<Widget frame="571,30,61,26" name="ss_cancel_btn" preset="v4_button" text="STR_PARTY_MATCH_DIALOG__SEARCH_CANCEL" type="button">
+			</Widget>
+			<Widget frame="233,8,202,17" name="ss_minimize" preset="v4_check" style="checkbox" text="STR_PARTY_MATCH_DIALOG__SEARCH_SEEK_MINIMIZE" text_offset="3,0" type="button">
+			</Widget>
+			<Widget frame="559,340,77,26" h_pos_align="right" name="invite" preset="v4_button" text="STR_PARTY_MATCH_DIALOG__INVITE" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="477,340,83,26" h_pos_align="right" name="seek" preset="v4_button" text="STR_PARTY_MATCH_DIALOG__SEEK_PARTY" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="118,8,115,17" name="ss_visible_my_article" preset="v4_check" style="checkbox" text="STR_PARTY_MATCH_DIALOG__SEEK_VISIBLE_MY_ARTICLE" text_offset="3,0" type="button">
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget frame="394,375,84,26" h_pos_align="right" name="del" preset="v4_button" text="STR_PARTY_MATCH_DIALOG__DELETE" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget frame="1,375,61,26" h_pos_align="right" name="help" preset="v4_button" text="STR_COMMON__HELP" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

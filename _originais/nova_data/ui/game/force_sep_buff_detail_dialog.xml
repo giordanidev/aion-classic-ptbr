@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="transparent;not_movable;not_active" frame="15,140,280,52" last_modified="2020-07-31 15:24:09" name="force_sep_buff_detail_dialog" title_frame="0,0,0,0" type="dlg_force_sep_buff_detail">
+	<Widget frame="1,1,16,16" item_height="16" item_width="16" name="buff_item1" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="18,1,16,16" item_height="16" item_width="16" name="buff_item2" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="35,1,16,16" item_height="16" item_width="16" name="buff_item3" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="52,1,16,16" item_height="16" item_width="16" name="buff_item4" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="69,1,16,16" item_height="16" item_width="16" name="buff_item5" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="86,1,16,16" item_height="16" item_width="16" name="buff_item6" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="103,1,16,16" item_height="16" item_width="16" name="buff_item7" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="120,1,16,16" item_height="16" item_width="16" name="buff_item8" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="137,1,16,16" item_height="16" item_width="16" name="buff_item9" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="154,1,16,16" item_height="16" item_width="16" name="buff_item10" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="171,1,16,16" item_height="16" item_width="16" name="buff_item11" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="188,1,16,16" item_height="16" item_width="16" name="buff_item12" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="205,1,16,16" item_height="16" item_width="16" name="buff_item13" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="222,1,16,16" item_height="16" item_width="16" name="buff_item14" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="1,18,16,16" item_height="16" item_width="16" name="buff_item15" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="18,18,16,16" item_height="16" item_width="16" name="buff_item16" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="35,18,16,16" item_height="16" item_width="16" name="buff_item17" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="52,18,16,16" item_height="16" item_width="16" name="buff_item18" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="69,18,16,16" item_height="16" item_width="16" name="buff_item19" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="86,18,16,16" item_height="16" item_width="16" name="buff_item20" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="103,18,16,16" item_height="16" item_width="16" name="buff_item21" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="120,18,16,16" item_height="16" item_width="16" name="buff_item22" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="137,18,16,16" item_height="16" item_width="16" name="buff_item23" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="154,18,16,16" item_height="16" item_width="16" name="buff_item24" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="171,18,16,16" item_height="16" item_width="16" name="buff_item25" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="188,18,16,16" item_height="16" item_width="16" name="buff_item26" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="205,18,16,16" item_height="16" item_width="16" name="buff_item27" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="222,18,16,16" item_height="16" item_width="16" name="buff_item28" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="1,35,16,16" item_height="16" item_width="16" name="debuff_item1" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="18,35,16,16" item_height="16" item_width="16" name="debuff_item2" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="35,35,16,16" item_height="16" item_width="16" name="debuff_item3" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="52,35,16,16" item_height="16" item_width="16" name="debuff_item4" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="69,35,16,16" item_height="16" item_width="16" name="debuff_item5" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="86,35,16,16" item_height="16" item_width="16" name="debuff_item6" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="103,35,16,16" item_height="16" item_width="16" name="debuff_item7" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="120,35,16,16" item_height="16" item_width="16" name="debuff_item8" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="137,35,16,16" item_height="16" item_width="16" name="debuff_item9" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="154,35,16,16" item_height="16" item_width="16" name="debuff_item10" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="171,35,16,16" item_height="16" item_width="16" name="debuff_item11" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="188,35,16,16" item_height="16" item_width="16" name="debuff_item12" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="205,35,16,16" item_height="16" item_width="16" name="debuff_item13" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="222,35,16,16" item_height="16" item_width="16" name="debuff_item14" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+</Dialog>

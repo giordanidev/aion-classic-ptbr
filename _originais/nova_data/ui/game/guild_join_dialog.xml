@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="close;title" frame="0,0,404,325" last_modified="2015-05-12 14:18:11" name="guild_join_dialog" preset="v5_dialog2" title_frame="3,3,398,14" title_offset="9,1" title_text="STR_GUILD_JOIN_DIALOG__TITLE" type="dlg_guild_join">
+	<Widget anim_style="none" frame="0,0,398,295" h_pos_align="proportion" name="tabsheet" type="tabsheet" v_pos_align="proportion">
+		<Widget btn_move_anim="False" frame="0,0,398,25" h_pos_align="proportion" name="tab" preset="v5_tab" tab_offset="6,0" tab_space="0" type="tab" v_pos_align="top">
+			<Widget frame="7,0,60,25" name="tab_setting" preset="v5_tabbutton" text="STR_GUILD_JOIN_DIALOG__TAB_SETTING" type="tabbutton">
+			</Widget>
+			<Widget frame="66,0,60,25" name="tab_applicant" preset="v5_tabbutton" text="STR_GUILD_JOIN_DIALOG__TAB_APPLICANT" type="tabbutton">
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,398,270" h_pos_align="proportion" name="tabpage_setting" preset="v5_tabpage2" type="tabpage" v_pos_align="proportion">
+			<Widget frame="0,0,398,240" h_pos_align="proportion" name="setting_container" type="container" v_pos_align="proportion">
+				<Widget frame="8,8,383,79" type="container">
+					<Widget frame="7,4,84,21" text="STR_GUILD_JOIN_DIALOG__JOIN_TYPE" type="static">
+					</Widget>
+					<Widget font="ui_static_title" frame="103,5,179,22" name="radio_open_join" preset="v5_radio" style="radiobutton" text="STR_GUILD_JOIN_DIALOG__JOIN_OPEN" text_offset="2,0" type="button">
+					</Widget>
+					<Widget font="ui_static_title" frame="103,29,179,22" name="radio_approval_join" preset="v5_radio" style="radiobutton" text="STR_GUILD_JOIN_DIALOG__JOIN_APPROVAL" text_offset="2,0" type="button">
+					</Widget>
+					<Widget font="ui_static_title" frame="103,53,179,22" name="radio_closed_join" preset="v5_radio" style="radiobutton" text="STR_GUILD_JOIN_DIALOG__JOIN_CLOSE" text_offset="2,0" type="button">
+					</Widget>
+				</Widget>
+				<Widget frame="8,89,383,32" type="container">
+					<Widget frame="7,4,84,21" text="STR_GUILD_JOIN_DIALOG__RESTRICT_LEVEL" type="static">
+					</Widget>
+					<Widget alphanumeric="False" font="ui_editbox" frame="97,3,35,25" h_align="center" h_padding="5" max_length="2" name="level_editbox" numeric="1" preset="v5_editbox" type="editbox" v_align="middle" v_padding="5">
+					</Widget>
+				</Widget>
+				<Widget frame="8,123,383,110" type="container">
+					<Widget frame="7,2,362,21" h_pos_align="left" text="STR_GUILD_JOIN_DIALOG__INTRODUCTION" type="static" v_pos_align="top">
+					</Widget>
+					<Widget alphanumeric="False" flag="multiline;wordwrap;vscroll" font="ui_editbox" frame="4,26,374,76" h_padding="6" max_length="32" name="introduction_editbox" preset="v5_editbox" type="editbox" v_padding="6" valign="top">
+					</Widget>
+				</Widget>
+			</Widget>
+			<Widget defbutton="False" font="ui_default" frame="241,243,75,24" h_pos_align="right" name="button_setting" preset="v5_button" text="STR_COMMON__OK" type="button" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,398,270" h_pos_align="proportion" name="tabpage_applicant" preset="v5_tabpage2" type="tabpage" v_pos_align="proportion">
+			<Widget check_preset="v5_check" column_heading="true" flag="truncate;vscroll" font="ui_list" frame="0,0,397,237" h_pos_align="proportion" header_font="v3_columnhead" header_height="25" item_height="23" list_padding="3,3" name="applicant_list" preset="v5_listview_ex_no_sel" scroll_type="visible" skin_type="version5" type="listviewex" v_pos_align="proportion">
+				<Column align="center" name="check" sort="none" width="25">
+				</Column>
+				<Column align="left" name="name" sort="text" title="STR_GUILD_JOIN_DIALOG__APPLICANT_NAME" width="120">
+				</Column>
+				<Column align="left" name="class" sort="param" title="STR_GUILD_JOIN_DIALOG__APPLICANT_CLASS" width="50">
+				</Column>
+				<Column align="right" name="level" sort="param" title="STR_GUILD_JOIN_DIALOG__APPLICANT_LEVEL" width="30">
+				</Column>
+				<Column name="introduction" title="STR_GUILD_JOIN_DIALOG__APPLICANT_INTRODUCTION" width="150">
+				</Column>
+			</Widget>
+			<Widget defbutton="False" font="ui_default" frame="162,243,75,24" h_pos_align="right" name="button_approval" preset="v5_button" text="STR_GUILD_JOIN_DIALOG__APPROVAL" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" font="ui_default" frame="241,243,75,24" h_pos_align="right" name="button_refusal" preset="v5_button" text="STR_GUILD_JOIN_DIALOG__REFUSAL" type="button" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget font="ui_default" frame="320,268,75,24" name="cancel" preset="v5_button" text="STR_DLG_DIALOG__CLOSE" type="button" v_pos_align="bottom">
+		</Widget>
+	</Widget>
+</Dialog>

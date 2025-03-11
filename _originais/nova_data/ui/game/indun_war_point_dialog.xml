@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="not_movable" frame="0,0,190,60" last_modified="2016-11-10 16:20:10" name="indun_war_point_dialog" type="dlg_indun_war_point">
+	<Widget frame="0,0,190,60" h_pos_align="proportion" preset="v5_indun_hud_bg" type="container" v_pos_align="proportion">
+		<Widget font_size="14" frame="8,7,175,20" halign="center" name="title" type="static" valign="middle">
+		</Widget>
+		<Widget flag="active" font_size="16" frame="20,30,151,21" halign="center" name="war_point" preset="v5_indun_hud_score_party" text_color="0.9882,0.4667,0.1176,1.0" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+		<Widget flag="not_enabled" frame="20,30,151,21" halign="center" name="war_point_fx" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+		<Widget font_size="14" frame="149,33,16,16" halign="center" type="static" valign="middle">
+			<Skin name="v5_indun_war_point">
+			</Skin>
+		</Widget>
+	</Widget>
+</Dialog>

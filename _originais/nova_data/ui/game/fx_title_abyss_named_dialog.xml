@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog frame="0,0,1280,960" h_pos_align="center" last_modified="2015-06-18 11:08:57" name="fx_title_abyss_named_dialog" type="dlg_fx_title_abyss_named" v_pos_align="top">
+	<Widget frame="440,53,400,340" name="_emblem" type="container">
+		<Skin name="v5_worldraid_emblem_vritra">
+		</Skin>
+	</Widget>
+	<Widget frame="40,244,1200,92" h_pos_align="proportion" name="title_fx" type="container" v_pos_align="proportion">
+	</Widget>
+	<Widget frame="40,244,1200,92" name="title" type="container">
+		<Widget font_size="48" frame="0,16,1200,60" h_pos_align="proportion" halign="center" name="title_text" padding="5,0" text_color="0.9765,0.0,0.0,1.0" text_shade="True" type="static" v_pos_align="proportion" valign="middle">
+		</Widget>
+	</Widget>
+</Dialog>

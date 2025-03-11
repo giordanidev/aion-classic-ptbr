@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="6,5" close_preset="v5_close" flag="not_visible" frame="100,100,346,133" last_modified="2020-07-14 10:58:02" name="tooltip_proto_absolute_dialog" preset="v5_tooltip" shadow_offset="8,8" title_align="center" title_frame="3,3,303,14" title_height="25" title_offset="10,2" type="dlg_tooltip_proto_absolute">
+	<Widget frame="10,12,320,28" h_pos_align="proportion" html_margin="1,1" name="main" type="htmlview">
+	</Widget>
+	<Widget frame="57,45,273,44" h_pos_align="proportion" html_margin="1,1" name="content" type="htmlview">
+	</Widget>
+	<Widget cell_padding="2" font="v3_shortcut" frame="10,45,44,44" item_height="44" item_width="44" name="main_slot" one_click_action="True" preset="v5_itemview" type="itemview">
+	</Widget>
+	<Widget frame="4,97,331,4" h_pos_align="proportion" name="main_sep" preset="v5_tooltip_sep" type="image">
+	</Widget>
+	<Widget frame="56,92,281,2" h_pos_align="proportion" name="content_sep" preset="v5_tooltip_sep_content" type="image">
+	</Widget>
+	<Widget flag="outer" frame="0,0,339,170" h_pos_align="center" name="lightdeco" preset="v5_tooltip_absolute_light_deco" type="image" v_pos_align="top">
+	</Widget>
+	<Widget flag="outer" frame="-7,-7,353,140" h_pos_align="proportion" name="decoframe" preset="v5_tooltip_absolute_frame" type="image" v_pos_align="top">
+	</Widget>
+	<Widget flag="outer" frame="-12,-17,86,64" h_pos_align="left" name="deco1" preset="v5_tooltip_absolute_left_t_deco" type="image" v_pos_align="top">
+	</Widget>
+	<Widget flag="outer" frame="-9,91,69,43" h_pos_align="left" name="deco2" preset="v5_tooltip_absolute_left_b_deco" type="image" v_pos_align="bottom">
+	</Widget>
+	<Widget flag="outer" frame="279,91,69,43" h_pos_align="right" name="deco3" preset="v5_tooltip_absolute_right_b_deco" type="image" v_pos_align="bottom">
+	</Widget>
+	<Widget flag="outer" frame="265,-17,86,64" h_pos_align="right" name="deco4" preset="v5_tooltip_absolute_right_t_deco" type="image" v_pos_align="top">
+	</Widget>
+	<Widget flag="outer" frame="86,-27,168,40" h_pos_align="center" name="topdeco" preset="v5_tooltip_absolute_top_deco" type="image" v_pos_align="top">
+	</Widget>
+	<Widget frame="172,103,158,23" name="notice3" type="static">
+	</Widget>
+	<Widget frame="112,103,58,23" name="notice2" type="static">
+	</Widget>
+	<Widget frame="10,103,99,23" name="notice1" type="static">
+	</Widget>
+</Dialog>

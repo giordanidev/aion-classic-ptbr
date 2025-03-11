@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="left" close_offset="4,1" close_preset="v5_close" flag="close;title" frame="100,150,406,564" last_modified="2020-10-29 18:53:09" name="familiar_dialog" preset="v5_dialog" shadow_offset="8,8" title_align="center" title_frame="3,3,377,14" title_height="25" title_offset="0,5" title_text="STR_FAMILIAR_DIALOG_MAIN" type="dlg_familiar">
+	<Widget frame="0,0,401,534" h_pos_align="left" name="tabsheet_main" type="tabsheet" v_pos_align="top">
+		<Widget btn_move_anim="False" frame="0,0,401,25" h_pos_align="proportion" preset="v5_tab" tab_offset="6,0" tab_space="0" type="tab" v_pos_align="top">
+			<Widget font="ui_default" frame="6,0,70,25" name="familiar_tab_contract" preset="v5_familiar_tabbutton" text="STR_FAMILIAR_DIALOG_CONTRACT_TAB" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="76,0,70,25" name="familiar_tab_manage" preset="v5_familiar_tabbutton" text="STR_FAMILIAR_DIALOG_MYUNIT_TAB" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="146,0,70,25" name="familiar_tab_compose" preset="v5_familiar_tabbutton" text="STR_FAMILIAR_DIALOG_COMPOSE_TAB" type="tabbutton">
+			</Widget>
+		</Widget>
+		<Widget frame="0,24,401,510" h_pos_align="proportion" name="page_contract" type="tabpage" v_pos_align="proportion">
+			<Widget frame="0,0,401,510" image="familiar_contract_bg" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="179,17,44,44" group="itemview" item_height="44" item_width="44" name="contract_item" preset="v5_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget flag="truncate" frame="70,68,263,20" halign="center" name="contract_item_name" type="static" valign="middle">
+			</Widget>
+			<Widget frame="70,96,263,52" name="contracted_familiar_info" type="container">
+				<Widget font_size="15" frame="0,0,263,31" halign="center" name="name" text="STR_TOYPET_LIST_DIALOG" type="static" valign="middle">
+				</Widget>
+				<Widget frame="12,2,57,26" name="tier_grade_bg" type="image">
+					<Skin name="familiar_tier_grade_bg" state="0">
+					</Skin>
+				</Widget>
+				<Widget frame="30,5,20,20" name="tier_grade" preset="familiar_tier_grade_img" type="image">
+				</Widget>
+				<Widget frame="0,25,263,24" name="star_grade_container" type="container">
+					<Widget frame="79,0,24,24" h_pos_align="center" name="star_grade_1" preset="familiar_star_grade_img" type="image">
+					</Widget>
+					<Widget frame="99,0,24,24" h_pos_align="center" name="star_grade_2" preset="familiar_star_grade_img" type="image">
+					</Widget>
+					<Widget frame="119,0,24,24" h_pos_align="center" name="star_grade_3" preset="familiar_star_grade_img" type="image">
+					</Widget>
+					<Widget frame="139,0,24,24" h_pos_align="center" name="star_grade_4" preset="familiar_star_grade_img" type="image">
+					</Widget>
+					<Widget frame="159,0,24,24" h_pos_align="center" name="star_grade_5" preset="familiar_star_grade_img" type="image">
+					</Widget>
+				</Widget>
+			</Widget>
+			<Widget cam_angle="10" frame="70,152,263,262" name="model_view" type="3dview">
+			</Widget>
+			<Widget flag="not_active;not_visible" frame="70,152,263,262" name="contract_fx" type="container">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="14" frame="57,435,288,70" fx_offset="8,28" fx_size="47,31" name="do_contract" preset="familiar_gauge_btn" single_click_only="True" text_offset="0,19" type="gaugebutton" v_pos_align="top">
+			</Widget>
+			<Widget flag="truncate" frame="70,390,263,20" halign="center" name="contract_info" type="static" valign="middle">
+			</Widget>
+			<Widget flag="active" frame="141,416,120,19" preset="v5_staticbox" type="container">
+				<Widget font="ui_default" frame="1,1,17,17" name="contract_cnt_min" preset="v5_first_page" type="button">
+				</Widget>
+				<Widget font="ui_default" frame="102,1,17,17" name="contract_cnt_max" preset="v5_last_page" type="button">
+				</Widget>
+				<Widget font="v3_money" frame="18,1,84,17" h_align="center" name="contract_cnt" type="spin">
+				</Widget>
+			</Widget>
+		</Widget>
+		<Widget frame="0,24,401,510" h_pos_align="proportion" name="page_manage" type="tabpage" v_pos_align="proportion">
+			<Widget frame="2,4,396,499" type="container">
+				<Widget font="ui_default" frame="95,31,60,20" halign="right" name="count" type="static" valign="middle">
+				</Widget>
+				<Widget frame="5,31,110,20" halign="left" text="STR_FAMILIAR_MYUNIT_TAB_MYUNIT" type="static" valign="middle">
+				</Widget>
+				<Widget frame="159,33,16,16" name="familiar_tip" tooltip="STR_FAMILIAR_MYUNIT_TAB_MYUNIT_BUTOONTIP" type="image">
+					<Skin name="help_button_up">
+					</Skin>
+				</Widget>
+				<Widget font="ui_combo" frame="292,28,100,23" max_items="3" name="sort_type" preset="v5_staticbox3" type="combobox">
+					<Items>
+						<Item name="STR_FAMILIAR_MYUNIT_TAB_SORT_GRADE1">
+						</Item>
+						<Item name="STR_FAMILIAR_MYUNIT_TAB_SORT_GRADE2">
+						</Item>
+						<Item name="STR_FAMILIAR_MYUNIT_TAB_SORT_GET">
+						</Item>
+					</Items>
+				</Widget>
+				<Widget frame="0,0,396,23" type="container">
+					<Skin name="v5_trade_tab_frame">
+					</Skin>
+					<Widget font="ui_default" frame="0,0,66,23" h_pos_align="left" halign="center" name="filter_all" preset="v5_trade_tabbutton" text="STR_FAMILIAR_MYUNIT_TAB_FILTER_ALL" type="button">
+					</Widget>
+					<Widget font="ui_default" frame="66,0,66,23" h_pos_align="left" halign="center" name="filter_grade_s" preset="v5_trade_tabbutton" style="checkbox" text="STR_FAMILIAR_COMPOSE_TAB_FILTER_S_GRADE" type="button">
+					</Widget>
+					<Widget font="ui_default" frame="132,0,66,23" h_pos_align="left" halign="center" name="filter_grade_a" preset="v5_trade_tabbutton" style="checkbox" text="STR_FAMILIAR_MYUNIT_TAB_FILTER_A_GRADE" type="button">
+					</Widget>
+					<Widget font="ui_default" frame="198,0,66,23" h_pos_align="left" halign="center" name="filter_grade_b" preset="v5_trade_tabbutton" style="checkbox" text="STR_FAMILIAR_MYUNIT_TAB_FILTER_B_GRADE" type="button">
+					</Widget>
+					<Widget font="ui_default" frame="264,0,66,23" h_pos_align="left" halign="center" name="filter_grade_c" preset="v5_trade_tabbutton" style="checkbox" text="STR_FAMILIAR_MYUNIT_TAB_FILTER_C_GRADE" type="button">
+					</Widget>
+					<Widget font="ui_default" frame="331,0,66,23" h_pos_align="left" halign="center" name="filter_grade_d" preset="v5_trade_tabbutton" style="checkbox" text="STR_FAMILIAR_MYUNIT_TAB_FILTER_D_GRADE" type="button">
+					</Widget>
+					<Widget flag="not_visible;not_active" font="ui_default" frame="331,0,66,23" h_pos_align="left" halign="center" name="filter_lock" preset="v5_trade_tabbutton" style="checkbox" text="STR_FAMILIAR_MYUNIT_TAB_FILTER_LOCK" type="button">
+					</Widget>
+					<Widget flag="not_active" frame="65,0,2,23" image="v5_trade_tab_seperator" type="image">
+					</Widget>
+					<Widget flag="not_active" frame="131,0,2,23" image="v5_trade_tab_seperator" type="image">
+					</Widget>
+					<Widget flag="not_active" frame="197,0,2,23" image="v5_trade_tab_seperator" type="image">
+					</Widget>
+					<Widget flag="not_active" frame="263,0,2,23" image="v5_trade_tab_seperator" type="image">
+					</Widget>
+					<Widget flag="not_active" frame="330,0,2,23" image="v5_trade_tab_seperator" type="image">
+					</Widget>
+				</Widget>
+				<Widget frame="4,56,388,442" type="image">
+					<Skin name="v5_static_bg4" state="0">
+					</Skin>
+				</Widget>
+				<Widget can_click_item="True" direction_size="2" direction_type="vertical" drag_block_separator="true" elastic_grid_max_rect="0,0,396,368" elastic_grid_size="False" fit_item_size="False" fixed_item_size="False" flag="vscroll" frame="4,57,388,440" h_pos_align="proportion" inner_scroll="false" item_padding="0" item_spacing="0" name="familiar_list" scroll_type="hidden" skin_type="version5" type="grid" v_pos_align="proportion">
+					<Widget frame="0,0,186,44" name="prototype" type="container">
+						<Widget frame="0,0,186,44" h_pos_align="proportion" name="bg" type="image" v_pos_align="top">
+							<Skin name="v5_static_bg7">
+							</Skin>
+						</Widget>
+						<Widget cell_padding="0" cell_space="0,0" frame="0,0,44,44" item_height="44" item_width="44" name="slot" preset="v5_familiar_slot" skin_type="version5" slot_num="1" type="itemview" viewmode="icon">
+						</Widget>
+						<Widget frame="58,8,16,16" name="tier_grade_sub1" preset="familiar_tier_grade_img" type="image">
+						</Widget>
+						<Widget frame="44,4,20,20" name="tier_grade" preset="familiar_tier_grade_img" type="image">
+						</Widget>
+						<Widget frame="71,0,24,24" h_pos_align="center" name="star_grade_1" preset="familiar_star_grade_img" type="image">
+						</Widget>
+						<Widget frame="90,0,24,24" h_pos_align="center" name="star_grade_2" preset="familiar_star_grade_img" type="image">
+						</Widget>
+						<Widget frame="109,0,24,24" h_pos_align="center" name="star_grade_3" preset="familiar_star_grade_img" type="image">
+						</Widget>
+						<Widget frame="128,0,24,24" h_pos_align="center" name="star_grade_4" preset="familiar_star_grade_img" type="image">
+						</Widget>
+						<Widget frame="147,0,24,24" h_pos_align="center" name="star_grade_5" preset="familiar_star_grade_img" type="image">
+						</Widget>
+						<Widget frame="48,22,140,20" halign="left" name="name" text="STR_TOYPET_LIST_DIALOG" type="static" valign="middle">
+						</Widget>
+						<Widget flag="not_visible" frame="-3,-1,20,20" name="lock_icon" tooltip="STR_FAMILIAR_DIALOG_LOCK_BUTOONTIP" type="image">
+							<Skin name="familiar_locked_small">
+							</Skin>
+						</Widget>
+						<Widget flag="not_visible" frame="0,0,186,44" image="familiar_selected" name="selected" type="image">
+						</Widget>
+					</Widget>
+				</Widget>
+			</Widget>
+			<Widget flag="nonclient;not_visible" frame="0,429,400,2" h_pos_align="right" name="content_sep" preset="v5_tooltip_sep_content" type="image">
+			</Widget>
+			<Widget flag="not_visible;not_active" frame="4,433,392,71" preset="v5_staticbox_familiar" type="container">
+				<Widget frame="15,10,174,20" halign="left" text="STR_FAMILIAR_MYUNIT_TAB_FENERGY" type="static" valign="middle">
+				</Widget>
+				<Widget frame="131,10,122,20" halign="right" name="energy_desc" type="static" valign="middle">
+				</Widget>
+				<Widget frame="257,12,16,16" name="energy_tip" tooltip="STR_FAMILIAR_MYUNIT_TAB_FENERGY_BUTOONTIP" type="image">
+					<Skin name="help_button_up">
+					</Skin>
+				</Widget>
+				<Widget frame="10,31,264,34" h_pos_align="proportion" type="image" v_pos_align="top">
+					<Skin name="v5_familiar_gauge_big_bg">
+					</Skin>
+				</Widget>
+				<Widget align="left" frame="23,41,238,15" gradient="False" name="energy" preset="v5_familiar_energy_big" stage="3" state_depended="True" type="gauge">
+				</Widget>
+			</Widget>
+		</Widget>
+		<Widget frame="0,24,401,510" h_pos_align="proportion" name="page_compose" type="tabpage" v_pos_align="proportion">
+			<Widget font="ui_default" frame="337,6,59,23" name="compose_reset" preset="v5_button" text="STR_FAMILIAR_COMPOSE_TAB_INITIALIZE_BUTTON" type="button">
+			</Widget>
+			<Widget frame="5,6,244,23" type="container">
+				<Skin name="v5_trade_tab_frame">
+				</Skin>
+				<Widget font="ui_default" frame="0,0,61,23" h_pos_align="left" halign="center" name="compose_grade_s" preset="v5_trade_tabbutton" text="STR_FAMILIAR_COMPOSE_TAB_FILTER_S_GRADE" type="button">
+				</Widget>
+				<Widget font="ui_default" frame="61,0,61,23" h_pos_align="left" halign="center" name="compose_grade_a" preset="v5_trade_tabbutton" text="STR_FAMILIAR_COMPOSE_TAB_FILTER_A_GRADE" type="button">
+				</Widget>
+				<Widget font="ui_default" frame="122,0,61,23" h_pos_align="left" halign="center" name="compose_grade_b" preset="v5_trade_tabbutton" text="STR_FAMILIAR_COMPOSE_TAB_FILTER_B_GRADE" type="button">
+				</Widget>
+				<Widget font="ui_default" frame="183,0,61,23" h_pos_align="left" halign="center" name="compose_grade_c" preset="v5_trade_tabbutton" style="checkbox" text="STR_FAMILIAR_COMPOSE_TAB_FILTER_C_GRADE" type="button">
+				</Widget>
+				<Widget flag="not_active" frame="60,0,2,23" image="v5_trade_tab_seperator" type="image">
+				</Widget>
+				<Widget flag="not_active" frame="121,0,2,23" image="v5_trade_tab_seperator" type="image">
+				</Widget>
+				<Widget flag="not_active" frame="182,0,2,23" image="v5_trade_tab_seperator" type="image">
+				</Widget>
+				<Widget flag="not_active" frame="243,0,2,23" image="v5_trade_tab_seperator" type="image">
+				</Widget>
+			</Widget>
+			<Widget frame="313,9,16,16" image="help_button_up" name="compose_tip" tooltip="STR_FAMILIAR_COMPOSE_TAB_BUTOONTIP" type="image">
+				<Skin name="v5_item_attr_reduced_warning">
+				</Skin>
+			</Widget>
+			<Widget frame="0,30,401,183" type="container">
+				<Skin name="familiar_compose_bg">
+				</Skin>
+				<Widget cell_padding="4" cell_space="0,0" flag="truncate" frame="44,67,48,48" group="itemview" item_height="44" item_width="44" name="compose_mat0" preset="v5_familiar_compose_slot" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+				</Widget>
+				<Widget cell_padding="4" cell_space="0,0" flag="truncate" frame="132,67,48,48" group="itemview" item_height="44" item_width="44" name="compose_mat1" preset="v5_familiar_compose_slot" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+				</Widget>
+				<Widget cell_padding="4" cell_space="0,0" flag="truncate" frame="222,67,48,48" group="itemview" item_height="44" item_width="44" name="compose_mat2" preset="v5_familiar_compose_slot" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+				</Widget>
+				<Widget cell_padding="4" cell_space="0,0" flag="truncate" frame="310,67,48,48" group="itemview" item_height="44" item_width="44" name="compose_mat3" preset="v5_familiar_compose_slot" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+				</Widget>
+				<Widget cell_padding="4" cell_space="0,0" flag="truncate" frame="177,67,48,48" group="itemview" item_height="44" item_width="44" name="compose_result" preset="v5_familiar_compose_slot" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+				</Widget>
+				<Widget frame="70,15,263,52" name="compose_familiar_info" type="container">
+					<Widget font_size="15" frame="0,0,263,31" halign="center" name="name" text="STR_TOYPET_LIST_DIALOG" type="static" valign="middle">
+					</Widget>
+					<Widget frame="13,2,57,26" name="tier_grade_bg" type="image">
+						<Skin name="familiar_tier_grade_bg" state="0">
+						</Skin>
+					</Widget>
+					<Widget frame="31,5,20,20" name="tier_grade" preset="familiar_tier_grade_img" type="image">
+					</Widget>
+					<Widget frame="0,25,263,24" name="star_grade_container" type="container">
+						<Widget frame="79,0,24,24" h_pos_align="center" name="star_grade_1" preset="familiar_star_grade_img" type="image">
+						</Widget>
+						<Widget frame="99,0,24,24" h_pos_align="center" name="star_grade_2" preset="familiar_star_grade_img" type="image">
+						</Widget>
+						<Widget frame="119,0,24,24" h_pos_align="center" name="star_grade_3" preset="familiar_star_grade_img" type="image">
+						</Widget>
+						<Widget frame="139,0,24,24" h_pos_align="center" name="star_grade_4" preset="familiar_star_grade_img" type="image">
+						</Widget>
+						<Widget frame="159,0,24,24" h_pos_align="center" name="star_grade_5" preset="familiar_star_grade_img" type="image">
+						</Widget>
+					</Widget>
+				</Widget>
+				<Widget frame="8,130,385,45" name="compose_tip_container" type="container">
+					<Widget font_size="12" frame="0,0,385,45" halign="center" name="compose_tip_c" text="STR_FAMILIAR_COMPOSE_TAB_C_INFO" text_color="0.9176,0.9137,0.4588,1.0" type="static" valign="middle">
+					</Widget>
+					<Widget font_size="12" frame="0,0,385,45" halign="center" name="compose_tip_b" text="STR_FAMILIAR_COMPOSE_TAB_B_INFO" text_color="0.9176,0.9137,0.4588,1.0" type="static" valign="middle">
+					</Widget>
+					<Widget font_size="12" frame="0,0,385,45" halign="center" name="compose_tip_a" text="STR_FAMILIAR_COMPOSE_TAB_A_INFO" text_color="0.9176,0.9137,0.4588,1.0" type="static" valign="middle">
+					</Widget>
+					<Widget font_size="12" frame="0,0,385,45" halign="center" name="compose_tip_s" text="STR_FAMILIAR_COMPOSE_TAB_S_INFO" text_color="0.9176,0.9137,0.4588,1.0" type="static" valign="middle">
+					</Widget>
+				</Widget>
+			</Widget>
+			<Widget flag="not_active" frame="182,101,40,40" name="compose_fx" type="container">
+			</Widget>
+			<Widget can_click_item="True" direction_size="9" direction_type="vertical" drag_block_separator="true" elastic_grid_max_rect="0,0,550,406" elastic_grid_size="False" fit_item_size="False" fixed_item_size="False" flag="vscroll" frame="2,214,397,163" h_pos_align="proportion" inner_scroll="false" item_padding="0" item_spacing="0" name="compose_list" preset="v5_staticbox" scroll_type="visible" skin_type="notice" type="grid" v_pos_align="proportion">
+				<Widget frame="0,0,43,43" name="prototype" type="container">
+					<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="0,0,44,44" group="itemview" item_height="44" item_width="44" name="compose_list_slot" preset="v5_familiar_slot" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+					</Widget>
+					<Widget flag="not_visible;not_active" frame="0,0,44,44" image="familiar_growth_slot_selected" name="selected" type="image">
+					</Widget>
+				</Widget>
+			</Widget>
+			<Widget frame="0,384,401,52" type="container" v_pos_align="top">
+				<Widget frame="13,3,179,22" h_pos_align="proportion" halign="right" text="STR_FAMILIAR_COMPOSE_MYGOLD" type="static" v_pos_align="top" valign="middle">
+				</Widget>
+				<Widget font="v3_money" frame="201,3,192,22" h_pos_align="proportion" halign="right" name="compose_my_money" preset="v5_staticbox" type="static" v_pos_align="top" valign="middle">
+				</Widget>
+				<Widget frame="13,27,179,22" h_pos_align="proportion" halign="right" text="STR_FAMILIAR_COMPOSE_GOLD" type="static" v_pos_align="top" valign="middle">
+				</Widget>
+				<Widget font="v3_money" frame="201,27,192,22" h_pos_align="proportion" halign="right" name="compose_cost" preset="v5_staticbox" type="static" v_pos_align="top" valign="middle">
+				</Widget>
+			</Widget>
+			<Widget flag="not_active" frame="-3,437,406,76" image="v5_dialog2_bottom" type="image">
+			</Widget>
+			<Widget flag="not_visible;not_active" font_size="12" frame="8,165,385,45" halign="center" name="compose_info" text="STR_TRANSFORMATION_DIALOG" text_color="0.9176,0.9137,0.4588,1.0" type="static" valign="middle">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="14" frame="57,438,288,70" fx_offset="8,28" fx_size="47,31" name="do_compose" preset="familiar_gauge_btn" single_click_only="False" text="STR_ENCHANT_ALL_DIALOG__OK_ENCHANT" text_offset="0,19" type="gaugebutton" v_pos_align="top">
+			</Widget>
+		</Widget>
+	</Widget>
+</Dialog>

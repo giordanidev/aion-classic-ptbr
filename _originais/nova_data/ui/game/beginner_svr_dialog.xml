@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="left" close_offset="4,1" close_preset="v5_close" flag="close;title" frame="850,428,307,283" h_pos_align="right" last_modified="2014-08-22 12:58:42" name="beginner_svr_dialog" preset="v5_dialog2" shadow_offset="8,8" title_align="center" title_frame="3,3,266,14" title_height="25" title_offset="0,5" title_text="STR_MOVE_SERVER_INTERSERVER_DIALOG__TITLE" type="dlg_beginner_svr" v_pos_align="top">
+	<Widget defbutton="True" font="ui_default" frame="150,226,74,24" name="ok" preset="v5_button" text="STR_CHANNEL_DIALOG__DIALOG_OK" type="button">
+	</Widget>
+	<Widget font="ui_default" frame="225,226,74,24" name="cancel" preset="v5_button" text="STR_DLG_DIALOG__CLOSE" type="button">
+	</Widget>
+	<Widget font="ui_default" frame="2,226,74,24" name="help" preset="v5_button" text="STR_COMMON__HELP" type="button">
+	</Widget>
+	<Widget column_customizing="True" column_heading="True" flag="truncate;vscroll" font="ui_list" frame="4,3,294,116" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="beginner_svr_list" preset="v5_listview_ex" scroll_type="visible" skin_type="version5" type="listviewex">
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_MOVE_SERVER_INTERSERVER_DIALOG__SERVER_NAME" width="181">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_MOVE_SERVER_INTERSERVER_DIALOG__SERVER_STATUS" width="95">
+		</Column>
+	</Widget>
+	<Widget font="ui_default" frame="9,122,282,95" name="help_msg" padding="0,0" scroll_type="hidden" text_offset="10,10" type="htmlview" v_pos_align="middle" valign="middle">
+	</Widget>
+</Dialog>

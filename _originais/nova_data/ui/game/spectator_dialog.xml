@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="close;title" frame="900,350,249,150" last_modified="2014-12-01 17:49:58" name="spectator_dialog" preset="v5_dialog" shadow_offset="8,8" title_frame="3,3,243,14" title_height="25" title_offset="0,5" title_text="STR_OBSERVER_MODE_DIALOG__TITLE" type="dlg_spectator" ui_mode="spectator">
+	<Widget alphanumeric="False" defbutton="true" font="ui_editbox" frame="6,15,232,24" h_padding="5" name="edit" preset="v5_editbox" type="editbox" v_padding="5">
+	</Widget>
+	<Widget font="ui_default" frame="25,81,90,24" name="observe" preset="v5_button" text="STR_OBSERVER_MODE_DIALOG__BUTTON_START" type="button">
+	</Widget>
+	<Widget font="ui_default" frame="126,81,90,24" name="stop" preset="v5_button" text="STR_OBSERVER_MODE_DIALOG__BUTTON_CANCEL" type="button">
+	</Widget>
+	<Widget font="ui_default" frame="30,50,184,20" name="option_cam" preset="v5_check" style="checkbox" text="STR_OBSERVER_MODE_DIALOG__BUTTON_CHECK_UNLOCKED_CAMERA" type="button">
+	</Widget>
+</Dialog>

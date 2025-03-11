@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="close;title" frame="382,100,315,348" last_modified="2014-08-22 13:09:05" name="housing_config_dialog" preset="v5_dialog2" prev_html="True" shadow_offset="8,8" title_align="center" title_frame="3,3,154,14" title_height="25" title_offset="0,5" title_text="STR_HOUSING_CONFIG_DIALOG" type="dlg_housing_config">
+	<Widget frame="5,3,299,110" h_pos_align="proportion" name="ctn_permission" preset="v5_staticbox" type="container">
+		<Widget font="ui_static_title" frame="10,6,260,20" h_pos_align="proportion" halign="left" scroll_type="hidden" text="STR_HOUSING_CONFIG_DIALOG__PERMISSION" type="static" valign="middle">
+		</Widget>
+		<Widget font="ui_static_title" frame="11,31,260,22" h_pos_align="proportion" name="permit_open" preset="v5_radio" style="radiobutton" text="STR_HOUSING_CONFIG_DIALOG__PERMIT_OPEN" text_offset="5,0" type="button">
+		</Widget>
+		<Widget font="ui_static_title" frame="11,56,280,22" h_pos_align="proportion" name="permit_restricted" preset="v5_radio" style="radiobutton" text="STR_HOUSING_CONFIG_DIALOG__PERMIT_RESTRICTED" text_offset="5,0" type="button">
+		</Widget>
+		<Widget font="ui_static_title" frame="11,81,260,22" h_pos_align="proportion" name="permit_closed" preset="v5_radio" style="radiobutton" text="STR_HOUSING_CONFIG_DIALOG__PERMIT_CLOSED" text_offset="5,0" type="button">
+		</Widget>
+	</Widget>
+	<Widget frame="5,115,299,170" h_pos_align="proportion" name="ctn_signpost" preset="v5_staticbox" type="container">
+		<Widget font="ui_static_title" frame="10,6,260,20" h_pos_align="proportion" halign="left" scroll_type="hidden" text="STR_HOUSING_CONFIG_DIALOG__SIGNPOST" type="static" valign="middle">
+		</Widget>
+		<Widget frame="12,35,8,8" type="image">
+			<Skin name="v5_dot" state="0">
+			</Skin>
+		</Widget>
+		<Widget font="v3_option" frame="30,26,132,24" text="STR_HOUSING_CONFIG_DIALOG__SHOW_OWNER" type="static">
+		</Widget>
+		<Widget font="v3_option" frame="165,26,124,24" h_pos_align="right" list_font="v3_option" max_items="2" name="signpost_showname" preset="v5_staticbox3" type="combobox">
+			<Items>
+				<Item name="STR_HOUSING_CONFIG_DIALOG__SHOW_OWNER_SHOW">
+				</Item>
+				<Item name="STR_HOUSING_CONFIG_DIALOG__SHOW_OWNER_HIDDEN">
+				</Item>
+			</Items>
+		</Widget>
+		<Widget frame="12,60,8,8" type="image">
+			<Skin name="v5_dot" state="0">
+			</Skin>
+		</Widget>
+		<Widget font="v3_option" frame="30,51,130,24" text="STR_HOUSING_CONFIG_DIALOG__SIGNPOST_COMMENT" type="static">
+		</Widget>
+		<Widget alphanumeric="False" flag="multiline;wordwrap;vscroll" font="ui_editbox" frame="10,79,278,81" h_padding="6" h_pos_align="proportion" max_length="64" name="signpost_notice" preset="v5_editbox" type="editbox" v_padding="6" valign="top">
+		</Widget>
+	</Widget>
+	<Widget defbutton="true" font="ui_default" frame="186,293,60,24" h_pos_align="right" name="ok" preset="v5_button" text="STR_HOUSING_CONFIG_DIALOG__OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="247,293,60,24" h_pos_align="right" name="cancel" preset="v5_button" text="STR_HOUSING_CONFIG_DIALOG__CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

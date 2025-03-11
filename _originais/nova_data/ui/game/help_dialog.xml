@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="left" close_offset="4,1" close_preset="v5_close" flag="close;title" frame="300,200,320,512" last_modified="2016-09-30 10:14:27" name="help_dialog" preset="v5_dialog" shadow_offset="8,8" title_align="center" title_frame="3,3,627,14" title_height="25" title_offset="0,5" title_text="STR_HELP_DIALOG" type="dlg_help" ui_mode="housing;housing_building">
+	<Widget frame="0,1,314,478" h_pos_align="proportion" name="tabsheet" type="tabsheet">
+		<Widget frame="0,0,314,25" h_pos_align="proportion" preset="v5_tab" tab_frame="0,0,314,25" tab_offset="4,0" type="tab">
+			<Widget font="ui_default" frame="0,0,54,25" preset="v5_tabbutton" text="STR_PETITION_DIALOG__TAB_TUTORIAL" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="54,0,54,25" preset="v5_tabbutton" text="STR_PETITION_DIALOG__TAB_COMMAND" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="108,0,54,25" name="tab_grade" preset="v5_tabbutton" text="STR_PETITION_DIALOG__TAB_GRADE" type="tabbutton">
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,314,453" h_pos_align="proportion" preset="v5_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget flag="vscroll" font="ui_static_value" frame="9,11,297,403" name="tutorial_info" padding="5,5" preset="v5_staticbox" scroll_type="visible" skin_type="version5" type="htmlview">
+			</Widget>
+			<Widget font="ui_default" frame="254,375,30,31" h_pos_align="right" name="home" preset="v5_help_return" single_click_only="False" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget button_size="19,19" flag="truncate;vscroll;not_visible" font="ui_list" frame="9,11,297,397" item_height="22" level_space="10" name="helplist" preset="v5_treeview" reset_items="True" scroll_type="visible" skin_type="version5" space="3" type="treeview">
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,314,453" h_pos_align="proportion" preset="v5_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget flag="vscroll" frame="9,11,297,403" name="command_info" padding="5,5" preset="v5_staticbox" scroll_type="visible" skin_type="version5" type="htmlview">
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,314,453" h_pos_align="proportion" preset="v5_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget flag="vscroll" frame="9,11,297,403" name="grade_info" padding="5,5" preset="v5_staticbox" scroll_type="visible" skin_type="version5" type="htmlview">
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget font="ui_default" frame="242,455,70,24" h_pos_align="right" name="cancel" preset="v5_button" text="STR_DLG_DIALOG__CLOSE" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget flag="not_visible" font="ui_default" frame="2,451,61,31" h_pos_align="right" name="loadingtip" preset="loadingtip" tooltip="STR_HELP_DIALOG__TOOLTIP_LOADINGTIP" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

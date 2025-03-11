@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="title;close" frame="0,0,280,116" last_modified="2014-08-22 12:58:41" name="housing_lbox_select_icon_dialog" preset="v5_dialog2" shadow_offset="8,8" title_frame="3,3,274,14" title_height="25" title_offset="0,5" type="dlg_housing_lbox_select_icon">
+	<Widget cell_padding="2" cell_space="0,0" frame="2,0,271,50" h_pos_align="left" item_height="44" item_width="44" list_padding="3,3" name="icon_list" preset="v5_listview_sel_frame" scroll_type="hidden" slot_num="6" type="listview" viewmode="icon">
+	</Widget>
+	<Widget font="ui_default" frame="135,59,68,24" name="ok" preset="v5_button" text="STR_COMMON__OK" type="button">
+	</Widget>
+	<Widget font="ui_default" frame="204,59,68,24" name="cancel" preset="v5_button" text="STR_COMMON__CANCEL" type="button">
+	</Widget>
+</Dialog>

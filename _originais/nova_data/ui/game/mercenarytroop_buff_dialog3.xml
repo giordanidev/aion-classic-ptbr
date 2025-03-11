@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="transparent;not_movable;not_active" frame="15,140,84,33" h_pos_align="center" last_modified="2014-08-22 12:58:41" name="mercenarytroop_buff_dialog3" quad_offset="0,0" type="dlg_mercenarytroop_buff3" v_pos_align="top">
+	<Widget frame="0,0,16,16" item_height="16" item_width="16" name="buff_item1" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="17,0,16,16" item_height="16" item_width="16" name="buff_item2" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="34,0,16,16" item_height="16" item_width="16" name="buff_item3" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="51,0,16,16" item_height="16" item_width="16" name="buff_item4" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="68,0,16,16" item_height="16" item_width="16" name="buff_item5" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="0,17,16,16" item_height="16" item_width="16" name="debuff_item1" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="17,17,16,16" item_height="16" item_width="16" name="debuff_item2" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="34,17,16,16" item_height="16" item_width="16" name="debuff_item3" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="51,17,16,16" item_height="16" item_width="16" name="debuff_item4" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="68,17,16,16" item_height="16" item_width="16" name="debuff_item5" preset="v5_buff_slot_showonly" type="itemview">
+	</Widget>
+</Dialog>

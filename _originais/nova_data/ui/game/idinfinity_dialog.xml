@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="title;close" frame="300,200,510,523" last_modified="2017-07-18 18:35:27" name="idinfinity_dialog" preset="v5_dialog2" shadow_offset="8,8" title_align="center" title_frame="3,3,504,14" title_height="25" title_offset="0,5" title_text="STR_INFINITY_INDUN_INFO_DIALOG" type="dlg_idinfinity">
+	<Widget flag="not_visible;not_active" frame="507,-28,5,523" name="height_full" type="container">
+	</Widget>
+	<Widget flag="not_visible;not_active" frame="511,-28,6,170" name="height_timeover" type="container">
+	</Widget>
+	<Widget frame="1,3,502,103" image="idinfinity_talk_bg" name="con_talk" type="container">
+		<Widget frame="25,0,165,103" name="talk_char_image" preset="idinfinity_talk_char" type="image">
+		</Widget>
+		<Widget frame="179,12,290,81" image="idinfinity_talk_bubble" type="image">
+		</Widget>
+		<Widget flag="multiline;wordwrap;" frame="200,20,254,65" halign="left" name="talk_text" padding="10,5" text="STR_INFINITY_INDUN_INFO_DIALOG__COL_REWARD_TITLE" type="static" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget frame="1,108,210,351" image="idinfinity_scroll_bg" name="con_floor" type="container">
+		<Widget can_click_item="True" direction_size="1" direction_type="vertical" drag_block_separator="true" elastic_grid_max_rect="0,0,550,406" elastic_grid_size="False" fit_item_size="False" fixed_item_size="False" flag="vscroll;" frame="0,0,210,351" h_pos_align="left" inner_scroll="false" item_padding="0" item_spacing="0" name="floor_list" scroll_type="visible" skin_type="version5" type="grid" v_pos_align="top">
+			<Widget frame="0,84,194,82" name="prototype" type="container">
+				<Widget frame="8,0,36,82" h_pos_align="left" name="pillar_left" preset="idinfinity_pillar_left" type="image" v_pos_align="top">
+				</Widget>
+				<Widget flag="visible" frame="152,0,36,82" h_pos_align="left" name="pillar_right" preset="idinfinity_pillar_right" type="image" v_pos_align="top">
+				</Widget>
+				<Widget font="ui_default" frame="29,19,137,63" halign="center" name="floor_btn_normal" preset="idinfinity_floor_btn_normal" text="1층" text_offset="0,12" type="button" v_pos_align="bottom" valign="top">
+				</Widget>
+				<Widget font="ui_default" frame="29,19,137,63" halign="center" name="floor_btn_named" preset="idinfinity_floor_btn_named" text="1층" text_offset="0,12" type="button" v_pos_align="bottom" valign="top">
+				</Widget>
+				<Widget font="ui_default" frame="29,19,137,63" halign="center" name="floor_btn_boss" preset="idinfinity_floor_btn_boss" text="1층" text_offset="0,12" type="button" v_pos_align="bottom" valign="top">
+				</Widget>
+				<Widget flag="not_active" frame="23,17,150,44" h_pos_align="right" name="selected" preset="idinfinity_floor_selected" type="image" v_pos_align="top">
+				</Widget>
+				<Widget flag="not_active" frame="66,29,16,18" image="v5_radar_pc_icon" name="player" type="image">
+				</Widget>
+				<Widget frame="85,1,25,26" name="con_reward" type="container">
+					<Widget frame="0,0,25,26" image="idinfinity_main_reward_slot_bg" type="image">
+					</Widget>
+					<Widget cell_padding="2" cell_space="0,0" frame="0,1,24,24" item_height="44" item_width="44" name="reward" preset="v5_deco_itemview" skin_type="version5" slot_num="1" type="itemview" viewmode="icon">
+					</Widget>
+				</Widget>
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget frame="213,108,290,351" name="con_reward" preset="v5_staticbox" type="container">
+		<Widget frame="0,0,290,351" name="reward_bg" preset="idinfinity_reward_bg" type="image">
+		</Widget>
+		<Widget font_size="14" frame="0,10,290,29" halign="center" name="floor_title" text="STR_INFINITY_INDUN_INFO_DIALOG__COL_REWARD_FLOOR" type="static" valign="middle">
+		</Widget>
+		<Widget frame="0,59,288,20" halign="center" text="STR_INFINITY_INDUN_INFO_DIALOG__COL_REWARD_TITLE" type="static" valign="middle">
+		</Widget>
+		<Widget cell_padding="1" cell_space="0,0" column_set0=" ,130,right" flag="truncate" frame="0,86,288,258" item_height="43" item_width="43" list_padding="10,0" name="reward_list" preset="idinfinity_reward_listview" reserve_slots="False" scroll_type="visible" slot_num="6" split_num="1" type="listview" viewmode="detail">
+			<Column align="" title="" width="226">
+			</Column>
+		</Widget>
+		<Widget font_size="18" frame="0,46,290,305" halign="center" name="reward_acquired" preset="v5_staticbox8" text="STR_INFINITY_INDUN_INFO_DIALOG__NOT_REWARD" text_color="0.94,0.76,0.19,1" type="static">
+		</Widget>
+	</Widget>
+	<Widget font="ui_default" frame="401,466,101,24" h_pos_align="right" name="leave" preset="v5_button" text="STR_INFINITY_INDUN_INFO_DIALOG__LEAVE_BTN" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="414,466,89,24" h_pos_align="right" name="confirm" preset="v5_button" text="STR_OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="2,466,88,24" h_pos_align="left" name="rank" preset="v5_button" text="STR_INFINITY_INDUN_INFO_DIALOG__RANKING_BTN" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

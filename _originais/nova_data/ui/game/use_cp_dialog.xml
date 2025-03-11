@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="close;title" frame="287,130,556,522" last_modified="2016-08-04 16:23:11" name="use_cp_dialog" preset="v5_dialog2" title_frame="3,3,122,14" title_offset="9,1" title_text="STR_USE_CP_DIALOG__TITLE" type="dlg_use_cp">
+	<Widget frame="0,0,550,460" h_pos_align="center" type="image" v_pos_align="middle">
+		<Skin name="v5_static_bg4">
+		</Skin>
+	</Widget>
+	<Widget anim_style="none" frame="0,41,550,419" h_pos_align="proportion" name="tabsheet" type="tabsheet" v_pos_align="proportion">
+		<Widget btn_move_anim="False" frame="0,0,551,25" h_pos_align="proportion" preset="v5_tab" tab_frame="0,0,400,25" tab_offset="6,0" tab_space="0" type="tab" v_pos_align="top">
+			<Widget font="ui_default" frame="5,0,78,25" name="tabbtn_stat_up" preset="v5_tabbutton" text="STR_USE_CP_DAILOG__SUBTITLE_CHARACTER" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="83,0,78,25" name="tabbtn_polymorph_skill" preset="v5_tabbutton" text="STR_USE_CP_DAILOG__SUBTITLE_CHANGE" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="161,0,78,25" name="tabbtn_highdeva_skill" preset="v5_tabbutton" text="STR_USE_CP_DAILOG__SUBTITLE_HIGHDEVA" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="239,0,78,25" name="tabbtn_enchant_skill" preset="v5_tabbutton" text="STR_USE_CP_DAILOG__SUBTITLE_SKILL" type="tabbutton">
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,550,391" h_pos_align="proportion" name="tabpage_stat_up" preset="v5_tabpage1" type="tabpage" v_pos_align="proportion">
+			<Widget frame="5,5,539,382" h_pos_align="proportion" preset="v5_staticbox" type="container" v_pos_align="proportion">
+				<Widget direction_size="3" direction_type="vertical" drag_block_separator="true" elastic_grid_max_rect="0,0,550,406" elastic_grid_size="False" fit_item_size="False" fixed_item_size="False" frame="0,0,539,382" h_pos_align="proportion" inner_scroll="false" item_padding="0" item_spacing="1" name="stat_up_grid" scroll_type="visible" skin_type="version5" type="grid" v_pos_align="proportion">
+				</Widget>
+				<Widget frame="382,4,153,372" preset="cp_stat_detail" type="container">
+					<Widget flag="active" font="v3_value" frame="96,6,51,14" name="hp_max" type="static">
+					</Widget>
+					<Widget font="v3_desc" frame="6,6,87,14" name="hp_max_desc" text="STR_PLAYER_INFO_DIALOG__STAT_HP_MAX" type="static">
+					</Widget>
+					<Widget flag="active" font="v3_value" frame="96,24,51,14" name="hp_regen" type="static">
+					</Widget>
+					<Widget font="v3_desc" frame="6,24,87,14" name="hp_regen_desc" text="STR_PLAYER_INFO_DIALOG__STAT_HP_REGEN" type="static">
+					</Widget>
+					<Widget flag="active" font="v3_value" frame="96,42,51,14" name="mp_max" type="static">
+					</Widget>
+					<Widget font="v3_desc" frame="6,42,87,14" name="mp_max_desc" text="STR_PLAYER_INFO_DIALOG__STAT_MP_MAX" type="static">
+					</Widget>
+					<Widget flag="active" font="v3_value" frame="96,60,51,14" name="mp_regen" type="static">
+					</Widget>
+					<Widget font="v3_desc" frame="6,60,87,14" name="mp_regen_desc" text="STR_PLAYER_INFO_DIALOG__STAT_MP_REGEN" type="static">
+					</Widget>
+					<Widget font="v3_desc" frame="6,85,73,14" name="atk_desc" text="STR_PLAYER_INFO_DIALOG__STAT_ATK" type="static">
+					</Widget>
+					<Widget flag="active" font="v3_value" frame="96,85,51,14" name="atk" type="static">
+					</Widget>
+					<Widget font="v3_desc" frame="6,102,73,14" name="acc_desc" text="STR_PLAYER_INFO_DIALOG__STAT_ACC" type="static">
+					</Widget>
+					<Widget flag="active" font="v3_value" frame="96,102,51,14" name="acc" type="static">
+					</Widget>
+					<Widget font="v3_desc" frame="6,119,73,14" name="cri_desc" text="STR_PLAYER_INFO_DIALOG__STAT_CRI" type="static">
+					</Widget>
+					<Widget flag="active" font="v3_value" frame="96,119,51,14" name="cri" type="static">
+					</Widget>
+					<Widget font="v3_desc" frame="6,145,86,14" name="magic_skill_boost_desc" text="STR_PLAYER_INFO_DIALOG__STAT_MAGICAL_SKILL_BOOST" type="static">
+					</Widget>
+					<Widget flag="active" font="v3_value" frame="95,145,51,14" name="magic_skill_boost" type="static">
+					</Widget>
+					<Widget font="v3_desc" frame="6,163,86,14" name="magic_acc_desc" text="STR_PLAYER_INFO_DIALOG__STAT_MAGICAL_ACC" type="static">
+					</Widget>
+					<Widget flag="active" font="v3_value" frame="95,163,51,14" name="magic_acc" type="static">
+					</Widget>
+					<Widget font="v3_desc" frame="6,181,86,14" name="magic_cri_desc" text="STR_PLAYER_INFO_DIALOG__STAT_MAGICAL_CRITICAL" type="static">
+					</Widget>
+					<Widget flag="active" font="v3_value" frame="95,181,51,14" name="magic_cri" type="static">
+					</Widget>
+					<Widget font="v3_desc" frame="6,199,86,14" name="con_desc" text="STR_PLAYER_INFO_DIALOG__STAT_CONCENTRATION" type="static">
+					</Widget>
+					<Widget flag="active" font="v3_value" frame="95,199,51,14" name="con" type="static">
+					</Widget>
+					<Widget font="v3_desc" frame="6,226,87,14" name="phy_def_desc" text="STR_PLAYER_INFO_DIALOG__STAT_PHY_DEF" type="static">
+					</Widget>
+					<Widget flag="active" font="v3_value" frame="96,226,51,14" name="phy_def" type="static">
+					</Widget>
+					<Widget font="v3_desc" frame="6,243,87,14" name="block_desc" text="STR_PLAYER_INFO_DIALOG__STAT_BLOCK" type="static">
+					</Widget>
+					<Widget flag="active" font="v3_value" frame="96,243,51,14" name="block" type="static">
+					</Widget>
+					<Widget font="v3_desc" frame="6,260,87,14" name="parry_desc" text="STR_PLAYER_INFO_DIALOG__STAT_PARRY" type="static">
+					</Widget>
+					<Widget flag="active" font="v3_value" frame="96,260,51,14" name="parry" type="static">
+					</Widget>
+					<Widget font="v3_desc" frame="6,277,87,14" name="dodge_desc" text="STR_PLAYER_INFO_DIALOG__STAT_DODGE" type="static">
+					</Widget>
+					<Widget flag="active" font="v3_value" frame="96,277,51,14" name="dodge" type="static">
+					</Widget>
+					<Widget font="v3_desc" frame="6,294,87,14" name="phy_cri_resist_desc" text="STR_PLAYER_INFO_DIALOG__STAT_PHYSICAL_CRITICAL_REDUCE_RATE" type="static">
+					</Widget>
+					<Widget flag="active" font="v3_value" frame="96,294,51,14" name="phy_cri_resist" type="static">
+					</Widget>
+					<Widget font="v3_desc" frame="6,319,87,14" name="magic_skill_boost_resist_desc" text="STR_PLAYER_INFO_DIALOG__STAT_MAGIC_SKILL_BOOST_RESIST" type="static">
+					</Widget>
+					<Widget flag="active" font="v3_value" frame="96,319,51,14" name="magic_skill_boost_resist" type="static">
+					</Widget>
+					<Widget font="v3_desc" frame="6,336,87,14" name="magic_resist_desc" text="STR_PLAYER_INFO_DIALOG__STAT_MAGIC_DEF" type="static">
+					</Widget>
+					<Widget flag="active" font="v3_value" frame="96,336,51,14" name="magic_resist" type="static">
+					</Widget>
+					<Widget font="v3_desc" frame="6,353,87,14" name="magic_cri_resist_desc" text="STR_PLAYER_INFO_DIALOG__STAT_MAGICAL_CRITICAL_REDUCE_RATE" type="static">
+					</Widget>
+					<Widget flag="active" font="v3_value" frame="96,353,51,14" name="magic_cri_resist" type="static">
+					</Widget>
+				</Widget>
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,550,391" h_pos_align="proportion" name="tabpage_polymorph_skill" preset="v5_tabpage1" type="tabpage" v_pos_align="proportion">
+			<Widget frame="5,4,539,384" preset="v5_staticbox" type="container">
+				<Widget frame="102,276,336,110" h_pos_align="center" type="image" v_pos_align="middle">
+					<Skin name="cp_learn_bg">
+					</Skin>
+				</Widget>
+				<Widget direction_size="4" direction_type="vertical" drag_block_separator="true" elastic_grid_max_rect="0,0,550,406" elastic_grid_size="False" fit_item_size="False" fixed_item_size="False" frame="-1,1,539,384" h_pos_align="proportion" inner_scroll="false" item_halign="center" item_padding="0" item_spacing="12" item_valign="top" name="polymorph_skill_grid" scroll_type="visible" skin_type="version5" type="grid" v_pos_align="proportion">
+				</Widget>
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,550,391" h_pos_align="proportion" name="tabpage_highdeva_skill" preset="v5_tabpage1" type="tabpage" v_pos_align="proportion">
+			<Widget frame="5,4,539,382" preset="v5_staticbox" type="container">
+				<Widget direction_size="6" direction_type="vertical" drag_block_separator="true" elastic_grid_max_rect="0,0,550,406" elastic_grid_size="False" fit_item_size="False" fixed_item_size="False" frame="0,0,539,382" h_pos_align="proportion" inner_scroll="false" item_padding="0" item_spacing="1" name="highdeva_skill_grid" scroll_type="visible" skin_type="version5" type="grid" v_pos_align="proportion">
+				</Widget>
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,550,391" h_pos_align="proportion" name="tabpage_enchant_skill" preset="v5_tabpage1" type="tabpage" v_pos_align="proportion">
+			<Widget frame="5,4,539,382" preset="v5_staticbox" type="container">
+				<Widget direction_size="6" direction_type="vertical" drag_block_separator="true" elastic_grid_max_rect="0,0,550,406" elastic_grid_size="False" fit_item_size="False" fixed_item_size="False" frame="0,0,539,382" h_pos_align="proportion" inner_scroll="false" item_padding="0" item_spacing="1" name="enchant_skill_grid" scroll_type="visible" skin_type="version5" type="grid" v_pos_align="proportion">
+				</Widget>
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget flag="not_visible" frame="0,528,125,186" name="prototype_stat" type="container">
+		<Widget frame="2,2,123,184" h_pos_align="center" name="cp_bg" type="image" v_pos_align="middle">
+			<Skin name="cp_stat_bg">
+			</Skin>
+		</Widget>
+		<Widget frame="9,36,108,108" h_pos_align="center" name="cp_round_bg" type="image" v_pos_align="middle">
+			<Skin name="cp_stat_round_bg">
+			</Skin>
+		</Widget>
+		<Widget flag="not_visible" frame="9,36,108,108" h_pos_align="center" name="cp_max_round_bg" type="image" v_pos_align="middle">
+			<Skin name="cp_stat_max_round_bg">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="2" frame="7,34,112,112" h_pos_align="center" item_height="112" item_width="112" name="cp_item" type="itemview" v_pos_align="middle">
+		</Widget>
+		<Widget frame="9,36,108,108" h_pos_align="center" name="cp_static_bg" type="image" v_pos_align="middle">
+			<Skin name="cp_stat_static_bg">
+			</Skin>
+		</Widget>
+		<Widget frame="9,36,108,108" h_pos_align="center" name="cp_max_static_bg" type="image" v_pos_align="middle">
+			<Skin name="cp_stat_max_static_bg">
+			</Skin>
+		</Widget>
+		<Widget font_size="14" frame="12,10,35,18" h_pos_align="center" name="cp_name" padding="3,0" type="static" v_pos_align="middle">
+		</Widget>
+		<Widget font_size="14" frame="48,10,48,18" h_pos_align="center" name="cp_value" padding="3,0" type="static" v_pos_align="middle">
+		</Widget>
+		<Widget font_size="14" frame="36,114,54,21" h_pos_align="center" halign="center" name="cp_count" padding="3,0" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+		<Widget font="ui_default" frame="63,148,24,27" h_pos_align="center" name="cp_plus" preset="cp_plus" single_click_only="True" type="button" v_pos_align="middle">
+		</Widget>
+		<Widget font="ui_default" frame="38,148,24,27" h_pos_align="center" name="cp_minus" preset="cp_minus" single_click_only="True" type="button" v_pos_align="middle">
+		</Widget>
+	</Widget>
+	<Widget flag="not_visible" frame="164,529,87,121" name="prototype_skill" type="container">
+		<Widget frame="2,2,87,121" h_pos_align="center" name="cp_bg" type="image" v_pos_align="middle">
+			<Skin name="cp_skill_bg">
+			</Skin>
+		</Widget>
+		<Widget frame="8,13,75,75" h_pos_align="center" name="cp_round_bg" type="image" v_pos_align="middle">
+			<Skin name="cp_skill_round_bg">
+			</Skin>
+		</Widget>
+		<Widget frame="8,13,75,75" h_pos_align="center" name="cp_max_round_bg" type="image" v_pos_align="middle">
+			<Skin name="cp_skill_max_round_bg">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="2" frame="23,28,44,44" h_pos_align="center" item_height="44" item_width="44" name="cp_item" preset="v5_itemview_usecp" type="itemview" v_pos_align="middle">
+		</Widget>
+		<Widget frame="8,13,75,75" h_pos_align="center" name="cp_static_bg" type="image" v_pos_align="middle">
+			<Skin name="cp_skill_static_bg">
+			</Skin>
+		</Widget>
+		<Widget frame="8,13,75,75" h_pos_align="center" name="cp_max_static_bg" type="image" v_pos_align="middle">
+			<Skin name="cp_skill_max_static_bg">
+			</Skin>
+		</Widget>
+		<Widget frame="22,63,48,21" h_pos_align="center" halign="center" name="cp_count" padding="3,0" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+		<Widget font="ui_default" frame="45,90,24,27" h_pos_align="center" name="cp_plus" preset="cp_plus" single_click_only="True" type="button" v_pos_align="middle">
+		</Widget>
+		<Widget font="ui_default" frame="22,90,24,27" h_pos_align="center" name="cp_minus" preset="cp_minus" single_click_only="True" type="button" v_pos_align="middle">
+		</Widget>
+		<Widget font="ui_default" frame="68,90,24,27" h_pos_align="center" name="cp_pts" preset="cp_temp_skill" type="button" v_pos_align="middle">
+		</Widget>
+		<Widget flag="outer" frame="38,-21,15,22" name="cp_arrow" preset="cp_arrow" type="static">
+		</Widget>
+	</Widget>
+	<Widget frame="0,0,550,38" type="container">
+		<Widget frame="1,9,102,20" halign="left" padding="5,0" text="STR_USE_CP_DIALOG__CP_INFO" type="static" valign="middle">
+		</Widget>
+		<Widget frame="109,9,276,20" halign="right" name="cur_cp" padding="5,0" preset="cp_static_bg" type="static" valign="middle">
+		</Widget>
+		<Widget defbutton="False" font="ui_default" frame="390,7,154,24" h_pos_align="right" name="initialization" preset="v5_button" text="STR_USE_CP_DAILOG__RESET" type="button" v_pos_align="middle">
+		</Widget>
+		<Widget flag="not_visible" font="ui_default" frame="390,7,154,24" h_pos_align="right" name="load" preset="v5_button" text="STR_USE_CP_DAILOG__SETTING" type="button" v_pos_align="middle">
+		</Widget>
+	</Widget>
+	<Widget frame="0,35,550,5" h_pos_align="center" type="image" v_pos_align="middle">
+		<Skin name="cp_ctn_sep">
+		</Skin>
+	</Widget>
+	<Widget defbutton="False" font="ui_default" frame="323,465,76,24" h_pos_align="right" name="apply_setting" preset="v5_button" text="STR_USE_CP_DIALOG__OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="401,465,76,24" h_pos_align="right" name="cancel_setting" preset="v5_button" text="STR_USE_CP_DAILOG__CANCLE" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="479,465,68,24" h_pos_align="right" name="cancel" preset="v5_button" text="STR_DLG_DIALOG__CLOSE" type="button">
+	</Widget>
+</Dialog>

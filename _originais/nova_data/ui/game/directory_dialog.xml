@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="close;title" frame="0,0,404,502" last_modified="2016-12-15 17:58:14" name="directory_dialog" preset="v5_dialog2" title_frame="3,3,398,14" title_offset="9,1" title_text="STR_LOCATION_CHANGE__TITLE" type="dlg_directory">
+	<Widget font="ui_combo" frame="3,0,390,23" h_pos_align="proportion" name="drive" preset="v5_staticbox3" type="combobox">
+	</Widget>
+	<Widget button_size="19,19" flag="truncate;vscroll" font="ui_list" frame="3,27,391,407" h_pos_align="proportion" item_height="22" level_space="10" margin="3" name="directory" preset="v5_treeview_frame" reset_items="True" scroll_type="visible" skin_type="version5" space="3" type="treeview" v_pos_align="proportion">
+	</Widget>
+	<Widget flag="not_visible" font="ui_default" frame="1,445,89,24" name="new_folder" preset="v5_button" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="214,445,89,24" name="ok" preset="v5_button" text="STR_COMMON__OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="305,445,89,24" name="cancel" preset="v5_button" text="STR_COMMON__CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

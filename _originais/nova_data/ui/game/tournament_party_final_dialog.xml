@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="12,12" flag="close;title" frame="15,140,1263,858" last_modified="2017-02-27 11:48:18" name="tournament_party_final_dialog" preset="tournament_dialog" title_align="center" title_frame="3,3,1202,14" title_height="0" title_offset="0" type="dlg_tournament_party_final">
+	<Widget font_size="18" frame="0,10,1263,70" halign="center" name="title" text="STR_TOURNAMENT_MATCH_TABLE_DIALOG" type="static" valign="middle">
+	</Widget>
+	<Widget frame="581,805,100,30" h_pos_align="right" name="show_reward" preset="tournament_button" text="STR_TOURNAMENT_MATCH_TABLE_DIALOG__REWARD" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget frame="530,217,205,204" type="image">
+		<Skin name="tournament_trophy">
+		</Skin>
+	</Widget>
+	<Widget color="0.1,0.1,0.1,1.0" frame="286,124,35,50" type="image">
+		<Skin name="tournament_arrow_right_down">
+		</Skin>
+	</Widget>
+	<Widget color="0.1,0.1,0.1,1.0" frame="286,173,35,50" type="image">
+		<Skin name="tournament_arrow_right_up">
+		</Skin>
+	</Widget>
+	<Widget color="0.1,0.1,0.1,1.0" frame="286,316,35,50" type="image">
+		<Skin name="tournament_arrow_right_down">
+		</Skin>
+	</Widget>
+	<Widget color="0.1,0.1,0.1,1.0" frame="286,365,35,50" type="image">
+		<Skin name="tournament_arrow_right_up">
+		</Skin>
+	</Widget>
+	<Widget color="0.1,0.1,0.1,1.0" frame="286,508,35,50" type="image">
+		<Skin name="tournament_arrow_right_down">
+		</Skin>
+	</Widget>
+	<Widget color="0.1,0.1,0.1,1.0" frame="286,556,35,50" type="image">
+		<Skin name="tournament_arrow_right_up">
+		</Skin>
+	</Widget>
+	<Widget color="0.1,0.1,0.1,1.0" frame="286,700,35,50" type="image">
+		<Skin name="tournament_arrow_right_down">
+		</Skin>
+	</Widget>
+	<Widget color="0.1,0.1,0.1,1.0" frame="286,748,35,50" type="image">
+		<Skin name="tournament_arrow_right_up">
+		</Skin>
+	</Widget>
+	<Widget color="0.1,0.1,0.1,1.0" frame="945,124,35,50" type="image">
+		<Skin name="tournament_arrow_up_right">
+		</Skin>
+	</Widget>
+	<Widget color="0.1,0.1,0.1,1.0" frame="945,173,35,50" type="image">
+		<Skin name="tournament_arrow_down_right">
+		</Skin>
+	</Widget>
+	<Widget color="0.1,0.1,0.1,1.0" frame="945,316,35,50" type="image">
+		<Skin name="tournament_arrow_up_right">
+		</Skin>
+	</Widget>
+	<Widget color="0.1,0.1,0.1,1.0" frame="945,365,35,50" type="image">
+		<Skin name="tournament_arrow_down_right">
+		</Skin>
+	</Widget>
+	<Widget color="0.1,0.1,0.1,1.0" frame="945,508,35,50" type="image">
+		<Skin name="tournament_arrow_up_right">
+		</Skin>
+	</Widget>
+	<Widget color="0.1,0.1,0.1,1.0" frame="945,556,35,50" type="image">
+		<Skin name="tournament_arrow_down_right">
+		</Skin>
+	</Widget>
+	<Widget color="0.1,0.1,0.1,1.0" frame="945,700,35,50" type="image">
+		<Skin name="tournament_arrow_up_right">
+		</Skin>
+	</Widget>
+	<Widget color="0.1,0.1,0.1,1.0" frame="945,748,35,50" type="image">
+		<Skin name="tournament_arrow_down_right">
+		</Skin>
+	</Widget>
+	<Widget color="0.1,0.1,0.1,1.0" frame="318,172,40,98" type="image">
+		<Skin name="tournament_arrow_right_down">
+		</Skin>
+	</Widget>
+	<Widget color="0.1,0.1,0.1,1.0" frame="318,269,40,98" type="image">
+		<Skin name="tournament_arrow_right_up">
+		</Skin>
+	</Widget>
+	<Widget color="0.1,0.1,0.1,1.0" frame="318,555,40,98" type="image">
+		<Skin name="tournament_arrow_right_down">
+		</Skin>
+	</Widget>
+	<Widget color="0.1,0.1,0.1,1.0" frame="318,652,40,98" type="image">
+		<Skin name="tournament_arrow_right_up">
+		</Skin>
+	</Widget>
+	<Widget color="0.1,0.1,0.1,1.0" frame="908,172,40,98" type="image">
+		<Skin name="tournament_arrow_up_right">
+		</Skin>
+	</Widget>
+	<Widget color="0.1,0.1,0.1,1.0" frame="908,269,40,98" type="image">
+		<Skin name="tournament_arrow_down_right">
+		</Skin>
+	</Widget>
+	<Widget color="0.1,0.1,0.1,1.0" frame="908,555,40,98" type="image">
+		<Skin name="tournament_arrow_up_right">
+		</Skin>
+	</Widget>
+	<Widget color="0.1,0.1,0.1,1.0" frame="908,652,40,98" type="image">
+		<Skin name="tournament_arrow_down_right">
+		</Skin>
+	</Widget>
+	<Widget color="0.1,0.1,0.1,1.0" frame="355,268,40,195" type="image">
+		<Skin name="tournament_arrow_right_down">
+		</Skin>
+	</Widget>
+	<Widget color="0.1,0.1,0.1,1.0" frame="395,452,35,19" type="image">
+		<Skin name="tournament_arrow_right">
+		</Skin>
+	</Widget>
+	<Widget color="0.1,0.1,0.1,1.0" frame="355,460,40,195" type="image">
+		<Skin name="tournament_arrow_right_up">
+		</Skin>
+	</Widget>
+	<Widget color="0.1,0.1,0.1,1.0" frame="395,452,35,19" type="image">
+		<Skin name="tournament_arrow_right">
+		</Skin>
+	</Widget>
+	<Widget color="0.1,0.1,0.1,1.0" frame="871,268,40,195" type="image">
+		<Skin name="tournament_arrow_up_right">
+		</Skin>
+	</Widget>
+	<Widget color="0.1,0.1,0.1,1.0" frame="836,452,35,19" type="image">
+		<Skin name="tournament_arrow_right">
+		</Skin>
+	</Widget>
+	<Widget color="0.1,0.1,0.1,1.0" frame="871,460,40,195" type="image">
+		<Skin name="tournament_arrow_down_right">
+		</Skin>
+	</Widget>
+	<Widget color="0.1,0.1,0.1,1.0" frame="836,452,35,19" type="image">
+		<Skin name="tournament_arrow_right">
+		</Skin>
+	</Widget>
+	<Widget frame="599,452,35,19" name="line_1_1_1" type="image">
+		<Skin name="tournament_arrow_right">
+		</Skin>
+	</Widget>
+	<Widget frame="623,428,19,35" name="line_1_1_2" type="image">
+		<Skin name="tournament_arrow_up">
+		</Skin>
+	</Widget>
+	<Widget frame="631,452,35,19" name="line_1_2_1" type="image">
+		<Skin name="tournament_arrow_right">
+		</Skin>
+	</Widget>
+	<Widget frame="623,428,19,35" name="line_1_2_2" type="image">
+		<Skin name="tournament_arrow_up">
+		</Skin>
+	</Widget>
+	<Widget frame="23,99,266,56" halign="center" type="containerex">
+		<Widget frame="0,0,266,56" image="tournament_box1_party_lose" type="image">
+		</Widget>
+	</Widget>
+	<Widget frame="23,195,266,56" halign="center" type="containerex">
+		<Widget frame="0,0,266,56" image="tournament_box1_party_lose" type="image">
+		</Widget>
+	</Widget>
+	<Widget frame="23,291,266,56" halign="center" type="containerex">
+		<Widget frame="0,0,266,56" image="tournament_box1_party_lose" type="image">
+		</Widget>
+	</Widget>
+	<Widget frame="23,387,266,56" halign="center" type="containerex">
+		<Widget frame="0,0,266,56" image="tournament_box1_party_lose" type="image">
+		</Widget>
+	</Widget>
+	<Widget frame="23,483,266,56" halign="center" type="containerex">
+		<Widget frame="0,0,266,56" image="tournament_box1_party_lose" type="image">
+		</Widget>
+	</Widget>
+	<Widget frame="23,579,266,56" halign="center" type="containerex">
+		<Widget frame="0,0,266,56" image="tournament_box1_party_lose" type="image">
+		</Widget>
+	</Widget>
+	<Widget frame="23,675,266,56" halign="center" type="containerex">
+		<Widget frame="0,0,266,56" image="tournament_box1_party_lose" type="image">
+		</Widget>
+	</Widget>
+	<Widget frame="23,771,266,56" halign="center" type="containerex">
+		<Widget frame="0,0,266,56" image="tournament_box1_party_lose" type="image">
+		</Widget>
+	</Widget>
+	<Widget frame="979,99,266,56" halign="center" type="containerex">
+		<Widget frame="0,0,266,56" image="tournament_box2_party_lose" type="image">
+		</Widget>
+	</Widget>
+	<Widget frame="979,195,266,56" halign="center" type="containerex">
+		<Widget frame="0,0,266,56" image="tournament_box2_party_lose" type="image">
+		</Widget>
+	</Widget>
+	<Widget frame="979,291,266,56" halign="center" type="containerex">
+		<Widget frame="0,0,266,56" image="tournament_box2_party_lose" type="image">
+		</Widget>
+	</Widget>
+	<Widget frame="979,387,266,56" halign="center" type="containerex">
+		<Widget frame="0,0,266,56" image="tournament_box2_party_lose" type="image">
+		</Widget>
+	</Widget>
+	<Widget frame="979,483,266,56" halign="center" type="containerex">
+		<Widget frame="0,0,266,56" image="tournament_box2_party_lose" type="image">
+		</Widget>
+	</Widget>
+	<Widget frame="979,579,266,56" halign="center" type="containerex">
+		<Widget frame="0,0,266,56" image="tournament_box2_party_lose" type="image">
+		</Widget>
+	</Widget>
+	<Widget frame="979,675,266,56" halign="center" type="containerex">
+		<Widget frame="0,0,266,56" image="tournament_box2_party_lose" type="image">
+		</Widget>
+	</Widget>
+	<Widget frame="979,771,266,56" halign="center" type="containerex">
+		<Widget frame="0,0,266,56" image="tournament_box2_party_lose" type="image">
+		</Widget>
+	</Widget>
+	<Widget frame="420,447,198,32" halign="center" name="party_1_1" preset="tournament_box3_party" type="containerex">
+		<Widget frame="14,0,168,28" halign="center" name="name_1_1" type="static" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget frame="650,447,198,32" halign="center" name="party_1_2" preset="tournament_box4_party" type="containerex">
+		<Widget frame="14,0,168,28" halign="center" name="name_1_2" type="static" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget frame="544,385,178,43" halign="center" name="party_2_1" preset="tournament_box_winner" type="containerex">
+		<Widget frame="15,11,148,32" halign="center" name="name_2_1" type="static" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget frame="432,476,171,150" name="detail_con_1" preset="tournament_static" type="container">
+		<Widget frame="16,3,19,19" name="detail_emblem_1_1" type="image">
+		</Widget>
+		<Widget frame="16,28,19,19" name="detail_emblem_1_2" type="image">
+		</Widget>
+		<Widget frame="16,53,19,19" name="detail_emblem_1_3" type="image">
+		</Widget>
+		<Widget frame="16,78,19,19" name="detail_emblem_1_4" type="image">
+		</Widget>
+		<Widget frame="16,103,19,19" name="detail_emblem_1_5" type="image">
+		</Widget>
+		<Widget frame="16,128,19,19" name="detail_emblem_1_6" type="image">
+		</Widget>
+		<Widget frame="39,0,130,25" halign="left" name="detail_name_1_1" type="static" valign="middle">
+		</Widget>
+		<Widget frame="39,25,130,25" halign="left" name="detail_name_1_2" type="static" valign="middle">
+		</Widget>
+		<Widget frame="39,50,130,25" halign="left" name="detail_name_1_3" type="static" valign="middle">
+		</Widget>
+		<Widget frame="39,75,130,25" halign="left" name="detail_name_1_4" type="static" valign="middle">
+		</Widget>
+		<Widget frame="39,100,130,25" halign="left" name="detail_name_1_5" type="static" valign="middle">
+		</Widget>
+		<Widget frame="39,125,130,25" halign="left" name="detail_name_1_6" type="static" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget frame="661,476,171,150" name="detail_con_2" preset="tournament_static" type="container">
+		<Widget frame="16,3,19,19" name="detail_emblem_2_1" type="image">
+		</Widget>
+		<Widget frame="16,28,19,19" name="detail_emblem_2_2" type="image">
+		</Widget>
+		<Widget frame="16,53,19,19" name="detail_emblem_2_3" type="image">
+		</Widget>
+		<Widget frame="16,78,19,19" name="detail_emblem_2_4" type="image">
+		</Widget>
+		<Widget frame="16,103,19,19" name="detail_emblem_2_5" type="image">
+		</Widget>
+		<Widget frame="16,128,19,19" name="detail_emblem_2_6" type="image">
+		</Widget>
+		<Widget frame="39,0,130,25" halign="left" name="detail_name_2_1" type="static" valign="middle">
+		</Widget>
+		<Widget frame="39,25,130,25" halign="left" name="detail_name_2_2" type="static" valign="middle">
+		</Widget>
+		<Widget frame="39,50,130,25" halign="left" name="detail_name_2_3" type="static" valign="middle">
+		</Widget>
+		<Widget frame="39,75,130,25" halign="left" name="detail_name_2_4" type="static" valign="middle">
+		</Widget>
+		<Widget frame="39,100,130,25" halign="left" name="detail_name_2_5" type="static" valign="middle">
+		</Widget>
+		<Widget frame="39,125,130,25" halign="left" name="detail_name_2_6" type="static" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget flag="not_visible" frame="434,447,168,28" name="party_over" preset="tournament_party_over" type="static">
+	</Widget>
+	<Widget flag="not_visible" frame="577,429,112,64" group="matchlight" name="matchlight_1_1" preset="tournament_matchlight_hrizontal" type="static">
+	</Widget>
+	<Widget flag="not_visible" frame="619,448,26,26" group="spectate" name="spectate_1_1" preset="tournament_spectate" tooltip="STR_TOURNAMENT_MATCH_TABLE_TOOLTIP_OBSERVER" type="button">
+	</Widget>
+</Dialog>

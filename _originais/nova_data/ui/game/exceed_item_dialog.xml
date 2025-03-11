@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="close;;title" frame="330,100,621,384" last_modified="2014-08-27 17:35:30" name="exceed_item_dialog" preset="v5_dialog2" shadow_offset="8,8" title_align="center" title_frame="3,3,621,14" title_height="25" title_offset="0,5" title_text="STR_EXCEED_DIALOG__TITLE" type="dlg_exceed_item">
+	<Widget frame="4,7,607,311" h_pos_align="left" type="container">
+		<Skin name="v5_exceed_dialog_bg2">
+		</Skin>
+		<Widget font="ui_default" frame="67,56,134,36" halign="center" preset="v5_exceed_titlebox" text="STR_EXCEED_DIALOG__TARGET" type="static" valign="middle">
+		</Widget>
+		<Widget frame="95,136,76,76" type="container">
+			<Skin name="v5_deco_slot_normal_bg">
+			</Skin>
+			<Widget cell_padding="2" cell_space="0,0" column_set1=",1000," flag="truncate" frame="17,17,42,42" item_height="42" item_width="42" name="exceed_target" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+		</Widget>
+		<Widget frame="366,95,220,154" type="container">
+			<Skin name="v5_exceed_target_crack_bg">
+			</Skin>
+			<Widget frame="0,0,220,154" name="exceed_crack_glow" type="image">
+				<Skin name="v5_exceed_target_crack">
+				</Skin>
+			</Widget>
+			<Widget frame="58,27,106,106" name="exceed_target_slot_bg" preset="v5_exceed_target_slot_bg" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" column_set1=",1000," flag="truncate" frame="90,58,42,42" item_height="42" item_width="42" name="exceed_result" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+		</Widget>
+		<Widget font="ui_default" frame="227,33,159,20" halign="center" text="STR_EXCEED_DIALOG__SOURCE" type="static" valign="middle">
+		</Widget>
+		<Widget frame="274,48,67,62" type="container">
+			<Skin name="v5_deco_slot_normal2_bg">
+			</Skin>
+			<Widget cell_padding="2" cell_space="0,0" column_set1=",1000," flag="truncate" frame="12,10,42,42" item_height="42" item_width="42" name="exceed_mat" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+		</Widget>
+		<Widget flag="truncate" font="ui_default" frame="200,106,217,21" halign="center" max_lines="2" name="exceed_mat_name" type="static" valign="middle">
+		</Widget>
+		<Widget font="ui_default" frame="410,56,134,36" halign="center" preset="v5_exceed_titlebox" text="STR_EXCEED_DIALOG__RESULT" type="static" valign="middle">
+		</Widget>
+		<Widget frame="33,232,204,44" type="container">
+			<Widget flag="truncate" font="ui_default" frame="0,0,204,44" halign="center" max_lines="2" type="static" valign="middle">
+			</Widget>
+			<Widget flag="truncate" font="ui_default" frame="2,2,200,21" halign="center" max_lines="2" name="exceed_target_name" type="static" valign="middle">
+			</Widget>
+			<Widget font="ui_default" frame="2,21,200,21" h_pos_align="center" name="exceed_target_desc" type="htmlview">
+			</Widget>
+		</Widget>
+		<Widget frame="377,232,204,44" type="container">
+			<Widget flag="truncate" font="ui_default" frame="0,0,204,44" halign="center" max_lines="2" type="static" valign="middle">
+			</Widget>
+			<Widget flag="truncate" font="ui_default" frame="2,2,200,21" halign="center" max_lines="2" name="exceed_result_name" type="static" valign="middle">
+			</Widget>
+			<Widget font="ui_default" frame="2,21,200,21" h_pos_align="center" name="exceed_result_desc" type="htmlview">
+			</Widget>
+		</Widget>
+		<Widget frame="218,126,170,97" name="exceed_arrow" preset="v5_exceed_arrow2" type="image">
+		</Widget>
+		<Widget frame="296,126,22,45" name="exceed_arrow2" preset="v5_exceed_arrow3" type="image">
+		</Widget>
+	</Widget>
+	<Widget font="ui_default" frame="2,327,76,24" name="btn_help" preset="v5_button" text="STR_COMMON__HELP" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="553,327,60,24" h_pos_align="right" name="cancel" preset="v5_button" text="STR_EXCEED_DIALOG__CANCLE" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget defbutton="true" font="ui_default" frame="492,327,60,24" h_pos_align="right" name="ok" preset="v5_button" text="STR_EXCEED_DIALOG__OK" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

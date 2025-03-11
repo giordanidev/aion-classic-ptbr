@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog frame="390,150,210,153" last_modified="2020-08-24 16:58:35" name="familiar_sub_select_dialog" preset="v5_dialog" shadow_offset="8,8" title_frame="3,3,232,14" type="dlg_familiar_sub_select">
+	<Widget frame="3,5,195,138" h_pos_align="left" preset="v5_staticbox" type="container" v_pos_align="top">
+		<Widget can_click_item="True" direction_size="4" direction_type="vertical" drag_block_separator="true" elastic_grid_max_rect="0,0,550,406" elastic_grid_size="False" fit_item_size="False" fixed_item_size="False" flag="vscroll" frame="4,1,190,134" h_pos_align="proportion" inner_scroll="false" item_padding="0" item_spacing="0" name="familiar_list" scroll_type="visible" skin_type="notice" type="grid" v_pos_align="proportion">
+			<Widget frame="0,0,44,44" name="prototype" type="container">
+				<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="0,0,44,44" group="itemview" item_height="44" item_width="44" name="slot" preset="v5_familiar_slot" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+				</Widget>
+				<Widget flag="not_visible;not_active" frame="0,0,44,44" image="familiar_growth_slot_warn" name="warn" type="image">
+				</Widget>
+				<Widget flag="not_visible;not_active" frame="0,0,44,44" name="equal" type="image">
+				</Widget>
+				<Widget flag="not_visible;not_active" frame="0,0,44,44" image="familiar_growth_slot_selected" name="selected" type="image">
+				</Widget>
+			</Widget>
+		</Widget>
+	</Widget>
+</Dialog>

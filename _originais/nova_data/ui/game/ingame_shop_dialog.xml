@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="left" close_offset="10,7" flag="close;title" frame="272,100,735,617" last_modified="2020-09-07 20:08:54" name="ingame_shop_dialog" preset="v4_shop_dialog" title_align="center" title_frame="3,3,729,14" title_offset="0,0" title_text="STR_INGAME_SHOP_DIALOG" type="dlg_ingame_shop">
+	<Widget frame="0,9,729,26" h_pos_align="proportion" name="tab_shop" preset="v4_tab" tab_offset="4,0" tab_space="0" type="tab">
+		<Widget frame="0,0,54,25" preset="v4_tab_button" type="tabbutton">
+		</Widget>
+	</Widget>
+	<Widget frame="0,36,729,534" h_pos_align="proportion" type="container" v_pos_align="proportion">
+		<Widget frame="5,26,128,384" item_height="21" list_padding="3,3" name="shop_category" preset="v4_listbox" type="listbox">
+		</Widget>
+		<Widget font="v3_money" frame="5,443,128,25" halign="right" name="money" padding="10,0" preset="v4_staticbox" type="static">
+		</Widget>
+		<Widget frame="5,473,128,58" preset="v4_staticbox" type="image">
+		</Widget>
+		<Widget frame="157,575,122,40" preset="v4_shop_button3" text="STR_INGAME_SHOP_DIALOG__TICKET" type="button">
+		</Widget>
+		<Widget font_size="20" frame="8,478,122,50" name="charge" preset="v4_shop_button3" text="STR_INGAME_SHOP_DIALOG__CHARGE" type="button">
+		</Widget>
+		<Widget frame="135,3,450,526" name="item_container" type="container">
+			<Skin name="v4_shop_frame_item_container">
+			</Skin>
+			<Widget drag_type="0" frame="15,12,136,155" name="item1" type="containerex">
+				<Widget frame="0,0,136,155" name="item_frame" preset="v4_shop_item" type="itemview">
+				</Widget>
+				<Widget frame="4,5,128,118" type="image">
+					<Skin name="v4_shop_frame_item_desc">
+					</Skin>
+				</Widget>
+				<Widget cell_padding="0" flag="not_active" frame="37,32,64,64" item_height="64" item_width="64" name="item_slot" type="itemview">
+				</Widget>
+				<Widget flag="truncate" frame="10,9,117,18" halign="center" name="item_desc" type="static">
+				</Widget>
+				<Widget flag="truncate" font="v3_money" frame="10,102,117,18" halign="right" name="item_price" padding="10,0" type="static">
+				</Widget>
+				<Widget frame="4,126,75,25" name="buy_btn" preset="v4_shop_button1" text="STR_INGAME_SHOP_DIALOG__BUY" type="button">
+				</Widget>
+				<Widget frame="79,126,53,25" name="gift_btn" preset="v4_shop_button1" text="STR_INGAME_SHOP_DIALOG__GIFT" type="button">
+				</Widget>
+				<Widget flag="not_visible" frame="10,32,40,20" name="icon_bit_set" preset="v4_shop_hotnnew" type="image">
+				</Widget>
+			</Widget>
+			<Widget drag_type="0" frame="158,12,136,155" name="item2" type="containerex">
+				<Widget frame="0,0,136,155" name="item_frame" preset="v4_shop_item" type="itemview">
+				</Widget>
+				<Widget frame="4,5,128,118" type="image">
+					<Skin name="v4_shop_frame_item_desc">
+					</Skin>
+				</Widget>
+				<Widget cell_padding="0" flag="not_active" frame="37,32,64,64" item_height="64" item_width="64" name="item_slot" type="itemview">
+				</Widget>
+				<Widget flag="truncate" frame="10,9,117,18" halign="center" name="item_desc" type="static">
+				</Widget>
+				<Widget flag="truncate" font="v3_money" frame="10,102,117,18" halign="right" name="item_price" padding="10,0" type="static">
+				</Widget>
+				<Widget frame="4,126,75,25" name="buy_btn" preset="v4_shop_button1" text="STR_INGAME_SHOP_DIALOG__BUY" type="button">
+				</Widget>
+				<Widget frame="79,126,53,25" name="gift_btn" preset="v4_shop_button1" text="STR_INGAME_SHOP_DIALOG__GIFT" type="button">
+				</Widget>
+				<Widget flag="not_visible" frame="10,32,40,20" name="icon_bit_set" preset="v4_shop_hotnnew" type="image">
+				</Widget>
+			</Widget>
+			<Widget drag_type="0" frame="301,12,136,155" name="item3" type="containerex">
+				<Widget frame="0,0,136,155" name="item_frame" preset="v4_shop_item" type="itemview">
+				</Widget>
+				<Widget frame="4,5,128,118" type="image">
+					<Skin name="v4_shop_frame_item_desc">
+					</Skin>
+				</Widget>
+				<Widget cell_padding="0" flag="not_active" frame="37,32,64,64" item_height="64" item_width="64" name="item_slot" type="itemview">
+				</Widget>
+				<Widget flag="truncate" frame="10,9,117,18" halign="center" name="item_desc" type="static">
+				</Widget>
+				<Widget flag="truncate" font="v3_money" frame="10,102,117,18" halign="right" name="item_price" padding="10,0" type="static">
+				</Widget>
+				<Widget frame="4,126,75,25" name="buy_btn" preset="v4_shop_button1" text="STR_INGAME_SHOP_DIALOG__BUY" type="button">
+				</Widget>
+				<Widget frame="79,126,53,25" name="gift_btn" preset="v4_shop_button1" text="STR_INGAME_SHOP_DIALOG__GIFT" type="button">
+				</Widget>
+				<Widget flag="not_visible" frame="10,32,40,20" name="icon_bit_set" preset="v4_shop_hotnnew" type="image">
+				</Widget>
+			</Widget>
+			<Widget drag_type="0" frame="15,174,136,155" name="item4" type="containerex">
+				<Widget frame="0,0,136,155" name="item_frame" preset="v4_shop_item" type="itemview">
+				</Widget>
+				<Widget frame="4,5,128,118" type="image">
+					<Skin name="v4_shop_frame_item_desc">
+					</Skin>
+				</Widget>
+				<Widget cell_padding="0" flag="not_active" frame="37,32,64,64" item_height="64" item_width="64" name="item_slot" type="itemview">
+				</Widget>
+				<Widget flag="truncate" frame="10,9,117,18" halign="center" name="item_desc" type="static">
+				</Widget>
+				<Widget flag="truncate" font="v3_money" frame="10,102,117,18" halign="right" name="item_price" padding="10,0" type="static">
+				</Widget>
+				<Widget frame="4,126,75,25" name="buy_btn" preset="v4_shop_button1" text="STR_INGAME_SHOP_DIALOG__BUY" type="button">
+				</Widget>
+				<Widget frame="79,126,53,25" name="gift_btn" preset="v4_shop_button1" text="STR_INGAME_SHOP_DIALOG__GIFT" type="button">
+				</Widget>
+				<Widget flag="not_visible" frame="10,32,40,20" name="icon_bit_set" preset="v4_shop_hotnnew" type="image">
+				</Widget>
+			</Widget>
+			<Widget drag_type="0" frame="158,174,136,155" name="item5" type="containerex">
+				<Widget frame="0,0,136,155" name="item_frame" preset="v4_shop_item" type="itemview">
+				</Widget>
+				<Widget frame="4,5,128,118" type="image">
+					<Skin name="v4_shop_frame_item_desc">
+					</Skin>
+				</Widget>
+				<Widget cell_padding="0" flag="not_active" frame="37,32,64,64" item_height="64" item_width="64" name="item_slot" type="itemview">
+				</Widget>
+				<Widget flag="truncate" frame="10,9,117,18" halign="center" name="item_desc" type="static">
+				</Widget>
+				<Widget flag="truncate" font="v3_money" frame="10,102,117,18" halign="right" name="item_price" padding="10,0" type="static">
+				</Widget>
+				<Widget frame="4,126,75,25" name="buy_btn" preset="v4_shop_button1" text="STR_INGAME_SHOP_DIALOG__BUY" type="button">
+				</Widget>
+				<Widget frame="79,126,53,25" name="gift_btn" preset="v4_shop_button1" text="STR_INGAME_SHOP_DIALOG__GIFT" type="button">
+				</Widget>
+				<Widget flag="not_visible" frame="10,32,40,20" name="icon_bit_set" preset="v4_shop_hotnnew" type="image">
+				</Widget>
+			</Widget>
+			<Widget drag_type="0" frame="301,174,136,155" name="item6" type="containerex">
+				<Widget frame="0,0,136,155" name="item_frame" preset="v4_shop_item" type="itemview">
+				</Widget>
+				<Widget frame="4,5,128,118" type="image">
+					<Skin name="v4_shop_frame_item_desc">
+					</Skin>
+				</Widget>
+				<Widget cell_padding="0" flag="not_active" frame="37,32,64,64" item_height="64" item_width="64" name="item_slot" type="itemview">
+				</Widget>
+				<Widget flag="truncate" frame="10,9,117,18" halign="center" name="item_desc" type="static">
+				</Widget>
+				<Widget flag="truncate" font="v3_money" frame="10,102,117,18" halign="right" name="item_price" padding="10,0" type="static">
+				</Widget>
+				<Widget frame="4,126,75,25" name="buy_btn" preset="v4_shop_button1" text="STR_INGAME_SHOP_DIALOG__BUY" type="button">
+				</Widget>
+				<Widget frame="79,126,53,25" name="gift_btn" preset="v4_shop_button1" text="STR_INGAME_SHOP_DIALOG__GIFT" type="button">
+				</Widget>
+				<Widget flag="not_visible" frame="10,32,40,20" name="icon_bit_set" preset="v4_shop_hotnnew" type="image">
+				</Widget>
+			</Widget>
+			<Widget drag_type="0" frame="15,336,136,155" name="item7" type="containerex">
+				<Widget frame="0,0,136,155" name="item_frame" preset="v4_shop_item" type="itemview">
+				</Widget>
+				<Widget frame="4,5,128,118" type="image">
+					<Skin name="v4_shop_frame_item_desc">
+					</Skin>
+				</Widget>
+				<Widget cell_padding="0" flag="not_active" frame="37,32,64,64" item_height="64" item_width="64" name="item_slot" type="itemview">
+				</Widget>
+				<Widget flag="truncate" frame="10,9,117,18" halign="center" name="item_desc" type="static">
+				</Widget>
+				<Widget flag="truncate" font="v3_money" frame="10,102,117,18" halign="right" name="item_price" padding="10,0" type="static">
+				</Widget>
+				<Widget frame="4,126,75,25" name="buy_btn" preset="v4_shop_button1" text="STR_INGAME_SHOP_DIALOG__BUY" type="button">
+				</Widget>
+				<Widget frame="79,126,53,25" name="gift_btn" preset="v4_shop_button1" text="STR_INGAME_SHOP_DIALOG__GIFT" type="button">
+				</Widget>
+				<Widget flag="not_visible" frame="10,32,40,20" name="icon_bit_set" preset="v4_shop_hotnnew" type="image">
+				</Widget>
+			</Widget>
+			<Widget drag_type="0" frame="158,336,136,155" name="item8" type="containerex">
+				<Widget frame="0,0,136,155" name="item_frame" preset="v4_shop_item" type="itemview">
+				</Widget>
+				<Widget frame="4,5,128,118" type="image">
+					<Skin name="v4_shop_frame_item_desc">
+					</Skin>
+				</Widget>
+				<Widget cell_padding="0" flag="not_active" frame="37,32,64,64" item_height="64" item_width="64" name="item_slot" type="itemview">
+				</Widget>
+				<Widget flag="truncate" frame="10,9,117,18" halign="center" name="item_desc" type="static">
+				</Widget>
+				<Widget flag="truncate" font="v3_money" frame="10,102,117,18" halign="right" name="item_price" padding="10,0" type="static">
+				</Widget>
+				<Widget frame="4,126,75,25" name="buy_btn" preset="v4_shop_button1" text="STR_INGAME_SHOP_DIALOG__BUY" type="button">
+				</Widget>
+				<Widget frame="79,126,53,25" name="gift_btn" preset="v4_shop_button1" text="STR_INGAME_SHOP_DIALOG__GIFT" type="button">
+				</Widget>
+				<Widget flag="not_visible" frame="10,32,40,20" name="icon_bit_set" preset="v4_shop_hotnnew" type="image">
+				</Widget>
+			</Widget>
+			<Widget drag_type="0" frame="301,336,136,155" name="item9" type="containerex">
+				<Widget frame="0,0,136,155" name="item_frame" preset="v4_shop_item" type="itemview">
+				</Widget>
+				<Widget frame="4,5,128,118" type="image">
+					<Skin name="v4_shop_frame_item_desc">
+					</Skin>
+				</Widget>
+				<Widget cell_padding="0" flag="not_active" frame="37,32,64,64" item_height="64" item_width="64" name="item_slot" type="itemview">
+				</Widget>
+				<Widget flag="truncate" frame="10,9,117,18" halign="center" name="item_desc" type="static">
+				</Widget>
+				<Widget flag="truncate" font="v3_money" frame="10,102,117,18" halign="right" name="item_price" padding="10,0" type="static">
+				</Widget>
+				<Widget frame="4,126,75,25" name="buy_btn" preset="v4_shop_button1" text="STR_INGAME_SHOP_DIALOG__BUY" type="button">
+				</Widget>
+				<Widget frame="79,126,53,25" name="gift_btn" preset="v4_shop_button1" text="STR_INGAME_SHOP_DIALOG__GIFT" type="button">
+				</Widget>
+				<Widget flag="not_visible" frame="10,32,40,20" name="icon_bit_set" preset="v4_shop_hotnnew" type="image">
+				</Widget>
+			</Widget>
+			<Widget color="1,1,1,0.85" frame="268,579,21,22" name="last_page_btn" preset="v4_last_page" type="button">
+			</Widget>
+			<Widget color="1,1,1,0.85" frame="246,579,21,22" name="next_page_btn" preset="v4_next_page" type="button">
+			</Widget>
+			<Widget frame="203,582,42,16" halign="center" name="list_page" type="static">
+			</Widget>
+			<Widget color="1,1,1,0.85" frame="181,579,21,22" name="prev_page_btn" preset="v4_prev_page" type="button">
+			</Widget>
+			<Widget color="1,1,1,0.85" frame="159,579,21,22" name="first_page_btn" preset="v4_first_page" type="button">
+			</Widget>
+			<Widget button_size="21,22" button_space="2" font="v3_button" frame="9,496,436,24" name="item_page" page_num="10" page_size="18,22" page_space="5" space="10" type="pagecontrol">
+			</Widget>
+		</Widget>
+		<Widget frame="587,3,140,526" name="rank_container" type="container">
+			<Skin name="v4_shop_frame_rank_container">
+			</Skin>
+			<Widget frame="5,5,129,24" preset="v4_header1" text="STR_INGAME_SHOP_DIALOG__RANK" type="static">
+			</Widget>
+			<Widget drag_type="0" frame="4,31,132,80" name="item1" type="containerex">
+				<Widget frame="0,0,132,80" name="item_frame" preset="v4_shop_item" type="itemview">
+				</Widget>
+				<Widget frame="4,6,124,46" type="image">
+					<Skin name="v4_shop_frame_rank_desc">
+					</Skin>
+				</Widget>
+				<Widget flag="truncate" frame="4,51,124,23" name="item_desc" padding="5,0" type="static">
+					<Skin name="v4_shop_frame_rank_text">
+					</Skin>
+				</Widget>
+				<Widget cell_padding="0" flag="not_active" frame="44,8,40,40" item_height="40" item_width="40" name="item_slot" type="itemview">
+				</Widget>
+				<Widget font="v3_level" font_size="20" frame="9,11,29,35" halign="center" text="STR_INGAME_SHOP_DIALOG__RANK_1" type="static" valign="middle">
+				</Widget>
+				<Widget frame="85,8,40,21" name="buy_btn" preset="v4_shop_button2" text="STR_INGAME_SHOP_DIALOG__BUY" type="button">
+				</Widget>
+				<Widget frame="85,28,40,21" name="gift_btn" preset="v4_shop_button2" text="STR_INGAME_SHOP_DIALOG__GIFT" type="button">
+				</Widget>
+				<Widget flag="not_visible" frame="2,3,40,20" name="icon_bit_set" preset="v4_shop_hotnnew" type="image">
+				</Widget>
+			</Widget>
+			<Widget drag_type="0" frame="4,113,132,80" name="item2" type="containerex">
+				<Widget frame="0,0,132,80" name="item_frame" preset="v4_shop_item" type="itemview">
+				</Widget>
+				<Widget frame="4,6,124,46" type="image">
+					<Skin name="v4_shop_frame_rank_desc">
+					</Skin>
+				</Widget>
+				<Widget flag="truncate" frame="4,51,124,23" name="item_desc" padding="5,0" type="static">
+					<Skin name="v4_shop_frame_rank_text">
+					</Skin>
+				</Widget>
+				<Widget cell_padding="0" flag="not_active" frame="44,8,40,40" item_height="40" item_width="40" name="item_slot" type="itemview">
+				</Widget>
+				<Widget font="v3_level" font_size="20" frame="9,11,29,35" halign="center" text="STR_INGAME_SHOP_DIALOG__RANK_2" type="static" valign="middle">
+				</Widget>
+				<Widget frame="85,8,40,21" name="buy_btn" preset="v4_shop_button2" text="STR_INGAME_SHOP_DIALOG__BUY" type="button">
+				</Widget>
+				<Widget frame="85,28,40,21" name="gift_btn" preset="v4_shop_button2" text="STR_INGAME_SHOP_DIALOG__GIFT" type="button">
+				</Widget>
+				<Widget flag="not_visible" frame="2,3,40,20" name="icon_bit_set" preset="v4_shop_hotnnew" type="image">
+				</Widget>
+			</Widget>
+			<Widget drag_type="0" frame="4,195,132,80" name="item3" type="containerex">
+				<Widget frame="0,0,132,80" name="item_frame" preset="v4_shop_item" type="itemview">
+				</Widget>
+				<Widget frame="4,6,124,46" type="image">
+					<Skin name="v4_shop_frame_rank_desc">
+					</Skin>
+				</Widget>
+				<Widget flag="truncate" frame="4,51,124,23" name="item_desc" padding="5,0" type="static">
+					<Skin name="v4_shop_frame_rank_text">
+					</Skin>
+				</Widget>
+				<Widget cell_padding="0" flag="not_active" frame="44,8,40,40" item_height="40" item_width="40" name="item_slot" type="itemview">
+				</Widget>
+				<Widget font="v3_level" font_size="20" frame="9,11,29,35" halign="center" text="STR_INGAME_SHOP_DIALOG__RANK_3" type="static" valign="middle">
+				</Widget>
+				<Widget frame="85,8,40,21" name="buy_btn" preset="v4_shop_button2" text="STR_INGAME_SHOP_DIALOG__BUY" type="button">
+				</Widget>
+				<Widget frame="85,28,40,21" name="gift_btn" preset="v4_shop_button2" text="STR_INGAME_SHOP_DIALOG__GIFT" type="button">
+				</Widget>
+				<Widget flag="not_visible" frame="2,3,40,20" name="icon_bit_set" preset="v4_shop_hotnnew" type="image">
+				</Widget>
+			</Widget>
+			<Widget drag_type="0" frame="4,277,132,80" name="item4" type="containerex">
+				<Widget frame="0,0,132,80" name="item_frame" preset="v4_shop_item" type="itemview">
+				</Widget>
+				<Widget frame="4,6,124,46" type="image">
+					<Skin name="v4_shop_frame_rank_desc">
+					</Skin>
+				</Widget>
+				<Widget flag="truncate" frame="4,51,124,23" name="item_desc" padding="5,0" type="static">
+					<Skin name="v4_shop_frame_rank_text">
+					</Skin>
+				</Widget>
+				<Widget cell_padding="0" flag="not_active" frame="44,8,40,40" item_height="40" item_width="40" name="item_slot" type="itemview">
+				</Widget>
+				<Widget font="v3_level" font_size="20" frame="9,11,29,35" halign="center" text="STR_INGAME_SHOP_DIALOG__RANK_4" type="static" valign="middle">
+				</Widget>
+				<Widget frame="85,8,40,21" name="buy_btn" preset="v4_shop_button2" text="STR_INGAME_SHOP_DIALOG__BUY" type="button">
+				</Widget>
+				<Widget frame="85,28,40,21" name="gift_btn" preset="v4_shop_button2" text="STR_INGAME_SHOP_DIALOG__GIFT" type="button">
+				</Widget>
+				<Widget flag="not_visible" frame="2,3,40,20" name="icon_bit_set" preset="v4_shop_hotnnew" type="image">
+				</Widget>
+			</Widget>
+			<Widget drag_type="0" frame="4,359,132,80" name="item5" type="containerex">
+				<Widget frame="0,0,132,80" name="item_frame" preset="v4_shop_item" type="itemview">
+				</Widget>
+				<Widget frame="4,6,124,46" type="image">
+					<Skin name="v4_shop_frame_rank_desc">
+					</Skin>
+				</Widget>
+				<Widget flag="truncate" frame="4,51,124,23" name="item_desc" padding="5,0" type="static">
+					<Skin name="v4_shop_frame_rank_text">
+					</Skin>
+				</Widget>
+				<Widget cell_padding="0" flag="not_active" frame="44,8,40,40" item_height="40" item_width="40" name="item_slot" type="itemview">
+				</Widget>
+				<Widget font="v3_level" font_size="20" frame="9,11,29,35" halign="center" text="STR_INGAME_SHOP_DIALOG__RANK_5" type="static" valign="middle">
+				</Widget>
+				<Widget frame="85,8,40,21" name="buy_btn" preset="v4_shop_button2" text="STR_INGAME_SHOP_DIALOG__BUY" type="button">
+				</Widget>
+				<Widget frame="85,28,40,21" name="gift_btn" preset="v4_shop_button2" text="STR_INGAME_SHOP_DIALOG__GIFT" type="button">
+				</Widget>
+				<Widget flag="not_visible" frame="2,3,40,20" name="icon_bit_set" preset="v4_shop_hotnnew" type="image">
+				</Widget>
+			</Widget>
+			<Widget drag_type="0" frame="4,441,132,80" name="item6" type="containerex">
+				<Widget frame="0,0,132,80" name="item_frame" preset="v4_shop_item" type="itemview">
+				</Widget>
+				<Widget frame="4,6,124,46" type="image">
+					<Skin name="v4_shop_frame_rank_desc">
+					</Skin>
+				</Widget>
+				<Widget flag="truncate" frame="4,51,124,23" name="item_desc" padding="5,0" type="static">
+					<Skin name="v4_shop_frame_rank_text">
+					</Skin>
+				</Widget>
+				<Widget cell_padding="0" flag="not_active" frame="44,8,40,40" item_height="40" item_width="40" name="item_slot" type="itemview">
+				</Widget>
+				<Widget font="v3_level" font_size="20" frame="9,11,29,35" halign="center" text="STR_INGAME_SHOP_DIALOG__RANK_6" type="static" valign="middle">
+				</Widget>
+				<Widget frame="85,8,40,21" name="buy_btn" preset="v4_shop_button2" text="STR_INGAME_SHOP_DIALOG__BUY" type="button">
+				</Widget>
+				<Widget frame="85,28,40,21" name="gift_btn" preset="v4_shop_button2" text="STR_INGAME_SHOP_DIALOG__GIFT" type="button">
+				</Widget>
+				<Widget flag="not_visible" frame="2,3,40,20" name="icon_bit_set" preset="v4_shop_hotnnew" type="image">
+				</Widget>
+			</Widget>
+		</Widget>
+		<Widget frame="5,421,128,21" text="STR_INGAME_SHOP_DIALOG__CASH" type="static">
+		</Widget>
+		<Widget frame="5,3,128,21" text="STR_INGAME_SHOP_DIALOG__CATEGORY" type="static">
+		</Widget>
+	</Widget>
+	<Widget frame="651,571,79,26" h_pos_align="right" name="cancel" preset="v4_button" text="STR_INGAME_SHOP_DIALOG__CLOSE" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="Vellus00">These Tursin Krall actually dare to attack Tijerid head on...</Text>
+	<Text label="Reahl01">You have returned, [%username]. So, how did the investigation go?</Text>
+	<Text label="SOL02">I barely managed to kill Chieftain [Duaguru], but...</Text>
+	<Text label="Reahl03">Yes? Well...?</Text>
+	<Text label="SOL04">As he was dying, he revealed that [Shandu] is plotting something... And that it&apos;s already too late...</Text>
+	<Text label="Vellus05">Muahaha... Can&apos;t you see all these bodies of the dead Krall here? They came from the front and were completely massacred.</Text>
+	<Text label="SOL06">And they were also making an unknown poison in the Duaguru village...</Text>
+	<Text label="Reahl07">Poison...?</Text>
+	<Text label="Vellus08">Come to think of it, those Krall we fought this time seemed to have spread poison on their weapons.</Text>
+	<Text label="Reahl09">But that&apos;s about all Krall can do, anyway...</Text>
+	<Text label="Vellus10">Anyway, you have done well! Now all that&apos;s left is return and have a nice drink to celebrate our success. Muhaha!</Text>
+</CutSceneText>

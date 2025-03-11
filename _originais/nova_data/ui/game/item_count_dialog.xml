@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="10,5" flag="close;;title" frame="382,100,382,173" last_modified="2020-09-07 20:08:54" name="item_count_dialog" preset="v4_msgbox" title_align="left" title_frame="3,3,382,14" title_offset="10,5" type="dlg_item_count">
+	<Widget frame="-3,-17,382,173" name="max" type="container">
+	</Widget>
+	<Widget frame="-3,-17,239,173" name="min" type="container">
+	</Widget>
+	<Widget frame="311,123,60,26" h_pos_align="right" name="cancel" preset="v4_button" text="STR_ITEM_PRICE_COUNT_DIALOG__CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget defbutton="true" frame="252,123,60,26" h_pos_align="right" name="ok" preset="v4_button" text="STR_ITEM_PRICE_COUNT_DIALOG__OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="v3_money" frame="52,59,116,24" h_align="right" h_padding="3" halign="right" max_length="3" name="count" numeric="1" preset="v4_editbox" tabstop="1" type="editbox" v_padding="3">
+	</Widget>
+	<Widget frame="10,12,201,26" halign="left" name="ipc_message" scroll_type="hidden" text="STR_ITEM_PRICE_COUNT_DIALOG__IPC_MESSAGE" type="static" valign="middle">
+	</Widget>
+	<Widget frame="31,60,21,22" name="prev_val" preset="v4_prev_page" type="button">
+	</Widget>
+	<Widget frame="10,60,21,22" name="first_val" preset="v4_first_page" type="button">
+	</Widget>
+	<Widget frame="170,60,21,22" name="next_val" preset="v4_next_page" type="button">
+	</Widget>
+	<Widget frame="191,60,21,22" name="last_val" preset="v4_last_page" type="button">
+	</Widget>
+	<Widget frame="223,23,4,86" type="image">
+		<Skin name="v4_num_ruler">
+		</Skin>
+	</Widget>
+	<Widget frame="215,56,19,19" name="expand" preset="v4_num_expand" type="button">
+	</Widget>
+	<Widget frame="319,14,46,25" name="num0" preset="v4_num_button" single_click_only="True" text="STR_ITEM_PRICE_COUNT_DIALOG__0" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+	<Widget frame="235,64,28,25" name="num1" preset="v4_num_button" single_click_only="True" text="STR_ITEM_PRICE_COUNT_DIALOG__1" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+	<Widget frame="263,64,28,25" name="num2" preset="v4_num_button" single_click_only="True" text="STR_ITEM_PRICE_COUNT_DIALOG__2" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+	<Widget frame="291,64,28,25" name="num3" preset="v4_num_button" single_click_only="True" text="STR_ITEM_PRICE_COUNT_DIALOG__3" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+	<Widget frame="235,39,28,25" name="num4" preset="v4_num_button" single_click_only="True" text="STR_ITEM_PRICE_COUNT_DIALOG__4" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+	<Widget frame="263,39,28,25" name="num5" preset="v4_num_button" single_click_only="True" text="STR_ITEM_PRICE_COUNT_DIALOG__5" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+	<Widget frame="291,39,28,25" name="num6" preset="v4_num_button" single_click_only="True" text="STR_ITEM_PRICE_COUNT_DIALOG__6" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+	<Widget frame="235,14,28,25" name="num7" preset="v4_num_button" single_click_only="True" text="STR_ITEM_PRICE_COUNT_DIALOG__7" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+	<Widget frame="263,14,28,25" name="num8" preset="v4_num_button" single_click_only="True" text="STR_ITEM_PRICE_COUNT_DIALOG__8" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+	<Widget frame="291,14,28,25" name="num9" preset="v4_num_button" single_click_only="True" text="STR_ITEM_PRICE_COUNT_DIALOG__9" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+	<Widget frame="263,89,28,25" name="clear" preset="v4_num_button" single_click_only="True" text="STR_ITEM_PRICE_COUNT_DIALOG__CLEAR" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+	<Widget frame="291,89,28,25" name="back" preset="v4_num_button" single_click_only="True" text="STR_ITEM_PRICE_COUNT_DIALOG__BACK" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+	<Widget frame="235,89,28,25" name="all" preset="v4_num_button" single_click_only="True" text="STR_ITEM_PRICE_COUNT_DIALOG__ALL" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+	<Widget frame="319,39,46,25" name="num00" preset="v4_num_button" single_click_only="True" text="STR_ITEM_PRICE_COUNT_DIALOG__00" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+	<Widget frame="319,64,46,25" name="num000" preset="v4_num_button" single_click_only="True" text="STR_ITEM_PRICE_COUNT_DIALOG__000" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+	<Widget frame="319,89,46,25" name="num0000" preset="v4_num_button" single_click_only="True" text="STR_ITEM_PRICE_COUNT_DIALOG__0000" text_color="0.9176,0.9137,0.4588,1.0" text_shade="True" type="button">
+	</Widget>
+</Dialog>

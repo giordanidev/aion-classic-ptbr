@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog frame="1000,0,224,169" h_pos_align="right" last_modified="2016-08-02 13:13:59" name="abyss_fort_info_dialog" type="dlg_abyss_fort_info" v_pos_align="top">
+	<Widget flag="not_visible" frame="0,16,224,38" name="prototype_fort" type="container">
+		<Widget flag="not_visible" frame="0,0,224,38" name="rect_small" type="container">
+		</Widget>
+		<Widget flag="not_visible" frame="0,0,224,72" name="rect_large" type="container">
+		</Widget>
+		<Widget flag="outer;nonclient" frame="-4,-3,233,44" h_pos_align="left" name="bg_small" type="image" v_pos_align="top">
+			<Skin name="fort_battle_info_bg">
+			</Skin>
+		</Widget>
+		<Widget flag="outer;nonclient" frame="-4,-6,233,82" h_pos_align="left" name="bg_large" type="image" v_pos_align="top">
+			<Skin name="fort_battle_info_bg4">
+			</Skin>
+		</Widget>
+		<Widget frame="7,2,147,35" type="image" v_pos_align="top">
+			<Skin name="fort_battle_info_bg2">
+			</Skin>
+			<Widget frame="8,11,11,13" h_pos_align="left" name="progress" preset="fort_battle_progress" type="image" v_pos_align="top">
+			</Widget>
+		</Widget>
+		<Widget frame="6,35,212,34" type="image" v_pos_align="top">
+			<Skin name="fort_battle_info_bg3">
+			</Skin>
+		</Widget>
+		<Widget flag="truncate" font="ui_default" font_size="14" frame="44,7,100,24" h_pos_align="left" halign="left" name="name" type="static" v_pos_align="top">
+		</Widget>
+		<Widget flag="truncate" font="ui_default" font_size="14" frame="18,39,190,24" h_pos_align="left" halign="center" name="status" type="static" v_pos_align="top">
+		</Widget>
+		<Widget flag="truncate" frame="157,6,59,25" name="join" preset="v5_button" text="STR_ABYSS_FORT_BATTLE_DIALOG__JOIN_BATTLEGROUP" type="button" v_pos_align="top">
+		</Widget>
+		<Widget flag="truncate" frame="157,6,59,25" name="leave" preset="v5_button" text="STR_ABYSS_FORT_BATTLE_DIALOG__LEAVE_BATTLEGROUP" type="button" v_pos_align="top">
+		</Widget>
+		<Widget flag="truncate" frame="157,6,59,25" name="show_battle_group" preset="v5_button" text="STR_ABYSS_FORT_BATTLE_DIALOG__SHOW_BATTLEGROUP" tooltip="STR_TOOLTIP_BUTTON_SHOW_BATTLEGROUP" type="button" v_pos_align="top">
+		</Widget>
+	</Widget>
+	<Widget flag="not_visible" frame="0,105,224,353" name="con_detail" type="container">
+		<Widget frame="0,0,224,337" name="con_detail_bg" type="image" v_pos_align="top">
+			<Skin name="fort_battle_detail_bg">
+			</Skin>
+		</Widget>
+		<Widget flag="not_visible" frame="0,53,224,125" name="con_member" type="container">
+			<Widget font="tooltip_guide_title" font_size="14" frame="6,8,60,22" h_pos_align="left" padding="0,0" scroll_type="hidden" text="STR_ABYSS_FORT_BATTLE_DIALOG__CURRENT_MEMBER" type="static" v_pos_align="top">
+			</Widget>
+			<Widget flag="visible" frame="67,5,109,28" h_pos_align="left" name="con_gauge" type="container" v_pos_align="top">
+				<Widget frame="0,0,13,28" h_pos_align="left" name="0" preset="fort_battle_mem_gauge" type="image" v_pos_align="proportion">
+				</Widget>
+				<Widget frame="12,0,13,28" h_pos_align="left" name="1" preset="fort_battle_mem_gauge" type="image" v_pos_align="proportion">
+				</Widget>
+				<Widget frame="24,0,13,28" h_pos_align="left" name="2" preset="fort_battle_mem_gauge" type="image" v_pos_align="proportion">
+				</Widget>
+				<Widget frame="36,0,13,28" h_pos_align="left" name="3" preset="fort_battle_mem_gauge" type="image" v_pos_align="proportion">
+				</Widget>
+				<Widget frame="48,0,13,28" h_pos_align="left" name="4" preset="fort_battle_mem_gauge" type="image" v_pos_align="proportion">
+				</Widget>
+				<Widget frame="60,0,13,28" h_pos_align="left" name="5" preset="fort_battle_mem_gauge" type="image" v_pos_align="proportion">
+				</Widget>
+				<Widget frame="72,0,13,28" h_pos_align="left" name="6" preset="fort_battle_mem_gauge" type="image" v_pos_align="proportion">
+				</Widget>
+				<Widget frame="84,0,13,28" h_pos_align="left" name="7" preset="fort_battle_mem_gauge" type="image" v_pos_align="proportion">
+				</Widget>
+				<Widget frame="96,0,13,28" h_pos_align="left" name="8" preset="fort_battle_mem_gauge" type="image" v_pos_align="proportion">
+				</Widget>
+			</Widget>
+			<Widget font="ui_default" font_size="14" frame="177,8,41,22" h_pos_align="left" halign="center" name="member_num" padding="0,0" text="123명" type="static" v_pos_align="top">
+			</Widget>
+			<Widget font="ui_default" frame="5,38,214,78" h_pos_align="left" name="info" padding="0,0" type="htmlview" v_pos_align="top">
+			</Widget>
+			<Widget frame="4,35,215,2" h_pos_align="proportion" name="content_sep" preset="v5_tooltip_sep_content" type="image">
+			</Widget>
+		</Widget>
+		<Widget flag="not_visible" frame="0,215,224,105" name="con_score" type="container">
+			<Widget flag="truncate" font="ui_default" frame="11,32,39,21" h_pos_align="left" halign="left" name="race0" padding="0,0" text="123" type="static" v_pos_align="top">
+			</Widget>
+			<Widget flag="truncate" font="ui_default" frame="11,54,39,21" h_pos_align="left" halign="left" name="race1" padding="0,0" text="123" type="static" v_pos_align="top">
+			</Widget>
+			<Widget flag="truncate" font="ui_default" frame="11,76,39,21" h_pos_align="left" halign="left" name="race2" padding="0,0" text="123" type="static" v_pos_align="top">
+			</Widget>
+			<Widget flag="multiline;wordwrap" font="tooltip_guide_title" font_size="14" frame="6,8,71,22" h_pos_align="left" scroll_type="hidden" text="STR_ABYSS_FORT_BATTLE_DIALOG__CURRENT_SCORE" type="static" v_pos_align="top">
+			</Widget>
+			<Widget flag="outer;nonclient" frame="54,36,161,14" type="image" v_pos_align="top">
+				<Skin name="v5_fatigue_bg">
+				</Skin>
+			</Widget>
+			<Widget align="left" frame="55,37,159,12" gauge_adjust="0,0" name="score0" num_type="default" preset="fort_battle_score_gauge_light" show_value="false" skin_extend="False" small_number="True" stage="2" state_depended="True" type="gauge" value_type="cur_number">
+			</Widget>
+			<Widget flag="outer;nonclient" frame="54,58,161,14" type="image" v_pos_align="top">
+				<Skin name="v5_fatigue_bg">
+				</Skin>
+			</Widget>
+			<Widget align="left" frame="55,59,159,12" gauge_adjust="0,0" name="score1" num_type="default" preset="fort_battle_score_gauge_dark" show_value="false" skin_extend="False" small_number="True" stage="2" state_depended="True" type="gauge" value_type="cur_number">
+			</Widget>
+			<Widget flag="outer;nonclient" frame="54,80,161,14" type="image" v_pos_align="top">
+				<Skin name="v5_fatigue_bg">
+				</Skin>
+			</Widget>
+			<Widget align="left" frame="55,81,159,12" gauge_adjust="0,0" name="score2" num_type="default" preset="fort_battle_score_gauge_dragon" show_value="false" skin_extend="False" small_number="True" stage="2" state_depended="True" type="gauge" value_type="cur_number">
+			</Widget>
+		</Widget>
+		<Widget flag="visible;nonclient" font="ui_default" frame="41,336,148,16" name="expand" preset="v5_char_info_expand" tooltip="STR_TOOLTIP_ABYSS_FORT_BATTLE_GUIDE_INFO_MORE_BUTTON" type="button">
+		</Widget>
+	</Widget>
+	<Widget frame="0,0,15,15" h_pos_align="left" name="move_trigger" type="image" v_pos_align="top">
+		<Skin name="v5_cross" state="0">
+		</Skin>
+		<Skin name="v5_lock" state="1">
+		</Skin>
+	</Widget>
+</Dialog>

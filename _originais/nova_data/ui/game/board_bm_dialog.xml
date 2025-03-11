@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="task" close_offset="5, 10" close_preset="boardbm_close" flag="close;title" frame="288,155,833,604" last_modified="2016-09-22 16:40:38" name="board_bm_dialog" shadow_offset="8,8" title_align="center" title_frame="3,3,1225,14" title_height="0" title_offset="0,0" type="dlg_board_bm">
+	<Widget flag="nonclient" frame="0,15,833,589" name="board_bm_bg" type="image">
+		<Skin name="boardbm_dialog_bg">
+		</Skin>
+	</Widget>
+	<Widget flag="nonclient" frame="116,0,600,80" name="board_bm_title_bg" type="image">
+		<Skin name="boardbm_dialog_title">
+		</Skin>
+	</Widget>
+	<Widget frame="44,74,672,86" type="image">
+		<Skin name="boardbm_shadow">
+		</Skin>
+	</Widget>
+	<Widget frame="102,434,614,86" type="image">
+		<Skin name="boardbm_shadow">
+		</Skin>
+	</Widget>
+	<Widget frame="101,138,84,335" type="image">
+		<Skin name="boardbm_shadow">
+		</Skin>
+	</Widget>
+	<Widget frame="632,138,84,335" type="image">
+		<Skin name="boardbm_shadow">
+		</Skin>
+	</Widget>
+	<Widget font_size="22" frame="116,9,600,60" h_pos_align="center" halign="center" name="title" padding="3,0" text="STR_LUCKYDICE__DIALOG_TITLE" text_color="0.1294,0.102,0.0313,1.0" type="static" v_pos_align="middle" valign="middle">
+	</Widget>
+	<Widget defbutton="False" font_size="14" frame="598,533,118,50" h_pos_align="right" name="reset_board" preset="boardbm_button" text_color="0.549,0.451,0.2706,1.0" type="button">
+	</Widget>
+	<Widget defbutton="False" flag="outer" font_size="20" frame="710,488,126,128" halign="center" name="roll" preset="boardbm_roll" text_color="0.1294,0.102,0.0313,1.0" text_disabled_color="0.1294,0.102,0.0313,1.0" text_over_color="0.1294,0.102,0.0313,1.0" text_selected_color="0.1294,0.102,0.0313,1.0" type="button" valign="middle">
+	</Widget>
+	<Widget flag="not_active" frame="730,336,31,33" h_pos_align="proportion" tooltip="STR_LUCKYDICE__DIALOG_TOOLTIP_FREEDICE" type="image" v_pos_align="proportion">
+		<Skin name="boardbm_free_dice">
+		</Skin>
+	</Widget>
+	<Widget font_size="13" frame="720,369,50,20" h_pos_align="center" halign="center" name="free_dice_remain" padding="3,0" text_color="0.874,0.768,0.411,1.0" type="static" v_pos_align="middle" valign="middle">
+		<Skin name="boardbm_dice_bg">
+		</Skin>
+	</Widget>
+	<Widget flag="not_active" frame="730,400,31,33" h_pos_align="proportion" tooltip="STR_LUCKYDICE__DIALOG_TOOLTIP_DICE" type="image" v_pos_align="proportion">
+		<Skin name="boardbm_paid_dice">
+		</Skin>
+	</Widget>
+	<Widget font_size="13" frame="720,433,50,20" h_pos_align="center" halign="center" name="paid_dice_remain" padding="3,0" text_color="0.874,0.768,0.411,1.0" type="static" v_pos_align="middle" valign="middle">
+		<Skin name="boardbm_dice_bg">
+		</Skin>
+	</Widget>
+	<Widget flag="multiline;wordwrap" font_size="12" frame="108,537,497,42" h_pos_align="center" halign="left" name="reset_charge_time" padding="3,0" text_color="0.874,0.768,0.411,1.0" type="static" v_pos_align="middle" valign="middle">
+	</Widget>
+	<Widget frame="185,158,53,15" type="image">
+		<Skin name="boardbm_arrow_right">
+		</Skin>
+	</Widget>
+	<Widget frame="180,383,43,51" type="image">
+		<Skin name="boardbm_arrow_leftup">
+		</Skin>
+	</Widget>
+	<Widget frame="620,281,16,53" type="image">
+		<Skin name="boardbm_arrow_down">
+		</Skin>
+	</Widget>
+	<Widget frame="38,73,96,88" name="place_start" type="container">
+		<Widget frame="8,2,80,84" halign="center" name="start" type="static">
+			<Skin name="boardbm_start">
+			</Skin>
+		</Widget>
+		<Widget frame="34,27,1,1" name="horse_pos_start" type="static">
+		</Widget>
+		<Widget font_size="13" frame="6,48,80,25" h_pos_align="center" halign="center" padding="3,0" text="STR_LUCKYDICE__DIALOG_START" text_color="1.0000,0.2627,0.2627,1.0" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget frame="626,73,96,88" name="place_10" type="container">
+		<Widget frame="8,2,80,84" name="place_bg_10" type="image">
+			<Skin name="boardbm_place">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="place_bg_color_10" type="image">
+			<Skin name="boardbm_itemcolor">
+			</Skin>
+		</Widget>
+		<Widget frame="34,27,1,1" name="horse_pos_10" type="static">
+		</Widget>
+		<Widget frame="21,22,26,49" name="horse_shadow_10" type="image">
+			<Skin name="boardbm_horse_shadow">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="horse_spot_10" type="image">
+			<Skin name="boardbm_horse_spot">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="2" cell_space="1,1" frame="26,20,44,44" item_height="44" item_width="44" name="reward_item_10" one_click_action="False" preset="boardbm_itemview" reserve_slots="False" scroll_type="hidden" slot_num="1" type="itemview" viewmode="icon">
+		</Widget>
+		<Widget frame="8,2,80,84" name="acquired_bg_10" type="image">
+			<Skin name="boardbm_acquire_bg">
+			</Skin>
+		</Widget>
+		<Widget flag="nonclient" frame="19,12,30,30" name="acquired_10" type="static">
+			<Skin name="boardbm_acquire">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="626,133,96,88" name="place_11" type="container">
+		<Widget frame="8,2,80,84" name="place_bg_11" type="image">
+			<Skin name="boardbm_place">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="place_bg_color_11" type="image">
+			<Skin name="boardbm_itemcolor">
+			</Skin>
+		</Widget>
+		<Widget frame="34,27,1,1" name="horse_pos_11" type="static">
+		</Widget>
+		<Widget frame="21,22,26,49" name="horse_shadow_11" type="image">
+			<Skin name="boardbm_horse_shadow">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="horse_spot_11" type="image">
+			<Skin name="boardbm_horse_spot">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="2" cell_space="1,1" frame="26,20,44,44" item_height="44" item_width="44" name="reward_item_11" one_click_action="False" preset="boardbm_itemview" reserve_slots="False" scroll_type="hidden" slot_num="1" type="itemview" viewmode="icon">
+		</Widget>
+		<Widget frame="8,2,80,84" name="acquired_bg_11" type="image">
+			<Skin name="boardbm_acquire_bg">
+			</Skin>
+		</Widget>
+		<Widget flag="nonclient" frame="19,12,30,30" name="acquired_11" type="static">
+			<Skin name="boardbm_acquire">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="626,193,96,88" name="place_12" type="container">
+		<Widget frame="8,2,80,84" name="place_bg_12" type="image">
+			<Skin name="boardbm_place">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="place_bg_color_12" type="image">
+			<Skin name="boardbm_itemcolor">
+			</Skin>
+		</Widget>
+		<Widget frame="34,27,1,1" name="horse_pos_12" type="static">
+		</Widget>
+		<Widget frame="21,22,26,49" name="horse_shadow_12" type="image">
+			<Skin name="boardbm_horse_shadow">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="horse_spot_12" type="image">
+			<Skin name="boardbm_horse_spot">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="2" cell_space="1,1" frame="26,20,44,44" item_height="44" item_width="44" name="reward_item_12" one_click_action="False" preset="boardbm_itemview" reserve_slots="False" scroll_type="hidden" slot_num="1" type="itemview" viewmode="icon">
+		</Widget>
+		<Widget frame="8,2,80,84" name="acquired_bg_12" type="image">
+			<Skin name="boardbm_acquire_bg">
+			</Skin>
+		</Widget>
+		<Widget flag="nonclient" frame="19,12,30,30" name="acquired_12" type="static">
+			<Skin name="boardbm_acquire">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="626,253,96,88" name="place_13" type="container">
+		<Widget frame="8,2,80,84" name="place_bg_13" type="image">
+			<Skin name="boardbm_place">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="place_bg_color_13" type="image">
+			<Skin name="boardbm_itemcolor">
+			</Skin>
+		</Widget>
+		<Widget frame="34,27,1,1" name="horse_pos_13" type="static">
+		</Widget>
+		<Widget frame="21,22,26,49" name="horse_shadow_13" type="image">
+			<Skin name="boardbm_horse_shadow">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="horse_spot_13" type="image">
+			<Skin name="boardbm_horse_spot">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="2" cell_space="1,1" frame="26,20,44,44" item_height="44" item_width="44" name="reward_item_13" one_click_action="False" preset="boardbm_itemview" reserve_slots="False" scroll_type="hidden" slot_num="1" type="itemview" viewmode="icon">
+		</Widget>
+		<Widget frame="8,2,80,84" name="acquired_bg_13" type="image">
+			<Skin name="boardbm_acquire_bg">
+			</Skin>
+		</Widget>
+		<Widget flag="nonclient" frame="19,12,30,30" name="acquired_13" type="static">
+			<Skin name="boardbm_acquire">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="626,313,96,88" name="place_14" type="container">
+		<Widget frame="8,2,80,84" name="place_bg_14" type="image">
+			<Skin name="boardbm_place">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="place_bg_color_14" type="image">
+			<Skin name="boardbm_itemcolor">
+			</Skin>
+		</Widget>
+		<Widget frame="34,27,1,1" name="horse_pos_14" type="static">
+		</Widget>
+		<Widget frame="21,22,26,49" name="horse_shadow_14" type="image">
+			<Skin name="boardbm_horse_shadow">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="horse_spot_14" type="image">
+			<Skin name="boardbm_horse_spot">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="2" cell_space="1,1" frame="26,20,44,44" item_height="44" item_width="44" name="reward_item_14" one_click_action="False" preset="boardbm_itemview" reserve_slots="False" scroll_type="hidden" slot_num="1" type="itemview" viewmode="icon">
+		</Widget>
+		<Widget frame="8,2,80,84" name="acquired_bg_14" type="image">
+			<Skin name="boardbm_acquire_bg">
+			</Skin>
+		</Widget>
+		<Widget flag="nonclient" frame="19,12,30,30" name="acquired_14" type="static">
+			<Skin name="boardbm_acquire">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="626,373,96,88" name="place_15" type="container">
+		<Widget frame="8,2,80,84" name="place_bg_15" type="image">
+			<Skin name="boardbm_place">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="place_bg_color_15" type="image">
+			<Skin name="boardbm_itemcolor">
+			</Skin>
+		</Widget>
+		<Widget frame="34,27,1,1" name="horse_pos_15" type="static">
+		</Widget>
+		<Widget frame="21,22,26,49" name="horse_shadow_15" type="image">
+			<Skin name="boardbm_horse_shadow">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="horse_spot_15" type="image">
+			<Skin name="boardbm_horse_spot">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="2" cell_space="1,1" frame="26,20,44,44" item_height="44" item_width="44" name="reward_item_15" one_click_action="False" preset="boardbm_itemview" reserve_slots="False" scroll_type="hidden" slot_num="1" type="itemview" viewmode="icon">
+		</Widget>
+		<Widget frame="8,2,80,84" name="acquired_bg_15" type="image">
+			<Skin name="boardbm_acquire_bg">
+			</Skin>
+		</Widget>
+		<Widget flag="nonclient" frame="19,12,30,30" name="acquired_15" type="static">
+			<Skin name="boardbm_acquire">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="567,73,96,88" name="place_9" type="container">
+		<Widget frame="8,2,80,84" name="place_bg_9" type="image">
+			<Skin name="boardbm_place">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="place_bg_color_9" type="image">
+			<Skin name="boardbm_itemcolor">
+			</Skin>
+		</Widget>
+		<Widget frame="34,27,1,1" name="horse_pos_9" type="static">
+		</Widget>
+		<Widget frame="21,22,26,49" name="horse_shadow_9" type="image">
+			<Skin name="boardbm_horse_shadow">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="horse_spot_9" type="image">
+			<Skin name="boardbm_horse_spot">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="2" cell_space="1,1" frame="26,20,44,44" item_height="44" item_width="44" name="reward_item_9" one_click_action="False" preset="boardbm_itemview" reserve_slots="False" scroll_type="hidden" slot_num="1" type="itemview" viewmode="icon">
+		</Widget>
+		<Widget frame="8,2,80,84" name="acquired_bg_9" type="image">
+			<Skin name="boardbm_acquire_bg">
+			</Skin>
+		</Widget>
+		<Widget flag="nonclient" frame="19,12,30,30" name="acquired_9" type="static">
+			<Skin name="boardbm_acquire">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="508,73,96,88" name="place_8" type="container">
+		<Widget frame="8,2,80,84" name="place_bg_8" type="image">
+			<Skin name="boardbm_place">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="place_bg_color_8" type="image">
+			<Skin name="boardbm_itemcolor">
+			</Skin>
+		</Widget>
+		<Widget frame="34,27,1,1" name="horse_pos_8" type="static">
+		</Widget>
+		<Widget frame="21,22,26,49" name="horse_shadow_8" type="image">
+			<Skin name="boardbm_horse_shadow">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="horse_spot_8" type="image">
+			<Skin name="boardbm_horse_spot">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="2" cell_space="1,1" frame="26,20,44,44" item_height="44" item_width="44" name="reward_item_8" one_click_action="False" preset="boardbm_itemview" reserve_slots="False" scroll_type="hidden" slot_num="1" type="itemview" viewmode="icon">
+		</Widget>
+		<Widget frame="8,2,80,84" name="acquired_bg_8" type="image">
+			<Skin name="boardbm_acquire_bg">
+			</Skin>
+		</Widget>
+		<Widget flag="nonclient" frame="19,12,30,30" name="acquired_8" type="static">
+			<Skin name="boardbm_acquire">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="449,73,96,88" name="place_7" type="container">
+		<Widget frame="8,2,80,84" name="place_bg_7" type="image">
+			<Skin name="boardbm_place">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="place_bg_color_7" type="image">
+			<Skin name="boardbm_itemcolor">
+			</Skin>
+		</Widget>
+		<Widget frame="34,27,1,1" name="horse_pos_7" type="static">
+		</Widget>
+		<Widget frame="21,22,26,49" name="horse_shadow_7" type="image">
+			<Skin name="boardbm_horse_shadow">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="horse_spot_7" type="image">
+			<Skin name="boardbm_horse_spot">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="2" cell_space="1,1" frame="26,20,44,44" item_height="44" item_width="44" name="reward_item_7" one_click_action="False" preset="boardbm_itemview" reserve_slots="False" scroll_type="hidden" slot_num="1" type="itemview" viewmode="icon">
+		</Widget>
+		<Widget frame="8,2,80,84" name="acquired_bg_7" type="image">
+			<Skin name="boardbm_acquire_bg">
+			</Skin>
+		</Widget>
+		<Widget flag="nonclient" frame="19,12,30,30" name="acquired_7" type="static">
+			<Skin name="boardbm_acquire">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="390,73,96,88" name="place_6" type="container">
+		<Widget frame="8,2,80,84" name="place_bg_6" type="image">
+			<Skin name="boardbm_place">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="place_bg_color_6" type="image">
+			<Skin name="boardbm_itemcolor">
+			</Skin>
+		</Widget>
+		<Widget frame="34,27,1,1" name="horse_pos_6" type="static">
+		</Widget>
+		<Widget frame="21,22,26,49" name="horse_shadow_6" type="image">
+			<Skin name="boardbm_horse_shadow">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="horse_spot_6" type="image">
+			<Skin name="boardbm_horse_spot">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="2" cell_space="1,1" frame="26,20,44,44" item_height="44" item_width="44" name="reward_item_6" one_click_action="False" preset="boardbm_itemview" reserve_slots="False" scroll_type="hidden" slot_num="1" type="itemview" viewmode="icon">
+		</Widget>
+		<Widget frame="8,2,80,84" name="acquired_bg_6" type="image">
+			<Skin name="boardbm_acquire_bg">
+			</Skin>
+		</Widget>
+		<Widget flag="nonclient" frame="19,12,30,30" name="acquired_6" type="static">
+			<Skin name="boardbm_acquire">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="331,73,96,88" name="place_5" type="container">
+		<Widget frame="8,2,80,84" name="place_bg_5" type="image">
+			<Skin name="boardbm_place">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="place_bg_color_5" type="image">
+			<Skin name="boardbm_itemcolor">
+			</Skin>
+		</Widget>
+		<Widget frame="34,27,1,1" name="horse_pos_5" type="static">
+		</Widget>
+		<Widget frame="21,22,26,49" name="horse_shadow_5" type="image">
+			<Skin name="boardbm_horse_shadow">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="horse_spot_5" type="image">
+			<Skin name="boardbm_horse_spot">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="2" cell_space="1,1" frame="26,20,44,44" item_height="44" item_width="44" name="reward_item_5" one_click_action="False" preset="boardbm_itemview" reserve_slots="False" scroll_type="hidden" slot_num="1" type="itemview" viewmode="icon">
+		</Widget>
+		<Widget frame="8,2,80,84" name="acquired_bg_5" type="image">
+			<Skin name="boardbm_acquire_bg">
+			</Skin>
+		</Widget>
+		<Widget flag="nonclient" frame="19,12,30,30" name="acquired_5" type="static">
+			<Skin name="boardbm_acquire">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="272,73,96,88" name="place_4" type="container">
+		<Widget frame="8,2,80,84" name="place_bg_4" type="image">
+			<Skin name="boardbm_place">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="place_bg_color_4" type="image">
+			<Skin name="boardbm_itemcolor">
+			</Skin>
+		</Widget>
+		<Widget frame="34,27,1,1" name="horse_pos_4" type="static">
+		</Widget>
+		<Widget frame="21,22,26,49" name="horse_shadow_4" type="image">
+			<Skin name="boardbm_horse_shadow">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="horse_spot_4" type="image">
+			<Skin name="boardbm_horse_spot">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="2" cell_space="1,1" frame="26,20,44,44" item_height="44" item_width="44" name="reward_item_4" one_click_action="False" preset="boardbm_itemview" reserve_slots="False" scroll_type="hidden" slot_num="1" type="itemview" viewmode="icon">
+		</Widget>
+		<Widget frame="8,2,80,84" name="acquired_bg_4" type="image">
+			<Skin name="boardbm_acquire_bg">
+			</Skin>
+		</Widget>
+		<Widget flag="nonclient" frame="19,12,30,30" name="acquired_4" type="static">
+			<Skin name="boardbm_acquire">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="213,73,96,88" name="place_3" type="container">
+		<Widget frame="8,2,80,84" name="place_bg_3" type="image">
+			<Skin name="boardbm_place">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="place_bg_color_3" type="image">
+			<Skin name="boardbm_itemcolor">
+			</Skin>
+		</Widget>
+		<Widget frame="34,27,1,1" name="horse_pos_3" type="static">
+		</Widget>
+		<Widget frame="21,22,26,49" name="horse_shadow_3" type="image">
+			<Skin name="boardbm_horse_shadow">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="horse_spot_3" type="image">
+			<Skin name="boardbm_horse_spot">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="2" cell_space="1,1" frame="26,20,44,44" item_height="44" item_width="44" name="reward_item_3" one_click_action="False" preset="boardbm_itemview" reserve_slots="False" scroll_type="hidden" slot_num="1" type="itemview" viewmode="icon">
+		</Widget>
+		<Widget frame="8,2,80,84" name="acquired_bg_3" type="image">
+			<Skin name="boardbm_acquire_bg">
+			</Skin>
+		</Widget>
+		<Widget flag="nonclient" frame="19,12,30,30" name="acquired_3" type="static">
+			<Skin name="boardbm_acquire">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="154,73,96,88" name="place_2" type="container">
+		<Widget frame="8,2,80,84" name="place_bg_2" type="image">
+			<Skin name="boardbm_place">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="place_bg_color_2" type="image">
+			<Skin name="boardbm_itemcolor">
+			</Skin>
+		</Widget>
+		<Widget frame="34,27,1,1" name="horse_pos_2" type="static">
+		</Widget>
+		<Widget frame="21,22,26,49" name="horse_shadow_2" type="image">
+			<Skin name="boardbm_horse_shadow">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="horse_spot_2" type="image">
+			<Skin name="boardbm_horse_spot">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="2" cell_space="1,1" frame="26,20,44,44" item_height="44" item_width="44" name="reward_item_2" one_click_action="False" preset="boardbm_itemview" reserve_slots="False" scroll_type="hidden" slot_num="1" type="itemview" viewmode="icon">
+		</Widget>
+		<Widget frame="8,2,80,84" name="acquired_bg_2" type="image">
+			<Skin name="boardbm_acquire_bg">
+			</Skin>
+		</Widget>
+		<Widget flag="nonclient" frame="19,12,30,30" name="acquired_2" type="static">
+			<Skin name="boardbm_acquire">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="95,73,96,88" name="place_1" type="container">
+		<Widget frame="8,2,80,84" name="place_bg_1" type="image">
+			<Skin name="boardbm_place">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="place_bg_color_1" type="image">
+			<Skin name="boardbm_itemcolor">
+			</Skin>
+		</Widget>
+		<Widget frame="34,27,1,1" name="horse_pos_1" type="static">
+		</Widget>
+		<Widget frame="21,22,26,49" name="horse_shadow_1" type="image">
+			<Skin name="boardbm_horse_shadow">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="horse_spot_1" type="image">
+			<Skin name="boardbm_horse_spot">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="2" cell_space="1,1" frame="26,20,44,44" item_height="44" item_width="44" name="reward_item_1" one_click_action="False" preset="boardbm_itemview" reserve_slots="False" scroll_type="hidden" slot_num="1" type="itemview" viewmode="icon">
+		</Widget>
+		<Widget frame="8,2,80,84" name="acquired_bg_1" type="image">
+			<Skin name="boardbm_acquire_bg">
+			</Skin>
+		</Widget>
+		<Widget flag="nonclient" frame="19,12,30,30" name="acquired_1" type="static">
+			<Skin name="boardbm_acquire">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="95,133,96,88" name="place_30" type="container">
+		<Widget frame="8,2,80,84" name="place_bg_30" type="image">
+			<Skin name="boardbm_place">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="place_bg_color_30" type="image">
+			<Skin name="boardbm_itemcolor">
+			</Skin>
+		</Widget>
+		<Widget frame="34,27,1,1" name="horse_pos_30" type="static">
+		</Widget>
+		<Widget frame="21,22,26,49" name="horse_shadow_30" type="image">
+			<Skin name="boardbm_horse_shadow">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="horse_spot_30" type="image">
+			<Skin name="boardbm_horse_spot">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="2" cell_space="1,1" frame="26,20,44,44" item_height="44" item_width="44" name="reward_item_30" one_click_action="False" preset="boardbm_itemview" reserve_slots="False" scroll_type="hidden" slot_num="1" type="itemview" viewmode="icon">
+		</Widget>
+		<Widget frame="8,2,80,84" name="acquired_bg_30" type="image">
+			<Skin name="boardbm_acquire_bg">
+			</Skin>
+		</Widget>
+		<Widget flag="nonclient" frame="19,12,30,30" name="acquired_30" type="static">
+			<Skin name="boardbm_acquire">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="95,193,96,88" name="place_29" type="container">
+		<Widget frame="8,2,80,84" name="place_bg_29" type="image">
+			<Skin name="boardbm_place">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="place_bg_color_29" type="image">
+			<Skin name="boardbm_itemcolor">
+			</Skin>
+		</Widget>
+		<Widget frame="34,27,1,1" name="horse_pos_29" type="static">
+		</Widget>
+		<Widget frame="21,22,26,49" name="horse_shadow_29" type="image">
+			<Skin name="boardbm_horse_shadow">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="horse_spot_29" type="image">
+			<Skin name="boardbm_horse_spot">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="2" cell_space="1,1" frame="26,20,44,44" item_height="44" item_width="44" name="reward_item_29" one_click_action="False" preset="boardbm_itemview" reserve_slots="False" scroll_type="hidden" slot_num="1" type="itemview" viewmode="icon">
+		</Widget>
+		<Widget frame="8,2,80,84" name="acquired_bg_29" type="image">
+			<Skin name="boardbm_acquire_bg">
+			</Skin>
+		</Widget>
+		<Widget flag="nonclient" frame="19,12,30,30" name="acquired_29" type="static">
+			<Skin name="boardbm_acquire">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="95,253,96,88" name="place_28" type="container">
+		<Widget frame="8,2,80,84" name="place_bg_28" type="image">
+			<Skin name="boardbm_place">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="place_bg_color_28" type="image">
+			<Skin name="boardbm_itemcolor">
+			</Skin>
+		</Widget>
+		<Widget frame="34,27,1,1" name="horse_pos_28" type="static">
+		</Widget>
+		<Widget frame="21,22,26,49" name="horse_shadow_28" type="image">
+			<Skin name="boardbm_horse_shadow">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="horse_spot_28" type="image">
+			<Skin name="boardbm_horse_spot">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="2" cell_space="1,1" frame="26,20,44,44" item_height="44" item_width="44" name="reward_item_28" one_click_action="False" preset="boardbm_itemview" reserve_slots="False" scroll_type="hidden" slot_num="1" type="itemview" viewmode="icon">
+		</Widget>
+		<Widget frame="8,2,80,84" name="acquired_bg_28" type="image">
+			<Skin name="boardbm_acquire_bg">
+			</Skin>
+		</Widget>
+		<Widget flag="nonclient" frame="19,12,30,30" name="acquired_28" type="static">
+			<Skin name="boardbm_acquire">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="95,313,96,88" name="place_27" type="container">
+		<Widget frame="8,2,80,84" name="place_bg_27" type="image">
+			<Skin name="boardbm_place">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="place_bg_color_27" type="image">
+			<Skin name="boardbm_itemcolor">
+			</Skin>
+		</Widget>
+		<Widget frame="34,27,1,1" name="horse_pos_27" type="static">
+		</Widget>
+		<Widget frame="21,22,26,49" name="horse_shadow_27" type="image">
+			<Skin name="boardbm_horse_shadow">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="horse_spot_27" type="image">
+			<Skin name="boardbm_horse_spot">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="2" cell_space="1,1" frame="26,20,44,44" item_height="44" item_width="44" name="reward_item_27" one_click_action="False" preset="boardbm_itemview" reserve_slots="False" scroll_type="hidden" slot_num="1" type="itemview" viewmode="icon">
+		</Widget>
+		<Widget frame="8,2,80,84" name="acquired_bg_27" type="image">
+			<Skin name="boardbm_acquire_bg">
+			</Skin>
+		</Widget>
+		<Widget flag="nonclient" frame="19,12,30,30" name="acquired_27" type="static">
+			<Skin name="boardbm_acquire">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="95,373,96,88" name="place_26" type="container">
+		<Widget frame="8,2,80,84" name="place_bg_26" type="image">
+			<Skin name="boardbm_place">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="place_bg_color_26" type="image">
+			<Skin name="boardbm_itemcolor">
+			</Skin>
+		</Widget>
+		<Widget frame="34,27,1,1" name="horse_pos_26" type="static">
+		</Widget>
+		<Widget frame="21,22,26,49" name="horse_shadow_26" type="image">
+			<Skin name="boardbm_horse_shadow">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="horse_spot_26" type="image">
+			<Skin name="boardbm_horse_spot">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="2" cell_space="1,1" frame="26,20,44,44" item_height="44" item_width="44" name="reward_item_26" one_click_action="False" preset="boardbm_itemview" reserve_slots="False" scroll_type="hidden" slot_num="1" type="itemview" viewmode="icon">
+		</Widget>
+		<Widget frame="8,2,80,84" name="acquired_bg_26" type="image">
+			<Skin name="boardbm_acquire_bg">
+			</Skin>
+		</Widget>
+		<Widget flag="nonclient" frame="19,12,30,30" name="acquired_26" type="static">
+			<Skin name="boardbm_acquire">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="95,433,96,88" name="place_25" type="container">
+		<Widget frame="8,2,80,84" name="place_bg_25" type="image">
+			<Skin name="boardbm_place">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="place_bg_color_25" type="image">
+			<Skin name="boardbm_itemcolor">
+			</Skin>
+		</Widget>
+		<Widget frame="34,27,1,1" name="horse_pos_25" type="static">
+		</Widget>
+		<Widget frame="21,22,26,49" name="horse_shadow_25" type="image">
+			<Skin name="boardbm_horse_shadow">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="horse_spot_25" type="image">
+			<Skin name="boardbm_horse_spot">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="2" cell_space="1,1" frame="26,20,44,44" item_height="44" item_width="44" name="reward_item_25" one_click_action="False" preset="boardbm_itemview" reserve_slots="False" scroll_type="hidden" slot_num="1" type="itemview" viewmode="icon">
+		</Widget>
+		<Widget frame="8,2,80,84" name="acquired_bg_25" type="image">
+			<Skin name="boardbm_acquire_bg">
+			</Skin>
+		</Widget>
+		<Widget flag="nonclient" frame="19,12,30,30" name="acquired_25" type="static">
+			<Skin name="boardbm_acquire">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="154,433,96,88" name="place_24" type="container">
+		<Widget frame="8,2,80,84" name="place_bg_24" type="image">
+			<Skin name="boardbm_place">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="place_bg_color_24" type="image">
+			<Skin name="boardbm_itemcolor">
+			</Skin>
+		</Widget>
+		<Widget frame="34,27,1,1" name="horse_pos_24" type="static">
+		</Widget>
+		<Widget frame="21,22,26,49" name="horse_shadow_24" type="image">
+			<Skin name="boardbm_horse_shadow">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="horse_spot_24" type="image">
+			<Skin name="boardbm_horse_spot">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="2" cell_space="1,1" frame="26,20,44,44" item_height="44" item_width="44" name="reward_item_24" one_click_action="False" preset="boardbm_itemview" reserve_slots="False" scroll_type="hidden" slot_num="1" type="itemview" viewmode="icon">
+		</Widget>
+		<Widget frame="8,2,80,84" name="acquired_bg_24" type="image">
+			<Skin name="boardbm_acquire_bg">
+			</Skin>
+		</Widget>
+		<Widget flag="nonclient" frame="19,12,30,30" name="acquired_24" type="static">
+			<Skin name="boardbm_acquire">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="213,433,96,88" name="place_23" type="container">
+		<Widget frame="8,2,80,84" name="place_bg_23" type="image">
+			<Skin name="boardbm_place">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="place_bg_color_23" type="image">
+			<Skin name="boardbm_itemcolor">
+			</Skin>
+		</Widget>
+		<Widget frame="34,27,1,1" name="horse_pos_23" type="static">
+		</Widget>
+		<Widget frame="21,22,26,49" name="horse_shadow_23" type="image">
+			<Skin name="boardbm_horse_shadow">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="horse_spot_23" type="image">
+			<Skin name="boardbm_horse_spot">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="2" cell_space="1,1" frame="26,20,44,44" item_height="44" item_width="44" name="reward_item_23" one_click_action="False" preset="boardbm_itemview" reserve_slots="False" scroll_type="hidden" slot_num="1" type="itemview" viewmode="icon">
+		</Widget>
+		<Widget frame="8,2,80,84" name="acquired_bg_23" type="image">
+			<Skin name="boardbm_acquire_bg">
+			</Skin>
+		</Widget>
+		<Widget flag="nonclient" frame="19,12,30,30" name="acquired_23" type="static">
+			<Skin name="boardbm_acquire">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="272,433,96,88" name="place_22" type="container">
+		<Widget frame="8,2,80,84" name="place_bg_22" type="image">
+			<Skin name="boardbm_place">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="place_bg_color_22" type="image">
+			<Skin name="boardbm_itemcolor">
+			</Skin>
+		</Widget>
+		<Widget frame="34,27,1,1" name="horse_pos_22" type="static">
+		</Widget>
+		<Widget frame="21,22,26,49" name="horse_shadow_22" type="image">
+			<Skin name="boardbm_horse_shadow">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="horse_spot_22" type="image">
+			<Skin name="boardbm_horse_spot">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="2" cell_space="1,1" frame="26,20,44,44" item_height="44" item_width="44" name="reward_item_22" one_click_action="False" preset="boardbm_itemview" reserve_slots="False" scroll_type="hidden" slot_num="1" type="itemview" viewmode="icon">
+		</Widget>
+		<Widget frame="8,2,80,84" name="acquired_bg_22" type="image">
+			<Skin name="boardbm_acquire_bg">
+			</Skin>
+		</Widget>
+		<Widget flag="nonclient" frame="19,12,30,30" name="acquired_22" type="static">
+			<Skin name="boardbm_acquire">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="331,433,96,88" name="place_21" type="container">
+		<Widget frame="8,2,80,84" name="place_bg_21" type="image">
+			<Skin name="boardbm_place">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="place_bg_color_21" type="image">
+			<Skin name="boardbm_itemcolor">
+			</Skin>
+		</Widget>
+		<Widget frame="34,27,1,1" name="horse_pos_21" type="static">
+		</Widget>
+		<Widget frame="21,22,26,49" name="horse_shadow_21" type="image">
+			<Skin name="boardbm_horse_shadow">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="horse_spot_21" type="image">
+			<Skin name="boardbm_horse_spot">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="2" cell_space="1,1" frame="26,20,44,44" item_height="44" item_width="44" name="reward_item_21" one_click_action="False" preset="boardbm_itemview" reserve_slots="False" scroll_type="hidden" slot_num="1" type="itemview" viewmode="icon">
+		</Widget>
+		<Widget frame="8,2,80,84" name="acquired_bg_21" type="image">
+			<Skin name="boardbm_acquire_bg">
+			</Skin>
+		</Widget>
+		<Widget flag="nonclient" frame="19,12,30,30" name="acquired_21" type="static">
+			<Skin name="boardbm_acquire">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="390,433,96,88" name="place_20" type="container">
+		<Widget frame="8,2,80,84" name="place_bg_20" type="image">
+			<Skin name="boardbm_place">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="place_bg_color_20" type="image">
+			<Skin name="boardbm_itemcolor">
+			</Skin>
+		</Widget>
+		<Widget frame="34,27,1,1" name="horse_pos_20" type="static">
+		</Widget>
+		<Widget frame="21,22,26,49" name="horse_shadow_20" type="image">
+			<Skin name="boardbm_horse_shadow">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="horse_spot_20" type="image">
+			<Skin name="boardbm_horse_spot">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="2" cell_space="1,1" frame="26,20,44,44" item_height="44" item_width="44" name="reward_item_20" one_click_action="False" preset="boardbm_itemview" reserve_slots="False" scroll_type="hidden" slot_num="1" type="itemview" viewmode="icon">
+		</Widget>
+		<Widget frame="8,2,80,84" name="acquired_bg_20" type="image">
+			<Skin name="boardbm_acquire_bg">
+			</Skin>
+		</Widget>
+		<Widget flag="nonclient" frame="19,12,30,30" name="acquired_20" type="static">
+			<Skin name="boardbm_acquire">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="449,433,96,88" name="place_19" type="container">
+		<Widget frame="8,2,80,84" name="place_bg_19" type="image">
+			<Skin name="boardbm_place">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="place_bg_color_19" type="image">
+			<Skin name="boardbm_itemcolor">
+			</Skin>
+		</Widget>
+		<Widget frame="34,27,1,1" name="horse_pos_19" type="static">
+		</Widget>
+		<Widget frame="21,22,26,49" name="horse_shadow_19" type="image">
+			<Skin name="boardbm_horse_shadow">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="horse_spot_19" type="image">
+			<Skin name="boardbm_horse_spot">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="2" cell_space="1,1" frame="26,20,44,44" item_height="44" item_width="44" name="reward_item_19" one_click_action="False" preset="boardbm_itemview" reserve_slots="False" scroll_type="hidden" slot_num="1" type="itemview" viewmode="icon">
+		</Widget>
+		<Widget frame="8,2,80,84" name="acquired_bg_19" type="image">
+			<Skin name="boardbm_acquire_bg">
+			</Skin>
+		</Widget>
+		<Widget flag="nonclient" frame="19,12,30,30" name="acquired_19" type="static">
+			<Skin name="boardbm_acquire">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="508,433,96,88" name="place_18" type="container">
+		<Widget frame="8,2,80,84" name="place_bg_18" type="image">
+			<Skin name="boardbm_place">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="place_bg_color_18" type="image">
+			<Skin name="boardbm_itemcolor">
+			</Skin>
+		</Widget>
+		<Widget frame="34,27,1,1" name="horse_pos_18" type="static">
+		</Widget>
+		<Widget frame="21,22,26,49" name="horse_shadow_18" type="image">
+			<Skin name="boardbm_horse_shadow">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="horse_spot_18" type="image">
+			<Skin name="boardbm_horse_spot">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="2" cell_space="1,1" frame="26,20,44,44" item_height="44" item_width="44" name="reward_item_18" one_click_action="False" preset="boardbm_itemview" reserve_slots="False" scroll_type="hidden" slot_num="1" type="itemview" viewmode="icon">
+		</Widget>
+		<Widget frame="8,2,80,84" name="acquired_bg_18" type="image">
+			<Skin name="boardbm_acquire_bg">
+			</Skin>
+		</Widget>
+		<Widget flag="nonclient" frame="19,12,30,30" name="acquired_18" type="static">
+			<Skin name="boardbm_acquire">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="567,433,96,88" name="place_17" type="container">
+		<Widget frame="8,2,80,84" name="place_bg_17" type="image">
+			<Skin name="boardbm_place">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="place_bg_color_17" type="image">
+			<Skin name="boardbm_itemcolor">
+			</Skin>
+		</Widget>
+		<Widget frame="34,27,1,1" name="horse_pos_17" type="static">
+		</Widget>
+		<Widget frame="21,22,26,49" name="horse_shadow_17" type="image">
+			<Skin name="boardbm_horse_shadow">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="horse_spot_17" type="image">
+			<Skin name="boardbm_horse_spot">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="2" cell_space="1,1" frame="26,20,44,44" item_height="44" item_width="44" name="reward_item_17" one_click_action="False" preset="boardbm_itemview" reserve_slots="False" scroll_type="hidden" slot_num="1" type="itemview" viewmode="icon">
+		</Widget>
+		<Widget frame="8,2,80,84" name="acquired_bg_17" type="image">
+			<Skin name="boardbm_acquire_bg">
+			</Skin>
+		</Widget>
+		<Widget flag="nonclient" frame="19,12,30,30" name="acquired_17" type="static">
+			<Skin name="boardbm_acquire">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="626,433,96,88" name="place_16" type="container">
+		<Widget frame="8,2,80,84" name="place_bg_16" type="image">
+			<Skin name="boardbm_place">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="place_bg_color_16" type="image">
+			<Skin name="boardbm_itemcolor">
+			</Skin>
+		</Widget>
+		<Widget frame="34,27,1,1" name="horse_pos_16" type="static">
+		</Widget>
+		<Widget frame="21,22,26,49" name="horse_shadow_16" type="image">
+			<Skin name="boardbm_horse_shadow">
+			</Skin>
+		</Widget>
+		<Widget frame="8,2,80,84" name="horse_spot_16" type="image">
+			<Skin name="boardbm_horse_spot">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="2" cell_space="1,1" frame="26,20,44,44" item_height="44" item_width="44" name="reward_item_16" one_click_action="False" preset="boardbm_itemview" reserve_slots="False" scroll_type="hidden" slot_num="1" type="itemview" viewmode="icon">
+		</Widget>
+		<Widget frame="8,2,80,84" name="acquired_bg_16" type="image">
+			<Skin name="boardbm_acquire_bg">
+			</Skin>
+		</Widget>
+		<Widget flag="nonclient" frame="19,12,30,30" name="acquired_16" type="static">
+			<Skin name="boardbm_acquire">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="51,182,34,50" name="horse" type="static">
+		<Skin name="boardbm_horse">
+		</Skin>
+	</Widget>
+	<Widget frame="378,256,238,214" name="dice_sprite" type="button">
+	</Widget>
+	<Widget font_size="40" frame="356,147,104,104" h_pos_align="center" halign="center" name="dice_result" padding="3,0" text_color="0.1294,0.102,0.0313,1.0" type="static" v_pos_align="middle" valign="middle">
+		<Skin name="boardbm_dice_result">
+		</Skin>
+	</Widget>
+	<Widget flag="not_visible" frame="0,177,833,165" group="reward" name="reward_front" preset="luna_container2" type="container">
+		<Widget font_size="15" frame="0,111,833,25" h_pos_align="center" halign="center" name="reward_front_name" padding="3,0" text="STR_SELL_DISUSE_ITEM_DIALOG" text_color="0.7529,0.6745,0.4039,1.0" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+		<Widget frame="394,44,44,44" name="reward_front_fx" type="static">
+		</Widget>
+		<Widget cell_padding="2" cell_space="1,1" frame="394,44,44,44" item_height="66" item_width="66" name="reward_front_item" one_click_action="False" preset="boardbm_itemview" reserve_slots="False" scroll_type="hidden" slot_num="1" type="itemview" viewmode="icon">
+		</Widget>
+	</Widget>
+</Dialog>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="task" close_offset="4,1" close_preset="v5_close" flag="close;title" frame="15,130,327,417" last_modified="2017-09-25 21:22:53" name="shop_buy_dialog" preset="v5_dialog" prev_html="True" shadow_offset="8,8" title_align="center" title_frame="3,3,297,14" title_height="25" title_offset="0,5" title_text="STR_TRADE_DIALOG" type="dlg_buy">
+	<Widget frame="10,5,297,334" name="slot_bg" preset="v5_staticbox10" type="image">
+	</Widget>
+	<Widget cell_padding="2" flag="wordwrap" frame="21,17,68,68" item_height="64" item_width="64" name="item_slot" preset="v5_itemview" type="itemview">
+	</Widget>
+	<Widget font="ui_default" frame="96,39,171,23" halign="center" name="name_txt" padding="2,0" type="static">
+	</Widget>
+	<Widget font="ui_default" frame="142,106,105,23" halign="center" name="item_cnt" padding="2,0" type="static">
+	</Widget>
+	<Widget font="ui_default" frame="143,192,93,24" halign="center" name="cost_txt" padding="2,0" type="static">
+	</Widget>
+	<Widget font="ui_default" frame="111,235,93,24" halign="center" name="cost_sum_txt" padding="2,0" type="static">
+	</Widget>
+	<Widget defbutton="False" font="ui_default" frame="92,352,68,24" name="buy_btn" preset="v5_button" text="STR_TRADE_DIALOG__BUY" type="button" v_pos_align="bottom" valign="middle">
+	</Widget>
+	<Widget font="ui_default" frame="163,352,68,24" name="cancel" preset="v5_button" text="STR_TRADE_DIALOG__CANCEL" type="button" v_pos_align="bottom" valign="middle">
+	</Widget>
+</Dialog>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="left" close_offset="4,1" close_preset="v5_close" flag="close;title" frame="839,210,406,512" last_modified="2014-09-25 17:38:21" name="skill_etc_dialog" preset="v5_dialog" shadow_offset="8,8" title_align="center" title_frame="3,3,59,14" title_height="25" title_offset="0,5" title_text="STR_SKILL_ETC_DIALOG" type="dlg_skill_etc">
+	<Widget anim_style="none" frame="0,0,400,482" h_pos_align="proportion" name="tabsheet" type="tabsheet" v_pos_align="proportion">
+		<Widget btn_move_anim="False" frame="0,0,400,25" h_pos_align="proportion" name="tab" preset="v5_tab" tab_frame="0,0,405,25" tab_offset="6,0" tab_space="0" type="tab">
+			<Widget font="ui_default" frame="0,0,60,25" halign="center" name="skill_tab_action" preset="v5_tabbutton" text="STR_SKILL_DIALOG__TABFRAME_SKILL_TAB_ACTION" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="60,0,60,25" halign="center" name="skill_tab_sign" preset="v5_tabbutton" text="STR_SKILL_DIALOG__TAB_SIGN" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="120,0,60,25" halign="center" name="skill_tab_produce" preset="v5_tabbutton" text="STR_SKILL_DIALOG__TABFRAME_SKILL_TAB_PRODUCE" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="179,0,60,25" halign="center" name="skill_tab_social" preset="v5_tabbutton" text="STR_SKILL_DIALOG__TABFRAME_SKILL_TAB_SOCIAL" type="tabbutton">
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,400,457" h_pos_align="proportion" name="page_action" preset="v5_tabpage2" type="tabpage" v_pos_align="proportion">
+			<Widget cell_padding="2" cell_space="0,0" flag="vscroll" font="ui_list" frame="0,1,400,446" h_pos_align="proportion" item_height="44" item_width="44" list_padding="3,3" name="pseudo_skill_list" preset="v5_listview_frame" scroll_type="visible" skin_type="version5" slot_num="20" split_num="2" type="listview" v_pos_align="proportion" viewmode="detail">
+				<Column align="" title="" width="1000">
+				</Column>
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,400,457" h_pos_align="proportion" name="page_sign" preset="v5_tabpage2" type="tabpage" v_pos_align="proportion">
+			<Widget cell_padding="2" cell_space="0,0" flag="vscroll" font="ui_list" frame="0,1,400,446" h_pos_align="proportion" item_height="44" item_width="44" list_padding="3,3" name="sign_skill_list" preset="v5_listview_frame" scroll_type="visible" skin_type="version5" slot_num="20" split_num="2" type="listview" v_pos_align="proportion" viewmode="detail">
+				<Column align="" title="" width="1000">
+				</Column>
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,400,457" h_pos_align="proportion" name="page_produce" preset="v5_tabpage2" type="tabpage" v_pos_align="proportion">
+			<Widget cell_padding="2" cell_space="0,0" flag="vscroll" font="ui_list" frame="0,1,400,446" h_pos_align="proportion" item_height="44" item_width="44" list_padding="3,3" name="produce_skill_list" preset="v5_listview_frame" scroll_type="visible" skin_type="version5" slot_num="10" type="listview" v_pos_align="proportion" viewmode="detail">
+				<Column align="" title="" width="1000">
+				</Column>
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,400,457" h_pos_align="proportion" name="page_social" preset="v5_tabpage2" type="tabpage" v_pos_align="proportion">
+			<Widget cell_padding="2" cell_space="0,0" flag="vscroll" font="ui_list" frame="0,1,400,446" h_pos_align="proportion" item_height="44" item_width="44" list_padding="3,3" name="social_skill_list" preset="v5_listview_frame" scroll_type="visible" skin_type="version5" slot_num="20" split_num="2" type="listview" v_pos_align="proportion" viewmode="detail">
+				<Column align="" title="" width="1000">
+				</Column>
+			</Widget>
+		</Widget>
+	</Widget>
+</Dialog>

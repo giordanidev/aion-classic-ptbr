@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="left" close_offset="4,1" close_preset="v5_close" flag="close;title" frame="854,145,406,376" last_modified="2017-05-23 16:45:25" name="indun_cooltime_reset_dialog" preset="v5_dialog2" shadow_offset="8,8" title_align="center" title_frame="3,3,194,14" title_height="25" title_offset="0,5" type="dlg_indun_cooltime_reset">
+	<Widget column_heading="True" flag="truncate;vscroll" font="ui_list" frame="5,28,390,283" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="my_cooltime_list" preset="v5_listview_ex" scroll_type="visible" skin_type="version5" type="listviewex">
+		<Column align="left" img_width="" sample_text="" sort="text" title="STR_INDUN_COOLTIME_DIALOG__INDUN_NAME" width="160">
+		</Column>
+		<Column align="center" img_width="" sort="number" title="STR_INDUN_COOLTIME_DIALOG__INDUN_MAX_MEMBER" width="60">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="param" title="STR_INDUN_COOLTIME_DIALOG__INDUN_ENTER_LEVEL" width="60">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="param" title="STR_INDUN_COOLTIME_DIALOG__INDUN_ENTER_DELAY_TIME" width="92">
+		</Column>
+		<Column align="left" img_width="" sample_text="" sort="param" title="0" width="0">
+		</Column>
+	</Widget>
+	<Widget font="ui_default" frame="5,3,390,27" padding="5,0" text="STR_INDUN_COOLTIME_RESET_DIALOG__DESC" type="static">
+	</Widget>
+	<Widget font="ui_default" frame="261,319,68,24" name="reset_cooltime" preset="v5_button" text="STR_INDUN_COOLTIME_RESET_DIALOG__CONFIRM" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="330,319,68,24" name="cancel" preset="v5_button" text="STR_DLG_DIALOG__CLOSE" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

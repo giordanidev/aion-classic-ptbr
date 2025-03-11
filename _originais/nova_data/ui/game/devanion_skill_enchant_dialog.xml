@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="close;title" frame="0,0,408,632" last_modified="2018-08-29 19:23:52" name="devanion_skill_enchant_dialog" preset="v5_dialog" title_frame="3,3,398,14" title_offset="9,1" title_text="STR_DEVANIONSKILLENCHANT_DIALOG" type="dlg_devanion_skill_enchant">
+	<Widget flag="nonclient" frame="3,54,402,562" group="bg" preset="devanion_skill_enchant_bg" type="image" v_pos_align="proportion">
+	</Widget>
+	<Widget frame="0,0,402,610" h_pos_align="proportion" name="tabsheet" type="tabsheet" v_pos_align="proportion">
+		<Widget btn_move_anim="False" frame="0,0,402,25" h_pos_align="proportion" preset="v5_tab" tab_offset="0,0" tab_space="0" type="tab" v_pos_align="top">
+			<Widget font="ui_default" frame="0,0,185,25" name="devanion_skill_enchant" preset="v5_tabbutton" text="STR_DEVANIONSKILLENCHANT_REINFORCE_TAB" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="185,0,185,25" name="devanion_skill_compose" preset="v5_tabbutton" text="STR_DEVANIONSKILLENCHANT_COMPOSE_TAB" type="tabbutton">
+			</Widget>
+		</Widget>
+		<Widget frame="0,24,402,585" h_pos_align="proportion" name="devanion_skill_enchant_page" preset="v4_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget frame="37,12,328,234" name="target_bg" preset="enchant_all_target" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="37,12,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget frame="172,180,58,58" name="tool_slot_bg" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget frame="181,190,40,40" name="tool_slot_icon" preset="devanion_skill_enchant_skill_book_slot" type="image">
+			</Widget>
+			<Widget frame="172,262,58,58" name="assist_slot_bg" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget frame="181,271,40,40" name="assist_slot_icon" preset="enchant_all_tool_enchant" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="141,12,120,20" halign="center" name="target_title" text="STR_DEVANIONSKILLENCHANT_REINFORCE_SLOT_TARGET" type="static">
+			</Widget>
+			<Widget frame="179,94,44,44" name="target_skill_fx" type="image">
+			</Widget>
+			<Widget frame="181,94,40,40" name="target_slot_icon" preset="devanion_skill_enchant_skill_slot" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="179,92,44,44" group="itemview" item_height="44" item_width="44" name="target_skill" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" tooltip="STR_DEVANIONSKILLENCHANT_REINFORCE_SLOT_TARGET_TOOLTIP" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="62,60,279,20" halign="center" name="target_skill_name" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="179,188,44,44" group="itemview" item_height="44" item_width="44" name="tool_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" tooltip="STR_DEVANIONSKILLENCHANT_REINFORCE_SLOT_MATERIALORIGINAL_TOOLTIP" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="enchant_all_default" frame="32,199,120,20" halign="right" name="tool_title" text="STR_DEVANIONSKILLENCHANT_REINFORCE_SLOT_MATERIALORIGINAL" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="179,188,44,44" group="fx" item_height="44" item_width="44" name="tool_item_fx" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="179,269,44,44" group="itemview" item_height="44" item_width="44" name="assist_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="enchant_all_default" frame="32,279,120,20" halign="right" name="assist_title" text="STR_DEVANIONSKILLENCHANT_REINFORCE_SLOT_MATERIALSPECIAL" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="179,269,44,44" group="fx" item_height="44" item_width="44" name="assist_item_fx" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="enchant_all_default" frame="74,334,113,23" halign="right" padding="2,0" text="STR_DEVANIONSKILLENCHANT_ENCHANT_GOLD_STR" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="74,359,113,23" halign="right" padding="2,0" text="STR_DEVANIONSKILLENCHANT_REINFORCE_FEE_STR" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="192,334,202,22" halign="right" name="my_money_enchant" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="192,359,202,22" halign="right" name="cost_enchant" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget flag="vscroll;multiline;wordwrap" font="enchant_all_result" font_size="12" frame="8,387,386,125" name="enchant_info" padding="10,10" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" text="STR_DEVANIONSKILLENCHANT_REINFORCE_INFO" type="static" valign="top">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="59,500,285,69" fx_offset="8,20" fx_size="47,31" name="do_enchant" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG__OK_ENCHANT" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="381,6,16,16" name="enchant_tip" tooltip="STR_DEVANIONSKILLENCHANT_REINFORCE_REGIST_TOOLTIP" type="image">
+				<Skin name="help_button_up">
+				</Skin>
+			</Widget>
+		</Widget>
+		<Widget frame="0,24,402,585" h_pos_align="proportion" name="devanion_skill_compose_page" preset="v4_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget frame="37,66,328,234" name="target_bg" preset="enchant_all_target" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="37,66,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget frame="181,148,40,40" name="result_slot_icon" preset="devanion_skill_enchant_compose_result_slot" type="image">
+			</Widget>
+			<Widget frame="97,63,58,58" name="compose_mat_bg_0" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget frame="106,72,40,40" name="compose_mat_icon_0" preset="devanion_skill_enchant_skill_book_slot" type="image">
+			</Widget>
+			<Widget frame="247,63,58,58" name="compose_mat_bg_1" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget frame="256,72,40,40" name="compose_mat_icon_1" preset="devanion_skill_enchant_skill_book_slot" type="image">
+			</Widget>
+			<Widget frame="247,215,58,58" name="compose_mat_bg_2" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget frame="256,224,40,40" name="compose_mat_icon_2" preset="devanion_skill_enchant_skill_book_slot" type="image">
+			</Widget>
+			<Widget frame="97,215,58,58" name="compose_mat_bg_3" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget frame="106,224,40,40" name="compose_mat_icon_3" preset="devanion_skill_enchant_skill_book_slot" type="image">
+			</Widget>
+			<Widget frame="179,148,44,44" name="result_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="179,146,44,44" group="itemview" item_height="44" item_width="44" name="result_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" tooltip="STR_DEVANIONSKILLENCHANT_COMPOSE_SLOT_TARGET_TOOLTIP" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="131,118,140,20" halign="center" name="result_item_name" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="104,70,44,44" group="itemview" item_height="44" item_width="44" name="compose_mat_0" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" tooltip="STR_DEVANIONSKILLENCHANT_COMPOSE_SLOT_MATERIALORIGINAL_TOOLTIP" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="104,70,44,44" group="fx" item_height="44" item_width="44" name="compose_mat_fx_0" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="254,70,44,44" group="itemview" item_height="44" item_width="44" name="compose_mat_1" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" tooltip="STR_DEVANIONSKILLENCHANT_COMPOSE_SLOT_MATERIALORIGINAL_TOOLTIP" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="254,70,44,44" group="fx" item_height="44" item_width="44" name="compose_mat_fx_1" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="254,222,44,44" group="itemview" item_height="44" item_width="44" name="compose_mat_2" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" tooltip="STR_DEVANIONSKILLENCHANT_COMPOSE_SLOT_MATERIALORIGINAL_TOOLTIP" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="254,222,44,44" group="fx" item_height="44" item_width="44" name="compose_mat_fx_2" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="104,222,44,44" group="itemview" item_height="44" item_width="44" name="compose_mat_3" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" tooltip="STR_DEVANIONSKILLENCHANT_COMPOSE_SLOT_MATERIALORIGINAL_TOOLTIP" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="104,222,44,44" group="fx" item_height="44" item_width="44" name="compose_mat_fx_3" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget flag="vscroll;multiline;wordwrap" font="enchant_all_result" font_size="12" frame="8,387,386,125" name="compose_info" padding="10,10" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" text="STR_DEVANIONSKILLENCHANT_COMPOSE_INFO" type="static" valign="top">
+			</Widget>
+			<Widget font="enchant_all_default" frame="74,334,113,23" halign="right" padding="2,0" text="STR_DEVANIONSKILLENCHANT_ENCHANT_GOLD_STR" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="74,359,113,23" halign="right" padding="2,0" text="STR_DEVANIONSKILLENCHANT_COMPOSE_FEE_STR" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="192,334,202,22" halign="right" name="my_money_compose" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="192,359,202,22" halign="right" name="cost_compose" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="59,500,285,69" fx_offset="8,20" fx_size="47,31" name="do_compose" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG__OK_ENCHANT" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="381,6,16,16" name="compose_tip" tooltip="STR_DEVANIONSKILLENCHANT_COMPOSE_REGIST_TOOLTIP" type="image">
+				<Skin name="help_button_up">
+				</Skin>
+			</Widget>
+		</Widget>
+	</Widget>
+</Dialog>

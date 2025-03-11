@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="task" close_offset="4,4" close_preset="v5_attend_close" flag="close;title" frame="100,100,814,595" last_modified="2019-10-14 15:17:12" name="transformbook_dialog" preset="v7_transform_bg_container" shadow_offset="8,8" text_color="1.0,1.0,1.0,1.0" title_align="center" title_frame="3,3,559,14" title_height="25" title_offset="0,12" title_text="STR_TRANSFORMATION_DIALOG" type="dlg_transformbook">
+	<Widget frame="2,10,810,556" name="sheet_option_0" type="tabsheet">
+		<Widget btn_move_anim="False" frame="3,180,178,363" h_pos_align="proportion" tab_align="top" tab_offset="0,2" tab_space="1" type="tab">
+			<Widget font="v3_option_title" font_size="15" frame="0,0,174,54" halign="left" name="tab_profile" preset="v7_transform_category_btn" text="STR_TRANSFORMATION_TAB_PROFILE" text_color="0.4824,0.4824,0.4824,1.0" text_offset="55,0" text_over_color="1.0,1.0,1.0,1.0" text_selected_color="1.0,1.0,1.0,1.0" type="tabbutton">
+			</Widget>
+			<Widget font="v3_option_title" font_size="15" frame="0,54,174,54" halign="left" name="tab_contract" preset="v7_transform_category_btn" text="STR_TRANSFORMATION_TAB_CONTRACT" text_color="0.4824,0.4824,0.4824,1.0" text_offset="55,0" text_over_color="1.0,1.0,1.0,1.0" text_selected_color="1.0,1.0,1.0,1.0" type="tabbutton">
+			</Widget>
+			<Widget font="v3_option_title" font_size="15" frame="0,109,174,54" halign="left" name="tab_manage" preset="v7_transform_category_btn" text="STR_TRANSFORMATION_TAB_LIST" text_color="0.4824,0.4824,0.4824,1.0" text_offset="55,0" text_over_color="1.0,1.0,1.0,1.0" text_selected_color="1.0,1.0,1.0,1.0" type="tabbutton">
+			</Widget>
+			<Widget font="v3_option_title" font_size="15" frame="0,165,174,54" halign="left" name="tab_compose" preset="v7_transform_category_btn" text="STR_TRANSFORMATION_TAB_COMPOSE" text_color="0.4824,0.4824,0.4824,1.0" text_offset="55,0" text_over_color="1.0,1.0,1.0,1.0" text_selected_color="1.0,1.0,1.0,1.0" type="tabbutton">
+			</Widget>
+			<Widget font="v3_option_title" font_size="15" frame="0,221,174,54" halign="left" name="tab_collection" preset="v7_transform_category_btn" text="STR_TRANSFORMATION_TAB_COLLECTION" text_color="0.4824,0.4824,0.4824,1.0" text_offset="55,0" text_over_color="1.0,1.0,1.0,1.0" text_selected_color="1.0,1.0,1.0,1.0" type="tabbutton">
+			</Widget>
+		</Widget>
+		<Widget frame="180,0,626,553" h_pos_align="proportion" name="page_profile" type="tabpage" v_pos_align="proportion">
+			<Widget frame="0,0,626,31" preset="v7_transform_title_s_bg" type="image">
+				<Skin name="title_bg" state="0">
+				</Skin>
+			</Widget>
+			<Widget frame="314,34,2,90" image="v5_trade_tab_seperator" type="image">
+			</Widget>
+			<Widget font="v3_option" font_size="16" frame="10,4,548,22" name="profile_status" text="STR_TRANSFORMATION_PROFILE_STATUS" text_color="0.3725,0.6235,0.9059,1.0" type="static">
+			</Widget>
+			<Widget frame="0,32,316,95" name="section_profile_trans" type="container">
+				<Widget font="v3_option" font_size="14" frame="16,9,210,19" name="profile_status_info_01" text="STR_TRANSFORMATION_PROFILE_STATUS_INFO_01" text_color="0.7686,0.6039,0.2078,1.0" type="static">
+				</Widget>
+				<Widget frame="16,73,274,8" image="v5_transform_collection_gauge_bg" name="profile_gauge_bg_trans" type="image">
+				</Widget>
+				<Widget frame="16,73,274,7" name="profile_gauge_trans" preset="v5_transform_collection_gauge_all" type="gauge">
+				</Widget>
+				<Widget frame="16,68,274,15" h_pos_align="center" halign="center" name="profile_gauge_static_trans" type="static" v_pos_align="middle" valign="middle">
+				</Widget>
+				<Widget font="v3_option" font_size="25" frame="16,41,250,27" name="profile_status_info_01_static" text="0" text_color="1.0,1.0,1.0,1.0" type="static">
+				</Widget>
+			</Widget>
+			<Widget frame="314,32,313,90" name="section_profile_collection" type="container">
+				<Widget frame="26,73,274,8" image="v5_transform_collection_gauge_bg" name="profile_collection_gauge_bg" type="image">
+				</Widget>
+				<Widget frame="26,73,274,7" name="profile_gauge_collection" preset="v5_transform_collection_gauge" type="gauge">
+				</Widget>
+				<Widget frame="26,68,274,15" h_pos_align="center" halign="center" name="profile_gauge_static_collection" type="static" v_pos_align="middle" valign="middle">
+				</Widget>
+				<Widget font="v3_option" font_size="14" frame="25,9,223,19" name="profile_status_info_02" text="STR_TRANSFORMATION_PROFILE_STATUS_INFO_02" text_color="0.7686,0.6039,0.2078,1.0" type="static">
+				</Widget>
+				<Widget font="v3_option" font_size="25" frame="25,43,250,27" name="profile_status_info_02_static" text="0" text_color="1.0,1.0,1.0,1.0" type="static">
+				</Widget>
+			</Widget>
+			<Widget frame="10,127,615,70" name="section_profile_trans_collect" type="container">
+				<Widget frame="0,1,117,70" preset="v7_transform_value_bg" type="image">
+					<Skin name="v5_static_bg4" state="0">
+					</Skin>
+				</Widget>
+				<Widget frame="122,1,117,70" preset="v7_transform_value_bg" type="image">
+					<Skin name="v5_static_bg4" state="0">
+					</Skin>
+				</Widget>
+				<Widget frame="244,1,117,70" preset="v7_transform_value_bg" type="image">
+					<Skin name="v5_static_bg4" state="0">
+					</Skin>
+				</Widget>
+				<Widget frame="366,1,117,70" preset="v7_transform_value_bg" type="image">
+					<Skin name="v5_static_bg4" state="0">
+					</Skin>
+				</Widget>
+				<Widget frame="488,1,117,70" preset="v7_transform_value_bg" type="image">
+					<Skin name="v5_static_bg4" state="0">
+					</Skin>
+				</Widget>
+				<Widget font="v3_option" font_size="14" frame="0,8,115,19" halign="center" name="trans_grade_01" text="STR_TRANSFORMATION_LIST_GRADE_01" text_color="0.9451,0.9451,0.9451,1.0" type="static">
+				</Widget>
+				<Widget font="v3_option" font_size="14" frame="123,8,115,19" halign="center" name="trans_grade_02" text="STR_TRANSFORMATION_LIST_GRADE_02" text_color="0.3843,0.6118,0.3569,1.0" type="static">
+				</Widget>
+				<Widget font="v3_option" font_size="14" frame="247,8,115,19" halign="center" name="trans_grade_03" text="STR_TRANSFORMATION_LIST_GRADE_03" text_color="0.8784,0.5569,0.0,1.0" type="static">
+				</Widget>
+				<Widget font="v3_option" font_size="14" frame="367,8,115,19" halign="center" name="trans_grade_04" text="STR_TRANSFORMATION_LIST_GRADE_04" text_color="0.7765,0.0,1.0,1.0" type="static">
+				</Widget>
+				<Widget font="v3_option" font_size="14" frame="490,8,115,19" halign="center" name="trans_grade_05" text="STR_TRANSFORMATION_LIST_GRADE_05" text_color="1.0,0.0,0.0,1.0" type="static">
+				</Widget>
+				<Widget font="ui_default" frame="30,40,60,20" halign="center" name="count_g1" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+				</Widget>
+				<Widget font="ui_default" frame="150,40,60,20" halign="center" name="count_g2" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+				</Widget>
+				<Widget font="ui_default" frame="276,40,60,20" halign="center" name="count_g3" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+				</Widget>
+				<Widget font="ui_default" frame="395,40,60,20" halign="center" name="count_g4" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+				</Widget>
+				<Widget font="ui_default" frame="518,40,60,20" halign="center" name="count_g5" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+				</Widget>
+			</Widget>
+			<Widget frame="3,198,238,358" name="section_profile_material_collect" type="container">
+				<Widget frame="0,56,236,294" preset="v7_transform_common_bg" type="image">
+					<Skin name="v5_static_bg4" state="0">
+					</Skin>
+				</Widget>
+				<Widget frame="0,19,238,31" preset="v7_transform_title_s_bg" type="image">
+					<Skin name="v5_dot" state="0">
+					</Skin>
+				</Widget>
+				<Widget font="v3_option" font_size="16" frame="5,25,222,19" name="profile_compose_possession_info" text="STR_TRANSFORMATION_COMPOSE_POSSESSION" text_color="0.3725,0.6235,0.9059,1.0" type="static">
+				</Widget>
+				<Widget frame="14,98,210,1" image="v7_transform_seperator" type="image">
+					<Skin name="v7_transform_seperator" state="0" sub_state="v7_transform_seperator">
+					</Skin>
+				</Widget>
+				<Widget frame="14,154,210,1" image="v7_transform_seperator" type="image">
+					<Skin name="v7_transform_seperator" state="0" sub_state="v7_transform_seperator">
+					</Skin>
+				</Widget>
+				<Widget frame="14,215,210,1" image="v7_transform_seperator" type="image">
+					<Skin name="v7_transform_seperator" state="0" sub_state="v7_transform_seperator">
+					</Skin>
+				</Widget>
+				<Widget frame="14,276,210,1" image="v7_transform_seperator" type="image">
+					<Skin name="v7_transform_seperator" state="0" sub_state="v7_transform_seperator">
+					</Skin>
+				</Widget>
+				<Widget frame="14,338,210,1" image="v7_transform_seperator" type="image">
+					<Skin name="v7_transform_seperator" state="0" sub_state="v7_transform_seperator">
+					</Skin>
+				</Widget>
+				<Widget font="v3_option" frame="17,76,47,19" halign="left" name="material_grade_01" text="STR_TRANSFORMATION_LIST_GRADE_01" text_color="0.9451,0.9451,0.9451,1.0" type="static">
+				</Widget>
+				<Widget font="v3_option" frame="17,133,47,19" halign="left" name="material_grade_02" text="STR_TRANSFORMATION_LIST_GRADE_02" text_color="0.3843,0.6118,0.3569,1.0" type="static">
+				</Widget>
+				<Widget font="v3_option" frame="16,194,47,19" halign="left" name="material_grade_03" text="STR_TRANSFORMATION_LIST_GRADE_03" text_color="0.8784,0.5569,0.0,1.0" type="static">
+				</Widget>
+				<Widget font="v3_option" frame="15,254,47,19" halign="left" name="material_grade_04" text="STR_TRANSFORMATION_LIST_GRADE_04" text_color="0.7765,0.0,1.0,1.0" type="static">
+				</Widget>
+				<Widget font="v3_option" frame="16,315,47,19" halign="left" name="material_grade_05" text="STR_TRANSFORMATION_LIST_GRADE_05" text_color="1.0,0.0,0.0,1.0" type="static">
+				</Widget>
+				<Widget font="ui_default" frame="156,75,60,20" halign="right" name="material_count_g1" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+				</Widget>
+				<Widget font="ui_default" frame="156,132,60,20" halign="right" name="material_count_g2" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+				</Widget>
+				<Widget font="ui_default" frame="156,193,60,20" halign="right" name="material_count_g3" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+				</Widget>
+				<Widget font="ui_default" frame="156,253,60,20" halign="right" name="material_count_g4" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+				</Widget>
+				<Widget font="ui_default" frame="156,315,60,20" halign="right" name="material_count_g5" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+				</Widget>
+			</Widget>
+			<Widget frame="244,198,384,358" name="section_profile_collection_info" type="container">
+				<Widget frame="0,19,382,31" preset="v7_transform_title_s_bg" type="image">
+					<Skin name="v5_dot" state="0">
+					</Skin>
+				</Widget>
+				<Widget font="v3_option" font_size="16" frame="5,25,374,19" name="collection_profile_info" text="STR_TRANSFORMATION_COLLECTION_PROFILE" text_color="0.3725,0.6235,0.9059,1.0" type="static">
+				</Widget>
+				<Widget font="ui_default" frame="277,20,96,29" name="button_collection_info" preset="v7_transform_common_btn" text="STR_TRANSFORMATION_BUTTON_INFO" text_color="0.9137,0.9137,0.9137,1.0" text_disabled_color="0.4314,0.4471,0.4392,1.0" text_over_color="1.0,1.0,1.0,1.0" text_selected_color="1.0,1.0,1.0,1.0" type="button">
+				</Widget>
+				<Widget frame="2,54,381,295" name="stat_collection_buff" type="container">
+					<Widget font="v3_option" font_size="14" frame="10,9,356,19" halign="left" name="collection_info_buff" text="STR_TRANSFORMATION_COLLECTION_SUMMARY_TITLE_EFFECT" text_color="0.7686,0.6039,0.2078,1.0" type="static">
+					</Widget>
+					<Widget frame="1,31,371,264" preset="v7_transform_common_bg" type="image">
+						<Skin name="v5_static_bg4" state="0">
+						</Skin>
+					</Widget>
+					<Widget flag="multiline" font_size="12" frame="1,31,181,264" halign="left" margin="10" name="stat_used_collection_desc1" type="static" valign="top">
+					</Widget>
+					<Widget frame="185,36,2,254" image="v5_trade_tab_seperator" name="img_used_collection_desc_line" type="image">
+					</Widget>
+					<Widget flag="multiline" font_size="12" frame="190,31,181,264" halign="left" margin="10" name="stat_used_collection_desc2" type="static" valign="top">
+					</Widget>
+					<Widget font="v3_option" font_size="13" frame="1,31,371,264" halign="center" name="collection_info_none" text="STR_TRANSFORMATION_COLLECTION_INFO_NONE" type="static">
+					</Widget>
+				</Widget>
+			</Widget>
+		</Widget>
+		<Widget frame="180,0,626,553" h_pos_align="proportion" name="page_contract" type="tabpage" v_pos_align="proportion">
+			<Widget frame="0,0,626,553" name="section_contract_workspace" type="container">
+				<Widget frame="0,0,626,553" name="contracted_common_con" type="container">
+					<Widget frame="0,22,626,529" image="v7_tranform_new_bg" type="image">
+					</Widget>
+					<Widget frame="0,0,626,25" preset="v7_transform_title_s_bg" type="image">
+						<Skin name="v5_dot" state="0">
+						</Skin>
+					</Widget>
+					<Widget frame="0,0,626,553" group="con_base" name="contract_base_con" type="container">
+						<Widget frame="120,26,400,400" name="con_active_fx" type="container">
+						</Widget>
+					</Widget>
+					<Widget frame="0,491,626,61" image="v7_transform_bottom" preset="v7_transform_bottom" type="image">
+						<Skin name="bottom" state="0">
+						</Skin>
+					</Widget>
+					<Widget font="v3_option" font_size="14" frame="5,3,355,19" name="contract_resister" text="STR_TRANSFORMATION_CONTRACT_REGISTER" text_color="0.3725,0.6235,0.9059,1.0" type="static">
+					</Widget>
+				</Widget>
+				<Widget frame="0,0,626,553" group="con_basic" name="contracted_basic_con" type="container">
+					<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="291,195,44,44" item_height="44" item_width="44" name="contract_item" preset="v5_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+					</Widget>
+					<Widget flag="truncate" frame="182,242,263,20" halign="center" name="contract_item_name" type="static" valign="middle">
+					</Widget>
+					<Widget flag="truncate" font_size="12" frame="0,512,223,20" halign="center" name="contract_info1" text="STR_TRANSFORMATION_CONTRACT_NUMBER" text_color="0.9373,0.9373,0.8706,1.0" type="static" valign="middle">
+					</Widget>
+					<Widget flag="active" frame="227,458,172,24" name="contract_number_select_con" type="container">
+						<Widget font="ui_default" frame="1,1,21,22" name="contract_cnt_min" preset="v7_min_page" type="button">
+						</Widget>
+						<Widget font="ui_default" frame="23,1,21,22" name="contract_cnt_m10" preset="v7_minus10_page" type="button">
+						</Widget>
+						<Widget font="v3_money" frame="46,1,79,22" h_align="center" name="contract_cnt" type="spin">
+						</Widget>
+						<Widget font="ui_default" frame="127,1,21,22" name="contract_cnt_p10" preset="v7_plus10_page" type="button">
+						</Widget>
+						<Widget font="ui_default" frame="150,1,21,22" name="contract_cnt_max" preset="v7_max_page" type="button">
+						</Widget>
+					</Widget>
+					<Widget font="ui_default" font_size="15" frame="228,504,168,40" name="button_con_do_1" preset="transform_normal_btn" text="STR_TRANSFORMATION_BUTTON_CONTRACT_1T" text_color="0.8,0.8392,0.9529,1.0" text_over_color="0.8,0.8392,0.9529,1.0" type="button">
+					</Widget>
+					<Widget font="ui_default" font_size="15" frame="406,504,168,40" name="button_con_do_n" preset="transform_normal_btn" text="STR_TRANSFORMATION_BUTTON_CONTRACT_NT" text_color="0.8,0.8392,0.9529,1.0" text_over_color="0.8,0.8392,0.9529,1.0" type="button">
+					</Widget>
+					<Widget flag="truncate" font_size="15" frame="162,429,301,20" halign="center" name="contract_notice" text="STR_TRANSFORMATION_CONTRACT_NOTICE" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+					</Widget>
+				</Widget>
+				<Widget frame="0,0,626,553" group="con_scene" name="contracted_scene_con" type="container">
+					<Widget frame="101,29,430,385" name="button_con_click_section" type="button">
+					</Widget>
+					<Widget frame="123,40,400,400" name="contract_fx" type="container">
+					</Widget>
+					<Widget frame="120,26,400,400" name="con_click_fx" type="container">
+					</Widget>
+					<Widget font="ui_default" font_size="15" frame="228,504,168,40" name="button_con_skip" preset="transform_normal_btn" text="STR_TRANSFORMATION_BUTTON_SKIP" text_color="0.8,0.8392,0.9529,1.0" text_over_color="0.8,0.8392,0.9529,1.0" type="button">
+					</Widget>
+				</Widget>
+				<Widget frame="0,0,626,553" group="con_result" name="contracted_result_con" type="container">
+					<Widget cam_angle="10" frame="182,130,263,322" name="con_model_view" type="3dview">
+					</Widget>
+					<Widget frame="218,80,200,42" name="contracted_info_con" type="container">
+						<Widget frame="76,0,49,20" name="contract_tier_grade_bg" type="image">
+							<Skin name="transform_tier_grade_bg" state="0">
+							</Skin>
+						</Widget>
+						<Widget font="ui_default" font_size="12" frame="78,-2,50,20" name="contract_tier_grade" padding="5,0" type="htmlview">
+						</Widget>
+						<Widget font_size="15" frame="0,20,200,20" halign="center" name="contract_name" text="STR_TRANSFORMATION_CONTRACT_ITEM_INFO" type="static" valign="middle">
+						</Widget>
+					</Widget>
+					<Widget frame="59,440,494,44" name="contracted_list_con" type="container">
+						<Widget cell_padding="0" cell_space="0,0" frame="0,0,44,44" item_height="44" item_width="44" name="contract_list_slot_1" preset="v7_transform_slot_bg" skin_type="version5" slot_num="1" type="itemview" viewmode="icon">
+						</Widget>
+						<Widget cell_padding="0" cell_space="0,0" frame="50,0,44,44" item_height="44" item_width="44" name="contract_list_slot_2" preset="v7_transform_slot_bg" skin_type="version5" slot_num="1" type="itemview" viewmode="icon">
+						</Widget>
+						<Widget cell_padding="0" cell_space="0,0" frame="100,0,44,44" item_height="44" item_width="44" name="contract_list_slot_3" preset="v7_transform_slot_bg" skin_type="version5" slot_num="1" type="itemview" viewmode="icon">
+						</Widget>
+						<Widget cell_padding="0" cell_space="0,0" frame="150,0,44,44" item_height="44" item_width="44" name="contract_list_slot_4" preset="v7_transform_slot_bg" skin_type="version5" slot_num="1" type="itemview" viewmode="icon">
+						</Widget>
+						<Widget cell_padding="0" cell_space="0,0" frame="200,0,44,44" item_height="44" item_width="44" name="contract_list_slot_5" preset="v7_transform_slot_bg" skin_type="version5" slot_num="1" type="itemview" viewmode="icon">
+						</Widget>
+						<Widget cell_padding="0" cell_space="0,0" frame="250,0,44,44" item_height="44" item_width="44" name="contract_list_slot_6" preset="v7_transform_slot_bg" skin_type="version5" slot_num="1" type="itemview" viewmode="icon">
+						</Widget>
+						<Widget cell_padding="0" cell_space="0,0" frame="300,0,44,44" item_height="44" item_width="44" name="contract_list_slot_7" preset="v7_transform_slot_bg" skin_type="version5" slot_num="1" type="itemview" viewmode="icon">
+						</Widget>
+						<Widget cell_padding="0" cell_space="0,0" frame="350,0,44,44" item_height="44" item_width="44" name="contract_list_slot_8" preset="v7_transform_slot_bg" skin_type="version5" slot_num="1" type="itemview" viewmode="icon">
+						</Widget>
+						<Widget cell_padding="0" cell_space="0,0" frame="400,0,44,44" item_height="44" item_width="44" name="contract_list_slot_9" preset="v7_transform_slot_bg" skin_type="version5" slot_num="1" type="itemview" viewmode="icon">
+						</Widget>
+						<Widget cell_padding="0" cell_space="0,0" frame="450,0,44,44" item_height="44" item_width="44" name="contract_list_slot_10" preset="v7_transform_slot_bg" skin_type="version5" slot_num="1" type="itemview" viewmode="icon">
+						</Widget>
+					</Widget>
+					<Widget frame="182,108,263,262" name="con_result_fx" type="container">
+					</Widget>
+					<Widget font="ui_default" font_size="15" frame="228,504,168,40" name="button_con_do_next" preset="transform_normal_btn" text="STR_TRANSFORMATION_BUTTON_CONTRACT_NEXT" text_color="0.8,0.8392,0.9529,1.0" text_over_color="0.8,0.8392,0.9529,1.0" type="button">
+					</Widget>
+					<Widget frame="0,0,626,553" group="contracted_end" name="contracted_end_con" type="container">
+						<Widget flag="truncate" font_size="12" frame="0,512,223,20" halign="center" name="contract_info2" text="STR_TRANSFORMATION_CONTRACT_NUMBER" text_color="0.9373,0.9373,0.8706,1.0" type="static" valign="middle">
+						</Widget>
+						<Widget font="ui_default" font_size="15" frame="406,504,168,40" name="button_con_return" preset="transform_normal_btn" text="STR_TRANSFORMATION_BUTTON_CONTRACT_RETURN" text_color="0.8,0.8392,0.9529,1.0" text_over_color="0.8,0.8392,0.9529,1.0" type="button">
+						</Widget>
+					</Widget>
+					<Widget frame="0,0,626,553" group="contracted_continue" name="contracted_continue_con" type="container">
+						<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="15" frame="406,504,168,40" fx_offset="8,2" fx_size="48,40" name="button_con_cancel" preset="transform_gauge_btn" single_click_only="True" text="STR_TRANSFORMATION_CONTRACT_CANCEL" text_color="0.8,0.8392,0.9529,1.0" text_offset="0,0" text_over_color="0.8,0.8392,0.9529,1.0" type="gaugebutton" v_pos_align="top">
+						</Widget>
+					</Widget>
+					<Widget flag="truncate" font_size="12" frame="0,512,223,20" halign="center" name="contract_info3" text="STR_TRANSFORMATION_CONTRACT_MULTICONTRACTING" text_color="0.9373,0.9373,0.8706,1.0" type="static" valign="middle">
+					</Widget>
+				</Widget>
+			</Widget>
+		</Widget>
+		<Widget frame="180,0,626,553" h_pos_align="proportion" name="page_manage" type="tabpage" v_pos_align="proportion">
+			<Widget frame="0,0,626,554" name="section_manage_list" type="container">
+				<Widget frame="0,0,626,25" preset="v7_transform_title_s_bg" type="image">
+					<Skin name="v5_dot" state="0">
+					</Skin>
+				</Widget>
+				<Widget font_size="14" frame="5,3,355,19" halign="left" name="trans_list" text="STR_TRANSFORMATION_LIST_POSSESSION" text_color="0.3725,0.6235,0.9059,1.0" type="static" valign="middle">
+				</Widget>
+				<Widget font="ui_default" frame="102,30,60,20" halign="right" name="count" type="static" valign="middle">
+				</Widget>
+				<Widget font_size="14" frame="9,30,140,20" halign="left" name="trans_list_name" text="STR_TRANSFORMATION_LIST_NAME" text_color="0.698,0.7725,0.9098,1.0" type="static" valign="middle">
+				</Widget>
+				<Widget frame="0,55,396,31" name="manage_grade_list" type="container">
+					<Skin name="v5_trade_tab_frame">
+					</Skin>
+					<Widget font="ui_default" frame="0,0,65,30" h_pos_align="left" halign="center" name="filter_all" preset="v7_transform_tabbutton" text="STR_TRANSFORMATION_LIST_GRADE_TOTAL" type="button">
+					</Widget>
+					<Widget font="ui_default" frame="66,0,65,30" h_pos_align="left" halign="center" name="filter_grade_01" preset="v7_transform_tabbutton" text="STR_TRANSFORMATION_LIST_GRADE_01" type="button">
+					</Widget>
+					<Widget font="ui_default" frame="132,0,65,30" h_pos_align="left" halign="center" name="filter_grade_02" preset="v7_transform_tabbutton" text="STR_TRANSFORMATION_LIST_GRADE_02" type="button">
+					</Widget>
+					<Widget font="ui_default" frame="198,0,65,30" h_pos_align="left" halign="center" name="filter_grade_03" preset="v7_transform_tabbutton" text="STR_TRANSFORMATION_LIST_GRADE_03" type="button">
+					</Widget>
+					<Widget font="ui_default" frame="264,0,65,30" h_pos_align="left" halign="center" name="filter_grade_04" preset="v7_transform_tabbutton" text="STR_TRANSFORMATION_LIST_GRADE_04" type="button">
+					</Widget>
+					<Widget font="ui_default" frame="330,0,67,30" h_pos_align="left" halign="center" name="filter_grade_05" preset="v7_transform_tabbutton" text="STR_TRANSFORMATION_LIST_GRADE_05" type="button">
+					</Widget>
+				</Widget>
+				<Widget frame="0,88,396,460" preset="v7_transform_common_bg" type="image">
+					<Skin name="v5_static_bg4" state="0">
+					</Skin>
+				</Widget>
+				<Widget can_click_item="True" direction_size="2" direction_type="vertical" drag_block_separator="true" elastic_grid_max_rect="0,0,396,420" elastic_grid_size="False" fit_item_size="False" fixed_item_size="False" flag="vscroll" frame="0,90,390,460" h_pos_align="proportion" inner_scroll="false" item_padding="1" item_spacing="1" name="manage_transform_list" scroll_type="hidden" skin_type="shop" type="grid" v_pos_align="proportion">
+					<Widget frame="0,0,197,48" name="prototype" type="container">
+						<Widget frame="0,0,197,48" h_pos_align="proportion" image="v7_transform_bg_01" name="manage_trans_bg" type="image" v_pos_align="top">
+							<Skin name="v7_transform_bg_01">
+							</Skin>
+						</Widget>
+						<Widget frame="0,0,197,48" image="v7_transform_bg_02" name="manage_trans_selected" type="image">
+						</Widget>
+						<Widget cell_padding="0" cell_space="0,0" frame="2,2,44,44" item_height="44" item_width="44" name="manage_trans_slot" preset="v7_transform_slot_bg" skin_type="version5" slot_num="1" type="itemview" viewmode="icon">
+						</Widget>
+						<Widget frame="55,23,138,20" halign="left" name="manage_trans_name" text="STR_TRANSFORMATION_DIALOG_LIST_TRANSFORM_NAME" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+						</Widget>
+						<Widget font="ui_default" font_size="12" frame="49,2,90,20" name="manage_trans_tier_grade" type="htmlview">
+						</Widget>
+					</Widget>
+				</Widget>
+				<Widget frame="173,36,224,8" image="v5_transform_collection_gauge_bg" name="manage_gauge_bg" type="image">
+				</Widget>
+				<Widget frame="173,36,224,7" name="manage_gauge" preset="v5_transform_collection_gauge_all" type="gauge">
+				</Widget>
+				<Widget frame="173,33,224,12" h_pos_align="center" halign="center" name="manage_gauge_static" type="static" v_pos_align="middle" valign="middle">
+				</Widget>
+			</Widget>
+			<Widget frame="403,0,223,392" name="section_manage_details" type="container">
+				<Widget frame="0,0,223,25" preset="v7_transform_title_s_bg" type="image">
+					<Skin name="v5_dot" state="0">
+					</Skin>
+				</Widget>
+				<Widget font_size="14" frame="6,3,196,19" halign="left" name="trans_info_name" text="STR_TRANSFORMATION_LIST_TRANS_INFO_NAME" text_color="0.3725,0.6235,0.9059,1.0" type="static" valign="middle">
+				</Widget>
+				<Widget frame="-5,22,230,371" name="bg" type="image">
+					<Skin name="transform_info_bg" state="0">
+					</Skin>
+				</Widget>
+				<Widget frame="-1,28,224,359" name="manage_transform_container" type="container">
+					<Widget cam_angle="10" frame="1,3,220,322" name="manage_trans_info_model_view" type="3dview">
+						<Widget frame="120,264,34,35" h_pos_align="center" name="turnleft" preset="v5_potrait_left" type="button" v_pos_align="bottom">
+						</Widget>
+						<Widget frame="67,264,34,35" h_pos_align="center" name="turnright" preset="v5_potrait_right" type="button" v_pos_align="bottom">
+						</Widget>
+					</Widget>
+					<Widget frame="87,314,49,20" name="manage_trans_info_tier_grade_bg" type="image">
+						<Skin name="transform_tier_grade_bg" state="0">
+						</Skin>
+					</Widget>
+					<Widget font="ui_default" font_size="12" frame="95,313,30,20" name="manage_trans_info_tier_grade" type="htmlview">
+					</Widget>
+					<Widget font_size="15" frame="1,333,220,23" halign="center" name="manage_trans_info_name" text="STR_TRANSFORMATION_DIALOG_VIEWER_TRANSFORM_NAME" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+					</Widget>
+				</Widget>
+			</Widget>
+			<Widget frame="403,392,223,160" name="section_manage_details_info" type="container">
+				<Widget font_size="13" frame="4,4,220,19" halign="left" name="manage_trans_status" text="STR_TRANSFORMATION_LIST_TRANS_INFO_STAT" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+				</Widget>
+				<Widget flag="multiline" frame="0,23,222,106" halign="left" name="manage_trans_status_view" type="static" valign="top">
+				</Widget>
+				<Widget flag="vscroll" font="ui_default" frame="1,23,220,106" name="section_manage_info_con" preset="v7_transform_common_bg" skin_type="shop" type="container">
+					<Widget flag="vscroll" font="ui_default" frame="5,5,212,96" name="desc_skill" skin_type="shop" type="htmlview">
+					</Widget>
+				</Widget>
+			</Widget>
+			<Widget font="ui_default" frame="516,519,110,30" name="manage_transform" preset="v7_transform_common_btn" text="STR_TRANSFORMATION_BUTTON_TRANS_VISIBLE" text_color="0.9137,0.9137,0.9137,1.0" text_disabled_color="0.4314,0.4471,0.4392,1.0" text_over_color="1.0,1.0,1.0,1.0" text_selected_color="1.0,1.0,1.0,1.0" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="402,519,110,30" name="manage_invisible_transform" preset="v7_transform_common_btn" text="STR_TRANSFORMATION_BUTTON_TRANS_INVISIBLE" text_color="0.9137,0.9137,0.9137,1.0" text_disabled_color="0.4314,0.4471,0.4392,1.0" text_over_color="1.0,1.0,1.0,1.0" text_selected_color="1.0,1.0,1.0,1.0" type="button">
+			</Widget>
+		</Widget>
+		<Widget frame="180,0,626,553" h_pos_align="proportion" name="page_compose" type="tabpage" v_pos_align="proportion">
+			<Widget frame="0,0,626,554" name="section_compose_workspace" type="container">
+				<Widget frame="0,0,626,553" name="compose_common_con" type="container">
+					<Widget frame="0,22,626,529" image="v7_tranform_new_bg" type="image">
+					</Widget>
+					<Widget frame="120,26,400,400" name="comp_active_fx" type="container">
+					</Widget>
+					<Widget frame="120,26,400,400" name="comp_click_fx" type="container">
+					</Widget>
+					<Widget frame="0,0,626,25" preset="v7_transform_title_s_bg" type="image">
+						<Skin name="v5_dot" state="0">
+						</Skin>
+					</Widget>
+					<Widget font="v3_option" font_size="14" frame="5,3,355,19" name="compose_resisiter" text="STR_TRANSFORMATION_COMPOSE_REGISTER" text_color="0.3725,0.6235,0.9059,1.0" type="static">
+					</Widget>
+					<Widget frame="-2,26,628,32" name="compose_list_grade" type="container">
+						<Skin name="v5_trade_tab_frame">
+						</Skin>
+						<Widget font="ui_default" frame="1,0,124,32" h_pos_align="left" halign="center" name="compose_grade_01" preset="v7_transform_tabbutton" text="STR_TRANSFORMATION_LIST_GRADE_01" type="button">
+						</Widget>
+						<Widget font="ui_default" frame="127,0,125,32" h_pos_align="left" halign="center" name="compose_grade_02" preset="v7_transform_tabbutton" text="STR_TRANSFORMATION_LIST_GRADE_02" type="button">
+						</Widget>
+						<Widget font="ui_default" frame="254,0,122,32" h_pos_align="left" halign="center" name="compose_grade_03" preset="v7_transform_tabbutton" text="STR_TRANSFORMATION_LIST_GRADE_03" type="button">
+						</Widget>
+						<Widget font="ui_default" frame="378,0,125,32" h_pos_align="left" halign="center" name="compose_grade_04" preset="v7_transform_tabbutton" text="STR_TRANSFORMATION_LIST_GRADE_04" type="button">
+						</Widget>
+						<Widget font="ui_default" frame="505,0,125,32" h_pos_align="left" halign="center" name="compose_grade_05" preset="v7_transform_tabbutton" text="STR_TRANSFORMATION_LIST_GRADE_05" type="button">
+						</Widget>
+					</Widget>
+					<Widget frame="0,491,626,61" image="v7_transform_bottom" preset="v7_transform_bottom" type="image">
+						<Skin name="bottom" state="0">
+						</Skin>
+					</Widget>
+				</Widget>
+				<Widget frame="0,0,626,553" group="comp_base" name="compose_base_con" type="container">
+					<Widget frame="0,0,626,553" group="comp_basic" name="compose_active_fx_con" type="container">
+						<Widget frame="185,64,40,40" name="compose_active_fx_1" type="container">
+						</Widget>
+						<Widget frame="460,103,40,40" name="compose_active_fx_2" type="container">
+						</Widget>
+						<Widget frame="123,187,40,40" name="compose_active_fx_3" type="container">
+						</Widget>
+						<Widget frame="471,215,40,40" name="compose_active_fx_4" type="container">
+						</Widget>
+						<Widget frame="176,331,40,40" name="compose_active_fx_5" type="container">
+						</Widget>
+						<Widget frame="414,327,40,40" name="compose_active_fx_6" type="container">
+						</Widget>
+					</Widget>
+					<Widget frame="434,3,190,20" name="compose_select_con" type="container">
+						<Widget font="v3_option" font_size="12" frame="30,0,100,19" halign="left" name="compose_possession_info" text="STR_TRANSFORMATION_COMPOSE_POSSESSION_INFO" text_color="0.698,0.7725,0.9098,1.0" type="static">
+						</Widget>
+						<Widget font="ui_default" font_size="12" frame="118,0,70,19" halign="right" name="mat_count_g1" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+						</Widget>
+					</Widget>
+				</Widget>
+				<Widget frame="0,0,626,553" group="comp_basic" name="compose_basic_con" type="container">
+					<Widget frame="0,408,626,145" name="compose_black_layer" type="image">
+					</Widget>
+					<Widget frame="597,67,19,19" name="compose_tip" tooltip="STR_MSG_TRANSFORMATION_COMPOSE_USER_INFO" type="image">
+						<Skin name="v7_transform_help">
+						</Skin>
+					</Widget>
+					<Widget frame="3,403,625,89" name="compose_list_con" type="container">
+						<Widget can_click_item="True" direction_size="12" direction_type="vertical" drag_block_separator="true" elastic_grid_max_rect="0,0,550,406" elastic_grid_size="False" fit_item_size="False" fixed_item_size="False" flag="vscroll" frame="0,0,528,88" h_pos_align="proportion" inner_scroll="false" item_padding="0" item_spacing="0" name="compose_list_01" preset="v5_staticbox" scroll_type="visible" skin_type="shop" type="grid" v_pos_align="proportion">
+							<Widget frame="0,0,43,43" name="prototype" type="container">
+								<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="0,0,44,44" item_height="44" item_width="44" name="compose_list_slot" preset="v7_transform_slot_bg" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+								</Widget>
+								<Widget flag="not_visible;not_active" frame="0,0,44,44" image="familiar_growth_slot_selected" name="selected" type="image">
+								</Widget>
+							</Widget>
+						</Widget>
+						<Widget can_click_item="True" direction_size="12" direction_type="vertical" drag_block_separator="true" elastic_grid_max_rect="0,0,550,406" elastic_grid_size="False" fit_item_size="False" fixed_item_size="False" flag="vscroll" frame="0,0,528,88" h_pos_align="proportion" inner_scroll="false" item_padding="0" item_spacing="0" name="compose_list_02" preset="v5_staticbox" scroll_type="visible" skin_type="shop" type="grid" v_pos_align="proportion">
+							<Widget frame="0,0,43,43" name="prototype" type="container">
+								<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="0,0,44,44" item_height="44" item_width="44" name="compose_list_slot" preset="v7_transform_slot_bg" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+								</Widget>
+								<Widget flag="not_visible;not_active" frame="0,0,44,44" image="familiar_growth_slot_selected" name="selected" type="image">
+								</Widget>
+							</Widget>
+						</Widget>
+						<Widget can_click_item="True" direction_size="12" direction_type="vertical" drag_block_separator="true" elastic_grid_max_rect="0,0,550,406" elastic_grid_size="False" fit_item_size="False" fixed_item_size="False" flag="vscroll" frame="0,0,528,88" h_pos_align="proportion" inner_scroll="false" item_padding="0" item_spacing="0" name="compose_list_03" preset="v5_staticbox" scroll_type="visible" skin_type="shop" type="grid" v_pos_align="proportion">
+							<Widget frame="0,0,43,43" name="prototype" type="container">
+								<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="0,0,44,44" item_height="44" item_width="44" name="compose_list_slot" preset="v7_transform_slot_bg" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+								</Widget>
+								<Widget flag="not_visible;not_active" frame="0,0,44,44" image="familiar_growth_slot_selected" name="selected" type="image">
+								</Widget>
+							</Widget>
+						</Widget>
+						<Widget can_click_item="True" direction_size="12" direction_type="vertical" drag_block_separator="true" elastic_grid_max_rect="0,0,550,406" elastic_grid_size="False" fit_item_size="False" fixed_item_size="False" flag="vscroll" frame="0,0,528,88" h_pos_align="proportion" inner_scroll="false" item_padding="0" item_spacing="0" name="compose_list_04" preset="v5_staticbox" scroll_type="visible" skin_type="shop" type="grid" v_pos_align="proportion">
+							<Widget frame="0,0,43,43" name="prototype" type="container">
+								<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="0,0,44,44" item_height="44" item_width="44" name="compose_list_slot" preset="v7_transform_slot_bg" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+								</Widget>
+								<Widget flag="not_visible;not_active" frame="0,0,44,44" image="familiar_growth_slot_selected" name="selected" type="image">
+								</Widget>
+							</Widget>
+						</Widget>
+						<Widget can_click_item="True" direction_size="12" direction_type="vertical" drag_block_separator="true" elastic_grid_max_rect="0,0,550,406" elastic_grid_size="False" fit_item_size="False" fixed_item_size="False" flag="vscroll" frame="0,0,528,88" h_pos_align="proportion" inner_scroll="false" item_padding="0" item_spacing="0" name="compose_list_05" preset="v5_staticbox" scroll_type="visible" skin_type="shop" type="grid" v_pos_align="proportion">
+							<Widget frame="0,0,43,43" name="prototype" type="container">
+								<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="0,0,44,44" item_height="44" item_width="44" name="compose_list_slot" preset="v7_transform_slot_bg" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+								</Widget>
+								<Widget flag="not_visible;not_active" frame="0,0,44,44" image="familiar_growth_slot_selected" name="selected" type="image">
+								</Widget>
+							</Widget>
+						</Widget>
+						<Widget font="ui_default" frame="529,0,94,29" name="compose_4ea" preset="v7_transform_common_btn" text="STR_TRANSFORMATION_COMPOSE_4EA_AT_ONETIME" text_color="0.7529,0.7529,0.7529,1.0" text_disabled_color="0.7529,0.7529,0.7529,1.0" text_over_color="1.0,1.0,1.0,1.0" text_selected_color="1.0,1.0,1.0,1.0" type="button">
+						</Widget>
+						<Widget font="ui_default" frame="529,30,94,29" name="compose_6ea" preset="v7_transform_common_btn" text="STR_TRANSFORMATION_COMPOSE_6EA_AT_ONETIME" text_color="0.7529,0.7529,0.7529,1.0" text_disabled_color="0.7529,0.7529,0.7529,1.0" text_over_color="1.0,1.0,1.0,1.0" text_selected_color="1.0,1.0,1.0,1.0" type="button">
+						</Widget>
+						<Widget font="ui_default" frame="529,60,94,29" name="compose_reset" preset="v7_transform_common_btn" text="STR_TRANSFORMATION_TRANS_RESET" text_color="0.7529,0.7529,0.7529,1.0" text_disabled_color="0.7529,0.7529,0.7529,1.0" text_over_color="1.0,1.0,1.0,1.0" text_selected_color="1.0,1.0,1.0,1.0" type="button">
+						</Widget>
+					</Widget>
+					<Widget frame="2,495,208,52" name="compose_fee_con_1" type="container" v_pos_align="top">
+						<Widget frame="0,3,60,22" h_pos_align="proportion" halign="right" name="compose_gold_string_1" text="STR_TRANSFORMATION_COMPOSE_GOLD_STR" type="static" v_pos_align="top" valign="middle">
+						</Widget>
+						<Widget font="v3_money" frame="64,3,140,22" h_pos_align="proportion" halign="right" name="compose_my_money_1" preset="v5_staticbox" type="static" v_pos_align="top" valign="middle">
+						</Widget>
+						<Widget frame="0,27,60,22" h_pos_align="proportion" halign="right" name="compose_fee_string_1" text="STR_TRANSFORMATION_COMPOSE_FEE_STR" type="static" v_pos_align="top" valign="middle">
+						</Widget>
+						<Widget font="v3_money" frame="64,27,140,22" h_pos_align="proportion" halign="right" name="compose_cost_1" preset="v5_staticbox" type="static" v_pos_align="top" valign="middle">
+						</Widget>
+					</Widget>
+					<Widget font="ui_default" font_size="15" frame="228,504,168,40" name="button_comp_do" preset="transform_normal_btn" text="STR_TRANSFORMATION_BUTTON_COMPOSE" text_color="0.8,0.8392,0.9529,1.0" text_over_color="0.8,0.8392,0.9529,1.0" type="button">
+					</Widget>
+					<Widget font="ui_default" frame="401,514,76,19" name="cb_auto_compose" preset="v5_check" style="checkbox" text="STR_TRANSFORMATION_COMPOSE_REPEAT_ONOFF" text_offset="3,0" tooltip="STR_TRANSFORMATION_COMPOSE_REPEAT_USER_INFO" type="button">
+					</Widget>
+					<Widget flag="truncate" font_size="15" frame="162,374,301,20" halign="center" name="compose_notice" text="STR_TRANSFORMATION_COMPOSE_NOTICE" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+					</Widget>
+				</Widget>
+				<Widget frame="0,0,626,553" group="comp_scene" name="compose_scene_con" type="container">
+					<Widget frame="101,29,430,385" name="button_comp_click_section" type="button">
+					</Widget>
+					<Widget frame="123,40,400,400" name="compose_fx" type="container">
+					</Widget>
+					<Widget font="ui_default" font_size="15" frame="228,504,168,40" name="button_comp_skip" preset="transform_normal_btn" text="STR_TRANSFORMATION_BUTTON_SKIP" text_color="0.8,0.8392,0.9529,1.0" text_over_color="0.8,0.8392,0.9529,1.0" type="button">
+					</Widget>
+				</Widget>
+				<Widget frame="0,0,626,553" group="comp_result" name="compose_result_con" type="container">
+					<Widget cam_angle="10" frame="182,130,263,322" name="comp_model_view" type="3dview">
+					</Widget>
+					<Widget frame="218,80,200,42" name="compose_info_con" type="container">
+						<Widget frame="76,0,49,20" name="compose_tier_grade_bg" type="image">
+							<Skin name="transform_tier_grade_bg" state="0">
+							</Skin>
+						</Widget>
+						<Widget font="ui_default" font_size="12" frame="78,-2,50,20" name="compose_tier_grade" padding="5,0" type="htmlview">
+						</Widget>
+						<Widget font_size="15" frame="0,20,200,20" halign="center" name="compose_name" text="STR_TRANSFORMATION_CONTRACT_ITEM_INFO" type="static" valign="middle">
+						</Widget>
+					</Widget>
+					<Widget frame="182,108,263,262" name="comp_result_fx" type="container">
+					</Widget>
+					<Widget frame="2,495,208,52" name="compose_fee_con_2" type="container" v_pos_align="top">
+						<Widget frame="0,3,60,22" h_pos_align="proportion" halign="right" name="compose_gold_string_2" text="STR_TRANSFORMATION_COMPOSE_GOLD_STR" type="static" v_pos_align="top" valign="middle">
+						</Widget>
+						<Widget font="v3_money" frame="64,3,140,22" h_pos_align="proportion" halign="right" name="compose_my_money_2" preset="v5_staticbox" type="static" v_pos_align="top" valign="middle">
+						</Widget>
+						<Widget frame="0,27,60,22" h_pos_align="proportion" halign="right" name="compose_fee_string_2" text="STR_TRANSFORMATION_COMPOSE_FEE_STR" type="static" v_pos_align="top" valign="middle">
+						</Widget>
+						<Widget font="v3_money" frame="64,27,140,22" h_pos_align="proportion" halign="right" name="compose_cost_2" preset="v5_staticbox" type="static" v_pos_align="top" valign="middle">
+						</Widget>
+					</Widget>
+					<Widget frame="163,444,294,44" name="compose_nextlist_con" type="container">
+						<Widget cell_padding="0" cell_space="0,0" frame="0,0,44,44" item_height="44" item_width="44" name="compose_list_slot_1" preset="v7_transform_slot_bg" skin_type="version5" slot_num="1" type="itemview" viewmode="icon">
+						</Widget>
+						<Widget cell_padding="0" cell_space="0,0" frame="50,0,44,44" item_height="44" item_width="44" name="compose_list_slot_2" preset="v7_transform_slot_bg" skin_type="version5" slot_num="1" type="itemview" viewmode="icon">
+						</Widget>
+						<Widget cell_padding="0" cell_space="0,0" frame="100,0,44,44" item_height="44" item_width="44" name="compose_list_slot_3" preset="v7_transform_slot_bg" skin_type="version5" slot_num="1" type="itemview" viewmode="icon">
+						</Widget>
+						<Widget cell_padding="0" cell_space="0,0" frame="150,0,44,44" item_height="44" item_width="44" name="compose_list_slot_4" preset="v7_transform_slot_bg" skin_type="version5" slot_num="1" type="itemview" viewmode="icon">
+						</Widget>
+						<Widget cell_padding="0" cell_space="0,0" frame="200,0,44,44" item_height="44" item_width="44" name="compose_list_slot_5" preset="v7_transform_slot_bg" skin_type="version5" slot_num="1" type="itemview" viewmode="icon">
+						</Widget>
+						<Widget cell_padding="0" cell_space="0,0" frame="250,0,44,44" item_height="44" item_width="44" name="compose_list_slot_6" preset="v7_transform_slot_bg" skin_type="version5" slot_num="1" type="itemview" viewmode="icon">
+						</Widget>
+					</Widget>
+					<Widget color="1.0,1.0,1.0,1.0" font_size="12" frame="163,424,160,20" halign="left" name="compose_next_item_info" text="STR_TRANSFORMATION_COMPOSE_NEXT_ITEM_INFO" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+					</Widget>
+					<Widget font="ui_default" font_size="15" frame="228,504,168,40" name="button_comp_do_next" preset="transform_normal_btn" text="STR_TRANSFORMATION_BUTTON_COMPOSE_NEXT" text_color="0.8,0.8392,0.9529,1.0" text_over_color="0.8,0.8392,0.9529,1.0" type="button">
+					</Widget>
+					<Widget frame="0,0,626,553" group="comp_end" name="compose_end_con" type="container">
+						<Widget font="ui_default" font_size="15" frame="406,504,168,40" name="button_comp_return" preset="transform_normal_btn" text="STR_TRANSFORMATION_BUTTON_COMPOSE_RETURN" text_color="0.8,0.8392,0.9529,1.0" text_over_color="0.8,0.8392,0.9529,1.0" type="button">
+						</Widget>
+					</Widget>
+					<Widget frame="0,0,626,553" group="comp_continue" name="compose_continue_con" type="container">
+						<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="15" frame="406,504,168,40" fx_offset="8,2" fx_size="48,40" name="button_comp_cancel" preset="transform_gauge_btn" single_click_only="True" text="STR_TRANSFORMATION_COMPOSE_CANCEL" text_color="0.8,0.8392,0.9529,1.0" text_offset="0,0" text_over_color="0.8,0.8392,0.9529,1.0" type="gaugebutton" v_pos_align="top">
+						</Widget>
+					</Widget>
+				</Widget>
+			</Widget>
+		</Widget>
+		<Widget frame="180,0,626,555" h_pos_align="proportion" name="page_collection" type="tabpage" v_pos_align="proportion">
+			<Widget frame="0,0,628,46" name="section_collection_achievement" type="container">
+				<Widget frame="0,0,626,25" preset="v7_transform_title_s_bg" type="image">
+					<Skin name="v5_dot" state="0">
+					</Skin>
+				</Widget>
+				<Widget font="v3_option" font_size="14" frame="5,3,355,19" name="collection_status" text="STR_TRANSFORMATION_COLLECTION_STATUS" text_color="0.3725,0.6235,0.9059,1.0" type="static">
+				</Widget>
+				<Widget font="v3_option" frame="10,25,135,21" name="collection_list_complete" text="STR_TRANSFORMATION_COLLECTION_LIST_NAME" text_color="0.698,0.7725,0.9098,1.0" type="static">
+				</Widget>
+				<Widget font="ui_default" frame="146,26,60,20" halign="left" name="count_collection" type="static" valign="middle">
+				</Widget>
+				<Widget font="v3_option" frame="210,26,135,20" name="collection_progress" text="STR_TRANSFORMATION_COLLECTION_PROGRESS_NAME" text_color="0.698,0.7725,0.9098,1.0" type="static">
+				</Widget>
+				<Widget frame="350,34,224,8" image="v5_transform_collection_gauge_bg" name="sum_collection_gauge_bg" type="image">
+				</Widget>
+				<Widget frame="350,34,224,7" name="sum_collection_gauge" preset="v5_transform_collection_gauge" type="gauge">
+				</Widget>
+				<Widget frame="350,31,224,12" h_pos_align="center" halign="center" name="sum_collection_gauge_static" type="static" v_pos_align="middle" valign="middle">
+				</Widget>
+				<Widget frame="604,27,19,19" name="collection_tip" tooltip="STR_TRANSFORMATION_COLLECTION_SELECT_INFO" type="image">
+					<Skin name="v7_transform_help">
+					</Skin>
+				</Widget>
+			</Widget>
+			<Widget frame="2,47,626,509" name="section_collection_view" type="container">
+				<Widget frame="0,0,626,509" h_pos_align="proportion" name="tabsheet_collection" type="tabsheet" v_pos_align="proportion">
+					<Widget btn_move_anim="False" frame="0,2,626,31" h_pos_align="proportion" name="collection_tab" tab_offset="0,0" tab_space="2" type="tab" v_pos_align="top">
+						<Widget font="ui_default" frame="0,0,116,30" name="collection_tab_summary" preset="v7_transform_tabbutton" text="STR_TRANSFORMATION_TAB_SUMMARY" text_color="1.0,1.0,1.0,1.0" text_over_color="1.0,1.0,1.0,1.0" text_selected_color="1.0,1.0,1.0,1.0" type="tabbutton">
+						</Widget>
+						<Widget font="ui_default" frame="119,0,116,30" name="collection_tab_all" preset="v7_transform_tabbutton" text="STR_TRANSFORMATION_TAB_COLLECTION_TOTAL" text_color="1.0,1.0,1.0,1.0" text_over_color="1.0,1.0,1.0,1.0" text_selected_color="1.0,1.0,1.0,1.0" type="tabbutton">
+						</Widget>
+						<Widget font="ui_default" frame="238,0,116,30" name="collection_tab_locked" preset="v7_transform_tabbutton" text="STR_TRANSFORMATION_TAB_COLLECTION_INCOMPLETE" text_color="1.0,1.0,1.0,1.0" text_over_color="1.0,1.0,1.0,1.0" text_selected_color="1.0,1.0,1.0,1.0" type="tabbutton">
+						</Widget>
+					</Widget>
+					<Widget frame="0,34,624,475" h_pos_align="proportion" name="page_collection_summary" type="tabpage" v_pos_align="proportion">
+						<Widget frame="0,0,624,475" h_pos_align="proportion" preset="v7_transform_common_bg" type="image" v_pos_align="proportion">
+							<Skin name="v5_static_bg6">
+							</Skin>
+						</Widget>
+						<Widget frame="0,1,624,191" name="section_collection_effect" type="container">
+							<Widget frame="2,0,620,25" name="image_collection_effect" preset="v7_transform_title_s_bg" type="image">
+								<Skin name="v5_dot" state="0">
+								</Skin>
+							</Widget>
+							<Widget font="v3_option" font_size="14" frame="5,3,357,19" halign="left" name="collection_info_effect" text="STR_TRANSFORMATION_COLLECTION_SUMMARY_TITLE_EFFECT" text_color="0.7686,0.6039,0.2078,1.0" type="static">
+							</Widget>
+							<Widget frame="4,35,616,152" preset="v5_transform_collection_used_reward" type="image">
+								<Skin name="v5_static_bg4" state="0">
+								</Skin>
+							</Widget>
+							<Widget flag="multiline" frame="8,39,608,144" halign="center" name="stat_collection_effect" type="static" valign="middle">
+								<Widget font="v3_option" font_size="13" frame="0,0,608,144" halign="center" name="stat_collection_effect_none" text="STR_TRANSFORMATION_COLLECTION_EFFECT_NONE" type="static">
+								</Widget>
+								<Widget flag="multiline" font_size="13" frame="0,0,198,144" halign="left" margin="10" name="stat_collection_effect_desc1" type="static" valign="top">
+								</Widget>
+								<Widget frame="200,4,2,140" image="v5_trade_tab_seperator" name="img_stat_collection_effect_line1" type="image">
+								</Widget>
+								<Widget flag="multiline" font_size="13" frame="205,0,198,144" halign="left" margin="10" name="stat_collection_effect_desc2" type="static" valign="top">
+								</Widget>
+								<Widget frame="405,4,2,140" image="v5_trade_tab_seperator" name="img_stat_collection_effect_line2" type="image">
+								</Widget>
+								<Widget flag="multiline" font_size="13" frame="410,0,198,144" halign="left" margin="10" name="stat_collection_effect_desc3" type="static" valign="top">
+								</Widget>
+							</Widget>
+						</Widget>
+						<Widget frame="0,201,624,240" name="section_collection_skill" type="container">
+							<Widget frame="2,0,620,25" name="image_collection_skill" preset="v7_transform_title_s_bg" type="image">
+								<Skin name="v5_dot" state="0">
+								</Skin>
+							</Widget>
+							<Widget font="v3_option" font_size="14" frame="5,3,357,19" halign="left" name="collection_info_skill" text="STR_TRANSFORMATION_COLLECTION_SUMMARY_TITLE_SKILL" text_color="0.7686,0.6039,0.2078,1.0" type="static">
+							</Widget>
+							<Widget can_click_item="True" direction_size="12" direction_type="vertical" drag_block_separator="true" elastic_grid_max_rect="0,0,624,150" elastic_grid_size="False" fit_item_size="False" fixed_item_size="False" frame="4,28,620,208" h_pos_align="left" inner_scroll="False" item_padding="6" item_spacing="0" name="grid_collection_skill" scroll_type="hidden" skin_type="shop" type="grid" v_pos_align="top">
+								<Widget frame="6,6,44,44" name="prototype" type="container">
+									<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="0,0,44,44" group="itemview" item_height="44" item_width="44" name="collect_skill_slot" preset="v7_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+									</Widget>
+								</Widget>
+							</Widget>
+							<Widget font="v3_option" font_size="13" frame="4,28,620,205" halign="center" name="stat_collection_skill_none" text="STR_TRANSFORMATION_COLLECTION_SKILL_NONE" type="static">
+							</Widget>
+						</Widget>
+					</Widget>
+					<Widget frame="0,34,624,475" h_pos_align="proportion" name="page_collection_total" type="tabpage" v_pos_align="proportion">
+					</Widget>
+					<Widget frame="0,34,624,475" h_pos_align="proportion" name="page_collection_locked" type="tabpage" v_pos_align="proportion">
+					</Widget>
+				</Widget>
+				<Widget frame="0,34,624,475" group="coll_base" name="collection_base_con" type="container">
+					<Widget frame="0,0,624,475" h_pos_align="proportion" preset="v7_transform_common_bg" type="image" v_pos_align="proportion">
+						<Skin name="v5_static_bg6">
+						</Skin>
+					</Widget>
+					<Widget can_click_item="True" direction_size="1" direction_type="vertical" drag_block_separator="true" elastic_grid_max_rect="0,0,396,420" elastic_grid_size="False" fit_item_size="False" fixed_item_size="False" flag="vscroll" frame="0,0,624,475" h_pos_align="center" inner_scroll="false" item_halign="center" item_padding="0" item_spacing="1" name="collection_list" scroll_type="visible" skin_type="shop" type="grid" v_pos_align="proportion">
+						<Widget frame="0,1,604,126" name="prototype" preset="v5_transform_collection_achivement" type="container">
+							<Widget frame="7,3,600,17" halign="center" name="desc" text_color="0.8314,0.9529,1.0,1.0" type="static" valign="middle">
+							</Widget>
+							<Widget frame="359,30,234,22" halign="center" name="skill_active" preset="v5_transform_collection_desc" type="static" valign="middle">
+							</Widget>
+							<Widget frame="122,30,234,22" halign="center" name="buff_active" preset="v5_transform_collection_desc" type="static" valign="middle">
+							</Widget>
+							<Widget cell_padding="0" frame="130,74,44,44" item_height="44" item_width="44" name="slot1" preset="v7_transform_slot_bg" type="itemview">
+							</Widget>
+							<Widget cell_padding="0" frame="211,74,44,44" item_height="44" item_width="44" name="slot2" preset="v7_transform_slot_bg" type="itemview">
+							</Widget>
+							<Widget cell_padding="0" frame="292,74,44,44" item_height="44" item_width="44" name="slot3" preset="v7_transform_slot_bg" type="itemview">
+							</Widget>
+							<Widget cell_padding="0" frame="373,74,44,44" item_height="44" item_width="44" name="slot4" preset="v7_transform_slot_bg" type="itemview">
+							</Widget>
+							<Widget cell_padding="0" frame="454,74,44,44" item_height="44" item_width="44" name="slot5" preset="v7_transform_slot_bg" type="itemview">
+							</Widget>
+							<Widget cell_padding="0" frame="538,74,44,44" item_height="44" item_width="44" name="slot6" preset="v7_transform_slot_bg" type="itemview">
+							</Widget>
+							<Widget frame="121,59,470,8" image="v5_transform_collection_gauge_bg" name="gauge_bg" type="image">
+							</Widget>
+							<Widget frame="121,59,470,7" name="gauge" preset="v5_transform_collection_gauge" type="gauge">
+							</Widget>
+							<Widget frame="121,56,470,12" h_pos_align="center" halign="center" name="gauge_static" type="static" v_pos_align="middle" valign="middle">
+							</Widget>
+							<Widget font_size="11" frame="5,2,18,18" halign="center" name="new_badge" preset="v5_webservice_pushcount" type="static" valign="middle">
+							</Widget>
+							<Widget frame="9,26,104,96" h_pos_align="proportion" name="frame_gold_image" preset="v7_transform_achieve_img" type="image" v_pos_align="proportion">
+								<Skin name="v5_static_bg6">
+								</Skin>
+							</Widget>
+							<Widget font_size="14" frame="130,75,452,44" halign="center" name="collection_mission_text" text="등급 개수 모으기" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+							</Widget>
+							<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="360,31,20,20" group="itemview" item_height="44" item_width="44" name="collect_skill_icon_mini" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+							</Widget>
+						</Widget>
+					</Widget>
+					<Widget font_size="14" frame="0,0,611,475" halign="center" name="message" text="STR_TRANSFORMATION_COLLECTION_LIST_NONE" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+					</Widget>
+				</Widget>
+			</Widget>
+		</Widget>
+		<Widget frame="16,191,32,32" name="menu_icon_profile" type="image">
+			<Skin name="abyss_artifact" state="0">
+			</Skin>
+		</Widget>
+		<Widget frame="16,246,32,32" name="menu_icon_contract" type="image">
+			<Skin name="abyss_artifact" state="0">
+			</Skin>
+		</Widget>
+		<Widget frame="16,302,32,32" name="menu_icon_manage" type="image">
+			<Skin name="abyss_artifact" state="0">
+			</Skin>
+		</Widget>
+		<Widget frame="16,356,32,32" name="menu_icon_compose" type="image">
+			<Skin name="abyss_artifact" state="0">
+			</Skin>
+		</Widget>
+		<Widget frame="16,411,32,32" name="menu_icon_collection" type="image">
+			<Skin name="abyss_artifact" state="0">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="9,10,171,182" name="profile_saved_trans" type="container">
+		<Widget frame="0,0,170,99" preset="v7_transform_profile_saved_bg" type="image">
+			<Skin name="v5_static_bg4" state="0">
+			</Skin>
+		</Widget>
+		<Widget frame="-3,165,176,15" preset="v7_transform_deco_img" type="image">
+			<Skin name="v5_static_bg4" state="0">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="8,40,44,44" group="itemview" item_height="44" item_width="44" name="icon_saved_trans" preset="v7_transform_slot_bg" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+		</Widget>
+		<Widget font="ui_default" frame="2,101,166,30" name="button_trans_invisible" preset="v7_transform_common_btn" text="STR_TRANSFORMATION_BUTTON_TRANS_INVISIBLE" text_color="0.9137,0.9137,0.9137,1.0" text_disabled_color="0.4314,0.4471,0.4392,1.0" text_over_color="1.0,1.0,1.0,1.0" text_selected_color="1.0,1.0,1.0,1.0" type="button">
+		</Widget>
+		<Widget font="ui_default" frame="2,133,166,30" name="button_trans_visible" preset="v7_transform_common_btn" text="STR_TRANSFORMATION_BUTTON_TRANS_VISIBLE" text_color="0.9137,0.9137,0.9137,1.0" text_disabled_color="0.4314,0.4471,0.4392,1.0" text_over_color="1.0,1.0,1.0,1.0" text_selected_color="1.0,1.0,1.0,1.0" type="button">
+		</Widget>
+		<Widget color="0.7569,0.7569,0.7569,1.0" font="v3_option" frame="7,6,158,19" halign="center" name="trans_profile_saved" text="STR_TRANSFORMATION_PROFILE_TRANSFORM_SAVED" type="static">
+		</Widget>
+		<Widget font="v3_option" frame="7,6,158,19" halign="center" name="trans_profile_saved_none" text="STR_TRANSFORMATION_PROFILE_TRANSFORM_NOT_SAVED" text_color="0.7569,0.7569,0.7569,1.0" type="static">
+		</Widget>
+		<Widget font="ui_default" font_size="12" frame="55,40,110,20" name="profile_saved_tier_grade" type="htmlview">
+		</Widget>
+		<Widget font="ui_default" font_size="12" frame="55,62,110,20" name="profile_saved_name" type="htmlview">
+		</Widget>
+	</Widget>
+	<Widget frame="5,-19,805,27" image="v7_transform_line_01" type="image">
+		<Skin name="v7_transform_line_01" state="0">
+		</Skin>
+	</Widget>
+</Dialog>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="close;title" frame="450,210,302,219" last_modified="2017-08-09 17:17:23" name="familiar_func_extend_confirm_dialog" preset="v5_msgbox" shadow_offset="8,8" title_align="left" title_frame="3,3,296,14" title_height="25" title_offset="5,5" title_text="STR_FAMILIAR_DIALOG_FFUNCTION_USE_CONFIRM_INDEX" type="dlg_familiar_func_extend_confirm">
+	<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="127,11,44,44" group="itemview" item_height="44" item_width="44" name="item" preset="v5_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+	</Widget>
+	<Widget frame="7,59,283,20" halign="center" name="item_desc" type="static" valign="middle">
+	</Widget>
+	<Widget font="ui_default" frame="7,83,283,73" name="html" padding="0,0" text="STR_FAMILIAR_COMPOSE_RESOURCE_DIALOG_INDEX_DESC" type="htmlview">
+	</Widget>
+	<Widget font="ui_default" frame="136,163,72,24" h_pos_align="right" name="ok" preset="v5_button" text="STR_OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="219,163,73,24" h_pos_align="right" name="cancel" preset="v5_button" text="STR_COMMON__CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

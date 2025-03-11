@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="left" close_offset="-7,-7" close_preset="luna_close" flag="close;title" frame="290,130,772,536" last_modified="2017-04-13 16:13:26" name="luna_tablet_dialog" preset="luna_dialog" shadow_offset="8,8" title_align="center" title_frame="3,3,775,14" type="dlg_luna_tablet">
+	<Widget flag="nonclient" frame="6,6,760,198" name="luna_bg" type="image">
+		<Skin name="luna_dialog_bg">
+		</Skin>
+	</Widget>
+	<Widget flag="nonclient" frame="5,10,767,140" name="container_info" type="container">
+		<Widget frame="61,0,184,180" name="char_img" type="image">
+		</Widget>
+		<Widget frame="61,0,184,180" h_pos_align="proportion" name="char_btn" type="button" v_pos_align="proportion">
+		</Widget>
+		<Widget flag="nonclient" frame="247,0,504,51" type="container">
+			<Widget font="luna_default" font_size="18" frame="66,1,426,51" halign="left" margin="10,0" name="common_desc" padding="2,0" type="static" valign="middle">
+			</Widget>
+			<Widget font="ui_default" frame="186,15,18,20" name="common_luna_help" preset="luna_help" type="button">
+			</Widget>
+		</Widget>
+		<Widget flag="nonclient" frame="532,88,218,51" type="container">
+			<Widget frame="10,13,190,28" type="image">
+				<Skin name="luna_money_bg">
+				</Skin>
+			</Widget>
+			<Widget font="luna_default" frame="44,13,142,28" halign="right" name="luna_point" padding="25,5" type="counter">
+			</Widget>
+			<Widget frame="5,5,45,45" name="luna_img" type="image">
+				<Skin name="luna_luna">
+				</Skin>
+			</Widget>
+			<Widget font="ui_default" frame="174,3,41,44" name="charge_btn" preset="luna_charge_btn" type="button">
+			</Widget>
+		</Widget>
+		<Widget font="ui_default" frame="1,18,82,116" name="home_btn" preset="luna_home" type="button">
+		</Widget>
+		<Widget flag="nonclient" frame="229,54,477,33" name="gossip_container" preset="0" type="container">
+			<Widget flag="nonclient" frame="30,0,447,33" preset="luna_gossip_bg" type="container">
+				<Widget flag="nonclient" frame="10,0,437,33" preset="0" type="container">
+					<Widget font="luna_default_small" frame="0,0,437,33" h_pos_align="proportion" name="common_gossip" padding="0,0" type="static" valign="middle">
+					</Widget>
+				</Widget>
+				<Widget frame="0,0,447,33" h_pos_align="proportion" name="common_gossip_btn" type="button" v_pos_align="proportion">
+				</Widget>
+			</Widget>
+			<Widget frame="15,20,16,12" type="image">
+				<Skin name="luna_gossip_bg_s2">
+				</Skin>
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget anim_style="none" frame="5,125,762,381" name="page_tab" type="tabsheet" v_pos_align="bottom">
+		<Widget btn_move_anim="False" flag="not_visible" frame="1,392,762,25" h_pos_align="proportion" tab_frame="0,0,674,25" tab_offset="6,0" type="tab">
+			<Widget flag="not_visible" font="ui_default" frame="38,14114,66,25" preset="v5_tabbutton" text="STR_ABYSS_RANK_DIALOG__TAB_INFO" type="tabbutton">
+			</Widget>
+			<Widget flag="not_visible" font="ui_default" frame="38,14114,79,25" preset="v5_tabbutton" text="STR_ABYSS_RANK_DIALOG__TAB_LIGHT_USER" type="tabbutton">
+			</Widget>
+			<Widget flag="not_visible" font="ui_default" frame="38,14114,79,25" preset="v5_tabbutton" text="STR_ABYSS_RANK_DIALOG__TAB_DARK_USER" type="tabbutton">
+			</Widget>
+			<Widget flag="not_visible" font="ui_default" frame="38,14114,66,25" preset="v5_tabbutton" text="STR_ABYSS_RANK_DIALOG__TAB_INFO" type="tabbutton">
+			</Widget>
+			<Widget flag="not_visible" font="ui_default" frame="38,14114,79,25" preset="v5_tabbutton" text="STR_ABYSS_RANK_DIALOG__TAB_LIGHT_USER" type="tabbutton">
+			</Widget>
+			<Widget flag="not_visible" font="ui_default" frame="38,14114,79,25" preset="v5_tabbutton" text="STR_ABYSS_RANK_DIALOG__TAB_DARK_USER" type="tabbutton">
+			</Widget>
+			<Widget flag="not_visible" font="ui_default" frame="38,14114,79,25" preset="v5_tabbutton" text="STR_ABYSS_RANK_DIALOG__TAB_DARK_USER" type="tabbutton">
+			</Widget>
+		</Widget>
+		<Widget frame="0,1,762,380" h_pos_align="proportion" name="page_luna_indun" preset="v5_staticbox5" type="tabpage" v_pos_align="proportion">
+			<Widget frame="13,20,410,345" name="map" type="container">
+				<Skin name="luna_indun_map" state="0">
+				</Skin>
+				<Widget font="ui_default" frame="6,10,47,50" name="indun_preset" preset="luna_indun_entrance" type="button">
+				</Widget>
+			</Widget>
+			<Widget frame="433,20,316,345" preset="luna_container" type="container">
+			</Widget>
+			<Widget frame="41,262,359,92" preset="luna_container2" type="image">
+			</Widget>
+			<Widget font="luna_default_small" frame="168,271,217,74" name="indun_desc" scroll_type="hidden" text="test string" type="htmlview">
+			</Widget>
+			<Widget frame="49,267,113,81" name="indun_image" type="image">
+			</Widget>
+			<Widget frame="49,267,113,81" preset="luna_container3" type="image">
+			</Widget>
+			<Widget font="luna_default" frame="52,234,329,27" halign="left" name="indun_desc_title" text="STR_LUNA_TABLET_DIALOG__INDUN_MAP" type="static">
+			</Widget>
+			<Widget font="luna_default" frame="98,9,251,30" halign="center" padding="0,5" preset="luna_title" text="STR_LUNA_TABLET_DIALOG__INDUN_MAP" type="static" valign="top">
+			</Widget>
+			<Widget frame="434,18,307,201" preset="luna_container2" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget cell_padding="1" cell_space="-1,-1" frame="440,221,300,69" item_height="34" item_width="34" name="indun_reward" preset="luna_slot" reserve_slots="True" slot_num="18" type="listview" viewmode="icon">
+			</Widget>
+			<Widget font="luna_default" frame="465,9,251,30" halign="center" padding="0,5" preset="luna_title" text="STR_LUNA_TABLET_DIALOG__INDUN_INFO" type="static" valign="top">
+			</Widget>
+			<Widget font="luna_default_small" frame="445,54,104,19" halign="left" text="STR_LUNA_TABLET_DIALOG__INDUN_ENTRANCE_INFO" type="static">
+			</Widget>
+			<Widget flag="truncate" font="luna_default_small" frame="553,54,180,19" name="indun_reset_info" type="static">
+			</Widget>
+			<Widget flag="truncate" font="luna_default_small" frame="553,117,180,19" name="indun_number" type="static">
+			</Widget>
+			<Widget font="luna_default_small" frame="445,117,104,19" halign="left" text="STR_LUNA_TABLET_DIALOG__INDUN_MAX_NUMBER" type="static">
+			</Widget>
+			<Widget flag="truncate" font="luna_default_small" frame="553,139,180,19" name="indun_level" type="static">
+			</Widget>
+			<Widget font="luna_default_small" frame="445,139,104,19" halign="left" text="STR_LUNA_TABLET_DIALOG__INDUN_ENTER_LEVEL" type="static">
+			</Widget>
+			<Widget font="luna_default_small" frame="553,161,181,51" html_margin="0" margin="0,2,0,0" name="indun_info" scroll_type="hidden" type="htmlview">
+			</Widget>
+			<Widget defbutton="False" font="luna_default" frame="478,307,236,42" group="indun_enter" halign="center" name="indun_enter" preset="luna_button" text="STR_LUNA_TABLET_DIALOG__INDUN_ENTER" type="button">
+			</Widget>
+			<Widget defbutton="False" font="luna_default" frame="454,307,203,42" group="indun_reentry" halign="center" name="indun_enter_new" preset="luna_button" text="STR_LUNA_TABLET_DIALOG__INDUN_ENTER" type="button">
+			</Widget>
+			<Widget defbutton="False" font="luna_default_small" frame="660,322,72,25" group="indun_reentry" name="indun_enter_reentry" preset="luna_button_sm_not_disable" text="STR_LUNA_TABLET_DIALOG__INDUN_REENTER" type="button">
+			</Widget>
+			<Widget font="luna_default_small" frame="445,161,104,19" halign="left" text="STR_LUNA_TABLET_DIALOG__INDUN_REWARD" type="static">
+			</Widget>
+			<Widget flag="truncate" font="luna_default_small" frame="553,75,180,19" name="indun_free_count" type="static">
+			</Widget>
+			<Widget font="luna_default_small" frame="445,75,104,19" halign="left" text="STR_LUNA_TABLET_DIALOG__INDUN_COUNT_POSSIBLE_FREE_ENTER" type="static">
+			</Widget>
+			<Widget flag="truncate" font="luna_default_small" frame="553,96,180,19" name="indun_repeat_count" type="static">
+			</Widget>
+			<Widget font="luna_default_small" frame="445,96,104,19" halign="left" text="STR_LUNA_TABLET_DIALOG__INDUN_COUNT_POSSIBLE_ENTER" type="static">
+			</Widget>
+		</Widget>
+		<Widget frame="0,1,762,380" h_pos_align="proportion" name="page_luna_wardrobe" type="tabpage" v_pos_align="proportion">
+			<Widget frame="1,2,431,378" preset="v5_staticbox5" type="container">
+				<Widget frame="11,18,410,345" preset="luna_container" type="container">
+					<Widget flag="multiline;wordwrap" font="luna_default_small" frame="5,-1,399,86" halign="center" margin="0,30,0,10" name="wardrobe_desc" preset="luna_container2" text="STR_LUNA_TABLET_DIALOG__WARDROBE_DESC" type="static" valign="top">
+					</Widget>
+					<Widget direction_size="4" direction_type="vertical" drag_block_separator="true" elastic_grid_max_rect="0,0,550,406" elastic_grid_size="False" fit_item_size="False" fixed_item_size="False" frame="9,88,392,250" h_pos_align="proportion" inner_scroll="false" item_halign="center" item_padding="0" item_spacing="1" item_valign="middle" name="wardrobe_grid" scroll_type="visible" skin_type="version5" type="grid" v_pos_align="proportion">
+					</Widget>
+				</Widget>
+				<Widget font="luna_default" frame="97,7,251,30" halign="center" padding="0,5" preset="luna_title" text="STR_LUNA_TABLET_DIALOG__WARDROBE" type="static" valign="top">
+				</Widget>
+			</Widget>
+			<Widget frame="430,1,331,379" preset="v5_staticbox5" type="container">
+				<Widget frame="1,32,329,346" h_pos_align="center" halign="center" preset="luna_tab_frame" type="static" v_pos_align="middle">
+				</Widget>
+				<Widget camtable="preview" frame="125,42,196,279" h_pos_align="right" name="wardrobe_model" type="3dview" v_pos_align="proportion">
+					<Skin name="v5_static_bg" state="back">
+					</Skin>
+				</Widget>
+				<Widget font="luna_default" frame="1,-1,165,35" h_pos_align="proportion" name="skin_change_mode" preset="luna_tab_button" text="STR_LUNA_TABLET_DIALOG__WARDROBE_SKIN_CHANGE" type="button" v_pos_align="top">
+				</Widget>
+				<Widget font="luna_default" frame="165,-1,165,35" h_pos_align="proportion" halign="center" name="skin_remove_mode" preset="luna_tab_button" text="STR_LUNA_TABLET_DIALOG__WARDROBE_SKIN_REMOVE" type="button" v_pos_align="top">
+				</Widget>
+				<Widget font="luna_default" frame="123,328,199,42" h_pos_align="right" name="apply_button" preset="luna_button" type="button" v_pos_align="bottom">
+				</Widget>
+				<Widget frame="174,278,34,35" h_pos_align="right" name="turnright" preset="v5_potrait_right" type="button" v_pos_align="bottom">
+				</Widget>
+				<Widget frame="235,278,34,35" h_pos_align="right" name="turnleft" preset="v5_potrait_left" type="button" v_pos_align="bottom">
+				</Widget>
+				<Widget frame="290,46,27,27" name="showrobot" preset="v5_paperdoll_robot" type="button">
+				</Widget>
+				<Widget frame="4,36,117,334" group="wardrobe_remove" h_pos_align="proportion" name="skin_remove_container" type="container" v_pos_align="proportion">
+					<Widget frame="25,129,64,64" h_pos_align="center" preset="luna_wardrobe_slot_target_bg" type="image" v_pos_align="middle">
+					</Widget>
+					<Widget cell_padding="2" frame="35,139,44,44" h_pos_align="center" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" type="itemview" v_pos_align="middle">
+					</Widget>
+					<Widget font="luna_default_small" frame="3,111,110,18" h_pos_align="center" halign="center" text="STR_LUNA_TABLET_DIALOG__WARDROBE_DELETE" type="static" v_pos_align="middle">
+					</Widget>
+				</Widget>
+				<Widget frame="4,36,117,334" group="wardrobe_change" h_pos_align="proportion" name="skin_change_container" type="container" v_pos_align="proportion">
+					<Widget frame="15,83,83,45" h_pos_align="center" name="wardrobe_bg" type="image" v_pos_align="top">
+						<Skin name="luna_wardrobe_bg_exist" state="0">
+						</Skin>
+					</Widget>
+					<Widget frame="16,36,80,84" h_pos_align="center" name="source_item_slot_bg" preset="luna_wardrobe_slot_bg" type="image" v_pos_align="top">
+					</Widget>
+					<Widget cell_padding="2" frame="34,54,44,44" h_pos_align="center" item_height="44" item_width="44" name="source_item" preset="v5_deco_itemview" type="itemview" v_pos_align="top">
+					</Widget>
+					<Widget font="luna_default_small" frame="4,34,110,18" h_pos_align="center" halign="center" text="STR_LUNA_TABLET_DIALOG__WARDROBE_SOURCE" type="static" v_pos_align="top">
+					</Widget>
+					<Widget frame="26,218,64,64" h_pos_align="center" preset="luna_wardrobe_slot_target_bg" type="image" v_pos_align="bottom">
+					</Widget>
+					<Widget cell_padding="2" frame="36,228,44,44" h_pos_align="center" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" type="itemview" v_pos_align="bottom">
+					</Widget>
+					<Widget font="luna_default_small" frame="3,200,110,18" h_pos_align="center" halign="center" text="STR_LUNA_TABLET_DIALOG__WARDROBE_TARGET" type="static" v_pos_align="bottom">
+					</Widget>
+				</Widget>
+			</Widget>
+			<Widget flag="not_visible" frame="0,420,98,125" name="prototype_wardrobe_item" type="container">
+				<Widget frame="7,42,83,45" name="wardrobe_bg" preset="luna_wardrobe_bg" type="image">
+				</Widget>
+				<Widget frame="8,1,80,84" name="wardrobe_slot_bg" preset="luna_wardrobe_slot_bg" type="image">
+				</Widget>
+				<Widget cell_padding="2" frame="26,20,44,44" h_pos_align="center" item_height="44" item_width="44" name="wardrobe_item" preset="v5_deco_itemview" type="itemview" v_pos_align="middle">
+				</Widget>
+				<Widget font="luna_button_noshade" frame="13,90,72,25" name="wardrobe_button" preset="luna_button_sm" type="button">
+				</Widget>
+			</Widget>
+		</Widget>
+		<Widget frame="0,1,762,380" h_pos_align="proportion" name="page_luna_boost" preset="v5_staticbox5" type="tabpage" v_pos_align="proportion">
+			<Widget font="luna_default_small" frame="10,5,217,23" halign="left" name="show_today" preset="v5_check" style="checkbox" text="STR_LUNA_SIEGE_DIALOG_TRAINING_TODAYLIST" text_offset="3,0" type="button">
+			</Widget>
+			<Widget direction_size="1" direction_type="vertical" drag_block_separator="true" elastic_grid_max_rect="0,0,550,406" elastic_grid_size="False" fit_item_size="False" fixed_item_size="False" flag="vscroll" frame="5,29,751,346" h_pos_align="proportion" inner_scroll="false" item_padding="0" item_spacing="0" name="boost_grid" scroll_type="visible" skin_type="luna" type="grid" v_pos_align="proportion">
+			</Widget>
+			<Widget font="luna_default" frame="5,160,757,24" halign="center" name="not_exist_fortress" text="STR_LUNA_SIEGE_TRAINING_NOSIEGE" type="static">
+			</Widget>
+			<Widget flag="not_visible" frame="0,420,742,108" name="prototype_boost_item" type="container">
+				<Widget frame="5,3,727,100" name="prototype_boost_item" preset="luna_staticbox2" type="container">
+					<Widget font="luna_default" frame="139,6,219,25" h_pos_align="center" halign="left" name="boost_item_name" padding="3,0" text="STR_GUILD_INFO_DIALOG__REWARD_COL_FORTRESS" type="static" v_pos_align="middle" valign="middle">
+					</Widget>
+					<Widget font="luna_default_small" frame="84,6,64,25" h_pos_align="center" halign="center" name="boost_race" padding="3,0" text="STR_INDUN_ACCOUNT_BATTLEFIELD_DIALOG__LIGHT" type="static" v_pos_align="middle" valign="middle">
+					</Widget>
+					<Widget font="luna_default_small" frame="93,31,266,17" h_pos_align="center" halign="left" padding="3,0" text="STR_LUNA_SIEGE_DIALOG_TITLE_REWARD" type="static" v_pos_align="middle" valign="middle">
+					</Widget>
+					<Widget cell_padding="1" cell_space="3,1" frame="97,50,457,40" item_height="40" item_width="40" name="boost_reward" preset="luna_slot" reserve_slots="True" slot_num="10" type="listview" viewmode="icon">
+					</Widget>
+					<Widget font="luna_default" frame="567,53,150,40" h_pos_align="center" name="boost_teleport_button" preset="luna_boost_button" text="STR_DLG_GUILD_INFO__COLUMN_HEAD_POS" type="button" v_pos_align="bottom">
+					</Widget>
+					<Widget font="luna_default" frame="567,8,150,40" h_pos_align="center" name="boost_on_button" preset="luna_button" text="STR_GLOBAL_OPTION_DIALOG__CHAR_HIDE_ON" type="button" v_pos_align="bottom">
+					</Widget>
+					<Widget font="luna_default" frame="567,8,150,40" halign="center" name="boosted" preset="luna_button_static" text="STR_LUNA_SIEGE_TRAINING_BOOSTON" type="static">
+					</Widget>
+					<Widget font="luna_default" frame="557,0,170,56" name="boosted_fx" type="button">
+					</Widget>
+				</Widget>
+				<Widget frame="8,1,86,108" name="boost_fortress_curtain" type="image">
+					<Skin name="luna_boost_curtain">
+					</Skin>
+				</Widget>
+				<Widget frame="34,31,34,32" name="boost_fortress_img" type="image">
+					<Skin name="abyss_fortress">
+					</Skin>
+				</Widget>
+			</Widget>
+		</Widget>
+		<Widget frame="0,1,762,380" h_pos_align="proportion" name="page_luna_making" type="tabpage" v_pos_align="proportion">
+			<Widget frame="0,0,762,380" h_pos_align="proportion" type="container" v_pos_align="proportion">
+				<Widget frame="0,0,336,381" h_pos_align="proportion" preset="v5_staticbox5" type="container" v_pos_align="proportion">
+					<Widget anim_style="none" frame="0,0,336,381" h_pos_align="proportion" type="tabsheet" v_pos_align="proportion">
+						<Widget btn_move_anim="False" frame="0,0,336,40" h_pos_align="proportion" tab_align="none" tab_offset="6,0" tab_space="0" type="tab" v_pos_align="top">
+							<Widget font="luna_default" frame="168,0,168,40" h_pos_align="proportion" halign="center" name="select_special_recipes" preset="luna_special_tab_button" text="STR_LUNA_TABLET_DIALOG__CRAFT_TAB_SPECIAL" type="tabbutton" v_pos_align="top">
+							</Widget>
+							<Widget font="luna_default" frame="1,2,167,40" h_pos_align="proportion" halign="center" name="select_daily_recipes" preset="luna_tab_button" text="STR_LUNA_TABLET_DIALOG__CRAFT_TAB_TODAY" type="tabbutton" v_pos_align="top">
+							</Widget>
+						</Widget>
+						<Widget frame="1,40,334,341" group="making_recipe_special" h_pos_align="proportion" name="page_recipe_special" preset="luna_tab_frame" type="tabpage" v_pos_align="proportion">
+							<Widget frame="2,0,330,339" h_pos_align="proportion" preset="luna_container4" type="container" v_pos_align="proportion">
+							</Widget>
+							<Widget font_size="11" frame="19,0,300,20" h_pos_align="proportion" halign="left" name="recipe_remain_time" padding="5, 2" type="static" valign="middle">
+							</Widget>
+							<Widget direction_size="1" direction_type="vertical" drag_block_separator="false" elastic_grid_size="false" fit_item_size="True" fixed_item_size="true" flag="vscroll;snap_scroll" frame="25,20,284,310" h_pos_align="proportion" inner_scroll="False" item_padding="1" item_spacing="0" name="grid_recipe" preset="v5_grid_quest_indicator" skin_type="luna" type="grid" v_pos_align="proportion">
+							</Widget>
+						</Widget>
+						<Widget frame="1,40,334,341" group="making_recipe_daily" h_pos_align="proportion" name="page_recipe_daily" preset="luna_tab_frame" type="tabpage" v_pos_align="proportion">
+							<Widget font_size="11" frame="19,0,300,20" h_pos_align="proportion" halign="left" name="recipe_remain_time" padding="5, 2" text="STR_LUNA_TABLET_DIALOG__CRAFT_TAB_TODAY_DESC" type="static" valign="middle">
+							</Widget>
+							<Widget direction_size="1" direction_type="vertical" drag_block_separator="false" elastic_grid_size="false" fit_item_size="True" fixed_item_size="true" flag="vscroll;snap_scroll" frame="25,20,284,310" h_pos_align="proportion" inner_scroll="False" item_padding="1" item_spacing="0" name="grid_recipe" preset="v5_grid_quest_indicator" skin_type="luna" type="grid" v_pos_align="proportion">
+							</Widget>
+						</Widget>
+						<Widget flag="not_visible" frame="25,60,286,60" h_pos_align="proportion" name="recipe_prototype" preset="luna_recipe_item" type="container">
+							<Widget cell_padding="1" cell_space="0,0" flag="truncate" frame="9,9,42,42" h_pos_align="left" item_height="32" item_width="32" name="slot" preset="luna_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+							</Widget>
+							<Widget font="luna_white_small" frame="60,10,214,20" h_pos_align="proportion" name="name" padding="0,0" text="STR_COMMON__TOOLTIP_INGAMESHOP" type="static">
+							</Widget>
+							<Widget font="luna_white_small" frame="60,30,214,20" h_pos_align="proportion" name="desc" padding="0,0" text="STR_COMMON__HELP" type="static">
+							</Widget>
+						</Widget>
+					</Widget>
+				</Widget>
+				<Widget frame="333,0,429,381" h_pos_align="proportion" preset="v5_staticbox5" type="container" v_pos_align="proportion">
+					<Widget frame="6,20,418,352" h_pos_align="proportion" preset="luna_container" type="container" v_pos_align="proportion">
+					</Widget>
+					<Widget frame="10,34,409,114" h_pos_align="proportion" type="container" v_pos_align="proportion">
+						<Widget frame="148,0,114,114" type="container">
+							<Widget frame="0,0,114,114" name="product_bg" preset="luna_product_bg" type="image">
+							</Widget>
+							<Widget frame="24,24,64,64" name="product_item_bg" preset="luna_slot_bg4" type="image">
+							</Widget>
+							<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="36,36,40,40" item_height="44" item_width="44" name="product_item" preset="luna_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+							</Widget>
+						</Widget>
+						<Widget font="luna_white_small" frame="97,93,214,20" h_pos_align="center" halign="center" name="result_name" padding="0,0" type="static">
+						</Widget>
+					</Widget>
+					<Widget font="luna_default" frame="89,4,251,30" h_pos_align="center" halign="center" padding="0,5" preset="luna_title" text="STR_LUNA_TABLET_DIALOG__CRAFT_TABLE" type="static" valign="top">
+					</Widget>
+					<Widget frame="10,151,409,224" h_pos_align="proportion" type="container" v_pos_align="proportion">
+						<Widget direction_size="1" direction_type="horizontal" drag_block_separator="false" elastic_grid_max_rect="0,0,298,100" elastic_grid_size="false" fit_item_size="True" fixed_item_size="true" frame="20,0,369,100" h_pos_align="proportion" inner_scroll="False" item_halign="center" item_padding="4" item_spacing="0" name="grid_component" preset="v5_grid_quest_indicator" skin_type="version5" type="grid" v_pos_align="top">
+							<Widget flag="not_visible" frame="0,0,68,100" name="prototype" type="container">
+								<Widget cell_padding="1" cell_space="0,0" flag="truncate" frame="13,2,42,42" h_pos_align="center" item_height="32" item_width="32" name="slot" preset="luna_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" v_pos_align="middle" viewmode="detail">
+								</Widget>
+								<Widget font="luna_white_very_small" frame="2,46,64,18" h_pos_align="proportion" halign="center" name="quantity" text="(230/450)" type="static" v_pos_align="top">
+								</Widget>
+								<Widget frame="25,68,18,15" h_pos_align="center" name="luna_sufficient" preset="luna_check_static" type="static" v_pos_align="top">
+								</Widget>
+								<Widget frame="2,64,64,36" h_pos_align="proportion" name="luna_insufficient" type="container" v_pos_align="proportion">
+									<Widget defbutton="False" font="ui_default" frame="21,0,24,23" h_pos_align="center" name="luna_buy" preset="luna_plus" type="button" v_pos_align="top">
+									</Widget>
+									<Widget font="luna_white_very_small" frame="2,21,62,18" h_pos_align="proportion" halign="center" name="luna_required" text="$100" type="static" v_pos_align="bottom">
+									</Widget>
+								</Widget>
+							</Widget>
+						</Widget>
+						<Widget font="luna_default_small" frame="15,102,379,68" h_pos_align="proportion" html_margin="20,10" name="make_desc" preset="luna_container2" text="STR_COMMON__TOOLTIP_INGAMESHOP" type="htmlview" v_pos_align="proportion" valign="top">
+						</Widget>
+						<Widget flag="active" frame="0,0,409,168" group="temporary" h_pos_align="proportion" name="result_container" type="container" v_pos_align="proportion">
+							<Widget font="luna_default" font_size="32" frame="10,74,389,36" h_pos_align="proportion" halign="center" name="result_desc" padding="0,0" type="static">
+							</Widget>
+						</Widget>
+						<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="62,157,285,69" fx_offset="8,20" fx_size="47,31" h_pos_align="center" name="make_product" preset="luna_making_btn" single_click_only="True" text="STR_TOOL_MAKING_DIALOG__BUTTON_START" type="gaugebutton" v_pos_align="bottom">
+						</Widget>
+						<Widget defbutton="False" down_offset="0,1" flag="not_visible" font="ui_default" font_size="16" frame="62,157,285,69" fx_offset="8,20" fx_size="47,31" h_pos_align="center" name="open_gotcha_box" preset="luna_making_btn" single_click_only="True" text="STR_TOOL_MAKING_DIALOG__BUTTON_START" type="gaugebutton" v_pos_align="bottom">
+						</Widget>
+					</Widget>
+				</Widget>
+			</Widget>
+		</Widget>
+		<Widget frame="0,1,762,380" h_pos_align="proportion" name="page_luna_reward" preset="v5_staticbox5" type="tabpage" v_pos_align="proportion">
+			<Widget frame="30,10,368,353" h_pos_align="proportion" name="con_reward_list" type="container" v_pos_align="proportion">
+				<Skin name="luna_reward_bg">
+				</Skin>
+				<Widget direction_size="1" direction_type="vertical" drag_block_separator="false" elastic_grid_size="false" fit_item_size="True" fixed_item_size="true" flag="vscroll;snap_scroll" frame="24,65,318,249" h_pos_align="proportion" inner_scroll="False" item_padding="1" item_spacing="0" name="grid_reward" preset="v5_grid_quest_indicator" skin_type="luna_paper" type="grid" v_pos_align="proportion">
+				</Widget>
+				<Widget flag="not_visible" frame="25,67,303,60" name="prototype_reward" type="container">
+					<Widget cell_padding="1" cell_space="0,0" flag="truncate;not_active" frame="124,7,40,40" item_height="32" item_width="32" name="slot0" preset="luna_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+					</Widget>
+					<Widget cell_padding="1" cell_space="0,0" flag="truncate" frame="171,7,40,40" item_height="32" item_width="32" name="slot1" preset="luna_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+					</Widget>
+					<Widget cell_padding="1" cell_space="0,0" flag="truncate" frame="218,7,40,40" item_height="32" item_width="32" name="slot2" preset="luna_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+					</Widget>
+					<Widget font="quest_summary" frame="49,16,64,24" h_pos_align="left" halign="left" name="req_point" padding="5, 2" text="123" type="static" v_pos_align="middle">
+					</Widget>
+					<Widget flag="nonclient" frame="12,14,33,33" type="image">
+						<Skin main_state="0" name="luna_luna">
+						</Skin>
+					</Widget>
+					<Widget flag="nonclient" font="quest_summary" font_size="16" frame="8,0,55,55" halign="center" name="acquired_stamp" text="STR_LUNA_TABLET_DIALOG__REWARD_STAMP" text_color="0.502,0.251,0.251,1.0" type="static" valign="middle">
+						<Skin name="luna_reward_aquire_stamp" state="0">
+						</Skin>
+					</Widget>
+					<Widget frame="0,56,302,4" h_pos_align="proportion" type="image" v_pos_align="bottom">
+						<Skin main_state="0" name="luna_reward_bg_line">
+						</Skin>
+					</Widget>
+				</Widget>
+				<Widget frame="30,44,306,20" h_pos_align="proportion" halign="center" name="recipe_remain_time" padding="5, 2" text="STR_LUNA_REWARD_REWARD_TIMER" type="static" valign="middle">
+				</Widget>
+			</Widget>
+			<Widget frame="418,21,316,335" h_pos_align="proportion" name="con_reward_gacha" preset="luna_container" type="container" v_pos_align="proportion">
+				<Widget flag="non;nonclient" font="luna_default" frame="32,-12,251,30" h_pos_align="proportion" halign="center" padding="5,5" preset="luna_title" text="STR_LUNA_REWARD_GOTCHA_TITLE" type="static" valign="top">
+				</Widget>
+				<Widget font="luna_default_small" frame="72,252,82,20" h_pos_align="proportion" halign="right" padding="5, 2" text="STR_LUNA_REWARD_GOTCHA_KEY" type="static">
+				</Widget>
+				<Widget frame="153,246,29,32" type="image">
+					<Skin name="luna_reward_key">
+					</Skin>
+				</Widget>
+				<Widget font="luna_default" frame="58,282,204,42" h_pos_align="center" name="btn_gacha_confirm" preset="luna_button" text="STR_UPGRADE_ITEM_DIALOG__OK" type="button">
+				</Widget>
+				<Widget font="luna_default" frame="58,282,204,42" h_pos_align="center" name="btn_gacha_by_luna" preset="luna_button" type="button">
+				</Widget>
+				<Widget font="luna_default" frame="58,282,204,42" h_pos_align="center" name="btn_gacha_by_reward" preset="luna_button" type="button">
+				</Widget>
+				<Widget font="luna_default_small" frame="181,252,73,20" h_pos_align="proportion" halign="left" name="reward_point" padding="5, 2" text="123,456,789" type="static">
+				</Widget>
+				<Widget blend_type="screen" frame="9,2,296,318" h_pos_align="center" type="image">
+					<Skin name="luna_reward_chest_bg" state="0">
+					</Skin>
+				</Widget>
+				<Widget frame="83,64,171,172" h_pos_align="proportion" name="luna_reward_chest_fx" type="container" v_pos_align="proportion">
+				</Widget>
+				<Widget frame="83,64,171,172" h_pos_align="center" name="luna_reward_chest" preset="luna_reward_chest" type="image">
+				</Widget>
+				<Widget frame="83,64,171,172" h_pos_align="proportion" name="luna_reward_chest_fx_front" type="container" v_pos_align="proportion">
+				</Widget>
+				<Widget frame="-21,15,362,270" h_pos_align="proportion" name="luna_reward_chest_slot_bg" preset="luna_container2" type="container" v_pos_align="proportion">
+					<Widget cell_padding="1" cell_space="0,0" flag="truncate;not_visible" frame="72,89,44,44" h_pos_align="center" item_height="32" item_width="32" name="result_item0" preset="luna_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+					</Widget>
+					<Widget cell_padding="1" cell_space="0,0" flag="truncate;not_visible" frame="159,89,44,44" h_pos_align="center" item_height="32" item_width="32" name="result_item1" preset="luna_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+					</Widget>
+					<Widget cell_padding="1" cell_space="0,0" flag="truncate;not_visible" frame="246,89,44,44" h_pos_align="center" item_height="32" item_width="32" name="result_item2" preset="luna_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+					</Widget>
+				</Widget>
+			</Widget>
+			<Widget font="quest_summary" font_size="14" frame="84,30,272,28" h_pos_align="proportion" halign="center" padding="5, 2" text="STR_LUNA_REWARD_REWARD_TITLE" type="static">
+			</Widget>
+		</Widget>
+		<Widget frame="0,1,762,380" h_pos_align="proportion" name="page_luna_gotcha" preset="v5_staticbox5" type="tabpage" v_pos_align="proportion">
+			<Widget flag="not_visible" frame="5,5,752,371" name="bg_gold" type="image">
+				<Skin name="luna_gotcha_gold_bg">
+				</Skin>
+				<Widget font="luna_default" frame="274,325,204,42" h_pos_align="center" name="btn_draw_dice_gold" preset="luna_gotcha_gold_button" type="button">
+				</Widget>
+			</Widget>
+			<Widget frame="5,5,752,371" name="bg_normal" type="image">
+				<Skin name="luna_gotcha_normal_bg">
+				</Skin>
+				<Widget font="luna_default" frame="274,325,204,42" h_pos_align="center" name="btn_draw_dice" preset="luna_button" type="button">
+				</Widget>
+				<Widget font="ui_default" frame="171,332,102,26" halign="left" name="check_continue" preset="v5_check" style="checkbox" text="STR_LUNA_DICE_REPEAT" text_offset="5,0" type="button" v_pos_align="bottom">
+				</Widget>
+			</Widget>
+			<Widget frame="5,45,752,270" name="dice_normal" type="container">
+				<Widget font="ui_default" frame="113,0,92,254" name="dice_normal_5" text_offset="5,0" type="button" v_pos_align="bottom">
+					<Widget flag="not_visible" frame="10,187,72,72" name="dice_normal_fx_5" type="static">
+					</Widget>
+				</Widget>
+				<Widget font="ui_default" frame="222,0,92,254" name="dice_normal_4" text_offset="5,0" type="button" v_pos_align="bottom">
+					<Widget flag="not_visible" frame="10,187,72,72" name="dice_normal_fx_4" type="static">
+					</Widget>
+				</Widget>
+				<Widget font="ui_default" frame="331,0,92,254" name="dice_normal_3" text_offset="5,0" type="button" v_pos_align="bottom">
+					<Widget flag="not_visible" frame="10,187,72,72" name="dice_normal_fx_3" type="static">
+					</Widget>
+				</Widget>
+				<Widget font="ui_default" frame="440,0,92,254" name="dice_normal_2" text_offset="5,0" type="button" v_pos_align="bottom">
+					<Widget flag="not_visible" frame="10,187,72,72" name="dice_normal_fx_2" type="static">
+					</Widget>
+				</Widget>
+				<Widget font="ui_default" frame="549,0,92,254" name="dice_normal_1" text_offset="5,0" type="button" v_pos_align="bottom">
+					<Widget flag="not_visible" frame="10,187,72,72" name="dice_normal_fx_1" type="static">
+					</Widget>
+				</Widget>
+			</Widget>
+			<Widget frame="5,45,752,270" name="dice_repeat" type="container">
+				<Widget font="ui_default" frame="114,109,91,148" name="dice_repeat_5" text_offset="5,0" type="button" v_pos_align="bottom">
+					<Widget flag="not_visible" frame="9,78,72,72" name="dice_repeat_fx_5" type="static">
+					</Widget>
+				</Widget>
+				<Widget font="ui_default" frame="223,109,91,148" name="dice_repeat_4" text_offset="5,0" type="button" v_pos_align="bottom">
+					<Widget flag="not_visible" frame="9,78,72,72" name="dice_repeat_fx_4" type="static">
+					</Widget>
+				</Widget>
+				<Widget font="ui_default" frame="332,109,91,148" name="dice_repeat_3" text_offset="5,0" type="button" v_pos_align="bottom">
+					<Widget flag="not_visible" frame="9,78,72,72" name="dice_repeat_fx_3" type="static">
+					</Widget>
+				</Widget>
+				<Widget font="ui_default" frame="441,109,91,148" name="dice_repeat_2" text_offset="5,0" type="button" v_pos_align="bottom">
+					<Widget flag="not_visible" frame="9,78,72,72" name="dice_repeat_fx_2" type="static">
+					</Widget>
+				</Widget>
+				<Widget font="ui_default" frame="550,109,91,148" name="dice_repeat_1" text_offset="5,0" type="button" v_pos_align="bottom">
+					<Widget flag="not_visible" frame="9,78,72,72" name="dice_repeat_fx_1" type="static">
+					</Widget>
+				</Widget>
+			</Widget>
+			<Widget frame="155,0,452,168" name="dice_gold" type="container">
+				<Widget flag="not_visible" font="ui_default" frame="25,1,112,167" name="dice_golden_2" text_offset="5,0" type="button" v_pos_align="bottom">
+					<Widget flag="not_visible" frame="14,78,84,84" name="dice_golden_fx_2" type="static">
+					</Widget>
+				</Widget>
+				<Widget flag="not_visible" font="ui_default" frame="317,1,112,167" name="dice_golden_1" text_offset="5,0" type="button" v_pos_align="bottom">
+					<Widget flag="not_visible" frame="14,78,84,84" name="dice_golden_fx_1" type="static">
+					</Widget>
+				</Widget>
+			</Widget>
+			<Widget frame="5,45,752,270" name="dice_image" type="container">
+				<Widget flag="not_visible" frame="185,30,86,86" h_pos_align="center" name="dice_golden_img2" type="image">
+					<Skin name="luna_gotcha_gold_sugo">
+					</Skin>
+				</Widget>
+				<Widget flag="not_visible" frame="477,30,86,86" h_pos_align="center" name="dice_golden_img1" type="image">
+					<Skin name="luna_gotcha_gold_sugo">
+					</Skin>
+				</Widget>
+				<Widget flag="not_visible" frame="123,188,72,72" h_pos_align="center" name="dice_normal_result5" preset="luna_gotcha_normal_result" type="image">
+				</Widget>
+				<Widget flag="not_visible" frame="232,188,72,72" h_pos_align="center" name="dice_normal_result4" preset="luna_gotcha_normal_result" type="image">
+				</Widget>
+				<Widget flag="not_visible" frame="341,188,72,72" h_pos_align="center" name="dice_normal_result3" preset="luna_gotcha_normal_result" type="image">
+				</Widget>
+				<Widget flag="not_visible" frame="450,188,72,72" h_pos_align="center" name="dice_normal_result2" preset="luna_gotcha_normal_result" type="image">
+				</Widget>
+				<Widget flag="not_visible" frame="559,188,72,72" h_pos_align="center" name="dice_normal_result1" preset="luna_gotcha_normal_result" type="image">
+				</Widget>
+				<Widget flag="not_visible" frame="189,33,84,84" h_pos_align="center" name="dice_golden_result2" preset="luna_gotcha_gold_result" type="image">
+				</Widget>
+				<Widget flag="not_visible" frame="481,33,84,84" h_pos_align="center" name="dice_golden_result1" preset="luna_gotcha_gold_result" type="image">
+				</Widget>
+			</Widget>
+			<Widget flag="not_visible" font="luna_default" frame="652,329,104,42" h_pos_align="center" name="btn_reward" preset="luna_button" text="STR_LUNA_DICE_GETREWARD" type="button">
+			</Widget>
+			<Widget frame="652,7,102,26" type="container">
+				<Skin name="luna_gotcha_reward_bg">
+				</Skin>
+				<Widget font="ui_default" frame="-2,0,102,26" halign="right" name="btn_reward_list" preset="v5_expand_button" style="checkbox" text="STR_LUNA_DICE_REWARDLIST" text_offset="5,0" type="button" v_pos_align="bottom">
+				</Widget>
+			</Widget>
+			<Widget flag="not_visible" frame="200,24,362,230" h_pos_align="proportion" name="luna_reward_result" preset="0" type="container" v_pos_align="proportion">
+				<Widget frame="0,20,362,174" preset="luna_container5" type="container">
+					<Widget frame="7,7,348,161" preset="luna_container" type="static">
+					</Widget>
+					<Widget cell_padding="1" cell_space="0,0" flag="truncate;not_visible" frame="72,56,44,44" h_pos_align="center" item_height="32" item_width="32" name="result_item0" preset="luna_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+					</Widget>
+					<Widget flag="not_visible" frame="21,100,143,28" h_pos_align="proportion" halign="center" name="result_name1" padding="5, 2" type="static">
+					</Widget>
+					<Widget cell_padding="1" cell_space="0,0" flag="truncate;not_visible" frame="159,56,44,44" h_pos_align="center" item_height="32" item_width="32" name="result_item2" preset="luna_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+					</Widget>
+					<Widget flag="not_visible" frame="29,100,304,28" h_pos_align="proportion" halign="center" name="result_name0" padding="5, 2" type="static">
+					</Widget>
+					<Widget cell_padding="1" cell_space="0,0" flag="truncate;not_visible" frame="246,56,44,44" h_pos_align="center" item_height="32" item_width="32" name="result_item1" preset="luna_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+					</Widget>
+					<Widget flag="not_visible" frame="200,100,143,28" h_pos_align="proportion" halign="center" name="result_name2" padding="5, 2" type="static">
+					</Widget>
+					<Widget font="luna_default" frame="145,132,72,25" h_pos_align="center" name="btn_reward_ok" preset="luna_button_sm" text="STR_OK" type="button">
+					</Widget>
+				</Widget>
+				<Widget font="luna_default" frame="82,11,198,30" halign="center" preset="luna_title" text="STR_LUNA_DICE_GETREWARD_TITLE" type="static" valign="middle">
+				</Widget>
+			</Widget>
+			<Widget flag="not_visible" frame="311,64,445,259" h_pos_align="right" name="luna_reward_preview" preset="0" type="container" v_pos_align="bottom">
+				<Widget frame="20,3,100,100" h_pos_align="center" name="fx_guide" type="image">
+				</Widget>
+				<Widget flag="not_visible" frame="357,155,53,53" h_pos_align="right" name="bonus_img" type="image" v_pos_align="bottom">
+					<Skin name="luna_gotcha_reward_bonus" state="0">
+					</Skin>
+				</Widget>
+				<Widget frame="357,207,53,53" h_pos_align="right" name="preview_img" type="image" v_pos_align="bottom">
+					<Skin name="luna_gotcha_reward_c" state="0">
+					</Skin>
+					<Skin name="luna_gotcha_reward_b" state="1">
+					</Skin>
+					<Skin name="luna_gotcha_reward_a" state="2">
+					</Skin>
+					<Skin name="luna_gotcha_reward_s" state="3">
+					</Skin>
+					<Skin name="luna_gotcha_reward_ss" state="4">
+					</Skin>
+				</Widget>
+				<Widget font="luna_default" frame="410,222,33,28" h_pos_align="right" halign="left" name="reward_count" type="static" v_pos_align="bottom">
+				</Widget>
+				<Widget flag="not_visible" font="luna_default" frame="410,170,33,28" h_pos_align="right" halign="left" name="bonus_count" type="static" v_pos_align="bottom">
+				</Widget>
+				<Widget flag="not_visible" frame="20,3,100,100" h_pos_align="center" name="dice_reward_preview_img" type="image">
+					<Skin name="luna_gotcha_reward_c_l" state="0">
+					</Skin>
+					<Skin name="luna_gotcha_reward_b_l" state="1">
+					</Skin>
+					<Skin name="luna_gotcha_reward_a_l" state="2">
+					</Skin>
+					<Skin name="luna_gotcha_reward_s_l" state="3">
+					</Skin>
+					<Skin name="luna_gotcha_reward_ss_l" state="4">
+					</Skin>
+				</Widget>
+			</Widget>
+		</Widget>
+		<Widget frame="0,1,762,380" h_pos_align="proportion" name="page_main" preset="v5_staticbox5" type="tabpage" v_pos_align="proportion">
+			<Widget can_click_item="True" direction_size="3" direction_type="vertical" drag_block_separator="true" elastic_grid_max_rect="0,0,300,300" elastic_grid_size="False" fit_item_size="True" fixed_item_size="True" flag="vscroll" frame="16,11,738,359" h_pos_align="proportion" inner_scroll="False" item_halign="center" item_spacing="2,2" name="main_grid" scroll_type="auto" skin_type="luna" type="grid" v_pos_align="proportion">
+			</Widget>
+			<Widget frame="3,105,236,112" name="proto_container" type="container">
+				<Widget frame="18,15,92,80" type="container">
+					<Widget frame="-25,-10,121,120" h_pos_align="proportion" name="proto_img" type="image" v_pos_align="proportion">
+					</Widget>
+				</Widget>
+				<Widget border="10,10" flag="wordwrap" font="luna_white" frame="0,0,236,114" h_pos_align="proportion" halign="center" name="proto_btn" preset="luna_main_button" text_offset="65,0" type="button" v_pos_align="proportion">
+				</Widget>
+				<Widget flag="not_visible" frame="98,36,40,40" h_pos_align="center" name="lock_img" type="image" v_pos_align="middle">
+					<Skin name="luna_lock">
+					</Skin>
+				</Widget>
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget flag="active;not_visible;nonclient" font="luna_default" font_size="20" frame="6,6,760,522" group="cover" name="cover" padding="2,0" preset="v5_staticbox" type="static" valign="middle">
+	</Widget>
+</Dialog>

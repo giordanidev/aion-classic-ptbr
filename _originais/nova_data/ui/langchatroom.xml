@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<LanguageChatRooms>
+	<LanguageChatRoom>
+		<Name>한국어</Name>
+	</LanguageChatRoom>
+	<LanguageChatRoom>
+		<Name>English</Name>
+	</LanguageChatRoom>
+</LanguageChatRooms>

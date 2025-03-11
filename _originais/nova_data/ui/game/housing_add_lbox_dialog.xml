@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="version5" flag="close;title" frame="0,0,245,409" last_modified="2016-05-26 12:19:34" name="housing_add_lbox_dialog" preset="v5_dialog2" shadow_offset="8,8" title_align="center" title_frame="3,3,239,14" title_height="25" title_offset="0,5" title_text="STR_HOUSING_ADD_LBOX_DIALOG" type="dlg_housing_add_lbox">
+	<Widget frame="0,0,241,370" name="main_tab_sheet" type="tabsheet">
+		<Widget frame="0,4,241,25" h_pos_align="proportion" preset="v5_tab" type="tab">
+			<Widget font="ui_default" frame="5,0,54,25" name="sample" preset="v5_tabbutton" text="STR_HOUSING_ADD_LBOX_DIALOG__SAMPLE" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="59,0,54,25" name="archived" preset="v5_tabbutton" text="STR_HOUSING_ADD_LBOX_DIALOG__ARCHIVE" type="tabbutton">
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,241,353" h_pos_align="proportion" name="sample_page" preset="v5_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget cell_padding="2" cell_space="0,0" flag="vscroll;truncate" font="ui_list" frame="2,8,236,313" header_font="v3_columnhead" header_height="0" item_height="44" item_width="44" list_padding="3,3" name="list" preset="v5_listview_sel_frame" scroll_type="visible" skin_type="version5" slot_num="9" type="listview" viewmode="detail">
+				<Column align="" title="STR_SKILL_DIALOG__TABFRAME_SKILL_TAB_ACTIVE_SKILL_NAME" width="1000">
+				</Column>
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,241,353" h_pos_align="proportion" name="archived_page" preset="v5_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget cell_padding="2" cell_space="0,0" flag="vscroll;truncate" font="name" frame="2,8,236,313" header_font="v3_columnhead" header_height="0" item_height="44" item_width="44" list_padding="3,3" name="archive_list" preset="v5_listview_sel_frame" scroll_type="visible" skin_type="version5" slot_num="9" type="listview" viewmode="detail">
+				<Column align="" title="STR_SKILL_DIALOG__TABFRAME_SKILL_TAB_ACTIVE_SKILL_NAME" width="1000">
+				</Column>
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget font="ui_default" frame="3,352,60,24" name="delete" preset="v5_button" text="STR_HOUSING_ADD_LBOX_DIALOG__DELETE" type="button">
+	</Widget>
+	<Widget font="ui_default" frame="116,352,59,24" name="ok" preset="v5_button" text="STR_HOUSING_ADD_LBOX_DIALOG__INSTALL" type="button">
+	</Widget>
+	<Widget font="ui_default" frame="176,352,61,24" name="cancel" preset="v5_button" text="STR_COMMON__CANCEL" type="button">
+	</Widget>
+</Dialog>

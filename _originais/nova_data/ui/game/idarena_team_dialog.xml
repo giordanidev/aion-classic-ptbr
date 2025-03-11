@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="close;title" frame="300,200,709,540" last_modified="2014-08-22 12:58:41" name="idarena_team_dialog" preset="v5_dialog2" shadow_offset="8,8" title_align="center" title_frame="3,3,702,14" title_height="25" title_offset="0,5" title_text="STR_IDARENA_TEAM_DIALOG" type="dlg_idarena_team">
+	<Widget flag="nonclient" frame="0,0,709,540" group="guide" h_pos_align="proportion" name="frame_max" type="container">
+	</Widget>
+	<Widget flag="nonclient" frame="0,0,709,399" group="guide" h_pos_align="proportion" name="frame_min" type="container">
+	</Widget>
+	<Widget cell_padding="5" column_heading="True" font="ui_list" frame="2,86,698,249" h_pos_align="proportion" header_font="v3_columnhead" header_height="23" item_height="22" list_padding="3,3" name="account" preset="v5_listview_ex" type="listviewex">
+		<Column align="center" img_width="" sample_text="" sort="param" title="STR_IDARENA_TEAM_DIALOG__COL_RANK" width="54">
+		</Column>
+		<Column align="left" img_width="" sample_text="" sort="none" title="STR_IDARENA_TEAM_DIALOG__COL_NAME" width="211">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="param" title="STR_IDARENA_TEAM_DIALOG__COL_KILL" width="95">
+		</Column>
+		<Column align="right" img_width="" sample_text="" sort="param" title="STR_IDARENA_TEAM_DIALOG__COL_SCORE" width="113">
+		</Column>
+		<Column align="right" img_width="" sample_text="" sort="param" title="STR_IDARENA_TEAM_DIALOG__COL_PARTICIPATION" width="104">
+		</Column>
+		<Column align="right" img_width="" sample_text="" sort="param" title="STR_IDARENA_TEAM_DIALOG__COL_TOTAL_SCORE" width="115">
+		</Column>
+	</Widget>
+	<Widget cell_padding="10,5" column_customizing="False" column_heading="True" flag="not_enabled" font="indun_account_reward" frame="2,336,698,141" header_height="30" item_height="25" item_num="4" list_padding="3,3" name="reward" scroll_type="hidden" type="listviewex">
+		<Skin name="v5_static_bg3" state="frame">
+		</Skin>
+		<Widget frame="0,13,693,18" type="image">
+			<Skin name="v5_row_line">
+			</Skin>
+		</Widget>
+		<Column align="left" img_width="" sample_text="abyss point" sort="none" title="" width="150">
+		</Column>
+		<Column align="center" img_width="" sample_text="100" sort="none" title="STR_IDARENA_TEAM_DIALOG__REWARD_DEFT" width="120">
+		</Column>
+		<Column align="center" img_width="" sample_text="100" sort="none" title="STR_IDARENA_TEAM_DIALOG__REWARD_RANK" width="120">
+		</Column>
+		<Column align="center" img_width="" sample_text="100" sort="none" title="STR_IDARENA_TEAM_DIALOG__REWARD_PLAY" width="120">
+		</Column>
+		<Column align="right" img_width="" sample_text="300" sort="none" title="STR_IDARENA_TEAM_DIALOG__REWARD_TOTAL" width="175">
+		</Column>
+	</Widget>
+	<Widget font="ui_default" frame="283,483,120,24" h_pos_align="center" name="leave" preset="v5_button" text="STR_IDARENA_TEAM_DIALOG__LEAVE" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="619,483,82,24" h_pos_align="right" name="cancel_button" preset="v5_button" text="STR_COMMON__OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget frame="3,0,697,86" h_pos_align="proportion" name="deco" type="image">
+		<Skin name="v5_idarena_pvp_deco" state="0">
+		</Skin>
+		<Skin name="v5_idarena_pvp_deco_win" state="1">
+		</Skin>
+	</Widget>
+	<Widget font_size="24" frame="436,43,152,32" h_pos_align="right" halign="center" name="score" text_shade="True" type="static">
+	</Widget>
+	<Widget font_size="24" frame="115,43,152,32" halign="center" name="rank" text_shade="True" type="static">
+	</Widget>
+	<Widget font_size="24" frame="436,11,152,32" h_pos_align="right" halign="center" name="score_label" text="STR_IDARENA_TEAM_DIALOG__PARTY_SCORE" text_shade="True" type="static">
+	</Widget>
+	<Widget font_size="24" frame="115,11,152,32" halign="center" name="rank_label" text="STR_IDARENA_TEAM_DIALOG__PARTY_RANK" text_shade="True" type="static">
+	</Widget>
+</Dialog>

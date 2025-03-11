@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="close;title" frame="150,150,446,612" last_modified="2015-01-07 17:08:37" name="design_dev_dialog" preset="v5_dialog" shadow_offset="8,8" title_align="center" title_frame="3,3,41,14" title_height="25" title_offset="0,5" title_text="STR_DESIGN_DEV_DIALOG" type="dlg_design_dev">
+	<Widget font="v3_option_title" frame="0,0,440,583" h_pos_align="proportion" name="tabsheet_design_dev" type="tabsheet" v_pos_align="proportion">
+		<Widget btn_move_anim="False" frame="0,0,440,25" h_pos_align="proportion" preset="v5_tab" tab_frame="0,0,588,25" tab_offset="4,0" tab_space="0" type="tab">
+			<Widget font="ui_default" frame="7,0,78,25" name="button_design_dev_0" preset="v5_tabbutton" text="STR_DESIGN_DEV_DIALOG__WINDBOX" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="85,0,78,25" name="button_design_dev_1" preset="v5_tabbutton" text="HTML Edit" type="tabbutton">
+			</Widget>
+		</Widget>
+		<Widget frame="0,24,440,559" group="windbox" h_pos_align="proportion" preset="v5_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget font="ui_default" frame="16,12,78,15" text="STR_DESIGN_DEV_DIALOG__WINDBOX_INFO" type="static">
+			</Widget>
+			<Widget frame="12,31,416,197" type="container">
+				<Skin name="v5_static_bg2" state="0">
+				</Skin>
+				<Widget flag="multiline;wordwrap" font="ui_default" frame="8,8,400,181" h_pos_align="proportion" max_lines="100" name="windbox_info" padding="3,0" type="staticex" v_pos_align="proportion" valign="bottom">
+				</Widget>
+			</Widget>
+			<Widget font="ui_default" frame="16,238,78,15" text="STR_DESIGN_DEV_DIALOG__WINDBOX_FUNC" type="static">
+			</Widget>
+			<Widget frame="12,261,416,104" type="container">
+				<Skin name="v5_static_bg2" state="0">
+				</Skin>
+				<Widget frame="9,8,120,20" h_pos_align="right" name="windbox_show" preset="v5_check" style="checkbox" text="STR_DESIGN_DEV_DIALOG__WINDBOX_SHOW" type="button">
+				</Widget>
+				<Widget frame="140,8,120,20" h_pos_align="right" name="windbox_cheat" preset="v5_check" style="checkbox" text="STR_DESIGN_DEV_DIALOG__WINDBOX_CHEAT" type="button">
+				</Widget>
+				<Widget font="ui_default" frame="9,32,100,27" text="STR_DESIGN_DEV_DIALOG__WINDBOX_FORCE" type="static">
+				</Widget>
+				<Widget alphanumeric="False" font="ui_editbox" frame="109,32,298,27" h_padding="5" h_pos_align="proportion" name="windbox_force" preset="v5_editbox" text="FX" type="editbox" v_padding="5">
+				</Widget>
+				<Widget font="ui_default" frame="9,67,100,27" text="STR_DESIGN_DEV_DIALOG__WINDBOX_UPHEIGHT" type="static">
+				</Widget>
+				<Widget alphanumeric="False" font="ui_editbox" frame="109,67,298,27" h_padding="5" h_pos_align="proportion" name="windbox_upheight" preset="v5_editbox" text="FX" type="editbox" v_padding="5">
+				</Widget>
+			</Widget>
+		</Widget>
+		<Widget frame="0,24,440,559" group="windbox" h_pos_align="proportion" preset="v5_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget font="ui_default" frame="105,178,77,24" name="button_reset_html" preset="v5_button" text="STR_LOBBY_CREATE__CUSTOM_RESET" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="20,178,77,24" name="button_display_html" preset="v5_button" text="STR_HOUSING_LBOX_DIALOG__OUTPUT" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget alphanumeric="False" flag="wordwrap;multiline" font="ui_edit" frame="20,28,400,142" h_padding="5" h_pos_align="proportion" name="html_edit" preset="v5_editbox" type="editbox" v_padding="5" v_pos_align="bottom" valign="bottom">
+			</Widget>
+			<Widget flag="vscroll" font="ui_default" frame="20,214,313,129" html_margin="1,1" name="html_result" padding="0,0" preset="v5_staticbox10" type="htmlview">
+			</Widget>
+		</Widget>
+	</Widget>
+</Dialog>

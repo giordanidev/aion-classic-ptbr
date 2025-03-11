@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="title" frame="440,130,284,159" last_modified="2020-09-07 20:08:54" name="indun_enter_dialog" preset="v4_msgbox" title_align="left" title_frame="3,3,134,14" title_offset="10,5" title_text="STR_INDUN_ENTER_DIALOG" type="dlg_indun_enter" v_pos_align="middle">
+	<Widget defbutton="False" frame="140,109,68,26" name="indun_enter_ok" preset="v4_button" text="STR_INDUN_ENTER_DIALOG__OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget frame="207,109,68,26" name="indun_enter_giveup" preset="v4_button" text="STR_INDUN_ENTER_DIALOG__CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget flag="vscroll" frame="7,14,261,87" name="indun_enter_desc" type="htmlview" v_pos_align="proportion">
+	</Widget>
+</Dialog>

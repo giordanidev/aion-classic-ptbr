@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="title" frame="440,130,284,159" last_modified="2016-12-12 20:25:56" name="team_maker_enter_dialog" preset="v5_msgbox" shadow_offset="8,8" title_align="left" title_frame="3,3,134,14" title_height="25" title_offset="10,5" title_text="STR_INDUN_ENTER_DIALOG" type="dlg_team_maker_enter" ui_mode="housing;housing_building;toypet" v_pos_align="middle">
+	<Widget defbutton="False" font="ui_default" frame="140,103,68,24" name="indun_enter_ok" preset="v5_button" text="STR_INDUN_ENTER_DIALOG__OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="209,103,68,24" name="indun_enter_giveup" preset="v5_button" text="STR_INDUN_ENTER_DIALOG__CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget flag="vscroll" font="ui_default" frame="7,7,261,87" name="indun_enter_desc" type="htmlview" v_pos_align="proportion">
+	</Widget>
+</Dialog>

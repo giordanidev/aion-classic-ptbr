@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="close;title" frame="290,130,720,449" last_modified="2015-11-06 17:36:52" name="search_guild_dialog" preset="v5_dialog2" title_frame="3,3,478,14" title_offset="9,1" title_text="STR_SEARCH_GUILD_DIALOG__TITLE" type="dlg_search_guild">
+	<Widget flag="not_active" frame="0,0,714,386" h_pos_align="proportion" type="image" v_pos_align="proportion">
+		<Skin name="v5_static_bg4">
+		</Skin>
+	</Widget>
+	<Widget flag="not_active" frame="0,62,714,10" h_pos_align="proportion" type="image" v_pos_align="proportion">
+		<Skin name="v5_separate_line">
+		</Skin>
+	</Widget>
+	<Widget column_heading="True" flag="truncate;vscroll" font="ui_list" frame="1,68,710,316" h_pos_align="proportion" header_font="v3_columnhead" header_height="25" item_height="26" list_padding="3,3" name="search_list" preset="v5_listview_ex" scroll_type="visible" skin_type="version5" type="listviewex" v_pos_align="bottom">
+		<Column align="left" img_width="" sample_text="" sort="text" title="STR_SEARCH_GUILD_DIALOG__GUILD_NAME" width="110">
+		</Column>
+		<Column align="left" img_width="" sample_text="" sort="text" title="STR_SEARCH_GUILD_DIALOG__GUILD_MASTER" width="110">
+		</Column>
+		<Column align="center" img_width="" sort="param" title="STR_SEARCH_GUILD_DIALOG__GUILD_LEVEL" width="48">
+		</Column>
+		<Column align="center" img_width="" sort="param" title="STR_SEARCH_GUILD_DIALOG__MEMBER_COUNT" width="48">
+		</Column>
+		<Column align="center" img_width="" sort="param" title="STR_SEARCH_GUILD_DIALOG__RECENTLY_ONLINE" width="0">
+		</Column>
+		<Column align="center" img_width="" sort="param" title="STR_SEARCH_GUILD_DIALOG__RESTRICT_LEVEL" width="70">
+		</Column>
+		<Column align="left" sort="text" title="STR_SEARCH_GUILD_DIALOG__INTRODUCTION" width="221">
+		</Column>
+		<Column align="center" sort="param" title="STR_SEARCH_GUILD_DIALOG__JOIN" width="82">
+		</Column>
+	</Widget>
+	<Widget flag="not_active" frame="455,26,256,32" type="image" v_pos_align="proportion">
+		<Skin name="v5_static_bg2">
+		</Skin>
+	</Widget>
+	<Widget font="ui_default" frame="459,30,79,24" halign="center" padding="1,0" text="STR_SEARCH_GUILD_DIALOG__APPLYING_GUILD_NAME" type="static">
+	</Widget>
+	<Widget font="ui_default" frame="542,30,103,24" halign="left" name="apply_static" padding="5,0" preset="v5_staticbox10" text_color="0.3608,0.8667,0.3608,1.0" type="static">
+	</Widget>
+	<Widget font="ui_default" frame="648,30,61,24" name="apply_cancel_btn" preset="v5_button" text="STR_SEARCH_GUILD_DIALOG__APPLY_CANCEL" type="button">
+	</Widget>
+	<Widget flag="not_active" frame="3,26,449,32" type="image" v_pos_align="proportion">
+		<Skin name="v5_static_bg2">
+		</Skin>
+	</Widget>
+	<Widget alphanumeric="False" font="ui_editbox" frame="172,30,148,23" h_padding="5" max_length="33" name="search_edit" preset="v5_editbox" type="editbox" v_padding="5" valign="bottom">
+	</Widget>
+	<Widget font="ui_combo" frame="56,30,114,23" max_items="2" name="search_combo" preset="v5_staticbox3" type="combobox">
+		<Items>
+			<Item name="STR_SEARCH_GUILD_DIALOG__COMBO_GUILD_NAME">
+			</Item>
+			<Item name="STR_SEARCH_GUILD_DIALOG__COMBO_GUILD_INTRO">
+			</Item>
+		</Items>
+	</Widget>
+	<Widget font="ui_default" frame="323,30,61,24" name="search_btn" preset="v5_button" text="STR_SEARCH_GUILD_DIALOG__SEARCH" type="button">
+	</Widget>
+	<Widget font="ui_default" frame="386,30,61,24" name="search_cancel_btn" preset="v5_button" text="STR_SEARCH_GUILD_DIALOG__SEARCH_CANCEL" type="button">
+	</Widget>
+	<Widget flag="not_active" frame="5,4,49,55" h_pos_align="proportion" type="image" v_pos_align="proportion">
+		<Skin name="v5_search_shugo">
+		</Skin>
+	</Widget>
+	<Widget flag="truncate" frame="1,391,712,27" h_pos_align="center" halign="left" padding="10,0" text="STR_SEARCH_GUILD_DIALOG__GUILD_BUFF" type="static" v_pos_align="bottom" valign="middle">
+	</Widget>
+</Dialog>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="close;title" frame="382,100,300,151" last_modified="2014-08-22 12:58:42" name="housing_kick_dialog" preset="v5_dialog2" prev_html="True" shadow_offset="8,8" title_align="center" title_frame="3,3,154,14" title_height="25" title_offset="0,5" title_text="STR_HOUSING_KICK_DIALOG" type="dlg_housing_kick">
+	<Widget frame="5,1,284,85" h_pos_align="proportion" preset="v5_staticbox" type="container">
+		<Widget font="ui_static_title" frame="10,6,260,20" h_pos_align="proportion" halign="left" scroll_type="hidden" text="STR_HOUSING_KICK_DIALOG__KICKTYPE" type="static" valign="middle">
+		</Widget>
+		<Widget font="ui_static_title" frame="11,31,260,22" h_pos_align="proportion" name="kick_all_except_friends" preset="v5_radio" style="radiobutton" text="STR_HOUSING_KICK_DIALOG__KICK_ALL_EXCEPT_FRIENDS" text_offset="5,0" type="button">
+		</Widget>
+		<Widget font="ui_static_title" frame="11,56,260,22" h_pos_align="proportion" name="kick_all" preset="v5_radio" style="radiobutton" text="STR_HOUSING_KICK_DIALOG__KICK_ALL" text_offset="5,0" type="button">
+		</Widget>
+	</Widget>
+	<Widget defbutton="true" font="ui_default" frame="174,96,60,24" h_pos_align="right" name="ok" preset="v5_button" text="STR_HOUSING_KICK_DIALOG__OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="235,96,60,24" h_pos_align="right" name="cancel" preset="v5_button" text="STR_HOUSING_KICK_DIALOG__CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

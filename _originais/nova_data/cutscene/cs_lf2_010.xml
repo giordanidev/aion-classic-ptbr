@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="P01">You must go through all six rings in order in the time allotted.</Text>
+	<Text label="P02">The rings are numbered according to the amount of blue flames at the top.</Text>
+	<Text label="P03">As you fly, take time to locate the next ring in the sequence.</Text>
+</CutSceneText>

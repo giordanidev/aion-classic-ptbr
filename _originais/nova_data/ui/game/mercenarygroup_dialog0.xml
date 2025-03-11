@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="transparent;" frame="0,262,201,299" last_modified="2014-08-22 12:58:41" name="mercenarygroup_dialog0" title_frame="3,3,162,14" type="dlg_mercenarygroup">
+	<Widget flag="not_visible" frame="307,0,198,60" name="select" type="image">
+		<Skin name="v5_party_select">
+		</Skin>
+	</Widget>
+	<Widget drag_type="3" frame="1,16,198,56" name="ctn_member1" type="containerex">
+		<Skin name="v5_party_ctn" state="0">
+		</Skin>
+		<Widget flag="transparent;truncate" font="name" font_size="13" frame="71,7,123,20" h_pos_align="right" halign="left" name="title" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_shade="True" type="static" valign="bottom">
+		</Widget>
+		<Widget align="left" frame="72,26,116,9" gauge_adjust="0,0" h_pos_align="right" name="hp_bg" preset="v5_party_hp_gauge_bg" show_value="false" skin_extend="False" stage="2" state_depended="True" type="gauge">
+		</Widget>
+		<Widget align="left" frame="72,26,116,9" gauge_adjust="0,0" h_pos_align="right" name="hp" num_type="small" preset="v5_party_hp_gauge" show_value="false" skin_extend="False" small_number="True" stage="2" state_depended="True" type="gauge">
+		</Widget>
+		<Widget flag="not_visible" frame="25,8,40,40" name="emblem" type="image">
+		</Widget>
+		<Widget flag="not_visible" font="window" frame="2,17,23,23" halign="center" name="level" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget drag_type="3" frame="1,72,198,56" name="ctn_member2" type="containerex">
+		<Skin name="v5_party_ctn" state="0">
+		</Skin>
+		<Widget flag="transparent;truncate" font="name" font_size="13" frame="71,7,123,20" h_pos_align="right" halign="left" name="title" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_shade="True" type="static" valign="bottom">
+		</Widget>
+		<Widget align="left" frame="72,26,116,9" gauge_adjust="0,0" h_pos_align="right" name="hp_bg" preset="v5_party_hp_gauge_bg" show_value="false" skin_extend="False" stage="2" state_depended="True" type="gauge">
+		</Widget>
+		<Widget align="left" frame="72,26,116,9" gauge_adjust="0,0" h_pos_align="right" name="hp" num_type="small" preset="v5_party_hp_gauge" show_value="false" skin_extend="False" small_number="True" stage="2" state_depended="True" type="gauge">
+		</Widget>
+		<Widget flag="not_visible" frame="25,8,40,40" name="emblem" type="image">
+		</Widget>
+		<Widget flag="not_visible" font="window" frame="2,17,23,23" halign="center" name="level" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget drag_type="3" frame="1,128,198,56" name="ctn_member3" type="containerex">
+		<Skin name="v5_party_ctn" state="0">
+		</Skin>
+		<Widget flag="transparent;truncate" font="name" font_size="13" frame="71,7,123,20" h_pos_align="right" halign="left" name="title" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_shade="True" type="static" valign="bottom">
+		</Widget>
+		<Widget align="left" frame="72,26,116,9" gauge_adjust="0,0" h_pos_align="right" name="hp_bg" preset="v5_party_hp_gauge_bg" show_value="false" skin_extend="False" stage="2" state_depended="True" type="gauge">
+		</Widget>
+		<Widget align="left" frame="72,26,116,9" gauge_adjust="0,0" h_pos_align="right" name="hp" num_type="small" preset="v5_party_hp_gauge" show_value="false" skin_extend="False" small_number="True" stage="2" state_depended="True" type="gauge">
+		</Widget>
+		<Widget flag="not_visible" frame="25,8,40,40" name="emblem" type="image">
+		</Widget>
+		<Widget flag="not_visible" font="window" frame="2,17,23,23" halign="center" name="level" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget drag_type="3" frame="1,184,198,56" name="ctn_member4" type="containerex">
+		<Skin name="v5_party_ctn" state="0">
+		</Skin>
+		<Widget flag="transparent;truncate" font="name" font_size="13" frame="71,7,123,20" h_pos_align="right" halign="left" name="title" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_shade="True" type="static" valign="bottom">
+		</Widget>
+		<Widget align="left" frame="72,26,116,9" gauge_adjust="0,0" h_pos_align="right" name="hp_bg" preset="v5_party_hp_gauge_bg" show_value="false" skin_extend="False" stage="2" state_depended="True" type="gauge">
+		</Widget>
+		<Widget align="left" frame="72,26,116,9" gauge_adjust="0,0" h_pos_align="right" name="hp" num_type="small" preset="v5_party_hp_gauge" show_value="false" skin_extend="False" small_number="True" stage="2" state_depended="True" type="gauge">
+		</Widget>
+		<Widget flag="not_visible" frame="25,8,40,40" name="emblem" type="image">
+		</Widget>
+		<Widget flag="not_visible" font="window" frame="2,17,23,23" halign="center" name="level" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget drag_type="3" frame="1,240,198,56" name="ctn_member5" type="containerex">
+		<Skin name="v5_party_ctn" state="0">
+		</Skin>
+		<Widget flag="transparent;truncate" font="name" font_size="13" frame="71,7,123,20" h_pos_align="right" halign="left" name="title" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_shade="True" type="static" valign="bottom">
+		</Widget>
+		<Widget align="left" frame="72,26,116,9" gauge_adjust="0,0" h_pos_align="right" name="hp_bg" preset="v5_party_hp_gauge_bg" show_value="false" skin_extend="False" stage="2" state_depended="True" type="gauge">
+		</Widget>
+		<Widget align="left" frame="72,26,116,9" gauge_adjust="0,0" h_pos_align="right" name="hp" num_type="small" preset="v5_party_hp_gauge" show_value="false" skin_extend="False" small_number="True" stage="2" state_depended="True" type="gauge">
+		</Widget>
+		<Widget flag="not_visible" frame="25,8,40,40" name="emblem" type="image">
+		</Widget>
+		<Widget flag="not_visible" font="window" frame="2,17,23,23" halign="center" name="level" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget flag="not_visible" frame="1,1,15,15" name="move_trigger" type="image">
+		<Skin name="v5_cross" state="0">
+		</Skin>
+		<Skin name="v5_cross" state="1">
+		</Skin>
+	</Widget>
+	<Widget drag_type="3" frame="61,1,138,41" name="slot" type="containerex">
+		<Widget cell_padding="2" frame="2,2,44,44" item_height="44" item_width="44" name="cmd1" one_click_action="True" preset="v5_quickbar_slot" type="itemview">
+		</Widget>
+		<Widget cell_padding="2" frame="48,2,44,44" item_height="44" item_width="44" name="cmd2" one_click_action="True" preset="v5_quickbar_slot" type="itemview">
+		</Widget>
+		<Widget cell_padding="2" frame="94,2,44,44" item_height="44" item_width="44" name="cmd3" one_click_action="True" preset="v5_quickbar_slot" type="itemview">
+		</Widget>
+		<Widget font="v3_shortcut" frame="6,6,36,36" halign="left" name="cmd_num1" type="static" valign="top">
+		</Widget>
+		<Widget font="v3_shortcut" frame="52,6,36,36" halign="left" name="cmd_num2" type="static" valign="top">
+		</Widget>
+		<Widget font="v3_shortcut" frame="98,6,36,36" halign="left" name="cmd_num3" type="static" valign="top">
+		</Widget>
+	</Widget>
+</Dialog>

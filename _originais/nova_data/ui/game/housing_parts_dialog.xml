@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="10,5" flag="not_movable;title;close" frame="10,10,207,138" last_modified="2014-08-22 12:58:41" name="housing_parts_dialog" title_align="left" title_frame="3,3,201,14" title_height="25" title_offset="0,0" title_text="STR_HOUSING_PARTS_DIALOG" type="dlg_housing_parts" ui_mode="not_game;housing">
+	<Skin name="v5_housing_parts_frame" state="frame">
+	</Skin>
+	<Widget cell_padding="2" cell_space="0,2" column_customizing="False" flag="vscroll" font="ui_list" frame="1,6,191,91" item_height="44" item_width="44" name="list" one_click_action="False" one_click_preview="False" preset="v5_housing_listview_sel" scroll_type="visible" skin_type="housing" slot_num="12" type="listview" viewmode="icon">
+	</Widget>
+</Dialog>

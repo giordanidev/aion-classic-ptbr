@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="title;close" frame="100,100,847,588" last_modified="2020-04-13 20:18:38" name="monster_core_dialog" preset="v5_dialog2" title_frame="3,3,734,14" title_text="STR_WINDOW_MONSTERCORE" type="dlg_monster_core">
+	<Widget frame="0,6,254,518" image="monstercore_background1" name="category_container" type="container">
+		<Widget font="ui_default" font_size="12" frame="10,2,100,27" halign="left" name="categoryTitle_static" text="STR_MONSTERCORE_CATEGORY_TITLE" type="static" valign="middle">
+		</Widget>
+		<Widget flag="vscroll" frame="7,29,240,480" name="category_scrollable" rearrange="True" scroll_type="auto" skin_type="notice" space="0" step="40" text_shade="False" type="scrollable" v_pos_align="proportion">
+			<Widget flag="truncate" font="ui_default" frame="0,0,238,40" group="menu" halign="left" name="prototype_container" text="STR_ENCHANT_ALL_DIALOG__ENCHANT" text_offset="40,0" text_shade="False" type="container">
+				<Widget flag="truncate" font="ui_default" font_size="12" frame="0,0,238,40" group="menu" halign="left" name="button" preset="monstercore_category_button" text_offset="40,0" text_shade="False" type="button">
+				</Widget>
+				<Widget flag="not_active" frame="4,4,32,32" name="icon" type="image">
+				</Widget>
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget frame="255,6,585,74" image="monstercore_background1" name="cumulativeEffect_container" type="container">
+		<Widget font="ui_default" font_size="12" frame="10,2,100,27" halign="left" name="cumulativeEffectTitle_static" text="STR_MONSTERCORE_SUM_TITLE" type="static" valign="middle">
+		</Widget>
+		<Widget frame="7,29,284,36" name="cumulativeEffect1_container" type="container">
+			<Widget frame="10,4,28,28" name="cumulativeEffect1_Icon" type="image">
+			</Widget>
+			<Widget font="ma_light" font_size="14" frame="44,7,150,22" halign="left" name="cumulativeEffect1_static" type="static" valign="middle">
+			</Widget>
+			<Widget frame="197,9,18,18" image="monstercore_plus" name="monstercore_plus_1" type="image">
+			</Widget>
+			<Widget color="0.502,1.0,0.502,1.0" font="ma_light" font_size="14" frame="222,7,60,22" halign="left" name="cumulativeEffect1_static_number" type="static" valign="middle">
+			</Widget>
+		</Widget>
+		<Widget frame="291,29,286,36" name="cumulativeEffect2_container" type="container">
+			<Widget frame="10,4,28,28" name="cumulativeEffect2_Icon" type="image">
+			</Widget>
+			<Widget font="ma_light" font_size="14" frame="44,7,150,22" halign="left" name="cumulativeEffect2_static" type="static" valign="middle">
+			</Widget>
+			<Widget frame="197,9,18,18" image="monstercore_plus" name="monstercore_plus_2" type="image">
+			</Widget>
+			<Widget color="0.502,1.0,0.502,1.0" font="ma_light" font_size="14" frame="222,7,60,22" halign="left" name="cumulativeEffect2_static_number" type="static" valign="middle">
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget frame="255,238,585,286" image="monstercore_background1" name="info_container" type="container">
+		<Widget flag="multiline;wordwrap" font="ui_default" font_size="12" frame="10,2,100,27" halign="left" name="coreInfoTitle_static" text="STR_MONSTERCORE_DIALOG__INFO_TAB_CORE" type="static" valign="middle">
+		</Widget>
+		<Widget font="ui_default" font_size="14" frame="19,37,552,22" halign="left" name="stepInfoTitle_static" type="static" valign="middle">
+		</Widget>
+		<Widget frame="7,69,572,208" name="stepInfo_container" type="container">
+			<Widget frame="0,0,570,22" image="v5_row_odd" name="division_container" type="container">
+				<Widget font="ma_light" font_size="12" frame="0,0,86,22" halign="center" image="v5_header_down" name="step_static" text="STR_MONSTERCORE_STEP_TAB_STEP" type="static">
+				</Widget>
+				<Widget font="ma_light" font_size="12" frame="86,0,312,22" halign="center" image="v5_header_down" name="count_static" text="STR_MONSTERCORE_STEP_TAB_GET_INFO" type="static">
+				</Widget>
+				<Widget font="ma_light" font_size="12" frame="398,0,173,22" halign="center" image="v5_header_down" name="stat_static" text="STR_MONSTERCORE_STEP_TAB_ATTR_INFO" type="static">
+				</Widget>
+			</Widget>
+			<Widget frame="0,22,570,37" image="v5_row_odd" name="step1_container" type="container">
+				<Widget flag="not_visible" frame="5,11,14,14" image="v5_tooltip_page_down" name="step_icon" type="image">
+				</Widget>
+				<Widget font="ui_list" font_size="12" frame="30,7,50,22" halign="left" name="step_static" type="static">
+				</Widget>
+				<Widget font="ui_list" font_size="12" frame="398,0,173,37" halign="center" name="stat_static" type="static" valign="middle">
+				</Widget>
+				<Widget font="ma_light" font_size="12" frame="316,4,72,28" h_pos_align="proportion" name="registration_button" preset="registration_button" type="button" v_pos_align="bottom">
+				</Widget>
+				<Widget font="ma_light" frame="97,12,210,12" halign="center" image="v5_gauge_bg" name="progressBase_static" type="static">
+				</Widget>
+				<Widget align="left" frame="97,12,210,12" gauge_adjust="0,0" name="progressBg_gauge" preset="v5_mp_gauge_bg" show_value="false" skin_extend="True" stage="2" state_depended="True" type="gauge">
+				</Widget>
+				<Widget align="left" frame="97,12,210,12" gauge_adjust="0,0" name="progress_gauge" preset="v5_mp_gauge" show_value="false" skin_extend="True" stage="2" state_depended="True" type="gauge">
+				</Widget>
+				<Widget font="ui_list" font_size="12" frame="158,7,80,22" halign="center" name="count_static" type="static">
+				</Widget>
+			</Widget>
+			<Widget frame="0,59,570,37" image="v5_row_even" name="step2_container" type="container">
+				<Widget flag="not_visible" frame="5,11,14,14" image="v5_tooltip_page_down" name="step_icon" type="image">
+				</Widget>
+				<Widget font="ui_list" font_size="12" frame="30,7,50,22" halign="left" name="step_static" type="static">
+				</Widget>
+				<Widget font="ui_list" font_size="12" frame="398,0,173,37" halign="center" name="stat_static" type="static" valign="middle">
+				</Widget>
+				<Widget font="ma_light" font_size="12" frame="316,4,72,28" h_pos_align="proportion" name="registration_button" preset="registration_button" type="button" v_pos_align="bottom">
+				</Widget>
+				<Widget font="ma_light" frame="97,12,210,12" halign="center" image="v5_gauge_bg" name="progressBase_static" type="static">
+				</Widget>
+				<Widget align="left" frame="97,12,210,12" gauge_adjust="0,0" name="progressBg_gauge" preset="v5_mp_gauge_bg" show_value="false" skin_extend="True" stage="2" state_depended="True" type="gauge">
+				</Widget>
+				<Widget align="left" frame="97,12,210,12" gauge_adjust="0,0" name="progress_gauge" preset="v5_mp_gauge" show_value="false" skin_extend="True" stage="2" state_depended="True" type="gauge">
+				</Widget>
+				<Widget font="ui_list" font_size="12" frame="158,7,80,22" halign="center" name="count_static" type="static">
+				</Widget>
+			</Widget>
+			<Widget frame="0,96,570,37" image="v5_row_odd" name="step3_container" type="container">
+				<Widget flag="not_visible" frame="5,11,14,14" image="v5_tooltip_page_down" name="step_icon" type="image">
+				</Widget>
+				<Widget font="ui_list" font_size="12" frame="30,7,50,22" halign="left" name="step_static" type="static">
+				</Widget>
+				<Widget font="ui_list" font_size="12" frame="398,0,173,37" halign="center" name="stat_static" type="static" valign="middle">
+				</Widget>
+				<Widget font="ma_light" font_size="12" frame="316,4,72,28" h_pos_align="proportion" name="registration_button" preset="registration_button" type="button" v_pos_align="bottom">
+				</Widget>
+				<Widget font="ma_light" frame="97,12,210,12" halign="center" image="v5_gauge_bg" name="progressBase_static" type="static">
+				</Widget>
+				<Widget align="left" frame="97,12,210,12" gauge_adjust="0,0" name="progressBg_gauge" preset="v5_mp_gauge_bg" show_value="false" skin_extend="True" stage="2" state_depended="True" type="gauge">
+				</Widget>
+				<Widget align="left" frame="97,12,210,12" gauge_adjust="0,0" name="progress_gauge" preset="v5_mp_gauge" show_value="false" skin_extend="True" stage="2" state_depended="True" type="gauge">
+				</Widget>
+				<Widget font="ui_list" font_size="12" frame="158,7,80,22" halign="center" name="count_static" type="static">
+				</Widget>
+			</Widget>
+			<Widget frame="0,133,570,37" image="v5_row_even" name="step4_container" type="container">
+				<Widget flag="not_visible" frame="5,11,14,14" image="v5_tooltip_page_down" name="step_icon" type="image">
+				</Widget>
+				<Widget font="ui_list" font_size="12" frame="30,7,50,22" halign="left" name="step_static" type="static">
+				</Widget>
+				<Widget font="ui_list" font_size="12" frame="398,0,173,37" halign="center" name="stat_static" type="static" valign="middle">
+				</Widget>
+				<Widget font="ma_light" font_size="12" frame="316,4,72,28" h_pos_align="proportion" name="registration_button" preset="registration_button" type="button" v_pos_align="bottom">
+				</Widget>
+				<Widget font="ma_light" frame="97,12,210,12" halign="center" image="v5_gauge_bg" name="progressBase_static" type="static">
+				</Widget>
+				<Widget align="left" frame="97,12,210,12" gauge_adjust="0,0" name="progressBg_gauge" preset="v5_mp_gauge_bg" show_value="false" skin_extend="True" stage="2" state_depended="True" type="gauge">
+				</Widget>
+				<Widget align="left" frame="97,12,210,12" gauge_adjust="0,0" name="progress_gauge" preset="v5_mp_gauge" show_value="false" skin_extend="True" stage="2" state_depended="True" type="gauge">
+				</Widget>
+				<Widget font="ui_list" font_size="12" frame="158,7,80,22" halign="center" name="count_static" type="static">
+				</Widget>
+			</Widget>
+			<Widget frame="0,170,570,37" image="v5_row_odd" name="step5_container" type="container">
+				<Widget flag="not_visible" frame="5,12,14,14" image="v5_tooltip_page_down" name="step_icon" type="image">
+				</Widget>
+				<Widget font="ui_list" font_size="12" frame="30,8,50,22" halign="left" name="step_static" type="static">
+				</Widget>
+				<Widget font="ui_list" font_size="12" frame="398,0,173,37" halign="center" name="stat_static" type="static" valign="middle">
+				</Widget>
+				<Widget font="ma_light" font_size="12" frame="316,5,72,28" h_pos_align="proportion" name="registration_button" preset="registration_button" type="button" v_pos_align="bottom">
+				</Widget>
+				<Widget font="ma_light" frame="97,13,210,12" halign="center" image="v5_gauge_bg" name="progressBase_static" type="static">
+				</Widget>
+				<Widget align="left" frame="97,13,210,12" gauge_adjust="0,0" name="progressBg_gauge" preset="v5_mp_gauge_bg" show_value="false" skin_extend="True" stage="2" state_depended="True" type="gauge">
+				</Widget>
+				<Widget align="left" frame="97,13,210,12" gauge_adjust="0,0" name="progress_gauge" preset="v5_mp_gauge" show_value="false" skin_extend="True" stage="2" state_depended="True" type="gauge">
+				</Widget>
+				<Widget font="ui_list" font_size="12" frame="158,8,80,22" halign="center" name="count_static" type="static">
+				</Widget>
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget frame="255,81,585,156" image="monstercore_background1" name="list_container" type="container">
+		<Widget font="ui_default" font_size="12" frame="10,2,100,27" halign="left" name="listTitle_static" text="STR_MONSTERCORE_LIST_TITLE" type="static" valign="middle">
+		</Widget>
+		<Widget can_click_item="True" direction_size="ws" direction_type="horizontal" drag_block_separator="true" elastic_grid_max_rect="0,0,550,406" elastic_grid_size="False" fit_item_size="False" fixed_item_size="False" flag="vscroll;snap_scroll" frame="7,29,571,119" h_pos_align="proportion" inner_scroll="False" item_padding="1" item_spacing="1" item_valign="middle" name="coreList_grid" scroll_type="auto" skin_type="version5" type="grid" v_pos_align="proportion">
+			<Widget frame="12,12,92,95" name="prototype" type="container">
+				<Widget flag="not_active" frame="14,17,64,64" name="icon" type="image">
+				</Widget>
+				<Widget flag="not_visible" frame="0,0,92,95" image="monstercore_frame_selected" name="selected_image" type="image">
+				</Widget>
+				<Widget frame="3,5,86,86" image="monstercore_frame_bronze" name="frame_bronze_image" type="image">
+				</Widget>
+				<Widget frame="3,5,86,86" image="monstercore_frame_silver" name="frame_silver_image" type="image">
+				</Widget>
+				<Widget frame="3,5,86,86" image="monstercore_frame_gold" name="frame_gold_image" type="image">
+				</Widget>
+				<Widget frame="3,5,86,86" image="monstercore_frame_platinum" name="frame_platinum_image" type="image">
+				</Widget>
+				<Widget frame="10,61,18,18" h_pos_align="center" image="monstercore_step_background" name="step1_background" type="image">
+				</Widget>
+				<Widget frame="23,66,18,18" h_pos_align="center" image="monstercore_step_background" name="step2_background" type="image">
+				</Widget>
+				<Widget frame="36,70,18,18" h_pos_align="center" image="monstercore_step_background" name="step3_background" type="image">
+				</Widget>
+				<Widget frame="49,66,18,18" h_pos_align="center" image="monstercore_step_background" name="step4_background" type="image">
+				</Widget>
+				<Widget frame="62,61,18,18" h_pos_align="center" image="monstercore_step_background" name="step5_background" type="image">
+				</Widget>
+				<Widget frame="10,61,18,18" h_pos_align="center" image="monstercore_step" name="step1" type="image">
+				</Widget>
+				<Widget frame="23,66,18,18" h_pos_align="center" image="monstercore_step" name="step2" type="image">
+				</Widget>
+				<Widget frame="36,70,18,18" h_pos_align="center" image="monstercore_step" name="step3" type="image">
+				</Widget>
+				<Widget frame="49,66,18,18" h_pos_align="center" image="monstercore_step" name="step4" type="image">
+				</Widget>
+				<Widget frame="62,61,18,18" h_pos_align="center" image="monstercore_step" name="step5" type="image">
+				</Widget>
+				<Widget frame="-4,-1,100,46" h_pos_align="center" image="monstercore_complete_bronze" name="complete_bronze_image" type="image">
+				</Widget>
+				<Widget frame="-4,-1,100,46" h_pos_align="center" image="monstercore_complete_silver" name="complete_silver_image" type="image">
+				</Widget>
+				<Widget frame="-4,-1,100,46" h_pos_align="center" image="monstercore_complete_gold" name="complete_gold_image" type="image">
+				</Widget>
+				<Widget frame="-4,-1,100,46" h_pos_align="center" image="monstercore_complete_platinum" name="complete_platinum_image" type="image">
+				</Widget>
+				<Widget flag="not_visible" frame="36,1,19,19" image="ma_reward_mark" name="notice_image" type="image">
+				</Widget>
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget frame="756,530,82,24" name="batchRegistration_container" type="container">
+		<Widget font="ui_default" font_size="12" frame="0,0,82,24" h_pos_align="proportion" name="batchRegistration_button" preset="v5_button" type="button" v_pos_align="bottom">
+		</Widget>
+	</Widget>
+</Dialog>

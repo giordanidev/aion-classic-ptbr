@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="P01">If we use this, we can draw him out.</Text>
+	<Text label="P02">Quiet. He&apos;s started his ritual.</Text>
+	<Text label="P03">Let&apos;s sneak up and...</Text>
+	<Text label="P04">Tiamat&apos;s stormer!</Text>
+	<Text label="P05">Found thee, traitor!</Text>
+	<Text label="P06">Give us Siel&apos;s Relics, anon!</Text>
+	<Text label="P07">A Fatebound Legionary too!</Text>
+	<Text label="P08">He&apos;s getting away!</Text>
+	<Text label="P09">We have to stop him!</Text>
+	<Text label="P10">Recover the Relics!</Text>
+</CutSceneText>

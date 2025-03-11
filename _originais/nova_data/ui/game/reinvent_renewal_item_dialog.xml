@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="3,3" close_preset="v5_attend_close" flag="close;title" frame="0,0,350,283" last_modified="2020-05-07 19:29:00" name="reinvent_renewal_item_dialog" preset="v7_mission_bg_container" shadow_offset="0" text_color="1.0,1.0,1.0,1.0" title_align="center" title_frame="3,3,345,14" title_height="25" title_offset="0,9" title_text="STR_REINVENT_RENEWAL_ITEM_DIALOG_INDEX" type="dlg_reinvent_renewal_item">
+	<Widget font="ui_default" frame="178,216,93,37" h_pos_align="right" name="cancel" preset="v5_scheduled_mission_button" text="STR_COMMON__CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget defbutton="False" font="ui_default" frame="79,216,93,37" h_pos_align="right" name="ok" preset="v5_scheduled_mission_button" text="STR_OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget frame="6,9,338,205" h_pos_align="proportion" preset="v7_mission_success_bg" type="image" v_pos_align="proportion">
+	</Widget>
+	<Widget font="ui_default" frame="10,11,330,49" h_pos_align="proportion" name="desc" padding="3,3" text="STR_REINVENT_UI_RENEWAL_ITEM_DESC" text_color="1.0,1.0,1.0,1.0" type="htmlview">
+	</Widget>
+	<Widget frame="11,156,330,52" name="renewal_item_con" type="container" v_pos_align="top">
+		<Widget frame="0,3,132,22" h_pos_align="proportion" halign="right" name="str_my_item" padding="2,0" text="STR_REINVENT_UI_RENEWAL_MYITEM_COLUMN" type="static" v_pos_align="top" valign="middle">
+		</Widget>
+		<Widget font="v3_money" frame="136,3,190,22" h_pos_align="proportion" halign="right" name="my_item" padding="5,0" preset="v5_staticbox" text="STR_UI_ITEM_NUM" type="static" v_pos_align="top" valign="middle">
+		</Widget>
+		<Widget frame="0,27,132,22" h_pos_align="proportion" halign="right" name="str_renewal_item" padding="2,0" text="STR_REINVENT_UI_RENEWAL_ITEM_COLUMN" type="static" v_pos_align="top" valign="middle">
+		</Widget>
+		<Widget font="v3_money" frame="136,27,190,22" h_pos_align="proportion" halign="right" name="renewal_item" padding="5,0" preset="v5_staticbox" text="STR_UI_ITEM_NUM" type="static" v_pos_align="top" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget cell_padding="2" flag="not_active" frame="153,72,44,44" h_pos_align="center" item_height="44" item_width="44" name="renewal_item" preset="v5_itemview" scroll_type="6" type="itemview">
+	</Widget>
+	<Widget frame="10,120,330,22" h_pos_align="proportion" halign="center" name="str_renewal_item_name" padding="2,0" text="STR_REINVENT_UI_RENEWAL_ITEM_NAME" type="static" v_pos_align="top" valign="middle">
+	</Widget>
+</Dialog>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="left" close_offset="4,1" close_preset="v5_close" flag="close;title" frame="290,130,680,570" last_modified="2018-05-15 14:28:32" name="ranking_dialog" preset="v5_dialog" shadow_offset="8,8" title_align="center" title_frame="3,3,680,14" title_height="25" title_offset="0,5" title_text="STR_RANK_DIALOG" type="dlg_ranking">
+	<Widget btn_move_anim="False" frame="8,0,659,26" h_pos_align="proportion" name="tab_rank" preset="v5_tab" tab_offset="6,0" tab_space="0" type="tab" v_pos_align="top">
+	</Widget>
+	<Widget column_heading="True" flag="truncate;vscroll" font="ui_list" frame="6,56,661,453" h_pos_align="proportion" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="rank_info" preset="v5_listview_ex" scroll_type="visible" skin_type="version5" type="listviewex" v_pos_align="proportion">
+		<Column align="center" img_width="" sample_text="" sort="none" title="STR_RANK_DIALOG__COL_RANK" width="50">
+		</Column>
+		<Column align="center" sort="none" title="STR_RANK_DIALOG__COL_GRADE" width="0">
+		</Column>
+		<Column align="left" img_width="" sample_text="" sort="none" title="STR_RANK_DIALOG__COL_NAME" width="270">
+		</Column>
+		<Column align="right" img_width="" sample_text="" sort="none" title="STR_RANK_DIALOG__COL_POINT" width="100">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="none" title="STR_RANK_DIALOG__COL_RACE" width="70">
+		</Column>
+		<Column align="center" sort="none" title="STR_RANK_DIALOG__COL_CLASS" width="90">
+		</Column>
+		<Column align="center" sort="none" title="STR_RANK_DIALOG__COL_CHANGE" width="60">
+		</Column>
+	</Widget>
+	<Widget column_heading="True" flag="truncate;vscroll" font="ui_list" frame="6,56,661,453" h_pos_align="proportion" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="rate_info" preset="v5_listview_ex" scroll_type="visible" skin_type="version5" type="listviewex" v_pos_align="proportion">
+		<Column align="center" img_width="" sample_text="" sort="none" title="STR_RANK_DIALOG__COL_RANK" width="50">
+		</Column>
+		<Column align="center" sort="none" title="STR_RANK_DIALOG__COL_GRADE" width="50">
+		</Column>
+		<Column align="left" img_width="" sample_text="" sort="none" title="STR_RANK_DIALOG__COL_NAME" width="220">
+		</Column>
+		<Column align="right" img_width="" sample_text="" sort="none" title="STR_RANK_DIALOG__COL_POINT" width="100">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="none" title="STR_RANK_DIALOG__COL_RACE" width="70">
+		</Column>
+		<Column align="center" sort="none" title="STR_RANK_DIALOG__COL_CLASS" width="90">
+		</Column>
+		<Column align="center" sort="none" title="STR_RANK_DIALOG__COL_CHANGE" width="60">
+		</Column>
+	</Widget>
+	<Widget column_heading="True" flag="truncate;vscroll" font="ui_list" frame="6,56,661,453" h_pos_align="proportion" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="rank_time_info" preset="v5_listview_ex" scroll_type="visible" skin_type="version5" type="listviewex" v_pos_align="proportion">
+		<Column align="center" img_width="" sample_text="" sort="none" title="STR_RANK_DIALOG__COL_RANK" width="50">
+		</Column>
+		<Column align="center" sort="none" title="STR_RANK_DIALOG__COL_GRADE" width="0">
+		</Column>
+		<Column align="left" img_width="" sample_text="" sort="none" title="STR_RANK_DIALOG__COL_NAME" width="270">
+		</Column>
+		<Column align="right" img_width="" sample_text="" sort="none" title="STR_RANK_DIALOG__COL_TIME" width="100">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="none" title="STR_RANK_DIALOG__COL_RACE" width="70">
+		</Column>
+		<Column align="center" sort="none" title="STR_RANK_DIALOG__COL_CLASS" width="90">
+		</Column>
+		<Column align="center" sort="none" title="STR_RANK_DIALOG__COL_CHANGE" width="60">
+		</Column>
+	</Widget>
+	<Widget column_heading="True" flag="truncate;vscroll" font="ui_list" frame="6,56,661,453" h_pos_align="proportion" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="rank_gp_info" preset="v5_listview_ex" scroll_type="visible" skin_type="version5" type="listviewex" v_pos_align="proportion">
+		<Column align="center" img_width="" sample_text="" sort="none" title="STR_RANK_DIALOG__COL_RANK" width="50">
+		</Column>
+		<Column align="center" sort="none" title="STR_RANK_DIALOG__COL_GRADE" width="0">
+		</Column>
+		<Column align="left" img_width="" sample_text="" sort="none" title="STR_RANK_DIALOG__COL_NAME" width="270">
+		</Column>
+		<Column align="right" img_width="" sample_text="" sort="none" title="STR_RANK_DIALOG__COL_GLORY_POINT" width="100">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="none" title="STR_RANK_DIALOG__COL_RACE" width="70">
+		</Column>
+		<Column align="center" sort="none" title="STR_RANK_DIALOG__COL_CLASS" width="90">
+		</Column>
+		<Column align="center" sort="none" title="STR_RANK_DIALOG__COL_CHANGE" width="60">
+		</Column>
+	</Widget>
+	<Widget frame="10,512,654,25" h_pos_align="center" name="period" type="static" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_combo" frame="6,29,150,25" halign="left" item_height="18" max_items="2" name="combo_server" padding="8" preset="v5_staticbox3" type="combobox">
+		<Items>
+			<Item name="STR_RANK_INTER_SERVER">
+			</Item>
+			<Item name="STR_RANK_LOCAL_SERVER">
+			</Item>
+		</Items>
+	</Widget>
+	<Widget font="ui_combo" frame="161,29,150,25" halign="left" item_height="18" name="combo_class" padding="8" preset="v5_staticbox3" type="combobox">
+	</Widget>
+	<Widget font="ui_default" frame="567,29,101,24" name="btn_rank_info" preset="v5_button" text="STR_RANK_DIALOG__INFO_BTN" type="button">
+	</Widget>
+</Dialog>

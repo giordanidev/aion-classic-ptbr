@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="left" flag="title" frame="506,150,269,564" last_modified="2018-01-23 19:49:09" name="transformbook_compose_result_dialog" preset="v5_dialog" shadow_offset="8,8" title_align="center" title_frame="3,3,336,14" title_height="25" title_offset="0,5" title_text="STR_TRANSFORMATION_TAB_COMPOSE_RESULT" type="dlg_transformbook_compose_result">
+	<Widget frame="0,23,263,425" type="container">
+		<Widget frame="2,2,259,425" type="image">
+			<Skin name="v5_static_bg4" state="0">
+			</Skin>
+		</Widget>
+		<Widget can_click_item="True" direction_size="1" direction_type="vertical" drag_block_separator="true" elastic_grid_max_rect="0,0,259,450" elastic_grid_size="False" fit_item_size="False" fixed_item_size="False" flag="vscroll" frame="2,2,259,425" h_pos_align="proportion" inner_scroll="false" item_padding="0" item_spacing="0" name="transform_list" scroll_type="hidden" skin_type="version5" type="grid" v_pos_align="proportion">
+			<Widget frame="0,0,259,44" name="prototype" type="container">
+				<Widget frame="0,0,259,44" h_pos_align="proportion" name="bg" type="image" v_pos_align="top">
+					<Skin name="v5_static_bg7">
+					</Skin>
+				</Widget>
+				<Widget cell_padding="0" cell_space="0,0" frame="0,0,44,44" item_height="44" item_width="44" name="slot" preset="v5_transform_slot" skin_type="version5" slot_num="1" type="itemview" viewmode="icon">
+				</Widget>
+				<Widget frame="48,22,140,20" halign="left" name="name" text="STR_TRANSFORMATION_DIALOG" type="static" valign="middle">
+				</Widget>
+				<Widget flag="not_visible" frame="0,0,259,44" image="transform_selected" name="selected" type="image">
+				</Widget>
+				<Widget font="ui_default" font_size="12" frame="45,1,50,20" name="tier_grade" type="htmlview">
+				</Widget>
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget font="ui_default" frame="2,453,129,22" name="cb_auto_compose" preset="v5_check" style="checkbox" text="STR_IDEternity_WAR_DIALOG_AUTO_ACCEPT" type="button">
+	</Widget>
+	<Widget font_size="11" frame="2,480,259,45" halign="left" name="auto_compose_info" text="STR_TRANSFORMATION_DIALOG" text_color="0.9176,0.9137,0.4588,1.0" type="static" valign="middle">
+	</Widget>
+</Dialog>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="close;title" frame="0,0,505,431" h_pos_align="center" last_modified="2014-08-22 12:58:42" name="patin_map_save_dialog" preset="v5_dialog2" shadow_offset="8,8" title_align="center" title_frame="3,3,513,14" title_height="25" title_offset="0,5" title_text="STR_NEW_MAP_DIALOG__PAINTINGTOOL_SAVE" type="dlg_paint_map_save" v_pos_align="middle">
+	<Widget flag="wordwrap;multiline" font="ui_static_title" frame="6,3,488,59" halign="center" padding="5,0" preset="v5_staticbox" text="STR_NEW_MAP_DIALOG__PAINTINGTOOL_SAVE_DESC" type="static" valign="middle">
+	</Widget>
+	<Widget column_customizing="True" column_heading="True" flag="truncate;vscroll" font="ui_list" frame="6,90,488,247" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="filelist" preset="v5_listview_ex" scroll_type="visible" skin_type="version5" text_offset="5,0" type="listviewex">
+		<Column align="left" img_width="" sample_text="" sort="text" title="STR_NEW_MAP_DIALOG__PAINTINGTOOL_COL_FILENAME" width="188">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_NEW_MAP_DIALOG__PAINTINGTOOL_COL_ZONE" width="160">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="param" title="STR_NEW_MAP_DIALOG__PAINTINGTOOL_COL_DATE" width="122">
+		</Column>
+	</Widget>
+	<Widget font="ui_default" frame="6,340,71,25" halign="right" padding="5,0" text="STR_NEW_MAP_DIALOG__PAINTINGTOOL_COL_FILENAME" type="static">
+	</Widget>
+	<Widget alphanumeric="False" font="ui_editbox" frame="82,341,411,24" h_padding="5" name="filename" preset="v5_editbox" type="editbox">
+	</Widget>
+	<Widget font="ui_default" frame="424,374,73,24" name="cancel" preset="v5_button" text="STR_COMMON__CANCEL" type="button">
+	</Widget>
+	<Widget defbutton="True" font="ui_default" frame="350,374,73,24" name="save" preset="v5_button" text="STR_NEW_MAP_DIALOG__PAINTINGTOOL_SAVE_OK" type="button">
+	</Widget>
+	<Widget font="ui_default" frame="6,63,182,26" text="STR_NEW_MAP_DIALOG__PAINTINGTOOL_FILE_LIST" type="static">
+	</Widget>
+	<Widget flag="not_enabled" font="ui_default" frame="2,374,124,24" name="delete" preset="v5_button" text="STR_NEW_MAP_DIALOG__PAINTINGTOOL_DELETE" type="button">
+	</Widget>
+</Dialog>

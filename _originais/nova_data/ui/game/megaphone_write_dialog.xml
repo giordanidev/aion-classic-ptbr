@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="close;title" frame="0,0,387,173" last_modified="2014-08-22 12:58:42" name="megaphone_write_dialog" preset="v5_msgbox" shadow_offset="8,8" title_align="center" title_frame="3,3,407,14" title_height="25" title_offset="0,5" title_text="STR_MSG_TITLE_CONFIRM" type="dlg_megaphone_write">
+	<Widget flag="vscroll" font="ui_default" frame="3,4,375,58" h_pos_align="proportion" name="message" text="STR_MSGBOX_MEGAPHONE_COMFIRM" type="htmlview" v_pos_align="proportion">
+	</Widget>
+	<Widget alphanumeric="False" font="ui_editbox" frame="3,86,375,24" h_pos_align="proportion" name="editbox" preset="v5_editbox" type="editbox" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="297,64,81,20" h_pos_align="right" halign="right" name="count" text="10/10" type="static" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="311,116,68,24" h_pos_align="right" name="cancel" preset="v5_button" text="STR_GUILD_NOTICE_DIALOG__CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget defbutton="true" font="ui_default" frame="242,116,68,24" h_pos_align="right" name="ok" preset="v5_button" text="STR_GUILD_NOTICE_DIALOG__OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget frame="2,119,22,22" h_pos_align="left" name="megaphone_emoticon" preset="v5_emoticon_btn" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="P01">To earn Advanced Flight qualification,</Text>
+	<Text label="P02">you must pass through all the portals within the time limit.</Text>
+	<Text label="P03">The first portal is behind me...</Text>
+	<Text label="P04">then down and through the second, below the circle tower.</Text>
+	<Text label="P05">After that, you&apos;ll pass through four more tower portals,</Text>
+	<Text label="P06">and rise up to the high tower at the center of the temple.</Text>
+	<Text label="P07">Fly through the last portal at the top of the spire, and return to me.</Text>
+	<Text label="P08">And that&apos;s it.</Text>
+	<Text label="P09">Only a skilled flyer can pass this test,</Text>
+	<Text label="P10">so get plenty of practice before you begin.</Text>
+</CutSceneText>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="not_movable;not_focusable" frame="508,2,274,84" h_pos_align="center" last_modified="2020-09-07 20:08:54" name="target_dialog" type="dlg_target" ui_mode="toypet" v_pos_align="top">
+	<Widget frame="0,0,274,84" group="normal" name="container1" type="container">
+		<Widget frame="0,0,274,84" name="bg" type="image">
+			<Skin name="v4_hud_target_normal">
+			</Skin>
+		</Widget>
+		<Widget flag="not_visible" frame="30,23,40,40" name="emblem" type="image">
+		</Widget>
+		<Widget frame="7,30,23,23" halign="center" name="level" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+		</Widget>
+		<Widget font="name" font_size="14" frame="76,14,172,18" halign="center" name="name" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_shade="True" type="static" valign="middle">
+		</Widget>
+		<Widget align="left" frame="86,37,164,11" gauge_adjust="0,0" name="hp_gauge_bg" preset="v4_hp_gauge_target_bg" show_value="false" skin_extend="True" stage="2" state_depended="True" type="gauge">
+		</Widget>
+		<Widget align="left" frame="86,37,164,11" gauge_adjust="0,0" name="hp_gauge" preset="v4_hp_gauge_target" show_value="false" skin_extend="True" stage="2" state_depended="True" type="gauge">
+		</Widget>
+		<Widget frame="121,45,9,5" type="image">
+			<Skin name="v4_target_dot">
+			</Skin>
+		</Widget>
+		<Widget frame="163,45,9,5" type="image">
+			<Skin name="v4_target_dot">
+			</Skin>
+		</Widget>
+		<Widget frame="205,45,9,5" type="image">
+			<Skin name="v4_target_dot">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="0,83,284,84" group="elite" name="container2" type="container">
+		<Widget frame="0,0,284,84" name="bg" type="image">
+			<Skin name="v4_hud_target_elite">
+			</Skin>
+		</Widget>
+		<Widget flag="not_visible" frame="30,23,40,40" name="emblem" type="image">
+		</Widget>
+		<Widget frame="7,30,23,23" halign="center" name="level" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+		</Widget>
+		<Widget font="name" font_size="14" frame="89,7,172,18" halign="center" name="name" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_shade="True" type="static" valign="middle">
+		</Widget>
+		<Widget align="left" frame="87,37,164,11" gauge_adjust="0,0" name="hp_gauge_bg" preset="v4_hp_gauge_target_bg" show_value="false" skin_extend="True" stage="2" state_depended="True" type="gauge">
+		</Widget>
+		<Widget align="left" frame="87,37,164,11" gauge_adjust="0,0" name="hp_gauge" preset="v4_hp_gauge_target" show_value="false" skin_extend="True" stage="2" state_depended="True" type="gauge">
+		</Widget>
+		<Widget frame="122,45,9,5" type="image">
+			<Skin name="v4_target_dot">
+			</Skin>
+		</Widget>
+		<Widget frame="164,45,9,5" type="image">
+			<Skin name="v4_target_dot">
+			</Skin>
+		</Widget>
+		<Widget frame="206,45,9,5" type="image">
+			<Skin name="v4_target_dot">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="0,166,384,92" group="hero" name="container3" type="container">
+		<Widget frame="0,0,384,92" name="bg" type="image">
+			<Skin name="v4_hud_target_hero">
+			</Skin>
+		</Widget>
+		<Widget flag="not_visible" frame="30,26,40,40" name="emblem" type="image">
+		</Widget>
+		<Widget frame="6,33,23,23" halign="center" name="level" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+		</Widget>
+		<Widget font="name" font_size="14" frame="110,12,172,18" halign="center" name="name" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_shade="True" type="static" valign="middle">
+		</Widget>
+		<Widget align="left" frame="85,40,245,12" gauge_adjust="0,0" name="hp_gauge_bg" preset="v4_hp_gauge_target_bg" show_value="false" skin_extend="True" stage="2" state_depended="True" type="gauge">
+		</Widget>
+		<Widget align="left" frame="85,40,245,12" gauge_adjust="0,0" name="hp_gauge" preset="v4_hp_gauge_target" show_value="false" skin_extend="True" stage="2" state_depended="True" type="gauge">
+		</Widget>
+		<Widget frame="141,47,9,5" type="image">
+			<Skin name="v4_target_dot">
+			</Skin>
+		</Widget>
+		<Widget frame="203,47,9,5" type="image">
+			<Skin name="v4_target_dot">
+			</Skin>
+		</Widget>
+		<Widget frame="265,47,9,5" type="image">
+			<Skin name="v4_target_dot">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="0,257,400,102" group="legend" name="container4" type="container">
+		<Widget frame="0,0,400,102" name="bg" type="image">
+			<Skin name="v4_hud_target_legend">
+			</Skin>
+		</Widget>
+		<Widget flag="not_visible" frame="31,30,40,40" name="emblem" type="image">
+		</Widget>
+		<Widget frame="9,38,23,23" halign="center" name="level" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+		</Widget>
+		<Widget font="name" font_size="14" frame="129,12,172,18" halign="center" name="name" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_shade="True" type="static" valign="middle">
+		</Widget>
+		<Widget align="left" frame="88,45,246,11" gauge_adjust="0,0" name="hp_gauge_bg" preset="v4_hp_gauge_target_bg" show_value="false" skin_extend="True" stage="2" state_depended="True" type="gauge">
+		</Widget>
+		<Widget align="left" frame="88,45,246,11" gauge_adjust="0,0" name="hp_gauge" preset="v4_hp_gauge_target" show_value="false" skin_extend="True" stage="2" state_depended="True" type="gauge">
+		</Widget>
+		<Widget frame="144,53,9,5" type="image">
+			<Skin name="v4_target_dot">
+			</Skin>
+		</Widget>
+		<Widget frame="206,53,9,5" type="image">
+			<Skin name="v4_target_dot">
+			</Skin>
+		</Widget>
+		<Widget frame="268,53,9,5" type="image">
+			<Skin name="v4_target_dot">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="0,358,223,68" group="toypet" name="container5" type="container">
+		<Widget frame="0,0,223,68" name="bg" type="image">
+			<Skin name="v4_hud_target_toypet">
+			</Skin>
+		</Widget>
+		<Widget flag="not_visible" frame="13,13,40,40" name="emblem" type="image">
+		</Widget>
+		<Widget font="name" font_size="14" frame="63,3,133,18" halign="center" name="name" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_shade="True" type="static" valign="middle">
+		</Widget>
+		<Widget align="left" flag="active" frame="67,28,136,11" name="hp_gauge" preset="v4_toypet_feeling" show_value="false" skin_extend="False" state_depended="False" type="gauge">
+		</Widget>
+	</Widget>
+	<Widget frame="0,425,223,68" group="toypet" name="container6" type="container">
+		<Widget frame="0,0,223,68" name="bg" type="image">
+			<Skin name="v4_hud_target_toypet_other">
+			</Skin>
+		</Widget>
+		<Widget flag="not_visible" frame="13,13,40,40" name="emblem" type="image">
+		</Widget>
+		<Widget font="name" font_size="14" frame="63,3,133,18" halign="center" name="name" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_shade="True" type="static" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget frame="279,25,60,33" name="dist_info" type="container">
+		<Skin name="v4_target_dist_bg">
+		</Skin>
+		<Widget frame="31,18,26,13" halign="right" name="target_dist" type="static">
+		</Widget>
+		<Widget font_size="-12" frame="2,18,30,13" text="STR_TARGET_DIALOG__DIST" type="static">
+		</Widget>
+		<Widget font_size="-12" frame="2,4,30,13" text="STR_TARGET_DIALOG__HEIGHT" type="static">
+		</Widget>
+		<Widget frame="38,5,12,11" name="target_height" preset="v4_target_height" type="image">
+		</Widget>
+	</Widget>
+</Dialog>

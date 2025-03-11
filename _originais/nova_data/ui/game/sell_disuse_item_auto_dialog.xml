@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="title" frame="762,100,340,442" last_modified="2017-11-29 15:27:22" name="sell_disuse_item_auto_dialog" preset="v5_dialog2" shadow_offset="8,8" title_align="center" title_frame="3,3,326,14" title_height="25" title_offset="0,5" title_text="STR_AUTO_SELL_DISUSE_ITEM_DIALOG" type="dlg_sell_disuse_item_auto">
+	<Widget cell_padding="2,2" cell_space="0,-1" flag="vscroll" font="ui_list" frame="0,103,331,223" h_pos_align="proportion" header_font="v3_columnhead" header_height="0" item_height="44" item_width="44" list_padding="3,3" name="itemlist" preset="v5_listview_frame" scroll_type="visible" skin_type="version5" slot_num="20" split_num="1" type="listview" v_pos_align="proportion" viewmode1="detail">
+		<Column align="" title="" width="9999">
+		</Column>
+	</Widget>
+	<Widget flag="multiline;wordwrap" font="ui_static_title" frame="1,3,329,97" group="advanced" h_pos_align="proportion" halign="center" name="desc" padding="10,0" preset="v5_staticbox" text="STR_AUTO_SELL_DISUSE_ITEM_DIALOG__DESC" text_offset="30, 0" type="static" v_pos_align="top">
+	</Widget>
+	<Widget defbutton="False" font="ui_default" frame="245,384,86,24" h_pos_align="right" name="sell" preset="v5_button" text="STR_AUTO_SELL_DISUSE_ITEM_DIALOG__OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="v3_money" frame="127,330,205,22" h_pos_align="proportion" halign="right" name="total_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="0,329,121,23" h_pos_align="left" halign="right" padding="2,0" text="STR_AUTO_SELL_DISUSE_ITEM_DIALOG__TOTAL_MONEY" type="static" v_pos_align="bottom">
+	</Widget>
+	<Widget font="v3_money" frame="127,355,205,22" h_pos_align="proportion" halign="right" name="total_ap" preset="v5_staticbox" type="static" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="0,354,121,23" h_pos_align="left" halign="right" padding="2,0" text="STR_AUTO_SELL_DISUSE_ITEM_DIALOG__TOTAL_AP" type="static" v_pos_align="bottom">
+	</Widget>
+</Dialog>

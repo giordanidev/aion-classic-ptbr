@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="visible" frame="0,500,390,118" last_modified="2014-08-22 12:58:42" name="megaphone_dialog" title_frame="3,3,427,14" type="dlg_megaphone" ui_mode="housing;toypet;housing_building">
+	<Widget flag="not_active" frame="0,0,390,118" h_pos_align="proportion" name="tabsheet" type="tabsheet" v_pos_align="proportion">
+		<Widget flag="not_active" frame="0,0,390,24" h_pos_align="proportion" preset="v5_chat_tab" tab_offset="23,0" tab_space="2" type="tab">
+			<Widget flag="textalpha" font="ui_default" frame="23,0,77,25" preset="v5_chat_tab_button" text="STR_CHAT_TAB_NAME_RACE" type="tabbutton">
+			</Widget>
+		</Widget>
+		<Widget flag="not_active" frame="0,24,390,94" h_pos_align="proportion" preset="v5_chat_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget flag="multiline;wordwrap;not_active" frame="2,3,384,85" h_pos_align="proportion" max_lines="500" name="static" padding="3,0" type="staticex" v_pos_align="proportion" valign="bottom">
+				<Widget flag="not_visible" frame="0,0,16,84" name="scroll" preset="v5_chat_scroll" type="scrollbar" v_pos_align="proportion">
+					<Widget flag="not_active" frame="0,0,16,12" name="minus" preset="v5_scroll_minus" type="button">
+					</Widget>
+					<Widget flag="not_active" frame="0,0,16,12" name="plus" preset="v5_scroll_plus" type="button">
+					</Widget>
+					<Widget flag="not_active" frame="1,0,19,19" name="plus_end" preset="v5_scroll_bottom" type="button">
+					</Widget>
+				</Widget>
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget flag="not_active" frame="4,4,15,15" h_pos_align="left" name="move_trigger" type="image" v_pos_align="top">
+		<Skin name="v5_cross" state="0">
+		</Skin>
+		<Skin name="v5_lock" state="1">
+		</Skin>
+	</Widget>
+</Dialog>

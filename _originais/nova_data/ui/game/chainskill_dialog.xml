@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="close;title" frame="300,50,504,614" last_modified="2014-08-22 12:58:41" name="chainskill_dialog" preset="v5_dialog2" title_frame="3,3,498,14" title_text="STR_SKILL_DIC_DIALOG__CHAINSKILL" type="dlg_chainskill">
+	<Widget flag="vscroll" frame="0,0,498,550" h_pos_align="proportion" margin="10" name="chainskill_list" preset="v5_staticbox" scroll_type="visible" step="40" type="scrollable" v_pos_align="proportion">
+		<Widget flag="wordwrap;multiline" font="ui_default" frame="0,0,463,41" name="alert" text="STR_SKILL_DIC_DIALOG__CHANGE_CHAIN_TREE_INFO" type="static">
+		</Widget>
+	</Widget>
+	<Widget font="ui_default" frame="419,557,75,24" h_pos_align="right" name="cancel" preset="v5_button" text="STR_DLG_DIALOG__CLOSE" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fontshaders>
+	<fontshader name="v3_money">
+		<font color="189,149,56,255" editor_name="Noto Sans KR Medium" logical_size="-13" name="NotoSansKR-Medium">
+		</font>
+	</fontshader>
+	<fontshader name="v3_level">
+		<font color="255,255,255,255" editor_name="Noto Sans CJK KR Bold" logical_size="-12" name="NotoSansKR-Bold" shadow="true">
+		</font>
+	</fontshader>
+	<fontshader name="v3_quest">
+		<font color="108,107,91,255" editor_name="Noto Sans KR Medium" logical_size="-12" name="NotoSansKR-Medium" over="108,107,91,255" selected="108,107,91,255">
+		</font>
+	</fontshader>
+	<fontshader name="v3_quest_list">
+		<font color="217,215,176,255" editor_name="Noto Sans KR Medium" logical_size="-13" name="NotoSansKR-Medium" over="217,215,176,255" selected="217,215,176,255">
+		</font>
+	</fontshader>
+	<fontshader name="v3_columnhead">
+		<font color="124,126,109,255" editor_name="Noto Sans CJK KR Bold" logical_size="-12" name="NotoSansKR-Bold" over="124,126,109,255">
+		</font>
+	</fontshader>
+	<fontshader name="v3_option_title">
+		<font editor_name="Noto Sans KR Medium" logical_size="-12" name="NotoSansKR-Medium">
+		</font>
+	</fontshader>
+	<fontshader name="v3_option">
+		<font editor_name="Noto Sans CJK KR Bold" logical_size="-12" name="NotoSansKR-Bold">
+		</font>
+	</fontshader>
+	<fontshader name="v3_shortcut">
+		<font color="255,255,255,255" editor_name="Noto Sans KR Medium" logical_size="-9" name="NotoSansKR-Medium" shadow="true">
+		</font>
+	</fontshader>
+	<fontshader name="v3_chatinput">
+		<font color="217,215,176,255" editor_name="Noto Sans KR Medium" logical_size="-14" name="NotoSansKR-Medium">
+		</font>
+	</fontshader>
+	<fontshader name="v3_map_subzone">
+		<font editor_name="Noto Sans KR Medium" logical_size="-12" name="NotoSansKR-Medium">
+		</font>
+	</fontshader>
+	<fontshader name="default">
+		<font editor_name="Noto Sans KR Medium" logical_size="-13" name="NotoSansKR-Medium">
+		</font>
+	</fontshader>
+	<fontshader name="console">
+		<font editor_name="Noto Sans CJK KR Bold" logical_size="-13" name="NotoSansKR-Bold">
+		</font>
+	</fontshader>
+	<fontshader name="character_name">
+		<font editor_name="Noto Sans CJK KR Bold" logical_size="-24" name="NotoSansKR-Bold" outline_color="0,0,0,255">
+		</font>
+	</fontshader>
+	<fontshader name="character_ranking">
+		<font editor_name="Noto Sans CJK KR Bold" logical_size="-16" name="NotoSansKR-Bold">
+		</font>
+	</fontshader>
+	<fontshader name="damage">
+		<font editor_name="Noto Sans CJK KR Bold" logical_size="-13" name="NotoSansKR-Bold">
+		</font>
+	</fontshader>
+	<fontshader name="large">
+		<font color="255,255,255,255" editor_name="Noto Sans CJK KR Bold" logical_size="-13" name="NotoSansKR-Bold" outline_color="0,0,0,255">
+		</font>
+	</fontshader>
+	<fontshader name="loading_tip">
+		<font editor_name="Noto Sans CJK KR Bold" logical_size="-16" name="NotoSansKR-Bold">
+		</font>
+	</fontshader>
+	<fontshader name="v3_dialog">
+		<font color="217,215,176,255" editor_name="Noto Sans CJK KR Bold" logical_size="-12" name="NotoSansKR-Bold" outline_color="0,0,0,255">
+		</font>
+	</fontshader>
+	<fontshader name="v3_button">
+		<font color="217,215,176,255" disabled="141,140,126,255" editor_name="Noto Sans CJK KR Bold" logical_size="-12" name="NotoSansKR-Bold" over="214,176,94,255">
+		</font>
+	</fontshader>
+	<fontshader name="v3_tab">
+		<font color="217,215,176,255" disabled="108,107,91,255" editor_name="Noto Sans CJK KR Bold" logical_size="-12" name="NotoSansKR-Bold" over="214,176,94,255">
+		</font>
+	</fontshader>
+	<fontshader name="v3_combobox">
+		<font color="217,215,176,255" disabled="141,140,126,255" editor_name="Noto Sans KR Medium" logical_size="-12" name="NotoSansKR-Medium">
+		</font>
+	</fontshader>
+	<fontshader name="v3_listbox">
+		<font color="217,215,176,255" disabled="141,140,126,255" editor_name="Noto Sans KR Medium" logical_size="-12" name="NotoSansKR-Medium" over="214,176,94,255">
+		</font>
+	</fontshader>
+	<fontshader name="v3_editbox">
+		<font color="217,215,176,255" editor_name="Noto Sans KR Medium" logical_size="-12" name="NotoSansKR-Medium">
+		</font>
+	</fontshader>
+	<fontshader name="v3_listview">
+		<font color="217,215,176,255" editor_name="Noto Sans CJK KR Bold" logical_size="-13" name="NotoSansKR-Bold">
+		</font>
+	</fontshader>
+	<fontshader name="quest_summary">
+		<font color="62,38,1,255" editor_name="Noto Sans CJK KR Bold" logical_size="-13" name="NotoSansKR-Bold">
+		</font>
+	</fontshader>
+	<fontshader name="quest_summary_completed">
+		<font color="72,67,46,255" editor_name="Noto Sans CJK KR Bold" logical_size="-13" name="NotoSansKR-Bold">
+		</font>
+	</fontshader>
+	<fontshader name="prophet_summary">
+		<font color="62,38,1,255" editor_name="Noto Sans CJK KR Bold" logical_size="-13" name="NotoSansKR-Bold">
+		</font>
+	</fontshader>
+	<fontshader name="v3_trade_button">
+		<font color="110,217,135,255" disabled="144,144,143,255" editor_name="Noto Sans CJK KR Bold" logical_size="-15" name="NotoSansKR-Bold" over="218,230,120,255">
+		</font>
+	</fontshader>
+	<fontshader name="v3_sel_button">
+		<font color="48,36,5,255" disabled="144,144,143,255" editor_name="Noto Sans CJK KR Bold" logical_size="-13" name="NotoSansKR-Bold" over="255,220,143,255">
+		</font>
+	</fontshader>
+	<fontshader name="v3_quest_title">
+		<font color="62,38,1,255" editor_name="AION 아트레이아" logical_size="-16" name="AIONAtreia">
+		</font>
+	</fontshader>
+	<fontshader name="v3_ui_title">
+		<font editor_name="AION 아트레이아" logical_size="-16" name="AIONAtreia" outline_color="0,0,0,255">
+		</font>
+	</fontshader>
+	<fontshader name="v3_target_title">
+		<font editor_name="AION 아트레이아" logical_size="-16" name="AIONAtreia" outline_color="0,0,0,255">
+		</font>
+	</fontshader>
+	<fontshader name="v3_quest_subtitle">
+		<font color="62,38,1,255" editor_name="Noto Sans CJK KR Bold" logical_size="-14" name="NotoSansKR-Bold">
+		</font>
+	</fontshader>
+	<fontshader name="v3_quest_reward">
+		<font color="62,38,1,255" editor_name="Noto Sans KR Medium" logical_size="-12" name="NotoSansKR-Medium" over="62,38,1,255" selected="62,38,1,255">
+		</font>
+	</fontshader>
+	<fontshader name="v3_quest_number">
+		<font color="255,255,0,255" editor_name="Noto Sans KR Medium" logical_size="-14" name="NotoSansKR-Medium">
+		</font>
+	</fontshader>
+	<fontshader name="v3_quest_number_complete">
+		<font color="128,128,128,255" editor_name="Noto Sans KR Medium" logical_size="-14" name="NotoSansKR-Medium">
+		</font>
+	</fontshader>
+	<fontshader name="v3_quest_notice">
+		<font color="217,215,176,255" editor_name="Noto Sans CJK KR Bold" logical_size="-15" name="NotoSansKR-Bold">
+		</font>
+	</fontshader>
+	<fontshader name="v3_quest_indicator_title">
+		<font editor_name="Noto Sans CJK KR Bold" logical_size="-15" name="NotoSansKR-Bold" outline_color="0,0,0,255">
+		</font>
+	</fontshader>
+	<fontshader name="v3_quest_indicator_summary">
+		<font color="217,215,176,255" editor_name="Noto Sans CJK KR Bold" logical_size="-13" name="NotoSansKR-Bold" shadow="true">
+		</font>
+	</fontshader>
+	<fontshader name="v3_desc">
+		<font color="190,186,160,255" editor_name="Noto Sans CJK KR Bold" logical_size="-12" name="NotoSansKR-Bold">
+		</font>
+	</fontshader>
+	<fontshader name="v3_value">
+		<font color="217,215,176,255" editor_name="Noto Sans KR Medium" logical_size="-12" name="NotoSansKR-Medium">
+		</font>
+	</fontshader>
+	<fontshader name="v3_title_name">
+		<font color="190,186,160,255" editor_name="Noto Sans CJK KR Bold" logical_size="-13" name="NotoSansKR-Bold">
+		</font>
+	</fontshader>
+	<fontshader name="v3_title_desc">
+		<font color="190,186,160,255" editor_name="Noto Sans CJK KR Bold" logical_size="-12" name="NotoSansKR-Bold">
+		</font>
+	</fontshader>
+	<fontshader name="v3_motion_name">
+		<font color="190,186,160,255" editor_name="Noto Sans CJK KR Bold" logical_size="-13" name="NotoSansKR-Bold">
+		</font>
+	</fontshader>
+	<fontshader name="v3_motion_desc">
+		<font color="190,186,160,255" editor_name="Noto Sans CJK KR Bold" logical_size="-12" name="NotoSansKR-Bold">
+		</font>
+	</fontshader>
+	<fontshader name="v3_dic_title">
+		<font color="62,38,1,255" editor_name="Noto Sans KR Medium" logical_size="-13" name="NotoSansKR-Medium">
+		</font>
+	</fontshader>
+	<fontshader name="v3_dic_desc">
+		<font color="62,38,1,255" editor_name="Noto Sans KR Medium" logical_size="-13" name="NotoSansKR-Medium">
+		</font>
+	</fontshader>
+	<fontshader name="v3_msgbox">
+		<font editor_name="Noto Sans KR Medium" logical_size="-13" name="NotoSansKR-Medium">
+		</font>
+	</fontshader>
+	<fontshader name="v3_msgbox_money">
+		<font color="189,149,56,255" editor_name="Noto Sans KR Medium" logical_size="-13" name="NotoSansKR-Medium">
+		</font>
+	</fontshader>
+	<fontshader name="v3_tooltip_title">
+		<font color="220,210,210,255" editor_name="Noto Sans CJK KR Bold" logical_size="-14" name="NotoSansKR-Bold">
+		</font>
+	</fontshader>
+	<fontshader name="v3_tooltip_level">
+		<font color="211,160,79,255" editor_name="Noto Sans KR Medium" logical_size="-12" name="NotoSansKR-Medium">
+		</font>
+	</fontshader>
+	<fontshader name="v3_tooltip_equipment">
+		<font color="125,132,209,255" editor_name="Noto Sans KR Medium" logical_size="-12" name="NotoSansKR-Medium">
+		</font>
+	</fontshader>
+	<fontshader name="v3_tooltip_dist">
+		<font color="217,215,176,255" editor_name="Noto Sans KR Medium" logical_size="-12" name="NotoSansKR-Medium">
+		</font>
+	</fontshader>
+	<fontshader name="v3_tooltip_aggressive">
+		<font color="242,75,39,255" editor_name="Noto Sans KR Medium" logical_size="-14" name="NotoSansKR-Medium">
+		</font>
+	</fontshader>
+	<fontshader name="v3_tooltip_desc">
+		<font color="217,185,115,255" editor_name="Noto Sans KR Medium" logical_size="-12" name="NotoSansKR-Medium">
+		</font>
+	</fontshader>
+	<fontshader name="v3_tooltip_info_name">
+		<font color="190,186,160,255" editor_name="Noto Sans CJK KR Bold" logical_size="-12" name="NotoSansKR-Bold">
+		</font>
+	</fontshader>
+	<fontshader name="v3_tooltip_info_desc">
+		<font color="217,215,176,255" editor_name="Noto Sans KR Medium" logical_size="-12" name="NotoSansKR-Medium">
+		</font>
+	</fontshader>
+	<fontshader name="tooltip_guide_title">
+		<font color="214,176,94,255" editor_name="Noto Sans CJK KR Bold" logical_size="-13" name="NotoSansKR-Bold">
+		</font>
+	</fontshader>
+	<fontshader name="tooltip_guide_body">
+		<font editor_name="Noto Sans CJK KR Bold" logical_size="-12" name="NotoSansKR-Bold">
+		</font>
+	</fontshader>
+	<fontshader name="v3_popup_title">
+		<font color="217,215,176,255" editor_name="Noto Sans CJK KR Bold" logical_size="-13" name="NotoSansKR-Bold">
+		</font>
+	</fontshader>
+	<fontshader name="v3_popup_button">
+		<font color="217,215,176,255" disabled="108,107,88,255" editor_name="Noto Sans CJK KR Bold" logical_size="-12" name="NotoSansKR-Bold" over="214,176,94,255">
+		</font>
+	</fontshader>
+	<fontshader name="v3_popup_addinfo">
+		<font color="217,215,176,255" editor_name="Noto Sans CJK KR Bold" logical_size="-9" name="NotoSansKR-Bold">
+		</font>
+	</fontshader>
+	<fontshader name="v3_chat_small">
+		<font editor_name="Noto Sans KR Medium" logical_size="-12" name="NotoSansKR-Medium">
+		</font>
+	</fontshader>
+	<fontshader name="v3_chat_normal">
+		<font editor_name="Noto Sans KR Medium" logical_size="-14" name="NotoSansKR-Medium">
+		</font>
+	</fontshader>
+	<fontshader name="v3_chat_large">
+		<font editor_name="Noto Sans KR Medium" logical_size="-16" name="NotoSansKR-Medium">
+		</font>
+	</fontshader>
+	<fontshader name="v3_chat_alert">
+		<font editor_name="Noto Sans KR Medium" logical_size="-24" name="NotoSansKR-Medium">
+		</font>
+	</fontshader>
+	<fontshader name="v3_system_zonename">
+		<font color="255,234,183,255" editor_name="산돌방각본 B" logical_size="-48" name="AIONAtreia" outline_color="0,0,0,255">
+		</font>
+	</fontshader>
+	<fontshader name="v3_system_duel">
+		<font color="255,234,183,255" editor_name="Noto Sans CJK KR Bold" logical_size="-48" name="NotoSansKR-Bold" shadow="true">
+		</font>
+	</fontshader>
+	<fontshader name="v3_system_pvp">
+		<font color="255,234,183,255" editor_name="Noto Sans CJK KR Bold" logical_size="-32" name="NotoSansKR-Bold" shadow="true">
+		</font>
+	</fontshader>
+	<fontshader name="v3_system_gm_alert">
+		<font editor_name="Noto Sans CJK KR Bold" logical_size="-15" name="NotoSansKR-Bold" shadow="true">
+		</font>
+	</fontshader>
+	<fontshader name="v3_system_message">
+		<font color="255,234,183,255" editor_name="Noto Sans CJK KR Bold" logical_size="-15" name="NotoSansKR-Bold" shadow="true">
+		</font>
+	</fontshader>
+	<fontshader name="v3_system_follow">
+		<font color="217,215,176,255" editor_name="Noto Sans CJK KR Bold" logical_size="-32" name="NotoSansKR-Bold" shadow="true">
+		</font>
+	</fontshader>
+	<fontshader name="v3_system_score_alarm">
+		<font color="232,245,9,255" editor_name="Noto Sans CJK KR Bold" logical_size="-32" name="NotoSansKR-Bold" shadow="true">
+		</font>
+	</fontshader>
+	<fontshader name="v3_system_auto_config">
+		<font color="217,215,176,255" editor_name="Noto Sans CJK KR Bold" logical_size="-15" name="NotoSansKR-Bold">
+		</font>
+	</fontshader>
+	<fontshader name="v3_fixed_number">
+		<font editor_name="Noto Sans KR Medium" fixed_width="6" logical_size="-12" name="NotoSansKR-Medium">
+		</font>
+	</fontshader>
+	<fontshader name="credit_team">
+		<font color="255,255,255,255" disabled="255,255,255,255" editor_name="Noto Sans CJK KR Bold" logical_size="-28" name="NotoSansKR-Bold" over="255,255,255,255" shadow="true">
+		</font>
+	</fontshader>
+	<fontshader name="credit_part">
+		<font color="217,174,131,255" disabled="255,255,255,255" editor_name="Noto Sans CJK KR Bold" logical_size="-18" name="NotoSansKR-Bold" over="255,255,255,255" shadow="true">
+		</font>
+	</fontshader>
+	<fontshader name="credit_title">
+		<font color="217,174,131,255" disabled="217,174,131,255" editor_name="Noto Sans CJK KR Bold" logical_size="-14" name="NotoSansKR-Bold" shadow="true">
+		</font>
+	</fontshader>
+	<fontshader name="credit_name">
+		<font color="255,255,255,255" disabled="255,255,255,255" editor_name="Noto Sans CJK KR Bold" logical_size="-18" name="NotoSansKR-Bold" over="255,255,255,255" shadow="true">
+		</font>
+	</fontshader>
+	<fontshader name="fx_title_common">
+		<font color="255,168,3,255" editor_name="NotoSansKR-Bold" logical_size="-48" name="NotoSansKR-Bold" shadow="True">
+		</font>
+	</fontshader>
+	<fontshader name="fx_title_Worldraid">
+		<font color="249,0,0,255" editor_name="NotoSansKR-Bold" logical_size="-48" name="NotoSansKR-Bold" shadow="True">
+		</font>
+	</fontshader>
+	<fontshader name="fx_title_Anoha">
+		<font color="255,168,3,255" editor_name="NotoSansKR-Bold" logical_size="-48" name="NotoSansKR-Bold" shadow="True">
+		</font>
+	</fontshader>
+	<fontshader name="fx_title_GodElite">
+		<font color="237,238,247,255" editor_name="NotoSansKR-Bold" logical_size="-48" name="NotoSansKR-Bold" shadow="True">
+		</font>
+	</fontshader>
+	<fontshader name="fx_title_OpLevelUpLight">
+		<font color="255,244,148,255" editor_name="NotoSansKR-Bold" logical_size="-48" name="NotoSansKR-Bold" shadow="True">
+		</font>
+	</fontshader>
+	<fontshader name="fx_title_OpLevelUpDark">
+		<font color="255,244,148,255" editor_name="NotoSansKR-Bold" logical_size="-48" name="NotoSansKR-Bold" shadow="True">
+		</font>
+	</fontshader>
+	<fontshader name="fx_title_Dkisas">
+		<font color="255,255,255,255" editor_name="NotoSansKR-Bold" logical_size="-48" name="NotoSansKR-Bold" shadow="True">
+		</font>
+	</fontshader>
+	<fontshader name="fx_title_OnlineRanker">
+		<font color="255,255,255,255" editor_name="NotoSansKR-Bold" logical_size="-36" name="NotoSansKR-Bold" shadow="True">
+		</font>
+	</fontshader>
+	<fontshader name="fx_title_RVR">
+		<font color="255,246,1,255" editor_name="NotoSansKR-Bold" logical_size="-36" name="NotoSansKR-Bold" shadow="True">
+		</font>
+	</fontshader>
+	<fontshader name="fx_title_FortressWin">
+		<font color="255,255,255,255" editor_name="NotoSansKR-Bold" logical_size="-36" name="NotoSansKR-Bold" shadow="True">
+		</font>
+	</fontshader>
+	<fontshader name="fx_title_FortressLose">
+		<font color="225,225,225,255" editor_name="NotoSansKR-Bold" logical_size="-36" name="NotoSansKR-Bold" shadow="True">
+		</font>
+	</fontshader>
+	<fontshader name="fx_title_RVR_event">
+		<font color="251,110,176,255" editor_name="NotoSansKR-Bold" logical_size="-36" name="NotoSansKR-Bold" shadow="True">
+		</font>
+	</fontshader>
+	<fontshader name="fx_title_RVR_white">
+		<font color="255,255,255,255" editor_name="NotoSansKR-Bold" logical_size="-36" name="NotoSansKR-Bold" shadow="True">
+		</font>
+	</fontshader>
+	<fontshader name="fx_title_common_small">
+		<font color="255,168,3,255" editor_name="NotoSansKR-Bold" logical_size="-24" name="NotoSansKR-Bold" shadow="True">
+		</font>
+	</fontshader>
+	<fontshader name="fx_title_FortressWin_small">
+		<font color="255,255,255,255" editor_name="NotoSansKR-Bold" logical_size="-24" name="NotoSansKR-Bold" shadow="True">
+		</font>
+	</fontshader>
+	<fontshader name="ridebag_title_disable">
+		<font color="128,128,128,255" editor_name="NotoSansKR-Bold" logical_size="-12" name="NotoSansKR-Bold">
+		</font>
+	</fontshader>
+</fontshaders>

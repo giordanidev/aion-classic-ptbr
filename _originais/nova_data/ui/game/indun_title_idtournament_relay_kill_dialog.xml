@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog frame="0,0,1280,960" h_pos_align="center" last_modified="2017-02-13 19:48:41" name="indun_title_idtournament_relay_kill_dialog" type="dlg_indun_title_idtournament_relay_kill" v_pos_align="top">
+	<Widget frame="395,244,504,92" name="round_bg" type="container">
+		<Skin name="v5_indun_title_bg">
+		</Skin>
+		<Widget font_size="36" frame="77,7,405,50" halign="center" name="round_text" text_color="0.9804,0.9098,0.2824,1.0" text_shade="True" type="static" valign="middle">
+		</Widget>
+		<Widget font_size="28" frame="77,44,405,40" halign="center" name="reason_text" text_color="0.9804,0.9098,0.2824,1.0" text_shade="True" type="static" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget frame="308,188,223,186" name="emblem" preset="v5_indun_title_img" type="container">
+	</Widget>
+</Dialog>

@@ -1,0 +1,1559 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="close;title" font="ui_default" frame="0,0,549,589" last_modified="2020-02-11 10:12:54" name="enchant_all_dialog" preset="v5_dialog2" title_frame="3,3,543,14" title_text="STR_ENCHANT_ALL_DIALOG" type="dlg_enchant_all">
+	<Widget flag="nonclient" frame="2,27,545,531" group="bg" preset="enchant_all_bg" type="image" v_pos_align="proportion">
+	</Widget>
+	<Widget flag="vscroll;vscroll_left" frame="0,0,177,524" name="menu" rearrange="True" scroll_type="auto" skin_type="notice" space="-14" step="34" text_shade="False" type="scrollable" v_pos_align="proportion">
+		<Widget flag="truncate" font="ui_default" frame="0,0,173,48" group="menu" halign="left" name="prototype" text="STR_ENCHANT_ALL_DIALOG__ENCHANT" text_offset="40,0" text_shade="False" type="container">
+			<Widget frame="0,5,172,43" preset="enchant_all_menu_shadow" type="image">
+			</Widget>
+			<Widget flag="truncate" font="ui_default" frame="0,0,173,40" group="menu" halign="left" name="button" preset="enchant_all_menu" text_offset="40,0" text_shade="False" type="button">
+			</Widget>
+			<Widget frame="6,7,27,27" name="icon" type="image">
+			</Widget>
+		</Widget>
+		<Widget frame="0,34,172,28" group="menu" name="prototype_sep" type="image">
+		</Widget>
+	</Widget>
+	<Widget frame="171,1,371,525" name="detail" type="tabsheet" v_pos_align="proportion">
+		<Widget btn_move_anim="False" frame="385,0,122,525" h_pos_align="left" min_tab_size="100,30" name="detail_tab" tab_align="top" tab_offset="0,0" tab_space="0" type="tab" v_pos_align="top">
+			<Widget font="ui_default" frame="6,9,100,30" name="default" preset="v5_tabbutton" text="STR_ENCHANT_MENU_ENCHANT_HOME" type="tabbutton">
+			</Widget>
+			<Widget flag="not_visible" font="ui_default" frame="6,39,100,30" name="enchant" preset="v5_tabbutton" text="STR_ENCHANT_ALL_DIALOG__ENCHANT" type="tabbutton">
+			</Widget>
+			<Widget flag="not_visible" font="ui_default" frame="6,69,100,30" name="exceed_enchant" preset="v5_tabbutton" text="STR_ENCHANT_ALL_DIALOG__EXCEED_ENCHANT" type="tabbutton">
+			</Widget>
+			<Widget flag="not_visible" font="ui_default" frame="6,99,100,30" name="enchant_option" preset="v5_tabbutton" text="STR_ENCHANT_ALL_DIALOG__ENCHANT_OPTION" type="tabbutton">
+			</Widget>
+			<Widget flag="not_visible" font="ui_default" frame="6,129,100,30" name="proc" preset="v5_tabbutton" text="STR_ENCHANT_ALL_DIALOG__PROC" type="tabbutton">
+			</Widget>
+			<Widget flag="not_visible" font="ui_default" frame="6,159,100,30" name="authorize" preset="v5_tabbutton" text="STR_ENCHANT_ALL_DIALOG__AUTHORIZE" type="tabbutton">
+			</Widget>
+			<Widget flag="not_visible" font="ui_default" frame="6,189,100,30" name="polish" preset="v5_tabbutton" text="STR_ENCHANT_ALL_DIALOG__POLISH" type="tabbutton">
+			</Widget>
+			<Widget flag="not_visible" font="ui_default" frame="6,219,100,30" name="reidentify" preset="v5_tabbutton" text="STR_ENCHANT_ALL_DIALOG__REIDENTIFY" type="tabbutton">
+			</Widget>
+			<Widget flag="not_visible" font="ui_default" frame="6,249,100,30" name="charge" preset="v5_tabbutton" text="STR_ENCHANT_ALL_DIALOG__CHARGE" type="tabbutton">
+			</Widget>
+			<Widget flag="not_visible" font="ui_default" frame="6,279,100,30" name="extract" preset="v5_tabbutton" text="STR_ENCHANT_ALL_DIALOG__EXTRACT" type="tabbutton">
+			</Widget>
+			<Widget flag="not_visible" font="ui_default" frame="6,309,100,30" name="ap_extract" preset="v5_tabbutton" text="STR_ENCHANT_ALL_DIALOG__AP_EXTRACT" type="tabbutton">
+			</Widget>
+			<Widget flag="not_visible" font="ui_default" frame="6,339,100,30" name="dye" preset="v5_tabbutton" text="STR_ENCHANT_ALL_DIALOG__DYE" type="tabbutton">
+			</Widget>
+			<Widget flag="not_visible" font="ui_default" frame="6,369,100,30" name="pack" preset="v5_tabbutton" text="STR_ENCHANT_ALL_DIALOG__PACK" type="tabbutton">
+			</Widget>
+			<Widget flag="not_visible" font="ui_default" frame="6,399,100,30" name="soul_unbind" preset="v5_tabbutton" text="STR_ENCHANT_ALL_DIALOG__REMOVE_SOULBIND" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="6,429,100,30" name="regrant_skill" preset="v5_tabbutton" text="STR_ENCHANT_ALL_DIALOG__REGRANT_SKILL" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="6,459,100,30" name="equipleveldown" preset="v5_tabbutton" text="STR_ENCHANT_ALL_DIALOG__EQUIPLEVEL_ADJ" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="6,489,100,30" name="enchant_cp_stone" preset="v5_tabbutton" text="STR_ENCHANT_ALL_DIALOG__OK_CPSTONE_ITEM_ENCHANT" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="6,519,100,30" name="remove_option" preset="v5_tabbutton" text="STR_ENCHANT_ALL_DIALOG__OK_REMOVE_OPTION" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="6,549,100,30" name="remove_dye" preset="v5_tabbutton" text="STR_ENCHANT_ALL_DIALOG__OK_REMOVE_DYE" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="6,579,100,30" name="skin_change" preset="v5_tabbutton" text="STR_ENCHANT_ALL_DIALOG__OK_SKIN_CHANGE" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="6,609,100,30" name="remove_skin_change" preset="v5_tabbutton" text="STR_ENCHANT_ALL_DIALOG__OK_REMOVE_SKIN_CHANGE" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="6,640,100,30" name="compound_weapon" preset="v5_tabbutton" text="STR_ENCHANT_ALL_DIALOG__OK_COMPOUND_WEAPON" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="6,670,100,30" name="decompound_weapon" preset="v5_tabbutton" text="STR_ENCHANT_ALL_DIALOG__OK_DECOMPOUND_WEAPON" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="6,701,100,30" name="enchant_pve" preset="v5_tabbutton" text="STR_ENCHANT_MENU_ENCHANT_PVE" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="6,731,100,30" name="enchant_pvp" preset="v5_tabbutton" text="STR_ENCHANT_MENU_ENCHANT_PVP" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="6,761,100,30" name="enchant_option_f2p" preset="v5_tabbutton" text="STR_ENCHANT_ALL_DIALOG__ENCHANT_OPTION" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="6,791,100,30" name="open_option_slot" preset="v5_tabbutton" text="STR_ENCHANT_MENU_ENCHANT_OPTIONSLOT_ADD" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="6,821,100,30" name="extract_f2p" preset="v5_tabbutton" text="STR_ENCHANT_ALL_DIALOG__EXTRACT" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="6,851,100,30" name="change_random_option" preset="v5_tabbutton" text="STR_ENCHANT_MENU_REIDENTIFY_QINA" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="6,881,100,30" name="change_single_random_option" preset="v5_tabbutton" text="STR_ENCHANT_MENU_REIDENTIFY_QUNA" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="6,911,100,30" name="purification" preset="v5_tabbutton" text="STR_ENCHANT_MENU_ENCHANT_PURIFICATION" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="6,941,100,30" name="enchant_grind" preset="v5_tabbutton" text="STR_ENCHANT_MENU_ENCHANT_GRIND_UNDEFINED" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="6,971,100,30" name="grind_compound" preset="v5_tabbutton" text="STR_ENCHANT_MENU_COMPOUND_GRIND_UNDEFINED" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="6,1001,100,30" name="equip_grind" preset="v5_tabbutton" text="STR_ENCHANT_MENU_ENCHANT_EQ_ODIAN_RUNE" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="6,1031,100,30" name="grind_slot_open" preset="v5_tabbutton" text="STR_ENCHANT_MENU_ENCHANT_ODIAN_RUNE_SLOT_OPEN" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="6,1061,100,30" name="equip_grind_off" preset="v5_tabbutton" text="STR_ENCHANT_MENU_ENCHANT_ODIAN_RUNE_SLOT_OPEN" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="6,1091,100,30" name="enchant_badge" preset="v5_tabbutton" text="STR_ENCHANT_MENU_ENCHANT_BADGE" type="tabbutton">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="right" name="default_page" type="tabpage" v_pos_align="proportion">
+			<Widget frame="13,75,328,234" name="target_bg" preset="enchant_all_target" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="13,75,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="113,22,120,20" halign="center" name="target_title" text="STR_ENCHANT_ALL_DIALOG__TARGET_HOME" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="155,155,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="37,123,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" name="result_deco" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="right" name="enchant_page" type="tabpage" v_pos_align="proportion">
+			<Widget frame="11,6,328,234" name="target_bg" preset="enchant_all_target" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget frame="146,228,58,58" name="tool_bg" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget frame="155,237,40,40" name="tool_slot_icon" preset="enchant_all_tool_enchant" type="image">
+			</Widget>
+			<Widget frame="264,159,46,46" name="assist_bg" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget frame="272,167,30,30" name="assist_slot_icon" preset="enchant_all_assist" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,120,20" halign="left" name="target_title" text="STR_ENCHANT_ALL_DIALOG__TARGET_ENCHANT" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,249,119,20" name="tool_title" text="STR_ENCHANT_ALL_DIALOG__TOOL_TITLE_ENCHANT" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,235,44,44" group="itemview" item_height="44" item_width="44" name="tool_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="39,211,272,20" halign="center" name="tool_item_desc" type="htmlview">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="153,235,44,44" group="fx" item_height="44" item_width="44" name="tool_item_fx" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="enchant_all_default" frame="140,171,119,20" halign="right" name="assist_title" text="STR_ENCHANT_ALL_DIALOG__SUB_MATTER_ENCHANT" type="static">
+			</Widget>
+			<Widget cell_padding="1" cell_space="0,0" flag="truncate" frame="271,166,32,32" group="itemview" item_height="32" item_width="32" name="assist_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget cell_padding="1" cell_space="0,0" flag="not_visible;not_active" frame="271,166,32,32" group="fx" item_height="32" item_width="32" name="assist_item_fx" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" name="result_deco" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG__OK_ENCHANT" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+			<Widget flag="multiline;wordwrap" font="enchant_all_default" font_size="-11" frame="94,176,162,45" halign="center" name="assist_item_desc" type="static">
+			</Widget>
+			<Widget flag="not_visible" font="enchant_all_default" font_size="9" frame="257,199,59,23" halign="center" name="assist_item_count" type="static">
+			</Widget>
+			<Widget font="v3_money" frame="128,288,202,22" halign="right" name="my_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,287,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__EXCEED_ENCHANT_MY_MONEY" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,313,202,22" halign="right" name="enchant_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,313,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__ENCHANT_MY_COST" type="static" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="right" name="exceed_enchant_page" type="tabpage" v_pos_align="proportion">
+			<Widget frame="11,6,328,234" name="target_bg" preset="enchant_all_target" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget frame="146,228,58,58" name="tool_bg" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget frame="155,237,40,40" name="tool_slot_icon" preset="enchant_all_tool_enchant" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,120,20" halign="left" name="target_title" text="STR_ENCHANT_ALL_DIALOG__TARGET_EXCEED_ENCHANT" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,249,119,20" name="tool_title" text="STR_ENCHANT_ALL_DIALOG__TOOL_TITLE_EXCEED_ENCHANT" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,235,44,44" item_height="44" item_width="44" name="tool_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="39,211,272,20" halign="center" name="tool_item_desc" type="htmlview">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="153,235,44,44" group="itemview" item_height="44" item_width="44" name="tool_item_fx" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG__OK_EXCEED_ENCHANT" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,288,202,22" halign="right" name="my_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,287,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__EXCEED_ENCHANT_MY_MONEY" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,313,202,22" halign="right" name="enchant_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,313,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__EXCEED_ENCHANT_MY_COST" type="static" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="right" name="enchant_option_page" type="tabpage" v_pos_align="proportion">
+			<Widget frame="11,6,328,234" name="target_bg" preset="enchant_all_target" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget frame="146,228,58,58" name="tool_bg" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget frame="155,237,40,40" name="tool_slot_icon" preset="enchant_all_tool_enchant_option" type="image">
+			</Widget>
+			<Widget frame="264,159,46,46" name="assist_bg" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget frame="272,167,30,30" name="assist_slot_icon" preset="enchant_all_assist" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,120,20" halign="left" name="target_title" text="STR_ENCHANT_ALL_DIALOG__TARGET_ENCHANT_OPTION" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,249,119,20" name="tool_title" text="STR_ENCHANT_ALL_DIALOG__TOOL_TITLE_ENCHANT_OPTION" type="static">
+			</Widget>
+			<Widget font="enchant_all_level" frame="5,267,140,20" name="tool_level" text="level" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,235,44,44" item_height="44" item_width="44" name="tool_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="39,211,272,20" halign="center" name="tool_item_desc" type="htmlview">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="153,235,44,44" group="itemview" item_height="44" item_width="44" name="tool_item_fx" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="enchant_all_default" frame="140,171,119,20" halign="right" name="assist_title" text="STR_ENCHANT_ALL_DIALOG__SUB_MATTER_ENCHANT" type="static">
+			</Widget>
+			<Widget cell_padding="1" cell_space="0,0" flag="truncate" frame="271,166,32,32" item_height="32" item_width="32" name="assist_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget cell_padding="1" cell_space="0,0" flag="not_visible;not_active" frame="271,166,32,32" group="itemview" item_height="32" item_width="32" name="assist_item_fx" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG__OK_ENCHANT_OPTION" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+			<Widget flag="multiline;wordwrap" font="enchant_all_default" frame="94,176,162,45" halign="center" name="assist_item_desc" type="static">
+			</Widget>
+			<Widget flag="not_visible" font="enchant_all_default" font_size="9" frame="257,199,59,23" halign="center" name="assist_item_count" type="static">
+			</Widget>
+			<Widget frame="230,79,129,56" name="ctn_target_option" type="container">
+				<Widget flag="not_enabled" font="enchant_all_default" font_size="-11" frame="8,6,114,21" name="radio_target_slot_basic" preset="v5_radio" style="radiobutton" text="STR_ENCHANT_DIALOG__TARGET_SLOT_BASIC" text_offset="2,0" type="button" v_pos_align="bottom">
+				</Widget>
+				<Widget flag="not_enabled" font="enchant_all_default" font_size="-11" frame="8,26,114,21" name="radio_target_slot_compounded" preset="v5_radio" style="radiobutton" text="STR_ENCHANT_DIALOG__TARGET_SLOT_COMPOUNDED" text_offset="2,0" type="button" v_pos_align="bottom">
+				</Widget>
+			</Widget>
+			<Widget font="enchant_all_default" frame="238,234,73,20" text="STR_AUTO_MATTER_OPTION_ENCHANT" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="213,258,126,21" h_align="center" h_pos_align="right" name="spin_enchant_count" preset="v5_staticbox" type="spin" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="339,257,21,22" name="enchant_count_max" preset="v5_last_page" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,288,202,22" halign="right" name="my_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,287,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__EXCEED_ENCHANT_MY_MONEY" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,313,202,22" halign="right" name="enchant_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,313,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__ENCHANT_OPTION_MY_COST" type="static" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="right" name="proc_page" type="tabpage" v_pos_align="proportion">
+			<Widget frame="11,6,328,234" name="target_bg" preset="enchant_all_target" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget frame="146,228,58,58" name="tool_bg" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget frame="155,237,40,40" name="tool_slot_icon" preset="enchant_all_tool_proc" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,120,20" halign="left" name="target_title" text="STR_ENCHANT_ALL_DIALOG__TARGET_PROC" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,249,119,20" name="tool_title" text="STR_ENCHANT_ALL_DIALOG__TOOL_TITLE_PROC" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,235,44,44" item_height="44" item_width="44" name="tool_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="39,211,272,20" halign="center" name="tool_item_desc" type="htmlview">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="153,235,44,44" group="itemview" item_height="44" item_width="44" name="tool_item_fx" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG__OK_PROC" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,288,202,22" halign="right" name="my_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,287,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__EXCEED_ENCHANT_MY_MONEY" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,313,202,22" halign="right" name="enchant_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,313,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__ADD_PROC_MY_COST" type="static" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="right" name="authorize_page" type="tabpage" v_pos_align="proportion">
+			<Widget frame="11,6,328,234" name="target_bg" preset="enchant_all_target" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget frame="146,228,58,58" name="tool_bg" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget frame="155,237,40,40" name="tool_slot_icon" preset="enchant_all_tool_authorize" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,120,20" halign="left" name="target_title" text="STR_ENCHANT_ALL_DIALOG__TARGET_AUTHORIZE" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,249,119,20" name="tool_title" text="STR_ENCHANT_ALL_DIALOG__TOOL_TITLE_AUTHORIZE" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,235,44,44" item_height="44" item_width="44" name="tool_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="39,211,272,20" halign="center" name="tool_item_desc" type="htmlview">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="153,235,44,44" group="itemview" item_height="44" item_width="44" name="tool_item_fx" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG__OK_AUTHORIZE" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="right" name="polish_page" type="tabpage" v_pos_align="proportion">
+			<Widget frame="11,6,328,234" name="target_bg" preset="enchant_all_target" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget frame="146,228,58,58" name="tool_bg" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget frame="155,237,40,40" name="tool_slot_icon" preset="enchant_all_tool_polish" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,120,20" halign="left" name="target_title" text="STR_ENCHANT_ALL_DIALOG__TARGET_POLISH" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,249,119,20" name="tool_title" text="STR_ENCHANT_ALL_DIALOG__TOOL_TITLE_POLISH" type="static">
+			</Widget>
+			<Widget font="enchant_all_level" frame="5,267,140,20" name="tool_level" text="level" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,235,44,44" item_height="44" item_width="44" name="tool_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="39,211,272,20" halign="center" name="tool_item_desc" type="htmlview">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="153,235,44,44" group="itemview" item_height="44" item_width="44" name="tool_item_fx" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG__OK_POLISH" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,288,202,22" halign="right" name="my_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,287,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__EXCEED_ENCHANT_MY_MONEY" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,313,202,22" halign="right" name="enchant_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,313,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__POLISH_MY_COST" type="static" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="right" name="reidentify_page" type="tabpage" v_pos_align="proportion">
+			<Widget frame="11,6,328,234" name="target_bg" preset="enchant_all_target" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget frame="146,228,58,58" name="tool_bg" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget frame="155,237,40,40" name="tool_slot_icon" preset="enchant_all_tool_reidentify" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,120,20" halign="left" name="target_title" text="STR_ENCHANT_ALL_DIALOG__TARGET_REIDENTIFY" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,249,119,20" name="tool_title" text="STR_ENCHANT_ALL_DIALOG__TOOL_TITLE_REIDENTIFY" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,235,44,44" item_height="44" item_width="44" name="tool_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="39,211,272,20" halign="center" name="tool_item_desc" type="htmlview">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="153,235,44,44" group="itemview" item_height="44" item_width="44" name="tool_item_fx" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG__OK_REIDENTIFY" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="right" name="charge_page" type="tabpage" v_pos_align="proportion">
+			<Widget frame="11,6,328,234" name="target_bg" preset="enchant_all_target" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget frame="146,228,58,58" name="tool_bg" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget frame="155,237,40,40" name="tool_slot_icon" preset="enchant_all_tool_charge" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,146,20" halign="left" name="target_title" text="STR_ENCHANT_ALL_DIALOG__TARGET_CHARGE" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,249,143,20" name="tool_title" text="STR_ENCHANT_ALL_DIALOG__TOOL_TITLE_CHARGE" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,235,44,44" item_height="44" item_width="44" name="tool_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="39,211,272,20" halign="center" name="tool_item_desc" type="htmlview">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="153,235,44,44" group="itemview" item_height="44" item_width="44" name="tool_item_fx" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG__OK_CHARGE" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="right" name="extract_page" type="tabpage" v_pos_align="proportion">
+			<Widget frame="11,6,328,234" name="target_bg" preset="enchant_all_target" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,120,20" halign="left" name="target_title" text="STR_ENCHANT_ALL_DIALOG__TARGET_EXTRACT" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG__OK_EXTRACT" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,288,202,22" halign="right" name="my_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,313,202,22" halign="right" name="enchant_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,313,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__EXTRACT_MY_COST" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,287,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__EXTRACT_MY_MONEY" type="static" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="right" name="ap_extract_page" type="tabpage" v_pos_align="proportion">
+			<Widget frame="11,6,328,234" name="target_bg" preset="enchant_all_target" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget frame="146,228,58,58" name="tool_bg" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget frame="155,237,40,40" name="tool_slot_icon" preset="enchant_all_tool_ap_extract" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,136,20" halign="left" name="target_title" text="STR_ENCHANT_ALL_DIALOG__TARGET_AP_EXTRACT" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,249,119,20" name="tool_title" text="STR_ENCHANT_ALL_DIALOG__TOOL_TITLE_AP_EXTRACT" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,235,44,44" item_height="44" item_width="44" name="tool_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="39,211,272,20" halign="center" name="tool_item_desc" type="htmlview">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="153,235,44,44" group="itemview" item_height="44" item_width="44" name="tool_item_fx" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG__OK_AP_EXTRACT" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="right" name="dye_page" type="tabpage" v_pos_align="proportion">
+			<Widget frame="98,31,154,154" name="target_bg" preset="enchant_all_target_simple" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget frame="146,228,58,58" name="tool_bg" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,120,20" halign="left" name="target_title" text="STR_ENCHANT_ALL_DIALOG__TARGET_DYE" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,249,119,20" name="tool_title" text="STR_ENCHANT_ALL_DIALOG__TOOL_TITLE_DYE" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,235,44,44" item_height="44" item_width="44" name="tool_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="39,211,272,20" halign="center" name="tool_item_desc" type="htmlview">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="153,235,44,44" group="itemview" item_height="44" item_width="44" name="tool_item_fx" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG__OK_DYE" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="205,229,146,105" name="color_select_ctn" preset="v5_staticbox5" type="container">
+				<Widget align="vertical" frame="2,1,144,80" knob_size="21,11" name="color_select" slide_border_size="3" slide_preset="create_color_slider" slide_rect="112,2,21,76" src_picker="lobby_picker" table_border_size="3" table_frame="0,1,108,78" table_preset="create_color_table" type="colorselect">
+				</Widget>
+				<Widget flag="transparent" font="ui_static_title" frame="8,82,10,16" halign="left" text="STR_COLOR_SELECT_DIALOG__WIDGET2" text_color="1.0,0.0,0.0,1.0" type="static">
+				</Widget>
+				<Widget alphanumeric="False" font="ui_editbox" frame="20,82,26,16" h_align="center" h_padding="2" name="edit_r" preset="v5_editbox" text="255" type="editbox" v_padding="2">
+				</Widget>
+				<Widget flag="transparent" font="ui_static_title" frame="50,82,10,16" halign="left" text="STR_COLOR_SELECT_DIALOG__WIDGET3" text_color="0.0,1.0,0.0,1.0" type="static">
+				</Widget>
+				<Widget alphanumeric="False" font="ui_editbox" frame="62,82,26,16" h_align="center" h_padding="2" name="edit_g" preset="v5_editbox" text="255" type="editbox" v_padding="2">
+				</Widget>
+				<Widget flag="transparent" font="ui_static_title" frame="94,82,10,16" halign="left" text="STR_COLOR_SELECT_DIALOG__WIDGET4" text_color="0.0,0.0,1.0,1.0" type="static">
+				</Widget>
+				<Widget alphanumeric="False" font="ui_editbox" frame="106,82,26,16" h_align="center" h_padding="2" name="edit_b" preset="v5_editbox" text="255" type="editbox" v_padding="2">
+				</Widget>
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="right" name="pack_page" type="tabpage" v_pos_align="proportion">
+			<Widget frame="98,31,154,154" name="target_bg" preset="enchant_all_target_simple" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget frame="146,228,58,58" name="tool_bg" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,120,20" halign="left" name="target_title" text="STR_ENCHANT_ALL_DIALOG__TARGET_PACK" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,249,119,20" name="tool_title" text="STR_ENCHANT_ALL_DIALOG__TOOL_TITLE_PACK" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,235,44,44" item_height="44" item_width="44" name="tool_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="39,211,272,20" halign="center" name="tool_item_desc" type="htmlview">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="153,235,44,44" group="itemview" item_height="44" item_width="44" name="tool_item_fx" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG__OK_PACK" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="right" name="soul_unbind_page" type="tabpage" v_pos_align="proportion">
+			<Widget frame="98,31,154,154" name="target_bg" preset="enchant_all_target_simple" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget frame="146,228,58,58" name="tool_bg" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget frame="155,237,40,40" name="tool_slot_icon" preset="enchant_all_tool_soul_unbind" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,143,20" halign="left" name="target_title" text="STR_ENCHANT_ALL_DIALOG__TARGET_REMOVE_SOULBIND" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,249,137,20" name="tool_title" text="STR_ENCHANT_ALL_DIALOG__TOOL_TITLE_REMOVE_SOULBIND" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,235,44,44" item_height="44" item_width="44" name="tool_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="39,211,272,20" halign="center" name="tool_item_desc" type="htmlview">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="153,235,44,44" group="itemview" item_height="44" item_width="44" name="tool_item_fx" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG__OK_REMOVE_SOULBIND" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="proportion" name="regrant_skill_page" type="tabpage" v_pos_align="proportion">
+			<Widget frame="11,6,328,234" name="target_bg" preset="enchant_all_target" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget frame="146,228,58,58" name="tool_bg" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget frame="155,237,40,40" name="tool_slot_icon" preset="enchant_all_tool_regrant_skill" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,120,20" halign="left" name="target_title" text="STR_ENCHANT_ALL_DIALOG__TARGET_REGRANT_SKILL" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,249,119,20" name="tool_title" text="STR_ENCHANT_ALL_DIALOG__TOOL_TITLE_REGRANT_SKILL" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,235,44,44" item_height="44" item_width="44" name="tool_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="39,211,272,20" halign="center" name="tool_item_desc" type="htmlview">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="153,235,44,44" group="itemview" item_height="44" item_width="44" name="tool_item_fx" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG__OK_REGRANT_SKILL" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="proportion" name="equipleveldown_page" type="tabpage" v_pos_align="proportion">
+			<Widget frame="11,6,328,234" name="target_bg" preset="enchant_all_target" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget frame="146,228,58,58" name="tool_bg" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget frame="155,237,40,40" name="tool_slot_icon" preset="enchant_all_tool_equipleveldown" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,120,20" halign="left" name="target_title" text="STR_ENCHANT_ALL_DIALOG__TARGET_EQUIPLEVEL_ADJ" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,249,119,20" name="tool_title" text="STR_ENCHANT_ALL_DIALOG__TOOL_TITLE_EQUIPLEVEL_ADJ" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,235,44,44" item_height="44" item_width="44" name="tool_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="39,211,272,20" halign="center" name="tool_item_desc" type="htmlview">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="153,235,44,44" group="itemview" item_height="44" item_width="44" name="tool_item_fx" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG__OK_EQUIPLEVEL_ADJ" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="proportion" name="enchant_cp_stone_page" type="tabpage" v_pos_align="proportion">
+			<Widget frame="11,6,328,234" name="target_bg" preset="enchant_all_target" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget frame="156,88,40,40" name="target_slot_icon" preset="enchant_all_target_cpstone" type="image">
+			</Widget>
+			<Widget frame="146,228,58,58" name="tool_bg" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget frame="155,237,40,40" name="tool_slot_icon" preset="enchant_all_tool_cpstone" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,120,20" halign="left" name="target_title" text="STR_ENCHANT_ALL_DIALOG__TARGET_CPSTONE_ITEM_ENCHANT" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,249,119,20" name="tool_title" text="STR_ENCHANT_ALL_DIALOG__TOOL_TITLE_CPSTONE_ITEM_ENCHANT" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,235,44,44" item_height="44" item_width="44" name="tool_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="39,211,272,20" halign="center" name="tool_item_desc" type="htmlview">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="153,235,44,44" group="itemview" item_height="44" item_width="44" name="tool_item_fx" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG__OK_CPSTONE_ITEM_ENCHANT" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,288,202,22" halign="right" name="my_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,287,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__EXCEED_ENCHANT_MY_MONEY" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,313,202,22" halign="right" name="enchant_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,313,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__ENCHANT_CPSTONE_MY_COST" type="static" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="proportion" name="remove_option_page" type="tabpage" v_pos_align="proportion">
+			<Widget frame="11,6,328,234" name="target_bg" preset="enchant_all_target" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,120,20" halign="left" name="target_title" text="STR_ENCHANT_ALL_DIALOG__TARGET_REMOVE_OPTION" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG__OK_REMOVE_OPTION" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,288,202,22" halign="right" name="my_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,313,202,22" halign="right" name="enchant_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,313,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__REMOVE_OPTION_MY_COST" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,287,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__EXTRACT_MY_MONEY" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget cell_padding="2" cell_space="1,1" flag="truncate;vscroll" font="ui_list" frame="1,189,349,95" header_height="0" item_height="30" item_width="30" margin="5,5,5,8" name="option_listview" preset="enchant_all_remove_option_list" reserve_slots="False" scroll_type="visible" skin_type="notice" slot_num="12" split_num="2" type="listview" viewmode="detail">
+				<Column align="" title="" width="1000">
+				</Column>
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,165,119,20" name="tool_title" text="STR_ENCHANT_ALL_DIALOG__TOOL_TITLE_REMOVE_OPTION" type="static">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="proportion" name="remove_dye_page" type="tabpage" v_pos_align="proportion">
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG__OK_REMOVE_DYE" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="98,31,154,154" name="target_bg" preset="enchant_all_target_simple" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,120,20" halign="left" name="target_title" text="STR_ENCHANT_ALL_DIALOG__TARGET_REMOVE_DYE" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget font="v3_money" frame="128,288,202,22" halign="right" name="my_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,313,202,22" halign="right" name="enchant_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,313,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__REMOVE_DYE_MY_COST" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,287,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__EXTRACT_MY_MONEY" type="static" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="proportion" name="skin_change_page" type="tabpage" v_pos_align="proportion">
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG__OK_SKIN_CHANGE" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="98,31,154,154" name="target_bg" preset="enchant_all_target_simple" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget frame="146,228,58,58" name="tool_bg" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,120,20" halign="left" name="target_title" text="STR_ENCHANT_ALL_DIALOG__TARGET_SKIN_CHANGE" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,249,119,20" name="tool_title" text="STR_ENCHANT_ALL_DIALOG__TOOL_TITLE_SKIN_CHANGE" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,235,44,44" item_height="44" item_width="44" name="tool_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="39,211,272,20" halign="center" name="tool_item_desc" type="htmlview">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="153,235,44,44" group="itemview" item_height="44" item_width="44" name="tool_item_fx" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="v3_money" frame="128,288,202,22" halign="right" name="my_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,313,202,22" halign="right" name="enchant_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,313,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__SKIN_CHANGE_MY_COST" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,287,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__EXTRACT_MY_MONEY" type="static" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="proportion" name="remove_skin_change_page" type="tabpage" v_pos_align="proportion">
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG__OK_REMOVE_SKIN_CHANGE" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="98,31,154,154" name="target_bg" preset="enchant_all_target_simple" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,120,20" halign="left" name="target_title" text="STR_ENCHANT_ALL_DIALOG__TARGET_REMOVE_SKIN_CHANGE" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget font="v3_money" frame="128,288,202,22" halign="right" name="my_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,313,202,22" halign="right" name="enchant_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,313,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__REMOVE_SKIN_CHANGE_MY_COST" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,287,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__EXTRACT_MY_MONEY" type="static" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="proportion" name="compound_weapon_page" type="tabpage" v_pos_align="proportion">
+			<Widget frame="11,6,328,234" name="target_bg" preset="enchant_all_target" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,120,20" halign="left" name="target_title" text="STR_ENCHANT_ALL_DIALOG__TARGET_COMPOUND_WEAPON" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,164,77,20" halign="left" name="tool_title" text="STR_ENCHANT_ALL_DIALOG__TOOL_TITLE_COMPOUND_WEAPON" type="static">
+			</Widget>
+			<Widget font="enchant_all_level" frame="5,182,140,20" name="tool_level" text="level" type="static">
+			</Widget>
+			<Widget frame="221,145,48,48" name="tool_bg" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget cell_padding="1" cell_space="0,0" flag="truncate" frame="228,152,34,34" item_height="32" item_width="32" name="tool_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget cell_padding="1" cell_space="0,0" flag="not_visible;not_active" frame="228,152,34,34" group="itemview" item_height="32" item_width="32" name="tool_item_fx" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG__OK_COMPOUND_WEAPON" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,313,202,22" halign="right" name="enchant_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,313,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__COMPOUND_WEAPON_MY_COST" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,288,202,22" halign="right" name="my_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,287,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__EXTRACT_MY_MONEY" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="146,228,58,58" name="result_bg" preset="enchant_all_result_slot" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,249,119,20" name="result_title" text="STR_ENCHANT_ALL_DIALOG__PREDICT_COMPOUND_WEAPON" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,235,44,44" item_height="44" item_width="44" name="result_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget frame="158,127,34,100" preset="enchant_all_compound_weapon_result" type="image">
+			</Widget>
+			<Widget frame="201,134,19,19" preset="enchant_all_compound_weapon_add" type="image">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="proportion" name="decompound_weapon_page" type="tabpage" v_pos_align="proportion">
+			<Widget frame="11,6,328,234" name="target_bg" preset="enchant_all_target" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,120,20" halign="left" name="target_title" text="STR_ENCHANT_ALL_DIALOG__TARGET_DECOMPOUND_WEAPON" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG__OK_DECOMPOUND_WEAPON" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="146,228,58,58" name="result_bg" preset="enchant_all_result_slot" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,249,119,20" name="result_title" text="STR_ENCHANT_ALL_DIALOG__PREDICT_DECOMPOUND_WEAPON" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,235,44,44" item_height="44" item_width="44" name="result_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget frame="158,127,34,100" preset="enchant_all_compound_weapon_result" type="image">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="right" name="enchant_pve_page" type="tabpage" v_pos_align="proportion">
+			<Widget frame="11,6,328,234" name="target_bg" preset="enchant_all_target" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget frame="146,228,58,58" name="tool_bg" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget frame="155,237,40,40" name="tool_slot_icon" preset="enchant_all_tool_enchant" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,120,20" halign="left" name="target_title" text="STR_ENCHANT_ALL_DIALOG__TARGET_ENCHANT_PVE" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,249,119,20" name="tool_title" text="STR_ENCHANT_ALL_DIALOG__TOOL_TITLE_ENCHANT_PVE" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,235,44,44" group="itemview" item_height="44" item_width="44" name="tool_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="39,211,272,20" halign="center" name="tool_item_desc" type="htmlview">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="153,235,44,44" group="fx" item_height="44" item_width="44" name="tool_item_fx" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" name="result_deco" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG__OK_ENCHANT_PVE" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="238,84,73,20" text="STR_AUTO_PVE_PVP_ENCHANT_WISH" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="213,108,118,21" h_align="center" h_pos_align="right" name="spin_pve_enchant_goal" preset="v5_staticbox" type="spin" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="331,107,21,22" name="pve_enchant_goal_max" preset="v5_last_page" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="238,234,73,20" text="STR_AUTO_PVE_PVP_ENCHANT" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="213,258,118,21" h_align="center" h_pos_align="right" name="spin_pve_enchant_count" preset="v5_staticbox" type="spin" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="331,257,21,22" name="pve_enchant_count_max" preset="v5_last_page" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,288,202,22" halign="right" name="my_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,287,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__EXCEED_ENCHANT_MY_MONEY" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,313,202,22" halign="right" name="enchant_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,313,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__ENCHANT_MY_COST" type="static" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="right" name="enchant_pvp_page" type="tabpage" v_pos_align="proportion">
+			<Widget frame="11,6,328,234" name="target_bg" preset="enchant_all_target" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget frame="146,228,58,58" name="tool_bg" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget frame="155,237,40,40" name="tool_slot_icon" preset="enchant_all_tool_enchant" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,120,20" halign="left" name="target_title" text="STR_ENCHANT_ALL_DIALOG__TARGET_ENCHANT_PVP" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,249,119,20" name="tool_title" text="STR_ENCHANT_ALL_DIALOG__TOOL_TITLE_ENCHANT_PVP" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,235,44,44" item_height="44" item_width="44" name="tool_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="39,211,272,20" halign="center" name="tool_item_desc" type="htmlview">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="153,235,44,44" group="itemview" item_height="44" item_width="44" name="tool_item_fx" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG__OK_ENCHANT_PVP" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="238,84,73,20" text="STR_AUTO_PVE_PVP_ENCHANT_WISH" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="213,108,118,21" h_align="center" h_pos_align="right" name="spin_pvp_enchant_goal" preset="v5_staticbox" type="spin" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="331,107,21,22" name="pvp_enchant_goal_max" preset="v5_last_page" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="238,234,73,20" text="STR_AUTO_PVE_PVP_ENCHANT" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="213,258,118,21" h_align="center" h_pos_align="right" name="spin_pvp_enchant_count" preset="v5_staticbox" type="spin" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="331,257,21,22" name="pvp_enchant_count_max" preset="v5_last_page" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,288,202,22" halign="right" name="my_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,313,202,22" halign="right" name="enchant_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,287,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__EXCEED_ENCHANT_MY_MONEY" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,313,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__ENCHANT_MY_COST" type="static" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="right" name="enchant_option_f2p_page" type="tabpage" v_pos_align="proportion">
+			<Widget frame="11,6,328,234" name="target_bg" preset="enchant_all_target" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget frame="146,228,58,58" name="tool_bg" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget frame="155,237,40,40" name="tool_slot_icon" preset="enchant_all_tool_enchant_option" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,120,20" halign="left" name="target_title" text="STR_ENCHANT_ALL_DIALOG__TARGET_ENCHANT_OPTION" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,249,119,20" name="tool_title" text="STR_ENCHANT_ALL_DIALOG__TOOL_TITLE_ENCHANT_OPTION" type="static">
+			</Widget>
+			<Widget font="enchant_all_level" frame="5,267,140,20" name="tool_level" text="level" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,235,44,44" item_height="44" item_width="44" name="tool_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="39,211,272,20" halign="center" name="tool_item_desc" type="htmlview">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="153,235,44,44" group="itemview" item_height="44" item_width="44" name="tool_item_fx" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG__OK_ENCHANT_OPTION" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="230,79,129,56" name="ctn_target_option" type="container">
+				<Widget flag="not_enabled" font="enchant_all_default" font_size="-11" frame="8,6,114,21" name="radio_target_slot_basic" preset="v5_radio" style="radiobutton" text="STR_ENCHANT_DIALOG__TARGET_SLOT_BASIC" text_offset="2,0" type="button" v_pos_align="bottom">
+				</Widget>
+				<Widget flag="not_enabled" font="enchant_all_default" font_size="-11" frame="8,26,114,21" name="radio_target_slot_compounded" preset="v5_radio" style="radiobutton" text="STR_ENCHANT_DIALOG__TARGET_SLOT_COMPOUNDED" text_offset="2,0" type="button" v_pos_align="bottom">
+				</Widget>
+			</Widget>
+			<Widget font="enchant_all_default" frame="238,234,73,20" text="STR_AUTO_MATTER_OPTION_ENCHANT" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="213,258,126,21" h_align="center" h_pos_align="right" name="spin_enchant_count" preset="v5_staticbox" type="spin" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="339,257,21,22" name="enchant_count_max" preset="v5_last_page" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,288,202,22" halign="right" name="my_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,287,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__EXCEED_ENCHANT_MY_MONEY" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,313,202,22" halign="right" name="enchant_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,313,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__ENCHANT_OPTION_MY_COST" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="264,159,46,46" name="assist_bg" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget frame="272,167,30,30" name="assist_slot_icon" preset="enchant_all_assist" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="140,171,119,20" halign="right" name="assist_title" text="STR_ENCHANT_ALL_DIALOG__SUB_MATTER_ENCHANT" type="static">
+			</Widget>
+			<Widget cell_padding="1" cell_space="0,0" flag="truncate" frame="271,166,32,32" item_height="32" item_width="32" name="assist_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget cell_padding="1" cell_space="0,0" flag="not_visible;not_active" frame="271,166,32,32" group="itemview" item_height="32" item_width="32" name="assist_item_fx" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget flag="multiline;wordwrap" font="enchant_all_default" frame="94,176,162,45" halign="center" name="assist_item_desc" type="static">
+			</Widget>
+			<Widget flag="not_visible" font="enchant_all_default" font_size="9" frame="257,199,59,23" halign="center" name="assist_item_count" type="static">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="right" name="open_option_slot_page" type="tabpage" v_pos_align="proportion">
+			<Widget frame="11,6,328,234" name="target_bg" preset="enchant_all_target" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget frame="146,228,58,58" name="tool_bg" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget frame="155,237,40,40" name="tool_slot_icon" preset="enchant_all_tool_open_option_slot" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,120,20" halign="left" name="target_title" text="STR_ENCHANT_ALL_DIALOG__TARGET_OPTIONSLOT_ADD" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,249,119,20" name="tool_title" text="STR_ENCHANT_ALL_DIALOG__TOOL_TITLE_OPTIONSLOT_ADD" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,235,44,44" item_height="44" item_width="44" name="tool_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="enchant_all_default" frame="209,237,157,20" name="tool_item_desc" type="static">
+			</Widget>
+			<Widget font="enchant_all_default" frame="209,259,157,20" name="tool_item_count" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="153,235,44,44" group="itemview" item_height="44" item_width="44" name="tool_item_fx" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG__OK_OPTIONSLOT_ADD" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="230,79,129,56" name="ctn_target_option" type="container">
+				<Widget flag="not_enabled" font="enchant_all_default" font_size="-11" frame="8,6,114,21" name="radio_target_slot_basic" preset="v5_radio" style="radiobutton" text="STR_ENCHANT_DIALOG__TARGET_SLOT_BASIC" text_offset="2,0" type="button" v_pos_align="bottom">
+				</Widget>
+				<Widget flag="not_enabled" font="enchant_all_default" font_size="-11" frame="8,26,114,21" name="radio_target_slot_compounded" preset="v5_radio" style="radiobutton" text="STR_ENCHANT_DIALOG__TARGET_SLOT_COMPOUNDED" text_offset="2,0" type="button" v_pos_align="bottom">
+				</Widget>
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="right" name="extract_f2p_page" type="tabpage" v_pos_align="proportion">
+			<Widget frame="11,6,328,234" name="target_bg" preset="enchant_all_target" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget frame="264,159,46,46" name="assist_bg" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget frame="272,167,30,30" name="assist_slot_icon" preset="enchant_all_assist" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,120,20" halign="left" name="target_title" text="STR_ENCHANT_ALL_DIALOG__TARGET_EXTRACT" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="140,171,119,20" halign="right" name="assist_title" text="STR_ENCHANT_ALL_DIALOG__TOOL_TITLE_EXTRACT" type="static">
+			</Widget>
+			<Widget cell_padding="1" cell_space="0,0" flag="truncate" frame="271,166,32,32" group="itemview" item_height="32" item_width="32" name="assist_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget cell_padding="1" cell_space="0,0" flag="not_visible;not_active" frame="271,166,32,32" group="fx" item_height="32" item_width="32" name="assist_item_fx" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG__OK_EXTRACT" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,288,202,22" halign="right" name="my_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,313,202,22" halign="right" name="enchant_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,313,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__EXTRACT_MY_COST" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,287,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__EXTRACT_MY_MONEY" type="static" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="right" name="change_random_option_page" type="tabpage" v_pos_align="proportion">
+			<Widget frame="11,6,328,234" name="target_bg" preset="enchant_all_target" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,120,20" halign="left" name="target_title" text="STR_ENCHANT_ALL_DIALOG__TARGET_REIDENTIFY" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG__OK_REIDENTIFY" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,288,202,22" halign="right" name="my_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,313,202,22" halign="right" name="enchant_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,313,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__REIDENTIFY_COST" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,287,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__REIDENTIFY_MY_MONEY" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget column_heading="False" flag="truncate;vscroll" font="ui_list" frame="12,193,162,91" h_pos_align="proportion" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="option_listview" preset="v5_listview_ex" scroll_type="visible" skin_type="notice" type="listviewex" v_pos_align="proportion">
+				<Column width="9999">
+				</Column>
+			</Widget>
+			<Widget font="enchant_all_default" frame="11,168,119,20" text="STR_ENCHANT_ALL_DIALOG__REIDENTIFY_CURRENT" type="static">
+			</Widget>
+			<Widget font="enchant_all_default" frame="182,167,163,20" name="predict_option_count" text="STR_ENCHANT_ALL_DIALOG__REIDENTIFY_PREDICT_ALL" type="static">
+			</Widget>
+			<Widget column_heading="False" flag="truncate;vscroll" font="ui_list" frame="182,192,162,91" h_pos_align="proportion" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="predict_option_listview" preset="v5_listview_ex" scroll_type="visible" skin_type="notice" type="listviewex" v_pos_align="proportion">
+				<Column width="9999">
+				</Column>
+			</Widget>
+			<Widget font="enchant_all_default" frame="182,147,119,20" text="STR_ENCHANT_ALL_DIALOG__REIDENTIFY_PREDICT" type="static">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="right" name="change_single_random_option_page" type="tabpage" v_pos_align="proportion">
+			<Widget frame="11,6,328,234" name="target_bg" preset="enchant_all_target" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,120,20" halign="left" name="target_title" text="STR_ENCHANT_ALL_DIALOG__TARGET_REIDENTIFY" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG__OK_REIDENTIFY" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,288,202,22" halign="right" name="my_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,313,202,22" halign="right" name="enchant_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,313,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__REIDENTIFY_COST" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,287,113,23" halign="right" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__REIDENTIFY_MY_MONEY" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget column_heading="False" flag="truncate;vscroll" font="ui_list" frame="12,193,162,91" h_pos_align="proportion" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="option_listview" preset="v5_listview_ex" scroll_type="visible" skin_type="notice" type="listviewex" v_pos_align="proportion">
+				<Column width="9999">
+				</Column>
+			</Widget>
+			<Widget font="enchant_all_default" frame="11,147,119,20" text="STR_ENCHANT_ALL_DIALOG__REIDENTIFY_CURRENT" type="static">
+			</Widget>
+			<Widget font="enchant_all_default" frame="11,168,162,20" text="STR_ENCHANT_ALL_DIALOG__REIDENTIFY_CURRENT_PICK" type="static">
+			</Widget>
+			<Widget column_heading="False" flag="truncate;vscroll" font="ui_list" frame="182,192,162,91" h_pos_align="proportion" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="predict_option_listview" preset="v5_listview_ex_no_sel" scroll_type="visible" skin_type="notice" type="listviewex" v_pos_align="proportion">
+				<Column width="9999">
+				</Column>
+			</Widget>
+			<Widget font="enchant_all_default" frame="182,167,119,20" text="STR_ENCHANT_ALL_DIALOG__REIDENTIFY_PREDICT" type="static">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="right" name="purification" type="tabpage" v_pos_align="proportion">
+			<Widget frame="11,6,328,234" name="target_bg" preset="enchant_all_target" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget frame="146,228,58,58" name="tool_bg" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget frame="155,237,40,40" name="tool_slot_icon" preset="enchant_all_tool_purifier" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,120,20" halign="left" name="target_title" text="STR_ENCHANT_PURIFICATION_OBJECT" type="static">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,115,120,20" halign="left" name="target_title_sub" text="STR_ENCHANT_PURIFICATION_COUNT" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,249,119,20" name="tool_title" text="STR_ENCHANT_PURIFICATION_CLEANSER" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,235,44,44" item_height="44" item_width="44" name="tool_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="enchant_all_default" frame="209,237,157,20" name="tool_item_desc" type="static">
+			</Widget>
+			<Widget font="enchant_all_default" frame="209,259,157,20" name="tool_item_count" text="STR_ENCHANT_PURIFICATION_COST" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="153,235,44,44" group="itemview" item_height="44" item_width="44" name="tool_item_fx" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" name="result_image" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_MENU_PURIFICATION_BUTTON" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="right" name="enchant_grind" type="tabpage" v_pos_align="proportion">
+			<Widget frame="11,6,328,234" name="target_bg" preset="enchant_all_target" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget frame="146,228,58,58" name="tool_bg" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget frame="155,237,40,40" name="tool_slot_icon" preset="enchant_all_tool_grind_item" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,120,20" halign="left" name="target_title" text="STR_ENCHANT_ALL_DIALOG__TARGET_ENCHANT_GRIND" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,249,119,20" name="tool_title" text="STR_ENCHANT_ALL_DIALOG__TOOL_TITLE_ENCHANT_GRIND" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,235,44,44" group="itemview" item_height="44" item_width="44" name="tool_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="39,211,272,20" halign="center" name="tool_item_desc" type="htmlview">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="153,235,44,44" group="fx" item_height="44" item_width="44" name="tool_item_fx" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" name="result_deco" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG__OK_ENCHANT_GRIND" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="238,234,73,20" name="grind_try_count" text="STR_AUTO_ENCHANT_GRIND_COUNT" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="213,258,118,21" h_align="center" h_pos_align="right" name="spin_grind_count" preset="v5_staticbox" type="spin" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="331,257,21,22" name="grind_count_max" preset="v5_last_page" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,288,202,22" halign="right" name="my_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,287,113,23" halign="right" name="assets_desc" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__EXCEED_ENCHANT_MY_MONEY" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,313,202,22" halign="right" name="enchant_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,313,113,23" halign="right" name="cost_desc" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__ENCHANT_MY_COST" type="static" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="right" name="grind_compound" type="tabpage" v_pos_align="proportion">
+			<Widget frame="11,6,328,234" name="target_bg" preset="enchant_all_target" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,120,20" halign="left" name="target_title" text="STR_ENCHANT_ALL_DIALOG__TARGET_COMPOUND_WEAPON" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,164,77,20" halign="left" name="tool_title" text="STR_ENCHANT_ALL_DIALOG__TOOL_TITLE_COMPOUND_WEAPON" type="static">
+			</Widget>
+			<Widget frame="221,145,48,48" name="tool_bg" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget cell_padding="1" cell_space="0,0" flag="truncate" frame="228,152,34,34" item_height="32" item_width="32" name="tool_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget cell_padding="1" cell_space="0,0" flag="not_visible;not_active" frame="228,152,34,34" group="itemview" item_height="32" item_width="32" name="tool_item_fx" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" name="result_image" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_MENU_COMPOUND_GRIND_BUTTON" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,313,202,22" halign="right" name="enchant_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,313,113,23" halign="right" name="cost_desc" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__COMPOUND_WEAPON_MY_COST" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,288,202,22" halign="right" name="my_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,287,113,23" halign="right" name="assets_desc" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__EXTRACT_MY_MONEY" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="146,228,58,58" name="result_bg" preset="enchant_all_result_slot" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,249,119,20" name="result_title" text="STR_ENCHANT_ALL_DIALOG__PREDICT_COMPOUND_GRIND" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,235,44,44" item_height="44" item_width="44" name="result_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget frame="153,235,44,44" name="predict_item_img" type="image">
+			</Widget>
+			<Widget frame="158,127,34,100" name="arrow_im" preset="enchant_all_compound_weapon_result" type="image">
+			</Widget>
+			<Widget frame="201,134,19,19" name="plus_im" preset="enchant_all_compound_weapon_add" type="image">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="right" name="equip_grind" type="tabpage" v_pos_align="proportion">
+			<Widget frame="11,6,328,234" name="target_bg" preset="enchant_all_target" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget frame="146,228,58,58" name="tool_bg" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget frame="155,237,40,40" name="tool_slot_icon" preset="enchant_all_tool_odian" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,120,20" halign="left" name="target_title" text="STR_ENCHANT_ALL_DIALOG_ENCHANT_EQ_ODIAN_TARGET" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,249,119,20" name="tool_title" text="STR_ENCHANT_ALL_DIALOG_ENCHANT_EQ_ODIAN_TOOL" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,235,44,44" item_height="44" item_width="44" name="tool_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="39,211,272,20" halign="center" name="tool_item_desc" type="htmlview">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="153,235,44,44" group="itemview" item_height="44" item_width="44" name="tool_item_fx" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" name="result_image" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG_ENCHANT_EQ_ODIAN_BUTTON" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="right" name="grind_slot_open" type="tabpage" v_pos_align="proportion">
+			<Widget frame="11,6,328,234" name="target_bg" preset="enchant_all_target" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget frame="146,228,58,58" name="tool_bg" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget frame="155,237,40,40" name="tool_slot_icon" preset="enchant_all_tool_open_option_slot" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,120,20" halign="left" name="target_title" text="STR_ENCHANT_ALL_DIALOG_ENCHANT_OP_ODIAN_TARGET" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,249,119,20" name="tool_title" text="STR_ENCHANT_ALL_DIALOG_ENCHANT_OP_ODIAN_TOOL" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,235,44,44" item_height="44" item_width="44" name="tool_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="enchant_all_default" frame="209,237,157,20" name="tool_item_desc" type="static">
+			</Widget>
+			<Widget font="enchant_all_default" frame="209,259,157,20" name="tool_item_count" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="153,235,44,44" group="itemview" item_height="44" item_width="44" name="tool_item_fx" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" name="result_image" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG_ENCHANT_OP_ODIAN_BUTTON" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="right" name="equip_grind_off" type="tabpage" v_pos_align="proportion">
+			<Widget frame="11,6,328,234" name="sptarget_bg" preset="enchant_all_target" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,120,20" halign="left" name="target_title" text="STR_ENCHANT_ALL_DIALOG_ENCHANT_OFF_ODIAN_TARGET" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" name="result_image" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG_ENCHANT_OFF_ODIAN_BUTTON" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,288,202,22" halign="right" name="my_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,313,202,22" halign="right" name="enchant_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,313,113,23" halign="right" name="cost_desc" padding="2,0" text="STR_ENCHANT_ALL_DIALOG_ENCHANT_OFF_COST" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,287,113,23" halign="right" name="assets_desc" padding="2,0" text="STR_ENCHANT_ALL_DIALOG_ENCHANT_OFF_ASSETS" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="1,201,349,80" name="item_container" type="container">
+				<Widget frame="0,0,349,80" image="highcraft_result_bg" name="item_bg" type="image">
+				</Widget>
+				<Widget font="enchant_all_default" frame="5,6,280,20" halign="left" name="item_name" type="static" v_pos_align="bottom">
+				</Widget>
+				<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="6,26,44,44" group="itemview" item_height="44" item_width="44" name="item_view" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+				</Widget>
+				<Widget font="enchant_all_default" frame="54,27,80,20" halign="left" name="item_skill_1" text="STR_ENCHANT_ALL_DIALOG_ENCHANT_OFF_ODIAN_RS_EN" type="static" v_pos_align="bottom">
+				</Widget>
+				<Widget cell_padding="1" cell_space="0,0" flag="truncate" frame="142,26,22,22" h_pos_align="left" item_height="40" item_width="40" name="item_skill_1_icon" preset="devanion_slot" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+				</Widget>
+				<Widget font="ui_default" frame="166,27,176,20" halign="left" name="item_skill_1_desc" text="STR_ENCHANT_ALL_DIALOG_ENCHANT_OFF_ODIAN_RS_NAME" type="static" v_pos_align="bottom">
+				</Widget>
+				<Widget font="enchant_all_default" frame="54,51,80,20" halign="left" name="item_skill_2" text="STR_ENCHANT_ALL_DIALOG_ENCHANT_OFF_ODIAN_OS_EN" type="static" v_pos_align="bottom">
+				</Widget>
+				<Widget cell_padding="1" cell_space="0,0" flag="truncate" frame="142,50,22,22" h_pos_align="left" item_height="40" item_width="40" name="item_skill_2_icon" preset="devanion_slot" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+				</Widget>
+				<Widget font="ui_default" frame="166,51,176,20" halign="left" name="item_skill_2_desc" text="STR_ENCHANT_ALL_DIALOG_ENCHANT_OFF_ODIAN_OS_NAME" type="static" v_pos_align="bottom">
+				</Widget>
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,177,120,20" name="tool_title" text="STR_ENCHANT_ALL_DIALOG_ENCHANT_OFF_ODIAN_TOOL" type="static">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,369,524" h_pos_align="right" name="enchant_badge" type="tabpage" v_pos_align="proportion">
+			<Widget frame="11,6,328,234" name="target_bg" preset="enchant_all_target" type="image">
+			</Widget>
+			<Widget blend_type="screen" flag="not_visible" frame="11,6,328,234" group="fx" name="succeeded_bg" preset="enchant_all_target_succeeded" type="image">
+			</Widget>
+			<Widget frame="146,228,58,58" name="tool_bg" preset="enchant_all_slot" type="image">
+			</Widget>
+			<Widget frame="155,237,40,40" name="tool_slot_icon" preset="enchant_all_tool_badge" type="image">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,95,120,20" halign="left" name="target_title" text="STR_ENCHANT_ALL_DIALOG__TARGET_ENCHANT_BADGE" type="static">
+			</Widget>
+			<Widget frame="153,84,44,44" name="target_item_fx" type="image">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,86,44,44" group="itemview" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="35,54,279,20" halign="center" name="target_item_desc" type="htmlview">
+			</Widget>
+			<Widget font="enchant_all_default" frame="5,249,119,20" name="tool_title" text="STR_ENCHANT_ALL_DIALOG__TOOL_TITLE_ENCHANT_BADGE" type="static">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="153,235,44,44" group="itemview" item_height="44" item_width="44" name="tool_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="39,211,272,20" halign="center" name="tool_item_desc" type="htmlview">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="153,235,44,44" group="fx" item_height="44" item_width="44" name="tool_item_fx" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget flag="vscroll" font="enchant_all_result" frame="1,339,349,139" margin="5,5,5,7" name="result_desc" preset="enchant_all_desc" scroll_type="visible" skin_type="notice" type="htmlview" v_pos_align="bottom">
+			</Widget>
+			<Widget blend_type="screen" frame="52,334,253,17" name="result_deco" preset="enchant_all_desc_deco" type="image" v_pos_align="bottom">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="34,463,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG__OK_ENCHANT_BADGE" type="gaugebutton" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="238,234,73,20" name="badge_try_count" text="STR_AUTO_PVE_PVP_ENCHANT" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="213,258,118,21" h_align="center" h_pos_align="right" name="spin_badge_count" preset="v5_staticbox" type="spin" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="331,257,21,22" name="badge_count_max" preset="v5_last_page" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,288,202,22" halign="right" name="my_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,287,113,23" halign="right" name="assets_desc" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__EXCEED_ENCHANT_MY_MONEY" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="v3_money" frame="128,313,202,22" halign="right" name="enchant_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="enchant_all_default" frame="10,313,113,23" halign="right" name="cost_desc" padding="2,0" text="STR_ENCHANT_ALL_DIALOG__ENCHANT_MY_COST" type="static" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget font="ui_default" frame="460,532,81,23" name="cancel" preset="v5_button" text="STR_DLG_DIALOG__CLOSE" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget type="image">
+	</Widget>
+</Dialog>

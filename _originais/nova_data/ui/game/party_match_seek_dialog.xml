@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="10,5" flag="close;title" frame="300,300,367,125" last_modified="2020-09-07 20:08:54" name="party_match_seek_dialog" preset="v4_msgbox" title_align="left" title_frame="3,3,296,14" title_offset="10,5" title_text="STR_PARTY_MATCH_SEEK_DIALOG" type="dlg_party_match_seek">
+	<Widget frame="294,75,63,26" h_pos_align="right" name="cancel" preset="v4_button" text="STR_PARTY_MATCH_SEEK_DIALOG__CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font_size="14" frame="9,17,45,17" text="STR_PARTY_MATCH_DIALOG__SEEK_COL_DESC" type="static">
+	</Widget>
+	<Widget frame="278,44,72,24" name="type" preset="v4_staticbox" type="combobox">
+	</Widget>
+	<Widget font_size="14" frame="7,48,26,18" text="STR_PARTY_MATCH_DIALOG__SEEK_COL_LEVEL" type="static">
+	</Widget>
+	<Widget frame="38,44,71,24" h_padding="5" max_length="2" name="level" preset="v4_editbox" type="editbox">
+	</Widget>
+	<Widget font_size="14" frame="126,48,26,18" text="STR_PARTY_MATCH_DIALOG__SEEK_COL_CLASS" type="static">
+	</Widget>
+	<Widget frame="157,44,79,24" name="class" preset="v4_staticbox" type="combobox">
+	</Widget>
+	<Widget defbutton="true" frame="232,75,63,26" h_pos_align="right" name="ok" preset="v4_button" text="STR_PARTY_MATCH_SEEK_DIALOG__OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget frame="38,14,312,24" h_padding="5" max_length="50" name="desc" preset="v4_editbox" type="editbox">
+	</Widget>
+	<Widget font_size="14" frame="248,48,26,18" text="STR_PARTY_MATCH_DIALOG__SEEK_COL_TYPE" type="static">
+	</Widget>
+</Dialog>

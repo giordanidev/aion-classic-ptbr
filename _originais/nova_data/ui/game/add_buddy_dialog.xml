@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="close;title" frame="447,357,387,239" last_modified="2014-08-22 12:58:42" name="add_buddy_dialog" preset="v5_dialog2" shadow_offset="8,8" title_align="center" title_frame="3,3,381,14" title_height="25" title_offset="0,5" title_text="STR_WHO_DIALOG__ADD_BUDDY" type="dlg_add_buddy">
+	<Widget font="ui_default" frame="7,16,365,26" name="enter_buddy_name" padding="0,-7" scroll_type="hidden" text_offset="10,10" type="htmlview" valign="top">
+	</Widget>
+	<Widget alphanumeric="False" font="ui_editbox" frame="9,43,363,24" h_padding="4" name="buddy_name" preset="v5_editbox" type="editbox" v_padding="4">
+	</Widget>
+	<Widget font="ui_default" frame="7,91,365,26" name="enter_invite_msg" padding="0,-7" scroll_type="hidden" text_offset="10,10" type="htmlview" valign="top">
+	</Widget>
+	<Widget alphanumeric="False" flag="multiline;wordwrap" font="ui_editbox" frame="9,117,363,51" h_padding="4" max_length="64" name="invite_msg" preset="v5_editbox" type="editbox" v_padding="4">
+	</Widget>
+	<Widget defbutton="False" font="ui_default" frame="238,182,70,24" h_pos_align="right" name="ok" preset="v5_button" text="STR_HOUSING_CONFIG_DIALOG__OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="309,182,70,24" h_pos_align="right" name="cancel" preset="v5_button" text="STR_HOUSING_CONFIG_DIALOG__CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

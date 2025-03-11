@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="transparent;fittoscreenheight;not_movable;not_active" frame="0,0,483,960" last_modified="2017-01-03 15:30:50" name="item_single_dialog" type="dlg_item_single">
+	<Widget blur="True" font="ui_default" frame="0,75,270,884" margin="5,5" name="container" preset="v5_tooltip" type="container">
+		<Widget color="1,1,1,0.5" frame="100,0,160,874" h_pos_align="right" image="tooltip_left_column" margin="3" name="main_bg" type="image" v_pos_align="proportion">
+		</Widget>
+		<Widget blur="False" frame="104,0,153,107" name="main_item" type="container">
+			<Widget font="item_compare_default" frame="6,6,140,18" h_pos_align="proportion" name="type" type="static">
+			</Widget>
+			<Widget flag="truncate;multiline;wordwrap" font="item_compare_default" frame="6,26,140,29" h_pos_align="proportion" name="desc" text="아이템이름\n두줄" type="static">
+			</Widget>
+			<Widget cell_padding="2" frame="6,57,44,44" item_height="44" item_width="44" name="item" preset="v5_itemview" type="itemview" v_pos_align="bottom">
+			</Widget>
+			<Widget font="item_compare_score" frame="58,77,88,24" h_pos_align="proportion" halign="left" name="score" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget font="item_compare_default" frame="58,57,47,18" text="STR_TOOLTIP_ITEM_SCORE" type="static">
+			</Widget>
+		</Widget>
+		<Widget flag="not_visible" frame="0,268,259,2" name="separator" preset="v5_tooltip_sep_content" type="image">
+		</Widget>
+		<Widget flag="not_visible;truncate" font="item_compare_title" frame="0,138,257,22" name="title" text="능력치 총합" type="static">
+		</Widget>
+		<Widget flag="not_visible;truncate" font="item_compare_default" frame="9,186,90,22" name="value3_title" text="물리 치명타 저항" type="static">
+		</Widget>
+		<Widget flag="not_visible;truncate" font="item_compare_default" frame="104,186,153,22" name="value3_main" text="723 - 754 + 180" type="static">
+		</Widget>
+		<Widget flag="not_visible;truncate" font="item_compare_subtitle" frame="3,162,254,22" name="subtitle" text="물리 치명타 저항" type="static">
+		</Widget>
+		<Widget flag="not_visible" font="item_compare_default" frame="104,210,153,44" html_margin="0" margin="3" name="content3_main" type="htmlview">
+		</Widget>
+	</Widget>
+	<Widget blur="True" frame="0,1,270,73" margin="3" name="help_container" preset="v5_tooltip" type="container">
+		<Widget font="item_compare_default" frame="0,0,263,66" html_margin="0,0" name="help_info" scroll_type="hidden" text="&lt;p&gt;텍스트&lt;/p&gt;&lt;p&gt;두줄&lt;/p&gt;&lt;p&gt;세줄&lt;/p&gt;" type="htmlview">
+		</Widget>
+	</Widget>
+	<Widget blend_type="screen" flag="not_visible" frame="517,440,80,80" image="tooltip_next_arrow" name="next_marker" type="image" v_pos_align="middle">
+	</Widget>
+	<Widget blend_type="screen" flag="not_visible" frame="428,440,80,80" image="tooltip_prev_arrow" name="prev_marker" type="image" v_pos_align="middle">
+	</Widget>
+</Dialog>

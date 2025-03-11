@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="P01">&quot;Excellent... The stabilization of Poeta has been successful.&quot;</Text>
+	<Text label="P02">“Congratulations.&quot;</Text>
+	<Text label="P03">&quot;How is our host?&quot;</Text>
+	<Text label="P04">&quot;It lost consciousness, but its vitals are stable.&quot;</Text>
+	<Text label="P05">&quot;Good. Finally...&quot;</Text>
+	<Text label="P06">&quot;... the power to claim all I&apos;ve been dreaming of!&quot;</Text>
+	<Text label="P07">&quot;With this victory,&quot;</Text>
+	<Text label="P08">&quot;I will take all that is mine!&quot;</Text>
+	<Text label="P09">&quot;We can finally release the Legion.&quot;</Text>
+</CutSceneText>

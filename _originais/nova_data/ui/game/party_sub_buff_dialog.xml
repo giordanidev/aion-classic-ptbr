@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="transparent;not_movable;not_active" frame="15,140,84,33" last_modified="2020-09-07 20:08:54" name="party_sub_buff_dialog" title_frame="0,0,0,0" type="dlg_party_sub_buff">
+	<Widget frame="0,0,16,16" item_height="16" item_width="16" name="buff_item1" preset="v4_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="17,0,16,16" item_height="16" item_width="16" name="buff_item2" preset="v4_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="34,0,16,16" item_height="16" item_width="16" name="buff_item3" preset="v4_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="51,0,16,16" item_height="16" item_width="16" name="buff_item4" preset="v4_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="68,0,16,16" item_height="16" item_width="16" name="buff_item5" preset="v4_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="0,17,16,16" item_height="16" item_width="16" name="debuff_item1" preset="v4_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="17,17,16,16" item_height="16" item_width="16" name="debuff_item2" preset="v4_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="34,17,16,16" item_height="16" item_width="16" name="debuff_item3" preset="v4_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="51,17,16,16" item_height="16" item_width="16" name="debuff_item4" preset="v4_buff_slot_showonly" type="itemview">
+	</Widget>
+	<Widget frame="68,17,16,16" item_height="16" item_width="16" name="debuff_item5" preset="v4_buff_slot_showonly" type="itemview">
+	</Widget>
+</Dialog>

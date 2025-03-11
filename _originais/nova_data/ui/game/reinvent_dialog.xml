@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="task" close_offset="3,3" close_preset="v5_attend_close" flag="close;title" frame="100,100,411,660" last_modified="2020-06-15 13:53:48" name="reinvent_dialog" preset="v7_mission_bg_container" shadow_offset="0" text_color="1.0,1.0,1.0,1.0" title_align="center" title_frame="3,3,450,14" title_height="25" title_offset="0,9" title_text="STR_REINVENT_DIALOG_INDEX" type="dlg_reinvent">
+	<Widget frame="2,2,408,633" h_pos_align="proportion" name="reinvent_main" type="container" v_pos_align="proportion">
+		<Widget frame="2,4,403,627" name="reinvent_basic_con" type="container">
+			<Widget flag="nonclient" frame="0,33,402,387" h_pos_align="proportion" preset="v7_reinven_bg" type="image" v_pos_align="proportion">
+			</Widget>
+			<Widget btn_move_anim="False" frame="0,4,402,30" name="reinvent_tab_con" preset="shop_menu" tab_offset="0,0" tab_space="0" text_over_color="0.0,0.502,0.7529,1.0" text_selected_color="0.0,0.502,0.7529,1.0" type="tab">
+				<Widget frame="0,0,402,30" name="tab_bg" type="image">
+					<Skin name="v5_scheduled_mission_static">
+					</Skin>
+				</Widget>
+				<Widget font="ui_default" frame="0,0,100,30" halign="center" name="reinvent_tab_01" preset="shop_main_tab" text="STR_REINVENT_UI_TAB_INDEX_1" text_color="1.0,1.0,1.0,1.0" text_over_color="0.1765,1.0,1.0,1.0" text_selected_color="0.0,0.502,0.7529,1.0" type="tabbutton">
+					<Widget flag="not_visible;not_active" frame="0,0,100,30" name="tab_01_cover" tooltip="STR_REINVENT_UI_MIN_LEVEL_TOOLTIP" type="container">
+						<Widget frame="0,0,100,30" group="cover" image="v7_dark_static_03" name="tab_cover1" type="image">
+						</Widget>
+						<Widget frame="40,5,20,20" group="cover" image="familiar_locked" name="tab_lock1" type="image">
+						</Widget>
+					</Widget>
+					<Widget flag="not_visible;not_active;outer" frame="2,-14,55,25" name="tab_label1" preset="v7_Event_Badge" type="image">
+					</Widget>
+				</Widget>
+				<Widget font="ui_default" frame="101,0,100,30" halign="center" name="reinvent_tab_02" preset="shop_main_tab" text="STR_REINVENT_UI_TAB_INDEX_2" text_color="1.0,1.0,1.0,1.0" text_over_color="0.1765,1.0,1.0,1.0" text_selected_color="0.0,0.502,0.7529,1.0" type="tabbutton">
+					<Widget flag="not_visible;not_active" frame="0,0,100,30" name="tab_02_cover" tooltip="STR_REINVENT_UI_MIN_LEVEL_TOOLTIP" type="container">
+						<Widget frame="0,0,100,30" group="cover" image="v7_dark_static_03" name="tab_cover2" type="image">
+						</Widget>
+						<Widget frame="40,5,20,20" group="cover" image="familiar_locked" name="tab_lock2" type="image">
+						</Widget>
+					</Widget>
+					<Widget flag="not_visible;not_active;outer" frame="2,-14,55,25" name="tab_label2" preset="v7_Event_Badge" type="image">
+					</Widget>
+				</Widget>
+				<Widget font="ui_default" frame="202,0,100,30" halign="center" name="reinvent_tab_03" preset="shop_main_tab" text="STR_REINVENT_UI_TAB_INDEX_3" text_color="1.0,1.0,1.0,1.0" text_over_color="0.1765,1.0,1.0,1.0" text_selected_color="0.0,0.502,0.7529,1.0" type="tabbutton">
+					<Widget flag="not_visible;not_active" frame="0,0,100,30" name="tab_03_cover" tooltip="STR_REINVENT_UI_MIN_LEVEL_TOOLTIP" type="container">
+						<Widget frame="0,0,100,30" group="cover" image="v7_dark_static_03" name="tab_cover3" type="image">
+						</Widget>
+						<Widget frame="40,5,20,20" group="cover" image="familiar_locked" name="tab_lock3" type="image">
+						</Widget>
+					</Widget>
+					<Widget flag="not_visible;not_active;outer" frame="2,-14,55,25" name="tab_label3" preset="v7_Event_Badge" type="image">
+					</Widget>
+				</Widget>
+				<Widget font="ui_default" frame="303,0,100,30" halign="center" name="reinvent_tab_04" preset="shop_main_tab" text="STR_REINVENT_UI_TAB_INDEX_4" text_color="1.0,1.0,1.0,1.0" text_over_color="0.1765,1.0,1.0,1.0" text_selected_color="0.0,0.502,0.7529,1.0" type="tabbutton">
+					<Widget flag="not_visible;not_active" frame="0,0,100,30" name="tab_04_cover" tooltip="STR_REINVENT_UI_MIN_LEVEL_TOOLTIP" type="container">
+						<Widget frame="0,0,100,30" group="cover" image="v7_dark_static_03" name="tab_cover4" type="image">
+						</Widget>
+						<Widget frame="40,5,20,20" group="cover" image="familiar_locked" name="tab_lock4" type="image">
+						</Widget>
+					</Widget>
+					<Widget flag="not_visible;not_active;outer" frame="2,-14,55,25" name="tab_label4" preset="v7_Event_Badge" type="image">
+					</Widget>
+				</Widget>
+			</Widget>
+			<Widget frame="0,33,402,387" name="reinvent_comp_con" type="container">
+				<Widget frame="168,47,70,70" image="reform_component_close" name="img_pre_1" type="image">
+				</Widget>
+				<Widget frame="65,139,70,70" image="reform_component_close" name="img_pre_2" type="image">
+				</Widget>
+				<Widget frame="107,236,70,70" image="reform_component_close" name="img_pre_3" type="image">
+				</Widget>
+				<Widget frame="228,235,70,70" image="reform_component_close" name="img_pre_4" type="image">
+				</Widget>
+				<Widget frame="270,139,70,70" image="reform_component_close" name="img_pre_5" type="image">
+				</Widget>
+				<Widget flag="not_visible" frame="0,0,402,387" group="cover" image="v5_upgrade_bg" name="cover" type="image">
+				</Widget>
+				<Widget frame="182,62,40,40" name="target1" type="container">
+				</Widget>
+				<Widget frame="284,154,40,40" name="target2" type="container">
+				</Widget>
+				<Widget frame="242,250,40,40" name="target3" type="container">
+				</Widget>
+				<Widget frame="121,251,40,40" name="target4" type="container">
+				</Widget>
+				<Widget frame="79,154,40,40" name="target5" type="container">
+				</Widget>
+				<Widget frame="42,154,40,40" item_height="70" item_width="70" name="component1" type="itemview">
+				</Widget>
+				<Widget frame="112,154,40,40" item_height="70" item_width="70" name="component2" type="itemview">
+				</Widget>
+				<Widget frame="182,154,40,40" item_height="70" item_width="70" name="component3" type="itemview">
+				</Widget>
+				<Widget frame="252,154,40,40" item_height="70" item_width="70" name="component4" type="itemview">
+				</Widget>
+				<Widget frame="322,154,40,40" item_height="70" item_width="70" name="component5" type="itemview">
+				</Widget>
+				<Widget frame="42,154,40,40" name="comp_target1" type="container">
+				</Widget>
+				<Widget frame="112,154,40,40" name="comp_target2" type="container">
+				</Widget>
+				<Widget frame="182,154,40,40" name="comp_target3" type="container">
+				</Widget>
+				<Widget frame="252,154,40,40" name="comp_target4" type="container">
+				</Widget>
+				<Widget frame="322,154,40,40" name="comp_target5" type="container">
+				</Widget>
+				<Widget frame="182,154,40,40" name="move_target" type="container">
+				</Widget>
+			</Widget>
+			<Widget frame="0,33,402,390" name="reinvent_bg_con" type="container">
+				<Widget frame="296,4,102,26" name="reinvent_detail_con" type="container">
+					<Skin name="luna_gotcha_reward_bg">
+					</Skin>
+					<Widget font="ui_default" frame="0,0,102,26" halign="right" name="btn_reinvent_detail" preset="v5_expand_button" style="checkbox" text="STR_REINVENT_DIALOG_BTN_DETAIL" text_offset="5,0" type="button" v_pos_align="bottom">
+					</Widget>
+				</Widget>
+				<Widget frame="7,7,16,16" name="reinvent_tip" tooltip="STR_REINVENT_DIALOG_INFO_TOOLTIP" type="image">
+					<Skin name="help_button_up">
+					</Skin>
+				</Widget>
+			</Widget>
+			<Widget frame="11,361,380,57" h_pos_align="center" name="reinvent_str" type="container" v_pos_align="middle">
+				<Widget font="ui_defalut" font_size="13" frame="0,0,380,57" h_pos_align="center" margin="2,2,2,2" name="result_desc" scroll_type="hidden" skin_type="notice" text="STR_REINVENT_UI_MAT_IN_INFO" text_color="1.0,1.0,1.0,1.0" type="htmlview" v_pos_align="middle">
+				</Widget>
+			</Widget>
+			<Widget frame="0,422,402,60" name="reinvent_point_bar_con" preset="v7_mission_success_bg" type="container">
+				<Widget frame="15,30,370,20" h_pos_align="proportion" type="image" v_pos_align="top">
+					<Skin name="v5_familiar_growth_gauge_bg">
+					</Skin>
+				</Widget>
+				<Widget frame="14,30,370,20" name="reinvent_point_view" type="container">
+					<Widget align="left" frame="3,0,364,20" gradient="False" name="reinvent_point_temp" preset="v5_familiar_growth_gauge2" type="gauge">
+					</Widget>
+					<Widget align="left" frame="3,0,364,20" gradient="False" name="reinvent_point_current" preset="v5_familiar_growth_gauge" type="gauge">
+					</Widget>
+					<Widget align="left" frame="3,0,364,20" gradient="False" name="reinvent_point_max" preset="v5_familiar_growth_gauge1" type="gauge">
+					</Widget>
+				</Widget>
+				<Widget font_size="12" frame="14,29,370,20" halign="center" name="reinvent_point_desc" text="STR_REINVENT_UI_POINT_DESC" text_color="1.0,1.0,1.0,1.0" text_shade="True" type="static" valign="middle">
+				</Widget>
+				<Widget font="ui_defalut" font_size="13" frame="6,3,280,20" h_pos_align="center" margin="0" name="point_bar_title" scroll_type="hidden" skin_type="notice" text="STR_REINVENT_DIALOG_POINT_INDEX" text_color="1.0,1.0,1.0,1.0" type="htmlview" v_pos_align="middle">
+				</Widget>
+			</Widget>
+			<Widget frame="0,484,402,92" name="reinvent_list_con" preset="v7_mission_success_bg" type="container">
+				<Widget cell_padding="2" cell_space="0,0" font="ui_list" frame="0,2,402,88" h_pos_align="center" item_height="44" item_width="44" list_padding="2,0" name="reinvent_list" preset="v5_itemview" reserve_slots="True" scroll_type="hidden" skin_type="luna" slot_num="29" type="listview" v_pos_align="middle" viewmode="icon">
+				</Widget>
+			</Widget>
+			<Widget flag="not_visible" font="ui_default" font_size="15" frame="116,580,168,40" name="btn_reinvent_ok" preset="transform_normal_btn" text="STR_REINVENT_UI_BTN_CONFIRM" text_color="0.8,0.8392,0.9529,1.0" text_over_color="0.8,0.8392,0.9529,1.0" type="button">
+			</Widget>
+			<Widget font="ui_default" font_size="15" frame="21,580,168,40" name="btn_reinvent_mat_in" preset="transform_normal_btn" text="STR_REINVENT_UI_BTN_MAT_IN" text_color="0.8,0.8392,0.9529,1.0" text_over_color="0.8,0.8392,0.9529,1.0" type="button">
+			</Widget>
+			<Widget font="ui_default" font_size="15" frame="213,580,168,40" name="btn_reinvent_do" preset="transform_normal_btn" text="STR_REINVENT_UI_BTN_DO" text_color="0.8,0.8392,0.9529,1.0" text_over_color="0.8,0.8392,0.9529,1.0" type="button">
+			</Widget>
+		</Widget>
+	</Widget>
+</Dialog>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="15,10" flag="close;title" frame="0,0,861,714" h_pos_align="center" last_modified="2020-09-07 20:08:54" name="tower_defence_dialog" preset="map_zonemap_dlg" title_align="center" title_frame="3,3,855,14" title_height="30" title_offset="0,10" title_text="STR_TOWER_DEFENCE_TITLE" type="dlg_tower_defence" v_pos_align="middle">
+	<Widget flag="not_visible" frame="40,35,768,608" h_pos_align="center" name="stage" type="image" v_pos_align="middle">
+	</Widget>
+	<Widget frame="193,648,650,29" halign="left" name="help_msg" scroll_type="hidden" type="static" valign="middle">
+	</Widget>
+	<Widget flag="not_visible" frame="179,323,220,125" name="tutorial_1" type="container">
+		<Skin name="v4_editbox_bg" state="0">
+		</Skin>
+		<Widget flag="multiline;wordwrap" frame="10,10,203,107" name="editstage_map" scroll_type="hidden" text="STR_TOWER_DEFENCE_TUTORIAL_1" type="static" valign="top">
+		</Widget>
+	</Widget>
+	<Widget flag="not_visible" frame="217,570,475,61" name="tutorial_2" type="container">
+		<Skin name="v4_editbox_bg" state="0">
+		</Skin>
+		<Widget flag="multiline;wordwrap" frame="10,10,459,42" name="editstage_map" text="STR_TOWER_DEFENCE_TUTORIAL_2" type="static" valign="top">
+		</Widget>
+	</Widget>
+	<Widget flag="not_visible" frame="23,572,819,72" name="editstage_widgets" type="container">
+		<Skin name="v4_editbox_bg" state="0">
+		</Skin>
+		<Widget alphanumeric="False" flag="not_visible" frame="7,6,148,26" name="editstage_texture" preset="v4_editbox" type="editbox">
+		</Widget>
+		<Widget alphanumeric="False" flag="not_visible" font_size="14" frame="361,6,50,26" h_align="center" name="editstage_world_x" preset="v4_editbox" type="editbox">
+		</Widget>
+		<Widget alphanumeric="False" flag="not_visible" font_size="14" frame="414,6,50,26" h_align="center" name="editstage_world_y" preset="v4_editbox" type="editbox">
+		</Widget>
+		<Widget flag="not_visible" frame="320,9,35,20" halign="right" name="editstage_world" text="STR_TOWER_DEFENCE_WORLD" type="static">
+		</Widget>
+		<Widget flag="not_visible" frame="470,9,33,20" halign="right" name="editstage_map" text="STR_TOWER_DEFENCE_TEXTURE" type="static">
+		</Widget>
+		<Widget alphanumeric="False" flag="not_visible" font_size="14" frame="507,6,50,26" h_align="center" name="editstage_map_x" preset="v4_editbox" type="editbox">
+		</Widget>
+		<Widget alphanumeric="False" flag="not_visible" font_size="14" frame="561,6,50,26" h_align="center" name="editstage_map_y" preset="v4_editbox" type="editbox">
+		</Widget>
+		<Widget flag="not_visible" frame="746,6,68,26" name="editstage_ok" preset="v4_button" text="STR_COMMON__OK" type="button">
+		</Widget>
+		<Widget alphanumeric="False" flag="not_visible" frame="199,6,129,26" name="editstage_title" preset="v4_editbox" type="editbox">
+		</Widget>
+		<Widget frame="160,6,39,23" text="STR_PLAYER_INFO_DIALOG__TITLE" type="static">
+		</Widget>
+		<Widget frame="623,9,113,22" name="editstage_hideimpact" preset="v4_check" style="checkbox" text_offset="5,0" type="button" valign="middle">
+		</Widget>
+		<Widget alphanumeric="False" flag="not_visible" font_size="14" frame="362,39,50,26" h_align="center" name="editstage_min_x" preset="v4_editbox" type="editbox">
+		</Widget>
+		<Widget alphanumeric="False" flag="not_visible" font_size="14" frame="415,39,50,26" h_align="center" name="editstage_min_y" preset="v4_editbox" type="editbox">
+		</Widget>
+		<Widget alphanumeric="False" flag="not_visible" font_size="14" frame="468,39,50,26" h_align="center" name="editstage_max_x" preset="v4_editbox" type="editbox">
+		</Widget>
+		<Widget alphanumeric="False" flag="not_visible" font_size="14" frame="521,39,50,26" h_align="center" name="editstage_max_y" preset="v4_editbox" type="editbox">
+		</Widget>
+	</Widget>
+	<Widget frame="12,649,822,31" name="editor_widgets" type="container">
+		<Widget flag="not_visible" frame="13,1,60,26" name="open_button" preset="v4_button" text="STR_TOWER_DEFENCE_OPEN" type="button">
+		</Widget>
+		<Widget flag="not_visible" frame="73,1,60,26" name="save_button" preset="v4_button" text="STR_TOWER_DEFENCE_SAVE" type="button">
+		</Widget>
+		<Widget flag="not_visible" frame="140,1,60,26" name="stage_button" preset="v4_button_toggle_rev" text="STR_TOWER_DEFENCE_WORLD" type="button">
+		</Widget>
+		<Widget flag="not_visible" frame="207,1,75,26" name="newtower_button" preset="v4_button" text="STR_TOWER_DEFENCE_NEW_TOWER" type="button">
+		</Widget>
+		<Widget flag="not_visible" frame="283,1,75,26" name="newartifact_button" preset="v4_button" text="STR_TOWER_DEFENCE_NEW_TRIGGER" type="button">
+		</Widget>
+		<Widget flag="not_visible" frame="359,1,75,26" name="newcastle_button" preset="v4_button" text="STR_TOWER_DEFENCE_NEW_CASTLE" type="button">
+		</Widget>
+	</Widget>
+	<Widget flag="not_visible" frame="29,605,668,38" name="edittower_widgets" type="container">
+		<Skin name="v4_editbox_bg" state="0">
+		</Skin>
+		<Widget alphanumeric="False" flag="not_visible" font_size="14" frame="50,6,66,26" h_align="center" name="edittower_power" preset="v4_editbox" type="editbox">
+		</Widget>
+		<Widget flag="not_visible" frame="8,9,37,20" halign="right" name="edittower_static1" text="STR_TOWER_DEFENCE_POWER" type="static">
+		</Widget>
+		<Widget flag="not_visible" frame="122,9,34,20" halign="right" name="edittower_static2" text="STR_TOWER_DEFENCE_DIR" type="static">
+		</Widget>
+		<Widget alphanumeric="False" flag="not_visible" font_size="14" frame="163,6,50,26" h_align="center" name="edittower_dir" preset="v4_editbox" type="editbox">
+		</Widget>
+		<Widget flag="not_visible" frame="597,6,68,26" name="edittower_ok" preset="v4_button" text="STR_COMMON__OK" type="button">
+		</Widget>
+		<Widget flag="not_visible" frame="528,6,68,26" name="edittower_del" preset="v4_button" text="STR_TOWER_DEFENCE_DEL" type="button">
+		</Widget>
+		<Widget frame="221,6,65,26" max_items="4" name="edittower_race" preset="v4_staticbox" type="combobox">
+			<Items>
+				<Item name="STR_GLOBAL_OPTION_DIALOG__SHOW_FX_NONE">
+				</Item>
+				<Item name="STR_WORLD_INFLUENCE_DIALOG__LIGHT">
+				</Item>
+				<Item name="STR_WORLD_INFLUENCE_DIALOG__DARK">
+				</Item>
+				<Item name="STR_WORLD_INFLUENCE_DIALOG__DRAGON">
+				</Item>
+			</Items>
+		</Widget>
+		<Widget alphanumeric="False" font_size="14" frame="368,6,50,26" h_align="center" name="edittower_bc_1" preset="v4_editbox" type="editbox">
+		</Widget>
+		<Widget alphanumeric="False" font_size="14" frame="476,6,50,26" h_align="center" name="edittower_bc_3" preset="v4_editbox" type="editbox">
+		</Widget>
+		<Widget alphanumeric="False" font_size="14" frame="422,6,50,26" h_align="center" name="edittower_bc_2" preset="v4_editbox" type="editbox">
+		</Widget>
+	</Widget>
+	<Widget flag="not_visible" frame="29,606,506,38" name="editartifact_widgets" type="container">
+		<Skin name="v4_editbox_bg" state="0">
+		</Skin>
+		<Widget flag="not_visible" frame="433,6,68,26" name="editartifact_ok" preset="v4_button" text="STR_COMMON__OK" type="button">
+		</Widget>
+		<Widget flag="not_visible" frame="364,6,68,26" name="editartifact_del" preset="v4_button" text="STR_TOWER_DEFENCE_DEL" type="button">
+		</Widget>
+		<Widget alphanumeric="False" flag="not_visible" font_size="14" frame="174,6,50,26" h_align="center" name="editartifact_ratio" preset="v4_editbox" type="editbox">
+		</Widget>
+		<Widget frame="9,6,161,26" max_items="7" name="editartifact_combo" preset="v4_staticbox" type="combobox">
+			<Items>
+				<Item name="STR_TOWER_DEFENCE_SLOW_AREA">
+				</Item>
+				<Item name="STR_TOWER_DEFENCE_SLOW_AREA_LOAD">
+				</Item>
+				<Item name="STR_TOWER_DEFENCE_DAMAGE_AREA">
+				</Item>
+				<Item name="STR_TOWER_DEFENCE_DAMAGE_AREA_LOAD">
+				</Item>
+				<Item name="STR_TOWER_DEFENCE_HP_UP">
+				</Item>
+				<Item name="STR_TOWER_DEFENCE_NEAR_DAMAGE">
+				</Item>
+				<Item name="STR_TOWER_DEFENCE_HEAL_CASTLE">
+				</Item>
+			</Items>
+		</Widget>
+		<Widget alphanumeric="False" flag="not_visible" font_size="14" frame="229,6,50,26" h_align="center" name="editartifact_dist" preset="v4_editbox" type="editbox">
+		</Widget>
+		<Widget alphanumeric="False" font_size="14" frame="314,6,50,26" h_align="center" name="editartifact_dps" preset="v4_editbox" type="editbox">
+		</Widget>
+	</Widget>
+	<Widget flag="not_visible" frame="29,606,280,38" name="editcarrier_widgets" type="container">
+		<Skin name="v4_editbox_bg" state="0">
+		</Skin>
+		<Widget flag="not_visible" frame="207,6,68,26" name="editcarrier_ok" preset="v4_button" text="STR_COMMON__OK" type="button">
+		</Widget>
+		<Widget flag="not_visible" frame="138,6,68,26" name="editcarrier_del" preset="v4_button" text="STR_TOWER_DEFENCE_DEL" type="button">
+		</Widget>
+		<Widget alphanumeric="False" flag="not_visible" font_size="14" frame="7,6,126,26" h_align="center" name="editcarrier_time" preset="v4_editbox" type="editbox">
+		</Widget>
+	</Widget>
+	<Widget flag="not_visible" frame="29,606,280,38" name="editcastle_widgets" type="container">
+		<Skin name="v4_editbox_bg" state="0">
+		</Skin>
+		<Widget flag="not_visible" frame="207,6,68,26" name="editcastle_ok" preset="v4_button" text="STR_COMMON__OK" type="button">
+		</Widget>
+		<Widget flag="not_visible" frame="138,6,68,26" name="editcastle_del" preset="v4_button" text="STR_TOWER_DEFENCE_DEL" type="button">
+		</Widget>
+		<Widget alphanumeric="False" flag="not_visible" font_size="14" frame="7,6,126,26" h_align="center" name="editcastle_dps" preset="v4_editbox" type="editbox">
+		</Widget>
+	</Widget>
+	<Widget frame="20,645,164,33" name="gamestart_widgets" type="container">
+		<Widget frame="5,5,75,26" name="gamestart_button" preset="v4_button" text="STR_LOBBY_SELECT__START" type="button">
+		</Widget>
+		<Widget frame="80,5,75,26" name="gameinvite_button" preset="v4_button" text="STR_TOWER_DEFENCE_INVITE_BTN" type="button">
+		</Widget>
+	</Widget>
+	<Widget frame="22,284,154,179" name="stageselect_widgets" type="container">
+		<Skin name="v4_staticbox_bg2" state="0">
+		</Skin>
+		<Widget frame="13,8,129,27" text="STR_TOWER_DEFENCE_SELECT_STAGE" type="static">
+		</Widget>
+		<Widget cell_padding="5,5" flag="vscroll" frame="9,38,134,133" item_height="21" list_padding="3,3" name="stage_listbox" preset="v4_listbox" type="listbox">
+		</Widget>
+	</Widget>
+	<Widget frame="703,22,135,68" name="stagetime_widgets" type="container">
+		<Skin name="v4_staticbox_bg2" state="0">
+		</Skin>
+		<Widget frame="3,7,129,27" halign="center" name="stagetime_title" type="static" valign="middle">
+		</Widget>
+		<Widget frame="3,37,129,27" halign="center" name="stagetime_time" padding="5,5" preset="v4_editbox" type="static">
+		</Widget>
+	</Widget>
+	<Widget frame="22,468,154,174" name="playerlist_widgets" type="container">
+		<Skin name="v4_staticbox_bg2" state="0">
+		</Skin>
+		<Widget frame="13,8,129,27" text="STR_TOWER_DEFENCE_PARTICIPANT" type="static">
+		</Widget>
+		<Widget cell_padding="5,5" flag="vscroll;not_active" frame="9,38,134,128" item_height="21" list_padding="3,3" name="player_listbox" preset="v4_listbox" type="listbox">
+		</Widget>
+	</Widget>
+</Dialog>

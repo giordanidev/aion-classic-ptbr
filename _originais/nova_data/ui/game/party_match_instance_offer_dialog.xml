@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="close;title" frame="300,300,362,143" last_modified="2014-08-22 13:09:05" name="party_match_instance_offer_dialog" preset="v5_msgbox" shadow_offset="8,8" title_align="left" title_frame="3,3,356,14" title_height="25" title_offset="10,5" title_text="STR_PARTY_MATCH_INSTANCE_REGISTER_DIALOG" type="dlg_party_match_instance_offer">
+	<Widget font="ui_default" frame="292,87,63,24" h_pos_align="right" name="cancel" preset="v5_button" text="STR_PARTY_MATCH_INSTANCE_REGISTER_DIALOG__CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" font_size="12" frame="3,20,49,17" text="STR_PARTY_MATCH_INSTANCE_REGISTER_DIALOG__DESC" type="static">
+	</Widget>
+	<Widget font="uI_combo" frame="190,50,158,24" name="matchmaker" preset="v5_staticbox3" type="combobox">
+	</Widget>
+	<Widget defbutton="true" font="ui_default" frame="228,87,63,24" h_pos_align="right" name="ok" preset="v5_button" text="STR_PARTY_MATCH_INSTANCE_REGISTER_DIALOG__OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget alphanumeric="False" frame="38,16,287,25" h_padding="5" max_length="50" name="desc" preset="v5_editbox" type="editbox">
+	</Widget>
+	<Widget frame="327,17,22,22" h_pos_align="right" name="party_match_offer_emoticon" preset="v5_emoticon_btn" type="button">
+	</Widget>
+	<Widget font_size="12" frame="133,52,63,17" text="STR_PARTY_MATCH_INSTANCE_REGISTER_DIALOG__INSTANCE" type="static">
+	</Widget>
+	<Widget font="uI_combo" frame="61,50,60,24" name="member_count" preset="v5_staticbox3" type="combobox">
+	</Widget>
+	<Widget font="ui_default" font_size="12" frame="2,52,54,17" text="STR_PARTY_MATCH_INSTANCE_REGISTER_DIALOG__MEMBER" type="static">
+	</Widget>
+</Dialog>

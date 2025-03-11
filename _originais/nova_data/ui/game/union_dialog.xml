@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="left" close_offset="5,7" flag="title;close" frame="15,140,410,311" last_modified="2020-09-07 20:08:54" name="union_dialog" preset="v4_dialog3" title_align="center" title_frame="0,0,0,0" title_offset="0,5" title_text="STR_UNION_DIALOG" type="dlg_union">
+	<Widget frame="4,41,396,249" type="image">
+		<Skin name="v4_union_frame">
+		</Skin>
+	</Widget>
+	<Widget frame="3,41,29,248" type="image">
+		<Skin name="v4_union_flagpole">
+		</Skin>
+	</Widget>
+	<Widget drag_type="10" frame="7,67,392,43" name="force1" preset="v4_union_ctn1" type="containerex">
+		<Widget frame="5,-2,115,48" halign="center" name="title" text="STR_UNION_DIALOG__GROUP1" type="static">
+		</Widget>
+		<Widget frame="107,15,19,14" name="leader_marker" preset="v4_union_marker" type="image">
+		</Widget>
+		<Widget flag="truncate" frame="129,12,174,20" name="name" type="static">
+		</Widget>
+		<Widget flag="truncate" frame="309,12,65,20" name="num" type="static">
+		</Widget>
+	</Widget>
+	<Widget drag_type="10" frame="7,107,392,31" name="force2" preset="v4_union_ctn" type="containerex">
+		<Widget frame="5,2,115,24" halign="center" name="title" text="STR_UNION_DIALOG__GROUP2" type="static">
+		</Widget>
+		<Widget flag="truncate" frame="129,4,174,20" name="name" type="static">
+		</Widget>
+		<Widget flag="truncate" frame="309,4,65,20" name="num" type="static">
+		</Widget>
+	</Widget>
+	<Widget drag_type="10" frame="7,132,392,31" name="force3" preset="v4_union_ctn" type="containerex">
+		<Widget frame="5,2,115,24" halign="center" name="title" text="STR_UNION_DIALOG__GROUP3" type="static">
+		</Widget>
+		<Widget flag="truncate" frame="129,4,174,20" name="name" type="static">
+		</Widget>
+		<Widget flag="truncate" frame="309,4,65,20" name="num" type="static">
+		</Widget>
+	</Widget>
+	<Widget drag_type="10" frame="7,157,392,31" name="force4" preset="v4_union_ctn" type="containerex">
+		<Widget frame="5,2,115,24" halign="center" name="title" text="STR_UNION_DIALOG__GROUP4" type="static">
+		</Widget>
+		<Widget flag="truncate" frame="129,4,174,20" name="name" type="static">
+		</Widget>
+		<Widget flag="truncate" frame="309,4,65,20" name="num" type="static">
+		</Widget>
+	</Widget>
+	<Widget drag_type="10" frame="7,182,392,31" name="force5" preset="v4_union_ctn" type="containerex">
+		<Widget frame="5,2,115,24" halign="center" name="title" text="STR_UNION_DIALOG__GROUP5" type="static">
+		</Widget>
+		<Widget flag="truncate" frame="129,4,174,20" name="name" type="static">
+		</Widget>
+		<Widget flag="truncate" frame="309,4,65,20" name="num" type="static">
+		</Widget>
+	</Widget>
+	<Widget drag_type="10" frame="7,207,392,31" name="force6" preset="v4_union_ctn" type="containerex">
+		<Widget frame="5,2,115,24" halign="center" name="title" text="STR_UNION_DIALOG__GROUP6" type="static">
+		</Widget>
+		<Widget flag="truncate" frame="129,4,174,20" name="name" type="static">
+		</Widget>
+		<Widget flag="truncate" frame="309,4,65,20" name="num" type="static">
+		</Widget>
+	</Widget>
+	<Widget drag_type="10" frame="7,232,392,31" name="force7" preset="v4_union_ctn" type="containerex">
+		<Widget frame="5,2,115,24" halign="center" name="title" text="STR_UNION_DIALOG__GROUP7" type="static">
+		</Widget>
+		<Widget flag="truncate" frame="129,4,174,20" name="name" type="static">
+		</Widget>
+		<Widget flag="truncate" frame="309,4,65,20" name="num" type="static">
+		</Widget>
+	</Widget>
+	<Widget drag_type="10" frame="7,257,392,31" name="force8" preset="v4_union_ctn" type="containerex">
+		<Widget frame="5,2,115,24" halign="center" name="title" text="STR_UNION_DIALOG__GROUP8" type="static">
+		</Widget>
+		<Widget flag="truncate" frame="129,4,174,20" name="name" type="static">
+		</Widget>
+		<Widget flag="truncate" frame="309,4,65,20" name="num" type="static">
+		</Widget>
+	</Widget>
+	<Widget frame="1,15,114,26" name="invite" preset="v4_button" text="STR_UNION_DIALOG__INVITE" type="button">
+	</Widget>
+	<Widget frame="285,17,116,19" halign="right" name="menu" preset="v4_button_next_page" style="checkbox" text="STR_UNION_DIALOG__MENU" text_offset="5,0" type="button">
+	</Widget>
+	<Widget frame="39,44,94,20" halign="left" name="member_info" text="STR_UNION_DIALOG__TOTAL_MEMBER" type="static">
+	</Widget>
+	<Widget frame="239,45,134,20" halign="right" name="total_member" type="static">
+	</Widget>
+	<Widget frame="29,63,370,2" halign="center" preset="v4_ruler" type="static">
+	</Widget>
+</Dialog>

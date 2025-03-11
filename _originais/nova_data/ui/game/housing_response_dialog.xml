@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="title;close" frame="740, 400, 346, 218" last_modified="2014-08-22 12:58:42" name="housing_response_dialog" preset="v5_dialog2" shadow_offset="8,8" title_align="center" title_frame="3,3,194,14" title_height="25" title_offset="0,5" title_text="STR_HOUSING_VOTE_RESULT_POPUP_TITLE" type="dlg_housing_response" v_pos_align="middle">
+	<Widget font="ui_default" frame="264,161,74,24" name="cancel" preset="v5_button" text="STR_COMMON__CLOSE" type="button">
+	</Widget>
+	<Widget frame="6,3,330,150" h_pos_align="proportion" name="browser" preset="v5_staticbox" type="browser" v_pos_align="proportion">
+	</Widget>
+</Dialog>

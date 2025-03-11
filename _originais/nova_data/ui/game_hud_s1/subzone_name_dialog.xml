@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="not_movable;visible" frame="1043,0,180,38" h_pos_align="center" last_modified="2020-09-07 20:10:11" name="subzone_name_dialog" type="dlg_subzone_name" v_pos_align="bottom">
+	<Widget frame="23,0,134,38" type="image">
+		<Skin name="v4_hud_subzone_name_s1">
+		</Skin>
+	</Widget>
+	<Widget font="console" font_size="12" frame="5,12,170,18" halign="center" name="text" type="static" valign="middle">
+	</Widget>
+</Dialog>

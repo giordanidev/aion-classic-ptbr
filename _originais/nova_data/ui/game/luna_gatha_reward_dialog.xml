@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="5,3" close_preset="v5_close2" flag="close;title;not_movable" font="luna_default" frame="762,100,332,536" last_modified="2017-03-30 16:40:02" name="luna_gatha_reward_dialog" preset="luna_dialog" text_color="0.6471,0.8118,0.8824,1.0" title_align="center" title_frame="3,3,318,14" title_offset="0,7" title_text="STR_LUNA_DICE_REWARDLIST" type="dlg_luna_gatha_reward">
+	<Widget frame="5,67,324,439" preset="v5_staticbox5" type="container">
+	</Widget>
+	<Widget font="ui_default" frame="259,5,74,64" name="c_button" preset="luna_gotcha_tab_button" type="button">
+		<Widget frame="10,5,53,53" name="c_image" type="image">
+			<Skin name="luna_gotcha_reward_c" state="0">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget font="ui_default" frame="195,5,74,64" name="b_button" preset="luna_gotcha_tab_button" type="button">
+		<Widget frame="10,5,53,53" name="b_image" type="image">
+			<Skin name="luna_gotcha_reward_b" state="0">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget font="ui_default" frame="131,5,74,64" name="a_button" preset="luna_gotcha_tab_button" type="button">
+		<Widget frame="10,5,53,53" name="a_image" type="image">
+			<Skin name="luna_gotcha_reward_a" state="0">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget font="ui_default" frame="67,5,74,64" name="s_button" preset="luna_gotcha_tab_button" type="button">
+		<Widget frame="10,5,53,53" name="s_image" type="image">
+			<Skin name="luna_gotcha_reward_s" state="0">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget font="ui_default" frame="3,5,74,64" name="ss_button" preset="luna_gotcha_tab_button" type="button">
+		<Widget frame="10,5,53,53" name="ss_image" type="image">
+			<Skin name="luna_gotcha_reward_ss" state="0">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget cell_padding="2,2" cell_space="0,-1" flag="vscroll" font="ui_list" frame="7,71,319,431" header_font="v3_columnhead" header_height="0" item_height="44" item_width="44" list_padding="0,0" name="list" preset="v5_listview_sel_frame" scroll_type="auto" skin_type="luna" slot_num="10" text_shade="False" type="listview">
+		<Column align="" title="" width="9999">
+		</Column>
+	</Widget>
+</Dialog>

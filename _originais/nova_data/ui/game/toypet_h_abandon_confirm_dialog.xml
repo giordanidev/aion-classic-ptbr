@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="sub" close_offset="4,1" close_preset="v5_close" flag="close;title" frame="30,150,408,348" last_modified="2014-08-22 12:58:41" name="toypet_h_abandon_confirm_dialog" preset="v5_msgbox" shadow_offset="8,8" title_align="center" title_frame="3,3,248,14" title_height="25" title_offset="0,5" title_text="STR_TOYPET_H_ABANDON_CONFIRM_DIALOG" type="dlg_toypet_h_abandon_confirm">
+	<Widget flag="multiline;wordwrap" font="ui_static_title" frame="8,24,387,46" halign="center" name="desc" padding="5,5" preset="v5_staticbox" scroll_type="hidden" text="STR_TOYPET_H_ABANDON_CONFIRM_DIALOG__DESC" text_offset="30, 0" type="htmlview">
+	</Widget>
+	<Widget defbutton="True" font="ui_default" frame="256,292,72,24" name="ok" preset="v5_button" text="STR_TOYPET_H_ABANDON_CONFIRM_DIALOG__OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="329,292,72,24" name="cancel" preset="v5_button" text="STR_TOYPET_H_ABANDON_CONFIRM_DIALOG__CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget cell_padding="2" cell_space="0,0" flag="truncate" font="ui_list" frame="209,95,187,45" item_height="44" item_width="44" name="toypet" preset="v5_listview_single" reserve_slots="True" scroll_type="hidden" slot_num="1" type="listview" viewmode="detail">
+		<Column align="" title="" width="1000">
+		</Column>
+	</Widget>
+	<Widget font="ui_default" frame="204,71,185,27" text="STR_TOYPET_H_ABANDON_CONFIRM_DIALOG__TARGET" type="htmlview">
+	</Widget>
+	<Widget font="ui_default" font_size="12" frame="210,150,64,22" text="STR_TOYPET_H_ABANDON_CONFIRM_DIALOG__FUNC1" type="static" valign="top">
+	</Widget>
+	<Widget font="ui_default" font_size="12" frame="210,168,64,22" text="STR_TOYPET_H_ABANDON_CONFIRM_DIALOG__FUNC2" type="static" valign="top">
+	</Widget>
+	<Widget font="ui_default" font_size="12" frame="210,186,64,22" text="STR_TOYPET_H_ABANDON_CONFIRM_DIALOG__FUNC_SP" type="static" valign="top">
+	</Widget>
+	<Widget flag="truncate" font="ui_default" frame="281,150,115,22" name="func1" type="static" valign="top">
+	</Widget>
+	<Widget flag="truncate" font="ui_default" frame="281,168,115,22" name="func2" type="static" valign="top">
+	</Widget>
+	<Widget flag="truncate" font="ui_default" frame="281,186,115,22" name="func_sp" type="static" valign="top">
+	</Widget>
+	<Widget flag="wordwrap;multiline" frame="204,217,194,40" name="confirm_desc" scroll_type="hidden" type="htmlview">
+	</Widget>
+	<Widget alphanumeric="False" frame="210,260,188,24" h_padding="4" name="confirm_text" preset="v5_editbox" type="editbox" v_padding="4">
+	</Widget>
+	<Widget frame="8,76,194,207" name="portrait" type="3dview">
+		<Skin name="v5_static_bg2" state="back">
+		</Skin>
+		<Widget frame="113,170,34,35" name="turnleft" preset="v5_potrait_left" type="button">
+		</Widget>
+		<Widget frame="45,170,34,35" name="turnright" preset="v5_potrait_right" type="button">
+		</Widget>
+	</Widget>
+	<Widget font="ui_default" frame="8,3,172,20" name="npc_name" type="static">
+	</Widget>
+</Dialog>

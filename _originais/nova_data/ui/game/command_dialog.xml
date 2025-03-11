@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog frame="0,0,186,56" last_modified="2020-09-07 20:08:54" name="command_dialog" preset="v4_shortcut_sep_bg" type="dlg_command" ui_mode="toypet">
+	<Widget cell_padding="2" cell_space="-1,-1" frame="6,6,174,45" item_height="44" item_width="44" name="listview" one_click_action="True" preset="v4_listview" reserve_slots="False" slot_num="4" type="listview" viewmode="icon">
+	</Widget>
+</Dialog>

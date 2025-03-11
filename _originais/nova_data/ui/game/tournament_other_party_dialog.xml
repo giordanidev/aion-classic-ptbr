@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="transparent;not_movable" frame="0,262,190,276" last_modified="2017-01-18 15:21:24" name="tournament_other_party_dialog" title_frame="3,3,185,14" type="dlg_tournament_other_party">
+	<Widget drag_type="3" frame="0,0,190,46" name="ctn_member1" type="container">
+		<Widget frame="0,0,69,46" type="static">
+			<Skin name="v5_tournament_other_party_ctn">
+			</Skin>
+		</Widget>
+		<Widget flag="not_visible" frame="23,2,40,40" name="emblem" type="image">
+		</Widget>
+		<Widget font="window" frame="2,12,23,23" halign="center" name="level" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+		</Widget>
+		<Widget flag="truncate" font="name" font_size="13" frame="60,10,130,25" h_pos_align="right" halign="left" name="title" padding="5,0" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_shade="True" type="static" valign="middle">
+			<Skin name="v5_tournament_other_party_title">
+			</Skin>
+		</Widget>
+		<Widget flag="not_visible" frame="0,0,69,46" halign="center" name="dimmed" type="static" valign="middle">
+			<Skin name="v5_tournament_other_party_dimmed">
+			</Skin>
+		</Widget>
+		<Widget flag="not_visible" frame="23,2,40,40" halign="center" name="resurrect_time" type="static" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget drag_type="3" frame="0,46,190,46" name="ctn_member2" type="container">
+		<Widget frame="0,0,69,46" type="static">
+			<Skin name="v5_tournament_other_party_ctn">
+			</Skin>
+		</Widget>
+		<Widget flag="not_visible" frame="23,2,40,40" name="emblem" type="image">
+		</Widget>
+		<Widget font="window" frame="2,12,23,23" halign="center" name="level" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+		</Widget>
+		<Widget flag="truncate" font="name" font_size="13" frame="60,10,130,25" h_pos_align="right" halign="left" name="title" padding="5,0" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_shade="True" type="static" valign="middle">
+			<Skin name="v5_tournament_other_party_title">
+			</Skin>
+		</Widget>
+		<Widget flag="not_visible" frame="0,0,69,46" halign="center" name="dimmed" type="static" valign="middle">
+			<Skin name="v5_tournament_other_party_dimmed">
+			</Skin>
+		</Widget>
+		<Widget flag="not_visible" frame="23,2,40,40" halign="center" name="resurrect_time" type="static" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget drag_type="3" frame="0,92,190,46" name="ctn_member3" type="container">
+		<Widget frame="0,0,69,46" type="static">
+			<Skin name="v5_tournament_other_party_ctn">
+			</Skin>
+		</Widget>
+		<Widget flag="not_visible" frame="23,2,40,40" name="emblem" type="image">
+		</Widget>
+		<Widget font="window" frame="2,12,23,23" halign="center" name="level" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+		</Widget>
+		<Widget flag="truncate" font="name" font_size="13" frame="60,10,130,25" h_pos_align="right" halign="left" name="title" padding="5,0" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_shade="True" type="static" valign="middle">
+			<Skin name="v5_tournament_other_party_title">
+			</Skin>
+		</Widget>
+		<Widget flag="not_visible" frame="0,0,69,46" halign="center" name="dimmed" type="static" valign="middle">
+			<Skin name="v5_tournament_other_party_dimmed">
+			</Skin>
+		</Widget>
+		<Widget flag="not_visible" frame="23,2,40,40" halign="center" name="resurrect_time" type="static" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget drag_type="3" frame="0,138,190,46" name="ctn_member4" type="container">
+		<Widget frame="0,0,69,46" type="static">
+			<Skin name="v5_tournament_other_party_ctn">
+			</Skin>
+		</Widget>
+		<Widget flag="not_visible" frame="23,2,40,40" name="emblem" type="image">
+		</Widget>
+		<Widget font="window" frame="2,12,23,23" halign="center" name="level" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+		</Widget>
+		<Widget flag="truncate" font="name" font_size="13" frame="60,10,130,25" h_pos_align="right" halign="left" name="title" padding="5,0" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_shade="True" type="static" valign="middle">
+			<Skin name="v5_tournament_other_party_title">
+			</Skin>
+		</Widget>
+		<Widget flag="not_visible" frame="0,0,69,46" halign="center" name="dimmed" type="static" valign="middle">
+			<Skin name="v5_tournament_other_party_dimmed">
+			</Skin>
+		</Widget>
+		<Widget flag="not_visible" frame="23,2,40,40" halign="center" name="resurrect_time" type="static" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget drag_type="3" frame="0,184,190,46" name="ctn_member5" type="container">
+		<Widget frame="0,0,69,46" type="static">
+			<Skin name="v5_tournament_other_party_ctn">
+			</Skin>
+		</Widget>
+		<Widget flag="not_visible" frame="23,2,40,40" name="emblem" type="image">
+		</Widget>
+		<Widget font="window" frame="2,12,23,23" halign="center" name="level" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+		</Widget>
+		<Widget flag="truncate" font="name" font_size="13" frame="60,10,130,25" h_pos_align="right" halign="left" name="title" padding="5,0" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_shade="True" type="static" valign="middle">
+			<Skin name="v5_tournament_other_party_title">
+			</Skin>
+		</Widget>
+		<Widget flag="not_visible" frame="0,0,69,46" halign="center" name="dimmed" type="static" valign="middle">
+			<Skin name="v5_tournament_other_party_dimmed">
+			</Skin>
+		</Widget>
+		<Widget flag="not_visible" frame="23,2,40,40" halign="center" name="resurrect_time" type="static" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget drag_type="3" frame="0,230,190,46" name="ctn_member6" type="container">
+		<Widget frame="0,0,69,46" type="static">
+			<Skin name="v5_tournament_other_party_ctn">
+			</Skin>
+		</Widget>
+		<Widget flag="not_visible" frame="23,2,40,40" name="emblem" type="image">
+		</Widget>
+		<Widget font="window" frame="2,12,23,23" halign="center" name="level" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+		</Widget>
+		<Widget flag="truncate" font="name" font_size="13" frame="60,10,130,25" h_pos_align="right" halign="left" name="title" padding="5,0" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_shade="True" type="static" valign="middle">
+			<Skin name="v5_tournament_other_party_title">
+			</Skin>
+		</Widget>
+		<Widget flag="not_visible" frame="0,0,69,46" halign="center" name="dimmed" type="static" valign="middle">
+			<Skin name="v5_tournament_other_party_dimmed">
+			</Skin>
+		</Widget>
+		<Widget flag="not_visible" frame="23,2,40,40" halign="center" name="resurrect_time" type="static" valign="middle">
+		</Widget>
+	</Widget>
+</Dialog>

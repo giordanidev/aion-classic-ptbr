@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="task" close_offset="5,7" flag="close;title" frame="15,130,406,430" last_modified="2020-09-07 20:08:54" name="toypet_tame_dialog" preset="v4_dialog2" title_align="center" title_frame="3,3,246,14" title_offset="0,5" title_text="STR_TOYPET_TAME_DIALOG" type="dlg_toypet_tame">
+	<Widget frame="8,13,172,20" name="npc_name" type="static">
+	</Widget>
+	<Widget flag="multiline;wordwrap" frame="4,33,392,64" halign="center" padding="5,5" preset="v4_container2" scroll_type="hidden" text="STR_TOYPET_TAME_DIALOG__DESC" text_offset="30, 0" type="htmlview">
+	</Widget>
+	<Widget font_size="13" frame="199,95,135,27" name="target_desc" padding="5,0" text="STR_TOYPET_TAME_DIALOG__SOURCE_ITEM" type="static">
+	</Widget>
+	<Widget frame="256,384,72,26" name="ok_button" preset="v4_button" text="STR_TOYPET_TAME_DIALOG__OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget frame="328,384,72,26" name="cancel_button" preset="v4_button" text="STR_TOYPET_TAME_DIALOG__CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="203,119,194,45" item_height="44" item_width="44" name="source_item" preset="v4_listview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="listview" viewmode="detail">
+		<Column align="" title="" width="1000">
+		</Column>
+	</Widget>
+	<Widget flag="nonclient" frame="369,7,16,16" name="prev_html" preset="v4_back" type="button">
+	</Widget>
+	<Widget font_size="13" frame="199,179,52,27" padding="5,0" text="STR_TOYPET_TAME_DIALOG__NAME" type="static">
+	</Widget>
+	<Widget alphanumeric="False" frame="246,180,150,24" h_padding="4" name="name" preset="v4_editbox" type="editbox" v_padding="4">
+	</Widget>
+	<Widget font_size="13" frame="199,212,52,27" padding="5,0" text="STR_TOYPET_TAME_DIALOG__COLOR" type="static">
+	</Widget>
+	<Widget frame="253,216,26,26" h_pos_align="right" name="color1" preset="v4_toypet_color_button" style="colorbutton" type="button">
+	</Widget>
+	<Widget frame="288,216,26,26" h_pos_align="right" name="color2" preset="v4_toypet_color_button" style="colorbutton" type="button">
+	</Widget>
+	<Widget frame="323,216,26,26" h_pos_align="right" name="color3" preset="v4_toypet_color_button" style="colorbutton" type="button">
+	</Widget>
+	<Widget frame="323,246,26,26" h_pos_align="right" name="color6" preset="v4_toypet_color_button" style="colorbutton" type="button">
+	</Widget>
+	<Widget frame="288,246,26,26" h_pos_align="right" name="color5" preset="v4_toypet_color_button" style="colorbutton" type="button">
+	</Widget>
+	<Widget frame="253,246,26,26" h_pos_align="right" name="color4" preset="v4_toypet_color_button" style="colorbutton" type="button">
+	</Widget>
+	<Widget font_size="13" frame="199,282,52,27" padding="5,0" text="STR_TOYPET_TAME_DIALOG__ATTACH" type="static">
+	</Widget>
+	<Widget frame="246,284,151,24" name="attach" preset="v4_staticbox" type="combobox">
+	</Widget>
+	<Widget frame="4,102,195,276" type="image">
+		<Skin name="v4_staticbox_bg">
+		</Skin>
+	</Widget>
+	<Widget frame="5,171,194,207" name="portrait" type="3dview">
+		<Widget flag="not_enabled" frame="95,114,114,95" name="right_decoration" preset="v4_paperdoll_right_decoration" type="static" v_pos_align="bottom">
+		</Widget>
+		<Widget flag="not_enabled" frame="-19,114,114,95" name="left_decoration" preset="v4_paperdoll_left_decoration" type="static" v_pos_align="bottom">
+		</Widget>
+		<Widget frame="68,174,26,26" name="turnright" preset="v4_paperdoll_right" type="button" v_pos_align="bottom">
+		</Widget>
+		<Widget frame="94,174,26,26" name="turnleft" preset="v4_paperdoll_left" type="button" v_pos_align="bottom">
+		</Widget>
+	</Widget>
+</Dialog>

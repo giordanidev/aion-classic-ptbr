@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="5,7" flag="close;;title" frame="382,100,263,313" last_modified="2020-09-07 20:08:54" name="register_item_dialog" preset="v4_dialog2" title_align="center" title_frame="3,3,263,14" title_offset="0,5" title_text="STR_REGISTER_ITEM_DIALOG" type="dlg_register_item">
+	<Widget frame="196,267,60,26" h_pos_align="right" name="cancel" preset="v4_button" text="STR_REGISTER_ITEM_DIALOG__CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget defbutton="true" frame="137,267,60,26" h_pos_align="right" name="ok" preset="v4_button" text="STR_REGISTER_ITEM_DIALOG__OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget flag="multiline;wordwrap" frame="9,16,238,82" h_pos_align="proportion" halign="center" preset="v4_container" scroll_type="hidden" text="STR_REGISTER_ITEM_DIALOG__DESC" type="static" valign="middle">
+	</Widget>
+	<Widget cell_padding="2" cell_space="0,0" frame="9,122,238,139" h_pos_align="proportion" item_height="44" item_width="44" list_padding="3,3" name="register" preset="v4_listview_frame" reserve_slots="True" scroll_type="hidden" slot_num="3" type="listview" viewmode="detail">
+		<Column align="" title="" width="1000">
+		</Column>
+	</Widget>
+	<Widget frame="9,101,144,20" text="STR_REGISTER_ITEM_DIALOG__REGISTER_ITEM" type="static">
+	</Widget>
+	<Widget frame="4,270,22,22" name="inv" preset="v4_toypet_warehouse" tooltip="STR_TOYPET_INFO_DIALOG__WAREHOUSE_TOOLTIP_CUBE" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="sub" close_offset="10,5" flag="close;title" frame="300,200,260,289" last_modified="2020-09-07 20:08:54" name="ingame_shop_buy_dialog" preset="v4_msgbox" title_align="left" title_frame="3,3,254,14" title_offset="10,5" title_text="STR_INGAME_SHOP_BUY_DIALOG" type="dlg_ingame_shop_buy">
+	<Widget frame="3,10,243,71" preset="v4_container" type="image">
+	</Widget>
+	<Widget cell_padding="0" frame="6,14,64,64" item_height="64" item_width="64" name="item_slot" preset="v4_itemview" type="itemview">
+	</Widget>
+	<Widget flag="truncate" frame="75,22,164,18" halign="left" name="item_desc" type="static">
+	</Widget>
+	<Widget flag="multiline;wordwrap" frame="0,83,251,94" name="item_desc_long" type="htmlview">
+	</Widget>
+	<Widget frame="75,44,76,21" text="STR_INGAME_SHOP_BUY_DIALOG__PRICE" type="static">
+	</Widget>
+	<Widget flag="truncate" font="v3_money" frame="151,44,88,21" halign="right" name="item_price" padding="10,0" type="static">
+	</Widget>
+	<Widget frame="5,212,71,21" text="STR_INGAME_SHOP_BUY_DIALOG__CURRENT_CASH" type="static" v_pos_align="bottom">
+	</Widget>
+	<Widget font="v3_money" frame="78,212,168,21" halign="right" name="cur_money" padding="10,0" preset="v4_staticbox" type="static" v_pos_align="bottom">
+	</Widget>
+	<Widget frame="1,181,249,2" preset="v4_ruler" type="image" v_pos_align="bottom">
+	</Widget>
+	<Widget flag="multiline;wordwrap" frame="4,187,242,23" name="ipc_message" text="STR_INGAME_SHOP_BUY_DIALOG__MESSAGE" type="static" v_pos_align="bottom">
+	</Widget>
+	<Widget frame="122,239,63,26" name="ok" preset="v4_button" text="STR_INGAME_SHOP_BUY_DIALOG__OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget frame="186,239,63,26" name="cancel" preset="v4_button" text="STR_INGAME_SHOP_DIALOG__CLOSE" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

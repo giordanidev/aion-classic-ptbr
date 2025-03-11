@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="left" close_offset="4,1" close_preset="v5_close" flag="close;title" frame="100,200,416,568" last_modified="2014-08-22 12:58:42" name="screenshot_uploader_dialog" preset="v5_dialog2" shadow_offset="8,8" title_align="center" title_frame="3,3,468,14" title_height="25" title_offset="0,5" title_text="STR_SCREENSHOT_UPLOADER_DIALOG" type="dlg_screenshot_uploader" ui_mode="housing">
+	<Widget font="ui_default" frame="5,2,400,20" halign="left" padding="10,0" text="STR_SCREENSHOT_UPLOADER_DIALOG__TIP" type="static" valign="middle">
+	</Widget>
+	<Widget flag="multiline" frame="5,133,400,95" halign="center" text="STR_SCREENSHOT_BROWSER_DIALOG__NO_SCREENSHOT" type="static" valign="middle">
+	</Widget>
+	<Widget frame="5,26,400,300" name="image_static" type="image">
+	</Widget>
+	<Widget frame="0,20,411,312" preset="v5_screenshot_preview_frame" type="image">
+	</Widget>
+	<Widget font="ui_default" frame="266,512,70,23" name="upload" preset="v5_button" text="STR_SCREENSHOT_UPLOADER_DIALOG__UPLOAD" type="button">
+	</Widget>
+	<Widget font="ui_default" frame="339,512,70,23" name="cancel" preset="v5_button" text="STR_SCREENSHOT_UPLOADER_DIALOG__CANCEL" type="button">
+	</Widget>
+	<Widget frame="5,331,400,175" type="container">
+		<Widget font="ui_default" frame="10,4,29,20" halign="left" text="STR_SCREENSHOT_UPLOADER_DIALOG__TITLE" type="static" valign="middle">
+		</Widget>
+		<Widget font="ui_default" frame="10,26,29,20" halign="left" text="STR_SCREENSHOT_UPLOADER_DIALOG__CONTENT" type="static" valign="middle">
+		</Widget>
+		<Widget alphanumeric="False" font="ui_editbox" frame="42,4,348,20" h_padding="5" max_length="50" name="title" preset="v5_editbox" type="editbox" v_padding="5">
+		</Widget>
+		<Widget alphanumeric="False" flag="multiline;wordwrap" font="ui_editbox" frame="42,26,348,125" h_padding="5" max_length="1000" name="content" preset="v5_editbox" type="editbox" v_padding="5">
+		</Widget>
+		<Widget font="ui_default" frame="4,155,253,18" name="cb_avatarbook_image" preset="v5_check" style="checkbox" text="STR_SCREENSHOT_UPLOADER_DIALOG__AVATARBOOK_IMAGE" text_offset="3,0" tooltip="STR_SCREENSHOT_UPLOADER_DIALOG__TIP3" type="button" valign="middle">
+		</Widget>
+	</Widget>
+</Dialog>

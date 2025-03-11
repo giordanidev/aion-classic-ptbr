@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="10,1" close_preset="v5_close" flag="not_movable;title;close" frame="10,10,207,243" last_modified="2015-01-09 13:30:27" name="housing_container_dialog" shadow_offset="8,8" title_align="center" title_frame="3,3,201,14" title_height="25" title_offset="0,5" title_text="STR_HOUSING_CONTAINER_DIALOG" type="dlg_housing_container" ui_mode="not_game;housing">
+	<Widget frame="1,24,190,16" type="image">
+		<Skin name="v5_housing_seperator">
+		</Skin>
+	</Widget>
+	<Widget frame="1,173,190,16" type="image">
+		<Skin name="v5_housing_seperator">
+		</Skin>
+	</Widget>
+	<Skin name="v5_housing_container_frame" state="farme">
+	</Skin>
+	<Widget flag="nonclient" font="ui_static_title" frame="9,25,165,16" name="interior" type="static">
+	</Widget>
+	<Widget flag="nonclient" font="ui_static_title" frame="9,40,165,16" name="exterior" type="static">
+	</Widget>
+	<Widget cell_padding="2" cell_space="0,2" flag="vscroll" font="ui_list" frame="0,32,191,140" item_height="44" item_width="44" name="list" preset="v5_housing_listview" scroll_type="visible" skin_type="housing" slot_num="12" type="listview" viewmode="icon">
+	</Widget>
+	<Widget frame="165,179,26,23" item_height="30" item_width="30" name="trashcan" preset="v5_inv_trashcan" type="itemview">
+	</Widget>
+	<Widget font="ui_static_title" frame="3,182,61,18" halign="left" name="slot_count" type="static">
+	</Widget>
+</Dialog>

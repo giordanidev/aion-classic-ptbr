@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="3,3" close_preset="v5_attend_close" flag="close;title" frame="0,0,308,326" h_pos_align="proportion" last_modified="2020-06-01 15:21:05" name="botting_result_dialog" preset="v7_mission_bg_container" shadow_offset="0" title_align="center" title_frame="3,3,398,14" title_height="15" title_offset="0,8" title_text="STR_AUTOHUNT_RESULT_DIALOG_TITLE" type="dlg_botting_result" v_pos_align="proportion">
+	<Widget frame="8,19,292,238" preset="v7_mission_success_bg" type="container">
+		<Widget frame="5,6,282,227" preset="v5_staticbox2" type="image">
+		</Widget>
+		<Widget flag="truncate" font="ui_default" frame="9,13,85,23" halign="left" name="Temp1_static" text="STR_AUTOHUNT_DIALOG_RESULT_PLAY_TIME" text_shade="False" type="static">
+		</Widget>
+		<Widget font="v3_money" frame="108,13,170,24" halign="right" name="TotalTime_static" padding="5,0" preset="v5_staticbox" text_offset="5,0" type="static" valign="middle">
+		</Widget>
+		<Widget flag="truncate" font="ui_default" frame="9,40,85,23" halign="left" name="Temp2_static" text="STR_AUTOHUNT_DIALOG_RESULT_GET_XP" text_shade="False" type="static">
+		</Widget>
+		<Widget font="v3_money" frame="108,40,170,24" halign="right" name="TotalEXP_static" padding="5,0" preset="v5_staticbox" text_offset="5,0" type="static" valign="middle">
+		</Widget>
+		<Widget flag="truncate" font="ui_default" frame="9,67,85,23" halign="left" name="Temp3_static" text="STR_AUTOHUNT_DIALOG_RESULT_GET_QINA" text_shade="False" type="static">
+		</Widget>
+		<Widget font="v3_money" frame="108,67,170,24" halign="right" name="TotalMoney_static" padding="5,0" preset="v5_staticbox" text_offset="5,0" type="static" valign="middle">
+		</Widget>
+		<Widget flag="truncate" font="ui_default" frame="9,94,85,23" halign="left" name="Temp4_static" text="STR_AUTOHUNT_DIALOG_RESULT_KILL_MONSTER" text_shade="False" type="static">
+		</Widget>
+		<Widget font="v3_money" frame="108,94,170,24" halign="right" name="TotalKill_static" padding="5,0" preset="v5_staticbox" text_offset="5,0" type="static" valign="middle">
+		</Widget>
+		<Widget flag="truncate" font="ui_default" frame="9,121,85,23" halign="left" name="Temp5_static" text="STR_AUTOHUNT_DIALOG_RESULT_CLEAR_QUEST" text_shade="False" type="static">
+		</Widget>
+		<Widget font="v3_money" frame="108,121,170,24" halign="right" name="TotalQuest_static" padding="5,0" preset="v5_staticbox" text_offset="5,0" type="static" valign="middle">
+		</Widget>
+		<Widget flag="truncate" font="ui_default" frame="9,148,85,23" halign="left" name="Temp6_static" text="STR_AUTOHUNT_DIALOG_RESULT_GET_ITEM" text_shade="False" type="static">
+		</Widget>
+		<Widget font="v3_money" frame="108,148,144,24" halign="right" name="TotalItem_static" padding="5,0" preset="v5_staticbox" text_offset="5,0" type="static" valign="middle">
+		</Widget>
+		<Widget frame="256,150,19,19" name="ItemList_button" preset="v5_magnifier" type="button">
+		</Widget>
+		<Widget flag="truncate" font="ui_default" frame="9,175,85,23" halign="left" name="Temp7_static" text="STR_AUTOHUNT_DIALOG_RESULT_GET_AP" text_shade="False" type="static">
+		</Widget>
+		<Widget font="v3_money" frame="108,175,170,24" halign="right" name="TotalAP_static" padding="5,0" preset="v5_staticbox" text_offset="5,0" type="static" valign="middle">
+		</Widget>
+		<Widget flag="truncate" font="ui_default" frame="9,202,85,23" halign="left" name="Temp8_static" text="STR_AUTOHUNT_DIALOG_RESULT_GET_GP" text_shade="False" type="static">
+		</Widget>
+		<Widget font="v3_money" frame="108,202,170,24" halign="right" name="TotalGP_static" padding="5,0" preset="v5_staticbox" text_offset="5,0" type="static" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget font="ui_default" frame="103,262,103,40" name="ok_button" preset="shop_buy_btn2" text="STR_OK" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

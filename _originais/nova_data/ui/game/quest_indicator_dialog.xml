@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="" frame="1085,2,195,514" h_pos_align="right" last_modified="2020-09-07 20:08:54" name="quest_indicator_dialog" title_frame="3,3,189,14" type="dlg_quest_indicator" v_pos_align="middle">
+	<Widget flag="not_visible" frame="0,0,195,58" name="quest1" type="container">
+		<Widget flag="not_active;truncate" font="v3_quest_indicator_title" frame="23,0,172,28" halign="left" name="title" scroll_type="hidden" type="static" valign="middle">
+		</Widget>
+		<Widget frame="0,0,22,28" name="bullet" preset="v4_quest_ind_bullet" type="image">
+		</Widget>
+		<Widget flag="not_active" frame="0,17,195,41" name="htmltext" scroll_type="hidden" text_shade="True" type="htmlview">
+		</Widget>
+		<Widget frame="174,4,20,20" name="menu" preset="v4_quest_ind_menu" type="button">
+		</Widget>
+		<Widget frame="152,4,20,20" name="open" preset="v4_quest_ind_expand" type="button">
+		</Widget>
+		<Widget frame="130,4,20,20" name="fix_bg" type="image">
+			<Skin name="v4_quest_ind_check_over">
+			</Skin>
+		</Widget>
+		<Widget frame="130,4,20,20" name="fix" preset="v4_quest_ind_check" type="button">
+		</Widget>
+	</Widget>
+	<Widget flag="not_visible" frame="0,57,195,58" name="quest2" type="container">
+		<Widget flag="not_active;truncate" font="v3_quest_indicator_title" frame="23,0,172,28" halign="left" name="title" scroll_type="hidden" type="static" valign="middle">
+		</Widget>
+		<Widget frame="0,0,22,28" name="bullet" preset="v4_quest_ind_bullet" type="image">
+		</Widget>
+		<Widget flag="not_active" frame="0,17,195,41" name="htmltext" scroll_type="hidden" text_shade="True" type="htmlview">
+		</Widget>
+		<Widget frame="174,4,20,20" name="menu" preset="v4_quest_ind_menu" type="button">
+		</Widget>
+		<Widget frame="152,4,20,20" name="open" preset="v4_quest_ind_expand" type="button">
+		</Widget>
+		<Widget frame="130,4,20,20" name="fix_bg" type="image">
+			<Skin name="v4_quest_ind_check_over">
+			</Skin>
+		</Widget>
+		<Widget frame="130,4,20,20" name="fix" preset="v4_quest_ind_check" type="button">
+		</Widget>
+	</Widget>
+	<Widget flag="not_visible" frame="0,114,195,58" name="quest3" type="container">
+		<Widget flag="not_active;truncate" font="v3_quest_indicator_title" frame="23,0,172,28" halign="left" name="title" scroll_type="hidden" type="static" valign="middle">
+		</Widget>
+		<Widget frame="0,0,22,28" name="bullet" preset="v4_quest_ind_bullet" type="image">
+		</Widget>
+		<Widget flag="not_active" frame="0,17,195,41" name="htmltext" scroll_type="hidden" text_shade="True" type="htmlview">
+		</Widget>
+		<Widget frame="174,4,20,20" name="menu" preset="v4_quest_ind_menu" type="button">
+		</Widget>
+		<Widget frame="152,4,20,20" name="open" preset="v4_quest_ind_expand" type="button">
+		</Widget>
+		<Widget frame="130,4,20,20" name="fix_bg" type="image">
+			<Skin name="v4_quest_ind_check_over">
+			</Skin>
+		</Widget>
+		<Widget frame="130,4,20,20" name="fix" preset="v4_quest_ind_check" type="button">
+		</Widget>
+	</Widget>
+	<Widget flag="not_visible" frame="0,171,195,58" name="quest4" type="container">
+		<Widget flag="not_active;truncate" font="v3_quest_indicator_title" frame="23,0,172,28" halign="left" name="title" scroll_type="hidden" type="static" valign="middle">
+		</Widget>
+		<Widget frame="0,0,22,28" name="bullet" preset="v4_quest_ind_bullet" type="image">
+		</Widget>
+		<Widget flag="not_active" frame="0,17,195,41" name="htmltext" scroll_type="hidden" text_shade="True" type="htmlview">
+		</Widget>
+		<Widget frame="174,4,20,20" name="menu" preset="v4_quest_ind_menu" type="button">
+		</Widget>
+		<Widget frame="152,4,20,20" name="open" preset="v4_quest_ind_expand" type="button">
+		</Widget>
+		<Widget frame="130,4,20,20" name="fix_bg" type="image">
+			<Skin name="v4_quest_ind_check_over">
+			</Skin>
+		</Widget>
+		<Widget frame="130,4,20,20" name="fix" preset="v4_quest_ind_check" type="button">
+		</Widget>
+	</Widget>
+	<Widget flag="not_visible" frame="0,228,195,58" name="quest5" type="container">
+		<Widget flag="not_active;truncate" font="v3_quest_indicator_title" frame="23,0,172,28" halign="left" name="title" scroll_type="hidden" type="static" valign="middle">
+		</Widget>
+		<Widget frame="0,0,22,28" name="bullet" preset="v4_quest_ind_bullet" type="image">
+		</Widget>
+		<Widget flag="not_active" frame="0,17,195,41" name="htmltext" scroll_type="hidden" text_shade="True" type="htmlview">
+		</Widget>
+		<Widget frame="174,4,20,20" name="menu" preset="v4_quest_ind_menu" type="button">
+		</Widget>
+		<Widget frame="152,4,20,20" name="open" preset="v4_quest_ind_expand" type="button">
+		</Widget>
+		<Widget frame="130,4,20,20" name="fix_bg" type="image">
+			<Skin name="v4_quest_ind_check_over">
+			</Skin>
+		</Widget>
+		<Widget frame="130,4,20,20" name="fix" preset="v4_quest_ind_check" type="button">
+		</Widget>
+	</Widget>
+	<Widget flag="not_visible" frame="0,285,195,58" name="quest6" type="container">
+		<Widget flag="not_active;truncate" font="v3_quest_indicator_title" frame="23,0,172,28" halign="left" name="title" scroll_type="hidden" type="static" valign="middle">
+		</Widget>
+		<Widget frame="0,0,22,28" name="bullet" preset="v4_quest_ind_bullet" type="image">
+		</Widget>
+		<Widget flag="not_active" frame="0,17,195,41" name="htmltext" scroll_type="hidden" text_shade="True" type="htmlview">
+		</Widget>
+		<Widget frame="174,4,20,20" name="menu" preset="v4_quest_ind_menu" type="button">
+		</Widget>
+		<Widget frame="152,4,20,20" name="open" preset="v4_quest_ind_expand" type="button">
+		</Widget>
+		<Widget frame="130,4,20,20" name="fix_bg" type="image">
+			<Skin name="v4_quest_ind_check_over">
+			</Skin>
+		</Widget>
+		<Widget frame="130,4,20,20" name="fix" preset="v4_quest_ind_check" type="button">
+		</Widget>
+	</Widget>
+	<Widget flag="not_visible" frame="0,342,195,58" name="quest7" type="container">
+		<Widget flag="not_active;truncate" font="v3_quest_indicator_title" frame="23,0,172,28" halign="left" name="title" scroll_type="hidden" type="static" valign="middle">
+		</Widget>
+		<Widget frame="0,0,22,28" name="bullet" preset="v4_quest_ind_bullet" type="image">
+		</Widget>
+		<Widget flag="not_active" frame="0,17,195,41" name="htmltext" scroll_type="hidden" text_shade="True" type="htmlview">
+		</Widget>
+		<Widget frame="174,4,20,20" name="menu" preset="v4_quest_ind_menu" type="button">
+		</Widget>
+		<Widget frame="152,4,20,20" name="open" preset="v4_quest_ind_expand" type="button">
+		</Widget>
+		<Widget frame="130,4,20,20" name="fix_bg" type="image">
+			<Skin name="v4_quest_ind_check_over">
+			</Skin>
+		</Widget>
+		<Widget frame="130,4,20,20" name="fix" preset="v4_quest_ind_check" type="button">
+		</Widget>
+	</Widget>
+	<Widget flag="not_visible" frame="0,399,195,58" name="quest8" type="container">
+		<Widget flag="not_active;truncate" font="v3_quest_indicator_title" frame="23,0,172,28" halign="left" name="title" scroll_type="hidden" type="static" valign="middle">
+		</Widget>
+		<Widget frame="0,0,22,28" name="bullet" preset="v4_quest_ind_bullet" type="image">
+		</Widget>
+		<Widget flag="not_active" frame="0,17,195,41" name="htmltext" scroll_type="hidden" text_shade="True" type="htmlview">
+		</Widget>
+		<Widget frame="174,4,20,20" name="menu" preset="v4_quest_ind_menu" type="button">
+		</Widget>
+		<Widget frame="152,4,20,20" name="open" preset="v4_quest_ind_expand" type="button">
+		</Widget>
+		<Widget frame="130,4,20,20" name="fix_bg" type="image">
+			<Skin name="v4_quest_ind_check_over">
+			</Skin>
+		</Widget>
+		<Widget frame="130,4,20,20" name="fix" preset="v4_quest_ind_check" type="button">
+		</Widget>
+	</Widget>
+	<Widget flag="not_visible" frame="0,456,195,58" name="quest9" type="container">
+		<Widget flag="not_active;truncate" font="v3_quest_indicator_title" frame="23,0,172,28" halign="left" name="title" scroll_type="hidden" type="static" valign="middle">
+		</Widget>
+		<Widget frame="0,0,22,28" name="bullet" preset="v4_quest_ind_bullet" type="image">
+		</Widget>
+		<Widget flag="not_active" frame="0,17,195,41" name="htmltext" scroll_type="hidden" text_shade="True" type="htmlview">
+		</Widget>
+		<Widget frame="174,4,20,20" name="menu" preset="v4_quest_ind_menu" type="button">
+		</Widget>
+		<Widget frame="152,4,20,20" name="open" preset="v4_quest_ind_expand" type="button">
+		</Widget>
+		<Widget frame="130,4,20,20" name="fix_bg" type="image">
+			<Skin name="v4_quest_ind_check_over">
+			</Skin>
+		</Widget>
+		<Widget frame="130,4,20,20" name="fix" preset="v4_quest_ind_check" type="button">
+		</Widget>
+	</Widget>
+</Dialog>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="not_movable;transparent;not_active" frame="381,915,517,44" h_pos_align="center" last_modified="2020-09-07 20:08:54" name="quickbar_dialog_alt" type="dlg_shortcut_alt" v_pos_align="bottom">
+	<Widget flag="transparent" frame="0,0,517,44" type="container">
+		<Widget cell_padding="2" font="v3_shortcut" frame="0,0,44,44" item_height="44" item_width="44" name="shortcut1" one_click_action="True" preset="v4_quickbar_slot" type="itemview">
+		</Widget>
+		<Widget cell_padding="2" font="v3_shortcut" frame="43,0,44,44" item_height="44" item_width="44" name="shortcut2" one_click_action="True" preset="v4_quickbar_slot" type="itemview">
+		</Widget>
+		<Widget cell_padding="2" font="v3_shortcut" frame="86,0,44,44" item_height="44" item_width="44" name="shortcut3" one_click_action="True" preset="v4_quickbar_slot" type="itemview">
+		</Widget>
+		<Widget cell_padding="2" font="v3_shortcut" frame="129,0,44,44" item_height="44" item_width="44" name="shortcut4" one_click_action="True" preset="v4_quickbar_slot" type="itemview">
+		</Widget>
+		<Widget cell_padding="2" font="v3_shortcut" frame="172,0,44,44" item_height="44" item_width="44" name="shortcut5" one_click_action="True" preset="v4_quickbar_slot" type="itemview">
+		</Widget>
+		<Widget cell_padding="2" font="v3_shortcut" frame="215,0,44,44" item_height="44" item_width="44" name="shortcut6" one_click_action="True" preset="v4_quickbar_slot" type="itemview">
+		</Widget>
+		<Widget cell_padding="2" font="v3_shortcut" frame="258,0,44,44" item_height="44" item_width="44" name="shortcut7" one_click_action="True" preset="v4_quickbar_slot" type="itemview">
+		</Widget>
+		<Widget cell_padding="2" font="v3_shortcut" frame="301,0,44,44" item_height="44" item_width="44" name="shortcut8" one_click_action="True" preset="v4_quickbar_slot" type="itemview">
+		</Widget>
+		<Widget cell_padding="2" font="v3_shortcut" frame="344,0,44,44" item_height="44" item_width="44" name="shortcut9" one_click_action="True" preset="v4_quickbar_slot" type="itemview">
+		</Widget>
+		<Widget cell_padding="2" font="v3_shortcut" frame="387,0,44,44" item_height="44" item_width="44" name="shortcut10" one_click_action="True" preset="v4_quickbar_slot" type="itemview">
+		</Widget>
+		<Widget cell_padding="2" font="v3_shortcut" frame="430,0,44,44" item_height="44" item_width="44" name="shortcut11" one_click_action="True" preset="v4_quickbar_slot" type="itemview">
+		</Widget>
+		<Widget cell_padding="2" font="v3_shortcut" frame="473,0,44,44" item_height="44" item_width="44" name="shortcut12" one_click_action="True" preset="v4_quickbar_slot" type="itemview">
+		</Widget>
+	</Widget>
+</Dialog>

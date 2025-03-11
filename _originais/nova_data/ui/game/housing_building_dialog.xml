@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="transparent;not_movable" frame="286,788,839,136" h_pos_align="center" last_modified="2014-08-22 12:58:41" name="housing_building_dialog" type="dlg_housing_building" ui_mode="housing_building;not_game" v_pos_align="bottom">
+	<Widget flag="active" frame="0,0,774,136" name="list" type="container">
+		<Skin name="v5_housing_building_frame">
+		</Skin>
+		<Widget frame="5,25,38,82" h_pos_align="left" name="prev" preset="v5_housing_prev" type="button">
+		</Widget>
+		<Widget frame="731,25,38,82" name="next" preset="v5_housing_next" type="button">
+		</Widget>
+		<Widget flag="active" frame="51,3,128,128" name="slot1" type="button">
+		</Widget>
+		<Widget flag="active" frame="187,3,128,128" name="slot2" type="button">
+		</Widget>
+		<Widget flag="active" frame="323,3,128,128" name="slot3" type="button">
+		</Widget>
+		<Widget flag="active" frame="459,3,128,128" name="slot4" type="button">
+		</Widget>
+		<Widget flag="active" frame="595,3,128,128" name="slot5" type="button">
+		</Widget>
+		<Widget frame="46,7,2,122" name="sep1" preset="v5_ruler_v" type="image">
+		</Widget>
+		<Widget frame="182,7,2,122" name="sep2" preset="v5_ruler_v" type="image">
+		</Widget>
+		<Widget frame="318,7,2,122" name="sep3" preset="v5_ruler_v" type="image">
+		</Widget>
+		<Widget frame="454,7,2,122" name="sep4" preset="v5_ruler_v" type="image">
+		</Widget>
+		<Widget frame="590,7,2,122" name="sep5" preset="v5_ruler_v" type="image">
+		</Widget>
+		<Widget frame="726,7,2,122" name="sep6" preset="v5_ruler_v" type="image">
+		</Widget>
+		<Widget flag="not_visible" frame="2,144,128,128" name="over" type="image">
+			<Skin name="v5_housing_select" state="0">
+			</Skin>
+		</Widget>
+		<Widget flag="not_visible" frame="131,144,128,128" name="select" type="image">
+			<Skin name="v5_housing_select" state="0">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget flag="active" frame="781,0,60,135" name="func" type="container">
+		<Skin name="v5_housing_building_frame">
+		</Skin>
+		<Widget frame="10,11,41,45" name="help" preset="v5_housing_help" tooltip="STR_HOUSING_INFO_DIALOG__TOOLTIP_HELP" type="button">
+		</Widget>
+		<Widget frame="10,79,41,45" name="end" preset="v5_housing_end" tooltip="STR_HOUSING_INFO_DIALOG__TOOLTIP_END" type="button">
+		</Widget>
+		<Widget frame="6,67,47,2" preset="v5_ruler" type="image">
+		</Widget>
+	</Widget>
+</Dialog>

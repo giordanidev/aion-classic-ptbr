@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="not_visible;active" frame="100,100,207,207" last_modified="2015-06-22 17:01:58" margin="2,2,2,2" name="ringpopup_proto_item_dialog" shadow_offset="8,8" title_align="center" title_frame="3,3,296,14" title_height="25" title_offset="10,2" type="dlg_ringpopup_proto_item">
+	<Widget flag="nonclient" frame="0,0,207,207" name="bg" preset="v5_ring_menu_bg" type="image">
+	</Widget>
+	<Widget flag="nonclient" frame="0,0,207,207" name="bg_mirrored" preset="v5_ring_menu_bg_mirror" type="image">
+	</Widget>
+	<Widget flag="nonclient;not_active" font="ui_default" frame="77,9,54,54" name="item" preset="v5_ring_menu_btn_equip" type="button">
+	</Widget>
+	<Widget flag="nonclient" frame="0,0,207,207" name="over_image" preset="v5_ring_menu_over" type="image">
+	</Widget>
+	<Widget flag="nonclient;active" font="ui_default" frame="102,-2,25,28" name="sub_item" preset="v5_ring_menu_btn_equip" type="button">
+	</Widget>
+	<Widget frame="99,93,46,4" name="inner_radius" type="container">
+	</Widget>
+	<Widget frame="99,101,71,4" name="aligned_radius" type="container">
+	</Widget>
+	<Widget frame="99,97,100,4" name="outer_radius" type="container">
+	</Widget>
+</Dialog>

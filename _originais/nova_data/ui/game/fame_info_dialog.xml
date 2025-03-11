@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="close;title" frame="730,200,404,476" last_modified="2019-10-28 13:57:01" name="Fame_info_dialog" preset="v5_dialog2" title_frame="3,3,-6,14" title_offset="0,5" title_text="STR_FAME_DIALOG__TITEL" type="dlg_fame_info">
+	<Widget flag="not_active" frame="0,0,400,414" h_pos_align="proportion" type="image" v_pos_align="proportion">
+		<Skin name="v5_container_bg5">
+		</Skin>
+	</Widget>
+	<Widget frame="3,4,393,33" halign="left" text="STR_FAME_DIALOG__LEVEL" type="static" z="1">
+	</Widget>
+	<Widget column_heading="False" flag="truncate;vscroll" font="v3_quest_list" frame="4,30,392,211" header_height="25" item_height="21" item_num="3" item_padding="5" list_padding="0,3" name="fame_info_list" preset="v5_listview_ex" scroll_type="visible" type="listviewex">
+		<Column align="left" img_width="" sample_text="라크룸 지역" sort="param" title="fame_group_name" width="100">
+		</Column>
+		<Column align="left" img_width="" sample_text="Lv.99" sort="none" title="fame_group_level" width="60">
+		</Column>
+		<Column align="center" has_gauge="True" img_width="180" sort="none" title="fame_group_exp" width="200">
+		</Column>
+	</Widget>
+	<Widget frame="3,247,393,33" halign="left" text="STR_FAME_DIALOG__DESC" type="static" z="1">
+	</Widget>
+	<Widget flag="active;vscroll;multiline" font="ui_static_value" font_size="12" frame="4,272,392,139" h_pos_align="proportion" name="fame_group_desc" padding="0,5" preset="v5_staticbox4" scroll_type="auto" skin_type="default" type="htmlview" v_pos_align="top">
+	</Widget>
+	<Widget frame="326,419,70,24" h_pos_align="right" name="cancel" preset="v5_button" text="STR_DLG_DIALOG__CLOSE" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

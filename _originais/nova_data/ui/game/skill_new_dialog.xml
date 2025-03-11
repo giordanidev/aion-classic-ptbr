@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="close;title" frame="287,130,993,588" last_modified="2014-11-20 16:09:35" name="skill_new_dialog" preset="v5_dialog" title_frame="3,3,987,14" title_height="23" title_text="STR_SKILL_DIALOG" type="dlg_skill_new">
+	<Widget anim_style="none" frame="0,0,987,565" h_pos_align="proportion" name="tabsheet" type="tabsheet" v_pos_align="proportion">
+		<Widget btn_move_anim="False" frame="0,0,987,25" h_pos_align="proportion" name="tab" preset="v5_tab" tab_frame="0,0,405,25" tab_offset="6,0" tab_space="0" type="tab">
+			<Widget font="ui_default" frame="5,0,60,25" name="skill_tab_active" preset="v5_tabbutton" text="STR_SKILL_DIALOG__TABFRAME_SKILL_TAB_ACTIVE" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="64,0,60,25" name="skill_tab_passive" preset="v5_tabbutton" text="STR_SKILL_DIALOG__TABFRAME_SKILL_TAB_PASSIVE" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="124,0,86,25" name="skill_tab_chainskill" preset="v5_tabbutton" text="STR_SKILL_DIC_DIALOG__CHAINSKILL" type="tabbutton">
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,987,540" h_pos_align="proportion" name="page_active" preset="v5_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget cell_padding="0,0" flag="vscroll" font="ui_list" frame="2,26,491,481" group_title_height="22" group_title_offset="10" has_header="true" header_font="v3_columnhead" header_height="24" item_height="44" margin="3,3" name="active_skill_list_ex" preset="v5_itemgrouplist" reserve_group="true" reserve_item="false" scroll_type="visible" skin_type="version5" slot_padding="2,2" slot_size="44,44" slot_spacing="5" type="itemgrouplist">
+				<Group has_title="True" name="new_skill_group" slot_num="2">
+				</Group>
+				<Group has_title="True" name="levelup_skill_group" slot_num="2">
+				</Group>
+				<Group has_title="True" name="normal_group" slot_num="10">
+				</Group>
+				<Column align="left" name="name" sort="text" title="STR_SKILL_DIALOG__TABFRAME_SKILL_TAB_ACTIVE_SKILL_NAME" width="178">
+				</Column>
+				<Column align="center" name="learn" sort="param" title="STR_SKILL_DIALOG__TABFRAME_SKILL_TAB_ACTIVE_SKILL_TYPE" width="60">
+				</Column>
+				<Column align="center" name="type" sort="param" title="STR_SKILL_DIALOG__COLUMN_TYPE" width="90">
+				</Column>
+				<Column align="center" name="tag" sort="text" title="STR_SKILL_DIALOG__COLUMN_SKILL_TYPE" width="80">
+				</Column>
+				<Column align="center" name="shortcut" sort="param" title="STR_SKILL_DIALOG__COLUMN_SHORTCUT" width="60">
+				</Column>
+			</Widget>
+			<Widget font="ui_default" frame="3,512,123,23" name="active_filter_all" preset="v5_check" style="checkbox" text="STR_SKILL_DIALOG__SHOW_ALL_SKILL" text_offset="3,0" type="button">
+			</Widget>
+			<Widget frame="496,26,490,483" type="container">
+				<Skin name="v5_skill_detail_bg">
+				</Skin>
+				<Widget frame="200,2,70,20" halign="center" text="STR_SKILL_DIALOG__SKILL_DETAIL_INFO" type="static">
+				</Widget>
+				<Widget frame="110,114,256,256" name="active_bg" preset="v5_skill_detail_bg_image" type="image">
+				</Widget>
+				<Widget flag="vscroll" frame="7,23,475,450" h_pos_align="left" margin="10" name="active_detail" scroll_type="visible" step="40" type="scrollable">
+					<Widget flag="not_visible" frame="0,11,440,165" name="skill_desc_info" type="container">
+						<Widget frame="181,30,74,74" type="image" v_pos_align="bottom">
+							<Skin name="v5_skill_detail_slot_bg">
+							</Skin>
+						</Widget>
+						<Widget font="skill_detail_title" frame="12,1,414,24" name="skill_desc" type="htmlview">
+						</Widget>
+						<Widget cell_padding="0" frame="198,48,40,40" item_height="40" item_width="40" name="skill_icon" preset="v5_deco_itemview" type="itemview" v_pos_align="bottom">
+						</Widget>
+						<Widget frame="255,103,18,21" name="next_tier" preset="v5_skill_tier_up" type="button" v_pos_align="bottom">
+						</Widget>
+						<Widget frame="164,103,18,21" name="prev_tier" preset="v5_skill_tier_down" type="button" v_pos_align="bottom">
+						</Widget>
+						<Widget font="skill_detail_tier" frame="184,103,70,20" halign="center" name="skill_tier" type="static" v_pos_align="bottom">
+						</Widget>
+						<Widget font="skill_detail_learn_level" frame="53,143,132,20" halign="center" name="skill_learn_level" type="static" v_pos_align="bottom" valign="middle">
+						</Widget>
+						<Widget font="skill_detail_minmax_tier" frame="16,123,88,20" halign="right" name="skill_min_tier" type="static" v_pos_align="bottom" valign="middle">
+						</Widget>
+						<Widget font="skill_detail_minmax_tier" frame="340,123,94,20" halign="left" name="skill_max_tier" type="static" v_pos_align="bottom" valign="middle">
+						</Widget>
+						<Widget frame="117,127,210,13" name="skill_tier_gauge" preset="v5_skill_tier_gauge" type="gauge" v_pos_align="bottom">
+						</Widget>
+						<Widget align="horizontal" frame="105,122,234,22" knob_size="20,20" name="skill_tier_slider" preset="v5_skill_tier_slider" slide_rect="11,6,212,10" step="5" type="slide" v_pos_align="bottom">
+						</Widget>
+					</Widget>
+					<Widget flag="not_visible" frame="0,177,440,102" margin="10,0" name="skill_info" type="container">
+						<Widget flag="nonclient" font="skill_detail_subtitle" frame="31,3,88,21" halign="center" text="STR_SKILL_DIALOG__SKILL_DETAIL_SKILL_INFO" type="static">
+						</Widget>
+						<Widget flag="nonclient" frame="3,9,21,6" type="image">
+							<Skin name="v5_skill_detail_ruler_left">
+							</Skin>
+						</Widget>
+						<Widget flag="nonclient" frame="127,9,21,6" type="image">
+							<Skin name="v5_skill_detail_ruler_right">
+							</Skin>
+						</Widget>
+						<Widget flag="nonclient" frame="153,12,271,2" type="image">
+							<Skin name="v5_skill_detail_ruler_line">
+							</Skin>
+						</Widget>
+					</Widget>
+					<Widget flag="not_visible" frame="0,278,440,102" name="skill_chain_info" type="container">
+						<Widget flag="nonclient" font="skill_detail_subtitle" frame="31,3,88,21" halign="center" text="STR_SKILL_DIALOG__SKILL_DETAIL_CHAIN_INFO" type="static">
+						</Widget>
+						<Widget flag="nonclient" frame="3,9,21,6" type="image">
+							<Skin name="v5_skill_detail_ruler_left">
+							</Skin>
+						</Widget>
+						<Widget flag="nonclient" frame="127,9,21,6" type="image">
+							<Skin name="v5_skill_detail_ruler_right">
+							</Skin>
+						</Widget>
+						<Widget flag="nonclient" frame="153,12,271,2" type="image">
+							<Skin name="v5_skill_detail_ruler_line">
+							</Skin>
+						</Widget>
+					</Widget>
+				</Widget>
+			</Widget>
+			<Widget font="ui_combo" frame="3,2,138,22" max_items="5" name="active_filter" preset="v5_staticbox3" type="combobox">
+				<Items>
+					<Item name="STR_SKILL_DIALOG__FILTER_ALL">
+					</Item>
+					<Item name="STR_SKILL_DIALOG__FILTER_NORMAL">
+					</Item>
+					<Item name="STR_SKILL_DIALOG__FILTER_STIGMA">
+					</Item>
+					<Item name="STR_SKILL_DIALOG__FILTER_ITEM">
+					</Item>
+					<Item name="STR_SKILL_DIALOG__FILTER_ABYSS">
+					</Item>
+				</Items>
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,987,540" h_pos_align="proportion" name="page_passive" preset="v5_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget cell_padding="0,0" flag="vscroll" font="ui_list" frame="2,26,491,481" group_title_height="22" group_title_offset="10" h_pos_align="proportion" has_header="true" header_font="v3_columnhead" header_height="24" item_height="44" margin="3,3" name="passive_skill_list_ex" preset="v5_itemgrouplist" reserve_group="true" reserve_item="false" scroll_type="visible" skin_type="version5" slot_padding="2,2" slot_size="44,44" slot_spacing="5" type="itemgrouplist" v_pos_align="proportion">
+				<Group has_title="True" name="new_skill_group" slot_num="2">
+				</Group>
+				<Group has_title="True" name="levelup_skill_group" slot_num="2">
+				</Group>
+				<Group has_title="True" name="normal_group" slot_num="10">
+				</Group>
+				<Column align="left" name="name" sort="text" title="STR_SKILL_DIALOG__TABFRAME_SKILL_TAB_ACTIVE_SKILL_NAME" width="368">
+				</Column>
+				<Column align="center" name="learn" sort="param" title="STR_SKILL_DIALOG__TABFRAME_SKILL_TAB_ACTIVE_SKILL_TYPE" width="100">
+				</Column>
+			</Widget>
+			<Widget font="ui_default" frame="3,512,123,23" name="passive_filter_all" preset="v5_check" style="checkbox" text="STR_SKILL_DIALOG__SHOW_ALL_SKILL" text_offset="3,0" type="button">
+			</Widget>
+			<Widget font="ui_combo" frame="3,2,138,22" max_items="4" name="passive_filter" preset="v5_staticbox3" type="combobox">
+				<Items>
+					<Item name="STR_MAILBOX_DIALOG__TABFRAME_BTN_SELECT_ALL_MAIL">
+					</Item>
+					<Item name="STR_VENDOR_DIALOG__SEARCH_QUALITY_NORMAL">
+					</Item>
+					<Item name="STR_SKILL_DIALOG__TABFRAME_SKILL_TAB_STIGMA">
+					</Item>
+					<Item name="STR_VENDOR_DIALOG__VENDOR_TAB_FRAME_COLUMN_NAME">
+					</Item>
+				</Items>
+			</Widget>
+			<Widget frame="496,26,490,483" type="container">
+				<Skin name="v5_skill_detail_bg">
+				</Skin>
+				<Widget frame="200,2,70,20" halign="center" text="STR_SKILL_DIALOG__SKILL_DETAIL_INFO" type="static">
+				</Widget>
+				<Widget frame="110,114,256,256" name="passive_bg" preset="v5_skill_detail_bg_image" type="image">
+				</Widget>
+				<Widget flag="vscroll" frame="7,23,475,450" h_pos_align="left" margin="10" name="passive_detail" scroll_type="visible" step="40" type="scrollable">
+					<Widget flag="not_visible" frame="0,11,440,165" name="skill_desc_info" type="container">
+						<Widget frame="181,30,74,74" type="image" v_pos_align="bottom">
+							<Skin name="v5_skill_detail_slot_bg">
+							</Skin>
+						</Widget>
+						<Widget font="skill_detail_title" frame="12,1,414,24" name="skill_desc" type="htmlview">
+						</Widget>
+						<Widget cell_padding="0" frame="198,48,40,40" item_height="40" item_width="40" name="skill_icon" preset="v5_deco_itemview" type="itemview" v_pos_align="bottom">
+						</Widget>
+						<Widget frame="255,103,18,21" name="next_tier" preset="v5_skill_tier_up" type="button" v_pos_align="bottom">
+						</Widget>
+						<Widget frame="164,103,18,21" name="prev_tier" preset="v5_skill_tier_down" type="button" v_pos_align="bottom">
+						</Widget>
+						<Widget font="skill_detail_tier" frame="184,103,70,20" halign="center" name="skill_tier" type="static" v_pos_align="bottom">
+						</Widget>
+						<Widget font="skill_detail_learn_level" frame="53,143,132,20" halign="center" name="skill_learn_level" type="static" v_pos_align="bottom" valign="middle">
+						</Widget>
+						<Widget font="skill_detail_minmax_tier" frame="16,123,88,20" halign="right" name="skill_min_tier" type="static" v_pos_align="bottom" valign="middle">
+						</Widget>
+						<Widget font="skill_detail_minmax_tier" frame="340,123,94,20" halign="left" name="skill_max_tier" type="static" v_pos_align="bottom" valign="middle">
+						</Widget>
+						<Widget frame="117,127,210,13" name="skill_tier_gauge" preset="v5_skill_tier_gauge" type="gauge" v_pos_align="bottom">
+						</Widget>
+						<Widget align="horizontal" frame="105,122,234,22" knob_size="20,20" name="skill_tier_slider" preset="v5_skill_tier_slider" slide_rect="11,6,212,10" step="5" type="slide" v_pos_align="bottom">
+						</Widget>
+					</Widget>
+					<Widget flag="not_visible" frame="0,177,440,102" margin="10,0" name="skill_info" type="container">
+						<Widget flag="nonclient" font="skill_detail_subtitle" frame="31,3,88,21" halign="center" text="STR_SKILL_DIALOG__SKILL_DETAIL_SKILL_INFO" type="static">
+						</Widget>
+						<Widget flag="nonclient" frame="3,9,21,6" type="image">
+							<Skin name="v5_skill_detail_ruler_left">
+							</Skin>
+						</Widget>
+						<Widget flag="nonclient" frame="127,9,21,6" type="image">
+							<Skin name="v5_skill_detail_ruler_right">
+							</Skin>
+						</Widget>
+						<Widget flag="nonclient" frame="153,12,271,2" type="image">
+							<Skin name="v5_skill_detail_ruler_line">
+							</Skin>
+						</Widget>
+					</Widget>
+					<Widget flag="not_visible" frame="0,278,440,102" name="skill_chain_info" type="container">
+						<Widget flag="nonclient" font="skill_detail_subtitle" frame="31,3,88,21" halign="center" text="STR_SKILL_DIALOG__SKILL_DETAIL_CHAIN_INFO" type="static">
+						</Widget>
+						<Widget flag="nonclient" frame="3,9,21,6" type="image">
+							<Skin name="v5_skill_detail_ruler_left">
+							</Skin>
+						</Widget>
+						<Widget flag="nonclient" frame="127,9,21,6" type="image">
+							<Skin name="v5_skill_detail_ruler_right">
+							</Skin>
+						</Widget>
+						<Widget flag="nonclient" frame="153,12,271,2" type="image">
+							<Skin name="v5_skill_detail_ruler_line">
+							</Skin>
+						</Widget>
+					</Widget>
+				</Widget>
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,987,540" h_pos_align="proportion" name="page_chainskill" preset="v5_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget frame="0,0,986,509" type="container">
+				<Skin name="v5_skill_chainskill_bg">
+				</Skin>
+				<Widget frame="458,2,70,20" halign="center" text="STR_SKILL_DIALOG__SKILL_DETAIL_INFO" type="static">
+				</Widget>
+				<Widget color="1.0,1.0,1.0,0.5" frame="365,126,256,256" name="chainskill_bg" preset="v5_skill_detail_bg_image" type="image">
+				</Widget>
+				<Widget flag="vscroll" frame="6,23,971,479" h_pos_align="proportion" margin="84,70,50,55" name="chainskill_list" scroll_type="visible" step="40" type="scrollable" v_pos_align="proportion">
+				</Widget>
+				<Widget frame="778,267,135,180" type="container">
+					<Skin name="v5_skill_remark_bg">
+					</Skin>
+					<Widget frame="13,68,26,26" type="image">
+						<Skin name="v5_skill_remark_abnormal">
+						</Skin>
+					</Widget>
+					<Widget font="skill_detail_info_value" frame="51,95,80,26" text="STR_SKILL_DIALOG__REMARK_ABNORMAL" type="static">
+					</Widget>
+					<Widget frame="13,95,26,26" type="image">
+						<Skin name="v5_skill_remark_abnormal_other">
+						</Skin>
+					</Widget>
+					<Widget font="skill_detail_info_value" frame="51,68,72,26" text="STR_SKILL_DIALOG__REMARK_ABNORMAL_OTHER" type="static">
+					</Widget>
+					<Widget frame="13,14,26,26" type="image">
+						<Skin name="v5_skill_remark_start">
+						</Skin>
+					</Widget>
+					<Widget font="skill_detail_info_value" frame="51,14,85,26" text="STR_SKILL_DIALOG__REMARK_START" type="static">
+					</Widget>
+					<Widget frame="13,41,26,26" type="image">
+						<Skin name="v5_skill_remark_chain">
+						</Skin>
+					</Widget>
+					<Widget font="skill_detail_info_value" frame="51,41,72,26" text="STR_SKILL_DIALOG__REMARK_CHAIN" type="static">
+					</Widget>
+					<Widget frame="11,128,37,16" type="image">
+						<Skin name="v5_skill_remark_arrow">
+						</Skin>
+					</Widget>
+					<Widget font="skill_detail_info_value" frame="51,122,85,26" text="STR_SKILL_DIALOG__REMARK_ARROW" type="static">
+					</Widget>
+					<Widget frame="11,154,37,15" type="image">
+						<Skin name="v5_skill_remark_arrow_prob">
+						</Skin>
+					</Widget>
+					<Widget font="skill_detail_info_value" frame="51,149,85,26" text="STR_SKILL_DIALOG__REMARK_ARROW_PROB" type="static">
+					</Widget>
+				</Widget>
+				<Widget font="skill_detail_info_value" frame="90,48,755,16" name="alert" text="STR_SKILL_DIC_DIALOG__CHANGE_CHAIN_TREE_INFO" type="static">
+				</Widget>
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget font="ui_default" frame="874,0,110,24" h_pos_align="right" name="open_skill_etc" preset="v5_button" text="STR_SKILL_DIALOG__OPEN_SKILL_ETC" type="button">
+	</Widget>
+</Dialog>

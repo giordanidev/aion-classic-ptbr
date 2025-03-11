@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" frame="0,0,132,41" last_modified="2017-01-18 16:40:36" name="obs_dialog" preset="OBS_background" shadow_offset="8,8" title_align="center" title_frame="3,3,86,14" title_height="25" title_offset="0,5" type="dlg_obs" ui_mode="spectator">
+	<Widget font="ui_default" frame="4,4,30,30" name="record" preset="OBS_record_btn" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="104,9,20,20" name="cancel" preset="OBS_close_btn" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font_size="14" frame="37,9,64,20" halign="center" name="recordTime" type="static" valign="middle">
+	</Widget>
+</Dialog>

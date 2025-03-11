@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="right" close_offset="4,1" close_preset="v5_close" flag="close;title;vresizable;" frame="800,140,417,596" last_modified="2015-01-07 17:11:22" name="inventory_dialog_new" preset="v5_dialog2" shadow_offset="8,8" title_align="center" title_frame="3,3,66,14" title_height="25" title_offset="0,5" title_text="STR_INVENTORY_DIALOG" type="dlg_inventory_new">
+	<Widget flag="nonclient" frame="395,0,28,24" name="expand" preset="v5_inv_expand" type="button">
+	</Widget>
+	<Widget frame="0,1,413,531" h_pos_align="proportion" type="tabsheet" v_pos_align="proportion">
+		<Widget btn_move_anim="False" frame="0,0,413,25" h_pos_align="proportion" preset="v5_tab" tab_offset="10,0" tab_space="0" type="tab" v_pos_align="top">
+			<Widget font="ui_default" frame="6,0,115,25" preset="v5_tabbutton" text="STR_INVENTORY_DIALOG" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="124,0,115,25" preset="v5_tabbutton" text="STR_INVENTORY_DIALOG_EXTRA_INVENTORY" type="tabbutton">
+			</Widget>
+		</Widget>
+		<Widget frame="0,24,413,507" h_pos_align="proportion" name="invpage0" type="tabpage" v_pos_align="proportion">
+			<Widget flag="outer" frame="-43,3,46,196" name="inv_navi_container" type="container" v_pos_align="proportion">
+				<Skin name="v5_popup2">
+				</Skin>
+				<Widget font="v3_tab" frame="2,3,38,38" name="shortcut0" preset="v5_button" type="button">
+				</Widget>
+				<Widget font="v3_tab" frame="2,41,38,38" name="shortcut1" preset="v5_button" type="button">
+				</Widget>
+				<Widget font="v3_tab" frame="2,79,38,38" name="shortcut2" preset="v5_button" type="button">
+				</Widget>
+				<Widget font="v3_tab" frame="2,117,38,38" name="shortcut3" preset="v5_button" type="button">
+				</Widget>
+				<Widget font="v3_tab" frame="2,155,38,38" name="shortcut4" preset="v5_button" type="button">
+				</Widget>
+			</Widget>
+			<Widget frame="2,3,411,506" name="inv_container" type="container" v_pos_align="proportion">
+				<Skin name="v5_static_bg3">
+				</Skin>
+				<Widget frame="1,1,395,505" name="inv_scrollable" rearrange="True" scroll_type="visible" step="1" type="scrollable" v_pos_align="proportion">
+					<Widget font="v3_tab" frame="1,1,393,25" halign="left" name="button0" text_offset="10,0" type="button">
+						<Widget frame="369,2,21,21" h_pos_align="right" name="sortcube0" preset="v5_inv_sort" tooltip="STR_INVENTORY_DIALOG__TOOLTIP_AUTO_SORT" type="button">
+						</Widget>
+						<Widget font="ui_default" frame="349,2,21,21" name="usesort0" preset="v5_paperdoll_helmet" type="button">
+						</Widget>
+						<Widget frame="328,2,21,21" h_pos_align="left" name="rename0" preset="v5_chat_social" single_click_only="False" tooltip="STR_CHAT_DIALOG__TOOLTIP_EMOTION" type="button" v_pos_align="top">
+						</Widget>
+					</Widget>
+					<Widget frame="1,26,393,137" name="inv0" type="container">
+						<Widget cell_padding="2" cell_space="-1,-1" frame="2,2,389,130" item_height="44" item_width="44" name="list0" preset="v5_listview" reserve_slots="True" slot_num="27" type="listview" viewmode="icon">
+						</Widget>
+					</Widget>
+					<Widget font="v3_tab" frame="1,164,393,25" halign="left" name="button1" text_offset="10,0" type="button">
+						<Widget frame="369,2,21,21" h_pos_align="right" name="sortcube1" preset="v5_inv_sort" tooltip="STR_INVENTORY_DIALOG__TOOLTIP_AUTO_SORT" type="button">
+						</Widget>
+						<Widget font="ui_default" frame="349,2,21,21" name="usesort1" preset="v5_paperdoll_helmet" type="button">
+						</Widget>
+						<Widget frame="328,2,21,21" h_pos_align="left" name="rename1" preset="v5_chat_social" single_click_only="False" tooltip="STR_CHAT_DIALOG__TOOLTIP_EMOTION" type="button" v_pos_align="top">
+						</Widget>
+					</Widget>
+					<Widget frame="1,190,393,137" name="inv1" type="container">
+						<Widget cell_padding="2" cell_space="-1,-1" frame="3,2,389,130" item_height="44" item_width="44" name="list1" preset="v5_listview" reserve_slots="True" slot_num="27" type="listview" viewmode="icon">
+						</Widget>
+					</Widget>
+					<Widget font="v3_tab" frame="1,328,393,25" halign="left" name="button2" text_offset="10,0" type="button">
+						<Widget frame="369,2,21,21" h_pos_align="right" name="sortcube2" preset="v5_inv_sort" tooltip="STR_INVENTORY_DIALOG__TOOLTIP_AUTO_SORT" type="button">
+						</Widget>
+						<Widget font="ui_default" frame="349,2,21,21" name="usesort2" preset="v5_paperdoll_helmet" type="button">
+						</Widget>
+						<Widget frame="328,2,21,21" h_pos_align="left" name="rename2" preset="v5_chat_social" single_click_only="False" tooltip="STR_CHAT_DIALOG__TOOLTIP_EMOTION" type="button" v_pos_align="top">
+						</Widget>
+					</Widget>
+					<Widget frame="1,353,393,137" name="inv2" type="container">
+						<Widget cell_padding="2" cell_space="-1,-1" frame="2,2,389,130" item_height="44" item_width="44" name="list2" preset="v5_listview" reserve_slots="True" slot_num="27" type="listview" viewmode="icon">
+						</Widget>
+					</Widget>
+					<Widget font="v3_tab" frame="1,491,393,25" halign="left" name="button3" text_offset="10,0" type="button">
+						<Widget frame="369,2,21,21" h_pos_align="right" name="sortcube3" preset="v5_inv_sort" tooltip="STR_INVENTORY_DIALOG__TOOLTIP_AUTO_SORT" type="button">
+						</Widget>
+						<Widget font="ui_default" frame="349,2,21,21" name="usesort3" preset="v5_paperdoll_helmet" type="button">
+						</Widget>
+						<Widget frame="328,2,21,21" h_pos_align="left" name="rename3" preset="v5_chat_social" single_click_only="False" tooltip="STR_CHAT_DIALOG__TOOLTIP_EMOTION" type="button" v_pos_align="top">
+						</Widget>
+					</Widget>
+					<Widget frame="1,516,393,137" group="2" name="inv3" type="container">
+						<Widget cell_padding="2" cell_space="-1,-1" frame="2,2,389,131" item_height="44" item_width="44" name="list3" preset="v5_listview" reserve_slots="True" slot_num="27" type="listview" viewmode="icon">
+						</Widget>
+					</Widget>
+					<Widget font="v3_tab" frame="1,651,393,25" halign="left" name="button4" text_offset="10,0" type="button">
+						<Widget frame="369,2,21,21" h_pos_align="right" name="sortcube4" preset="v5_inv_sort" tooltip="STR_INVENTORY_DIALOG__TOOLTIP_AUTO_SORT" type="button">
+						</Widget>
+						<Widget font="ui_default" frame="349,2,21,21" name="usesort4" preset="v5_paperdoll_helmet" type="button">
+						</Widget>
+						<Widget frame="328,2,21,21" h_pos_align="left" name="rename4" preset="v5_chat_social" single_click_only="False" tooltip="STR_CHAT_DIALOG__TOOLTIP_EMOTION" type="button" v_pos_align="top">
+						</Widget>
+					</Widget>
+					<Widget frame="1,676,393,137" group="2" name="inv4" type="container">
+						<Widget cell_padding="2" cell_space="-1,-1" frame="2,2,389,131" item_height="44" item_width="44" name="list4" preset="v5_listview" reserve_slots="True" slot_num="27" type="listview" viewmode="icon">
+						</Widget>
+					</Widget>
+					<Widget flag="not_visible" frame="4,341,10,10" group="2" name="dummy" type="container">
+					</Widget>
+				</Widget>
+				<Widget frame="395,1,16,505" linker="inv_scrollable" name="inv_scroll" preset="v5_scroll" step_multiplier="44" type="scrollbar" v_pos_align="proportion">
+					<Widget flag="not_active" frame="1,1,16,12" h_pos_align="proportion" name="minus" preset="v5_scroll_minus" type="button">
+					</Widget>
+					<Widget flag="not_active" frame="0,494,16,12" h_pos_align="proportion" name="plus" preset="v5_scroll_plus" type="button" v_pos_align="bottom">
+					</Widget>
+				</Widget>
+			</Widget>
+		</Widget>
+		<Widget frame="0,24,413,508" h_pos_align="proportion" name="invpage1" type="tabpage" v_pos_align="proportion">
+			<Widget flag="outer" frame="-43,3,46,196" name="inv_navi_container" type="container" v_pos_align="proportion">
+				<Skin name="v5_popup2">
+				</Skin>
+				<Widget font="v3_tab" frame="2,3,38,38" name="shortcut0" preset="v5_button" type="button">
+				</Widget>
+				<Widget font="v3_tab" frame="2,41,38,38" name="shortcut1" preset="v5_button" type="button">
+				</Widget>
+				<Widget font="v3_tab" frame="2,79,38,38" name="shortcut2" preset="v5_button" type="button">
+				</Widget>
+				<Widget font="v3_tab" frame="2,117,38,38" name="shortcut3" preset="v5_button" type="button">
+				</Widget>
+				<Widget font="v3_tab" frame="2,155,38,38" name="shortcut4" preset="v5_button" type="button">
+				</Widget>
+			</Widget>
+			<Widget frame="2,3,411,506" name="inv_container" type="container" v_pos_align="proportion">
+				<Skin name="v5_static_bg3">
+				</Skin>
+				<Widget frame="1,1,395,505" name="inv_scrollable" rearrange="True" scroll_type="visible" step="1" type="scrollable" v_pos_align="proportion">
+					<Widget font="v3_tab" frame="1,1,393,25" halign="left" name="button0" text="STR_INVENTORY_DIALOG_EXTRA_INVENTORY" text_offset="10,0" type="button">
+					</Widget>
+					<Widget frame="1,26,393,137" name="inv0" type="container">
+						<Widget cell_padding="2" cell_space="-1,-1" frame="2,2,389,130" item_height="44" item_width="44" name="list0" preset="v5_listview" reserve_slots="True" slot_num="27" type="listview" viewmode="icon">
+						</Widget>
+					</Widget>
+					<Widget font="v3_tab" frame="1,164,393,25" halign="left" name="button1" text="STR_INVENTORY_DIALOG_EXTRA_INVENTORY" text_offset="10,0" type="button">
+					</Widget>
+					<Widget frame="1,190,393,137" name="inv1" type="container">
+						<Widget cell_padding="2" cell_space="-1,-1" frame="3,2,389,130" item_height="44" item_width="44" name="list1" preset="v5_listview" reserve_slots="True" slot_num="27" type="listview" viewmode="icon">
+						</Widget>
+					</Widget>
+					<Widget font="v3_tab" frame="1,328,393,25" halign="left" name="button2" text_offset="10,0" type="button">
+					</Widget>
+					<Widget frame="1,353,393,137" name="inv2" type="container">
+						<Widget cell_padding="2" cell_space="-1,-1" frame="2,2,389,130" item_height="44" item_width="44" name="list2" preset="v5_listview" reserve_slots="True" slot_num="27" type="listview" viewmode="icon">
+						</Widget>
+					</Widget>
+					<Widget font="v3_tab" frame="1,491,393,25" halign="left" name="button3" text_offset="10,0" type="button">
+					</Widget>
+					<Widget frame="1,516,393,137" group="2" name="inv3" type="container">
+						<Widget cell_padding="2" cell_space="-1,-1" frame="2,2,389,131" item_height="44" item_width="44" name="list3" preset="v5_listview" reserve_slots="True" slot_num="27" type="listview" viewmode="icon">
+						</Widget>
+					</Widget>
+					<Widget font="v3_tab" frame="1,651,393,25" halign="left" name="button4" text_offset="10,0" type="button">
+					</Widget>
+					<Widget frame="1,676,393,137" group="2" name="inv4" type="container">
+						<Widget cell_padding="2" cell_space="-1,-1" frame="2,2,389,131" item_height="44" item_width="44" name="list4" preset="v5_listview" reserve_slots="True" slot_num="27" type="listview" viewmode="icon">
+						</Widget>
+					</Widget>
+					<Widget flag="not_visible" frame="4,341,10,10" group="2" name="dummy" type="container">
+					</Widget>
+				</Widget>
+				<Widget frame="395,1,16,505" linker="inv_scrollable" name="inv_scroll" preset="v5_scroll" step_multiplier="44" type="scrollbar" v_pos_align="proportion">
+					<Widget flag="not_active" frame="1,1,16,12" h_pos_align="proportion" name="minus" preset="v5_scroll_minus" type="button">
+					</Widget>
+					<Widget flag="not_active" frame="0,494,16,12" h_pos_align="proportion" name="plus" preset="v5_scroll_plus" type="button" v_pos_align="bottom">
+					</Widget>
+				</Widget>
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget frame="0,536,412,30" h_pos_align="right" name="bottom" type="container" v_pos_align="bottom">
+		<Widget cell_padding="1" frame="33,6,21,21" item_height="21" item_width="21" name="inv_temp" preset="v5_inv_tempslot" type="itemview">
+		</Widget>
+		<Widget font="ui_default" frame="56,6,61,18" halign="left" name="slot_count" type="static">
+		</Widget>
+		<Widget font="v3_money" frame="181,5,202,24" h_pos_align="right" halign="right" name="money" padding="5,0" preset="v5_staticbox" text_offset="5,0" type="static" valign="middle">
+		</Widget>
+		<Widget frame="182,6,24,22" h_pos_align="right" item_height="17" item_width="21" name="money_item" preset="v5_gold" type="itemview">
+		</Widget>
+		<Widget frame="386,7,21,21" h_pos_align="right" name="sort" preset="v5_inv_sort" tooltip="STR_INVENTORY_DIALOG__TOOLTIP_AUTO_SORT" type="button">
+		</Widget>
+		<Widget frame="155,6,22,22" h_pos_align="right" name="inv_to_toypet" preset="v5_toypet_inventory" tooltip="STR_INVENTORY_DIALOG__TOOLTIP_TOYPET_WAREHOUSE" type="button">
+		</Widget>
+	</Widget>
+</Dialog>

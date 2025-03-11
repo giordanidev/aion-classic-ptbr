@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="left" close_offset="4,1" close_preset="v5_close" flag="close;title" frame="754,145,605,532" last_modified="2018-11-29 14:25:44" name="indun_cooltime_dialog" preset="v5_dialog2" shadow_offset="8,8" title_align="center" title_frame="3,3,323,14" title_height="25" title_offset="0,5" title_text="STR_INDUN_COOLTIME_DIALOG" type="dlg_indun_cooltime">
+	<Widget btn_move_anim="False" frame="0,0,599,25" h_pos_align="proportion" name="tab" preset="v5_tab" tab_offset="6,0" tab_space="0" type="tab" v_pos_align="top">
+		<Widget frame="7,0,60,25" name="tab_favorite" preset="v5_tabbutton" text="STR_INDUN_COOLTIME_DIALOG__TAB_FAVORITE" type="tabbutton">
+		</Widget>
+		<Widget frame="66,0,60,25" name="tab_all" preset="v5_tabbutton" text="STR_INDUN_COOLTIME_DIALOG__TAB_INDUN" type="tabbutton">
+		</Widget>
+	</Widget>
+	<Widget frame="0,23,599,446" h_pos_align="proportion" type="image">
+		<Skin name="v5_tabpage2">
+		</Skin>
+	</Widget>
+	<Widget check_preset="v5_housing_buddy_list_favorite" column_heading="True" flag="truncate;vscroll" font="ui_list" frame="5,47,589,262" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="my_cooltime_list" preset="v5_listview_ex" scroll_type="visible" skin_type="version5" type="listviewex">
+		<Column align="center" img_width="" sample_text="" sort="none" title="STR_INDUN_COOLTIME_DIALOG__INDUN_FAVORITE" width="70">
+		</Column>
+		<Column align="center" sort="text" title="STR_INDUN_COOLTIME_DIALOG__RECOMMEND" width="80">
+		</Column>
+		<Column align="left" img_width="" sample_text="" sort="text" title="STR_INDUN_COOLTIME_DIALOG__INDUN_NAME" width="180">
+		</Column>
+		<Column align="center" img_width="" sort="number" title="STR_INDUN_COOLTIME_DIALOG__INDUN_MAX_MEMBER" width="60">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="param" title="STR_INDUN_COOLTIME_DIALOG__INDUN_ENTER_CLIENTLEVEL" width="60">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="param" title="STR_INDUN_COOLTIME_DIALOG__GRADE" width="80">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="param" title="STR_INDUN_COOLTIME_DIALOG__INDUN_ENTER_DELAY_TIME" width="90">
+		</Column>
+		<Column align="center" sort="param" title="STR_INDUN_COOLTIME_DIALOG__INDUN_COST" width="30">
+		</Column>
+		<Column align="left" img_width="" sample_text="" sort="param" width="0">
+		</Column>
+		<Column align="left" img_width="" sample_text="" sort="param" width="0">
+		</Column>
+		<Column align="left" img_width="" sample_text="" sort="param" width="0">
+		</Column>
+	</Widget>
+	<Widget column_heading="True" flag="truncate;vscroll" font="ui_list" frame="5,330,589,136" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="party_cooltime_list" preset="v5_listview_ex" scroll_type="visible" skin_type="version5" type="listviewex">
+		<Column align="left" img_width="" sample_text="" sort="text" title="STR_INDUN_COOLTIME_DIALOG__NAME" width="420">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="number" title="STR_INDUN_COOLTIME_DIALOG__LEVEL" width="60">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="param" title="STR_INDUN_COOLTIME_DIALOG__INDUN_ENTER_DELAY_TIME" width="90">
+		</Column>
+		<Column align="left" img_width="" sample_text="" sort="param" title="0" width="0">
+		</Column>
+	</Widget>
+	<Widget font="ui_default" frame="5,23,390,27" padding="5,0" text="STR_INDUN_COOLTIME_DIALOG__MY_STATE" type="static">
+	</Widget>
+	<Widget font="ui_default" frame="5,306,390,27" padding="5,0" text="STR_INDUN_COOLTIME_DIALOG__PARTY_FORCE_STATE" type="static" valign="middle">
+	</Widget>
+	<Widget font="ui_default" frame="5,474,473,27" name="highdeva_message" padding="5,0" text="STR_INDUN_COOLTIME_DIALOG__INDUN_ENTER_CLIENTLEVEL_DESC" type="static" valign="middle">
+	</Widget>
+	<Widget font="ui_default" frame="387,475,68,24" h_pos_align="right" name="indun_enter" preset="v5_button" text="STR_INDUN_COOLTIME_DIALOG__PARTYMATCH" type="button">
+	</Widget>
+	<Widget font="ui_default" frame="458,475,68,24" h_pos_align="right" name="indun_where" preset="v5_button" text="STR_INDUN_COOLTIME_DIALOG__WHERE" type="button">
+	</Widget>
+	<Widget font="ui_default" frame="529,475,68,24" h_pos_align="right" name="cancel" preset="v5_button" text="STR_DLG_DIALOG__CLOSE" type="button">
+	</Widget>
+</Dialog>

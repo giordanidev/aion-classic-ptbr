@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Screen folder="game_hud_s3" last_modified="2020-07-15 14:32:50" name="UI_GameHud_S3" version="53">
+	<Dialog name="yeti_hud_bottom_Dialog">
+	</Dialog>
+	<Dialog name="basic_status_dialog">
+	</Dialog>
+	<Dialog name="exp_bar_dialog">
+	</Dialog>
+	<Dialog name="quickbar_dialog">
+	</Dialog>
+	<Dialog name="pet_command_dialog">
+	</Dialog>
+	<Dialog name="pet_dialog">
+	</Dialog>
+	<Dialog name="quickbar_dialog_extra">
+	</Dialog>
+	<Dialog name="quickbar_dialog_alt">
+	</Dialog>
+	<Dialog name="quickbar_dialog_ctrl">
+	</Dialog>
+	<Dialog name="start_dialog">
+	</Dialog>
+	<Dialog name="radar_dialog">
+	</Dialog>
+	<Dialog name="subzone_name_dialog">
+	</Dialog>
+</Screen>

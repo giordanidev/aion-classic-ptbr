@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="10,5" flag="not_movable;close" frame="10,10,621,138" last_modified="2014-08-22 12:58:41" name="housing_addon_dialog" title_align="left" title_frame="3,3,615,14" title_height="25" title_offset="0,0" type="dlg_housing_addon" ui_mode="not_game;housing">
+	<Widget frame="0,0,207,138" name="addon1" type="container">
+		<Skin name="v5_housing_parts_frame">
+		</Skin>
+		<Widget cell_padding="2" cell_space="0,2" column_customizing="False" flag="vscroll" frame="7,38,191,91" item_height="44" item_width="44" name="list" one_click_action="False" one_click_preview="False" preset="v5_housing_listview_sel" scroll_type="visible" skin_type="housing" slot_num="12" type="listview" viewmode="icon">
+		</Widget>
+		<Widget font="ui_static_title" frame="7,5,151,22" text="STR_HOUSING_MENU_DIALOG__TOOLTIP_ADDON" type="static">
+		</Widget>
+	</Widget>
+	<Widget frame="207,0,207,138" name="addon2" type="container">
+		<Skin name="v5_housing_parts_frame">
+		</Skin>
+		<Widget cell_padding="2" cell_space="0,2" column_customizing="False" flag="vscroll" frame="7,38,191,91" item_height="44" item_width="44" name="list" one_click_action="False" one_click_preview="False" preset="v5_housing_listview_sel" scroll_type="visible" skin_type="housing" slot_num="12" type="listview" viewmode="icon">
+		</Widget>
+		<Widget font="ui_static_title" frame="7,5,151,22" text="STR_HOUSING_MENU_DIALOG__TOOLTIP_ADDON" type="static">
+		</Widget>
+	</Widget>
+	<Widget frame="414,0,207,138" name="addon3" type="container">
+		<Skin name="v5_housing_parts_frame">
+		</Skin>
+		<Widget cell_padding="2" cell_space="0,2" column_customizing="False" flag="vscroll" frame="7,38,191,91" item_height="44" item_width="44" name="list" one_click_action="False" one_click_preview="False" preset="v5_housing_listview_sel" scroll_type="visible" skin_type="housing" slot_num="12" type="listview" viewmode="icon">
+		</Widget>
+		<Widget font="ui_static_title" frame="7,5,151,22" text="STR_HOUSING_MENU_DIALOG__TOOLTIP_ADDON" type="static">
+		</Widget>
+	</Widget>
+</Dialog>

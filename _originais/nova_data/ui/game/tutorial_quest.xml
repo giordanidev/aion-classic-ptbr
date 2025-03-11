@@ -1,0 +1,2913 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tutorials>
+	<note>xml 설명서 문서 경로 //depot/AION/NewDesign/12) Quest/퀘스트_시스템/퀘스트시스템_튜토리얼xml사용설명서.docx</note>
+	<note>관련 기획서 경로 //depot/AION/NewDesign/12) Quest/퀘스트_시스템/퀘스트시스템_튜토리얼퀘스트시스템.docx</note>
+	<note>일이삼사오륙칠팔구십일이삼사오륙칠팔구십일이삼사오륙칠팔구십일이삼사오</note>
+	<character_light>STR_TUTORIAL_BUBBLE_LIGHT_NAME_1</character_light>
+	<character_dark>STR_TUTORIAL_BUBBLE_DARK_NAME_1</character_dark>
+	<tutorial>
+		<quest_id>90000</quest_id>
+		<note>스킬창 튜토리얼</note>
+		<progress>
+			<content>STR_TUTORIAL_GUIDE_SKILL_01</content>
+			<note>어서 오거라. 난 그대가 성장하는데 필요한 지식을 전하는 자다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_GUIDE_SKILL_02</content>
+			<note>오늘은 그대가 습득한 스킬을 확인하고, 사용하는 법에 대해 알려주겠다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_GUIDE_SKILL_03</content>
+			<note>자, 우선 화면 우측 하단에 있는 [시작 버튼]을 눌러 메뉴를 불러보아라.</note>
+			<action>click</action>
+			<dlg_name>start_dialog</dlg_name>
+			<ui_name>start_button</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_GUIDE_SKILL_04</content>
+			<note>[스킬]을 누르면 스킬 창이 나타난다. 모든 스킬은 스킬 창에서 확인할 수 있다.</note>
+			<action>click</action>
+			<dlg_name>pop_up</dlg_name>
+			<ui_name>menu_skill</ui_name>
+			<ui_type>button</ui_type>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_GUIDE_SKILL_05</content>
+			<note>스킬 창 상단의 여러 개의 탭 중 [사용] 탭을 선택해라.</note>
+			<action>click</action>
+			<dlg_name>skill_dialog</dlg_name>
+			<ui_name>skill_tab_active</ui_name>
+			<ui_type>tab</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_GUIDE_SKILL_06</content>
+			<note>스킬 창에 있는 스킬은 드래그해서 퀵바에 등록해 사용하면 된다.</note>
+			<action>wait_input</action>
+			<dlg_name>skill_dialog</dlg_name>
+			<ui_name>page_active</ui_name>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_GUIDE_SKILL_07</content>
+			<note>처음이니 다시 한번 알려주지. [시작 메뉴]-[스킬] 순으로 눌러 스킬 창을 연 후,</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_GUIDE_SKILL_08</content>
+			<note>스킬 창에 있는 스킬을 드래그해서 퀵바에 등록해 사용한다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_GUIDE_SKILL_09</content>
+			<note>자, 그럼 이제 실전이다. 스킬을 활용하며 성장하도록 해라. 무운을 비마.</note>
+			<action>wait_input</action>
+		</progress>
+	</tutorial>
+	<tutorial>
+		<quest_id>90001</quest_id>
+		<finish_reaction>update_title</finish_reaction>
+		<note>타이틀 튜토리얼_천족</note>
+		<progress>
+			<content>STR_TUTORIAL_SET_TITLE_01</content>
+			<note>못 본 새에 많이 성장했구나. 새로운 지식을 습득할 준비는 되었는가?</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_SET_TITLE_02</content>
+			<note>이번에는 타이틀을 장착하는 법을 가르쳐주겠다. 잘 따라오길 바란다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_SET_TITLE_03</content>
+			<note>화면 우측 하단에 있는 [시작 버튼]을 눌러 메뉴를 불러보아라.</note>
+			<action>click</action>
+			<dlg_name>start_dialog</dlg_name>
+			<ui_name>start_button</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_SET_TITLE_04</content>
+			<note>[캐릭터 정보]를 누르면 창이 나타난다. 이곳에서 정보를 확인할 수 있다.</note>
+			<action>click</action>
+			<dlg_name>pop_up</dlg_name>
+			<ui_name>menu_playerinfo</ui_name>
+			<ui_type>button</ui_type>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_SET_TITLE_05</content>
+			<note>정보 창 상단의 여러 개의 탭 중 [타이틀] 탭을 선택해라.</note>
+			<action>click</action>
+			<dlg_name>player_info_dialog</dlg_name>
+			<ui_name>tabbtn_title</ui_name>
+			<ui_type>tab</ui_type>
+			<reaction>update_title</reaction>
+			<title_id>379</title_id>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_SET_TITLE_06</content>
+			<note>타이틀 이름을 선택해라. 이렇게 선택된 타이틀은 캐릭터 머리 위에 표시된다.</note>
+			<action>click</action>
+			<dlg_name>player_info_dialog</dlg_name>
+			<dlg_page>true</dlg_page>
+			<ui_name>btn_title</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_SET_TITLE_07</content>
+			<note>이제 타이틀 능력치를 선택해라. 그럼 적용 능력치만큼 능력이 향상될 것이다.</note>
+			<action>click</action>
+			<dlg_name>player_info_dialog</dlg_name>
+			<dlg_page>true</dlg_page>
+			<ui_name>btn_stat</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_SET_TITLE_08</content>
+			<note>자, 타이틀은 이렇게 적용하는 것이다. 유용하게 활용하도록 해라.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_SET_TITLE_09</content>
+			<note>다시 한번 정리해보지. 시작-메뉴에서 캐릭터 정보 창의 [타이틀] 탭을 열고</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_SET_TITLE_10</content>
+			<note>가지고 있는 타이틀 중 이름과 능력치를 선택해서 사용하는 것이다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_SET_TITLE_11</content>
+			<note>부디 유용한 정보였으면 좋겠군. 그럼 다음에 또 보자꾸나.</note>
+			<action>wait_input</action>
+		</progress>
+	</tutorial>
+	<tutorial>
+		<quest_id>90002</quest_id>
+		<finish_reaction>update_title</finish_reaction>
+		<note>타이틀 튜토리얼_마족</note>
+		<progress>
+			<content>STR_TUTORIAL_SET_TITLE_01</content>
+			<note>못 본 새에 많이 성장했구나. 새로운 지식을 습득할 준비는 되었는가?</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_SET_TITLE_02</content>
+			<note>이번에는 타이틀을 장착하는 법을 가르쳐주겠다. 잘 따라오길 바란다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_SET_TITLE_03</content>
+			<note>화면 우측 하단에 있는 [시작 버튼]을 눌러 메뉴를 불러보아라.</note>
+			<action>click</action>
+			<dlg_name>start_dialog</dlg_name>
+			<ui_name>start_button</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_SET_TITLE_04</content>
+			<note>[캐릭터 정보]를 누르면 창이 나타난다. 이곳에서 정보를 확인할 수 있다.</note>
+			<action>click</action>
+			<dlg_name>pop_up</dlg_name>
+			<ui_name>menu_playerinfo</ui_name>
+			<ui_type>button</ui_type>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_SET_TITLE_05</content>
+			<note>정보 창 상단의 여러 개의 탭 중 [타이틀] 탭을 선택해라.</note>
+			<action>click</action>
+			<dlg_name>player_info_dialog</dlg_name>
+			<ui_name>tabbtn_title</ui_name>
+			<ui_type>tab</ui_type>
+			<reaction>update_title</reaction>
+			<title_id>383</title_id>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_SET_TITLE_06</content>
+			<note>타이틀 이름을 선택해라. 이렇게 선택된 타이틀은 캐릭터 머리 위에 표시된다.</note>
+			<action>click</action>
+			<dlg_name>player_info_dialog</dlg_name>
+			<dlg_page>true</dlg_page>
+			<ui_name>btn_title</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_SET_TITLE_07</content>
+			<note>이제 타이틀 능력치를 선택해라. 그럼 적용 능력치만큼 능력이 향상될 것이다.</note>
+			<action>click</action>
+			<dlg_name>player_info_dialog</dlg_name>
+			<dlg_page>true</dlg_page>
+			<ui_name>btn_stat</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_SET_TITLE_08</content>
+			<note>자, 타이틀은 이렇게 적용하는 것이다. 유용하게 활용하도록 해라.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_SET_TITLE_09</content>
+			<note>다시 한번 정리해보지. 시작-메뉴에서 캐릭터 정보 창의 [타이틀] 탭을 열고</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_SET_TITLE_10</content>
+			<note>가지고 있는 타이틀 중 이름과 능력치를 선택해서 사용하는 것이다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_SET_TITLE_11</content>
+			<note>부디 유용한 정보였으면 좋겠군. 그럼 다음에 또 보자꾸나.</note>
+			<action>wait_input</action>
+		</progress>
+	</tutorial>
+	<tutorial>
+		<quest_id>90003</quest_id>
+		<note>사용자 연속기 튜토리얼</note>
+		<progress>
+			<content>STR_TUTORIAL_USER_CHAIN_SKILL_01</content>
+			<note>내 부름을 듣고 찾아 왔는가?</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USER_CHAIN_SKILL_02</content>
+			<note>이제 그대에게 사용자 정의 스킬에 대해서 알려줄 때가 된 것 같구나.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USER_CHAIN_SKILL_03</content>
+			<note>화면 우측 하단에 있는 [시작 버튼]을 눌러 메뉴를 불러보아라.</note>
+			<action>click</action>
+			<dlg_name>start_dialog</dlg_name>
+			<ui_name>start_button</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USER_CHAIN_SKILL_04</content>
+			<note>[스킬]을 누르면 스킬 창이 나타난다. 스킬은 모두 이곳에서 확인할 수 있다.</note>
+			<action>click</action>
+			<dlg_name>pop_up</dlg_name>
+			<ui_name>menu_skill</ui_name>
+			<ui_type>button</ui_type>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USER_CHAIN_SKILL_05</content>
+			<note>스킬 창 상단의 여러 개의 탭 중 [사용자 정의 연속기 설정] 탭을 선택해라.</note>
+			<action>click</action>
+			<dlg_name>skill_dialog</dlg_name>
+			<ui_name>skill_tab_custom_chainskill</ui_name>
+			<ui_type>tab</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USER_CHAIN_SKILL_06</content>
+			<note>이 창에선 사용하는 스킬을 슬롯에 등록하면 연속기로 활용할 수 있다.</note>
+			<action>wait_input</action>
+			<dlg_name>skill_dialog</dlg_name>
+			<dlg_page>true</dlg_page>
+			<ui_name>page_custom_chainskill</ui_name>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USER_CHAIN_SKILL_07</content>
+			<note>사용할 스킬을 하나 선택해 연속기 슬롯으로 이동시켜 보아라.</note>
+			<action>drag</action>
+			<dlg_name>skill_dialog</dlg_name>
+			<dlg_page>true</dlg_page>
+			<ui_name>custom_chain_skill_list</ui_name>
+			<ui_type>list_view</ui_type>
+			<slot_number>1</slot_number>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USER_CHAIN_SKILL_08</content>
+			<note>비어있는 연속기 슬롯 첫 번째 칸에 스킬을 등록해라.</note>
+			<action>register_slot</action>
+			<dlg_name>skill_dialog</dlg_name>
+			<dlg_page>true</dlg_page>
+			<ui_name>cchain_0_0</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USER_CHAIN_SKILL_09</content>
+			<note>그 다음 사용할 스킬을 하나 선택해 연속기 슬롯으로 이동시켜 보아라.</note>
+			<action>drag</action>
+			<dlg_name>skill_dialog</dlg_name>
+			<dlg_page>true</dlg_page>
+			<ui_name>custom_chain_skill_list</ui_name>
+			<ui_type>list_view</ui_type>
+			<show_fx>true</show_fx>
+			<slot_number>2</slot_number>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USER_CHAIN_SKILL_10</content>
+			<note>비어있는 연속기 슬롯 두 번째 칸에 스킬을 등록해라.</note>
+			<action>register_slot</action>
+			<dlg_name>skill_dialog</dlg_name>
+			<dlg_page>true</dlg_page>
+			<ui_name>cchain_0_1</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USER_CHAIN_SKILL_11</content>
+			<note>이렇게 설정한 연속기는 퀵바에 등록해 사용하면 된다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USER_CHAIN_SKILL_12</content>
+			<note>조금 어렵지만 여러 차례 사용해 보면서 몸에 익히거라.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USER_CHAIN_SKILL_13</content>
+			<note>사용자 정의 스킬은 활용만 잘하면 그대의 막강한 힘이 될 것이다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USER_CHAIN_SKILL_14</content>
+			<note>부디 이 지식이 그대의 성장에 도움이 됐기를.</note>
+			<action>wait_input</action>
+		</progress>
+	</tutorial>
+	<tutorial>
+		<quest_id>90004</quest_id>
+		<finish_reaction>update_inventory</finish_reaction>
+		<note>강화 튜토리얼</note>
+		<progress>
+			<content>STR_TUTORIAL_UPGRADE_ITEM_01</content>
+			<note>왔는가? 이제 그대 뿐 아니라 장비를 성장시킬 수 있는 지식을 알려주겠다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_UPGRADE_ITEM_02</content>
+			<note>장비는 강화를 통해서 성능을 향상시킬 수 있다. 잘 듣고 따라해 보거라.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_UPGRADE_ITEM_03</content>
+			<note>화면 우측 하단에 있는 [시작 버튼]을 눌러 메뉴를 불러보아라.</note>
+			<action>click</action>
+			<dlg_name>start_dialog</dlg_name>
+			<ui_name>start_button</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_UPGRADE_ITEM_04</content>
+			<note>[강화/개조]를 누르면 강화/개조 창이 나타난다.</note>
+			<action>click</action>
+			<dlg_name>pop_up</dlg_name>
+			<ui_name>menu_enchant</ui_name>
+			<ui_type>button</ui_type>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_UPGRADE_ITEM_05</content>
+			<note>큐브에서 강화할 아이템을 선택해 강화/개조 창으로 이동시켜라.</note>
+			<action>drag</action>
+			<dlg_name>inventory_dialog</dlg_name>
+			<ui_name>list0</ui_name>
+			<ui_type>list_view</ui_type>
+			<slot_number>1</slot_number>
+			<reaction>update_inventory</reaction>
+			<upgrade_item_name_id>125101379</upgrade_item_name_id>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_UPGRADE_ITEM_06</content>
+			<note>강화/개조 창의 장비 등록 슬롯에 아이템을 등록하거라. </note>
+			<action>register_slot</action>
+			<dlg_name>enchant_all_dialog</dlg_name>
+			<dlg_page>true</dlg_page>
+			<ui_name>target_item</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_UPGRADE_ITEM_07</content>
+			<note>자, 그럼 강화를 위해 [PvE 장비 강화] 버튼을 눌러보거라.</note>
+			<action>click</action>
+			<dlg_name>enchant_all_dialog</dlg_name>
+			<ui_name>enchant_pve</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+			<margin>10</margin>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_UPGRADE_ITEM_08</content>
+			<note>그 다음은 큐브에서 강화석을 선택해 강화/개조 창으로 이동시키는 것이다.</note>
+			<action>drag</action>
+			<dlg_name>inventory_dialog</dlg_name>
+			<ui_name>list0</ui_name>
+			<ui_type>list_view</ui_type>
+			<show_fx>true</show_fx>
+			<slot_number>1</slot_number>
+			<reaction>update_inventory</reaction>
+			<tool_item_name_id>166023100</tool_item_name_id>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_UPGRADE_ITEM_09</content>
+			<note>강화/개조 창의 강화 재료 슬롯에 아이템을 등록하거라. </note>
+			<action>register_slot</action>
+			<dlg_name>enchant_all_dialog</dlg_name>
+			<dlg_page>true</dlg_page>
+			<ui_name>tool_item</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_UPGRADE_ITEM_10</content>
+			<note>그럼 강화를 한번 해 볼까? [PvE 강화] 버튼을 꾹 눌러보거라.</note>
+			<action>click</action>
+			<dlg_name>enchant_all_dialog</dlg_name>
+			<ui_name>ok</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_UPGRADE_ITEM_11</content>
+			<note>버튼을 누르면 강화가 시작된다. 행운을 빈다.</note>
+			<action>wait_complete</action>
+			<dlg_name>enchant_all_dialog</dlg_name>
+			<ui_name>ok</ui_name>
+			<ui_type>button</ui_type>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_UPGRADE_ITEM_12</content>
+			<note>자, 이제 강화가 완료되었다. [확인] 버튼을 눌러 결과를 확인해라.</note>
+			<action>click</action>
+			<dlg_name>enchant_all_dialog</dlg_name>
+			<ui_name>ok</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_UPGRADE_ITEM_13</content>
+			<note>강화는 성공하면 장비 성능이 좋아지지만, 실패하면 떨어지기도 한다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_UPGRADE_ITEM_14</content>
+			<note>강화석 종류에 따라 성공률이 높아지니 좋은 것을 사용하는 걸 추천하마.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_UPGRADE_ITEM_15</content>
+			<note>그대의 운이 모든 강화를 성공으로 이끌길 빌겠다.</note>
+			<action>wait_input</action>
+		</progress>
+	</tutorial>
+	<tutorial>
+		<quest_id>90005</quest_id>
+		<note>세공석 튜토리얼</note>
+		<finish_reaction>update_inventory</finish_reaction>
+		<progress>
+			<content>STR_TUTORIAL_MATTER_SLOT_OPEN_01</content>
+			<note>어서 오거라. 마석으로 장비의 성능을 향상시킬 수 있다는 건 알고 있는가?</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_MATTER_SLOT_OPEN_02</content>
+			<note>이번엔 장비의 마석슬롯을 확장시키는 방법에 대해 알려주겠다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_MATTER_SLOT_OPEN_03</content>
+			<note>화면 우측 하단에 있는 [시작 버튼]을 눌러 메뉴를 불러보아라.</note>
+			<action>click</action>
+			<dlg_name>start_dialog</dlg_name>
+			<ui_name>start_button</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_MATTER_SLOT_OPEN_04</content>
+			<note>[강화/개조]를 누르면 강화/개조 창이 나타난다.</note>
+			<action>click</action>
+			<dlg_name>pop_up</dlg_name>
+			<ui_name>menu_enchant</ui_name>
+			<ui_type>button</ui_type>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_MATTER_SLOT_OPEN_05</content>
+			<note>큐브에서 마석슬롯을 확장할 아이템을 선택해 강화/개조 창으로 이동시켜라.</note>
+			<action>drag</action>
+			<dlg_name>inventory_dialog</dlg_name>
+			<ui_name>list0</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+			<slot_number>1</slot_number>
+			<reaction>update_inventory</reaction>
+			<upgrade_item_name_id>125101379</upgrade_item_name_id>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_MATTER_SLOT_OPEN_06</content>
+			<note>강화/개조 창의 장비 등록 슬롯에 아이템을 등록하거라. </note>
+			<action>register_slot</action>
+			<dlg_name>enchant_all_dialog</dlg_name>
+			<dlg_page>true</dlg_page>
+			<ui_name>target_item</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_MATTER_SLOT_OPEN_07</content>
+			<note>자, 그럼 확장을 위해 [마석슬롯 확장] 버튼을 눌러보거라.</note>
+			<action>click</action>
+			<dlg_name>enchant_all_dialog</dlg_name>
+			<ui_name>open_option_slot</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_MATTER_SLOT_OPEN_08</content>
+			<note>큐브에 세공석이 있을 경우엔 확장 재료 슬롯에 자동으로 등록된다.</note>
+			<action>wait_input</action>
+			<dlg_name>enchant_all_dialog</dlg_name>
+			<ui_name>tool_item</ui_name>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_MATTER_SLOT_OPEN_09</content>
+			<note>그럼 슬롯 확장을 해 볼까? [마석슬롯 확장] 버튼을 꾹 눌러보거라.</note>
+			<action>click</action>
+			<dlg_name>enchant_all_dialog</dlg_name>
+			<ui_name>ok</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_MATTER_SLOT_OPEN_10</content>
+			<note>버튼을 누르면 확장이 시작된다. 행운을 빈다.</note>
+			<action>wait_complete</action>
+			<dlg_name>enchant_all_dialog</dlg_name>
+			<ui_name>ok</ui_name>
+			<ui_type>button</ui_type>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_MATTER_SLOT_OPEN_11</content>
+			<note>자, 이제 마석슬롯 확장이 완료되었다. [확인] 버튼을 눌러 결과를 확인해라.</note>
+			<action>click</action>
+			<dlg_name>enchant_all_dialog</dlg_name>
+			<ui_name>ok</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_MATTER_SLOT_OPEN_12</content>
+			<note>좋은 데바는 장비를 가리지 않지만 장비가 능력을 더욱 향상시켜 주기도 하지.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_MATTER_SLOT_OPEN_13</content>
+			<note>슬롯이 확장되면 그대의 능력을 향상시켜줄 마석을 더 많이 사용할 수 있다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_MATTER_SLOT_OPEN_14</content>
+			<note>부디 이 지식이 유용하게 사용해 훌륭한 데바가 되길 바라마.</note>
+			<action>wait_input</action>
+		</progress>
+	</tutorial>
+	<tutorial>
+		<quest_id>90006</quest_id>
+		<note>장비 세트 튜토리얼_검성</note>
+		<finish_reaction>update_inventory</finish_reaction>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_01</content>
+			<note>아주 오랜만에 보는 것 같구나. 그동안 눈부신 성장을 한 것을 축하한다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_02</content>
+			<note>이제 가지고 있는 장비도 많을 테니 장비 세트 활용에 대해 알려주겠다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_03</content>
+			<note>화면 우측 하단에 있는 [시작 버튼]을 눌러 메뉴를 불러보아라.</note>
+			<action>click</action>
+			<dlg_name>start_dialog</dlg_name>
+			<ui_name>start_button</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_04</content>
+			<note>[캐릭터 정보]를 누르면 창이 나타난다. 이곳에서 정보를 확인할 수 있다.</note>
+			<action>click</action>
+			<dlg_name>pop_up</dlg_name>
+			<ui_name>menu_playerinfo</ui_name>
+			<ui_type>button</ui_type>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_05</content>
+			<note>정보 창 상단의 여러 개의 탭 중 [내 정보] 탭을 선택해라.</note>
+			<action>click</action>
+			<dlg_name>player_info_dialog</dlg_name>
+			<ui_name>tabbtn_info</ui_name>
+			<ui_type>tab</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_06</content>
+			<note>내 정보 창 하단에 있는 [장비 세트 설정] 버튼을 누르면 설정 창이 나타난다.</note>
+			<action>click</action>
+			<dlg_name>player_info_dialog</dlg_name>
+			<dlg_page>true</dlg_page>
+			<ui_name>equipment_change</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_07</content>
+			<note>[장비1 세트] 버튼을 한번 눌러보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+			<ui_type>list_view</ui_type>
+			<show_fx>true</show_fx>
+			<slot_number>1</slot_number>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_08</content>
+			<note>설정 창 하단에 있는 [현재 장비] 버튼을 선택하면 갖고 있는 장비가 등록된다.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>current</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_09</content>
+			<note>이제 [저장] 버튼을 눌러서 현재 장비를 저장해 보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>save</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_10</content>
+			<note>자, 이제 두 번째로 [장비2 세트] 버튼을 한번 눌러보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+			<ui_type>list_view</ui_type>
+			<show_fx>true</show_fx>
+			<slot_number>2</slot_number>
+			<reaction>open_inventory</reaction>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_11</content>
+			<note>큐브에서 무기를 선택해 장비 세트 설정 창의 무기1 슬롯으로 이동시켜라</note>
+			<action>drag</action>
+			<dlg_name>inventory_dialog</dlg_name>
+			<ui_name>list0</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+			<reaction>update_inventory</reaction>
+			<equip_item_name_id>100050086</equip_item_name_id>
+			<slot_number>1</slot_number>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_12</content>
+			<note>이렇게 하면 무기1 슬롯에 두 번째 무기가 등록된다.</note>
+			<action>register_slot</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>equip_rhand</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_13</content>
+			<note>이제 [저장] 버튼을 눌러 현재 장비를 저장해 보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>save</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_14</content>
+			<note>저장된 장비1, 2 세트는 퀵바에 등록해 사용하면 빠르게 장비를 바꿀 수 있다.</note>
+			<action>wait_input</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_15</content>
+			<note>전투의 대상에 따라 효과가 더 좋은 장비를 빠르게 교체해야 할 때가 있겠지?</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_16</content>
+			<note>그럴 때를 대비해 미리 장비 세트를 등록해 놓으면 도움이 될 것이다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_17</content>
+			<note>언제나 그대의 무운을 빈다. 또 다시 만나자꾸나.</note>
+			<action>wait_input</action>
+		</progress>
+	</tutorial>
+	<tutorial>
+		<quest_id>90007</quest_id>
+		<note>장비 세트 튜토리얼_수호성</note>
+		<finish_reaction>update_inventory</finish_reaction>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_01</content>
+			<note>아주 오랜만에 보는 것 같구나. 그동안 눈부신 성장을 한 것을 축하한다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_02</content>
+			<note>이제 가지고 있는 장비도 많을 테니 장비 세트 활용에 대해 알려주겠다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_03</content>
+			<note>화면 우측 하단에 있는 [시작 버튼]을 눌러 메뉴를 불러보아라.</note>
+			<action>click</action>
+			<dlg_name>start_dialog</dlg_name>
+			<ui_name>start_button</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_04</content>
+			<note>[캐릭터 정보]를 누르면 창이 나타난다. 이곳에서 정보를 확인할 수 있다.</note>
+			<action>click</action>
+			<dlg_name>pop_up</dlg_name>
+			<ui_name>menu_playerinfo</ui_name>
+			<ui_type>button</ui_type>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_05</content>
+			<note>정보 창 상단의 여러 개의 탭 중 [내 정보] 탭을 선택해라.</note>
+			<action>click</action>
+			<dlg_name>player_info_dialog</dlg_name>
+			<ui_name>tabbtn_info</ui_name>
+			<ui_type>tab</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_06</content>
+			<note>내 정보 창 하단에 있는 [장비 세트 설정] 버튼을 누르면 설정 창이 나타난다.</note>
+			<action>click</action>
+			<dlg_name>player_info_dialog</dlg_name>
+			<dlg_page>true</dlg_page>
+			<ui_name>equipment_change</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_07</content>
+			<note>[장비1 세트] 버튼을 한번 눌러보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+			<ui_type>list_view</ui_type>
+			<show_fx>true</show_fx>
+			<slot_number>1</slot_number>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_08</content>
+			<note>설정 창 하단에 있는 [현재 장비] 버튼을 선택하면 갖고 있는 장비가 등록된다.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>current</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_09</content>
+			<note>이제 [저장] 버튼을 눌러서 현재 장비를 저장해 보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>save</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_10</content>
+			<note>자, 이제 두 번째로 [장비2 세트] 버튼을 한번 눌러보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+			<ui_type>list_view</ui_type>
+			<show_fx>true</show_fx>
+			<slot_number>2</slot_number>
+			<reaction>open_inventory</reaction>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_11</content>
+			<note>큐브에서 무기를 선택해 장비 세트 설정 창의 무기1 슬롯으로 이동시켜라</note>
+			<action>drag</action>
+			<dlg_name>inventory_dialog</dlg_name>
+			<ui_name>list0</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+			<reaction>update_inventory</reaction>
+			<equip_item_name_id>100050086</equip_item_name_id>
+			<slot_number>1</slot_number>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_12</content>
+			<note>이렇게 하면 무기1 슬롯에 두 번째 무기가 등록된다.</note>
+			<action>register_slot</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>equip_rhand</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_13</content>
+			<note>이제 [저장] 버튼을 눌러 현재 장비를 저장해 보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>save</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_14</content>
+			<note>저장된 장비1, 2 세트는 퀵바에 등록해 사용하면 빠르게 장비를 바꿀 수 있다.</note>
+			<action>wait_input</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_15</content>
+			<note>전투의 대상에 따라 효과가 더 좋은 장비를 빠르게 교체해야 할 때가 있겠지?</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_16</content>
+			<note>그럴 때를 대비해 미리 장비 세트를 등록해 놓으면 도움이 될 것이다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_17</content>
+			<note>언제나 그대의 무운을 빈다. 또 다시 만나자꾸나.</note>
+			<action>wait_input</action>
+		</progress>
+	</tutorial>
+	<tutorial>
+		<quest_id>90008</quest_id>
+		<note>장비 세트 튜토리얼_살성</note>
+		<finish_reaction>update_inventory</finish_reaction>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_01</content>
+			<note>아주 오랜만에 보는 것 같구나. 그동안 눈부신 성장을 한 것을 축하한다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_02</content>
+			<note>이제 가지고 있는 장비도 많을 테니 장비 세트 활용에 대해 알려주겠다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_03</content>
+			<note>화면 우측 하단에 있는 [시작 버튼]을 눌러 메뉴를 불러보아라.</note>
+			<action>click</action>
+			<dlg_name>start_dialog</dlg_name>
+			<ui_name>start_button</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_04</content>
+			<note>[캐릭터 정보]를 누르면 창이 나타난다. 이곳에서 정보를 확인할 수 있다.</note>
+			<action>click</action>
+			<dlg_name>pop_up</dlg_name>
+			<ui_name>menu_playerinfo</ui_name>
+			<ui_type>button</ui_type>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_05</content>
+			<note>정보 창 상단의 여러 개의 탭 중 [내 정보] 탭을 선택해라.</note>
+			<action>click</action>
+			<dlg_name>player_info_dialog</dlg_name>
+			<ui_name>tabbtn_info</ui_name>
+			<ui_type>tab</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_06</content>
+			<note>내 정보 창 하단에 있는 [장비 세트 설정] 버튼을 누르면 설정 창이 나타난다.</note>
+			<action>click</action>
+			<dlg_name>player_info_dialog</dlg_name>
+			<dlg_page>true</dlg_page>
+			<ui_name>equipment_change</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_07</content>
+			<note>[장비1 세트] 버튼을 한번 눌러보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+			<ui_type>list_view</ui_type>
+			<show_fx>true</show_fx>
+			<slot_number>1</slot_number>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_08</content>
+			<note>설정 창 하단에 있는 [현재 장비] 버튼을 선택하면 갖고 있는 장비가 등록된다.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>current</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_09</content>
+			<note>이제 [저장] 버튼을 눌러서 현재 장비를 저장해 보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>save</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_10</content>
+			<note>자, 이제 두 번째로 [장비2 세트] 버튼을 한번 눌러보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+			<ui_type>list_view</ui_type>
+			<show_fx>true</show_fx>
+			<slot_number>2</slot_number>
+			<reaction>open_inventory</reaction>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_11</content>
+			<note>큐브에서 무기를 선택해 장비 세트 설정 창의 무기1 슬롯으로 이동시켜라</note>
+			<action>drag</action>
+			<dlg_name>inventory_dialog</dlg_name>
+			<ui_name>list0</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+			<reaction>update_inventory</reaction>
+			<equip_item_name_id>100250083</equip_item_name_id>
+			<slot_number>1</slot_number>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_12</content>
+			<note>이렇게 하면 무기1 슬롯에 두 번째 무기가 등록된다.</note>
+			<action>register_slot</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>equip_rhand</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_13</content>
+			<note>이제 [저장] 버튼을 눌러 현재 장비를 저장해 보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>save</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_14</content>
+			<note>저장된 장비1, 2 세트는 퀵바에 등록해 사용하면 빠르게 장비를 바꿀 수 있다.</note>
+			<action>wait_input</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_15</content>
+			<note>전투의 대상에 따라 효과가 더 좋은 장비를 빠르게 교체해야 할 때가 있겠지?</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_16</content>
+			<note>그럴 때를 대비해 미리 장비 세트를 등록해 놓으면 도움이 될 것이다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_17</content>
+			<note>언제나 그대의 무운을 빈다. 또 다시 만나자꾸나.</note>
+			<action>wait_input</action>
+		</progress>
+	</tutorial>
+	<tutorial>
+		<quest_id>90009</quest_id>
+		<note>장비 세트 튜토리얼_궁성</note>
+		<finish_reaction>update_inventory</finish_reaction>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_01</content>
+			<note>아주 오랜만에 보는 것 같구나. 그동안 눈부신 성장을 한 것을 축하한다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_02</content>
+			<note>이제 가지고 있는 장비도 많을 테니 장비 세트 활용에 대해 알려주겠다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_03</content>
+			<note>화면 우측 하단에 있는 [시작 버튼]을 눌러 메뉴를 불러보아라.</note>
+			<action>click</action>
+			<dlg_name>start_dialog</dlg_name>
+			<ui_name>start_button</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_04</content>
+			<note>[캐릭터 정보]를 누르면 창이 나타난다. 이곳에서 정보를 확인할 수 있다.</note>
+			<action>click</action>
+			<dlg_name>pop_up</dlg_name>
+			<ui_name>menu_playerinfo</ui_name>
+			<ui_type>button</ui_type>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_05</content>
+			<note>정보 창 상단의 여러 개의 탭 중 [내 정보] 탭을 선택해라.</note>
+			<action>click</action>
+			<dlg_name>player_info_dialog</dlg_name>
+			<ui_name>tabbtn_info</ui_name>
+			<ui_type>tab</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_06</content>
+			<note>내 정보 창 하단에 있는 [장비 세트 설정] 버튼을 누르면 설정 창이 나타난다.</note>
+			<action>click</action>
+			<dlg_name>player_info_dialog</dlg_name>
+			<dlg_page>true</dlg_page>
+			<ui_name>equipment_change</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_07</content>
+			<note>[장비1 세트] 버튼을 한번 눌러보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+			<ui_type>list_view</ui_type>
+			<show_fx>true</show_fx>
+			<slot_number>1</slot_number>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_08</content>
+			<note>설정 창 하단에 있는 [현재 장비] 버튼을 선택하면 갖고 있는 장비가 등록된다.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>current</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_09</content>
+			<note>이제 [저장] 버튼을 눌러서 현재 장비를 저장해 보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>save</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_10</content>
+			<note>자, 이제 두 번째로 [장비2 세트] 버튼을 한번 눌러보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+			<ui_type>list_view</ui_type>
+			<show_fx>true</show_fx>
+			<slot_number>2</slot_number>
+			<reaction>open_inventory</reaction>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_11</content>
+			<note>큐브에서 무기를 선택해 장비 세트 설정 창의 무기1 슬롯으로 이동시켜라</note>
+			<action>drag</action>
+			<dlg_name>inventory_dialog</dlg_name>
+			<ui_name>list0</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+			<reaction>update_inventory</reaction>
+			<equip_item_name_id>101750082</equip_item_name_id>
+			<slot_number>1</slot_number>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_12</content>
+			<note>이렇게 하면 무기1 슬롯에 두 번째 무기가 등록된다.</note>
+			<action>register_slot</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>equip_rhand</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_13</content>
+			<note>이제 [저장] 버튼을 눌러 현재 장비를 저장해 보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>save</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_14</content>
+			<note>저장된 장비1, 2 세트는 퀵바에 등록해 사용하면 빠르게 장비를 바꿀 수 있다.</note>
+			<action>wait_input</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_15</content>
+			<note>전투의 대상에 따라 효과가 더 좋은 장비를 빠르게 교체해야 할 때가 있겠지?</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_16</content>
+			<note>그럴 때를 대비해 미리 장비 세트를 등록해 놓으면 도움이 될 것이다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_17</content>
+			<note>언제나 그대의 무운을 빈다. 또 다시 만나자꾸나.</note>
+			<action>wait_input</action>
+		</progress>
+	</tutorial>
+	<tutorial>
+		<quest_id>90010</quest_id>
+		<note>장비 세트 튜토리얼_마도성</note>
+		<finish_reaction>update_inventory</finish_reaction>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_01</content>
+			<note>아주 오랜만에 보는 것 같구나. 그동안 눈부신 성장을 한 것을 축하한다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_02</content>
+			<note>이제 가지고 있는 장비도 많을 테니 장비 세트 활용에 대해 알려주겠다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_03</content>
+			<note>화면 우측 하단에 있는 [시작 버튼]을 눌러 메뉴를 불러보아라.</note>
+			<action>click</action>
+			<dlg_name>start_dialog</dlg_name>
+			<ui_name>start_button</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_04</content>
+			<note>[캐릭터 정보]를 누르면 창이 나타난다. 이곳에서 정보를 확인할 수 있다.</note>
+			<action>click</action>
+			<dlg_name>pop_up</dlg_name>
+			<ui_name>menu_playerinfo</ui_name>
+			<ui_type>button</ui_type>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_05</content>
+			<note>정보 창 상단의 여러 개의 탭 중 [내 정보] 탭을 선택해라.</note>
+			<action>click</action>
+			<dlg_name>player_info_dialog</dlg_name>
+			<ui_name>tabbtn_info</ui_name>
+			<ui_type>tab</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_06</content>
+			<note>내 정보 창 하단에 있는 [장비 세트 설정] 버튼을 누르면 설정 창이 나타난다.</note>
+			<action>click</action>
+			<dlg_name>player_info_dialog</dlg_name>
+			<dlg_page>true</dlg_page>
+			<ui_name>equipment_change</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_07</content>
+			<note>[장비1 세트] 버튼을 한번 눌러보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+			<ui_type>list_view</ui_type>
+			<show_fx>true</show_fx>
+			<slot_number>1</slot_number>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_08</content>
+			<note>설정 창 하단에 있는 [현재 장비] 버튼을 선택하면 갖고 있는 장비가 등록된다.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>current</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_09</content>
+			<note>이제 [저장] 버튼을 눌러서 현재 장비를 저장해 보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>save</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_10</content>
+			<note>자, 이제 두 번째로 [장비2 세트] 버튼을 한번 눌러보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+			<ui_type>list_view</ui_type>
+			<show_fx>true</show_fx>
+			<slot_number>2</slot_number>
+			<reaction>open_inventory</reaction>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_11</content>
+			<note>큐브에서 무기를 선택해 장비 세트 설정 창의 무기1 슬롯으로 이동시켜라</note>
+			<action>drag</action>
+			<dlg_name>inventory_dialog</dlg_name>
+			<ui_name>list0</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+			<reaction>update_inventory</reaction>
+			<equip_item_name_id>100550082</equip_item_name_id>
+			<slot_number>1</slot_number>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_12</content>
+			<note>이렇게 하면 무기1 슬롯에 두 번째 무기가 등록된다.</note>
+			<action>register_slot</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>equip_rhand</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_13</content>
+			<note>이제 [저장] 버튼을 눌러 현재 장비를 저장해 보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>save</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_14</content>
+			<note>저장된 장비1, 2 세트는 퀵바에 등록해 사용하면 빠르게 장비를 바꿀 수 있다.</note>
+			<action>wait_input</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_15</content>
+			<note>전투의 대상에 따라 효과가 더 좋은 장비를 빠르게 교체해야 할 때가 있겠지?</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_16</content>
+			<note>그럴 때를 대비해 미리 장비 세트를 등록해 놓으면 도움이 될 것이다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_17</content>
+			<note>언제나 그대의 무운을 빈다. 또 다시 만나자꾸나.</note>
+			<action>wait_input</action>
+		</progress>
+	</tutorial>
+	<tutorial>
+		<quest_id>90011</quest_id>
+		<note>장비 세트 튜토리얼_정령성</note>
+		<finish_reaction>update_inventory</finish_reaction>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_01</content>
+			<note>아주 오랜만에 보는 것 같구나. 그동안 눈부신 성장을 한 것을 축하한다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_02</content>
+			<note>이제 가지고 있는 장비도 많을 테니 장비 세트 활용에 대해 알려주겠다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_03</content>
+			<note>화면 우측 하단에 있는 [시작 버튼]을 눌러 메뉴를 불러보아라.</note>
+			<action>click</action>
+			<dlg_name>start_dialog</dlg_name>
+			<ui_name>start_button</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_04</content>
+			<note>[캐릭터 정보]를 누르면 창이 나타난다. 이곳에서 정보를 확인할 수 있다.</note>
+			<action>click</action>
+			<dlg_name>pop_up</dlg_name>
+			<ui_name>menu_playerinfo</ui_name>
+			<ui_type>button</ui_type>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_05</content>
+			<note>정보 창 상단의 여러 개의 탭 중 [내 정보] 탭을 선택해라.</note>
+			<action>click</action>
+			<dlg_name>player_info_dialog</dlg_name>
+			<ui_name>tabbtn_info</ui_name>
+			<ui_type>tab</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_06</content>
+			<note>내 정보 창 하단에 있는 [장비 세트 설정] 버튼을 누르면 설정 창이 나타난다.</note>
+			<action>click</action>
+			<dlg_name>player_info_dialog</dlg_name>
+			<dlg_page>true</dlg_page>
+			<ui_name>equipment_change</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_07</content>
+			<note>[장비1 세트] 버튼을 한번 눌러보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+			<ui_type>list_view</ui_type>
+			<show_fx>true</show_fx>
+			<slot_number>1</slot_number>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_08</content>
+			<note>설정 창 하단에 있는 [현재 장비] 버튼을 선택하면 갖고 있는 장비가 등록된다.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>current</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_09</content>
+			<note>이제 [저장] 버튼을 눌러서 현재 장비를 저장해 보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>save</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_10</content>
+			<note>자, 이제 두 번째로 [장비2 세트] 버튼을 한번 눌러보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+			<ui_type>list_view</ui_type>
+			<show_fx>true</show_fx>
+			<slot_number>2</slot_number>
+			<reaction>open_inventory</reaction>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_11</content>
+			<note>큐브에서 무기를 선택해 장비 세트 설정 창의 무기1 슬롯으로 이동시켜라</note>
+			<action>drag</action>
+			<dlg_name>inventory_dialog</dlg_name>
+			<ui_name>list0</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+			<reaction>update_inventory</reaction>
+			<equip_item_name_id>100550082</equip_item_name_id>
+			<slot_number>1</slot_number>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_12</content>
+			<note>이렇게 하면 무기1 슬롯에 두 번째 무기가 등록된다.</note>
+			<action>register_slot</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>equip_rhand</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_13</content>
+			<note>이제 [저장] 버튼을 눌러 현재 장비를 저장해 보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>save</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_14</content>
+			<note>저장된 장비1, 2 세트는 퀵바에 등록해 사용하면 빠르게 장비를 바꿀 수 있다.</note>
+			<action>wait_input</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_15</content>
+			<note>전투의 대상에 따라 효과가 더 좋은 장비를 빠르게 교체해야 할 때가 있겠지?</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_16</content>
+			<note>그럴 때를 대비해 미리 장비 세트를 등록해 놓으면 도움이 될 것이다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_17</content>
+			<note>언제나 그대의 무운을 빈다. 또 다시 만나자꾸나.</note>
+			<action>wait_input</action>
+		</progress>
+	</tutorial>
+	<tutorial>
+		<quest_id>90012</quest_id>
+		<note>장비 세트 튜토리얼_호법성</note>
+		<finish_reaction>update_inventory</finish_reaction>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_01</content>
+			<note>아주 오랜만에 보는 것 같구나. 그동안 눈부신 성장을 한 것을 축하한다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_02</content>
+			<note>이제 가지고 있는 장비도 많을 테니 장비 세트 활용에 대해 알려주겠다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_03</content>
+			<note>화면 우측 하단에 있는 [시작 버튼]을 눌러 메뉴를 불러보아라.</note>
+			<action>click</action>
+			<dlg_name>start_dialog</dlg_name>
+			<ui_name>start_button</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_04</content>
+			<note>[캐릭터 정보]를 누르면 창이 나타난다. 이곳에서 정보를 확인할 수 있다.</note>
+			<action>click</action>
+			<dlg_name>pop_up</dlg_name>
+			<ui_name>menu_playerinfo</ui_name>
+			<ui_type>button</ui_type>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_05</content>
+			<note>정보 창 상단의 여러 개의 탭 중 [내 정보] 탭을 선택해라.</note>
+			<action>click</action>
+			<dlg_name>player_info_dialog</dlg_name>
+			<ui_name>tabbtn_info</ui_name>
+			<ui_type>tab</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_06</content>
+			<note>내 정보 창 하단에 있는 [장비 세트 설정] 버튼을 누르면 설정 창이 나타난다.</note>
+			<action>click</action>
+			<dlg_name>player_info_dialog</dlg_name>
+			<dlg_page>true</dlg_page>
+			<ui_name>equipment_change</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_07</content>
+			<note>[장비1 세트] 버튼을 한번 눌러보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+			<ui_type>list_view</ui_type>
+			<show_fx>true</show_fx>
+			<slot_number>1</slot_number>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_08</content>
+			<note>설정 창 하단에 있는 [현재 장비] 버튼을 선택하면 갖고 있는 장비가 등록된다.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>current</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_09</content>
+			<note>이제 [저장] 버튼을 눌러서 현재 장비를 저장해 보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>save</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_10</content>
+			<note>자, 이제 두 번째로 [장비2 세트] 버튼을 한번 눌러보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+			<ui_type>list_view</ui_type>
+			<show_fx>true</show_fx>
+			<slot_number>2</slot_number>
+			<reaction>open_inventory</reaction>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_11</content>
+			<note>큐브에서 무기를 선택해 장비 세트 설정 창의 무기1 슬롯으로 이동시켜라</note>
+			<action>drag</action>
+			<dlg_name>inventory_dialog</dlg_name>
+			<ui_name>list0</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+			<reaction>update_inventory</reaction>
+			<equip_item_name_id>101550081</equip_item_name_id>
+			<slot_number>1</slot_number>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_12</content>
+			<note>이렇게 하면 무기1 슬롯에 두 번째 무기가 등록된다.</note>
+			<action>register_slot</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>equip_rhand</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_13</content>
+			<note>이제 [저장] 버튼을 눌러 현재 장비를 저장해 보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>save</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_14</content>
+			<note>저장된 장비1, 2 세트는 퀵바에 등록해 사용하면 빠르게 장비를 바꿀 수 있다.</note>
+			<action>wait_input</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_15</content>
+			<note>전투의 대상에 따라 효과가 더 좋은 장비를 빠르게 교체해야 할 때가 있겠지?</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_16</content>
+			<note>그럴 때를 대비해 미리 장비 세트를 등록해 놓으면 도움이 될 것이다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_17</content>
+			<note>언제나 그대의 무운을 빈다. 또 다시 만나자꾸나.</note>
+			<action>wait_input</action>
+		</progress>
+	</tutorial>
+	<tutorial>
+		<quest_id>90013</quest_id>
+		<note>장비 세트 튜토리얼_치유성</note>
+		<finish_reaction>update_inventory</finish_reaction>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_01</content>
+			<note>아주 오랜만에 보는 것 같구나. 그동안 눈부신 성장을 한 것을 축하한다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_02</content>
+			<note>이제 가지고 있는 장비도 많을 테니 장비 세트 활용에 대해 알려주겠다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_03</content>
+			<note>화면 우측 하단에 있는 [시작 버튼]을 눌러 메뉴를 불러보아라.</note>
+			<action>click</action>
+			<dlg_name>start_dialog</dlg_name>
+			<ui_name>start_button</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_04</content>
+			<note>[캐릭터 정보]를 누르면 창이 나타난다. 이곳에서 정보를 확인할 수 있다.</note>
+			<action>click</action>
+			<dlg_name>pop_up</dlg_name>
+			<ui_name>menu_playerinfo</ui_name>
+			<ui_type>button</ui_type>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_05</content>
+			<note>정보 창 상단의 여러 개의 탭 중 [내 정보] 탭을 선택해라.</note>
+			<action>click</action>
+			<dlg_name>player_info_dialog</dlg_name>
+			<ui_name>tabbtn_info</ui_name>
+			<ui_type>tab</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_06</content>
+			<note>내 정보 창 하단에 있는 [장비 세트 설정] 버튼을 누르면 설정 창이 나타난다.</note>
+			<action>click</action>
+			<dlg_name>player_info_dialog</dlg_name>
+			<dlg_page>true</dlg_page>
+			<ui_name>equipment_change</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_07</content>
+			<note>[장비1 세트] 버튼을 한번 눌러보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+			<ui_type>list_view</ui_type>
+			<show_fx>true</show_fx>
+			<slot_number>1</slot_number>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_08</content>
+			<note>설정 창 하단에 있는 [현재 장비] 버튼을 선택하면 갖고 있는 장비가 등록된다.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>current</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_09</content>
+			<note>이제 [저장] 버튼을 눌러서 현재 장비를 저장해 보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>save</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_10</content>
+			<note>자, 이제 두 번째로 [장비2 세트] 버튼을 한번 눌러보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+			<ui_type>list_view</ui_type>
+			<show_fx>true</show_fx>
+			<slot_number>2</slot_number>
+			<reaction>open_inventory</reaction>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_11</content>
+			<note>큐브에서 무기를 선택해 장비 세트 설정 창의 무기1 슬롯으로 이동시켜라</note>
+			<action>drag</action>
+			<dlg_name>inventory_dialog</dlg_name>
+			<ui_name>list0</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+			<reaction>update_inventory</reaction>
+			<equip_item_name_id>100150082</equip_item_name_id>
+			<slot_number>1</slot_number>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_12</content>
+			<note>이렇게 하면 무기1 슬롯에 두 번째 무기가 등록된다.</note>
+			<action>register_slot</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>equip_rhand</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_13</content>
+			<note>이제 [저장] 버튼을 눌러 현재 장비를 저장해 보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>save</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_14</content>
+			<note>저장된 장비1, 2 세트는 퀵바에 등록해 사용하면 빠르게 장비를 바꿀 수 있다.</note>
+			<action>wait_input</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_15</content>
+			<note>전투의 대상에 따라 효과가 더 좋은 장비를 빠르게 교체해야 할 때가 있겠지?</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_16</content>
+			<note>그럴 때를 대비해 미리 장비 세트를 등록해 놓으면 도움이 될 것이다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_17</content>
+			<note>언제나 그대의 무운을 빈다. 또 다시 만나자꾸나.</note>
+			<action>wait_input</action>
+		</progress>
+	</tutorial>
+	<tutorial>
+		<quest_id>90014</quest_id>
+		<note>장비 세트 튜토리얼_사격성</note>
+		<finish_reaction>update_inventory</finish_reaction>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_01</content>
+			<note>아주 오랜만에 보는 것 같구나. 그동안 눈부신 성장을 한 것을 축하한다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_02</content>
+			<note>이제 가지고 있는 장비도 많을 테니 장비 세트 활용에 대해 알려주겠다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_03</content>
+			<note>화면 우측 하단에 있는 [시작 버튼]을 눌러 메뉴를 불러보아라.</note>
+			<action>click</action>
+			<dlg_name>start_dialog</dlg_name>
+			<ui_name>start_button</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_04</content>
+			<note>[캐릭터 정보]를 누르면 창이 나타난다. 이곳에서 정보를 확인할 수 있다.</note>
+			<action>click</action>
+			<dlg_name>pop_up</dlg_name>
+			<ui_name>menu_playerinfo</ui_name>
+			<ui_type>button</ui_type>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_05</content>
+			<note>정보 창 상단의 여러 개의 탭 중 [내 정보] 탭을 선택해라.</note>
+			<action>click</action>
+			<dlg_name>player_info_dialog</dlg_name>
+			<ui_name>tabbtn_info</ui_name>
+			<ui_type>tab</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_06</content>
+			<note>내 정보 창 하단에 있는 [장비 세트 설정] 버튼을 누르면 설정 창이 나타난다.</note>
+			<action>click</action>
+			<dlg_name>player_info_dialog</dlg_name>
+			<dlg_page>true</dlg_page>
+			<ui_name>equipment_change</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_07</content>
+			<note>[장비1 세트] 버튼을 한번 눌러보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+			<ui_type>list_view</ui_type>
+			<show_fx>true</show_fx>
+			<slot_number>1</slot_number>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_08</content>
+			<note>설정 창 하단에 있는 [현재 장비] 버튼을 선택하면 갖고 있는 장비가 등록된다.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>current</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_09</content>
+			<note>이제 [저장] 버튼을 눌러서 현재 장비를 저장해 보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>save</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_10</content>
+			<note>자, 이제 두 번째로 [장비2 세트] 버튼을 한번 눌러보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+			<ui_type>list_view</ui_type>
+			<show_fx>true</show_fx>
+			<slot_number>2</slot_number>
+			<reaction>open_inventory</reaction>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_11</content>
+			<note>큐브에서 무기를 선택해 장비 세트 설정 창의 무기1 슬롯으로 이동시켜라</note>
+			<action>drag</action>
+			<dlg_name>inventory_dialog</dlg_name>
+			<ui_name>list0</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+			<reaction>update_inventory</reaction>
+			<equip_item_name_id>101850084</equip_item_name_id>
+			<slot_number>1</slot_number>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_12</content>
+			<note>이렇게 하면 무기1 슬롯에 두 번째 무기가 등록된다.</note>
+			<action>register_slot</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>equip_rhand</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_13</content>
+			<note>이제 [저장] 버튼을 눌러 현재 장비를 저장해 보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>save</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_14</content>
+			<note>저장된 장비1, 2 세트는 퀵바에 등록해 사용하면 빠르게 장비를 바꿀 수 있다.</note>
+			<action>wait_input</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_15</content>
+			<note>전투의 대상에 따라 효과가 더 좋은 장비를 빠르게 교체해야 할 때가 있겠지?</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_16</content>
+			<note>그럴 때를 대비해 미리 장비 세트를 등록해 놓으면 도움이 될 것이다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_17</content>
+			<note>언제나 그대의 무운을 빈다. 또 다시 만나자꾸나.</note>
+			<action>wait_input</action>
+		</progress>
+	</tutorial>
+	<tutorial>
+		<quest_id>90015</quest_id>
+		<note>장비 세트 튜토리얼_음유성</note>
+		<finish_reaction>update_inventory</finish_reaction>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_01</content>
+			<note>아주 오랜만에 보는 것 같구나. 그동안 눈부신 성장을 한 것을 축하한다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_02</content>
+			<note>이제 가지고 있는 장비도 많을 테니 장비 세트 활용에 대해 알려주겠다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_03</content>
+			<note>화면 우측 하단에 있는 [시작 버튼]을 눌러 메뉴를 불러보아라.</note>
+			<action>click</action>
+			<dlg_name>start_dialog</dlg_name>
+			<ui_name>start_button</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_04</content>
+			<note>[캐릭터 정보]를 누르면 창이 나타난다. 이곳에서 정보를 확인할 수 있다.</note>
+			<action>click</action>
+			<dlg_name>pop_up</dlg_name>
+			<ui_name>menu_playerinfo</ui_name>
+			<ui_type>button</ui_type>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_05</content>
+			<note>정보 창 상단의 여러 개의 탭 중 [내 정보] 탭을 선택해라.</note>
+			<action>click</action>
+			<dlg_name>player_info_dialog</dlg_name>
+			<ui_name>tabbtn_info</ui_name>
+			<ui_type>tab</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_06</content>
+			<note>내 정보 창 하단에 있는 [장비 세트 설정] 버튼을 누르면 설정 창이 나타난다.</note>
+			<action>click</action>
+			<dlg_name>player_info_dialog</dlg_name>
+			<dlg_page>true</dlg_page>
+			<ui_name>equipment_change</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_07</content>
+			<note>[장비1 세트] 버튼을 한번 눌러보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+			<ui_type>list_view</ui_type>
+			<show_fx>true</show_fx>
+			<slot_number>1</slot_number>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_08</content>
+			<note>설정 창 하단에 있는 [현재 장비] 버튼을 선택하면 갖고 있는 장비가 등록된다.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>current</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_09</content>
+			<note>이제 [저장] 버튼을 눌러서 현재 장비를 저장해 보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>save</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_10</content>
+			<note>자, 이제 두 번째로 [장비2 세트] 버튼을 한번 눌러보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+			<ui_type>list_view</ui_type>
+			<show_fx>true</show_fx>
+			<slot_number>2</slot_number>
+			<reaction>open_inventory</reaction>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_11</content>
+			<note>큐브에서 무기를 선택해 장비 세트 설정 창의 무기1 슬롯으로 이동시켜라</note>
+			<action>drag</action>
+			<dlg_name>inventory_dialog</dlg_name>
+			<ui_name>list0</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+			<reaction>update_inventory</reaction>
+			<equip_item_name_id>102050082</equip_item_name_id>
+			<slot_number>1</slot_number>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_12</content>
+			<note>이렇게 하면 무기1 슬롯에 두 번째 무기가 등록된다.</note>
+			<action>register_slot</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>equip_rhand</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_13</content>
+			<note>이제 [저장] 버튼을 눌러 현재 장비를 저장해 보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>save</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_14</content>
+			<note>저장된 장비1, 2 세트는 퀵바에 등록해 사용하면 빠르게 장비를 바꿀 수 있다.</note>
+			<action>wait_input</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_15</content>
+			<note>전투의 대상에 따라 효과가 더 좋은 장비를 빠르게 교체해야 할 때가 있겠지?</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_16</content>
+			<note>그럴 때를 대비해 미리 장비 세트를 등록해 놓으면 도움이 될 것이다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_17</content>
+			<note>언제나 그대의 무운을 빈다. 또 다시 만나자꾸나.</note>
+			<action>wait_input</action>
+		</progress>
+	</tutorial>
+	<tutorial>
+		<quest_id>90016</quest_id>
+		<note>장비 세트 튜토리얼_기갑성</note>
+		<finish_reaction>update_inventory</finish_reaction>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_01</content>
+			<note>아주 오랜만에 보는 것 같구나. 그동안 눈부신 성장을 한 것을 축하한다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_02</content>
+			<note>이제 가지고 있는 장비도 많을 테니 장비 세트 활용에 대해 알려주겠다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_03</content>
+			<note>화면 우측 하단에 있는 [시작 버튼]을 눌러 메뉴를 불러보아라.</note>
+			<action>click</action>
+			<dlg_name>start_dialog</dlg_name>
+			<ui_name>start_button</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_04</content>
+			<note>[캐릭터 정보]를 누르면 창이 나타난다. 이곳에서 정보를 확인할 수 있다.</note>
+			<action>click</action>
+			<dlg_name>pop_up</dlg_name>
+			<ui_name>menu_playerinfo</ui_name>
+			<ui_type>button</ui_type>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_05</content>
+			<note>정보 창 상단의 여러 개의 탭 중 [내 정보] 탭을 선택해라.</note>
+			<action>click</action>
+			<dlg_name>player_info_dialog</dlg_name>
+			<ui_name>tabbtn_info</ui_name>
+			<ui_type>tab</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_06</content>
+			<note>내 정보 창 하단에 있는 [장비 세트 설정] 버튼을 누르면 설정 창이 나타난다.</note>
+			<action>click</action>
+			<dlg_name>player_info_dialog</dlg_name>
+			<dlg_page>true</dlg_page>
+			<ui_name>equipment_change</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_07</content>
+			<note>[장비1 세트] 버튼을 한번 눌러보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+			<ui_type>list_view</ui_type>
+			<show_fx>true</show_fx>
+			<slot_number>1</slot_number>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_08</content>
+			<note>설정 창 하단에 있는 [현재 장비] 버튼을 선택하면 갖고 있는 장비가 등록된다.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>current</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_09</content>
+			<note>이제 [저장] 버튼을 눌러서 현재 장비를 저장해 보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>save</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_10</content>
+			<note>자, 이제 두 번째로 [장비2 세트] 버튼을 한번 눌러보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+			<ui_type>list_view</ui_type>
+			<show_fx>true</show_fx>
+			<slot_number>2</slot_number>
+			<reaction>open_inventory</reaction>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_11</content>
+			<note>큐브에서 무기를 선택해 장비 세트 설정 창의 무기1 슬롯으로 이동시켜라</note>
+			<action>drag</action>
+			<dlg_name>inventory_dialog</dlg_name>
+			<ui_name>list0</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+			<reaction>update_inventory</reaction>
+			<equip_item_name_id>102150087</equip_item_name_id>
+			<slot_number>1</slot_number>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_12</content>
+			<note>이렇게 하면 무기1 슬롯에 두 번째 무기가 등록된다.</note>
+			<action>register_slot</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>equip_rhand</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_13</content>
+			<note>이제 [저장] 버튼을 눌러 현재 장비를 저장해 보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>save</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_14</content>
+			<note>저장된 장비1, 2 세트는 퀵바에 등록해 사용하면 빠르게 장비를 바꿀 수 있다.</note>
+			<action>wait_input</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_15</content>
+			<note>전투의 대상에 따라 효과가 더 좋은 장비를 빠르게 교체해야 할 때가 있겠지?</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_16</content>
+			<note>그럴 때를 대비해 미리 장비 세트를 등록해 놓으면 도움이 될 것이다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_17</content>
+			<note>언제나 그대의 무운을 빈다. 또 다시 만나자꾸나.</note>
+			<action>wait_input</action>
+		</progress>
+	</tutorial>
+	<tutorial>
+		<quest_id>90017</quest_id>
+		<finish_reaction>update_inventory</finish_reaction>
+		<note>큐빅 튜토리얼</note>
+		<progress>
+			<content>STR_TUTORIAL_Cubic_01</content>
+			<note>아주 희귀한 것을 손에 넣었구나.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_Cubic_02</content>
+			<note>그것은 슈고가 만든 큐비클로 큐빅을 구성하는 재료라 할 수 있다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_Cubic_03</content>
+			<note>이번에는 큐비클을 등록하고 큐빅을 구성하는 방법을 가르쳐 주겠다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_Cubic_04</content>
+			<note>자, 우선 화면 우측 하단에 있는 [시작 버튼]을 눌러 메뉴를 불러보아라.</note>
+			<action>click</action>
+			<dlg_name>start_dialog</dlg_name>
+			<ui_name>start_button</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_Cubic_05</content>
+			<note>[큐빅]을 누르면 큐빅 창이 뜬다. 큐빅의 등록과 관리는 여기서 한다.</note>
+			<action>click</action>
+			<dlg_name>pop_up</dlg_name>
+			<ui_name>menu_monster_core</ui_name>
+			<ui_type>button</ui_type>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_Cubic_06</content>
+			<note>네가 가진 것은 생명 큐비클이구나. [생명 큐빅] 버튼을 눌러보아라.</note>
+			<action>click</action>
+			<dlg_name>monster_core_dialog</dlg_name>
+			<ui_name>8</ui_name>
+			<ui_type>button</ui_type>
+			<margin>4</margin>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_Cubic_07</content>
+			<note>큐빅은 등급에 따라 여러 개로 나뉘며 각각 한 종류의 큐비클로 구성된다.</note>
+			<action>wait_input</action>
+			<dlg_name>monster_core_dialog</dlg_name>
+			<ui_name>coreList_grid</ui_name>
+			<ui_type>list_view</ui_type>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_Cubic_08</content>
+			<note>자, 그럼 갖고 있는 큐비클에 해당되는 큐빅을 한번 선택해 보거라.</note>
+			<action>click</action>
+			<dlg_name>monster_core_dialog</dlg_name>
+			<ui_name>coreList_grid</ui_name>
+			<ui_type>grid_item</ui_type>
+			<slot_number>1</slot_number>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_Cubic_09</content>
+			<note>등록 가능한 큐비클을 갖고 있으면 [등록] 버튼이 활성된다.</note>
+			<action>wait_input</action>
+			<dlg_name>monster_core_dialog</dlg_name>
+			<ui_name>registration_button</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_Cubic_10</content>
+			<note>일정량의 큐비클을 등록하면 단계별로 큐빅이 활성되며 능력이 향상된다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_Cubic_11</content>
+			<note>우측 하단의 [일괄 등록] 버튼을 누르면 소지한 큐비클이 모두 등록된다.</note>
+			<action>wait_input</action>
+			<dlg_name>monster_core_dialog</dlg_name>
+			<ui_name>batchRegistration_button</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_Cubic_12</content>
+			<note>정리하자면 큐빅은 사용자의 능력을 향상시키는 슈고의 발명품으로,</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_Cubic_13</content>
+			<note>소지한 큐비클을 큐빅 창에 등록하는 것으로 활성시킬 수 있다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_Cubic_14</content>
+			<note>가르침은 여기까지다. 부디 유용하게 사용하길 바란다.</note>
+			<action>wait_input</action>
+		</progress>
+	</tutorial>
+	<tutorial>
+		<quest_id>90018</quest_id>
+		<note>장비 세트 튜토리얼_미술성</note>
+		<finish_reaction>update_inventory</finish_reaction>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_01</content>
+			<note>아주 오랜만에 보는 것 같구나. 그동안 눈부신 성장을 한 것을 축하한다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_02</content>
+			<note>이제 가지고 있는 장비도 많을 테니 장비 세트 활용에 대해 알려주겠다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_03</content>
+			<note>화면 우측 하단에 있는 [시작 버튼]을 눌러 메뉴를 불러보아라.</note>
+			<action>click</action>
+			<dlg_name>start_dialog</dlg_name>
+			<ui_name>start_button</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_04</content>
+			<note>[캐릭터 정보]를 누르면 창이 나타난다. 이곳에서 정보를 확인할 수 있다.</note>
+			<action>click</action>
+			<dlg_name>pop_up</dlg_name>
+			<ui_name>menu_playerinfo</ui_name>
+			<ui_type>button</ui_type>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_05</content>
+			<note>정보 창 상단의 여러 개의 탭 중 [내 정보] 탭을 선택해라.</note>
+			<action>click</action>
+			<dlg_name>player_info_dialog</dlg_name>
+			<ui_name>tabbtn_info</ui_name>
+			<ui_type>tab</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_06</content>
+			<note>내 정보 창 하단에 있는 [장비 세트 설정] 버튼을 누르면 설정 창이 나타난다.</note>
+			<action>click</action>
+			<dlg_name>player_info_dialog</dlg_name>
+			<dlg_page>true</dlg_page>
+			<ui_name>equipment_change</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_07</content>
+			<note>[장비1 세트] 버튼을 한번 눌러보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+			<ui_type>list_view</ui_type>
+			<show_fx>true</show_fx>
+			<slot_number>1</slot_number>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_08</content>
+			<note>설정 창 하단에 있는 [현재 장비] 버튼을 선택하면 갖고 있는 장비가 등록된다.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>current</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_09</content>
+			<note>이제 [저장] 버튼을 눌러서 현재 장비를 저장해 보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>save</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_10</content>
+			<note>자, 이제 두 번째로 [장비2 세트] 버튼을 한번 눌러보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+			<ui_type>list_view</ui_type>
+			<show_fx>true</show_fx>
+			<slot_number>2</slot_number>
+			<reaction>open_inventory</reaction>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_11</content>
+			<note>큐브에서 무기를 선택해 장비 세트 설정 창의 무기1 슬롯으로 이동시켜라</note>
+			<action>drag</action>
+			<dlg_name>inventory_dialog</dlg_name>
+			<ui_name>list0</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+			<reaction>update_inventory</reaction>
+			<equip_item_name_id>102220087</equip_item_name_id>
+			<slot_number>1</slot_number>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_12</content>
+			<note>이렇게 하면 무기1 슬롯에 두 번째 무기가 등록된다.</note>
+			<action>register_slot</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>equip_rhand</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_13</content>
+			<note>이제 [저장] 버튼을 눌러 현재 장비를 저장해 보거라.</note>
+			<action>click</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>save</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_14</content>
+			<note>저장된 장비1, 2 세트는 퀵바에 등록해 사용하면 빠르게 장비를 바꿀 수 있다.</note>
+			<action>wait_input</action>
+			<dlg_name>equipment_change_dialog</dlg_name>
+			<ui_name>slotlist</ui_name>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_15</content>
+			<note>전투의 대상에 따라 효과가 더 좋은 장비를 빠르게 교체해야 할 때가 있겠지?</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_16</content>
+			<note>그럴 때를 대비해 미리 장비 세트를 등록해 놓으면 도움이 될 것이다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_USE_EQQUIPMENT_SET_17</content>
+			<note>언제나 그대의 무운을 빈다. 또 다시 만나자꾸나.</note>
+			<action>wait_input</action>
+		</progress>
+	</tutorial>
+	<tutorial>
+		<quest_id>90019</quest_id>
+		<note>7.0 [튜토리얼] 샤드를 장착해보자</note>
+		<progress>
+			<content>STR_TUTORIAL_NBATTERY_ITEM_1</content>
+			<note>어서 오거라. 샤드로 스킬의 대미지를 증가시킬 수 있다는 건 알고 있는가?</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_NBATTERY_ITEM_2</content>
+			<note>이번엔 스킬을 대미지 증가시키는 방법에 대해 알려주겠다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_NBATTERY_ITEM_3</content>
+			<note>화면 우측 하단에 있는 [시작 버튼]을 눌러 메뉴를 불러보아라.</note>
+			<action>click</action>
+			<dlg_name>start_dialog</dlg_name>
+			<ui_name>start_button</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_NBATTERY_ITEM_4</content>
+			<note>[캐릭터 정보]를 누르면 캐릭터 정보 창이 나타난다.</note>
+			<action>click</action>
+			<dlg_name>pop_up</dlg_name>
+			<ui_name>menu_playerinfo</ui_name>
+			<ui_type>button</ui_type>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_NBATTERY_ITEM_5</content>
+			<note>[내 정보] 탭을 눌러보아라.</note>
+			<action>click</action>
+			<dlg_name>player_info_dialog</dlg_name>
+			<ui_name>tabbtn_info</ui_name>
+			<ui_type>tab</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_NBATTERY_ITEM_11</content>
+			<note>샤드 장착 슬롯이 보일 것이다.</note>
+			<action>wait_input</action>
+			<dlg_name>player_info_dialog</dlg_name>
+			<ui_name>equip_rbattery</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+			<reaction>open_inventory</reaction>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_NBATTERY_ITEM_6</content>
+			<note>큐브에서 샤드를 선택해 캐릭터 정보 창 샤드 슬롯에 아이템을 등록하거라.</note>
+			<action>drag</action>
+			<dlg_name>inventory_dialog</dlg_name>
+			<ui_name>list0</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+			<reaction>update_inventory</reaction>
+			<equip_item_name_id>169030000</equip_item_name_id>
+			<slot_number>1</slot_number>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_NBATTERY_ITEM_7</content>
+			<note>자, 이제 샤드가 등록 되었다. 하지만 아직 활성화는 되지 않았다.</note>
+			<action>register_slot</action>
+			<dlg_name>player_info_dialog</dlg_name>
+			<ui_name>equip_rbattery</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_NBATTERY_ITEM_8</content>
+			<note>전투의 대상에 따라 더 높은 스킬 대미지가 필요 할 때가 있겠지?</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_NBATTERY_ITEM_9</content>
+			<note>그럴 때는 화면 좌측 하단에 있는 [샤드 활성화 버튼]을 눌러 샤드를 활성화하여 싸우거라.</note>
+			<action>click</action>
+			<dlg_name>basic_status_dialog</dlg_name>
+			<ui_name>use_weapon_boost</ui_name>
+			<ui_type>button</ui_type>
+			<top_guide>true</top_guide>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_NBATTERY_ITEM_10</content>
+			<note>부디 이 지식이 유용하게 사용해 훌륭한 데바가 되길 바라마.</note>
+			<action>wait_input</action>
+		</progress>
+	</tutorial>
+	<tutorial>
+		<quest_id>90020</quest_id>
+		<note>7.0 [튜토리얼] 황금모래 상회</note>
+		<progress>
+			<content>STR_TUTORIAL_GOLDSAND_01</content>
+			<note>내 부름을 듣고 찾아 왔는가?</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_GOLDSAND_02</content>
+			<note>이제 그대에게 황금모래 상회에 대해서 알려줄 때가 된 것 같구나.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_GOLDSAND_03</content>
+			<note>우선 화면 우측 하단에 있는 [황금모래 상회]을 눌러 황금모래 상회 창을 불러보아라.</note>
+			<action>click</action>
+			<dlg_name>start_dialog</dlg_name>
+			<ui_name>item_qina_shop</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_GOLDSAND_04</content>
+			<note>[키나] 탭에서는 키나로 구입할 수 있는 상품을 확인할 수 있다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_GOLDSAND_05</content>
+			<note>기간 내 한정적으로 구매할 수 있는 상품도 있으니 참고하거라.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_GOLDSAND_06</content>
+			<note>이제 황금모래 상회 탭 중 [의상] 탭을 선택해보아라.</note>
+			<action>click</action>
+			<dlg_name>shop_kina_dialog</dlg_name>
+			<ui_name>buy_dress_tab</ui_name>
+			<ui_type>tab</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_GOLDSAND_07</content>
+			<note>[의상] 탭에서는 복식, 머리장식, 날개깃과 관련된 다양한 외형을 키나로 구입할 수 있다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_GOLDSAND_08</content>
+			<note>아이템을 선택하여 미리 착용해 볼 수 있으니 구매 시 참고하거라.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_GOLDSAND_09</content>
+			<note>자, 그럼 황금모래 상회 탭 중 [금괴] 탭을 선택해보아라.</note>
+			<action>click</action>
+			<dlg_name>shop_kina_dialog</dlg_name>
+			<ui_name>buy_gold_tab</ui_name>
+			<ui_type>tab</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_GOLDSAND_10</content>
+			<note>[금괴] 탭에서는 금괴로 구입할 수 있는 상품을 확인할 수 있다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_GOLDSAND_11</content>
+			<note>기간 내 한정적으로 구매할 수 있는 상품도 있으니 참고하거라.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_GOLDSAND_12</content>
+			<note>가르침은 여기까지다. 부디 유용하게 사용하길 바란다.</note>
+			<action>wait_input</action>
+		</progress>
+	</tutorial>
+	<tutorial>
+		<quest_id>90021</quest_id>
+		<note>7.0 [튜토리얼] 변신의 이해</note>
+		<progress>
+			<content>STR_TUTORIAL_TRANSFORMATION_01</content>
+			<note>어서 오거라. 이제 그대에게 변신에 대해서 알려줄 때가 된 것 같구나.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_TRANSFORMATION_02</content>
+			<note>화면 우측 하단에 있는 [시작 버튼]을 눌러 메뉴를 불러보아라.</note>
+			<action>click</action>
+			<dlg_name>start_dialog</dlg_name>
+			<ui_name>start_button</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_TRANSFORMATION_03</content>
+			<note>[변신 목록 보기]를 누르면 변신 창이 나타난다. 변신과 관련된 정보는 모두 이곳에서 확인할 수 있다.</note>
+			<action>click</action>
+			<dlg_name>pop_up</dlg_name>
+			<ui_name>menu_transformbook</ui_name>
+			<ui_type>button</ui_type>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_TRANSFORMATION_04</content>
+			<note>지금 보여지는 [프로필] 탭에서는 변신에 대한 요약 정보를 확인할 수 있다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_TRANSFORMATION_05</content>
+			<note>이제 변신 탭 중 [컬렉션] 탭을 선택해보아라.</note>
+			<action>click</action>
+			<dlg_name>transformbook_dialog</dlg_name>
+			<ui_name>tab_collection</ui_name>
+			<ui_type>tab</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_TRANSFORMATION_06</content>
+			<note>[컬렉션] 탭에서는 수집한 변신 목록에 따라 다양한 추가 효과를 적용해 받을 수 있으니 참고하거라.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_TRANSFORMATION_07</content>
+			<note>다음으로 변신 탭 중 [계약] 탭을 선택해보아라.</note>
+			<action>click</action>
+			<dlg_name>transformbook_dialog</dlg_name>
+			<ui_name>tab_contract</ui_name>
+			<ui_type>tab</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_TRANSFORMATION_08</content>
+			<note>[계약] 탭에서는 변신 계약서를 사용해 다양한 변신을 획득할 수 있다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_TRANSFORMATION_09</content>
+			<note>자, 그럼 변신 탭 중 [합성] 탭을 선택해보아라.</note>
+			<action>click</action>
+			<dlg_name>transformbook_dialog</dlg_name>
+			<ui_name>tab_compose</ui_name>
+			<ui_type>tab</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_TRANSFORMATION_10</content>
+			<note>[합성] 탭에서는 중복 보유한 변신을 합성할 수 있으니 참고하거라.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_TRANSFORMATION_11</content>
+			<note>마지막으로 변신 탭 중 [목록] 탭을 선택해보아라.</note>
+			<action>click</action>
+			<dlg_name>transformbook_dialog</dlg_name>
+			<ui_name>tab_manage</ui_name>
+			<ui_type>tab</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_TRANSFORMATION_12</content>
+			<note>[목록] 탭에서는 변신 목록과 보유한 변신 목록을 확인할 수 있다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_TRANSFORMATION_13</content>
+			<note>가르침은 여기까지다. 부디 유용하게 사용하길 바란다.</note>
+			<action>wait_input</action>
+		</progress>
+	</tutorial>
+	<tutorial>
+		<quest_id>90022</quest_id>
+		<note>7.0 [튜토리얼] 아이온 홈 활용</note>
+		<progress>
+			<content>STR_TUTORIAL_APPCENTER_01</content>
+			<note>눈부신 성장을 한 것을 축하한다. 이제 그대에게 아이온 홈에 대해 알려줄 때가 된 것 같구나.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_APPCENTER_02</content>
+			<note>화면 우측 하단에 있는 [아이온 홈]을 눌러 아이온 홈 창을 불러보아라.</note>
+			<action>click</action>
+			<dlg_name>start_dialog</dlg_name>
+			<ui_name>ingame_web</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_APPCENTER_04</content>
+			<note>이곳에서 공지, 캐릭터, 레기온, 데바 일정표, 커뮤니티, 가이드 정보를 확인할 수 있다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_APPCENTER_05</content>
+			<note>가르침은 여기까지다. 부디 유용하게 사용하길 바란다.</note>
+			<action>wait_input</action>
+		</progress>
+	</tutorial>
+	<tutorial>
+		<quest_id>90023</quest_id>
+		<note>7.0 [튜토리얼] 큐나 마켓 안내</note>
+		<progress>
+			<content>STR_TUTORIAL_QUNAMARKET_01</content>
+			<note>내 부름을 듣고 찾아 왔는가?</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_QUNAMARKET_02</content>
+			<note>이제 그대에게 큐나 마켓에 대해서 알려줄 때가 된 것 같구나.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_QUNAMARKET_03</content>
+			<note>다음으로 화면 우측 하단에 있는 [큐나 마켓]을 눌러 큐나 마켓 창을 불러보아라.</note>
+			<action>click</action>
+			<dlg_name>start_dialog</dlg_name>
+			<ui_name>item_spinel_shop</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_QUNAMARKET_04</content>
+			<note>[홈] 탭에서는 추천 상품과 오늘의 상품을 확인할 수 있다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_QUNAMARKET_05</content>
+			<note>오늘의 상품은 시간이 지나면 새로운 상품으로 교체되니 참고하거라.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_QUNAMARKET_06</content>
+			<note>이제 큐나 마켓 탭 중 [기능] 탭을 선택해보아라.</note>
+			<action>click</action>
+			<dlg_name>shop_spinel_dialog</dlg_name>
+			<ui_name>buy_item_tab</ui_name>
+			<ui_type>tab</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_QUNAMARKET_07</content>
+			<note>[기능] 탭에서는 다양한 기능성 아이템을 판매 하고 있다. 필요한 것이 있는지 꼼꼼히 살펴보거라.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_QUNAMARKET_08</content>
+			<note>자, 그럼 큐나 마켓 탭 중 [의상] 탭을 선택해보아라.</note>
+			<action>click</action>
+			<dlg_name>shop_spinel_dialog</dlg_name>
+			<ui_name>buy_dress_tab</ui_name>
+			<ui_type>tab</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_QUNAMARKET_09</content>
+			<note>[의상] 탭에서는 의상, 머리, 날개깃, 모션/행위예술과 관련된 다양한 외형 및 모션을 큐나로 구입할 수 있다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_QUNAMARKET_10</content>
+			<note>마지막으로 큐나 마켓 탭 중 [이벤트] 탭을 선택해보아라.</note>
+			<action>click</action>
+			<dlg_name>shop_spinel_dialog</dlg_name>
+			<ui_name>buy_event_tab</ui_name>
+			<ui_type>tab</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_QUNAMARKET_11</content>
+			<note>[이벤트] 탭에서는 이벤트와 관련된 상품을 확인할 수 있다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_QUNAMARKET_12</content>
+			<note>가르침은 여기까지다. 부디 유용하게 사용하길 바란다.</note>
+			<action>wait_input</action>
+		</progress>
+	</tutorial>
+	<tutorial>
+		<quest_id>90024</quest_id>
+		<note>7.5 [튜토리얼] 자동 사냥을 배워보자</note>
+		<progress>
+			<content>STR_TUTORIAL_AUTOHUNT_01</content>
+			<note>데바여. 새로운 지식을 습득할 준비는 되었는가?</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_AUTOHUNT_02</content>
+			<note>이번에는 자동사냥에 대해 가르쳐주겠다. 잘 따라오길 바란다.</note>
+			<action>wait_input</action>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_AUTOHUNT_03</content>
+			<note>[자동사냥 시작/종료 버튼]을 통해 자동사냥을 켜고 끌 수 있다.</note>
+			<action>wait_input</action>
+			<dlg_name>botting_aod_dialog</dlg_name>
+			<ui_name>action_button</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_AUTOHUNT_04</content>
+			<note>[자동사냥 정산창]에서는 자동사냥 정산 내역을 확인할 수 있지.</note>
+			<action>wait_input</action>
+			<dlg_name>botting_aod_dialog</dlg_name>
+			<ui_name>result_button</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_AUTOHUNT_05</content>
+			<note>[자동사냥 설정 버튼]을 눌러 메뉴를 불러보아라.</note>
+			<action>click</action>
+			<dlg_name>botting_aod_dialog</dlg_name>
+			<ui_name>Setting_button</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_AUTOHUNT_06</content>
+			<note>[자동사냥] 메뉴에서 자동사냥과 관련된 각종 기능을 설정할 수 있다.</note>
+			<action>wait_input</action>
+			<dlg_name>botting_dialog</dlg_name>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_AUTOHUNT_07</content>
+			<note>[스킬 설정] 슬롯에 자동사냥 시 순차적으로 사용할 스킬을 드래그해서 등록할 수 있다.</note>
+			<action>wait_input</action>
+			<dlg_name>botting_dialog</dlg_name>
+			<ui_name>AttackSkill_0</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_AUTOHUNT_08</content>
+			<note>자동사냥의 스킬은 스킬[K]에 있는 스킬으로만 세팅할 수 있으니 참고하도록.</note>
+			<action>wait_input</action>
+			<dlg_name>botting_dialog</dlg_name>
+			<ui_name>AttackSkill_0</ui_name>
+			<ui_type>slot</ui_type>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_AUTOHUNT_09</content>
+			<note>[회복 설정] 슬롯에는 자동사냥 시, 사용할 포션을  드래그해서 등록할 수 있다.</note>
+			<action>wait_input</action>
+			<dlg_name>botting_dialog</dlg_name>
+			<ui_name>HpPotion_itemview</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_AUTOHUNT_10</content>
+			<note>[게이지바]를 조작하여 포션을 사용할 기준 HP를 설정할 수 있지.</note>
+			<action>wait_input</action>
+			<dlg_name>botting_dialog</dlg_name>
+			<ui_name>HpPotion_slide</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_AUTOHUNT_11</content>
+			<note>하단에 있는 슬롯도 동일한 방법으로 사용할 수 있으니 참고하도록.</note>
+			<action>wait_input</action>
+			<dlg_name>botting_dialog</dlg_name>
+			<ui_name>MpPotion_itemview</ui_name>
+			<ui_type>slot</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_AUTOHUNT_12</content>
+			<note>[기타 설정]에서는 아래와 같은 설정을 체크할 수 있다.</note>
+			<action>wait_input</action>
+			<dlg_name>botting_dialog</dlg_name>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_AUTOHUNT_13</content>
+			<note>[퀘스트 몬스터 우선]을 체크하면 퀘스트 몬스터를 우선적으로 사냥한다.</note>
+			<action>wait_input</action>
+			<dlg_name>botting_dialog</dlg_name>
+			<ui_name>QuestFirst_button</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_AUTOHUNT_14</content>
+			<note>[잡동사니 판매]를 체크하면 인벤토리가 가득 찼을 때, 자동으로 잡동사니 아이템을 판매한다.</note>
+			<action>wait_input</action>
+			<dlg_name>botting_dialog</dlg_name>
+			<ui_name>JunkSell_button</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_AUTOHUNT_15</content>
+			<note>잡동사니가 없는 상태에서 인벤토리가 가득 찼다면 더 이상 아이템을 줍지 않으니 참고하도록.</note>
+			<action>wait_input</action>
+			<dlg_name>botting_dialog</dlg_name>
+			<ui_name>JunkSell_button</ui_name>
+			<ui_type>button</ui_type>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_AUTOHUNT_16</content>
+			<note>[경험치 추출]을 체크하면 [전투 경험치 추출기]의 사용 조건이 활성화 됐을 때,</note>
+			<action>wait_input</action>
+			<dlg_name>botting_dialog</dlg_name>
+			<ui_name>UseEXPExtraction_button</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_AUTOHUNT_17</content>
+			<note>자동으로 [경험치]를 [경험의 증표]로 바꿔준다.</note>
+			<action>wait_input</action>
+			<dlg_name>botting_dialog</dlg_name>
+			<ui_name>UseEXPExtraction_button</ui_name>
+			<ui_type>button</ui_type>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_AUTOHUNT_18</content>
+			<note>마지막으로 [미니온 설정]에서는 미니온 관련 설정을 진행할 수 있다.</note>
+			<action>wait_input</action>
+			<dlg_name>botting_dialog</dlg_name>
+			<ui_name>Minion_button</ui_name>
+			<ui_type>button</ui_type>
+			<show_fx>true</show_fx>
+		</progress>
+		<progress>
+			<content>STR_TUTORIAL_AUTOHUNT_19</content>
+			<note>가르침은 여기까지다. 부디 유용하게 사용하길 바란다.</note>
+			<action>wait_input</action>
+		</progress>
+	</tutorial>
+</tutorials>

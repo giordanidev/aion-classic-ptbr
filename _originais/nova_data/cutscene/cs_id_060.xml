@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="P01">As you know, this passage was created by the Balaur.</Text>
+	<Text label="P02">It connects to a small abyss known as an Abyssal Splinter.</Text>
+	<Text label="P03">Rumor says there are undiscovered artifacts</Text>
+	<Text label="P04">at the end of this Abyssal Splinter.</Text>
+	<Text label="P05">And the remaining Balaur forces are after these artifacts.</Text>
+	<Text label="P06">No matter what, someone must defeat the Protector</Text>
+	<Text label="P07">and claim any artifacts before the Balaur!</Text>
+	<Text label="P08">And I want YOU to handle this!</Text>
+</CutSceneText>

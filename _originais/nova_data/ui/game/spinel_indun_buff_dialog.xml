@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="task" close_offset="4,4" close_preset="shop_dialog_close" flag="close;title" frame="450,130,380,410" h_pos_align="proportion" last_modified="2018-04-19 11:09:43" name="spinel_indun_buff_dialog" preset="shop_buy_dialog" prev_html="True" shadow_offset="8,8" title_align="center" title_frame="3,3,324,14" title_height="25" title_offset="0,10" title_text="STR_QUNA_INSBUFF_DIALOG__TITLE" type="dlg_spinel_indun_buff" v_pos_align="proportion">
+	<Widget frame="10,5,360,334" type="image">
+		<Skin name="shop_buy_bg">
+		</Skin>
+	</Widget>
+	<Widget cell_padding="2" flag="wordwrap" frame="168,34,44,44" item_height="64" item_width="64" name="buffslot" preset="v5_itemview" type="itemview">
+	</Widget>
+	<Widget font="tooltip_guide_title" frame="80,89,220,31" halign="center" name="title" type="static">
+	</Widget>
+	<Widget frame="80,114,220,31" margin="5,5,5,7" name="desc" scroll_type="hidden" skin_type="default" text="STR_INSTANCE_QUNABUFF_DIALOG__TOOLTIP_DESC" type="htmlview" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="85,151,210,26" halign="right" name="cost" padding="2,0" type="static">
+		<Skin name="shop_buy_txt_bg">
+		</Skin>
+	</Widget>
+	<Widget font="ui_default" frame="85,289,210,26" halign="right" name="mymoney" padding="2,0" type="static">
+		<Skin name="shop_buy_txt_bg">
+		</Skin>
+	</Widget>
+	<Widget defbutton="False" font="ui_default" frame="93,341,90,35" name="buy_btn" preset="shop_buy_btn2" text="STR_QUNAMARKET_BUTTON_BUY" type="button" v_pos_align="bottom" valign="middle">
+	</Widget>
+	<Widget font="ui_default" frame="198,341,90,35" name="cancel" preset="shop_buy_btn2" text="STR_TRADE_DIALOG__CANCEL" type="button" v_pos_align="bottom" valign="middle">
+	</Widget>
+	<Widget frame="31,186,318,78" margin="0" scroll_type="hidden" skin_type="default" text="STR_INSTANCE_DIALOG__QUNABUFF_DESC" type="htmlview" v_pos_align="bottom">
+	</Widget>
+	<Widget frame="28,289,56,25" text="STR_QUNAMARKET_DIALOG__MY_QUNA" type="static">
+	</Widget>
+	<Widget frame="21,272,340,4" type="image">
+		<Skin name="shop_buy_line">
+		</Skin>
+	</Widget>
+</Dialog>

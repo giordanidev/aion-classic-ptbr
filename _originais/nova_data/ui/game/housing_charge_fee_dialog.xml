@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="close;title" frame="382,100,381,160" last_modified="2015-01-07 15:33:04" name="housing_charge_fee_dialog" preset="v5_dialog2" prev_html="True" shadow_offset="8,8" title_align="center" title_frame="3,3,358,14" title_height="25" title_offset="0,5" title_text="STR_HOUSING_CHARGE_FEE_DIALOG" type="dlg_housing_charge_fee">
+	<Widget font="ui_default" frame="10,0,100,30" halign="left" scroll_type="hidden" text="STR_HOUSING_CHARGE_FEE_DIALOG__EXPIRE_DATE" type="static" valign="middle">
+	</Widget>
+	<Widget font="ui_default" frame="10,30,100,30" halign="left" scroll_type="hidden" text="STR_HOUSING_CHARGE_FEE_DIALOG__EXTEND" type="static" valign="middle">
+	</Widget>
+	<Widget font="ui_default" frame="10,60,100,30" halign="left" scroll_type="hidden" text="STR_HOUSING_CHARGE_FEE_DIALOG__TOTAL" type="static" valign="middle">
+	</Widget>
+	<Widget font="ui_default" frame="200,3,113,24" halign="center" name="expire_date" padding="5,0" type="static" valign="middle">
+	</Widget>
+	<Widget frame="156,32,22,22" name="first_val" preset="v5_first_page" type="button">
+	</Widget>
+	<Widget frame="178,32,22,22" name="prev_val" preset="v5_prev_page" type="button">
+	</Widget>
+	<Widget alphanumeric="False" flag="not_active" font="v3_money" frame="200,31,113,24" h_align="center" h_padding="5" halign="right" name="extended_date" numeric="0" preset="v5_editbox" tabstop="1" type="editbox" v_align="middle" v_padding="5">
+	</Widget>
+	<Widget frame="313,32,22,22" name="next_val" preset="v5_next_page" type="button">
+	</Widget>
+	<Widget frame="335,32,22,22" name="last_val" preset="v5_last_page" type="button">
+	</Widget>
+	<Widget font="ui_default" frame="114,63,242,24" halign="right" name="total_fee" padding="5,0" type="static" valign="middle">
+	</Widget>
+	<Widget defbutton="true" font="ui_default" frame="253,105,60,24" h_pos_align="right" name="ok" preset="v5_button" text="STR_HOUSING_CHARGE_FEE_DIALOG__OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="314,105,60,24" h_pos_align="right" name="cancel" preset="v5_button" text="STR_HOUSING_CHARGE_FEE_DIALOG__CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

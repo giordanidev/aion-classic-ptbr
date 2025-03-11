@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="task" close_offset="4,1" close_preset="v5_close" flag="close;title" frame="290,130,807,636" last_modified="2014-08-22 13:09:05" name="gold_vendor_dialog" preset="v5_dialog" prev_html="True" shadow_offset="8,8" title_align="center" title_frame="3,3,762,14" title_height="25" title_offset="0,5" title_text="STR_GOLDVENDOR_DIALOG" type="dlg_gold_vendor">
+	<Widget anim_style="none" frame="0,0,801,605" h_pos_align="proportion" name="gold_vendor_tab_frame" type="tabsheet" v_pos_align="proportion">
+		<Widget btn_move_anim="False" frame="0,0,801,25" h_pos_align="proportion" name="gold_vendor_tab" preset="v5_tab" tab_frame="0,0,686,25" tab_offset="6,0" tab_space="0" type="tab">
+			<Widget font="ui_default" frame="8,0,68,25" name="gold_list_btn" preset="v5_tabbutton" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_ITEM_LIST_BTN" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="75,0,68,25" name="register_gold_btn" preset="v5_tabbutton" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_REGISTER_ITEM_BTN" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="142,0,68,25" name="trade_list_btn" preset="v5_tabbutton" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_TRADELIST_BTN" type="tabbutton">
+			</Widget>
+		</Widget>
+		<Widget frame="0,24,801,581" h_pos_align="proportion" preset="v5_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget font="ui_default" frame="3,5,234,24" h_pos_align="center" halign="center" padding="1,0" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_COMMENT" type="static">
+			</Widget>
+			<Widget frame="3,32,237,387" margin="5,5" preset="v5_staticbox" scroll_type="hidden" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_COMMENT_DESC" text_offset="10,10" type="htmlview" valign="top">
+			</Widget>
+			<Widget frame="246,1,554,32" name="search_ctn" type="container">
+				<Widget alphanumeric="False" font="ui_edit" frame="259,3,100,24" h_padding="5" name="search_max_edit" preset="v5_editbox" type="editbox" v_padding="5" valign="bottom">
+				</Widget>
+				<Widget font="ui_default" frame="383,3,55,24" name="search_btn" preset="v5_button" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_SEARCH_BTN" type="button">
+				</Widget>
+				<Widget font="ui_default" frame="480,3,67,24" name="search_refresh_btn" preset="v5_button" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_BUY_REFRESH_BTN" type="button">
+				</Widget>
+				<Widget font="ui_default" frame="76,3,55,24" halign="right" padding="1,0" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_WIDGET1" type="static">
+				</Widget>
+				<Widget alphanumeric="False" font="ui_edit" frame="143,3,100,24" h_padding="5" name="search_min_edit" preset="v5_editbox" type="editbox" v_padding="5" valign="bottom">
+				</Widget>
+				<Widget font="ui_default" frame="244,3,14,24" halign="center" text="STR_VENDOR_DIALOG__WAVE" type="static" valign="middle">
+				</Widget>
+			</Widget>
+			<Widget column_heading="True" flag="truncate;" font="ui_list" frame="246,32,551,492" header_height="28" item_height="27" list_padding="3,3" name="gold_sell_list" preset="v5_listview_ex" skin_type="version5" type="listviewex">
+				<Column align="right" img_width="" sample_text="" sort="param" title="STR_GOLDVENDOR_DIALOG_TAB_FRAME_COLUMN_GOLD" width="183">
+				</Column>
+				<Column align="left" img_width="" sample_text="" sort="param" title="STR_GOLDVENDOR_DIALOG_TAB_FRAME_COLUMN_CURRENCYRATE" width="183">
+				</Column>
+				<Column align="right" img_width="" sample_text="" sort="number" title="STR_GOLDVENDOR_DIALOG_TAB_FRAME_COLUMN_CASHPRICE" width="179">
+				</Column>
+				<Column align="" img_width="" sample_text="" sort="" title="" width="0">
+				</Column>
+			</Widget>
+			<Widget font="ui_default" frame="731,555,68,24" h_pos_align="right" name="buy_btn" preset="v5_button" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_BUY_BTN" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="536,526,68,24" h_pos_align="right" name="gold_sell_next" preset="v5_button" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_NEXT_BTN" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="443,526,68,24" h_pos_align="right" name="gold_sell_prev" preset="v5_button" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_PREV_BTN" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="511,526,26,24" halign="center" name="gold_sell_page" padding="1,0" text="STR_ITEM_PRICE_COUNT_DIALOG__1" type="static">
+			</Widget>
+			<Widget font="ui_default" frame="246,62,551,462" halign="center" name="gold_sell_no_item" padding="1,0" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_NO_ITEM_MSG" type="static" valign="middle">
+			</Widget>
+		</Widget>
+		<Widget frame="0,24,801,581" h_pos_align="proportion" preset="v5_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget font="ui_default" frame="3,5,234,24" h_pos_align="center" halign="center" padding="1,0" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_SELL" type="static">
+			</Widget>
+			<Widget frame="3,32,237,102" name="register1_ctn" preset="v5_container2" type="container">
+				<Widget font="ui_default" frame="6,9,116,24" halign="left" padding="1,0" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_SELL_GOLD" type="static">
+				</Widget>
+				<Widget alphanumeric="False" font="ui_edit" frame="131,9,100,24" h_padding="5" h_pos_align="right" halign="right" name="register_gold" padding="5,0" preset="v5_editbox" text_offset="5,0" type="editbox" v_padding="5" valign="middle">
+				</Widget>
+				<Widget font="ui_default" frame="6,39,116,24" halign="left" padding="1,0" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_SELL_TIME" type="static">
+				</Widget>
+				<Widget font="v3_option" frame="131,39,100,24" list_font="v3_option" max_items="2" name="register_period" preset="v5_staticbox3" type="combobox">
+					<Items>
+						<Item name="STR_GOLDVENDOR_DIALOG_TAB_FRAME_SELL_TIME_24">
+						</Item>
+						<Item name="STR_GOLDVENDOR_DIALOG_TAB_FRAME_SELL_TIME_48">
+						</Item>
+					</Items>
+				</Widget>
+				<Widget font="ui_default" frame="6,69,116,24" halign="left" padding="1,0" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_SELL_PRICE" type="static">
+				</Widget>
+				<Widget alphanumeric="False" font="ui_edit" frame="131,69,100,24" h_padding="5" h_pos_align="right" halign="right" name="register_cash" numeric="1" padding="5,0" preset="v5_editbox" text_offset="5,0" type="editbox" v_padding="5" valign="middle">
+				</Widget>
+			</Widget>
+			<Widget frame="3,135,237,284" name="register2_ctn" type="container">
+				<Widget font="ui_default" frame="6,0,225,24" halign="left" padding="1,0" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_SELL_RANGE" type="static">
+				</Widget>
+				<Widget frame="6,26,225,65" margin="5,5" name="cash_min_max" preset="v5_staticbox" scroll_type="hidden" text_offset="10,10" type="htmlview" valign="top">
+				</Widget>
+				<Widget font="ui_default" frame="6,98,95,24" halign="left" padding="1,0" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_SELL_MYPRICE" tooltip="STR_GOLDVENDOR_DIALOG_TAB_FRAME_SELL_MYPRICE_OVER_DESC" type="static">
+				</Widget>
+				<Widget font="ui_default" frame="109,98,123,24" h_pos_align="right" halign="right" name="register_ratio" padding="5,0" preset="v5_staticbox" text_offset="5,0" type="static" valign="middle">
+				</Widget>
+				<Widget font="ui_default" frame="6,128,95,24" halign="left" padding="1,0" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_SELL_MINPRICE" tooltip="STR_GOLDVENDOR_DIALOG_TAB_FRAME_SELL_MINPRICE_OVER_DESC" type="static">
+				</Widget>
+				<Widget font="ui_default" frame="109,128,123,24" h_pos_align="right" halign="right" name="register_min_ratio" padding="5,0" preset="v5_staticbox" text_offset="5,0" type="static" valign="middle">
+				</Widget>
+				<Widget font="ui_default" frame="6,158,95,24" halign="left" padding="1,0" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_SELL_MAXPRICE" tooltip="STR_GOLDVENDOR_DIALOG_TAB_FRAME_SELL_MAXPRICE_OVER_DESC" type="static">
+				</Widget>
+				<Widget font="ui_default" frame="109,158,123,24" h_pos_align="right" halign="right" name="register_max_ratio" padding="5,0" preset="v5_staticbox" text_offset="5,0" type="static" valign="middle">
+				</Widget>
+				<Widget font="ui_default" frame="6,189,116,24" halign="left" padding="1,0" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_SELL_CHARGE" tooltip="STR_GOLDVENDOR_DIALOG_TAB_FRAME_SELL_CHARGE_OVER_DESC" type="static">
+				</Widget>
+				<Widget font="ui_default" frame="151,189,80,24" h_pos_align="right" halign="right" name="register_commission" padding="5,0" preset="v5_staticbox" text_offset="5,0" type="static" valign="middle">
+				</Widget>
+				<Widget font="ui_default" frame="6,218,140,24" halign="left" padding="1,0" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_SELL_CASH_GET" tooltip="STR_GOLDVENDOR_DIALOG_TAB_FRAME_SELL_CASH_GET_OVER_DESC" type="static">
+				</Widget>
+				<Widget font="ui_default" frame="151,218,80,24" h_pos_align="right" halign="right" name="register_cash_get" padding="5,0" preset="v5_staticbox" text_offset="5,0" type="static" valign="middle">
+				</Widget>
+				<Widget font="ui_default" frame="85,255,67,24" name="register_btn" preset="v5_button" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_SELL_REGIST_BTN" type="button">
+				</Widget>
+				<Widget font="ui_default" frame="164,255,67,24" name="clear_register_btn" preset="v5_button" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_RESET_BTN" type="button">
+				</Widget>
+			</Widget>
+			<Widget font="ui_default" frame="409,4,100,24" halign="center" padding="1,0" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_BASERATE" type="static">
+			</Widget>
+			<Widget font="ui_default" frame="497,4,150,24" halign="center" name="standard_ratio_register" padding="1,0" type="static">
+			</Widget>
+			<Widget font="ui_default" frame="726,4,67,24" name="register_list_refresh_btn" preset="v5_button" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_SELL_REFRESH_BTN" type="button">
+			</Widget>
+			<Widget column_heading="True" flag="truncate;" font="ui_list" frame="246,32,551,514" header_height="28" item_height="27" list_padding="3,3" name="register_list" preset="v5_listview_ex" skin_type="version5" type="listviewex">
+				<Column align="right" img_width="" sample_text="" sort="param" title="STR_GOLDVENDOR_DIALOG_TAB_FRAME_COLUMN_GOLD" width="137">
+				</Column>
+				<Column align="left" img_width="" sample_text="" sort="param" title="STR_GOLDVENDOR_DIALOG_TAB_FRAME_COLUMN_CURRENCYRATE" width="137">
+				</Column>
+				<Column align="center" img_width="" sample_text="" sort="param" title="STR_GOLDVENDOR_DIALOG_TAB_FRAME_SELL_COUNTTIME" width="137">
+				</Column>
+				<Column align="right" img_width="" sample_text="" sort="number" title="STR_GOLDVENDOR_DIALOG_TAB_FRAME_COLUMN_CASHPRICE" width="134">
+				</Column>
+				<Column align="" img_width="" sample_text="" sort="" title="" width="0">
+				</Column>
+			</Widget>
+			<Widget font="ui_default" frame="246,62,551,484" halign="center" name="register_no_item" padding="1,0" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_NOSELLING_ITEM_MSG" type="static">
+			</Widget>
+			<Widget font="ui_default" frame="731,555,68,24" h_pos_align="right" name="cancel_register_btn" preset="v5_button" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_SELL_CANCEL_BTN" type="button" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="0,24,801,581" h_pos_align="proportion" preset="v5_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget font="ui_default" frame="3,5,234,24" h_pos_align="center" halign="center" padding="1,0" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_COMMENT" type="static">
+			</Widget>
+			<Widget frame="3,32,237,387" margin="5,5" preset="v5_staticbox" scroll_type="hidden" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_COMMENT_DESC" text_offset="10,10" type="htmlview" valign="top">
+			</Widget>
+			<Widget font="ui_default" frame="409,4,100,24" halign="center" padding="1,0" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_BASERATE" type="static">
+			</Widget>
+			<Widget font="ui_default" frame="497,4,150,24" halign="center" name="standard_ratio_history" padding="1,0" type="static">
+			</Widget>
+			<Widget frame="246,32,551,520" h_pos_align="proportion" name="sheet_list" type="tabsheet" v_pos_align="proportion">
+				<Widget btn_move_anim="False" frame="0,0,551,25" h_pos_align="proportion" tab_offset="6,0" tab_space="0" type="tab">
+					<Widget font="ui_default" frame="8,0,100,25" name="tab_buy" preset="v5_tabbutton" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_LIST_BUYLIST_BTN" type="tabbutton">
+					</Widget>
+					<Widget font="ui_default" frame="107,0,100,25" name="tab_sell" preset="v5_tabbutton" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_LIST_SELLLIST_BTN" type="tabbutton">
+					</Widget>
+				</Widget>
+				<Widget frame="0,24,551,495" h_pos_align="proportion" name="page_buy" type="tabpage" v_pos_align="proportion">
+					<Widget column_heading="True" flag="truncate;" font="ui_list" frame="0,0,551,468" header_height="28" item_height="27" list_padding="3,3" name="buy_history" preset="v5_listview_ex" skin_type="version5" type="listviewex">
+						<Column align="right" img_width="" sample_text="" sort="param" title="STR_GOLDVENDOR_DIALOG_TAB_FRAME_COLUMN_GOLD" width="127">
+						</Column>
+						<Column align="left" img_width="" sample_text="" sort="param" title="STR_GOLDVENDOR_DIALOG_TAB_FRAME_COLUMN_CURRENCYRATE" width="137">
+						</Column>
+						<Column align="center" img_width="" sample_text="" sort="param" title="STR_GOLDVENDOR_DIALOG_TAB_FRAME_LIST_COMPLETE_TIME" width="157">
+						</Column>
+						<Column align="right" img_width="" sample_text="" sort="number" title="STR_GOLDVENDOR_DIALOG_TAB_FRAME_COLUMN_CASHPRICE" width="124">
+						</Column>
+						<Column align="" img_width="" sample_text="" sort="" title="" width="0">
+						</Column>
+					</Widget>
+					<Widget font="ui_default" frame="265,470,26,24" halign="center" name="buy_history_page" padding="1,0" text="STR_ITEM_PRICE_COUNT_DIALOG__1" type="static">
+					</Widget>
+					<Widget font="ui_default" frame="290,470,68,24" h_pos_align="right" name="buy_history_next" preset="v5_button" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_NEXT_BTN" type="button" v_pos_align="bottom">
+					</Widget>
+					<Widget font="ui_default" frame="197,470,68,24" h_pos_align="right" name="buy_history_prev" preset="v5_button" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_PREV_BTN" type="button" v_pos_align="bottom">
+					</Widget>
+					<Widget font="ui_default" frame="0,30,551,438" halign="center" name="buy_history_no_item" padding="1,0" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_LIST_NOBUY_ITEM_MSG" type="static">
+					</Widget>
+				</Widget>
+				<Widget frame="0,24,551,495" h_pos_align="proportion" name="page_sell" type="tabpage" v_pos_align="proportion">
+					<Widget column_heading="True" flag="truncate;" font="ui_list" frame="0,0,551,468" header_height="28" item_height="27" list_padding="3,3" name="sell_history" preset="v5_listview_ex" skin_type="version5" type="listviewex">
+						<Column align="right" img_width="" sample_text="" sort="param" title="STR_GOLDVENDOR_DIALOG_TAB_FRAME_COLUMN_GOLD" width="127">
+						</Column>
+						<Column align="left" img_width="" sample_text="" sort="param" title="STR_GOLDVENDOR_DIALOG_TAB_FRAME_COLUMN_CURRENCYRATE" width="137">
+						</Column>
+						<Column align="center" img_width="" sample_text="" sort="param" title="STR_GOLDVENDOR_DIALOG_TAB_FRAME_LIST_COMPLETE_TIME" width="157">
+						</Column>
+						<Column align="right" img_width="" sample_text="" sort="number" title="STR_GOLDVENDOR_DIALOG_TAB_FRAME_COLUMN_CASHPRICE" width="124">
+						</Column>
+						<Column align="" img_width="" sample_text="" sort="" title="" width="0">
+						</Column>
+					</Widget>
+					<Widget font="ui_default" frame="265,470,26,24" halign="center" name="sell_history_page" padding="1,0" text="STR_ITEM_PRICE_COUNT_DIALOG__1" type="static">
+					</Widget>
+					<Widget font="ui_default" frame="290,470,68,24" h_pos_align="right" name="sell_history_next" preset="v5_button" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_NEXT_BTN" type="button" v_pos_align="bottom">
+					</Widget>
+					<Widget font="ui_default" frame="197,470,68,24" h_pos_align="right" name="sell_history_prev" preset="v5_button" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_PREV_BTN" type="button" v_pos_align="bottom">
+					</Widget>
+					<Widget font="ui_default" frame="0,30,551,438" halign="center" name="sell_history_no_item" padding="1,0" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_LIST_NOSELL_ITEM_MSG" type="static">
+					</Widget>
+				</Widget>
+			</Widget>
+		</Widget>
+		<Widget frame="3,451,237,120" name="money_ctn" type="container">
+			<Widget font="ui_default" frame="6,1,95,24" halign="left" padding="1,0" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_SCORE_GOLD" tooltip="STR_GOLDVENDOR_DIALOG_TAB_FRAME_GOLD_OVER_DESC" type="static">
+			</Widget>
+			<Widget font="v3_money" frame="97,1,140,24" h_pos_align="right" halign="right" name="money" padding="5,0" preset="v5_staticbox" text_offset="5,0" type="static" valign="middle">
+			</Widget>
+			<Widget font="ui_default" frame="6,31,95,24" halign="left" padding="1,0" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_SCORE_CASH" tooltip="STR_GOLDVENDOR_DIALOG_TAB_FRAME_CASH_OVER_DESC" type="static">
+			</Widget>
+			<Widget font="v3_money" frame="97,31,140,24" h_pos_align="right" halign="right" name="cash" padding="5,0" preset="v5_staticbox" text_offset="5,0" type="static" valign="middle">
+			</Widget>
+			<Widget font="ui_default" frame="6,61,95,24" halign="left" padding="1,0" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_SCORE_BINDINGCASH" tooltip="STR_GOLDVENDOR_DIALOG_TAB_FRAME_BINDINGCASH_OVER_DESC" type="static">
+			</Widget>
+			<Widget font="v3_money" frame="97,61,140,24" h_pos_align="right" halign="right" name="binding_cash" padding="5,0" preset="v5_staticbox" text_offset="5,0" type="static" valign="middle">
+			</Widget>
+			<Widget font="ui_default" frame="77,94,93,24" name="charge_cash_btn" preset="v5_button" text="STR_GOLDVENDOR_DIALOG_TAB_FRAME_CHARGE_BTN" type="button">
+			</Widget>
+		</Widget>
+	</Widget>
+</Dialog>

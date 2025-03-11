@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="10,1" close_preset="v5_close" flag="close;title" frame="512,325,253,312" last_modified="2015-01-07 17:10:11" name="housing_register_dialog" shadow_offset="8,8" title_align="center" title_frame="3,3,247,14" title_height="25" title_offset="0,5" title_text="STR_HOUSING_REGISTER_DIALOG" type="dlg_housing_register" ui_mode="not_game;housing">
+	<Skin name="v5_housing_register_frame" state="frame">
+	</Skin>
+	<Widget frame="0,0,239,7" type="image">
+		<Skin name="v5_housing_seperator">
+		</Skin>
+	</Widget>
+	<Widget frame="0,237,239,7" type="image">
+		<Skin name="v5_housing_seperator">
+		</Skin>
+	</Widget>
+	<Widget flag="wordwrap;multiline" font="ui_static_title" frame="5,7,229,58" h_pos_align="proportion" halign="center" padding="10,0" preset="v5_staticbox" text="STR_HOUSING_REGISTER_DIALOG__DESC" type="static" valign="middle">
+	</Widget>
+	<Widget frame="2,69,235,170" preset="v5_staticbox" type="container">
+		<Widget cell_padding="2" cell_space="1,1" flag="vscroll;multiselect;truncate" font="ui_list" frame="0,0,233,169" h_pos_align="proportion" item_width="44" list_padding="3,3" name="itemlist" preset="v5_housing_listview_sel" scroll_type="visible" skin_type="housing" slot_num="4" type="listview" v_pos_align="proportion" viewmode="44">
+			<Column align="" title="" width="1000">
+			</Column>
+		</Widget>
+	</Widget>
+	<Widget frame="520,474,2,3" preset="v5_button" type="button">
+	</Widget>
+	<Widget font="ui_default" frame="147,247,89,25" h_pos_align="right" name="ok" preset="v5_button" text="STR_HOUSING_REGISTER_DIALOG__OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="1,247,89,25" name="select_all" preset="v5_button" text="STR_MAILBOX_DIALOG__TABFRAME_BTN_SELECT_ALL_MAIL" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

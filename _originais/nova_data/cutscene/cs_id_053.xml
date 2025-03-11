@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="P01">Kromede, take a look at this.</Text>
+	<Text label="P02">Maga&apos;s Potion -- it&apos;s in the Temple Vault.</Text>
+	<Text label="P03">The Temple Vault? That&apos;s the holy ground of Siel&apos;s Spear Legion!</Text>
+	<Text label="P04">You&apos;re out of your mind. How can you even consider such a plan?</Text>
+	<Text label="P05">You know there&apos;s no other way.</Text>
+	<Text label="P06">Robstin must be saved, no?</Text>
+	<Text label="P07">Do this, and I&apos;ll guarantee your safety. And perhaps Robstin&apos;s.</Text>
+	<Text label="P08">I want your word you won&apos;t harm Robstin!</Text>
+	<Text label="P09">And that this is it. This is the last time!</Text>
+	<Text label="P010">I, Kaliga, give you my word.</Text>
+	<Text label="P011">I will ask no more of you after this.</Text>
+	<Text label="P012">Lady Siel, please forgive me.</Text>
+	<Text label="P013">
+	</Text>
+</CutSceneText>

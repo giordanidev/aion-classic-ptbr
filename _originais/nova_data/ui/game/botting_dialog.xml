@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="3,3" close_preset="v5_attend_close" flag="close;title" frame="0,0,418,820" h_pos_align="proportion" last_modified="2020-06-11 16:47:59" name="botting_dialog" preset="v7_mission_bg_container" shadow_offset="0" title_align="center" title_frame="3,3,398,14" title_height="15" title_offset="0,8" title_text="STR_AUTOHUNT_DIALOG_TITLE" type="dlg_botting" v_pos_align="proportion">
+	<Widget frame="3,16,412,224" type="container">
+		<Widget frame="1,0,410,224" name="SkillSetting_bgi" preset="v7_mission_bg_container" type="image">
+			<Widget font_size="13" frame="3,3,404,22" halign="center" name="SkillSetting_Title" preset="v5_scheduled_mission_static" text="STR_AUTOHUNT_DIALOG_SKILLSETTING" text_color="1.0,1.0,1.0,1.0" tooltip="STR_AUTOHUNT_DIALOG_SKILLSETTING_TOOLTIP" type="static" valign="middle">
+			</Widget>
+		</Widget>
+		<Widget frame="387,4,20,20" name="SkillSetting_Tip" tooltip="STR_AUTOHUNT_DIALOG_HELP_SKILL" type="image">
+			<Skin name="v7_tooltip">
+			</Skin>
+		</Widget>
+		<Widget font="ui_default" frame="8,29,396,20" image="v7_sub_tab_static" name="SkillSetting_Subtitle_1" padding="8,0" text="STR_AUTOHUNT_DIALOG_SKILL_NORMAL_TITLE" text_color="0.5176,0.6275,0.8784,1.0" type="static">
+		</Widget>
+		<Widget cell_padding="3" frame="29,64,46,46" item_height="40" item_width="40" name="AttackSkill_0" preset="Auto_skill_slot_empty" tooltip="STR_AUTOHUNT_DIALOG_SKILLSETTING_TOOLTIP" type="itemview" v_pos_align="bottom">
+		</Widget>
+		<Widget cell_padding="3" frame="107,64,46,46" item_height="40" item_width="40" name="AttackSkill_1" preset="Auto_skill_slot_empty" tooltip="STR_AUTOHUNT_DIALOG_SKILLSETTING_TOOLTIP" type="itemview" v_pos_align="bottom">
+		</Widget>
+		<Widget cell_padding="3" frame="185,64,46,46" item_height="40" item_width="40" name="AttackSkill_2" preset="Auto_skill_slot_empty" tooltip="STR_AUTOHUNT_DIALOG_SKILLSETTING_TOOLTIP" type="itemview" v_pos_align="bottom">
+		</Widget>
+		<Widget cell_padding="3" frame="263,64,46,46" item_height="40" item_width="40" name="AttackSkill_3" preset="Auto_skill_slot_empty" tooltip="STR_AUTOHUNT_DIALOG_SKILLSETTING_TOOLTIP" type="itemview" v_pos_align="bottom">
+		</Widget>
+		<Widget cell_padding="3" frame="341,64,46,46" item_height="40" item_width="40" name="AttackSkill_4" preset="Auto_skill_slot_empty" tooltip="STR_AUTOHUNT_DIALOG_SKILLSETTING_TOOLTIP" type="itemview" v_pos_align="bottom">
+		</Widget>
+		<Widget font="ui_default" frame="8,124,396,20" image="v7_sub_tab_static" name="SkillSetting_Subtitle_2" padding="8,0" text="STR_AUTOHUNT_DIALOG_SKILL_BUFF_TITLE" text_color="0.5176,0.6275,0.8784,1.0" type="static">
+		</Widget>
+		<Widget cell_padding="3" frame="29,159,46,46" item_height="40" item_width="40" name="BuffSkill_0" preset="Auto_skill_slot_empty" tooltip="STR_AUTOHUNT_DIALOG_SKILLSETTING_TOOLTIP" type="itemview" v_pos_align="bottom">
+		</Widget>
+		<Widget cell_padding="3" frame="107,159,46,46" item_height="40" item_width="40" name="BuffSkill_1" preset="Auto_skill_slot_empty" tooltip="STR_AUTOHUNT_DIALOG_SKILLSETTING_TOOLTIP" type="itemview" v_pos_align="bottom">
+		</Widget>
+		<Widget frame="341,64,18,20" name="Num_AttackSkill_4" type="image">
+			<Skin name="v7_slot_number05">
+			</Skin>
+		</Widget>
+		<Widget frame="263,64,18,20" name="Num_AttackSkill_3" type="image">
+			<Skin name="v7_slot_number04">
+			</Skin>
+		</Widget>
+		<Widget frame="185,64,18,20" name="Num_AttackSkill_2" type="image">
+			<Skin name="v7_slot_number03">
+			</Skin>
+		</Widget>
+		<Widget frame="107,64,18,20" name="Num_AttackSkill_1" type="image">
+			<Skin name="v7_slot_number02">
+			</Skin>
+		</Widget>
+		<Widget frame="29,64,18,20" name="Num_AttackSkill_0" type="image">
+			<Skin name="v7_slot_number01">
+			</Skin>
+		</Widget>
+		<Widget frame="107,159,18,20" name="Num_BuffSkill_1" type="image">
+			<Skin name="v7_slot_number02">
+			</Skin>
+		</Widget>
+		<Widget frame="29,159,18,20" name="Num_BuffSkill_0" type="image">
+			<Skin name="v7_slot_number01">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="3,238,412,272" type="container">
+		<Widget frame="1,0,410,270" name="HealSetting_bgi" preset="v7_mission_bg_container" type="image">
+			<Widget font_size="13" frame="3,3,404,22" halign="center" name="HealSetting_Title" preset="v5_scheduled_mission_static" text="STR_AUTOHUNT_DIALOG_POTIONSETTING" text_color="1.0,1.0,1.0,1.0" tooltip="STR_AUTOHUNT_DIALOG_POTIONSETTING_TOOLTIP" type="static" valign="middle">
+			</Widget>
+		</Widget>
+		<Widget frame="387,4,20,20" name="HealSetting_Tip" tooltip="STR_AUTOHUNT_DIALOG_HELP_HEAL" type="image">
+			<Skin name="v7_tooltip">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="2" font="v3_shortcut" frame="20,46,44,44" item_height="44" item_width="44" name="HpPotion_itemview" one_click_action="True" preset="Auto_hp_slot_empty" tooltip="STR_AUTOHUNT_DIALOG_POTIONSETTING_TOOLTIP" type="itemview">
+		</Widget>
+		<Widget frame="66,50,280,36" name="hp_gauge_container" type="container">
+			<Widget frame="9,9,268,18" halign="center" image="Auto_item_gauge_bg" name="HpPotion_gauge_bg" type="static">
+			</Widget>
+			<Widget align="left" frame="9,9,268,18" gauge_adjust="0,0" name="HpPotion_gauge" preset="Auto_item_gauge" show_value="false" skin_extend="True" stage="2" state_depended="True" type="gauge">
+			</Widget>
+			<Widget align="horizontal" frame="7,0,274,36" knob_size="18,33" name="HpPotion_slide" preset="v7_slide01" slide_rect="9,9,256,18" step="10" type="slide">
+			</Widget>
+		</Widget>
+		<Widget font="v3_option" font_size="14" frame="348,50,55,35" name="HpPotion_static" padding="8,0" type="static">
+		</Widget>
+		<Widget cell_padding="2" font="v3_shortcut" frame="20,114,44,44" item_height="44" item_width="44" name="MpPotion_itemview" one_click_action="True" preset="Auto_mp_slot_empty" tooltip="STR_AUTOHUNT_DIALOG_POTIONSETTING_TOOLTIP" type="itemview">
+		</Widget>
+		<Widget frame="66,119,280,36" name="mp_gauge_container" type="container">
+			<Widget frame="9,8,268,18" halign="center" image="Auto_item_gauge_bg" name="MpPotion_gauge_bg" type="static">
+			</Widget>
+			<Widget align="left" frame="9,8,268,18" gauge_adjust="0,0" name="MpPotion_gauge" preset="Auto_item_gauge" show_value="false" skin_extend="True" stage="2" state_depended="True" type="gauge">
+			</Widget>
+			<Widget align="horizontal" frame="7,0,274,36" knob_size="18,33" name="MpPotion_slide" preset="v7_slide01" slide_rect="9,9,256,18" step="10" type="slide">
+			</Widget>
+		</Widget>
+		<Widget font="v3_option" font_size="14" frame="348,119,55,35" name="MpPotion_static" padding="8,0" type="static">
+		</Widget>
+		<Widget cell_padding="2" font="v3_shortcut" frame="29,208,44,44" item_height="44" item_width="44" name="CurePotion_itemview" one_click_action="True" preset="Auto_slot_empty" tooltip="STR_AUTOHUNT_DIALOG_POTIONSETTING_TOOLTIP" type="itemview">
+		</Widget>
+		<Widget font="ui_default" frame="6,174,400,20" image="v7_sub_tab_static" name="HealSetting_Subtitle_3" padding="8,0" text="STR_AUTOHUNT_DIALOG_HEAL_CURE_TITLE" text_color="0.5176,0.6275,0.8784,1.0" type="static">
+		</Widget>
+	</Widget>
+	<Widget frame="3,506,412,247" type="container">
+		<Widget frame="1,0,410,246" name="HealSetting_bgi" preset="v7_mission_bg_container" type="image">
+			<Widget font_size="13" frame="3,3,404,22" halign="center" preset="v5_scheduled_mission_static" text="STR_AUTOHUNT_DIALOG_ETCSETTING" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+			</Widget>
+		</Widget>
+		<Widget font="v3_option" frame="18,34,181,36" name="QuestFirst_button" preset="v7_check01" style="checkbox" text="STR_AUTOHUNT_DIALOG_ETCSETTING_QUESTFIRST" text_offset="5,0" tooltip="STR_AUTOHUNT_DIALOG_ETCSETTING_QUESTFIRST_TOOLTIP" type="button" valign="middle">
+		</Widget>
+		<Widget font="v3_option" frame="18,75,181,36" name="AutoShockR_button" preset="v7_check01" style="checkbox" text="STR_AUTOHUNT_DIALOG_ETCSETTING_AUTO_SHOCKREFLECT" text_offset="5,0" tooltip="STR_AUTOHUNT_DIALOG_ETCSETTING_AUTO_SHOCKREFLECT_TOOLTIP" type="button" valign="middle">
+		</Widget>
+		<Widget font="v3_option" frame="18,116,181,36" name="JunkSell_button" preset="v7_check01" style="checkbox" text="STR_AUTOHUNT_DIALOG_ETCSETTING_JUNKSELL" text_offset="5,0" tooltip="STR_AUTOHUNT_DIALOG_ETCSETTING_JUNKSELL_TOOLTIP" type="button" valign="middle">
+		</Widget>
+		<Widget font="v3_option" frame="18,157,181,36" name="UseEXPExtraction_button" preset="v7_check01" style="checkbox" text="STR_AUTOHUNT_DIALOG_ETCSETTING_USEEXPEXTRACTION" text_offset="5,0" tooltip="STR_AUTOHUNT_DIALOG_ETCSETTING_USEEXPEXTRACTION_TOOLTIP" type="button" valign="middle">
+		</Widget>
+		<Widget font="v3_option" frame="18,198,181,36" name="UseChaseCamera_button" preset="v7_check01" style="checkbox" text="STR_AUTOHUNT_DIALOG_ETCSETTING_CHASECAMERA" text_offset="5,0" tooltip="STR_AUTOHUNT_DIALOG_ETCSETTING_CHASECAMERA_TOOLTIP" type="button" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget frame="186,754,224,45" type="container">
+		<Widget font="ui_default" frame="8,0,106,44" name="Skill_button" preset="v7_btn01" text="STR_AUTOHUNT_DIALOG_BUTTON_SKILL_DIALOG" type="button" v_pos_align="bottom">
+		</Widget>
+		<Widget font="ui_default" frame="121,0,106,44" name="Minion_button" preset="v7_btn01" text="STR_AUTOHUNT_MINION" type="button" v_pos_align="bottom">
+		</Widget>
+	</Widget>
+</Dialog>

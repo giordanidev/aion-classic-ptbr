@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog frame="18,194,179,67" last_modified="2020-09-07 20:08:54" name="mercenary_dialog" title_frame="3,3,194,14" type="dlg_mercenary">
+	<Skin name="v4_mercenary" state="0">
+	</Skin>
+	<Widget frame="10,22,36,36" name="emblem" type="image">
+	</Widget>
+	<Widget align="left" frame="52,48,115,7" gauge_adjust="-1,-1" name="hp_gauge_bg" preset="v4_hp_gauge_bg" stage="2" state_depended="True" type="gauge">
+	</Widget>
+	<Widget align="left" font_size="-11" frame="52,48,115,7" gauge_adjust="0,0" name="hp_gauge" num_type="micro" preset="v4_hp_gauge_party" skin_extend="True" stage="2" state_depended="True" type="gauge">
+	</Widget>
+	<Widget cell_padding="2" frame="62,2,44,44" item_height="44" item_width="44" name="cmd1" one_click_action="True" preset="v4_quickbar_slot" type="itemview">
+	</Widget>
+	<Widget cell_padding="2" frame="108,2,44,44" item_height="44" item_width="44" name="cmd2" one_click_action="True" preset="v4_quickbar_slot" type="itemview">
+	</Widget>
+	<Widget font="v3_shortcut" frame="66,6,36,36" halign="left" name="cmd_num1" type="static" valign="top">
+	</Widget>
+	<Widget font="v3_shortcut" frame="112,6,36,36" halign="left" name="cmd_num2" type="static" valign="top">
+	</Widget>
+	<Widget flag="not_visible" frame="1,1,15,15" name="move_trigger" type="image">
+		<Skin name="v4_cross" state="0">
+		</Skin>
+		<Skin name="v4_cross" state="1">
+		</Skin>
+	</Widget>
+</Dialog>

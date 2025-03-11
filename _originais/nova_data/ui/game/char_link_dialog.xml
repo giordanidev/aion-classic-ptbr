@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="left" close_offset="7,5" flag="close" frame="500,700,238,250" last_modified="2020-09-07 20:08:54" name="char_link_dialog" title_frame="3,3,232,14" type="dlg_char_link">
+	<Widget frame="0,0,238,146" type="image" v_pos_align="proportion">
+		<Skin name="v4_popup3">
+		</Skin>
+	</Widget>
+	<Widget frame="0,142,238,107" type="image" v_pos_align="bottom">
+		<Skin name="v4_popup">
+		</Skin>
+	</Widget>
+	<Widget frame="6,23,222,103" name="bg" preset="v4_container" type="image">
+		<Widget frame="4,5,212,20" name="guild" type="static">
+		</Widget>
+		<Widget frame="4,27,106,20" name="level" type="static">
+		</Widget>
+		<Widget frame="110,27,106,20" name="class" type="static">
+		</Widget>
+		<Widget flag="wordwrap;multiline" frame="4,49,212,49" name="today" type="static">
+		</Widget>
+	</Widget>
+	<Widget frame="5,146,224,21" name="whisper" preset="v4_popup_button" text="STR_CHAR_LINK_DIALOG__WHISPER" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget frame="5,170,224,21" name="invite_party" preset="v4_popup_button" text="STR_CHAR_LINK_DIALOG__INVITE_PARTY" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget frame="6,4,208,18" name="name" type="static">
+	</Widget>
+	<Widget frame="5,194,224,21" name="invite_force" preset="v4_popup_button" text="STR_CHAR_LINK_DIALOG__INVITE_FORCE" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget frame="5,218,224,21" name="invite_union" preset="v4_popup_button" text="STR_CHAR_LINK_DIALOG__INVITE_UNION" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

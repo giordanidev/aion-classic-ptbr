@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="BODE0A">... You are?</Text>
+	<Text label="SOL0B">I have come to find you.</Text>
+	<Text label="BODE01">How did you know I was here...?</Text>
+	<Text label="SOL02">Someone gave me this letter to show to you and return with you.</Text>
+	<Text label="BODE03">Hm, this letter is... It&apos;s dark and I can&apos;t really see it well, but...</Text>
+	<Text label="BODE04">Great! The [Tower of Light] is finally stirring.</Text>
+	<Text label="SOL05">Shall we go, then.</Text>
+	<Text label="BODE06">Thank you. I was almost reaching the end of my patience hiding out here...</Text>
+	<Text label="SOL07">There is a secret passage leading to the basement of this manor.</Text>
+	<Text label="BODE08">Oh... You know things about the [Ruined Barat Manor] that hardly any people know about.</Text>
+	<Text label="SOL09">I heard a few stories about it.</Text>
+	<Text label="BODE10">Well, let us hurry!</Text>
+</CutSceneText>

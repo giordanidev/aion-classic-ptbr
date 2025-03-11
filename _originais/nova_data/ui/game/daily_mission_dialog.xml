@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="task" close_offset="5,3" close_preset="v5_attend_close" flag="close;title" frame="412,224,646,400" last_modified="2017-10-10 17:42:26" name="daily_mission_dialog" prev_html="True" shadow_offset="8,8" title_align="center" title_frame="3,3,529,14" title_height="25" title_offset="0,5" type="dlg_daily_mission">
+	<Widget flag="nonclient" frame="0,0,644,400" type="image">
+		<Skin name="v5_attend_stamp_bg">
+		</Skin>
+	</Widget>
+	<Widget flag="nonclient" frame="5,5,635,114" type="image">
+		<Skin name="v5_attend_daily_bg">
+		</Skin>
+	</Widget>
+	<Widget flag="nonclient" frame="248,6,150,22" halign="center" name="title" type="static">
+	</Widget>
+	<Widget frame="5,97,631,272" h_pos_align="proportion" name="mission_board" type="container" v_pos_align="proportion">
+		<Widget frame="2,0,630,110" name="reward_container" type="container">
+			<Widget frame="14,31,144,27" text="STR_DailyMisson_Complete_Reward" type="static">
+			</Widget>
+			<Widget can_click_item="True" direction_size="1" direction_type="horizontal" drag_block_separator="true" elastic_grid_max_rect="0,0,300,300" elastic_grid_size="False" fit_item_size="False" fixed_item_size="True" frame="205,21,220,46" h_pos_align="proportion" inner_scroll="False" item_halign="center" item_spacing="2,2" name="reward_grid" scroll_type="hidden" skin_type="luna" type="grid">
+			</Widget>
+			<Widget cell_padding="2" flag="not_visible" frame="206,19,44,44" item_height="44" item_width="44" name="proto_reward" preset="v5_itemview" type="itemview">
+			</Widget>
+			<Widget frame="167,0,296,21" halign="center" name="remain_mission" type="static">
+			</Widget>
+			<Widget frame="485,1,144,21" name="remain_time" type="static">
+			</Widget>
+			<Widget frame="231,68,84,21" name="reward_qina" type="static">
+			</Widget>
+			<Widget frame="318,68,84,21" name="reward_ap" type="static">
+			</Widget>
+			<Widget frame="231,88,84,21" name="reward_exp" type="static">
+			</Widget>
+			<Widget frame="318,88,84,21" name="reward_gp" type="static">
+			</Widget>
+			<Widget font="ui_default" font_size="13" frame="496,47,117,32" name="recv_reward" preset="v5_button" text="STR_DAILYMISSION_REWARD_BUTTON" text_offset="0,9" type="button" valign="top">
+			</Widget>
+			<Widget flag="not_visible" frame="496,47,117,32" name="recv_static" type="static">
+			</Widget>
+		</Widget>
+		<Widget frame="2,113,630,157" name="mission_container" type="container">
+			<Widget can_click_item="True" direction_size="1" direction_type="vertical" drag_block_separator="true" elastic_grid_max_rect="0,0,300,300" elastic_grid_size="False" fit_item_size="False" fixed_item_size="True" flag="vscroll" frame="4,1,622,157" h_pos_align="proportion" inner_scroll="False" item_halign="left" item_spacing="2,2" name="mission_grid" scroll_type="auto" skin_type="luna" type="grid" v_pos_align="proportion">
+			</Widget>
+			<Widget frame="4,4,622,71" name="proto" type="container">
+				<Widget flag="truncate" frame="14,22,344,27" name="mission_name" type="static">
+				</Widget>
+				<Widget font="ui_default" font_size="13" frame="488,19,117,32" name="accept_mission" preset="v5_button" text="STR_DAILYMISSION_REWARD_BUTTON" text_offset="0,9" type="button" valign="top">
+				</Widget>
+				<Widget flag="not_visible" frame="488,19,117,32" name="mission_static" type="static">
+				</Widget>
+			</Widget>
+			<Widget flag="not_visible" frame="234,7,163,27" halign="center" name="empty" text="STR_DailyMisson_Empty" type="static">
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget font_size="14" frame="12,2,475,50" halign="center" name="subtitle" preset="v5_attend_static_bubble" text_color="0.0235,0.0745,0.1843,1.0" type="static">
+	</Widget>
+</Dialog>

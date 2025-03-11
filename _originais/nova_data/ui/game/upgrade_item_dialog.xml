@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="close;;title" frame="25,140,745,501" last_modified="2019-08-08 16:33:31" name="upgrade_item_dialog" preset="v5_dialog2" shadow_offset="8,8" title_align="center" title_frame="3,3,745,14" title_height="25" title_offset="0,5" title_text="STR_TRADE_DIALOG__UPGRADE_ITEM_TITLE" type="dlg_upgrade_item">
+	<Widget font="ui_static_title" frame="4,4,732,82" h_pos_align="proportion" margin="5,5,5,5" name="info" preset="v5_staticbox" scroll_type="hidden" text="STR_REGISTER_ITEM_UPGRADE_DIALOG__DESC" type="htmlview">
+	</Widget>
+	<Widget frame="4,90,732,293" h_pos_align="proportion" type="container">
+		<Skin name="v5_upgrade_bg">
+		</Skin>
+		<Widget frame="3,3,482,287" type="image">
+			<Skin name="v5_upgrade_bg2">
+			</Skin>
+		</Widget>
+		<Widget frame="4,4,164,132" type="image">
+			<Skin name="v5_upgrade_bg2_corner">
+			</Skin>
+		</Widget>
+		<Widget frame="483,107,59,24" name="upgrade_arrow" type="image">
+			<Skin name="v5_upgrade_bg2_arrow">
+			</Skin>
+		</Widget>
+		<Widget frame="25,103,161,88" type="image">
+			<Skin name="v5_upgrade_slot_bg">
+			</Skin>
+		</Widget>
+		<Widget frame="182,133,25,25" type="image">
+			<Skin name="v5_deco_plus_big2">
+			</Skin>
+		</Widget>
+		<Widget frame="459,120,102,52" type="image">
+			<Skin name="v5_upgrade_gear">
+			</Skin>
+		</Widget>
+		<Widget frame="520,47,187,187" name="upgrade_result_bg" preset="v5_upgrade_result_slot_bg" type="image">
+		</Widget>
+		<Widget frame="530,0,191,293" type="image">
+			<Skin name="v5_upgrade_result_bg">
+			</Skin>
+		</Widget>
+		<Widget cell_padding="2" cell_space="0, 0" font="ui_list" frame="234,49,244,226" h_pos_align="left" item_height="44" item_width="44" list_padding="3,3" name="required_list" preset="v5_listview_frame" reserve_slots="True" scroll_type="hidden" slot_num="5" type="listview" viewmode="detail">
+			<Column align="" title="" width="200">
+			</Column>
+		</Widget>
+		<Widget font="ui_default" frame="519,18,190,20" halign="center" text="STR_TRADE_DIALOG__UPGRADE_RESULT_ITEM" type="static" valign="middle">
+		</Widget>
+		<Widget font="ui_default" frame="257,18,198,20" halign="center" text="STR_TRADE_DIALOG__UPGRADE_NEED_ITEM" type="static" valign="middle">
+		</Widget>
+		<Widget font="ui_default" frame="10,18,190,20" halign="center" text="STR_TRADE_DIALOG__UPGRADE_ENCHANTED_ITEM" type="static" valign="middle">
+		</Widget>
+		<Widget flag="multiline;truncate" font="ui_default" frame="13,214,198,62" halign="center" max_lines="3" name="upgrade_item_info" preset="v5_staticbox2" type="static" valign="middle">
+		</Widget>
+		<Widget flag="truncate" font="ui_default" frame="518,233,190,42" halign="center" preset="v5_staticbox2" type="static" valign="middle">
+		</Widget>
+		<Widget frame="519,234,188,40" name="upgrade_result_name_blink" type="image">
+			<Skin name="v5_upgrade_result_blink">
+			</Skin>
+		</Widget>
+		<Widget flag="truncate" font="ui_default" frame="518,233,190,42" halign="center" name="upgrade_result_name" type="static" valign="middle">
+		</Widget>
+		<Widget cell_padding="2" cell_space="0,0" column_set1=",1000," flag="truncate" frame="84,122,42,42" item_height="42" item_width="42" name="upgrade_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+		</Widget>
+		<Widget font="ui_default" font_size="11" frame="518,130,190,20" halign="center" name="upgrade_info" text="STR_TRADE_DIALOG__UPGRADE_ITEM_CHOICE" text_color="0,0.61,1.0,1.0" type="static" valign="middle">
+		</Widget>
+		<Widget frame="554,22,189,118" name="upgrade_result_con0" type="container">
+			<Widget frame="0,0,120,118" h_pos_align="left" name="upgrade_result_bg0" preset="v5_upgrade_result_slot_bg2" type="image" v_pos_align="proportion">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" column_set1=",1000," flag="truncate" frame="38,38,42,42" item_height="42" item_width="42" name="upgrade_result0" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" frame="95,47,74,19" halign="right" name="button_menu0" preset="v5_expand_button" style="checkbox" text="STR_DISASSEMBLY_ITEM_LIST_BUTTON" text_offset="5,0" type="button" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="554,139,189,118" name="upgrade_result_con1" type="container">
+			<Widget frame="0,0,120,118" h_pos_align="left" name="upgrade_result_bg1" preset="v5_upgrade_result_slot_bg2" type="image" v_pos_align="proportion">
+			</Widget>
+			<Widget cell_padding="2" cell_space="0,0" column_set1=",1000," flag="truncate" frame="38,38,42,42" item_height="42" item_width="42" name="upgrade_result1" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget font="ui_default" frame="95,47,74,19" halign="right" name="button_menu1" preset="v5_expand_button" style="checkbox" text="STR_DISASSEMBLY_ITEM_LIST_BUTTON" text_offset="5,0" type="button" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="656,79,17,118" name="slot_align_rect" type="container">
+			<Widget frame="78,-54,120,118" type="container">
+				<Widget frame="0,0,120,118" name="slot_bg_rect0" type="container">
+				</Widget>
+				<Widget frame="38,38,42,42" name="slot_rect0" type="container">
+				</Widget>
+				<Widget frame="12,12,96,94" name="slot_bg_rect1" type="container">
+				</Widget>
+				<Widget frame="43,43,32,32" h_pos_align="proportion" name="slot_rect1" type="container" v_pos_align="proportion">
+				</Widget>
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget font="v3_money" frame="124,387,305,22" h_pos_align="right" halign="right" name="my_abyss" preset="v5_staticbox" type="static" v_pos_align="middle">
+	</Widget>
+	<Widget font="v3_money" frame="124,411,305,22" h_pos_align="right" halign="right" name="required_abyss" preset="v5_staticbox" type="static" v_pos_align="middle">
+	</Widget>
+	<Widget font="v3_money" frame="431,387,305,22" h_pos_align="right" halign="right" name="my_money" preset="v5_staticbox" type="static" v_pos_align="middle">
+	</Widget>
+	<Widget font="v3_money" frame="431,411,305,22" h_pos_align="right" halign="right" name="required_money" preset="v5_staticbox" type="static" v_pos_align="middle">
+	</Widget>
+	<Widget font="ui_default" frame="17,387,78,23" h_pos_align="right" halign="right" padding="2,0" text="STR_UPGRADE_ITEM_DIALOG__HAVE" type="static" v_pos_align="middle">
+	</Widget>
+	<Widget font="ui_default" frame="17,411,78,23" h_pos_align="right" halign="right" padding="2,0" text="STR_UPGRADE_ITEM_DIALOG__PAY" type="static" v_pos_align="middle">
+	</Widget>
+	<Widget font="ui_default" frame="2,444,76,24" name="btn_help" preset="v5_button" text="STR_COMMON__HELP" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="677,444,60,24" h_pos_align="right" name="cancel" preset="v5_button" text="STR_UPGRADE_ITEM_DIALOG__CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget defbutton="true" font="ui_default" frame="616,443,60,24" h_pos_align="right" name="ok" preset="v5_button" text="STR_UPGRADE_ITEM_DIALOG__OK" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

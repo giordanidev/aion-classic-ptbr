@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="sub" close_offset="4,1" close_preset="v5_close" flag="close;title" frame="15,130,406,512" last_modified="2014-08-22 12:58:41" name="guild_challenge_task_quest_dialog" preset="v5_dialog2" prev_html="True" shadow_offset="8,8" title_align="center" title_frame="3,3,578,14" title_height="25" title_offset="0,5" type="dlg_guild_challenge_task_quest">
+	<Widget frame="0,0,400,450" group="quest" name="background" type="image">
+		<Skin name="dlg_bg_basic" src_image="0,0,400,450">
+		</Skin>
+	</Widget>
+	<Widget flag="vscroll" frame="8,6,384,435" group="quest" name="html_view" scroll_type="visible" skin_type="parchment" type="htmlview">
+	</Widget>
+	<Widget font="ui_default" frame="261,455,68,24" name="accept" preset="v5_button" text="STR_DLG_DIALOG__ACCEPT" type="button">
+	</Widget>
+	<Widget font="ui_default" frame="330,455,68,24" name="cancel" preset="v5_button" text="STR_DLG_DIALOG__CLOSE" type="button">
+	</Widget>
+</Dialog>

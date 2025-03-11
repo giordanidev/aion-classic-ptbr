@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="close;title" frame="0,0,445,308" last_modified="2020-11-11 15:50:35" name="gab2_detail_dialog" preset="v5_dialog2" title_text="STR_GAB2_DIALOG_SCORRE_DETAIL" type="dlg_gab2_detail">
+	<Widget frame="4,6,213,116" group="iddre" name="gab2_01" preset="v5_indun_hud_bg" type="container">
+		<Widget font_size="14" frame="20,24,175,20" halign="center" name="world_name" type="static" valign="middle">
+		</Widget>
+		<Widget flag="active" font_size="16" frame="24,54,80,21" halign="center" name="score_team1" preset="v5_indun_hud_score_light" tooltip="STR_INDUN_TIMER__TOOLTIP_LIGHT_POINT" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+		<Widget flag="active" font_size="16" frame="107,54,80,21" halign="center" name="score_team2" preset="v5_indun_hud_score_dark" tooltip="STR_INDUN_TIMER__TOOLTIP_DARK_POINT" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+		<Widget flag="active" font_size="16" frame="24,78,80,21" halign="center" name="score_team3" preset="v5_indun_hud_score_light" tooltip="STR_INDUN_TIMER__TOOLTIP_LIGHT_POINT" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+		<Widget flag="active" font_size="16" frame="107,78,80,21" halign="center" name="score_team4" preset="v5_indun_hud_score_dark" tooltip="STR_INDUN_TIMER__TOOLTIP_DARK_POINT" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+		<Widget flag="not_enabled" frame="24,54,80,21" halign="center" name="score_team1_fx" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+		<Widget flag="not_enabled" frame="107,54,80,21" halign="center" name="score_team2_fx" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+		<Widget flag="not_enabled" frame="24,78,80,21" halign="center" name="score_team3_fx" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+		<Widget flag="not_enabled" frame="107,78,80,21" halign="center" name="score_team4_fx" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget frame="222,6,213,116" group="iddre" name="gab2_02" preset="v5_indun_hud_bg" type="container">
+		<Widget font_size="14" frame="20,24,175,20" halign="center" name="world_name" type="static" valign="middle">
+		</Widget>
+		<Widget flag="active" font_size="16" frame="24,54,80,21" halign="center" name="score_team1" preset="v5_indun_hud_score_light" tooltip="STR_INDUN_TIMER__TOOLTIP_LIGHT_POINT" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+		<Widget flag="active" font_size="16" frame="107,54,80,21" halign="center" name="score_team2" preset="v5_indun_hud_score_dark" tooltip="STR_INDUN_TIMER__TOOLTIP_DARK_POINT" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+		<Widget flag="active" font_size="16" frame="24,78,80,21" halign="center" name="score_team3" preset="v5_indun_hud_score_light" tooltip="STR_INDUN_TIMER__TOOLTIP_LIGHT_POINT" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+		<Widget flag="active" font_size="16" frame="107,78,80,21" halign="center" name="score_team4" preset="v5_indun_hud_score_dark" tooltip="STR_INDUN_TIMER__TOOLTIP_DARK_POINT" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+		<Widget flag="not_enabled" frame="24,54,80,21" halign="center" name="score_team1_fx" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+		<Widget flag="not_enabled" frame="107,54,80,21" halign="center" name="score_team2_fx" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+		<Widget flag="not_enabled" frame="24,78,80,21" halign="center" name="score_team3_fx" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+		<Widget flag="not_enabled" frame="107,78,80,21" halign="center" name="score_team4_fx" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget frame="4,127,213,116" group="iddre" name="gab2_03" preset="v5_indun_hud_bg" type="container">
+		<Widget font_size="14" frame="20,24,175,20" halign="center" name="world_name" type="static" valign="middle">
+		</Widget>
+		<Widget flag="active" font_size="16" frame="24,54,80,21" halign="center" name="score_team1" preset="v5_indun_hud_score_light" tooltip="STR_INDUN_TIMER__TOOLTIP_LIGHT_POINT" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+		<Widget flag="active" font_size="16" frame="107,54,80,21" halign="center" name="score_team2" preset="v5_indun_hud_score_dark" tooltip="STR_INDUN_TIMER__TOOLTIP_DARK_POINT" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+		<Widget flag="active" font_size="16" frame="24,78,80,21" halign="center" name="score_team3" preset="v5_indun_hud_score_light" tooltip="STR_INDUN_TIMER__TOOLTIP_LIGHT_POINT" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+		<Widget flag="active" font_size="16" frame="107,78,80,21" halign="center" name="score_team4" preset="v5_indun_hud_score_dark" tooltip="STR_INDUN_TIMER__TOOLTIP_DARK_POINT" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+		<Widget flag="not_enabled" frame="24,54,80,21" halign="center" name="score_team1_fx" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+		<Widget flag="not_enabled" frame="107,54,80,21" halign="center" name="score_team2_fx" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+		<Widget flag="not_enabled" frame="24,78,80,21" halign="center" name="score_team3_fx" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+		<Widget flag="not_enabled" frame="107,78,80,21" halign="center" name="score_team4_fx" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget frame="222,127,213,116" group="iddre" name="gab2_04" preset="v5_indun_hud_bg" type="container">
+		<Widget font_size="14" frame="20,24,175,20" halign="center" name="world_name" type="static" valign="middle">
+		</Widget>
+		<Widget flag="active" font_size="16" frame="24,54,80,21" halign="center" name="score_team1" preset="v5_indun_hud_score_light" tooltip="STR_INDUN_TIMER__TOOLTIP_LIGHT_POINT" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+		<Widget flag="active" font_size="16" frame="107,54,80,21" halign="center" name="score_team2" preset="v5_indun_hud_score_dark" tooltip="STR_INDUN_TIMER__TOOLTIP_DARK_POINT" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+		<Widget flag="active" font_size="16" frame="24,78,80,21" halign="center" name="score_team3" preset="v5_indun_hud_score_light" tooltip="STR_INDUN_TIMER__TOOLTIP_LIGHT_POINT" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+		<Widget flag="active" font_size="16" frame="107,78,80,21" halign="center" name="score_team4" preset="v5_indun_hud_score_dark" tooltip="STR_INDUN_TIMER__TOOLTIP_DARK_POINT" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+		<Widget flag="not_enabled" frame="24,54,80,21" halign="center" name="score_team1_fx" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+		<Widget flag="not_enabled" frame="107,54,80,21" halign="center" name="score_team2_fx" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+		<Widget flag="not_enabled" frame="24,78,80,21" halign="center" name="score_team3_fx" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+		<Widget flag="not_enabled" frame="107,78,80,21" halign="center" name="score_team4_fx" type="static" v_pos_align="middle" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget font="ui_default" frame="353,251,82,24" name="cancel_button" preset="v5_button" text="STR_COMMON__OK" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

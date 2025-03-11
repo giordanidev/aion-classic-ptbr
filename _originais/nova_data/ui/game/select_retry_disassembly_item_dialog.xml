@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="task" close_offset="4,1" close_preset="v5_close" flag="close;title" frame="430,162,260,256" last_modified="2015-08-28 17:35:28" name="select_retry_disassembly_item_dialog" preset="v5_dialog" shadow_offset="8,8" title_align="center" title_frame="3,3,104,14" title_height="25" title_offset="0,5" title_text="STR_RETRY_DIALOG__TITLE" type="dlg_select_retry_disassembly_item">
+	<Widget cell_padding="2" cell_space="0,0" flag="vscroll" frame="3,58,249,136" item_height="44" item_width="44" list_padding="3,3" name="item_list" preset="v5_listview_sel_frame" scroll_type="visible" slot_num="10" type="listview" viewmode="detail">
+		<Column align="" title="" width="173">
+		</Column>
+	</Widget>
+	<Widget font="ui_default" frame="184,199,68,24" name="cancel" preset="v5_button" text="STR_RETRY_DIALOG__BUTTON_CLOSE" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="115,199,68,24" name="acquire" preset="v5_button" text="STR_RETRY_DIALOG__BUTTON_TAKE" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="2,199,100,24" name="reassemble" preset="v5_button" text="STR_DISASSEMBLY_ITEM_SELECT_DIALOG__OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget flag="wordwrap;multiline" font="ui_static_title" frame="3,4,249,51" halign="center" name="tip" padding="5,0" preset="v5_staticbox" text="STR_RETRY_DIALOG__DESC" type="static" valign="middle">
+	</Widget>
+</Dialog>

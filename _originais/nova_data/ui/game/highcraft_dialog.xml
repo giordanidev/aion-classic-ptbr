@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="close;title" frame="140,130,1039,568" last_modified="2016-03-15 21:22:29" name="highcraft_dialog" preset="v5_dialog" title_frame="3,3,1033,14" title_height="25" title_offset="0,5" title_text="STR_HIGHCRAFT_DIALOG_MAIN" type="dlg_highcraft">
+	<Widget frame="4,2,613,56" name="search_ctn" type="container">
+		<Widget font="ui_default" frame="555,32,58,24" name="search_clear" preset="v5_button" text="STR_HIGHCRAFT_DIALOG__BUTTON_SEARCH_RESET" type="button" v_pos_align="bottom">
+		</Widget>
+		<Widget font="ui_default" frame="497,32,56,24" name="search_btn" preset="v5_button" text="STR_HIGHCRAFT_DIALOG__BUTTON_SEARCH_START" type="button" v_pos_align="bottom">
+		</Widget>
+		<Widget alphanumeric="False" font="ui_edit" frame="322,32,173,24" h_padding="5" name="search_edit" preset="v5_editbox" type="editbox" v_padding="5" v_pos_align="bottom" valign="bottom">
+		</Widget>
+		<Widget font="ui_combo" frame="234,32,86,24" max_items="2" name="search_option" preset="v5_staticbox3" type="combobox" v_pos_align="bottom">
+			<Items>
+				<Item name="STR_HIGHCRAFT_DIALOG__SEARCH_MATCH_WITHIN_WORD">
+				</Item>
+				<Item name="STR_HIGHCRAFT_DIALOG__SEARCH_MATCH_WHOLE_WORD">
+				</Item>
+			</Items>
+		</Widget>
+		<Widget font="ui_default" frame="3,32,191,24" name="filter_unavailable" preset="v5_check" style="checkbox" text="STR_HIGHCRAFT_DIALOG__CHECK_SEARCH_MATCH_CAN_PRODUCT" text_offset="3,0" type="button" v_pos_align="bottom">
+		</Widget>
+		<Widget font="ui_default" frame="3,0,118,24" halign="center" text="STR_HIGHCRAFT_DIALOG__TPOINT" type="static">
+		</Widget>
+		<Widget frame="121,0,492,24" type="image">
+			<Skin name="highcraft_exp_gauge_bg">
+			</Skin>
+			<Widget font="ui_default" frame="4,5,483,14" name="exp_gauge" preset="highcraft_exp_gauge" type="gauge">
+				<Widget blend_type="screen" frame="-26,1,26,12" name="gauge_end" type="image">
+					<Skin name="highcraft_exp_gauge_end">
+					</Skin>
+				</Widget>
+			</Widget>
+			<Widget flag="nonclient;outer" frame="242,-5,8,34" type="image">
+				<Skin name="highcraft_result_gauge_pin">
+				</Skin>
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget frame="3,62,169,472" name="category_ctn" preset="v5_staticbox" type="container">
+		<Widget button_size="19,19" exclusive="true" flag="vscroll" font="ui_tree" frame="2,29,165,441" item_height="22" level_space="19" name="category" preset="v5_treeview" skin_type="version5" space="5" type="treeview">
+		</Widget>
+		<Widget font="v3_columnhead" frame="2,2,165,26" halign="center" text="STR_VENDOR_DIALOG__VENDOR_TAB_FRAME_WIDGET1" type="static">
+		</Widget>
+	</Widget>
+	<Widget cell_padding="2" cell_space="0,0" column_customizing="True" flag="vscroll;truncate;" font="ui_list" frame="173,62,444,472" header_font="v3_columnhead" header_height="26" item_height="44" item_width="44" list_padding="3,3" name="recipe_list" page_num="0" preset="v5_listview_sel_frame" reserve_slots="False" scroll_type="visible" skin_type="version5" slot_num="10" type="listview" viewmode="detail">
+		<Column align="" sort="text" title="STR_HIGHCRAFT_DIALOG__CRAFTLIST_ITEMNAME" width="190">
+		</Column>
+		<Column align="center" sort="param" title="STR_HIGHCRAFT_DIALOG__CRAFTLIST_TPOINT" width="60">
+		</Column>
+		<Column align="center" sort="param" title="STR_HIGHCRAFT_DIALOG__CRAFTLIST_USELEVEL" width="50">
+		</Column>
+		<Column align="center" sort="param" title="STR_HIGHCRAFT_DIALOG__CRAFTLIST_STATE" width="80">
+		</Column>
+	</Widget>
+	<Widget frame="620,1,410,533" h_pos_align="left" name="make_target_ctn" type="container" v_pos_align="top">
+		<Skin name="highcraft_result_bg">
+		</Skin>
+		<Widget frame="160,36,73,68" type="image">
+			<Skin name="highcraft_target_slot_bg">
+			</Skin>
+			<Widget cell_padding="1" cell_space="0,0" flag="enabled" frame="14,13,44,44" item_height="32" item_width="32" name="target_item" preset="v5_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+		</Widget>
+		<Widget frame="241,36,165,68" h_pos_align="left" name="critical_result_ctn" type="container" v_pos_align="top">
+			<Widget font="enchant_all_default" font_size="11" frame="80,26,80,22" h_pos_align="proportion" halign="left" name="static_cri" padding="5, 2" text="STR_HIGHCRAFT_DIALOG__BUTTON_CRAFT_STOP" type="static" v_pos_align="middle">
+			</Widget>
+			<Widget frame="4,29,18,19" type="image">
+				<Skin name="highcraft_cri_arrow">
+				</Skin>
+			</Widget>
+			<Widget cell_padding="1" cell_space="0,0" flag="enabled" frame="40,19,38,38" item_height="32" item_width="32" name="target_item_cri" preset="v5_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+		</Widget>
+		<Widget frame="3,134,404,27" type="image">
+			<Skin name="highcraft_mat_bg">
+			</Skin>
+			<Widget font="enchant_all_default" frame="10,4,150,23" h_pos_align="left" halign="left" padding="5, 2" text="STR_HIGHCRAFT_DIALOG__CRAFTRESULT_RESOURCE_NAME" type="static" v_pos_align="middle">
+			</Widget>
+			<Widget button_size="0,0" button_space="2" font="v3_button" frame="76,6,117,21" h_pos_align="proportion" name="target_mat_index" page_num="5" page_size="20,20" page_space="2" preset="v5_tooltip_page" show_button="False" space="10" type="pagecontrol">
+			</Widget>
+		</Widget>
+		<Widget font="ui_default" frame="45,2,320,24" halign="center" text="STR_HIGHCRAFT_DIALOG__CRAFTRESULT" type="static">
+		</Widget>
+		<Widget font="ui_default" frame="3,103,388,22" h_pos_align="proportion" halign="center" name="target_desc" padding="5, 2" text="123" type="static" v_pos_align="middle">
+		</Widget>
+		<Widget font="enchant_all_default" font_size="11" frame="65,400,250,22" h_pos_align="proportion" halign="right" name="cooling_time" padding="5, 2" text="123" type="static" v_pos_align="middle">
+		</Widget>
+		<Widget font="enchant_all_default" font_size="11" frame="65,400,250,22" h_pos_align="proportion" halign="right" name="remain_count" padding="5, 2" text="123" type="static" v_pos_align="middle">
+		</Widget>
+		<Widget direction_size="1" direction_type="vertical" drag_block_separator="false" elastic_grid_size="false" fit_item_size="True" fixed_item_size="true" flag="vscroll;snap_scroll" frame="18,169,387,254" h_pos_align="proportion" inner_scroll="False" item_padding="1" item_spacing="3" name="mat_list" preset="v5_grid_quest_indicator" skin_type="version5" type="grid" v_pos_align="top">
+		</Widget>
+		<Widget font="ui_default" frame="1,1,42,27" name="navigate" preset="highcraft_nav_up" type="button">
+		</Widget>
+		<Widget flag="not_visible" frame="22,170,354,56" name="prototype_mat" type="container">
+			<Widget frame="0,-7,73,68" type="image">
+				<Skin name="highcraft_mat_slot_bg">
+				</Skin>
+				<Widget cell_padding="1" cell_space="0,0" flag="enabled" frame="14,13,44,44" item_height="32" item_width="32" name="item" preset="v5_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+				</Widget>
+			</Widget>
+			<Widget flag="truncate" font="ui_default" frame="66,7,221,20" h_pos_align="left" halign="left" name="desc" padding="5, 2" text="123" type="static" v_pos_align="middle">
+			</Widget>
+			<Widget font="ui_default" frame="303,15,31,23" name="nav_down" preset="highcraft_nav_down" type="button">
+			</Widget>
+			<Widget flag="truncate" font="ui_default" frame="66,29,221,20" h_pos_align="left" halign="left" name="count" padding="5, 2" text="123" text_color="0.102,1.0,0.4392,255.0" type="static" v_pos_align="middle">
+			</Widget>
+		</Widget>
+		<Widget frame="63,432,285,97" name="make_control_ctn" type="container">
+			<Widget font="v3_columnhead" frame="0,3,285,17" halign="center" name="making_status" padding="2" text="STR_VENDOR_DIALOG__VENDOR_TAB_FRAME_WIDGET1" type="static">
+			</Widget>
+			<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="14" frame="0,30,285,69" fx_offset="8,20" fx_size="47,31" name="making_start" preset="enchant_all_ok" text="STR_ENCHANT_ALL_DIALOG__OK_ENCHANT" type="gaugebutton" v_pos_align="top">
+			</Widget>
+			<Widget flag="active" frame="68,20,151,24" type="container">
+				<Widget font="ui_default" frame="3,2,17,17" name="making_count_min" preset="v5_first_page" type="button">
+				</Widget>
+				<Widget font="ui_default" frame="130,2,17,17" name="making_count_max" preset="v5_last_page" type="button">
+				</Widget>
+				<Widget font="v3_money" frame="20,0,110,23" h_align="center" name="making_count" type="spin">
+				</Widget>
+			</Widget>
+		</Widget>
+	</Widget>
+</Dialog>

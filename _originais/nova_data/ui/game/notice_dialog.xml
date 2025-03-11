@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="not_movable" frame="15,140,185,206" last_modified="2015-07-08 13:54:55" name="notice_dialog" preset="v5_dialog" title_align="center" title_frame="3,3,369,14" title_height="23" title_offset="0,5" type="dlg_notice">
+	<Widget font="ui_default" frame="0,0,179,82" halign="center" name="no_item" padding="1,0" text="STR_EVENTMSG_DIALOG__NO_MSG" type="static" valign="middle">
+	</Widget>
+	<Widget direction_size="1" direction_type="vertical" drag_block_separator="True" elastic_grid_max_rect="0,0,230,470" elastic_grid_size="true" fit_item_size="true" fixed_item_size="false" flag="vscroll;hscroll;snap_scroll" frame="0,0,179,200" h_pos_align="proportion" inner_scroll="false" item_padding="3" item_spacing="0" name="grid_notice" preset="v5_grid_quest_indicator" skin_type="notice" type="grid" v_pos_align="proportion">
+	</Widget>
+	<Widget direction_size="1" direction_type="vertical" drag_block_separator="True" elastic_grid_max_rect="0,0,230,470" elastic_grid_size="true" fit_item_size="true" fixed_item_size="false" flag="not_visible" frame="0,0,179,200" h_pos_align="proportion" inner_scroll="false" item_padding="3" item_spacing="0" name="grid_notice_hide" preset="v5_grid_quest_indicator" skin_type="version5" type="grid" v_pos_align="proportion">
+	</Widget>
+	<Widget flag="not_visible" frame="300,25,162,82" name="prototype" preset="v5_staticbox5" type="container">
+		<Widget color="1.0,1.0,1.0,0.8" flag="not_active" frame="4,4,154,18" h_pos_align="proportion" name="title_bg" type="image">
+			<Skin name="v5_img_black">
+			</Skin>
+		</Widget>
+		<Widget flag="not_active;truncate;textalpha" frame="8,1,130,24" h_pos_align="proportion" halign="left" name="title" scroll_type="hidden" text_color="0.7961,0.6902,0.5137,1.0" text_shade="True" type="static" v_pos_align="top" valign="middle">
+		</Widget>
+		<Widget frame="83,0,82,82" h_pos_align="proportion" name="btn_group" type="container" v_pos_align="proportion">
+			<Widget frame="56,3,20,20" h_pos_align="right" name="remove" preset="v5_title_delete" type="button" v_pos_align="top">
+			</Widget>
+		</Widget>
+		<Widget color="1.0,1.0,1.0,0.35" flag="not_active" frame="4,24,154,54" h_pos_align="proportion" name="contents_bg" type="image" v_pos_align="proportion">
+			<Skin name="v5_img_black">
+			</Skin>
+		</Widget>
+		<Widget frame="4,24,154,54" h_pos_align="proportion" name="contents" scroll_type="hidden" text_shade="True" type="htmlview" v_pos_align="proportion">
+		</Widget>
+	</Widget>
+</Dialog>

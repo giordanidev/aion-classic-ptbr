@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="transparent" frame="0,0,600,600" last_modified="2014-08-22 12:58:42" name="transparent_zonemap_large_dialog" shadow_offset="8,8" title_align="center" title_frame="3,3,248,14" title_height="25" title_offset="0,5" type="dlg_transparent_zonemap_large">
+	<Widget frame="0,0,600,600" h_pos_align="proportion" name="frame_bg" type="image" v_pos_align="proportion">
+		<Skin name="v5_transparent_map_bg" state="0">
+		</Skin>
+	</Widget>
+	<Widget flag="not_active" font="v3_map_subzone" frame="5,5,590,590" h_pos_align="proportion" name="mapctrl" type="zonemap" v_pos_align="proportion">
+	</Widget>
+	<Widget frame="7,7,15,15" h_pos_align="left" name="move_trigger" type="image" v_pos_align="top">
+		<Skin name="v5_cross" state="0">
+		</Skin>
+		<Skin name="v5_cross" state="1">
+		</Skin>
+	</Widget>
+</Dialog>

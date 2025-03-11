@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<hall_of_fame>
+	<hall_of_fame_item>
+		<file>Textures\HOF\17.dds</file>
+		<screenshot>
+			<head>
+				<major-version>1</major-version>
+				<minor-version>1</minor-version>
+				<gamename>AION</gamename>
+				<product-version>50.15.1119.9863</product-version>
+				<time>2015-0-12 0:3:0</time>
+				<checksum>12a3f97937d9b2218dfa1d43820a1e18</checksum>
+			</head>
+			<body>
+				<location>
+					<name>Outer Dock</name>
+					<level>LC1</level>
+					<x>1806</x>
+					<y>2106</y>
+					<z>527</z>
+				</location>
+				<player>
+					<screen>
+						<x>799</x>
+						<y>446</y>
+					</screen>
+					<name>
+					</name>
+					<server>Siel</server>
+					<level>68</level>
+					<race>Elyos</race>
+					<job>Gladiator</job>
+					<sex>Female</sex>
+					<guild>
+						<name>
+						</name>
+					</guild>
+					<equipped>
+						<rhand>Special Elite Emissary&apos;s Glaive</rhand>
+						<lhand>
+						</lhand>
+						<head>Moon Rabbit&apos;s Picnic - Hat</head>
+						<headcolor>255,255,255</headcolor>
+						<torso>Speedy Miss Meow Dress</torso>
+						<torsocolor>255,255,255</torsocolor>
+						<glove>Special Emissary&apos;s Divine Gauntlets</glove>
+						<foot>Special Emissary&apos;s Divine Sabatons</foot>
+						<shoulder>Special Emissary&apos;s Divine Shoulderplates</shoulder>
+						<leg>Special Emissary&apos;s Divine Greaves</leg>
+					</equipped>
+					<custom_presets>
+						<custom_preset>
+							<version>7</version>
+							<pc_type>pc_lf</pc_type>
+							<scale>1.200000</scale>
+							<hair_type>75</hair_type>
+							<face_type>11</face_type>
+							<feat_type1>0</feat_type1>
+							<feat_type2>0</feat_type2>
+							<bump_type>5</bump_type>
+							<expression_type>0</expression_type>
+							<hair_color>241, 0, 0</hair_color>
+							<lip_color>243, 121, 130</lip_color>
+							<eye_color>26, 24, 24</eye_color>
+							<eye_color2>26, 24, 24</eye_color2>
+							<eye_Type>8</eye_Type>
+							<eyelashes>1</eyelashes>
+							<skin_color>240, 220, 215</skin_color>
+							<detail>438F41B6DEE4D464412A4C641F829ED8DD58A8649764E46432FFD4AAFBA104CD03BAF7C04600E7CEFE6400F6F5BAEF</detail>
+							<voice_type>3</voice_type>
+						</custom_preset>
+					</custom_presets>
+				</player>
+			</body>
+		</screenshot>
+	</hall_of_fame_item>
+	<hall_of_fame_item>
+		<file>Textures\HOF\18.dds</file>
+		<screenshot>
+			<head>
+				<major-version>1</major-version>
+				<minor-version>1</minor-version>
+				<gamename>AION</gamename>
+				<product-version>50.15.1119.9863</product-version>
+				<time>2015-0-12 0:2:0</time>
+				<checksum>f7e379e94809002ed70fddd62fff458a</checksum>
+			</head>
+			<body>
+				<location>
+					<name>Akarios Village</name>
+					<level>LF1</level>
+					<x>841</x>
+					<y>1230</y>
+					<z>118</z>
+				</location>
+				<player>
+					<screen>
+						<x>1280</x>
+						<y>91</y>
+					</screen>
+					<name>
+					</name>
+					<server>Siel</server>
+					<level>1</level>
+					<race>Elyos</race>
+					<job>Muse</job>
+					<sex>Female</sex>
+					<equipped>
+						<rhand>
+						</rhand>
+						<lhand>
+						</lhand>
+						<head>Miss Meow Bandana</head>
+						<torso>Speedy Miss Meow Dress</torso>
+						<torsocolor>247,181,177</torsocolor>
+						<glove>
+						</glove>
+						<foot>
+						</foot>
+						<shoulder>
+						</shoulder>
+						<leg>Training Leggings</leg>
+					</equipped>
+					<custom_presets>
+						<custom_preset>
+							<version>7</version>
+							<pc_type>pc_lf</pc_type>
+							<scale>0.890764</scale>
+							<hair_type>72</hair_type>
+							<face_type>36</face_type>
+							<feat_type1>0</feat_type1>
+							<feat_type2>0</feat_type2>
+							<bump_type>0</bump_type>
+							<expression_type>0</expression_type>
+							<hair_color>122, 103, 93</hair_color>
+							<lip_color>244, 127, 120</lip_color>
+							<eye_color>105, 85, 66</eye_color>
+							<eye_color2>105, 85, 66</eye_color2>
+							<eye_Type>8</eye_Type>
+							<eyelashes>8</eyelashes>
+							<skin_color>240, 220, 215</skin_color>
+							<detail>205064BDD9D09644434299088108892C9D439314102A94070CE2E3DFE6E9EDC7DCCEE7BF0D00E9E0F5571DD7D0CBEB</detail>
+							<voice_type>3</voice_type>
+						</custom_preset>
+					</custom_presets>
+				</player>
+			</body>
+		</screenshot>
+	</hall_of_fame_item>
+	<hall_of_fame_item>
+		<file>Textures\HOF\19.dds</file>
+		<screenshot>
+			<head>
+				<major-version>1</major-version>
+				<minor-version>1</minor-version>
+				<gamename>AION</gamename>
+				<product-version>50.15.1119.9863</product-version>
+				<time>2015-0-12 0:7:0</time>
+				<checksum>bf1a22e24b5c9b2d171b4562fbaecb6f</checksum>
+			</head>
+			<body>
+				<location>
+					<name>Inggison Illusion Fortress</name>
+					<level>LF4</level>
+					<x>1354</x>
+					<y>358</y>
+					<z>589</z>
+				</location>
+				<player>
+					<screen>
+						<x>973</x>
+						<y>528</y>
+					</screen>
+					<name>
+					</name>
+					<server>Jucleas</server>
+					<level>55</level>
+					<race>Elyos</race>
+					<job>Chanter</job>
+					<sex>Female</sex>
+					<guild>
+						<name>
+						</name>
+					</guild>
+					<equipped>
+						<rhand>
+						</rhand>
+						<lhand>
+						</lhand>
+						<head>Greater Betrayer&apos;s Chain Helm</head>
+						<headcolor>175,175,38</headcolor>
+						<hidehelmet>1</hidehelmet>
+						<torso>Kunax&apos;s Hauberk</torso>
+						<torsocolor>255,255,255</torsocolor>
+						<glove>Stormwing&apos;s Handguards</glove>
+						<glovecolor>199,175,39</glovecolor>
+						<foot>Stormwing&apos;s Brogans</foot>
+						<footcolor>199,175,39</footcolor>
+						<shoulder>
+						</shoulder>
+						<leg>Stormwing&apos;s Chausses</leg>
+					</equipped>
+					<custom_presets>
+						<custom_preset>
+							<version>7</version>
+							<pc_type>pc_lf</pc_type>
+							<scale>0.650000</scale>
+							<hair_type>75</hair_type>
+							<face_type>18</face_type>
+							<feat_type1>0</feat_type1>
+							<feat_type2>0</feat_type2>
+							<bump_type>5</bump_type>
+							<expression_type>0</expression_type>
+							<hair_color>245, 226, 160</hair_color>
+							<lip_color>244, 129, 92</lip_color>
+							<eye_color>25, 25, 25</eye_color>
+							<eye_color2>25, 25, 25</eye_color2>
+							<eye_Type>8</eye_Type>
+							<eyelashes>7</eyelashes>
+							<skin_color>240, 220, 215</skin_color>
+							<detail>40106409C58F001064279FC93A12BC97082B8D060016948302D5ECD00028D802EEF7EFDDF200F601F92500E1EA00ED</detail>
+							<voice_type>0</voice_type>
+						</custom_preset>
+					</custom_presets>
+				</player>
+			</body>
+		</screenshot>
+	</hall_of_fame_item>
+	<hall_of_fame_item>
+		<file>Textures\HOF\20.dds</file>
+		<screenshot>
+			<head>
+				<major-version>1</major-version>
+				<minor-version>1</minor-version>
+				<gamename>AION</gamename>
+				<product-version>50.15.1119.9863</product-version>
+				<time>2015-0-12 0:2:0</time>
+				<checksum>c8d9677124664f19495cd05da4425598</checksum>
+			</head>
+			<body>
+				<location>
+					<name>Teminon Wharf</name>
+					<level>Ab1</level>
+					<x>2862</x>
+					<y>914</y>
+					<z>1536</z>
+				</location>
+				<player>
+					<screen>
+						<x>960</x>
+						<y>386</y>
+					</screen>
+					<name>
+					</name>
+					<server>Telemachus</server>
+					<level>67</level>
+					<race>Elyos</race>
+					<job>Chanter</job>
+					<sex>Male</sex>
+					<guild>
+						<name>
+						</name>
+					</guild>
+					<equipped>
+						<rhand>
+						</rhand>
+						<lhand>
+						</lhand>
+						<head>Moon Rabbit&apos;s Picnic - Hat</head>
+						<torso>Moon Daru&apos;s Picnic (Ride Speed Up)</torso>
+						<glove>Dazzling Chanter Chain Gloves of Dawn Light</glove>
+						<foot>Dazzling Chanter Chain Boots of Dawn Light</foot>
+						<shoulder>Dazzling Chanter Chain Pauldrons of Dawn Light</shoulder>
+						<leg>Dazzling Chanter Chain Leg Armor of Dawn Light</leg>
+					</equipped>
+					<custom_presets>
+						<custom_preset>
+							<version>7</version>
+							<pc_type>pc_lm</pc_type>
+							<scale>1.014784</scale>
+							<hair_type>53</hair_type>
+							<face_type>38</face_type>
+							<feat_type1>0</feat_type1>
+							<feat_type2>0</feat_type2>
+							<bump_type>5</bump_type>
+							<expression_type>0</expression_type>
+							<hair_color>27, 23, 74</hair_color>
+							<lip_color>229, 111, 128</lip_color>
+							<eye_color>155, 31, 37</eye_color>
+							<eye_color2>155, 31, 37</eye_color2>
+							<eye_Type>1</eye_Type>
+							<eyelashes>0</eyelashes>
+							<skin_color>240, 220, 215</skin_color>
+							<detail>2A1C8C87B90EC1970CE4988F26278DBA883B1910B4228300F3D0DDA1C500DBBDBABAE0C7FE00F0F4EC1A11D9B1BAE4</detail>
+							<voice_type>3</voice_type>
+						</custom_preset>
+					</custom_presets>
+				</player>
+			</body>
+		</screenshot>
+	</hall_of_fame_item>
+	<hall_of_fame_item>
+		<file>Textures\HOF\21.dds</file>
+		<screenshot>
+			<head>
+				<major-version>1</major-version>
+				<minor-version>1</minor-version>
+				<gamename>AION</gamename>
+				<product-version>50.15.1119.9863</product-version>
+				<time>2015-0-12 0:3:0</time>
+				<checksum>001e3e31c439f945de17dc27ec08ee8c</checksum>
+			</head>
+			<body>
+				<location>
+					<name>Outer Dock</name>
+					<level>LC1</level>
+					<x>1790</x>
+					<y>2238</y>
+					<z>527</z>
+				</location>
+				<player>
+					<screen>
+						<x>961</x>
+						<y>557</y>
+					</screen>
+					<name>
+					</name>
+					<server>Nezekan</server>
+					<level>65</level>
+					<race>Elyos</race>
+					<job>Cleric</job>
+					<sex>Male</sex>
+					<guild>
+						<name>
+						</name>
+					</guild>
+					<equipped>
+						<rhand>
+						</rhand>
+						<lhand>
+						</lhand>
+						<head>Sky Dragon Emperor&apos;s Durable Chain Hood</head>
+						<headcolor>247,181,177</headcolor>
+						<torso>Training Jerkin</torso>
+						<torsocolor>255,255,255</torsocolor>
+						<glove>Hamazi&apos;s Gloves</glove>
+						<glovecolor>0,0,0</glovecolor>
+						<foot>Noble Coliseum Champion&apos;s Shoes</foot>
+						<shoulder>
+						</shoulder>
+						<leg>Training Breeches</leg>
+						<legcolor>255,255,255</legcolor>
+					</equipped>
+					<custom_presets>
+						<custom_preset>
+							<version>7</version>
+							<pc_type>pc_lm</pc_type>
+							<scale>1.000000</scale>
+							<hair_type>56</hair_type>
+							<face_type>31</face_type>
+							<feat_type1>0</feat_type1>
+							<feat_type2>0</feat_type2>
+							<bump_type>5</bump_type>
+							<expression_type>0</expression_type>
+							<hair_color>50, 222, 171</hair_color>
+							<lip_color>248, 141, 145</lip_color>
+							<eye_color>21, 90, 123</eye_color>
+							<eye_color2>21, 90, 123</eye_color2>
+							<eye_Type>10</eye_Type>
+							<eyelashes>0</eyelashes>
+							<skin_color>240, 220, 215</skin_color>
+							<detail>37001A8FE40601004F85900C8B00009B08AD9A05A0000000FAF3EFEBE500DED8DDC0F6EAEE00001E001F0003DB0CED</detail>
+							<voice_type>0</voice_type>
+						</custom_preset>
+					</custom_presets>
+				</player>
+			</body>
+		</screenshot>
+	</hall_of_fame_item>
+	<hall_of_fame_item>
+		<file>Textures\HOF\22.dds</file>
+		<screenshot>
+			<head>
+				<major-version>1</major-version>
+				<minor-version>1</minor-version>
+				<gamename>AION</gamename>
+				<product-version>50.15.1112.9834</product-version>
+				<time>2015-0-11 0:18:0</time>
+				<checksum>ea7e3b9af5ed4000f7e18aa761c0201b</checksum>
+			</head>
+			<body>
+				<location>
+					<name>Akarios Plains</name>
+					<level>LF1</level>
+					<x>1207</x>
+					<y>1066</y>
+					<z>138</z>
+				</location>
+				<player>
+					<screen>
+						<x>824</x>
+						<y>391</y>
+					</screen>
+					<name>
+					</name>
+					<server>Marchutan</server>
+					<level>1</level>
+					<race>Elyos</race>
+					<job>Technist</job>
+					<sex>Male</sex>
+					<equipped>
+						<rhand>Pistol for Training</rhand>
+						<lhand>
+						</lhand>
+						<head>
+						</head>
+						<torso>Training Jerkin</torso>
+						<glove>
+						</glove>
+						<foot>
+						</foot>
+						<shoulder>
+						</shoulder>
+						<leg>Training Breeches</leg>
+					</equipped>
+					<custom_presets>
+						<custom_preset>
+							<version>7</version>
+							<pc_type>pc_lm</pc_type>
+							<scale>0.650000</scale>
+							<hair_type>49</hair_type>
+							<face_type>38</face_type>
+							<feat_type1>0</feat_type1>
+							<feat_type2>0</feat_type2>
+							<bump_type>5</bump_type>
+							<expression_type>0</expression_type>
+							<hair_color>108, 104, 104</hair_color>
+							<lip_color>134, 100, 88</lip_color>
+							<eye_color>69, 69, 69</eye_color>
+							<eye_color2>69, 69, 69</eye_color2>
+							<eye_Type>1</eye_Type>
+							<eyelashes>0</eyelashes>
+							<skin_color>240, 220, 215</skin_color>
+							<detail>2A114F95A8931006009F2E11023700B0953B8406A428020017E8DAC1E300F2CBBBD2F0CE0D00F4F7001F86EBC8E7F2</detail>
+							<voice_type>3</voice_type>
+						</custom_preset>
+					</custom_presets>
+				</player>
+			</body>
+		</screenshot>
+	</hall_of_fame_item>
+	<hall_of_fame_item>
+		<file>Textures\HOF\23.dds</file>
+		<screenshot>
+			<head>
+				<major-version>1</major-version>
+				<minor-version>1</minor-version>
+				<gamename>AION</gamename>
+				<product-version>47515.924.612.9268</product-version>
+				<time>2015-0-12 0:2:0</time>
+				<checksum>5da7ec6e717e7c05c93a40e01725afe8</checksum>
+			</head>
+			<body>
+				<location>
+					<name>Sky Canal</name>
+					<level>LC1</level>
+					<x>1742</x>
+					<y>1446</y>
+					<z>561</z>
+				</location>
+				<player>
+					<screen>
+						<x>959</x>
+						<y>402</y>
+					</screen>
+					<name>
+					</name>
+					<server>Sharkmiss</server>
+					<level>65</level>
+					<race>Elyos</race>
+					<job>Gladiator</job>
+					<sex>Male</sex>
+					<guild>
+						<name>
+						</name>
+					</guild>
+					<equipped>
+						<rhand>
+						</rhand>
+						<lhand>
+						</lhand>
+						<head>
+						</head>
+						<torso>Celestial Sky Gown</torso>
+						<torsocolor>0,0,0</torsocolor>
+						<glove>Guardian Commander&apos;s Divine Gauntlets</glove>
+						<glovecolor>0,0,0</glovecolor>
+						<foot>Custodian&apos;s Divine Sabatons</foot>
+						<footcolor>0,0,0</footcolor>
+						<shoulder>Custodian&apos;s Divine Shoulderplates</shoulder>
+						<shouldercolor>0,0,0</shouldercolor>
+						<leg>Custodian&apos;s Divine Greaves</leg>
+						<legcolor>0,0,0</legcolor>
+					</equipped>
+					<custom_presets>
+						<custom_preset>
+							<version>6</version>
+							<pc_type>pc_lm</pc_type>
+							<scale>0.650000</scale>
+							<hair_type>49</hair_type>
+							<face_type>31</face_type>
+							<feat_type1>0</feat_type1>
+							<feat_type2>0</feat_type2>
+							<bump_type>5</bump_type>
+							<expression_type>0</expression_type>
+							<hair_color>255, 255, 255</hair_color>
+							<lip_color>251, 197, 203</lip_color>
+							<eye_color>69, 69, 69</eye_color>
+							<skin_color>218, 216, 214</skin_color>
+							<detail>642D0186DA87870A8F0019C4954D8CE41F3E12040C090811ECD2F3A1CD00CEA1B9D1DFD0E700F40BF10100</detail>
+							<voice_type>0</voice_type>
+						</custom_preset>
+					</custom_presets>
+				</player>
+			</body>
+		</screenshot>
+	</hall_of_fame_item>
+	<hall_of_fame_item>
+		<file>Textures\HOF\24.dds</file>
+		<screenshot>
+			<head>
+				<major-version>1</major-version>
+				<minor-version>1</minor-version>
+				<gamename>AION</gamename>
+				<product-version>50.15.1119.9863</product-version>
+				<time>2015-0-12 0:3:0</time>
+				<checksum>bf419c13f11f5a1eb5005e508f7ea4e8</checksum>
+			</head>
+			<body>
+				<location>
+					<name>Poya Jungle</name>
+					<level>LF3</level>
+					<x>696</x>
+					<y>1099</y>
+					<z>154</z>
+				</location>
+				<player>
+					<screen>
+						<x>960</x>
+						<y>566</y>
+					</screen>
+					<name>
+					</name>
+					<server>Tahabata</server>
+					<level>50</level>
+					<race>Asmodian</race>
+					<job>Chanter</job>
+					<sex>Female</sex>
+					<guild>
+						<name>
+						</name>
+					</guild>
+					<equipped>
+						<rhand>Menotios&apos; Warhammer</rhand>
+						<lhand>Aquilon&apos;s Crystal</lhand>
+						<head>Miss Meow Bandana</head>
+						<headcolor>247,181,177</headcolor>
+						<torso>Speedy Miss Meow Dress</torso>
+						<torsocolor>247,181,177</torsocolor>
+						<glove>Elite Archon Centurion&apos;s Handguards</glove>
+						<foot>Elite Archon Centurion&apos;s Brogans</foot>
+						<shoulder>Elite Archon Centurion&apos;s Spaulders</shoulder>
+						<leg>Elite Archon Centurion&apos;s Chausses</leg>
+					</equipped>
+					<custom_presets>
+						<custom_preset>
+							<version>7</version>
+							<pc_type>pc_df</pc_type>
+							<scale>0.650000</scale>
+							<hair_type>75</hair_type>
+							<face_type>8</face_type>
+							<feat_type1>0</feat_type1>
+							<feat_type2>0</feat_type2>
+							<bump_type>5</bump_type>
+							<expression_type>3</expression_type>
+							<hair_color>235, 230, 225</hair_color>
+							<lip_color>235, 134, 153</lip_color>
+							<eye_color>84, 72, 70</eye_color>
+							<eye_color2>84, 72, 70</eye_color2>
+							<eye_Type>8</eye_Type>
+							<eyelashes>8</eyelashes>
+							<skin_color>217, 218, 214</skin_color>
+							<detail>10E438BDB4E117644110225D318A9D2D984FCB5AB330A81D26E0DCA1E5A20DBEDCBAE6C93200E7D1EC640600DC00E6</detail>
+							<voice_type>3</voice_type>
+						</custom_preset>
+					</custom_presets>
+				</player>
+			</body>
+		</screenshot>
+	</hall_of_fame_item>
+	<hall_of_fame_item>
+		<file>Textures\HOF\25.dds</file>
+		<screenshot>
+			<head>
+				<major-version>1</major-version>
+				<minor-version>1</minor-version>
+				<gamename>AION</gamename>
+				<product-version>50.15.1119.9863</product-version>
+				<time>2015-0-12 0:2:0</time>
+				<checksum>f29a80e5fd671c6c5bdbdea21c6a318d</checksum>
+			</head>
+			<body>
+				<location>
+					<name>Sunny Harbor Village</name>
+					<level>Housing_DF_personal</level>
+					<x>1179</x>
+					<y>414</y>
+					<z>73</z>
+				</location>
+				<player>
+					<screen>
+						<x>1281</x>
+						<y>710</y>
+					</screen>
+					<name>
+					</name>
+					<server>Lumiel</server>
+					<level>66</level>
+					<race>Asmodian</race>
+					<job>Chanter</job>
+					<sex>Female</sex>
+					<guild>
+						<name>
+						</name>
+					</guild>
+					<equipped>
+						<rhand>
+						</rhand>
+						<lhand>
+						</lhand>
+						<head>Phantom Tiger&apos;s Hat</head>
+						<torso>Phantom Tiger&apos;s Tunic</torso>
+						<glove>
+						</glove>
+						<foot>Dazzling Daevanion Brogans</foot>
+						<shoulder>Phantom Tiger&apos;s Shoulderguards</shoulder>
+						<leg>Phantom Tiger&apos;s Pants</leg>
+					</equipped>
+					<custom_presets>
+						<custom_preset>
+							<version>7</version>
+							<pc_type>pc_df</pc_type>
+							<scale>0.819427</scale>
+							<hair_type>76</hair_type>
+							<face_type>40</face_type>
+							<feat_type1>0</feat_type1>
+							<feat_type2>0</feat_type2>
+							<bump_type>5</bump_type>
+							<expression_type>0</expression_type>
+							<hair_color>255, 255, 255</hair_color>
+							<lip_color>236, 87, 102</lip_color>
+							<eye_color>48, 47, 48</eye_color>
+							<eye_color2>48, 47, 48</eye_color2>
+							<eye_Type>8</eye_Type>
+							<eyelashes>8</eyelashes>
+							<skin_color>226, 206, 202</skin_color>
+							<detail>87135DC3BEB3CF5F5F32225F8500B624DD5AAB26104F9A081FE4DDA6EF0A0BBAF1C4E8C81000E9D2EF628EEDF100E8</detail>
+							<voice_type>3</voice_type>
+						</custom_preset>
+					</custom_presets>
+				</player>
+			</body>
+		</screenshot>
+	</hall_of_fame_item>
+	<hall_of_fame_item>
+		<file>Textures\HOF\26.dds</file>
+		<screenshot>
+			<head>
+				<major-version>1</major-version>
+				<minor-version>1</minor-version>
+				<gamename>AION</gamename>
+				<product-version>50.15.1109.9823</product-version>
+				<time>2015-0-11 0:15:0</time>
+				<checksum>5174451627ba30ae7b89efa7f9612bfd</checksum>
+			</head>
+			<body>
+				<location>
+					<name>Prosperity Road</name>
+					<level>DC1</level>
+					<x>1021</x>
+					<y>1452</y>
+					<z>213</z>
+				</location>
+				<player>
+					<screen>
+						<x>840</x>
+						<y>-284</y>
+					</screen>
+					<name>
+					</name>
+					<server>Vindachinerk</server>
+					<level>68</level>
+					<race>Asmodian</race>
+					<job>Cleric</job>
+					<sex>Female</sex>
+					<guild>
+						<name>Dawn</name>
+					</guild>
+					<equipped>
+						<rhand>Sea Feast Mace</rhand>
+						<lhand>Mini Crystal Lucid Shield</lhand>
+						<head>Moon Rabbit&apos;s Picnic - Hat</head>
+						<headcolor>247,181,177</headcolor>
+						<torso>Forest Denku&apos;s Frillycoat</torso>
+						<torsocolor>247,181,177</torsocolor>
+						<glove>Overlord Divine Handguards</glove>
+						<foot>Forest Denku&apos;s Shoes</foot>
+						<footcolor>247,181,177</footcolor>
+						<shoulder>Forest Denku&apos;s Pauldrons</shoulder>
+						<shouldercolor>247,181,177</shouldercolor>
+						<leg>Overlord Divine Chausses</leg>
+						<legcolor>247,181,177</legcolor>
+					</equipped>
+					<custom_presets>
+						<custom_preset>
+							<version>7</version>
+							<pc_type>pc_df</pc_type>
+							<scale>0.650000</scale>
+							<hair_type>76</hair_type>
+							<face_type>8</face_type>
+							<feat_type1>0</feat_type1>
+							<feat_type2>0</feat_type2>
+							<bump_type>5</bump_type>
+							<expression_type>0</expression_type>
+							<hair_color>215, 220, 229</hair_color>
+							<lip_color>248, 197, 206</lip_color>
+							<eye_color>26, 24, 24</eye_color>
+							<eye_color2>26, 24, 24</eye_color2>
+							<eye_Type>7</eye_Type>
+							<eyelashes>4</eyelashes>
+							<skin_color>217, 214, 219</skin_color>
+							<detail>010064B4CDE4E443272903173310AF2C85649F1C001C8B8B11D7EFA1F6EFFCDAEBBAD9CE4100E7CEF9450300EB00D9</detail>
+							<voice_type>3</voice_type>
+						</custom_preset>
+					</custom_presets>
+				</player>
+			</body>
+		</screenshot>
+	</hall_of_fame_item>
+	<hall_of_fame_item>
+		<file>Textures\HOF\27.dds</file>
+		<screenshot>
+			<head>
+				<major-version>1</major-version>
+				<minor-version>1</minor-version>
+				<gamename>AION</gamename>
+				<product-version>50.15.1112.9834</product-version>
+				<time>2015-0-11 0:20:0</time>
+				<checksum>627d7f5bb459baf4e250c9d86bd727c8</checksum>
+			</head>
+			<body>
+				<location>
+					<name>Azphel&apos;s Sanctuary</name>
+					<level>DF6</level>
+					<x>1739</x>
+					<y>1980</y>
+					<z>197</z>
+				</location>
+				<player>
+					<screen>
+						<x>840</x>
+						<y>477</y>
+					</screen>
+					<name>
+					</name>
+					<server>Vindachinerk</server>
+					<level>43</level>
+					<race>Asmodian</race>
+					<job>Cleric</job>
+					<sex>Female</sex>
+					<guild>
+						<name>Dawn</name>
+					</guild>
+					<equipped>
+						<rhand>
+						</rhand>
+						<lhand>
+						</lhand>
+						<head>Miss Meow Bandana</head>
+						<torso>Speedy Miss Meow Overalls</torso>
+						<glove>
+						</glove>
+						<foot>
+						</foot>
+						<shoulder>
+						</shoulder>
+						<leg>
+						</leg>
+					</equipped>
+					<custom_presets>
+						<custom_preset>
+							<version>7</version>
+							<pc_type>pc_df</pc_type>
+							<scale>0.650000</scale>
+							<hair_type>73</hair_type>
+							<face_type>8</face_type>
+							<feat_type1>0</feat_type1>
+							<feat_type2>0</feat_type2>
+							<bump_type>5</bump_type>
+							<expression_type>0</expression_type>
+							<hair_color>243, 202, 148</hair_color>
+							<lip_color>255, 160, 160</lip_color>
+							<eye_color>26, 24, 24</eye_color>
+							<eye_color2>26, 24, 24</eye_color2>
+							<eye_Type>11</eye_Type>
+							<eyelashes>8</eyelashes>
+							<skin_color>217, 214, 219</skin_color>
+							<detail>010064D9E4E4E4462C2D0B224318B3378564A52309258F0218D2DEE6E6DFFEEAE1BAE5CE3100E7D2F7499A00E100E6</detail>
+							<voice_type>3</voice_type>
+						</custom_preset>
+					</custom_presets>
+				</player>
+			</body>
+		</screenshot>
+	</hall_of_fame_item>
+	<hall_of_fame_item>
+		<file>Textures\HOF\28.dds</file>
+		<screenshot>
+			<head>
+				<major-version>1</major-version>
+				<minor-version>1</minor-version>
+				<gamename>AION</gamename>
+				<product-version>50.15.1119.9863</product-version>
+				<time>2015-0-12 0:3:0</time>
+				<checksum>772a157e708c3b04c1fc2ac0ffa4dc95</checksum>
+			</head>
+			<body>
+				<location>
+					<name>Prosperity Road</name>
+					<level>DC1</level>
+					<x>1009</x>
+					<y>1436</y>
+					<z>213</z>
+				</location>
+				<player>
+					<screen>
+						<x>959</x>
+						<y>427</y>
+					</screen>
+					<name>
+					</name>
+					<server>Telemachus</server>
+					<level>42</level>
+					<race>Asmodian</race>
+					<job>Chanter</job>
+					<sex>Male</sex>
+					<guild>
+						<name>
+						</name>
+					</guild>
+					<equipped>
+						<rhand>Shadedrenched Staff</rhand>
+						<lhand>
+						</lhand>
+						<head>Flame Chain Helm</head>
+						<hidehelmet>1</hidehelmet>
+						<torso>Sexy Swimsuit</torso>
+						<glove>Shadedrenched Handguards</glove>
+						<foot>Shadedrenched Brogans</foot>
+						<shoulder>Shadedrenched Spaulders</shoulder>
+						<leg>Shadedrenched Chausses</leg>
+					</equipped>
+					<custom_presets>
+						<custom_preset>
+							<version>7</version>
+							<pc_type>pc_dm</pc_type>
+							<scale>1.115595</scale>
+							<hair_type>59</hair_type>
+							<face_type>33</face_type>
+							<feat_type1>0</feat_type1>
+							<feat_type2>0</feat_type2>
+							<bump_type>0</bump_type>
+							<expression_type>0</expression_type>
+							<hair_color>105, 101, 102</hair_color>
+							<lip_color>232, 52, 52</lip_color>
+							<eye_color>26, 24, 24</eye_color>
+							<eye_color2>26, 24, 24</eye_color2>
+							<eye_Type>4</eye_Type>
+							<eyelashes>0</eyelashes>
+							<skin_color>232, 190, 217</skin_color>
+							<detail>2A2564BAA117AC8748841C17261F919D99289C039E3D06041EE1EDA1B500F1C4ADBAD2A1EC00E7E1EC418BEEAD00D2</detail>
+							<voice_type>3</voice_type>
+						</custom_preset>
+					</custom_presets>
+				</player>
+			</body>
+		</screenshot>
+	</hall_of_fame_item>
+	<hall_of_fame_item>
+		<file>Textures\HOF\29.dds</file>
+		<screenshot>
+			<head>
+				<major-version>1</major-version>
+				<minor-version>1</minor-version>
+				<gamename>AION</gamename>
+				<product-version>50.15.1112.9834</product-version>
+				<time>2015-0-11 0:24:0</time>
+				<checksum>db4321064fcbe5bfc11ba404919f89c1</checksum>
+			</head>
+			<body>
+				<location>
+					<name>Aldelle Hill</name>
+					<level>DF1</level>
+					<x>414</x>
+					<y>2723</y>
+					<z>304</z>
+				</location>
+				<player>
+					<screen>
+						<x>1275</x>
+						<y>526</y>
+					</screen>
+					<name>
+					</name>
+					<server>Kahrun</server>
+					<level>1</level>
+					<race>Asmodian</race>
+					<job>Mage</job>
+					<sex>Male</sex>
+					<equipped>
+						<rhand>Practice Spellbook</rhand>
+						<lhand>
+						</lhand>
+						<head>
+						</head>
+						<torso>Singer&apos;s Comfort (Return Teleport)</torso>
+						<glove>
+						</glove>
+						<foot>
+						</foot>
+						<shoulder>
+						</shoulder>
+						<leg>Practice Leggings</leg>
+					</equipped>
+					<custom_presets>
+						<custom_preset>
+							<version>7</version>
+							<pc_type>pc_dm</pc_type>
+							<scale>0.783758</scale>
+							<hair_type>57</hair_type>
+							<face_type>33</face_type>
+							<feat_type1>0</feat_type1>
+							<feat_type2>0</feat_type2>
+							<bump_type>5</bump_type>
+							<expression_type>0</expression_type>
+							<hair_color>255, 255, 255</hair_color>
+							<lip_color>198, 142, 169</lip_color>
+							<eye_color>199, 199, 199</eye_color>
+							<eye_color2>66, 141, 223</eye_color2>
+							<eye_Type>9</eye_Type>
+							<eyelashes>0</eyelashes>
+							<skin_color>230, 245, 240</skin_color>
+							<detail>16910E85088307893F1502850253839E851304949C0A0B00F1DD08A5C900D3F3ABC9D9ECE400F902F29C8400A1FEDD</detail>
+							<voice_type>0</voice_type>
+						</custom_preset>
+					</custom_presets>
+				</player>
+			</body>
+		</screenshot>
+	</hall_of_fame_item>
+	<hall_of_fame_item>
+		<file>Textures\HOF\30.dds</file>
+		<screenshot>
+			<head>
+				<major-version>1</major-version>
+				<minor-version>1</minor-version>
+				<gamename>AION</gamename>
+				<product-version>50.15.1119.9863</product-version>
+				<time>2015-0-12 0:2:0</time>
+				<checksum>971f8e625c2e86a94ebcb3d2ea6f4958</checksum>
+			</head>
+			<body>
+				<location>
+					<name>Prosperity Road</name>
+					<level>DC1</level>
+					<x>1022</x>
+					<y>1452</y>
+					<z>213</z>
+				</location>
+				<player>
+					<screen>
+						<x>831</x>
+						<y>372</y>
+					</screen>
+					<name>
+					</name>
+					<server>Marchutan</server>
+					<level>65</level>
+					<race>Asmodian</race>
+					<job>Assassin</job>
+					<sex>Male</sex>
+					<equipped>
+						<rhand>
+						</rhand>
+						<lhand>
+						</lhand>
+						<head>[Event] NC Dinos Cap</head>
+						<hidehelmet>1</hidehelmet>
+						<torso>Marchutan Protector&apos;s Jerkin</torso>
+						<glove>Marchutan Protector&apos;s Mystic Vambrace</glove>
+						<foot>Marchutan Protector&apos;s Boots</foot>
+						<shoulder>Marchutan Protector&apos;s Mystic Shoulderguards</shoulder>
+						<leg>Marchutan Protector&apos;s Breeches</leg>
+					</equipped>
+					<custom_presets>
+						<custom_preset>
+							<version>7</version>
+							<pc_type>pc_dm</pc_type>
+							<scale>0.650000</scale>
+							<hair_type>50</hair_type>
+							<face_type>29</face_type>
+							<feat_type1>0</feat_type1>
+							<feat_type2>0</feat_type2>
+							<bump_type>5</bump_type>
+							<expression_type>0</expression_type>
+							<hair_color>145, 139, 139</hair_color>
+							<lip_color>107, 82, 82</lip_color>
+							<eye_color>69, 69, 69</eye_color>
+							<eye_color2>69, 69, 69</eye_color2>
+							<eye_Type>17</eye_Type>
+							<eyelashes>0</eyelashes>
+							<skin_color>219, 215, 214</skin_color>
+							<detail>268229BDC6AF152249952638092B0001A23EA40BA41F050013E8F1BEE300F3C9B0D3E9C60900F4F2081D8FF0BDECE9</detail>
+							<voice_type>3</voice_type>
+						</custom_preset>
+					</custom_presets>
+				</player>
+			</body>
+		</screenshot>
+	</hall_of_fame_item>
+	<hall_of_fame_item>
+		<file>Textures\HOF\31.dds</file>
+		<screenshot>
+			<head>
+				<major-version>1</major-version>
+				<minor-version>1</minor-version>
+				<gamename>AION</gamename>
+				<product-version>50.15.1119.9863</product-version>
+				<time>2015-0-12 0:8:0</time>
+				<checksum>618b7cb2cad329d72eaf2439450eef2b</checksum>
+			</head>
+			<body>
+				<location>
+					<name>Illusion Stadium</name>
+					<level>IDArena_Solo</level>
+					<x>1805</x>
+					<y>316</y>
+					<z>469</z>
+				</location>
+				<player>
+					<screen>
+						<x>951</x>
+						<y>524</y>
+					</screen>
+					<name>
+					</name>
+					<server>Munin</server>
+					<level>66</level>
+					<race>Elyos</race>
+					<job>Cleric</job>
+					<sex>Female</sex>
+					<equipped>
+						<rhand>
+						</rhand>
+						<lhand>
+						</lhand>
+						<head>Tiamat Guard&apos;s Chain Hood</head>
+						<hidehelmet>1</hidehelmet>
+						<torso>Delightful Outfit</torso>
+						<torsocolor>247,181,177</torsocolor>
+						<glove>Enraged Hyperion&apos;s Cleric Handguards</glove>
+						<foot>Enraged Hyperion&apos;s Cleric Chain Boots</foot>
+						<shoulder>Steel Rake Sailor&apos;s Spaulders</shoulder>
+						<leg>Rebel Aethertech&apos;s Mystic Chausses</leg>
+					</equipped>
+					<custom_presets>
+						<custom_preset>
+							<version>7</version>
+							<pc_type>pc_lf</pc_type>
+							<scale>1.083717</scale>
+							<hair_type>63</hair_type>
+							<face_type>40</face_type>
+							<feat_type1>3</feat_type1>
+							<feat_type2>0</feat_type2>
+							<bump_type>0</bump_type>
+							<expression_type>0</expression_type>
+							<hair_color>30, 29, 49</hair_color>
+							<lip_color>218, 78, 174</lip_color>
+							<eye_color>140, 119, 105</eye_color>
+							<eye_color2>140, 119, 105</eye_color2>
+							<eye_Type>14</eye_Type>
+							<eyelashes>8</eyelashes>
+							<skin_color>241, 223, 219</skin_color>
+							<detail>470B2501AA8F85010C001798193397028F32990E01818100F4F0EFA1F60DF5FEF0ECF8DEFC00F0FAF28F0B00EBDDF4</detail>
+							<voice_type>0</voice_type>
+						</custom_preset>
+					</custom_presets>
+				</player>
+			</body>
+		</screenshot>
+	</hall_of_fame_item>
+</hall_of_fame>

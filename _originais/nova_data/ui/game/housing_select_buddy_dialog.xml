@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="task" close_offset="4,1" close_preset="v5_close" flag="close;title" frame="15,130,344,389" last_modified="2014-08-22 12:58:42" name="housing_select_buddy_dialog" preset="v5_dialog2" prev_html="False" shadow_offset="8,8" title_align="center" title_frame="3,3,-73,14" title_height="25" title_offset="0,5" title_text="STR_HOUSING_BUDDY_SELECT_DIALOG" type="dlg_housing_buddy_select">
+	<Widget column_customizing="True" column_heading="True" flag="truncate;vscroll" font="ui_list" frame="7,88,218,238" h_pos_align="proportion" header_font="v3_columnhead" header_height="25" item_height="21" item_num="4" list_padding="3,3" name="buddy_list" preset="v5_listview_ex" scroll_type="visible" skin_type="version5" type="listviewex" v_pos_align="proportion">
+		<Column align="left" img_width="" sample_text="" sort="text" title="STR_HOUSING_BUDDY_SELECT_DIALOG__NAME" width="105">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="param" title="STR_HOUSING_BUDDY_SELECT_DIALOG__HOUSING" width="95">
+		</Column>
+		<Column align="" img_width="" sample_text="" sort="" title="" width="">
+		</Column>
+		<Column align="" img_width="" sample_text="" sort="" title="" width="">
+		</Column>
+		<Column align="" img_width="" sample_text="" sort="" title="" width="">
+		</Column>
+		<Column align="" img_width="" sample_text="" sort="" title="" width="">
+		</Column>
+	</Widget>
+	<Widget font="ui_default" frame="259,333,78,24" h_pos_align="right" name="cancel" preset="v5_button" text="STR_HOUSING_BUDDY_SELECT_CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="153,333,103,24" h_pos_align="right" name="send" preset="v5_button" text="STR_HOUSING_BUDDY_SELECT_SEND" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget column_customizing="True" column_heading="True" flag="truncate" font="ui_list" frame="227,88,104,238" h_pos_align="proportion" header_font="v3_columnhead" header_height="25" item_height="21" item_num="4" list_padding="3,3" name="buddy_selected" preset="v5_listview_ex" scroll_type="auto" type="listviewex" v_pos_align="proportion">
+		<Column align="left" img_width="" sample_text="" sort="none" title="STR_HOUSING_BUDDY_SELECT_DIALOG__SELECTED_BUDDY" width="100">
+		</Column>
+		<Column align="" img_width="" sample_text="" sort="" title="" width="">
+		</Column>
+		<Column align="" img_width="" sample_text="" sort="" title="" width="">
+		</Column>
+		<Column align="" img_width="" sample_text="" sort="" title="" width="">
+		</Column>
+		<Column align="" img_width="" sample_text="" sort="" title="" width="">
+		</Column>
+		<Column align="" img_width="" sample_text="" sort="" title="" width="">
+		</Column>
+	</Widget>
+	<Widget flag="wordwrap;multiline" font="ui_static_title" frame="8,6,322,76" halign="center" name="tip" padding="5,0" preset="v5_staticbox" text="STR_HOUSING_BUDDY_SELECT_DIALOG__TIP" type="static" valign="middle">
+	</Widget>
+</Dialog>

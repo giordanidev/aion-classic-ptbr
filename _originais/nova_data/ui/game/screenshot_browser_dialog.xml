@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="close;title" frame="0,0,663,435" last_modified="2020-07-14 11:38:29" name="screenshot_browser_dialog" preset="v5_dialog2" shadow_offset="8,8" title_frame="3,3,691,14" title_height="25" title_offset="0,5" title_text="STR_SCREENSHOT_BROWSER_DIALOG" type="dlg_screenshot_browser">
+	<Widget btn_move_anim="False" frame="6,15,642,25" h_pos_align="proportion" name="tab_folder" preset="v5_tab" type="tab">
+		<Widget font="ui_default" frame="5,0,96,25" name="defaultlist" preset="v5_tabbutton" text="STR_SCREENSHOT_BROWSER_DIALOG__DEFAULT_TAB" type="tabbutton">
+		</Widget>
+		<Widget font="ui_default" frame="97,0,96,25" name="customlist" preset="v5_tabbutton" text="STR_SCREENSHOT_BROWSER_DIALOG__CUSTOM_TAB" type="tabbutton">
+		</Widget>
+		<Widget font="ui_default" frame="190,0,96,25" name="favlist" preset="v5_tabbutton" text="STR_SCREENSHOT_BROWSER_DIALOG__FAV_TAB" type="tabbutton">
+		</Widget>
+	</Widget>
+	<Widget frame="6,42,642,322" type="image">
+		<Skin name="v5_static_bg4" state="0">
+		</Skin>
+	</Widget>
+	<Widget frame="16,53,204,140" name="file_0" preset="v5_create_preset_button" type="button">
+	</Widget>
+	<Widget frame="226,53,204,140" name="file_1" preset="v5_create_preset_button" type="button">
+	</Widget>
+	<Widget frame="436,53,204,140" name="file_2" preset="v5_create_preset_button" type="button">
+	</Widget>
+	<Widget frame="16,195,204,140" name="file_3" preset="v5_create_preset_button" type="button">
+	</Widget>
+	<Widget frame="248,338,18,18" name="prev" preset="v5_prev_btn" type="button">
+	</Widget>
+	<Widget frame="393,338,18,18" name="next" preset="v5_next_btn" type="button">
+	</Widget>
+	<Widget frame="331,338,56,18" halign="left" name="pagecount" type="static" valign="middle">
+	</Widget>
+	<Widget alphanumeric="False" frame="272,338,53,18" h_align="center" name="curpage" preset="v5_editbox" type="editbox" v_align="middle">
+	</Widget>
+	<Widget frame="226,195,204,140" name="file_4" preset="v5_create_preset_button" type="button">
+	</Widget>
+	<Widget frame="436,195,204,140" name="file_5" preset="v5_create_preset_button" type="button">
+	</Widget>
+	<Widget defbutton="true" frame="518,374,68,24" group="common" h_pos_align="right" name="ok" preset="v5_button" text="STR_GLOBAL_OPTION_DIALOG__OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget frame="587,374,68,24" group="common" h_pos_align="right" name="cancel" preset="v5_button" text="STR_GLOBAL_OPTION_DIALOG__CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget frame="26,63,19,19" name="fav_0" preset="v5_housing_buddy_list_favorite" style="checkbox" type="button">
+	</Widget>
+	<Widget frame="236,63,19,19" name="fav_1" preset="v5_housing_buddy_list_favorite" style="checkbox" type="button">
+	</Widget>
+	<Widget frame="446,63,19,19" name="fav_2" preset="v5_housing_buddy_list_favorite" style="checkbox" type="button">
+	</Widget>
+	<Widget frame="26,205,19,19" name="fav_3" preset="v5_housing_buddy_list_favorite" style="checkbox" type="button">
+	</Widget>
+	<Widget frame="236,205,19,19" name="fav_4" preset="v5_housing_buddy_list_favorite" style="checkbox" type="button">
+	</Widget>
+	<Widget frame="446,205,19,19" name="fav_5" preset="v5_housing_buddy_list_favorite" style="checkbox" type="button">
+	</Widget>
+	<Widget frame="108,69,440,291" group="preview" halign="left" name="preview_btn" preset="v5_create_preset_button" text_offset="10,10" type="button" valign="bottom">
+	</Widget>
+	<Widget frame="506,83,24,20" name="close_x" type="image">
+		<Skin name="v5_close_x" state="0">
+		</Skin>
+	</Widget>
+	<Widget defbutton="False" frame="3,374,119,24" group="common" h_pos_align="left" name="path" preset="v5_button" text="STR_SCREENSHOT_BROWSER_DIALOG__CUSTOM_BUTTON_LOAD" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

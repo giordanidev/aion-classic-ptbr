@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="close;title" frame="730,200,404,719" last_modified="2015-07-07 10:42:17" name="abyss_op_dialog" preset="v5_dialog2" title_frame="3,3,-6,14" title_offset="9,1" title_text="STR_ABYSS_OP_DIALOG__TITLE" type="dlg_abyss_op">
+	<Widget frame="19,3,358,22" halign="center" text="STR_ABYSS_OP_DIALOG__LEVEL" type="static">
+	</Widget>
+	<Widget frame="0,27,398,63" type="container">
+		<Widget frame="0,0,398,63" preset="v5_staticbox8" type="image">
+		</Widget>
+		<Widget frame="8,4,159,57" h_pos_align="center" type="image">
+			<Skin name="v5_abyss_op_gauge_light_bg">
+			</Skin>
+		</Widget>
+		<Widget frame="230,4,159,57" h_pos_align="center" type="image">
+			<Skin name="v5_abyss_op_gauge_dark_bg">
+			</Skin>
+		</Widget>
+		<Widget font_size="12" frame="129,4,35,22" halign="center" text="STR_ABYSS_OP_DIALOG__LIGHT" type="static" valign="middle">
+		</Widget>
+		<Widget font_size="12" frame="232,4,70,22" halign="center" text="STR_ABYSS_OP_DIALOG__DARK" type="static" valign="middle">
+		</Widget>
+		<Widget font_size="12" frame="53,4,58,22" halign="center" name="level_light" type="static" valign="middle">
+		</Widget>
+		<Widget font_size="12" frame="285,4,59,22" halign="center" name="level_dark" type="static" valign="middle">
+		</Widget>
+		<Widget align="left" frame="58,30,99,15" name="gauge_light_total" preset="v5_abyss_op_gauge_light" skin_extend="True" type="gauge">
+		</Widget>
+		<Widget align="right" frame="240,30,99,15" name="gauge_dark_total" preset="v5_abyss_op_gauge_dark" skin_extend="True" type="gauge">
+		</Widget>
+	</Widget>
+	<Widget frame="114,-3,171,128" h_pos_align="center" name="effect" type="image">
+		<Skin name="v5_abyss_op_effect">
+		</Skin>
+	</Widget>
+	<Widget frame="178,45,43,31" h_pos_align="center" type="image">
+		<Skin name="v5_abyss_op_vs">
+		</Skin>
+	</Widget>
+	<Widget flag="not_active" frame="0,91,400,567" h_pos_align="proportion" type="image" v_pos_align="proportion">
+		<Skin name="v5_container_bg5">
+		</Skin>
+	</Widget>
+	<Widget frame="19,96,359,20" halign="center" text="STR_ABYSS_OP_DIALOG__POINT" type="static">
+	</Widget>
+	<Widget frame="0,115,398,398" type="container">
+		<Widget frame="0,0,398,398" h_pos_align="proportion" preset="v5_staticbox6" type="image" v_pos_align="proportion">
+		</Widget>
+		<Widget color="1, 1, 1, 0.2" flag="not_active" frame="5,5,388,55" h_pos_align="proportion" type="image" v_pos_align="proportion">
+			<Skin name="v5_img_black">
+			</Skin>
+		</Widget>
+		<Widget color="1, 1, 1, 0.1" flag="not_active" frame="5,61,388,55" h_pos_align="proportion" type="image" v_pos_align="proportion">
+			<Skin name="v5_img_black">
+			</Skin>
+		</Widget>
+		<Widget color="1, 1, 1, 0.2" flag="not_active" frame="5,117,388,55" h_pos_align="proportion" type="image" v_pos_align="proportion">
+			<Skin name="v5_img_black">
+			</Skin>
+		</Widget>
+		<Widget color="1, 1, 1, 0.1" flag="not_active" frame="5,173,388,55" h_pos_align="proportion" type="image" v_pos_align="proportion">
+			<Skin name="v5_img_black">
+			</Skin>
+		</Widget>
+		<Widget color="1, 1, 1, 0.2" flag="not_active" frame="5,229,388,55" h_pos_align="proportion" type="image" v_pos_align="proportion">
+			<Skin name="v5_img_black">
+			</Skin>
+		</Widget>
+		<Widget color="1, 1, 1, 0.1" flag="not_active" frame="5,285,388,53" h_pos_align="proportion" type="image" v_pos_align="proportion">
+			<Skin name="v5_img_black">
+			</Skin>
+		</Widget>
+		<Widget color="1, 1, 1, 0.2" flag="not_active" frame="5,339,388,55" h_pos_align="proportion" type="image" v_pos_align="proportion">
+			<Skin name="v5_img_black">
+			</Skin>
+		</Widget>
+		<Widget font_size="14" frame="22,15,160,32" text="STR_ABYSS_OP_DIALOG__FORTRESS" tooltip="STR_ABYSS_OP_DIALOG__FORTRESS_TOOLTIP" type="static">
+		</Widget>
+		<Widget font_size="14" frame="22,72,160,32" text="STR_ABYSS_OP_DIALOG__OWNERSHIP_OBJECT" tooltip="STR_ABYSS_OP_DIALOG__OWNERSHIP_OBJECT_TOOLTIP" type="static">
+		</Widget>
+		<Widget font_size="14" frame="22,127,160,32" text="STR_ABYSS_OP_DIALOG__ARTIFACT" tooltip="STR_ABYSS_OP_DIALOG__ARTIFACT_TOOLTIP" type="static">
+		</Widget>
+		<Widget font_size="14" frame="22,183,160,32" text="STR_ABYSS_OP_DIALOG__BASECAMP" tooltip="STR_ABYSS_OP_DIALOG__BASECAMP_TOOLTIP" type="static">
+		</Widget>
+		<Widget font_size="14" frame="22,294,160,32" text="STR_ABYSS_OP_DIALOG__OP_OBJECT" tooltip="STR_ABYSS_OP_DIALOG__OP_OBJECT_TOOLTIP" type="static">
+		</Widget>
+		<Widget font_size="14" frame="22,239,160,32" text="STR_ABYSS_OP_DIALOG__RAID_OBJECT" tooltip="STR_ABYSS_OP_DIALOG__RAID_OBJECT_TOOLTIP" type="static">
+		</Widget>
+		<Widget font_size="14" frame="22,349,160,32" text="STR_ABYSS_OP_DIALOG__QUEST" tooltip="STR_ABYSS_OP_DIALOG__QUEST_TOOLTIP" type="static">
+		</Widget>
+		<Widget frame="183,6,204,53" name="preset_1" type="container">
+			<Widget frame="5,5,195,20" gauge_adjust="-18,-3" name="gauge_dark" preset="v5_influence_gauge" skin_extend="True" type="gauge">
+			</Widget>
+			<Widget frame="5,5,195,20" gauge_adjust="-18,-3" name="gauge_dragon" preset="v5_influence_gauge_dragon" skin_extend="True" type="gauge">
+			</Widget>
+			<Widget frame="5,5,195,20" gauge_adjust="-18,-3" name="gauge_light" preset="v5_influence_gauge_light" skin_extend="True" type="gauge">
+			</Widget>
+			<Widget font="ui_editbox" frame="5,30,63,21" halign="left" name="ratio_light" padding="2,0" type="static">
+			</Widget>
+			<Widget font="ui_editbox" frame="137,30,63,21" halign="right" name="ratio_dark" padding="2,0" type="static">
+			</Widget>
+			<Widget frame="47,5,13,27" name="marker_light" type="image">
+				<Skin name="v5_influence_marker_light">
+				</Skin>
+			</Widget>
+			<Widget frame="148,5,13,27" name="marker_dark" type="image">
+				<Skin name="v5_influence_marker_dark">
+				</Skin>
+			</Widget>
+		</Widget>
+		<Widget frame="183,62,204,53" name="preset_6" type="container">
+			<Widget frame="5,5,195,20" gauge_adjust="-18,-3" name="gauge_dark" preset="v5_influence_gauge" skin_extend="True" type="gauge">
+			</Widget>
+			<Widget frame="5,5,195,20" gauge_adjust="-18,-3" name="gauge_dragon" preset="v5_influence_gauge_dragon" skin_extend="True" type="gauge">
+			</Widget>
+			<Widget frame="5,5,195,20" gauge_adjust="-18,-3" name="gauge_light" preset="v5_influence_gauge_light" skin_extend="True" type="gauge">
+			</Widget>
+			<Widget font="ui_editbox" frame="5,30,63,21" halign="left" name="ratio_light" padding="2,0" type="static">
+			</Widget>
+			<Widget font="ui_editbox" frame="137,30,63,21" halign="right" name="ratio_dark" padding="2,0" type="static">
+			</Widget>
+			<Widget frame="47,5,13,27" name="marker_light" type="image">
+				<Skin name="v5_influence_marker_light">
+				</Skin>
+			</Widget>
+			<Widget frame="148,5,13,27" name="marker_dark" type="image">
+				<Skin name="v5_influence_marker_dark">
+				</Skin>
+			</Widget>
+		</Widget>
+		<Widget frame="183,118,204,53" name="preset_2" type="container">
+			<Widget frame="5,5,195,20" gauge_adjust="-18,-3" name="gauge_dark" preset="v5_influence_gauge" skin_extend="True" type="gauge">
+			</Widget>
+			<Widget frame="5,5,195,20" gauge_adjust="-18,-3" name="gauge_dragon" preset="v5_influence_gauge_dragon" skin_extend="True" type="gauge">
+			</Widget>
+			<Widget frame="5,5,195,20" gauge_adjust="-18,-3" name="gauge_light" preset="v5_influence_gauge_light" skin_extend="True" type="gauge">
+			</Widget>
+			<Widget font="ui_editbox" frame="5,30,63,21" halign="left" name="ratio_light" padding="2,0" type="static">
+			</Widget>
+			<Widget font="ui_editbox" frame="137,30,63,21" halign="right" name="ratio_dark" padding="2,0" type="static">
+			</Widget>
+			<Widget frame="47,5,13,27" name="marker_light" type="image">
+				<Skin name="v5_influence_marker_light">
+				</Skin>
+			</Widget>
+			<Widget frame="148,5,13,27" name="marker_dark" type="image">
+				<Skin name="v5_influence_marker_dark">
+				</Skin>
+			</Widget>
+		</Widget>
+		<Widget frame="183,174,204,53" name="preset_3" type="container">
+			<Widget frame="5,5,195,20" gauge_adjust="-18,-3" name="gauge_dark" preset="v5_influence_gauge" skin_extend="True" type="gauge">
+			</Widget>
+			<Widget frame="5,5,195,20" gauge_adjust="-18,-3" name="gauge_dragon" preset="v5_influence_gauge_dragon" skin_extend="True" type="gauge">
+			</Widget>
+			<Widget frame="5,5,195,20" gauge_adjust="-18,-3" name="gauge_light" preset="v5_influence_gauge_light" skin_extend="True" type="gauge">
+			</Widget>
+			<Widget font="ui_editbox" frame="5,30,63,21" halign="left" name="ratio_light" padding="2,0" type="static">
+			</Widget>
+			<Widget font="ui_editbox" frame="137,30,63,21" halign="right" name="ratio_dark" padding="2,0" type="static">
+			</Widget>
+			<Widget frame="47,5,13,27" name="marker_light" type="image">
+				<Skin name="v5_influence_marker_light">
+				</Skin>
+			</Widget>
+			<Widget frame="148,5,13,27" name="marker_dark" type="image">
+				<Skin name="v5_influence_marker_dark">
+				</Skin>
+			</Widget>
+		</Widget>
+		<Widget frame="183,285,204,53" name="preset_4" type="container">
+			<Widget frame="5,5,195,20" gauge_adjust="-18,-3" name="gauge_dark" preset="v5_influence_gauge" skin_extend="True" type="gauge">
+			</Widget>
+			<Widget frame="5,5,195,20" gauge_adjust="-18,-3" name="gauge_dragon" preset="v5_influence_gauge_dragon" skin_extend="True" type="gauge">
+			</Widget>
+			<Widget frame="5,5,195,20" gauge_adjust="-18,-3" name="gauge_light" preset="v5_influence_gauge_light" skin_extend="True" type="gauge">
+			</Widget>
+			<Widget font="ui_editbox" frame="5,30,63,21" halign="left" name="ratio_light" padding="2,0" type="static">
+			</Widget>
+			<Widget font="ui_editbox" frame="137,30,63,21" halign="right" name="ratio_dark" padding="2,0" type="static">
+			</Widget>
+			<Widget frame="47,5,13,27" name="marker_light" type="image">
+				<Skin name="v5_influence_marker_light">
+				</Skin>
+			</Widget>
+			<Widget frame="148,5,13,27" name="marker_dark" type="image">
+				<Skin name="v5_influence_marker_dark">
+				</Skin>
+			</Widget>
+		</Widget>
+		<Widget frame="183,230,204,53" name="preset_5" type="container">
+			<Widget frame="5,5,195,20" gauge_adjust="-18,-3" name="gauge_dark" preset="v5_influence_gauge" skin_extend="True" type="gauge">
+			</Widget>
+			<Widget frame="5,5,195,20" gauge_adjust="-18,-3" name="gauge_dragon" preset="v5_influence_gauge_dragon" skin_extend="True" type="gauge">
+			</Widget>
+			<Widget frame="5,5,195,20" gauge_adjust="-18,-3" name="gauge_light" preset="v5_influence_gauge_light" skin_extend="True" type="gauge">
+			</Widget>
+			<Widget font="ui_editbox" frame="5,30,63,21" halign="left" name="ratio_light" padding="2,0" type="static">
+			</Widget>
+			<Widget font="ui_editbox" frame="137,30,63,21" halign="right" name="ratio_dark" padding="2,0" type="static">
+			</Widget>
+			<Widget frame="47,5,13,27" name="marker_light" type="image">
+				<Skin name="v5_influence_marker_light">
+				</Skin>
+			</Widget>
+			<Widget frame="148,5,13,27" name="marker_dark" type="image">
+				<Skin name="v5_influence_marker_dark">
+				</Skin>
+			</Widget>
+		</Widget>
+		<Widget frame="183,340,204,53" name="preset_0" type="container">
+			<Widget frame="5,8,92,20" h_pos_align="center" type="image">
+				<Skin name="v5_abyss_op_gauge_light_sub_bg">
+				</Skin>
+			</Widget>
+			<Widget frame="108,8,92,20" h_pos_align="center" type="image">
+				<Skin name="v5_abyss_op_gauge_dark_sub_bg">
+				</Skin>
+			</Widget>
+			<Widget align="left" frame="23,11,70,14" name="gauge_light" preset="v5_abyss_op_gauge_light_sub" skin_extend="True" type="gauge">
+			</Widget>
+			<Widget align="right" frame="112,11,71,14" name="gauge_dark" preset="v5_abyss_op_gauge_dark_sub" skin_extend="True" type="gauge">
+			</Widget>
+			<Widget font="ui_editbox" frame="5,30,63,21" halign="left" name="ratio_light" padding="2,0" type="static">
+			</Widget>
+			<Widget font="ui_editbox" frame="137,30,63,21" halign="right" name="ratio_dark" padding="2,0" type="static">
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget frame="0,513,398,145" preset="v5_staticbox5" type="image" v_pos_align="bottom">
+	</Widget>
+	<Widget frame="0,516,398,141" type="container" v_pos_align="bottom">
+		<Widget frame="0,24,398,118" preset="v5_staticbox6" type="image">
+		</Widget>
+		<Widget frame="102,1,196,23" halign="center" name="benefit_level" text="STR_ABYSS_OP_BENEFIT" type="static">
+		</Widget>
+		<Widget font="ui_default" frame="295,3,20,20" name="benefit_next" preset="v5_vip_next_page" type="button">
+		</Widget>
+		<Widget font="ui_default" frame="85,3,20,20" name="benefit_prev" preset="v5_vip_prev_page" type="button">
+		</Widget>
+		<Widget flag="vscroll" font="ui_static_value" frame="5,28,389,111" name="benefit_html" padding="10,10" preset="v5_staticbox4" scroll_type="visible" skin_type="version5" type="htmlview">
+		</Widget>
+	</Widget>
+	<Widget frame="326,662,70,24" h_pos_align="right" name="cancel" preset="v5_button" text="STR_DLG_DIALOG__CLOSE" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="close;title" frame="859,539,296,335" last_modified="2016-01-14 17:24:36" name="inventory_coin_dialog" preset="v5_dialog2" shadow_offset="8,8" title_align="center" title_frame="3,3,188,14" title_height="25" title_offset="0,5" title_text="STR_INVENTORY_DIALOG_EXTRA_INVENTORY" type="dlg_inventory_coin">
+	<Widget cell_padding="2" cell_space="-1, 0" flag="vscroll" frame="5,0,281,270" item_height="44" item_width="44" list_padding="3, 3" name="list" one_click_action="False" preset="v5_listview_frame" reserve_slots="False" scroll_type="visible" skin_type="version5" slot_num="42" type="listview" v_pos_align="top" viewmode="icon">
+	</Widget>
+	<Widget frame="0,278,290,29" name="bottom" type="container" v_pos_align="bottom">
+		<Widget frame="314,207,26,23" item_height="30" item_width="30" name="trashcan" preset="v5_inv_trashcan" type="itemview">
+		</Widget>
+		<Widget cell_padding="1" frame="3,2,21,21" item_height="21" item_width="21" name="inv_temp" preset="v5_inv_tempslot" type="itemview">
+		</Widget>
+		<Widget frame="266,3,21,21" name="sort" preset="v5_inv_sort" tooltip="STR_INVENTORY_DIALOG__TOOLTIP_AUTO_SORT" type="button">
+		</Widget>
+		<Widget font="ui_default" frame="29,4,61,18" halign="left" name="slot_count" type="static">
+		</Widget>
+	</Widget>
+</Dialog>

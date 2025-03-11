@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="left" close_offset="4,1" close_preset="v5_close" flag="title;close" frame="440,130,278,284" last_modified="2016-12-14 17:00:48" name="team_maker_wait_dialog" preset="v5_dialog" shadow_offset="8,8" title_align="center" title_frame="3,3,99,14" title_height="25" title_offset="0,5" title_text="STR_INDUN_WAIT_DIALOG" type="dlg_team_maker_wait">
+	<Widget font="ui_default" frame="7,3,259,24" text="STR_INDUN_WAIT_DIALOG__REGISTER_LIST" type="static">
+	</Widget>
+	<Widget cell_padding="10" column_heading="False" flag="vscroll;truncate" font="ui_list" frame="7,26,259,73" h_pos_align="proportion" header_height="0" item_height="22" item_num="3" list_padding="3,3" name="list" preset="v5_listview_ex" scroll_type="visible" skin_type="version5" type="listviewex">
+		<Column align="left" img_width="" sample_text="1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ" sort="param" title="instance_name" width="237">
+		</Column>
+	</Widget>
+	<Widget font="ui_default" frame="7,103,259,24" name="indun_name" text="STR_INDUN_WAIT_DIALOG__DETAIL" type="static">
+	</Widget>
+	<Widget flag="vscroll" font="ui_static_value" frame="6,126,261,96" name="indun_wait_desc" preset="v5_staticbox" type="htmlview" v_pos_align="proportion">
+	</Widget>
+	<Widget font="ui_default" frame="202,227,68,24" name="indun_wait_giveup" preset="v5_button" text="STR_INDUN_WAIT_DIALOG__CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

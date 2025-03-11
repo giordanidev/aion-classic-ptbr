@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="5,8" close_preset="shop_mini_dialog_close" flag="close;title" frame="15,130,430,680" last_modified="2020-10-21 16:31:41" name="shop_spinel_history_dialog" preset="shop_buy_dialog02" prev_html="True" shadow_offset="8,8" title_align="center" title_frame="3,3,408,14" title_height="25" title_offset="0,10" title_text="STR_QUNAMARKET_DIALOG__USEHISTORY_TITLE" type="dlg_shop_spinel_history">
+	<Widget frame="2,8,426,590" type="image">
+		<Skin name="shop_buy_bg">
+		</Skin>
+	</Widget>
+	<Widget can_click_item="True" direction_size="1" direction_type="vertical" drag_block_separator="true" elastic_grid_max_rect="0,0,300,300" elastic_grid_size="False" fit_item_size="True" fixed_item_size="True" flag="vscroll" frame="2,8,426,590" h_pos_align="proportion" inner_scroll="False" name="main_grid" scroll_type="visible" skin_type="shop" type="grid" v_pos_align="proportion">
+	</Widget>
+	<Widget frame="5,12,404,70" name="proto_container" type="container">
+		<Widget frame="0,0,405,70" name="slot_bg" preset="shop_dress_grid" type="image">
+		</Widget>
+		<Widget cell_padding="2" flag="wordwrap" frame="14,13,44,44" item_height="42" item_width="42" name="item_slot" preset="v5_deco_itemview" type="itemview">
+		</Widget>
+		<Widget flag="truncate" font="ui_default" frame="70,8,180,26" halign="left" name="name_txt" padding="2,0" type="static">
+		</Widget>
+		<Widget font="ui_default" frame="70,37,180,26" halign="left" name="date_txt" padding="2,0" type="static">
+		</Widget>
+		<Widget defbutton="False" flag="not_visible" font="ui_default" frame="353,18,36,36" name="buy_btn" preset="shop_buy_btn" tooltip="STR_QUNAMARKET_BUTTON_BUY" type="button" v_pos_align="bottom" valign="middle">
+		</Widget>
+		<Widget flag="not_visible" font="ui_default" frame="251,24,100,26" halign="right" name="cost_small_txt" padding="2,0" type="static">
+		</Widget>
+		<Widget flag="not_visible" font="ui_default" frame="251,24,140,26" halign="right" name="cost_large_txt" padding="2,0" type="static">
+		</Widget>
+		<Widget font="ui_default" frame="251,24,140,26" halign="right" name="cost_txt" padding="2,0" type="static">
+		</Widget>
+	</Widget>
+	<Widget font="ui_default" frame="145,610,130,32" name="cancel" preset="shop_btn" text="STR_TRADE_DIALOG__CANCEL" type="button" v_pos_align="bottom" valign="middle">
+	</Widget>
+</Dialog>

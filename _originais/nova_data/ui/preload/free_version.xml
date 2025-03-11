@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Preload last_modified="2020-09-07 16:15:20" name="free_version">
+	<Skin name="cam_panning" src_image="0,0,32,32" texture="textures/ui/cursor/cursor_camera">
+	</Skin>
+	<Skin name="bubble_normal" size_left_bottom="13,29" size_left_middle="13,0" size_left_top="13,13" size_middle_bottom="14,29" size_middle_bottom_left="0,29" size_middle_bottom_right="0,29" size_middle_middle="0,0" size_middle_top="0,13" size_right_bottom="13,29" size_right_middle="13,0" size_right_top="13,13" src_left_bottom="2,35,13,29" src_left_middle="2,18,13,14" src_left_top="2,2,13,13" src_middle_bottom="74,95,14,29" src_middle_bottom_left="18,35,14,29" src_middle_bottom_right="18,35,14,29" src_middle_middle="18,18,14,14" src_middle_top="18,2,14,13" src_right_bottom="35,35,13,29" src_right_middle="35,18,13,14" src_right_top="35,2,13,13" texture="Textures/UI/popup_say" type="tiled">
+	</Skin>
+	<Skin name="bubble_shout" size_left_bottom="13,29" size_left_middle="13,0" size_left_top="13,12" size_middle_bottom="14,29" size_middle_bottom_left="0,29" size_middle_bottom_right="0,29" size_middle_middle="0,0" size_middle_top="0,12" size_right_bottom="10,29" size_right_middle="10,0" size_right_top="10,12" src_left_bottom="2,96,13,29" src_left_middle="2,83,13,10" src_left_top="2,68,13,12" src_middle_bottom="111,95,14,29" src_middle_bottom_left="18,96,14,29" src_middle_bottom_right="18,96,14,29" src_middle_middle="18,83,14,10" src_middle_top="18,68,14,12" src_right_bottom="35,96,10,29" src_right_middle="35,83,10,10" src_right_top="35,68,10,12" texture="Textures/UI/popup_say" type="tiled">
+	</Skin>
+	<Skin name="bubble_think" size_left_bottom="12,29" size_left_middle="12,0" size_left_top="12,13" size_middle_bottom="14,29" size_middle_bottom_left="0,29" size_middle_bottom_right="0,29" size_middle_middle="0,0" size_middle_top="0,13" size_right_bottom="13,29" size_right_middle="13,0" size_right_top="13,13" src_left_bottom="62,35,12,29" src_left_middle="62,18,12,14" src_left_top="62,2,12,13" src_middle_bottom="93,95,14,29" src_middle_bottom_left="77,35,14,29" src_middle_bottom_right="77,35,14,29" src_middle_middle="77,18,14,14" src_middle_top="77,2,14,13" src_right_bottom="94,35,13,29" src_right_middle="94,18,13,14" src_right_top="94,2,13,13" texture="Textures/UI/popup_say" type="tiled">
+	</Skin>
+	<Skin name="bubble_whisper" size_left_bottom="12,29" size_left_middle="12,0" size_left_top="12,13" size_middle_bottom="14,29" size_middle_bottom_left="0,29" size_middle_bottom_right="0,29" size_middle_middle="0,0" size_middle_top="0,13" size_right_bottom="13,29" size_right_middle="13,0" size_right_top="13,13" src_left_bottom="62,35,12,29" src_left_middle="62,18,12,14" src_left_top="62,2,12,13" src_middle_bottom="93,95,14,29" src_middle_bottom_left="77,35,14,29" src_middle_bottom_right="77,35,14,29" src_middle_middle="77,18,14,14" src_middle_top="77,2,14,13" src_right_bottom="94,35,13,29" src_right_middle="94,18,13,14" src_right_top="94,2,13,13" texture="Textures/UI/popup_say" type="tiled">
+	</Skin>
+	<Skin name="bubble_advertise" size_left_bottom="20,19" size_left_middle="20,0" size_left_top="20,20" size_middle_bottom="0,19" size_middle_middle="0,0" size_middle_top="0,20" size_right_bottom="19,19" size_right_middle="19,0" size_right_top="19,20" src_left_bottom="117,34,20,19" src_left_middle="117,24,20,7" src_left_top="117,1,20,20" src_middle_bottom="140,34,7,19" src_middle_middle="140,24,7,7" src_middle_top="140,1,7,20" src_right_bottom="150,34,19,19" src_right_middle="150,24,19,7" src_right_top="150,1,19,20" texture="Textures/UI/popup_say" type="tiled">
+	</Skin>
+	<Skin name="bubble_toypet" size_left_bottom="16,29" size_left_middle="16,0" size_left_top="16,16" size_middle_bottom="14,29" size_middle_bottom_left="0,29" size_middle_bottom_right="0,29" size_middle_middle="0,0" size_middle_top="0,16" size_right_bottom="18,29" size_right_middle="18,0" size_right_top="18,16" src_left_bottom="186,35,16,29" src_left_middle="186,20,16,12" src_left_top="186,1,16,16" src_middle_bottom="130,95,14,29" src_middle_bottom_left="205,35,14,29" src_middle_bottom_right="205,35,14,29" src_middle_middle="205,20,14,12" src_middle_top="205,1,14,16" src_right_bottom="222,35,18,29" src_right_middle="222,20,18,12" src_right_top="222,1,18,16" texture="Textures/UI/popup_say" type="tiled">
+	</Skin>
+	<Skin name="item_marker" src_image="0,0,32,32" texture="Textures/UI/itemmarker">
+	</Skin>
+	<Skin name="chain_marker" src_image="0,0,76,76" texture="Textures/UI/chainfx">
+	</Skin>
+	<Skin name="radar_mask" src_image="0,0,128,128" texture="Textures/UI/v3_radar_mask">
+	</Skin>
+	<Skin name="radar_target_radar" src_image="0,0,32,32" texture="Textures/UI/RadarSensory_02">
+	</Skin>
+	<Skin name="radar_target_range" src_image="0,0,32,32" texture="Textures/UI/RadarSensory_01">
+	</Skin>
+	<Skin name="basic_status_char_mask" src_image="0,0,128,128" texture="Textures/UI/v3_UI3DViewMask_1">
+	</Skin>
+	<Skin name="map_mask" size_left_bottom="50,50" size_left_middle="0,50" size_left_top="50,50" size_middle_bottom="50,0" size_middle_middle="0,0" size_middle_top="50,0" size_right_bottom="50,50" size_right_middle="50,0" size_right_top="50,50" src_image="0,0,256,256" src_left_bottom="0,206,50,50" src_left_middle="0,50,50,156" src_left_top="0,0,50,50" src_middle_bottom="50,206,156,50" src_middle_middle="50,50,156,156" src_middle_top="50,0,156,50" src_right_bottom="206,206,50,50" src_right_middle="206,50,50,156" src_right_top="206,0,50,50" texture="Textures/UI/v3_map_mask" type="tiled">
+	</Skin>
+</Preload>

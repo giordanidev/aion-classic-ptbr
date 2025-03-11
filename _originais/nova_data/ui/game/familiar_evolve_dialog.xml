@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="close;title" frame="450,210,302,312" last_modified="2019-08-19 18:41:57" name="familiar_evolve_dialog" preset="v5_msgbox" shadow_offset="8,8" title_align="center" title_frame="3,3,296,14" title_height="25" title_offset="0,5" title_text="STR_FAMILIAR_EVOLVE_DIALOG_INDEX" type="dlg_familiar_evolve">
+	<Widget frame="7,2,283,20" halign="center" text="STR_FAMILIAR_EVOLVE_DIALOG_NEED_ITEM" type="static" valign="middle">
+	</Widget>
+	<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="127,25,44,44" group="itemview" item_height="44" item_width="44" name="item" preset="v5_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+	</Widget>
+	<Widget frame="7,73,283,20" halign="center" name="item_desc" type="static" valign="middle">
+	</Widget>
+	<Widget frame="3,96,291,20" name="fail_info" type="container">
+		<Widget flag="not_active" frame="35,0,20,20" image="familiar_warning" type="image">
+		</Widget>
+		<Widget frame="20,0,271,20" h_pos_align="proportion" halign="center" name="fail_str" text="STR_FAMILIAR_EVOLVE_DIALOG_FAIL_INFO" text_color="0.97,0.1,0.1,1.0" type="static" v_pos_align="top" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget font="ui_default" frame="7,124,283,20" name="fail_add_prob" text="STR_FAMILIAR_EVOLVE_UI_FAIL_ADD_PROB" type="htmlview">
+	</Widget>
+	<Widget font="ui_default" frame="7,144,283,20" name="fail_per_add_prob" text="STR_FAMILIAR_EVOLVE_UI_FAIL_PER_ADD_PROB" type="htmlview">
+	</Widget>
+	<Widget font="ui_default" frame="7,144,283,20" name="fail_per_add_prob_zero" text="STR_FAMILIAR_EVOLVE_UI_FAIL_ADD_PROB_ZERO" type="htmlview">
+	</Widget>
+	<Widget frame="3,171,291,20" name="con_info" type="container">
+		<Widget flag="not_active" frame="45,0,20,20" image="familiar_warning" type="image">
+		</Widget>
+		<Widget frame="20,0,271,20" h_pos_align="proportion" halign="center" name="info" text="STR_FAMILIAR_EVOLVE_DIALOG_LACK_ITEM" text_color="0.97,0.1,0.1,1.0" type="static" v_pos_align="top" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget frame="3,190,291,60" name="con_money" type="container">
+		<Widget frame="6,6,65,20" halign="left" text="STR_FAMILIAR_EVOLVE_MYGOLD" type="static" valign="middle">
+		</Widget>
+		<Widget frame="6,29,65,20" halign="left" text="STR_FAMILIAR_EVOLVE_GOLD" type="static" valign="middle">
+		</Widget>
+		<Widget frame="78,6,208,20" halign="right" name="my_money" padding="5,0" preset="v5_staticbox" type="static" valign="middle">
+		</Widget>
+		<Widget frame="78,29,208,20" halign="right" name="cost" padding="5,0" preset="v5_staticbox" type="static" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget font="ui_default" frame="136,256,72,24" h_pos_align="right" name="ok" preset="v5_button" text="STR_OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="219,256,73,24" h_pos_align="right" name="cancel" preset="v5_button" text="STR_COMMON__CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="5,5" close_preset="v5_force_close" flag="close;title" frame="200,262,226,85" last_modified="2014-08-22 12:58:41" name="force_sep_member_detail_dialog" preset="v5_force_sep" title_frame="0,0,0,0" title_height="16" type="dlg_force_sep_member_detail">
+	<Widget drag_type="3" frame="2,8,198,56" name="member1" preset="v5_party_ctn" type="containerex">
+		<Widget flag="transparent;truncate" font="name" font_size="13" frame="72,5,123,20" h_pos_align="right" halign="left" name="name" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_shade="True" type="static" valign="bottom">
+		</Widget>
+		<Widget align="left" frame="72,32,117,9" gauge_adjust="0,0" h_pos_align="right" name="hp_bg" preset="v5_party_hp_gauge_bg" show_value="false" skin_extend="False" stage="2" state_depended="True" type="gauge">
+		</Widget>
+		<Widget align="left" frame="72,32,117,9" gauge_adjust="0,0" h_pos_align="right" name="hp" num_type="small" preset="v5_party_hp_gauge" show_value="false" skin_extend="False" small_number="True" stage="2" state_depended="True" type="gauge">
+		</Widget>
+		<Widget align="left" frame="72,43,117,9" gauge_adjust="0,0" h_pos_align="right" name="mp_bg" preset="v5_party_mp_gauge_bg" show_value="false" skin_extend="False" type="gauge">
+		</Widget>
+		<Widget align="left" frame="72,43,117,9" gauge_adjust="0,0" h_pos_align="right" name="mp" num_type="small" preset="v5_party_mp_gauge" show_value="false" skin_extend="False" small_number="True" type="gauge">
+		</Widget>
+		<Widget frame="25,8,40,40" name="class" type="image">
+		</Widget>
+		<Widget flag="visible;not_active" frame="22,5,48,47" gauge_flags="time" name="flying" preset="v5_party_fly_gauge" type="flygauge">
+		</Widget>
+		<Widget font="window" frame="2,18,23,23" halign="center" name="level" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget frame="196,40,29,24" type="container">
+		<Widget frame="0,0,29,22" name="voicechat_icon" preset="v5_voicechat_icon" type="static">
+		</Widget>
+		<Widget font="window" frame="0,0,22,20" halign="center" name="voicechat_btn" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="button" valign="middle">
+		</Widget>
+	</Widget>
+</Dialog>

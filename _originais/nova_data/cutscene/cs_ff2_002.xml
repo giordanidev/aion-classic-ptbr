@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="OrcS01">Muhaha, you Elyos traitor! It&apos;s great, incredible!!!</Text>
+	<Text label="OrcS02">Thanks to you we were able to swipe the entire supplies of the Elyos fools! Muhahaha!</Text>
+	<Text label="URID03">A traitor!? Watch your mouth, you fool!</Text>
+	<Text label="OrcS04">What did you say!? Here I was going to go a bit easy on you for being somewhat useful...</Text>
+	<Text label="OrcS05">Have you forgotten that you are banished from your own country?</Text>
+	<Text label="URID06">You worthless Krall...!! I see that you want to die here!</Text>
+	<Text label="Calain07">Please stop, both of you. Surely you both must know that now is not the time for that?</Text>
+	<Text label="Calain08">You can always settle your differences after we kill all the Elyos in Tijerid.</Text>
+	<Text label="Calain09">By now those in Tijerid must think that something is wrong, as well.</Text>
+	<Text label="Calain10">We must complete the operation before the military intelligence provided by Lord Jurid becomes useless.</Text>
+	<Text label="OrcS11">Then let us charge in and crush them all!</Text>
+	<Text label="Calain12">So we should first plan a course of action...</Text>
+	<Text label="SE13">(Crash~)</Text>
+	<Text label="OrcS14">What is it!</Text>
+	<Text label="PC14A">Wadangka!</Text>
+	<Text label="OrcS15">You moron! Be careful!!</Text>
+	<Text label="Calain16">... Well then, let&apos;s continue on discussing our strategy.</Text>
+	<Text label="Nare4">. . . . . .</Text>
+</CutSceneText>

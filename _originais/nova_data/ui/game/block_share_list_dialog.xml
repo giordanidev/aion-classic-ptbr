@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="close;title" frame="0,0,232,374" last_modified="2014-08-22 12:58:42" name="block_share_list_dialog" preset="v5_dialog2" shadow_offset="8,8" title_align="center" title_frame="3,3,226,14" title_height="25" title_offset="0,5" title_text="STR_WHO_DIALOG__IMPORT_BLOCKLIST" type="dlg_block_import_list">
+	<Widget frame="5,6,217,53" preset="v5_staticbox" type="container">
+		<Widget flag="multiline;wordwrap" font="ui_static_title" frame="3,-1,212,54" halign="center" text="STR_WHO_DIALOG__IMPORT_BLOCKLIST_TIP" type="static" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget frame="5,85,216,28" preset="v5_staticbox" type="container">
+		<Widget font="ui_static_title" frame="8,1,206,24" halign="left" name="name" text="STR_BLOCKLIST_IMPORT_LIST_NO_LIST" type="static" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget font="ui_default" frame="8,62,202,22" text="STR_WHO_DIALOG__IMPORT_BLOCKLIST_CHAR" type="static">
+	</Widget>
+	<Widget font="ui_default" frame="8,117,202,22" text="STR_WHO_DIALOG__IMPORT_BLOCKLIST_LIST" type="static">
+	</Widget>
+	<Widget flag="not_enabled" font="ui_default" frame="87,317,68,24" name="ok" preset="v5_button" text="STR_BLOCKLIST_IMPORT_LIST_ADD_BUTTON" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="156,317,68,24" name="cancel" preset="v5_button" text="STR_DLG_DIALOG__CLOSE" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget cell_padding="2" check_preset="v5_check" column_heading="False" flag="vscroll" font="ui_list" frame="4,140,217,174" header_height="0" item_height="21" item_num="0" item_padding="2" item_padding_right="2" list_padding="3,3" name="block_share_list" preset="v5_listview_ex" skin_type="version5" type="listviewex">
+		<Column align="left" img_width="" sample_text="" sort="none" title="name" width=" 208">
+		</Column>
+		<Column align="" img_width="" sample_text="" sort="" title="" width=" ">
+		</Column>
+	</Widget>
+</Dialog>

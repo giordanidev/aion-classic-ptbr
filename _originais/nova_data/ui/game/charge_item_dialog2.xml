@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="task" close_offset="4,1" close_preset="v5_close" flag="close;title" frame="15,130,404,403" last_modified="2014-08-22 12:58:41" name="charge_item_dialog2" preset="v5_dialog2" prev_html="True" shadow_offset="8,8" title_align="center" title_frame="3,3,244,14" title_height="25" title_offset="0,5" title_text="STR_ITEM_CHARGE2_DIALOG__NAME" type="dlg_charge_item2">
+	<Widget font="ui_default" frame="11,4,176,20" name="npc_name" type="static">
+	</Widget>
+	<Widget flag="multiline;wordwrap" font="ui_default" frame="8,26,380,50" halign="center" name="desc" padding="10,0" preset="v5_staticbox" scroll_type="hidden" text="STR_ITEM_CHARGE2_DIALOG__DESC" text_offset="30,0" type="static">
+	</Widget>
+	<Widget font="ui_default" frame="8,82,191,20" h_pos_align="proportion" text="STR_ITEM_CHARGE2_DIALOG__TARGET_ITEM_LIST" type="static">
+	</Widget>
+	<Widget cell_padding="2" cell_space="0,0" flag="vscroll;not_multiselect" font="ui_list" frame="9,102,178,226" h_pos_align="proportion" item_height="44" item_width="44" list_padding="3,3" name="itemlist" preset="v5_listview_frame" scroll_type="visible" skin_type="version5" slot_num="5" type="listview" viewmode="detail">
+		<Column align="" title="" width="123">
+		</Column>
+	</Widget>
+	<Widget font="ui_default" frame="198,82,183,20" h_pos_align="proportion" text="STR_ITEM_CHARGE2_DIALOG__CHARGE_LEVEL" type="static">
+	</Widget>
+	<Widget frame="197,103,192,59" type="container">
+		<Skin name="v5_static_bg2" state="0">
+		</Skin>
+		<Widget font="ui_static_title" frame="10,7,179,22" name="radio_charge_lv1" preset="v5_radio" style="radiobutton" text_offset="2,0" type="button">
+		</Widget>
+		<Widget font="ui_static_title" frame="10,31,179,22" name="radio_charge_lv2" preset="v5_radio" style="radiobutton" text_offset="2,0" type="button">
+		</Widget>
+	</Widget>
+	<Widget font="v3_money" frame="193,305,196,23" halign="right" name="cost_static" padding="5,0" preset="v5_staticbox" type="static" v_pos_align="bottom" valign="middle">
+	</Widget>
+	<Widget font="ui_default" frame="197,282,185,22" name="cost_desc" text="STR_ITEM_CHARGE2_DIALOG__CHARGE_COST" type="static" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="247,346,74,24" name="ok" preset="v5_button" text="STR_ITEM_CHARGE2_DIALOG__CHARGE_BTN" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="322,346,74,24" name="cancel" preset="v5_button" text="STR_COMMON__CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="2,346,76,24" name="btn_help" preset="v5_button" text="STR_COMMON__HELP" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="title" frame="15,140,167,296" last_modified="2014-08-22 12:58:41" name="idarena_team_rank_dialog" preset="v5_dialog" title_align="center" title_frame="3,3,161,14" title_height="23" title_offset="0,5" title_text="STR_IDARENA_TEAM_RANK_DIALOG" type="dlg_idarena_team_rank">
+	<Widget cell_padding="5" flag="truncate;not_active" font="ui_list" frame="1,0,159,267" header_height="23" item_height="22" list_padding="3,1" name="list" preset="v5_listview_ex" scroll_type="hidden" type="listviewex">
+		<Column align="left" img_width="" sample_text="" sort="param" title="STR_IDARENA_TEAM_RANK_DIALOG__COL_NAME" width="100">
+		</Column>
+		<Column align="right" img_width="" sample_text="" sort="param" title="STR_IDARENA_TEAM_RANK_DIALOG__COL_SCORE" width="55">
+		</Column>
+	</Widget>
+</Dialog>

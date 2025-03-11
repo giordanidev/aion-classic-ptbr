@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<enchant_tools>
+	<enchant type="enchant">
+		<tool target="0">matter_enchant_exceed_01</tool>
+		<tool target="1">matter_enchant_exceed_critical_01</tool>
+		<tool>matter_enchant_g5</tool>
+		<tool>matter_enchant_g4</tool>
+		<tool>matter_enchant_g3</tool>
+		<tool>matter_enchant_g2</tool>
+		<tool>matter_enchant_g1</tool>
+	</enchant>
+	<enchant type="enchant_option">
+		<tool empty_show="1">MATTER_OPTION_C_HP_10</tool>
+		<tool empty_show="1">MATTER_OPTION_C_MP_10</tool>
+	</enchant>
+	<enchant type="exceed_enchant">
+		<tool target="0">matter_enchant_exceed_01</tool>
+		<tool target="1">matter_enchant_exceed_critical_01</tool>
+	</enchant>
+	<enchant type="authorize">
+		<tool>matter_2stenchant_m_65</tool>
+	</enchant>
+	<enchant type="proc">
+		<tool empty_show="1">MATTER_PROC_FIRE_DAMAGE_30A</tool>
+		<tool empty_show="1">MATTER_PROC_EARTH_DAMAGE_30A</tool>
+		<tool empty_show="1">MATTER_PROC_BLEED_30A</tool>
+	</enchant>
+	<enchant type="charge">
+		<tool>CHARGE_ITEM_PIECE_01</tool>
+		<tool>CHARGE_ITEM_PIECE_02</tool>
+		<tool>CHARGE_ITEM_D_PIECE_01</tool>
+		<tool>CHARGE_ITEM_D_PIECE_02</tool>
+		<tool>ACHARGE_ITEM_PIECE_01</tool>
+		<tool>ACHARGE_ITEM_PIECE_02</tool>
+		<tool>ACHARGE_ITEM_D_PIECE_01</tool>
+		<tool>ACHARGE_ITEM_D_PIECE_02</tool>
+	</enchant>
+	<enchant type="polish">
+		<tool empty_show="true">PHYDEF_R_Q_POLISH_ENCHANT_01A</tool>
+		<tool empty_show="1">MAGDEF_R_Q_POLISH_ENCHANT_01A</tool>
+	</enchant>
+	<enchant type="extract">
+		<tool>matter_extraction_01</tool>
+	</enchant>
+	<enchant type="ap_extract">
+		<tool>CASH_AP_U_35P_50LV_WE</tool>
+		<tool>CASH_AP_U_35P_50LV_AR</tool>
+		<tool>CASH_AP_U_35P_50LV_AC</tool>
+		<tool>CASH_AP_U_35P_60LV_WE</tool>
+		<tool>CASH_AP_U_35P_60LV_AR</tool>
+		<tool>CASH_AP_U_35P_60LV_AC</tool>
+		<tool>CASH_AP_U_25P_60LV_WE</tool>
+		<tool>CASH_AP_U_25P_60LV_AR</tool>
+		<tool>CASH_AP_U_25P_60LV_AC</tool>
+		<tool>CASH_AP_U_35P_65LV_WE</tool>
+		<tool>CASH_AP_U_35P_65LV_AR</tool>
+		<tool>CASH_AP_U_35P_65LV_AC</tool>
+	</enchant>
+	<enchant type="reidentify">
+		<tool>CASH_WEAPON_REIDENTIFY_E_65B</tool>
+		<tool>CASH_ARMOR_REIDENTIFY_E_65B</tool>
+		<tool>CASH_WEAPON_REIDENTIFY_M_65B</tool>
+		<tool>CASH_ARMOR_REIDENTIFY_M_65B</tool>
+	</enchant>
+	<enchant type="dye">
+		<tool empty_show="1">CASH_DYE_WHITE_01</tool>
+		<tool empty_show="1">CASH_DYE_BLACK_01</tool>
+	</enchant>
+	<enchant type="pack">
+		<tool>CASH_PACK_WE_E_60A</tool>
+		<tool>CASH_PACK_AR_E_60A</tool>
+		<tool>CASH_PACK_AC_E_60A</tool>
+		<tool>CASH_PACK_WE_U_60A</tool>
+		<tool>CASH_PACK_AR_U_60A</tool>
+		<tool>CASH_PACK_AC_U_60A</tool>
+		<tool>CASH_PACK_WE_E_65A</tool>
+		<tool>CASH_PACK_AR_E_65A</tool>
+		<tool>CASH_PACK_AC_E_65A</tool>
+		<tool>CASH_PACK_WE_U_65A</tool>
+		<tool>CASH_PACK_AR_U_65A</tool>
+		<tool>CASH_PACK_AC_U_65A</tool>
+		<tool>CASH_PACK_WE_M_65A</tool>
+		<tool>CASH_PACK_AR_M_65A</tool>
+		<tool>CASH_PACK_AC_M_65A</tool>
+	</enchant>
+	<enchant type="seal">
+		<tool>SCROLL_ITEM_SEAL_01</tool>
+	</enchant>
+	<enchant type="unseal">
+		<tool>SCROLL_ITEM_UNSEAL_SPECIAL_01</tool>
+		<tool>SCROLL_ITEM_UNSEAL_NORMAL_01</tool>
+	</enchant>
+</enchant_tools>

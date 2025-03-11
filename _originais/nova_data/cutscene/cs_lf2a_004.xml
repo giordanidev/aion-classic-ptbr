@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="P01">See those three statues on the canyon floor? </Text>
+	<Text label="P02">Well, it&apos;s the middle one I need your help with. </Text>
+	<Text label="P03">Stones have fallen onto it, </Text>
+	<Text label="P04">and I can&apos;t reach them from here. </Text>
+	<Text label="P05">I&apos;m not much of a precision flyer. Would you fly down and get those off for me?</Text>
+	<Text label="P06">There are a number of stones underneath, too. Will you get those?</Text>
+</CutSceneText>

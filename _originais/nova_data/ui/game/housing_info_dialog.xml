@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="not_movable" frame="504,860,218,61" h_pos_align="center" last_modified="2018-09-27 16:26:30" name="housing_info_dialog" title_frame="3,3,212,14" type="dlg_housing_info" ui_mode="not_game;housing" v_pos_align="bottom">
+	<Skin name="v5_housing_info_frame" state="frame">
+	</Skin>
+	<Widget frame="148,9,41,45" h_pos_align="right" name="end" preset="v5_housing_end" tooltip="STR_HOUSING_INFO_DIALOG__TOOLTIP_END" type="button">
+	</Widget>
+	<Widget frame="30,9,41,45" h_pos_align="left" name="help" preset="v5_housing_help" tooltip="STR_HOUSING_INFO_DIALOG__TOOLTIP_HELP" type="button">
+	</Widget>
+	<Widget frame="89,9,41,45" h_pos_align="right" name="register" preset="v5_housing_register" tooltip="STR_HOUSING_INFO_DIALOG__TOOLTIP_REGISTER" type="button">
+	</Widget>
+</Dialog>

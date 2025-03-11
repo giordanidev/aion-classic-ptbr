@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="10,5" flag="transparent" frame="695,430,596,596" last_modified="2020-09-07 20:08:54" name="transparent_map_dialog" title_align="center" title_frame="3,3,194,14" title_height="30" title_offset="10,5" type="dlg_transparent_map">
+	<Widget frame="0,00,316,316" h_pos_align="left" name="frame_bg" type="image" v_pos_align="top">
+		<Skin name="v4_transparent_map_bg" state="0">
+		</Skin>
+	</Widget>
+	<Widget frame="0,00,596,596" h_pos_align="left" name="full_frame_bg" type="image" v_pos_align="top">
+		<Skin name="v4_transparent_map_bg" state="0">
+		</Skin>
+	</Widget>
+	<Widget frame="3,3,590,590" h_pos_align="left" type="container" v_pos_align="top">
+		<Widget frame="0,0,310,310" name="mapctrl" type="image">&#xD;&#xD;&#x9;  </Widget>
+		<Widget frame="0,0,590,590" name="full_mapctrl" type="image">&#xD;&#xD;      </Widget>
+	</Widget>
+	<Widget frame="4,4,15,15" h_pos_align="left" name="move_trigger" type="image" v_pos_align="top">
+		<Skin name="v4_cross" state="0">
+		</Skin>
+	</Widget>
+</Dialog>

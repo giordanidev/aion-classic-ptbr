@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SkinLibrary folder="preload" last_modified="2020-09-25 15:18:20" name="UI_PreLoad" version="53">
+	<Preload name="hud_s1">
+	</Preload>
+	<Preload name="hud_s2">
+	</Preload>
+	<Preload name="map">
+	</Preload>
+	<Preload name="free_version">
+	</Preload>
+	<Preload name="version4">
+	</Preload>
+	<Preload name="login">
+	</Preload>
+	<Preload name="v4_lobby">
+	</Preload>
+	<Preload name="Shop">
+	</Preload>
+	<Preload name="battlepass">
+	</Preload>
+</SkinLibrary>

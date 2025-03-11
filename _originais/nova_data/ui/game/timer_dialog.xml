@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="not_movable" frame="420,86,204,55" h_pos_align="center" last_modified="2020-09-07 20:08:54" name="timer_dialog" preset="v4_timer" type="dlg_timer" v_pos_align="top">
+	<Widget font_size="-28" frame="13,9,172,39" halign="center" name="static_timer" text="STR_TIMER_DIALOG__STATIC_TIMER" type="static">
+	</Widget>
+</Dialog>

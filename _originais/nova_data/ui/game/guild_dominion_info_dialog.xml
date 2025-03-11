@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="sub" close_offset="4,1" close_preset="v5_close" flag="close;title" frame="839,150,485,376" last_modified="2014-12-02 15:31:44" name="guild_dominion_info_dialog" preset="v5_dialog2" shadow_offset="8,8" title_align="center" title_frame="3,3,118,14" title_height="25" title_offset="0,5" title_text="STR_DOMINION_INFO_DIALOG" type="dlg_guild_dominion_info">
+	<Widget font="ui_default" frame="8,3,100,20" scroll_type="hidden" text="STR_DOMINION_INFO_DIALOG__SELECT" type="static">
+	</Widget>
+	<Widget column_heading="True" flag="truncate;;not_active" font="ui_list" frame="5,51,471,259" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="rank" preset="v5_listview_ex" type="listviewex">
+		<Column align="center" img_width="" sample_text="" sort="none" title="STR_DOMINION_INFO_DIALOG__COL_RANK" width="60">
+		</Column>
+		<Column align="left" img_width="" sample_text="" sort="none" title="STR_DOMINION_INFO_DIALOG__COL_GUILD" width="105">
+		</Column>
+		<Column align="right" img_width="" sample_text="" sort="none" title="STR_DOMINION_INFO_DIALOG__COL_SCORE" width="100">
+		</Column>
+		<Column align="right" sort="none" title="STR_DOMINION_INFO_DIALOG__COL_TIME" width="90">
+		</Column>
+		<Column align="right" sort="none" title="STR_DOMINION_INFO_DIALOG__COL_ENDTIME" width="110">
+		</Column>
+	</Widget>
+	<Widget font="ui_combo" frame="115,3,179,21" name="combo_dominions" preset="v5_staticbox3" type="combobox">
+	</Widget>
+	<Widget font="ui_default" frame="3,319,95,24" name="show_map" preset="v5_button" text="STR_DOMINION_INFO_DIALOG__BTN_LOCATION" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="400,319,75,24" name="cancel" preset="v5_button" text="STR_DOMINION_INFO_DIALOG__BTN_CLOSE" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="8,29,90,20" scroll_type="hidden" text="STR_DOMINION_INFO_DIALOG__GUILDRANK" type="static">
+	</Widget>
+</Dialog>

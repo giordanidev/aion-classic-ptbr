@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="transparent;not_movable;not_active" frame="950,845,166,92" last_modified="2020-09-07 20:08:54" name="gm_indicator_dialog" type="dlg_gm_indicator">
+	<Widget flag="not_visible" frame="1,1,41,45" name="poll_button" preset="v4_help_poll" tooltip="STR_HELP_INDICATOR_DIALOG__TOOLTIP_POLL" type="button">
+	</Widget>
+	<Widget flag="not_visible" frame="42,1,41,45" name="petition_button1" preset="v4_help_gm_q" tooltip="STR_HELP_INDICATOR_DIALOG__TOOLTIP_POLL" type="button">
+	</Widget>
+	<Widget flag="not_visible" frame="42,1,41,45" name="petition_button2" preset="v4_help_gm_a" type="button">
+	</Widget>
+	<Widget flag="not_visible" frame="83,1,41,45" name="indun_reg_button" preset="v4_help_indun_reg" tooltip="STR_INDUN_REGISTER_DIALOG" type="button">
+	</Widget>
+	<Widget flag="not_visible" frame="124,1,41,45" name="indun_wait_button" preset="v4_help_indun_wait" tooltip="STR_INDUN_WAIT_DIALOG" type="button">
+	</Widget>
+	<Widget flag="not_visible" frame="1,46,41,45" name="party_match_button" preset="v4_help_party_matching" tooltip="STR_PARTY_MATCH_DIALOG__TOOLTIP_SEARCH_MINIMIZE" type="button">
+	</Widget>
+	<Widget flag="not_visible" frame="42,46,41,45" name="daily_quest_button" preset="v4_help_daily_quest" tooltip="STR_DAILY_QUEST__TOOLTIP" type="button">
+	</Widget>
+	<Widget flag="not_visible" frame="83,46,41,45" name="predefined_addon_button" preset="v4_help_daily_quest" tooltip="STR_DAILY_QUEST__TOOLTIP" type="button">
+	</Widget>
+</Dialog>

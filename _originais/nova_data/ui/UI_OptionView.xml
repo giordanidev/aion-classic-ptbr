@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<UI_Dialogs>
+	<OptionDialog desc="옵션" name="system_menu_option">
+		<Option name="cm_transparency">
+		</Option>
+	</OptionDialog>
+	<OptionDialog desc="옵션" name="tray_option">
+		<Option name="tray_transparency">
+		</Option>
+	</OptionDialog>
+	<OptionDialog desc="옵션" name="basic_status_option">
+		<Option name="bs_transparency">
+		</Option>
+		<Sep>
+		</Sep>
+		<Option name="bs_gauge_num">
+		</Option>
+		<Option name="bs_show_damage_mini">
+		</Option>
+		<Option name="bs_show_damage">
+		</Option>
+	</OptionDialog>
+	<OptionDialog desc="옵션" name="char_status_option">
+		<Option name="cs_transparency">
+		</Option>
+	</OptionDialog>
+	<OptionDialog desc="옵션" name="taret_option">
+		<Option name="target_transparency">
+		</Option>
+	</OptionDialog>
+	<OptionDialog desc="옵션" name="buff_status_option">
+		<Option name="buff_status_transparency">
+		</Option>
+		<Option name="buff_align_type">
+		</Option>
+	</OptionDialog>
+	<OptionDialog desc="옵션" name="maintain_option">
+		<Option name="maintain_transparency">
+		</Option>
+		<Option name="maintain_align_type">
+		</Option>
+	</OptionDialog>
+	<OptionDialog desc="옵션" name="quickbar_option">
+		<Option name="quickbar_transparency">
+		</Option>
+		<Option name="quickbar_show_type">
+		</Option>
+	</OptionDialog>
+	<OptionDialog desc="옵션" name="inventory_option">
+		<Option name="inventory_transparency">
+		</Option>
+	</OptionDialog>
+	<OptionDialog desc="옵션" name="skill_option">
+		<Option name="skill_transparency">
+		</Option>
+	</OptionDialog>
+	<OptionDialog desc="옵션" name="pet_option">
+		<Option name="pet_transparency">
+		</Option>
+	</OptionDialog>
+	<OptionDialog desc="옵션" name="guild_option">
+		<Option name="guild_transparency">
+		</Option>
+	</OptionDialog>
+	<OptionDialog desc="옵션" name="party_option_leader">
+		<Option name="party_leader">
+		</Option>
+		<Option name="party_loot">
+		</Option>
+		<Option name="party_rare_loot">
+		</Option>
+		<Option name="party_formation">
+		</Option>
+	</OptionDialog>
+	<OptionDialog desc="옵션" name="party_option">
+		<Option name="party_loot_option">
+		</Option>
+	</OptionDialog>
+</UI_Dialogs>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="exclusive" close_offset="10,5" flag="close;title" frame="550,427,180,170" h_pos_align="center" last_modified="2020-09-07 20:08:54" name="system_menu_dialog" preset="v4_msgbox3" title_align="center" title_frame="3,3,174,14" type="dlg_system_menu" ui_mode="housing" v_pos_align="middle">
+	<Widget frame="37,15,100,26" name="quit_game" preset="v4_button" text="STR_SYSTEM_MENU_DIALOG__QUIT_GAME" type="button">
+	</Widget>
+	<Widget frame="37,47,100,26" name="goto_select" preset="v4_button" text="STR_SYSTEM_MENU_DIALOG__GOTO_SELECT" type="button">
+	</Widget>
+	<Widget frame="37,79,100,26" name="option" preset="v4_button" text="STR_SYSTEM_MENU_DIALOG__OPTION" type="button">
+	</Widget>
+	<Widget frame="37,111,100,26" name="cancel" preset="v4_button" text="STR_SYSTEM_MENU_DIALOG__CANCEL" type="button">
+	</Widget>
+</Dialog>

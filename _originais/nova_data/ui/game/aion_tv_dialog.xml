@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="task" close_offset="4,1" close_preset="v5_close" flag="close;title" frame="288,155,673,638" last_modified="2017-12-07 21:55:49" name="aion_tv_dialog" preset="v5_dialog2" shadow_offset="8,8" title_align="center" title_frame="3,3,468,14" title_height="25" title_offset="0,5" title_text="STR_TITLE_AIONTV" type="dlg_aion_tv">
+	<Widget flag="nonclient" frame="606,1,28,24" name="minimize" preset="v5_minimize" type="button">
+	</Widget>
+	<Widget frame="6,1,655,570" h_pos_align="proportion" name="main_browser" preset="v5_staticbox" type="browser" v_pos_align="proportion">
+	</Widget>
+	<Widget font="ui_default" frame="595,581,70,24" h_pos_align="right" name="cancel" preset="v5_button" text="STR_DLG_DIALOG__CLOSE" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="5,585,127,19" name="cb_stop_dialog_today" preset="v5_check" style="checkbox" text="STR_INGAME_POPUP_DAY_CHECK" text_offset="5,0" type="button" v_pos_align="bottom" valign="middle">
+	</Widget>
+</Dialog>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="title;close" frame="0,0,467,305" last_modified="2014-08-22 12:58:41" name="housing_lbox_import_dialog" preset="v5_dialog2" shadow_offset="8,8" title_align="center" title_frame="3,3,461,14" title_height="25" title_offset="0,5" type="dlg_housing_lbox_import">
+	<Widget font="ui_default" frame="3,3,455,24" name="label" type="static">
+	</Widget>
+	<Widget alphanumeric="False" flag="enabled;multiline;wordwrap" font="ui_editbox" frame="2,29,457,212" name="edit" preset="v5_editbox" type="editbox" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="322,248,68,24" h_pos_align="right" name="ok" preset="v5_button" text="STR_COMMON__OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="391,248,68,24" h_pos_align="right" name="cancel" preset="v5_button" text="STR_COMMON__CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

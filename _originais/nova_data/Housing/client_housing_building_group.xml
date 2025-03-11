@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<client_housing_building_groups>
+	<client_housing_building_group>
+		<id>1</id>
+		<name>building_group01</name>
+		<desc>STR_TEST_BUILDING_GROUP_01</desc>
+		<building_list>
+			<data>
+				<building>test_building_m_01</building>
+			</data>
+			<data>
+				<building>test_building_m_02</building>
+			</data>
+		</building_list>
+	</client_housing_building_group>
+	<client_housing_building_group>
+		<id>2</id>
+		<name>building_group_p_l_01</name>
+		<desc>STR_HOUSING_TEST_BUILDING_GROUP_P_L_01</desc>
+		<building_list>
+			<data>
+				<building>test_building_p_l_01</building>
+			</data>
+			<data>
+				<building>test_building_p_l_02</building>
+			</data>
+		</building_list>
+	</client_housing_building_group>
+</client_housing_building_groups>

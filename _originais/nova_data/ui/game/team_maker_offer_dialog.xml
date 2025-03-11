@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="close;title" frame="300,300,362,201" last_modified="2017-01-19 18:26:08" name="team_maker_offer_dialog" preset="v5_msgbox" shadow_offset="8,8" title_align="left" title_frame="3,3,356,14" title_height="25" title_offset="10,5" title_text="STR_PARTY_MATCH_OFFER_DIALOG" type="dlg_team_maker_offer">
+	<Widget font="ui_default" frame="292,145,63,24" h_pos_align="right" name="cancel" preset="v5_button" text="STR_PARTY_MATCH_OFFER_DIALOG__CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" font_size="14" frame="8,8,49,17" text="STR_PARTY_MATCH_DIALOG__OFFER_COL_DESC" type="static">
+	</Widget>
+	<Widget defbutton="true" font="ui_default" frame="228,145,63,24" h_pos_align="right" name="ok" preset="v5_button" text="STR_PARTY_MATCH_OFFER_DIALOG__OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget alphanumeric="False" font="ui_editbox" frame="38,4,286,25" h_padding="5" max_length="50" name="desc" preset="v5_editbox" type="editbox">
+	</Widget>
+	<Widget frame="329,5,22,22" h_pos_align="right" name="emoticon" preset="v5_emoticon_btn" type="button">
+	</Widget>
+	<Widget font="ui_default" font_size="14" frame="8,37,49,17" text="STR_PARTY_MATCH_INSTANCE_REGISTER_DIALOG__MEMBER" type="static">
+	</Widget>
+	<Widget font="ui_default" font_size="14" frame="115,37,71,17" text="STR_PARTY_MATCH_INSTANCE_REGISTER_DIALOG__INSTANCE" type="static">
+	</Widget>
+	<Widget font="uI_combo" frame="190,35,158,24" name="matchmaker" preset="v5_staticbox3" type="combobox">
+	</Widget>
+	<Widget font="ui_default" frame="38,35,60,24" name="member_count" type="static">
+	</Widget>
+	<Widget font="ui_default" frame="8,63,129,22" name="cb_open" preset="v5_check" style="checkbox" text="STR_IDEternity_WAR_DIALOG_AUTO_ACCEPT" type="button">
+	</Widget>
+	<Widget flag="multiline;wordwrap" font="ui_default" frame="8,89,344,47" text="STR_IDETERNITY_WAR_DIALOG_AUTO_ACCEPT_INFO" type="static">
+	</Widget>
+</Dialog>

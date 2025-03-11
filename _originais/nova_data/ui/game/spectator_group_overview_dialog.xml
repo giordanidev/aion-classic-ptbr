@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="transparent;not_movable;" frame="0,0,1280,173" last_modified="2017-01-20 14:33:15" name="spectator_group_overview_dialog" title_frame="3,3,1182,14" type="dlg_spectator_group_overview" ui_mode="spectator">
+	<Widget frame="24,62,391,33" h_pos_align="center" type="image">
+		<Skin name="tournament_overview_bg_left">
+		</Skin>
+	</Widget>
+	<Widget align="left" frame="-5,33,620,39" gauge_adjust="0,0" name="hp_bg_1" preset="v5_spectator_hp_gauge_bg_left" show_value="false" skin_extend="False" stage="2" state_depended="True" type="image">
+	</Widget>
+	<Widget align="right" frame="10,37,586,31" gauge_adjust="0,0" h_pos_align="proportion" name="hp_1" num_type="small" preset="v5_spectator_hp_gauge_left" show_value="false" skin_extend="False" small_number="True" stage="2" state_depended="True" type="gauge">
+	</Widget>
+	<Widget frame="51,62,328,30" h_pos_align="center" name="ctn_1" type="container">
+		<Widget font_size="14" frame="0,0,30,30" halign="center" name="level_1" type="static" valign="middle">
+		</Widget>
+		<Widget font_size="14" frame="34,5,19,19" name="class_1" type="image">
+		</Widget>
+		<Widget font_size="14" frame="58,0,270,30" halign="left" name="name_1" padding="5,5" type="static" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget frame="863,62,391,33" h_pos_align="center" type="image">
+		<Skin name="tournament_overview_bg_right">
+		</Skin>
+	</Widget>
+	<Widget align="left" frame="664,33,620,39" gauge_adjust="0,0" name="hp_bg_2" preset="v5_spectator_hp_gauge_bg_right" show_value="false" skin_extend="False" stage="2" state_depended="True" type="image">
+	</Widget>
+	<Widget align="left" frame="683,37,586,31" gauge_adjust="0,0" name="hp_2" num_type="small" preset="v5_spectator_hp_gauge_right" show_value="false" skin_extend="False" small_number="True" stage="2" state_depended="True" type="gauge">
+	</Widget>
+	<Widget frame="899,62,328,30" h_pos_align="center" name="ctn_2" type="container">
+		<Widget font_size="14" frame="298,0,30,30" halign="center" name="level_2" type="static" valign="middle">
+		</Widget>
+		<Widget font_size="14" frame="274,5,19,19" name="class_2" type="image">
+		</Widget>
+		<Widget font_size="14" frame="0,0,270,30" halign="right" name="name_2" padding="5,5" type="static" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget flag="not_visible" frame="334,-9,611,202" h_pos_align="center" name="tournament_ctn" type="container">
+		<Widget frame="162,71,115,33" h_pos_align="center" name="win_bg_1" type="image">
+			<Skin name="tournament_overview_victory_bg_left">
+			</Skin>
+		</Widget>
+		<Widget frame="334,71,117,33" h_pos_align="center" name="win_bg_2" type="image">
+			<Skin name="tournament_overview_victory_bg_right">
+			</Skin>
+		</Widget>
+		<Widget frame="97,70,158,49" h_pos_align="center" name="kill_point_bg_1" type="image">
+			<Skin name="tournament_overview_kill_point_bg_left">
+			</Skin>
+		</Widget>
+		<Widget frame="354,70,158,49" h_pos_align="center" name="kill_point_bg_2" type="image">
+			<Skin name="tournament_overview_kill_point_bg_right">
+			</Skin>
+		</Widget>
+		<Widget frame="185,0,241,182" h_pos_align="center" type="image">
+			<Skin name="tournament_overview_emblem">
+			</Skin>
+		</Widget>
+		<Widget flag="active" font_size="14" frame="255,60,99,34" h_pos_align="center" halign="center" name="round" text_color="1.0,0.502,0.0,1.0" text_shade="True" type="static" valign="middle">
+		</Widget>
+		<Widget flag="active" font_size="18" frame="255,93,99,34" h_pos_align="center" halign="center" name="remain_time" text_color="1.0,1.0,1.0,1.0" text_shade="True" type="static" valign="middle">
+		</Widget>
+		<Widget flag="active" font_size="14" frame="200,78,43,43" h_pos_align="center" halign="center" name="win_1_1" preset="v5_tournament_victory" text_shade="True" type="static" valign="middle">
+		</Widget>
+		<Widget flag="active" font_size="14" frame="168,78,43,43" h_pos_align="center" halign="center" name="win_1_2" preset="v5_tournament_victory" text_shade="True" type="static" valign="middle">
+		</Widget>
+		<Widget flag="active" font_size="14" frame="136,78,43,43" h_pos_align="center" halign="center" name="win_1_3" preset="v5_tournament_victory" text_shade="True" type="static" valign="middle">
+		</Widget>
+		<Widget flag="active" font_size="14" frame="104,78,43,43" h_pos_align="center" halign="center" name="win_1_4" preset="v5_tournament_victory" text_shade="True" type="static" valign="middle">
+		</Widget>
+		<Widget flag="active" font_size="14" frame="74,78,43,43" h_pos_align="center" halign="center" name="win_1_5" preset="v5_tournament_victory" text_shade="True" type="static" valign="middle">
+		</Widget>
+		<Widget flag="active" font_size="14" frame="42,78,43,43" h_pos_align="center" halign="center" name="win_1_6" preset="v5_tournament_victory" text_shade="True" type="static" valign="middle">
+		</Widget>
+		<Widget flag="active" font_size="14" frame="365,78,43,43" h_pos_align="center" halign="center" name="win_2_1" preset="v5_tournament_victory" text_shade="True" type="static" valign="middle">
+		</Widget>
+		<Widget flag="active" font_size="14" frame="397,78,43,43" h_pos_align="center" halign="center" name="win_2_2" preset="v5_tournament_victory" text_shade="True" type="static" valign="middle">
+		</Widget>
+		<Widget flag="active" font_size="14" frame="429,78,43,43" h_pos_align="center" halign="center" name="win_2_3" preset="v5_tournament_victory" text_shade="True" type="static" valign="middle">
+		</Widget>
+		<Widget flag="active" font_size="14" frame="461,78,43,43" h_pos_align="center" halign="center" name="win_2_4" preset="v5_tournament_victory" text_shade="True" type="static" valign="middle">
+		</Widget>
+		<Widget flag="active" font_size="14" frame="493,78,43,43" h_pos_align="center" halign="center" name="win_2_5" preset="v5_tournament_victory" text_shade="True" type="static" valign="middle">
+		</Widget>
+		<Widget flag="active" font_size="14" frame="524,78,43,43" h_pos_align="center" halign="center" name="win_2_6" preset="v5_tournament_victory" text_shade="True" type="static" valign="middle">
+		</Widget>
+		<Widget font="v3_level" font_size="20" frame="178,79,57,26" h_pos_align="center" halign="center" name="kill_point_1" text_shade="True" type="static" valign="middle">
+		</Widget>
+		<Widget font="v3_level" font_size="20" frame="373,79,57,26" h_pos_align="center" halign="center" name="kill_point_2" text_shade="True" type="static" valign="middle">
+		</Widget>
+	</Widget>
+</Dialog>

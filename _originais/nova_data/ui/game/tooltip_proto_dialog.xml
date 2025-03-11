@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="not_visible" frame="100,100,332,127" last_modified="2017-02-15 16:56:53" name="tooltip_proto_dialog" preset="v5_tooltip" shadow_offset="8,8" title_align="center" title_frame="3,3,296,14" title_height="25" title_offset="10,2" type="dlg_tooltip_proto">
+	<Widget frame="3,5,320,28" h_pos_align="proportion" html_margin="1,1" name="main" type="htmlview">
+	</Widget>
+	<Widget frame="50,38,273,44" h_pos_align="proportion" html_margin="1,1" name="content" type="htmlview">
+	</Widget>
+	<Widget cell_padding="2" font="v3_shortcut" frame="3,38,44,44" item_height="44" item_width="44" name="main_slot" one_click_action="True" preset="v5_itemview" type="itemview">
+	</Widget>
+	<Widget frame="-3,90,331,4" h_pos_align="proportion" name="main_sep" preset="v5_tooltip_sep" type="image">
+	</Widget>
+	<Widget frame="49,85,279,2" h_pos_align="proportion" name="content_sep" preset="v5_tooltip_sep_content" type="image">
+	</Widget>
+	<Widget frame="3,97,99,23" name="notice1" type="static">
+	</Widget>
+	<Widget frame="105,97,58,23" name="notice2" type="static">
+	</Widget>
+	<Widget frame="165,97,158,23" name="notice3" type="static">
+	</Widget>
+</Dialog>

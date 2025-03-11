@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="left" close_offset="4,1" close_preset="v5_close" flag="close;title" frame="506,150,269,564" last_modified="2017-12-01 18:08:50" name="transformbook_info_dialog" preset="v5_dialog" shadow_offset="8,8" title_align="center" title_frame="3,3,336,14" title_height="25" title_offset="0,5" title_text="STR_TRANSFORMATION_DIALOG" type="dlg_transformbook_info">
+	<Widget frame="0,23,263,373" type="container">
+		<Widget frame="0,-19,263,417" name="bg" type="image">
+			<Skin name="transform_info_bg" state="0">
+			</Skin>
+		</Widget>
+		<Widget font_size="15" frame="0,0,263,31" halign="center" name="name" text="STR_TRANSFORMATION_DIALOG" type="static" valign="middle">
+		</Widget>
+		<Widget frame="12,10,40,40" name="tier_grade_bg" type="image">
+			<Skin name="transform_tier_grade_bg" state="0">
+			</Skin>
+		</Widget>
+		<Widget cam_angle="10" frame="0,76,263,262" name="model_view" type="3dview">
+			<Widget frame="145,220,34,35" h_pos_align="center" name="turnleft" preset="v5_potrait_left" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="84,220,34,35" h_pos_align="center" name="turnright" preset="v5_potrait_right" type="button" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget font="ui_default" font_size="14" frame="20,16,15,25" name="tier_grade" type="htmlview">
+		</Widget>
+	</Widget>
+	<Widget font="ui_default" frame="189,506,72,25" name="transform" preset="v5_button" text="STR_TRANSFORMATION_BUTTON_TRANS_VISIBLE" type="button">
+	</Widget>
+	<Widget font="ui_default" frame="6,507,82,25" name="invisible_transform" preset="v5_button" text="STR_TRANSFORMATION_BUTTON_TRANS_INVISIBLE" type="button">
+	</Widget>
+	<Widget frame="0,397,263,104" h_pos_align="left" name="tabsheet_info" type="tabsheet" v_pos_align="top">
+		<Widget btn_move_anim="False" frame="0,0,263,25" h_pos_align="proportion" preset="v5_tab" tab_offset="6,0" tab_space="0" type="tab" v_pos_align="top">
+			<Widget font="ui_default" frame="6,0,102,25" preset="v5_familiar_tabbutton" text="STR_TRANSFORMATION_LIST_TRANS_INFO_STAT" type="tabbutton">
+			</Widget>
+		</Widget>
+		<Widget frame="0,24,263,84" h_pos_align="proportion" name="page_skill" preset="v4_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget frame="0,3,263,82" preset="v5_staticbox" type="container">
+				<Widget flag="vscroll" font="ui_default" frame="2,0,259,82" name="desc_skill" type="htmlview">
+				</Widget>
+			</Widget>
+		</Widget>
+	</Widget>
+</Dialog>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="sub" close_offset="4,1" close_preset="v5_close" flag="close;title" frame="300,200,400,169" last_modified="2014-08-22 12:58:42" name="lite_action_denied_ingame_dialog" preset="v5_msgbox" prev_html="True" shadow_offset="8,8" title_align="left" title_frame="3,3,367,14" title_height="25" title_offset="10,5" type="dlg_lite_action_denied_ingame">
+	<Widget font="ui_default" frame="209,113,95,24" name="download_info" preset="v5_button" text="STR_LITE__DIALOG_DOWNLOAD_STATUS_BTN" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="305,113,88,24" name="cancel" preset="v5_button" text="STR_INGAME_SHOP_DIALOG__CLOSE" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="1,113,63,24" name="help" preset="v5_button" text="STR_COMMON__HELP" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget flag="vscroll" font="ui_default" frame="14,12,362,81" name="htmlview" type="htmlview">
+	</Widget>
+</Dialog>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="task" close_offset="4,1" close_preset="v5_close" flag="close;title" frame="15,100,404,508" help_page="highreform" last_modified="2016-07-19 10:05:35" name="reform_dialog" preset="v5_dialog" prev_html="False" shadow_offset="8,8" title_align="center" title_frame="3,3,242,14" title_height="25" title_offset="0,5" title_text="STR_REFORM_DIALOG" type="dlg_reform">
+	<Widget flag="nonclient" frame="0,27,402,480" group="bg" h_pos_align="proportion" preset="reform_bg" type="image" v_pos_align="proportion">
+	</Widget>
+	<Widget frame="177,105,44,44" name="target_item_fx" type="image">
+	</Widget>
+	<Widget cell_padding="9" frame="170,98,58,58" item_height="58" item_width="58" name="target_item" preset="reform_target" type="itemview">
+	</Widget>
+	<Widget cell_padding="15" frame="119,23,70,70" item_height="70" item_width="70" name="component1" preset="reform_component" type="itemview">
+	</Widget>
+	<Widget cell_padding="15" frame="210,23,70,70" item_height="70" item_width="70" name="component2" preset="reform_component" type="itemview">
+	</Widget>
+	<Widget cell_padding="15" frame="255,89,70,70" item_height="70" item_width="70" name="component3" preset="reform_component" type="itemview">
+	</Widget>
+	<Widget cell_padding="15" frame="212,157,70,70" item_height="70" item_width="70" name="component4" preset="reform_component" type="itemview">
+	</Widget>
+	<Widget cell_padding="15" frame="122,157,70,70" item_height="70" item_width="70" name="component5" preset="reform_component" type="itemview">
+	</Widget>
+	<Widget cell_padding="15" frame="74,90,70,70" item_height="70" item_width="70" name="component6" preset="reform_component" type="itemview">
+	</Widget>
+	<Widget blend_type="screen" frame="78,279,253,17" h_pos_align="proportion" preset="reform_desc_deco" type="image" v_pos_align="bottom">
+	</Widget>
+	<Widget flag="vscroll" font="enchant_all_result" font_size="13" frame="27,284,349,139" h_pos_align="proportion" margin="5,5,5,7" name="result_desc" preset="reform_desc" scroll_type="auto" skin_type="notice" type="htmlview" v_pos_align="bottom">
+	</Widget>
+	<Widget defbutton="False" down_offset="0,1" font="ui_default" font_size="16" frame="58,404,285,69" fx_offset="8,20" fx_size="47,31" name="ok" preset="enchant_all_ok" type="gaugebutton" v_pos_align="bottom">
+	</Widget>
+	<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="131,36,44,44" group="fx" item_height="44" item_width="44" name="component_fx1" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+	</Widget>
+	<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="222,36,44,44" group="fx" item_height="44" item_width="44" name="component_fx2" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+	</Widget>
+	<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="267,102,44,44" group="fx" item_height="44" item_width="44" name="component_fx3" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+	</Widget>
+	<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="224,170,44,44" group="fx" item_height="44" item_width="44" name="component_fx4" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+	</Widget>
+	<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="134,170,44,44" group="fx" item_height="44" item_width="44" name="component_fx5" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+	</Widget>
+	<Widget cell_padding="2" cell_space="0,0" flag="not_visible;not_active" frame="86,103,44,44" group="fx" item_height="44" item_width="44" name="component_fx6" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+	</Widget>
+	<Widget cell_padding="9" flag="not_visible" frame="170,98,58,58" item_height="58" item_width="58" name="result_item" preset="reform_target" type="itemview">
+	</Widget>
+	<Widget cell_padding="2" flag="not_visible" frame="180,344,44,44" h_pos_align="center" item_height="44" item_width="44" name="bonus_item" preset="v5_deco_itemview" type="itemview" v_pos_align="bottom">
+	</Widget>
+	<Widget font="v3_money" frame="141,233,163,22" halign="right" name="my_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+	</Widget>
+	<Widget font="v3_money" frame="141,257,163,22" halign="right" name="reform_money" preset="v5_staticbox" type="static" v_pos_align="bottom">
+	</Widget>
+	<Widget frame="23,257,113,23" halign="right" padding="2,0" text="STR_REFORM_DIALOG__REFORM_MONEY" type="static" v_pos_align="bottom">
+	</Widget>
+	<Widget frame="23,232,113,23" halign="right" padding="2,0" text="STR_REFORM_DIALOG__MY_MONEY" type="static" v_pos_align="bottom">
+	</Widget>
+</Dialog>

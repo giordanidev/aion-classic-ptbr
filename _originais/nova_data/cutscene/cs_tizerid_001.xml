@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="GA00">Thief!</Text>
+	<Text label="GA01">Catch him!</Text>
+	<Text label="GA02">Hey, you! Did you see a Wind Elyos brat who just ran through there?</Text>
+	<Text label="SO03">What? Uhm, I don&apos;t really.....</Text>
+	<Text label="GB04">Darn it, you frustrate me! Anyway, help me look for that kid!</Text>
+	<Text label="SO05">Why should I...?</Text>
+	<Text label="GA06">That brat stole something from the Captain of the Blood Sky Knights, [Jurid Jeridise]!</Text>
+	<Text label="GB07">You must catch that brat, if you are a Tijeridian! Go and search quickly!</Text>
+	<Text label="SO8">(Bleh, I guess it can&apos;t be helped...)</Text>
+	<Text label="thief9">Eck! They found me!</Text>
+	<Text label="ron10">We know you are inside there. Come out!</Text>
+	<Text label="ron10_1">I can always run away again. Bye bye, pops!</Text>
+	<Text label="ron10_2">Who are you to be interrupting me here? Move aside!</Text>
+	<Text label="Urid11">Wretch! So you were here!</Text>
+	<Text label="thief12">Ugh...!</Text>
+	<Text label="GA12_1">Captain Jurid!</Text>
+	<Text label="ron13">You insolent punk! You dared to mess around in front of Lord Jurid!</Text>
+	<Text label="Urid14">You are one gutsy fellow, daring to lay a hand on my things in Tijerid of all places!</Text>
+	<Text label="Urid15">Now, take this thief to the dungeon! I will examine him when I get back!</Text>
+	<Text label="GA16">Yes!</Text>
+	<Text label="Urid17">By the way, who are you? You don&apos;t look like a member of the Red Flame... It seems to me that you are an adventurer just starting out...?</Text>
+	<Text label="SO18">I&apos;m [%username].</Text>
+	<Text label="Urid19">Thank you, [%username]. We were able to catch the thief thanks to your help.</Text>
+	<Text label="Urid20">I will remember that name. Let us meet again if fate ever joins us once more, haha.</Text>
+</CutSceneText>

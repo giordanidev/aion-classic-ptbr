@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="P01">&quot;The Rift has opened again!”</Text>
+	<Text label="P02">&quot;It may be...&quot;</Text>
+	<Text label="P03">&quot;My lord might be here!&quot;</Text>
+	<Text label="P04">“You...Don&apos;t deserve”</Text>
+	<Text label="P05">&quot;to live!&quot;</Text>
+	<Text label="P06">&quot;At last.&quot;</Text>
+</CutSceneText>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="10,5" close_preset="v5_close" flag="title" frame="465,144,400,148" last_modified="2019-08-20 18:37:49" name="familiar_evolve_prob_confirm_dialog" preset="v5_msgbox" shadow_offset="8,8" title_align="left" title_frame="3,3,373,14" title_height="25" title_offset="10,5" title_text="STR_FAMILIAR_EVOLVE_DIALOG_FAIL_CONFIRM_TITLE" type="dlg_familiar_evolve_prob_confirm" ui_mode="housing;housing_building" v_pos_align="middle">
+	<Widget defbutton="False" font="ui_default" frame="256,92,68,24" name="evolve_prob_ok" preset="v5_button" text="STR_FAMILIAR_DIALOG_EVOLVE_BUTTON" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="325,92,68,24" name="evolve_prob_cancel" preset="v5_button" text="STR_COMMON__CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="15,8,360,77" name="evolve_prob_confirm_desc" text="STR_FAMILIAR_EVOLVE_UI_FAIL_CONFIRM" type="htmlview">
+	</Widget>
+</Dialog>

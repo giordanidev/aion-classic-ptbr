@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="title" frame="300,200,340,187" last_modified="2014-08-22 12:58:41" name="idtimeattack_dialog" preset="v5_dialog" shadow_offset="8,8" title_align="center" title_frame="3,3,334,14" title_height="25" title_offset="0,5" title_text="STR_INDUN_ACCOUNT_IDTIMEATTACK_DIALOG" type="dlg_idtimeattack">
+	<Widget frame="0,0,334,128" preset="v5_indun_container" type="container">
+		<Widget frame="141,10,50,72" h_pos_align="center" type="image">
+			<Skin name="v5_indun_timeattack" state="0">
+			</Skin>
+		</Widget>
+		<Widget frame="10,86,314,32" halign="center" name="message" type="static" v_pos_align="proportion" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget font="ui_default" frame="106,130,122,24" name="leave" preset="v5_button" text="STR_INDUN_ACCOUNT_IDLF1_DIALOG__LEAVE" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="right" close_offset="3,3" close_preset="v5_attend_close" flag="close;title;not_movable" frame="762,100,290,660" last_modified="2020-05-06 21:23:19" name="reinvent_detail_dialog" preset="v7_mission_bg_container" shadow_offset="0" text_color="1.0,1.0,1.0,1.0" title_align="center" title_frame="3,3,318,14" title_height="25" title_offset="0,8" title_text="STR_REINVENT_DETAIL_DIALOG_INDEX" type="dlg_reinvent_detail">
+	<Widget frame="5,1,280,174" name="mat_list_con" type="container">
+		<Widget frame="2,24,276,150" preset="v5_transform_collection_used_reward" type="image">
+			<Skin name="v5_static_bg4" state="0">
+			</Skin>
+		</Widget>
+		<Widget font="v3_option" font_size="14" frame="10,2,256,19" halign="left" name="str_mat_title" text="STR_REINVENT_DETAIL_DIALOG_MAT_LIST_INDEX" text_color="1.0,0.502,0.251,1.0" type="static">
+		</Widget>
+		<Widget flag="vscroll" font="v3_option_title" frame="6,31,270,136" name="str_mat_list" padding="1,1" scroll_type="auto" skin_type="luna" text="STR_REINVENT_DETAIL_DIALOG_MAT_LIST_DESC" text_color="1.0,1.0,1.0,1.0" type="htmlview">
+		</Widget>
+	</Widget>
+	<Widget frame="6,178,278,451" name="reward_con" type="container">
+		<Widget font="v3_option" font_size="14" frame="9,6,256,19" halign="left" name="str_reward_title" text="STR_REINVENT_DETAIL_DIALOG_REWARD_INDEX" text_color="1.0,0.502,0.251,1.0" type="static">
+		</Widget>
+	</Widget>
+	<Widget frame="6,178,278,451" h_pos_align="proportion" name="tab_sheet" type="tabsheet" v_pos_align="proportion">
+		<Widget btn_move_anim="False" frame="0,28,278,30" name="tab_btn_con" tab_offset="0,0" tab_space="0" type="tab">
+			<Widget frame="0,0,278,30" preset="v5_transform_collection_used_reward" type="image">
+				<Skin name="v5_static_bg4" state="0">
+				</Skin>
+			</Widget>
+			<Widget font="v3_option_title" frame="0,0,56,30" h_pos_align="left" halign="center" name="tab_btn_1" preset="shop_main_tab" text="STR_REINVENT_DETAIL_DIALOG_REWARD_TAB_1" text_color="1.0,1.0,1.0,1.0" text_over_color="0.1765,1.0,1.0,1.0" text_selected_color="0.0,0.502,0.7529,1.0" type="tabbutton">
+			</Widget>
+			<Widget font="v3_option_title" frame="55,0,56,30" h_pos_align="left" halign="center" name="tab_btn_2" preset="shop_main_tab" text="STR_REINVENT_DETAIL_DIALOG_REWARD_TAB_2" text_color="1.0,1.0,1.0,1.0" text_over_color="0.1765,1.0,1.0,1.0" text_selected_color="0.0,0.502,0.7529,1.0" type="tabbutton">
+			</Widget>
+			<Widget font="v3_option_title" frame="110,0,56,30" h_pos_align="left" halign="center" name="tab_btn_3" preset="shop_main_tab" text="STR_REINVENT_DETAIL_DIALOG_REWARD_TAB_3" text_color="1.0,1.0,1.0,1.0" text_over_color="0.1765,1.0,1.0,1.0" text_selected_color="0.0,0.502,0.7529,1.0" type="tabbutton">
+			</Widget>
+			<Widget font="v3_option_title" frame="165,0,56,30" h_pos_align="left" halign="center" name="tab_btn_4" preset="shop_main_tab" text="STR_REINVENT_DETAIL_DIALOG_REWARD_TAB_4" text_color="1.0,1.0,1.0,1.0" text_over_color="0.1765,1.0,1.0,1.0" text_selected_color="0.0,0.502,0.7529,1.0" type="tabbutton">
+			</Widget>
+			<Widget font="v3_option_title" frame="222,0,56,30" h_pos_align="left" halign="center" name="tab_btn_5" preset="shop_main_tab" text="STR_REINVENT_DETAIL_DIALOG_REWARD_TAB_5" text_color="1.0,1.0,1.0,1.0" text_over_color="0.1765,1.0,1.0,1.0" text_selected_color="0.0,0.502,0.7529,1.0" type="tabbutton">
+			</Widget>
+		</Widget>
+		<Widget frame="0,59,278,390" h_pos_align="proportion" name="tab1" type="tabpage" v_pos_align="proportion">
+			<Widget frame="0,0,278,390" preset="v5_transform_collection_used_reward" type="image">
+				<Skin name="v5_static_bg4" state="0">
+				</Skin>
+			</Widget>
+			<Widget frame="0,0,276,387" preset="v5_staticbox5" type="container">
+			</Widget>
+			<Widget cell_padding="2,2" cell_space="0,-1" flag="vscroll" font="ui_list" frame="0,0,278,387" header_font="v3_columnhead" header_height="0" item_height="44" item_width="44" list_padding="0,0" name="list_reward" preset="v5_listview_sel_frame" scroll_type="visible" skin_type="shop" slot_num="10" text_shade="False" type="listview">
+				<Column align="" title="" width="9999">
+				</Column>
+			</Widget>
+		</Widget>
+		<Widget frame="0,59,278,390" h_pos_align="proportion" name="tab2" type="tabpage" v_pos_align="proportion">
+			<Widget frame="0,0,278,390" preset="v5_transform_collection_used_reward" type="image">
+				<Skin name="v5_static_bg4" state="0">
+				</Skin>
+			</Widget>
+			<Widget frame="0,0,276,387" preset="v5_staticbox5" type="container">
+			</Widget>
+			<Widget cell_padding="2,2" cell_space="0,-1" flag="vscroll" font="ui_list" frame="0,0,278,387" header_font="v3_columnhead" header_height="0" item_height="44" item_width="44" list_padding="0,0" name="list_reward" preset="v5_listview_sel_frame" scroll_type="visible" skin_type="shop" slot_num="10" text_shade="False" type="listview">
+				<Column align="" title="" width="9999">
+				</Column>
+			</Widget>
+		</Widget>
+		<Widget frame="0,59,278,390" h_pos_align="proportion" name="tab3" type="tabpage" v_pos_align="proportion">
+			<Widget frame="0,0,278,390" preset="v5_transform_collection_used_reward" type="image">
+				<Skin name="v5_static_bg4" state="0">
+				</Skin>
+			</Widget>
+			<Widget frame="0,0,276,387" preset="v5_staticbox5" type="container">
+			</Widget>
+			<Widget cell_padding="2,2" cell_space="0,-1" flag="vscroll" font="ui_list" frame="0,0,278,387" header_font="v3_columnhead" header_height="0" item_height="44" item_width="44" list_padding="0,0" name="list_reward" preset="v5_listview_sel_frame" scroll_type="visible" skin_type="shop" slot_num="10" text_shade="False" type="listview">
+				<Column align="" title="" width="9999">
+				</Column>
+			</Widget>
+		</Widget>
+		<Widget frame="0,59,278,390" h_pos_align="proportion" name="tab4" type="tabpage" v_pos_align="proportion">
+			<Widget frame="0,0,278,390" preset="v5_transform_collection_used_reward" type="image">
+				<Skin name="v5_static_bg4" state="0">
+				</Skin>
+			</Widget>
+			<Widget frame="0,0,276,387" preset="v5_staticbox5" type="container">
+			</Widget>
+			<Widget cell_padding="2,2" cell_space="0,-1" flag="vscroll" font="ui_list" frame="0,0,278,387" header_font="v3_columnhead" header_height="0" item_height="44" item_width="44" list_padding="0,0" name="list_reward" preset="v5_listview_sel_frame" scroll_type="visible" skin_type="shop" slot_num="10" text_shade="False" type="listview">
+				<Column align="" title="" width="9999">
+				</Column>
+			</Widget>
+		</Widget>
+		<Widget frame="0,59,278,390" h_pos_align="proportion" name="tab5" type="tabpage" v_pos_align="proportion">
+			<Widget frame="0,0,278,390" preset="v5_transform_collection_used_reward" type="image">
+				<Skin name="v5_static_bg4" state="0">
+				</Skin>
+			</Widget>
+			<Widget frame="0,0,276,387" preset="v5_staticbox5" type="container">
+			</Widget>
+			<Widget cell_padding="2,2" cell_space="0,-1" flag="vscroll" font="ui_list" frame="0,0,278,387" header_font="v3_columnhead" header_height="0" item_height="44" item_width="44" list_padding="0,0" name="list_reward" preset="v5_listview_sel_frame" scroll_type="visible" skin_type="shop" slot_num="10" text_shade="False" type="listview">
+				<Column align="" title="" width="9999">
+				</Column>
+			</Widget>
+		</Widget>
+	</Widget>
+</Dialog>

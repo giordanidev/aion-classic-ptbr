@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="close;;title" frame="330,100,621,432" last_modified="2017-01-25 12:13:30" name="exchange_equipment_dialog" preset="v5_dialog2" shadow_offset="8,8" title_align="center" title_frame="3,3,621,14" title_height="25" title_offset="0,5" title_text="STR_TRADE_DIALOG__REPLACE_ITEM_TITLE" type="dlg_exchange_equipment">
+	<Widget frame="4,14,607,56" preset="v5_staticbox3" type="container">
+		<Widget flag="vscroll" font="ui_default" frame="0,0,607,56" text="STR_REGISTER_ITEM_REPLACE_DIALOG__DESC" type="htmlview">
+		</Widget>
+	</Widget>
+	<Widget frame="4,73,607,295" h_pos_align="left" type="container">
+		<Widget frame="0,0,607,295" type="image">
+			<Skin name="v5_replace_bg">
+			</Skin>
+		</Widget>
+		<Widget frame="4,4,164,132" type="image">
+			<Skin name="v5_upgrade_bg2_corner">
+			</Skin>
+		</Widget>
+		<Widget font="ui_default" frame="46,1,162,45" halign="center" preset="v5_replace_static" text="STR_TRADE_DIALOG__REPLACE_ENCHANTED_ITEM" type="static" valign="middle">
+		</Widget>
+		<Widget font="ui_default" frame="392,1,162,45" halign="center" preset="v5_replace_static" text="STR_TRADE_DIALOG__REPLACE_PREDICT_ITEM" type="static" valign="middle">
+		</Widget>
+		<Widget flag="vscroll" font="ui_default" frame="187,244,233,42" name="desc" preset="v5_staticbox" text="STR_REGISTER_ITEM_REPLACE_DIALOG__DESC02" type="htmlview">
+		</Widget>
+		<Widget frame="35,67,187,187" type="image">
+			<Skin name="v5_upgrade_result_slot_bg0">
+			</Skin>
+		</Widget>
+		<Widget frame="382,67,187,187" type="image">
+			<Skin name="v5_upgrade_result_slot_bg0">
+			</Skin>
+		</Widget>
+		<Widget frame="25,73,207,187" name="source_container" type="container">
+			<Widget flag="truncate" font="ui_default" frame="-1,32,208,19" halign="center" max_lines="2" name="source_name" type="static" valign="middle">
+			</Widget>
+			<Widget frame="43,29,120,118" name="item_bg" preset="v5_replace_result_slot_bg" type="container">
+				<Widget cell_padding="2" cell_space="0,0" column_set1=",1000," flag="truncate" frame="37,38,44,44" item_height="44" item_width="44" name="source_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+				</Widget>
+			</Widget>
+		</Widget>
+		<Widget frame="385,53,184,236" name="target_one" type="container">
+			<Widget frame="32,50,120,118" name="item_bg" preset="v5_replace_result_slot_bg" type="container">
+				<Widget cell_padding="2" cell_space="0,0" column_set1=",1000," flag="truncate" frame="37,38,44,44" item_height="44" item_width="44" name="target_item" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+				</Widget>
+			</Widget>
+			<Widget flag="truncate" font="ui_default" frame="0,53,185,19" halign="center" max_lines="2" name="target_name" type="static" valign="middle">
+			</Widget>
+			<Widget flag="truncate" font="ui_default" frame="0,144,185,19" halign="center" max_lines="2" name="target_opt" type="static" valign="middle">
+			</Widget>
+		</Widget>
+		<Widget frame="385,43,184,120" name="target_container1" type="container">
+			<Widget frame="32,-3,120,118" name="item_bg1" preset="v5_replace_result_slot_bg" type="container">
+				<Widget cell_padding="2" cell_space="0,0" column_set1=",1000," flag="truncate" frame="37,38,44,44" item_height="44" item_width="44" name="target_item1" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+				</Widget>
+			</Widget>
+			<Widget flag="truncate" font="ui_default" frame="0,0,185,19" halign="center" max_lines="2" name="target_name1" type="static" valign="middle">
+			</Widget>
+			<Widget flag="truncate" font="ui_default" frame="0,95,185,19" halign="center" max_lines="2" name="target_opt1" type="static" valign="middle">
+			</Widget>
+		</Widget>
+		<Widget frame="385,172,184,120" name="target_container2" type="container">
+			<Widget frame="32,-5,120,118" name="item_bg2" preset="v5_replace_result_slot_bg" type="container">
+				<Widget cell_padding="2" cell_space="0,0" column_set1=",1000," flag="truncate" frame="37,36,44,44" item_height="44" item_width="44" name="target_item2" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+				</Widget>
+			</Widget>
+			<Widget flag="truncate" font="ui_default" frame="0,93,185,19" halign="center" max_lines="2" name="target_opt2" type="static" valign="middle">
+			</Widget>
+			<Widget flag="truncate" font="ui_default" frame="0,-4,185,19" halign="center" max_lines="2" name="target_name2" type="static" valign="middle">
+			</Widget>
+		</Widget>
+		<Widget font="ui_default" frame="200,152,204,20" halign="center" name="single_arrow" preset="v5_replace_arrow_single" type="static" valign="middle">
+		</Widget>
+		<Widget frame="198,66,210,176" name="multi_arrow" type="container">
+			<Widget frame="86,87,146,88" type="image">
+				<Skin name="v5_replace_arrow_down_off">
+				</Skin>
+			</Widget>
+			<Widget frame="87,21,146,88" type="image">
+				<Skin name="v5_replace_arrow_up_off">
+				</Skin>
+			</Widget>
+			<Widget frame="4,86,100,20" type="image">
+				<Skin name="v5_replace_arrow_half">
+				</Skin>
+			</Widget>
+			<Widget frame="0,21,210,88" name="arrow_on_0" type="image">
+				<Skin name="v5_replace_arrow_up_on">
+				</Skin>
+			</Widget>
+			<Widget frame="1,83,210,88" name="arrow_on_1" type="image">
+				<Skin name="v5_replace_arrow_down_on">
+				</Skin>
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget font="ui_default" frame="2,375,76,24" name="btn_help" preset="v5_button" text="STR_COMMON__HELP" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="553,375,60,24" h_pos_align="right" name="cancel" preset="v5_button" text="STR_EXCEED_DIALOG__CANCLE" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget defbutton="true" font="ui_default" frame="492,375,60,24" h_pos_align="right" name="ok" preset="v5_button" text="STR_OK" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

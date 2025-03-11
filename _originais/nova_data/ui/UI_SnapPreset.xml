@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<UI_SnapPreset>
+	<Dialog grid_x="9" grid_y="32" name="basic_status_dialog" text="STR_DLG_HUD_EDIT_MY_INFO">
+	</Dialog>
+	<Dialog grid_x="999" grid_y="0" name="radar_dialog" text="STR_DLG_HUD_EDIT_RADAR">
+	</Dialog>
+	<Dialog grid_x="999" grid_y="0" name="mini_radar_dialog" text="STR_DLG_HUD_EDIT_RADAR">
+	</Dialog>
+	<Dialog grid_x="54" grid_y="13" name="quest_indicator_dialog" text="STR_DLG_HUD_EDIT_QUEST_NOTICE">
+	</Dialog>
+	<Dialog grid_x="44" grid_y="1" name="buff_status_dialog" text="STR_DLG_HUD_EDIT_BUFF">
+	</Dialog>
+	<Dialog grid_x="44" grid_y="6" name="debuff_status_dialog" text="STR_DLG_HUD_EDIT_DEBUFF">
+	</Dialog>
+	<Dialog grid_x="23" grid_y="999" name="quickbar_dialog" text="STR_DLG_HUD_EDIT_DEFAULT_SKILL_BAR">
+	</Dialog>
+	<Dialog grid_x="999" grid_y="13" name="quickbar_dialog_extra" text="STR_DLG_HUD_EDIT_SKILL_BAR_03">
+	</Dialog>
+	<Dialog grid_x="53" grid_y="2" name="charge_gauge_dialog" text="STR_DLG_HUD_EDIT_ITEM_CHARGE">
+	</Dialog>
+	<Dialog grid_x="29" grid_y="26" name="skill_delay_dialog" text="STR_DLG_HUD_EDIT_GAUGE_SKILL">
+	</Dialog>
+	<Dialog grid_x="29" grid_y="26" name="enchant_delay_dialog" text="STR_DLG_HUD_EDIT_GAUGE">
+	</Dialog>
+	<Dialog grid_x="29" grid_y="26" name="gathering_dialog" text="STR_DLG_HUD_EDIT_GAUGE_GATHERING">
+	</Dialog>
+	<Dialog grid_x="29" grid_y="26" name="making_dialog" text="STR_DLG_HUD_EDIT_GAUGE_MAKING">
+	</Dialog>
+	<Dialog grid_x="29" grid_y="26" name="general_delay_dialog" text="STR_DLG_HUD_EDIT_GAUGE">
+	</Dialog>
+	<Dialog grid_x="41" grid_y="16" name="support_shortcut_dialog" text="STR_DLG_HUD_EDIT_CHAIN_SKILL">
+	</Dialog>
+	<Dialog grid_x="41" grid_y="16" name="support_shortcut_wind" text="STR_DLG_HUD_EDIT_SHORTCUT_WIND">
+	</Dialog>
+	<Dialog grid_x="41" grid_y="16" name="support_shortcut_glide_attack" text="STR_DLG_HUD_EDIT_SHORTCUT_GLIDE_WIND">
+	</Dialog>
+	<Dialog grid_x="1" grid_y="1" name="timer_dialog" text="STR_DLG_HUD_EDIT_TIMER">
+	</Dialog>
+	<Dialog grid_x="1" grid_y="1" name="indun_info_dialog" text="STR_DLG_HUD_EDIT_TIMER">
+	</Dialog>
+	<Dialog grid_x="14" grid_y="30" name="pet_dialog" text="STR_DLG_HUD_EDIT_COMBAT_PET">
+	</Dialog>
+	<Dialog grid_x="29" grid_y="26" name="stigma_page_casting_dialog" text="STR_DLG_HUD_EDIT_STIGMA_PAGE_DELAY">
+	</Dialog>
+</UI_SnapPreset>

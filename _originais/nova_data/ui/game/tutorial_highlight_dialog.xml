@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_preset="v5_close2" flag="check_transparent;close;resizable" frame="0,0,500,300" h_pos_align="left" last_modified="2018-10-24 14:17:52" name="tutorial_highlight_dialog" prev_html="True" title_frame="3,3,345,14" type="dlg_tutorial_highlight" v_pos_align="top">
+	<Widget frame="0,0,500,300" name="background" type="container">
+		<Widget flag="active" frame="0,0,500,100" image="tutorial_background" name="bg_top" type="image">
+		</Widget>
+		<Widget flag="active" frame="0,100,250,100" image="tutorial_background" name="bg_left" type="image">
+		</Widget>
+		<Widget flag="active" frame="250,100,250,100" image="tutorial_background" name="bg_right" type="image">
+		</Widget>
+		<Widget flag="active" frame="0,200,500,100" image="tutorial_background" name="bg_bottom" type="image">
+		</Widget>
+		<Widget frame="256,123,22,27" name="fx" type="static">
+		</Widget>
+	</Widget>
+	<Widget frame="0,-15,1280,315" h_pos_align="left" name="guide" type="container" v_pos_align="bottom">
+		<Widget frame="0,0,282,316" h_pos_align="left" name="character" preset="tutorial_guide_character" type="static" v_pos_align="bottom">
+		</Widget>
+		<Widget frame="120,176,900,139" name="message_container" type="container">
+			<Widget frame="0,0,900,139" h_pos_align="left" name="guide_background" type="image" v_pos_align="bottom">
+				<Skin name="tutorial_guide_bg">
+				</Skin>
+			</Widget>
+			<Widget color="0.0,0.0,0.0,1.0" font="luna_default" font_size="19" frame="112,1,173,37" h_pos_align="left" name="name" type="static" v_pos_align="bottom">
+			</Widget>
+			<Widget color="0.0,0.0,0.0,1.0" font_size="18" frame="144,49,688,76" h_pos_align="left" name="guide_string" type="static" v_pos_align="bottom" valign="top">
+			</Widget>
+		</Widget>
+	</Widget>
+</Dialog>

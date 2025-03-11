@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="not_movable;transparent" frame="0,0,1280,960" h_pos_align="center" last_modified="2017-02-15 11:00:35" name="indun_title_idtournament_relay_order_dialog" type="dlg_indun_title_idtournament_relay_order" ui_mode="spectator" v_pos_align="top">
+	<Widget frame="395,244,504,92" type="container">
+		<Skin name="v5_indun_title_bg">
+		</Skin>
+		<Widget font_size="20" frame="77,17,348,57" halign="center" name="remain_time_text" text_color="0.9804,0.9098,0.2824,1.0" text_shade="True" type="static">
+		</Widget>
+	</Widget>
+	<Widget frame="306,188,223,186" type="image">
+		<Skin name="v5_indun_title_emblem">
+		</Skin>
+	</Widget>
+	<Widget frame="760,188,223,186" type="image">
+		<Skin name="v5_indun_title_emblem">
+		</Skin>
+	</Widget>
+</Dialog>

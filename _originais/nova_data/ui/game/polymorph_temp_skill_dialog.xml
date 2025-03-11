@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="close;title" frame="794,427,240,263" last_modified="2016-03-04 18:04:25" name="polymorph_temp_skill_dialog" preset="v5_dialog" title_frame="3,3,394,14" title_offset="0,5" title_text="STR_POLYMORPH_TEMP_SKILL__TITLE" type="dlg_polymorph_temp_skill">
+	<Widget cell_padding="2" cell_space="0,0" column_set0=" ,130,right" flag="truncate" font="ui_list" frame="2,4,229,226" h_pos_align="proportion" item_height="44" item_width="44" list_padding="3,3" name="skill_list" preset="v5_listview_frame" reserve_slots="False" slot_num="5" type="listview" viewmode="detail">
+		<Column align="" title="" width="1000">
+		</Column>
+	</Widget>
+</Dialog>

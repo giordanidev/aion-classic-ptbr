@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="5,5" flag="close;title" frame="15,140,135,59" last_modified="2020-09-07 20:08:54" name="force_sep_member_dialog" preset="v4_force_sep" title_frame="0,0,0,0" title_height="16" type="dlg_force_sep_member">
+	<Widget drag_type="30" frame="4,4,126,36" name="member1" preset="v4_force_sep_ctn" type="containerex">
+		<Widget frame="34,15,83,7" name="hp_bg" preset="v4_party_hp_gauge_bg" show_value="False" skin_extend="True" stage="2" state_depended="True" type="gauge" value_type="percent">
+		</Widget>
+		<Widget frame="34,15,83,7" name="hp" num_type="micro" preset="v4_party_hp_gauge" show_value="False" skin_extend="True" small_number="True" stage="2" state_depended="True" type="gauge" value_type="number">
+		</Widget>
+		<Widget frame="34,25,83,7" name="mp_bg" preset="v4_party_mp_gauge_bg" skin_extend="True" type="gauge">
+		</Widget>
+		<Widget frame="34,25,83,7" name="mp" num_type="micro" preset="v4_party_mp_gauge" skin_extend="True" small_number="True" type="gauge" value_type="number">
+		</Widget>
+		<Widget frame="6,10,19,19" name="class" preset="v4_class_icon" type="image">
+		</Widget>
+		<Widget flag="truncate" frame="34,0,92,13" name="name" text_shade="True" type="static">
+		</Widget>
+		<Widget flag="visible;not_active" frame="0,5,31,31" gauge_flags="time" name="flying" preset="v4_force_fly_gauge" type="flygauge">
+		</Widget>
+	</Widget>
+</Dialog>

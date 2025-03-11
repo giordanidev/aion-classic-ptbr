@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="title;close" frame="251,397,325,136" last_modified="2014-10-20 22:15:43" name="guild_dominion_apply_dialog" preset="v5_msgbox" shadow_offset="8,8" title_align="left" title_frame="3,3,388,14" title_height="25" title_offset="5,5" title_text="STR_DOMINION_SELECT_DIALOG" type="dlg_guild_dominion_apply">
+	<Widget font="ui_default" frame="4,7,381,62" halign="left" padding="5,5" text="STR_DOMINION_SELECT_DIALOG__DESC" type="static" valign="top">
+	</Widget>
+	<Widget font="ui_default" frame="9,40,60,20" scroll_type="hidden" text="STR_DOMINION_SELECT_DIALOG__WORLD" type="static">
+	</Widget>
+	<Widget font="ui_default" frame="139,40,60,20" scroll_type="hidden" text="STR_DOMINION_SELECT_DIALOG__DOMINION" type="static">
+	</Widget>
+	<Widget font="ui_combo" frame="54,40,77,21" name="combo_world" preset="v5_staticbox3" type="combobox">
+	</Widget>
+	<Widget font="ui_combo" frame="198,40,117,21" name="combo_dominions" preset="v5_staticbox3" type="combobox">
+	</Widget>
+	<Widget defbutton="False" font="ui_default" frame="4,81,97,24" name="show_map" preset="v5_button" text="STR_DOMINION_SELECT_DIALOG__BTN_LOCATION" type="button">
+	</Widget>
+	<Widget defbutton="False" font="ui_default" frame="179,81,68,24" name="ok" preset="v5_button" text="STR_DOMINION_SELECT_DIALOG__BTN_OK" type="button">
+	</Widget>
+	<Widget font="ui_default" frame="248,81,68,24" name="cancel" preset="v5_button" text="STR_DOMINION_SELECT_DIALOG__BTN_CANCEL" type="button">
+	</Widget>
+</Dialog>

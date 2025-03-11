@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog frame="0,0,104,84" last_modified="2020-01-16 20:01:45" name="botting_aod_dialog" title_frame="3,3,360,14" title_offset="9,1" type="dlg_botting_aod">
+	<Widget font="ui_default" frame="9,6,85,68" name="action_button" preset="v7_auto_hud_frame" tooltip="STR_AUTOHUNT_DIALOG_BUTTON_ACTION_TOOLTIP" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="72,32,18,18" name="Setting_button" preset="v7_auto_hud_set" tooltip="STR_AUTOHUNT_DIALOG_BUTTON_SETTING_TOOLTIP" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="65,51,18,18" name="result_button" preset="v7_auto_hud_info" tooltip="STR_AUTOHUNT_DIALOG_BUTTON_RESULT_TOOLTIP" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget flag="not_active" frame="0,0,15,15" h_pos_align="left" name="move_trigger" type="image" v_pos_align="top">
+		<Skin name="v5_cross" state="0">
+		</Skin>
+		<Skin name="v5_lock" state="1">
+		</Skin>
+	</Widget>
+</Dialog>

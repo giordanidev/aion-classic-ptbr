@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="left" close_offset="4,1" close_preset="v4_close" flag="close;title" frame="880,200,357,570" last_modified="2014-08-22 12:58:42" name="web_petition_dialog" preset="v4_dialog2" shadow_offset="8,8" title_align="center" title_frame="3,3,468,14" title_height="25" title_offset="0,5" type="dlg_web_petition" ui_mode="housing">
+	<Widget frame="6,3,341,502" h_pos_align="proportion" name="main_browser" preset="v4_staticbox" type="browser" v_pos_align="proportion">
+	</Widget>
+	<Widget frame="279,513,70,24" h_pos_align="right" name="cancel" preset="v4_button" text="STR_DLG_DIALOG__CLOSE" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

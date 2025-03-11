@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="5,7" flag="close;title" frame="176,138,932,735" h_pos_align="center" last_modified="2020-10-23 19:29:03" name="new_map_dialog" preset="v4_dialog4" title_align="center" title_frame="3,3,580,14" title_height="25" title_offset="0,5" title_text="STR_WORLD_MAP_DIALOG" type="dlg_new_map" v_pos_align="middle">
+	<Widget frame="276,24,650,680" name="default_image" type="image">
+	</Widget>
+	<Widget frame="302,87,590,590" h_pos_align="center" type="container" v_pos_align="middle">
+		<Widget font="v3_map_subzone" frame="0,0,590,590" name="mapctrl" type="image">
+		</Widget>
+	</Widget>
+	<Widget frame="271,24,8,680" type="image">
+		<Skin name="new_map_line">
+		</Skin>
+	</Widget>
+	<Widget frame="302,87,590,590" h_pos_align="center" type="container" v_pos_align="middle">
+		<Widget frame="0,0,590,590" group="region_light" h_pos_align="center" name="region_light_container" type="containerex" v_pos_align="middle">
+			<Widget frame="0,0,590,590" name="map" type="image">
+				<Skin name="new_map_region_light" state="0">
+				</Skin>
+			</Widget>
+			<Widget flag="not_visible" frame="78,206,146,69" name="highlight_zone_lf1" type="image">
+				<Skin name="new_map_highlight_zone_lf1">
+				</Skin>
+			</Widget>
+			<Widget flag="not_visible" frame="253,87,55,92" name="highlight_zone_lc1" type="image">
+				<Skin name="new_map_highlight_zone_lc1">
+				</Skin>
+			</Widget>
+			<Widget flag="not_visible" frame="225,244,126,88" name="highlight_zone_lf1a" type="image">
+				<Skin name="new_map_highlight_zone_lf1a">
+				</Skin>
+			</Widget>
+			<Widget flag="not_visible" frame="29,303,267,185" name="highlight_zone_lf2" type="image">
+				<Skin name="new_map_highlight_zone_lf2">
+				</Skin>
+			</Widget>
+			<Widget flag="not_visible" frame="455,220,112,95" name="highlight_zone_lf2a" type="image">
+				<Skin name="new_map_highlight_zone_lf2a">
+				</Skin>
+			</Widget>
+			<Widget flag="not_visible" frame="229,309,233,159" name="highlight_zone_lf3" type="image">
+				<Skin name="new_map_highlight_zone_lf3">
+				</Skin>
+			</Widget>
+			<Widget frame="45,250,206,22" type="image">
+				<Skin name="map_zone_text_lf1">
+				</Skin>
+			</Widget>
+			<Widget frame="182,145,206,22" type="image">
+				<Skin name="map_zone_text_lc1">
+				</Skin>
+			</Widget>
+			<Widget frame="175,298,206,22" type="image">
+				<Skin name="map_zone_text_lf1a">
+				</Skin>
+			</Widget>
+			<Widget frame="91,399,206,22" type="image">
+				<Skin name="map_zone_text_lf2">
+				</Skin>
+			</Widget>
+			<Widget frame="404,290,206,22" type="image">
+				<Skin name="map_zone_text_lf2a">
+				</Skin>
+			</Widget>
+			<Widget frame="249,410,206,22" type="image">
+				<Skin name="map_zone_text_lf3">
+				</Skin>
+			</Widget>
+			<Widget frame="76,204,150,71" name="zone_lf1" type="button">
+			</Widget>
+			<Widget frame="252,85,57,94" name="zone_lc1" type="button">
+			</Widget>
+			<Widget frame="27,301,240,187" name="zone_lf2" type="button">
+			</Widget>
+			<Widget frame="453,218,114,97" name="zone_lf2a" type="button">
+			</Widget>
+			<Widget frame="266,307,198,161" name="zone_lf3" type="button">
+			</Widget>
+			<Widget frame="223,242,128,78" name="zone_lf1a" type="button">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,590,590" group="region_dark" h_pos_align="center" name="region_dark_container" type="containerex" v_pos_align="middle">
+			<Widget frame="0,0,590,590" name="map" type="image">
+				<Skin name="new_map_region_dark" state="0">
+				</Skin>
+			</Widget>
+			<Widget flag="not_visible" frame="239,371,222,91" name="highlight_zone_df1" type="image">
+				<Skin name="new_map_highlight_zone_df1">
+				</Skin>
+			</Widget>
+			<Widget flag="not_visible" frame="268,232,291,158" name="highlight_zone_df1a" type="image">
+				<Skin name="new_map_highlight_zone_df1a">
+				</Skin>
+			</Widget>
+			<Widget flag="not_visible" frame="85,162,234,129" name="highlight_zone_df2" type="image">
+				<Skin name="new_map_highlight_zone_df2">
+				</Skin>
+			</Widget>
+			<Widget flag="not_visible" frame="27,252,109,73" name="highlight_zone_df2a" type="image">
+				<Skin name="new_map_highlight_zone_df2a">
+				</Skin>
+			</Widget>
+			<Widget flag="not_visible" frame="269,141,225,131" name="highlight_zone_df3" type="image">
+				<Skin name="new_map_highlight_zone_df3">
+				</Skin>
+			</Widget>
+			<Widget flag="not_visible" frame="165,288,112,67" name="highlight_zone_dc1" type="image">
+				<Skin name="new_map_highlight_zone_dc1">
+				</Skin>
+			</Widget>
+			<Widget frame="225,421,206,22" type="image">
+				<Skin name="map_zone_text_df1">
+				</Skin>
+			</Widget>
+			<Widget frame="302,341,206,22" type="image">
+				<Skin name="map_zone_text_df1a">
+				</Skin>
+			</Widget>
+			<Widget frame="115,243,206,22" type="image">
+				<Skin name="map_zone_text_df2">
+				</Skin>
+			</Widget>
+			<Widget frame="-19,296,206,22" type="image">
+				<Skin name="map_zone_text_df2a">
+				</Skin>
+			</Widget>
+			<Widget frame="261,221,206,22" type="image">
+				<Skin name="map_zone_text_df3">
+				</Skin>
+			</Widget>
+			<Widget frame="122,337,206,22" type="image">
+				<Skin name="map_zone_text_dc1">
+				</Skin>
+			</Widget>
+			<Widget frame="268,232,291,146" name="zone_df1a" type="button">
+			</Widget>
+			<Widget frame="237,369,224,93" name="zone_df1" type="button">
+			</Widget>
+			<Widget frame="85,162,204,129" name="zone_df2" type="button">
+			</Widget>
+			<Widget frame="25,250,111,75" name="zone_df2a" type="button">
+			</Widget>
+			<Widget frame="288,141,206,131" name="zone_df3" type="button">
+			</Widget>
+			<Widget frame="163,288,116,69" name="zone_dc1" type="button">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,590,590" group="region_dragon" h_pos_align="center" name="region_dragon_container" type="containerex" v_pos_align="middle">
+			<Widget frame="0,0,590,590" name="map" type="image">
+				<Skin name="new_map_region_dragon" state="0">
+				</Skin>
+			</Widget>
+			<Widget flag="not_visible" frame="118,282,153,95" name="highlight_zone_lf4" type="image">
+				<Skin name="new_map_highlight_zone_lf4">
+				</Skin>
+			</Widget>
+			<Widget flag="not_visible" frame="373,245,161,63" name="highlight_zone_df4" type="image">
+				<Skin name="new_map_highlight_zone_df4">
+				</Skin>
+			</Widget>
+			<Widget flag="not_visible" frame="271,337,97,57" name="highlight_zone_underpass" type="image">
+				<Skin name="new_map_highlight_zone_underpass">
+				</Skin>
+			</Widget>
+			<Widget frame="84,329,206,22" type="image">
+				<Skin name="map_zone_text_lf4">
+				</Skin>
+			</Widget>
+			<Widget frame="349,293,206,22" type="image">
+				<Skin name="map_zone_text_df4">
+				</Skin>
+			</Widget>
+			<Widget frame="221,389,206,22" type="image">
+				<Skin name="map_zone_text_underpass">
+				</Skin>
+			</Widget>
+			<Widget frame="118,282,153,97" name="zone_lf4" type="button">
+			</Widget>
+			<Widget frame="373,245,161,65" name="zone_df4" type="button">
+			</Widget>
+			<Widget frame="271,337,97,59" name="zone_underpass" type="button">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,590,590" group="region_abyss" h_pos_align="center" name="region_abyss_container" type="containerex" v_pos_align="middle">
+			<Widget frame="0,0,590,590" name="map" type="image">
+				<Skin name="new_map_region_abyss" state="0">
+				</Skin>
+			</Widget>
+			<Widget flag="not_visible" frame="87,362,417,169" name="highlight_zone_ab1_1" type="image">
+				<Skin name="new_map_highlight_zone_ab1_1">
+				</Skin>
+			</Widget>
+			<Widget flag="not_visible" frame="210,219,161,128" name="highlight_zone_ab1_2" type="image">
+				<Skin name="new_map_highlight_zone_ab1_2">
+				</Skin>
+			</Widget>
+			<Widget flag="not_visible" frame="88,73,433,136" name="highlight_zone_ab1_3" type="image">
+				<Skin name="new_map_highlight_zone_ab1_3">
+				</Skin>
+			</Widget>
+			<Widget frame="87,365,417,169" name="zone_ab1_1" type="button">
+			</Widget>
+			<Widget frame="210,219,161,128" name="zone_ab1_2" type="button">
+			</Widget>
+			<Widget frame="87,73,433,136" name="zone_ab1_3" type="button">
+			</Widget>
+		</Widget>
+		<Widget frame="0,0,16,18" name="party_marker_0" preset="v4_party_icon_zonemap" type="static">
+		</Widget>
+		<Widget frame="0,0,16,18" name="party_marker_1" preset="v4_party_icon_zonemap" type="static">
+		</Widget>
+		<Widget frame="0,0,16,18" name="party_marker_2" preset="v4_party_icon_zonemap" type="static">
+		</Widget>
+		<Widget frame="0,0,16,18" name="party_marker_3" preset="v4_party_icon_zonemap" type="static">
+		</Widget>
+		<Widget frame="0,0,16,18" name="party_marker_4" preset="v4_party_icon_zonemap" type="static">
+		</Widget>
+		<Widget frame="0,0,16,18" name="party_marker_5" preset="v4_party_icon_zonemap" type="static">
+		</Widget>
+		<Widget frame="0,0,16,18" name="party_marker_6" preset="v4_party_icon_zonemap" type="static">
+		</Widget>
+		<Widget frame="0,0,16,18" name="party_marker_7" preset="v4_party_icon_zonemap" type="static">
+		</Widget>
+		<Widget frame="0,0,16,18" name="party_marker_8" preset="v4_party_icon_zonemap" type="static">
+		</Widget>
+		<Widget frame="0,0,16,18" name="party_marker_9" preset="v4_party_icon_zonemap" type="static">
+		</Widget>
+		<Widget frame="0,0,16,18" name="party_marker_10" preset="v4_party_icon_zonemap" type="static">
+		</Widget>
+		<Widget frame="0,0,16,18" name="party_marker_11" preset="v4_party_icon_zonemap" type="static">
+		</Widget>
+		<Widget frame="0,0,16,18" name="player_marker" preset="v4_player_icon_zonemap" type="static">
+		</Widget>
+	</Widget>
+	<Widget frame="276,24,650,680" h_pos_align="center" type="container" v_pos_align="middle">
+		<Widget frame="0,0,650,680" type="image">
+			<Skin name="new_map_frame">
+			</Skin>
+		</Widget>
+		<Widget font="v3_quest_title" font_size="36" frame="68,7,537,48" halign="left" name="zone_title" text_color="0.7922,0.7216,0.4392,1.0" type="static" valign="middle">
+		</Widget>
+		<Widget frame="15,7,48,48" halign="left" name="compass" preset="new_map_compass" type="static" valign="middle">
+		</Widget>
+		<Widget frame="624,186,19,171" name="zoom_container" type="container">
+			<Widget align="vertical_rev" frame="0,20,18,132" knob_size="14,14" name="slide_zoom" preset="v4_slide2" slide_rect="0,10,18,113" step="5" type="slide">
+			</Widget>
+			<Widget frame="0,5,19,19" name="btn_zoom_in" preset="v4_plus2" tooltip="STR_NEW_MAP_DIALOG__SCALE_UP" type="button">
+			</Widget>
+			<Widget frame="0,148,19,19" name="btn_zoom_out" preset="v4_minus2" tooltip="STR_NEW_MAP_DIALOG__SCALE_DOWN" type="button">
+			</Widget>
+		</Widget>
+		<Widget frame="612,8,35,43" name="btn_mini_map" preset="new_map_btn_minimap" tooltip="STR_NEW_MAP_DIALOG__CHANGE_MAP" type="button" v_pos_align="bottom">
+		</Widget>
+		<Widget frame="618,72,29,29" name="btn_my_position" preset="new_map_btn_my_pos" tooltip="STR_NEW_MAP_DIALOG__MY_POSITION" type="button" v_pos_align="bottom">
+		</Widget>
+		<Widget frame="618,107,29,29" name="btn_where" preset="new_map_btn_where" tooltip="STR_NEW_MAP_DIALOG__WHERE" type="button" v_pos_align="bottom">
+		</Widget>
+		<Widget frame="618,142,29,29" name="btn_help" preset="new_map_btn_help" tooltip="STR_COMMON__HELP" type="button" v_pos_align="bottom">
+		</Widget>
+	</Widget>
+	<Widget frame="689,24,200,386" group="mini" h_pos_align="center" name="mini_container" preset="new_map_mini_bg" type="container" v_pos_align="middle">
+		<Widget frame="3,190,194,188" h_pos_align="center" preset="new_map_icon_bg" type="container" v_pos_align="middle">
+			<Widget frame="0,0,200,196" group="mini_region_light" h_pos_align="center" name="mini_region_light_container" type="containerex" v_pos_align="middle">
+				<Widget frame="-3,10,192,152" name="map" type="image">
+					<Skin name="new_mini_map_region_light" state="0">
+					</Skin>
+				</Widget>
+				<Widget flag="not_visible" frame="26,62,45,20" name="mini_highlight_zone_lf1" type="image">
+					<Skin name="new_mini_map_highlight_zone_lf1">
+					</Skin>
+				</Widget>
+				<Widget flag="not_visible" frame="75,74,39,27" name="mini_highlight_zone_lf1a" type="image">
+					<Skin name="new_mini_map_highlight_zone_lf1a">
+					</Skin>
+				</Widget>
+				<Widget flag="not_visible" frame="10,93,86,60" name="mini_highlight_zone_lf2" type="image">
+					<Skin name="new_mini_map_highlight_zone_lf2">
+					</Skin>
+				</Widget>
+				<Widget flag="not_visible" frame="149,66,36,29" name="mini_highlight_zone_lf2a" type="image">
+					<Skin name="new_mini_map_highlight_zone_lf2a">
+					</Skin>
+				</Widget>
+				<Widget flag="not_visible" frame="75,95,76,51" name="mini_highlight_zone_lf3" type="image">
+					<Skin name="new_mini_map_highlight_zone_lf3">
+					</Skin>
+				</Widget>
+				<Widget flag="not_visible" frame="84,23,16,28" name="mini_highlight_zone_lc1" type="image">
+					<Skin name="new_mini_map_highlight_zone_lc1">
+					</Skin>
+				</Widget>
+				<Widget frame="23,59,51,26" name="mini_zone_lf1" tooltip="STR_ZONE_MAP_LIGHT_LF1" type="button">
+				</Widget>
+				<Widget frame="73,71,43,28" name="mini_zone_lf1a" tooltip="STR_ZONE_MAP_LIGHT_LF1A" type="button">
+				</Widget>
+				<Widget frame="6,95,81,62" name="mini_zone_lf2" tooltip="STR_ZONE_MAP_LIGHT_LF2" type="button">
+				</Widget>
+				<Widget frame="146,63,42,34" name="mini_zone_lf2a" tooltip="STR_ZONE_MAP_LIGHT_LF2A" type="button">
+				</Widget>
+				<Widget frame="86,95,70,56" name="mini_zone_lf3" tooltip="STR_ZONE_MAP_LIGHT_LF3" type="button">
+				</Widget>
+				<Widget frame="82,21,20,32" name="mini_zone_lc1" tooltip="STR_ZONE_MAP_LIGHT_LC1" type="button">
+				</Widget>
+			</Widget>
+			<Widget frame="0,0,200,196" group="mini_region_dark" h_pos_align="center" name="mini_region_dark_container" type="containerex" v_pos_align="middle">
+				<Widget frame="-2,13,192,152" name="map" type="image">
+					<Skin name="new_mini_map_region_dark" state="0">
+					</Skin>
+				</Widget>
+				<Widget flag="not_visible" frame="80,116,70,29" name="mini_highlight_zone_df1" type="image">
+					<Skin name="new_mini_map_highlight_zone_df1">
+					</Skin>
+				</Widget>
+				<Widget flag="not_visible" frame="88,72,93,51" name="mini_highlight_zone_df1a" type="image">
+					<Skin name="new_mini_map_highlight_zone_df1a">
+					</Skin>
+				</Widget>
+				<Widget flag="not_visible" frame="28,49,75,42" name="mini_highlight_zone_df2" type="image">
+					<Skin name="new_mini_map_highlight_zone_df2">
+					</Skin>
+				</Widget>
+				<Widget flag="not_visible" frame="11,77,36,24" name="mini_highlight_zone_df2a" type="image">
+					<Skin name="new_mini_map_highlight_zone_df2a">
+					</Skin>
+				</Widget>
+				<Widget flag="not_visible" frame="89,42,72,42" name="mini_highlight_zone_df3" type="image">
+					<Skin name="new_mini_map_highlight_zone_df3">
+					</Skin>
+				</Widget>
+				<Widget flag="not_visible" frame="55,90,35,21" name="mini_highlight_zone_dc1" type="image">
+					<Skin name="new_mini_map_highlight_zone_dc1">
+					</Skin>
+				</Widget>
+				<Widget frame="76,114,77,37" name="mini_zone_df1" tooltip="STR_ZONE_MAP_DARK_DF1" type="button">
+				</Widget>
+				<Widget frame="87,71,97,46" name="mini_zone_df1a" tooltip="STR_ZONE_MAP_DARK_DF1A" type="button">
+				</Widget>
+				<Widget frame="26,47,70,45" name="mini_zone_df2" tooltip="STR_ZONE_MAP_DARK_DF2" type="button">
+				</Widget>
+				<Widget frame="8,75,41,30" name="mini_zone_df2a" tooltip="STR_ZONE_MAP_DARK_DF2A" type="button">
+				</Widget>
+				<Widget frame="95,38,70,48" name="mini_zone_df3" tooltip="STR_ZONE_MAP_DARK_DF3" type="button">
+				</Widget>
+				<Widget frame="52,88,36,27" name="mini_zone_dc1" tooltip="STR_ZONE_MAP_DARK_DC1" type="button">
+				</Widget>
+			</Widget>
+			<Widget frame="0,0,200,196" group="mini_region_dragon" h_pos_align="center" name="mini_region_dragon_container" type="containerex" v_pos_align="middle">
+				<Widget frame="0,0,192,152" name="map" type="image">
+					<Skin name="new_mini_map_region_dragon" state="0">
+					</Skin>
+				</Widget>
+				<Widget flag="not_visible" frame="41,75,49,31" name="mini_highlight_zone_lf4" type="image">
+					<Skin name="new_mini_map_highlight_zone_lf4">
+					</Skin>
+				</Widget>
+				<Widget flag="not_visible" frame="123,64,52,20" name="mini_highlight_zone_df4" type="image">
+					<Skin name="new_mini_map_highlight_zone_df4">
+					</Skin>
+				</Widget>
+				<Widget flag="not_visible" frame="91,95,31,18" name="mini_highlight_zone_underpass" type="image">
+					<Skin name="new_mini_map_highlight_zone_underpass">
+					</Skin>
+				</Widget>
+				<Widget frame="41,75,49,31" name="mini_zone_lf4" tooltip="STR_ZONE_MAP_DRAGON_LF4" type="button">
+				</Widget>
+				<Widget frame="123,64,52,20" name="mini_zone_df4" tooltip="STR_ZONE_MAP_DRAGON_DF4" type="button">
+				</Widget>
+				<Widget frame="91,95,31,18" name="mini_zone_underpass" tooltip="STR_ZONE_MAP_DRAGON_UNDERPASS" type="button">
+				</Widget>
+			</Widget>
+			<Widget frame="0,0,200,196" group="mini_region_abyss" h_pos_align="center" name="mini_region_abyss_container" type="containerex" v_pos_align="middle">
+				<Widget frame="30,16,142,150" name="map" type="image">
+					<Skin name="new_mini_map_region_abyss" state="0">
+					</Skin>
+				</Widget>
+				<Widget flag="not_visible" frame="30,108,142,57" name="mini_highlight_zone_ab1_1" type="image">
+					<Skin name="new_mini_map_highlight_zone_ab1_1">
+					</Skin>
+				</Widget>
+				<Widget flag="not_visible" frame="30,65,142,45" name="mini_highlight_zone_ab1_2" type="image">
+					<Skin name="new_mini_map_highlight_zone_ab1_2">
+					</Skin>
+				</Widget>
+				<Widget flag="not_visible" frame="30,19,142,45" name="mini_highlight_zone_ab1_3" type="image">
+					<Skin name="new_mini_map_highlight_zone_ab1_3">
+					</Skin>
+				</Widget>
+				<Widget frame="29,112,144,58" name="mini_zone_ab1_1" tooltip="STR_ABYSS_MAP_LAYER_1" type="button">
+				</Widget>
+				<Widget frame="29,69,144,40" name="mini_zone_ab1_2" tooltip="STR_ABYSS_MAP_LAYER_2" type="button">
+				</Widget>
+				<Widget frame="29,17,144,49" name="mini_zone_ab1_3" tooltip="STR_ABYSS_MAP_LAYER_3" type="button">
+				</Widget>
+			</Widget>
+		</Widget>
+		<Widget frame="13,0,173,196" group="mini_world" h_pos_align="center" name="mini_world_map" type="containerex" v_pos_align="middle">
+			<Widget flag="check_transparent" frame="24,111,131,73" group="mini_world" name="mini_region_dragon1" preset="btn_mini_world_dragon1" tooltip="STR_ZONEMAP_REGION_DRAGON" type="button">
+			</Widget>
+			<Widget flag="check_transparent" frame="24,11,131,84" group="mini_world" name="mini_region_dragon2" preset="btn_mini_world_dragon2" tooltip="STR_ZONEMAP_REGION_DRAGON" type="button">
+			</Widget>
+			<Widget flag="check_transparent" frame="39,112,107,56" group="mini_world" name="mini_region_light" preset="btn_mini_world_light" tooltip="STR_ZONEMAP_REGION_LIGHT" type="button">
+			</Widget>
+			<Widget flag="check_transparent" frame="39,35,107,51" group="mini_world" name="mini_region_dark" preset="btn_mini_world_dark" tooltip="STR_ZONEMAP_REGION_DARK" type="button">
+			</Widget>
+			<Widget flag="check_transparent" frame="24,83,131,38" group="mini_world" name="mini_region_abyss" preset="btn_mini_world_abyss" tooltip="STR_ZONEMAP_REGION_ABYSS" type="button">
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget frame="0,0,274,706" h_pos_align="proportion" name="tabsheet" type="tabsheet" v_pos_align="proportion">
+		<Widget frame="2,0,272,25" h_pos_align="proportion" preset="v4_tab" tab_frame="0,0,400,25" tab_offset="4,0" tab_space="0" type="tab" v_pos_align="top">
+			<Widget frame="5,0,78,25" name="tabbtn_setting" preset="v4_tab_button" text="STR_NEW_MAP_DIALOG__SETTING" type="tabbutton">
+			</Widget>
+			<Widget frame="83,0,78,25" name="tabbtn_quest" preset="v4_tab_button" text="STR_NEW_MAP_DIALOG__QUEST" type="tabbutton">
+			</Widget>
+			<Widget frame="161,0,78,25" name="tabbtn_info" preset="v4_tab_button" text="STR_NEW_MAP_DIALOG__INFO" type="tabbutton">
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,274,679" group="page1" h_pos_align="proportion" name="tabpage_setting" preset="v4_tabpage2" type="tabpage" v_pos_align="proportion">
+			<Widget frame="1,2,253,648" preset="v4_staticbox" type="image">
+			</Widget>
+			<Widget frame="5,8,246,639" repeat_type="repeat_y" type="image">
+				<Skin name="v4_row_line_22" state="0">
+				</Skin>
+			</Widget>
+			<Widget frame="4,7,249,640" name="option_scroll" rearrage="true" rearrange="True" scroll_type="visible" space="0" step="22" type="scrollable">
+				<Widget frame="0,0,245,22" halign="left" min_frame="0,0,245,22" name="show_ext_0" space="0" text_frame="20,0,225,22" type="extensible">
+					<Widget frame="0,0,19,19" name="extend" preset="v4_extend" type="button">
+					</Widget>
+					<Widget flag="nonclient;truncate" frame="20,0,227,22" name="cb_show_group_0" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_RACE" text_offset="5,0" type="button">
+					</Widget>
+					<Widget flag="truncate" frame="37,21,210,22" name="cb_show_0" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_LIGHT" text_offset="5,0" type="button">
+					</Widget>
+					<Widget flag="truncate" frame="37,21,210,22" name="cb_show_1" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_DARK" text_offset="5,0" type="button">
+					</Widget>
+					<Widget flag="truncate" frame="37,21,210,22" name="cb_show_2" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_DRAGON" text_offset="5,0" type="button">
+					</Widget>
+				</Widget>
+				<Widget frame="0,0,245,22" halign="left" min_frame="0,0,245,22" name="show_ext_1" space="0" text_frame="20,0,225,22" type="extensible">
+					<Widget frame="0,0,19,19" name="extend" preset="v4_extend" type="button">
+					</Widget>
+					<Widget flag="nonclient;truncate" frame="20,0,227,22" name="cb_show_group_1" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_COMMON" text_offset="5,0" type="button">
+					</Widget>
+					<Widget flag="truncate" frame="37,21,210,22" name="cb_show_3" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_FORTRESS" text_offset="5,0" type="button">
+					</Widget>
+					<Widget flag="truncate" frame="37,21,210,22" name="cb_show_4" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_ARTIFACT" text_offset="5,0" type="button">
+					</Widget>
+					<Widget flag="truncate" frame="37,21,210,22" name="cb_show_5" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_PVP" text_offset="5,0" type="button">
+					</Widget>
+					<Widget flag="truncate" frame="37,21,210,22" name="cb_show_6" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_BOSSRAID" text_offset="5,0" type="button">
+					</Widget>
+					<Widget flag="truncate" frame="37,21,210,22" name="cb_show_7" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_BOSSRAID" text_offset="5,0" type="button">
+					</Widget>
+					<Widget flag="truncate" frame="37,21,210,22" name="cb_show_8" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_INDUN" text_offset="5,0" type="button">
+					</Widget>
+					<Widget flag="truncate" frame="37,21,210,22" name="cb_show_20" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_PORTAL" text_offset="5,0" type="button">
+					</Widget>
+					<Widget flag="truncate" frame="37,21,210,22" name="cb_show_21" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_CARRIER" text_offset="5,0" type="button">
+					</Widget>
+					<Widget flag="truncate" frame="37,21,210,22" name="cb_show_22" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_PARTY" text_offset="5,0" type="button">
+					</Widget>
+					<Widget flag="truncate" frame="37,21,210,22" name="cb_show_23" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_FORCE" text_offset="5,0" type="button">
+					</Widget>
+				</Widget>
+				<Widget frame="0,0,245,22" halign="left" min_frame="0,0,245,22" name="show_ext_2" space="0" text_frame="20,0,225,22" type="extensible">
+					<Widget frame="0,0,19,19" name="extend" preset="v4_extend" type="button">
+					</Widget>
+					<Widget flag="nonclient;truncate" frame="20,0,227,22" name="cb_show_group_2" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_QUEST" text_offset="5,0" type="button">
+					</Widget>
+					<Widget flag="truncate" frame="37,21,210,22" name="cb_show_9" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_QUEST_GIVABLE" text_offset="5,0" type="button">
+					</Widget>
+					<Widget flag="truncate" frame="37,21,210,22" name="cb_show_12" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_QUEST_WORKING" text_offset="5,0" type="button">
+					</Widget>
+					<Widget flag="truncate" frame="37,21,210,22" name="cb_show_16" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_QUEST_FINISHED" text_offset="5,0" type="button">
+					</Widget>
+					<Widget flag="truncate" frame="37,21,210,22" name="cb_show_10" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_IMPORTANT_GIVABLE" text_offset="5,0" type="button">
+					</Widget>
+					<Widget flag="truncate" frame="37,21,210,22" name="cb_show_13" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_IMPORTANT_WORKING" text_offset="5,0" type="button">
+					</Widget>
+					<Widget flag="truncate" frame="37,21,210,22" name="cb_show_17" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_IMPORTANT_FINISHED" text_offset="5,0" type="button">
+					</Widget>
+					<Widget flag="truncate" frame="37,21,210,22" name="cb_show_14" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_MISSION_WORKING" text_offset="5,0" type="button">
+					</Widget>
+					<Widget flag="truncate" frame="37,21,210,22" name="cb_show_18" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_MISSION_FINISHED" text_offset="5,0" type="button">
+					</Widget>
+					<Widget flag="truncate" frame="37,21,200,22" name="cb_show_11" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_EVENT_GIVABLE" text_offset="5,0" type="button">
+					</Widget>
+					<Widget flag="truncate" frame="37,21,200,22" name="cb_show_15" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_EVENT_WORKING" text_offset="5,0" type="button">
+					</Widget>
+					<Widget flag="truncate" frame="37,21,210,22" name="cb_show_19" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_EVENT_FINISHED" text_offset="5,0" type="button">
+					</Widget>
+				</Widget>
+				<Widget frame="0,0,245,22" halign="left" min_frame="0,0,245,22" name="show_ext_3" space="0" text_frame="20,0,225,22" type="extensible">
+					<Widget frame="0,0,19,19" name="extend" preset="v4_extend" type="button">
+					</Widget>
+					<Widget flag="nonclient;truncate" frame="20,0,227,22" name="cb_show_group_3" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_FUNCNPC" text_offset="5,0" type="button">
+					</Widget>
+					<Widget flag="truncate" frame="37,21,210,22" name="cb_show_24" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_BINDSTONE" text_offset="5,0" type="button">
+					</Widget>
+					<Widget flag="truncate" frame="37,21,210,22" name="cb_show_25" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_POSTBOX" text_offset="5,0" type="button">
+					</Widget>
+					<Widget flag="truncate" frame="37,21,210,22" name="cb_show_26" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_MERCHANT" text_offset="5,0" type="button">
+					</Widget>
+					<Widget flag="truncate" frame="37,21,210,22" name="cb_show_27" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_VENDOR" text_offset="5,0" type="button">
+					</Widget>
+					<Widget flag="truncate" frame="37,21,210,22" name="cb_show_28" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_WAREHOUSE" text_offset="5,0" type="button">
+					</Widget>
+					<Widget flag="truncate" frame="37,21,210,22" name="cb_show_29" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_TELEPORT" text_offset="5,0" type="button">
+					</Widget>
+					<Widget flag="truncate" frame="37,21,210,22" name="cb_show_30" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_COIN_MERCHANT" text_offset="5,0" type="button">
+					</Widget>
+					<Widget flag="truncate" frame="37,21,210,22" name="cb_show_31" preset="v4_check" style="checkbox" text="STR_NEW_MAP_SHOW_STIGMA_MASTER" text_offset="5,0" type="button">
+					</Widget>
+				</Widget>
+			</Widget>
+			<Widget frame="253,2,21,648" linker="option_scroll" preset="v4_scroll" type="scrollbar">
+				<Widget flag="not_active" frame="1,1,19,19" h_pos_align="proportion" name="minus" preset="v4_scroll_minus" type="button">
+				</Widget>
+				<Widget flag="not_active" frame="1,628,19,19" h_pos_align="proportion" name="plus" preset="v4_scroll_plus" type="button" v_pos_align="bottom">
+				</Widget>
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,274,680" group="page2" h_pos_align="proportion" name="tabpage_quest" preset="v4_tabpage2" type="tabpage" v_pos_align="proportion">
+			<Widget frame="1,28,272,470" preset="v4_staticbox" type="image">
+			</Widget>
+			<Widget frame="5,32,246,463" repeat_type="repeat_y" type="image">
+				<Skin name="v4_row_line_22" state="0">
+				</Skin>
+			</Widget>
+			<Widget frame="1,2,273,24" h_pos_align="right" max_items="2" name="cb_select_page" preset="v4_staticbox" type="combobox" v_pos_align="top">
+				<Items>
+					<Item name="STR_NEW_MAP_DIALOG__QUEST_MISSION_LIST">
+					</Item>
+					<Item name="STR_NEW_MAP_DIALOG__QUEST_QUEST_LIST">
+					</Item>
+				</Items>
+			</Widget>
+			<Widget flag="truncate;vscroll;not_visible" font="v3_quest_list" frame="2,30,272,464" header_height="0" item_height="22" item_num="1" name="quest_list" preset="v4_listview_ex_quest" type="listviewex">
+				<Column align="right" img_width="" sample_text="" sort="none" title="check" width="20">
+				</Column>
+				<Column align="left" img_width="" sample_text="" sort="none" title="contents" width="230">
+				</Column>
+				<Column align="" img_width="" sample_text="" sort="none" title="questid" width="">
+				</Column>
+			</Widget>
+			<Widget flag="not_visible" font="v3_quest_list" frame="8,74,241,23" halign="center" name="no_quest" text="STR_QUEST_DIALOG__NO_QUEST" type="static">
+			</Widget>
+			<Widget flag="not_visible" font="v3_quest_list" frame="8,74,241,23" halign="center" name="no_mission" text="STR_QUEST_DIALOG__NO_MISSION" type="static">
+			</Widget>
+			<Widget flag="transparent" frame="0,28,275,468" name="world_tab" type="container" v_pos_align="proportion">
+				<Widget frame="5,3,246,464" name="working_list" scroll_type="visible" space="0" step="22" type="scrollable" v_pos_align="proportion">
+					<Widget flag="not_visible" font="v3_quest_list" frame="0,0,246,22" halign="left" min_frame="0,0,358,22" name="proto_ext" space="0" text="STR_QUEST_DIALOG__QUEST_TABFRAME_WORKING_PAGE_WORLD_TAB_WIDGET1_LIGHT_EXT" text_frame="25,0,341,22" type="extensible">
+						<Widget frame="2,1,19,19" name="extend" preset="v4_extend" type="button">
+						</Widget>
+						<Widget check_preset="v4_check" flag="truncate" font="v3_quest_list" frame="0,21,246,87" header_height="0" item_height="22" item_num="4" item_padding="10" name="list" preset="v4_listview_ex_quest" type="listviewex">
+							<Column align="left" img_width="" sample_text="1234" sort="param" title="level" width="0">
+							</Column>
+							<Column align="left" img_width="" sample_text="1234567890" sort="none" title="contents" width="210">
+							</Column>
+							<Column align="left" img_width="" sample_text="1234" sort="none" title="reward" width="0">
+							</Column>
+						</Widget>
+					</Widget>
+				</Widget>
+				<Widget frame="253,0,21,468" h_pos_align="right" linker="working_list" preset="v4_scroll" type="scrollbar" v_pos_align="proportion">
+					<Widget flag="not_active" frame="1,1,19,19" h_pos_align="proportion" name="minus" preset="v4_scroll_minus" type="button">
+					</Widget>
+					<Widget flag="not_active" frame="1,448,19,19" h_pos_align="proportion" name="plus" preset="v4_scroll_plus" type="button" v_pos_align="bottom">
+					</Widget>
+				</Widget>
+			</Widget>
+			<Widget flag="not_visible;transparent" frame="0,28,275,468" name="common_tab" type="container" v_pos_align="proportion">
+				<Widget frame="5,3,246,464" name="working_list" scroll_type="visible" space="0" step="22" type="scrollable" v_pos_align="proportion">
+					<Widget flag="not_visible" font="v3_quest_list" frame="0,0,246,22" halign="left" min_frame="0,0,358,22" name="proto_ext" space="0" text="STR_QUEST_DIALOG__QUEST_TABFRAME_WORKING_PAGE_WORLD_TAB_WIDGET1_LIGHT_EXT" text_frame="25,0,341,22" type="extensible">
+						<Widget frame="2,1,19,19" name="extend" preset="v4_extend" type="button">
+						</Widget>
+						<Widget check_preset="v4_check" flag="truncate" font="v3_quest_list" frame="0,21,246,87" header_height="0" item_height="22" item_num="4" item_padding="10" name="list" preset="v4_listview_ex_quest" type="listviewex">
+							<Column align="left" img_width="" sample_text="1234" sort="param" title="level" width="0">
+							</Column>
+							<Column align="left" img_width="" sample_text="1234567890" sort="none" title="contents" width="210">
+							</Column>
+							<Column align="left" img_width="" sample_text="1234" sort="none" title="reward" width="0">
+							</Column>
+						</Widget>
+					</Widget>
+				</Widget>
+				<Widget frame="253,0,21,469" h_pos_align="right" linker="working_list" preset="v4_scroll" type="scrollbar" v_pos_align="proportion">
+					<Widget flag="not_active" frame="1,1,19,19" h_pos_align="proportion" name="minus" preset="v4_scroll_minus" type="button">
+					</Widget>
+					<Widget flag="not_active" frame="1,449,19,19" h_pos_align="proportion" name="plus" preset="v4_scroll_plus" type="button" v_pos_align="bottom">
+					</Widget>
+				</Widget>
+			</Widget>
+			<Widget frame="3,501,269,148" preset="v4_container" type="container">
+				<Widget frame="0,0,269,148" h_pos_align="proportion" type="image" v_pos_align="proportion">
+					<Skin name="v4_summary_bg">
+					</Skin>
+				</Widget>
+				<Widget flag="multiline" frame="3,2,263,146" h_pos_align="proportion" name="quest_summary" skin_type="parchment" type="htmlview" v_pos_align="proportion">
+				</Widget>
+			</Widget>
+			<Widget frame="1,654,94,26" name="btn_detail" preset="v4_button" text="STR_NEW_MAP_DIALOG__QUEST_DETAIL" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="207,654,68,26" name="btn_spawn_postion" preset="v4_button" text="STR_NEW_MAP_DIALOG__QUEST_SPAWN_POS" type="button" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,274,680" group="page3" h_pos_align="proportion" name="tabpage_info" preset="v4_tabpage2" type="tabpage" v_pos_align="proportion">
+			<Widget frame="2,371,269,118" group="page3" name="indun_info" preset="v4_staticbox2" type="container">
+				<Widget frame="1,1,133,24" padding="5,0" text="STR_NEW_MAP_DIALOG__INFO_INDUN_DETAIL_NAME" type="static">
+				</Widget>
+				<Widget frame="1,24,133,24" padding="5,0" text="STR_NEW_MAP_DIALOG__INFO_INDUN_DETAIL_MAX_NUMBER" type="static">
+				</Widget>
+				<Widget frame="1,47,133,24" padding="5,0" text="STR_NEW_MAP_DIALOG__INFO_INDUN_DETAIL_ENTER_LEVEL" type="static">
+				</Widget>
+				<Widget frame="1,70,133,24" padding="5,0" text="STR_NEW_MAP_DIALOG__INFO_INDUN_DETAIL_REENTER_TIME" type="static">
+				</Widget>
+				<Widget frame="1,93,133,24" padding="5,0" text="STR_NEW_MAP_DIALOG__INFO_INDUN_DETAIL_REENTER_TIME_LEFT_CURRENT" type="static">
+				</Widget>
+				<Widget font="v3_tooltip_desc" frame="135,1,133,24" name="indun_name" padding="5,0" type="static">
+				</Widget>
+				<Widget font="v3_tooltip_desc" frame="135,24,133,24" name="indun_max_member" padding="5,0" type="static">
+				</Widget>
+				<Widget font="v3_tooltip_desc" frame="135,47,133,24" name="indun_enter_level" padding="5,0" type="static">
+				</Widget>
+				<Widget font="v3_tooltip_desc" frame="135,70,133,24" name="indun_reenter_time" padding="5,0" type="static">
+				</Widget>
+				<Widget font="v3_tooltip_desc" frame="135,93,133,24" name="indun_delay_time" padding="5,0" type="static">
+				</Widget>
+			</Widget>
+			<Widget column_heading="True" flag="truncate;vscroll" frame="2,0,269,345" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="my_cooltime_list" preset="v4_listview_ex" scroll_type="visible" type="listviewex">
+				<Column align="left" img_width="" sample_text="" sort="text" title="STR_INDUN_COOLTIME_DIALOG__INDUN_NAME" width="154">
+				</Column>
+				<Column align="center" img_width="" sort="param" title="STR_INDUN_COOLTIME_DIALOG__INDUN_ENTER_DELAY_TIME" width="90">
+				</Column>
+				<Column align="left" img_width="" sample_text="" sort="param" title="0" width="10">
+				</Column>
+				<Column align="left" img_width="" sort="param" title="0" width="10">
+				</Column>
+				<Column align="left" img_width="" sample_text="" sort="number" title="0" width="10">
+				</Column>
+			</Widget>
+			<Widget column_heading="True" flag="truncate;vscroll" frame="2,515,269,136" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="party_cooltime_list" preset="v4_listview_ex" scroll_type="visible" type="listviewex">
+				<Column align="left" img_width="" sample_text="" sort="text" title="STR_INDUN_COOLTIME_DIALOG__NAME" width="114">
+				</Column>
+				<Column align="center" img_width="" sample_text="" sort="number" title="STR_INDUN_COOLTIME_DIALOG__LEVEL" width="40">
+				</Column>
+				<Column align="center" img_width="" sort="param" title="STR_INDUN_COOLTIME_DIALOG__INDUN_ENTER_DELAY_TIME" width="90">
+				</Column>
+				<Column align="left" img_width="" sort="param" title="0" width="10">
+				</Column>
+			</Widget>
+			<Widget frame="2,345,269,26" padding="5,0" text="STR_NEW_MAP_DIALOG__INFO_INDUN_DETAIL" type="static" valign="middle">
+			</Widget>
+			<Widget frame="2,489,269,26" padding="5,0" text="STR_INDUN_COOLTIME_DIALOG__PARTY_FORCE_STATE" type="static" valign="middle">
+			</Widget>
+			<Widget frame="207,654,68,26" name="party_match" preset="v4_button" text="STR_NEW_MAP_DIALOG__INFO_INDUN_PARTY_MATCH" type="button" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+	</Widget>
+</Dialog>

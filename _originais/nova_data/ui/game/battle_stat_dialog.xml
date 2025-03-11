@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="left" close_offset="4,1" close_preset="v5_close" flag="close;title" frame="440,130,363,376" h_pos_align="right" last_modified="2015-05-20 17:23:53" name="battle_stat_dialog" preset="v5_dialog" shadow_offset="8,8" title_align="center" title_frame="3,3,322,14" title_height="25" title_offset="0,5" title_text="STR_INSTANCE_PREPARE_DIALOG" type="dlg_battle_stat" v_pos_align="top">
+	<Widget column_customizing="True" column_heading="True" flag="truncate" font="ui_list" frame="4,5,350,160" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="stat_1" preset="v5_listview_ex" scroll_type="visible" skin_type="version5" type="listviewex">
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_INSTANCE_PREPARE_DIALOG__COL_NAME" width="105">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="number" title="STR_INSTANCE_PREPARE_DIALOG__COL_LEVEL" width="40">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="number" title="STR_INSTANCE_PREPARE_DIALOG__COL_JOB" width="40">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="number" title="STR_INSTANCE_PREPARE_DIALOG__COL_READY" width="80">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="number" title="STR_INSTANCE_PREPARE_DIALOG__COL_READY" width="80">
+		</Column>
+	</Widget>
+	<Widget column_customizing="True" column_heading="True" flag="truncate" font="ui_list" frame="4,176,350,160" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="stat_2" preset="v5_listview_ex" scroll_type="visible" skin_type="version5" type="listviewex">
+		<Column align="center" img_width="" sample_text="" sort="text" title="STR_INSTANCE_PREPARE_DIALOG__COL_NAME" width="105">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="number" title="STR_INSTANCE_PREPARE_DIALOG__COL_LEVEL" width="40">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="number" title="STR_INSTANCE_PREPARE_DIALOG__COL_JOB" width="40">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="number" title="STR_INSTANCE_PREPARE_DIALOG__COL_READY" width="80">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="number" title="STR_INSTANCE_PREPARE_DIALOG__COL_READY" width="80">
+		</Column>
+	</Widget>
+</Dialog>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" flag="close;title" frame="200,400,545,387" last_modified="2016-07-22 16:24:23" name="idtournament_info_dialog" preset="v5_dialog2" title_frame="3,3,361,14" title_height="25" title_offset="0,4" title_text="STR_INDUN_ACCOUNT_TOURNAMENT_INFO_DIALOG" type="dlg_idtournament_info">
+	<Widget cell_padding="5" column_heading="True" flag="truncate;vscroll" frame="1,0,536,162" header_font="v3_columnhead" header_height="23" item_height="22" list_padding="3,3" name="stat_1" preset="v5_listview_ex" scroll_type="visible" type="listviewex">
+		<Column align="left" img_width="" sample_text="" sort="param" title="STR_INDUN_ACCOUNT_TOURNAMENT_INFO_DIALOG__COL_NAME" width="165">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="param" title="STR_INDUN_ACCOUNT_TOURNAMENT_INFO_DIALOG__COL_KILL" width="80">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="param" title="STR_INDUN_ACCOUNT_TOURNAMENT_INFO_DIALOG_COL__DAMAGE" width="135">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="param" title="STR_INDUN_ACCOUNT_TOURNAMENT_INFO_DIALOG_COL__DAMAGED" width="135">
+		</Column>
+	</Widget>
+	<Widget cell_padding="5" column_heading="True" flag="truncate;vscroll" frame="1,162,536,162" header_font="v3_columnhead" header_height="23" item_height="22" list_padding="3,3" name="stat_2" preset="v5_listview_ex" scroll_type="visible" type="listviewex">
+		<Column align="left" img_width="" sample_text="" sort="param" title="STR_INDUN_ACCOUNT_TOURNAMENT_INFO_DIALOG__COL_NAME" width="165">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="param" title="STR_INDUN_ACCOUNT_TOURNAMENT_INFO_DIALOG__COL_KILL" width="80">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="param" title="STR_INDUN_ACCOUNT_TOURNAMENT_INFO_DIALOG_COL__DAMAGE" width="135">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="param" title="STR_INDUN_ACCOUNT_TOURNAMENT_INFO_DIALOG_COL__DAMAGED" width="135">
+		</Column>
+	</Widget>
+	<Widget font="ui_default" frame="228,330,82,24" h_pos_align="center" name="cancel" preset="v5_button" text="STR_COMMON__CLOSE" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

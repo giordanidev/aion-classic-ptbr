@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="Reahl00">Ah, you are here, [%username]. Unfortunately, I have summoned you once again to entrust you with another important mission.</Text>
+	<Text label="Reahl01">As you know, the Tursin Krall have quieted down, and most of Jurid&apos;s men have been eliminated.</Text>
+	<Text label="Vellus02">And we sent men to various regions to locate Jurid&apos;s whereabouts, but...</Text>
+	<Text label="Vellus03">Scouts sent to the [Vein of Flame] went missing, so we sent the Red Flame Squad who were in the [Barat Subterranean Heat Area].</Text>
+	<Text label="Vellus04">We lost contact with them as well, so this time we dispatched the Blood Sky Knights... And yet again, we haven&apos;t heard anything from them for several days now.</Text>
+	<Text label="Vellus05">That dungeon is as confusing as a labyrinth and dangerous, but it isn&apos;t a place where we&apos;d expect the entire Blood Sky Knights to be annihilated.</Text>
+	<Text label="SOL06">Then... That&apos;s the place where...?</Text>
+	<Text label="Reahl07">Yes, we also believe that&apos;s the place where the traitor [Jurid] is hiding now.</Text>
+	<Text label="Reahl08">I want you to go there with a number of capable allies and look for any evidence.</Text>
+	<Text label="Reahl09">When the work here is completed, I&apos;m going to leave this place to Belus and go personally to the [Vein of Flame].</Text>
+	<Text label="Vellus10">The entrance to the dungeon is found at the [Mouth of Pregion] in the [Barat Subterranean Heat Area].</Text>
+	<Text label="Vellus11">That place is extremely dangerous, so you better be thoroughly prepared.</Text>
+	<Text label="Reahl12">On behalf of all the people of Tijerid, I express my gratitude to you and your friends.</Text>
+	<Text label="NPCA13">So all these disasters were caused by an [Asmodian]...</Text>
+	<Text label="NPCBl14">... I thought that the Asmodians have completely disappeared from Elcion...</Text>
+	<Text label="Vellus15">It seems Kallaine aside, many other Asmodians have come up to Elysea.</Text>
+	<Text label="Reahl16">... But, announcing this to the public will put Elysea into confusion, so let us continue to observe this situation for a while longer.</Text>
+	<Text label="RICAIEN17">The [Tower of Light] is formally denying this allegation...</Text>
+	<Text label="RICAIEN18">But I detect suspicious signs from inside the [Tower of Light] as well...</Text>
+	<Text label="RICAIEN19">So the Fourth Holy Knight Squadron is investigating it independently. For this case as well, following the trace of the Asmodians has led us to this place...</Text>
+	<Text label="RICAIEN20">Several indications were also observed in Fesra, Erole and Juhdenil as well, so the investigations are under way.</Text>
+	<Text label="RICAIEN21">It is all thanks to my companion [Aize], who can detect these indications.</Text>
+	<Text label="Vellus22">I guess we also better be fully prepared. Who knows, we might just have the Third Elysean-Asmodian War on our hands.</Text>
+	<Text label="RICAIEN23">...I don&apos;t even want to think about that... But I can&apos;t deny that possibility.</Text>
+	<Text label="Reahl24">The world is going to be plunged into chaos once again...</Text>
+	<Text label="RICAIEN25">As this case came to an end, I will return to the [Tower of Light].</Text>
+	<Text label="RICAIEN26">[%username], I think I might be needing your help again some day.</Text>
+	<Text label="RICAIEN27">I hope you will lend us a hand once again when the day arrives. Good bye...</Text>
+</CutSceneText>

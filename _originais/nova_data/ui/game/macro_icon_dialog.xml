@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="sub" close_offset="4,1" close_preset="v5_close" flag="close;title" frame="599,130,261,511" last_modified="2015-03-12 13:53:16" name="macro_icon_dialog" preset="v5_dialog" shadow_offset="8,8" title_align="center" title_frame="3,3,255,14" title_height="25" title_offset="0,5" title_text="STR_MACRO_NAME_DIALOG__ICON" type="dlg_macro_icon">
+	<Widget cell_padding="2" cell_space="0,0" flag="vscroll" font="ui_list" frame="6,0,243,450" item_height="44" item_width="44" list_padding="3,3" name="icon_list" preset="v5_listview_sel_frame" type="listview" viewmode="icon">
+	</Widget>
+	<Widget font="ui_default" frame="178,454,75,24" name="cancel" preset="v5_button" text="STR_MACRO_NAME_DIALOG__CANCEL" type="button">
+	</Widget>
+	<Widget font="ui_default" frame="102,454,75,24" name="ok" preset="v5_button" text="STR_LOBBY_LOGIN__OK" type="button">
+	</Widget>
+</Dialog>

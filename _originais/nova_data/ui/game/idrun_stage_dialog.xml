@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="task" frame="1142,237,138,286" h_pos_align="right" last_modified="2017-07-25 10:27:58" name="idrun_stage_dialog" preset="v5_idrun_dialog" title_frame="3,3,-96,14" type="dlg_idrun_stage" v_pos_align="middle">
+	<Widget font_size="13" frame="19,263,100,19" halign="center" name="start_static" text="STR_IDRUN_STAGE_DIALOG__START" type="static" valign="middle">
+	</Widget>
+	<Widget font_size="13" frame="19,2,100,19" halign="center" name="end_static" text="STR_IDRUN_STAGE_DIALOG__GOAL" type="static" valign="middle">
+	</Widget>
+	<Widget frame="50,13,39,260" type="container">
+		<Widget frame="10,5,18,248" h_pos_align="center" type="image">
+			<Skin name="v5_idrun_stage">
+			</Skin>
+		</Widget>
+		<Widget frame="5,46,28,28" type="image">
+			<Skin name="v5_idrun_randmark_4">
+			</Skin>
+		</Widget>
+		<Widget frame="5,92,28,28" type="image">
+			<Skin name="v5_idrun_randmark_3">
+			</Skin>
+		</Widget>
+		<Widget frame="5,138,28,28" type="image">
+			<Skin name="v5_idrun_randmark_2">
+			</Skin>
+		</Widget>
+		<Widget frame="5,184,28,28" type="image">
+			<Skin name="v5_idrun_randmark_1">
+			</Skin>
+		</Widget>
+	</Widget>
+	<Widget frame="9,14,53,254" name="light" type="container">
+		<Widget frame="5,236,46,14" name="start" preset="v5_idrun_static" type="container">
+			<Widget frame="29,1,12,12" name="mark1" preset="v5_idrun_light_mark" type="image">
+			</Widget>
+			<Widget frame="17,1,12,12" name="mark2" preset="v5_idrun_light_mark" type="image">
+			</Widget>
+			<Widget frame="5,1,12,12" name="mark3" preset="v5_idrun_light_mark" type="image">
+			</Widget>
+		</Widget>
+		<Widget frame="5,190,46,14" name="randmark1" preset="v5_idrun_static" type="container">
+			<Widget frame="29,1,12,12" name="mark1" preset="v5_idrun_light_mark" type="image">
+			</Widget>
+			<Widget frame="17,1,12,12" name="mark2" preset="v5_idrun_light_mark" type="image">
+			</Widget>
+			<Widget frame="5,1,12,12" name="mark3" preset="v5_idrun_light_mark" type="image">
+			</Widget>
+		</Widget>
+		<Widget frame="5,144,46,14" name="randmark2" preset="v5_idrun_static" type="container">
+			<Widget frame="29,1,12,12" name="mark1" preset="v5_idrun_light_mark" type="image">
+			</Widget>
+			<Widget frame="17,1,12,12" name="mark2" preset="v5_idrun_light_mark" type="image">
+			</Widget>
+			<Widget frame="5,1,12,12" name="mark3" preset="v5_idrun_light_mark" type="image">
+			</Widget>
+		</Widget>
+		<Widget frame="5,98,46,14" name="randmark3" preset="v5_idrun_static" type="container">
+			<Widget frame="29,1,12,12" name="mark1" preset="v5_idrun_light_mark" type="image">
+			</Widget>
+			<Widget frame="17,1,12,12" name="mark2" preset="v5_idrun_light_mark" type="image">
+			</Widget>
+			<Widget frame="5,1,12,12" name="mark3" preset="v5_idrun_light_mark" type="image">
+			</Widget>
+		</Widget>
+		<Widget frame="5,52,46,14" name="randmark4" preset="v5_idrun_static" type="container">
+			<Widget frame="29,1,12,12" name="mark1" preset="v5_idrun_light_mark" type="image">
+			</Widget>
+			<Widget frame="17,1,12,12" name="mark2" preset="v5_idrun_light_mark" type="image">
+			</Widget>
+			<Widget frame="5,1,12,12" name="mark3" preset="v5_idrun_light_mark" type="image">
+			</Widget>
+		</Widget>
+		<Widget frame="5,6,46,14" name="end" preset="v5_idrun_static" type="container">
+			<Widget frame="29,1,12,12" name="mark1" preset="v5_idrun_light_mark" type="image">
+			</Widget>
+			<Widget frame="17,1,12,12" name="mark2" preset="v5_idrun_light_mark" type="image">
+			</Widget>
+			<Widget frame="5,1,12,12" name="mark3" preset="v5_idrun_light_mark" type="image">
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget frame="73,14,53,254" name="dark" type="container">
+		<Widget frame="5,236,46,14" name="start" preset="v5_idrun_static" type="container">
+			<Widget frame="5,1,12,12" name="mark1" preset="v5_idrun_dark_mark" type="image">
+			</Widget>
+			<Widget frame="17,1,12,12" name="mark2" preset="v5_idrun_dark_mark" type="image">
+			</Widget>
+			<Widget frame="29,1,12,12" name="mark3" preset="v5_idrun_dark_mark" type="image">
+			</Widget>
+		</Widget>
+		<Widget frame="5,190,46,14" name="randmark1" preset="v5_idrun_static" type="container">
+			<Widget frame="5,1,12,12" name="mark1" preset="v5_idrun_dark_mark" type="image">
+			</Widget>
+			<Widget frame="17,1,12,12" name="mark2" preset="v5_idrun_dark_mark" type="image">
+			</Widget>
+			<Widget frame="29,1,12,12" name="mark3" preset="v5_idrun_dark_mark" type="image">
+			</Widget>
+		</Widget>
+		<Widget frame="5,144,46,14" name="randmark2" preset="v5_idrun_static" type="container">
+			<Widget frame="5,1,12,12" name="mark1" preset="v5_idrun_dark_mark" type="image">
+			</Widget>
+			<Widget frame="17,1,12,12" name="mark2" preset="v5_idrun_dark_mark" type="image">
+			</Widget>
+			<Widget frame="29,1,12,12" name="mark3" preset="v5_idrun_dark_mark" type="image">
+			</Widget>
+		</Widget>
+		<Widget frame="5,98,46,14" name="randmark3" preset="v5_idrun_static" type="container">
+			<Widget frame="5,1,12,12" name="mark1" preset="v5_idrun_dark_mark" type="image">
+			</Widget>
+			<Widget frame="17,1,12,12" name="mark2" preset="v5_idrun_dark_mark" type="image">
+			</Widget>
+			<Widget frame="29,1,12,12" name="mark3" preset="v5_idrun_dark_mark" type="image">
+			</Widget>
+		</Widget>
+		<Widget frame="5,52,46,14" name="randmark4" preset="v5_idrun_static" type="container">
+			<Widget frame="5,1,12,12" name="mark1" preset="v5_idrun_dark_mark" type="image">
+			</Widget>
+			<Widget frame="17,1,12,12" name="mark2" preset="v5_idrun_dark_mark" type="image">
+			</Widget>
+			<Widget frame="29,1,12,12" name="mark3" preset="v5_idrun_dark_mark" type="image">
+			</Widget>
+		</Widget>
+		<Widget frame="5,6,46,14" name="end" preset="v5_idrun_static" type="container">
+			<Widget frame="5,1,12,12" name="mark1" preset="v5_idrun_dark_mark" type="image">
+			</Widget>
+			<Widget frame="17,1,12,12" name="mark2" preset="v5_idrun_dark_mark" type="image">
+			</Widget>
+			<Widget frame="29,1,12,12" name="mark3" preset="v5_idrun_dark_mark" type="image">
+			</Widget>
+		</Widget>
+	</Widget>
+</Dialog>

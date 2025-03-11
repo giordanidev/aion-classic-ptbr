@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="left" close_offset="4,1" close_preset="v5_close" flag="title;close" frame="15,140,407,469" last_modified="2015-01-07 17:09:39" name="force_dialog_voicechat" preset="v5_dialog" shadow_offset="8,8" title_align="center" title_frame="0,0,0,0" title_height="25" title_offset="0,5" title_text="STR_FORCE_DIALOG" type="dlg_force_voicechat">
+	<Widget drag_rect="0,0,198,33" drag_type="21" frame="5,33,194,188" move_cursor_rect="0,0,198,33" name="group1" preset="v5_force_group_ctn" type="containerex">
+		<Widget font="ui_default" frame="42,12,114,19" halign="center" name="group_name" text="STR_FORCE_DIALOG__GROUP1" type="static">
+		</Widget>
+		<Widget frame="6,40,182,22" name="container1" type="container">
+			<Widget drag_type="10" frame="20,0,162,22" name="member1" preset="v5_force_ctn" type="containerex">
+				<Widget flag="not_visible" frame="2,5,21,14" name="marker" preset="v5_force_marker" type="image">
+				</Widget>
+				<Widget flag="not_visible;truncate" font="ui_static_title" frame="22,2,81,20" name="name" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="102,2,22,20" name="level" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="123,2,39,20" name="class" type="static">
+				</Widget>
+			</Widget>
+			<Widget flag="not_visible" frame="0,1,29,22" name="voicechat_icon" preset="v5_voicechat_icon" type="static">
+			</Widget>
+			<Widget font="window" frame="0,1,22,20" halign="center" name="voicechat_btn" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="button" valign="middle">
+			</Widget>
+		</Widget>
+		<Widget frame="6,64,182,22" name="container2" type="container">
+			<Widget drag_type="10" frame="20,0,162,22" name="member2" preset="v5_force_ctn" type="containerex">
+				<Widget flag="not_visible" frame="2,5,21,14" name="marker" preset="v5_force_marker" type="image">
+				</Widget>
+				<Widget flag="not_visible;truncate" font="ui_static_title" frame="22,2,81,20" name="name" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="102,2,22,20" name="level" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="124,2,39,20" name="class" type="static">
+				</Widget>
+			</Widget>
+			<Widget flag="not_visible" frame="0,1,29,22" name="voicechat_icon" preset="v5_voicechat_icon" type="static">
+			</Widget>
+			<Widget font="window" frame="0,1,22,20" halign="center" name="voicechat_btn" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="button" valign="middle">
+			</Widget>
+		</Widget>
+		<Widget frame="6,88,182,22" name="container3" type="container">
+			<Widget drag_type="10" frame="20,0,162,22" name="member3" preset="v5_force_ctn" type="containerex">
+				<Widget flag="not_visible" frame="2,5,21,14" name="marker" preset="v5_force_marker" type="image">
+				</Widget>
+				<Widget flag="not_visible;truncate" font="ui_static_title" frame="22,2,81,20" name="name" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="102,2,22,20" name="level" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="124,2,39,20" name="class" type="static">
+				</Widget>
+			</Widget>
+			<Widget flag="not_visible" frame="0,1,29,22" name="voicechat_icon" preset="v5_voicechat_icon" type="static">
+			</Widget>
+			<Widget font="window" frame="0,1,22,20" halign="center" name="voicechat_btn" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="button" valign="middle">
+			</Widget>
+		</Widget>
+		<Widget frame="6,112,182,22" name="container4" type="container">
+			<Widget drag_type="10" frame="20,0,162,22" name="member4" preset="v5_force_ctn" type="containerex">
+				<Widget flag="not_visible" frame="2,5,21,14" name="marker" preset="v5_force_marker" type="image">
+				</Widget>
+				<Widget flag="not_visible;truncate" font="ui_static_title" frame="22,2,81,20" name="name" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="102,2,22,20" name="level" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="124,2,39,20" name="class" type="static">
+				</Widget>
+			</Widget>
+			<Widget flag="not_visible" frame="0,1,29,22" name="voicechat_icon" preset="v5_voicechat_icon" type="static">
+			</Widget>
+			<Widget font="window" frame="0,1,22,20" halign="center" name="voicechat_btn" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="button" valign="middle">
+			</Widget>
+		</Widget>
+		<Widget frame="6,136,182,22" name="container5" type="container">
+			<Widget drag_type="10" frame="20,0,162,22" name="member5" preset="v5_force_ctn" type="containerex">
+				<Widget flag="not_visible" frame="2,5,21,14" name="marker" preset="v5_force_marker" type="image">
+				</Widget>
+				<Widget flag="not_visible;truncate" font="ui_static_title" frame="22,2,81,20" name="name" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="102,2,22,20" name="level" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="124,2,39,20" name="class" type="static">
+				</Widget>
+			</Widget>
+			<Widget flag="not_visible" frame="0,1,29,22" name="voicechat_icon" preset="v5_voicechat_icon" type="static">
+			</Widget>
+			<Widget font="window" frame="0,1,22,20" halign="center" name="voicechat_btn" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="button" valign="middle">
+			</Widget>
+		</Widget>
+		<Widget frame="6,160,182,22" name="container6" type="container">
+			<Widget drag_type="10" frame="20,0,162,22" name="member6" preset="v5_force_ctn" type="containerex">
+				<Widget flag="not_visible" frame="2,5,21,14" name="marker" preset="v5_force_marker" type="image">
+				</Widget>
+				<Widget flag="not_visible;truncate" font="ui_static_title" frame="22,2,81,20" name="name" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="102,2,22,20" name="level" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="124,2,39,20" name="class" type="static">
+				</Widget>
+			</Widget>
+			<Widget flag="not_visible" frame="0,1,29,22" name="voicechat_icon" preset="v5_voicechat_icon" type="static">
+			</Widget>
+			<Widget font="window" frame="0,1,22,20" halign="center" name="voicechat_btn" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="button" valign="middle">
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget drag_rect="0,0,198,33" drag_type="21" frame="202,33,194,188" move_cursor_rect="0,0,198,33" name="group2" preset="v5_force_group_ctn" type="containerex">
+		<Widget font="ui_default" frame="42,12,114,19" halign="center" name="group_name" text="STR_FORCE_DIALOG__GROUP2" type="static">
+		</Widget>
+		<Widget frame="6,40,182,22" name="container1" type="container">
+			<Widget drag_type="10" frame="20,0,162,22" name="member1" preset="v5_force_ctn" type="containerex">
+				<Widget flag="not_visible" frame="2,5,21,14" name="marker" preset="v5_force_marker" type="image">
+				</Widget>
+				<Widget flag="not_visible;truncate" font="ui_static_title" frame="22,2,81,20" name="name" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="102,2,22,20" name="level" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="123,2,39,20" name="class" type="static">
+				</Widget>
+			</Widget>
+			<Widget flag="not_visible" frame="0,1,29,22" name="voicechat_icon" preset="v5_voicechat_icon" type="static">
+			</Widget>
+			<Widget font="window" frame="0,1,22,20" halign="center" name="voicechat_btn" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="button" valign="middle">
+			</Widget>
+		</Widget>
+		<Widget frame="6,64,182,22" name="container2" type="container">
+			<Widget drag_type="10" frame="20,0,162,22" name="member2" preset="v5_force_ctn" type="containerex">
+				<Widget flag="not_visible" frame="2,5,21,14" name="marker" preset="v5_force_marker" type="image">
+				</Widget>
+				<Widget flag="not_visible;truncate" font="ui_static_title" frame="22,2,81,20" name="name" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="102,2,22,20" name="level" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="124,2,39,20" name="class" type="static">
+				</Widget>
+			</Widget>
+			<Widget flag="not_visible" frame="0,1,29,22" name="voicechat_icon" preset="v5_voicechat_icon" type="static">
+			</Widget>
+			<Widget font="window" frame="0,1,22,20" halign="center" name="voicechat_btn" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="button" valign="middle">
+			</Widget>
+		</Widget>
+		<Widget frame="6,88,182,22" name="container3" type="container">
+			<Widget drag_type="10" frame="20,0,162,22" name="member3" preset="v5_force_ctn" type="containerex">
+				<Widget flag="not_visible" frame="2,5,21,14" name="marker" preset="v5_force_marker" type="image">
+				</Widget>
+				<Widget flag="not_visible;truncate" font="ui_static_title" frame="22,2,81,20" name="name" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="102,2,22,20" name="level" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="124,2,39,20" name="class" type="static">
+				</Widget>
+			</Widget>
+			<Widget flag="not_visible" frame="0,1,29,22" name="voicechat_icon" preset="v5_voicechat_icon" type="static">
+			</Widget>
+			<Widget font="window" frame="0,1,22,20" halign="center" name="voicechat_btn" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="button" valign="middle">
+			</Widget>
+		</Widget>
+		<Widget frame="6,112,182,22" name="container4" type="container">
+			<Widget drag_type="10" frame="20,0,162,22" name="member4" preset="v5_force_ctn" type="containerex">
+				<Widget flag="not_visible" frame="2,5,21,14" name="marker" preset="v5_force_marker" type="image">
+				</Widget>
+				<Widget flag="not_visible;truncate" font="ui_static_title" frame="22,2,81,20" name="name" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="102,2,22,20" name="level" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="124,2,39,20" name="class" type="static">
+				</Widget>
+			</Widget>
+			<Widget flag="not_visible" frame="0,1,29,22" name="voicechat_icon" preset="v5_voicechat_icon" type="static">
+			</Widget>
+			<Widget font="window" frame="0,1,22,20" halign="center" name="voicechat_btn" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="button" valign="middle">
+			</Widget>
+		</Widget>
+		<Widget frame="6,136,182,22" name="container5" type="container">
+			<Widget drag_type="10" frame="20,0,162,22" name="member5" preset="v5_force_ctn" type="containerex">
+				<Widget flag="not_visible" frame="2,5,21,14" name="marker" preset="v5_force_marker" type="image">
+				</Widget>
+				<Widget flag="not_visible;truncate" font="ui_static_title" frame="22,2,81,20" name="name" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="102,2,22,20" name="level" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="124,2,39,20" name="class" type="static">
+				</Widget>
+			</Widget>
+			<Widget flag="not_visible" frame="0,1,29,22" name="voicechat_icon" preset="v5_voicechat_icon" type="static">
+			</Widget>
+			<Widget font="window" frame="0,1,22,20" halign="center" name="voicechat_btn" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="button" valign="middle">
+			</Widget>
+		</Widget>
+		<Widget frame="6,160,182,22" name="container6" type="container">
+			<Widget drag_type="10" frame="20,0,162,22" name="member6" preset="v5_force_ctn" type="containerex">
+				<Widget flag="not_visible" frame="2,5,21,14" name="marker" preset="v5_force_marker" type="image">
+				</Widget>
+				<Widget flag="not_visible;truncate" font="ui_static_title" frame="22,2,81,20" name="name" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="102,2,22,20" name="level" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="124,2,39,20" name="class" type="static">
+				</Widget>
+			</Widget>
+			<Widget flag="not_visible" frame="0,1,29,22" name="voicechat_icon" preset="v5_voicechat_icon" type="static">
+			</Widget>
+			<Widget font="window" frame="0,1,22,20" halign="center" name="voicechat_btn" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="button" valign="middle">
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget drag_rect="0,0,198,33" drag_type="21" frame="5,221,194,188" move_cursor_rect="0,0,198,33" name="group3" preset="v5_force_group_ctn" type="containerex">
+		<Widget font="ui_default" frame="42,12,114,19" halign="center" name="group_name" text="STR_FORCE_DIALOG__GROUP3" type="static">
+		</Widget>
+		<Widget frame="6,40,182,22" name="container1" type="container">
+			<Widget drag_type="10" frame="20,0,162,22" name="member1" preset="v5_force_ctn" type="containerex">
+				<Widget flag="not_visible" frame="2,5,21,14" name="marker" preset="v5_force_marker" type="image">
+				</Widget>
+				<Widget flag="not_visible;truncate" font="ui_static_title" frame="22,2,81,20" name="name" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="102,2,22,20" name="level" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="123,2,39,20" name="class" type="static">
+				</Widget>
+			</Widget>
+			<Widget flag="not_visible" frame="0,1,29,22" name="voicechat_icon" preset="v5_voicechat_icon" type="static">
+			</Widget>
+			<Widget font="window" frame="0,1,22,20" halign="center" name="voicechat_btn" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="button" valign="middle">
+			</Widget>
+		</Widget>
+		<Widget frame="6,64,182,22" name="container2" type="container">
+			<Widget drag_type="10" frame="20,0,162,22" name="member2" preset="v5_force_ctn" type="containerex">
+				<Widget flag="not_visible" frame="2,5,21,14" name="marker" preset="v5_force_marker" type="image">
+				</Widget>
+				<Widget flag="not_visible;truncate" font="ui_static_title" frame="22,2,81,20" name="name" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="102,2,22,20" name="level" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="124,2,39,20" name="class" type="static">
+				</Widget>
+			</Widget>
+			<Widget flag="not_visible" frame="0,1,29,22" name="voicechat_icon" preset="v5_voicechat_icon" type="static">
+			</Widget>
+			<Widget font="window" frame="0,1,22,20" halign="center" name="voicechat_btn" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="button" valign="middle">
+			</Widget>
+		</Widget>
+		<Widget frame="6,88,182,22" name="container3" type="container">
+			<Widget drag_type="10" frame="20,0,162,22" name="member3" preset="v5_force_ctn" type="containerex">
+				<Widget flag="not_visible" frame="2,5,21,14" name="marker" preset="v5_force_marker" type="image">
+				</Widget>
+				<Widget flag="not_visible;truncate" font="ui_static_title" frame="22,2,81,20" name="name" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="102,2,22,20" name="level" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="124,2,39,20" name="class" type="static">
+				</Widget>
+			</Widget>
+			<Widget flag="not_visible" frame="0,1,29,22" name="voicechat_icon" preset="v5_voicechat_icon" type="static">
+			</Widget>
+			<Widget font="window" frame="0,1,22,20" halign="center" name="voicechat_btn" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="button" valign="middle">
+			</Widget>
+		</Widget>
+		<Widget frame="6,112,182,22" name="container4" type="container">
+			<Widget drag_type="10" frame="20,0,162,22" name="member4" preset="v5_force_ctn" type="containerex">
+				<Widget flag="not_visible" frame="2,5,21,14" name="marker" preset="v5_force_marker" type="image">
+				</Widget>
+				<Widget flag="not_visible;truncate" font="ui_static_title" frame="22,2,81,20" name="name" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="102,2,22,20" name="level" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="124,2,39,20" name="class" type="static">
+				</Widget>
+			</Widget>
+			<Widget flag="not_visible" frame="0,1,29,22" name="voicechat_icon" preset="v5_voicechat_icon" type="static">
+			</Widget>
+			<Widget font="window" frame="0,1,22,20" halign="center" name="voicechat_btn" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="button" valign="middle">
+			</Widget>
+		</Widget>
+		<Widget frame="6,136,182,22" name="container5" type="container">
+			<Widget drag_type="10" frame="20,0,162,22" name="member5" preset="v5_force_ctn" type="containerex">
+				<Widget flag="not_visible" frame="2,5,21,14" name="marker" preset="v5_force_marker" type="image">
+				</Widget>
+				<Widget flag="not_visible;truncate" font="ui_static_title" frame="22,2,81,20" name="name" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="102,2,22,20" name="level" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="124,2,39,20" name="class" type="static">
+				</Widget>
+			</Widget>
+			<Widget flag="not_visible" frame="0,1,29,22" name="voicechat_icon" preset="v5_voicechat_icon" type="static">
+			</Widget>
+			<Widget font="window" frame="0,1,22,20" halign="center" name="voicechat_btn" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="button" valign="middle">
+			</Widget>
+		</Widget>
+		<Widget frame="6,160,182,22" name="container6" type="container">
+			<Widget drag_type="10" frame="20,0,162,22" name="member6" preset="v5_force_ctn" type="containerex">
+				<Widget flag="not_visible" frame="2,5,21,14" name="marker" preset="v5_force_marker" type="image">
+				</Widget>
+				<Widget flag="not_visible;truncate" font="ui_static_title" frame="22,2,81,20" name="name" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="102,2,22,20" name="level" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="124,2,39,20" name="class" type="static">
+				</Widget>
+			</Widget>
+			<Widget flag="not_visible" frame="0,1,29,22" name="voicechat_icon" preset="v5_voicechat_icon" type="static">
+			</Widget>
+			<Widget font="window" frame="0,1,22,20" halign="center" name="voicechat_btn" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="button" valign="middle">
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget drag_rect="0,0,198,33" drag_type="21" frame="202,221,194,188" move_cursor_rect="0,0,198,33" name="group4" preset="v5_force_group_ctn" type="containerex">
+		<Widget font="ui_default" frame="42,12,114,19" halign="center" name="group_name" text="STR_FORCE_DIALOG__GROUP4" type="static">
+		</Widget>
+		<Widget frame="6,40,182,22" name="container1" type="container">
+			<Widget drag_type="10" frame="20,0,162,22" name="member1" preset="v5_force_ctn" type="containerex">
+				<Widget flag="not_visible" frame="2,5,21,14" name="marker" preset="v5_force_marker" type="image">
+				</Widget>
+				<Widget flag="not_visible;truncate" font="ui_static_title" frame="22,2,81,20" name="name" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="102,2,22,20" name="level" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="123,2,39,20" name="class" type="static">
+				</Widget>
+			</Widget>
+			<Widget flag="not_visible" frame="0,1,29,22" name="voicechat_icon" preset="v5_voicechat_icon" type="static">
+			</Widget>
+			<Widget font="window" frame="0,1,22,20" halign="center" name="voicechat_btn" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="button" valign="middle">
+			</Widget>
+		</Widget>
+		<Widget frame="6,64,182,22" name="container2" type="container">
+			<Widget drag_type="10" frame="20,0,162,22" name="member2" preset="v5_force_ctn" type="containerex">
+				<Widget flag="not_visible" frame="2,5,21,14" name="marker" preset="v5_force_marker" type="image">
+				</Widget>
+				<Widget flag="not_visible;truncate" font="ui_static_title" frame="22,2,81,20" name="name" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="102,2,22,20" name="level" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="124,2,39,20" name="class" type="static">
+				</Widget>
+			</Widget>
+			<Widget flag="not_visible" frame="0,1,29,22" name="voicechat_icon" preset="v5_voicechat_icon" type="static">
+			</Widget>
+			<Widget font="window" frame="0,1,22,20" halign="center" name="voicechat_btn" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="button" valign="middle">
+			</Widget>
+		</Widget>
+		<Widget frame="6,88,182,22" name="container3" type="container">
+			<Widget drag_type="10" frame="20,0,162,22" name="member3" preset="v5_force_ctn" type="containerex">
+				<Widget flag="not_visible" frame="2,5,21,14" name="marker" preset="v5_force_marker" type="image">
+				</Widget>
+				<Widget flag="not_visible;truncate" font="ui_static_title" frame="22,2,81,20" name="name" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="102,2,22,20" name="level" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="124,2,39,20" name="class" type="static">
+				</Widget>
+			</Widget>
+			<Widget flag="not_visible" frame="0,1,29,22" name="voicechat_icon" preset="v5_voicechat_icon" type="static">
+			</Widget>
+			<Widget font="window" frame="0,1,22,20" halign="center" name="voicechat_btn" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="button" valign="middle">
+			</Widget>
+		</Widget>
+		<Widget frame="6,112,182,22" name="container4" type="container">
+			<Widget drag_type="10" frame="20,0,162,22" name="member4" preset="v5_force_ctn" type="containerex">
+				<Widget flag="not_visible" frame="2,5,21,14" name="marker" preset="v5_force_marker" type="image">
+				</Widget>
+				<Widget flag="not_visible;truncate" font="ui_static_title" frame="22,2,81,20" name="name" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="102,2,22,20" name="level" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="124,2,39,20" name="class" type="static">
+				</Widget>
+			</Widget>
+			<Widget flag="not_visible" frame="0,1,29,22" name="voicechat_icon" preset="v5_voicechat_icon" type="static">
+			</Widget>
+			<Widget font="window" frame="0,1,22,20" halign="center" name="voicechat_btn" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="button" valign="middle">
+			</Widget>
+		</Widget>
+		<Widget frame="6,136,182,22" name="container5" type="container">
+			<Widget drag_type="10" frame="20,0,162,22" name="member5" preset="v5_force_ctn" type="containerex">
+				<Widget flag="not_visible" frame="2,5,21,14" name="marker" preset="v5_force_marker" type="image">
+				</Widget>
+				<Widget flag="not_visible;truncate" font="ui_static_title" frame="22,2,81,20" name="name" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="102,2,22,20" name="level" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="124,2,39,20" name="class" type="static">
+				</Widget>
+			</Widget>
+			<Widget flag="not_visible" frame="0,1,29,22" name="voicechat_icon" preset="v5_voicechat_icon" type="static">
+			</Widget>
+			<Widget font="window" frame="0,1,22,20" halign="center" name="voicechat_btn" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="button" valign="middle">
+			</Widget>
+		</Widget>
+		<Widget frame="6,160,182,22" name="container6" type="container">
+			<Widget drag_type="10" frame="20,0,162,22" name="member6" preset="v5_force_ctn" type="containerex">
+				<Widget flag="not_visible" frame="2,5,21,14" name="marker" preset="v5_force_marker" type="image">
+				</Widget>
+				<Widget flag="not_visible;truncate" font="ui_static_title" frame="22,2,81,20" name="name" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="102,2,22,20" name="level" type="static">
+				</Widget>
+				<Widget flag="not_visible" font="ui_static_title" frame="124,2,39,20" name="class" type="static">
+				</Widget>
+			</Widget>
+			<Widget flag="not_visible" frame="0,1,29,22" name="voicechat_icon" preset="v5_voicechat_icon" type="static">
+			</Widget>
+			<Widget font="window" frame="0,1,22,20" halign="center" name="voicechat_btn" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="button" valign="middle">
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget font="ui_default" frame="5,0,98,24" name="invite" preset="v5_button" text="STR_FORCE_DIALOG__INVITE" type="button">
+	</Widget>
+	<Widget font="ui_default" frame="105,0,97,24" name="ready" preset="v5_button" text="STR_FORCE_DIALOG__READY" type="button">
+	</Widget>
+	<Widget font="ui_default" frame="6,415,163,19" name="party_hidden" preset="v5_check" style="checkbox" text="STR_FORCE_DIALOG__PARTY_VISIBLE" text_offset="5,0" type="button">
+	</Widget>
+	<Widget font="ui_default" frame="274,1,116,22" halign="right" name="menu" preset="v5_button_next_page" style="checkbox" text="STR_FORCE_DIALOG__MENU" text_offset="5,0" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

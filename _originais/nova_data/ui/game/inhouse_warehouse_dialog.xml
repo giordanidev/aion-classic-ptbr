@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="task" close_offset="4,1" close_preset="v5_close" flag="close;title" frame="425,130,406,874" last_modified="2014-08-22 12:58:42" name="inhouse_warehouse_dialog" preset="v5_dialog2" shadow_offset="8,8" title_align="center" title_frame="3,3,55,14" title_height="25" title_offset="0,5" title_text="STR_HOUSE_DIALOG_WAREHOUSE" type="dlg_inhouse_warehouse" v_pos_align="bottom">
+	<Widget flag="nonclient" frame="341,1,28,24" name="expand" preset="v5_inv_expand" type="button">
+	</Widget>
+	<Widget font="v3_tab" frame="0,1,400,25" name="button0" preset="v5_inv_tab_button2" type="button">
+	</Widget>
+	<Widget frame="0,26,400,50" name="ihwarehouse0" preset="v5_tabpage3" type="container">
+		<Widget cell_padding="2" cell_space="-1,-1" frame="5,2,389,44" item_height="44" item_width="44" name="list0" preset="v5_listview" reserve_slots="True" slot_num="9" type="listview" viewmode="icon">
+		</Widget>
+	</Widget>
+	<Widget font="v3_tab" frame="0,76,400,25" name="button1" preset="v5_inv_tab_button2" type="button">
+	</Widget>
+	<Widget frame="0,101,400,50" name="ihwarehouse1" preset="v5_tabpage3" type="container">
+		<Widget cell_padding="2" cell_space="-1,-1" frame="5,2,389,44" item_height="44" item_width="44" name="list1" preset="v5_listview" reserve_slots="True" slot_num="9" type="listview" viewmode="icon">
+		</Widget>
+	</Widget>
+	<Widget font="v3_tab" frame="0,151,400,25" name="button2" preset="v5_inv_tab_button2" type="button">
+	</Widget>
+	<Widget frame="0,176,400,50" name="ihwarehouse2" preset="v5_tabpage3" type="container">
+		<Widget cell_padding="2" cell_space="-1,-1" frame="5,2,389,44" item_height="44" item_width="44" name="list2" preset="v5_listview" reserve_slots="True" slot_num="9" type="listview" viewmode="icon">
+		</Widget>
+	</Widget>
+	<Widget font="v3_tab" frame="0,226,400,25" name="button3" preset="v5_inv_tab_button2" type="button">
+	</Widget>
+	<Widget frame="0,251,400,50" name="ihwarehouse3" preset="v5_tabpage3" type="container">
+		<Widget cell_padding="2" cell_space="-1,-1" frame="5,2,389,44" item_height="44" item_width="44" name="list3" preset="v5_listview" reserve_slots="True" slot_num="9" type="listview" viewmode="icon">
+		</Widget>
+	</Widget>
+	<Widget font="v3_tab" frame="0,301,400,25" name="button4" preset="v5_inv_tab_button2" type="button">
+	</Widget>
+	<Widget frame="0,326,400,50" name="ihwarehouse4" preset="v5_tabpage3" type="container">
+		<Widget cell_padding="2" cell_space="-1,-1" frame="5,2,389,44" item_height="44" item_width="44" name="list4" preset="v5_listview" reserve_slots="True" slot_num="9" type="listview" viewmode="icon">
+		</Widget>
+	</Widget>
+	<Widget font="v3_tab" frame="0,376,400,25" name="button5" preset="v5_inv_tab_button2" type="button">
+	</Widget>
+	<Widget frame="0,401,400,50" name="ihwarehouse5" preset="v5_tabpage3" type="container">
+		<Widget cell_padding="2" cell_space="-1,-1" frame="5,2,389,44" item_height="44" item_width="44" name="list5" preset="v5_listview" reserve_slots="True" slot_num="9" type="listview" viewmode="icon">
+		</Widget>
+	</Widget>
+	<Widget font="v3_tab" frame="0,451,400,25" name="button6" preset="v5_inv_tab_button2" type="button">
+	</Widget>
+	<Widget frame="0,476,400,50" name="ihwarehouse6" preset="v5_tabpage3" type="container">
+		<Widget cell_padding="2" cell_space="-1,-1" frame="5,2,389,44" item_height="44" item_width="44" name="list6" preset="v5_listview" reserve_slots="True" slot_num="9" type="listview" viewmode="icon">
+		</Widget>
+	</Widget>
+	<Widget font="v3_tab" frame="0,526,400,25" name="button7" preset="v5_inv_tab_button2" type="button">
+	</Widget>
+	<Widget frame="0,551,400,50" name="ihwarehouse7" preset="v5_tabpage3" type="container">
+		<Widget cell_padding="2" cell_space="-1,-1" frame="5,2,389,44" item_height="44" item_width="44" name="list7" preset="v5_listview" reserve_slots="True" slot_num="9" type="listview" viewmode="icon">
+		</Widget>
+	</Widget>
+	<Widget font="v3_tab" frame="0,601,400,25" name="button8" preset="v5_inv_tab_button2" type="button">
+	</Widget>
+	<Widget frame="0,626,400,50" name="ihwarehouse8" preset="v5_tabpage3" type="container">
+		<Widget cell_padding="2" cell_space="-1,-1" frame="5,2,389,44" item_height="44" item_width="44" name="list8" preset="v5_listview" reserve_slots="True" slot_num="9" type="listview" viewmode="icon">
+		</Widget>
+	</Widget>
+	<Widget font="v3_tab" frame="0,676,400,25" name="button9" preset="v5_inv_tab_button2" type="button">
+	</Widget>
+	<Widget frame="0,701,400,50" name="ihwarehouse9" preset="v5_tabpage3" type="container">
+		<Widget cell_padding="2" cell_space="-1,-1" frame="5,2,389,44" item_height="44" item_width="44" name="list9" preset="v5_listview" reserve_slots="True" slot_num="9" type="listview" viewmode="icon">
+		</Widget>
+	</Widget>
+	<Widget font="v3_tab" frame="0,751,400,25" name="button10" preset="v5_inv_tab_button2" type="button">
+	</Widget>
+	<Widget frame="0,776,400,50" name="ihwarehouse10" preset="v5_tabpage3" type="container">
+		<Widget cell_padding="2" cell_space="-1,-1" frame="5,2,389,44" item_height="44" item_width="44" name="list10" preset="v5_listview" reserve_slots="True" slot_num="9" type="listview" viewmode="icon">
+		</Widget>
+	</Widget>
+	<Widget font="v3_tab" frame="0,826,400,25" name="button11" preset="v5_inv_tab_button2" type="button">
+	</Widget>
+	<Widget frame="0,851,400,50" name="ihwarehouse11" preset="v5_tabpage3" type="container">
+		<Widget cell_padding="2" cell_space="-1,-1" frame="5,2,389,44" item_height="44" item_width="44" name="list11" preset="v5_listview" reserve_slots="True" slot_num="9" type="listview" viewmode="icon">
+		</Widget>
+	</Widget>
+	<Widget font="v3_tab" frame="0,901,400,25" name="button12" preset="v5_inv_tab_button2" type="button">
+	</Widget>
+	<Widget frame="0,926,400,50" name="ihwarehouse12" preset="v5_tabpage3" type="container">
+		<Widget cell_padding="2" cell_space="-1,-1" frame="5,2,389,44" item_height="44" item_width="44" name="list12" preset="v5_listview" reserve_slots="True" slot_num="9" type="listview" viewmode="icon">
+		</Widget>
+	</Widget>
+	<Widget font="v3_tab" frame="0,976,400,25" name="button13" preset="v5_inv_tab_button2" type="button">
+	</Widget>
+	<Widget frame="0,1001,400,50" name="ihwarehouse13" preset="v5_tabpage3" type="container">
+		<Widget cell_padding="2" cell_space="-1,-1" frame="5,2,389,44" item_height="44" item_width="44" name="list13" preset="v5_listview" reserve_slots="True" slot_num="9" type="listview" viewmode="icon">
+		</Widget>
+	</Widget>
+	<Widget font="v3_tab" frame="0,1051,400,25" name="button14" preset="v5_inv_tab_button2" type="button">
+	</Widget>
+	<Widget frame="0,1076,400,50" name="ihwarehouse14" preset="v5_tabpage3" type="container">
+		<Widget cell_padding="2" cell_space="-1,-1" frame="5,2,389,44" item_height="44" item_width="44" name="list14" preset="v5_listview" reserve_slots="True" slot_num="9" type="listview" viewmode="icon">
+		</Widget>
+	</Widget>
+	<Widget font="v3_tab" frame="0,1126,400,25" name="button15" preset="v5_inv_tab_button2" type="button">
+	</Widget>
+	<Widget frame="0,1151,400,50" name="ihwarehouse15" preset="v5_tabpage3" type="container">
+		<Widget cell_padding="2" cell_space="-1,-1" frame="5,2,389,44" item_height="44" item_width="44" name="list15" preset="v5_listview" reserve_slots="True" slot_num="9" type="listview" viewmode="icon">
+		</Widget>
+	</Widget>
+	<Widget font="v3_tab" frame="0,1201,400,25" name="button16" preset="v5_inv_tab_button2" type="button">
+	</Widget>
+	<Widget frame="0,1226,400,50" name="ihwarehouse16" preset="v5_tabpage3" type="container">
+		<Widget cell_padding="2" cell_space="-1,-1" frame="5,2,389,44" item_height="44" item_width="44" name="list16" preset="v5_listview" reserve_slots="True" slot_num="9" type="listview" viewmode="icon">
+		</Widget>
+	</Widget>
+	<Widget font="v3_tab" frame="0,1276,400,25" name="button17" preset="v5_inv_tab_button2" type="button">
+	</Widget>
+	<Widget frame="0,1301,400,50" name="ihwarehouse17" preset="v5_tabpage3" type="container">
+		<Widget cell_padding="2" cell_space="-1,-1" frame="5,2,389,44" item_height="44" item_width="44" name="list17" preset="v5_listview" reserve_slots="True" slot_num="9" type="listview" viewmode="icon">
+		</Widget>
+	</Widget>
+	<Widget font="v3_tab" frame="0,1351,400,25" name="button18" preset="v5_inv_tab_button2" type="button">
+	</Widget>
+	<Widget frame="0,1376,400,50" name="ihwarehouse18" preset="v5_tabpage3" type="container">
+		<Widget cell_padding="2" cell_space="-1,-1" frame="5,2,389,44" item_height="44" item_width="44" name="list18" preset="v5_listview" reserve_slots="True" slot_num="9" type="listview" viewmode="icon">
+		</Widget>
+	</Widget>
+	<Widget font="v3_tab" frame="0,1426,400,25" name="button19" preset="v5_inv_tab_button2" type="button">
+	</Widget>
+	<Widget frame="0,1451,400,50" name="ihwarehouse19" preset="v5_tabpage3" type="container">
+		<Widget cell_padding="2" cell_space="-1,-1" frame="5,2,389,44" item_height="44" item_width="44" name="list19" preset="v5_listview" reserve_slots="True" slot_num="9" type="listview" viewmode="icon">
+		</Widget>
+	</Widget>
+	<Widget frame="0,813,400,30" name="bottom" type="container" v_pos_align="bottom">
+		<Widget frame="375,7,21,21" name="sort" preset="v5_inv_sort" tooltip="STR_INVENTORY_DIALOG__TOOLTIP_AUTO_SORT" type="button">
+		</Widget>
+	</Widget>
+</Dialog>

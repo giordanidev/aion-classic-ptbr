@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="close;;title" frame="382,100,549,334" last_modified="2015-04-29 15:49:28" name="exceed_enchant_dialog" preset="v5_dialog2" shadow_offset="8,8" title_align="center" title_frame="3,3,549,14" title_height="25" title_offset="0,5" title_text="STR_EXCEED_ENCHANT_DIALOG__TITLE" type="dlg_exceed_enchant">
+	<Widget frame="4,7,537,204" h_pos_align="left" type="container">
+		<Skin name="v5_exceed_dialog_bg">
+		</Skin>
+		<Widget frame="23,6,187,187" type="container">
+			<Skin name="v5_upgrade_result_slot_bg1">
+			</Skin>
+			<Widget frame="40,41,106,106" type="image">
+				<Skin name="v5_exceed_target_slot_bg_1">
+				</Skin>
+			</Widget>
+		</Widget>
+		<Widget frame="319,10,204,190" type="container">
+			<Widget frame="49,37,106,106" type="image">
+				<Skin name="v5_exceed_material_slot_bg">
+				</Skin>
+			</Widget>
+			<Widget font="ui_default" frame="0,7,204,20" halign="center" text="STR_EXCEED_ENCHANT_DIALOG__SOURCE" type="static" valign="middle">
+			</Widget>
+		</Widget>
+		<Widget flag="multiline" font="ui_default" frame="319,154,204,45" halign="center" name="enchant_tool_name" preset="v5_staticbox2" type="static" valign="middle">
+		</Widget>
+		<Widget frame="232,90,74,21" type="container">
+			<Skin name="v5_exceed_arrow_bg">
+			</Skin>
+			<Widget frame="0,0,74,21" name="enchant_arrow" preset="v5_exceed_arrow" type="image">
+			</Widget>
+		</Widget>
+		<Widget font="ui_default" frame="7,17,220,20" halign="center" text="STR_EXCEED_ENCHANT_DIALOG__TARGET" type="static" valign="middle">
+		</Widget>
+		<Widget flag="truncate" font="ui_default" frame="15,154,204,45" halign="center" max_lines="2" name="enchant_target_name" preset="v5_staticbox2" type="static" valign="middle">
+		</Widget>
+		<Widget cell_padding="2" cell_space="0,0" column_set1=",1000," flag="truncate" frame="400,78,42,42" item_height="42" item_width="42" name="enchant_tool" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+		</Widget>
+		<Widget cell_padding="2" cell_space="0,0" column_set1=",1000," flag="truncate" frame="95,78,42,42" item_height="42" item_width="42" name="enchant_target" preset="v5_deco_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+		</Widget>
+	</Widget>
+	<Widget font="ui_default" frame="481,277,60,24" h_pos_align="right" name="cancel" preset="v5_button" text="STR_EXCEED_ENCHANT_DIALOG__CANCLE" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget defbutton="true" font="ui_default" frame="420,277,60,24" h_pos_align="right" name="ok" preset="v5_button" text="STR_EXCEED_ENCHANT_DIALOG__OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="v3_money" frame="323,242,218,22" halign="right" name="enchant_money" preset="v5_staticbox" type="static">
+	</Widget>
+	<Widget font="ui_default" frame="205,241,111,23" halign="right" padding="2,0" text="STR_TRADE_DIALOG__WIDGET2" type="static">
+	</Widget>
+	<Widget font="v3_money" frame="323,218,218,22" halign="right" name="my_money" preset="v5_staticbox" type="static">
+	</Widget>
+	<Widget font="ui_default" frame="205,217,111,23" halign="right" padding="2,0" text="STR_TRADE_DIALOG__WIDGET1" type="static">
+	</Widget>
+</Dialog>

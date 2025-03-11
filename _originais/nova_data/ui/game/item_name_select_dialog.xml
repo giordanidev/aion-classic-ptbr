@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="not_movable" frame="382,100,256,193" last_modified="2015-07-15 13:54:37" name="item_name_select_dialog" preset="v5_dialog" shadow_offset="8,8" title_align="left" title_frame="3,3,259,14" title_height="25" title_offset="0,5" type="dlg_item_name_select">
+	<Widget cell_padding="2" cell_space="0,-1" flag="vscroll" font="ui_list" frame="4,4,242,179" item_height="44" item_width="44" list_padding="3,3" name="items" preset="v5_listview_sel_frame" scroll_type="visible" skin_type="version5" slot_num="4" type="listview" viewmode="detail">
+		<Column align="" title="" width="1000">
+		</Column>
+	</Widget>
+</Dialog>

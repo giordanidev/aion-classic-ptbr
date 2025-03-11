@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="close;title" frame="450,210,300,233" last_modified="2020-08-24 20:09:21" name="familiar_growth_confirm_dialog" preset="v5_msgbox" shadow_offset="8,8" title_align="center" title_frame="3,3,290,14" title_height="25" title_offset="0,5" title_text="STR_FAMILIAR_GROWTH_RESOURCE_DIALOG_INDEX" type="dlg_familiar_growth_confirm">
+	<Widget font="ui_default" frame="6,0,283,46" name="html" padding="0,0" text="STR_FAMILIAR_COMPOSE_RESOURCE_DIALOG_INDEX_DESC" type="htmlview">
+	</Widget>
+	<Widget can_click_item="False" direction_size="5" direction_type="vertical" drag_block_separator="False" elastic_grid_max_rect="0,0,550,406" elastic_grid_size="True" fit_item_size="False" fixed_item_size="False" frame="6,50,283,93" h_pos_align="proportion" inner_scroll="false" item_padding="0" item_spacing="6" name="familiar_list" preset="v5_staticbox" scroll_type="hidden" skin_type="version5" type="grid" v_pos_align="top">
+		<Widget frame="0,0,44,44" name="prototype" type="container">
+			<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="0,0,44,44" group="itemview" item_height="44" item_width="44" name="slot" preset="v5_itemview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="itemview" viewmode="detail">
+			</Widget>
+			<Widget flag="not_visible;not_active" frame="0,0,44,44" image="familiar_growth_slot_warn" name="warn" type="image">
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget frame="6,148,284,20" name="con_warning" type="container">
+		<Widget flag="not_active" frame="0,0,20,20" image="familiar_warning" type="image">
+		</Widget>
+		<Widget frame="20,0,264,20" h_pos_align="proportion" halign="left" name="warning" text="STR_FAMILIAR_GROWTH_RESOURCE_DIALOG_WARNING" text_color="0.97,0.1,0.1,1.0" type="static" v_pos_align="top" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget font="ui_default" frame="140,177,72,24" h_pos_align="right" name="ok" preset="v5_button" text="STR_OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="218,177,73,24" h_pos_align="right" name="cancel" preset="v5_button" text="STR_COMMON__CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

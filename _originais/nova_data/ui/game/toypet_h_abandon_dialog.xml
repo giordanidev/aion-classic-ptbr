@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="task" close_offset="4,1" close_preset="v5_close" flag="close;title" frame="15,130,406,512" last_modified="2014-08-22 12:58:41" name="toypet_h_abandon_dialog" preset="v5_dialog2" prev_html="True" shadow_offset="8,8" title_align="center" title_frame="3,3,59,14" title_height="25" title_offset="0,5" title_text="STR_TOYPET_H_ABANDON_DIALOG" type="dlg_toypet_h_abandon">
+	<Widget flag="multiline;wordwrap" font="ui_static_title" frame="4,23,392,39" halign="center" padding="5,0" preset="v5_staticbox" scroll_type="hidden" text="STR_TOYPET_H_ABANDON_DIALOG__DESC" text_offset="30, 0" type="htmlview">
+	</Widget>
+	<Widget cell_padding="2" cell_space="0,0" column_customizing="True" flag="vscroll" font="ui_list" frame="4,65,391,383" header_font="v3_columnhead" header_height="24" item_height="44" item_width="44" list_padding="3,3" name="toypet_list" preset="v5_listview_sel_frame" scroll_type="visible" skin_type="version5" slot_num="9" type="listview" viewmode="detail">
+		<Column align="" title="STR_TOYPET_H_ABANDON_DIALOG__COL_NAME" width="171">
+		</Column>
+		<Column align="" title="STR_TOYPET_H_ABANDON_DIALOG__COL_FUNC" width="158">
+		</Column>
+	</Widget>
+	<Widget font="ui_default" frame="6,458,91,18" halign="left" name="count" type="static" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="327,455,71,24" name="cancel_button" preset="v5_button" text="STR_TOYPET_H_ABANDON_DIALOG__CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="258,455,68,24" name="ok_button" preset="v5_button" text="STR_TOYPET_H_ABANDON_DIALOG__OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="8,0,172,20" name="npc_name" type="static">
+	</Widget>
+</Dialog>

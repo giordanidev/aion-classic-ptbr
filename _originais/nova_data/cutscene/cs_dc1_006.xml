@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CutSceneText>
+	<Text label="P01">I, Vidar, congratulate you on your new title.</Text>
+	<Text label="P02">You are now an Armorsmithing Expert.</Text>
+	<Text label="P03">Good job, Daeva.</Text>
+	<Text label="P04">This is quite an achievement!</Text>
+	<Text label="P05">May you craft the sturdiest of armor</Text>
+	<Text label="P06">to protect your fellow Asmodians.</Text>
+</CutSceneText>

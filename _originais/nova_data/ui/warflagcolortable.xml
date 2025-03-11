@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<war_flag_color_table>
+	<color id="1" value="241,39,82,255">
+	</color>
+	<color id="2" value="241,233,2,255">
+	</color>
+	<color id="3" value="73,246,6,255">
+	</color>
+	<color id="4" value="0,150,255,255">
+	</color>
+	<color id="5" value="245,123,17,255">
+	</color>
+	<color id="6" value="2,247,201,255">
+	</color>
+	<color id="7" value="155,28,255,255">
+	</color>
+	<color id="8" value="255,255,204,255">
+	</color>
+	<color id="9" value="255,153,153,255">
+	</color>
+</war_flag_color_table>

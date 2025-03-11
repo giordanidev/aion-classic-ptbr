@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="task" close_offset="4,1" close_preset="v5_close" flag="close;title" frame="290,130,813,570" last_modified="2016-07-11 10:54:31" name="housing_sale_dialog" preset="v5_dialog" shadow_offset="8,8" title_align="center" title_frame="3,3,768,14" title_height="25" title_offset="0,5" title_text="STR_HOUSING_SALE_DIALOG" type="dlg_housing_sale">
+	<Widget frame="0,0,807,537" h_pos_align="proportion" name="tab_frame" type="tabsheet" v_pos_align="proportion">
+		<Widget frame="0,0,807,25" h_pos_align="proportion" name="tab" preset="v5_tab" tab_frame="0,0,686,25" tab_offset="3,0" tab_space="0" type="tab">
+			<Widget font="ui_default" frame="8,0,68,25" name="sale_tab_btn" preset="v5_tabbutton" text="STR_HOUSING_SALE_DIALOG__TAB_SALE" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="75,0,68,25" name="bid_tab_btn" preset="v5_tabbutton" text="STR_HOUSING_SALE_DIALOG__TAB_BID" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="210,0,68,25" name="grace_tab_btn" preset="v5_tabbutton" text="STR_HOUSING_SALE_DIALOG__TAB_GRACE" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="142,0,68,25" name="register_tab_btn" preset="v5_tabbutton" text="STR_HOUSING_SALE_DIALOG__TAB_REGISTER" type="tabbutton">
+			</Widget>
+		</Widget>
+		<Widget frame="0,24,807,513" h_pos_align="proportion" name="sale" preset="v5_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget column_heading="True" flag="vscroll;truncate" font="ui_list" frame="5,31,800,426" header_height="24" item_height="22" list_padding="3,3" name="sale_list" preset="v5_listview_ex" scroll_type="visible" skin_type="version5" type="listviewex">
+				<Column align="left" img_width="" sample_text="" sort="text" title="STR_HOUSING_SALE_DIALOG__COL_ADDRESS" width="317">
+				</Column>
+				<Column align="center" img_width="" sample_text="" sort="param" title="STR_HOUSING_SALE_DIALOG__COL_SIZE" width="60">
+				</Column>
+				<Column align="center" img_width="" sample_text="" sort="text" title="STR_HOUSING_SALE_DIALOG__COL_BUILDING" width="100">
+				</Column>
+				<Column align="right" img_width="" sample_text="" sort="param" title="STR_HOUSING_SALE_DIALOG__COL_PRICE" width="165">
+				</Column>
+				<Column align="center" img_width="" sample_text="" sort="param" title="STR_HOUSING_SALE_DIALOG__COL_TIME" width="70">
+				</Column>
+				<Column align="center" img_width="" sample_text="" sort="param" title="STR_HOUSING_SALE_DIALOG__COL_COUNT" width="70">
+				</Column>
+			</Widget>
+			<Widget font="ui_default" frame="516,5,72,23" name="size_s" preset="v5_check" style="checkbox" text="STR_HOUSING_SALE_DIALOG__SIZE_S" text_offset="3,0" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="588,5,72,23" name="size_a" preset="v5_check" style="checkbox" text="STR_HOUSING_SALE_DIALOG__SIZE_A" text_offset="3,0" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="660,5,72,23" name="size_b" preset="v5_check" style="checkbox" text="STR_HOUSING_SALE_DIALOG__SIZE_B" text_offset="3,0" type="button">
+			</Widget>
+			<Widget font="ui_default" frame="732,5,72,23" name="size_c" preset="v5_check" style="checkbox" text="STR_HOUSING_SALE_DIALOG__SIZE_C" text_offset="3,0" type="button">
+			</Widget>
+			<Widget frame="620,458,96,24" halign="right" padding="1,0" text="STR_HOUSING_SALE_DIALOG__TOTAL_NUM" type="static">
+			</Widget>
+			<Widget font="v3_money" frame="719,458,84,24" halign="center" name="sale_count" preset="v5_staticbox" type="static" valign="middle">
+			</Widget>
+			<Widget font="ui_default" frame="668,489,68,24" h_pos_align="right" name="refresh_btn" preset="v5_button" text="STR_HOUSING_SALE_DIALOG__REFRESH" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="737,489,68,24" h_pos_align="right" name="bid_btn" preset="v5_button" text="STR_HOUSING_SALE_DIALOG__BID" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="599,489,68,24" h_pos_align="right" name="map_btn" preset="v5_button" text="STR_HOUSING_SALE_DIALOG__MAP" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_combo" frame="5,4,132,25" name="address1" preset="v5_staticbox3" type="combobox">
+			</Widget>
+			<Widget flag="truncate" font="ui_combo" frame="139,4,132,25" name="address2" preset="v5_staticbox3" type="combobox">
+			</Widget>
+			<Widget flag="truncate" font="ui_combo" frame="273,4,132,25" name="address3" preset="v5_staticbox3" type="combobox">
+			</Widget>
+		</Widget>
+		<Widget frame="0,24,807,513" h_pos_align="proportion" name="bid" preset="v5_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget frame="5,41,800,440" type="image">
+				<Skin name="v5_static_bg4">
+				</Skin>
+			</Widget>
+			<Widget column_heading="True" flag="vscroll;truncate" font="ui_list" frame="5,41,800,52" header_height="24" item_height="22" list_padding="3,3" name="bid_list" preset="v5_listview_ex" scroll_type="hidden" type="listviewex">
+				<Column align="center" img_width="" sample_text="" sort="none" title="STR_HOUSING_SALE_DIALOG__COL_ADDRESS" width="200">
+				</Column>
+				<Column align="center" img_width="" sample_text="" sort="none" title="STR_HOUSING_SALE_DIALOG__COL_SIZE" width="60">
+				</Column>
+				<Column align="center" img_width="" sample_text="" sort="none" title="STR_HOUSING_SALE_DIALOG__COL_BUILDING" width="100">
+				</Column>
+				<Column align="right" img_width="" sample_text="" sort="none" title="STR_HOUSING_SALE_DIALOG__COL_MY_PRICE" width="120">
+				</Column>
+				<Column align="right" img_width="" sample_text="" sort="none" title="STR_HOUSING_SALE_DIALOG__COL_PRICE" width="120">
+				</Column>
+				<Column align="center" img_width="" sample_text="" sort="none" title="STR_HOUSING_SALE_DIALOG__COL_TIME" width="70">
+				</Column>
+				<Column align="center" img_width="" sample_text="" sort="none" title="STR_HOUSING_SALE_DIALOG__COL_COUNT" width="70">
+				</Column>
+				<Column align="center" img_width="" sample_text="" sort="none" title="STR_HOUSING_SALE_DIALOG__COL_BID_STATE" width="55">
+				</Column>
+			</Widget>
+			<Widget font="ui_default" frame="737,489,68,24" h_pos_align="right" name="rebid_btn" preset="v5_button" text="STR_HOUSING_SALE_DIALOG__REBID" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="668,489,68,24" h_pos_align="right" name="refresh_bid_btn" preset="v5_button" text="STR_HOUSING_SALE_DIALOG__REFRESH" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="8,8,206,26" text="STR_HOUSING_SALE_DIALOG__BID_DESC" type="static">
+			</Widget>
+			<Widget font="ui_default" frame="599,489,68,24" h_pos_align="right" name="bid_map_btn" preset="v5_button" text="STR_HOUSING_SALE_DIALOG__MAP" type="button" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="0,24,807,513" h_pos_align="proportion" name="grace" preset="v5_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget column_heading="True" flag="vscroll;truncate" font="ui_list" frame="5,41,800,51" header_height="24" item_height="22" list_padding="3,3" name="grace_list" preset="v5_listview_ex" scroll_type="hidden" skin_type="version5" type="listviewex">
+				<Column align="left" img_width="" sample_text="" sort="none" title="STR_HOUSING_SALE_DIALOG__COL_ADDRESS" width="325">
+				</Column>
+				<Column align="center" img_width="" sample_text="" sort="none" title="STR_HOUSING_SALE_DIALOG__COL_SIZE" width="150">
+				</Column>
+				<Column align="center" img_width="" sample_text="" sort="none" title="STR_HOUSING_SALE_DIALOG__COL_BUILDING" width="150">
+				</Column>
+				<Column align="center" img_width="" sample_text="" sort="none" title="STR_HOUSING_SALE_DIALOG__COL_TIME" width="100">
+				</Column>
+				<Column align="center" img_width="" sample_text="" sort="none" title="STR_HOUSING_SALE_DIALOG__COL_BID_STATE" width="70">
+				</Column>
+			</Widget>
+			<Widget font="ui_default" frame="8,7,206,26" text="STR_HOUSING_SALE_DIALOG__BID_DESC" type="static">
+			</Widget>
+			<Widget font="ui_default" frame="737,489,68,24" h_pos_align="right" name="grace_map_btn" preset="v5_button" text="STR_HOUSING_SALE_DIALOG__MAP" type="button" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="0,24,807,513" h_pos_align="proportion" name="register" preset="v5_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget column_heading="True" flag="vscroll;truncate" font="ui_list" frame="5,41,800,51" header_height="24" item_height="22" list_padding="3,3" name="reg_list" preset="v5_listview_ex" scroll_type="hidden" type="listviewex">
+				<Column align="center" img_width="" sample_text="" sort="none" title="STR_HOUSING_SALE_DIALOG__COL_ADDRESS" width="200">
+				</Column>
+				<Column align="center" img_width="" sample_text="" sort="none" title="STR_HOUSING_SALE_DIALOG__COL_SIZE" width="60">
+				</Column>
+				<Column align="center" img_width="" sample_text="" sort="none" title="STR_HOUSING_SALE_DIALOG__COL_BUILDING" width="100">
+				</Column>
+				<Column align="right" img_width="" sample_text="" sort="none" title="STR_HOUSING_SALE_DIALOG__COL_START_PRICE" width="120">
+				</Column>
+				<Column align="right" img_width="" sample_text="" sort="none" title="STR_HOUSING_SALE_DIALOG__COL_PRICE" width="120">
+				</Column>
+				<Column align="center" img_width="" sample_text="" sort="none" title="STR_HOUSING_SALE_DIALOG__COL_TIME" width="70">
+				</Column>
+				<Column align="center" img_width="" sample_text="" sort="none" title="STR_HOUSING_SALE_DIALOG__COL_COUNT" width="70">
+				</Column>
+				<Column align="center" img_width="" sample_text="" sort="none" title="STR_HOUSING_SALE_DIALOG__COL_REG_STATE" width="55">
+				</Column>
+			</Widget>
+			<Widget font="ui_default" frame="737,489,68,24" h_pos_align="right" name="register_btn" preset="v5_button" text="STR_HOUSING_SALE_DIALOG__REGISTER" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="668,489,68,24" h_pos_align="right" name="refresh_reg_btn" preset="v5_button" text="STR_HOUSING_SALE_DIALOG__REFRESH" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget font="ui_default" frame="8,8,206,26" text="STR_HOUSING_SALE_DIALOG__REGISTER_DESC" type="static">
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget font="ui_default" frame="2,513,68,24" h_pos_align="right" name="help_btn" preset="v5_button" text="STR_COMMON__HELP" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

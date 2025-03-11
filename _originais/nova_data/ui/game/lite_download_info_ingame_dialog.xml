@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="sub" close_offset="4,1" close_preset="v5_close" flag="close;title" frame="300,200,392,204" last_modified="2014-08-22 12:58:42" name="lite_download_info_ingame_dialog" preset="v5_msgbox" prev_html="True" shadow_offset="8,8" title_align="left" title_frame="3,3,386,14" title_height="25" title_offset="0,5" type="dlg_lite_download_info_ingame">
+	<Widget font="ui_default" frame="253,148,63,24" name="restart" preset="v5_button" text="STR_LITE__DIALOG_RESTART" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="319,148,63,24" name="cancel" preset="v5_button" text="STR_INGAME_SHOP_DIALOG__CLOSE" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="3,148,63,24" name="help" preset="v5_button" text="STR_COMMON__HELP" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget flag="vscroll" font="ui_default" frame="11,8,364,81" name="htmlview" type="htmlview">
+	</Widget>
+	<Widget frame="5,92,375,45" name="status_step" preset="v5_staticbox" type="container">
+		<Widget frame="15,15,345,9" name="gauge" preset="v5_slot_gauge" type="gauge">
+		</Widget>
+		<Widget frame="179,13,18,30" name="image_step" preset="v5_lite_progress_step" text_color="1.0,1.0,1.0,1.0" type="static" v_pos_align="bottom">
+		</Widget>
+		<Widget frame="181,8,15,30" halign="center" name="static_step" text_color="1.0,1.0,0.0,1.0" text_shade="False" type="static" valign="bottom">
+		</Widget>
+	</Widget>
+</Dialog>

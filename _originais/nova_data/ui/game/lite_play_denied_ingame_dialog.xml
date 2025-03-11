@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="sub" close_offset="4,1" close_preset="v5_close" flag="title" frame="300,200,373,167" last_modified="2014-08-22 12:58:42" name="lite_play_denied_ingame_dialog" preset="v5_msgbox" prev_html="True" shadow_offset="8,8" title_align="left" title_frame="3,3,367,14" title_height="25" title_offset="10,5" type="dlg_lite_play_denied_ingame">
+	<Widget font="ui_default" frame="182,111,95,24" name="select_character" preset="v5_button" text="STR_SYSTEM_MENU_DIALOG__GOTO_SELECT" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="278,111,88,24" name="exit_game" preset="v5_button" text="STR_SYSTEM_MENU_DIALOG__QUIT_GAME" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget flag="vscroll" font="ui_default" frame="14,13,335,84" name="htmlview" type="htmlview">
+	</Widget>
+</Dialog>

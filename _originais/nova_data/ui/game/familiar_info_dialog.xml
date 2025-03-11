@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="left" close_offset="4,1" close_preset="v5_close" flag="close;title" frame="506,150,269,564" last_modified="2020-08-31 10:38:11" name="familiar_info_dialog" preset="v5_dialog2" shadow_offset="8,8" title_align="center" title_frame="3,3,336,14" title_height="25" title_offset="0,5" title_text="STR_FAMILIAR_DIALOG_INDEX" type="dlg_familiar_info">
+	<Widget frame="193,0,20,20" name="lock_icon" tooltip="STR_FAMILIAR_DIALOG_LOCK_BUTOONTIP" type="image">
+		<Skin name="familiar_locked">
+		</Skin>
+	</Widget>
+	<Widget font="ui_default" frame="202,0,61,19" halign="right" name="info_menu" preset="v5_expand_button" style="checkbox" text="STR_FAMILIAR_DIALOG_MENU" text_offset="5,0" type="button">
+	</Widget>
+	<Widget frame="0,23,263,373" type="container">
+		<Widget frame="0,0,263,373" name="bg_auth" type="image">
+			<Skin name="familiar_info_auth_bg">
+			</Skin>
+		</Widget>
+		<Widget frame="0,0,263,373" name="bg" type="image">
+			<Skin name="familiar_info_bg" state="0">
+			</Skin>
+		</Widget>
+		<Widget font_size="15" frame="0,0,263,31" halign="center" name="name" text="STR_TOYPET_LIST_DIALOG" type="static" valign="middle">
+		</Widget>
+		<Widget frame="4,5,57,26" name="tier_grade_bg" type="image">
+			<Skin name="familiar_tier_grade_bg" state="0">
+			</Skin>
+		</Widget>
+		<Widget frame="4,5,57,26" name="tier_grade_container" type="container">
+			<Widget frame="14,7,16,16" name="tier_grade_sub1" preset="familiar_tier_grade_img" type="image">
+			</Widget>
+			<Widget frame="0,3,20,20" name="tier_grade" preset="familiar_tier_grade_img" type="image">
+			</Widget>
+		</Widget>
+		<Widget frame="0,25,263,24" name="star_grade_container" type="container">
+			<Widget frame="79,0,24,24" h_pos_align="center" name="star_grade_1" preset="familiar_star_grade_img" type="image">
+			</Widget>
+			<Widget frame="99,0,24,24" h_pos_align="center" name="star_grade_2" preset="familiar_star_grade_img" type="image">
+			</Widget>
+			<Widget frame="119,0,24,24" h_pos_align="center" name="star_grade_3" preset="familiar_star_grade_img" type="image">
+			</Widget>
+			<Widget frame="139,0,24,24" h_pos_align="center" name="star_grade_4" preset="familiar_star_grade_img" type="image">
+			</Widget>
+			<Widget frame="159,0,24,24" h_pos_align="center" name="star_grade_5" preset="familiar_star_grade_img" type="image">
+			</Widget>
+		</Widget>
+		<Widget cam_angle="10" frame="0,58,263,267" name="model_view" type="3dview">
+			<Widget frame="144,232,34,35" h_pos_align="center" name="turnleft" preset="v5_potrait_left" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="83,232,34,35" h_pos_align="center" name="turnright" preset="v5_potrait_right" type="button" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="7,328,187,45" name="growth_point_con" type="container">
+			<Widget frame="3,-1,174,20" halign="left" text="STR_FAMILIAR_DIALOG_GROWTHPOINT" type="static" valign="middle">
+			</Widget>
+			<Widget frame="3,18,174,19" h_pos_align="proportion" type="image" v_pos_align="top">
+				<Skin name="v5_familiar_growth_gauge_bg">
+				</Skin>
+			</Widget>
+			<Widget frame="63,0,16,16" image="help_button_up" name="growth_tip" tooltip="STR_FAMILIAR_DIALOG_GROWTH_BUTOONTIP" type="image">
+				<Skin name="v5_item_attr_reduced_warning">
+				</Skin>
+			</Widget>
+			<Widget align="left" frame="6,18,168,19" gradient="False" name="growth_point_bg" preset="v5_familiar_growth_gauge2" type="gauge">
+			</Widget>
+			<Widget align="left" frame="6,18,168,19" gradient="False" name="growth_point_0" preset="v5_familiar_growth_gauge" type="gauge">
+			</Widget>
+			<Widget align="left" frame="6,18,168,19" gradient="False" name="growth_point_1" preset="v5_familiar_growth_gauge1" type="gauge">
+			</Widget>
+			<Widget frame="49,10,29,37" h_pos_align="left" name="gauge_end" preset="v5_familiar_growth_gauge_fx" type="image" v_pos_align="top">
+			</Widget>
+			<Widget flag="not_active" frame="6,18,1,19" name="growth_point_up_fx" type="container">
+			</Widget>
+			<Widget font_size="12" frame="6,18,168,19" halign="center" name="growth_point_desc" tooltip="STR_FAMILIAR_TOOLTIP_FAMILIAR_POINTBAR" type="static" valign="middle">
+			</Widget>
+		</Widget>
+		<Widget font="ui_default" frame="194,340,65,30" name="growth_point_up" preset="v5_create_button" text="STR_FAMILIAR_DIALOG_GROWTH_BUTTON" type="button">
+		</Widget>
+		<Widget font="ui_default" frame="194,340,65,30" name="evolve" preset="v5_create_button" text="STR_FAMILIAR_DIALOG_EVOLVE_BUTTON" type="button">
+		</Widget>
+		<Widget font="ui_default" frame="87,339,91,29" name="button_authorize" preset="authorize_btn" text="STR_FAMILIAR_DIALOG_AUTHORIZE_BUTTON" text_color="1.0,1.0,1.0,1.0" type="button">
+		</Widget>
+		<Widget cell_padding="2" cell_space="0,0" flag="truncate" frame="9,57,44,44" item_height="44" item_width="44" name="sub_slot_0" preset="v5_familiar_slot" reserve_slots="True" scroll_type="hidden" slot_num="1" tooltip="STR_DIALOG_FAMILIAR_SUB_SLOT_TOOLTIP" type="itemview" viewmode="detail">
+		</Widget>
+	</Widget>
+	<Widget font="ui_default" frame="189,507,72,25" name="summon" preset="v5_button" text="STR_FAMILIAR_DIALOG_RECALL_BUTTON" type="button">
+	</Widget>
+	<Widget font="ui_default" frame="189,507,72,25" name="unsummon" preset="v5_button" text="STR_FAMILIAR_DIALOG_DISMISS_BUTTON" type="button">
+	</Widget>
+	<Widget font="ui_default" frame="2,507,100,25" name="show_list" preset="v5_button" text="STR_FAMILIAR_DIALOG_SHOW_MYUNIT_TAB" type="button">
+	</Widget>
+	<Widget frame="0,397,263,104" h_pos_align="left" name="tabsheet_info" type="tabsheet" v_pos_align="top">
+		<Widget btn_move_anim="False" frame="0,0,263,25" h_pos_align="proportion" preset="v5_tab" tab_offset="6,0" tab_space="0" type="tab" v_pos_align="top">
+			<Widget font="ui_default" frame="6,0,70,25" preset="v5_familiar_tabbutton" text="STR_FAMILIAR_DIALOG_FSKILL_TAB_INDEX" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="76,0,70,25" preset="v5_familiar_tabbutton" text="STR_FAMILIAR_DIALOG_FFUNCTION_TAB_INDEX" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" frame="146,0,70,25" preset="v5_familiar_tabbutton" text="STR_DIALOG_FAMILIAR_SUB_SKILL_TAB_INDEX" type="tabbutton">
+			</Widget>
+		</Widget>
+		<Widget frame="0,24,263,79" h_pos_align="proportion" name="page_skill" preset="v4_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget frame="0,3,263,76" preset="v5_staticbox" type="container">
+				<Widget frame="25,4,60,20" halign="center" text="STR_FAMILIAR_DIALOG_FSKILL_TAB_BUFF" type="static" valign="middle">
+				</Widget>
+				<Widget frame="127,4,60,20" halign="center" name="skill1_desc" text="STR_FAMILIAR_DIALOG_FSKILL_TAB_FSKILL1" type="static" valign="middle">
+				</Widget>
+				<Widget frame="188,4,60,20" halign="center" name="skill2_desc" text="STR_FAMILIAR_DIALOG_FSKILL_TAB_FSKILL2" type="static" valign="middle">
+				</Widget>
+				<Widget cell_padding="0" frame="35,25,40,40" item_height="40" item_width="40" name="skill_buff" preset="v5_itemview" type="itemview" v_pos_align="bottom">
+				</Widget>
+				<Widget cell_padding="0" frame="137,25,40,40" item_height="40" item_width="40" name="skill_dic1" preset="v5_itemview" type="itemview" v_pos_align="bottom">
+				</Widget>
+				<Widget cell_padding="0" frame="198,25,40,40" item_height="40" item_width="40" name="skill_dic2" preset="v5_itemview" type="itemview" v_pos_align="bottom">
+				</Widget>
+				<Widget cell_padding="0" frame="137,25,40,40" item_height="40" item_width="40" name="skill1" preset="v5_itemview" type="itemview" v_pos_align="bottom">
+				</Widget>
+				<Widget cell_padding="0" frame="198,25,40,40" item_height="40" item_width="40" name="skill2" preset="v5_itemview" type="itemview" v_pos_align="bottom">
+				</Widget>
+			</Widget>
+		</Widget>
+		<Widget frame="0,24,263,79" h_pos_align="proportion" name="page_func" preset="v4_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget frame="0,3,263,76" preset="v5_staticbox" type="container">
+				<Widget font="ui_default" frame="162,46,95,30" name="use_func" preset="v5_create_button" text="STR_FAMILIAR_DIALOG_FFUNCTION_USE_BUTTON" type="button">
+				</Widget>
+				<Widget font="ui_default" frame="162,43,95,30" name="show_func" preset="v5_create_button" text="STR_FAMILIAR_DIALOG_FFUNCTION_SET_BUTTON" type="button">
+				</Widget>
+				<Widget cell_padding="0" frame="7,6,40,40" item_height="40" item_width="40" name="skill_func" preset="v5_itemview" type="itemview" v_pos_align="bottom">
+				</Widget>
+				<Widget frame="55,16,201,20" halign="left" name="func_remain_time" text="STR_TOYPET_LIST_DIALOG" text_color="0.9725,0.4039,0.1804,1.0" type="static" valign="middle">
+				</Widget>
+				<Widget font="ui_default" frame="87,48,72,19" halign="left" name="auto_extend" preset="v5_check" style="checkbox" text="STR_FAMILIAR_DIALOG_FFUNCTION_CHECK_AUTOCONTINUE" text_offset="3,3" type="button">
+				</Widget>
+			</Widget>
+		</Widget>
+		<Widget frame="0,24,263,79" h_pos_align="proportion" name="page_sub" preset="v4_tabpage" type="tabpage" v_pos_align="proportion">
+			<Widget frame="0,3,263,76" preset="v5_staticbox" type="container">
+				<Widget frame="102,4,60,20" halign="center" name="sub_skill1_desc" text="STR_FAMILIAR_DIALOG_FSKILL_TAB_FSKILL1" type="static" valign="middle">
+				</Widget>
+				<Widget cell_padding="0" frame="112,25,40,40" item_height="40" item_width="40" name="sub_skill_dic1" preset="v5_itemview" type="itemview" v_pos_align="bottom">
+				</Widget>
+				<Widget cell_padding="0" frame="112,25,40,40" item_height="40" item_width="40" name="sub_skill1" preset="v5_itemview" type="itemview" v_pos_align="bottom">
+				</Widget>
+			</Widget>
+		</Widget>
+	</Widget>
+</Dialog>

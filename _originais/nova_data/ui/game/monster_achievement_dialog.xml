@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="not_visible" frame="100,100,934,622" last_modified="2017-05-31 13:42:10" name="monster_achievement_dialog" title_frame="3,3,713,14" title_offset="9,1" type="dlg_monster_achievement">
+	<Widget flag="nonclient" frame="0,0,934,622" type="image">
+		<Skin name="ma_frame">
+		</Skin>
+	</Widget>
+	<Widget direction_size="1" direction_type="vertical" drag_block_separator="false" elastic_grid_size="false" fit_item_size="True" fixed_item_size="true" flag="outer;;not_active" frame="-73,20,123,554" inner_scroll="False" item_padding="0" item_spacing="1" name="world_list" preset="v5_grid_quest_indicator" scroll_type="hidden" type="grid">
+		<Widget font="ui_default" frame="13,3,109,56" name="prototype" preset="ma_world" type="button">
+			<Widget font="ma_light" frame="28,10,69,17" halign="right" name="world_name" type="static">
+			</Widget>
+			<Widget font="ma_light" frame="28,27,69,17" halign="right" name="world_count" type="static">
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget font="ma_title" frame="188,32,135,29" halign="center" text="STR_MONSTER_ACHIEVEMENT_DIALOG__LIST_TITLE" type="static">
+	</Widget>
+	<Widget btn_move_anim="False" flag="outer" frame="51,-12,397,36" h_pos_align="proportion" name="type_tab" tab_offset="6,0" type="tab" v_pos_align="top">
+		<Widget font="ma_light" frame="6,0,85,36" name="type_all" preset="ma_type" text="STR_CHAT_DIALOG__CHAT_TABFRAME_CH_TAB_0" type="tabbutton" v_pos_align="proportion">
+		</Widget>
+	</Widget>
+	<Widget can_click_item="True" direction_size="5" direction_type="vertical" drag_block_separator="true" elastic_grid_max_rect="0,0,550,406" elastic_grid_size="False" fit_item_size="False" fixed_item_size="False" frame="50,68,412,457" h_pos_align="proportion" inner_scroll="false" item_padding="0" item_spacing="0" name="achievement_list" scroll_type="hidden" skin_type="version5" type="grid" v_pos_align="proportion">
+		<Widget frame="1,1,82,92" name="prototype" type="container">
+			<Widget flag="not_active" frame="9,8,64,64" name="icon" type="image">
+			</Widget>
+			<Widget flag="not_active" frame="46,48,28,24" name="marker" preset="ma_marker" type="image">
+			</Widget>
+			<Widget frame="-3,-4,88,100" name="cover" preset="ma_achievement_frame" type="image">
+			</Widget>
+			<Widget frame="5,66,18,18" h_pos_align="center" name="grade1" preset="ma_grade" type="image">
+			</Widget>
+			<Widget frame="19,66,18,18" h_pos_align="center" name="grade2" preset="ma_grade" type="image">
+			</Widget>
+			<Widget frame="32,66,18,18" h_pos_align="center" name="grade3" preset="ma_grade" type="image">
+			</Widget>
+			<Widget frame="45,66,18,18" h_pos_align="center" name="grade4" preset="ma_grade" type="image">
+			</Widget>
+			<Widget frame="58,66,18,18" h_pos_align="center" name="grade5" preset="ma_grade" type="image">
+			</Widget>
+			<Widget flag="not_visible" frame="-3,-4,88,100" image="ma_achievement_selected" name="selected" type="image">
+			</Widget>
+			<Widget flag="not_visible" frame="1,1,19,19" image="ma_reward_mark" name="reward_mark" type="image">
+			</Widget>
+			<Widget frame="47,8,26,26" h_pos_align="right" name="favorite" preset="ma_favorite_btn" type="button" v_pos_align="top">
+			</Widget>
+			<Widget flag="not_visible;not_active" frame="5,3,72,83" name="fx" type="container">
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget font="ui_default" frame="295,543,19,19" name="page_next" preset="ma_page_next" type="button">
+	</Widget>
+	<Widget font="ma_dark" frame="231,543,63,19" halign="center" name="page" type="static">
+	</Widget>
+	<Widget font="ui_default" frame="211,543,19,19" name="page_prev" preset="ma_page_prev" type="button">
+	</Widget>
+	<Widget frame="475,23,407,549" name="info_container" type="container">
+		<Widget font="ma_dark" font_size="-15" frame="119,7,193,24" halign="center" name="desc" type="static">
+		</Widget>
+		<Widget cam_angle="10" frame="43,57,347,304" name="model_view" type="3dview">
+			<Widget frame="189,268,34,35" h_pos_align="center" name="turnleft" preset="v5_potrait_left" type="button" v_pos_align="bottom">
+			</Widget>
+			<Widget frame="128,268,34,35" h_pos_align="center" name="turnright" preset="v5_potrait_right" type="button" v_pos_align="bottom">
+			</Widget>
+		</Widget>
+		<Widget frame="335,61,30,30" h_pos_align="right" name="desc_favorite" preset="ma_favorite_btn_info" type="button" v_pos_align="top">
+		</Widget>
+		<Widget frame="8,370,389,124" h_pos_align="proportion" name="info" type="tabsheet" v_pos_align="proportion">
+			<Widget btn_move_anim="False" frame="0,0,389,30" h_pos_align="proportion" tab_offset="6,0" type="tab" v_pos_align="proportion">
+				<Widget font="ma_light" frame="-1,0,95,30" name="tab_info" preset="ma_info" text="STR_MONSTER_ACHIEVEMENT_DIALOG__INFO_TAB_INFO" type="tabbutton" v_pos_align="proportion">
+				</Widget>
+				<Widget font="ma_light" frame="89,0,95,30" name="tab_npc" preset="ma_info" text="STR_MONSTER_ACHIEVEMENT_DIALOG__INFO_TAB_LIST" type="tabbutton" v_pos_align="proportion">
+				</Widget>
+			</Widget>
+			<Widget frame="0,29,389,95" h_pos_align="proportion" name="tabpage_info" type="tabpage" v_pos_align="bottom">
+				<Widget flag="vscroll" font="ma_dark" frame="7,10,374,77" h_pos_align="proportion" name="desc_long" scroll_type="auto" skin_type="version5" type="htmlview">
+				</Widget>
+			</Widget>
+			<Widget frame="0,29,389,95" h_pos_align="proportion" name="tabpage_npc" type="tabpage" v_pos_align="bottom">
+				<Widget column_heading="False" flag="truncate;vscroll" font="ma_listview" frame="3,5,382,84" h_pos_align="proportion" header_font="v3_columnhead" header_height="25" item_height="21" item_num="4" list_padding="0,0" name="npc_list" preset="ma_npc_list" scroll_type="visible" skin_type="version5" type="listviewex" v_pos_align="proportion">
+					<Column sample_text="MonsterName" width="250">
+					</Column>
+					<Column align="right" sample_text="SearchButton" width="100">
+					</Column>
+				</Widget>
+			</Widget>
+		</Widget>
+		<Widget font="ma_light" frame="304,507,84,33" h_pos_align="proportion" name="reward" preset="ma_reward_button" type="button" v_pos_align="bottom">
+		</Widget>
+		<Widget frame="295,496,106,58" name="reward_fx" type="container">
+		</Widget>
+		<Widget cell_padding="1" frame="12,508,32,32" item_height="32" item_width="32" name="exp" preset="v5_itemview" type="itemview">
+		</Widget>
+		<Widget font="ma_light" frame="50,505,179,18" name="exp_text" type="static">
+		</Widget>
+		<Widget frame="47,524,240,16" name="grade_gauge" preset="ma_gauge" type="gauge">
+		</Widget>
+		<Widget font="ma_light" frame="47,523,240,18" halign="center" name="grade_text" type="static">
+		</Widget>
+		<Widget flag="multiline;wordwrap" font="ma_title" font_size="16" frame="89,406,235,84" halign="center" name="no_select" text="STR_MONSTER_ACHIEVEMENT_DIALOG__NOT_SELECT" type="static" valign="middle">
+		</Widget>
+		<Widget flag="multiline;wordwrap" font="ma_title" font_size="16" frame="92,175,235,29" halign="center" name="no_grade" text="STR_MONSTER_ACHIEVEMENT_DIALOG__NOT_GAIN" type="static" valign="middle">
+		</Widget>
+		<Widget flag="not_visible" font="ma_title" font_size="16" frame="5,502,393,42" halign="center" image="ma_complete_info" name="completed" text="STR_MONSTER_ACHIEVEMENT_DIALOG__COMPLETED" text_color="0.6941,0.5725,0.4,1.0" type="container" valign="middle">
+			<Widget font="ma_title" font_size="14" frame="10,2,373,23" halign="center" text="STR_MONSTER_ACHIEVEMENT_DIALOG__COMPLETED" text_color="0.6941,0.5725,0.4,1.0" type="static" valign="middle">
+			</Widget>
+			<Widget font="ma_dark" font_size="11" frame="45,22,303,17" halign="center" name="completed_info" text_color="0.6078,0.4549,0.3451,1.0" type="static" valign="middle">
+			</Widget>
+		</Widget>
+		<Widget flag="multiline;wordwrap" font="ma_dark" frame="92,197,235,29" halign="center" name="no_grade_info" type="static" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget flag="outer" font="ui_default" frame="887,26,58,52" h_pos_align="right" name="cancel" preset="ma_close" type="button" v_pos_align="top">
+	</Widget>
+</Dialog>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="not_movable;not_focusable" frame="508,2,165,47" h_pos_align="center" last_modified="2020-09-07 20:08:54" name="target_assist_dialog" type="dlg_target_assist" v_pos_align="top">
+	<Widget frame="0,0,165,47" group="normal" name="container" type="container">
+		<Widget frame="0,0,165,47" name="bg" type="image">
+			<Skin name="v4_hud_target_assist">
+			</Skin>
+		</Widget>
+		<Widget flag="not_visible" frame="111,7,33,33" name="emblem" type="image">
+		</Widget>
+		<Widget frame="141,10,23,23" halign="center" name="level" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+		</Widget>
+		<Widget font="name" font_size="12" frame="0,0,110,18" halign="center" name="name" shade_color="0.0,0.0,0.0,1.0" shade_offset="1,1" text_shade="True" type="static" valign="middle">
+		</Widget>
+		<Widget align="left" frame="6,18,101,13" gauge_adjust="-1,-1" name="hp_gauge_bg" preset="v4_hp_gauge_target_bg" show_value="false" skin_extend="True" stage="2" state_depended="True" type="gauge">
+		</Widget>
+		<Widget align="left" frame="6,18,101,13" gauge_adjust="-1,-1" name="hp_gauge" preset="v4_hp_gauge_target" show_value="false" skin_extend="True" stage="2" state_depended="True" type="gauge">
+		</Widget>
+		<Widget frame="26,27,9,5" type="image">
+			<Skin name="v4_target_dot">
+			</Skin>
+		</Widget>
+		<Widget frame="52,27,9,5" type="image">
+			<Skin name="v4_target_dot">
+			</Skin>
+		</Widget>
+		<Widget frame="78,27,9,5" type="image">
+			<Skin name="v4_target_dot">
+			</Skin>
+		</Widget>
+	</Widget>
+</Dialog>

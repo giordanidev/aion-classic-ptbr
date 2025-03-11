@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="sub" close_offset="4,1" close_preset="v5_close" flag="close;title" frame="839,150,465,376" last_modified="2014-10-20 22:15:43" name="guild_territory_info_dialog" preset="v5_dialog2" shadow_offset="8,8" title_align="center" title_frame="3,3,118,14" title_height="25" title_offset="0,5" title_text="STR_DOMINION_INFO_DIALOG" type="dlg_guild_territory_info">
+	<Widget font="ui_default" frame="8,3,66,20" scroll_type="hidden" text="STR_DOMINION_INFO_DIALOG__SELECT" type="static">
+	</Widget>
+	<Widget column_heading="True" flag="truncate;;not_active" font="ui_list" frame="5,51,451,259" header_font="v3_columnhead" header_height="25" item_height="21" list_padding="3,3" name="rank" preset="v5_listview_ex" type="listviewex">
+		<Column align="center" img_width="" sample_text="" sort="none" title="STR_DOMINION_INFO_DIALOG__COL_RANK" width="60">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="none" title="STR_DOMINION_INFO_DIALOG__COL_GUILD" width="100">
+		</Column>
+		<Column align="center" img_width="" sample_text="" sort="none" title="STR_DOMINION_INFO_DIALOG__COL_SCORE" width="100">
+		</Column>
+		<Column align="center" sort="none" title="STR_DOMINION_INFO_DIALOG__COL_TIME" width="85">
+		</Column>
+		<Column align="center" sort="none" title="STR_DOMINION_INFO_DIALOG__COL_ENDTIME" width="100">
+		</Column>
+	</Widget>
+	<Widget font="ui_combo" frame="81,2,179,21" name="combo_territories" preset="v5_staticbox3" type="combobox">
+	</Widget>
+	<Widget font="ui_default" frame="3,319,80,24" name="show_map" preset="v5_button" text="STR_DOMINION_INFO_DIALOG__BTN_LOCATION" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="380,319,75,24" name="cancel" preset="v5_button" text="STR_DOMINION_INFO_DIALOG__BTN_CLOSE" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="8,29,78,20" scroll_type="hidden" text="STR_DOMINION_INFO_DIALOG__GUILDRANK" type="static">
+	</Widget>
+</Dialog>

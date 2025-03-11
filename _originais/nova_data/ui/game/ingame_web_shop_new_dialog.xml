@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="left" close_offset="4,1" close_preset="v5_close" flag="close;title" frame="103,162,1045,835" last_modified="2017-01-04 17:55:44" name="ingame_web_shop_new_dialog" preset="v5_dialog2" shadow_offset="8,8" title_align="center" title_frame="3,3,478,14" title_height="25" title_offset="0,5" type="dlg_ingame_web_shop_new" ui_mode="housing">
+	<Widget frame="6,5,1030,765" h_pos_align="proportion" name="main_browser" preset="v5_staticbox" type="browser" v_pos_align="proportion">
+	</Widget>
+	<Widget font="ui_default" frame="967,778,70,24" h_pos_align="right" name="cancel" preset="v5_button" text="STR_DLG_DIALOG__CLOSE" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

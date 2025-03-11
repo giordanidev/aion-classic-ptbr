@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="close;title" frame="450,130,406,379" last_modified="2014-10-27 17:38:19" name="equip_stigma_dialog" preset="v5_dialog2" title_frame="3,3,398,14" title_text="STR_STIGMA_DIALOG" type="dlg_equip_stigma">
+	<Widget frame="0,0,400,315" name="bg" type="image">
+		<Skin name="v5_stigma_bg" state="0">
+		</Skin>
+	</Widget>
+	<Widget cell_padding="19" frame="66,191,78,78" item_height="78" item_width="78" name="stigma_stone_normal1" preset="v5_stigma_stone_normal" type="itemview">
+	</Widget>
+	<Widget cell_padding="19" frame="161,235,78,78" item_height="78" item_width="78" name="stigma_stone_normal2" preset="v5_stigma_stone_normal" type="itemview">
+	</Widget>
+	<Widget cell_padding="19" frame="255,191,78,78" item_height="78" item_width="78" name="stigma_stone_normal3" preset="v5_stigma_stone_normal" type="itemview">
+	</Widget>
+	<Widget cell_padding="19" frame="53,81,78,78" item_height="78" item_width="78" name="stigma_stone_high1" preset="v5_stigma_stone_high" type="itemview">
+	</Widget>
+	<Widget cell_padding="19" frame="264,80,78,78" item_height="78" item_width="78" name="stigma_stone_high2" preset="v5_stigma_stone_high" type="itemview">
+	</Widget>
+	<Widget cell_padding="19" frame="162,11,78,78" item_height="78" item_width="78" name="stigma_stone_highest1" preset="v5_stigma_stone_highest" type="itemview">
+	</Widget>
+	<Widget font="ui_default" frame="330,322,68,24" name="cancel_button" preset="v5_button" text="STR_SKIN_CHANGE_DIALOG__CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="261,322,68,24" name="ok_button" preset="v5_button" text="STR_SKIN_CHANGE_DIALOG__OK" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

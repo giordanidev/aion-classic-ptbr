@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="resizable;transparent;not_movable" frame="0,0,394,150" last_modified="2020-09-07 20:08:54" name="chat_sep_dialog" type="dlg_chat_sep" ui_mode="housing;toypet">
+	<Widget flag="not_active" frame="2,2,390,146" h_pos_align="proportion" name="chat_tabframe" type="tabsheet" v_pos_align="proportion">
+		<Widget flag="not_active" frame="0,0,390,24" h_pos_align="proportion" preset="v4_chat_tab" tab_frame="0,0,390,24" tab_offset="25,0" type="tab" v_pos_align="top">
+		</Widget>
+	</Widget>
+</Dialog>

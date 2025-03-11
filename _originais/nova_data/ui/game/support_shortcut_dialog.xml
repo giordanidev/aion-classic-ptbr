@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="transparent" frame="0,0,600,283" last_modified="2020-09-07 20:08:54" name="support_shortcut_dialog" type="dlg_support_shortcut">
+	<Widget cell_padding="0" flag="not_visible" font="v3_shortcut" frame="515,1,40,40" item_height="40" item_width="40" name="skill_cond_1" one_click_action="True" type="itemview">
+	</Widget>
+	<Widget cell_padding="0" flag="not_visible" font="v3_shortcut" frame="515,46,40,40" item_height="40" item_width="40" name="skill_cond_2" one_click_action="True" type="itemview">
+	</Widget>
+	<Widget cell_padding="0" flag="not_visible" font="v3_shortcut" frame="515,91,40,40" item_height="40" item_width="40" name="skill_cond_3" one_click_action="True" type="itemview">
+	</Widget>
+	<Widget cell_padding="0" flag="not_visible" font="v3_shortcut" frame="515,136,40,40" item_height="40" item_width="40" name="skill_cond_4" one_click_action="True" type="itemview">
+	</Widget>
+	<Widget cell_padding="0" flag="not_visible" font="v3_shortcut" frame="515,181,40,40" item_height="40" item_width="40" name="skill_cond_5" one_click_action="True" type="itemview">
+	</Widget>
+	<Widget cell_padding="0" flag="not_visible" font="v3_shortcut" frame="515,230,40,40" item_height="40" item_width="40" name="skill_cond_6" one_click_action="True" type="itemview">
+	</Widget>
+	<Widget cell_padding="0" flag="not_visible" font="v3_shortcut" frame="557,1,40,40" item_height="40" item_width="40" name="skill_chain_1" one_click_action="True" type="itemview">
+	</Widget>
+	<Widget cell_padding="0" flag="not_visible" font="v3_shortcut" frame="557,46,40,40" item_height="40" item_width="40" name="skill_chain_2" one_click_action="True" type="itemview">
+	</Widget>
+	<Widget cell_padding="0" flag="not_visible" font="v3_shortcut" frame="557,91,40,40" item_height="40" item_width="40" name="skill_chain_3" one_click_action="True" type="itemview">
+	</Widget>
+	<Widget cell_padding="0" flag="not_visible" font="v3_shortcut" frame="557,136,40,40" item_height="40" item_width="40" name="skill_chain_4" one_click_action="True" type="itemview">
+	</Widget>
+	<Widget cell_padding="0" flag="not_visible" font="v3_shortcut" frame="557,181,40,40" item_height="40" item_width="40" name="skill_chain_5" one_click_action="True" type="itemview">
+	</Widget>
+	<Widget cell_padding="0" flag="not_visible" font="v3_shortcut" frame="557,230,40,40" item_height="40" item_width="40" name="skill_chain_6" one_click_action="True" type="itemview">
+	</Widget>
+</Dialog>

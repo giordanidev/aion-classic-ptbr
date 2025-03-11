@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="close;title;focusable" frame="0,0,294,195" last_modified="2014-08-22 12:58:42" name="emoticon_dialog" preset="v5_dialog2" shadow_offset="8,8" title_align="center" title_frame="3,3,272,14" title_height="25" title_offset="0,5" title_text="STR_EMOTICON_DIALOG" type="dlg_emoticon">
+	<Widget font="ui_default" frame="218,138,68,24" name="cancel" preset="v5_button" text="STR_TUTORIAL_DIALOG__CANCEL" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget frame="4,0,281,132" preset="v5_staticbox" type="container">
+		<Widget flag="vscroll" frame="3,2,278,127" name="scrollable" scroll_type="auto" skin_type="version5" type="scrollable">
+		</Widget>
+	</Widget>
+</Dialog>

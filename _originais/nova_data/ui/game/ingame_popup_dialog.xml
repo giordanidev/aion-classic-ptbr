@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="left" close_offset="4,1" close_preset="v5_close" flag="close;title" frame="370,290,540,380" last_modified="2014-08-22 12:58:42" name="ingame_popup_dialog" preset="v5_msgbox" shadow_offset="8,8" title_align="center" title_frame="3,3,468,14" title_height="25" title_offset="0,5" title_text="STR_INGAME_POPUP_TITLE" type="dlg_ingame_popup" ui_mode="housing">
+	<Widget frame="11,5,512,256" h_pos_align="proportion" name="main_browser" preset="v5_staticbox" type="browser" v_pos_align="proportion">
+	</Widget>
+	<Widget font="ui_default" frame="2,324,70,24" h_pos_align="right" name="shop" preset="v5_button" text="STR_INGAME_POPUP_SHOP_BUTTON" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="462,324,70,24" h_pos_align="right" name="close" preset="v5_button" text="STR_DLG_DIALOG__CLOSE" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="2,289,127,19" name="cb_stop_dialog_today" preset="v5_check" style="checkbox" text="STR_INGAME_POPUP_DAY_CHECK" text_offset="5,0" type="button" valign="middle">
+	</Widget>
+	<Widget font="ui_default" frame="422,279,109,35" name="in_detail" text="STR_INGAME_POPUP_INFO_BUTTON" type="button">
+	</Widget>
+</Dialog>

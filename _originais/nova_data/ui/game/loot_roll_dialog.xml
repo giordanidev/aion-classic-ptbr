@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="10,5" flag="title" frame="99,448,260,142" last_modified="2020-09-07 20:08:54" name="loot_roll_dialog" preset="v4_msgbox" title_align="left" title_frame="3,3,219,14" title_offset="10,5" type="dlg_loot_roll">
+	<Widget flag="truncate" frame="7,11,235,44" item_height="44" item_width="44" name="lootitem" preset="v4_listview" reserve_slots="True" scroll_type="hidden" slot_num="1" type="listview" viewmode="detail">
+		<Column align="" title="" width="1000">
+		</Column>
+	</Widget>
+	<Widget frame="7,57,235,18" name="remain" type="static">
+	</Widget>
+	<Widget frame="7,75,235,9" name="remain_gauge" preset="v4_slot_gauge" type="gauge">
+	</Widget>
+	<Widget frame="2,92,125,26" name="roll" preset="v4_button" type="button">
+	</Widget>
+	<Widget frame="182,92,68,26" name="abandon" preset="v4_button" text="STR_LOOT_ROLL_DIALOG__DISMISS" type="button">
+	</Widget>
+</Dialog>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="task" close_offset="3,3" close_preset="v5_attend_close" flag="close;title" frame="100,100,588,193" last_modified="2020-03-25 15:12:45" name="itemcollectionlevel_dialog" preset="v7_mission_bg_container" shadow_offset="0" text_color="1.0,1.0,1.0,1.0" title_align="center" title_frame="3,3,346,14" title_height="25" title_offset="0,8" title_text="STR_ITEMCOLLECTION_DIALOG_LEVEL_TITLE" type="dlg_itemcollection_level">
+	<Widget column_heading="False" flag="truncate;vscroll" font="v3_quest_list" frame="6,10,576,155" header_height="25" item_height="21" item_num="4" item_padding="5" list_padding="0,3" name="attr_buff_list" preset="v7_listview_ex" scroll_type="visible" skin_type="shop" type="listviewex">
+		<Column align="left" img_width="" sort="param" title="collection_level" width="100">
+		</Column>
+		<Column align="left" img_width="" title="collection_reward1" width="150">
+		</Column>
+		<Column align="left" img_width="" title="collection_reward2" width="150">
+		</Column>
+		<Column align="left" img_width="" title="collection_reward3" width="150">
+		</Column>
+	</Widget>
+</Dialog>

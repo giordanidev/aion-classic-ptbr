@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="left" close_offset="4,1" close_preset="v5_close" flag="close;title" frame="30,155,406,512" last_modified="2014-08-22 13:09:04" name="guild_challenge_task_dialog" preset="v5_dialog2" prev_html="False" shadow_offset="8,8" title_frame="3,3,194,14" title_height="25" title_offset="0,5" title_text="STR_GUILD_CHALLENGE_TASK_DIALOG__TITLE" type="dlg_guild_challenge_task">
+	<Widget font="ui_combo" frame="289,1,109,23" halign="left" item_height="18" max_items="2" name="combobox" padding="8" preset="v5_staticbox3" type="combobox">
+		<Items>
+			<Item name="STR_GUILD_CHALLENGE_TASK_DIALOG__SELECT_PAGE_COMBOBOX_WIDGET1_ITEM1">
+			</Item>
+			<Item name="STR_GUILD_CHALLENGE_TASK_DIALOG__SELECT_PAGE_COMBOBOX_WIDGET1_ITEM2">
+			</Item>
+		</Items>
+	</Widget>
+	<Widget cell_padding="10,0" column_heading="False" flag="vscroll" font="challenge_task_list" frame="4,29,393,181" group="working" header_height="0" item_height="30" item_num="5" item_padding="10" item_padding_right="26" list_padding="0,0" name="working_list" preset="v5_challenge_task_list" scroll_type="visible" skin_type="version5" type="listviewex">
+		<Widget flag="not_visible" font="challenge_task_list" frame="5,30,366,28" halign="center" name="working_empty" text="STR_GUILD_CHALLENGE_TASK_DIALOG__UNKNOWN" type="static">
+		</Widget>
+		<Column align="left" img_width="" sample_text="working achievement" sort="param" title="" width="260">
+		</Column>
+		<Column align="right" img_width="" sample_text="10/10" sort="" title="" width="76">
+		</Column>
+	</Widget>
+	<Widget cell_padding="10,0" column_heading="False" flag="vscroll;not_visible" font="challenge_task_list" frame="4,29,393,181" group="finished" header_height="0" item_height="30" item_num="5" item_padding="10" item_padding_right="26" list_padding="0,0" name="finished_list" preset="v5_challenge_task_list" scroll_type="visible" skin_type="version5" type="listviewex">
+		<Widget flag="not_visible" font="challenge_task_list" frame="5,30,366,28" halign="center" name="finished_empty" type="static">
+		</Widget>
+		<Column align="left" img_width="" sample_text="finished achievement" sort="param" title="" width="260">
+		</Column>
+		<Column align="right" img_width="" sample_text="10/10" sort="" title="" width="76">
+		</Column>
+	</Widget>
+	<Widget font="ui_default" frame="330,455,68,24" name="cancel" preset="v5_button" text="STR_COMMON__CLOSE" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget frame="4,210,393,240" h_pos_align="proportion" type="container" v_pos_align="proportion">
+		<Skin name="v5_challenge_task_bg">
+		</Skin>
+		<Widget flag="vscroll" frame="8,8,378,226" name="challenge_task" rearrange="False" scroll_type="visible" skin_type="parchment" type="scrollable">
+			<Widget flag="multiline;wordwrap" font="challenge_task_summary" frame="7,7,346,77" halign="left" name="desc" padding="5,5" scroll_type="auto" text_color="0.0,0.0,0.0,1.0" type="static" valign="top">
+				<Skin name="v5_challenge_task_text">
+				</Skin>
+			</Widget>
+			<Widget cell_padding="10,0" column_heading="False" font="challenge_task_quest_list" frame="7,88,345,101" header_height="0" item_height="25" item_num="2" item_padding="5" name="quest_list" preset="v5_challenge_task_quest_list" type="listviewex">
+				<Column align="center" img_width="" sample_text="*" sort="" title="" width="20">
+				</Column>
+				<Column align="left" img_width="" sample_text="quest" sort="" title="" width="240">
+				</Column>
+				<Column align="left" img_width="" sample_text="[1/10]" sort="" title="" width="70">
+				</Column>
+			</Widget>
+			<Widget frame="7,193,345,65" group="reward" name="union_reward" type="container">
+				<Widget font="v3_quest_subtitle" frame="0,0,181,20" text="STR_GUILD_CHALLENGE_TASK_DIALOG__REWARD_UNION" type="static">
+				</Widget>
+				<Widget cell_padding="2" font="quest_reward_listview" frame="28,21,317,44" item_height="44" item_width="44" name="union_reward_item" preset="v5_listview_quest" reserve_slots="True" scroll_type="hidden" slot_num="1" type="listview">
+					<Column align="" title="" width="9999">
+					</Column>
+				</Widget>
+			</Widget>
+			<Widget frame="7,266,345,290" group="reward" name="rank_reward" type="container">
+				<Widget font="v3_quest_subtitle" frame="0,0,181,20" text="STR_GUILD_CHALLENGE_TASK_DIALOG__REWARD_RANK" type="static">
+				</Widget>
+				<Widget font="v3_quest_subtitle" frame="17,21,181,20" name="rank_reward_desc1" type="static">
+				</Widget>
+				<Widget cell_padding="2" font="quest_reward_listview" frame="28,42,317,44" item_height="44" item_width="44" name="rank_reward_item1" preset="v5_listview_quest" reserve_slots="True" scroll_type="hidden" slot_num="1" type="listview">
+					<Column align="" title="" width="9999">
+					</Column>
+				</Widget>
+				<Widget font="v3_quest_subtitle" frame="17,88,181,20" name="rank_reward_desc2" type="static">
+				</Widget>
+				<Widget cell_padding="2" font="quest_reward_listview" frame="28,109,317,44" item_height="44" item_width="44" name="rank_reward_item2" preset="v5_listview_quest" reserve_slots="True" scroll_type="hidden" slot_num="1" type="listview">
+					<Column align="" title="" width="9999">
+					</Column>
+				</Widget>
+				<Widget font="v3_quest_subtitle" frame="17,155,181,20" name="rank_reward_desc3" type="static">
+				</Widget>
+				<Widget cell_padding="2" font="quest_reward_listview" frame="28,176,317,44" item_height="44" item_width="44" name="rank_reward_item3" preset="v5_listview_quest" reserve_slots="True" scroll_type="hidden" slot_num="1" type="listview">
+					<Column align="" title="" width="9999">
+					</Column>
+				</Widget>
+				<Widget font="v3_quest_subtitle" frame="17,222,181,20" name="rank_reward_desc4" type="static">
+				</Widget>
+				<Widget cell_padding="2" font="quest_reward_listview" frame="28,243,317,44" item_height="44" item_width="44" name="rank_reward_item4" preset="v5_listview_quest" reserve_slots="True" scroll_type="hidden" slot_num="1" type="listview">
+					<Column align="" title="" width="9999">
+					</Column>
+				</Widget>
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget font="ui_default" frame="2,455,68,24" h_pos_align="right" name="help" preset="v5_button" text="STR_COMMON__HELP" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

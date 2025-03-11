@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="left" close_offset="3,3" close_preset="v5_attend_close" flag="close;title" frame="730,470,256,236" h_pos_align="proportion" last_modified="2018-10-16 9:24:15" name="dictionary_dialog2" preset="v7_mission_bg_container" shadow_offset="0" title_align="center" title_frame="3,3,247,14" title_height="15" title_offset="0,8" title_text="STR_DICTIONARY_DIALOG" type="dlg_dictionary2" v_pos_align="proportion">
+	<Widget frame="3,13,250,177" type="image">
+		<Skin name="shop_buy_bg">
+		</Skin>
+	</Widget>
+	<Widget flag="vscroll" frame="15,50,226,126" name="contents" skin_type="parchment" text_color="0.851,0.8431,0.6902,1.0" type="htmlview">
+	</Widget>
+	<Widget font="ui_default" frame="182,190,68,24" name="cancel" preset="v5_button" text="STR_DICTIONARY_DIALOG_CANCEL" type="button">
+	</Widget>
+	<Widget font="ui_default" frame="75,190,68,24" name="find_npc" preset="v5_button" text="STR_DICTIONARY_DIALOG_FIND_NPC" type="button">
+	</Widget>
+	<Widget font="ui_default" frame="6,190,68,24" name="cancel_find_npc" preset="v5_button" text="STR_DICTIONARY_DIALOG_CANCEL_FIND_NPC" type="button">
+	</Widget>
+	<Widget frame="42,21,19,25" name="back_button" preset="v5_prev_btn" type="button">
+	</Widget>
+	<Widget frame="197,21,19,25" name="forward_button" preset="v5_next_btn" type="button">
+	</Widget>
+	<Widget flag="wordwrap;multiline" font="v3_dic_title" frame="63,18,133,30" halign="center" name="headword" scroll_type="hidden" text_color="0.851,0.8431,0.6902,1.0" type="static" valign="middle">
+	</Widget>
+</Dialog>

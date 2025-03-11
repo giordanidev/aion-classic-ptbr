@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="10,5" close_preset="v5_close" flag="title" frame="440,130,398,137" last_modified="2016-06-27 12:04:04" name="tournament_kill_dialog" preset="v5_dialog" shadow_offset="8,8" title_align="center" title_frame="3,3,414,14" title_height="25" title_offset="10,5" title_text="STR_TOURNAMENT_KILL_ENEMY_DIALOG_TITLE" type="dlg_tournament_kill" ui_mode="housing;housing_building" v_pos_align="middle">
+	<Widget font="ui_default" frame="5,4,382,95" h_pos_align="left" name="tournament_kill_info" padding="5,12" preset="v5_staticbox" type="htmlview" v_pos_align="top">
+	</Widget>
+</Dialog>

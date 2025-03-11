@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog flag="not_movable" frame="0,0,387,138" last_modified="2018-06-22 13:20:05" name="transformbook_collection_complete_dialog" prev_html="True" title_frame="3,3,316,14" type="dlg_transformbook_collection_complete">
+	<Widget frame="43,-36,300,200" name="fx" type="static">
+	</Widget>
+	<Widget frame="0,0,387,138" image="v5_transform_collection_complete_bg" name="bg_image" type="image">
+	</Widget>
+	<Widget frame="6,30,375,30" image="v5_transform_collection_complete_title" name="title_image" type="image">
+	</Widget>
+	<Widget frame="6,60,375,74" image="v5_transform_collection_complete_slots" name="slots_image" preset="v5_transform_collection_complete_slots" type="image">
+	</Widget>
+	<Widget color="0.9922,0.9961,0.6392,1.0" flag="textalpha" font_size="14" frame="6,3,375,25" halign="center" name="complete" text="STR_TRANSFORMATION_COLLECTION_NOTICE" type="static" valign="middle">
+	</Widget>
+	<Widget color="0.9922,0.9961,0.6392,1.0" flag="textalpha" font_size="16" frame="6,30,375,30" h_pos_align="center" halign="center" name="desc" text="타이틀" type="static" v_pos_align="middle" valign="middle">
+	</Widget>
+	<Widget flag="textalpha" font_size="14" frame="6,60,375,74" halign="center" name="message" text="아무것도 없을 때" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+	</Widget>
+	<Widget cell_padding="0" frame="21,74,44,44" item_height="44" item_width="44" name="slot1" preset="v5_transform_slot" type="itemview">
+	</Widget>
+	<Widget cell_padding="0" frame="81,74,44,44" item_height="44" item_width="44" name="slot2" preset="v5_transform_slot" type="itemview">
+	</Widget>
+	<Widget cell_padding="0" frame="141,74,44,44" item_height="44" item_width="44" name="slot3" preset="v5_transform_slot" type="itemview">
+	</Widget>
+	<Widget cell_padding="0" frame="201,74,44,44" item_height="44" item_width="44" name="slot4" preset="v5_transform_slot" type="itemview">
+	</Widget>
+	<Widget cell_padding="0" frame="261,74,44,44" item_height="44" item_width="44" name="slot5" preset="v5_transform_slot" type="itemview">
+	</Widget>
+	<Widget cell_padding="0" frame="321,74,44,44" item_height="44" item_width="44" name="slot6" preset="v5_transform_slot" type="itemview">
+	</Widget>
+	<Widget frame="105,0,182,138" image="v5_transform_collection_complete_bg_mark" name="bg_mark_image" type="image">
+	</Widget>
+</Dialog>

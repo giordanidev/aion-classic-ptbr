@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog align_type="task" close_offset="3,3" close_preset="v5_attend_close" flag="close;title" frame="100,100,1085,782" last_modified="2020-09-09 18:50:22" name="itemcollection_dialog" preset="v7_mission_bg_container" shadow_offset="0" text_color="1.0,1.0,1.0,1.0" title_align="center" title_frame="3,3,1027,14" title_height="25" title_offset="0,8" title_text="STR_ITEMCOLLECTION_DIALOG_MAIN_TITLE" type="dlg_itemcollection">
+	<Widget frame="2,9,831,713" h_pos_align="proportion" name="collection_grade" type="tabsheet" v_pos_align="proportion">
+		<Widget frame="1,0,828,712" name="collection_body" preset="v7_mission_bg_container" type="container">
+		</Widget>
+		<Widget color="1.0,1.0,1.0,1.0" font_size="12" frame="4,3,822,30" name="collection_head" preset="v5_scheduled_mission_static" text_color="1.0,1.0,1.0,1.0" type="static">
+		</Widget>
+		<Widget btn_move_anim="False" frame="4,2,825,30" h_pos_align="proportion" preset="shop_menu" tab_offset="0,0" tab_space="0" type="tab" v_pos_align="top">
+			<Widget font="ui_default" font_size="14" frame="1,0,162,30" name="tab_common" preset="shop_main_tab" text="STR_itemcollection_tab_common" text_color="1.0,1.0,1.0,1.0" text_over_color="0.1765,1.0,1.0,1.0" text_selected_color="0.0,0.502,0.7529,1.0" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" font_size="14" frame="163,0,162,30" name="tab_ancient" preset="shop_main_tab" text="STR_itemcollection_tab_ancient" text_color="1.0,1.0,1.0,1.0" text_over_color="0.1765,1.0,1.0,1.0" text_selected_color="0.0,0.502,0.7529,1.0" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" font_size="14" frame="326,0,162,30" name="tab_relic" preset="shop_main_tab" text="STR_itemcollection_tab_relic" text_color="1.0,1.0,1.0,1.0" text_over_color="0.1765,1.0,1.0,1.0" text_selected_color="0.0,0.502,0.7529,1.0" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" font_size="14" frame="489,0,164,30" name="tab_event" preset="shop_main_tab" text="STR_itemcollection_tab_event" text_color="1.0,1.0,1.0,1.0" text_over_color="0.1765,1.0,1.0,1.0" text_selected_color="0.0,0.502,0.7529,1.0" type="tabbutton">
+			</Widget>
+			<Widget font="ui_default" font_size="14" frame="658,0,164,30" name="tab_favorite" preset="shop_main_tab" text="STR_itemcollection_tab_favorite" text_color="1.0,1.0,1.0,1.0" text_over_color="0.1765,1.0,1.0,1.0" text_selected_color="0.0,0.502,0.7529,1.0" type="tabbutton">
+			</Widget>
+		</Widget>
+		<Widget frame="0,65,828,661" h_pos_align="proportion" name="page_common" preset="v4_tabpage" type="tabpage" v_pos_align="proportion">
+		</Widget>
+		<Widget frame="0,65,828,661" h_pos_align="proportion" name="page_ancient" preset="v4_tabpage" type="tabpage" v_pos_align="proportion">
+		</Widget>
+		<Widget frame="0,65,828,661" h_pos_align="proportion" name="page_relic" preset="v4_tabpage" type="tabpage" v_pos_align="proportion">
+		</Widget>
+		<Widget frame="0,65,828,661" h_pos_align="proportion" name="page_event" preset="v4_tabpage" type="tabpage" v_pos_align="proportion">
+		</Widget>
+		<Widget frame="0,65,828,661" h_pos_align="proportion" name="page_favorite" preset="v4_tabpage" type="tabpage" v_pos_align="proportion">
+		</Widget>
+		<Widget frame="6,65,818,80" name="collenction_level" preset="v7_dark_static" type="container">
+			<Widget color="1.0,1.0,1.0,1.0" font_size="12" frame="2,2,814,20" halign="center" name="level_item_collection_head" text="STR_ITEMCOLLECTION_DIALOG_TITLE_LEVEL" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+				<Skin name="v7_banner_01">
+				</Skin>
+			</Widget>
+			<Widget font="v3_option" font_size="14" frame="14,34,66,34" name="level_item_collection" text="STR_itemcollection_level" text_color="0.5451,0.8235,0.9843,1.0" type="static">
+			</Widget>
+			<Widget frame="81,42,611,19" name="gauge_item_collection" preset="v7_itemcollection_level_gauge" type="gauge">
+			</Widget>
+			<Widget defbutton="False" font="ui_default" font_size="14" frame="689,31,121,40" name="level_reward_btn" preset="v7_itemcollection_level_btn" text="STR_itemcollection_level_reward" text_color="1.0,1.0,1.0,1.0" type="button" v_pos_align="bottom" valign="middle">
+			</Widget>
+			<Widget font="v3_option" font_size="13" frame="0,0,818,80" halign="center" name="level_none" preset="v7_dark_static" text="STR_itemcollection_level_none" type="static">
+			</Widget>
+		</Widget>
+		<Widget flag="vscroll" frame="6,148,818,561" name="collection_list" skin_type="shop" type="grid">
+		</Widget>
+		<Widget frame="8,150,802,136" name="prototype" preset="v7_itemcollect_list" type="container">
+			<Widget frame="11,37,168,20" halign="center" name="buff_active1" preset="v7_dark_static" type="static" valign="middle">
+			</Widget>
+			<Widget frame="188,37,168,20" halign="center" name="buff_active2" preset="v7_dark_static" type="static" valign="middle">
+			</Widget>
+			<Widget frame="366,37,168,20" halign="center" name="buff_active3" preset="v7_dark_static" type="static" valign="middle">
+			</Widget>
+			<Widget cell_padding="0" frame="751,85,44,44" item_height="44" item_width="44" name="slot10" preset="Auto_skill_slot_empty" type="itemview">
+			</Widget>
+			<Widget cell_padding="0" frame="701,85,44,44" item_height="44" item_width="44" name="slot9" preset="Auto_skill_slot_empty" type="itemview">
+			</Widget>
+			<Widget cell_padding="0" frame="651,85,44,44" item_height="44" item_width="44" name="slot8" preset="Auto_skill_slot_empty" type="itemview">
+			</Widget>
+			<Widget cell_padding="0" frame="601,85,44,44" item_height="44" item_width="44" name="slot7" preset="Auto_skill_slot_empty" type="itemview">
+			</Widget>
+			<Widget cell_padding="0" frame="551,85,44,44" item_height="44" item_width="44" name="slot6" preset="Auto_skill_slot_empty" type="itemview">
+			</Widget>
+			<Widget cell_padding="0" frame="751,36,44,44" item_height="44" item_width="44" name="slot5" preset="Auto_skill_slot_empty" type="itemview">
+			</Widget>
+			<Widget cell_padding="0" frame="701,36,44,44" item_height="44" item_width="44" name="slot4" preset="Auto_skill_slot_empty" type="itemview">
+			</Widget>
+			<Widget cell_padding="0" frame="651,36,44,44" item_height="44" item_width="44" name="slot3" preset="Auto_skill_slot_empty" type="itemview">
+			</Widget>
+			<Widget cell_padding="0" frame="601,36,44,44" item_height="44" item_width="44" name="slot2" preset="Auto_skill_slot_empty" type="itemview">
+			</Widget>
+			<Widget cell_padding="0" frame="551,35,44,44" item_height="44" item_width="44" name="slot1" preset="Auto_skill_slot_empty" type="itemview">
+			</Widget>
+			<Widget font_size="11" frame="579,39,14,14" halign="center" name="badge_S1" preset="v7_new_badge" type="static" valign="middle">
+			</Widget>
+			<Widget font_size="11" frame="629,39,14,14" halign="center" name="badge_S2" preset="v7_new_badge" type="static" valign="middle">
+			</Widget>
+			<Widget font_size="11" frame="679,39,14,14" halign="center" name="badge_S3" preset="v7_new_badge" type="static" valign="middle">
+			</Widget>
+			<Widget font_size="11" frame="729,39,14,14" halign="center" name="badge_S4" preset="v7_new_badge" type="static" valign="middle">
+			</Widget>
+			<Widget font_size="11" frame="779,39,14,14" halign="center" name="badge_S5" preset="v7_new_badge" type="static" valign="middle">
+			</Widget>
+			<Widget font_size="11" frame="579,88,14,14" halign="center" name="badge_S6" preset="v7_new_badge" type="static" valign="middle">
+			</Widget>
+			<Widget font_size="11" frame="629,88,14,14" halign="center" name="badge_S7" preset="v7_new_badge" type="static" valign="middle">
+			</Widget>
+			<Widget font_size="11" frame="679,88,14,14" halign="center" name="badge_S8" preset="v7_new_badge" type="static" valign="middle">
+			</Widget>
+			<Widget font_size="11" frame="729,88,14,14" halign="center" name="badge_S9" preset="v7_new_badge" type="static" valign="middle">
+			</Widget>
+			<Widget font_size="11" frame="779,88,14,14" halign="center" name="badge_S10" preset="v7_new_badge" type="static" valign="middle">
+			</Widget>
+			<Widget flag="truncate" font="v3_option" font_size="15" frame="47,0,684,28" halign="center" name="collenction_name" text_color="0.5451,0.8235,0.9843,1.0" type="static">
+			</Widget>
+			<Widget cell_padding="2" flag="wordwrap" frame="235,62,44,44" item_height="64" item_width="64" name="d_reward_item_slot6" preset="v7_item_slot_empty" type="itemview">
+			</Widget>
+			<Widget cell_padding="2" flag="wordwrap" frame="190,62,44,44" item_height="64" item_width="64" name="d_reward_item_slot5" preset="v7_item_slot_empty" type="itemview">
+			</Widget>
+			<Widget cell_padding="2" flag="wordwrap" frame="146,62,44,44" item_height="64" item_width="64" name="d_reward_item_slot4" preset="v7_item_slot_empty" type="itemview">
+			</Widget>
+			<Widget cell_padding="2" flag="wordwrap" frame="101,62,44,44" item_height="64" item_width="64" name="d_reward_item_slot3" preset="v7_item_slot_empty" type="itemview">
+			</Widget>
+			<Widget cell_padding="2" flag="wordwrap" frame="56,62,44,44" item_height="64" item_width="64" name="d_reward_item_slot2" preset="v7_item_slot_empty" type="itemview">
+			</Widget>
+			<Widget cell_padding="2" flag="wordwrap" frame="11,62,44,44" item_height="64" item_width="64" name="d_reward_item_slot1" preset="v7_item_slot_empty" type="itemview">
+			</Widget>
+			<Widget font="v3_option" font_size="15" frame="744,1,54,27" name="progress_condition" text="STR_itemcollection_progress_condition" text_color="1.0,1.0,1.0,1.0" type="static">
+			</Widget>
+			<Widget font="ui_default" frame="8,3,21,20" name="favorite_btn" preset="v7_favorites" style="checkbox" text="STR_itemcollection_button_favorite" text_offset="3,0" type="button">
+			</Widget>
+			<Widget font="ui_default" font_size="12" frame="11,109,488,20" halign="left" name="collection_date" padding="2.0" text="STR_itemcollection_date_summit" text_color="0.1294,0.9059,0.5294,1.0" type="static">
+			</Widget>
+			<Widget font="v3_option" font_size="13" frame="0,-3,802,134" halign="center" name="collect_complete" preset="v7_mission_success_bg&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xA;" type="static">
+			</Widget>
+		</Widget>
+	</Widget>
+	<Widget frame="6,42,822,30" name="Sub_tab" type="static">
+		<Skin name="v7_sub_tab_static">
+		</Skin>
+	</Widget>
+	<Widget font="ui_default" frame="23,45,130,24" name="total_list" preset="v7_check01" style="checkbox" text="STR_itemcollection_button_all" text_offset="4,0" text_over_color="1.0,0.4275,0.1608,1.0" text_selected_color="1.0,0.4275,0.1608,1.0" type="button" valign="middle">
+	</Widget>
+	<Widget font="ui_default" frame="166,45,130,24" name="incompletion_list" preset="v7_check01" style="checkbox" text="STR_itemcollection_button_lock" text_offset="4,0" text_over_color="1.0,0.4275,0.1608,1.0" text_selected_color="1.0,0.4275,0.1608,1.0" type="button" valign="middle">
+	</Widget>
+	<Widget font="ui_default" frame="309,45,130,24" name="complete_list" preset="v7_check01" style="checkbox" text="STR_itemcollection_button_unlock" text_offset="4,0" text_over_color="1.0,0.4275,0.1608,1.0" text_selected_color="1.0,0.4275,0.1608,1.0" type="button" valign="middle">
+	</Widget>
+	<Widget frame="418,721,410,30" halign="left" name="search_filter_BG" padding="30,0" preset="v7_dark_static" type="static" valign="middle">
+	</Widget>
+	<Widget frame="418,721,293,30" halign="center" name="search_filter" padding="8,0" type="static" valign="middle">
+	</Widget>
+	<Widget defbutton="False" font="ui_default" frame="714,721,114,30" name="search_attr_btn" preset="v7_filter_btn" text="STR_itemcollection_button_search_buff" text_color="1.0,1.0,1.0,1.0" text_offset="28,0" type="button" v_pos_align="bottom" valign="middle">
+	</Widget>
+	<Widget frame="828,9,254,383" name="sellect_item_title" preset="v7_mission_bg_container" type="container">
+		<Widget font_size="13" frame="3,3,248,30" halign="center" name="sellect_item_title_head" preset="v5_scheduled_mission_static" text="STR_ITEMCOLLECTION_DIALOG_MAIN_ITEMINFO" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+		</Widget>
+		<Widget cell_padding="3" cell_space="0,0" flag="vscroll" font="ui_list" frame="7,36,240,196" h_pos_align="proportion" header_font="v3_columnhead" header_height="0" item_height="44" item_width="44" list_padding="3,3" name="change_item_list" preset="v7_listview_02" scroll_type="visible" skin_type="luna" slot_num="10" type="listview" v_pos_align="proportion" viewmode="detail">
+			<Column align="" width="182">
+			</Column>
+		</Widget>
+		<Widget frame="9,237,235,53" name="sellect_item" type="container">
+			<Widget cell_padding="2" frame="4,6,44,44" item_height="44" item_width="44" name="select_item_icon" preset="Auto_skill_slot_empty" type="itemview">
+			</Widget>
+			<Widget flag="truncate" font="ui_default" font_size="13" frame="56,10,176,36" halign="left" name="select_collection_name" padding="2,0" type="htmlview" valign="top">
+			</Widget>
+		</Widget>
+		<Widget defbutton="False" font="ui_default" frame="74,331,106,44" halign="center" name="collecton_summit_btn" preset="v7_btn01" text="STR_itemcollection_button_summit" text_color="1.0,1.0,1.0,1.0" text_offset="0" type="button" v_pos_align="bottom" valign="middle">
+		</Widget>
+		<Widget font="v3_option" font_size="13" frame="7,36,240,196" halign="center" name="item_info_none" text="STR_itemcollection_item_info_none" type="static">
+		</Widget>
+		<Widget color="1.0,1.0,1.0,1.0" font="v3_option" font_size="14" frame="7,298,241,32" halign="center" max_lines="2" name="notic" text="STR_ITEMCOLLECTION_DIALOG_NOTICE_DELETE" text_color="0.8824,0.2667,0.2667,1.0" type="static" valign="middle">
+		</Widget>
+	</Widget>
+	<Widget frame="828,390,254,364" name="sellect_item_BUFF" preset="v7_mission_bg_container" type="container">
+		<Widget font_size="13" frame="3,3,248,30" halign="center" name="sellect_item_title_head" preset="v5_scheduled_mission_static" text="STR_ITEMCOLLECTION_DIALOG_MAIN_BUFF" text_color="1.0,1.0,1.0,1.0" type="static" valign="middle">
+		</Widget>
+		<Widget column_heading="False" flag="truncate;vscroll" font="ui_list" frame="6,35,242,326" h_pos_align="proportion" header_font="v3_columnhead" header_height="24" item_height="24" list_padding="0,0" name="attr_buff_list" preset="v7_listview_ex" scroll_type="visible" skin_type="luna" type="listviewex" v_pos_align="proportion">
+			<Column sample_text="1121" width="20">
+			</Column>
+			<Column sample_text="121" width="105">
+			</Column>
+			<Column sample_text="adfa" width="60">
+			</Column>
+			<Column width="60">
+			</Column>
+		</Widget>
+		<Widget font="v3_option" font_size="13" frame="7,36,242,326" halign="center" name="itemcollection_info_none" text="STR_itemcollection_buff_none" type="static">
+		</Widget>
+	</Widget>
+	<Widget frame="6,721,409,30" name="search_BG" preset="v7_dark_static" type="static">
+	</Widget>
+	<Widget frame="6,721,293,30" halign="center" name="search" padding="8,0" text="STR_itemcollection_search_ringmenu" type="static" valign="middle">
+	</Widget>
+	<Widget font="ui_default" frame="301,721,114,30" name="search_cancel_btn" preset="v7_reset_btn" text="STR_itemcollection_search_reset" text_color="1.0,1.0,1.0,1.0" text_offset="36,0" type="button" valign="middle">
+	</Widget>
+	<Widget frame="152,14,14,14" halign="center" name="badge_com" preset="v7_new_badge" type="static" valign="middle">
+	</Widget>
+	<Widget frame="314,14,14,14" halign="center" name="badge_anc" preset="v7_new_badge" type="static" valign="middle">
+	</Widget>
+	<Widget frame="477,14,14,14" halign="center" name="badge_rel" preset="v7_new_badge" type="static" valign="middle">
+	</Widget>
+	<Widget frame="643,14,14,14" halign="center" name="badge_eve" preset="v7_new_badge" type="static" valign="middle">
+	</Widget>
+	<Widget frame="810,14,14,14" halign="center" name="badge_fav" preset="v7_new_badge" type="static" valign="middle">
+	</Widget>
+</Dialog>

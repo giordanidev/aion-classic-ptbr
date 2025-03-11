@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="close;title" frame="300,200,355,439" last_modified="2016-03-25 19:49:41" name="idscore_legionland_dialog" preset="v5_dialog2" shadow_offset="8,8" title_align="center" title_frame="3,3,349,14" title_height="25" title_offset="0,5" title_text="STR_INDUN_ACCOUNT_IDLF1_DIALOG" type="dlg_idscore_legionland">
+	<Widget column_heading="False" flag="not_active;truncate" font="idscore_default" frame="2,3,345,36" header_height="0" item_height="30" item_num="2" list_padding="15,3" name="total" text_shade="True" type="listviewex">
+		<Skin name="v5_indun_account_col">
+		</Skin>
+		<Column align="" img_width="" sample_text="texttexttexttexttexttext" sort="" title="" width="150">
+		</Column>
+		<Column align="right" img_width="" sample_text="score" sort="none" title="" width="150">
+		</Column>
+	</Widget>
+	<Widget column_heading="False" flag="not_active;truncate" font="idscore_default" frame="2,40,345,36" header_height="0" item_height="30" item_num="2" list_padding="15,3" name="elapsed_time" text_shade="True" type="listviewex">
+		<Skin name="v5_indun_account_box">
+		</Skin>
+		<Column align="" img_width="" sample_text="texttexttexttexttexttext" sort="" title="" width="150">
+		</Column>
+		<Column align="right" img_width="" sample_text="score" sort="none" title="" width="150">
+		</Column>
+	</Widget>
+	<Widget frame="2,78,345,187" name="rank_con" type="container">
+		<Skin name="v5_indun_account_box">
+		</Skin>
+		<Widget font="idscore_default" frame="18,6,197,17" text="STR_INDUN_ACCOUNT_DOMINION_DIALOG__RANK" type="static">
+		</Widget>
+		<Widget cell_padding="2" cell_space="0,0" column_heading="True" flag="vscroll;not_active" font="ui_list" frame="2,27,341,159" h_pos_align="proportion" header_font="v3_columnhead" header_height="24" item_height="22" item_num="5" item_width="44" list_padding="1,1" name="rank_list" preset="v5_listview_ex" scroll_type="auto" skin_type="version5" slot_num="5" type="listviewex" v_pos_align="proportion">
+			<Column align="center" img_width="" sample_text="" sort="" title="STR_INDUN_ACCOUNT_DOMINION_DIALOG__COL_RANK" width="40">
+			</Column>
+			<Column align="left" img_width="" sample_text="" sort="" title="STR_INDUN_ACCOUNT_DOMINION_DIALOG__COL_GROUP" width="120">
+			</Column>
+			<Column align="right" img_width="" sample_text="" sort="" title="STR_INDUN_ACCOUNT_DOMINION_DIALOG__COL_SCORE" width="90">
+			</Column>
+			<Column align="center" title="STR_INDUN_ACCOUNT_DOMINION_DIALOG__COL_TIME" width="89">
+			</Column>
+		</Widget>
+	</Widget>
+	<Widget column_heading="False" flag="truncate" font="idscore_default" font_size="14" frame="2,267,344,107" header_height="0" item_height="20" item_num="5" list_padding="15,3" name="reward" text_shade="True" type="listviewex">
+		<Skin name="v5_indun_account_box">
+		</Skin>
+		<Column align="" img_width="" sample_text="texttexttexttexttexttexttexttext" sort="" title="" width="200">
+		</Column>
+		<Column align="right" img_width="" sample_text="score" sort="none" title="" width="100">
+		</Column>
+	</Widget>
+	<Widget font="ui_default" frame="265,382,82,24" name="cancel_button" preset="v5_button" text="STR_COMMON__OK" type="button" v_pos_align="bottom">
+	</Widget>
+	<Widget font="ui_default" frame="113,382,122,24" name="leave" preset="v5_button" text="STR_INDUN_ACCOUNT_IDLF1_DIALOG__LEAVE" type="button" v_pos_align="bottom">
+	</Widget>
+</Dialog>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Dialog close_offset="4,1" close_preset="v5_close" flag="transparent" frame="471,222,600,600" last_modified="2015-07-08 11:41:02" name="transparent_map_large_dialog" shadow_offset="8,8" title_align="center" title_frame="3,3,248,14" title_height="25" title_offset="0,5" type="dlg_transparent_map_large">
+	<Widget frame="0,0,600,600" h_pos_align="proportion" name="frame_bg" type="image" v_pos_align="proportion">
+		<Skin name="v5_transparent_map_bg" state="0">
+		</Skin>
+	</Widget>
+	<Widget frame="5,5,590,590" name="map_container" type="container">
+		<Widget font="v3_map_subzone" frame="0,0,590,590" name="mapctrl" type="image">
+		</Widget>
+	</Widget>
+	<Widget frame="4,4,15,15" name="move_trigger" type="image">
+		<Skin name="v5_cross" state="0">
+		</Skin>
+		<Skin name="v5_lock" state="1">
+		</Skin>
+	</Widget>
+</Dialog>
