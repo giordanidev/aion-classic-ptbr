@@ -2,6 +2,7 @@
 import lxml.etree as parser
 import os, time, codecs, shutil, zipfile, subprocess, sys, re
 from pathlib import Path
+from math import floor
 
 print(f"+|+|+ SCRIPT INICIADO")
 start_time_python = time.monotonic()
@@ -16,8 +17,8 @@ arquivos = []
 for caminho, _, traduzir in os.walk(caminho_traduzidos):
     for arquivo in traduzir:
         arquivos.append(re.sub(caminho_traduzidos, '', os.path.join(caminho, arquivo))) #puxa o caminho completo de todos os arquivos já traduzidos
-#quando "ignorar" for "Verdadeiro", o arquivo será traduzido por completo
-#usado em arquivos que a descrição é o nome do item
+# Quando "ignorar_parse" for "Verdadeiro", o arquivo será traduzido por completo
+# Usado em arquivos que os itens não tem um campo DESC
 ignorar_parse = [
                 "ui.xml",
                 "msg.xml",
@@ -66,11 +67,6 @@ def parsing():
             arquivo_original = f"{caminho_originais}\\{traducao}"
             arquivo_traduzido = f"{caminho_traduzidos}\\{traducao}"
             arquivo_parsed = f"{caminho_parsed}\\{traducao}"
-            print(f"[{contagem_arquivo}/{iteracoes}] Arquivo: {traducao}")
-            print(caminho_originais)
-            print(original)
-            print(traducao)
-            print(arquivo_original)
 
             original_tree = parser.parse(arquivo_original)
             original_root = original_tree.getroot()
@@ -82,6 +78,7 @@ def parsing():
             novo_parse = parser.Element('strings')
 
             start_time_line = time.monotonic()
+            percentagem_anterior = 0
             for original_string in original_root:
                 texto_traducao = None
                 if original_string.find('name') is not None:
@@ -100,8 +97,8 @@ def parsing():
                 novo_string = parser.SubElement(novo_parse, texto_traducao.tag)
                 
                 for elemento in texto_traducao:
-                    # Quando "ignorar" for "Verdadeiro", o arquivo será traduzido por completo
-                    # 
+                    # Quando "ignorar_parse_desc" for "Verdadeiro", o arquivo será traduzido por completo
+                    # Usado em arquivos que os itens não tem um campo DESC
                     if ignorar_parse_desc == False:
                         if "DESC" in elemento.text.split("_"):
                             parser.SubElement(novo_string, elemento.tag).text = texto_traducao.find(elemento.tag).text
@@ -109,12 +106,16 @@ def parsing():
                             parser.SubElement(novo_string, elemento.tag).text = original_string.find(elemento.tag).text
                     else:
                         parser.SubElement(novo_string, elemento.tag).text = texto_traducao.find(elemento.tag).text
-            """
+            # Contar as linhas gera um atraso na execução do script.
+            
                 execution_time = "%.2f" % (time.monotonic() - start_time_line)
-                sys.stdout.write(f"[{contagem_arquivo}/{iteracoes}] Parsing: {str(contagem)}/{original_len} ({execution_time}s)"+"\r")
+                #sys.stdout.write(f"[{contagem_arquivo}/{iteracoes}] Parsing: {str(contagem)}/{original_len} ({execution_time}s)"+"\r")
+                percentagem = floor((contagem_arquivo/iteracoes)*100)
+                if percentagem > percentagem_anterior:
+                    sys.stdout.write(f"Parsing: {str(contagem)}/{original_len} ({percentagem}%) ({execution_time}s)"+"\r")
+                    percentagem_anterior = percentagem
                 contagem += 1
             print("")
-            """
             
             verificar_arquivos(contagem_arquivo, iteracoes, arquivo_parsed)
             
@@ -203,7 +204,7 @@ def repack():
     iteracoes = len(caminho_originais)
     contagem_arquivo = 1
     print(f"[{contagem_arquivo}/{iteracoes}] Gerando arquivo .PAK!", end="\r")
-    subprocess.run([".\\Aion_Encdec.exe", "-r"])
+    subprocess.run([".\\Aion_Encdec13.exe", "-r"])
     print(f"[{contagem_arquivo}/{iteracoes}] Gerando arquivo .PAK! :: Arquivo gerado")
     for original in arquivos_originais:
         start_time_original = time.monotonic()
