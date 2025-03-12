@@ -9,6 +9,7 @@ caminho_originais = ".\\_originais"
 caminho_downloads = ".\\_download"
 caminho_traduzidos = ".\\_traduzidos"
 caminho_parsed = ".\\_parsed"
+caminho_final = ".\\_final"
 
 arquivos_originais = [name for name in os.listdir(caminho_originais) if os.path.isdir(os.path.join(caminho_originais, name))] #puxa os diretorios na pasta _originais
 arquivos = []
@@ -146,19 +147,19 @@ def unicode():
 
         for arquivo in arquivos:
             start_time_arquivo = time.monotonic()
-            orig = f"{caminho_traduzidos}\\{original}\\{arquivo}"
-            dest = f"{caminho_downloads}\\z_{original}_ptBR\\{arquivo}"
+            arquivo_traduzido = f"{caminho_traduzidos}\\{arquivo}"
+            arquivo_final = f"{caminho_final}\\{arquivo}"
 
-            verificar_arquivos(contagem_arquivo, iteracoes, dest)
+            verificar_arquivos(contagem_arquivo, iteracoes, arquivo_final)
 
-            print(f"[{contagem_arquivo}/{iteracoes}] Copiando arquivo: '{orig}' -> '{dest}'", end="\r")
-            if os.path.isfile(orig):
-                shutil.copy2(orig, dest)
+            print(f"[{contagem_arquivo}/{iteracoes}] Copiando arquivo: '{arquivo_traduzido}' -> '{arquivo_final}'", end="\r")
+            if os.path.isfile(arquivo_traduzido):
+                shutil.copy2(arquivo_traduzido, arquivo_final)
             else:
-                shutil.copy2(f".\\{arquivo}", dest)
-            print(f"[{contagem_arquivo}/{iteracoes}] Copiando arquivo: '{orig}' -> '{dest}' :: Arquivo copiado")
+                shutil.copy2(f".\\{arquivo}", arquivo_final)
+            print(f"[{contagem_arquivo}/{iteracoes}] Copiando arquivo: '{arquivo_traduzido}' -> '{arquivo_final}' :: Arquivo copiado")
 
-            f = codecs.open(dest, encoding='utf-8')
+            f = codecs.open(arquivo_final, encoding='utf-8')
             contents = f.read()
             f.close
 
@@ -183,7 +184,7 @@ def unicode():
             
             print(f"[{contagem_arquivo}/{iteracoes}] Transcrição finalizada", end="\r")
 
-            f = open(dest, 'w', encoding='utf-8', newline='')
+            f = open(arquivo_final, 'w', encoding='utf-8', newline='')
             f.write(contents)
             execution_time = "%.2f" % (time.monotonic() - start_time_arquivo)
 
@@ -236,7 +237,7 @@ def repack():
     print(f"!!!!! REPACK FINALIZADO ({execution_time}s)")
 
 #parsing()
-#unicode()
+unicode()
 repack()
 
 execution_time = "%.2f" % (time.monotonic() - start_time_python)

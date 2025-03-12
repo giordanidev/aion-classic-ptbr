@@ -98,7 +98,7 @@
   <string>
     <id>280180</id>
     <name>STR_SKILL_EQUIP_SEMI_ROBE1_DESC</name>
-    <body>Allows you to wear semi-cloth equipment, and boosts your defence each time the skill level upgrades.</body>
+    <body>Permite que você use equipamentos semi-cloth e aumenta sua defesa sempre que o nível de habilidade aumenta.</body>
   </string>
   <string>
     <id>280184</id>
@@ -128,22 +128,22 @@
   <string>
     <id>280196</id>
     <name>STR_SKILL_EQUIP_SCIMITAR1_DESC</name>
-    <body>Allows you to use scimitars, and boosts your attack power each time the skill level upgrades.</body>
+    <body>Permite que você use scimitars e aumenta seu poder de ataque sempre que o nível de habilidade aumenta.</body>
   </string>
   <string>
     <id>280197</id>
     <name>STR_SKILL_EQUIP_Gloves1_DESC</name>
-    <body>Allows you to use gloves, and boosts your attack power each time the skill level upgrades.</body>
+    <body>Permite que você use luvas e aumenta seu poder de ataque sempre que o nível de habilidade aumenta.</body>
   </string>
   <string>
     <id>280201</id>
     <name>STR_SKILL_EQUIP_CLAW1_DESC</name>
-    <body>Allows you to use claws, and boosts your attack power each time the skill level upgrades.</body>
+    <body>Permite que você use claws e aumenta seu poder de ataque sempre que o nível de habilidade aumenta.</body>
   </string>
   <string>
     <id>280202</id>
     <name>STR_SKILL_EQUIP_POLEARM1_DESC</name>
-    <body>Permite que você use Foice e aumenta seu poder de ataque sempre que o nível de habilidade aumenta.</body>
+    <body>Permite que você use Polearms e aumenta seu poder de ataque sempre que o nível de habilidade aumenta.</body>
   </string>
   <string>
     <id>280229</id>
@@ -213,7 +213,7 @@
   <string>
     <id>280377</id>
     <name>STR_MINING_DESC</name>
-    <body>A habilidade de minerar minerais.</body>
+    <body>A habilidade de minerar.</body>
   </string>
   <string>
     <id>280378</id>
@@ -343,7 +343,7 @@
   <string>
     <id>280529</id>
     <name>STR_SKILL_Heal_DESC</name>
-    <body>Cura o HP do alvo.</body>
+    <body>Cura a HP do alvo.</body>
   </string>
   <string>
     <id>280549</id>
@@ -568,7 +568,7 @@
   <string>
     <id>281386</id>
     <name>STR_SKILL_Death_DESC</name>
-    <body>Um efeito colateral temporário causado pela sua morte, que diminui a Velocidade de Movimento por um curto período de tempo.</body>
+    <body>Um efeito colateral temporário causado pela sua morte, que diminui a Velocidade de Movimento por um período de tempo.</body>
   </string>
   <string>
     <id>281387</id>
@@ -598,7 +598,7 @@
   <string>
     <id>281392</id>
     <name>STR_SKILL_StunningBlow_DESC</name>
-    <body>Um ataque forte que força o inimigo a tropeçar (stumble). Disponível somente após Slicing Blow ser bem sucedido.</body>
+    <body>Um ataque forte que força o inimigo a cair (stumble). Disponível somente após Slicing Blow ser bem sucedido.</body>
   </string>
   <string>
     <id>281397</id>
@@ -698,7 +698,7 @@
   <string>
     <id>281416</id>
     <name>STR_SKILL_NPCGHOSTHAND_DESC</name>
-    <body>AGI é reduzido.</body>
+    <body>AGI (agilidade) é reduzido.</body>
   </string>
   <string>
     <id>281417</id>
@@ -1028,7 +1028,7 @@
   <string>
     <id>281482</id>
     <name>STR_Skill_WolfClaw_DESC</name>
-    <body>Concentra seu esforço em causar um golpe crítico. Sua precisão diminui enquanto você está se concentrando.</body>
+    <body>Concentra seu esforço em causar um golpe crítico. Sua precisão diminui enquanto você está concentrado.</body>
   </string>
   <string>
     <id>281483</id>
@@ -1078,7 +1078,7 @@
   <string>
     <id>281492</id>
     <name>STR_Skill_Purification_DESC</name>
-    <body>Remove estados alterados do alvo.</body>
+    <body>Remove estados físicos alterados do alvo.</body>
   </string>
   <string>
     <id>281493</id>
@@ -1358,127 +1358,127 @@
   <string>
     <id>281566</id>
     <name>STR_ITEM_E3_DISH_HP_01_DESC</name>
-    <body>Lentamente recupera HP durante sua duração.</body>
+    <body>Lentamente recupera HP enquanto ativo.</body>
   </string>
   <string>
     <id>281567</id>
     <name>STR_ITEM_E3_DISH_HP_02_DESC</name>
-    <body>Lentamente recupera HP durante sua duração.</body>
+    <body>Lentamente recupera HP enquanto ativo.</body>
   </string>
   <string>
     <id>281568</id>
     <name>STR_ITEM_E3_DISH_MP_01_DESC</name>
-    <body>Lentamente recupera MP durante sua duração.</body>
+    <body>Lentamente recupera MP enquanto ativo.</body>
   </string>
   <string>
     <id>281569</id>
     <name>STR_ITEM_E3_DISH_MP_02_DESC</name>
-    <body>Lentamente recupera MP durante sua duração.</body>
+    <body>Lentamente recupera MP enquanto ativo.</body>
   </string>
   <string>
     <id>281570</id>
     <name>STR_ITEM_E3_DISH_STR_VIT_01_DESC</name>
-    <body>Aumenta STR e VIT durante sua duração.</body>
+    <body>Aumenta STR (força) (força) e VIT (vitalidade) enquanto ativo.</body>
   </string>
   <string>
     <id>281571</id>
     <name>STR_ITEM_E3_DISH_STR_VIT_02_DESC</name>
-    <body>Aumenta STR, mas diminui VIT durante sua duração.</body>
+    <body>Aumenta STR (força) (força), mas diminui VIT (vitalidade) enquanto ativo.</body>
   </string>
   <string>
     <id>281572</id>
     <name>STR_ITEM_E3_DISH_AGI_DEX_01_DESC</name>
-    <body>Aumenta AGI e DEX durante sua duração.</body>
+    <body>Aumenta AGI (agilidade) e DEX (destreza) enquanto ativo.</body>
   </string>
   <string>
     <id>281573</id>
     <name>STR_ITEM_E3_DISH_AGI_DEX_02_DESC</name>
-    <body>Aumenta AGI, mas diminui DEX durante sua duração.</body>
+    <body>Aumenta AGI (agilidade), mas diminui DEX (destreza) enquanto ativo.</body>
   </string>
   <string>
     <id>281574</id>
     <name>STR_ITEM_E3_DISH_KNO_WIL_01_DESC</name>
-    <body>Aumenta KNO e WIL durante sua duração.</body>
+    <body>Aumenta KNO (conhecimento) e WIL (determinação) enquanto ativo.</body>
   </string>
   <string>
     <id>281575</id>
     <name>STR_ITEM_E3_DISH_KNO_WIL_02_DESC</name>
-    <body>Aumenta KNO, mas diminui WIL durante sua duração.</body>
+    <body>Aumenta KNO (conhecimento), mas diminui WIL (determinação) enquanto ativo.</body>
   </string>
   <string>
     <id>281576</id>
     <name>STR_ITEM_E3_MUSHROOM_01_DESC</name>
-    <body>Aumenta as Velocidades de Movimento e Ataque durante sua duração.</body>
+    <body>Aumenta as Velocidades de Movimento e Ataque enquanto ativo.</body>
   </string>
   <string>
     <id>281577</id>
     <name>STR_ITEM_E3_MUSHROOM_02_DESC</name>
-    <body>Aumenta a Precisão e a Evasão durante sua duração.</body>
+    <body>Aumenta a Precisão e a Evasão enquanto ativo.</body>
   </string>
   <string>
     <id>281578</id>
     <name>STR_ITEM_E3_MUSHROOM_03_DESC</name>
-    <body>Aumenta significativamente os Ataques Físicos e Mágicos durante sua duração.</body>
+    <body>Aumenta significativamente os Ataques Físicos e Mágicos enquanto ativo.</body>
   </string>
   <string>
     <id>281579</id>
     <name>STR_ITEM_E3_CRYSTAL_EARTH_DESC</name>
-    <body>Aumenta a Resistência à Terra durante sua duração.</body>
+    <body>Aumenta a Resistência à Terra enquanto ativo.</body>
   </string>
   <string>
     <id>281580</id>
     <name>STR_ITEM_E3_CRYSTAL_WATER_DESC</name>
-    <body>Aumenta a Resistência à Água durante sua duração.</body>
+    <body>Aumenta a Resistência à Água enquanto ativo.</body>
   </string>
   <string>
     <id>281581</id>
     <name>STR_ITEM_E3_CRYSTAL_FIRE_DESC</name>
-    <body>Aumenta a Resistência à Fogo durante sua duração.</body>
+    <body>Aumenta a Resistência à Fogo enquanto ativo.</body>
   </string>
   <string>
     <id>281582</id>
     <name>STR_ITEM_E3_CRYSTAL_AIR_DESC</name>
-    <body>Aumenta a Resistência à Vento durante sua duração.</body>
+    <body>Aumenta a Resistência à Vento enquanto ativo.</body>
   </string>
   <string>
     <id>281583</id>
     <name>STR_ITEM_E3_CRYSTAL_LIGHTNESS_DESC</name>
-    <body>Aumenta o Ataque Mágico durante sua duração.</body>
+    <body>Aumenta o Ataque Mágico enquanto ativo.</body>
   </string>
   <string>
     <id>281584</id>
     <name>STR_ITEM_E3_CRYSTAL_DARKNESS_DESC</name>
-    <body>Aumenta o Ataque Físico durante sua duração.</body>
+    <body>Aumenta o Ataque Físico enquanto ativo.</body>
   </string>
   <string>
     <id>281585</id>
     <name>STR_ITEM_E3_SCROLL_ACCURACY_DESC</name>
-    <body>Aumenta a Precisão durante sua duração.</body>
+    <body>Aumenta a Precisão enquanto ativo.</body>
   </string>
   <string>
     <id>281586</id>
     <name>STR_ITEM_E3_SCROLL_DODGE_DESC</name>
-    <body>Aumenta a Evasão durante sua duração.</body>
+    <body>Aumenta a Evasão enquanto ativo.</body>
   </string>
   <string>
     <id>281587</id>
     <name>STR_ITEM_E3_SCROLL_CRITICAL_DESC</name>
-    <body>Aumenta a chance de acertos críticos durante sua duração.</body>
+    <body>Aumenta a chance de acertos críticos enquanto ativo.</body>
   </string>
   <string>
     <id>281588</id>
     <name>STR_ITEM_E3_SCROLL_SPEED_DESC</name>
-    <body>Aumenta a Velocidade de Movimento durante sua duração.</body>
+    <body>Aumenta a Velocidade de Movimento enquanto ativo.</body>
   </string>
   <string>
     <id>281589</id>
     <name>STR_ITEM_E3_SCROLL_HASTE_DESC</name>
-    <body>Aumenta a Velocidade de Ataque durante sua duração.</body>
+    <body>Aumenta a Velocidade de Ataque enquanto ativo.</body>
   </string>
   <string>
     <id>281590</id>
     <name>STR_ITEM_E3_GALL_WORM_DESC</name>
-    <body>Aumenta STR significativamente durante sua duração.</body>
+    <body>Aumenta STR (força) significativamente enquanto ativo.</body>
   </string>
   <string>
     <id>281591</id>
@@ -1598,7 +1598,7 @@
   <string>
     <id>281614</id>
     <name>STR_SKILL_BattleMaster_DESC</name>
-    <body>Aumenta seu HP máximo e ataques físicos e mágicos, dependendo do nível da habilidade.</body>
+    <body>Aumenta seu HP máximo, ataques físicos e mágicos, dependendo do nível da habilidade.</body>
   </string>
   <string>
     <id>281615</id>
@@ -1938,7 +1938,7 @@
   <string>
     <id>281682</id>
     <name>STR_Skill_Spin_DESC</name>
-    <body>Você girou para trás após receber um forte choque. Você não pode fazer nada por um período de tempo.</body>
+    <body>Você girou para trás após receber um forte choque (spin). Você não pode fazer nada por um período de tempo.</body>
   </string>
   <string>
     <id>281683</id>
@@ -2558,7 +2558,7 @@
   <string>
     <id>281828</id>
     <name>STR_SKILL_P_EQUIP_EnhancedShield_G1_DESC</name>
-    <body>Permite usar escudos.</body>
+    <body>Permite que você use escudos.</body>
   </string>
   <string>
     <id>281829</id>
@@ -2643,12 +2643,12 @@
   <string>
     <id>281845</id>
     <name>STR_SKILL_P_EQUIP_Polearm_G1</name>
-    <body>Treinamento Avançado de Foice I</body>
+    <body>Treinamento Avançado de Polearm I</body>
   </string>
   <string>
     <id>281846</id>
     <name>STR_SKILL_P_EQUIP_Polearm_G1_DESC</name>
-    <body>Permite que você use foices habilmente.</body>
+    <body>Permite que você use polearms habilmente.</body>
   </string>
   <string>
     <id>281847</id>
@@ -2673,12 +2673,12 @@
   <string>
     <id>281851</id>
     <name>STR_SKILL_P_EQUIP_Dual_G1</name>
-    <body>Empunhadura Dupla Avançada I</body>
+    <body>Dual Wielding Avançada I</body>
   </string>
   <string>
     <id>281852</id>
     <name>STR_SKILL_P_EQUIP_Dual_DESC</name>
-    <body>Permite que você use duas armas habilmente.</body>
+    <body>Permite que você use duas armas de uma mão habilmente.</body>
   </string>
   <string>
     <id>281853</id>
@@ -2718,7 +2718,7 @@
   <string>
     <id>281860</id>
     <name>STR_SKILL_KN_EQUIP_Cloth_DESC</name>
-    <body>Permite que você use roupas luxuosas com grande proficiência. Você ficará fabuloso.</body>
+    <body>Permite que você use roupas luxuosas com grande proficiência. Você ficará fabuloso(a).</body>
   </string>
   <string>
     <id>281861</id>
@@ -2748,7 +2748,7 @@
   <string>
     <id>281866</id>
     <name>STR_SKILL_KN_EQUIP_Shield_DESC</name>
-    <body>Permite usar escudos habilmente.</body>
+    <body>Permite que você use escudos habilmente.</body>
   </string>
   <string>
     <id>281867</id>
@@ -2823,7 +2823,7 @@
   <string>
     <id>281881</id>
     <name>STR_SKILL_SC_EQUIP_EnhancedDual</name>
-    <body>Empunhadura Dupla Avançada</body>
+    <body>Dual Wielding Avançada</body>
   </string>
   <string>
     <id>281882</id>
@@ -2883,12 +2883,12 @@
   <string>
     <id>281893</id>
     <name>STR_SKILL_RA_EQUIP_Dual</name>
-    <body>Empunhadura Dupla Avançada</body>
+    <body>Dual Wielding Avançada</body>
   </string>
   <string>
     <id>281894</id>
     <name>STR_SKILL_RA_EQUIP_Dual_DESC</name>
-    <body>Permite que você use duas armas habilmente.</body>
+    <body>Permite que você use duas armas de uma mão habilmente.</body>
   </string>
   <string>
     <id>281895</id>
@@ -2943,12 +2943,12 @@
   <string>
     <id>281905</id>
     <name>STR_SKILL_AS_EQUIP_Dual</name>
-    <body>Empunhadura Dupla Avançada</body>
+    <body>Dual Wielding Avançada</body>
   </string>
   <string>
     <id>281906</id>
     <name>STR_SKILL_AS_EQUIP_Dual_DESC</name>
-    <body>Permite que você use duas armas habilmente.</body>
+    <body>Permite que você use duas armas de uma mão habilmente.</body>
   </string>
   <string>
     <id>281907</id>
@@ -2963,12 +2963,12 @@
   <string>
     <id>281909</id>
     <name>STR_SKILL_CL_EQUIP_EnhancedStaff</name>
-    <body>Treinamento Básico de Cetro</body>
+    <body>Treinamento Básico de Staff</body>
   </string>
   <string>
     <id>281910</id>
     <name>STR_SKILL_CL_EQUIP_EnhancedStaff_DESC</name>
-    <body>Permite que você use cetros.</body>
+    <body>Permite que você use staffs.</body>
   </string>
   <string>
     <id>281911</id>
@@ -3013,12 +3013,12 @@
   <string>
     <id>281919</id>
     <name>STR_SKILL_P_EQUIP_Staff_G1</name>
-    <body>Treinamento Avançado de Cetro I</body>
+    <body>Treinamento Avançado de Staff I</body>
   </string>
   <string>
     <id>281920</id>
     <name>STR_SKILL_P_EQUIP_Staff_G1_DESC</name>
-    <body>Permite que você use cetros habilmente.</body>
+    <body>Permite que você use staffs habilmente.</body>
   </string>
   <string>
     <id>281921</id>
@@ -3063,12 +3063,12 @@
   <string>
     <id>281929</id>
     <name>STR_SKILL_CH_EQUIP_Staff</name>
-    <body>Treinamento Avançado de Cetro I</body>
+    <body>Treinamento Avançado de Staff I</body>
   </string>
   <string>
     <id>281930</id>
     <name>STR_SKILL_CH_EQUIP_Staff_DESC</name>
-    <body>Permite que você use cetros habilmente.</body>
+    <body>Permite que você use staffs habilmente.</body>
   </string>
   <string>
     <id>281931</id>
@@ -3238,7 +3238,7 @@
   <string>
     <id>281964</id>
     <name>STR_SKILL_WA_RobustHit_G1_DESC</name>
-    <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo é um Balaur.
+    <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo for um Balaur.
 Habilidade de Sequência nível 1.</body>
   </string>
   <string>
@@ -3249,7 +3249,7 @@ Habilidade de Sequência nível 1.</body>
   <string>
     <id>281966</id>
     <name>STR_SKILL_WA_AvengingCrash_G1_DESC</name>
-    <body>Causa [%e1.SkillATK_Instant.MaxDamage]~[%e1.SkillATK_Instant.MinDamage] de dano físico no alvo após um Block bem sucedido e deixa o alvo em choque (stun) temporatiamente. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo é um Balaur.
+    <body>Causa [%e1.SkillATK_Instant.MaxDamage]~[%e1.SkillATK_Instant.MinDamage] de dano físico no alvo após um Block bem-sucedido e o deixa em choque (stun) temporatiamente. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo for um Balaur.
 Requer um Escudo</body>
   </string>
   <string>
@@ -3302,7 +3302,7 @@ Ferocious Strike – Robust Blow.</body>
   <string>
     <id>281976</id>
     <name>STR_SKILL_WA_Provoke_G1_DESC</name>
-    <body>Aumenta a Provocação de um alvo que está a até [%First_Target_Valid_Distance]m de distância de você.</body>
+    <body>Aumenta a Provocação de um alvo a [%First_Target_Valid_Distance]m de distância de você.</body>
   </string>
   <string>
     <id>281977</id>
@@ -3322,7 +3322,7 @@ Ferocious Strike – Robust Blow.</body>
   <string>
     <id>281980</id>
     <name>STR_SKILL_SC_AssaultStabber_G1_DESC</name>
-    <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, e causa [%e1.SkillATK_Instant.AddDamage] de dano físico adicional se for usado nas costas do alvo.</body>
+    <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. Causa [%e1.SkillATK_Instant.AddDamage] de dano físico adicional se for usado nas costas do alvo.</body>
   </string>
   <string>
     <id>281981</id>
@@ -3872,7 +3872,7 @@ Habilidade Ativa</body>
   <string>
     <id>282086</id>
     <name>STR_SKILL_WA_Provoke_G2_DESC</name>
-    <body>Aumenta a Provocação de um alvo que está a até [%First_Target_Valid_Distance]m de distância de você.</body>
+    <body>Aumenta a Provocação de um alvo a [%First_Target_Valid_Distance]m de distância de você.</body>
   </string>
   <string>
     <id>282087</id>
@@ -4026,7 +4026,7 @@ Requer um Escudo</body>
   <string>
     <id>282116</id>
     <name>STR_SKILL_KN_AvengingBlade_G1_DESC</name>
-    <body>Causa [%e1.SkillATK_Instant.MaxDamage]~[%e1.SkillATK_Instant.MinDamage] de dano físico no alvo após um Block bem-sucedido. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo é um Balaur.
+    <body>Causa [%e1.SkillATK_Instant.MaxDamage]~[%e1.SkillATK_Instant.MinDamage] de dano físico no alvo após um Block bem-sucedido. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo for um Balaur.
 Requer um Escudo
 Habilidade de Sequência nível 1.</body>
   </string>
@@ -6870,7 +6870,7 @@ Habilidade Ativa</body>
   <string>
     <id>282680</id>
     <name>STR_SKILL_WI_MagicFist_G1_DESC</name>
-    <body>Derruba um alvo imobilizado no ar (aetherhold) que está a até [%First_Target_Valid_Distance]m de distância de você e causa [%e1.SpellATK_Instant.FixDamage] de dano.</body>
+    <body>Derruba um alvo imobilizado no ar (aetherhold) a [%First_Target_Valid_Distance]m de distância de você e causa [%e1.SpellATK_Instant.FixDamage] de dano.</body>
   </string>
   <string>
     <id>282681</id>
@@ -12680,7 +12680,7 @@ Habilidade Ativa</body>
   <string>
     <id>283847</id>
     <name>STR_SKILL_WI_MagicFist_G2_DESC</name>
-    <body>Derruba um alvo imobilizado no ar (aetherhold) que está a até [%First_Target_Valid_Distance]m de distância de você e causa [%e1.SpellATK_Instant.FixDamage] de dano.</body>
+    <body>Derruba um alvo imobilizado no ar (aetherhold) a [%First_Target_Valid_Distance]m de distância de você e causa [%e1.SpellATK_Instant.FixDamage] de dano.</body>
   </string>
   <string>
     <id>283848</id>
@@ -25071,7 +25071,7 @@ Multiplicador de dano aleatório: 1x ou 2x o dano</body>
   <string>
     <id>286329</id>
     <name>STR_SKILL_WA_ArmorBreak_G1_DESC</name>
-    <body>Inflicts [%e1.SkillATK_Instant.MinDamage] to [%e1.SkillATK_Instant.MaxDamage] physical damage on a target, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime] seconds. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo é um Balaur.</body>
+    <body>Inflicts [%e1.SkillATK_Instant.MinDamage] to [%e1.SkillATK_Instant.MaxDamage] physical damage on a target, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime] seconds. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo for um Balaur.</body>
   </string>
   <string>
     <id>286330</id>
@@ -25086,7 +25086,7 @@ Multiplicador de dano aleatório: 1x ou 2x o dano</body>
   <string>
     <id>286332</id>
     <name>STR_SKILL_WA_ArmorBreak_G2_DESC</name>
-    <body>Inflicts [%e1.SkillATK_Instant.MinDamage] to [%e1.SkillATK_Instant.MaxDamage] physical damage on a target, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime] seconds. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo é um Balaur.</body>
+    <body>Inflicts [%e1.SkillATK_Instant.MinDamage] to [%e1.SkillATK_Instant.MaxDamage] physical damage on a target, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime] seconds. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo for um Balaur.</body>
   </string>
   <string>
     <id>286333</id>
@@ -25101,7 +25101,7 @@ Multiplicador de dano aleatório: 1x ou 2x o dano</body>
   <string>
     <id>286335</id>
     <name>STR_SKILL_WA_ArmorBreak_G3_DESC</name>
-    <body>Inflicts [%e1.SkillATK_Instant.MinDamage] to [%e1.SkillATK_Instant.MaxDamage] physical damage on a target, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime] seconds. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo é um Balaur.</body>
+    <body>Inflicts [%e1.SkillATK_Instant.MinDamage] to [%e1.SkillATK_Instant.MaxDamage] physical damage on a target, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime] seconds. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo for um Balaur.</body>
   </string>
   <string>
     <id>286336</id>
@@ -25140,7 +25140,7 @@ Habilidade de Sequência nível 1.</body>
   <string>
     <id>286342</id>
     <name>STR_SKILL_WA_Provoke_G3_DESC</name>
-    <body>Aumenta a Provocação de um alvo que está a até [%First_Target_Valid_Distance]m de distância de você.</body>
+    <body>Aumenta a Provocação de um alvo a [%First_Target_Valid_Distance]m de distância de você.</body>
   </string>
   <string>
     <id>286343</id>
@@ -30054,7 +30054,7 @@ Swift Edge – Soul Slash</body>
   <string>
     <id>287289</id>
     <name>STR_SKILL_WA_ArmorBreak_G4_DESC</name>
-    <body>Inflicts [%e1.SkillATK_Instant.MinDamage] to [%e1.SkillATK_Instant.MaxDamage] physical damage on a target, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime] seconds. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo é um Balaur.</body>
+    <body>Inflicts [%e1.SkillATK_Instant.MinDamage] to [%e1.SkillATK_Instant.MaxDamage] physical damage on a target, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime] seconds. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo for um Balaur.</body>
   </string>
   <string>
     <id>287290</id>
@@ -30076,7 +30076,7 @@ Habilidade de Sequência nível 1.</body>
   <string>
     <id>287293</id>
     <name>STR_SKILL_WA_Provoke_G4_DESC</name>
-    <body>Aumenta a Provocação de um alvo que está a até [%First_Target_Valid_Distance]m de distância de você.</body>
+    <body>Aumenta a Provocação de um alvo a [%First_Target_Valid_Distance]m de distância de você.</body>
   </string>
   <string>
     <id>287294</id>
@@ -30316,7 +30316,7 @@ Habilidade de Stigma.</body>
   <string>
     <id>287339</id>
     <name>STR_SKILL_WI_MagicFist_G3_DESC</name>
-    <body>Derruba um alvo imobilizado no ar (aetherhold) que está a até [%First_Target_Valid_Distance]m de distância de você e causa [%e1.SpellATK_Instant.FixDamage] de dano.</body>
+    <body>Derruba um alvo imobilizado no ar (aetherhold) a [%First_Target_Valid_Distance]m de distância de você e causa [%e1.SpellATK_Instant.FixDamage] de dano.</body>
   </string>
   <string>
     <id>287340</id>
@@ -42109,7 +42109,7 @@ Great Cleave - Righteous Cleave.</body>
   <string>
     <id>289683</id>
     <name>STR_SKILL_P_EQUIP_Dual_G2</name>
-    <body>Empunhadura Dupla Avançada II</body>
+    <body>Dual Wielding Avançada II</body>
   </string>
   <string>
     <id>289684</id>
@@ -42195,7 +42195,7 @@ Habilidade de Ataque Especial</body>
   <string>
     <id>289700</id>
     <name>STR_SKILL_KN_AvengingBash_DESC</name>
-    <body>Deals [%e1.SkillATK_Instant.MinDamage] to [%e1.SkillATK_Instant.MaxDamage] physical damage after a successful block with the shield. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo é um Balaur.
+    <body>Deals [%e1.SkillATK_Instant.MinDamage] to [%e1.SkillATK_Instant.MaxDamage] physical damage after a successful block with the shield. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo for um Balaur.
 Requer um Escudo
 Habilidade de Sequência nível 1.</body>
   </string>
@@ -42319,7 +42319,7 @@ Habilidade de Sequência nível 1</body>
   <string>
     <id>289723</id>
     <name>STR_SKILL_StigmaI_EQUIP_Dual_G1</name>
-    <body>Stigma Empunhadura Dupla Avançada I</body>
+    <body>Stigma Dual Wielding Avançada I</body>
   </string>
   <string>
     <id>289724</id>
@@ -42329,7 +42329,7 @@ Habilidade de Sequência nível 1</body>
   <string>
     <id>289725</id>
     <name>STR_SKILL_StigmaI_EQUIP_Dual_G2</name>
-    <body>Stigma Empunhadura Dupla Avançada II</body>
+    <body>Stigma Dual Wielding Avançada II</body>
   </string>
   <string>
     <id>289726</id>
@@ -49652,12 +49652,12 @@ Swift Shot – Fleshcutter Arrow</body>
   <string>
     <id>291183</id>
     <name>STR_SKILL_P_EQUIP_Dual_G3</name>
-    <body>Empunhadura Dupla Avançada III</body>
+    <body>Dual Wielding Avançada III</body>
   </string>
   <string>
     <id>291184</id>
     <name>STR_SKILL_P_EQUIP_Dual_G4</name>
-    <body>Empunhadura Dupla Avançada IV</body>
+    <body>Dual Wielding Avançada IV</body>
   </string>
   <string>
     <id>291185</id>
@@ -54729,7 +54729,7 @@ Habilidade de Stigma.</body>
   <string>
     <id>292191</id>
     <name>STR_SKILL_P_EQUIP_Dual_G5</name>
-    <body>Empunhadura Dupla Avançada V</body>
+    <body>Dual Wielding Avançada V</body>
   </string>
   <string>
     <id>292192</id>
@@ -58162,14 +58162,14 @@ Habilidade de Stigma.</body>
   <string>
     <id>292869</id>
     <name>STR_SKILL_WA_AvengingCrash_G1_2nd_DESC</name>
-    <body>Causa [%e1.SkillATK_Instant.MaxDamage] - [%e1.SkillATK_Instant.MinDamage] de dano físico no alvo após um Block bem sucedido e deixa o alvo em choque (stun) temporatiamente. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo é um Balaur.
+    <body>Causa [%e1.SkillATK_Instant.MaxDamage] - [%e1.SkillATK_Instant.MinDamage] de dano físico no alvo após um Block bem sucedido e deixa o alvo em choque (stun) temporatiamente. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo for um Balaur.
 Requer um Escudo
 Habilidade de Sequência nível 1.</body>
   </string>
   <string>
     <id>292870</id>
     <name>STR_SKILL_WA_ArmorBreak_G1_2nd_DESC</name>
-    <body>Inflicts [%e1.SkillATK_Instant.MinDamage] to [%e1.SkillATK_Instant.MaxDamage] physical damage on a target, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime] seconds. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo é um Balaur.
+    <body>Inflicts [%e1.SkillATK_Instant.MinDamage] to [%e1.SkillATK_Instant.MaxDamage] physical damage on a target, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime] seconds. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo for um Balaur.
 Habilidade de Sequência nível 1.</body>
   </string>
   <string>
@@ -61405,7 +61405,7 @@ Habilidade de Stigma.</body>
   <string>
     <id>293500</id>
     <name>STR_SKILL_KN_HighProvoke_G1_DESC</name>
-    <body>Aumenta a Provocação de um alvo que está a até [%First_Target_Valid_Distance]m de distância de você.
+    <body>Aumenta a Provocação de um alvo a [%First_Target_Valid_Distance]m de distância de você.
 Receive Stigmas</body>
   </string>
   <string>
@@ -63076,7 +63076,7 @@ Habilidade de Stigma</body>
   <string>
     <id>293821</id>
     <name>STR_PreChain_P_EQUIP_Dual</name>
-    <body>Empunhadura Dupla Avançada</body>
+    <body>Dual Wielding Avançada</body>
   </string>
   <string>
     <id>293822</id>

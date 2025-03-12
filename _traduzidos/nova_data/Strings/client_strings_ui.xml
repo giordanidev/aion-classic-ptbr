@@ -203,7 +203,7 @@
   <string>
     <id>60007</id>
     <name>STR_PARTY_FORMATION_TYPE_2</name>
-    <body>Evação Aumentada / Precisão Reduzida</body>
+    <body>Evasão Aumentada / Precisão Reduzida</body>
   </string>
   <string>
     <id>60008</id>
@@ -228,12 +228,12 @@
   <string>
     <id>70002</id>
     <name>STR_PARTY_ALLIANCE_CHANGE_LOOT_TO_RANDOM_HE_ASKED</name>
-    <body>%0 has asked to change the Alliance's loot distribution to 'auto loot' mode. Accept?</body>
+    <body>%0 pediu para mudar a distribuição de 'loot' da Aliança para o modo 'automático'. Você aceita?</body>
   </string>
   <string>
     <id>70003</id>
     <name>STR_PARTY_ALLIANCE_PICKUP_ITEM_HE_ASKED</name>
-    <body>%0 requested permission to pick up %1. Grant permission?</body>
+    <body>%0 solicitou permissão para pegar '%1'. Conceder permissão?</body>
   </string>
   <string>
     <id>70004</id>
@@ -248,7 +248,7 @@
   <string>
     <id>80001</id>
     <name>STR_GUILD_INVITE_DO_YOU_ACCEPT_INVITATION</name>
-    <body>Você foi convidado para entrar na &lt;font color="ffff00"&gt;Legião &lt;%0&gt;&lt;/font&gt; (Nível %1) por &lt;font color="ffff00"&gt;%2&lt;/font&gt;. Deseja aceitar o convite?</body>
+    <body>Você foi convidado para entrar na &lt;font color="ffff00"&gt;Legião &lt;%0&gt;&lt;/font&gt; (Nível %1) por &lt;font color="ffff00"&gt;%2&lt;/font&gt;. Você aceita?</body>
   </string>
   <string>
     <id>80002</id>
@@ -268,7 +268,7 @@
   <string>
     <id>80005</id>
     <name>STR_GUILD_TRANSFER_GUILDMASTER</name>
-    <body>Você tem certeza que deseja &lt;font color="ffff00"&gt;transferir o Líder da Legião&lt;/font&gt; para &lt;font color="ffff00"&gt;%0&lt;/font&gt;?</body>
+    <body>Você tem certeza que deseja &lt;font color="ffff00"&gt;transferir o cargo de Líder da Legião&lt;/font&gt; para &lt;font color="ffff00"&gt;%0&lt;/font&gt;?</body>
   </string>
   <string>
     <id>80006</id>
@@ -293,7 +293,7 @@
   <string>
     <id>80010</id>
     <name>STR_GUILD_CHANGE_LEVEL_DO_YOU_ACCEPT_PAY</name>
-    <body>Subir o nível custa &lt;font font_xml="v3_msgbox_money"&gt;%qina0&lt;/font&gt;. Deseja continuar?</body>
+    <body>Subir o nível da Legião custa &lt;font font_xml="v3_msgbox_money"&gt;%qina0&lt;/font&gt;. Deseja continuar?</body>
   </string>
   <string>
     <id>80011</id>
@@ -303,7 +303,7 @@
   <string>
     <id>90000</id>
     <name>STR_BUY_SELL_CONFIRM_PURCHASE_EXCESSIVE_PRICE</name>
-    <body>O preço desse item está acima do normal. Você tem certeza que deseja comprar?</body>
+    <body>Com base no histórico de vendas passadas, o preço desse item está acima do normal. Você tem certeza que deseja comprar?</body>
   </string>
   <string>
     <id>90001</id>
@@ -313,7 +313,7 @@
   <string>
     <id>90002</id>
     <name>STR_STIGMA_CONFIRM_EQUIP</name>
-    <body>Você vai precisar de %num0 Stigma Shards para equipar essa Stigma. Se você tiver [Event] Stigma Shard, então esses serão usados primeiro. Você tem certeza que deseja equipar essa Stigma? </body>
+    <body>Você vai precisar de %num0 Stigma Shards para equipar essa Stigma. Se você tiver [Event] Stigma Shard, então essas serão usadas primeiro. Você tem certeza que deseja equipar essa Stigma? </body>
   </string>
   <string>
     <id>90003</id>
@@ -323,17 +323,17 @@
   <string>
     <id>90004</id>
     <name>STR_ASK_EXTEND_INVENTORY_CONFIRM</name>
-    <body>Aumentar para o Cubo nível %0 custa &lt;font font_xml="v3_msgbox_money"&gt;%qina1&lt;/font&gt;. Prosseguir? Expansões de Cubo adicionais estão disponíveis na Loja: [%shoplink].</body>
+    <body>Aumentar para o Cubo nível %0 custa &lt;font font_xml="v3_msgbox_money"&gt;%qina1&lt;/font&gt;. Continuar? Expansões de Cubo adicionais estão disponíveis na Loja: [%shoplink].</body>
   </string>
   <string>
     <id>90005</id>
     <name>STR_ASK_EXTEND_CHAR_WAREHOUSE_CONFIRM</name>
-    <body>Aumentar o nível do Baú para %0 custa &lt;font font_xml="v3_msgbox_money"&gt;%qina1&lt;/font&gt;. Continuar?</body>
+    <body>Aumentar o nível do Baú para %0 custa &lt;font font_xml="v3_msgbox_money"&gt;%qina1&lt;/font&gt;. Continuar? Expansões de Baú adicionais estão disponíveis na Loja: [%shoplink]</body>
   </string>
   <string>
     <id>90006</id>
     <name>STR_ASK_EXTEND_ACCOUNT_WAREHOUSE_CONFIRM</name>
-    <body>Aumentar o nível do Baú da Conta para %0 custa &lt;font font_xml="v3_msgbox_money"&gt;%qina1&lt;/font&gt;. Continuar?</body>
+    <body>Aumentar o nível do Baú da Conta para %0 custa &lt;font font_xml="v3_msgbox_money"&gt;%qina1&lt;/font&gt;. Continuar? Expansões de Baú adicionais estão disponíveis na Loja: [%shoplink]</body>
   </string>
   <string>
     <id>95000</id>
@@ -352,19 +352,19 @@
   <string>
     <id>95002</id>
     <name>STR_GIVE_ITEM_OPTION_DO_YOU_WANT_GIVE_OPTION</name>
-    <body>Você deseja melhorar &lt;font color="ffff00"&gt;%0&lt;/font&gt; com a Manastone &lt;font color="ffff00"&gt;%1&lt;/font&gt;?</body>
+    <body>Você deseja melhorar &lt;font color="ffff00"&gt;%0&lt;/font&gt; com a 'Manastone' &lt;font color="ffff00"&gt;%1&lt;/font&gt;?</body>
   </string>
   <string>
     <id>95003</id>
     <name>STR_GIVE_ITEM_OPTION_DO_YOU_WANT_GIVE_OPTION_WITH_WARNING</name>
-    <body>&lt;p&gt;Você deseja melhorar &lt;font color="ffff00"&gt;%0&lt;/font&gt; com a Manastone &lt;font color="ffff00"&gt;%1&lt;/font&gt;?&lt;/p&gt;&lt;p&gt;
-&lt;/p&gt;&lt;p&gt;Se o processo falhar, todas as manastones encaixadas no item &lt;font color="ffff00"&gt;%0&lt;/font&gt; serão &lt;font color="ff0000"&gt;DESTRUÍDAS&lt;/font&gt;.&lt;/p&gt;</body>
+    <body>&lt;p&gt;Você deseja melhorar &lt;font color="ffff00"&gt;%0&lt;/font&gt; com a 'Manastone' &lt;font color="ffff00"&gt;%1&lt;/font&gt;?&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;&lt;p&gt;Se o processo falhar, todas as 'manastones' encaixadas no item &lt;font color="ffff00"&gt;%0&lt;/font&gt; serão &lt;font color="ff0000"&gt;DESTRUÍDAS&lt;/font&gt;.&lt;/p&gt;</body>
   </string>
   <string>
     <id>95004</id>
     <name>STR_REMOVE_ITEM_OPTION_DO_YOU_WANT_REMOVE_OPTION</name>
     <body>&lt;p&gt;Remover a 'Manastone' &lt;font color="ffff00"&gt;%1&lt;/font&gt; de &lt;font color="ffff00"&gt;%0&lt;/font&gt; custa &lt;font font_xml="v3_msgbox_money"&gt;%num2&lt;/font&gt;. &lt;/p&gt;
-&lt;p&gt;Você quer remover a Manastone?&lt;/p&gt;</body>
+&lt;p&gt;Você quer remover a 'Manastone'?&lt;/p&gt;</body>
   </string>
   <string>
     <id>95005</id>
@@ -375,14 +375,14 @@
     <id>95006</id>
     <name>STR_SOUL_BOUND_ITEM_DO_YOU_WANT_SOUL_BOUND</name>
     <body>&lt;p&gt;&lt;font color="ffff00"&gt;%itemid0%&lt;/font&gt; deve ser vinculado a esse personagem para poder equipar.&lt;/p&gt;
-&lt;p&gt;Você &lt;font color="ff0000"&gt;não pode trocar&lt;/font&gt; itens vinculados.&lt;/p&gt;
+&lt;p&gt;Você &lt;font color="ff0000"&gt;não pode trocar&lt;/font&gt; itens que foram vinculados a esse personagem.&lt;/p&gt;
 &lt;p&gt;Vincular esse item agora?&lt;/p&gt;</body>
   </string>
   <string>
     <id>95007</id>
     <name>STR_GIVE_ITEM_PROC_DO_YOU_WANT_GIVE_PROC</name>
-    <body>&lt;p&gt;Melhorar '%0' com a Godstone '%1' custa &lt;font font_xml="v3_msgbox_money"&gt;%num2&lt;/font&gt;.&lt;/p&gt;
-&lt;p&gt;Qualquer Godstone previamente encaixada será substituída.&lt;/p&gt;
+    <body>&lt;p&gt;Melhorar '%0' com a 'Godstone' '%1' custa &lt;font font_xml="v3_msgbox_money"&gt;%num2&lt;/font&gt;.&lt;/p&gt;
+&lt;p&gt;Qualquer 'Godstone' previamente encaixada será substituída.&lt;/p&gt;
 &lt;p&gt;Prosseguir?&lt;/p&gt;</body>
   </string>
   <string>
@@ -398,12 +398,12 @@
   <string>
     <id>140000</id>
     <name>STR_GATHER_SKILLUP_CONFIRM</name>
-    <body>Aumentar o nível de Coleta para '%0' custa &lt;font font_xml="v3_msgbox_money"&gt;%qina1&lt;/font&gt;. Tem certeza que deseja prosseguir?</body>
+    <body>Aumentar o nível de Coleta para '%0' custa &lt;font font_xml="v3_msgbox_money"&gt;%qina1&lt;/font&gt;. Continuar?</body>
   </string>
   <string>
     <id>140001</id>
     <name>STR_COMBINE_SKILLUP_CONFIRM</name>
-    <body>Aumentar o nível de 'Combine (não identificado)' para '%0' custa &lt;font font_xml="v3_msgbox_money"&gt;%qina1&lt;/font&gt;. Tem certeza que deseja prosseguir?</body>
+    <body>Aumentar o nível de 'Combine (REPORTAR ERRO TRADUÇÃO)' para '%0' custa &lt;font font_xml="v3_msgbox_money"&gt;%qina1&lt;/font&gt;. Continuar?</body>
   </string>
   <string>
     <id>140002</id>
@@ -418,7 +418,7 @@
   <string>
     <id>150001</id>
     <name>STR_QUEST_GIVEUP_WHEN_DELETE_QUEST_ITEM</name>
-    <body>Descartar o item &lt;font color="ffff00"&gt;%0&lt;/font&gt; e &lt;font color="ff0000"&gt;abandonar&lt;/font&gt; a missão &lt;font color="ff0000"&gt;%1&lt;/font&gt;?</body>
+    <body>Descartar o item &lt;font color="ffff00"&gt;%0&lt;/font&gt; faz com que você &lt;font color="ff0000"&gt;abandone&lt;/font&gt; a missão &lt;font color="ff0000"&gt;%1&lt;/font&gt;. Continuar?</body>
   </string>
   <string>
     <id>160000</id>
@@ -428,14 +428,14 @@
   <string>
     <id>160001</id>
     <name>STR_VENDOR_CONFIRM_SELL</name>
-    <body>Vender este item por &lt;font font_xml="v3_msgbox_money"&gt;%qina0&lt;/font&gt;? Este será o seu %num1º item registrado. Uma taxa de registro %2 no valor de &lt;font font_xml="v3_msgbox_money"&gt;%qina3&lt;/font&gt; será aplicada.
+    <body>Vender este item por &lt;font font_xml="v3_msgbox_money"&gt;%qina0&lt;/font&gt;? Este será o seu %num1º item registrado. Uma taxa de registro nível %2 no valor de &lt;font font_xml="v3_msgbox_money"&gt;%qina3&lt;/font&gt; será aplicada.
 
 Continuar?</body>
   </string>
   <string>
     <id>160002</id>
     <name>STR_VENDOR_BUY_CONFIRM_PURCHASE_EXCESSIVE_PRICE</name>
-    <body>O preço deste item está acima do normal. Tem certeza de que deseja comprá-lo?</body>
+    <body>Com base em transações passadas, o preço deste item está acima do normal. Tem certeza de que deseja comprá-lo?</body>
   </string>
   <string>
     <id>160003</id>
@@ -491,7 +491,7 @@ Continuar?</body>
   <string>
     <id>160014</id>
     <name>STR_ASK_GROUP_GATE_DO_YOU_ACCEPT_MOVE</name>
-    <body>Você deseja viajar usando a passagem mágica?</body>
+    <body>Você deseja viajar usando a passagem mágica de grupo?</body>
   </string>
   <string>
     <id>160015</id>
@@ -572,7 +572,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>160033</id>
     <name>STR_ASK_JOIN_NEW_FACTION</name>
-    <body>You are currently a member of %0. Do you want to leave it to join %1?</body>
+    <body>Você é atualmente membro de %0. Deseja sair para se juntar a %1?</body>
   </string>
   <string>
     <id>230000</id>
@@ -637,7 +637,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>230012</id>
     <name>STR_CMD_GUILD_WRITE_MEMBER_INTRO</name>
-    <body>/SelfIntro,/Profile</body>
+    <body>/SelfIntro,/Profile,/Perfil</body>
   </string>
   <string>
     <id>230013</id>
@@ -747,12 +747,12 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>230034</id>
     <name>STR_CMD_HELP_DESC</name>
-    <body>- Lista de Comandos - \nMensagem Privada: '[nome do personagem] [mensagem], Gritar: ![mensagem], Chat de Grupo: #[mensagem], Chat da Legião: @[mensagem], Chat de Trocas: $[mensagem], Convidar para o Grupo: /Invite [nome do personagem], Sair do Grupo: /Leave, Expulsar do Grupo: /Kick [nome do personagem], Convidar para a Legião: /InviteToLegion [nome do personagem], Sair da Legião: /LeaveLegion, Expulsar da Legião: /KickFromLegion [nome do personagem]</body>
+    <body>- Lista de Comandos - \nMensagem Privada: '[nome do personagem] [mensagem], Gritar: ![mensagem], Chat de Grupo: #[mensagem], Chat da Legião: @[mensagem], Chat de Trocas: $[mensagem], Convidar para o Grupo: /Convidar [nome do personagem], Sair do Grupo: /Sair, Expulsar do Grupo: /Kick [nome do personagem], Convidar para a Legião: /InviteToLegion [nome do personagem], Sair da Legião: /LeaveLegion, Expulsar da Legião: /KickFromLegion [nome do personagem]</body>
   </string>
   <string>
     <id>230035</id>
     <name>STR_CMD_LOCATION_HAN</name>
-    <body>/Location,/Loc,/Local,/Localizacao,/Localização</body>
+    <body>/Location,/Loc,/Local,/Localizacao,/Localizacao</body>
   </string>
   <string>
     <id>230036</id>
@@ -1204,7 +1204,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>240076</id>
     <name>STR_TOOLTIP_LEFTHAND</name>
-    <body>Arma secundária</body>
+    <body>Arma secundária de uma mão</body>
   </string>
   <string>
     <id>240077</id>
@@ -1269,22 +1269,22 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>240089</id>
     <name>STR_TOOLTIP_ESSENCE_MAKER</name>
-    <body>Essence Maker (??)</body>
+    <body>Essence Maker</body>
   </string>
   <string>
     <id>240090</id>
     <name>STR_TOOLTIP_ARMOR_POWER_ESSENCE</name>
-    <body>Armour Power Essence (??)</body>
+    <body>Armour Power Essence</body>
   </string>
   <string>
     <id>240091</id>
     <name>STR_TOOLTIP_WEAPON_POWER_ESSENCE</name>
-    <body>Weapon Power Essence (??)</body>
+    <body>Weapon Power Essence</body>
   </string>
   <string>
     <id>240092</id>
     <name>STR_TOOLTIP_STAT_ESSENCE</name>
-    <body>Property Enhancement Essence (??)</body>
+    <body>Property Enhancement Essence</body>
   </string>
   <string>
     <id>240093</id>
@@ -1319,12 +1319,12 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>240099</id>
     <name>STR_TOOLTIP_POLEARM</name>
-    <body>Foice</body>
+    <body>Polearm</body>
   </string>
   <string>
     <id>240100</id>
     <name>STR_TOOLTIP_STAFF</name>
-    <body>Cetro</body>
+    <body>Staff</body>
   </string>
   <string>
     <id>240101</id>
@@ -1334,17 +1334,17 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>240102</id>
     <name>STR_TOOLTIP_PHYSICALSLASH</name>
-    <body>Slash (??)</body>
+    <body>Slash</body>
   </string>
   <string>
     <id>240103</id>
     <name>STR_TOOLTIP_PHYSICALPIERCE</name>
-    <body>Pierce (??)</body>
+    <body>Pierce</body>
   </string>
   <string>
     <id>240104</id>
     <name>STR_TOOLTIP_PHYSICALBLUNT</name>
-    <body>Bludgeon (??)</body>
+    <body>Bludgeon</body>
   </string>
   <string>
     <id>240105</id>
@@ -1434,7 +1434,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>240122</id>
     <name>STR_TOOLTIP_REQUIRED_SCIMITAR</name>
-    <body>Disponível quando equipado com uma cimitarra</body>
+    <body>Disponível quando equipado com uma Scimitar</body>
   </string>
   <string>
     <id>240123</id>
@@ -1464,7 +1464,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>240128</id>
     <name>STR_TOOLTIP_REQUIRED_WAND</name>
-    <body>Disponível quando equipado com um Cetro</body>
+    <body>Disponível quando equipado com uma Staff</body>
   </string>
   <string>
     <id>240129</id>
@@ -1479,17 +1479,17 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>240131</id>
     <name>STR_TOOLTIP_REQUIRED_SCYTHE</name>
-    <body>Disponível quando equipado com uma Foice</body>
+    <body>Disponível quando equipado com uma Polearm</body>
   </string>
   <string>
     <id>240132</id>
     <name>STR_TOOLTIP_REQUIRED_POLEARM</name>
-    <body>Disponível quando equipado com uma Foice</body>
+    <body>Disponível quando equipado com uma Polearm</body>
   </string>
   <string>
     <id>240133</id>
     <name>STR_TOOLTIP_REQUIRED_STAFF</name>
-    <body>Disponível quando equipado com um Cetro</body>
+    <body>Disponível quando equipado com uma Staff</body>
   </string>
   <string>
     <id>240134</id>
@@ -1499,12 +1499,12 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>240135</id>
     <name>STR_TOOLTIP_REQUIRED_GLOVE</name>
-    <body>Available when equipped with gloves</body>
+    <body>Disponível quando equipado com luvas</body>
   </string>
   <string>
     <id>240136</id>
     <name>STR_TOOLTIP_REQUIRED_CLAW</name>
-    <body>Available when equipped with a claw</body>
+    <body>Disponível quando equipado com uma garra</body>
   </string>
   <string>
     <id>240137</id>
@@ -1844,7 +1844,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>240204</id>
     <name>STR_GUILD_DISPERSE_DATE</name>
-    <body>Data Esperada para Exclusão</body>
+    <body>Data para exclusão</body>
   </string>
   <string>
     <id>240205</id>
@@ -2068,7 +2068,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>240250</id>
     <name>STR_OPTION_AUTODETECTING</name>
-    <body>Ajustando as configurações para o seu computador. Por favor, aguarde.</body>
+    <body>Ajustando as configurações para o seu computador. Por favor, aguarde...</body>
   </string>
   <string>
     <id>240251</id>
@@ -2083,17 +2083,17 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>240253</id>
     <name>STR_LOGINSTAGE_INVAILD_ID</name>
-    <body>Username is not valid. Please enter it again.</body>
+    <body>Nome de usuário inválido. Por favor, insira-o novamente.</body>
   </string>
   <string>
     <id>240254</id>
     <name>STR_LOGINSTAGE_INCORRECT_PASSWORD</name>
-    <body>Password is incorrect. Please enter it again.</body>
+    <body>Senha incorreta. Por favor, insira-a novamente.</body>
   </string>
   <string>
     <id>240255</id>
     <name>STR_LOGINSTAGE_CONNECTING</name>
-    <body>Now connecting.... Please wait a moment.</body>
+    <body>Conectando... Por favor, aguarde um momento...</body>
   </string>
   <string>
     <id>240256</id>
@@ -2118,7 +2118,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>240260</id>
     <name>STR_LOGINSTAGE_NOW_LOADING</name>
-    <body>Em movimento.... Por favor, aguarde um momento.</body>
+    <body>Em movimento.... Por favor, aguarde um momento...</body>
   </string>
   <string>
     <id>240261</id>
@@ -2133,7 +2133,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>240263</id>
     <name>STR_LOGINSTAGE_CREATE_CLASS_INFO</name>
-    <body>Por favor, escolha a Classe do seu personagem.</body>
+    <body>Por favor, escolha a classe do seu personagem.</body>
   </string>
   <string>
     <id>240264</id>
@@ -2183,12 +2183,12 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>240273</id>
     <name>STR_LOGINSTAGE_SAME_EXIST_CHARACTERNAME</name>
-    <body>Esse nome já está em uso. Por favor insira outro.</body>
+    <body>Esse nome já está em uso. Por favor insira outro nome.</body>
   </string>
   <string>
     <id>240274</id>
     <name>STR_LOGINSTAGE_INVAILD_CHARACTERNAME</name>
-    <body>O nome que você digitou não é permitido. Insira outro nome.</body>
+    <body>O nome que você digitou não é permitido. Por favor insira outro nome.</body>
   </string>
   <string>
     <id>240275</id>
@@ -2203,22 +2203,22 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>240277</id>
     <name>STR_LOGINSTAGE_TIZERID</name>
-    <body>Traditionally famous for its mighty knights, this northern country is regarded as a powerful military state, but the barren lands and primitive state of its industries have left the country lagging furthest behind in terms of economy and wealth.</body>
+    <body>Tradicionalmente famosa por seus poderosos cavaleiros, esta nação do norte é considerada um forte estado militar, mas as terras áridas e o estado primitivo de suas indústrias deixaram o país muito atrás em termos de economia e riqueza.</body>
   </string>
   <string>
     <id>240278</id>
     <name>STR_LOGINSTAGE_FESRA</name>
-    <body>An eastern nation composed of several tribes, where the central government is weak and the tribal lifestyle is still maintained and emphasized. There exists agriculture and livestock farming industries based on its lush forests, but most of the produce go into feeding its citizens.</body>
+    <body>Uma nação oriental composta por diversas tribos, onde o governo central é fraco e o estilo de vida tribal ainda é mantido e enfatizado. Existem indústrias de agricultura e pecuária baseadas em suas florestas exuberantes, mas a maior parte da produção é destinada a alimentar seus cidadãos.</body>
   </string>
   <string>
     <id>240279</id>
     <name>STR_LOGINSTAGE_EROLE</name>
-    <body>A nation located on the west of the Tower of Light, where the life of abstinence and celibacy is seen as ideal. A country full of devout priests of Aion, which also has the most developed economy thanks to a blessed environment.</body>
+    <body>Uma nação localizada a oeste da Torre da Luz, onde a vida de abstinência e celibato é vista como ideal. Um país repleto de sacerdotes devotos de Aion, que também possui a economia mais desenvolvida graças a um ambiente abençoado.</body>
   </string>
   <string>
     <id>240280</id>
     <name>STR_LOGINSTAGE_JUHDENIL</name>
-    <body>Developed by highly intellectual Water Elyos, this lowland country in the south boasts powerful magic and a high level of academia. It is where every Elyos who dreams of becoming a Sorcerer gathers from all over the world.</body>
+    <body>Desenvolvido pelos altamente intelectuais Elyos da Água, este país de terras baixas ao sul ostenta magia poderosa e um alto nível de academia. É onde todo Elyos que sonha em se tornar um Feiticeiro se reúne de todo o mundo.</body>
   </string>
   <string>
     <id>240281</id>
@@ -2228,7 +2228,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>240282</id>
     <name>STR_TOOLTIP_UNLIMITED_ITEM</name>
-    <body>Disponível sem limite.</body>
+    <body>Disponível (sem limite).</body>
   </string>
   <string>
     <id>240283</id>
@@ -2323,12 +2323,12 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>240301</id>
     <name>STR_TOOLTIP_ACTIONKEY_COMBATMODE</name>
-    <body>Toggle Combat</body>
+    <body>Alternar Combate</body>
   </string>
   <string>
     <id>240302</id>
     <name>STR_TOOLTIP_ACTIONKEY_RESTMODE</name>
-    <body>Toggle Rest</body>
+    <body>Alternar Descanso</body>
   </string>
   <string>
     <id>240303</id>
@@ -2338,27 +2338,27 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>240304</id>
     <name>STR_TOOLTIP_ACTIONKEY_ASSIST</name>
-    <body>Select Target of Target</body>
+    <body>Selecionar Alvo do Alvo</body>
   </string>
   <string>
     <id>240305</id>
     <name>STR_TOOLTIP_ACTIONKEY_WEAPONEXCHANGE</name>
-    <body>Change Weapon</body>
+    <body>Trocar Arma</body>
   </string>
   <string>
     <id>240306</id>
     <name>STR_TOOLTIP_ACTIONKEY_WALKTOGGLE</name>
-    <body>Toggle Walk</body>
+    <body>Alternar Caminhada</body>
   </string>
   <string>
     <id>240307</id>
     <name>STR_TOOLTIP_ACTIONKEY_FLY</name>
-    <body>Toggle Flight/Landing</body>
+    <body>Alternar Voo/Pouso</body>
   </string>
   <string>
     <id>240308</id>
     <name>STR_TOOLTIP_ACTIONKEY_WEAPON_BOOST</name>
-    <body>Toggle Power Shard</body>
+    <body>Alternar Power Shard</body>
   </string>
   <string>
     <id>240309</id>
@@ -2423,42 +2423,42 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>240321</id>
     <name>STR_WINDOWTEXT_RESOURCES</name>
-    <body>Resources</body>
+    <body>Recursos</body>
   </string>
   <string>
     <id>240322</id>
     <name>STR_WINDOWTEXT_TECHNOLOGY</name>
-    <body>Skills</body>
+    <body>Habilidades</body>
   </string>
   <string>
     <id>240323</id>
     <name>STR_WINDOWTEXT_SOCIETY</name>
-    <body>Society</body>
+    <body>Sociedade</body>
   </string>
   <string>
     <id>240324</id>
     <name>STR_INVENTORYWINDOW_STIGMAINFO</name>
-    <body>Equip Stigma Info</body>
+    <body>Informações da Stigma Equipada</body>
   </string>
   <string>
     <id>240325</id>
     <name>STR_HELP_CONTENT1</name>
-    <body>Chains</body>
+    <body>Sequências</body>
   </string>
   <string>
     <id>240326</id>
     <name>STR_HELP_CONTENT2</name>
-    <body>Let's use a Combo. A skill is blinking on the Quickbar. This skill is used to activate the Chain Skill. Using skills in the order indicated by the arrow allows you to defeat enemies with overwhelming striking power.</body>
+    <body>Vamos usar um Combo. Uma habilidade está piscando na Barra de Ações. Essa habilidade é usada para ativar a Habilidade em Sequência. Usar as habilidades na ordem indicada pela seta permite derrotar inimigos com poder de ataque esmagador.</body>
   </string>
   <string>
     <id>240327</id>
     <name>STR_HELP_CONTENT3</name>
-    <body>Special Attack Info</body>
+    <body>Informações do Ataque Especial</body>
   </string>
   <string>
     <id>240328</id>
     <name>STR_HELP_CONTENT4</name>
-    <body>Let's use a special attack. Select a target and use a special attack by clicking the skill indicated by the arrow on the skill window or on the Quickbar. With the special attack assistance skill, you can also transfer your DP to any group member who uses a special attack.</body>
+    <body>Vamos usar um ataque especial. Selecione um alvo e use um ataque especial clicando na habilidade indicada pela seta na janela de habilidades ou na Barra de Ações. Com a habilidade de assistência de ataque especial, você também pode transferir seu DP para qualquer membro do grupo que use um ataque especial.</body>
   </string>
   <string>
     <id>240329</id>
@@ -2553,7 +2553,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>240348</id>
     <name>STR_ACCOUNT_PASSWORD_NEEDED</name>
-    <body>Please enter ID and password.</body>
+    <body>Por favor, insira ID e senha.</body>
   </string>
   <string>
     <id>240349</id>
@@ -2653,7 +2653,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900006</id>
     <name>STR_KEYMAP_EXECUTE</name>
-    <body>Ataque/Chat</body>
+    <body>Attack/Chat</body>
   </string>
   <string>
     <id>900007</id>
@@ -2718,12 +2718,12 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900019</id>
     <name>STR_KEYMAP_MOVELEFT</name>
-    <body>Andar para a Esquerda</body>
+    <body>Para a Esquerda</body>
   </string>
   <string>
     <id>900020</id>
     <name>STR_KEYMAP_MOVERIGHT</name>
-    <body>Andar para a Direita</body>
+    <body>Para a Direita</body>
   </string>
   <string>
     <id>900021</id>
@@ -2868,7 +2868,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900049</id>
     <name>STR_KEYMAP_SWITCHWEAPON</name>
-    <body>Alternar Arma</body>
+    <body>Trocar Arma</body>
   </string>
   <string>
     <id>900050</id>
@@ -3140,17 +3140,17 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900107</id>
     <name>STR_KEYMAP_QUICKBAR_SHIFT_NUM</name>
-    <body>Quickbar 1 Shortcut to the Corresponding Page</body>
+    <body>Barra de Ações 1: Atalho para a Página Correspondente.</body>
   </string>
   <string>
     <id>900108</id>
     <name>STR_KEYMAP_QUICKBAR_SHIFT_CTRL_NUM</name>
-    <body>Quickbar 2 Shortcut to the Corresponding Page</body>
+    <body>Barra de Ações 2: Atalho para a Página Correspondente.</body>
   </string>
   <string>
     <id>900109</id>
     <name>STR_KEYMAP_QUICKBAR_SHIFT_ALT_NUM</name>
-    <body>Quickbar 3 Shortcut to the Corresponding Page</body>
+    <body>Barra de Ações 3: Atalho para a Página Correspondente.</body>
   </string>
   <string>
     <id>900110</id>
@@ -3430,7 +3430,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900263</id>
     <name>STR_STR</name>
-    <body>Power</body>
+    <body>Força</body>
   </string>
   <string>
     <id>900264</id>
@@ -3440,12 +3440,12 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900265</id>
     <name>STR_AGI</name>
-    <body>Precisão</body>
+    <body>Agilidade</body>
   </string>
   <string>
     <id>900266</id>
     <name>STR_DEX</name>
-    <body>Agilidade</body>
+    <body>Destreza</body>
   </string>
   <string>
     <id>900267</id>
@@ -3535,7 +3535,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900284</id>
     <name>STR_MOVE_SPEED</name>
-    <body>Velocidade</body>
+    <body>Velocidade de Movimento</body>
   </string>
   <string>
     <id>900285</id>
@@ -3850,12 +3850,12 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900347</id>
     <name>STR_NPC_DIALOG_GENDER_MALE</name>
-    <body>Tipo</body>
+    <body>Masculino</body>
   </string>
   <string>
     <id>900348</id>
     <name>STR_NPC_DIALOG_GENDER_FEMALE</name>
-    <body>Lady</body>
+    <body>Feminino</body>
   </string>
   <string>
     <id>900349</id>
@@ -3885,12 +3885,12 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900354</id>
     <name>STR_VENDOR_MSG_REGISTER_ITEM</name>
-    <body>Selecione um item em seu inventário.</body>
+    <body>Selecione um item no seu inventário.</body>
   </string>
   <string>
     <id>900355</id>
     <name>STR_PERSONAL_SHOP_MSG_EXCESSIVE_PRICE</name>
-    <body>O preço deste item está acima do normal. Tem certeza que deseja comprar?</body>
+    <body>Com base em negociações passadas, o preço deste item está acima do normal. Tem certeza que deseja comprar?</body>
   </string>
   <string>
     <id>900356</id>
@@ -3900,27 +3900,27 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900357</id>
     <name>STR_MAIL_CONFIRM_DEL</name>
-    <body>Tem certeza que deseja &lt;font color="ff0000"&gt;excluir&lt;/font&gt; a carta selecionada?</body>
+    <body>Tem certeza que deseja &lt;font color="ff0000"&gt;excluir&lt;/font&gt; a mensagem selecionada?</body>
   </string>
   <string>
     <id>900358</id>
     <name>STR_MAIL_CONFIRM_SENDING</name>
-    <body>A taxa dos correios é de &lt;font font_xml="v3_msgbox_money"&gt;%qina0&lt;/font&gt;. Deseja enviar a carta para &lt;font color="ffff00"&gt;%1&lt;/font&gt;?</body>
+    <body>A taxa dos correios é de &lt;font font_xml="v3_msgbox_money"&gt;%qina0&lt;/font&gt;. Deseja enviar a mensagem para &lt;font color="ffff00"&gt;%1&lt;/font&gt;?</body>
   </string>
   <string>
     <id>900359</id>
     <name>STR_MAIL_RECEIVED_MAIL</name>
-    <body>Cartas </body>
+    <body>Mensagens</body>
   </string>
   <string>
     <id>900360</id>
     <name>STR_MAIL_PENDING_MAIL</name>
-    <body>Carta Pendente</body>
+    <body>Mensagem Pendente</body>
   </string>
   <string>
     <id>900361</id>
     <name>STR_MAIL_MSG_FORWARDING_SUCCESS</name>
-    <body>A carta foi entregue com sucesso.</body>
+    <body>A mensagem foi entregue com sucesso.</body>
   </string>
   <string>
     <id>900362</id>
@@ -4060,7 +4060,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900389</id>
     <name>STR_MSG_ATTACK_DAMAGE</name>
-    <body>Você infligiu %num1 de dano em %0.</body>
+    <body>Você causou %num1 de dano em %0.</body>
   </string>
   <string>
     <id>900390</id>
@@ -4175,7 +4175,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900412</id>
     <name>STR_MAIL_CONFIRM_DEL_APPENDED</name>
-    <body>Há um item anexado à carta. Tem certeza de que deseja excluí-la?</body>
+    <body>Um item anexado à mensagem será perdido. Tem certeza de que deseja excluí-la?</body>
   </string>
   <string>
     <id>900413</id>
@@ -4280,7 +4280,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900433</id>
     <name>STR_MATERIAL</name>
-    <body>Item de Material</body>
+    <body>Material</body>
   </string>
   <string>
     <id>900434</id>
@@ -4385,22 +4385,22 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900454</id>
     <name>STR_LOGIN_ERROR_INTERNAL_BILLGATES_ERROR</name>
-    <body>Billing server internal error</body>
+    <body>Erro interno do servidor de faturamento.</body>
   </string>
   <string>
     <id>900455</id>
     <name>STR_LOGIN_ERROR_INVALID_ACCOUNT</name>
-    <body>ID or password does not match.</body>
+    <body>ID ou senha não correspondem.</body>
   </string>
   <string>
     <id>900456</id>
     <name>STR_LOGIN_ERROR_BLOCKED_ACCOUNT</name>
-    <body>Your account has been blocked.</body>
+    <body>Sua conta foi bloqueada.</body>
   </string>
   <string>
     <id>900457</id>
     <name>STR_LOGIN_ERROR_ON_ACCOUNT_POLICY</name>
-    <body>The account policy does not allow you to log in.</body>
+    <body>A política da conta não permite que você faça login.</body>
   </string>
   <string>
     <id>900458</id>
@@ -4505,7 +4505,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900478</id>
     <name>STR_TOOLTIP_TOOLROD</name>
-    <body>Fishing Rod</body>
+    <body>Vara de Pesca</body>
   </string>
   <string>
     <id>900479</id>
@@ -4515,22 +4515,22 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900480</id>
     <name>STR_TOOLTIP_ATKDELAY_FAST</name>
-    <body>Arma Rápida %0 Batida(s)</body>
+    <body>Arma Rápida (%0 Ataque)</body>
   </string>
   <string>
     <id>900481</id>
     <name>STR_TOOLTIP_ATKDELAY_NORMAL</name>
-    <body>Arma %0 Batida(s)</body>
+    <body>Arma (%0 Ataques)</body>
   </string>
   <string>
     <id>900482</id>
     <name>STR_TOOLTIP_ATKDELAY_SLOW</name>
-    <body>Arma Lenta %0 Batida(s)</body>
+    <body>Arma Lenta (%0 Ataques)</body>
   </string>
   <string>
     <id>900483</id>
     <name>STR_TOOLTIP_ATKDELAY_VERYSLOW</name>
-    <body>Arma Muito Lenta %0 Batida(s)</body>
+    <body>Arma Muito Lenta (%0 Ataques)</body>
   </string>
   <string>
     <id>900484</id>
@@ -4620,27 +4620,27 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900501</id>
     <name>STR_L2AUTH_S_INVALID_ACCOUT</name>
-    <body>ID or Password does not match</body>
+    <body>ID ou Senha não correspondem.</body>
   </string>
   <string>
     <id>900502</id>
     <name>STR_L2AUTH_S_INCORRECT_PWD</name>
-    <body>ID or Password does not match</body>
+    <body>ID ou Senha não correspondem.</body>
   </string>
   <string>
     <id>900503</id>
     <name>STR_L2AUTH_S_ACCOUNT_LOAD_FAIL</name>
-    <body>Failed to load your account info.</body>
+    <body>Falha ao carregar as informações da sua conta.</body>
   </string>
   <string>
     <id>900504</id>
     <name>STR_L2AUTH_S_LOAD_SSN_ERROR</name>
-    <body>Failed to load your social security number.</body>
+    <body>Falha ao carregar seu número de segurança social.</body>
   </string>
   <string>
     <id>900505</id>
     <name>STR_L2AUTH_S_NO_SERVER_LIST</name>
-    <body>O 'servidor do jogo' não está disponível no 'servidor de autorização'.</body>
+    <body>O servidor do jogo não está disponível no servidor de autorização.</body>
   </string>
   <string>
     <id>900506</id>
@@ -4655,17 +4655,17 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900508</id>
     <name>STR_L2AUTH_S_INCORRECT_MD5Key</name>
-    <body>The login information does not match the information you provided.</body>
+    <body>As informações de login não correspondem às informações fornecidas.</body>
   </string>
   <string>
     <id>900509</id>
     <name>STR_L2AUTH_S_NO_LOGININFO</name>
-    <body>No login info available.</body>
+    <body>Nenhuma informação de login disponível.</body>
   </string>
   <string>
     <id>900510</id>
     <name>STR_L2AUTH_S_ALREADY_USED_IP</name>
-    <body>The IP is already in use.</body>
+    <body>O IP já está em uso.</body>
   </string>
   <string>
     <id>900511</id>
@@ -4710,22 +4710,22 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900519</id>
     <name>STR_L2AUTH_S_TIME_SERVER_LIMIT_EXCEED</name>
-    <body>Used up all relax server time</body>
+    <body>Tempo do servidor de relaxamento esgotado.</body>
   </string>
   <string>
     <id>900520</id>
     <name>STR_L2AUTH_S_INVALID_SECURITY_CARD</name>
-    <body>Failed to authenticate the Security Card.</body>
+    <body>Falha ao autenticar o Cartão de Segurança.</body>
   </string>
   <string>
     <id>900521</id>
     <name>STR_L2AUTH_S_UNDER_AGE_TIME_LIMIT</name>
-    <body>Age limit applied after a specified time (currently only for Thailand)</body>
+    <body>Limite de idade aplicado após um tempo especificado (atualmente apenas para a Tailândia).</body>
   </string>
   <string>
     <id>900522</id>
     <name>STR_L2AUTH_S_RESTRICTED_SERVER</name>
-    <body>Restricted server</body>
+    <body>Servidor restrito</body>
   </string>
   <string>
     <id>900523</id>
@@ -4735,12 +4735,12 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900524</id>
     <name>STR_L2AUTH_S_DISALLOWED_MULTI_LOADING</name>
-    <body>You cannot run 2 clients in one computer in the internet cafe.</body>
+    <body>Você não pode executar 2 clientes em um computador em um cybercafé.</body>
   </string>
   <string>
     <id>900525</id>
     <name>STR_L2AUTH_S_DORMANT_USER</name>
-    <body>Dormant account</body>
+    <body>Conta inativa</body>
   </string>
   <string>
     <id>900526</id>
@@ -4775,12 +4775,12 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900532</id>
     <name>STR_TOOLTIP_SKILL_STAT_AGI</name>
-    <body>Precisão Física</body>
+    <body>Agilidade</body>
   </string>
   <string>
     <id>900533</id>
     <name>STR_TOOLTIP_SKILL_STAT_DEX</name>
-    <body>Agilidade</body>
+    <body>Destreza</body>
   </string>
   <string>
     <id>900534</id>
@@ -4800,7 +4800,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900537</id>
     <name>STR_TOOLTIP_SKILL_STAT_AGIDEX</name>
-    <body>Precisão e Agilidade</body>
+    <body>Agilidade e Destreza</body>
   </string>
   <string>
     <id>900538</id>
@@ -5005,62 +5005,62 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900578</id>
     <name>STR_TOOLTIP_SKILL_STAT_ARSILENCE</name>
-    <body>Silence Resistance</body>
+    <body>Resistência à 'Silence'</body>
   </string>
   <string>
     <id>900579</id>
     <name>STR_TOOLTIP_SKILL_STAT_ARFEAR</name>
-    <body>Fear Resist</body>
+    <body>Resistência à 'Fear'</body>
   </string>
   <string>
     <id>900580</id>
     <name>STR_TOOLTIP_SKILL_STAT_ARCURSE</name>
-    <body>Curse Resist</body>
+    <body>Resistência à 'Curse'</body>
   </string>
   <string>
     <id>900581</id>
     <name>STR_TOOLTIP_SKILL_STAT_ARCONFUSE</name>
-    <body>Confusion Resist</body>
+    <body>Resistência à 'Confusion'</body>
   </string>
   <string>
     <id>900582</id>
     <name>STR_TOOLTIP_SKILL_STAT_ARSTUN</name>
-    <body>Stun Resist</body>
+    <body>Resistência à 'Stun'</body>
   </string>
   <string>
     <id>900583</id>
     <name>STR_TOOLTIP_SKILL_STAT_ARPETRIFACTION</name>
-    <body>Petrification Resist</body>
+    <body>Resistência à Petrificação</body>
   </string>
   <string>
     <id>900584</id>
     <name>STR_TOOLTIP_SKILL_STAT_ARSNARE</name>
-    <body>Reduce Speed Resist</body>
+    <body>Resistência à Redução de Velocidade de Movimento</body>
   </string>
   <string>
     <id>900585</id>
     <name>STR_TOOLTIP_SKILL_STAT_ARSLOW</name>
-    <body>Reduce Attack Speed Resist</body>
+    <body>Resistência à Redução de Velocidade de Ataque</body>
   </string>
   <string>
     <id>900586</id>
     <name>STR_TOOLTIP_SKILL_STAT_ARSTUMPLE</name>
-    <body>Stumble Resist</body>
+    <body>Resistência à 'Stumble'</body>
   </string>
   <string>
     <id>900587</id>
     <name>STR_TOOLTIP_SKILL_STAT_ARSTAGGER</name>
-    <body>Knock Back Resist</body>
+    <body>Resistência à 'Knock Back'</body>
   </string>
   <string>
     <id>900588</id>
     <name>STR_TOOLTIP_SKILL_STAT_ARSPIN</name>
-    <body>Spin Resist</body>
+    <body>Resistência à 'Spin'</body>
   </string>
   <string>
     <id>900589</id>
     <name>STR_TOOLTIP_SKILL_STAT_AROPENAREIAL</name>
-    <body>Aether's Hold Resist</body>
+    <body>Resistência à 'Aether's Hold'</body>
   </string>
   <string>
     <id>900590</id>
@@ -5070,32 +5070,32 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900591</id>
     <name>STR_TOOLTIP_SKILL_STAT_POISON_ARP</name>
-    <body>Poisoning Penetration</body>
+    <body>Resistência à Veneno</body>
   </string>
   <string>
     <id>900592</id>
     <name>STR_TOOLTIP_SKILL_STAT_BLEEED_ARP</name>
-    <body>Bleeding Penetration</body>
+    <body>Resistência à Sangramento</body>
   </string>
   <string>
     <id>900593</id>
     <name>STR_TOOLTIP_SKILL_STAT_PARALYZE_ARP</name>
-    <body>Paralysis Resistance Penetration</body>
+    <body>Resistência à Paralisia</body>
   </string>
   <string>
     <id>900594</id>
     <name>STR_TOOLTIP_SKILL_STAT_SLEEP_ARP</name>
-    <body>Sleep Penetration</body>
+    <body>Resistência à 'Sleep'</body>
   </string>
   <string>
     <id>900595</id>
     <name>STR_TOOLTIP_SKILL_STAT_ROOT_ARP</name>
-    <body>Immobilization Penetration</body>
+    <body>Resistência à Imobilização</body>
   </string>
   <string>
     <id>900596</id>
     <name>STR_TOOLTIP_SKILL_STAT_BLIND_ARP</name>
-    <body>Blindness Penetration</body>
+    <body>Resistência à 'Blind'</body>
   </string>
   <string>
     <id>900597</id>
@@ -5110,12 +5110,12 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900599</id>
     <name>STR_TOOLTIP_SKILL_STAT_SILENCE_ARP</name>
-    <body>Silence Resistance Penetration</body>
+    <body>Resistência à 'Silence'</body>
   </string>
   <string>
     <id>900600</id>
     <name>STR_TOOLTIP_SKILL_STAT_FEAR_ARP</name>
-    <body>Fear Penetration</body>
+    <body>Resistência à 'Fear'</body>
   </string>
   <string>
     <id>900601</id>
@@ -5125,52 +5125,52 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900602</id>
     <name>STR_TOOLTIP_SKILL_STAT_CONFUSE_ARP</name>
-    <body>Confusion Penetration</body>
+    <body>Resistência à 'Confusion'</body>
   </string>
   <string>
     <id>900603</id>
     <name>STR_TOOLTIP_SKILL_STAT_STUN_ARP</name>
-    <body>Stun Penetration</body>
+    <body>Resistência à 'Stun'</body>
   </string>
   <string>
     <id>900604</id>
     <name>STR_TOOLTIP_SKILL_STAT_PETRIFACTION_ARP</name>
-    <body>Petrification Penetration</body>
+    <body>Resistência à Petrificação</body>
   </string>
   <string>
     <id>900605</id>
     <name>STR_TOOLTIP_SKILL_STAT_SNARE_ARP</name>
-    <body>Reduce Movement Speed Penetration</body>
+    <body>Resistência à Redução de Velocidade de Movimento</body>
   </string>
   <string>
     <id>900606</id>
     <name>STR_TOOLTIP_SKILL_STAT_SLOW_ARP</name>
-    <body>Reduce Attack Speed Penetration</body>
+    <body>Resistência à Redução de Velocidade de Ataque</body>
   </string>
   <string>
     <id>900607</id>
     <name>STR_TOOLTIP_SKILL_STAT_STUMBLE_ARP</name>
-    <body>Stumble Penetration</body>
+    <body>Resistência à 'Stumble'</body>
   </string>
   <string>
     <id>900608</id>
     <name>STR_TOOLTIP_SKILL_STAT_STAGGER_ARP</name>
-    <body>Knock Back Penetration</body>
+    <body>Resistência à 'Knock Back'</body>
   </string>
   <string>
     <id>900609</id>
     <name>STR_TOOLTIP_SKILL_STAT_SPIN_ARP</name>
-    <body>Spin Penetration</body>
+    <body>Resistência à 'Spin'</body>
   </string>
   <string>
     <id>900610</id>
     <name>STR_TOOLTIP_SKILL_STAT_OPENAREIAL_ARP</name>
-    <body>Aether's Hold Penetration</body>
+    <body>Resistência à 'Aether's Hold'</body>
   </string>
   <string>
     <id>900611</id>
     <name>STR_TOOLTIP_SKILL_STAT_ALL_ARP</name>
-    <body>All Altered State Penetration</body>
+    <body>Resistência a todos os estados alterados</body>
   </string>
   <string>
     <id>900612</id>
@@ -5185,7 +5185,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900614</id>
     <name>STR_TOOLTIP_SKILL_SUBTYPE_MPHEAL</name>
-    <body>Mana Treatment Skills</body>
+    <body>Habilidades de Cura de Mana</body>
   </string>
   <string>
     <id>900615</id>
@@ -5205,7 +5205,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900618</id>
     <name>STR_TOOLTIP_SKILL_ABNORMAL_PARALYZE</name>
-    <body>Paralyse</body>
+    <body>Paralisia</body>
   </string>
   <string>
     <id>900619</id>
@@ -5215,7 +5215,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900620</id>
     <name>STR_TOOLTIP_SKILL_ABNORMAL_PETRIFACTION</name>
-    <body>Petrification</body>
+    <body>Petrificação</body>
   </string>
   <string>
     <id>900621</id>
@@ -5225,17 +5225,17 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900622</id>
     <name>STR_TOOLTIP_SKILL_ABNORMAL_BLEED</name>
-    <body>Bleeding.</body>
+    <body>Sangramento.</body>
   </string>
   <string>
     <id>900623</id>
     <name>STR_TOOLTIP_SKILL_ABNORMAL_SNARE</name>
-    <body>Movement Speed Reduction</body>
+    <body>Redução de Velocidade de Movimento</body>
   </string>
   <string>
     <id>900624</id>
     <name>STR_TOOLTIP_SKILL_ABNORMAL_SLOW</name>
-    <body>Attack Speed Reduction</body>
+    <body>Redução de Velocidade de Ataque</body>
   </string>
   <string>
     <id>900625</id>
@@ -5335,12 +5335,12 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900644</id>
     <name>STR_TOOLTIP_SKILL_TARGET_RELATION_FRIEND</name>
-    <body>Friendly Relationship</body>
+    <body>Relação Amigável</body>
   </string>
   <string>
     <id>900645</id>
     <name>STR_TOOLTIP_SKILL_TARGET_RELATION_ENEMY</name>
-    <body>Hostile Relationship</body>
+    <body>Relação Hostil</body>
   </string>
   <string>
     <id>900646</id>
@@ -5481,7 +5481,7 @@ Usos restantes: %num3 / %num4 vezes</body>
     <id>900673</id>
     <name>STR_GUILD_CHANGE_NICKNAME</name>
     <body>&lt;p&gt;Por favor, digite o novo apelido para %0.&lt;/p&gt;
-&lt;p&gt;&lt;máx. 10 letras&gt;&lt;/p&gt;</body>
+&lt;p&gt;&lt;máx. 10 caractéres&gt;&lt;/p&gt;</body>
   </string>
   <string>
     <id>900674</id>
@@ -5596,12 +5596,12 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900695</id>
     <name>STR_GUILD_MSG_CREATE_EMBLEM</name>
-    <body>&lt;p&gt;O Emblema da Legião deve ter exatamente 256x256 pixels de tamanho. Você só pode enviar arquivos com o nome 'emblem.bmp' (24 bits) ou 'emblem.tga' (32 bits).&lt;/p&gt;&lt;p&gt;Copie o arquivo para a pasta principal do AION e clique em 'OK'.&lt;/p&gt;</body>
+    <body>&lt;p&gt;O Emblema da Legião deve ter exatamente 256x256 pixels de tamanho. Você só pode enviar arquivos com o nome 'emblem.bmp' (24 bits) ou 'emblem.tga' (32 bits).&lt;/p&gt;&lt;p&gt;Copie o arquivo para a pasta principal do AION, selecione-o na lista e clique em 'OK'.&lt;/p&gt;</body>
   </string>
   <string>
     <id>900696</id>
     <name>STR_GUILD_MSG_CHANGE_EMBLEM</name>
-    <body>&lt;p&gt;O Emblema da Legião deve ter exatamente 256x256 pixels de tamanho. Você só pode enviar arquivos com o nome 'emblem.bmp' (24 bits) ou 'emblem.tga' (32 bits).&lt;/p&gt;&lt;p&gt;Copie o arquivo para a pasta principal do AION e clique em 'OK'.&lt;/p&gt;</body>
+    <body>&lt;p&gt;O Emblema da Legião deve ter exatamente 256x256 pixels de tamanho. Você só pode enviar arquivos com o nome 'emblem.bmp' (24 bits) ou 'emblem.tga' (32 bits).&lt;/p&gt;&lt;p&gt;Copie o arquivo para a pasta principal do AION, selecione-o na lista e clique em 'OK'.&lt;/p&gt;</body>
   </string>
   <string>
     <id>900697</id>
@@ -5715,7 +5715,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900720</id>
     <name>STR_TOOLTIP_SKILL_STAT_ACTIVE_DEFEND</name>
-    <body>Evadir, Parry, Block</body>
+    <body>Evasão, Parry, Block</body>
   </string>
   <string>
     <id>900721</id>
@@ -5779,7 +5779,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900733</id>
     <name>STR_SELECT_STAGE_MSG_INPUT_DELETE_NOW</name>
-    <body>Se você Excluir o personagem, os itens no inventário, baú privado e correio também serão removidos. Se você ainda deseja remover seu personagem, por favor escreva '%0'.</body>
+    <body>Se você Excluir o personagem, os itens no inventário, baú privado e correio também serão removidos. Se você ainda deseja remover seu personagem, por favor escreva '%0' para confirmar.</body>
   </string>
   <string>
     <id>900734</id>
@@ -5889,12 +5889,12 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900755</id>
     <name>STR_CHAT_CMD_ALLIANCE</name>
-    <body>/Alliance,/Aliança</body>
+    <body>/Alliance,/Alianca</body>
   </string>
   <string>
     <id>900756</id>
     <name>STR_CHAT_CMD_GUILD</name>
-    <body>/Legion,/Legião</body>
+    <body>/Legion,/Legiao</body>
   </string>
   <string>
     <id>900757</id>
@@ -6059,7 +6059,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900789</id>
     <name>STR_TOOLTIP_RECIPE_REQUIRE_SKILL</name>
-    <body>%0 skill (%1p)</body>
+    <body>%0 pontos (%1p)</body>
   </string>
   <string>
     <id>900790</id>
@@ -6129,12 +6129,12 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900803</id>
     <name>STR_MSG_SHARE_QUEST</name>
-    <body>%0 está compartilhando a missão [%questname]. Você aceita?</body>
+    <body>%0 está compartilhando a missão [%questname]. Aceitar missão?</body>
   </string>
   <string>
     <id>900804</id>
     <name>STR_MISSION_COMPLETED</name>
-    <body>Completada</body>
+    <body>Finalizada</body>
   </string>
   <string>
     <id>900805</id>
@@ -6389,37 +6389,37 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900855</id>
     <name>STR_MACRO_USE</name>
-    <body>/Use</body>
+    <body>/Use,/Usar</body>
   </string>
   <string>
     <id>900856</id>
     <name>STR_MACRO_SHORTCUT</name>
-    <body>/Quickbar</body>
+    <body>/Quickbar,/Barra</body>
   </string>
   <string>
     <id>900857</id>
     <name>STR_MACRO_DELAY</name>
-    <body>/Delay</body>
+    <body>/Delay,/Atraso</body>
   </string>
   <string>
     <id>900858</id>
     <name>STR_MACRO_CHAT_NORMAL</name>
-    <body>/Say</body>
+    <body>/Say,/Falar</body>
   </string>
   <string>
     <id>900859</id>
     <name>STR_MACRO_CHAT_GUILD</name>
-    <body>/Legion,/g</body>
+    <body>/Legion,/g,/Legiao</body>
   </string>
   <string>
     <id>900860</id>
     <name>STR_MACRO_CHAT_PARTY</name>
-    <body>/Group</body>
+    <body>/Group,/Grupo</body>
   </string>
   <string>
     <id>900861</id>
     <name>STR_MACRO_TARGET</name>
-    <body>/Select</body>
+    <body>/Select,/Selecionar</body>
   </string>
   <string>
     <id>900862</id>
@@ -6734,7 +6734,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900924</id>
     <name>STR_MACRO_SETVARIABLE</name>
-    <body>/Variable</body>
+    <body>/Variable,/Variavel</body>
   </string>
   <string>
     <id>900925</id>
@@ -6759,7 +6759,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900929</id>
     <name>STR_MACRO_OPTION_PET</name>
-    <body>[%%Mascote]</body>
+    <body>[%%Pet]</body>
   </string>
   <string>
     <id>900930</id>
@@ -6894,112 +6894,112 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900956</id>
     <name>STR_PETITION_CATEGORY_QUESTION</name>
-    <body>Question about the Game</body>
+    <body>Pergunta sobre o Jogo</body>
   </string>
   <string>
     <id>900957</id>
     <name>STR_PETITION_CATEGORY_SERVER</name>
-    <body>Unstable Server</body>
+    <body>Servidor Instável</body>
   </string>
   <string>
     <id>900958</id>
     <name>STR_PETITION_CATEGORY_RECOVER</name>
-    <body>Restore</body>
+    <body>Restaurar</body>
   </string>
   <string>
     <id>900959</id>
     <name>STR_PETITION_CATEGORY_PROPOSAL</name>
-    <body>Suggestion</body>
+    <body>Sugestão</body>
   </string>
   <string>
     <id>900960</id>
     <name>STR_PETITION_CATEGORY_COMPLAIN</name>
-    <body>Report</body>
+    <body>Reportar</body>
   </string>
   <string>
     <id>900961</id>
     <name>STR_PETITION_CATEGORY_EVENT</name>
-    <body>Event</body>
+    <body>Evento</body>
   </string>
   <string>
     <id>900962</id>
     <name>STR_PETITION_CATEGORY_SECURITY</name>
-    <body>Security Help</body>
+    <body>Ajuda de Segurança</body>
   </string>
   <string>
     <id>900963</id>
     <name>STR_PETITION_CATEGORY_ACCOUNT</name>
-    <body>Account Theft</body>
+    <body>Roubo de Conta</body>
   </string>
   <string>
     <id>900964</id>
     <name>STR_PETITION_CATEGORY_ETC</name>
-    <body>Other</body>
+    <body>Outros</body>
   </string>
   <string>
     <id>900965</id>
     <name>STR_PETITION_CATEGORY_THANKS</name>
-    <body>Praise</body>
+    <body>Agradecer</body>
   </string>
   <string>
     <id>900966</id>
     <name>STR_PETITION_OPTION_POS</name>
-    <body>Coordinate</body>
+    <body>Coordenadas</body>
   </string>
   <string>
     <id>900967</id>
     <name>STR_PETITION_OPTION_CATEGORY</name>
-    <body>Category</body>
+    <body>Categoria</body>
   </string>
   <string>
     <id>900968</id>
     <name>STR_PETITION_OPTION_LOCATION</name>
-    <body>Report Location</body>
+    <body>Local</body>
   </string>
   <string>
     <id>900969</id>
     <name>STR_PETITION_OPTION_TIME</name>
-    <body>Time of Occurrence</body>
+    <body>Hora</body>
   </string>
   <string>
     <id>900970</id>
     <name>STR_PETITION_OPTION_RECOVER</name>
-    <body>Restoration Details</body>
+    <body>Detalhes</body>
   </string>
   <string>
     <id>900971</id>
     <name>STR_PETITION_OPTION_REVIVAL</name>
-    <body>Revival</body>
+    <body>Reviver</body>
   </string>
   <string>
     <id>900972</id>
     <name>STR_PETITION_OPTION_TARGET</name>
-    <body>Target Character</body>
+    <body>Personagem</body>
   </string>
   <string>
     <id>900973</id>
     <name>STR_PETITION_OPTION_EVENT</name>
-    <body>Event Name</body>
+    <body>Nome do Evento</body>
   </string>
   <string>
     <id>900974</id>
     <name>STR_PETITION_OPTION_SERVICE</name>
-    <body>Requested Service</body>
+    <body>Serviço Solicitado</body>
   </string>
   <string>
     <id>900975</id>
     <name>STR_PETITION_OPTION_REASON_FOR_ETC</name>
-    <body>Other Reasons for Selection</body>
+    <body>Outras razões</body>
   </string>
   <string>
     <id>900976</id>
     <name>STR_PETITION_OPTION_GOOD_GM</name>
-    <body>Satisfactory GM</body>
+    <body>Elogios ao GM</body>
   </string>
   <string>
     <id>900977</id>
     <name>STR_PETITION_OPTION_BAD_GM</name>
-    <body>Unsatisfactory GM</body>
+    <body>Reclamação sobre o GM</body>
   </string>
   <string>
     <id>900978</id>
@@ -7094,82 +7094,82 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900996</id>
     <name>STR_GAMEGUARD_EXIST</name>
-    <body>GameGuard is already running and cannot be relaunched. Please try again later or restart the computer.</body>
+    <body>GameGuard já está em execução e não pode ser reiniciado. Tente novamente mais tarde ou reinicie o computador.</body>
   </string>
   <string>
     <id>900997</id>
     <name>STR_GAMEGUARD_GAME_EXIST</name>
-    <body>The game is already loaded or the GameGuard is turned on. Please try again after exiting the game.</body>
+    <body>O jogo já está carregado ou o GameGuard está ativado. Tente novamente após sair do jogo.</body>
   </string>
   <string>
     <id>900998</id>
     <name>STR_GAMEGUARD_INIT</name>
-    <body>GameGuard initialization error. Please close all unnecessary programs and try again or alternatively restart the computer.</body>
+    <body>Erro de inicialização do GameGuard. Feche todos os programas desnecessários e tente novamente ou, alternativamente, reinicie o computador.</body>
   </string>
   <string>
     <id>900999</id>
     <name>STR_GAMEGUARD_NOTFOUND</name>
-    <body>The GameGuard file was not found or is corrupted. Please contact Support at https://aion.support.gameforge.com/en.</body>
+    <body>O arquivo GameGuard não foi encontrado ou está corrompido. Entre em contato com o suporte em https://help.novaverso.online/.</body>
   </string>
   <string>
     <id>901000</id>
     <name>STR_GAMEGUARD_CRYPTOAPI</name>
-    <body>Some Windows system files are corrupted. Please reinstall Internet Explorer (IE).</body>
+    <body>Alguns arquivos do sistema Windows estão corrompidos. Reinstale o Internet Explorer (IE).</body>
   </string>
   <string>
     <id>901001</id>
     <name>STR_GAMEGUARD_EXECUTE</name>
-    <body>Could not launch GameGuard. Please restart the game.</body>
+    <body>Não foi possível iniciar o GameGuard. Por favor, reinicie o jogo.</body>
   </string>
   <string>
     <id>901002</id>
     <name>STR_GAMEGUARD_ILLEGAL</name>
-    <body>An illegal program was detected. Please close all unnecessary programs and try again.</body>
+    <body>Um programa ilegal foi detectado. Feche todos os programas desnecessários e tente novamente.</body>
   </string>
   <string>
     <id>901003</id>
     <name>STR_GAMEGUARD_ABORT</name>
-    <body>GameGuard update has been cancelled. If you continue to experience connection problems please check your network connection or your firewall settings.</body>
+    <body>A atualização do GameGuard foi cancelada. Se você continuar a ter problemas de conexão, verifique sua conexão de rede ou as configurações do firewall.</body>
   </string>
   <string>
     <id>901004</id>
     <name>STR_GAMEGUARD_CONNECT</name>
-    <body>Failed to connect to the GameGuard update server. Please try again later or check your network connection.</body>
+    <body>Falha ao conectar ao servidor de atualização do GameGuard. Tente novamente mais tarde ou verifique sua conexão de rede.</body>
   </string>
   <string>
     <id>901005</id>
     <name>STR_GAMEGUARD_VERSION</name>
-    <body>GameGuard initialisation error. May be due to an outdated version. Please contact Support at https://aion.support.gameforge.com/en.</body>
+    <body>Erro de inicialização do GameGuard. Pode ser devido a uma versão desatualizada. Entre em contato com o suporte em https://help.novaverso.online/.</body>
   </string>
   <string>
     <id>901006</id>
     <name>STR_GAMEGUARD_INI_ERR</name>
-    <body>The configuration file was not found or has been corrupted. Please contact Support at https://aion.support.gameforge.com/en.</body>
+    <body>O arquivo de configuração não foi encontrado ou foi corrompido. Entre em contato com o suporte em https://help.novaverso.online/.</body>
   </string>
   <string>
     <id>901007</id>
     <name>STR_GAMEGUARD_DES_ERR</name>
-    <body>npgmup.des reset error. Please contact Support at https://aion.support.gameforge.com/en.</body>
+    <body>Erro de reset do npgmup.des. Entre em contato com o suporte em https://help.novaverso.online/.</body>
   </string>
   <string>
     <id>901008</id>
     <name>STR_GAMEGUARD_UPDATE</name>
-    <body>Failed to connect to the GameGuard update server. Please try again later or check your firewall settings.</body>
+    <body>Falha ao conectar ao servidor de atualização do GameGuard. Tente novamente mais tarde ou verifique as configurações do seu firewall.</body>
   </string>
   <string>
     <id>901009</id>
     <name>STR_GAMEGUARD_AUTH</name>
-    <body>Failed to update the GameGuard. Please try again after temporarily disabling anti-virus software.</body>
+    <body>Falha ao atualizar o GameGuard. Tente novamente após desativar temporariamente o software antivírus.</body>
   </string>
   <string>
     <id>901010</id>
     <name>STR_GAMEGUARD_SCAN</name>
-    <body>The recognition module for virus and hacking tools failed to load. It may be due to lack of memory or a potential virus infection.</body>
+    <body>O módulo de reconhecimento para vírus e ferramentas de hacking falhou ao carregar. Isso pode ser devido à falta de memória ou a uma possível infecção por vírus.</body>
   </string>
   <string>
     <id>901011</id>
     <name>STR_GAMEGUARD_ERR</name>
-    <body>An error occurred while launching GameGuard. Please contact Support at https://aion.support.gameforge.com/en.</body>
+    <body>Ocorreu um erro ao iniciar o GameGuard. Entre em contato com o suporte em https://help.novaverso.online/.</body>
   </string>
   <string>
     <id>901012</id>
@@ -7179,82 +7179,82 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>901013</id>
     <name>STR_L2AUTH_BLOCK_CODE1</name>
-    <body>Report of account theft</body>
+    <body>Relatório de roubo de conta</body>
   </string>
   <string>
     <id>901014</id>
     <name>STR_L2AUTH_BLOCK_CODE2</name>
-    <body>False report of account theft</body>
+    <body>Denúncia falsa de roubo de conta</body>
   </string>
   <string>
     <id>901015</id>
     <name>STR_L2AUTH_BLOCK_CODE3</name>
-    <body>The family register to prove the account theft case has not arrived.</body>
+    <body>Ainda não recebemos a comprovação de roubo de conta.</body>
   </string>
   <string>
     <id>901016</id>
     <name>STR_L2AUTH_BLOCK_CODE4</name>
-    <body>Other</body>
+    <body>Outro</body>
   </string>
   <string>
     <id>901017</id>
     <name>STR_L2AUTH_BLOCK_CODE5</name>
-    <body>Attempt to trade in cash</body>
+    <body>Tentativa de negociação em dinheiro</body>
   </string>
   <string>
     <id>901018</id>
     <name>STR_L2AUTH_BLOCK_CODE6</name>
-    <body>Cash/account trade</body>
+    <body>Negociação de dinheiro/conta</body>
   </string>
   <string>
     <id>901019</id>
     <name>STR_L2AUTH_BLOCK_CODE7</name>
-    <body>Unacceptable user (fraud and general)</body>
+    <body>Comportamento inaceitável (fraude e geral)</body>
   </string>
   <string>
     <id>901020</id>
     <name>STR_L2AUTH_BLOCK_CODE8</name>
-    <body>Unacceptable user (verbal abuse)</body>
+    <body>Comportamento inaceitável (abuso verbal)</body>
   </string>
   <string>
     <id>901021</id>
     <name>STR_L2AUTH_BLOCK_CODE9</name>
-    <body>Bug abuse</body>
+    <body>Abuso de bug</body>
   </string>
   <string>
     <id>901022</id>
     <name>STR_L2AUTH_BLOCK_CODE10</name>
-    <body>Illegal program</body>
+    <body>Programa ilegal</body>
   </string>
   <string>
     <id>901023</id>
     <name>STR_L2AUTH_BLOCK_CODE11</name>
-    <body>False impersonation as GM or employee</body>
+    <body>Falsa representação como GM ou funcionário</body>
   </string>
   <string>
     <id>901024</id>
     <name>STR_L2AUTH_BLOCK_CODE12</name>
-    <body>Requested by the user himself</body>
+    <body>Solicitado pelo próprio usuário</body>
   </string>
   <string>
     <id>901025</id>
     <name>STR_L2AUTH_BLOCK_CODE13</name>
-    <body>Minor</body>
+    <body>Menor</body>
   </string>
   <string>
     <id>901026</id>
     <name>STR_L2AUTH_BLOCK_CODE14</name>
-    <body>Identity Theft</body>
+    <body>Roubo de Identidade</body>
   </string>
   <string>
     <id>901027</id>
     <name>STR_L2AUTH_BLOCK_CODE15</name>
-    <body>Fraudulent use of another's payment method</body>
+    <body>Uso fraudulento do método de pagamento de outra pessoa</body>
   </string>
   <string>
     <id>901028</id>
     <name>STR_L2AUTH_BLOCK_CODE16</name>
-    <body>Unidentified account</body>
+    <body>Conta não identificada</body>
   </string>
   <string>
     <id>901029</id>
@@ -7269,7 +7269,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>901032</id>
     <name>STR_WAIT_CHAR_DELETING</name>
-    <body>Exclusão pendente.</body>
+    <body>Exclusão pendente</body>
   </string>
   <string>
     <id>901033</id>
@@ -7314,7 +7314,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>901041</id>
     <name>STR_CMD_PETITION_SUBMIT</name>
-    <body>/Petition,/Requests,/PetitionAccepted,/GM,/GMHelp</body>
+    <body>/Petition,/Requests,/PetitionAccepted,/GM,/GMHelp,/Peticao</body>
   </string>
   <string>
     <id>901042</id>
@@ -7364,7 +7364,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>901051</id>
     <name>STR_MACRO_WHISPER</name>
-    <body>/Whisper,/MP</body>
+    <body>/Whisper,/MP,/Mensagem</body>
   </string>
   <string>
     <id>901052</id>
@@ -7479,7 +7479,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>901074</id>
     <name>STR_MACRO_ASSIST</name>
-    <body>/SelectTargetOfTarget</body>
+    <body>/SelectTargetOfTarget,/AlvoDoAlvo</body>
   </string>
   <string>
     <id>901075</id>
@@ -7574,7 +7574,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>901098</id>
     <name>STR_GUILD_INVITE_COMMENT</name>
-    <body>Digite o nome do personagem que você deseja convidar para sua Legião.</body>
+    <body>Digite o nome do personagem que você deseja convidar para a sua Legião.</body>
   </string>
   <string>
     <id>901099</id>
@@ -7824,12 +7824,12 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>901174</id>
     <name>STR_VENDOR_KIND_POLEARM</name>
-    <body>Foice</body>
+    <body>Polearm</body>
   </string>
   <string>
     <id>901175</id>
     <name>STR_VENDOR_KIND_STAFF</name>
-    <body>Cetro</body>
+    <body>Staff</body>
   </string>
   <string>
     <id>901176</id>
@@ -7944,7 +7944,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>901198</id>
     <name>STR_VENDOR_KIND_MAKING</name>
-    <body>Criação</body>
+    <body>Artesanato</body>
   </string>
   <string>
     <id>901199</id>
@@ -7974,7 +7974,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>901204</id>
     <name>STR_VENDOR_KIND_CONSUMABLE_MAGICAL</name>
-    <body>Pergaminho</body>
+    <body>Scroll</body>
   </string>
   <string>
     <id>901205</id>
@@ -7989,7 +7989,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>901207</id>
     <name>STR_MACRO_OPTION_PARTY_PET</name>
-    <body>[%%Mascote%0]</body>
+    <body>[%%Pet%0]</body>
   </string>
   <string>
     <id>901208</id>
@@ -8074,27 +8074,27 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>901224</id>
     <name>STR_Abyssrank_light_10</name>
-    <body>Oficial 1-Estrela</body>
+    <body>Oficial 1 Estrela</body>
   </string>
   <string>
     <id>901225</id>
     <name>STR_Abyssrank_light_11</name>
-    <body>Oficial 2-Estrelas</body>
+    <body>Oficial 2 Estrelas</body>
   </string>
   <string>
     <id>901226</id>
     <name>STR_Abyssrank_light_12</name>
-    <body>Oficial 3-Estrelas</body>
+    <body>Oficial 3 Estrelas</body>
   </string>
   <string>
     <id>901227</id>
     <name>STR_Abyssrank_light_13</name>
-    <body>Oficial 4-Estrelas</body>
+    <body>Oficial 4 Estrelas</body>
   </string>
   <string>
     <id>901228</id>
     <name>STR_Abyssrank_light_14</name>
-    <body>Oficial 5-Estrelas</body>
+    <body>Oficial 5 Estrelas</body>
   </string>
   <string>
     <id>901229</id>
@@ -8164,27 +8164,27 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>901242</id>
     <name>STR_Abyssrank_dark_10</name>
-    <body>Oficial 1-Estrela</body>
+    <body>Oficial 1 Estrela</body>
   </string>
   <string>
     <id>901243</id>
     <name>STR_Abyssrank_dark_11</name>
-    <body>Oficial 2-Estrelas</body>
+    <body>Oficial 2Estrelas</body>
   </string>
   <string>
     <id>901244</id>
     <name>STR_Abyssrank_dark_12</name>
-    <body>Oficial 3-Estrelas</body>
+    <body>Oficial 3 Estrelas</body>
   </string>
   <string>
     <id>901245</id>
     <name>STR_Abyssrank_dark_13</name>
-    <body>Oficial 4-Estrelas</body>
+    <body>Oficial 4 Estrelas</body>
   </string>
   <string>
     <id>901246</id>
     <name>STR_Abyssrank_dark_14</name>
-    <body>Oficial 5-Estrelas</body>
+    <body>Oficial 5 Estrelas</body>
   </string>
   <string>
     <id>901247</id>
@@ -8256,7 +8256,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>901260</id>
     <name>STR_MSGBOX_FORCE_CHANGE_LEADER</name>
-    <body>Você quer fazer de %0 o capitão da Aliança?</body>
+    <body>Deseja nomear %0 como Capitão da Aliança?</body>
   </string>
   <string>
     <id>901261</id>
@@ -8266,7 +8266,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>901262</id>
     <name>STR_MSGBOX_FORCE_PROMOTE</name>
-    <body>Deseja nomear %0 como vice-capitão da Aliança?</body>
+    <body>Deseja nomear %0 como Vice-Capitão da Aliança?</body>
   </string>
   <string>
     <id>901263</id>
@@ -8291,7 +8291,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>901267</id>
     <name>STR_POPUP_PROMOTE</name>
-    <body>Apontar</body>
+    <body>Apontar Vice-Capitão</body>
   </string>
   <string>
     <id>901268</id>
@@ -8301,7 +8301,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>901269</id>
     <name>STR_POPUP_CHANGE_LEADER</name>
-    <body>Líder</body>
+    <body>Oferecer Líder</body>
   </string>
   <string>
     <id>901270</id>
@@ -8446,7 +8446,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>901298</id>
     <name>STR_MSG_TITLE_VENDOR_FAIL</name>
-    <body>O item negociado não pode ser cancelado porque seu Inventário (Cubo) está cheio.</body>
+    <body>O item negociado não pode ser cancelado porque seu Inventário está cheio.</body>
   </string>
   <string>
     <id>901299</id>
@@ -8616,7 +8616,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>901332</id>
     <name>STR_MACRO_TACTICS_SIGN</name>
-    <body>/Sign,/FSign,/PSign,/Brand,/b,/Marcação</body>
+    <body>/Sign,/FSign,/PSign,/Brand,/b,/Marcacao</body>
   </string>
   <string>
     <id>901333</id>
@@ -8751,7 +8751,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>901359</id>
     <name>STR_HTML_PETITION_GRADE</name>
-    <body>&lt;p&gt;Only those over age 14 are allowed to play this game.&lt;/p&gt;</body>
+    <body>&lt;p&gt;Apenas maiores de 14 anos podem jogar este jogo.&lt;/p&gt;</body>
   </string>
   <string>
     <id>901360</id>
@@ -8781,7 +8781,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>901365</id>
     <name>STR_TUTORIAL_TITLE_FLYMODE</name>
-    <body>Voar</body>
+    <body>Voo</body>
   </string>
   <string>
     <id>901366</id>
@@ -8996,12 +8996,12 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>901408</id>
     <name>STR_GAUGE_ITEM_ENCHANT</name>
-    <body>Encantando</body>
+    <body>Encantando Item</body>
   </string>
   <string>
     <id>901409</id>
     <name>STR_GAUGE_ITEM_DECOMPOSE</name>
-    <body>Extraindo item</body>
+    <body>Extraindo Item</body>
   </string>
   <string>
     <id>901412</id>
@@ -9581,7 +9581,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>901527</id>
     <name>STR_CASH_ITEM_MAIL_PURCHASE</name>
-    <body>%2 os Black Cloud Merchants comprados em %0 %1 foram entregues.</body>
+    <body>%2 as mercadorias de Black Cloud compradas em %0 %1 foram entregues.</body>
   </string>
   <string>
     <id>901528</id>
@@ -9646,7 +9646,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>901540</id>
     <name>STR_TOOLTIP_SKILL_STAT_PVP_ATTACK_RATIO</name>
-    <body>Inflige %num0 de dano adicional a um jogador do grupo adversário.</body>
+    <body>Causa %num0 de dano adicional a um jogador do grupo adversário.</body>
   </string>
   <string>
     <id>901541</id>
@@ -9737,7 +9737,7 @@ Causa 8%% de dano extra e reduz o dano recebido em 8%%. Esse efeito só é váli
   <string>
     <id>901557</id>
     <name>STR_MENU_WEB_KB</name>
-    <body>https://en.aion.gameforge.com/?link=ingame</body>
+    <body>https://aion.novaverso.online/</body>
   </string>
   <string>
     <id>901558</id>
@@ -9798,7 +9798,7 @@ Causa 8%% de dano extra e reduz o dano recebido em 8%%. Esse efeito só é váli
     <name>STR_RESURRECT_DESC_SKILL</name>
     <body>&lt;p align="left"&gt;Você pode ressuscitar neste local usando uma &lt;font color="ffff00"&gt;Habilidade de Ressurreição&lt;/font&gt;.&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
-&lt;p align="left"&gt;Você deve escolher um método para renascer em até %0 minutos.&lt;/p&gt;</body>
+&lt;p align="left"&gt;Você deve escolher um método para renascer em até %0 minuto(s).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901569</id>
@@ -9932,7 +9932,7 @@ Causa 8%% de dano extra e reduz o dano recebido em 8%%. Esse efeito só é váli
   <string>
     <id>901594</id>
     <name>STR_FAQ_WEB_ENCHANT_DESC</name>
-    <body>&lt;p&gt;&lt;font color="BC995B"&gt;www.aionfreetoplay.com! Here you can find all about AION! Click on the button to open the AION website.&lt;/font&gt;&lt;/p&gt;</body>
+    <body>&lt;p&gt;&lt;font color="BC995B"&gt;https://aion.novaverso.online/! Aqui você pode encontrar tudo sobre AION! Clique no botão para abrir o site do AION..&lt;/font&gt;&lt;/p&gt;</body>
   </string>
   <string>
     <id>901595</id>
@@ -9942,7 +9942,7 @@ Causa 8%% de dano extra e reduz o dano recebido em 8%%. Esse efeito só é váli
   <string>
     <id>901596</id>
     <name>STR_FAQ_WEB_AIONPOWER_DESC</name>
-    <body>&lt;p&gt;&lt;font color="BC995B"&gt;You’ll find everything you want to know about AION here! Click the button to open the Game Guide.&lt;/font&gt;&lt;/p&gt;</body>
+    <body>&lt;p&gt;&lt;font color="BC995B"&gt;Você encontrará tudo o que deseja saber sobre AION aqui! Clique no botão para abrir o Guia do Jogo.&lt;/font&gt;&lt;/p&gt;</body>
   </string>
   <string>
     <id>901597</id>
@@ -9957,242 +9957,242 @@ Causa 8%% de dano extra e reduz o dano recebido em 8%%. Esse efeito só é váli
   <string>
     <id>901599</id>
     <name>STR_L2AUTH_BLOCK_SELF</name>
-    <body>&lt;p&gt;Your account has been suspended upon your request in accordance with the terms and conditions of the AION service agreement.&lt;/p&gt;
-&lt;p&gt;For more information, contact us on the official AION support website
-(http://aion-en.custhelp.com/).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi suspensa a seu pedido, de acordo com os termos e condições do contrato de serviço AION.&lt;/p&gt;
+&lt;p&gt;Para mais informações, entre em contato conosco no site de suporte oficial do AION
+(https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901600</id>
     <name>STR_L2AUTH_BLOCK_SELF_AUTH_EXPECTED</name>
-    <body>&lt;p&gt;To continue playing AION with this account, log in to your NCsoft master account and agree to let your game data be transferred to the Gameforge service.&lt;/p&gt;
-&lt;p&gt;For more information, check the official AION website
-(http://www.aionfreetoplay.com/).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Para continuar jogando AION com esta conta, faça login em sua conta mestre da NCsoft e concorde em permitir que seus dados de jogo sejam transferidos para o serviço Gameforge.&lt;/p&gt;
+&lt;p&gt;Para mais informações, consulte o site oficial do AION.
+(https://aion.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901601</id>
     <name>STR_L2AUTH_BLOCK_STOLEN_NAME_MAYBE</name>
-    <body>&lt;p&gt;Your account has been banned due to suspected identity theft.&lt;/p&gt;
-&lt;p&gt;You can find more information on the official AION Support website (https://aion.support.gameforge.com).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi banida devido a suspeita de roubo de identidade.&lt;/p&gt;
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901602</id>
     <name>STR_L2AUTH_BLOCK_STOLEN_NAME</name>
-    <body>&lt;p&gt;Your account has been suspended in accordance with the terms and conditions of the AION service agreement. You used other's identity to create your account.&lt;/p&gt;
-&lt;p&gt;For more information, contact us on the official AION support website (http://support.en.aionfreetoplay.com).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi suspensa de acordo com os termos e condições do contrato de serviço AION. Você usou a identidade de outra pessoa para criar sua conta.&lt;/p&gt;
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901603</id>
     <name>STR_L2AUTH_BLOCK_STOLEN_PAY</name>
-    <body>&lt;p&gt;Your account has been temporarily suspended because past payments were not received. &lt;/p&gt;
-&lt;p&gt;Please contact support (http://aion-en.custhelp.com/).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi temporariamente suspensa porque pagamentos anteriores não foram recebidos. &lt;/p&gt;
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901604</id>
     <name>STR_L2AUTH_BLOCK_HOUSE</name>
-    <body>&lt;p&gt;Your account has been locked due to identity theft (which is against the company’s regulations), or a disruptive play style that has brought harm to other players.&lt;/p&gt;
-&lt;p&gt;You can find more information on the official AION Support website (https://aion.support.gameforge.com).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi bloqueada devido a roubo de identidade (que é contra os regulamentos da empresa) ou um estilo de jogo perturbador que prejudicou outros jogadores.&lt;/p&gt;
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901605</id>
     <name>STR_L2AUTH_BLOCK_BOT_AUTO</name>
-    <body>&lt;p&gt;Your account has been banned in accordance with the guidelines and user policies, because you used software that is not permitted for use in the game by the company.&lt;/p&gt;
-&lt;p&gt;More information has been sent to your email address.&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi banida de acordo com as diretrizes e políticas de usuário, porque você usou software que não é permitido para uso no jogo pela empresa.&lt;/p&gt;
+&lt;p&gt;Mais informações foram enviadas para o seu endereço de e-mail.&lt;/p&gt;</body>
   </string>
   <string>
     <id>901606</id>
     <name>STR_L2AUTH_BLOCK_BOT_MANUAL</name>
-    <body>&lt;p&gt;Your account has been suspended in accordance with the terms and conditions of our service agreement. You used illegal software in the game which is not permitted.&lt;/p&gt;
-&lt;p&gt;For more information, contact us on the official AION website (http://aionfreetoplay.com).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi suspensa de acordo com os termos e condições do nosso contrato de serviço. Você usou software ilegal no jogo, o que não é permitido..&lt;/p&gt;
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901607</id>
     <name>STR_L2AUTH_BLOCK_BOT_PERIOD</name>
-    <body>&lt;p&gt;Your account has been suspended for 10 days because of the use of illegal software. A repeated violation in the future may lead to a permanent termination of your account.&lt;/p&gt;
-&lt;p&gt;For more information, contact us by using the 1:1 Petition on the Aion official website (www.Aion.co.kr or Aion.plaync.co.kr).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi suspensa por 10 dias devido ao uso de software ilegal. Uma violação repetida no futuro pode levar ao encerramento permanente de sua conta.&lt;/p&gt;
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901608</id>
     <name>STR_L2AUTH_BLOCK_TRADE_7</name>
-    <body>&lt;p&gt;Your account has been suspended for 7 days in accordance with the terms and conditions of the AION service agreement. You traded or tried to trade items or characters (accounts) of the game with cash, commodities, or items of another game.&lt;/p&gt;
-&lt;p&gt;For more information, contact us on the official AION website (http://aionfreetoplay.com).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi suspensa por 7 dias de acordo com os termos e condições do contrato de serviço AION. Você negociou ou tentou negociar itens ou personagens (contas) do jogo com dinheiro, mercadorias ou itens de outro jogo.&lt;/p&gt;
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901609</id>
     <name>STR_L2AUTH_BLOCK_TRADE_30</name>
-    <body>&lt;p&gt;Your account has been suspended for 30 days in accordance with the terms and conditions of the AION service agreement. You traded or tried to trade items or characters (accounts) of the game with cash, commodities, or items of another game.&lt;/p&gt;
-&lt;p&gt;For more information, contact us on the official AION website (http://aionfreetoplay.com).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi suspensa por 30 dias de acordo com os termos e condições do contrato de serviço AION. Você negociou ou tentou negociar itens ou personagens (contas) do jogo com dinheiro, mercadorias ou itens de outro jogo.&lt;/p&gt;
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901610</id>
     <name>STR_L2AUTH_BLOCK_TRADE_EVER</name>
-    <body>&lt;p&gt;Your account has been suspended in accordance with the terms and conditions of the AION service agreement. You traded or tried to trade items or characters (accounts) of the game with cash, commodities, or items of another game.&lt;/p&gt;
-&lt;p&gt;For more information, contact us on the official AION website (http://aionfreetoplay.com).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi suspensa de acordo com os termos e condições do contrato de serviço AION. Você negociou ou tentou negociar itens ou personagens (contas) do jogo com dinheiro, mercadorias ou itens de outro jogo.&lt;/p&gt;
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901611</id>
     <name>STR_L2AUTH_BLOCK_TRADE_ACCOUNT_30</name>
-    <body>&lt;p&gt;Your account has been suspended for 30 days in accordance with the terms and conditions of the AION service agreement. You traded or tried to trade items or characters (accounts) of the game with cash, commodities, or items of another game.&lt;/p&gt;
-&lt;p&gt;For more information, contact us on the official AION website (http://aionfreetoplay.com).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi suspensa por 30 dias de acordo com os termos e condições do contrato de serviço AION. Você negociou ou tentou negociar itens ou personagens (contas) do jogo com dinheiro, mercadorias ou itens de outro jogo.&lt;/p&gt;
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901612</id>
     <name>STR_L2AUTH_BLOCK_TRADE_ACCOUNT_EVER</name>
-    <body>&lt;p&gt;Your account has been suspended in accordance with the terms and conditions of the AION service agreement. You traded or tried to trade items or characters (accounts) of the game with cash, commodities, or items of another game.&lt;/p&gt;
-&lt;p&gt;For more information, contact us on the official AION website (http://aionfreetoplay.com).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi suspensa de acordo com os termos e condições do contrato de serviço AION. Você negociou ou tentou negociar itens ou personagens (contas) do jogo com dinheiro, mercadorias ou itens de outro jogo.&lt;/p&gt;
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901613</id>
     <name>STR_L2AUTH_BLOCK_TRADE_AGAIN</name>
-    <body>&lt;p&gt;Your account has been suspended in accordance with the terms and conditions of the AION service agreement. You reported a false incident or interfered with the operation of the game.&lt;/p&gt;
-&lt;p&gt;For more information, contact us on the official AION website (http://aionfreetoplay.com).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi suspensa de acordo com os termos e condições do contrato de serviço AION. Você relatou um incidente falso ou interferiu na operação do jogo.&lt;/p&gt;
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901614</id>
     <name>STR_L2AUTH_BLOCK_TRADE_ACCOUNT</name>
-    <body>&lt;p&gt;Your cannot access your account as your integrated account has been suspended in accordance with the terms and conditions of the AION service agreement. You traded or tried to trade items or characters (accounts) of the game with cash, commodities, or items of another game.&lt;/p&gt;
-&lt;p&gt;For more information, contact us on the official AION website (http://aionfreetoplay.com).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Você não pode acessar sua conta, pois sua conta integrada foi suspensa de acordo com os termos e condições do contrato de serviço AION. Você negociou ou tentou negociar itens ou personagens (contas) do jogo com dinheiro, mercadorias ou itens de outro jogo.&lt;/p&gt;
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901615</id>
     <name>STR_L2AUTH_BLOCK_STOLEN_ACCOUNT_MAYBE</name>
-    <body>&lt;p&gt;Your account has been banned due to account theft. ?If you supplied us with an email address, we have sent you a notification via email. ?If you feel you were not involved in a case of account theft, then please get in touch with AION Support (https://aion.support.gameforge.com).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi banida devido a roubo de conta. Se você nos forneceu um endereço de e-mail, enviamos uma notificação por e-mail. Se você acredita que não esteve envolvido em um caso de roubo de conta, entre em contato com o suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901616</id>
     <name>STR_L2AUTH_BLOCK_STOLEN_ACCOUNT_LIE</name>
-    <body>&lt;p&gt;Your account has been banned due to account theft.  If you supplied us with an email address, we have sent you a notification via email.&lt;/p&gt;
-&lt;p&gt;If you feel you were not involved in a case of account theft, then please get in touch with AION Support (https://aion.support.gameforge.com). You can find more information on the official AION website (https://gameforge.com/en-GB/play/aion).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi banida devido a roubo de conta. Se você nos forneceu um endereço de e-mail, enviamos uma notificação por e-mail.&lt;/p&gt;
+&lt;p&gt;Se você acredita que não esteve envolvido em um caso de roubo de conta, entre em contato com o suporte do AION (https://help.novaverso.online/). Você pode encontrar mais informações no site oficial do AION (https://aion.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901617</id>
     <name>STR_L2AUTH_BLOCK_STOLEN_ACCOUNT_NO_CONFIRM</name>
-    <body>&lt;p&gt;Your account has been suspended because your account theft report was determined to be false as you didn't confirm your identity within 7 days after the account theft report.&lt;/p&gt;
-&lt;p&gt;But, if you confirm your identity within 30 days after the report, we will proceed with the investigation of your report normally. So, please do so at the customer centre on the AION website
-(http://aionfreetoplay.com).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi suspensa porque seu relatório de roubo de conta foi considerado falso, pois você não confirmou sua identidade dentro de 7 dias após o relatório de roubo de conta.&lt;/p&gt;
+&lt;p&gt;BMas, se você confirmar sua identidade dentro de 30 dias após o relatório, prosseguiremos com a investigação do seu relatório normalmente. Portanto, faça isso na central de atendimento ao cliente no site do AION.
+(https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901618</id>
     <name>STR_L2AUTH_BLOCK_FRAUD</name>
-    <body>&lt;p&gt;Your account has been suspended in accordance with the terms and conditions of the AION service agreement. You committed or tried to commit an act that obstructs public safety or goes against the social order (fraud).
-&lt;p&gt;For more information, contact us on the official AION website (http://aionfreetoplay.com).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi suspensa de acordo com os termos e condições do contrato de serviço AION. Você cometeu ou tentou cometer um ato que impede a segurança pública ou vai contra a ordem social (fraude).
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901619</id>
     <name>STR_L2AUTH_BLOCK_FRAUD_7</name>
-    <body>&lt;p&gt;Your account has been locked for 15 days due to attempted fraud or illegal conduct.&lt;/p&gt;
-&lt;p&gt;You can find more information on the official AION Support website (https://aion.support.gameforge.com).&lt;/p&gt;</body>
+    <body>&lt;p&gt;YSua conta foi bloqueada por 15 dias devido a tentativa de fraude ou conduta ilegal.&lt;/p&gt;
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901620</id>
     <name>STR_L2AUTH_BLOCK_FRAUD_EVER</name>
-    <body>&lt;p&gt;Your account has been suspended in accordance with the terms and conditions of the AION service agreement. You committed or tried to commit an act that obstructs public safety or goes against the social order.&lt;/p&gt;
-&lt;p&gt;For more information, contact us on the official AION website (http://aionfreetoplay.com).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi suspensa de acordo com os termos e condições do contrato de serviço AION. Você cometeu ou tentou cometer um ato que impede a segurança pública ou vai contra a ordem social.&lt;/p&gt;
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901621</id>
     <name>STR_L2AUTH_BLOCK_GAMBLE</name>
-    <body>&lt;p&gt;You should not do any of the listed or similar acts, including the obstruction of public order and wrongful communication against the goodwill of the game. Your account has been suspended in accordance with the terms and conditions of the AION service agreement.&lt;/p&gt;
-&lt;p&gt;For more information, contact us on the official AION website (http://aionfreetoplay.com).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Você não deve realizar nenhum dos atos listados ou semelhantes, incluindo a obstrução da ordem pública e comunicação indevida contra a boa reputação do jogo. Sua conta foi suspensa de acordo com os termos e condições do contrato de serviço AION.&lt;/p&gt;
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901622</id>
     <name>STR_L2AUTH_BLOCK_GAMBLE_30</name>
-    <body>&lt;p&gt;Your account has been banned due to playing in a harmful way.&lt;/p&gt;
-&lt;p&gt;You can find more information on the official AION Support website (https://aion.support.gameforge.com).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi banida devido a um estilo de jogo prejudicial.&lt;/p&gt;
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901623</id>
     <name>STR_L2AUTH_BLOCK_GAMBLE_EVER</name>
-    <body>&lt;p&gt;Your account has been suspended in accordance with the terms and conditions of the AION service agreement and the company's operation policy. You participated in advertising, supporting, or assisting improper game play in the game.&lt;/p&gt;
-&lt;p&gt;For more information, contact us on the official AION website (http://aionfreetoplay.com).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi suspensa de acordo com os termos e condições do contrato de serviço AION e da política de operação da empresa. Você participou de publicidade, apoio ou auxílio a jogos impróprios no jogo.&lt;/p&gt;
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901624</id>
     <name>STR_L2AUTH_BLOCK_BOT</name>
-    <body>&lt;p&gt;Your account has been suspended in accordance with the terms and conditions of the Aion service agreement and the company's operation policy because you used illegal software, which is not permitted.&lt;/p&gt;
-&lt;p&gt;For more information, contact us by using the 1:1 Petition on the Aion official website (www.Aion.co.kr or Aion.plaync.co.kr).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi suspensa de acordo com os termos e condições do contrato de serviço Aion e da política de operação da empresa porque você usou software ilegal, o que não é permitido.&lt;/p&gt;
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901625</id>
     <name>STR_L2AUTH_BLOCK_ABUSE</name>
-    <body>&lt;p&gt;Your account has been banned for the abuse of system errors.&lt;/p&gt;
-&lt;p&gt;Abuse of system errors can lead to technical problems or disruptions to the balance of the game.&lt;/p&gt;
-&lt;p&gt;You can find more information on the official AION Support website (https://aion.support.gameforge.com).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi banida por abuso de erros do sistema.&lt;/p&gt;
+&lt;p&gt;O abuso de erros do sistema pode levar a problemas técnicos ou interrupções no equilíbrio do jogo.&lt;/p&gt;
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901626</id>
     <name>STR_L2AUTH_BLOCK_ABUSE_LIGHT</name>
-    <body>&lt;p&gt;Your account has been suspended in accordance with the terms and conditions of the Aion service agreement because you either abused the system or directly affected the game in a wrongful way.&lt;/p&gt;
-&lt;p&gt;For more information, contact us by using the 1:1 Petition on the Aion official website
-(www.Aion.co.kr or Aion.plaync.co.kr).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi suspensa de acordo com os termos e condições do contrato de serviço Aion porque você abusou do sistema ou afetou diretamente o jogo de maneira inadequada.&lt;/p&gt;
+&lt;p&gt;Para mais informações, entre em contato conosco usando a Petição 1:1 no site oficial do Aion.
+(https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901627</id>
     <name>STR_L2AUTH_BLOCK_ABUSE_SERIOUS</name>
-    <body>&lt;p&gt;Your account has been suspended in accordance with the terms and conditions of the Aion service agreement because you either abused the system or directly affected the game in a wrongful way.&lt;/p&gt;
-&lt;p&gt;For more information, contact us by using the 1:1 Petition on the Aion official website
-(www.Aion.co.kr or Aion.plaync.co.kr).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi suspensa de acordo com os termos e condições do contrato de serviço Aion porque você abusou do sistema ou afetou diretamente o jogo de maneira inadequada.&lt;/p&gt;
+&lt;p&gt;Para mais informações, entre em contato conosco usando a Petição 1:1 no site oficial do Aion.
+(https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901628</id>
     <name>STR_L2AUTH_BLOCK_OBSTRUCT</name>
-    <body>&lt;p&gt;Your account has been suspended in accordance with the terms and conditions of the AION service agreement. You committed or tried to commit an act that obstructs public safety or goes against the social order.&lt;/p&gt;
-&lt;p&gt;For more information, contact us on the official AION website (http://aionfreetoplay.com).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi suspensa de acordo com os termos e condições do contrato de serviço AION. Você cometeu ou tentou cometer um ato que impede a segurança pública ou vai contra a ordem social.&lt;/p&gt;
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901629</id>
     <name>STR_L2AUTH_BLOCK_BAD_LANGUAGE</name>
-    <body>&lt;p&gt;Your account has been suspended in accordance with the terms and conditions of the AION service agreement. You committed or tried to commit an act that obstructs public safety or goes against the social order.&lt;/p&gt;
-&lt;p&gt;For more information, contact us on the AION official website (http://aionfreetoplay.com).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi suspensa de acordo com os termos e condições do contrato de serviço AION. Você cometeu ou tentou cometer um ato que impede a segurança pública ou vai contra a ordem social.&lt;/p&gt;
+&lt;p&gt;For more information, contact us on the AION official website (https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901630</id>
     <name>STR_L2AUTH_BLOCK_BAD_PROGRAM_BUT_BOT</name>
-    <body>&lt;p&gt;Your account has been banned in accordance with the game guidelines and user policies, because you used software that the company has prohibited the use of in this game.&lt;/p&gt;
-&lt;p&gt;You can find more information on the official AION Support website (https://aion.support.gameforge.com).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi banida de acordo com as diretrizes do jogo e políticas de usuário, porque você usou software que a empresa proibiu o uso neste jogo.&lt;/p&gt;
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901631</id>
     <name>STR_L2AUTH_BLOCK_PRETEND_INSIDER</name>
-    <body>&lt;p&gt;Your account has been suspended in accordance with the terms and conditions of the AION service agreement. You were found to have impersonated a game master (GM), an employee of the company, or the company itself.&lt;/p&gt;
-&lt;p&gt;For more information, contact us on the official AION website (http://aionfreetoplay.com).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi suspensa de acordo com os termos e condições do contrato de serviço AION. Foi constatado que você se passou por um mestre de jogo (GM), um funcionário da empresa ou pela própria empresa.&lt;/p&gt;
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901632</id>
     <name>STR_L2AUTH_BLOCK_PLAY_ABNORMAL</name>
-    <body>&lt;p&gt;Your account has been permanently banned due to a breech against the user policy of AION Free-to-Play.&lt;/p&gt;
-&lt;p&gt;More information has been sent to your email address.&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi permanentemente banida devido a uma violação da política de usuário do Nova Aion.&lt;/p&gt;
+&lt;p&gt;Mais informações foram enviadas para o seu endereço de e-mail.&lt;/p&gt;</body>
   </string>
   <string>
     <id>901633</id>
     <name>STR_L2AUTH_BLOCK_BUNDLE</name>
-    <body>&lt;p&gt;Your account has been temporarily banned due to a breech against the AION Free-to-Play game rules.&lt;/p&gt;
-&lt;p&gt;More information has been sent to your email address.&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi temporariamente banida devido a uma violação das regras do Nova Aion.&lt;/p&gt;
+&lt;p&gt;Mais informações foram enviadas para o seu endereço de e-mail.&lt;/p&gt;</body>
   </string>
   <string>
     <id>901634</id>
     <name>STR_L2AUTH_BLOCK_ETC</name>
-    <body>&lt;p&gt;Your account has been banned for illegal conduct as per our T&amp;Cs and Terms of Use for our services.&lt;/p&gt;
+    <body>&lt;p&gt;Sua conta foi banida por conduta ilegal, conforme nossos Termos e Condições e Termos de Uso de nossos serviços.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Please contact our support for more information.&lt;/p&gt;</body>
+&lt;p&gt;Por favor, entre em contato com nosso suporte para mais informações.&lt;/p&gt;</body>
   </string>
   <string>
     <id>901635</id>
     <name>STR_L2AUTH_BLOCK_EXTERNAL_REQUEST</name>
-    <body>&lt;p&gt;Your account has been suspended by an official request from a law enforcement agency.&lt;/p&gt;
-&lt;p&gt;This action was taken because an official request from such a body has legal implications. For more information, contact us on the official AION website (http://aionfreetoplay.com).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi suspensa por solicitação oficial de uma agência de aplicação da lei.&lt;/p&gt;
+&lt;p&gt;Essa ação foi tomada porque um pedido oficial de tal órgão tem implicações legais. Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901636</id>
     <name>STR_L2AUTH_BLOCK_UNPAIED</name>
-    <body>&lt;p&gt;Your account has been suspended temporarily because you have not made a recent payment. Please pay the outstanding amount, and then confirm by visiting the AION support site (http://support.en.aionfreetoplay.com/).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi suspensa temporariamente porque você não fez um pagamento recente. Por favor, pague o valor pendente e, em seguida, confirme visitando o site de suporte do AION. (https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901637</id>
     <name>STR_L2AUTH_BLOCK_DETOUR_IP</name>
-    <body>&lt;p&gt;Your account has been temporarily suspended because you are suspected of using an other's identity without permission.&lt;/p&gt;
-&lt;p&gt;If you have not committed these acts, complete the authorization process on the AION home page to resume using the service.&lt;/p&gt;
-&lt;p&gt;For more information, contact us on http://aionfreetoplay.com.&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi temporariamente suspensa porque você é suspeito de usar a identidade de outra pessoa sem permissão.&lt;/p&gt;
+&lt;p&gt;Se você não cometeu esses atos, conclua o processo de autorização na página inicial do AION para retomar o uso do serviço.&lt;/p&gt;
+&lt;p&gt;Para mais informações, entre em contato conosco em: (https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901638</id>
@@ -10277,7 +10277,7 @@ Causa 8%% de dano extra e reduz o dano recebido em 8%%. Esse efeito só é váli
   <string>
     <id>901654</id>
     <name>STR_L2AUTH_S_WAITING_PARENTS_APPROVAL</name>
-    <body>Waiting for parent approval.</body>
+    <body>Aguardando aprovação dos pais.</body>
   </string>
   <string>
     <id>901655</id>
@@ -10287,27 +10287,27 @@ Causa 8%% de dano extra e reduz o dano recebido em 8%%. Esse efeito só é váli
   <string>
     <id>901656</id>
     <name>STR_L2AUTH_S_LINKED_GAME_ACCOUNT</name>
-    <body>Changed Account</body>
+    <body>Conta Alterada</body>
   </string>
   <string>
     <id>901657</id>
     <name>STR_L2AUTH_S_MODIFY_QUIZ</name>
-    <body>Request Quiz Change</body>
+    <body>Solicitar alteração de quiz</body>
   </string>
   <string>
     <id>901658</id>
     <name>STR_L2AUTH_S_EXCEED_CONCURRENT_PLAY_LIMIT</name>
-    <body>Exceeded the maximum number of simultaneously connected accounts for a user.</body>
+    <body>Excedeu o número máximo de contas conectadas simultaneamente para um usuário.</body>
   </string>
   <string>
     <id>901659</id>
     <name>STR_L2AUTH_S_EXTERNAL_AUTH_BLOCKED</name>
-    <body>If you use an external account, you are blocked in the external authorization system.</body>
+    <body>Se você usar uma conta externa, você está bloqueado no sistema de autorização externa.</body>
   </string>
   <string>
     <id>901660</id>
     <name>STR_L2AUTH_UNKNOWN</name>
-    <body>Authorization Error (%0)</body>
+    <body>Erro de Autorização (%0)</body>
   </string>
   <string>
     <id>901661</id>
@@ -10357,106 +10357,106 @@ Causa 8%% de dano extra e reduz o dano recebido em 8%%. Esse efeito só é váli
   <string>
     <id>901671</id>
     <name>STR_BLOCK_PC_ROOM_COMPLAIN</name>
-    <body>We store all account information and logs.&lt;br&gt;
-We have received a report that you logged into Aion from an internet cafe and deliberately left without paying. &lt;br&gt;
-Using an internet cafe without the intention or ability to pay for the service is theft, and, as such, is a violation of the law. &lt;br&gt;
-If you had nothing to do with this act, please contact us. &lt;br&gt;
-You can contact us any time on the official website www.aionfreetoplay.com to find out more details.</body>
+    <body>Nós armazenamos todas as informações da conta e registros.&lt;br&gt;
+Recebemos uma denúncia de que você fez login no Aion em uma lan house e saiu deliberadamente sem pagar. &lt;br&gt;
+Usar uma lan house sem a intenção ou capacidade de pagar pelo serviço é roubo e, como tal, é uma violação da lei. &lt;br&gt;
+Se você não teve nada a ver com este ato, por favor, entre em contato conosco. &lt;br&gt;
+Você pode entrar em contato conosco a qualquer momento no site oficial https://aion.novaverso.online/ para obter mais detalhes.</body>
   </string>
   <string>
     <id>901672</id>
     <name>STR_PLAYNC_BLOCK_SELF</name>
-    <body>All game services using this account have been suspended upon your request.&lt;br&gt;
-You can find further information on the official Aion Support website (https://aion.support.gameforge.com).</body>
+    <body>Todos os serviços de jogo usando esta conta foram suspensos a seu pedido.&lt;br&gt;
+Você pode encontrar mais informações no site oficial de suporte do Aion (https://help.novaverso.online/).</body>
   </string>
   <string>
     <id>901673</id>
     <name>STR_PLAYNC_BLOCK_BOT_AUTO</name>
-    <body>Your account has been suspended because you used unauthorized software in the game.&lt;br&gt;
-For more information, contact us using the support form on the official AION website (http://aionfreetoplay.com).</body>
+    <body>Sua conta foi suspensa porque você usou software não autorizado no jogo.&lt;br&gt;
+Para mais informações, entre em contato conosco usando o formulário de suporte no site oficial do AION. (https://help.novaverso.online/).</body>
   </string>
   <string>
     <id>901674</id>
     <name>STR_PLAYNC_BLOCK_BOT_MANUAL</name>
-    <body>Your account has been suspended because you used unauthorized software in the game.&lt;br&gt;
-For more information, contact us using the support form on the official AION website (http://aionfreetoplay.com).</body>
+    <body>Sua conta foi suspensa porque você usou software não autorizado no jogo.&lt;br&gt;
+Para mais informações, entre em contato conosco usando o formulário de suporte no site oficial do AION. (https://help.novaverso.online/).</body>
   </string>
   <string>
     <id>901675</id>
     <name>STR_PLAYNC_BLOCK_BOT_PERIOD</name>
-    <body>Your account has been suspended for 10 days because you used unauthorized software in the game.&lt;br&gt;
-Your account will be permanently terminated if the same violation occurs again. For more information, contact us using the support form on the official AION website (http://aionfreetoplay.com).</body>
+    <body>Sua conta foi suspensa por 10 dias porque você usou software não autorizado no jogo.&lt;br&gt;
+Sua conta será permanentemente encerrada se a mesma violação ocorrer novamente. Para mais informações, entre em contato conosco usando o formulário de suporte no site oficial do AION (https://help.novaverso.online/).</body>
   </string>
   <string>
     <id>901676</id>
     <name>STR_PLAYNC_BLOCK_TRADE_ACCOUNT</name>
-    <body>Your account has been banned for illegal account trading as per our T&amp;Cs and the Terms of Use for our services.&lt;br&gt;
-For more information, contact AION Support via the official AION website (https://aion.support.gameforge.com/).</body>
+    <body>Sua conta foi banida por negociação ilegal de conta, conforme nossos Termos e Condições e os Termos de Uso de nossos serviços.&lt;br&gt;
+Para mais informações, entre em contato com o Suporte do AION através do site oficial do AION (https://help.novaverso.online/).</body>
   </string>
   <string>
     <id>901677</id>
     <name>STR_PLAYNC_BLOCK_STOLEN_PAY</name>
-    <body>Your account has been suspended because you used another's payment information fraudulently.&lt;br&gt;
-For more information, contact our customer centre at http://aionfreetoplay.com.</body>
+    <body>Sua conta foi suspensa porque você usou informações de pagamento de outra pessoa de forma fraudulenta.&lt;br&gt;
+Para mais informações, entre em contato com o Suporte do AION através do site oficial do AION (https://help.novaverso.online/).</body>
   </string>
   <string>
     <id>901678</id>
     <name>STR_PLAYNC_BLOCK_STOLEN_ACCOUNT_MAYBE</name>
-    <body>Your account has been suspended because you used another's identity to create your account.&lt;br&gt;
-If this is not the case, verify your identity through our website (http://aionfreetoplay.com).</body>
+    <body>Sua conta foi suspensa porque você usou a identidade de outra pessoa para criar sua conta.&lt;br&gt;
+Se este não for o caso, verifique sua identidade através do nosso site (https://help.novaverso.online/).</body>
   </string>
   <string>
     <id>901679</id>
     <name>STR_PLAYNC_BLOCK_HOUSE</name>
-    <body>Your account has been suspended because you used the game service for commercial purposes.&lt;br&gt;
-For more information, contact us using the support form on the official AION website (http://aionfreetoplay.com).</body>
+    <body>Sua conta foi suspensa porque você usou o serviço de jogo para fins comerciais.&lt;br&gt;
+Para mais informações, entre em contato conosco usando o formulário de suporte no site oficial do AION. (https://help.novaverso.online/).</body>
   </string>
   <string>
     <id>901680</id>
     <name>STR_PLAYNC_BLOCK_BAD_BOARDER</name>
-    <body>Your account has been suspended because you regularly made posts on official Gameforge websites that were in violation of the End User License Agreement.&lt;br&gt;
-For more information, contact us using the support form on the official AION website (http://aionfreetoplay.com).</body>
+    <body>Sua conta foi suspensa porque você regularmente fez publicações nos sites oficiais da Gameforge que violavam o Contrato de Licença do Usuário Final.&lt;br&gt;
+Para mais informações, entre em contato conosco usando o formulário de suporte no site oficial do AION. (https://help.novaverso.online/).</body>
   </string>
   <string>
     <id>901681</id>
     <name>STR_PLAYNC_BLOCK_VIOLATION</name>
-    <body>Your account has been suspended because you were involved in illegal activity while using the game service.&lt;br&gt;
-For more information, contact us using the support form on the official AION website (http://aionfreetoplay.com).</body>
+    <body>Sua conta foi suspensa porque você se envolveu em atividade ilegal ao usar o serviço de jogo.&lt;br&gt;
+Para mais informações, entre em contato conosco usando o formulário de suporte no site oficial do AION. (https://help.novaverso.online/).</body>
   </string>
   <string>
     <id>901682</id>
     <name>STR_PLAYNC_BLOCK_ABUSE_COIN</name>
-    <body>Your account has been suspended in accordance with the End User License agreement. You were involved in an unauthorized use of AION Coins.&lt;br&gt;
-For more information, contact us using the support form on the official AION website (http://aion-en.custhelp.com/).</body>
+    <body>Sua conta foi suspensa de acordo com o contrato de licença do usuário final. Você se envolveu em uso não autorizado de moedas AION.&lt;br&gt;
+Para mais informações, entre em contato conosco usando o formulário de suporte no site oficial do AION. (http://aion-en.custhelp.com/).</body>
   </string>
   <string>
     <id>901683</id>
     <name>STR_PLAYNC_BLOCK_ABUSE_FREE_COIN</name>
-    <body>Your account has been suspended in accordance with the End User License agreement. You were involved in an unauthorized use of AION Coins.&lt;br&gt;
-For more information, contact us using the support form on the official AION website (http://aionfreetoplay.com).</body>
+    <body>Sua conta foi suspensa de acordo com o contrato de licença do usuário final. Você se envolveu em uso não autorizado de moedas AION.&lt;br&gt;
+Para mais informações, entre em contato conosco usando o formulário de suporte no site oficial do AION. (https://help.novaverso.online/).</body>
   </string>
   <string>
     <id>901684</id>
     <name>STR_PLAYNC_BLOCK_BAD_PROGRAM</name>
-    <body>Your account has been suspended in accordance with the terms and conditions of our service agreement and operation policy because you performed inappropriate activities that the Gameforge service doesn't allow in order to obtain undisclosed information or alter our game client.&lt;br&gt;
-For more information, contact our customer centre at the AION website (http://aionfreetoplay.com).</body>
+    <body>Sua conta foi suspensa de acordo com os termos e condições do nosso contrato de serviço e política de operação porque você realizou atividades inapropriadas que o serviço Gameforge não permite, a fim de obter informações não divulgadas ou alterar nosso cliente de jogo.&lt;br&gt;
+Para mais informações, entre em contato com o Suporte do AION através do site oficial do AION the AION website (https://help.novaverso.online/).</body>
   </string>
   <string>
     <id>901685</id>
     <name>STR_PLAYNC_BLOCK_VIRUS</name>
-    <body>Your account has been suspended in accordance with the terms and conditions of our service agreement and operation policy because you were involved in the use or distribution of illegal software that can harm our services, other companies' services, or users' computers.&lt;br&gt;
-For more information, contact our customer centre at the AION website (http://aionfreetoplay.com).</body>
+    <body>Sua conta foi suspensa de acordo com os termos e condições do nosso contrato de serviço e política de operação porque você se envolveu no uso ou distribuição de software ilegal que pode prejudicar nossos serviços, serviços de outras empresas ou computadores de usuários.&lt;br&gt;
+Para mais informações, entre em contato com o Suporte do AION através do site oficial do AION the AION website (https://help.novaverso.online/).</body>
   </string>
   <string>
     <id>901686</id>
     <name>STR_PLAYNC_BLOCK_STOLEN_NAME</name>
-    <body>Your account has been suspended in accordance with the terms and conditions of our service agreement. You used another's identity to create your account.&lt;br&gt;
-For more information, contact our customer centre at the AION website (http://aionfreetoplay.com).</body>
+    <body>Sua conta foi suspensa de acordo com os termos e condições do nosso contrato de serviço. Você usou a identidade de outra pessoa para criar sua conta.&lt;br&gt;
+Para mais informações, entre em contato com o Suporte do AION através do site oficial do AION the AION website (https://help.novaverso.online/).</body>
   </string>
   <string>
     <id>901687</id>
     <name>STR_LOGIN_ERROR_EXCEED_MAX_CHAR_COUNT</name>
-    <body>You have exceeded the number of characters allowed per account, and must delete some characters before you can play. If you have transferred to a different server, please try logging in on the previous server, and then again on the new server.</body>
+    <body>Você excedeu o número de personagens permitidos por conta e deve excluir alguns personagens antes de poder jogar. Se você transferiu para um servidor diferente, tente fazer login no servidor anterior e, em seguida, novamente no novo servidor.</body>
   </string>
   <string>
     <id>901688</id>
@@ -10487,11 +10487,11 @@ Este item não pode ser restaurado depois de destruído.</body>
   <string>
     <id>901693</id>
     <name>STR_BLOCK_PC_ROOM_COMPLAIN2</name>
-    <body>We store all account information and logs.&lt;br&gt;
-We have received a report that you logged into AION from an internet cafe and deliberately left without paying. &lt;br&gt;
-Using an internet cafe without the intention or ability to pay for the service is theft, and, as such, is a violation of the law. &lt;br&gt;
-If you had nothing to do with this act, please contact us. &lt;br&gt;
-You can contact us any time on the official website www.aionfreetoplay.com to find out more details.</body>
+    <body>Nós armazenamos todas as informações da conta e registros.&lt;br&gt;
+Recebemos uma denúncia de que você fez login no AION em uma lan house e saiu deliberadamente sem pagar. &lt;br&gt;
+Usar uma lan house sem a intenção ou capacidade de pagar pelo serviço é roubo e, como tal, é uma violação da lei. &lt;br&gt;
+Se você não teve nada a ver com este ato, por favor, entre em contato conosco. &lt;br&gt;
+Você pode entrar em contato conosco a qualquer momento no site oficial https://help.novaverso.online/ para obter mais detalhes.</body>
   </string>
   <string>
     <id>901694</id>
@@ -10502,7 +10502,7 @@ You can contact us any time on the official website www.aionfreetoplay.com to fi
     <id>901695</id>
     <name>STR_ACCUSE_UPGRADE_1_LEVEL</name>
     <body>Você entrou no estado de Restrição de Fase 1 porque foram recebidas denúncias contra a sua conta. A Restrição de Fase 1 não causa nenhum dano ao seu jogo. Porém, mais relatórios aumentarão o nível de restrição, o que afetará sua aquisição de EXP e itens.&lt;br&gt;
-Você pode usar o comando '/Restrição' para ver sua Fase de restrição e o tempo de liberação. &lt;br&gt;
+Você pode usar o comando '/Restricao' para ver sua Fase de restrição e o tempo de liberação. &lt;br&gt;
 Digite '%0' depois de ler a mensagem.</body>
     <display_type>8</display_type>
   </string>
@@ -10510,14 +10510,14 @@ Digite '%0' depois de ler a mensagem.</body>
     <id>901696</id>
     <name>STR_ACCUSE_UPGRADE_2_LEVEL</name>
     <body>Você entrou no estado de Restrição de Fase 2 porque foram recebidas denúncias contra a sua conta. A Restrição de Fase 2 reduz suas taxas de EXP, Kinah e Abyss Points, bem como suas taxas de sucesso de coleta e extração. Se sua Fase de Restrição aumentar devido a mais denúncias, seu jogo ficará mais limitado.&lt;br&gt;
-Você pode usar o comando '/Restrição' para ver sua Fase de restrição e o tempo de liberação. &lt;br&gt;
+Você pode usar o comando '/Restricao' para ver sua Fase de restrição e o tempo de liberação. &lt;br&gt;
 Digite '%0' depois de ler a mensagem.</body>
     <display_type>8</display_type>
   </string>
   <string>
     <id>901697</id>
     <name>STR_ACCUSE_UPGRADE_3_LEVEL</name>
-    <body>Você entrou no estado de Restrição de Fase 3 porque foram recebidas denúncias contra a sua conta. Enquanto você estiver na Restrição de Fase 3, não poderá adquirir recompensas, e seus pontos de EXP, Kinah e Abyss, bem como as Taxas de Sucesso de Coleta e Extração continuarão a diminuir. Você também está proibido de ingressar em um Grupo ou Aliança. Você enfrentará restrições ainda maiores caso as denúncias continuem a se acumular.&lt;br&gt;Você pode usar o comando '/Restrição' para ver sua Fase de restrição e o tempo de liberação. &lt;br&gt;
+    <body>Você entrou no estado de Restrição de Fase 3 porque foram recebidas denúncias contra a sua conta. Enquanto você estiver na Restrição de Fase 3, não poderá adquirir recompensas, e seus pontos de EXP, Kinah e Abyss, bem como as Taxas de Sucesso de Coleta e Extração continuarão a diminuir. Você também está proibido de ingressar em um Grupo ou Aliança. Você enfrentará restrições ainda maiores caso as denúncias continuem a se acumular.&lt;br&gt;Você pode usar o comando '/Restricao' para ver sua Fase de restrição e o tempo de liberação. &lt;br&gt;
 Digite '%0' depois de ler a mensagem.</body>
     <display_type>8</display_type>
   </string>
@@ -10525,7 +10525,7 @@ Digite '%0' depois de ler a mensagem.</body>
     <id>901698</id>
     <name>STR_ACCUSE_UPGRADE_4_LEVEL</name>
     <body>Você entrou no estado de Restrição de Fase 4 porque foram recebidas denúncias contra a sua conta. Enquanto você estiver na Restrição de Fase 4, não poderá adquirir recompensas, EXP, Kinah ou Abyss Points, e não poderá coletar ou extrair itens. Você também está proibido de ingressar em um Grupo ou Aliança.&lt;br&gt;
-Você pode usar o comando '/Restrição' para ver sua Fase de restrição e o tempo de liberação. &lt;br&gt;
+Você pode usar o comando '/Restricao' para ver sua Fase de restrição e o tempo de liberação. &lt;br&gt;
 Digite '%0' depois de ler a mensagem.</body>
     <display_type>8</display_type>
   </string>
@@ -10533,7 +10533,7 @@ Digite '%0' depois de ler a mensagem.</body>
     <id>901699</id>
     <name>STR_ACCUSE_DEGRADE_LEVEL</name>
     <body>Sua Fase de Restrição foi reduzida para %num0, pois você jogou limpo por um determinado período de tempo. Por favor, continue a jogar limpo no futuro.&lt;br&gt;
-Você pode usar o comando '/Restrição' para ver sua Fase de restrição e o tempo de liberação.</body>
+Você pode usar o comando '/Restricao' para ver sua Fase de restrição e o tempo de liberação.</body>
     <display_type>4</display_type>
   </string>
   <string>
@@ -10550,7 +10550,7 @@ Você pode usar o comando '/Restrição' para ver sua Fase de restrição e o te
     <id>901702</id>
     <name>STR_ACCUSE_DEGRADE_NORMAL_LEVEL</name>
     <body>Você não está mais Restrito, pois você jogou limpo por um determinado período de tempo. Por favor, continue a jogar limpo no futuro.&lt;br&gt;
-Você pode usar o comando '/Restrição' para ver sua Fase de restrição e o tempo de liberação.</body>
+Você pode usar o comando '/Restricao' para ver sua Fase de restrição e o tempo de liberação.</body>
     <display_type>4</display_type>
   </string>
   <string>
@@ -10592,12 +10592,12 @@ Você pode usar o comando '/Restrição' para ver sua Fase de restrição e o te
   <string>
     <id>901711</id>
     <name>STR_ENTER_EKEY</name>
-    <body>Please enter the Ekey.</body>
+    <body>Por favor, insira a Ekey.</body>
   </string>
   <string>
     <id>901712</id>
     <name>STR_ENTER_EKEY_SN</name>
-    <body>You have been disconnected, Please enter the S/N of the Ekey.</body>
+    <body>Você foi desconectado, por favor insira o S/N da Ekey.</body>
   </string>
   <string>
     <id>901713</id>
@@ -10632,13 +10632,13 @@ Você pode usar o comando '/Restrição' para ver sua Fase de restrição e o te
   <string>
     <id>901719</id>
     <name>STR_TOOLTIP_SHOP_ITEM_PROMOTION</name>
-    <body>Additional Merchandise</body>
+    <body>Mercadoria adicional</body>
   </string>
   <string>
     <id>901720</id>
     <name>STR_HTML_SHOP_PROMOTION_HEAD</name>
     <body>&lt;img src="textures/ui/basic_sep1.dds" width="210" height="2"&gt;
-&lt;p&gt;Additional Merchandise&lt;/p&gt;
+&lt;p&gt;Mercadoria adicional&lt;/p&gt;
 &lt;listview width="210" itemHeight="44" selectable="false" skin="v4_listview_shop"&gt;</body>
   </string>
   <string>
@@ -10646,7 +10646,7 @@ Você pode usar o comando '/Restrição' para ver sua Fase de restrição e o te
     <name>STR_SUMMON_PARTY_DO_YOU_ACCEPT_REQUEST</name>
     <body>&lt;font color="ffff00"&gt;%0&lt;/font&gt; quer te teletransportar usando &lt;font color="ffff00"&gt;%1&lt;/font&gt;. Aceita ser teletransportado para a posição de %0? 
 
-Você deve decidir em %2 segundos.</body>
+Você deve decidir em %2 segundo(s).</body>
   </string>
   <string>
     <id>901722</id>
@@ -10777,7 +10777,7 @@ Você deve decidir em %2 segundos.</body>
   <string>
     <id>901752</id>
     <name>STR_EDIT_CHAR_ALL_CANT_NO_ITEM</name>
-    <body>&lt;p&gt;Você só pode usar isso quando tiver um Ticket de Cirurgia Plástica. Está disponível no [%shoplink].&lt;/p&gt;</body>
+    <body>&lt;p&gt;Você só pode usar isso quando tiver um 'Plastic Surgery Ticket'. Está disponível no [%shoplink].&lt;/p&gt;</body>
   </string>
   <string>
     <id>901753</id>
@@ -10788,7 +10788,7 @@ Você deve decidir em %2 segundos.</body>
   <string>
     <id>901754</id>
     <name>STR_EDIT_CHAR_GENDER_CANT_NO_ITEM</name>
-    <body>&lt;p&gt;Você só pode usar isso quando tiver um Ticket de Troca de Gênero.&lt;/p&gt;</body>
+    <body>&lt;p&gt;Você só pode usar isso quando tiver um 'Gender Switch Ticket'.&lt;/p&gt;</body>
   </string>
   <string>
     <id>901755</id>
@@ -10858,8 +10858,8 @@ Você deve decidir em %2 segundos.</body>
   <string>
     <id>901768</id>
     <name>STR_L2AUTH_BLOCK_BOT_PROGRAM</name>
-    <body>&lt;p&gt;Your account has been temporarily suspended because you are suspected of using inappropriate methods to play the game. If you have not used any inappropriate methods, you can resume playing once you go through the authorization process on our website homepage.&lt;/p&gt;
-&lt;p&gt;For more information, please go to the 1:1 Petition service available at the customer service centre at our website (www.plaync.co.kr).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi temporariamente suspensa porque você é suspeito de usar métodos inadequados para jogar o jogo. Se você não usou nenhum método inadequado, você pode retomar o jogo depois de passar pelo processo de autorização na página inicial do nosso site.&lt;/p&gt;
+&lt;p&gt;Para mais informações, acesse o serviço de Petição 1:1 disponível na central de atendimento ao cliente em nosso site (https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901769</id>
@@ -10884,7 +10884,9 @@ Você deve decidir em %2 segundos.</body>
   <string>
     <id>901773</id>
     <name>STR_ALARM_VIRUS_INFECTION</name>
-    <body>Your PC has a high likelihood of getting hacked into or infected by viruses.\n Install vaccines to scan your computer, and use appropriate security services.</body>
+    <body>Seu PC tem uma alta probabilidade de ser invadido ou infectado por vírus. \nInstale antivírus para escanear seu computador e use serviços de segurança apropriados.
+
+</body>
   </string>
   <string>
     <id>901774</id>
@@ -10899,7 +10901,7 @@ Você deve decidir em %2 segundos.</body>
   <string>
     <id>901776</id>
     <name>STR_TOOLTIP_SKILLINFO_COST_TOGGLE_TITLE</name>
-    <body>Upkeep Cost</body>
+    <body>Custo de Manutenção</body>
   </string>
   <string>
     <id>901777</id>
@@ -11004,12 +11006,12 @@ Você deve decidir em %2 segundos.</body>
   <string>
     <id>901797</id>
     <name>STR_L2AUTH_44</name>
-    <body>Authorization Error (44)</body>
+    <body>Erro de Autorização (44)</body>
   </string>
   <string>
     <id>901798</id>
     <name>STR_L2AUTH_S_APP_LAUNCH_NOT_SUPPORTED</name>
-    <body>You can only run Aion after logging in on the official homepage.</body>
+    <body>Você só pode executar Aion após fazer login na página oficial.</body>
   </string>
   <string>
     <id>901799</id>
@@ -11044,7 +11046,7 @@ Você deve decidir em %2 segundos.</body>
   <string>
     <id>901805</id>
     <name>STR_ENTER_EKEY_W_CHALLENGE</name>
-    <body>&lt;p&gt;Enter the Ekey of the following Challenge Value.&lt;/p&gt;&lt;p&gt;%0&lt;/p&gt;</body>
+    <body>&lt;p&gt;Digite a Ekey do seguinte Valor de Desafio.&lt;/p&gt;&lt;p&gt;%0&lt;/p&gt;</body>
   </string>
   <string>
     <id>901806</id>
@@ -11060,7 +11062,7 @@ Você deve decidir em %2 segundos.</body>
     <id>901808</id>
     <name>STR_CANNOT_RESURRECT_DESC_BIND_STONE_FOR_SLAYER</name>
     <body>&lt;p align="left"&gt;&lt;font color="505895"&gt;Você irá renascer no Kisk em %0 a menos que escolha outro método de ressurreição dentro de %1 minuto(s).&lt;/font&gt;&lt;/p&gt;
-&lt;p align="left"&gt;&lt;font color="505895"&gt;Você poderá decidir em %2 segundos.&lt;/font&gt;&lt;/p&gt;</body>
+&lt;p align="left"&gt;&lt;font color="505895"&gt;Você poderá decidir em %2 segundo(s).&lt;/font&gt;&lt;/p&gt;</body>
   </string>
   <string>
     <id>901809</id>
@@ -11165,27 +11167,27 @@ Usos restantes: %num3/%num4</body>
   <string>
     <id>901828</id>
     <name>STR_INDUN_ACCOUNT_INFO_PVE_HEAD_SUCCEED</name>
-    <body>&lt;font size="5"&gt;&lt;p&gt;Total Points: %0 points&lt;/p&gt;
-&lt;p&gt; - Gathering: %1 points&lt;/p&gt;
-&lt;p&gt; - Hunting: %2 points&lt;/p&gt;
-&lt;p&gt; - Play Time Bonus: %3 points&lt;/p&gt;
+    <body>&lt;font size="5"&gt;&lt;p&gt;Pontos Totais: %0 pontos&lt;/p&gt;
+&lt;p&gt; - Coleta: %1 pontos&lt;/p&gt;
+&lt;p&gt; - Caça: %2 pontos&lt;/p&gt;
+&lt;p&gt; - Bônus de Tempo de Jogo: %3 pontos&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;/font&gt;
-&lt;font color="FF0000" size="6"&gt;&lt;p&gt;Overall Play Evaluation Points: %4 points --&gt; Evaluation %5&lt;/p&gt;&lt;/font&gt;</body>
+&lt;font color="FF0000" size="6"&gt;&lt;p&gt;Média Geral de Pontos: %4 pontos --&gt; Avaliação %5&lt;/p&gt;&lt;/font&gt;</body>
   </string>
   <string>
     <id>901829</id>
     <name>STR_INDUN_ACCOUNT_INFO_PVE_HEAD_FAILED</name>
-    <body>&lt;font size="5"&gt;&lt;p&gt;Total Points: %0 points&lt;/p&gt;
-&lt;p&gt; - Gathering: %1 points&lt;/p&gt;
-&lt;p&gt; - Hunting: %2 points&lt;/p&gt;
-&lt;p&gt; - Play Time Bonus: %3 points&lt;/p&gt;&lt;/font&gt;</body>
+    <body>&lt;font size="5"&gt;&lt;p&gt;Pontos Totais: %0 pontos&lt;/p&gt;
+&lt;p&gt; - Coleta: %1 pontos&lt;/p&gt;
+&lt;p&gt; - Caça: %2 pontos&lt;/p&gt;
+&lt;p&gt; - Bônus de Tempo de Jogo: %3 pontos&lt;/p&gt;&lt;/font&gt;</body>
   </string>
   <string>
     <id>901830</id>
     <name>STR_INDUN_ACCOUNT_INFO_PVE_HEAD_PLAYING</name>
-    <body>&lt;font size="5"&gt;&lt;p&gt;Total Points: %0 points&lt;/p&gt;
-&lt;p&gt; - Gathering: %1 points&lt;/p&gt;
-&lt;p&gt; - Hunting: %2 points&lt;/p&gt;&lt;/font&gt;</body>
+    <body>&lt;font size="5"&gt;&lt;p&gt;Total Points: %0 pontos&lt;/p&gt;
+&lt;p&gt; - Coleta: %1 pontos&lt;/p&gt;
+&lt;p&gt; - Caça: %2 pontos&lt;/p&gt;&lt;/font&gt;</body>
   </string>
   <string>
     <id>901831</id>
@@ -11195,12 +11197,12 @@ Usos restantes: %num3/%num4</body>
   <string>
     <id>901832</id>
     <name>STR_INDUN_ACCOUNT_INFO_PVE_BUTTON_FAILED</name>
-    <body>Sair da Dungeon</body>
+    <body>Sair da Instância</body>
   </string>
   <string>
     <id>901833</id>
     <name>STR_INDUN_ACCOUNT_INFO_PVE_BUTTON_PLAYING</name>
-    <body>Sair da Dungeon</body>
+    <body>Sair da Instância</body>
   </string>
   <string>
     <id>901834</id>
@@ -11226,17 +11228,17 @@ Usos restantes: %num3/%num4</body>
   <string>
     <id>901838</id>
     <name>STR_INDUN_ACCOUNT_INFO_PVP_BUTTON_SUCCEED</name>
-    <body>Sair da Dungeon</body>
+    <body>Sair da Instância</body>
   </string>
   <string>
     <id>901839</id>
     <name>STR_INDUN_ACCOUNT_INFO_PVP_BUTTON_FAILED</name>
-    <body>Sair da Dungeon</body>
+    <body>Sair da Instância</body>
   </string>
   <string>
     <id>901840</id>
     <name>STR_INDUN_ACCOUNT_INFO_PVP_BUTTON_PLAYING</name>
-    <body>Sair da Dungeon</body>
+    <body>Sair da Instância</body>
   </string>
   <string>
     <id>901841</id>
@@ -11286,7 +11288,7 @@ Usos restantes: %num3/%num4</body>
   <string>
     <id>901850</id>
     <name>STR_PARTY_MATCH_INVITE</name>
-    <body>Convidar</body>
+    <body>Convidar para Grupo</body>
   </string>
   <string>
     <id>901851</id>
@@ -11351,12 +11353,12 @@ Usos restantes: %num3/%num4</body>
   <string>
     <id>901863</id>
     <name>STR_CMD_CREATE_PARTY</name>
-    <body>/RecruitGroupMember</body>
+    <body>/RecruitGroupMember,/FormarGrupo</body>
   </string>
   <string>
     <id>901864</id>
     <name>STR_CMD_CREATE_FORCE</name>
-    <body>/RecruitAllianceMember</body>
+    <body>/RecruitAllianceMember,/FormarAlianca</body>
   </string>
   <string>
     <id>901865</id>
@@ -11414,7 +11416,7 @@ Você deve decidir em %DURATIONTIME1.&lt;/p&gt;</body>
     <body>&lt;p align="left"&gt;Se clicar em &lt;font color="ffff00"&gt;Concordar&lt;/font&gt;, você irá renascer imediatamente no &lt;font color="ffff00"&gt;Ponto de Partida de %0&lt;/font&gt;. 
 Em até %1 minuto(s) outras pessoas podem te ressuscitar no local atual. 
 
-Você poderá escolher uma opção em %2 segundos.&lt;/p&gt;</body>
+Você poderá escolher uma opção em %2 segundo(s).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901875</id>
@@ -11461,7 +11463,7 @@ Tem certeza de que deseja mudar sua aparência?&lt;/p&gt;</body>
   <string>
     <id>901883</id>
     <name>STR_KEYMAP_TOGGLE_INDUN_ACCOUNT</name>
-    <body>Dark Poeta Dungeon</body>
+    <body>Instância Dark Poeta</body>
   </string>
   <string>
     <id>901884</id>
@@ -11491,12 +11493,12 @@ Tem certeza de que deseja mudar sua aparência?&lt;/p&gt;</body>
   <string>
     <id>901889</id>
     <name>STR_UI_ZONE_MAP_ABYSS_LAYER_MIDDLE</name>
-    <body>%0 Core</body>
+    <body>%0 Centro</body>
   </string>
   <string>
     <id>901890</id>
     <name>STR_UI_ZONE_MAP_ABYSS_LAYER_TOP</name>
-    <body>%0 Top</body>
+    <body>%0 Topo</body>
   </string>
   <string>
     <id>901891</id>
@@ -11511,57 +11513,57 @@ Tem certeza de que deseja mudar sua aparência?&lt;/p&gt;</body>
   <string>
     <id>901894</id>
     <name>STR_L2AUTH_NCTASD_AUTHFAILED</name>
-    <body>The authentication number is incorrect. Please check the number once again.</body>
+    <body>O número de autenticação está incorreto. Por favor, verifique o número novamente.</body>
   </string>
   <string>
     <id>901895</id>
     <name>STR_L2AUTH_NCTASD_IVRNOTAVAILABLE</name>
-    <body>Telephone authentication service is currently under maintenance. Please try again later.</body>
+    <body>O serviço de autenticação por telefone está em manutenção no momento. Por favor, tente novamente mais tarde.</body>
   </string>
   <string>
     <id>901896</id>
     <name>STR_L2AUTH_NCTASD_AUTHTIMEOUT</name>
-    <body>The input time for the ARS number has expired.</body>
+    <body>O tempo de entrada para o número ARS expirou.</body>
   </string>
   <string>
     <id>901897</id>
     <name>STR_L2AUTH_NCTASD_PHONENOTAVAILABLE</name>
-    <body>The telephone authentication service is unavailable as there is no phone connection or the line is busy. Please try again after moving to where there is phone connection or hanging up the phone.</body>
+    <body>O serviço de autenticação por telefone está indisponível, pois não há conexão telefônica ou a linha está ocupada. Por favor, tente novamente após se mover para um local com conexão telefônica ou desligar o telefone.</body>
   </string>
   <string>
     <id>901898</id>
     <name>STR_L2AUTH_NCTASD_INVALIDCUSTOMERINFO</name>
-    <body>The telephone number is incorrect. Please check your registration information.</body>
+    <body>O número de telefone está incorreto. Por favor, verifique suas informações de registro.</body>
   </string>
   <string>
     <id>901899</id>
     <name>STR_L2AUTH_NCTASD_NOTAVAILABLE</name>
-    <body>Telephone authentication service is currently under maintenance. Please try again later.</body>
+    <body>O serviço de autenticação por telefone está em manutenção no momento. Por favor, tente novamente mais tarde.</body>
   </string>
   <string>
     <id>901900</id>
     <name>STR_L2AUTH_NCTASD_TOOBUSY2</name>
-    <body>The telephone authentication service is currently unavailable due to a high customer demand. Please try again later.</body>
+    <body>O serviço de autenticação por telefone está indisponível no momento devido a uma alta demanda de clientes. Por favor, tente novamente mais tarde.</body>
   </string>
   <string>
     <id>901901</id>
     <name>STR_L2AUTH_NCTASD_NOTPAID</name>
-    <body>Telephone authentication service period has expired. Please try again after you have paid for the service.</body>
+    <body>O período de serviço de autenticação por telefone expirou. Por favor, tente novamente após pagar pelo serviço.</body>
   </string>
   <string>
     <id>901902</id>
     <name>STR_L2AUTH_NCTASD_AUTHBLOCKEDTEMP</name>
-    <body>Telephone authentication service is blocked due to repeated telephone authentication failures. Please try again later.</body>
+    <body>O serviço de autenticação por telefone está bloqueado devido a falhas repetidas na autenticação por telefone. Por favor, tente novamente mais tarde.</body>
   </string>
   <string>
     <id>901903</id>
     <name>STR_L2AUTH_NCTASD_CALLLIMITEXCEEDED</name>
-    <body>You have exceeded the number of times you can use the telephone authentication service in one day.</body>
+    <body>Você excedeu o número de vezes que pode usar o serviço de autenticação por telefone em um dia.</body>
   </string>
   <string>
     <id>901904</id>
     <name>STR_L2AUTH_NCTASD_AUTHALREADYINPROCESS</name>
-    <body>The telephone authentication service is currently in progress. Please wait a moment.</body>
+    <body>O serviço de autenticação por telefone está em andamento no momento. Por favor, aguarde um momento.</body>
   </string>
   <string>
     <id>901905</id>
@@ -11641,13 +11643,13 @@ Tem certeza de que deseja mudar sua aparência?&lt;/p&gt;</body>
   <string>
     <id>901920</id>
     <name>STR_L2AUTH_PCINFO_INVALID_REGISTER_PC</name>
-    <body>This computer has not subscribed to the PC registration service.</body>
+    <body>Este computador não está inscrito no serviço de registro de PC.</body>
   </string>
   <string>
     <id>901921</id>
     <name>STR_NCTASD_AUTH_STARTED</name>
-    <body>&lt;p&gt;Telephone authentication in progress...&lt;/p&gt;
-&lt;p&gt;Please check the authentication request call.&lt;/p&gt;</body>
+    <body>&lt;p&gt;Autenticação por telefone em andamento...&lt;/p&gt;
+&lt;p&gt;Por favor, verifique a chamada de solicitação de autenticação.&lt;/p&gt;</body>
   </string>
   <string>
     <id>901922</id>
@@ -11696,19 +11698,19 @@ Tem certeza de que deseja mudar sua aparência?&lt;/p&gt;</body>
   <string>
     <id>901931</id>
     <name>STR_CAPTCHA_CONTENT</name>
-    <body>&lt;p align="left"&gt;You were poisoned during extraction, and are currently unable to extract.&lt;/p&gt;
-&lt;p align="left"&gt;To recover to the original state, you need to chant spells to purify the poision.&lt;/p&gt;
+    <body>&lt;p align="left"&gt;Você foi envenenado durante a extração e atualmente está incapaz de extrair.&lt;/p&gt;
+&lt;p align="left"&gt;Para retornar ao estado original, você precisa entoar feitiços para purificar o veneno.&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
-&lt;p align="left"&gt;Enter the spells you see below in the correct order.&lt;/p&gt;</body>
+&lt;p align="left"&gt;Digite os feitiços que você vê abaixo na ordem correta.&lt;/p&gt;</body>
   </string>
   <string>
     <id>901932</id>
     <name>STR_CAPTCHA_REMAIN_CHANCE_AND_TIME</name>
-    <body>Attempts remaining: &lt;font color="%0"&gt;%1?&lt;/font&gt; Time remaining: &lt;font color="%2"&gt;%DURATIONTIME3&lt;/font&gt;</body>
-    <message_type>%0: 횟수 색상
-%1: 남은 횟수
-%2: 시간 색상
-%3: 남은 제한 시간</message_type>
+    <body>Tentatidas restantes: &lt;font color="%0"&gt;%1?&lt;/font&gt; Tempo restante: &lt;font color="%2"&gt;%DURATIONTIME3&lt;/font&gt;</body>
+    <message_type>%0: Cor da Contagem
+%1: Contagem Restante
+%2: Cor do Tempo
+%3: Tempo Restante</message_type>
   </string>
   <string>
     <id>901933</id>
@@ -11718,17 +11720,17 @@ Tem certeza de que deseja mudar sua aparência?&lt;/p&gt;</body>
   <string>
     <id>901934</id>
     <name>STR_ECARD_ENTER</name>
-    <body>Please enter the Security Card number corresponding to three coordinates.</body>
+    <body>Por favor, insira o número do Cartão de Segurança correspondente a três coordenadas.</body>
   </string>
   <string>
     <id>901935</id>
     <name>STR_ECARD_GAME_OVER</name>
-    <body>You failed the Security Card Authentication and the game is shutting down.</body>
+    <body>Você falhou na Autenticação do Cartão de Segurança e o jogo está sendo encerrado.</body>
   </string>
   <string>
     <id>901936</id>
     <name>STR_ECARD_ENTER_INVALID</name>
-    <body>You entered the wrong number. You have %num0 attempts left.</body>
+    <body>Você digitou o número errado. Você tem %num0 tentativas restantes.</body>
   </string>
   <string>
     <id>901937</id>
@@ -11738,26 +11740,26 @@ Tem certeza de que deseja mudar sua aparência?&lt;/p&gt;</body>
   <string>
     <id>901938</id>
     <name>STR_MAIL_CONFIRM_DEL_ALL_SELECTED_MAIL</name>
-    <body>Isso exclui todos os correios selecionados. Você deseja excluir todos?</body>
+    <body>Isso exclui todas as mensagens selecionados. Você deseja excluir todas?</body>
   </string>
   <string>
     <id>901939</id>
     <name>STR_INDUN_ENTER_REQUIRE_LEVEL</name>
     <body>%0 ~ %1</body>
-    <message_type>%0: 입장가능 최소 레벨
-%1: 입장가능 최대 레벨</message_type>
+    <message_type>%0: Nível Mínimo de Entrada Permitido
+%1: Nível Máximo de Entrada Permitido</message_type>
   </string>
   <string>
     <id>901940</id>
     <name>STR_INDUN_ENTER_REQUIRE_LEVEL_ABOVE</name>
     <body>%0 +</body>
-    <message_type>%0: 입장 가능 최소 레벨</message_type>
+    <message_type>%0: Nível Mínimo de Entrada Permitido</message_type>
   </string>
   <string>
     <id>901941</id>
     <name>STR_INDUN_ENTER_DELAY_TIME</name>
     <body>%DURATIONTIME0</body>
-    <message_type>%0: 입장대기시간</message_type>
+    <message_type>%0: Tempo de Espera para Entrada</message_type>
   </string>
   <string>
     <id>901942</id>
@@ -11802,32 +11804,32 @@ Tem certeza de que deseja mudar sua aparência?&lt;/p&gt;</body>
   <string>
     <id>901950</id>
     <name>STR_KEYCRYPT_NO_ADMIN</name>
-    <body>You need administrator authority to run nProtect KeyCrypt.</body>
+    <body>Você precisa de permissão de administrador para executar o nProtect KeyCrypt.</body>
   </string>
   <string>
     <id>901951</id>
     <name>STR_KEYCRYPT_DRIVER_VERSION</name>
-    <body>Invalid nProtect KeyCrypt driver version.</body>
+    <body>A versão do driver nProtect KeyCrypt é inválida.</body>
   </string>
   <string>
     <id>901952</id>
     <name>STR_KEYCRYPT_VERIFY_VERSION</name>
-    <body>You are using Windows XP compatibility mode. You must restart the program to run nProtect KeyCrypt.</body>
+    <body>Você está usando o modo de compatibilidade do Windows XP. É necessário reiniciar o programa para executar o nProtect KeyCrypt.</body>
   </string>
   <string>
     <id>901953</id>
     <name>STR_KEYCRYPT_PS2LOGGER</name>
-    <body>A PS/2 key logger has been detected.</body>
+    <body>Um keylogger PS/2 foi detectado.</body>
   </string>
   <string>
     <id>901954</id>
     <name>STR_KEYCRYPT_USBLOGGER</name>
-    <body>An attempt to hack the USB keyboard driver has been detected.</body>
+    <body>Uma tentativa de hackear o driver do teclado USB foi detectada.</body>
   </string>
   <string>
     <id>901955</id>
     <name>STR_KEYCRYPT_HHDUSBH</name>
-    <body>A HHD monitoring tool has been detected.</body>
+    <body>Uma ferramenta de monitoramento de HDD foi detectada.</body>
   </string>
   <string>
     <id>901956</id>
@@ -11837,77 +11839,77 @@ Tem certeza de que deseja mudar sua aparência?&lt;/p&gt;</body>
   <string>
     <id>901957</id>
     <name>STR_SECURITYCARD_ENTER</name>
-    <body>Please enter the password for the Security Card No, [%num0].</body>
+    <body>Por favor, insira a senha do Cartão de Segurança nº [%num0].</body>
   </string>
   <string>
     <id>901958</id>
     <name>STR_SECURITYCARD_ENTER_INVAILD</name>
-    <body>You failed the Security Card Authentication and the game is shutting down.</body>
+    <body>Você falhou na Autenticação do Cartão de Segurança e o jogo está sendo encerrado.</body>
   </string>
   <string>
     <id>901959</id>
     <name>STR_SECURITYCARD_GAME_OVER</name>
-    <body>You have failed several times to enter the correct security card number, so your password has expired. Please change your password on the official AION website (http://aionfreetoplay.com).</body>
+    <body>Você falhou várias vezes ao inserir o número correto do cartão de segurança, portanto, sua senha expirou. Por favor, altere sua senha no site oficial da AION (https://help.novaverso.online/).</body>
   </string>
   <string>
     <id>901960</id>
     <name>STR_KICK_BOT_AUTO</name>
-    <body>An illegal program has been detected. Closing the game.</body>
+    <body>Um programa ilegal foi detectado. O jogo está sendo encerrado.</body>
   </string>
   <string>
     <id>901961</id>
     <name>E_NCTASD_AUTHENTICATIONFAILED</name>
-    <body>&lt;p&gt;Authentication failed because you didn't enter the correct (or any) authentication number.&lt;/p&gt;&lt;p&gt;If you fail three consecutive times, your account will be blocked for 30 minutes.&lt;/p&gt;</body>
+    <body>&lt;p&gt;Falha na autenticação porque você não inseriu o número de autenticação correto (ou nenhum número).&lt;/p&gt;&lt;p&gt;Se você falhar três vezes consecutivas, sua conta será bloqueada por 30 minutos.&lt;/p&gt;</body>
   </string>
   <string>
     <id>901962</id>
     <name>E_NCTASD_IVRNOTAVAILABLE</name>
-    <body>&lt;p&gt;The telephone authentication service is temporarily unavailable due to a problem with the telecommunication company. Please try again later.&lt;/p&gt;</body>
+    <body>&lt;p&gt;O serviço de autenticação por telefone está temporariamente indisponível devido a um problema com a empresa de telecomunicações. Por favor, tente novamente mais tarde.&lt;/p&gt;</body>
   </string>
   <string>
     <id>901963</id>
     <name>E_NCTASD_AUTHENTICATIONTIMEOUT</name>
-    <body>&lt;p&gt;The transmission is being delayed due to a problem with the telecommunication company. Please try again later.&lt;/p&gt;</body>
+    <body>&lt;p&gt;A transmissão está sendo atrasada devido a um problema com a empresa de telecomunicações. Por favor, tente novamente mais tarde.&lt;/p&gt;</body>
   </string>
   <string>
     <id>901964</id>
     <name>E_NCTASD_PHONENOTAVAILABLE</name>
-    <body>&lt;p&gt;Authentication failed because the line is engaged or the call is not being answered. Please try again later.&lt;/p&gt;</body>
+    <body>&lt;p&gt;A autenticação falhou porque a linha está ocupada ou a chamada não está sendo atendida. Por favor, tente novamente mais tarde.&lt;/p&gt;</body>
   </string>
   <string>
     <id>901965</id>
     <name>E_NCTASD_INVALIDCUSTOMERINFO</name>
-    <body>&lt;p&gt;The phone number for telephone authentication is either invalid or incorrect. Check your telephone authentication subscription information.&lt;/p&gt;&lt;p&gt;plaync&gt;Security Center&gt;Telephone Authentication Service&lt;/p&gt;</body>
+    <body>&lt;p&gt;O número de telefone para autenticação por telefone é inválido ou incorreto. Verifique suas informações de assinatura de autenticação por telefone.&lt;/p&gt;&lt;p&gt;plaync&gt;Central de Segurança&gt;Serviço de Autenticação por Telefone&lt;/p&gt;</body>
   </string>
   <string>
     <id>901966</id>
     <name>E_NCTASD_NOTAVAILABLE</name>
-    <body>&lt;p&gt;The telephone authentication service is currently undergoing maintenance. Please try again later.&lt;/p&gt;</body>
+    <body>&lt;p&gt;O serviço de autenticação por telefone está passando por manutenção no momento. Por favor, tente novamente mais tarde.&lt;/p&gt;</body>
   </string>
   <string>
     <id>901967</id>
     <name>E_NCTASD_TOOBUSY2</name>
-    <body>&lt;p&gt;The telephone authentication service is currently unavailable due to a high customer demand. Please try again later.&lt;/p&gt;</body>
+    <body>&lt;p&gt;O serviço de autenticação por telefone está atualmente indisponível devido a uma alta demanda de clientes. Por favor, tente novamente mais tarde.&lt;/p&gt;</body>
   </string>
   <string>
     <id>901968</id>
     <name>E_NCTASD_NOTPAID</name>
-    <body>&lt;p&gt;Your account is blocked because the telephone authentication service has expired. Please check your game access block settings.&lt;/p&gt;&lt;p&gt;plaync&gt;Security Center&gt;Telephone Authentication Service&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta está bloqueada porque o serviço de autenticação por telefone expirou. Por favor, verifique as configurações de bloqueio de acesso ao jogo.&lt;/p&gt;&lt;p&gt;plaync&gt;Central de Segurança&gt;Serviço de Autenticação por Telefone&lt;/p&gt;</body>
   </string>
   <string>
     <id>901969</id>
     <name>E_NCTASD_AUTHENTICATIONBLOCKEDTEMPORALLY</name>
-    <body>&lt;p&gt;Your game access is blocked because you failed the telephone authentication three consecutive times. Please try again later.&lt;/p&gt;</body>
+    <body>&lt;p&gt;Seu acesso ao jogo está bloqueado porque você falhou na autenticação por telefone três vezes consecutivas. Por favor, tente novamente mais tarde.&lt;/p&gt;</body>
   </string>
   <string>
     <id>901970</id>
     <name>E_NCTASD_CALLLIMITEXCEEDED</name>
-    <body>&lt;p&gt;You have exceeded the maximum number of telephone authentication attempts for today.&lt;/p&gt;</body>
+    <body>&lt;p&gt;Você excedeu o número máximo de tentativas de autenticação por telefone para hoje.&lt;/p&gt;</body>
   </string>
   <string>
     <id>901971</id>
     <name>E_NCTASD_AUTHENTICATIONALREADYINPROCESS</name>
-    <body>&lt;p&gt;The telephone authentication service is already in progress. Please try again later.&lt;/p&gt;</body>
+    <body>&lt;p&gt;O serviço de autenticação por telefone já está em andamento. Por favor, tente novamente mais tarde.&lt;/p&gt;</body>
   </string>
   <string>
     <id>901972</id>
@@ -12122,7 +12124,7 @@ Tem certeza de que deseja mudar sua aparência?&lt;/p&gt;</body>
   <string>
     <id>902014</id>
     <name>STR_CHANGE_SKIN_RESTRICT_TRADE_STORAGE</name>
-    <body>&lt;p&gt;Depois de alterar o item, você &lt;font color="ff0000"&gt;não poderá&lt;/font&gt; trocá-lo ou colocá-lo no seu baú ou baú da Legião.&lt;/p&gt;</body>
+    <body>&lt;p&gt;Depois de alterar o item, você &lt;font color="ff0000"&gt;não poderá&lt;/font&gt; trocá-lo ou colocá-lo no seu Baú da Conta ou Baú da Legião.&lt;/p&gt;</body>
   </string>
   <string>
     <id>902015</id>
@@ -12187,12 +12189,12 @@ Tem certeza de que deseja mudar sua aparência?&lt;/p&gt;</body>
   <string>
     <id>902027</id>
     <name>STR_CRAFT_GRADE6</name>
-    <body>Artesão</body>
+    <body>Artisian</body>
   </string>
   <string>
     <id>902028</id>
     <name>STR_CRAFT_GRADE7</name>
-    <body>Mestre</body>
+    <body>Master</body>
   </string>
   <string>
     <id>902029</id>
@@ -12252,12 +12254,12 @@ Tem certeza de que deseja mudar sua aparência?&lt;/p&gt;</body>
   <string>
     <id>902040</id>
     <name>STR_WAREHOUSE_CANT_LEGION_DEPOSIT</name>
-    <body>Você não pode guardar este item no baú da Legião.</body>
+    <body>Você não pode guardar este item no Baú da Legião.</body>
   </string>
   <string>
     <id>902041</id>
     <name>STR_WAREHOUSE_CANT_ACCOUNT_DEPOSIT</name>
-    <body>Você não pode guardar este item no baú da Conta.</body>
+    <body>Você não pode guardar este item no Baú da Conta.</body>
   </string>
   <string>
     <id>902042</id>
@@ -12337,12 +12339,12 @@ Tem certeza de que deseja mudar sua aparência?&lt;/p&gt;</body>
   <string>
     <id>902057</id>
     <name>STR_USB_BOT_DETECTED</name>
-    <body>&lt;p&gt;The game is being stopped because abnormal access has been confirmed. Please try connecting again.&lt;/p&gt;</body>
+    <body>&lt;p&gt;O jogo está sendo interrompido porque um acesso anormal foi confirmado. Por favor, tente se conectar novamente.&lt;/p&gt;</body>
   </string>
   <string>
     <id>902058</id>
     <name>STR_USB_BOT_DETECTED_AGAIN</name>
-    <body>&lt;p&gt;The game is being stopped because abnormal access has been confirmed. Please try connecting again later.&lt;/p&gt;&lt;p&gt;For more information, contact us by using the 1:1 Petition at the official Aion website (www.AION.co.kr or AION.plaync.co.kr).&lt;/p&gt;</body>
+    <body>&lt;p&gt;O jogo está sendo interrompido porque um acesso anormal foi confirmado. Por favor, tente se conectar novamente mais tarde.&lt;/p&gt;&lt;p&gt;Para mais informações, entre em contato conosco usando a Petição 1:1 no site oficial da Aion (https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>902059</id>
@@ -14318,7 +14320,7 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
     <name>STR_L2AUTH_GAMEMONEY_CHEAT</name>
     <body>&lt;p&gt;Your account has been suspended because you exploited in-game bugs or engaged in related activity in the game.&lt;/p&gt;
 &lt;p&gt;Abuse of bugs can bring serious interruption of service and destroy the game balance.&lt;/p&gt;
-&lt;p&gt;For more information, contact on the AION website (http://aionfreetoplay.com).&lt;/p&gt;</body>
+&lt;p&gt;For more information, contact on the AION website (https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>902793</id>
@@ -14433,7 +14435,7 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902815</id>
     <name>STR_NOTICE_MIXED_RACED_AFTER_SERVER_MERGE</name>
-    <body>&lt;p&gt;In AION Free-to-Play you can only play on one faction per server – the Asmodians or the Elyos. As a result of the merge however, it will be temporarily possible to adventure with characters of both factions on the same server. As soon as this transitional phase is over, the old rules will apply once more. If you have characters on both factions on one server, you will be momentarily unable to continue playing.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;To prevent this, we ask that you transfer some of your heroes to an alternate server. To do so, simply use the free character transfer available on the official AION website.&lt;br/&gt;Go to https://en.aion.gameforge.com, log in using your account details and visit Account Management to access the character transfer option.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;If you do not use the character transfer during the transfer phase, we will carry out an automatic transfer to ensure that you can continue playing. In this case, you will receive information from us in an email about the next steps.&lt;/p&gt;&lt;p&gt;To confirm, please enter “OK".&lt;/p&gt;</body>
+    <body>&lt;p&gt;In Nova Aion you can only play on one faction per server – the Asmodians or the Elyos. As a result of the merge however, it will be temporarily possible to adventure with characters of both factions on the same server. As soon as this transitional phase is over, the old rules will apply once more. If you have characters on both factions on one server, you will be momentarily unable to continue playing.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;To prevent this, we ask that you transfer some of your heroes to an alternate server. To do so, simply use the free character transfer available on the official AION website.&lt;br/&gt;Go to https://en.aion.gameforge.com, log in using your account details and visit Account Management to access the character transfer option.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;If you do not use the character transfer during the transfer phase, we will carry out an automatic transfer to ensure that you can continue playing. In this case, you will receive information from us in an email about the next steps.&lt;/p&gt;&lt;p&gt;To confirm, please enter “OK".&lt;/p&gt;</body>
   </string>
   <string>
     <id>902816</id>
@@ -16259,7 +16261,7 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>903239</id>
     <name>STR_L2AUTH_NEED_TO_CERT_ACCOUNT_BY_NAME</name>
-    <body>&lt;p&gt;You have yet to verify your real name. Please try logging in again after verifying your real name at the website below.&lt;/p&gt;&lt;p&gt;&lt;a href="https://en.aion.gameforge.com/?link=ingame"&gt;http://aionfreetoplay.com&lt;/a&gt;&lt;/p&gt;</body>
+    <body>&lt;p&gt;You have yet to verify your real name. Please try logging in again after verifying your real name at the website below.&lt;/p&gt;&lt;p&gt;&lt;a href="https://en.aion.gameforge.com/?link=ingame"&gt;(https://help.novaverso.online/)&lt;/a&gt;&lt;/p&gt;</body>
   </string>
   <string>
     <id>903241</id>

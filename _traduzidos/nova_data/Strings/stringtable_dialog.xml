@@ -58,7 +58,7 @@
   <string>
     <id>900108</id>
     <name>STR_LOBBY_LOGIN__OTP</name>
-    <body>Entrar OTP Authentication number</body>
+    <body>Inserir número de autenticação OTP</body>
   </string>
   <string>
     <id>900109</id>
