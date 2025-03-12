@@ -9,7 +9,7 @@ caminho_originais = ".\\_originais"
 caminho_downloads = ".\\_download"
 caminho_traduzidos = ".\\_traduzidos"
 caminho_parsed = ".\\_parsed"
-caminho_final = ".\\_final"
+caminho_final = ".\\PAK"
 
 arquivos_originais = [name for name in os.listdir(caminho_originais) if os.path.isdir(os.path.join(caminho_originais, name))] #puxa os diretorios na pasta _originais
 arquivos = []
