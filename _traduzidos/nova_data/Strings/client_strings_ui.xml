@@ -12684,57 +12684,57 @@ Tem certeza de que deseja mudar sua aparência?&lt;/p&gt;</body>
   <string>
     <id>902126</id>
     <name>STR_MENU_TITLE_FUNITURE_01</name>
-    <body>Furniture Menu</body>
+    <body>Menu de Móveis</body>
   </string>
   <string>
     <id>902127</id>
     <name>STR_MENU_FURNITURE_USE_01</name>
-    <body>Use Furniture</body>
+    <body>Usar Móvel</body>
   </string>
   <string>
     <id>902128</id>
     <name>STR_MENU_ARRANGE_RE_POSITION_01</name>
-    <body>Rearrange</body>
+    <body>Reorganizar</body>
   </string>
   <string>
     <id>902129</id>
     <name>STR_MENU_FURNITURE_REMOVAL_01</name>
-    <body>Remove Furniture</body>
+    <body>Remover Móvel</body>
   </string>
   <string>
     <id>902130</id>
     <name>STR_MENU_TITLE_LIFETIME_OBJECT_01</name>
-    <body>Lifetime Object</body>
+    <body>Objeto Vitalício</body>
   </string>
   <string>
     <id>902131</id>
     <name>STR_MENU_BUILDING_CONSTRUCTION_01</name>
-    <body>Construct Building</body>
+    <body>Construir Edifício</body>
   </string>
   <string>
     <id>902132</id>
     <name>STR_MENU_BUILDING_REMOVAL_01</name>
-    <body>Dismantle Building</body>
+    <body>Demolir Edifício</body>
   </string>
   <string>
     <id>902133</id>
     <name>STR_MENU_TITLE_SIGNPOST_01</name>
-    <body>Signpost</body>
+    <body>Poste de sinalização</body>
   </string>
   <string>
     <id>902134</id>
     <name>STR_MENU_SIGNPOST_APPLICATION_01</name>
-    <body>Lot Application</body>
+    <body>Aplicação de Lote</body>
   </string>
   <string>
     <id>902135</id>
     <name>STR_MENU_SIGNPOST_APPLICATION_CANCEL_01</name>
-    <body>Cancel Application</body>
+    <body>Cancelar Aplicação</body>
   </string>
   <string>
     <id>902136</id>
     <name>STR_MENU_SIGNPOST_INFO_01</name>
-    <body>Lot Information</body>
+    <body>Informação de Lote</body>
   </string>
   <string>
     <id>902137</id>
@@ -12842,7 +12842,7 @@ Se o encantamento falhar, o nível de encantamento do item &lt;font color="ff000
   <string>
     <id>902156</id>
     <name>STR_SKILL_INFO_LEARN_ENHANCED1_STIGMA</name>
-    <body>Stigma Avançada</body>
+    <body>Greater Stigma</body>
   </string>
   <string>
     <id>902157</id>
@@ -12857,7 +12857,7 @@ Se o encantamento falhar, o nível de encantamento do item &lt;font color="ff000
   <string>
     <id>902159</id>
     <name>STR_MSGBOX_CANT_CREATE_OTHER_RACE</name>
-    <body>&lt;p&gt;Você não pode criar um personagem %0 porque possui personagens %1.&lt;/p&gt;
+    <body>&lt;p&gt;Você não pode criar um personagem %0 porque possui personagem(ns) %1.&lt;/p&gt;
 &lt;p&gt;Para criar um personagem %0, exclua todos os personagens %1 ou escolha outro servidor.&lt;/p&gt;</body>
   </string>
   <string>
@@ -12883,15 +12883,15 @@ Se o encantamento falhar, o nível de encantamento do item &lt;font color="ff000
   <string>
     <id>902164</id>
     <name>STR_FATIGUE_UPGRADE_1_LEVEL</name>
-    <body>You received the Lv1 Global Fatigue Penalty because you have played for too long. While the penalty is in effect, your XP and rewards gains are halved. For your health, please log out and take a rest.&lt;br&gt;
-You can use the '/Fatigue' command to check the Fatigue Level.</body>
+    <body>Você recebeu a Penalidade Global de Fadiga Nível 1 porque jogou por muito tempo. Enquanto a penalidade estiver em vigor, seus ganhos de XP e recompensas serão reduzidos pela metade. Para sua saúde, por favor, saia do jogo e descanse.&lt;br&gt;
+Você pode usar o comando '/Fatigue' para verificar o Nível de Fadiga.</body>
     <display_type>36</display_type>
   </string>
   <string>
     <id>902165</id>
     <name>STR_FATIGUE_UPGRADE_2_LEVEL</name>
-    <body>You received the Lv2 Global Fatigue Penalty because you have played for too long. While the penalty is in effect, you do not gain any XP or rewards. For your health, please log out and take a rest.&lt;br&gt;
-You can use the '/Fatigue' command to check the Fatigue Level.</body>
+    <body>Você recebeu a Penalidade Global de Fadiga Nível 2 porque jogou por muito tempo. Enquanto a penalidade estiver em vigor, você não ganhará XP ou recompensas. Para sua saúde, por favor, saia do jogo e descanse.&lt;br&gt;
+Você pode usar o comando '/Fatigue' para verificar o Nível de Fadiga.</body>
     <display_type>36</display_type>
   </string>
   <string>
@@ -12933,7 +12933,7 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902173</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_OCCUPY_TITLE_LIGHT</name>
-    <body>Aviso de Recompensa de Guerra</body>
+    <body>Aviso de Recompensa de Conquista de Fortaleza</body>
   </string>
   <string>
     <id>902174</id>
@@ -12958,7 +12958,7 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902178</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_OCCUPY_TITLE_DARK</name>
-    <body>Aviso de Recompensa de Guerra</body>
+    <body>Aviso de Recompensa de Conquista de Fortaleza</body>
   </string>
   <string>
     <id>902179</id>
@@ -12973,7 +12973,7 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902181</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_OCCUPY_TAIL_DARK</name>
-    <body>\n\n- Agente Richelle, de Marchutan</body>
+    <body>\n\n- Richelle, Agente de Marchutan</body>
   </string>
   <string>
     <id>902182</id>
@@ -12983,22 +12983,22 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902183</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_DEFENSE_TITLE_LIGHT</name>
-    <body>Reward Statement</body>
+    <body>Aviso de Recompensa de Guerra</body>
   </string>
   <string>
     <id>902184</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_DEFENSE_HEADER_LIGHT</name>
-    <body>For your achievements in siege warfare for occupying %2 at %1 on %0,</body>
+    <body>Como recompensa por sua conquista por ocupar %2 em %1 as %0,</body>
   </string>
   <string>
     <id>902185</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_DEFENSE_BODY_LIGHT</name>
-    <body>you are awarded the following reward money.</body>
+    <body>você está sendo premiado com a seguinte quantia em Kinah.</body>
   </string>
   <string>
     <id>902186</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_DEFENSE_TAIL_LIGHT</name>
-    <body>\n\n- Kaisinel's Agent Outremus</body>
+    <body>\n\n- Outremus, Agente de Kaisinel</body>
   </string>
   <string>
     <id>902187</id>
@@ -13008,22 +13008,22 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902188</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_DEFENSE_TITLE_DARK</name>
-    <body>Reward Statement</body>
+    <body>Aviso de Recompensa de Guerra</body>
   </string>
   <string>
     <id>902189</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_DEFENSE_HEADER_DARK</name>
-    <body>For your achievements in siege warfare for occupying %2 at %1 on %0,</body>
+    <body>Como recompensa por sua conquista por ocupar %2 em %1 as %0,</body>
   </string>
   <string>
     <id>902190</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_DEFENSE_BODY_DARK</name>
-    <body>you are awarded the following reward money.</body>
+    <body>você está sendo premiado com a seguinte quantia em Kinah.</body>
   </string>
   <string>
     <id>902191</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_DEFENSE_TAIL_DARK</name>
-    <body>\n\n- Marchutan's Agent Richelle</body>
+    <body>\n\n- Richelle, Agente de Marchutan</body>
   </string>
   <string>
     <id>902192</id>
@@ -13033,22 +13033,22 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902193</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_PROTECT_TITLE_LIGHT</name>
-    <body>Defending Legion Reward Notice</body>
+    <body>Aviso de Recompensa de Defesa de Fortaleza</body>
   </string>
   <string>
     <id>902194</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_PROTECT_HEADER_LIGHT</name>
-    <body>To the legionary who participated in the successful defence of %2 at %1 on %0.</body>
+    <body>Ao legionário Elyos que participou da defesa bem-sucedida de %2 em %1 as %0.</body>
   </string>
   <string>
     <id>902195</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_PROTECT_BODY_LIGHT</name>
-    <body>please take this reward in recognition of your service.</body>
+    <body>por favor, aceite esta recompensa em reconhecimento ao seu serviço.</body>
   </string>
   <string>
     <id>902196</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_PROTECT_TAIL_LIGHT</name>
-    <body>\n\n- Kaisinel's Agent Outremus</body>
+    <body>\n\n- Outremus, Agente de Kaisinel</body>
   </string>
   <string>
     <id>902197</id>
@@ -13058,22 +13058,22 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902198</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_PROTECT_TITLE_DARK</name>
-    <body>Defending Legion Reward Notice</body>
+    <body>Aviso de Recompensa de Defesa de Fortaleza</body>
   </string>
   <string>
     <id>902199</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_PROTECT_HEADER_DARK</name>
-    <body>To the legionary who participated in the successful defence of %2 at %1 on %0.</body>
+    <body>Ao legionário Asmodian que participou da defesa bem-sucedida de %2 em %1 as %0.</body>
   </string>
   <string>
     <id>902200</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_PROTECT_BODY_DARK</name>
-    <body>please take this reward in recognition of your service.</body>
+    <body>por favor, aceite esta recompensa em reconhecimento ao seu serviço.</body>
   </string>
   <string>
     <id>902201</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_PROTECT_TAIL_DARK</name>
-    <body>\n\n- Marchutan's Agent Richelle</body>
+    <body>\n\n- Richelle, Agente de Marchutan</body>
   </string>
   <string>
     <id>902202</id>
@@ -13083,22 +13083,22 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902203</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_DEFENDER_TITLE_LIGHT</name>
-    <body>Defence Reward Notice</body>
+    <body>Aviso de Recompensa de Defesa de Fortaleza</body>
   </string>
   <string>
     <id>902204</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_DEFENDER_HEADER_LIGHT</name>
-    <body>We congratulate all Elyos who achieved a resounding victory in the defence of %2 at %1 on %0.</body>
+    <body>Parabenizamos todos os Elyos que alcançaram uma vitória retumbante na defesa de %2 em %1 as %0.</body>
   </string>
   <string>
     <id>902205</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_DEFENDER_BODY_LIGHT</name>
-    <body>\n\nAs a reward for your %0-level achievement in combat, you are awarded as follows:</body>
+    <body>\n\nComo recompensa por sua conquista de nível %0 no combate, você receberá o seguinte:</body>
   </string>
   <string>
     <id>902206</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_DEFENDER_TAIL_LIGHT</name>
-    <body>\n\n- Kaisinel's Agent Outremus</body>
+    <body>\n\n- Outremus, Agente de Kaisinel</body>
   </string>
   <string>
     <id>902207</id>
@@ -13108,22 +13108,22 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902208</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_DEFENDER_TITLE_DARK</name>
-    <body>Defence Reward Notice</body>
+    <body>Aviso de Recompensa de Defesa de Fortaleza</body>
   </string>
   <string>
     <id>902209</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_DEFENDER_HEADER_DARK</name>
-    <body>We congratulate all Asmodians who achieved a resounding victory in the defence of %2 at %1 on %0.</body>
+    <body>Parabenizamos todos os Asmodians que alcançaram uma vitória retumbante na defesa de %2 em %1 as %0.</body>
   </string>
   <string>
     <id>902210</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_DEFENDER_BODY_DARK</name>
-    <body>\n\nAs a reward for your %0-level achievement in combat, you are awarded as follows:</body>
+    <body>\n\nComo recompensa por sua conquista de nível %0 no combate, você receberá o seguinte:</body>
   </string>
   <string>
     <id>902211</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_DEFENDER_TAIL_DARK</name>
-    <body>\n\n- Marchutan's Agent Richelle</body>
+    <body>\n\n- Richelle, Agente de Marchutan</body>
   </string>
   <string>
     <id>902212</id>
@@ -13133,22 +13133,22 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902213</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_EMPTY_TITLE_LIGHT</name>
-    <body>Official Announcement</body>
+    <body>Anúncio Oficial</body>
   </string>
   <string>
     <id>902214</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_EMPTY_HEADER_LIGHT</name>
-    <body>We Elyos have successfully defended %2 at %1 on %0.</body>
+    <body>Nós, Elyos, defendemos com sucesso %2 em %1 as %0.</body>
   </string>
   <string>
     <id>902215</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_EMPTY_BODY_LIGHT</name>
-    <body>\n\nThis reward goes only to those players who served with great merit in protecting the fortress.\n\nWe encourage you to continue in its defence.</body>
+    <body>\n\nEsta recompensa é entregue apenas para aqueles jogadores que serviram com grande mérito na defesa da fortaleza.\n\nEsperamos que vocês continuem defendendo.</body>
   </string>
   <string>
     <id>902216</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_EMPTY_TAIL_LIGHT</name>
-    <body>\n\n- Kaisinel's Agent Outremus</body>
+    <body>\n\n- Outremus, Agente de Kaisinel</body>
   </string>
   <string>
     <id>902217</id>
@@ -13158,22 +13158,22 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902218</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_EMPTY_TITLE_DARK</name>
-    <body>Official Announcement</body>
+    <body>Anúncio Oficial</body>
   </string>
   <string>
     <id>902219</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_EMPTY_HEADER_DARK</name>
-    <body>We Asmodians have successfully defended %2 at %1 on %0.</body>
+    <body>Nós, Asmodians, defendemos com sucesso %2 em %1 as %0.</body>
   </string>
   <string>
     <id>902220</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_EMPTY_BODY_DARK</name>
-    <body>\n\nThis reward goes only to those players who served with great merit in protecting the fortress.\n\nWe encourage you to continue in its defence.</body>
+    <body>\n\nEsta recompensa é entregue apenas para aqueles jogadores que serviram com grande mérito na defesa da fortaleza.\n\nEsperamos que vocês continuem defendendo.</body>
   </string>
   <string>
     <id>902221</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_EMPTY_TAIL_DARK</name>
-    <body>\n\n- Marchutan's Agent Richelle</body>
+    <body>\n\n- Richelle, Agente de Marchutan</body>
   </string>
   <string>
     <id>902222</id>
@@ -13183,22 +13183,22 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902223</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_FAIL_TITLE_LIGHT</name>
-    <body>Official Announcement</body>
+    <body>Anúncio Oficial</body>
   </string>
   <string>
     <id>902224</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_FAIL_HEADER_LIGHT</name>
-    <body>We Elyos have successfully defended %2 at %1 on %0.</body>
+    <body>Nós, Elyos, defendemos com sucesso %2 em %1 as %0.</body>
   </string>
   <string>
     <id>902225</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_FAIL_BODY_LIGHT</name>
-    <body>\n\nHowever, due to too few soldiers taking part in the defence, our forces have suffered heavy casualties. Therefore, we have decided to use all the spoils of war for the repair of the fortress, and there will be no reward issued for this battle. \n\nWe encourage all Elyos to participate proactively in our defence from this point on.</body>
+    <body>\n\nNo entanto, devido ao número muito reduzido de soldados participando da defesa, nossas forças sofreram pesadas baixas. Por isso, decidimos usar todos os espólios de guerra para o reparo da fortaleza, e não haverá recompensas distribuídas por esta batalha. \n\nIncentivamos todos os Elyos a participar ativamente de nossa defesa a partir de agora.</body>
   </string>
   <string>
     <id>902226</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_FAIL_TAIL_LIGHT</name>
-    <body>\n\n- Kaisinel's Agent Outremus</body>
+    <body>\n\n- Outremus, Agente de Kaisinel</body>
   </string>
   <string>
     <id>902227</id>
@@ -13208,22 +13208,22 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902228</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_FAIL_TITLE_DARK</name>
-    <body>Official Announcement</body>
+    <body>Anúncio Oficial</body>
   </string>
   <string>
     <id>902229</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_FAIL_HEADER_DARK</name>
-    <body>We Asmodians have successfully defended %2 at %1 on %0.</body>
+    <body>Nós, Asmodians, defendemos com sucesso %2 em %1 as %0.</body>
   </string>
   <string>
     <id>902230</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_FAIL_BODY_DARK</name>
-    <body>\n\nHowever, due to too few soldiers taking part in the defence, our forces have suffered heavy casualties. Therefore, we have decided to use all the spoils of war for the repair of the fortress, and there will be no reward issued for this battle. \n\nWe encourage all Elyos to participate proactively in our defence from this point on.</body>
+    <body>\n\nNo entanto, devido ao número muito reduzido de soldados participando da defesa, nossas forças sofreram pesadas baixas. Por isso, decidimos usar todos os espólios de guerra para o reparo da fortaleza, e não haverá recompensas distribuídas por esta batalha. \n\nIncentivamos todos os Asmodians a participar ativamente de nossa defesa a partir de agora.</body>
   </string>
   <string>
     <id>902231</id>
     <name>STR_FIELDABYSS_REWARD_MAIL_FAIL_TAIL_DARK</name>
-    <body>\n\n- Marchutan's Agent Richelle</body>
+    <body>\n\n- Richelle, Agente de Marchutan</body>
   </string>
   <string>
     <id>902232</id>
@@ -13233,22 +13233,22 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902233</id>
     <name>STR_FIELDBOSS_REWARD_MAIL_OCCUPY_TITLE_LIGHT</name>
-    <body>Reward Statement</body>
+    <body>Declaração de Recompensa</body>
   </string>
   <string>
     <id>902234</id>
     <name>STR_FIELDBOSS_REWARD_MAIL_OCCUPY_HEADER_LIGHT</name>
-    <body>We congratulate and praise all Elyos who defeated Marchutan's Agent Mastarius during the siege of %1 on %0.</body>
+    <body>Nós parabenizamos e elogiamos todos os Elyos que derrotaram o Agente de Marchutan, Mastarius, durante a guerra de %1 as %0</body>
   </string>
   <string>
     <id>902235</id>
     <name>STR_FIELDBOSS_REWARD_MAIL_OCCUPY_BODY_LIGHT</name>
-    <body>\n\nAs a reward for your %0-level achievement in combat, you are awarded as follows:</body>
+    <body>\n\nComo recompensa por sua conquista de nível %0 no combate, você receberá o seguinte:</body>
   </string>
   <string>
     <id>902236</id>
     <name>STR_FIELDBOSS_REWARD_MAIL_OCCUPY_TAIL_LIGHT</name>
-    <body>\n\n- Kaisinel's Agent Outremus</body>
+    <body>\n\n- Outremus, Agente de Kaisinel</body>
   </string>
   <string>
     <id>902237</id>
@@ -13263,17 +13263,17 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902239</id>
     <name>STR_FIELDBOSS_REWARD_MAIL_OCCUPY_HEADER_DARK</name>
-    <body>We congratulate and praise all Asmodians who defeated Kaisinel's Agent Veille during the siege of %1 on %0.</body>
+    <body>Parabenizamos e elogiamos todos os Asmodians que derrotaram o Agente de Kaisinel, Veille durante o cerco de %1 as %0.</body>
   </string>
   <string>
     <id>902240</id>
     <name>STR_FIELDBOSS_REWARD_MAIL_OCCUPY_BODY_DARK</name>
-    <body>\n\nAs a reward for your %0-level achievement in combat, you are awarded as follows:</body>
+    <body>\n\nComo recompensa por sua conquista de nível %0 no combate, você receberá o seguinte:</body>
   </string>
   <string>
     <id>902241</id>
     <name>STR_FIELDBOSS_REWARD_MAIL_OCCUPY_TAIL_DARK</name>
-    <body>\n\n- Marchutan's Agent Richelle</body>
+    <body>\n\n- Richelle, Agente de Marchutan</body>
   </string>
   <string>
     <id>902242</id>
@@ -13308,7 +13308,7 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902248</id>
     <name>STR_IMPACTSTATE</name>
-    <body>Estado de Shock</body>
+    <body>Estado de 'Shock'</body>
   </string>
   <string>
     <id>902249</id>
@@ -13413,7 +13413,7 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902269</id>
     <name>STR_KEYMAP_AUTOTARGET_ENEMY_PC</name>
-    <body>Selecionar o Jogador inimigo mais próximo</body>
+    <body>Selecionar Jogador inimigo + próximo</body>
   </string>
   <string>
     <id>902270</id>
@@ -13558,7 +13558,7 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902337</id>
     <name>STR_TWITTER_LIST_STATE_REPLY</name>
-    <body>[ Reply ]</body>
+    <body>[ Responder ]</body>
   </string>
   <string>
     <id>902338</id>
@@ -13568,22 +13568,22 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902339</id>
     <name>STR_TWITTER_LIST_STATE_DELETE</name>
-    <body>[ Delete ]</body>
+    <body>[ Remover ]</body>
   </string>
   <string>
     <id>902340</id>
     <name>STR_TWITTER_TWEET_STATE_REPLY_TO</name>
-    <body>Write New</body>
+    <body>Escrever Novo</body>
   </string>
   <string>
     <id>902341</id>
     <name>STR_TWITTER_TWEET_STATE_TWEET</name>
-    <body>Send</body>
+    <body>Enviar</body>
   </string>
   <string>
     <id>902342</id>
     <name>STR_TWITTER_TWEET_STATE_NO_SCREENSHOT_EXIST</name>
-    <body>&lt;p&gt;&lt;font color="ff0000"&gt;&lt;center&gt; There are no saved screenshots.&lt;/center&gt;&lt;/font&gt;&lt;/p&gt;</body>
+    <body>&lt;p&gt;&lt;font color="ff0000"&gt;&lt;center&gt; Não há capturas de tela salvas.&lt;/center&gt;&lt;/font&gt;&lt;/p&gt;</body>
   </string>
   <string>
     <id>902343</id>
@@ -13593,12 +13593,12 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902344</id>
     <name>STR_TWITTER_LOGIN_INFO</name>
-    <body>&lt;font size="4" color="B8B5A4"&gt;&lt;center&gt;&lt;p&gt;You can access Twitter while playing Aion.&lt;/p&gt;&lt;p&gt;To connect to your Twitter account, click 'Get PIN' and get a unique PIN. To create a Twitter account, click 'Join Twitter'.&lt;/p&gt;&lt;/center&gt;&lt;/font&gt;</body>
+    <body>&lt;font size="4" color="B8B5A4"&gt;&lt;center&gt;&lt;p&gt;Você pode acessar o Twitter enquanto joga Aion.&lt;/p&gt;&lt;p&gt;Para conectar-se à sua conta do Twitter, clique em 'Obter PIN' e obtenha um PIN exclusivo. Para criar uma conta no Twitter, clique em 'Entrar'.&lt;/p&gt;&lt;/center&gt;&lt;/font&gt;</body>
   </string>
   <string>
     <id>902345</id>
     <name>STR_TWITTER_LOGIN_ACCOUNT</name>
-    <body>Twitter Account</body>
+    <body>Conta do Twitter</body>
   </string>
   <string>
     <id>902346</id>
@@ -13608,62 +13608,62 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902347</id>
     <name>STR_TWITTER_LOGIN_LOGIN_BTN</name>
-    <body>Login</body>
+    <body>Entrar</body>
   </string>
   <string>
     <id>902348</id>
     <name>STR_TWITTER_CLOSE_BTN</name>
-    <body>Close</body>
+    <body>Fechar</body>
   </string>
   <string>
     <id>902349</id>
     <name>STR_TWITTER_LIST_BTN</name>
-    <body>Lists</body>
+    <body>Listas</body>
   </string>
   <string>
     <id>902350</id>
     <name>STR_TWITTER_SEARCH_BTN</name>
-    <body>Search</body>
+    <body>Procurar</body>
   </string>
   <string>
     <id>902351</id>
     <name>STR_TWITTER_TWEET_BTN</name>
-    <body>Write</body>
+    <body>Escrever</body>
   </string>
   <string>
     <id>902352</id>
     <name>STR_TWITTER_LOGOUT_BTN</name>
-    <body>Log Out</body>
+    <body>Sair</body>
   </string>
   <string>
     <id>902353</id>
     <name>STR_TWITTER_LIST_STATE_DEFAULT_LIST</name>
-    <body>All</body>
+    <body>Todos</body>
   </string>
   <string>
     <id>902354</id>
     <name>STR_TWITTER_LIST_STATE_REFRESH_BTN</name>
-    <body>Refresh</body>
+    <body>Atualizar</body>
   </string>
   <string>
     <id>902355</id>
     <name>STR_TWITTER_SEARCH_STATE_SEARCH_BTN</name>
-    <body>Search</body>
+    <body>Procurar</body>
   </string>
   <string>
     <id>902356</id>
     <name>STR_TWITTER_TWEET_STATE_TWEET_BTN</name>
-    <body>Send</body>
+    <body>Enviar</body>
   </string>
   <string>
     <id>902357</id>
     <name>STR_TWITTER_TWEET_STATE_DONT_ADD_SCREENSHOT</name>
-    <body>No screenshot</body>
+    <body>Sem screenshot</body>
   </string>
   <string>
     <id>902358</id>
     <name>STR_TWITTER_TWEET_STATE_ADD_MOST_RECENT_SCREENSHOT</name>
-    <body>Add recent screenshots</body>
+    <body>Adicionar screenshots recentes</body>
   </string>
   <string>
     <id>902359</id>
@@ -13888,22 +13888,22 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902703</id>
     <name>STR_TWITTER_TWEET_STATE_TWEET_CONTENTS</name>
-    <body>Write</body>
+    <body>Escrever</body>
   </string>
   <string>
     <id>902704</id>
     <name>STR_TWITTER_SEARCH_STATE_SEARCH_COUNTRY_TWEETS</name>
-    <body>Search Domestic Tweets Only</body>
+    <body>Buscar Tweets Domésticos Apenas</body>
   </string>
   <string>
     <id>902705</id>
     <name>STR_TWITTER_SEARCH_STATE_SEARCH_WORLD_TWEETS</name>
-    <body>All</body>
+    <body>Todos</body>
   </string>
   <string>
     <id>902706</id>
     <name>STR_TWITTER_LIST_STATE_RATE_LIMIT_EXCEEDED</name>
-    <body>&lt;p&gt;&lt;font color="ff0000"&gt;&lt;center&gt;The Twitter list can't be refreshed right now. Please try again later.&lt;/center&gt;&lt;/font&gt;&lt;/p&gt;</body>
+    <body>&lt;p&gt;&lt;font color="ff0000"&gt;&lt;center&gt;A lista do Twitter não pode ser atualizada no momento. Por favor, tente novamente mais tarde.&lt;/center&gt;&lt;/font&gt;&lt;/p&gt;</body>
   </string>
   <string>
     <id>902707</id>
@@ -13913,7 +13913,7 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902708</id>
     <name>STR_WINDOW_EXTRA_FUNCTIONS</name>
-    <body>Additional Functions</body>
+    <body>Funções Adicionais</body>
   </string>
   <string>
     <id>902709</id>
@@ -13928,7 +13928,7 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902711</id>
     <name>STR_TWITTER_SEARCH_STATE_SEARCH_LANGUAGE_ALL</name>
-    <body>All</body>
+    <body>Todas</body>
   </string>
   <string>
     <id>902712</id>
@@ -14013,52 +14013,52 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902728</id>
     <name>STR_TWITTER_TWEET_STATE_FAILED_UPLOAD</name>
-    <body>&lt;font color="ff0000"&gt;&lt;center&gt;Failed to upload the screenshot.&lt;/center&gt;&lt;/font&gt;</body>
+    <body>&lt;font color="ff0000"&gt;&lt;center&gt;Falha ao fazer o upload dascreenshot.&lt;/center&gt;&lt;/font&gt;</body>
   </string>
   <string>
     <id>902729</id>
     <name>STR_TWITTER_TWEET_STATE_FAILED_TWEET</name>
-    <body>&lt;font color="ff0000"&gt;&lt;center&gt;Failed to post a new Tweet.&lt;/center&gt;&lt;/font&gt;</body>
+    <body>&lt;font color="ff0000"&gt;&lt;center&gt;Falha ao postar um novo Tweet.&lt;/center&gt;&lt;/font&gt;</body>
   </string>
   <string>
     <id>902730</id>
     <name>STR_TWITTER_TWEET_STATE_FOLLOWING_LIST</name>
-    <body>Following</body>
+    <body>Seguindo</body>
   </string>
   <string>
     <id>902731</id>
     <name>STR_TWITTER_TWEET_STATE_REFRESH_SCREENSHOT_LIST</name>
-    <body>Refresh List</body>
+    <body>Atualizar Lista</body>
   </string>
   <string>
     <id>902732</id>
     <name>STR_TWITTER_TWEET_STATE_ADD_SCREENSHOT</name>
-    <body>Add</body>
+    <body>Adicionar</body>
   </string>
   <string>
     <id>902733</id>
     <name>STR_TWITTER_FOLLOWING_LIST_STATE_FOLLOWING_LIST</name>
-    <body>Following</body>
+    <body>Seguindo</body>
   </string>
   <string>
     <id>902734</id>
     <name>STR_TWITTER_FOLLOWING_LIST_STATE_MENTION</name>
-    <body>[ Enter ID]</body>
+    <body>[Digite o ID]</body>
   </string>
   <string>
     <id>902735</id>
     <name>STR_TWITTER_FOLLOWING_LIST_STATE_LIST_BEFORE</name>
-    <body>[Previous]</body>
+    <body>[Anterior]</body>
   </string>
   <string>
     <id>902736</id>
     <name>STR_TWITTER_FOLLOWING_LIST_STATE_LIST_AFTER</name>
-    <body>[Next]</body>
+    <body>[Próximo]</body>
   </string>
   <string>
     <id>902737</id>
     <name>STR_TWITTER_FOLLOWING_LIST_STATE_CANCEL</name>
-    <body>Cancel</body>
+    <body>Cancelar</body>
   </string>
   <string>
     <id>902739</id>
@@ -14073,7 +14073,7 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902741</id>
     <name>STR_SECONDPASSWORD_REGISTER_CONTENT</name>
-    <body>Para maior segurança, registre um PIN ao selecionar ou excluir personagens. (Este PIN deve ser diferente da senha da conta.)</body>
+    <body>Para maior segurança, registre um PIN ao selecionar ou excluir personagens. (O PIN deve ser diferente da senha da conta.)</body>
   </string>
   <string>
     <id>902742</id>
@@ -14193,7 +14193,7 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902765</id>
     <name>STR_TOOLTIP_INDUN_REENTER_TIME</name>
-    <body>Renovar entradas</body>
+    <body>Renovar entrada</body>
   </string>
   <string>
     <id>902766</id>
@@ -14218,17 +14218,17 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902770</id>
     <name>STR_PARTY_MENU_START_MENTORING</name>
-    <body>Start Mentoring</body>
+    <body>Iniciar Mentoria</body>
   </string>
   <string>
     <id>902771</id>
     <name>STR_PARTY_MENU_END_MENTRORING</name>
-    <body>End Mentoring</body>
+    <body>Encerrar Mentoria</body>
   </string>
   <string>
     <id>902772</id>
     <name>STR_TITLE_MENTORING</name>
-    <body>Mentor</body>
+    <body>Mentoria</body>
   </string>
   <string>
     <id>902773</id>
@@ -14238,12 +14238,12 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902776</id>
     <name>STR_CONFIRM_MENTORING</name>
-    <body>&lt;p&gt;Mentoring restricts the XP, Kinah, and Common items that you earn while in the group. Are you sure you want to play as a Mentor?&lt;/p&gt;</body>
+    <body>&lt;p&gt;A mentoria restringe a EXP, a Kinah e os itens Common que você ganha enquanto estiver no grupo. Tem certeza de que deseja jogar como Mentor?&lt;/p&gt;</body>
   </string>
   <string>
     <id>902777</id>
     <name>STR_TWITTER_LOGIN_PASSWORD_REQUEST_BTN</name>
-    <body>Get PIN</body>
+    <body>Pegar PIN</body>
   </string>
   <string>
     <id>902778</id>
@@ -14298,7 +14298,7 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902788</id>
     <name>STR_TOOLTIP_PORTAL_NAME_DIRECT_PORTAL</name>
-    <body>Fenda</body>
+    <body>Rift</body>
   </string>
   <string>
     <id>902789</id>
@@ -14318,9 +14318,9 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902792</id>
     <name>STR_L2AUTH_GAMEMONEY_CHEAT</name>
-    <body>&lt;p&gt;Your account has been suspended because you exploited in-game bugs or engaged in related activity in the game.&lt;/p&gt;
-&lt;p&gt;Abuse of bugs can bring serious interruption of service and destroy the game balance.&lt;/p&gt;
-&lt;p&gt;For more information, contact on the AION website (https://help.novaverso.online/).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi suspensa porque você explorou bugs no jogo ou se envolveu em atividades relacionadas no jogo.&lt;/p&gt;
+&lt;p&gt;O abuso de bugs pode causar sérias interrupções no serviço e destruir o equilíbrio do jogo.&lt;/p&gt;
+&lt;p&gt;Para mais informações, entre em contato pelo site da AION. (https://help.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>902793</id>
@@ -14335,7 +14335,7 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902795</id>
     <name>STR_CONFIRM_CANCEL_MENTORING_AND_ABORT</name>
-    <body>&lt;p&gt;If you stop Mentoring, you will be kicked out from %0. Do you really want to stop Mentoring?&lt;/p&gt;</body>
+    <body>&lt;p&gt;Se você parar a mentoria, será expulso de %0. Você realmente deseja parar a mentoria?&lt;/p&gt;</body>
   </string>
   <string>
     <id>902796</id>
@@ -14365,52 +14365,52 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902801</id>
     <name>STR_ASK_REGISTER_NORMAL_PARTY_IN_MENTOR_PARTY</name>
-    <body>You belong to a Mentor Group. Are you sure you want to post a message to Recruit Common Group?</body>
+    <body>Você pertence a um Grupo Mentor. Tem certeza de que deseja postar uma mensagem no Recrutamento de Grupo Comum?</body>
   </string>
   <string>
     <id>902802</id>
     <name>STR_ITEM_SEAL_CONFIRM</name>
-    <body>&lt;p&gt;If you seal an item, you will not be able to trade with it, sell it, destroy it, improve it, extract it, keep it in your account or legion warehouse, bind it to a soul, or change its appearance.&lt;/p&gt;&lt;p&gt;You will only have limited use of consumables.&lt;/p&gt;&lt;p&gt;Use a Seal Breaking Scroll on the seal to remove it. If you use a simple Seal Breaker, it will take 7 days to completely remove the seal.&lt;/p&gt;&lt;p&gt;Are you sure you want to &lt;font color="ff0000"&gt;seal&lt;/font&gt; &lt;font color="ff0000"&gt;%0&lt;/font&gt;?&lt;/p&gt;</body>
+    <body>&lt;p&gt;Se você selar um item, não poderá negociá-lo, vendê-lo, destruí-lo, aprimorá-lo, extraí-lo, depositá-lo no Baú da Conta ou no Baú da Legião, transferi-lo a outro personagem ou alterar sua aparência.&lt;/p&gt;&lt;p&gt;Você terá apenas uso limitado de consumíveis.&lt;/p&gt;&lt;p&gt;Use um Seal Breaking Scroll no item selado para removê-lo. Se você usar um Seal Breaker simples, levará 7 dias para remover completamente o selo.&lt;/p&gt;&lt;p&gt;Tem certeza de que deseja &lt;font color="ff0000"&gt;selar&lt;/font&gt; &lt;font color="ff0000"&gt;%0&lt;/font&gt;?&lt;/p&gt;</body>
   </string>
   <string>
     <id>902803</id>
     <name>STR_ITEM_SEAL_SEALING</name>
-    <body>Sealing</body>
+    <body>Selando</body>
   </string>
   <string>
     <id>902804</id>
     <name>STR_ITEM_SEAL_CONFIRM_UNSEALING_START</name>
-    <body>&lt;p&gt;You have requested to unseal %0. The seal will be completely removed after 7 days. You can unseal a maximum of 3 items. Do you really want to unseal %0?&lt;/p&gt;</body>
+    <body>&lt;p&gt;Você solicitou remover o selo de %0. O selo será completamente removido após 7 dias. Você pode remover o selo de no máximo 3 itens. Você realmente deseja remover o selo de %0?&lt;/p&gt;</body>
   </string>
   <string>
     <id>902805</id>
     <name>STR_ITEM_SEAL_UNSEALING</name>
-    <body>Unsealing</body>
+    <body>Removendo o selo</body>
   </string>
   <string>
     <id>902806</id>
     <name>STR_ITEM_SEAL_CONFIRM_UNSEAL</name>
-    <body>&lt;p&gt;%0 will be unsealed. Do you really want to unseal it?&lt;/p&gt;</body>
+    <body>&lt;p&gt;%0 terá o selo removido. Você realmente deseja remover o selo de %0?&lt;/p&gt;</body>
   </string>
   <string>
     <id>902807</id>
     <name>STR_ITEM_SEAL_SEALED_ITEM</name>
-    <body>Sealed Item</body>
+    <body>Item Selado</body>
   </string>
   <string>
     <id>902808</id>
     <name>STR_ITEM_SEAL_SEALED_ITEM_UNSEALING</name>
-    <body>Unsealing Item</body>
+    <body>Removendo Selo do Item</body>
   </string>
   <string>
     <id>902809</id>
     <name>STR_ITEM_SEAL_SEALED_ITEM_DESC</name>
-    <body>Since it is sealed, you cannot enhance, modify, extract, trade, or soulbind it.</body>
+    <body>Como está selado, você não pode aprimorá-lo, modificá-lo, extraí-lo, negociá-lo ou vinculá-lo a um personagem.</body>
   </string>
   <string>
     <id>902810</id>
     <name>STR_ITEM_SEAL_SEALED_ITEM_UNSEALING_TIME_LEFT</name>
-    <body>Remaining Sealed Time</body>
+    <body>Tempo Restante de Selagem</body>
   </string>
   <string>
     <id>902811</id>
@@ -14435,7 +14435,7 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902815</id>
     <name>STR_NOTICE_MIXED_RACED_AFTER_SERVER_MERGE</name>
-    <body>&lt;p&gt;In Nova Aion you can only play on one faction per server – the Asmodians or the Elyos. As a result of the merge however, it will be temporarily possible to adventure with characters of both factions on the same server. As soon as this transitional phase is over, the old rules will apply once more. If you have characters on both factions on one server, you will be momentarily unable to continue playing.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;To prevent this, we ask that you transfer some of your heroes to an alternate server. To do so, simply use the free character transfer available on the official AION website.&lt;br/&gt;Go to https://en.aion.gameforge.com, log in using your account details and visit Account Management to access the character transfer option.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;If you do not use the character transfer during the transfer phase, we will carry out an automatic transfer to ensure that you can continue playing. In this case, you will receive information from us in an email about the next steps.&lt;/p&gt;&lt;p&gt;To confirm, please enter “OK".&lt;/p&gt;</body>
+    <body>&lt;p&gt;No Nova Aion, você só pode jogar em uma facção por servidor – os Asmodians ou os Elyos. Como resultado da fusão, entretanto, será temporariamente possível aventurar-se com personagens de ambas as facções no mesmo servidor. Assim que essa fase transitória terminar, as regras antigas voltarão a valer. Se você tiver personagens de ambas as facções em um mesmo servidor, ficará momentaneamente impossibilitado de continuar jogando.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Para evitar isso, pedimos que você transfira alguns de seus heróis para um servidor alternativo. Para fazer isso, basta utilizar a transferência gratuita de personagens disponível no site oficial da AION.&lt;br/&gt;Acesse http://aiononline.com.br, faça login utilizando os dados da sua conta e visite Gerenciamento de Conta para acessar a opção de transferência de personagens.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Se você não utilizar a transferência de personagens durante a fase de transferência, realizaremos uma transferência automática para garantir que você possa continuar jogando. Nesse caso, você receberá informações nossas por e-mail sobre os próximos passos.&lt;/p&gt;&lt;p&gt;Para confirmar, digite "OK".&lt;/p&gt;</body>
   </string>
   <string>
     <id>902816</id>
@@ -14520,32 +14520,32 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902832</id>
     <name>STR_TWITTER_RECOMMEND_PEOPLE_BTN</name>
-    <body>Suggestion</body>
+    <body>Sugestão</body>
   </string>
   <string>
     <id>902833</id>
     <name>STR_TWITTER_SEARCH_STATE_SEARCH_PEOPLE</name>
-    <body>Search</body>
+    <body>Procurar</body>
   </string>
   <string>
     <id>902834</id>
     <name>STR_TWITTER_PROFILE_STATE_PROFILE</name>
-    <body>Profile</body>
+    <body>Perfil</body>
   </string>
   <string>
     <id>902835</id>
     <name>STR_TWITTER_PROFILE_STATE_PHOTO</name>
-    <body>Photo</body>
+    <body>Foto</body>
   </string>
   <string>
     <id>902836</id>
     <name>STR_TWITTER_PROFILE_STATE_NAME</name>
-    <body>Name</body>
+    <body>Nome</body>
   </string>
   <string>
     <id>902837</id>
     <name>STR_TWITTER_PROFILE_STATE_LOCATION</name>
-    <body>Address</body>
+    <body>Endereço</body>
   </string>
   <string>
     <id>902838</id>
@@ -14555,72 +14555,70 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902839</id>
     <name>STR_TWITTER_PROFILE_STATE_INTRO</name>
-    <body>Intro</body>
+    <body>Introdução</body>
   </string>
   <string>
     <id>902840</id>
     <name>STR_TWITTER_PROFILE_STATE_CHANGE_PHOTO</name>
-    <body>[Use character image]</body>
+    <body>[Usar imagem do personagem]</body>
   </string>
   <string>
     <id>902841</id>
     <name>STR_TWITTER_PROFILE_STATE_SAVE_BTN</name>
-    <body>Save</body>
+    <body>Salvar</body>
   </string>
   <string>
     <id>902842</id>
     <name>STR_TWITTER_PROFILE_STATE_INPUT_INFO_BTN</name>
-    <body>Get Handle</body>
+    <body>Obter Handle</body>
   </string>
   <string>
     <id>902843</id>
     <name>STR_TWITTER_PROFILE_STATE_INPUT_INFO</name>
-    <body>&lt;p&gt;Use the 'Get Handle' to add your Twitter handle automatically to your Note in the Social panel. To add it manually, use the format '[@ID]'. &lt;/p&gt;</body>
+    <body>&lt;p&gt;Use o 'Obter Handle' para adicionar automaticamente seu nome de usuário do Twitter à sua nota no Painel Social. Para adicioná-lo manualmente, utilize o formato '[@ID]''. &lt;/p&gt;</body>
   </string>
   <string>
     <id>902844</id>
     <name>STR_TWITTER_RECOMMEND_PEOPLE_STATE_RECOMMEND_PEOPLE</name>
-    <body>Suggestion</body>
+    <body>Sugestão</body>
   </string>
   <string>
     <id>902845</id>
     <name>STR_TWITTER_RECOMMEND_PEOPLE_STATE_CANCEL_BTN</name>
-    <body>Cancel</body>
+    <body>Cancelar</body>
   </string>
   <string>
     <id>902846</id>
     <name>STR_TWITTER_RECOMMEND_PEOPLE_STATE_ADD</name>
-    <body>[Follow]</body>
+    <body>[Seguir]</body>
   </string>
   <string>
     <id>902847</id>
     <name>STR_TWITTER_RECOMMEND_PEOPLE_STATE_ADD_SUCCESS</name>
-    <body>You are now Following %0.</body>
+    <body>Você agora está seguindo %0.</body>
   </string>
   <string>
     <id>902848</id>
     <name>STR_TWITTER_RECOMMEND_PEOPLE_STATE_EMPTY_LIST</name>
-    <body>&lt;center&gt;You are now Following all Suggested feeds.&lt;/center&gt;</body>
+    <body>&lt;center&gt;Você agora está seguindo todos os feeds sugeridos.&lt;/center&gt;</body>
   </string>
   <string>
     <id>902849</id>
     <name>STR_TWITTER_RECOMMEND_PEOPLE_STATE_PEOPLE_NAME_1</name>
-    <body>Aion_Nyx</body>
+    <body>@KonkersGG</body>
   </string>
   <string>
     <id>902850</id>
     <name>STR_TWITTER_RECOMMEND_PEOPLE_STATE_PEOPLE_INTRO_1</name>
-    <body>NA Aion Community Coordinator</body>
+    <body>Tradutor ptBR deste jogo!</body>
   </string>
   <string>
     <id>902851</id>
     <name>STR_TWITTER_RECOMMEND_PEOPLE_STATE_PEOPLE_NAME_2</name>
-    <body>AION_TAZZ</body>
   </string>
   <string>
     <id>902852</id>
     <name>STR_TWITTER_RECOMMEND_PEOPLE_STATE_PEOPLE_INTRO_2</name>
-    <body>&lt;p&gt;Topics from the community will be presented and posts that missed out on making the headlines will be listed, just because it would be a shame if people never got to see them.&lt;/p&gt;&lt;p&gt;And with content such as AION hunks and babes and the invitation to Tazz's Notes, it will provide a different kind of entertainment from what you can find on the homepage.&lt;/p&gt;</body>
   </string>
   <string>
     <id>902853</id>
@@ -14641,32 +14639,32 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902857</id>
     <name>STR_TWITTER_PROFILE_VIEW_STATE_BACK_BTN</name>
-    <body>Back</body>
+    <body>Voltar</body>
   </string>
   <string>
     <id>902858</id>
     <name>STR_TWITTER_PROFILE_VIEW_STATE_CANCEL_BTN</name>
-    <body>Cancel</body>
+    <body>Cancelar</body>
   </string>
   <string>
     <id>902859</id>
     <name>STR_TWITTER_PROFILE_VIEW_STATE_FOLLOW_YOU</name>
-    <body>You have been added to %0's Following List.</body>
+    <body>Você foi adicionado à lista de seguidores de %0.</body>
   </string>
   <string>
     <id>902860</id>
     <name>STR_TWITTER_PROFILE_VIEW_STATE_DONT_FOLLOW_YOU</name>
-    <body>%0 is not Following you.</body>
+    <body>%0 não está seguindo você.</body>
   </string>
   <string>
     <id>902861</id>
     <name>STR_TWITTER_PROFILE_VIEW_STATE_ADD_FOLLOWING</name>
-    <body>[Follow]</body>
+    <body>[Seguir]</body>
   </string>
   <string>
     <id>902862</id>
     <name>STR_TWITTER_PROFILE_VIEW_STATE_DEL_FOLLOWING</name>
-    <body>[Unfollow]</body>
+    <body>[Deixar de seguir]</body>
   </string>
   <string>
     <id>902863</id>
@@ -14676,17 +14674,17 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902864</id>
     <name>STR_TWITTER_PROFILE_VIEW_STATE_FOLLOWING_NUM</name>
-    <body>Following</body>
+    <body>Seguindo</body>
   </string>
   <string>
     <id>902865</id>
     <name>STR_TWITTER_PROFILE_VIEW_STATE_FOLLOWER_NUM</name>
-    <body>Followers</body>
+    <body>Seguidores</body>
   </string>
   <string>
     <id>902866</id>
     <name>STR_TWITTER_PROFILE_VIEW_STATE_LOCATION</name>
-    <body>Address</body>
+    <body>Endereço</body>
   </string>
   <string>
     <id>902867</id>
@@ -14696,17 +14694,17 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902868</id>
     <name>STR_TWITTER_PROFILE_VIEW_STATE_INTRO</name>
-    <body>Intro</body>
+    <body>Introdução</body>
   </string>
   <string>
     <id>902869</id>
     <name>STR_TWITTER_PROFILE_VIEW_PROFILE</name>
-    <body>Profile</body>
+    <body>Perfil</body>
   </string>
   <string>
     <id>902870</id>
     <name>STR_TWITTER_INGAME_PROFILE_VIEW</name>
-    <body>View AionTweet Profile</body>
+    <body>Ver Perfil do AionTweet</body>
   </string>
   <string>
     <id>902871</id>
@@ -14761,7 +14759,7 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902881</id>
     <name>STR_TWITTER_LOGIN_NEWACCOUNT_BTN</name>
-    <body>Join Twitter</body>
+    <body>Entrar no Twitter</body>
   </string>
   <string>
     <id>902883</id>
@@ -14776,47 +14774,47 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902885</id>
     <name>STR_RSS_NEWS_TAB</name>
-    <body>News</body>
+    <body>Novidades</body>
   </string>
   <string>
     <id>902886</id>
     <name>STR_RSS_CLASS_TAB</name>
-    <body>Class Messageboards</body>
+    <body>Quadro de Mensagens da Class</body>
   </string>
   <string>
     <id>902887</id>
     <name>STR_RSS_SERVER_TAB</name>
-    <body>Server Messageboards</body>
+    <body>Quadro de Mensagens do Servidor</body>
   </string>
   <string>
     <id>902888</id>
     <name>STR_RSS_SEARCH_TAB</name>
-    <body>Search Information</body>
+    <body>Procurar por Informação</body>
   </string>
   <string>
     <id>902889</id>
     <name>STR_RSS_CLOSE_BTN</name>
-    <body>Close</body>
+    <body>Fechar</body>
   </string>
   <string>
     <id>902890</id>
     <name>STR_RSS_PREVIOUS_BTN</name>
-    <body>[Previous]</body>
+    <body>[Voltar]</body>
   </string>
   <string>
     <id>902891</id>
     <name>STR_RSS_NEXT_BTN</name>
-    <body>[Next]</body>
+    <body>[Próximo]</body>
   </string>
   <string>
     <id>902892</id>
     <name>STR_RSS_REFRESH_BTN</name>
-    <body>Refresh</body>
+    <body>Atualizar</body>
   </string>
   <string>
     <id>902893</id>
     <name>STR_RSS_NEWS_STATE_NEWS_1</name>
-    <body>Aion News</body>
+    <body>Novidades do Aion</body>
   </string>
   <string>
     <id>902895</id>
@@ -15081,27 +15079,27 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>902999</id>
     <name>STR_RSS_SEARCH_STATE_SEARCH_BTN</name>
-    <body>Search</body>
+    <body>Procurar</body>
   </string>
   <string>
     <id>903000</id>
     <name>STR_RSS_SEARCH_STATE_INPUT_WORD</name>
-    <body>&lt;center&gt;Enter keywords.&lt;/center&gt;</body>
+    <body>&lt;center&gt;Digite palavras-chave.&lt;/center&gt;</body>
   </string>
   <string>
     <id>903001</id>
     <name>STR_RSS_SEARCH_STATE_NO_RESULT</name>
-    <body>&lt;center&gt;No match found.&lt;/center&gt;</body>
+    <body>&lt;center&gt;Nenhuma correspondência encontrada.&lt;/center&gt;</body>
   </string>
   <string>
     <id>903002</id>
     <name>STR_RSS_SEARCH_STATE_SEARCH_1</name>
-    <body>Game Guide</body>
+    <body>Guia do Jogo</body>
   </string>
   <string>
     <id>903003</id>
     <name>STR_RSS_SEARCH_STATE_SEARCH_2</name>
-    <body>Aion Answers</body>
+    <body>Respostas sobre o Aion</body>
   </string>
   <string>
     <id>903006</id>
@@ -15196,52 +15194,52 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>903024</id>
     <name>STR_ITEM_CHARGE_SCROLL_CONFIRM</name>
-    <body>&lt;p&gt;You chose to condition %1 to level %2 by spending %0.&lt;/p&gt;&lt;p&gt;If its maximum level is lower than the level to which you want to condition it, the item will be conditioned up to its maximum level.&lt;/p&gt;&lt;p&gt;Continue?&lt;/p&gt;</body>
+    <body>&lt;p&gt;Você escolheu condicionar %1 ao nível %2 gastando %0.&lt;/p&gt;&lt;p&gt;Se seu nível máximo for inferior ao nível ao qual você deseja condicioná-lo, o item será condicionado até seu nível máximo.&lt;/p&gt;&lt;p&gt;Continue?&lt;/p&gt;</body>
   </string>
   <string>
     <id>903025</id>
     <name>STR_ITEM_CHARGE_ALL_SCROLL_CONFIRM</name>
-    <body>&lt;p&gt;You chose to condition %1 to level %2 by spending %0.&lt;/p&gt;&lt;p&gt;If its maximum level is lower than the level to which you want to condition it, the item will be conditioned up to its maximum level.&lt;/p&gt;&lt;p&gt;Continue?&lt;/p&gt;</body>
+    <body>&lt;p&gt;Você escolheu condicionar %1 ao nível %2 gastando %0.&lt;/p&gt;&lt;p&gt;Se seu nível máximo for inferior ao nível ao qual você deseja condicioná-lo, o item será condicionado até seu nível máximo.&lt;/p&gt;&lt;p&gt;Continue?&lt;/p&gt;</body>
   </string>
   <string>
     <id>903026</id>
     <name>STR_ITEM_CHARGE_ALL_CONFIRM</name>
-    <body>&lt;p&gt;All the equipped items will be conditioned to the maximum level. &lt;/p&gt;&lt;p&gt;You need &lt;font font_xml="v3_msgbox_money"&gt;%qina0&lt;/font&gt;to do this. Are you sure you want to condition them?&lt;/p&gt;</body>
+    <body>&lt;p&gt;Todos os itens equipados serão condicionados ao nível máximo.  &lt;/p&gt;&lt;p&gt;Você precisa de &lt;font font_xml="v3_msgbox_money"&gt;%qina0&lt;/font&gt;para condicionar os itens equipados. Você tem certeza de que quer condicioná-los?&lt;/p&gt;</body>
   </string>
   <string>
     <id>903027</id>
     <name>STR_ITEM_CHARGE_TARGET_CHARGE_LEVEL</name>
-    <body>Conditioning Level %0</body>
+    <body>Nível de Condicionamento %0</body>
   </string>
   <string>
     <id>903028</id>
     <name>STR_ITEM_CHARGE_CONFIRM_SOME_ALREADY_CHARGED</name>
-    <body>&lt;p&gt;You can condition only %0 of the registered items up to level %1.&lt;/p&gt;&lt;p&gt;You need &lt;font font_xml="v3_msgbox_money"&gt;%qina2&lt;/font&gt;to do this. &lt;/p&gt;&lt;p&gt;Are you sure you want to condition them?&lt;/p&gt;</body>
+    <body>&lt;p&gt;Você pode condicionar apenas %0 dos itens registrados até o nível %1.&lt;/p&gt;&lt;p&gt;Você precisa de &lt;font font_xml="v3_msgbox_money"&gt;%qina2&lt;/font&gt;para condicionar os itens. &lt;/p&gt;&lt;p&gt;Você tem certeza de que quer condicioná-los?&lt;/p&gt;</body>
   </string>
   <string>
     <id>903029</id>
     <name>STR_ITEM_CHARGE_CONFIRM_SOME_OVER_LIMIT</name>
-    <body>&lt;p&gt;You can condition only %0 of the registered items up to level %1 and the rest up to the permissible level.&lt;/p&gt;&lt;p&gt;You need &lt;font font_xml="v3_msgbox_money"&gt;%qina2&lt;/font&gt;to do this. &lt;/p&gt;&lt;p&gt;Are you sure you want to condition them?&lt;/p&gt;</body>
+    <body>&lt;p&gt;Você pode condicionar apenas %0 dos itens registrados até o nível %1 e o restante até o nível permitido.&lt;/p&gt;&lt;p&gt;Você precisa de &lt;font font_xml="v3_msgbox_money"&gt;%qina2&lt;/font&gt;para condicionar os itens. &lt;/p&gt;&lt;p&gt;Você tem certeza de que quer condicioná-los?&lt;/p&gt;</body>
   </string>
   <string>
     <id>903030</id>
     <name>STR_ITEM_CHARGE_CONFIRM_CHARGE_ALL_ITEMS</name>
-    <body>&lt;p&gt;You chose to condition all items to level %0.&lt;/p&gt;&lt;p&gt;If their maximum level is lower than the level to which you want to condition them, the items will be conditioned up to their maximum level.&lt;/p&gt;&lt;p&gt;This will cost &lt;font font_xml="v3_msgbox_money"&gt;%qina1&lt;/font&gt;. Continue?&lt;/p&gt;</body>
+    <body>&lt;p&gt;Você escolheu condicionar todos os itens ao nível %0.&lt;/p&gt;&lt;p&gt;Se o nível máximo deles for inferior ao nível ao qual você deseja condicioná-los, os itens serão condicionados até o seu nível máximo.&lt;/p&gt;&lt;p&gt;Isso vai custar &lt;font font_xml="v3_msgbox_money"&gt;%qina1&lt;/font&gt;. Continuar?&lt;/p&gt;</body>
   </string>
   <string>
     <id>903031</id>
     <name>STR_ITEM_CHARGE_TOOLTIP_TITLE</name>
-    <body>Conditioning Level (%0/%1)</body>
+    <body>Nível de Condicionamento (%0/%1)</body>
   </string>
   <string>
     <id>903032</id>
     <name>STR_ITEM_CHARGE_TOOLTIP_BONUS_ATTR</name>
-    <body>Conditioning Effect (%0)</body>
+    <body>Efeito de Condicionamento (%0)</body>
   </string>
   <string>
     <id>903033</id>
     <name>STR_GAUGE_ITEM_CHARGING</name>
-    <body>Conditioning in progress</body>
+    <body>Condicionamento em progresso</body>
   </string>
   <string>
     <id>903034</id>
@@ -15356,32 +15354,32 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>903056</id>
     <name>STR_TOWER_DEFENCE_CONFIRM_INVITE</name>
-    <body>&lt;p&gt;%0 has invited you to a Mini Game.&lt;/p&gt;&lt;p&gt;Do you want to join the Mini Game?&lt;/p&gt;</body>
+    <body>&lt;p&gt;%0 convidou você para um Mini Jogo.&lt;/p&gt;&lt;p&gt;Você quer participar do Mini Game?&lt;/p&gt;</body>
   </string>
   <string>
     <id>903057</id>
     <name>STR_TOWER_DEFENCE_STAGE_1_TITLE</name>
-    <body>Stage 1</body>
+    <body>Estágio 1</body>
   </string>
   <string>
     <id>903058</id>
     <name>STR_TOWER_DEFENCE_STAGE_2_TITLE</name>
-    <body>Stage 2</body>
+    <body>Estágio 2</body>
   </string>
   <string>
     <id>903059</id>
     <name>STR_TOWER_DEFENCE_PVP_1_TITLE</name>
-    <body>Compete with Group Member</body>
+    <body>Competir com Membro do Grupo</body>
   </string>
   <string>
     <id>903060</id>
     <name>STR_TOWER_DEFENCE_GAMEOVER</name>
-    <body>You have lost the minor Fortress Battle.</body>
+    <body>Você perdeu a pequena Batalha da Forteza.</body>
   </string>
   <string>
     <id>903061</id>
     <name>STR_TOWER_DEFENCE_WIN</name>
-    <body>You have won the minor Fortress Battle.</body>
+    <body>Você venceu a pequena Batalha da Forteza.</body>
   </string>
   <string>
     <id>903062</id>
@@ -15426,7 +15424,7 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>903070</id>
     <name>STR_IDARENA_STAGE</name>
-    <body>Iniciar Estágio %0 Rodada %1!</body>
+    <body>Iniciando Estágio %0 Rodada %1!</body>
   </string>
   <string>
     <id>903071</id>
@@ -15436,12 +15434,12 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>903072</id>
     <name>STR_IDARENA_ROUND</name>
-    <body>Iniciar Rodada %0!</body>
+    <body>Iniciando Rodada %0!</body>
   </string>
   <string>
     <id>903073</id>
     <name>STR_IDARENA_JOIN_STAGE</name>
-    <body>Entrar no Estágio %0 Rodada %1!</body>
+    <body>Entrando no Estágio %0 Rodada %1!</body>
   </string>
   <string>
     <id>903074</id>
@@ -15466,12 +15464,12 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>903078</id>
     <name>STR_MSGBOX_WRONG_OTP</name>
-    <body>The OTP code you entered is incorrect. The client will close automatically if an invalid code is entered %0 times. &lt;br&gt;(Attempts so far: %1)</body>
+    <body>O código OTP que você inseriu está incorreto.  O cliente será fechado automaticamente se um código inválido for inserido %0 vezes. &lt;br&gt;(Tentativas até agora: %1)</body>
   </string>
   <string>
     <id>903079</id>
     <name>STR_MSGBOX_CASH_PURCHASE_CONFIRM</name>
-    <body>Once the selected item arrives in your cube, you will be &lt;font color="ff0000"&gt;unable to withdraw your bid&lt;/font&gt;. Are you sure you want to receive %0?</body>
+    <body>Uma vez que o item selecionado chegue ao seu cubo, &lt;font color="ff0000"&gt;você não poderá retirar sua oferta&lt;/font&gt;. Tem certeza de que quer receber %0?</body>
   </string>
   <string>
     <id>903080</id>
@@ -15481,12 +15479,12 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>903081</id>
     <name>STR_MAIL_CASH_PURCHASE_REFUND_DEADLINE</name>
-    <body>You can withdraw your bid on the home page within %0.</body>
+    <body>Você pode retirar sua oferta na página inicial dentro de %0.</body>
   </string>
   <string>
     <id>903082</id>
     <name>STR_MAIL_CASH_PURCHASE_REFUND_UNABLED_INFO</name>
-    <body>Unable to cancel purchase, as the return period (7 days from date of purchase) has elapsed.</body>
+    <body>Impossível cancelar a compra, pois o período de devolução (7 dias a partir da data da compra) expirou.</body>
   </string>
   <string>
     <id>903083</id>
@@ -15506,7 +15504,7 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>903086</id>
     <name>STR_MAIL_CASH_PURCHASE_REFUND_UNABLED</name>
-    <body>Unable to withdraw bid</body>
+    <body>Não é possível retirar a oferta</body>
   </string>
   <string>
     <id>903087</id>
@@ -15521,7 +15519,7 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>903089</id>
     <name>STR_ITEM_CHARGE_TOOLTIP_BONUS_ATTR_COMBINED</name>
-    <body>Conditioning Effect on Armsfused Item (%0)</body>
+    <body>Efeito de Condicionamento no Item Fundido (%0)</body>
   </string>
   <string>
     <id>903090</id>
@@ -15541,7 +15539,7 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>903093</id>
     <name>STR_TOWER_DEFENCE_CONFIRM_HOST_LEAVE</name>
-    <body>&lt;p&gt;The host quit the Mini Game. You cannot continue.&lt;/p&gt;&lt;p&gt;Please quit the Mini Game.&lt;/p&gt;</body>
+    <body>&lt;p&gt;O anfitrião saiu do Mini Jogo. Você não pode continuar.&lt;/p&gt;&lt;p&gt;Por favor, saia do Mini Jogo.&lt;/p&gt;</body>
   </string>
   <string>
     <id>903094</id>
@@ -15561,22 +15559,22 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>903097</id>
     <name>STR_TOOLTIP_FATIGUE_NAME</name>
-    <body>Fatigue</body>
+    <body>Fadiga</body>
   </string>
   <string>
     <id>903098</id>
     <name>STR_TOOLTIP_FATIGUE_BODY</name>
-    <body>Your Fatigue has increased. If your Fatigue is full, you can earn only limited XP, Abyss Points, and items.\nYou do not accumulate Fatigue while in a big city or fortress or while you are in Private Store mode. Fatigue is reset to '0' every day at 6 AM.\nYou can completely recover from fatigue by clicking the Fatigue Recovery button. The Fatigue Recovery available is reset every Wednesday after the regular checkup.</body>
+    <body>Sua Fadiga aumentou. Se sua Fadiga estiver cheia, você só pode ganhar XP, Pontos do Abismo e itens limitados.\nVocê não acumula Fadiga enquanto estiver em uma grande cidade ou fortaleza ou enquanto estiver no modo Loja Privada. A Fadiga é redefinida para '0' todos os dias às 6 AM.\nVocê pode se recuperar completamente da fadiga clicando no botão Recuperação de Fadiga. A Recuperação de Fadiga disponível é redefinida toda quarta-feira após a verificação regular.</body>
   </string>
   <string>
     <id>903099</id>
     <name>STR_TOOLTIP_FATIGUE_CURRENT</name>
-    <body>Current Fatigue</body>
+    <body>Fadiga Atual</body>
   </string>
   <string>
     <id>903100</id>
     <name>STR_TOOLTIP_FATIGUE_RECOVER_TOKEN</name>
-    <body>Remaining Fatigue Recovery</body>
+    <body>Recuperação da Fadiga Restante</body>
   </string>
   <string>
     <id>903101</id>
@@ -15586,27 +15584,27 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>903102</id>
     <name>STR_TOOLTIP_FATIGUE_STATE_RECOVER_FATIGUE_NAME</name>
-    <body>Fatigue Recovery</body>
+    <body>Recuperação de Fadiga</body>
   </string>
   <string>
     <id>903103</id>
     <name>STR_TOOLTIP_FATIGUE_STATE_RECOVER_FATIGUE_BODY</name>
-    <body>You have recovered from Fatigue. The Fatigue Recovery available is reset every Wednesday after the regular checkup.</body>
+    <body>Você se recuperou da Fadiga. A Recuperação de Fadiga disponível é redefinida toda quarta-feira após a verificação regular.</body>
   </string>
   <string>
     <id>903104</id>
     <name>STR_MSGBOX_FATIGUE_STATE_RECOVER_CONFIRM</name>
-    <body>Your remaining uses of Fatigue Recovery is %0. Uses will be reset every Wednesday after the regular checkup. Are you sure you wish to use Fatigue Recovery?</body>
+    <body>Sua utilização restante de Recuperação de Fadiga é %0. As utilizações serão reiniciadas todas as quartas-feiras após o check-up regular. Você tem certeza de que deseja usar a Recuperação de Fadiga?</body>
   </string>
   <string>
     <id>903105</id>
     <name>STR_TOOLTIP_FATIGUE_STATE_NAME</name>
-    <body>Tiredness</body>
+    <body>Cansaço</body>
   </string>
   <string>
     <id>903106</id>
     <name>STR_TOOLTIP_FATIGUE_STATE_BODY</name>
-    <body>Your Fatigue is full. You can only earn limited XP, Abyss Points, and items.\nFatigue is reset every day at 6 AM. You can completely recover from fatigue by clicking the Fatigue Recovery button.</body>
+    <body>Sua Fadiga está cheia. Você só pode ganhar XP, Pontos do Abismo e itens limitados.\nA Fadiga é redefinida todo dia às 6 AM. Você pode se recuperar completamente da fadiga clicando no botão de Recuperação de Fadiga.</body>
   </string>
   <string>
     <id>903107</id>
@@ -15636,7 +15634,7 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>903112</id>
     <name>STR_MSGBOX_WRONG_OTP_END_CLIENT</name>
-    <body>The OTP code you entered is incorrect. The client will now close, as you have entered an invalid code %0 times.</body>
+    <body>O código OTP que você inseriu está incorreto. O cliente será fechado agora, pois você inseriu um código inválido %0 vezes.</body>
   </string>
   <string>
     <id>903113</id>
@@ -15766,12 +15764,12 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>903138</id>
     <name>STR_POWERBOOK_QUERY_GUIDE_LEVEL</name>
-    <body>Tourunrunerk Play Guide (%0 of level %1)</body>
+    <body>Guia de Jogo do Tourunrunerk (%0 do nível %1)</body>
   </string>
   <string>
     <id>903139</id>
     <name>STR_POWERBOOK_QUERY_GUIDE_FROM_TO_LEVEL</name>
-    <body>Tourunrunerk Play Guide (%0 of levels %1 - %2)</body>
+    <body>Guia de Jogo do Tourunrunerk (%0 dos níveis %1 - %2)</body>
   </string>
   <string>
     <id>903140</id>
@@ -15786,12 +15784,12 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>903142</id>
     <name>STR_POWERBOOK_QUERY_JOB_QUEST</name>
-    <body>Class Change Quest</body>
+    <body>Missão de Troca de Classe</body>
   </string>
   <string>
     <id>903143</id>
     <name>STR_POWERBOOK_QUERY_STIGMA_EXPANSION</name>
-    <body>Expand Stigma</body>
+    <body>Expandir Stigma</body>
   </string>
   <string>
     <id>903144</id>
@@ -15836,127 +15834,127 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>903152</id>
     <name>STR_TOWER_DEFENCE_HELP_START</name>
-    <body>Select a stage and press the Start button to begin the game. You can also invite Group Members to the Mini Fortress Battle by clicking the Invite button.</body>
+    <body>Selecione um estágio e pressione o botão Iniciar para começar o jogo. Você também pode convidar membros do grupo para a Batalha da Mini Fortaleza clicando no botão Convidar.</body>
   </string>
   <string>
     <id>903153</id>
     <name>STR_TOWER_DEFENCE_HELP_WIN_CONDITION_PVE_1</name>
-    <body>If you destroy the Dredgion, you can win without losing any fortresses.</body>
+    <body>Se você destruir a Dredgion, você pode vencer sem perder nenhuma fortaleza.</body>
   </string>
   <string>
     <id>903154</id>
     <name>STR_TOWER_DEFENCE_HELP_WIN_CONDITION_PVP_1</name>
-    <body>Win by destroying all the enemy's cannons.</body>
+    <body>Ganhe destruindo todos os canhões do inimigo.  </body>
   </string>
   <string>
     <id>903155</id>
     <name>STR_TOWER_DEFENCE_HELP_TUTORIAL_1</name>
-    <body>Steer the cannon using your mouse, and press the left mouse button to fire with rapid-fire artillery. Select the cannon and reposition it using the WASD keys.</body>
+    <body>Dirija o canhão usando o seu mouse, e pressione o botão esquerdo do mouse para disparar com artilharia de tiro rápido. Selecione o canhão e reposicione-o usando as teclas WASD.</body>
   </string>
   <string>
     <id>903156</id>
     <name>STR_TOWER_DEFENCE_HELP_TUTORIAL_2</name>
-    <body>Press the right mouse button to attack using a cannon ball. The attack will get stronger the longer you hold down the key. Press the right mouse button again after firing to increase the attack range.</body>
+    <body>Pressione o botão direito do mouse para atacar usando uma bola de canhão.  O ataque ficará mais forte quanto mais tempo você segurar a tecla.  Pressione o botão direito do mouse novamente após disparar para aumentar o alcance do ataque.</body>
   </string>
   <string>
     <id>903157</id>
     <name>STR_TOWER_DEFENCE_HELP_TUTORIAL_3</name>
-    <body>Rifts appear sporadically at a certain place. You can shoot down enemies that come out of the Rift.</body>
+    <body>Rifts aparecem esporadicamente em um determinado lugar. Você pode derrotar os inimigos que saem do Rift.</body>
   </string>
   <string>
     <id>903158</id>
     <name>STR_TOWER_DEFENCE_HELP_TUTORIAL_4</name>
-    <body>Once you defeat the enemy, an Artefact will appear. If you hit the Artefact, you’ll gain an artefact effect. Press the right mouse button to fire the Artefact cannon.</body>
+    <body>Uma vez que você derrotar o inimigo, um Artefato aparecerá. Se você acertar o Artefato, ganhará um efeito de artefato. Pressione o botão direito do mouse para disparar o canhão do Artefato.</body>
   </string>
   <string>
     <id>903160</id>
     <name>STR_TOWER_DEFENCE_INFO_STAGE_1_ROUND_1</name>
-    <body>Stage 1 Round 1</body>
+    <body>Estágio 1 Rodada 1</body>
   </string>
   <string>
     <id>903161</id>
     <name>STR_TOWER_DEFENCE_INFO_STAGE_1_ROUND_2</name>
-    <body>Stage 1 Round 2</body>
+    <body>Estágio 1 Rodada 2</body>
   </string>
   <string>
     <id>903162</id>
     <name>STR_TOWER_DEFENCE_INFO_STAGE_1_ROUND_3</name>
-    <body>Stage 1 Round 3</body>
+    <body>Estágio 1 Rodada 3</body>
   </string>
   <string>
     <id>903163</id>
     <name>STR_TOWER_DEFENCE_INFO_STAGE_1_ROUND_4</name>
-    <body>Stage 1 Round 4</body>
+    <body>Estágio 1 Rodada 4</body>
   </string>
   <string>
     <id>903164</id>
     <name>STR_TOWER_DEFENCE_INFO_STAGE_2_ROUND_1</name>
-    <body>Stage 2 Round 1</body>
+    <body>Estágio 2 Rodada 1</body>
   </string>
   <string>
     <id>903165</id>
     <name>STR_TOWER_DEFENCE_INFO_STAGE_2_ROUND_2</name>
-    <body>Stage 2 Round 2</body>
+    <body>Estágio 2 Rodada 2</body>
   </string>
   <string>
     <id>903166</id>
     <name>STR_TOWER_DEFENCE_INFO_STAGE_2_ROUND_3</name>
-    <body>Stage 2 Round 3</body>
+    <body>Estágio 2 Rodada 3</body>
   </string>
   <string>
     <id>903167</id>
     <name>STR_TOWER_DEFENCE_INFO_STAGE_2_ROUND_4</name>
-    <body>Stage 2 Round 4</body>
+    <body>Estágio 2 Rodada 4</body>
   </string>
   <string>
     <id>903168</id>
     <name>STR_TOWER_DEFENCE_INFO_STAGE_3_ROUND_1</name>
-    <body>Stage 3 Round 1</body>
+    <body>Estágio 3 Rodada 1</body>
   </string>
   <string>
     <id>903169</id>
     <name>STR_TOWER_DEFENCE_INFO_STAGE_3_ROUND_2</name>
-    <body>Stage 3 Round 2</body>
+    <body>Estágio 3 Rodada 2</body>
   </string>
   <string>
     <id>903170</id>
     <name>STR_TOWER_DEFENCE_INFO_STAGE_3_ROUND_3</name>
-    <body>Stage 3 Round 3</body>
+    <body>Estágio 3 Rodada 3</body>
   </string>
   <string>
     <id>903171</id>
     <name>STR_TOWER_DEFENCE_INFO_STAGE_3_ROUND_4</name>
-    <body>Stage 3 Round 4</body>
+    <body>Estágio 3 Rodada 4</body>
   </string>
   <string>
     <id>903172</id>
     <name>STR_TOWER_DEFENCE_INFO_PVP_STAGE_1_ROUND_1</name>
-    <body>PVP Stage 1 Round 1</body>
+    <body>Estágio de PVP 1 Rodada 1</body>
   </string>
   <string>
     <id>903173</id>
     <name>STR_TOWER_DEFENCE_INFO_PVP_STAGE_1_ROUND_2</name>
-    <body>PVP Stage 1 Round 2</body>
+    <body>Estágio de PVP 1 Rodada 2</body>
   </string>
   <string>
     <id>903174</id>
     <name>STR_TOWER_DEFENCE_INFO_PVP_STAGE_1_ROUND_3</name>
-    <body>PVP Stage 1 Round 3</body>
+    <body>Estágio de PVP 1 Rodada 3</body>
   </string>
   <string>
     <id>903175</id>
     <name>STR_TOWER_DEFENCE_HELP_WIN_CONDITION_PVE_2</name>
-    <body>You’ll win if you don’t lose any fortresses and destroy the giant Dredgion.</body>
+    <body>Você vai ganhar se não perder nenhuma fortaleza e destruir a Dredgion gigante.</body>
   </string>
   <string>
     <id>903176</id>
     <name>STR_TOWER_DEFENCE_STAGE_3_TITLE</name>
-    <body>Stage 3</body>
+    <body>Estágio 3</body>
   </string>
   <string>
     <id>903177</id>
     <name>STR_TOWER_DEFENCE_STAGE_PVP_1_TITLE</name>
-    <body>PVP Stage 1</body>
+    <body>Estágio de PVP 1</body>
   </string>
   <string>
     <id>903178</id>
@@ -15991,7 +15989,7 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>903184</id>
     <name>STR_UNDER_AGE_LIMIT_WARNING</name>
-    <body>Players under the age of %0 are not allowed to play from %1 to %2. They will be automatically logged off at %3.</body>
+    <body>Jogadores com menos de %0 anos não têm permissão para jogar de %1 a %2. Eles serão desconectados automaticamente às %3.</body>
   </string>
   <string>
     <id>903185</id>
@@ -16046,17 +16044,17 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>903195</id>
     <name>STR_MSGBOX_UPDATE_GRAPHIC_DRIVER_NVIDIA_196_75</name>
-    <body>The NVIDIA graphics driver version 196.75 can cause overheating of the graphics card. Please update to the latest driver available.</body>
+    <body>A versão 196.75 do driver gráfico da NVIDIA pode causar superaquecimento da placa gráfica. Por favor, atualize para o driver mais recente disponível.</body>
   </string>
   <string>
     <id>903196</id>
     <name>STR_RSS_SERVER_STATE_SERVER_44</name>
-    <body>Test Server</body>
+    <body>Servidor de Testes</body>
   </string>
   <string>
     <id>903198</id>
     <name>STR_SECONDPASSWORD_MSGBOX_ERROR_REQUEST_FAILED</name>
-    <body>Failed to log in because too many users tried to log in simultaneously. Please try again later.</body>
+    <body>Falha ao fazer login porque muitos usuários tentaram fazer login simultaneamente.  Por favor, tente novamente mais tarde.</body>
   </string>
   <string>
     <id>903199</id>
@@ -16081,7 +16079,7 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>903203</id>
     <name>STR_MAIL_CASH_PURCHASE_REFUND_UNREFUNDABLE</name>
-    <body>You cannot withdraw your bid for this item.</body>
+    <body>Você não pode retirar sua oferta para este item.</body>
   </string>
   <string>
     <id>903204</id>
@@ -16186,82 +16184,82 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>903224</id>
     <name>STR_HOUSING_BUILDING_LIGHT_LEGION_S_01</name>
-    <body>Elyos Legion S01 Building</body>
+    <body>Prédio S01 da Legião Elyos</body>
   </string>
   <string>
     <id>903225</id>
     <name>STR_HOUSING_BUILDING_LIGHT_LEGION_A_01</name>
-    <body>Elyos Legion A01 Building</body>
+    <body>Prédio A01 da Legião Elyos</body>
   </string>
   <string>
     <id>903226</id>
     <name>STR_HOUSING_BUILDING_LIGHT_LEGION_B_01</name>
-    <body>Elyos Legion B01 Building</body>
+    <body>Prédio B01 da Legião Elyos</body>
   </string>
   <string>
     <id>903227</id>
     <name>STR_HOUSING_BUILDING_LIGHT_LEGION_C_01</name>
-    <body>Elyos Legion C01 Building</body>
+    <body>Prédio C01 da Legião Elyos</body>
   </string>
   <string>
     <id>903228</id>
     <name>STR_HOUSING_BUILDING_LIGHT_LEGION_D_01</name>
-    <body>Elyos Legion D01 Building</body>
+    <body>Prédio D01 da Legião Elyos</body>
   </string>
   <string>
     <id>903229</id>
     <name>STR_HOUSING_BUILDING_DARK_LEGION_S_01</name>
-    <body>Asmodian Legion S01 Building</body>
+    <body>Prédio S01 da Legião Asmodian</body>
   </string>
   <string>
     <id>903230</id>
     <name>STR_HOUSING_BUILDING_DARK_LEGION_A_01</name>
-    <body>Asmodian Legion A01 Building</body>
+    <body>Prédio A01 da Legião Asmodian</body>
   </string>
   <string>
     <id>903231</id>
     <name>STR_HOUSING_BUILDING_DARK_LEGION_B_01</name>
-    <body>Asmodian Legion B01 Building</body>
+    <body>Prédio B01 da Legião Asmodian</body>
   </string>
   <string>
     <id>903232</id>
     <name>STR_HOUSING_BUILDING_DARK_LEGION_C_01</name>
-    <body>Asmodian Legion C01 Building</body>
+    <body>Prédio C01 da Legião Asmodian</body>
   </string>
   <string>
     <id>903233</id>
     <name>STR_HOUSING_BUILDING_DARK_LEGION_D_01</name>
-    <body>Asmodian Legion D01 Building</body>
+    <body>Prédio D01 da Legião Asmodian</body>
   </string>
   <string>
     <id>903234</id>
     <name>STR_HOUSING_BUILDING_PERSONAL_S_01</name>
-    <body>Private Building (S01)</body>
+    <body>Prédio Privado (S01)</body>
   </string>
   <string>
     <id>903235</id>
     <name>STR_HOUSING_BUILDING_PERSONAL_A_01</name>
-    <body>Private Building (A01)</body>
+    <body>Prédio Privado (A01)</body>
   </string>
   <string>
     <id>903236</id>
     <name>STR_HOUSING_BUILDING_PERSONAL_B_01</name>
-    <body>Private Building (B01)</body>
+    <body>Prédio Privado (B01)</body>
   </string>
   <string>
     <id>903237</id>
     <name>STR_HOUSING_BUILDING_PERSONAL_C_01</name>
-    <body>Private Building (C01)</body>
+    <body>Prédio Privado (C01)</body>
   </string>
   <string>
     <id>903238</id>
     <name>STR_HOUSING_BUILDING_PERSONAL_D_01</name>
-    <body>Private Building (D01)</body>
+    <body>Prédio Privado (D01)</body>
   </string>
   <string>
     <id>903239</id>
     <name>STR_L2AUTH_NEED_TO_CERT_ACCOUNT_BY_NAME</name>
-    <body>&lt;p&gt;You have yet to verify your real name. Please try logging in again after verifying your real name at the website below.&lt;/p&gt;&lt;p&gt;&lt;a href="https://en.aion.gameforge.com/?link=ingame"&gt;(https://help.novaverso.online/)&lt;/a&gt;&lt;/p&gt;</body>
+    <body>&lt;p&gt;Você ainda não verificou seu nome verdadeiro. Por favor, tente fazer login novamente após verificar seu nome verdadeiro no site abaixo.&lt;/p&gt;&lt;p&gt;&lt;a href="http://aiononline.com.br/"&gt;(http://aiononline.com.br/)&lt;/a&gt;&lt;/p&gt;</body>
   </string>
   <string>
     <id>903241</id>
@@ -16271,7 +16269,7 @@ You can use the '/Fatigue' command to check the Fatigue Level.</body>
   <string>
     <id>903242</id>
     <name>STR_HOUSING_BUILDING_PERSONAL_A_02</name>
-    <body>Private Building (A02)</body>
+    <body>Prédio Privado (A02)</body>
   </string>
   <string>
     <id>903243</id>
@@ -16591,7 +16589,7 @@ Continuar?&lt;/p&gt;</body>
   <string>
     <id>903306</id>
     <name>STR_HOUSING_BUILDING_PERSONAL_B_02</name>
-    <body>Private Building (B02)</body>
+    <body>Prédio Privado (B02)</body>
   </string>
   <string>
     <id>903307</id>
@@ -16716,27 +16714,27 @@ Continuar?&lt;/p&gt;</body>
   <string>
     <id>903331</id>
     <name>STR_TOWER_DEFENCE_GAME_OVER_TIME</name>
-    <body>Elapsed Time: %0</body>
+    <body>Tempo Decorrido: %0</body>
   </string>
   <string>
     <id>903332</id>
     <name>STR_TOWER_DEFENCE_DIFFICULT</name>
-    <body>Difficulty: %0</body>
+    <body>Dificuldade: %0</body>
   </string>
   <string>
     <id>903333</id>
     <name>STR_TOWER_DEFENCE_POPUP_MAKE_FRIEND</name>
-    <body>Add Friend</body>
+    <body>Adicionar Amigo</body>
   </string>
   <string>
     <id>903334</id>
     <name>STR_TOWER_DEFENCE_POPUP_INVITE_GUILD</name>
-    <body>Invite to Legion</body>
+    <body>Convidar para a Legião</body>
   </string>
   <string>
     <id>903335</id>
     <name>STR_TOWER_DEFENCE_POPUP_VIEW_TWITTER_PROFILE</name>
-    <body>Show Twitter Profile</body>
+    <body>Mostrar Perfil do Twitter</body>
   </string>
   <string>
     <id>903336</id>
@@ -16746,27 +16744,27 @@ Continuar?&lt;/p&gt;</body>
   <string>
     <id>903337</id>
     <name>STR_MSGBOX_REGISTER_HOUSING_ITEM_CONFIRM</name>
-    <body>&lt;p&gt;Are you sure you want to put the selected item into the container?&lt;/p&gt;&lt;p&gt;You will not be able to put the piece of furniture back into your inventory and the timer will start.&lt;/p&gt;</body>
+    <body>&lt;p&gt;Tem certeza de que deseja colocar o item selecionado no contêiner?&lt;/p&gt;&lt;p&gt;Você não poderá colocar o móvel de volta no seu inventário e o cronômetro começará.&lt;/p&gt;</body>
   </string>
   <string>
     <id>903338</id>
     <name>STR_TOWER_DEFENCE_HELP_TUTORIAL_5</name>
-    <body>Use Artefact: Right-click</body>
+    <body>Usar Artefato: Clique-direito</body>
   </string>
   <string>
     <id>903339</id>
     <name>STR_TOWER_DEFENCE_HELP_TUTORIAL_6</name>
-    <body>Damage All Enemies</body>
+    <body>Dano a Todos os Inimigos</body>
   </string>
   <string>
     <id>903340</id>
     <name>STR_TOWER_DEFENCE_HELP_TUTORIAL_7</name>
-    <body>Slow Enemies</body>
+    <body>Deixar Inimigos Lentos</body>
   </string>
   <string>
     <id>903341</id>
     <name>STR_TOWER_DEFENCE_HELP_TUTORIAL_8</name>
-    <body>Restore Cannon and Fortress HP</body>
+    <body>Restaurar HP do Canhão e da Fortaleza</body>
   </string>
   <string>
     <id>903342</id>
@@ -16936,7 +16934,7 @@ Continuar?&lt;/p&gt;</body>
   <string>
     <id>903378</id>
     <name>STR_HOUSING_PLACE_AREA_NONE</name>
-    <body>nothing</body>
+    <body>nada</body>
   </string>
   <string>
     <id>903379</id>
@@ -16956,7 +16954,7 @@ Continuar?&lt;/p&gt;</body>
   <string>
     <id>903382</id>
     <name>STR_HOUSING_PLACE_LOCATION_NONE</name>
-    <body>nothing</body>
+    <body>nada</body>
   </string>
   <string>
     <id>903383</id>
@@ -16971,7 +16969,7 @@ Continuar?&lt;/p&gt;</body>
   <string>
     <id>903385</id>
     <name>STR_CRAFTWINDOW_MENUISIER</name>
-    <body>Craft Furniture</body>
+    <body>Criar Móveis</body>
   </string>
   <string>
     <id>903386</id>
@@ -17011,17 +17009,17 @@ Continuar?&lt;/p&gt;</body>
   <string>
     <id>903393</id>
     <name>STR_MSGBOX_MOVE_FROM_ORIGINAL_TO_NOVICE_SERVER_CONFIRM</name>
-    <body>Switching to the novice server will restrict your ability to trade, along with several other functions, but you will still be able to join teams with players from other servers. However, it will restrict your ability to join a team with members of your current group or alliance. Are you sure you want to switch?</body>
+    <body>Mudar para o servidor novato restringirá sua capacidade de negociar, junto com várias outras funções, mas você ainda poderá se juntar a equipes com jogadores de outros servidores. No entanto, isso restringirá sua capacidade de se juntar a uma equipe com membros do seu grupo ou aliança atual. Tem certeza de que quer mudar?</body>
   </string>
   <string>
     <id>903394</id>
     <name>STR_MSGBOX_MOVE_FROM_NOVICE_TO_ORIGINAL_SERVER_CONFIRM</name>
-    <body>Switching to the main server will restrict your ability to join a team with Novice Server players, or with members of your current group or alliance. Are you sure you want to switch?</body>
+    <body>Mudar para o servidor principal restringirá sua capacidade de se juntar a uma equipe com jogadores do Servidor Novato, ou com membros do seu grupo ou aliança atual. Tem certeza de que deseja mudar?</body>
   </string>
   <string>
     <id>903395</id>
     <name>STR_MSGBOX_MOVE_SERVER</name>
-    <body>Transferring to the %0.\n\nTime remaining: %1 seconds.</body>
+    <body>Transferindo para %0.\n\nTempo restante: %1 segundo(s).</body>
   </string>
   <string>
     <id>903396</id>
@@ -17031,19 +17029,19 @@ Continuar?&lt;/p&gt;</body>
   <string>
     <id>903397</id>
     <name>STR_TELEPORT_AND_MOVE_SERVER_NEED_CONFIRM</name>
-    <body>The Novice Interserver does not have %0. You will be teleported to the %0 of the Main Server. You need &lt;font font_xml="v3_msgbox_money"&gt;%qina1&lt;/font&gt;. Are you sure you want to switch?</body>
+    <body>O servidor Global de Novatos não tem %0. Você será teletransportado para %0 do Servidor Principal. Você precisa de &lt;font font_xml="v3_msgbox_money"&gt;%qina1&lt;/font&gt;. Tem certeza de que quer mudar?</body>
   </string>
   <string>
     <id>903398</id>
     <name>STR_MSGBOX_MOVE_SERVER_NEED_CONFIRM</name>
-    <body>The Novice Interserver does not have %0. You will be transferred to the Main Server on %0.\nAre you sure you want to switch servers?</body>
+    <body>O servidor Global de Novatos não tem %0. Você será transferido para o Servidor Principal em %0. Tem certeza de que deseja mudar de servidor?</body>
   </string>
   <string>
     <id>903399</id>
     <name>STR_MSGBOX_RESURRECT_AT_ORIGINAL_SERVER_CONFIRM</name>
-    <body>&lt;p align="left"&gt;Click ‘OK’ to respawn immediately at %0 on the main server.&lt;/p&gt;
+    <body>&lt;p align="left"&gt;Clique em 'OK' para renascer imediatamente em %0 no servidor principal.&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
-&lt;p align="left"&gt;Other players will be able to respawn at your current location for %1 minutes.&lt;/p&gt;</body>
+&lt;p align="left"&gt;Outros jogadores poderão renascer na sua localização atual por %1 minuto(s).&lt;/p&gt;</body>
   </string>
   <string>
     <id>903400</id>
@@ -17058,17 +17056,17 @@ Continuar?&lt;/p&gt;</body>
   <string>
     <id>903402</id>
     <name>STR_HOUSING_AUCTION_MAIL_FAIL1_TITLE_LIGHT</name>
-    <body>Notification of housing bid dismissal - outbid.</body>
+    <body>Notificação de rejeição de oferta de imóvel - oferta superior registrada.</body>
   </string>
   <string>
     <id>903403</id>
     <name>STR_HOUSING_AUCTION_MAIL_FAIL1_HEADER_LIGHT</name>
-    <body>Your bid has been dismissed, because you were outbid by %2 on %0 at %1.</body>
+    <body>Sua oferta foi rejeitada, porque você ela superada por %2 na %0 às %1.</body>
   </string>
   <string>
     <id>903404</id>
     <name>STR_HOUSING_AUCTION_MAIL_FAIL1_BODY_LIGHT</name>
-    <body>\n\nYou’ll get the amount you paid back.</body>
+    <body>\n\nVocê receberá o valor que pagou de volta.</body>
   </string>
   <string>
     <id>903405</id>
@@ -17083,17 +17081,17 @@ Continuar?&lt;/p&gt;</body>
   <string>
     <id>903407</id>
     <name>STR_HOUSING_AUCTION_MAIL_FAIL1_TITLE_DARK</name>
-    <body>Notification of housing bid dismissal - outbid.</body>
+    <body>Notificação de rejeição de oferta de imóvel - oferta superior registrada.</body>
   </string>
   <string>
     <id>903408</id>
     <name>STR_HOUSING_AUCTION_MAIL_FAIL1_HEADER_DARK</name>
-    <body>Your bid has been dismissed, because you were outbid by %2 on %0 at %1.</body>
+    <body>Sua oferta foi rejeitada, porque você ela superada por %2 na %0 às %1.</body>
   </string>
   <string>
     <id>903409</id>
     <name>STR_HOUSING_AUCTION_MAIL_FAIL1_BODY_DARK</name>
-    <body>\n\nYou’ll get the amount you paid back.</body>
+    <body>\n\nVocê receberá o valor que pagou de volta.</body>
   </string>
   <string>
     <id>903410</id>
@@ -17108,17 +17106,17 @@ Continuar?&lt;/p&gt;</body>
   <string>
     <id>903412</id>
     <name>STR_HOUSING_AUCTION_MAIL_FAIL2_TITLE_LIGHT</name>
-    <body>Notification of housing bid dismissal - property removed from auction.</body>
+    <body>Notificação de rejeição de oferta de imóvel - propriedade removida do leilão.</body>
   </string>
   <string>
     <id>903413</id>
     <name>STR_HOUSING_AUCTION_MAIL_FAIL2_HEADER_LIGHT</name>
-    <body>The auction for %2 has been cancelled. The property was removed from the auction on %0 at %1.</body>
+    <body>O leilão para %2 foi cancelado.  A propriedade foi removida do leilão em %0 às %1.</body>
   </string>
   <string>
     <id>903414</id>
     <name>STR_HOUSING_AUCTION_MAIL_FAIL2_BODY_LIGHT</name>
-    <body>\n\nYou’ll get the amount you paid back.</body>
+    <body>\n\nVocê receberá o valor que pagou de volta.</body>
   </string>
   <string>
     <id>903415</id>
@@ -17133,17 +17131,17 @@ Continuar?&lt;/p&gt;</body>
   <string>
     <id>903417</id>
     <name>STR_HOUSING_AUCTION_MAIL_FAIL2_TITLE_DARK</name>
-    <body>Notification of housing bid dismissal - property removed from auction.</body>
+    <body>Notificação de rejeição de oferta de imóvel - propriedade removida do leilão.</body>
   </string>
   <string>
     <id>903418</id>
     <name>STR_HOUSING_AUCTION_MAIL_FAIL2_HEADER_DARK</name>
-    <body>The auction for %2 has been cancelled. The property was removed from the auction on %0 at %1.</body>
+    <body>O leilão para %2 foi cancelado.  A propriedade foi removida do leilão em %0 às %1.</body>
   </string>
   <string>
     <id>903419</id>
     <name>STR_HOUSING_AUCTION_MAIL_FAIL2_BODY_DARK</name>
-    <body>\n\nYou’ll get the amount you paid back.</body>
+    <body>\n\nVocê receberá o valor que pagou de volta.</body>
   </string>
   <string>
     <id>903420</id>
@@ -17158,17 +17156,17 @@ Continuar?&lt;/p&gt;</body>
   <string>
     <id>903422</id>
     <name>STR_HOUSING_AUCTION_MAIL_FAIL3_TITLE_LIGHT</name>
-    <body>Notification of housing bid dismissal - bid unsuccessful.</body>
+    <body>Notificação de rejeição de oferta de imóvel - proposta não aceita.</body>
   </string>
   <string>
     <id>903423</id>
     <name>STR_HOUSING_AUCTION_MAIL_FAIL3_HEADER_LIGHT</name>
-    <body>Your bid on %2 was unsuccessful on %0 at %1.</body>
+    <body>Sua oferta para %2 não foi aceita em %0 em %1.</body>
   </string>
   <string>
     <id>903424</id>
     <name>STR_HOUSING_AUCTION_MAIL_FAIL3_BODY_LIGHT</name>
-    <body>\n\nThe deposit you registered will be used to pay the fee.</body>
+    <body>\n\nO depósito que você registrou será usado para pagar a taxa.</body>
   </string>
   <string>
     <id>903425</id>
@@ -17183,17 +17181,17 @@ Continuar?&lt;/p&gt;</body>
   <string>
     <id>903427</id>
     <name>STR_HOUSING_AUCTION_MAIL_FAIL3_TITLE_DARK</name>
-    <body>Notification of housing bid dismissal - bid unsuccessful.</body>
+    <body>Notificação de rejeição de oferta de imóvel - proposta não aceita.</body>
   </string>
   <string>
     <id>903428</id>
     <name>STR_HOUSING_AUCTION_MAIL_FAIL3_HEADER_DARK</name>
-    <body>Your bid on %2 was unsuccessful on %0 at %1.</body>
+    <body>Sua oferta para %2 não foi aceita em %0 em %1.</body>
   </string>
   <string>
     <id>903429</id>
     <name>STR_HOUSING_AUCTION_MAIL_FAIL3_BODY_DARK</name>
-    <body>\n\nThe deposit you registered will be used to pay the fee.</body>
+    <body>\n\nO depósito que você registrou será usado para pagar a taxa.</body>
   </string>
   <string>
     <id>903430</id>
@@ -17208,17 +17206,17 @@ Continuar?&lt;/p&gt;</body>
   <string>
     <id>903432</id>
     <name>STR_HOUSING_AUCTION_MAIL_SUCCESS_TITLE_LIGHT</name>
-    <body>Notification of housing bid dismissal - registration</body>
+    <body>Notificação de rejeição de oferta de imóvel - registro</body>
   </string>
   <string>
     <id>903433</id>
     <name>STR_HOUSING_AUCTION_MAIL_SUCCESS_HEADER_LIGHT</name>
-    <body>Successfully sold %2 on %0 at %1.</body>
+    <body>Você vendeu %2 em %0 às %1.</body>
   </string>
   <string>
     <id>903434</id>
     <name>STR_HOUSING_AUCTION_MAIL_SUCCESS_BODY_LIGHT</name>
-    <body>\n\nThe selling price and deposit have been used to pay the fee, and any remaining amount has been transferred.</body>
+    <body>\n\nO preço de venda e o depósito foram usados para pagar a taxa, e qualquer valor restante foi transferido.</body>
   </string>
   <string>
     <id>903435</id>
@@ -17233,17 +17231,17 @@ Continuar?&lt;/p&gt;</body>
   <string>
     <id>903437</id>
     <name>STR_HOUSING_AUCTION_MAIL_SUCCESS_TITLE_DARK</name>
-    <body>Notification of housing bid dismissal - registration</body>
+    <body>Notificação de rejeição de oferta de imóvel - registro</body>
   </string>
   <string>
     <id>903438</id>
     <name>STR_HOUSING_AUCTION_MAIL_SUCCESS_HEADER_DARK</name>
-    <body>Successfully sold %2 on %0 at %1.</body>
+    <body>Você vendeu %2 em %0 às %1.</body>
   </string>
   <string>
     <id>903439</id>
     <name>STR_HOUSING_AUCTION_MAIL_SUCCESS_BODY_DARK</name>
-    <body>\n\nThe selling price and deposit have been used to pay the fee, and any remaining amount has been transferred.</body>
+    <body>\n\nO preço de venda e o depósito foram usados para pagar a taxa, e qualquer valor restante foi transferido.</body>
   </string>
   <string>
     <id>903440</id>
@@ -17363,7 +17361,7 @@ Continuar?&lt;/p&gt;</body>
   <string>
     <id>903463</id>
     <name>STR_MSGBOX_MOVE_SERVER_INTERSERVER_HELP_BTN</name>
-    <body>Help</body>
+    <body>Ajuda</body>
   </string>
   <string>
     <id>903464</id>
@@ -17373,12 +17371,12 @@ Continuar?&lt;/p&gt;</body>
   <string>
     <id>903465</id>
     <name>STR_INTERSERVER_NOVICE_NAME</name>
-    <body>Novice Server</body>
+    <body>Servidor de Novatos</body>
   </string>
   <string>
     <id>903466</id>
     <name>STR_INTERSERVER_ORIGINAL_NAME</name>
-    <body>Main Server</body>
+    <body>Servidor Principal</body>
   </string>
   <string>
     <id>903467</id>
@@ -17658,12 +17656,12 @@ Continuar?&lt;/p&gt;</body>
   <string>
     <id>903522</id>
     <name>STR_KICKED_BY_TEENAGER_POLICY</name>
-    <body>The German Youth Protection Act requires that your ability to access the game be restricted. You have been disconnected.</body>
+    <body>A Lei de Proteção da Juventude da Alemanha exige que seu acesso ao jogo seja restrito.  Você foi desconectado.</body>
   </string>
   <string>
     <id>903523</id>
     <name>STR_RESTRICTED_TIME_BY_TEENAGER_POLICY</name>
-    <body>The German Youth Protection Act prevents use between %0 and %1 o’clock.</body>
+    <body>A Lei de Proteção à Juventude da Alemanha proíbe o uso entre %0 e %1 horas.</body>
   </string>
   <string>
     <id>903524</id>
@@ -17903,7 +17901,7 @@ Continuar?&lt;/p&gt;</body>
   <string>
     <id>903571</id>
     <name>STR_HOUSING_FEATURE_DEFAULT</name>
-    <body>[Default] %0</body>
+    <body>[Padrão] %0</body>
   </string>
   <string>
     <id>903572</id>
@@ -18138,7 +18136,7 @@ Continuar?&lt;/p&gt;</body>
   <string>
     <id>903620</id>
     <name>STR_TOOLTIP_BOOST_VITALPOINT_NAME</name>
-    <body>Forte Energia de Repouso</body>
+    <body>Energia de Repouso Forte</body>
   </string>
   <string>
     <id>903621</id>
@@ -18163,17 +18161,17 @@ Continuar?&lt;/p&gt;</body>
   <string>
     <id>903625</id>
     <name>STR_F2P_ABYSS_REWARD_MAIL_SHOP_HEADER_ALL</name>
-    <body>You currently have the following account type: [%bm_account_type]. You are receiving the equivalent rewards.</body>
+    <body>Atualmente, você possui o seguinte tipo de conta: [%bm_account_type].  Você está recebendo as recompensas equivalentes.</body>
   </string>
   <string>
     <id>903626</id>
     <name>STR_F2P_ABYSS_REWARD_MAIL_SHOP_BODY_ALL</name>
-    <body>\n\nBy purchasing a Gold Pack you can qualify for better rewards. [%shoplink]</body>
+    <body>\n\nAo comprar um Pacote VIP, você pode se qualificar para melhores recompensas. [%shoplink]</body>
   </string>
   <string>
     <id>903627</id>
     <name>STR_F2P_ABYSS_REWARD_MAIL_SHOP_TAIL_ALL</name>
-    <body>\n\n- Loja do AION Manager</body>
+    <body>\n\n- Loja do AION</body>
   </string>
   <string>
     <id>903639</id>
@@ -18213,142 +18211,142 @@ Continuar?&lt;/p&gt;</body>
   <string>
     <id>903892</id>
     <name>STR_L2AUTH_S_ACCOUNTCACHESERVER_DOWN</name>
-    <body>The account server is down. You cannot access it now.</body>
+    <body>O servidor de contas está fora do ar.  Você não pode acessá-lo agora.</body>
   </string>
   <string>
     <id>903936</id>
     <name>STR_F2P_ABYSS_REWARD_MAIL_OCCUPY_SENDER_ALL</name>
-    <body>Loja do AION Manager</body>
+    <body>Loja do AION</body>
   </string>
   <string>
     <id>903937</id>
     <name>STR_F2P_ABYSS_REWARD_MAIL_OCCUPY_TITLE_ALL</name>
-    <body>Siege Rewards</body>
+    <body>Recompensas da Guerra</body>
   </string>
   <string>
     <id>903938</id>
     <name>STR_F2P_ABYSS_REWARD_MAIL_OCCUPY_HEADER_ALL</name>
-    <body>You took part in a successful siege (%2, 1%, %0). You will receive rewards correspondent to your account type: [%bm_account_type].</body>
+    <body>Você participou de uma guerra bem-sucedida (%2, 1%, %0).  Você receberá recompensas correspondentes ao seu tipo de conta: [%bm_account_type].</body>
   </string>
   <string>
     <id>903939</id>
     <name>STR_F2P_ABYSS_REWARD_MAIL_OCCUPY_BODY_ALL</name>
-    <body>\n\nBy purchasing a Gold Pack you can qualify for better rewards. [%shoplink]</body>
+    <body>\n\nAo comprar um Pacote VIP, você pode se qualificar para melhores recompensas. [%shoplink]</body>
   </string>
   <string>
     <id>903940</id>
     <name>STR_F2P_ABYSS_REWARD_MAIL_OCCUPY_TAIL_ALL</name>
-    <body>\n\n- Loja do AION Manager</body>
+    <body>\n\n- Loja do AION</body>
   </string>
   <string>
     <id>903941</id>
     <name>STR_F2P_FIELDBOSS_REWARD_MAIL_OCCUPY_SENDER_LIGHT</name>
-    <body>Loja do AION Manager</body>
+    <body>Loja do AION</body>
   </string>
   <string>
     <id>903942</id>
     <name>STR_F2P_FIELDBOSS_REWARD_MAIL_OCCUPY_TITLE_LIGHT</name>
-    <body>Siege Rewards</body>
+    <body>Recompensas da Guerra</body>
   </string>
   <string>
     <id>903943</id>
     <name>STR_F2P_FIELDBOSS_REWARD_MAIL_OCCUPY_HEADER_LIGHT</name>
-    <body>We are pleased to deliver words of celebration and encouragement to all Elyos Vanquishers of Markutan's Agent Tegrak in the siege warfare that took place at %1 on %0.\n\n\nYou obtained a limited reward equivalent to that for [%bm_account_type].</body>
+    <body>Temos o prazer de entregar palavras de celebração e encorajamento a todos os Elyos Vencedores do Agente Tegrak de Markutan na guerra que ocorreu em %1 em %0.\n\n\nVocê obteve uma recompensa limitada equivalente à de [%bm_account_type].</body>
   </string>
   <string>
     <id>903944</id>
     <name>STR_F2P_FIELDBOSS_REWARD_MAIL_OCCUPY_BODY_LIGHT</name>
-    <body>\n\nBy purchasing a Gold Pack you can qualify for better rewards. [%shoplink]</body>
+    <body>\n\nAo comprar um Pacote VIP, você pode se qualificar para melhores recompensas. [%shoplink]</body>
   </string>
   <string>
     <id>903945</id>
     <name>STR_F2P_FIELDBOSS_REWARD_MAIL_OCCUPY_TAIL_LIGHT</name>
-    <body>\n\n- Loja do AION Manager</body>
+    <body>\n\n- Loja do AION</body>
   </string>
   <string>
     <id>903946</id>
     <name>STR_F2P_FIELDBOSS_REWARD_MAIL_OCCUPY_SENDER_DARK</name>
-    <body>Loja do AION Manager</body>
+    <body>Loja do AION</body>
   </string>
   <string>
     <id>903947</id>
     <name>STR_F2P_FIELDBOSS_REWARD_MAIL_OCCUPY_TITLE_DARK</name>
-    <body>Siege Rewards</body>
+    <body>Recompensas da Guerra</body>
   </string>
   <string>
     <id>903948</id>
     <name>STR_F2P_FIELDBOSS_REWARD_MAIL_OCCUPY_HEADER_DARK</name>
-    <body>We are pleased to deliver words of celebration and encouragement to all Asmodian Vanquishers of Kaisinel's Agent Heranas in the siege warfare that took place at %1 on %0.\n\n\nYou obtained a limited reward equivalent to that for [%bm_account_type].</body>
+    <body>Temos o prazer de entregar palavras de celebração e encorajamento a todos os Vencedores Asmodians do Agente de Kaisinel, Heranas, na guerra que ocorreu em %1 em %0.\n\n\nVocê obteve uma recompensa limitada equivalente à de [%bm_account_type].</body>
   </string>
   <string>
     <id>903949</id>
     <name>STR_F2P_FIELDBOSS_REWARD_MAIL_OCCUPY_BODY_DARK</name>
-    <body>\n\nBy purchasing a Gold Pack you can qualify for better rewards. [%shoplink]</body>
+    <body>\n\nAo comprar um Pacote VIP, você pode se qualificar para melhores recompensas. [%shoplink]</body>
   </string>
   <string>
     <id>903950</id>
     <name>STR_F2P_FIELDBOSS_REWARD_MAIL_OCCUPY_TAIL_DARK</name>
-    <body>\n\n- Loja do AION Manager</body>
+    <body>\n\n- Loja do AION</body>
   </string>
   <string>
     <id>903951</id>
     <name>STR_F2P_ABYSS_REWARD_MAIL_DEFENSE_SENDER_ALL</name>
-    <body>Loja do AION Manager</body>
+    <body>Loja do AION</body>
   </string>
   <string>
     <id>903952</id>
     <name>STR_F2P_ABYSS_REWARD_MAIL_DEFENSE_TITLE_ALL</name>
-    <body>Siege Rewards</body>
+    <body>Recompensas da Guerra</body>
   </string>
   <string>
     <id>903953</id>
     <name>STR_F2P_ABYSS_REWARD_MAIL_DEFENSE_HEADER_ALL</name>
-    <body>Congratulations on your successful siege (%2, 1%, %0)! You will receive rewards correspondent to your account type: [%bm_account_type].</body>
+    <body>Parabéns pela guerra bem-sucedida (%2, 1%, %0)! Você receberá recompensas correspondentes ao seu tipo de conta: [%bm_account_type].</body>
   </string>
   <string>
     <id>903954</id>
     <name>STR_F2P_ABYSS_REWARD_MAIL_DEFENSE_BODY_ALL</name>
-    <body>\n\nBy purchasing a Gold Pack you can qualify for better rewards. [%shoplink]</body>
+    <body>\n\nAo comprar um Pacote VIP, você pode se qualificar para melhores recompensas. [%shoplink]</body>
   </string>
   <string>
     <id>903955</id>
     <name>STR_F2P_ABYSS_REWARD_MAIL_DEFENSE_TAIL_ALL</name>
-    <body>\n\n- Loja do AION Manager</body>
+    <body>\n\n- Loja do AION</body>
   </string>
   <string>
     <id>903956</id>
     <name>STR_POWERBOOK_BROWSER_TITLE</name>
-    <body>Game Guide</body>
+    <body>Guia do Jogo</body>
   </string>
   <string>
     <id>903957</id>
     <name>STR_KEYMAP_TOGGLEDIALOG_POWERBOOK_BROWSER</name>
-    <body>Game Guide</body>
+    <body>Guia do Jogo</body>
   </string>
   <string>
     <id>903962</id>
     <name>STR_TOOLTIP_COMPOUND_WEAPON_MAIN</name>
-    <body>Primary Armsfusion Item</body>
+    <body>Arma de Fusão Primária</body>
   </string>
   <string>
     <id>903963</id>
     <name>STR_TOOLTIP_COMPOUND_WEAPON_EXTRACT</name>
-    <body>Target to Extract</body>
+    <body>Alvo a Extrair</body>
   </string>
   <string>
     <id>903964</id>
     <name>STR_TOOLTIP_COMPOUND_WEAPON_RESULT</name>
-    <body>Expected Result</body>
+    <body>Resultado Esperado</body>
   </string>
   <string>
     <id>903965</id>
     <name>STR_TOOLTIP_COMPOUND_WEAPON_COMPARE</name>
-    <body>Item for Comparison</body>
+    <body>Item para Comparação</body>
   </string>
   <string>
     <id>903966</id>
     <name>STR_TOOLTIP_COMPOUND_WEAPON_ERASE</name>
-    <body>Target for Armsbreaking</body>
+    <body>Alvo para Quebra de Fusão</body>
   </string>
   <string>
     <id>904009</id>
@@ -18363,12 +18361,12 @@ Continuar?&lt;/p&gt;</body>
   <string>
     <id>904078</id>
     <name>STR_ITEM_CHARGE2_RANKDOWN_CONFIRM</name>
-    <body>If you charge the item with magical power, your Abyss rank will drop.</body>
+    <body>Se você carregar o item com poder mágico, seu Rank do Abyss irá cair.</body>
   </string>
   <string>
     <id>904079</id>
     <name>STR_ITEM_CHARGE2_USER_RANKDOWN_CONFIRM</name>
-    <body>If you charge the item with magical power, your Abyss rank may drop on the next charging.</body>
+    <body>Se você carregar o item com poder mágico, seu Rank do Abyss poderá cair na próxima atualização.</body>
   </string>
   <string>
     <id>904080</id>
@@ -18488,12 +18486,12 @@ Continuar?&lt;/p&gt;</body>
   <string>
     <id>904103</id>
     <name>STR_MAIL_CASH_PURCHASE_RECV_DEADLINE</name>
-    <body>O negócio expira em %0.</body>
+    <body>Expira em %0.</body>
   </string>
   <string>
     <id>904104</id>
     <name>STR_MAIL_CASH_PURCHASE_RECV_NO_LIMIT_INFO</name>
-    <body>O negócio não tem data limite.</body>
+    <body>Não expira.</body>
   </string>
   <string>
     <id>904105</id>
@@ -18744,7 +18742,7 @@ Continuar?&lt;/p&gt;</body>
   <string>
     <id>904154</id>
     <name>STR_TOOLTIP_GOD</name>
-    <body>Lorde</body>
+    <body>Lord</body>
   </string>
   <string>
     <id>904155</id>
@@ -18794,7 +18792,7 @@ Continuar?&lt;/p&gt;</body>
   <string>
     <id>904164</id>
     <name>STR_S1_Pass_Weekly_05</name>
-    <body>Use pergaminhos 30x</body>
+    <body>Use Scrolls 30x</body>
   </string>
   <string>
     <id>904165</id>
@@ -19264,17 +19262,17 @@ Continuar?&lt;/p&gt;</body>
   <string>
     <id>904258</id>
     <name>STR_MSGBOX_WRONG_GOOGLE_OTP_END_CLIENT</name>
-    <body>The OTP code you entered is invalid. The client will be closed if you enter an invalid code %0 times.</body>
+    <body>O código OTP que você inseriu é inválido.  O cliente será fechado se você inserir um código inválido %0 vezes.</body>
   </string>
   <string>
     <id>904259</id>
     <name>STR_ENTER_GOOGLE_OTP</name>
-    <body>Please enter the OTP code.</body>
+    <body>Por favor, insira o código OTP.</body>
   </string>
   <string>
     <id>904260</id>
     <name>STR_MSGBOX_WRONG_GOOGLE_OTP</name>
-    <body>The OTP code you entered is invalid. The client will be closed if an invalid code is entered %0 times.&lt;br&gt;(Attempts so far: %1)</body>
+    <body>O código OTP que você inseriu é inválido.  O cliente será fechado se um código inválido for inserido %0 vezes.&lt;br&gt;(Tentativas até agora: %1)</body>
   </string>
   <string>
     <id>904261</id>
@@ -19324,7 +19322,7 @@ Continuar?&lt;/p&gt;</body>
   <string>
     <id>904270</id>
     <name>STR_S1_Pass_Weekly_01_HTML</name>
-    <body>Derrote monstros 'nomeados' no campo.</body>
+    <body>Derrote monstros 'Nameds' no campo.</body>
   </string>
   <string>
     <id>904271</id>
@@ -19344,7 +19342,7 @@ Continuar?&lt;/p&gt;</body>
   <string>
     <id>904274</id>
     <name>STR_S1_Pass_Weekly_05_HTML</name>
-    <body>Use diferentes tipos de pergaminhos.</body>
+    <body>Use diferentes tipos de Scrolls.</body>
   </string>
   <string>
     <id>904275</id>
@@ -19640,7 +19638,7 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>904326</id>
     <name>STR_POPUP_EMERGENCY_ESCAPE</name>
-    <body>Commencing retreat.\n%0 seconds left until retreat. \nCannot be reactivated until cooldown is over.</body>
+    <body>Começando a retirada!\n%0 segundo(s) até a conclusão. \nSó pode ser ativado novamente em 1h.</body>
   </string>
   <string>
     <id>904327</id>
@@ -19690,7 +19688,7 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>904336</id>
     <name>STR_S2_Pass_Weekly_04</name>
-    <body>Use pergaminhos 30x</body>
+    <body>Use Scrolls 30x</body>
   </string>
   <string>
     <id>904337</id>
@@ -19910,7 +19908,7 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>904380</id>
     <name>STR_S2_Pass_Weekly_04_HTML</name>
-    <body>Use diferentes tipos de pergaminhos.</body>
+    <body>Use diferentes tipos de Scrolls.</body>
   </string>
   <string>
     <id>904381</id>
@@ -20015,9 +20013,9 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>904401</id>
     <name>STR_UI_Security_Warning</name>
-    <body>&lt;p&gt;You will need to be using at least one of the three security services (NC authentication, OTP, device registration) in order to use the Main Server.&lt;/p&gt;
+    <body>&lt;p&gt;Você precisará estar usando pelo menos um dos três serviços de segurança (autenticação NC, OTP, registro de dispositivo) para usar o Servidor Principal.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;We recommend registering for one of the security services available on the following website to protect your data: &lt;a href="https://security.plaync.com"&gt;https://security.plaync.com&lt;/a&gt;.&lt;/p&gt;</body>
+&lt;p&gt;Recomendamos que você se registre em um dos serviços de segurança disponíveis no seguinte site para proteger seus dados: &lt;a href="http://aiononline.com.br"&gt;http://aiononline.com.br&lt;/a&gt;.&lt;/p&gt;</body>
   </string>
   <string>
     <id>904402</id>
@@ -20047,7 +20045,7 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>904407</id>
     <name>STR_TOOLTIP_PROMOTION_VIPMAX</name>
-    <body>Sob Classe %0</body>
+    <body>Sobre a Classe %0</body>
   </string>
   <string>
     <id>904408</id>
@@ -20112,7 +20110,7 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>904420</id>
     <name>STR_S3_Pass_Weekly_04</name>
-    <body>Use pergaminhos 30x</body>
+    <body>Use Scrolls 30x</body>
   </string>
   <string>
     <id>904421</id>
@@ -20352,7 +20350,7 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>904468</id>
     <name>STR_S3_Pass_Weekly_04_HTML</name>
-    <body>[Padrão] Use diferentes tipos de pergaminhos.</body>
+    <body>[Padrão] Use diferentes tipos de Scrolls.</body>
   </string>
   <string>
     <id>904469</id>
@@ -20707,7 +20705,7 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>905865</id>
     <name>STR_WORLD_S3_Pass_Weekly_04</name>
-    <body>[Padrão] Use 30 pergaminhos</body>
+    <body>[Padrão] Use 30 Scrolls</body>
   </string>
   <string>
     <id>905866</id>
@@ -20937,7 +20935,7 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>905911</id>
     <name>STR_S3_WORLD_Pass_Weekly_04_HTML</name>
-    <body>Use diferentes tipos de pergaminhos.</body>
+    <body>Use diferentes tipos de Scrolls.</body>
   </string>
   <string>
     <id>905912</id>
@@ -21012,72 +21010,72 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>905926</id>
     <name>STR_WORLD_S4_Pass_Daily_01</name>
-    <body>Defeat 10 monsters in Atreia</body>
+    <body>Derrote 10 monstros em Atreia.</body>
   </string>
   <string>
     <id>905927</id>
     <name>STR_WORLD_S4_Pass_Daily_02</name>
-    <body>Gain 100 Abyss Points</body>
+    <body>Obtenha 100 Pontos de Abyss</body>
   </string>
   <string>
     <id>905928</id>
     <name>STR_WORLD_S4_Pass_Daily_03</name>
-    <body>Use potions, food, or drinks 15 times </body>
+    <body>Use poções, comidas ou bebidas 15 vezes </body>
   </string>
   <string>
     <id>905929</id>
     <name>STR_WORLD_S4_Pass_Daily_04</name>
-    <body>Buy 1 item from the shop </body>
+    <body>Compre 1 item de qualquer loja do jogo </body>
   </string>
   <string>
     <id>905930</id>
     <name>STR_WORLD_S4_Pass_Daily_05</name>
-    <body>Complete 1 quest</body>
+    <body>Complete 1 missão</body>
   </string>
   <string>
     <id>905931</id>
     <name>STR_WORLD_S4_Pass_Weekly_01</name>
-    <body>Register 10 Items with the Trade Broker</body>
+    <body>Registre 10 itens no Broker</body>
   </string>
   <string>
     <id>905932</id>
     <name>STR_WORLD_S4_Pass_Weekly_02</name>
-    <body>Open 10 Pet's Gift Bundles</body>
+    <body>Abra 10 Pet's Gift Bundles</body>
   </string>
   <string>
     <id>905933</id>
     <name>STR_WORLD_S4_Pass_Weekly_03</name>
-    <body>Defeat one enemy faction memeber</body>
+    <body>Derrote um membro da facção inimiga</body>
   </string>
   <string>
     <id>905934</id>
     <name>STR_WORLD_S4_Pass_Weekly_04</name>
-    <body>Use 30 Scroll items</body>
+    <body>Use 30 Scrolls</body>
   </string>
   <string>
     <id>905935</id>
     <name>STR_WORLD_S4_Pass_Weekly_05</name>
-    <body>Use Kisk 1 time</body>
+    <body>Use um Kisk 1 vez</body>
   </string>
   <string>
     <id>905936</id>
     <name>STR_WORLD_S4_Pass_Weekly_06</name>
-    <body>Extract equipment 5 times</body>
+    <body>Extraia equipamentos 5 vezes</body>
   </string>
   <string>
     <id>905937</id>
     <name>STR_WORLD_S4_Pass_Weekly_07</name>
-    <body>Use Rift 1 time</body>
+    <body>Use um Rift 1 vez</body>
   </string>
   <string>
     <id>905938</id>
     <name>STR_WORLD_S4_Pass_Sesson_01</name>
-    <body>Buy items with Abyss Points</body>
+    <body>Compre itens com Pontos de Abyss</body>
   </string>
   <string>
     <id>905939</id>
     <name>STR_WORLD_S4_Pass_Sesson_02</name>
-    <body>Gain 50,000 Abyss Points</body>
+    <body>Ganhe 50.000 Pontos de Abyss</body>
   </string>
   <string>
     <id>905940</id>
@@ -21087,347 +21085,347 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>905941</id>
     <name>STR_WORLD_S4_Pass_Sesson_04</name>
-    <body>Obtain 3 Medals</body>
+    <body>Obtenha 3 medalhas</body>
   </string>
   <string>
     <id>905942</id>
     <name>STR_WORLD_S4_Pass_Sesson_05</name>
-    <body>Defeat 100 Monsters in Abyss</body>
+    <body>Derrote 100 Monstros no Abyss</body>
   </string>
   <string>
     <id>905943</id>
     <name>STR_WORLD_S4_Pass_Sesson_L_06</name>
-    <body>Defeat 30 Asmodians of 5th rank or above</body>
+    <body>Derrote 30 Asmodians de Rank 5 ou acima</body>
   </string>
   <string>
     <id>905944</id>
     <name>STR_WORLD_S4_Pass_Sesson_D_06</name>
-    <body>Defeat 30 Elyos of 5th rank or above</body>
+    <body>Derrote 30 Elyos de Rank 5 ou acima</body>
   </string>
   <string>
     <id>905945</id>
     <name>STR_WORLD_S4_Pass_Sesson_07</name>
-    <body>Defeat 5 Hornroaches in Black Cloud Island</body>
+    <body>Derrote 5 Hornroaches em Black Cloud Island</body>
   </string>
   <string>
     <id>905946</id>
     <name>STR_WORLD_S4_Pass_Sesson_08</name>
-    <body>Obtain +10 or higher equipment through equipment enchantment once</body>
+    <body>Obtenha equipamento +10 ou superior através de encantamento de equipamento uma vez</body>
   </string>
   <string>
     <id>905947</id>
     <name>STR_WORLD_S4_Pass_Sesson_09</name>
-    <body>Occupy 1 artifact</body>
+    <body>Ocupe 1 artefato</body>
   </string>
   <string>
     <id>905948</id>
     <name>STR_WORLD_S4_Pass_Sesson_10</name>
-    <body>Enchant or socket 20 items</body>
+    <body>Encante ou encaixe Manastones em 20 itens</body>
   </string>
   <string>
     <id>905949</id>
     <name>STR_WORLD_S4_Pass_Daily_01_DESC</name>
-    <body>XP efficiency decreases as the level difference between a monster and your character widens.</body>
+    <body>A eficiência de EXP diminui à medida que a diferença de nível entre um monstro e seu personagem aumenta.</body>
   </string>
   <string>
     <id>905950</id>
     <name>STR_WORLD_S4_Pass_Daily_02_DESC</name>
-    <body>You cannot earn Abyss Points when Siel's Energy is off.</body>
+    <body>Você não pode ganhar Pontos de Abyss quando o Pacote VIP está desligado.</body>
   </string>
   <string>
     <id>905951</id>
     <name>STR_WORLD_S4_Pass_Daily_03_DESC</name>
-    <body>You can also complete this by using a pet's [Auto Use] function.</body>
+    <body>Você também pode completar isso usando a função [Uso Automático] de um pet.</body>
   </string>
   <string>
     <id>905952</id>
     <name>STR_WORLD_S4_Pass_Daily_04_DESC</name>
-    <body>Useful items are available in the General Store.</body>
+    <body>Itens úteis estão disponíveis na General Store,</body>
   </string>
   <string>
     <id>905953</id>
     <name>STR_WORLD_S4_Pass_Daily_05_DESC</name>
-    <body>The quests obtainable from an NPC are displayed above them.</body>
+    <body>As missões obtidas de um NPC são exibidas acima deles.</body>
   </string>
   <string>
     <id>905954</id>
     <name>STR_WORLD_S4_Pass_Weekly_01_DESC</name>
-    <body>You can trade items with other players in the Auction House.</body>
+    <body>Você pode trocar itens com outros jogadores no Broker.</body>
   </string>
   <string>
     <id>905955</id>
     <name>STR_WORLD_S4_Pass_Weekly_02_DESC</name>
-    <body>Pet Management helps you make your pets happy.</body>
+    <body>O Gerenciamento de Pets ajuda você a deixar seus pets felizes.</body>
   </string>
   <string>
     <id>905956</id>
     <name>STR_WORLD_S4_Pass_Weekly_03_DESC</name>
-    <body>You are more likely to encounter enemy factions in Reshanta.</body>
+    <body>Você tem mais chances de encontrar facções inimigas em Reshanta.</body>
   </string>
   <string>
     <id>905957</id>
     <name>STR_WORLD_S4_Pass_Weekly_04_DESC</name>
-    <body>You can also complete this by using a pet's [Auto Use] function.</body>
+    <body>Você também pode completar isso usando a função [Uso Automático] de um pet.</body>
   </string>
   <string>
     <id>905958</id>
     <name>STR_WORLD_S4_Pass_Weekly_05_DESC</name>
-    <body>Install a Kisk in a place where it is unlikely to be detected.</body>
+    <body>Instale um Kisk em um local onde seja improvável que seja detectado.</body>
   </string>
   <string>
     <id>905959</id>
     <name>STR_WORLD_S4_Pass_Weekly_06_DESC</name>
-    <body>Extract equipment with an extraction tool to get an Enchantment Stone.</body>
+    <body>Extraia equipamento com uma Extraction Tool para obter uma Enchantment Stone.</body>
   </string>
   <string>
     <id>905960</id>
     <name>STR_WORLD_S4_Pass_Weekly_07_DESC</name>
-    <body>The Rift always appears at a specified time.</body>
+    <body>O Rift sempre aparece em um horário especificado.</body>
   </string>
   <string>
     <id>905961</id>
     <name>STR_WORLD_S4_Pass_Sesson_01_DESC</name>
-    <body>Use the Contributor in the Reshanta Bind Point.</body>
+    <body>Use o Contributor em Reshanta Bind Point.</body>
   </string>
   <string>
     <id>905962</id>
     <name>STR_WORLD_S4_Pass_Sesson_02_DESC</name>
-    <body>Exchange various relics and defeat monsters in Reshanta.</body>
+    <body>Troque várias relíquias e derrote monstros em Reshanta.</body>
   </string>
   <string>
     <id>905963</id>
     <name>STR_WORLD_S4_Pass_Sesson_03_DESC</name>
-    <body>You can buy Enchant Supplements from Customized Consumables Merchants in big cities.</body>
+    <body>Você pode comprar Enchant Supplements de Comerciantes de Consumíveis Personalizados nas grandes cidades.</body>
   </string>
   <string>
     <id>905964</id>
     <name>STR_WORLD_S4_Pass_Sesson_04_DESC</name>
-    <body>You can earn Medals through fortress battles or quests.</body>
+    <body>Você pode ganhar Medalhas através de guerras de fortaleza ou missões.</body>
   </string>
   <string>
     <id>905965</id>
     <name>STR_WORLD_S4_Pass_Sesson_05_DESC</name>
-    <body>Pay attention to your flight time when flying in Abyss.</body>
+    <body>Preste atenção no seu tempo de voo ao voar no Abyss.</body>
   </string>
   <string>
     <id>905966</id>
     <name>STR_WORLD_S4_Pass_Sesson_L_06_DESC</name>
-    <body>The Options menu will let you show ranks next to names.</body>
+    <body>O menu de Opções permite que você mostre patentes ao lado dos nomes.</body>
   </string>
   <string>
     <id>905967</id>
     <name>STR_WORLD_S4_Pass_Sesson_D_06_DESC</name>
-    <body>The Options menu will let you show ranks next to names.</body>
+    <body>O menu de Opções permite que você mostre patentes ao lado dos nomes.</body>
   </string>
   <string>
     <id>905968</id>
     <name>STR_WORLD_S4_Pass_Sesson_07_DESC</name>
-    <body>Black Cloud Island is in the south of the Upper Abyss.</body>
+    <body>Black Cloud Island está localizada no sul do Upper Abyss.</body>
   </string>
   <string>
     <id>905969</id>
     <name>STR_WORLD_S4_Pass_Sesson_08_DESC</name>
-    <body>Enchant Supplements increase the enchantment success rate.</body>
+    <body>Enchant Supplements aumentam a taxa de sucesso do encantamento.</body>
   </string>
   <string>
     <id>905970</id>
     <name>STR_WORLD_S4_Pass_Sesson_09_DESC</name>
-    <body>Defeat the Artifact Protector to occupy the artifact.</body>
+    <body>Derrote o Protetor do Artefato para ocupar o artefato.</body>
   </string>
   <string>
     <id>905971</id>
     <name>STR_WORLD_S4_Pass_Sesson_10_DESC</name>
-    <body>When you are in a group, your kill count is shared.</body>
+    <body>Quando você está em um grupo, sua contagem de mortes é compartilhada.</body>
   </string>
   <string>
     <id>905972</id>
     <name>STR_S4_WORLD_Pass_Daily_01_HTML</name>
-    <body>Defeat field monsters with a level difference of 5 or less.</body>
+    <body>Derrote monstros de campo com uma diferença de nível de 5 ou menos.</body>
   </string>
   <string>
     <id>905973</id>
     <name>STR_S4_WORLD_Pass_Daily_02_HTML</name>
-    <body>Gain Abyss Points. </body>
+    <body>Ganhe Pontos de Abyss. </body>
   </string>
   <string>
     <id>905974</id>
     <name>STR_S4_WORLD_Pass_Daily_03_HTML</name>
-    <body>Use various types of consumables.</body>
+    <body>Use vários tipos de consumíveis.</body>
   </string>
   <string>
     <id>905975</id>
     <name>STR_S4_WORLD_Pass_Daily_04_HTML</name>
-    <body>Buy items with different goods.</body>
+    <body>Compre itens com diferentes mercadorias.</body>
   </string>
   <string>
     <id>905976</id>
     <name>STR_S4_WORLD_Pass_Daily_05_HTML</name>
-    <body>Complete a quest.</body>
+    <body>Complete uma missão.</body>
   </string>
   <string>
     <id>905977</id>
     <name>STR_S4_WORLD_Pass_Weekly_01_HTML</name>
-    <body>Use the Auction House. You can find Trade Brokers in big cities or main bind points.</body>
+    <body>Use o Broker. Você pode encontrar Brokers em grandes cidades ou pontos de ligação principais.</body>
   </string>
   <string>
     <id>905978</id>
     <name>STR_S4_WORLD_Pass_Weekly_02_HTML</name>
-    <body>Open the gift bundle your pet gave you.</body>
+    <body>Abra o pacote de presente que seu pet lhe deu.</body>
   </string>
   <string>
     <id>905979</id>
     <name>STR_S4_WORLD_Pass_Weekly_03_HTML</name>
-    <body>Defeat an enemy race.</body>
+    <body>Derrote uma raça inimiga.</body>
   </string>
   <string>
     <id>905980</id>
     <name>STR_S4_WORLD_Pass_Weekly_04_HTML</name>
-    <body>Use various types of scrolls.</body>
+    <body>Use vários tipos de scrolls.</body>
   </string>
   <string>
     <id>905981</id>
     <name>STR_S4_WORLD_Pass_Weekly_05_HTML</name>
-    <body>Use a Kisk.</body>
+    <body>Use um Kisk.</body>
   </string>
   <string>
     <id>905982</id>
     <name>STR_S4_WORLD_Pass_Weekly_06_HTML</name>
-    <body>Extract equipment with an extraction tool.</body>
+    <body>Extraia equipamentos com uma Extraction Tool.</body>
   </string>
   <string>
     <id>905983</id>
     <name>STR_S4_WORLD_Pass_Weekly_07_HTML</name>
-    <body>Use the Rift.</body>
+    <body>Use o Rift.</body>
   </string>
   <string>
     <id>905984</id>
     <name>STR_S4_WORLD_Pass_Sesson_01_HTML</name>
-    <body>Buy items with Abyss Points.</body>
+    <body>Compre itens com Pontos de Abyss.</body>
   </string>
   <string>
     <id>905985</id>
     <name>STR_S4_WORLD_Pass_Sesson_02_HTML</name>
-    <body>Gain 50,000 Abyss Points.</body>
+    <body>Ganhe 50.000 Pontos de Abyss.</body>
   </string>
   <string>
     <id>905986</id>
     <name>STR_S4_WORLD_Pass_Sesson_03_HTML</name>
-    <body>Try enchanting with a Lesser Enchant Supplement (Unique).</body>
+    <body>Tente encantar um item usando Lesser Enchant Supplement (Unique).</body>
   </string>
   <string>
     <id>905987</id>
     <name>STR_S4_WORLD_Pass_Sesson_04_HTML</name>
-    <body>Obtain 3 Medals.</body>
+    <body>Obtenha 3 medalhas.</body>
   </string>
   <string>
     <id>905988</id>
     <name>STR_S4_WORLD_Pass_Sesson_05_HTML</name>
-    <body>Defeat monsters in Reshanta.</body>
+    <body>Derrote monstros em Reshanta.</body>
   </string>
   <string>
     <id>905989</id>
     <name>STR_S4_WORLD_Pass_Sesson_L_06_HTML</name>
-    <body>Defeat 30 Asmodians of 5th rank or above.</body>
+    <body>Derrote 30 Asmodians de Rank 5 ou acima.</body>
   </string>
   <string>
     <id>905990</id>
     <name>STR_S4_WORLD_Pass_Sesson_D_06_HTML</name>
-    <body>Defeat 30 Elyos of 5th rank or above.</body>
+    <body>Derrote 30 Elyos de Rank 5 ou acima.</body>
   </string>
   <string>
     <id>905991</id>
     <name>STR_S4_WORLD_Pass_Sesson_07_HTML</name>
-    <body>The Black Cloud Traders are troubled by Hornroaches that appeared in their base. Defeat 5 Hornroaches in Black Cloud Island. The Black Cloud Island is somewhere in the south of the Upper Abyss.</body>
+    <body>Os Black Cloud Traders estão perturbados pelas Hornroaches que apareceram em sua base. Derrote 5 Hornroaches na Black Cloud Island. A Black Cloud Island fica em algum lugar ao sul do Upper Abyss.</body>
   </string>
   <string>
     <id>905992</id>
     <name>STR_S4_WORLD_Pass_Sesson_08_HTML</name>
-    <body>Obtain +10 or higher equipment through equipment enchantment.</body>
+    <body>Obtenha equipamento +10 ou superior através de encantamento de equipamento.</body>
   </string>
   <string>
     <id>905993</id>
     <name>STR_S4_WORLD_Pass_Sesson_09_HTML</name>
-    <body>Defeat the Artifact Protector.</body>
+    <body>Derrote o Protetor do Artefato.</body>
   </string>
   <string>
     <id>905994</id>
     <name>STR_S4_WORLD_Pass_Sesson_10_HTML</name>
-    <body>Succeed in equipment enchantment and manastone socketing 20 times</body>
+    <body>Tenha sucesso em encantamento de equipamentos ou encaixe de manastones 20 vezes.</body>
   </string>
   <string>
     <id>906143</id>
     <name>STR_S5_WORLD_Pass_Daily_01</name>
-    <body>[Daily] Defeat 10 monsters in Atreia</body>
+    <body>[Diária] Derrote 10 monstros em Atreia.</body>
   </string>
   <string>
     <id>906144</id>
     <name>STR_S5_WORLD_Pass_Daily_02</name>
-    <body>[Daily] Gain 100 Abyss Points</body>
+    <body>[Diária] Obtenha 100 Pontos de Abyss</body>
   </string>
   <string>
     <id>906145</id>
     <name>STR_S5_WORLD_Pass_Daily_03</name>
-    <body>[Daily] Use potions, food, or drinks 15 times</body>
+    <body>[Diária] Use poções, comidas ou bebidas 15 vezes</body>
   </string>
   <string>
     <id>906146</id>
     <name>STR_S5_WORLD_Pass_Daily_04</name>
-    <body>[Daily] Buy 1 item in the shop</body>
+    <body>[Diária] Compre 1 item na loja</body>
   </string>
   <string>
     <id>906147</id>
     <name>STR_S5_WORLD_Pass_Daily_05</name>
-    <body>[Daily] Complete 1 quest</body>
+    <body>[Diária] Complete 1 missão</body>
   </string>
   <string>
     <id>906148</id>
     <name>STR_S5_WORLD_Pass_Weekly_01</name>
-    <body>[Daily] Register 10 items with the Trade Broker</body>
+    <body>[Diária] Registre 10 itens no Broker</body>
   </string>
   <string>
     <id>906149</id>
     <name>STR_S5_WORLD_Pass_Weekly_02</name>
-    <body>[Daily] Open 10 Pet's Gift Bundles</body>
+    <body>[Diária] Abra 10 Pet's Gift Bundles</body>
   </string>
   <string>
     <id>906150</id>
     <name>STR_S5_WORLD_Pass_Weekly_03</name>
-    <body>[Weekly] Defeat one enemy faction member</body>
+    <body>[Semanal] Derrote um inimigo da outra facção</body>
   </string>
   <string>
     <id>906151</id>
     <name>STR_S5_WORLD_Pass_Weekly_04</name>
-    <body>[Weekly] Use 30 scroll items</body>
+    <body>[Semanal] Use 30 itens de scroll</body>
   </string>
   <string>
     <id>906152</id>
     <name>STR_S5_WORLD_Pass_Weekly_05</name>
-    <body>[Weekly] Use 1 Kisk</body>
+    <body>[Semanal] Use 1 Kisk</body>
   </string>
   <string>
     <id>906153</id>
     <name>STR_S5_WORLD_Pass_Weekly_06</name>
-    <body>[Weekly] Extract equipment 5 times</body>
+    <body>[Semanal] Extraia equipamentos 5 vezes</body>
   </string>
   <string>
     <id>906154</id>
     <name>STR_S5_WORLD_Pass_Weekly_07</name>
-    <body>[Weekly] Enter the Dredgion 3 times</body>
+    <body>[Semanal] Entre na Dredgion 3 vezes</body>
   </string>
   <string>
     <id>906155</id>
     <name>STR_S5_WORLD_Pass_Weekly_08</name>
-    <body>[Weekly] Enter two instanced dungeons</body>
+    <body>[Semanal] Entre em duas instâncias</body>
   </string>
   <string>
     <id>906156</id>
     <name>STR_S5_WORLD_Pass_Sesson_01</name>
-    <body>[Season] Buy 1 item with Abyss Points</body>
+    <body>[Temporada] Compre 1 item com Pontos de Abyss</body>
   </string>
   <string>
     <id>906157</id>
     <name>STR_S5_WORLD_Pass_Sesson_02</name>
-    <body>[Season] Gain 50,000 Abyss Points</body>
+    <body>[Temporada] Ganhe 50.000 Pontos de Abyss</body>
   </string>
   <string>
     <id>906158</id>
@@ -21437,612 +21435,612 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906159</id>
     <name>STR_S5_WORLD_Pass_Sesson_04</name>
-    <body>[Season] Obtain 3 Medals</body>
+    <body>[Temporada] Obtenha 3 medalhas</body>
   </string>
   <string>
     <id>906160</id>
     <name>STR_S5_WORLD_Pass_Sesson_05</name>
-    <body>[Season] Defeat 100 monsters in Reshanta</body>
+    <body>[Temporada] Derrote 100 monstros em Reshanta</body>
   </string>
   <string>
     <id>906161</id>
     <name>STR_S5_WORLD_Pass_Sesson_L_06</name>
-    <body>[Season] Defeat 30 Asmodians of 5th rank or above</body>
+    <body>[Temporada] Derrote 30 Asmodians de Rank 5 ou acima</body>
   </string>
   <string>
     <id>906162</id>
     <name>STR_S5_WORLD_Pass_Sesson_D_06</name>
-    <body>[Season] Defeat 30 Elyos of 5th rank or above</body>
+    <body>[Temporada] Derrote 30 Elyos de Rank 5 ou acima</body>
   </string>
   <string>
     <id>906163</id>
     <name>STR_S5_WORLD_Pass_Sesson_07</name>
-    <body>[Season] Defeat Brigade General Anuhart of Dark Poeta once</body>
+    <body>[Temporada] Derrote o Brigade General Anuhart em Dark Poeta uma vez</body>
   </string>
   <string>
     <id>906164</id>
     <name>STR_S5_WORLD_Pass_Sesson_08</name>
-    <body>[Season] Defeat Dredgion Captain Adhati 3 times</body>
+    <body>[Temporada] Derrote o Dredgion Captain Adhati 3 vezes</body>
   </string>
   <string>
     <id>906165</id>
     <name>STR_S5_WORLD_Pass_Sesson_09</name>
-    <body>[Season] Enchant or socket 20 items</body>
+    <body>[Temporada] Encante ou encaixe Manastones em 20 itens</body>
   </string>
   <string>
     <id>906166</id>
     <name>STR_S5_WORLD_Pass_Sesson_10</name>
-    <body>[Season] Use the Rift 1 time</body>
+    <body>[Temporada] Use o Rift 1 vez</body>
   </string>
   <string>
     <id>906167</id>
     <name>STR_S5_WORLD_Pass_Daily_01_DESC</name>
-    <body>XP efficiency decreases as the level difference between a monster and your character widens.</body>
+    <body>A eficiência de EXP diminui à medida que a diferença de nível entre um monstro e seu personagem aumenta.</body>
   </string>
   <string>
     <id>906168</id>
     <name>STR_S5_WORLD_Pass_Daily_02_DESC</name>
-    <body>You cannot earn Abyss Points when Siel's Energy is off.</body>
+    <body>Você não pode ganhar Pontos de Abyss quando o Pacote VIP está desligado.</body>
   </string>
   <string>
     <id>906169</id>
     <name>STR_S5_WORLD_Pass_Daily_03_DESC</name>
-    <body>You can also complete this by using a pet's [Auto Use] function.</body>
+    <body>Você também pode completar isso usando a função [Uso Automático] de um pet.</body>
   </string>
   <string>
     <id>906170</id>
     <name>STR_S5_WORLD_Pass_Daily_04_DESC</name>
-    <body>Useful items are available in the General Store.</body>
+    <body>Itens úteis estão disponíveis na General Store,</body>
   </string>
   <string>
     <id>906171</id>
     <name>STR_S5_WORLD_Pass_Daily_05_DESC</name>
-    <body>The quests obtainable from an NPC are displayed above them.</body>
+    <body>As missões obtidas de um NPC são exibidas acima deles.</body>
   </string>
   <string>
     <id>906172</id>
     <name>STR_S5_WORLD_Pass_Weekly_01_DESC</name>
-    <body>You can trade items with other players via the Trade Broker.</body>
+    <body>Você pode trocar itens com outros jogadores através do Broker.</body>
   </string>
   <string>
     <id>906173</id>
     <name>STR_S5_WORLD_Pass_Weekly_02_DESC</name>
-    <body>Pet Management helps you make your pets happy.</body>
+    <body>O Gerenciamento de Pets ajuda você a deixar seus pets felizes.</body>
   </string>
   <string>
     <id>906174</id>
     <name>STR_S5_WORLD_Pass_Weekly_03_DESC</name>
-    <body>You are more likely to encounter opponent races in Reshanta.</body>
+    <body>Você tem mais chances de encontrar raças oponentes em Reshanta.</body>
   </string>
   <string>
     <id>906175</id>
     <name>STR_S5_WORLD_Pass_Weekly_04_DESC</name>
-    <body>You can also complete this by using a pet's [Auto Use] function.</body>
+    <body>Você também pode completar isso usando a função [Uso Automático] de um pet.</body>
   </string>
   <string>
     <id>906176</id>
     <name>STR_S5_WORLD_Pass_Weekly_05_DESC</name>
-    <body>Install a Kisk in a place where it is unlikely to be detected.</body>
+    <body>Instale um Kisk em um local onde seja improvável que seja detectado.</body>
   </string>
   <string>
     <id>906177</id>
     <name>STR_S5_WORLD_Pass_Weekly_06_DESC</name>
-    <body>Extract equipment with an extraction tool to get an Enchantment Stone.</body>
+    <body>Extraia equipamento com uma Extraction Tool para obter uma Enchantment Stone.</body>
   </string>
   <string>
     <id>906178</id>
     <name>STR_S5_WORLD_Pass_Weekly_07_DESC</name>
-    <body>The "Request Entry" button will be shown when you can enter.</body>
+    <body>O botão "Solicitar Entrada" será exibido quando você puder entrar.</body>
   </string>
   <string>
     <id>906179</id>
     <name>STR_S5_WORLD_Pass_Weekly_08_DESC</name>
-    <body>Enter '/CheckEntry in the chat window to see the waiting time.</body>
+    <body>Digite '/CheckEntry' na janela de bate-papo para ver o tempo de espera.</body>
   </string>
   <string>
     <id>906180</id>
     <name>STR_S5_WORLD_Pass_Sesson_01_DESC</name>
-    <body>Use the Contributor in the Reshanta Bind Point.</body>
+    <body>Use o Contributor em Reshanta Bind Point.</body>
   </string>
   <string>
     <id>906181</id>
     <name>STR_S5_WORLD_Pass_Sesson_02_DESC</name>
-    <body>Exchange various relics and defeat monsters in Reshanta.</body>
+    <body>Troque várias relíquias e derrote monstros em Reshanta.</body>
   </string>
   <string>
     <id>906182</id>
     <name>STR_S5_WORLD_Pass_Sesson_03_DESC</name>
-    <body>You can buy Enchant Supplements from Customized Consumables Merchants in big cities.</body>
+    <body>Você pode comprar Enchant Supplements de Comerciantes de Consumíveis Personalizados nas grandes cidades.</body>
   </string>
   <string>
     <id>906183</id>
     <name>STR_S5_WORLD_Pass_Sesson_04_DESC</name>
-    <body>You can earn Medals through fortress battles or quests.</body>
+    <body>Você pode ganhar Medalhas através de guerras de fortaleza ou missões.</body>
   </string>
   <string>
     <id>906184</id>
     <name>STR_S5_WORLD_Pass_Sesson_05_DESC</name>
-    <body>Pay attention to your flight time when flying in Abyss.</body>
+    <body>Preste atenção no seu tempo de voo ao voar no Abyss.</body>
   </string>
   <string>
     <id>906185</id>
     <name>STR_S5_WORLD_Pass_Sesson_L_06_DESC</name>
-    <body>The Options menu will let you show ranks next to names.</body>
+    <body>O menu de Opções permite que você mostre patentes ao lado dos nomes.</body>
   </string>
   <string>
     <id>906186</id>
     <name>STR_S5_WORLD_Pass_Sesson_D_06_DESC</name>
-    <body>The Options menu will let you show ranks next to names.</body>
+    <body>O menu de Opções permite que você mostre patentes ao lado dos nomes.</body>
   </string>
   <string>
     <id>906187</id>
     <name>STR_S5_WORLD_Pass_Sesson_07_DESC</name>
-    <body>You need a certain item to enter Dark Poeta.</body>
+    <body>Você precisa de um certo item para entrar em Dark Poeta.</body>
   </string>
   <string>
     <id>906188</id>
     <name>STR_S5_WORLD_Pass_Sesson_08_DESC</name>
-    <body>The captain appears only when certain conditions are met.</body>
+    <body>O capitão aparece apenas quando certas condições são atendidas.</body>
   </string>
   <string>
     <id>906189</id>
     <name>STR_S5_WORLD_Pass_Sesson_09_DESC</name>
-    <body>Enchant Supplements increase the enchantment success rate.</body>
+    <body>Enchant Supplements aumentam a taxa de sucesso do encantamento.</body>
   </string>
   <string>
     <id>906190</id>
     <name>STR_S5_WORLD_Pass_Sesson_10_DESC</name>
-    <body>The Rift always appears at a specified time.</body>
+    <body>O Rift sempre aparece em um horário especificado.</body>
   </string>
   <string>
     <id>906191</id>
     <name>STR_S5_WORLD_Pass_Daily_01_HTML</name>
-    <body>[Default] Defeat Atreia monsters with a level difference of 5 or less.</body>
+    <body>[Padrão] Derrote monstros em Atreia com uma diferença de nível de 5 ou menos.</body>
   </string>
   <string>
     <id>906192</id>
     <name>STR_S5_WORLD_Pass_Daily_02_HTML</name>
-    <body>[Default] Gain Abyss Points. </body>
+    <body>[Padrão] Ganhe Pontos de Abyss. </body>
   </string>
   <string>
     <id>906193</id>
     <name>STR_S5_WORLD_Pass_Daily_03_HTML</name>
-    <body>[Default] Use various types of consumables.</body>
+    <body>[Padrão] Use vários tipos de consumíveis.</body>
   </string>
   <string>
     <id>906194</id>
     <name>STR_S5_WORLD_Pass_Daily_04_HTML</name>
-    <body>[Default] Buy items with different goods.</body>
+    <body>[Padrão] Compre itens com diferentes mercadorias.</body>
   </string>
   <string>
     <id>906195</id>
     <name>STR_S5_WORLD_Pass_Daily_05_HTML</name>
-    <body>[Default] Complete a quest.</body>
+    <body>[Padrão] Complete uma missão.</body>
   </string>
   <string>
     <id>906196</id>
     <name>STR_S5_WORLD_Pass_Weekly_01_HTML</name>
-    <body>[Default] Use the Trade Broker. You can find them in big cities or main bind points.</body>
+    <body>[Padrão] Use o Broker. Você pode encontrá-los em grandes cidades ou pontos de ligação principais.</body>
   </string>
   <string>
     <id>906197</id>
     <name>STR_S5_WORLD_Pass_Weekly_02_HTML</name>
-    <body>[Default] Open the gift bundle your pet gave you.</body>
+    <body>[Padrão] Abra o pacote de presente que seu pet lhe deu.</body>
   </string>
   <string>
     <id>906198</id>
     <name>STR_S5_WORLD_Pass_Weekly_03_HTML</name>
-    <body>[Default] Defeat an enemy race.</body>
+    <body>[Padrão] Derrote uma raça inimiga.</body>
   </string>
   <string>
     <id>906199</id>
     <name>STR_S5_WORLD_Pass_Weekly_04_HTML</name>
-    <body>[Default] Use various types of scrolls.</body>
+    <body>[Padrão] Use vários tipos de scrolls.</body>
   </string>
   <string>
     <id>906200</id>
     <name>STR_S5_WORLD_Pass_Weekly_05_HTML</name>
-    <body>[Default] Use a Kisk.</body>
+    <body>[Padrão] Use um Kisk.</body>
   </string>
   <string>
     <id>906201</id>
     <name>STR_S5_WORLD_Pass_Weekly_06_HTML</name>
-    <body>[Default] Extract equipment with an extraction tool.</body>
+    <body>[Padrão] Extraia equipamentos com uma Extraction Tool.</body>
   </string>
   <string>
     <id>906202</id>
     <name>STR_S5_WORLD_Pass_Weekly_07_HTML</name>
-    <body>[Default] Enter the Dredgion.</body>
+    <body>[Padrão] Entre na Dredgion.</body>
   </string>
   <string>
     <id>906203</id>
     <name>STR_S5_WORLD_Pass_Weekly_08_HTML</name>
-    <body>[Default] Enter an instanced dungeon.</body>
+    <body>[Padrão] Entre em uma instância.</body>
   </string>
   <string>
     <id>906204</id>
     <name>STR_S5_WORLD_Pass_Sesson_01_HTML</name>
-    <body>[Default] Buy items with Abyss Points.</body>
+    <body>[Padrão] Compre itens com Pontos de Abyss.</body>
   </string>
   <string>
     <id>906205</id>
     <name>STR_S5_WORLD_Pass_Sesson_02_HTML</name>
-    <body>[Default] Gain 50,000 Abyss Points.</body>
+    <body>[Padrão] Ganhe 50.000 Pontos de Abyss.</body>
   </string>
   <string>
     <id>906206</id>
     <name>STR_S5_WORLD_Pass_Sesson_03_HTML</name>
-    <body>[Default] Try enchanting with a Lesser Enchant Supplement (Unique).</body>
+    <body>[Padrão] Tente encantar um item usando Lesser Enchant Supplement (Unique).</body>
   </string>
   <string>
     <id>906207</id>
     <name>STR_S5_WORLD_Pass_Sesson_04_HTML</name>
-    <body>[Default] Obtain 3 Ceramium Medals.</body>
+    <body>[Padrão] Obtenha 3 Ceramium Medals.</body>
   </string>
   <string>
     <id>906208</id>
     <name>STR_S5_WORLD_Pass_Sesson_05_HTML</name>
-    <body>[Default] Defeat monsters in Reshanta.</body>
+    <body>[Padrão] Derrote monstros em Reshanta.</body>
   </string>
   <string>
     <id>906209</id>
     <name>STR_S5_WORLD_Pass_Sesson_L_06_HTML</name>
-    <body>[Default] Defeat 30 Asmodian of 5th rank or above.</body>
+    <body>[Padrão] Derrote 30 Asmodians de rank 5 ou acima.</body>
   </string>
   <string>
     <id>906210</id>
     <name>STR_S5_WORLD_Pass_Sesson_D_06_HTML</name>
-    <body>[Default] Defeat 30 Elyos of 5th rank or above.</body>
+    <body>[Padrão] Derrote 30 Elyos de Rank 5 ou acima.</body>
   </string>
   <string>
     <id>906211</id>
     <name>STR_S5_WORLD_Pass_Sesson_07_HTML</name>
-    <body>[Default] Defeat Brigade General Anuhart of Dark Poeta.</body>
+    <body>[Padrão] Derrote o Brigade General Anuhart em Dark Poeta.</body>
   </string>
   <string>
     <id>906212</id>
     <name>STR_S5_WORLD_Pass_Sesson_08_HTML</name>
-    <body>[Default] Defeat Dredgion Captain Adhati.</body>
+    <body>[Padrão] Derrote o Dredgion Captain Adhati.</body>
   </string>
   <string>
     <id>906213</id>
     <name>STR_S5_WORLD_Pass_Sesson_09_HTML</name>
-    <body>[Default] Successfully socket an Enchantment Stone or Manastone.</body>
+    <body>[Padrão] Encaixe com sucesso uma Enchantment Stone ou Manastone.</body>
   </string>
   <string>
     <id>906214</id>
     <name>STR_S5_WORLD_Pass_Sesson_10_HTML</name>
-    <body>[Basic] Use the Rift.</body>
+    <body>[Basic] Use o Rift.</body>
   </string>
   <string>
     <id>906215</id>
     <name>STR_S5_WORLD_Multi_Pass_Daily_01</name>
-    <body>[Daily] Complete 1 quest</body>
+    <body>[Diária] Complete 1 missão</body>
   </string>
   <string>
     <id>906216</id>
     <name>STR_S5_WORLD_Multi_Pass_Daily_02</name>
-    <body>[Daily] Defeat 5 monsters in Atreia</body>
+    <body>[Diária] Derrote 5 monstros em Atreia</body>
   </string>
   <string>
     <id>906217</id>
     <name>STR_S5_WORLD_Multi_Pass_Daily_03</name>
-    <body>[Daily] Buy 1 item in the shop </body>
+    <body>[Diária] Compre 1 item na loja </body>
   </string>
   <string>
     <id>906218</id>
     <name>STR_S5_WORLD_Multi_Pass_Daily_04</name>
-    <body>[Daily] Welcome, Daeva!</body>
+    <body>[Diária] Bem-vindo(a), Daeva!</body>
   </string>
   <string>
     <id>906219</id>
     <name>STR_S5_WORLD_Multi_Pass_Daily_05</name>
-    <body>[Daily] Use potions, food, or drinks 5 times </body>
+    <body>[Diária] Use poções, comidas ou bebidas 5 vezes </body>
   </string>
   <string>
     <id>906220</id>
     <name>STR_S5_WORLD_Multi_Pass_Weekly_01</name>
-    <body>[Weekly] Defeat 1 named monster in Atreia</body>
+    <body>[Semanal] Derrote 1 monstro 'named' em Atreia</body>
   </string>
   <string>
     <id>906221</id>
     <name>STR_S5_WORLD_Multi_Pass_Weekly_02</name>
-    <body>[Weekly] Register 10 items with the Trade Broker</body>
+    <body>[Semanal] Registre 10 itens no Broker</body>
   </string>
   <string>
     <id>906222</id>
     <name>STR_S5_WORLD_Multi_Pass_Weekly_03</name>
-    <body>[Weekly] Use Enchantment Stone and Manastone 20 times</body>
+    <body>[Semanal] Use Enchantment Stones ou Manastones 20 vezes</body>
   </string>
   <string>
     <id>906223</id>
     <name>STR_S5_WORLD_Multi_Pass_Weekly_04</name>
-    <body>[Weekly] Use 20 Scroll items</body>
+    <body>[Semanal] Use 20 Scrolls</body>
   </string>
   <string>
     <id>906224</id>
     <name>STR_S5_WORLD_Multi_Pass_Weekly_05</name>
-    <body>[Weekly] Enter instance dungeon 1 time</body>
+    <body>[Semanal] Entre em uma instância 1 vez</body>
   </string>
   <string>
     <id>906225</id>
     <name>STR_S5_WORLD_Multi_Pass_Sesson_01</name>
-    <body>[Season] Use 100 coins</body>
+    <body>[Temporada] Use 100 coins</body>
   </string>
   <string>
     <id>906226</id>
     <name>STR_S5_WORLD_Multi_Pass_Sesson_02</name>
-    <body>[Season] Join a legion</body>
+    <body>[Temporada] Entre em uma Legião</body>
   </string>
   <string>
     <id>906227</id>
     <name>STR_S5_WORLD_Multi_Pass_Sesson_03</name>
-    <body>[Season] Use the Rift 1 time</body>
+    <body>[Temporada] Use o Rift 1 vez</body>
   </string>
   <string>
     <id>906228</id>
     <name>STR_S5_WORLD_Multi_Pass_Sesson_04</name>
-    <body>[Season] Enter the Fire Temple 1 time</body>
+    <body>[Temporada] Entre em Fire Temple 1 vez</body>
   </string>
   <string>
     <id>906229</id>
     <name>STR_S5_WORLD_Multi_Pass_Sesson_05</name>
-    <body>[Season] Defeat 50 Monsters in Abyss</body>
+    <body>[Temporada] Derrote 50 Monstros no Abyss</body>
   </string>
   <string>
     <id>906230</id>
     <name>STR_S5_WORLD_Multi_Pass_Sesson_06</name>
-    <body>[Season] Enter the Draupnir Cave 1 time</body>
+    <body>[Temporada] Entre em Draupnir Cave 1 vez</body>
   </string>
   <string>
     <id>906231</id>
     <name>STR_S5_WORLD_Multi_Pass_Sesson_07</name>
-    <body>[Season] Occupy 1 artifact</body>
+    <body>[Temporada] Ocupe 1 artefato</body>
   </string>
   <string>
     <id>906232</id>
     <name>STR_S5_WORLD_Multi_Pass_Sesson_08</name>
-    <body>[Season] Obtain 9 titles from missions and quests</body>
+    <body>[Temporada] Obtenha 9 títulos de missões e tarefas.</body>
   </string>
   <string>
     <id>906233</id>
     <name>STR_S5_WORLD_Multi_Pass_Sesson_09</name>
-    <body>[Season] Enchant a piece of +7 or better gear</body>
+    <body>[Temporada] Encante uma peça de equipamento +7 ou melhor.</body>
   </string>
   <string>
     <id>906234</id>
     <name>STR_S5_WORLD_Multi_Pass_Sesson_10</name>
-    <body>[Season] Enter the Nochsana Training Camp 1 time</body>
+    <body>[Temporada] Entre em Nochsana Training Camp 1 vez</body>
   </string>
   <string>
     <id>906235</id>
     <name>STR_S5_WORLD_Multi_Pass_Daily_01_DESC</name>
-    <body>The quests obtainable from an NPC are displayed above them.</body>
+    <body>As missões obtidas de um NPC são exibidas acima deles.</body>
   </string>
   <string>
     <id>906236</id>
     <name>STR_S5_WORLD_Multi_Pass_Daily_02_DESC</name>
-    <body>Be careful of monsters whose names are in red.</body>
+    <body>Tenha cuidado com monstros cujos nomes estão em vermelho.</body>
   </string>
   <string>
     <id>906237</id>
     <name>STR_S5_WORLD_Multi_Pass_Daily_03_DESC</name>
-    <body>Useful items are available in the General Store.</body>
+    <body>Itens úteis estão disponíveis na General Store,</body>
   </string>
   <string>
     <id>906238</id>
     <name>STR_S5_WORLD_Multi_Pass_Daily_04_DESC</name>
-    <body>You can complete by logging into Aion Classic or by teleporting.</body>
+    <body>Você pode completar entrando no Aion Classic ou teleportando.</body>
   </string>
   <string>
     <id>906239</id>
     <name>STR_S5_WORLD_Multi_Pass_Daily_05_DESC</name>
-    <body>You can also complete this by using a pet's [Auto Use] function.</body>
+    <body>Você também pode completar isso usando a função [Uso Automático] de um pet.</body>
   </string>
   <string>
     <id>906240</id>
     <name>STR_S5_WORLD_Multi_Pass_Weekly_01_DESC</name>
-    <body>Defeat a monster that has a different name from nearby monsters.</body>
+    <body>Derrote um monstro que tenha um nome diferente dos monstros próximos.</body>
   </string>
   <string>
     <id>906241</id>
     <name>STR_S5_WORLD_Multi_Pass_Weekly_02_DESC</name>
-    <body>You can trade items with other players via the Trade Broker.</body>
+    <body>Você pode trocar itens com outros jogadores através do Broker.</body>
   </string>
   <string>
     <id>906242</id>
     <name>STR_S5_WORLD_Multi_Pass_Weekly_03_DESC</name>
-    <body>Enchant Supplements increase the enchantment success rate.</body>
+    <body>Enchant Supplements aumentam a taxa de sucesso do encantamento.</body>
   </string>
   <string>
     <id>906243</id>
     <name>STR_S5_WORLD_Multi_Pass_Weekly_04_DESC</name>
-    <body>You can also complete this by using a pet's [Auto Use] function.</body>
+    <body>Você também pode completar isso usando a função [Uso Automático] de um pet.</body>
   </string>
   <string>
     <id>906244</id>
     <name>STR_S5_WORLD_Multi_Pass_Weekly_05_DESC</name>
-    <body>Enter '/CheckEntry in the chat window to see the waiting time.</body>
+    <body>Digite '/CheckEntry' na janela de bate-papo para ver o tempo de espera.</body>
   </string>
   <string>
     <id>906245</id>
     <name>STR_S5_WORLD_Multi_Pass_Sesson_01_DESC</name>
-    <body>You can exchange coins for items through a Coin Reward Officer.</body>
+    <body>Você pode trocar coins por itens através de um Coin Reward Officer.</body>
   </string>
   <string>
     <id>906246</id>
     <name>STR_S5_WORLD_Multi_Pass_Sesson_02_DESC</name>
-    <body>You can join a legion by creating a new one, applying to an existing one, or accepting a legion invitation.</body>
+    <body>Você pode entrar em uma legião criando uma nova, candidatando-se a uma existente ou aceitando um convite de legião.</body>
   </string>
   <string>
     <id>906247</id>
     <name>STR_S5_WORLD_Multi_Pass_Sesson_03_DESC</name>
-    <body>The Rift always appears at a specified time.</body>
+    <body>O Rift sempre aparece em um horário especificado.</body>
   </string>
   <string>
     <id>906248</id>
     <name>STR_S5_WORLD_Multi_Pass_Sesson_04_DESC</name>
-    <body>You can see the location and information of each instanced dungeon in the map.</body>
+    <body>Você pode ver a localização e informações de cada instância no mapa.</body>
   </string>
   <string>
     <id>906249</id>
     <name>STR_S5_WORLD_Multi_Pass_Sesson_05_DESC</name>
-    <body>Must be no more than 5 levels higher than target.</body>
+    <body>Deve ter no máximo 5 níveis acima do alvo.</body>
   </string>
   <string>
     <id>906250</id>
     <name>STR_S5_WORLD_Multi_Pass_Sesson_06_DESC</name>
-    <body>Commander Bakarma appears only after you defeat all his adjutants.</body>
+    <body>O Commander Bakarma aparece somente depois que você derrotar todos os seus ajudantes de ordem.</body>
   </string>
   <string>
     <id>906251</id>
     <name>STR_S5_WORLD_Multi_Pass_Sesson_07_DESC</name>
-    <body>Defeat the Artifact Protector to occupy the artifact.</body>
+    <body>Derrote o Protetor do Artefato para ocupar o artefato.</body>
   </string>
   <string>
     <id>906252</id>
     <name>STR_S5_WORLD_Multi_Pass_Sesson_08_DESC</name>
-    <body>The quest reward info will tell you if the quest rewards a title.</body>
+    <body>As informações de recompensa da missão informarão se a missão recompensa um título..</body>
   </string>
   <string>
     <id>906253</id>
     <name>STR_S5_WORLD_Multi_Pass_Sesson_09_DESC</name>
-    <body>Enchant Supplements increase the enchantment success rate.</body>
+    <body>Enchant Supplements aumentam a taxa de sucesso do encantamento.</body>
   </string>
   <string>
     <id>906254</id>
     <name>STR_S5_WORLD_Multi_Pass_Sesson_10_DESC</name>
-    <body>You can see the location and information of each instanced dungeon in the map.</body>
+    <body>Você pode ver a localização e informações de cada instância no mapa.</body>
   </string>
   <string>
     <id>906255</id>
     <name>STR_S5_WORLD_Multi_Pass_Daily_01_HTML</name>
-    <body>[Novice] Complete a quest.</body>
+    <body>[Novato] Complete uma missão.</body>
   </string>
   <string>
     <id>906256</id>
     <name>STR_S5_WORLD_Multi_Pass_Daily_02_HTML</name>
-    <body>[Novice] Defeat Atreia monsters with a level difference of 5 or less.</body>
+    <body>[Novato] Derrote monstros de Atreia com uma diferença de nível de 5 ou menos.</body>
   </string>
   <string>
     <id>906257</id>
     <name>STR_S5_WORLD_Multi_Pass_Daily_03_HTML</name>
-    <body>[Novice] Buy items with different goods.</body>
+    <body>[Novato] Compre itens com diferentes mercadorias.</body>
   </string>
   <string>
     <id>906258</id>
     <name>STR_S5_WORLD_Multi_Pass_Daily_04_HTML</name>
-    <body>[Novice] Login to Atreia</body>
+    <body>[Novato] Entre em Atreia</body>
   </string>
   <string>
     <id>906259</id>
     <name>STR_S5_WORLD_Multi_Pass_Daily_05_HTML</name>
-    <body>[Novice] Use various types of consumables.</body>
+    <body>[Novato] Use vários tipos de consumíveis.</body>
   </string>
   <string>
     <id>906260</id>
     <name>STR_S5_WORLD_Multi_Pass_Weekly_01_HTML</name>
-    <body>[Novice] Defeat Atreia named monsters with a level difference of 5 or less.</body>
+    <body>[Novato] Derrote monstros 'named' de Atreia com uma diferença de nível de 5 ou menos.</body>
   </string>
   <string>
     <id>906261</id>
     <name>STR_S5_WORLD_Multi_Pass_Weekly_02_HTML</name>
-    <body>[Novice] Use the Trade Broker. You can find them in big cities or main bind points.</body>
+    <body>[Novato] Use o Broker. Você pode encontrá-los em grandes cidades ou pontos de ligação principais.</body>
   </string>
   <string>
     <id>906262</id>
     <name>STR_S5_WORLD_Multi_Pass_Weekly_03_HTML</name>
-    <body>[Novice] Socket an Enchantment Stone or Manastone.</body>
+    <body>[Novato] Encaixe uma Enchantment Stone ou Manastone.</body>
   </string>
   <string>
     <id>906263</id>
     <name>STR_S5_WORLD_Multi_Pass_Weekly_04_HTML</name>
-    <body>[Novice] Use various types of scrolls.</body>
+    <body>[Novato] Use vários tipos de scrolls.</body>
   </string>
   <string>
     <id>906264</id>
     <name>STR_S5_WORLD_Multi_Pass_Weekly_05_HTML</name>
-    <body>[Novice] Enter an instanced dungeon.</body>
+    <body>[Novato] Entre em uma instância.</body>
   </string>
   <string>
     <id>906265</id>
     <name>STR_S5_WORLD_Multi_Pass_Sesson_01_HTML</name>
-    <body>[Novice] Buy items with coins.</body>
+    <body>[Novato] Compre itens com coins.</body>
   </string>
   <string>
     <id>906266</id>
     <name>STR_S5_WORLD_Multi_Pass_Sesson_02_HTML</name>
-    <body>[Novice] Create a new legion or join an existing one.</body>
+    <body>[Novato] Crie uma nova legião ou junte-se a uma existente..</body>
   </string>
   <string>
     <id>906267</id>
     <name>STR_S5_WORLD_Multi_Pass_Sesson_03_HTML</name>
-    <body>[Novice] Use the Rift.</body>
+    <body>[Novato] Use o Rift.</body>
   </string>
   <string>
     <id>906268</id>
     <name>STR_S5_WORLD_Multi_Pass_Sesson_04_HTML</name>
-    <body>[Novice] Enter an instanced dungeon.</body>
+    <body>[Novato] Entre em uma instância.</body>
   </string>
   <string>
     <id>906269</id>
     <name>STR_S5_WORLD_Multi_Pass_Sesson_05_HTML</name>
-    <body>[Novice] Defeat Reshanta monsters with a level difference of 10 or less.</body>
+    <body>[Novato] Defeat Reshanta monsters with a level difference of 10 or less.</body>
   </string>
   <string>
     <id>906270</id>
     <name>STR_S5_WORLD_Multi_Pass_Sesson_06_HTML</name>
-    <body>[Novice] Enter an instanced dungeon.</body>
+    <body>[Novato] Entre em uma instância.</body>
   </string>
   <string>
     <id>906271</id>
     <name>STR_S5_WORLD_Multi_Pass_Sesson_07_HTML</name>
-    <body>[Novice] Defeat the Artifact Protector.</body>
+    <body>[Novato] Derrote o Protetor do Artefato.</body>
   </string>
   <string>
     <id>906272</id>
     <name>STR_S5_WORLD_Multi_Pass_Sesson_08_HTML</name>
-    <body>[Novice] Complete a quest that rewards a title.</body>
+    <body>[Novato] Complete a quest that rewards a title.</body>
   </string>
   <string>
     <id>906273</id>
     <name>STR_S5_WORLD_Multi_Pass_Sesson_09_HTML</name>
-    <body>[Novice] Obtain +7 or higher equipment through equipment enchantment.</body>
+    <body>[Novato] Obtain +7 or higher equipment through equipment enchantment.</body>
   </string>
   <string>
     <id>906274</id>
     <name>STR_S5_WORLD_Multi_Pass_Sesson_10_HTML</name>
-    <body>[Novice] Enter an instanced dungeon.</body>
+    <body>[Novato] Entre em uma instância.</body>
   </string>
   <string>
     <id>906754</id>
     <name>STR_S6_WORLD_Pass_Daily_01</name>
-    <body>Defeat 10 monsters in Atreia</body>
+    <body>Derrote 10 monstros em Atreia.</body>
   </string>
   <string>
     <id>906755</id>
     <name>STR_S6_WORLD_Pass_Daily_02</name>
-    <body>Gain 100 Abyss Points</body>
+    <body>Obtenha 100 Pontos de Abyss</body>
   </string>
   <string>
     <id>906756</id>
     <name>STR_S6_WORLD_Pass_Daily_03</name>
-    <body>Use potions, food, or drinks 15 times</body>
+    <body>Use poções, comidas ou bebidas 15 vezes</body>
   </string>
   <string>
     <id>906757</id>
     <name>STR_S6_WORLD_Pass_Daily_04</name>
-    <body>Buy 1 item in the shop</body>
+    <body>Compre 1 item na loja</body>
   </string>
   <string>
     <id>906758</id>
     <name>STR_S6_WORLD_Pass_Daily_05</name>
-    <body>Complete 1 quest</body>
+    <body>Complete 1 missão</body>
   </string>
   <string>
     <id>906759</id>
     <name>STR_S6_WORLD_Pass_Weekly_01</name>
-    <body>Register 10 items with the Trade Broker</body>
+    <body>Registre 10 itens no Broker</body>
   </string>
   <string>
     <id>906760</id>
@@ -22057,7 +22055,7 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906762</id>
     <name>STR_S6_WORLD_Pass_Weekly_04</name>
-    <body>Use 30 scroll items</body>
+    <body>Use 30 itens de scroll</body>
   </string>
   <string>
     <id>906763</id>
@@ -22067,27 +22065,27 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906764</id>
     <name>STR_S6_WORLD_Pass_Weekly_06</name>
-    <body>Extract equipment 5 times</body>
+    <body>Extraia equipamentos 5 vezes</body>
   </string>
   <string>
     <id>906765</id>
     <name>STR_S6_WORLD_Pass_Weekly_07</name>
-    <body>Enter the Dredgion 3 times</body>
+    <body>Entre na Dredgion 3 vezes</body>
   </string>
   <string>
     <id>906766</id>
     <name>STR_S6_WORLD_Pass_Weekly_08</name>
-    <body>Enter two instanced dungeons</body>
+    <body>Entre em duas instâncias</body>
   </string>
   <string>
     <id>906767</id>
     <name>STR_S6_WORLD_Pass_Sesson_01</name>
-    <body>Buy 1 item with Abyss Points</body>
+    <body>Compre 1 item com Pontos de Abyss</body>
   </string>
   <string>
     <id>906768</id>
     <name>STR_S6_WORLD_Pass_Sesson_02</name>
-    <body>Gain 50,000 Abyss Points</body>
+    <body>Ganhe 50.000 Pontos de Abyss</body>
   </string>
   <string>
     <id>906769</id>
@@ -22097,12 +22095,12 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906770</id>
     <name>STR_S6_WORLD_Pass_Sesson_04</name>
-    <body>Obtain 3 Medals</body>
+    <body>Obtenha 3 medalhas</body>
   </string>
   <string>
     <id>906771</id>
     <name>STR_S6_WORLD_Pass_Sesson_05</name>
-    <body>Defeat 100 monsters in Reshanta</body>
+    <body>Derrote 100 monstros em Reshanta</body>
   </string>
   <string>
     <id>906772</id>
@@ -22117,17 +22115,17 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906774</id>
     <name>STR_S6_WORLD_Pass_Sesson_07</name>
-    <body>Defeat Brigade General Anuhart of Dark Poeta once</body>
+    <body>Derrote o Brigade General Anuhart em Dark Poeta uma vez</body>
   </string>
   <string>
     <id>906775</id>
     <name>STR_S6_WORLD_Pass_Sesson_08</name>
-    <body>Defeat Dredgion Captain Adhati 3 times</body>
+    <body>Derrote o Dredgion Captain Adhati 3 vezes</body>
   </string>
   <string>
     <id>906776</id>
     <name>STR_S6_WORLD_Pass_Sesson_09</name>
-    <body>Enchant or socket 20 items</body>
+    <body>Encante ou encaixe Manastones em 20 itens</body>
   </string>
   <string>
     <id>906777</id>
@@ -22137,37 +22135,37 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906778</id>
     <name>STR_S6_WORLD_Pass_Daily_01_DESC</name>
-    <body>XP efficiency decreases as the level difference between a monster and your character widens.</body>
+    <body>A eficiência de EXP diminui à medida que a diferença de nível entre um monstro e seu personagem aumenta.</body>
   </string>
   <string>
     <id>906779</id>
     <name>STR_S6_WORLD_Pass_Daily_02_DESC</name>
-    <body>You cannot earn Abyss Points when Siel's Energy is off.</body>
+    <body>Você não pode ganhar Pontos de Abyss quando o Pacote VIP está desligado.</body>
   </string>
   <string>
     <id>906780</id>
     <name>STR_S6_WORLD_Pass_Daily_03_DESC</name>
-    <body>You can also complete this by using a pet's [Auto Use] function.</body>
+    <body>Você também pode completar isso usando a função [Uso Automático] de um pet.</body>
   </string>
   <string>
     <id>906781</id>
     <name>STR_S6_WORLD_Pass_Daily_04_DESC</name>
-    <body>Useful items are available in the General Store.</body>
+    <body>Itens úteis estão disponíveis na General Store,</body>
   </string>
   <string>
     <id>906782</id>
     <name>STR_S6_WORLD_Pass_Daily_05_DESC</name>
-    <body>The quests obtainable from an NPC are displayed above them.</body>
+    <body>As missões obtidas de um NPC são exibidas acima deles.</body>
   </string>
   <string>
     <id>906783</id>
     <name>STR_S6_WORLD_Pass_Weekly_01_DESC</name>
-    <body>You can trade items with other players via the Trade Broker.</body>
+    <body>Você pode trocar itens com outros jogadores através do Broker.</body>
   </string>
   <string>
     <id>906784</id>
     <name>STR_S6_WORLD_Pass_Weekly_02_DESC</name>
-    <body>Pet Management helps you make your pets happy.</body>
+    <body>O Gerenciamento de Pets ajuda você a deixar seus pets felizes.</body>
   </string>
   <string>
     <id>906785</id>
@@ -22177,27 +22175,27 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906786</id>
     <name>STR_S6_WORLD_Pass_Weekly_04_DESC</name>
-    <body>You can also complete this by using a pet's [Auto Use] function.</body>
+    <body>Você também pode completar isso usando a função [Uso Automático] de um pet.</body>
   </string>
   <string>
     <id>906787</id>
     <name>STR_S6_WORLD_Pass_Weekly_05_DESC</name>
-    <body>Install a Kisk in a place where it is unlikely to be detected.</body>
+    <body>Instale um Kisk em um local onde seja improvável que seja detectado.</body>
   </string>
   <string>
     <id>906788</id>
     <name>STR_S6_WORLD_Pass_Weekly_06_DESC</name>
-    <body>Extract equipment with an extraction tool to get an Enchantment Stone.</body>
+    <body>Extraia equipamento com uma Extraction Tool para obter uma Enchantment Stone.</body>
   </string>
   <string>
     <id>906789</id>
     <name>STR_S6_WORLD_Pass_Weekly_07_DESC</name>
-    <body>The "Request Entry" button will be shown when you can enter.</body>
+    <body>O botão "Solicitar Entrada" será exibido quando você puder entrar.</body>
   </string>
   <string>
     <id>906790</id>
     <name>STR_S6_WORLD_Pass_Weekly_08_DESC</name>
-    <body>Enter '/CheckEntry in the chat window to see the waiting time.</body>
+    <body>Digite '/CheckEntry' na janela de bate-papo para ver o tempo de espera.</body>
   </string>
   <string>
     <id>906791</id>
@@ -22207,7 +22205,7 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906792</id>
     <name>STR_S6_WORLD_Pass_Sesson_02_DESC</name>
-    <body>Exchange various relics and defeat monsters in Reshanta.</body>
+    <body>Troque várias relíquias e derrote monstros em Reshanta.</body>
   </string>
   <string>
     <id>906793</id>
@@ -22217,32 +22215,32 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906794</id>
     <name>STR_S6_WORLD_Pass_Sesson_04_DESC</name>
-    <body>You can earn Medals through fortress battles or quests.</body>
+    <body>Você pode ganhar Medalhas através de guerras de fortaleza ou missões.</body>
   </string>
   <string>
     <id>906795</id>
     <name>STR_S6_WORLD_Pass_Sesson_05_DESC</name>
-    <body>Pay attention to your flight time when flying in Abyss.</body>
+    <body>Preste atenção no seu tempo de voo ao voar no Abyss.</body>
   </string>
   <string>
     <id>906796</id>
     <name>STR_S6_WORLD_Pass_Sesson_L_06_DESC</name>
-    <body>The Options menu will let you show ranks next to names.</body>
+    <body>O menu de Opções permite que você mostre patentes ao lado dos nomes.</body>
   </string>
   <string>
     <id>906797</id>
     <name>STR_S6_WORLD_Pass_Sesson_D_06_DESC</name>
-    <body>The Options menu will let you show ranks next to names.</body>
+    <body>O menu de Opções permite que você mostre patentes ao lado dos nomes.</body>
   </string>
   <string>
     <id>906798</id>
     <name>STR_S6_WORLD_Pass_Sesson_07_DESC</name>
-    <body>You need a certain item to enter Dark Poeta.</body>
+    <body>Você precisa de um certo item para entrar em Dark Poeta.</body>
   </string>
   <string>
     <id>906799</id>
     <name>STR_S6_WORLD_Pass_Sesson_08_DESC</name>
-    <body>The captain appears only when certain conditions are met.</body>
+    <body>O capitão aparece apenas quando certas condições são atendidas.</body>
   </string>
   <string>
     <id>906800</id>
@@ -22252,132 +22250,132 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906801</id>
     <name>STR_S6_WORLD_Pass_Sesson_10_DESC</name>
-    <body>The Rift always appears at a specified time.</body>
+    <body>O Rift sempre aparece em um horário especificado.</body>
   </string>
   <string>
     <id>906802</id>
     <name>STR_S6_WORLD_Pass_Daily_01_HTML</name>
-    <body>[Default] Defeat Atreia monsters with a level difference of 5 or less.</body>
+    <body>[Padrão] Derrote monstros em Atreia com uma diferença de nível de 5 ou menos.</body>
   </string>
   <string>
     <id>906803</id>
     <name>STR_S6_WORLD_Pass_Daily_02_HTML</name>
-    <body>[Default] Gain Abyss Points. </body>
+    <body>[Padrão] Ganhe Pontos de Abyss. </body>
   </string>
   <string>
     <id>906804</id>
     <name>STR_S6_WORLD_Pass_Daily_03_HTML</name>
-    <body>[Default] Use various types of consumables.</body>
+    <body>[Padrão] Use vários tipos de consumíveis.</body>
   </string>
   <string>
     <id>906805</id>
     <name>STR_S6_WORLD_Pass_Daily_04_HTML</name>
-    <body>[Default] Buy items with different goods.</body>
+    <body>[Padrão] Compre itens com diferentes mercadorias.</body>
   </string>
   <string>
     <id>906806</id>
     <name>STR_S6_WORLD_Pass_Daily_05_HTML</name>
-    <body>[Default] Complete a quest.</body>
+    <body>[Padrão] Complete uma missão.</body>
   </string>
   <string>
     <id>906807</id>
     <name>STR_S6_WORLD_Pass_Weekly_01_HTML</name>
-    <body>[Default] Use the Trade Broker. You can find them in big cities or main bind points.</body>
+    <body>[Padrão] Use o Broker. Você pode encontrá-los em grandes cidades ou pontos de ligação principais.</body>
   </string>
   <string>
     <id>906808</id>
     <name>STR_S6_WORLD_Pass_Weekly_02_HTML</name>
-    <body>[Default] Open the gift bundle your pet gave you.</body>
+    <body>[Padrão] Abra o pacote de presente que seu pet lhe deu.</body>
   </string>
   <string>
     <id>906809</id>
     <name>STR_S6_WORLD_Pass_Weekly_03_HTML</name>
-    <body>[Default] Defeat the enemy faction.</body>
+    <body>[Padrão] Defeat the enemy faction.</body>
   </string>
   <string>
     <id>906810</id>
     <name>STR_S6_WORLD_Pass_Weekly_04_HTML</name>
-    <body>[Default] Use various types of scrolls.</body>
+    <body>[Padrão] Use vários tipos de scrolls.</body>
   </string>
   <string>
     <id>906811</id>
     <name>STR_S6_WORLD_Pass_Weekly_05_HTML</name>
-    <body>[Default] Use a Kisk.</body>
+    <body>[Padrão] Use um Kisk.</body>
   </string>
   <string>
     <id>906812</id>
     <name>STR_S6_WORLD_Pass_Weekly_06_HTML</name>
-    <body>[Default] Extract equipment with an extraction tool.</body>
+    <body>[Padrão] Extraia equipamentos com uma Extraction Tool.</body>
   </string>
   <string>
     <id>906813</id>
     <name>STR_S6_WORLD_Pass_Weekly_07_HTML</name>
-    <body>[Default] Enter the Dredgion.</body>
+    <body>[Padrão] Entre na Dredgion.</body>
   </string>
   <string>
     <id>906814</id>
     <name>STR_S6_WORLD_Pass_Weekly_08_HTML</name>
-    <body>[Default] Enter an instanced dungeon.</body>
+    <body>[Padrão] Entre em uma instância.</body>
   </string>
   <string>
     <id>906815</id>
     <name>STR_S6_WORLD_Pass_Sesson_01_HTML</name>
-    <body>[Default] Buy items with Abyss Points.</body>
+    <body>[Padrão] Compre itens com Pontos de Abyss.</body>
   </string>
   <string>
     <id>906816</id>
     <name>STR_S6_WORLD_Pass_Sesson_02_HTML</name>
-    <body>[Default] Gain 50,000 Abyss Points.</body>
+    <body>[Padrão] Ganhe 50.000 Pontos de Abyss.</body>
   </string>
   <string>
     <id>906817</id>
     <name>STR_S6_WORLD_Pass_Sesson_03_HTML</name>
-    <body>[Default] Craft an item by using Morph Substances.</body>
+    <body>[Padrão] Craft an item by using Morph Substances.</body>
   </string>
   <string>
     <id>906818</id>
     <name>STR_S6_WORLD_Pass_Sesson_04_HTML</name>
-    <body>[Default] Obtain 3 Ceramium Medals.</body>
+    <body>[Padrão] Obtenha 3 Ceramium Medals.</body>
   </string>
   <string>
     <id>906819</id>
     <name>STR_S6_WORLD_Pass_Sesson_05_HTML</name>
-    <body>[Default] Defeat monsters in Reshanta.</body>
+    <body>[Padrão] Derrote monstros em Reshanta.</body>
   </string>
   <string>
     <id>906820</id>
     <name>STR_S6_WORLD_Pass_Sesson_L_06_HTML</name>
-    <body>[Default] Defeat 30 Rank 5 or above Asmodians.</body>
+    <body>[Padrão] Defeat 30 Rank 5 or above Asmodians.</body>
   </string>
   <string>
     <id>906821</id>
     <name>STR_S6_WORLD_Pass_Sesson_D_06_HTML</name>
-    <body>[Default] Defeat 30 Rank 5 or above Elyos.</body>
+    <body>[Padrão] Defeat 30 Rank 5 or above Elyos.</body>
   </string>
   <string>
     <id>906822</id>
     <name>STR_S6_WORLD_Pass_Sesson_07_HTML</name>
-    <body>[Default] Defeat Brigade General Anuhart of Dark Poeta.</body>
+    <body>[Padrão] Derrote o Brigade General Anuhart em Dark Poeta.</body>
   </string>
   <string>
     <id>906823</id>
     <name>STR_S6_WORLD_Pass_Sesson_08_HTML</name>
-    <body>[Default] Defeat Dredgion Captain Adhati.</body>
+    <body>[Padrão] Derrote o Dredgion Captain Adhati.</body>
   </string>
   <string>
     <id>906824</id>
     <name>STR_S6_WORLD_Pass_Sesson_09_HTML</name>
-    <body>[Default] Successfully socket an Enchantment Stone or Manastone.</body>
+    <body>[Padrão] Encaixe com sucesso uma Enchantment Stone ou Manastone.</body>
   </string>
   <string>
     <id>906825</id>
     <name>STR_S6_WORLD_Pass_Sesson_10_HTML</name>
-    <body>Use the Rift.</body>
+    <body>Use o Rift.</body>
   </string>
   <string>
     <id>906887</id>
     <name>STR_S7_WORLD_Pass_Daily_01</name>
-    <body>Defeat 10 monsters in Atreia</body>
+    <body>Derrote 10 monstros em Atreia.</body>
   </string>
   <string>
     <id>906888</id>
@@ -22387,22 +22385,22 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906889</id>
     <name>STR_S7_WORLD_Pass_Daily_03</name>
-    <body>Use potions, food, or drinks 15 times</body>
+    <body>Use poções, comidas ou bebidas 15 vezes</body>
   </string>
   <string>
     <id>906890</id>
     <name>STR_S7_WORLD_Pass_Daily_04</name>
-    <body>Buy 1 item in the shop</body>
+    <body>Compre 1 item na loja</body>
   </string>
   <string>
     <id>906891</id>
     <name>STR_S7_WORLD_Pass_Daily_05</name>
-    <body>Complete 1 quest</body>
+    <body>Complete 1 missão</body>
   </string>
   <string>
     <id>906892</id>
     <name>STR_S7_WORLD_Pass_Weekly_01</name>
-    <body>Register 10 items with the Trade Broker</body>
+    <body>Registre 10 itens no Broker</body>
   </string>
   <string>
     <id>906893</id>
@@ -22417,7 +22415,7 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906895</id>
     <name>STR_S7_WORLD_Pass_Weekly_04</name>
-    <body>Use 30 scroll items</body>
+    <body>Use 30 itens de scroll</body>
   </string>
   <string>
     <id>906896</id>
@@ -22427,27 +22425,27 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906897</id>
     <name>STR_S7_WORLD_Pass_Weekly_06</name>
-    <body>Extract equipment 5 times</body>
+    <body>Extraia equipamentos 5 vezes</body>
   </string>
   <string>
     <id>906898</id>
     <name>STR_S7_WORLD_Pass_Weekly_07</name>
-    <body>Enter the Dredgion 3 times</body>
+    <body>Entre na Dredgion 3 vezes</body>
   </string>
   <string>
     <id>906899</id>
     <name>STR_S7_WORLD_Pass_Weekly_08</name>
-    <body>Enter two instanced dungeons</body>
+    <body>Entre em duas instâncias</body>
   </string>
   <string>
     <id>906900</id>
     <name>STR_S7_WORLD_Pass_Sesson_01</name>
-    <body>Buy 1 item with Abyss Points</body>
+    <body>Compre 1 item com Pontos de Abyss</body>
   </string>
   <string>
     <id>906901</id>
     <name>STR_S7_WORLD_Pass_Sesson_02</name>
-    <body>Gain 50,000 Abyss Points</body>
+    <body>Ganhe 50.000 Pontos de Abyss</body>
   </string>
   <string>
     <id>906902</id>
@@ -22457,7 +22455,7 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906903</id>
     <name>STR_S7_WORLD_Pass_Sesson_04</name>
-    <body>Obtain 3 Medals</body>
+    <body>Obtenha 3 medalhas</body>
   </string>
   <string>
     <id>906904</id>
@@ -22477,17 +22475,17 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906907</id>
     <name>STR_S7_WORLD_Pass_Sesson_07</name>
-    <body>Defeat Brigade General Anuhart of Dark Poeta once</body>
+    <body>Derrote o Brigade General Anuhart em Dark Poeta uma vez</body>
   </string>
   <string>
     <id>906908</id>
     <name>STR_S7_WORLD_Pass_Sesson_08</name>
-    <body>Defeat Dredgion Captain Adhati 3 times</body>
+    <body>Derrote o Dredgion Captain Adhati 3 vezes</body>
   </string>
   <string>
     <id>906909</id>
     <name>STR_S7_WORLD_Pass_Sesson_09</name>
-    <body>Enchant or socket 20 items</body>
+    <body>Encante ou encaixe Manastones em 20 itens</body>
   </string>
   <string>
     <id>906910</id>
@@ -22497,37 +22495,37 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906911</id>
     <name>STR_S7_WORLD_Pass_Daily_01_DESC</name>
-    <body>XP efficiency decreases as the level difference between a monster and your character widens.</body>
+    <body>A eficiência de EXP diminui à medida que a diferença de nível entre um monstro e seu personagem aumenta.</body>
   </string>
   <string>
     <id>906912</id>
     <name>STR_S7_WORLD_Pass_Daily_02_DESC</name>
-    <body>You cannot earn Abyss Points when Siel's Energy is off.</body>
+    <body>Você não pode ganhar Pontos de Abyss quando o Pacote VIP está desligado.</body>
   </string>
   <string>
     <id>906913</id>
     <name>STR_S7_WORLD_Pass_Daily_03_DESC</name>
-    <body>You can also complete this by using a pet's [Auto Use] function.</body>
+    <body>Você também pode completar isso usando a função [Uso Automático] de um pet.</body>
   </string>
   <string>
     <id>906914</id>
     <name>STR_S7_WORLD_Pass_Daily_04_DESC</name>
-    <body>Useful items are available in the General Store.</body>
+    <body>Itens úteis estão disponíveis na General Store,</body>
   </string>
   <string>
     <id>906915</id>
     <name>STR_S7_WORLD_Pass_Daily_05_DESC</name>
-    <body>The quests obtainable from an NPC are displayed above them.</body>
+    <body>As missões obtidas de um NPC são exibidas acima deles.</body>
   </string>
   <string>
     <id>906916</id>
     <name>STR_S7_WORLD_Pass_Weekly_01_DESC</name>
-    <body>You can trade items with other players via the Trade Broker.</body>
+    <body>Você pode trocar itens com outros jogadores através do Broker.</body>
   </string>
   <string>
     <id>906917</id>
     <name>STR_S7_WORLD_Pass_Weekly_02_DESC</name>
-    <body>Pet Management helps you make your pets happy.</body>
+    <body>O Gerenciamento de Pets ajuda você a deixar seus pets felizes.</body>
   </string>
   <string>
     <id>906918</id>
@@ -22537,27 +22535,27 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906919</id>
     <name>STR_S7_WORLD_Pass_Weekly_04_DESC</name>
-    <body>You can also complete this by using a pet's [Auto Use] function.</body>
+    <body>Você também pode completar isso usando a função [Uso Automático] de um pet.</body>
   </string>
   <string>
     <id>906920</id>
     <name>STR_S7_WORLD_Pass_Weekly_05_DESC</name>
-    <body>Install a Kisk in a place where it is unlikely to be detected.</body>
+    <body>Instale um Kisk em um local onde seja improvável que seja detectado.</body>
   </string>
   <string>
     <id>906921</id>
     <name>STR_S7_WORLD_Pass_Weekly_06_DESC</name>
-    <body>Extract equipment with an extraction tool to get an Enchantment Stone.</body>
+    <body>Extraia equipamento com uma Extraction Tool para obter uma Enchantment Stone.</body>
   </string>
   <string>
     <id>906922</id>
     <name>STR_S7_WORLD_Pass_Weekly_07_DESC</name>
-    <body>The "Request Entry" button will be shown when you can enter.</body>
+    <body>O botão "Solicitar Entrada" será exibido quando você puder entrar.</body>
   </string>
   <string>
     <id>906923</id>
     <name>STR_S7_WORLD_Pass_Weekly_08_DESC</name>
-    <body>Enter '/CheckEntry in the chat window to see the waiting time.</body>
+    <body>Digite '/CheckEntry' na janela de bate-papo para ver o tempo de espera.</body>
   </string>
   <string>
     <id>906924</id>
@@ -22567,7 +22565,7 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906925</id>
     <name>STR_S7_WORLD_Pass_Sesson_02_DESC</name>
-    <body>Exchange various relics and defeat monsters in Reshanta.</body>
+    <body>Troque várias relíquias e derrote monstros em Reshanta.</body>
   </string>
   <string>
     <id>906926</id>
@@ -22577,32 +22575,32 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906927</id>
     <name>STR_S7_WORLD_Pass_Sesson_04_DESC</name>
-    <body>You can earn Medals through fortress battles or quests.</body>
+    <body>Você pode ganhar Medalhas através de guerras de fortaleza ou missões.</body>
   </string>
   <string>
     <id>906928</id>
     <name>STR_S7_WORLD_Pass_Sesson_05_DESC</name>
-    <body>Pay attention to your flight time when flying in Abyss.</body>
+    <body>Preste atenção no seu tempo de voo ao voar no Abyss.</body>
   </string>
   <string>
     <id>906929</id>
     <name>STR_S7_WORLD_Pass_Sesson_L_06_DESC</name>
-    <body>The Options menu will let you show ranks next to names.</body>
+    <body>O menu de Opções permite que você mostre patentes ao lado dos nomes.</body>
   </string>
   <string>
     <id>906930</id>
     <name>STR_S7_WORLD_Pass_Sesson_D_06_DESC</name>
-    <body>The Options menu will let you show ranks next to names.</body>
+    <body>O menu de Opções permite que você mostre patentes ao lado dos nomes.</body>
   </string>
   <string>
     <id>906931</id>
     <name>STR_S7_WORLD_Pass_Sesson_07_DESC</name>
-    <body>You need a certain item to enter Dark Poeta.</body>
+    <body>Você precisa de um certo item para entrar em Dark Poeta.</body>
   </string>
   <string>
     <id>906932</id>
     <name>STR_S7_WORLD_Pass_Sesson_08_DESC</name>
-    <body>The captain appears only when certain conditions are met.</body>
+    <body>O capitão aparece apenas quando certas condições são atendidas.</body>
   </string>
   <string>
     <id>906933</id>
@@ -22612,126 +22610,126 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906934</id>
     <name>STR_S7_WORLD_Pass_Sesson_10_DESC</name>
-    <body>The Rift always appears at a specified time.</body>
+    <body>O Rift sempre aparece em um horário especificado.</body>
   </string>
   <string>
     <id>906935</id>
     <name>STR_S7_WORLD_Pass_Daily_01_HTML</name>
-    <body>[Default] Defeat Atreia monsters with a level difference of 5 or less.</body>
+    <body>[Padrão] Derrote monstros em Atreia com uma diferença de nível de 5 ou menos.</body>
   </string>
   <string>
     <id>906936</id>
     <name>STR_S7_WORLD_Pass_Daily_02_HTML</name>
-    <body>[Default] Gain Abyss Points. </body>
+    <body>[Padrão] Ganhe Pontos de Abyss. </body>
   </string>
   <string>
     <id>906937</id>
     <name>STR_S7_WORLD_Pass_Daily_03_HTML</name>
-    <body>[Default] Use various types of consumables.</body>
+    <body>[Padrão] Use vários tipos de consumíveis.</body>
   </string>
   <string>
     <id>906938</id>
     <name>STR_S7_WORLD_Pass_Daily_04_HTML</name>
-    <body>[Default] Buy items with different goods.</body>
+    <body>[Padrão] Compre itens com diferentes mercadorias.</body>
   </string>
   <string>
     <id>906939</id>
     <name>STR_S7_WORLD_Pass_Daily_05_HTML</name>
-    <body>[Default] Complete a quest.</body>
+    <body>[Padrão] Complete uma missão.</body>
   </string>
   <string>
     <id>906940</id>
     <name>STR_S7_WORLD_Pass_Weekly_01_HTML</name>
-    <body>[Default] Use the Trade Broker. You can find them in big cities or main bind points.</body>
+    <body>[Padrão] Use o Broker. Você pode encontrá-los em grandes cidades ou pontos de ligação principais.</body>
   </string>
   <string>
     <id>906941</id>
     <name>STR_S7_WORLD_Pass_Weekly_02_HTML</name>
-    <body>[Default] Open the gift bundle your pet gave you.</body>
+    <body>[Padrão] Abra o pacote de presente que seu pet lhe deu.</body>
   </string>
   <string>
     <id>906942</id>
     <name>STR_S7_WORLD_Pass_Weekly_03_HTML</name>
-    <body>[Default] Defeat the enemy faction.</body>
+    <body>[Padrão] Defeat the enemy faction.</body>
   </string>
   <string>
     <id>906943</id>
     <name>STR_S7_WORLD_Pass_Weekly_04_HTML</name>
-    <body>[Default] Use various types of scrolls.</body>
+    <body>[Padrão] Use vários tipos de scrolls.</body>
   </string>
   <string>
     <id>906944</id>
     <name>STR_S7_WORLD_Pass_Weekly_05_HTML</name>
-    <body>[Default] Use a Kisk.</body>
+    <body>[Padrão] Use um Kisk.</body>
   </string>
   <string>
     <id>906945</id>
     <name>STR_S7_WORLD_Pass_Weekly_06_HTML</name>
-    <body>[Default] Extract equipment with an extraction tool.</body>
+    <body>[Padrão] Extraia equipamentos com uma Extraction Tool.</body>
   </string>
   <string>
     <id>906946</id>
     <name>STR_S7_WORLD_Pass_Weekly_07_HTML</name>
-    <body>[Default] Enter the Dredgion.</body>
+    <body>[Padrão] Entre na Dredgion.</body>
   </string>
   <string>
     <id>906947</id>
     <name>STR_S7_WORLD_Pass_Weekly_08_HTML</name>
-    <body>[Default] Enter an instanced dungeon.</body>
+    <body>[Padrão] Entre em uma instância.</body>
   </string>
   <string>
     <id>906948</id>
     <name>STR_S7_WORLD_Pass_Sesson_01_HTML</name>
-    <body>[Default] Buy items with Abyss Points.</body>
+    <body>[Padrão] Compre itens com Pontos de Abyss.</body>
   </string>
   <string>
     <id>906949</id>
     <name>STR_S7_WORLD_Pass_Sesson_02_HTML</name>
-    <body>[Default] Gain 50,000 Abyss Points.</body>
+    <body>[Padrão] Ganhe 50.000 Pontos de Abyss.</body>
   </string>
   <string>
     <id>906950</id>
     <name>STR_S7_WORLD_Pass_Sesson_03_HTML</name>
-    <body>[Default] Craft an item by using Morph Substances.</body>
+    <body>[Padrão] Craft an item by using Morph Substances.</body>
   </string>
   <string>
     <id>906951</id>
     <name>STR_S7_WORLD_Pass_Sesson_04_HTML</name>
-    <body>[Default] Obtain 3 Ceramium Medals.</body>
+    <body>[Padrão] Obtenha 3 Ceramium Medals.</body>
   </string>
   <string>
     <id>906952</id>
     <name>STR_S7_WORLD_Pass_Sesson_05_HTML</name>
-    <body>[Default] Defeat monsters in Reshanta.</body>
+    <body>[Padrão] Derrote monstros em Reshanta.</body>
   </string>
   <string>
     <id>906953</id>
     <name>STR_S7_WORLD_Pass_Sesson_L_06_HTML</name>
-    <body>[Default] Defeat 30 Rank 5 or above Asmodians.</body>
+    <body>[Padrão] Defeat 30 Rank 5 or above Asmodians.</body>
   </string>
   <string>
     <id>906954</id>
     <name>STR_S7_WORLD_Pass_Sesson_D_06_HTML</name>
-    <body>[Default] Defeat 30 Rank 5 or above Elyos.</body>
+    <body>[Padrão] Defeat 30 Rank 5 or above Elyos.</body>
   </string>
   <string>
     <id>906955</id>
     <name>STR_S7_WORLD_Pass_Sesson_07_HTML</name>
-    <body>[Default] Defeat Brigade General Anuhart of Dark Poeta.</body>
+    <body>[Padrão] Derrote o Brigade General Anuhart em Dark Poeta.</body>
   </string>
   <string>
     <id>906956</id>
     <name>STR_S7_WORLD_Pass_Sesson_08_HTML</name>
-    <body>[Default] Defeat Dredgion Captain Adhati.</body>
+    <body>[Padrão] Derrote o Dredgion Captain Adhati.</body>
   </string>
   <string>
     <id>906957</id>
     <name>STR_S7_WORLD_Pass_Sesson_09_HTML</name>
-    <body>[Default] Successfully socket an Enchantment Stone or Manastone.</body>
+    <body>[Padrão] Encaixe com sucesso uma Enchantment Stone ou Manastone.</body>
   </string>
   <string>
     <id>906958</id>
     <name>STR_S7_WORLD_Pass_Sesson_10_HTML</name>
-    <body>[Default] Use the Rift.</body>
+    <body>[Padrão] Use o Rift.</body>
   </string>
 </strings>

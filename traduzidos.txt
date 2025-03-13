@@ -1,43 +1,34 @@
-###################
-## NÃO TRADUZIDO ##
-###################
-- HOUSING, HOUSE
-- ITEM_SEAL, SEALED
-- L2AUTH, GOOGLE, OTP, Security_Warning
-- INTERSERVER
-- TWITTER
-- RSS
-- F2P
-- CHARGE2
-- MTALK
-- PCROOM, PCBANG
-- BLOCK
-- CHANGE_SERVER
-- CONTEÚDO 55
-
 ###############
-## TRADUZIDO ##
+## PROGRESSO ##
 ###############
 \STRINGS
-client_strings_ui.xml (Revisando - 12692)
-stringtable_dialog.xml (100%)
+client_strings_ui.xml (Revisando - 21998)
+stringtable_dialog.xml (Revisar)
 client_strings_msg.xml (parcialmente, em andamento - 2997)
 client_strings_item.xml (parcialmente, em andamento - 5051)
-client_strings_item2.xml (arrumado apostrofes)
+client_strings_item2.xml (Iniciar)
 client_strings_skill.xml (parcialmente, em andamento - 3365)
 
 \DIALOGS
 \\10000_19999
 
+
+
+
+##################
+## CÓDIGOS HTML ##
+##################
 Espaço HTML 3x:
 &nbsp;&nbsp;&nbsp;
 
-Nova linha HTML:
+# NOVA LINHA:
 &#xA;
+# OU
 &lt;p&gt;&#xA;&lt;/p&gt;
 
-Cor
+# TEXTO EM VERMELHO
 &lt;font color=&quot;ff0000&quot;&gt;TEXTO&lt;/font&gt;
+# TEXTO EM AMARELO
 &lt;font color=&quot;ffff00&quot;&gt;TEXTO&lt;/font&gt;
-
+# NOVO PARÁGRAFO
  &lt;p align=&quot;center&quot;&gt; &lt;/p&gt;
