@@ -5,7 +5,7 @@
 **Para ajudar por favor visitem o discord: [https://discord.com/invite/novaverso](https://discord.com/invite/novaverso)**
 Procurem por @konkersgg.
 
-**Estamos jogando o Aion Classic NOVA VERSO 1.9: [http://classic.aiononline.com.br](http://classic.aiononline.com.br)**
+**Estamos jogando o Aion Classic NOVA VERSO 1.2: [http://classic.aiononline.com.br](http://classic.aiononline.com.br)**
 
 ## Estado atual da tradução:
 - [x] 100% **UI** (ainda há ajustes a serem feitos, como por exemplo textos muito longos, mas está traduzido :tada:)
