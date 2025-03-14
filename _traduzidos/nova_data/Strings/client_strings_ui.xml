@@ -248,7 +248,7 @@
   <string>
     <id>80001</id>
     <name>STR_GUILD_INVITE_DO_YOU_ACCEPT_INVITATION</name>
-    <body>Você foi convidado para entrar na &lt;font color="ffff00"&gt;Legião &lt;%0&gt;&lt;/font&gt; (Nível %1) por &lt;font color="ffff00"&gt;%2&lt;/font&gt;. Você aceita?</body>
+    <body>Você foi convidado para entrar na Legião &lt;font color="ffff00"&gt;%0&lt;/font&gt; (Nível %1) por &lt;font color="ffff00"&gt;%2&lt;/font&gt;. Você aceita?</body>
   </string>
   <string>
     <id>80002</id>
@@ -374,7 +374,7 @@
   <string>
     <id>95006</id>
     <name>STR_SOUL_BOUND_ITEM_DO_YOU_WANT_SOUL_BOUND</name>
-    <body>&lt;p&gt;&lt;font color="ffff00"&gt;%itemid0%&lt;/font&gt; deve ser vinculado a esse personagem para poder equipar.&lt;/p&gt;
+    <body>&lt;p&gt;&lt;font color="ffff00"&gt;%0%&lt;/font&gt; deve ser vinculado a esse personagem para poder equipar.&lt;/p&gt;
 &lt;p&gt;Você &lt;font color="ff0000"&gt;não pode trocar&lt;/font&gt; itens que foram vinculados a esse personagem.&lt;/p&gt;
 &lt;p&gt;Vincular esse item agora?&lt;/p&gt;</body>
   </string>
@@ -4765,7 +4765,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900530</id>
     <name>STR_TOOLTIP_SKILL_STAT_STR</name>
-    <body>Poder</body>
+    <body>Força</body>
   </string>
   <string>
     <id>900531</id>
@@ -4795,7 +4795,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900536</id>
     <name>STR_TOOLTIP_SKILL_STAT_STRVIT</name>
-    <body>Poder e Vida</body>
+    <body>Força e Vida</body>
   </string>
   <string>
     <id>900537</id>
@@ -4945,7 +4945,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900566</id>
     <name>STR_TOOLTIP_SKILL_STAT_MAGCRITICAL</name>
-    <body>Crítico Mágico</body>
+    <body>Mágico Crítico</body>
   </string>
   <string>
     <id>900567</id>
@@ -6814,12 +6814,12 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900940</id>
     <name>STR_TOOLTIP_SKILL_STAT_STRAGIKNO</name>
-    <body>Poder, Precisão, Conhecimento</body>
+    <body>Força, Agilidade, Conhecimento</body>
   </string>
   <string>
     <id>900941</id>
     <name>STR_TOOLTIP_SKILL_STAT_VITDEXWIL</name>
-    <body>Vida, Agilidade, Determinação</body>
+    <body>Vida, Destreza, Determinação</body>
   </string>
   <string>
     <id>900942</id>
@@ -8701,7 +8701,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>901349</id>
     <name>STR_TUTORIAL_TITLE</name>
-    <body>Ajuda para Iniciantes</body>
+    <body>Iniciantes</body>
   </string>
   <string>
     <id>901350</id>
@@ -12139,12 +12139,13 @@ Tem certeza de que deseja mudar sua aparência?&lt;/p&gt;</body>
   <string>
     <id>902017</id>
     <name>STR_WAIT_TO_CHARACTER_CHOICE</name>
-    <body>Saindo para a tela de Seleção de Personagens em %0 segundos.</body>
+    <body>Saindo para a tela de Seleção de Personagens.\n\nPor favor, aguarde %0 segundos, Daeva!</body>
   </string>
   <string>
     <id>902018</id>
     <name>STR_INSTANT_DUNGEON_ENTER_CONFIRM_AGAIN</name>
-    <body>Falha ao entrar em %0. Por favor, pressione Retornar para tentar novamente.</body>
+    <body>Falha ao entrar em %0.
+Por favor, pressione Retornar para tentar novamente.</body>
   </string>
   <string>
     <id>902019</id>
@@ -21985,7 +21986,7 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906269</id>
     <name>STR_S5_WORLD_Multi_Pass_Sesson_05_HTML</name>
-    <body>[Novato] Defeat Reshanta monsters with a level difference of 10 or less.</body>
+    <body>[Novato] Derrote os monstros de Reshanta com uma diferença de nível de 10 ou menos.</body>
   </string>
   <string>
     <id>906270</id>
@@ -22000,12 +22001,12 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906272</id>
     <name>STR_S5_WORLD_Multi_Pass_Sesson_08_HTML</name>
-    <body>[Novato] Complete a quest that rewards a title.</body>
+    <body>[Novato] Complete uma missão que recompensa com um título.</body>
   </string>
   <string>
     <id>906273</id>
     <name>STR_S5_WORLD_Multi_Pass_Sesson_09_HTML</name>
-    <body>[Novato] Obtain +7 or higher equipment through equipment enchantment.</body>
+    <body>[Novato] Obtenha equipamentos +7 ou superiores através do encantamento de equipamentos.</body>
   </string>
   <string>
     <id>906274</id>
@@ -22045,12 +22046,12 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906760</id>
     <name>STR_S6_WORLD_Pass_Weekly_02</name>
-    <body>Open 5 Pet's Gift Bundles</body>
+    <body>Abra 5 Pet's Gift Bundles</body>
   </string>
   <string>
     <id>906761</id>
     <name>STR_S6_WORLD_Pass_Weekly_03</name>
-    <body>Defeat 1 member of the enemy faction</body>
+    <body>Derrote 1 membro da facção inimiga.</body>
   </string>
   <string>
     <id>906762</id>
@@ -22090,7 +22091,7 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906769</id>
     <name>STR_S6_WORLD_Pass_Sesson_03</name>
-    <body>Use Morph Substances 5 times</body>
+    <body>Use Substâncias de Morph 5 vezes.</body>
   </string>
   <string>
     <id>906770</id>
@@ -22105,12 +22106,12 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906772</id>
     <name>STR_S6_WORLD_Pass_Sesson_L_06</name>
-    <body>Defeat 30 Rank 5 or above Asmodians</body>
+    <body>Derrote 30 Asmodians de Rank 5 ou acima</body>
   </string>
   <string>
     <id>906773</id>
     <name>STR_S6_WORLD_Pass_Sesson_D_06</name>
-    <body>Defeat 30 Rank 5 or above Elyos</body>
+    <body>Derrote 30 Elyos de Rank 5 ou acima</body>
   </string>
   <string>
     <id>906774</id>
@@ -22130,7 +22131,7 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906777</id>
     <name>STR_S6_WORLD_Pass_Sesson_10</name>
-    <body>Use the Rift once</body>
+    <body>Use um Rift uma vez</body>
   </string>
   <string>
     <id>906778</id>
@@ -22170,7 +22171,7 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906785</id>
     <name>STR_S6_WORLD_Pass_Weekly_03_DESC</name>
-    <body>You are more likely to encounter the enemy faction in Reshanta.</body>
+    <body>É mais provável que você encontre a facção inimiga em Reshanta.</body>
   </string>
   <string>
     <id>906786</id>
@@ -22200,7 +22201,7 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906791</id>
     <name>STR_S6_WORLD_Pass_Sesson_01_DESC</name>
-    <body>Spend Abyss Points at Reshanta's War Efforts Rewards Hall.</body>
+    <body>Use Pontos de Abyss em Reshanta's War Efforts Rewards Hall.</body>
   </string>
   <string>
     <id>906792</id>
@@ -22210,7 +22211,7 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906793</id>
     <name>STR_S6_WORLD_Pass_Sesson_03_DESC</name>
-    <body>You can find Morph Substances under the Gather/Craft tab in the Skills window.</body>
+    <body>Você pode encontrar Substâncias de Morph na aba Coleta/Criação na janela de Habilidades.</body>
   </string>
   <string>
     <id>906794</id>
@@ -22245,7 +22246,7 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906800</id>
     <name>STR_S6_WORLD_Pass_Sesson_09_DESC</name>
-    <body>Supplements increase the enchantment success rate.</body>
+    <body>Suplementos aumentam a taxa de sucesso do encantamento.</body>
   </string>
   <string>
     <id>906801</id>
@@ -22290,7 +22291,7 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906809</id>
     <name>STR_S6_WORLD_Pass_Weekly_03_HTML</name>
-    <body>[Padrão] Defeat the enemy faction.</body>
+    <body>[Padrão] Derrote a facção inimiga.</body>
   </string>
   <string>
     <id>906810</id>
@@ -22330,7 +22331,7 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906817</id>
     <name>STR_S6_WORLD_Pass_Sesson_03_HTML</name>
-    <body>[Padrão] Craft an item by using Morph Substances.</body>
+    <body>[Padrão] Crie um item usando Substâncias de Morph.</body>
   </string>
   <string>
     <id>906818</id>
@@ -22345,12 +22346,12 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906820</id>
     <name>STR_S6_WORLD_Pass_Sesson_L_06_HTML</name>
-    <body>[Padrão] Defeat 30 Rank 5 or above Asmodians.</body>
+    <body>[Padrão] Derrote 30 Asmodians de Rank 5 ou acima.</body>
   </string>
   <string>
     <id>906821</id>
     <name>STR_S6_WORLD_Pass_Sesson_D_06_HTML</name>
-    <body>[Padrão] Defeat 30 Rank 5 or above Elyos.</body>
+    <body>[Padrão] Derrote 30 Elyos de Rank 5 ou acima.</body>
   </string>
   <string>
     <id>906822</id>
@@ -22380,7 +22381,7 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906888</id>
     <name>STR_S7_WORLD_Pass_Daily_02</name>
-    <body>Gain 1,000 Abyss Points</body>
+    <body>Ganhe1,000 Pontos de Abyss</body>
   </string>
   <string>
     <id>906889</id>
@@ -22405,12 +22406,12 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906893</id>
     <name>STR_S7_WORLD_Pass_Weekly_02</name>
-    <body>Open 5 Pet's Gift Bundles</body>
+    <body>Abra 5 Pet's Gift Bundles</body>
   </string>
   <string>
     <id>906894</id>
     <name>STR_S7_WORLD_Pass_Weekly_03</name>
-    <body>Defeat 1 member of the enemy faction</body>
+    <body>Derrote 1 membro da facção inimiga.</body>
   </string>
   <string>
     <id>906895</id>
@@ -22450,7 +22451,7 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906902</id>
     <name>STR_S7_WORLD_Pass_Sesson_03</name>
-    <body>Use Morph Substances 5 times</body>
+    <body>Use Substâncias de Morph 5 vezes.</body>
   </string>
   <string>
     <id>906903</id>
@@ -22460,17 +22461,17 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906904</id>
     <name>STR_S7_WORLD_Pass_Sesson_05</name>
-    <body>Defeat 30 monsters in Reshanta</body>
+    <body>Derrote 30 monstros em Reshanta</body>
   </string>
   <string>
     <id>906905</id>
     <name>STR_S7_WORLD_Pass_Sesson_L_06</name>
-    <body>Defeat 30 Rank 5 or above Asmodians</body>
+    <body>Derrote 30 Asmodians de Rank 5 ou acima</body>
   </string>
   <string>
     <id>906906</id>
     <name>STR_S7_WORLD_Pass_Sesson_D_06</name>
-    <body>Defeat 30 Rank 5 or above Elyos</body>
+    <body>Derrote 30 Elyos de Rank 5 ou acima</body>
   </string>
   <string>
     <id>906907</id>
@@ -22490,7 +22491,7 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906910</id>
     <name>STR_S7_WORLD_Pass_Sesson_10</name>
-    <body>Use the Rift once</body>
+    <body>Use um Rift uma vez</body>
   </string>
   <string>
     <id>906911</id>
@@ -22530,7 +22531,7 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906918</id>
     <name>STR_S7_WORLD_Pass_Weekly_03_DESC</name>
-    <body>You are more likely to encounter the enemy faction in Reshanta.</body>
+    <body>É mais provável que você encontre a facção inimiga em Reshanta.</body>
   </string>
   <string>
     <id>906919</id>
@@ -22560,7 +22561,7 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906924</id>
     <name>STR_S7_WORLD_Pass_Sesson_01_DESC</name>
-    <body>Spend Abyss Points at Reshanta's War Efforts Rewards Hall.</body>
+    <body>Use Pontos de Abyss em Reshanta's War Efforts Rewards Hall.</body>
   </string>
   <string>
     <id>906925</id>
@@ -22570,7 +22571,7 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906926</id>
     <name>STR_S7_WORLD_Pass_Sesson_03_DESC</name>
-    <body>You can find Morph Substances under the Gather/Craft tab in the Skills window.</body>
+    <body>Você pode encontrar Substâncias de Morph na aba Coleta/Criação na janela de Habilidades.</body>
   </string>
   <string>
     <id>906927</id>
@@ -22605,7 +22606,7 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906933</id>
     <name>STR_S7_WORLD_Pass_Sesson_09_DESC</name>
-    <body>Supplements increase the enchantment success rate.</body>
+    <body>Suplementos aumentam a taxa de sucesso do encantamento.</body>
   </string>
   <string>
     <id>906934</id>
@@ -22650,7 +22651,7 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906942</id>
     <name>STR_S7_WORLD_Pass_Weekly_03_HTML</name>
-    <body>[Padrão] Defeat the enemy faction.</body>
+    <body>[Padrão] Derrote a facção inimiga.</body>
   </string>
   <string>
     <id>906943</id>
@@ -22690,7 +22691,7 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906950</id>
     <name>STR_S7_WORLD_Pass_Sesson_03_HTML</name>
-    <body>[Padrão] Craft an item by using Morph Substances.</body>
+    <body>[Padrão] Crie um item usando Substâncias de Morph.</body>
   </string>
   <string>
     <id>906951</id>
@@ -22705,12 +22706,12 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>906953</id>
     <name>STR_S7_WORLD_Pass_Sesson_L_06_HTML</name>
-    <body>[Padrão] Defeat 30 Rank 5 or above Asmodians.</body>
+    <body>[Padrão] Derrote 30 Asmodians de Rank 5 ou acima.</body>
   </string>
   <string>
     <id>906954</id>
     <name>STR_S7_WORLD_Pass_Sesson_D_06_HTML</name>
-    <body>[Padrão] Defeat 30 Rank 5 or above Elyos.</body>
+    <body>[Padrão] Derrote 30 Elyos de Rank 5 ou acima.</body>
   </string>
   <string>
     <id>906955</id>

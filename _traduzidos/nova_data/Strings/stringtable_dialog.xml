@@ -7654,7 +7654,7 @@
   <string>
     <id>911420</id>
     <name>STR_PLAYER_INFO_DIALOG__STAT_STR</name>
-    <body>Poder</body>
+    <body>Força</body>
   </string>
   <string>
     <id>911421</id>
@@ -7664,12 +7664,12 @@
   <string>
     <id>911422</id>
     <name>STR_PLAYER_INFO_DIALOG__STAT_DEX</name>
-    <body>Agilidade</body>
+    <body>Destreza</body>
   </string>
   <string>
     <id>911423</id>
     <name>STR_PLAYER_INFO_DIALOG__STAT_AGI</name>
-    <body>Precisão Física</body>
+    <body>Agilidade</body>
   </string>
   <string>
     <id>911424</id>
@@ -9244,7 +9244,7 @@
   <string>
     <id>911738</id>
     <name>STR_PLAYER_INFO_DIALOG__STAT_MAGICAL_CRITICAL_DAMAGE_BOOST</name>
-    <body>Crítico Mágico</body>
+    <body>Mágico Crítico</body>
   </string>
   <string>
     <id>911739</id>

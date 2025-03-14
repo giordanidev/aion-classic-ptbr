@@ -3770,7 +3770,7 @@ Shock Wave – Seismic Billow.</body>
   <string>
     <id>282066</id>
     <name>STR_SKILL_FI_Chain2AreaSpin_DESC</name>
-    <body>Usa uma Foice para girar os inimigos dentro da área em forma de leque à sua frente.</body>
+    <body>Usa uma Polearm para girar os inimigos dentro da área em forma de leque à sua frente.</body>
   </string>
   <string>
     <id>282067</id>
@@ -39804,7 +39804,7 @@ Requer um Escudo.</body>
   <string>
     <id>289224</id>
     <name>STR_SKILL_P_EQUIP_Polearm_G2</name>
-    <body>Treinamento Avançado de Foice II</body>
+    <body>Treinamento Avançado de Polearm II</body>
   </string>
   <string>
     <id>289225</id>
@@ -39864,7 +39864,7 @@ Requer um Escudo.</body>
   <string>
     <id>289236</id>
     <name>STR_SKILL_P_EQUIP_Polearm_G3</name>
-    <body>Treinamento Avançado de Foice III</body>
+    <body>Treinamento Avançado de Polearm III</body>
   </string>
   <string>
     <id>289237</id>
@@ -42859,7 +42859,7 @@ Habilidade de Sequência nível 1</body>
   <string>
     <id>289831</id>
     <name>STR_SKILL_Stigma_P_EQUIP_Polearm_G1</name>
-    <body>Treinamento Avançado de Foice I</body>
+    <body>Treinamento Avançado de Polearm I</body>
   </string>
   <string>
     <id>289832</id>
@@ -53773,7 +53773,7 @@ Habilidade de Stigma.</body>
   <string>
     <id>292005</id>
     <name>STR_SKILL_P_EQUIP_Polearm_G4</name>
-    <body>Treinamento Avançado de Foice IV</body>
+    <body>Treinamento Avançado de Polearm IV</body>
   </string>
   <string>
     <id>292006</id>

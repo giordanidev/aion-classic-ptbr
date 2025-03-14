@@ -11,6 +11,7 @@ caminho_downloads = ".\\_download"
 caminho_traduzidos = ".\\_traduzidos"
 caminho_parsed = ".\\_parsed"
 caminho_final = ".\\PAK"
+data_jogo = "E:\\JOGOS\\Nova Aion\\l10n\\enu\\data\\z_nova_data_ptBR.pak"
 
 arquivos_originais = [name for name in os.listdir(caminho_originais) if os.path.isdir(os.path.join(caminho_originais, name))] #puxa os diretorios na pasta _originais
 arquivos = []
@@ -220,6 +221,7 @@ def repack():
 
         #COPIAR PAK PARA A PASTA TEMPORÁRIA PRINCIPAL PARA CRIAR O ZIP
         shutil.copy2(nome_pak, pak_temp)
+        shutil.copy2(nome_pak, data_jogo)
         print(f"[{contagem_arquivo}/{iteracoes}] Arquivo copiado: {pak_temp}")
 
         with zipfile.ZipFile(destino_zip, 'w') as file:
