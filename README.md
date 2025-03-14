@@ -1,8 +1,8 @@
-# Aion Classic NOVA VERSO 1.9
+# Aion Classic NOVA VERSO 1.2
 
-### Só funciona para o Aion Classic NOVA VERSO 1.9!!!
+### Só funciona para o Aion Classic NOVA VERSO 1.2!!!
 
-**Para ajudar por favor visitem o discord: [http://discord.aiononline.com.br](http://discord.aiononline.com.br)**
+**Para ajudar por favor visitem o discord: [https://discord.com/invite/novaverso](https://discord.com/invite/novaverso)**
 Procurem por @konkersgg.
 
 **Estamos jogando o Aion Classic NOVA VERSO 1.9: [http://classic.aiononline.com.br](http://classic.aiononline.com.br)**
