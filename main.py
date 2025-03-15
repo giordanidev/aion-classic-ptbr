@@ -202,13 +202,12 @@ def unicode():
 def repack():
     start_time_total = time.monotonic()
     print(f">>>> INICIANDO REPACK")
-    iteracoes = len(caminho_originais)
+    iteracoes = len(arquivos_originais)
     contagem_arquivo = 1
     print(f"[{contagem_arquivo}/{iteracoes}] Gerando arquivo .PAK!", end="\r")
     subprocess.run([".\\Aion_Encdec13.exe", "-r"])
     print(f"[{contagem_arquivo}/{iteracoes}] Gerando arquivo .PAK! :: Arquivo gerado")
     for original in arquivos_originais:
-        start_time_original = time.monotonic()
         print(f"##### ITERAÇÃO: {original}")
 
         origem = f"REPACK\\{original}.pak"
@@ -233,8 +232,7 @@ def repack():
         print(f"[{contagem_arquivo}/{iteracoes}] Arquivo zip criado com sucesso: '{destino_zip}'.")
         contagem_arquivo += 1
 
-        execution_time = "%.2f" % (time.monotonic() - start_time_original)
-        print(f"##### ITERAÇÃO FINALIZADA: {original} ({execution_time}s)")
+        print(f"##### ITERAÇÃO FINALIZADA: {original}")
 
     execution_time = "%.2f" % (time.monotonic() - start_time_total)
     print(f"!!!!! REPACK FINALIZADO ({execution_time}s)")

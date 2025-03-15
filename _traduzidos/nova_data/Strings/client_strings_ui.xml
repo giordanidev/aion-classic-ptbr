@@ -486,12 +486,12 @@ Continuar?</body>
   <string>
     <id>160013</id>
     <name>STR_TELEPORT_NEED_CONFIRM</name>
-    <body>Viajar para &lt;font color="ffff00"&gt;%0&lt;/font&gt; custa &lt;font font_xml="v3_msgbox_money"&gt;%qina1&lt;/font&gt;. Deseja continuar?</body>
+    <body>Mover para &lt;font color="ffff00"&gt;%0&lt;/font&gt; custa &lt;font font_xml="v3_msgbox_money"&gt;%qina1&lt;/font&gt;. Deseja continuar?</body>
   </string>
   <string>
     <id>160014</id>
     <name>STR_ASK_GROUP_GATE_DO_YOU_ACCEPT_MOVE</name>
-    <body>Você deseja viajar usando a passagem mágica de grupo?</body>
+    <body>Você deseja mover usando a passagem mágica de grupo?</body>
   </string>
   <string>
     <id>160015</id>
@@ -549,7 +549,7 @@ Continuar?</body>
   <string>
     <id>160029</id>
     <name>STR_TELEPORT_NEED_CONFIRM2</name>
-    <body>Viajar para &lt;font color="ffff00"&gt;%0&lt;/font&gt; custa &lt;font font_xml="v3_msgbox_money"&gt;%qina1&lt;/font&gt;. Deseja continuar?</body>
+    <body>Mover para &lt;font color="ffff00"&gt;%0&lt;/font&gt; custa &lt;font font_xml="v3_msgbox_money"&gt;%qina1&lt;/font&gt;. Deseja continuar?</body>
   </string>
   <string>
     <id>160030</id>
@@ -3435,7 +3435,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900264</id>
     <name>STR_VIT</name>
-    <body>Vida</body>
+    <body>Vitalidade</body>
   </string>
   <string>
     <id>900265</id>
@@ -4770,7 +4770,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900531</id>
     <name>STR_TOOLTIP_SKILL_STAT_VIT</name>
-    <body>Vida</body>
+    <body>Vitalidade</body>
   </string>
   <string>
     <id>900532</id>
@@ -4795,7 +4795,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900536</id>
     <name>STR_TOOLTIP_SKILL_STAT_STRVIT</name>
-    <body>Força e Vida</body>
+    <body>Força e Vitalidade</body>
   </string>
   <string>
     <id>900537</id>
@@ -6819,7 +6819,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900941</id>
     <name>STR_TOOLTIP_SKILL_STAT_VITDEXWIL</name>
-    <body>Vida, Destreza, Determinação</body>
+    <body>Vitalidade, Destreza, Determinação</body>
   </string>
   <string>
     <id>900942</id>
@@ -7899,7 +7899,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>901189</id>
     <name>STR_VENDOR_KIND_ACCESSARY</name>
-    <body>Acessório</body>
+    <body>Acessórios</body>
   </string>
   <string>
     <id>901190</id>
@@ -7944,7 +7944,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>901198</id>
     <name>STR_VENDOR_KIND_MAKING</name>
-    <body>Artesanato</body>
+    <body>Craft</body>
   </string>
   <string>
     <id>901199</id>
@@ -9611,7 +9611,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>901533</id>
     <name>STR_TOOLTIP_EXPIRED_DATE</name>
-    <body>Tempo restante</body>
+    <body>Expiração</body>
   </string>
   <string>
     <id>901534</id>
@@ -9621,7 +9621,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>901535</id>
     <name>STR_TOOLTIP_CASH_ITEM</name>
-    <body>Black Cloud Traders' Commodities</body>
+    <body>Item do Shop</body>
   </string>
   <string>
     <id>901536</id>
@@ -15490,7 +15490,7 @@ Você pode usar o comando '/Fatigue' para verificar o Nível de Fadiga.</body>
   <string>
     <id>903083</id>
     <name>STR_MAIL_CASH_PURCHASE_CONFIRM_BTN</name>
-    <body>Receber Item</body>
+    <body>Receber</body>
   </string>
   <string>
     <id>903084</id>
@@ -15505,7 +15505,7 @@ Você pode usar o comando '/Fatigue' para verificar o Nível de Fadiga.</body>
   <string>
     <id>903086</id>
     <name>STR_MAIL_CASH_PURCHASE_REFUND_UNABLED</name>
-    <body>Não é possível retirar a oferta</body>
+    <body>Sem devolução</body>
   </string>
   <string>
     <id>903087</id>
@@ -18482,7 +18482,7 @@ Continuar?&lt;/p&gt;</body>
   <string>
     <id>904102</id>
     <name>STR_MAIL_CASH_PURCHASE_RECV_NO_LIMIT</name>
-    <body>Indefinidamente</body>
+    <body>Sem limite.</body>
   </string>
   <string>
     <id>904103</id>

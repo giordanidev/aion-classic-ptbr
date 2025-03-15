@@ -43,7 +43,7 @@
   <string>
     <id>900105</id>
     <name>STR_LOBBY_LOGIN__QUIT</name>
-    <body>Sair</body>
+    <body>Fechar Jogo</body>
   </string>
   <string>
     <id>900106</id>
@@ -93,7 +93,7 @@
   <string>
     <id>900205</id>
     <name>STR_LOBBY_SERVER__QUIT</name>
-    <body>Sair</body>
+    <body>Fechar Jogo</body>
   </string>
   <string>
     <id>900206</id>
@@ -138,7 +138,7 @@
   <string>
     <id>900306</id>
     <name>STR_LOBBY_SELECT__QUIT</name>
-    <body>Sair</body>
+    <body>Fechar Jogo</body>
   </string>
   <string>
     <id>900400</id>
@@ -178,7 +178,7 @@
   <string>
     <id>900506</id>
     <name>STR_LOBBY_CREATE__RACE_QUIT</name>
-    <body>Sair</body>
+    <body>Fechar Jogo</body>
   </string>
   <string>
     <id>900600</id>
@@ -203,7 +203,7 @@
   <string>
     <id>900604</id>
     <name>STR_LOBBY_CREATE__CLASS_QUIT</name>
-    <body>Sair</body>
+    <body>Fechar Jogo</body>
   </string>
   <string>
     <id>900700</id>
@@ -228,7 +228,7 @@
   <string>
     <id>900704</id>
     <name>STR_LOBBY_CREATE__CUSTOM_QUIT</name>
-    <body>Sair</body>
+    <body>Fechar Jogo</body>
   </string>
   <string>
     <id>900705</id>
@@ -583,7 +583,7 @@
   <string>
     <id>910002</id>
     <name>STR_SYSTEM_MENU_DIALOG__QUIT_GAME</name>
-    <body>Sair</body>
+    <body>Fechar Jogo</body>
   </string>
   <string>
     <id>910003</id>
@@ -713,7 +713,7 @@
   <string>
     <id>910028</id>
     <name>STR_CHAR_STATUS_DIALOG__TABFRAME_WIDGET13</name>
-    <body>Poder</body>
+    <body>Força</body>
   </string>
   <string>
     <id>910029</id>
@@ -728,7 +728,7 @@
   <string>
     <id>910031</id>
     <name>STR_CHAR_STATUS_DIALOG__TABFRAME_WIDGET16</name>
-    <body>Vida</body>
+    <body>Vitalidade</body>
   </string>
   <string>
     <id>910032</id>
@@ -938,7 +938,7 @@
   <string>
     <id>910073</id>
     <name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET13</name>
-    <body>Poder</body>
+    <body>Força</body>
   </string>
   <string>
     <id>910074</id>
@@ -953,7 +953,7 @@
   <string>
     <id>910076</id>
     <name>STR_CHAR_STATUS_OTHER_DIALOG__TABFRAME_WIDGET16</name>
-    <body>Vida</body>
+    <body>Vitalidade</body>
   </string>
   <string>
     <id>910077</id>
@@ -4343,17 +4343,17 @@
   <string>
     <id>910757</id>
     <name>STR_MAILBOX_DIALOG__TABFRAME_MB_TAB_LIST</name>
-    <body>Ler Carta</body>
+    <body>Mensagens</body>
   </string>
   <string>
     <id>910758</id>
     <name>STR_MAILBOX_DIALOG__TABFRAME_MB_TAB_WRITE</name>
-    <body>Escrever Carta</body>
+    <body>Escrever Mensagem</body>
   </string>
   <string>
     <id>910759</id>
     <name>STR_MAILBOX_DIALOG__TABFRAME_BTN_READ_MAIL</name>
-    <body>Ler Carta</body>
+    <body>Ler Mensagem</body>
   </string>
   <string>
     <id>910760</id>
@@ -4378,17 +4378,17 @@
   <string>
     <id>910764</id>
     <name>STR_MAILBOX_DIALOG__TABFRAME_WIDGET7</name>
-    <body>Anexar Kinah</body>
+    <body>Kinah</body>
   </string>
   <string>
     <id>910765</id>
     <name>STR_MAILBOX_DIALOG__TABFRAME_WIDGET9</name>
-    <body>Anexar item</body>
+    <body>Item</body>
   </string>
   <string>
     <id>910766</id>
     <name>STR_MAILBOX_DIALOG__TABFRAME_WIDGET10</name>
-    <body>Taxa de envio</body>
+    <body>Taxa envio</body>
   </string>
   <string>
     <id>910767</id>
@@ -4408,7 +4408,7 @@
   <string>
     <id>910770</id>
     <name>STR_LETTER_DIALOG</name>
-    <body>Ler Carta</body>
+    <body>Ler Mensagem</body>
   </string>
   <string>
     <id>910771</id>
@@ -4423,12 +4423,12 @@
   <string>
     <id>910773</id>
     <name>STR_LETTER_DIALOG__WIDGET4</name>
-    <body>Kinah Anexado</body>
+    <body>Kinah</body>
   </string>
   <string>
     <id>910774</id>
     <name>STR_LETTER_DIALOG__WIDGET5</name>
-    <body>Item Anexado</body>
+    <body>Item</body>
   </string>
   <string>
     <id>910775</id>
@@ -4497,7 +4497,7 @@
   <string>
     <id>910788</id>
     <name>STR_MAKING_INFO_DIALOG__CLOSE</name>
-    <body>Fecahr</body>
+    <body>Fechar</body>
   </string>
   <string>
     <id>910789</id>
@@ -5434,12 +5434,12 @@
   <string>
     <id>910976</id>
     <name>STR_STATUS_NEW_DIALOG__TABFRAME_WIDGET_1</name>
-    <body>Poder</body>
+    <body>Força</body>
   </string>
   <string>
     <id>910977</id>
     <name>STR_STATUS_NEW_DIALOG__TABFRAME_WIDGET_2</name>
-    <body>Vida</body>
+    <body>Vitalidade</body>
   </string>
   <string>
     <id>910978</id>
@@ -6994,7 +6994,7 @@
   <string>
     <id>911288</id>
     <name>STR_RADAR_DIALOG__TOOLTIP_MAIL_ICON</name>
-    <body>Carta não lida</body>
+    <body>Mensagem não lida</body>
   </string>
   <string>
     <id>911289</id>
@@ -7659,7 +7659,7 @@
   <string>
     <id>911421</id>
     <name>STR_PLAYER_INFO_DIALOG__STAT_VIT</name>
-    <body>Vida</body>
+    <body>Vitalidade</body>
   </string>
   <string>
     <id>911422</id>
@@ -8104,7 +8104,7 @@
   <string>
     <id>911510</id>
     <name>STR_WAIT_DIALOG__QUIT</name>
-    <body>Sair</body>
+    <body>Fechar Jogo</body>
   </string>
   <string>
     <id>911511</id>
@@ -8119,7 +8119,7 @@
   <string>
     <id>911513</id>
     <name>STR_RADAR_DIALOG__TOOLTIP_CASH_MAIL_ICON</name>
-    <body>Carta dos Comerciantes de Black Cloud</body>
+    <body>Mensagem dos Comerciantes de Black Cloud</body>
   </string>
   <string>
     <id>911514</id>
@@ -9024,7 +9024,7 @@
   <string>
     <id>911694</id>
     <name>STR_GLOBAL_OPTION_DIALOG__GAME_REJECT_MAIL_FROM_LOW_LEVEL</name>
-    <body>Recusar cartas (Correio) de jogadores de nível baixo</body>
+    <body>Recusar mensagens (Correio) de jogadores de nível baixo</body>
   </string>
   <string>
     <id>911695</id>
@@ -9249,7 +9249,7 @@
   <string>
     <id>911739</id>
     <name>STR_PLAYER_INFO_DIALOG__STAT_HEAL_BOOST</name>
-    <body>Aumento de Cura</body>
+    <body>Aumento Cura</body>
   </string>
   <string>
     <id>911740</id>
@@ -10004,7 +10004,7 @@
   <string>
     <id>911890</id>
     <name>STR_TOWER_DEFENCE_POWER</name>
-    <body>Poder</body>
+    <body>Força</body>
   </string>
   <string>
     <id>911891</id>
@@ -10519,7 +10519,7 @@
   <string>
     <id>911993</id>
     <name>STR_MAILBOX_DIALOG__TABFRAME_CASH_REFUND_LEFT_TIME</name>
-    <body>Tempo restante</body>
+    <body>Devolver</body>
   </string>
   <string>
     <id>911994</id>
@@ -13918,7 +13918,7 @@
   <string>
     <id>912684</id>
     <name>STR_MAILBOX_DIALOG__TAKEALL</name>
-    <body>Take All</body>
+    <body>Pegar Todos</body>
   </string>
   <string>
     <id>912685</id>
