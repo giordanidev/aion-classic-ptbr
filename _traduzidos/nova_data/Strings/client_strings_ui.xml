@@ -4085,7 +4085,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900394</id>
     <name>STR_MSG_DESTROY_ITEM</name>
-    <body>Você deseja &lt;font color="ff0000"&gt;excluir&lt;/font&gt; %0? Esta ação &lt;font color="ff0000"&gt;não poderá&lt;/font&gt; ser desfeita.</body>
+    <body>Jogar fora &lt;font color="ffff00"&gt;%0&lt;/font&gt;? Após jogar fora o item é excluído e &lt;font color="ff0000"&gt;não poderá ser recuperado&lt;/font&gt;.</body>
   </string>
   <string>
     <id>900395</id>
@@ -7109,7 +7109,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900999</id>
     <name>STR_GAMEGUARD_NOTFOUND</name>
-    <body>O arquivo GameGuard não foi encontrado ou está corrompido. Entre em contato com o suporte em https://help.novaverso.online/.</body>
+    <body>O arquivo GameGuard não foi encontrado ou está corrompido. Entre em contato com o suporte em http://aiononline.com.br.</body>
   </string>
   <string>
     <id>901000</id>
@@ -7139,17 +7139,17 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>901005</id>
     <name>STR_GAMEGUARD_VERSION</name>
-    <body>Erro de inicialização do GameGuard. Pode ser devido a uma versão desatualizada. Entre em contato com o suporte em https://help.novaverso.online/.</body>
+    <body>Erro de inicialização do GameGuard. Pode ser devido a uma versão desatualizada. Entre em contato com o suporte em http://aiononline.com.br.</body>
   </string>
   <string>
     <id>901006</id>
     <name>STR_GAMEGUARD_INI_ERR</name>
-    <body>O arquivo de configuração não foi encontrado ou foi corrompido. Entre em contato com o suporte em https://help.novaverso.online/.</body>
+    <body>O arquivo de configuração não foi encontrado ou foi corrompido. Entre em contato com o suporte em http://aiononline.com.br.</body>
   </string>
   <string>
     <id>901007</id>
     <name>STR_GAMEGUARD_DES_ERR</name>
-    <body>Erro de reset do npgmup.des. Entre em contato com o suporte em https://help.novaverso.online/.</body>
+    <body>Erro de reset do npgmup.des. Entre em contato com o suporte em http://aiononline.com.br.</body>
   </string>
   <string>
     <id>901008</id>
@@ -7169,7 +7169,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>901011</id>
     <name>STR_GAMEGUARD_ERR</name>
-    <body>Ocorreu um erro ao iniciar o GameGuard. Entre em contato com o suporte em https://help.novaverso.online/.</body>
+    <body>Ocorreu um erro ao iniciar o GameGuard. Entre em contato com o suporte em http://aiononline.com.br.</body>
   </string>
   <string>
     <id>901012</id>
@@ -9959,7 +9959,7 @@ Causa 8%% de dano extra e reduz o dano recebido em 8%%. Esse efeito só é váli
     <name>STR_L2AUTH_BLOCK_SELF</name>
     <body>&lt;p&gt;Sua conta foi suspensa a seu pedido, de acordo com os termos e condições do contrato de serviço AION.&lt;/p&gt;
 &lt;p&gt;Para mais informações, entre em contato conosco no site de suporte oficial do AION
-(https://help.novaverso.online/).&lt;/p&gt;</body>
+(http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901600</id>
@@ -9972,25 +9972,25 @@ Causa 8%% de dano extra e reduz o dano recebido em 8%%. Esse efeito só é váli
     <id>901601</id>
     <name>STR_L2AUTH_BLOCK_STOLEN_NAME_MAYBE</name>
     <body>&lt;p&gt;Sua conta foi banida devido a suspeita de roubo de identidade.&lt;/p&gt;
-&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901602</id>
     <name>STR_L2AUTH_BLOCK_STOLEN_NAME</name>
     <body>&lt;p&gt;Sua conta foi suspensa de acordo com os termos e condições do contrato de serviço AION. Você usou a identidade de outra pessoa para criar sua conta.&lt;/p&gt;
-&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901603</id>
     <name>STR_L2AUTH_BLOCK_STOLEN_PAY</name>
     <body>&lt;p&gt;Sua conta foi temporariamente suspensa porque pagamentos anteriores não foram recebidos. &lt;/p&gt;
-&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901604</id>
     <name>STR_L2AUTH_BLOCK_HOUSE</name>
     <body>&lt;p&gt;Sua conta foi bloqueada devido a roubo de identidade (que é contra os regulamentos da empresa) ou um estilo de jogo perturbador que prejudicou outros jogadores.&lt;/p&gt;
-&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901605</id>
@@ -10002,160 +10002,160 @@ Causa 8%% de dano extra e reduz o dano recebido em 8%%. Esse efeito só é váli
     <id>901606</id>
     <name>STR_L2AUTH_BLOCK_BOT_MANUAL</name>
     <body>&lt;p&gt;Sua conta foi suspensa de acordo com os termos e condições do nosso contrato de serviço. Você usou software ilegal no jogo, o que não é permitido..&lt;/p&gt;
-&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901607</id>
     <name>STR_L2AUTH_BLOCK_BOT_PERIOD</name>
     <body>&lt;p&gt;Sua conta foi suspensa por 10 dias devido ao uso de software ilegal. Uma violação repetida no futuro pode levar ao encerramento permanente de sua conta.&lt;/p&gt;
-&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901608</id>
     <name>STR_L2AUTH_BLOCK_TRADE_7</name>
     <body>&lt;p&gt;Sua conta foi suspensa por 7 dias de acordo com os termos e condições do contrato de serviço AION. Você negociou ou tentou negociar itens ou personagens (contas) do jogo com dinheiro, mercadorias ou itens de outro jogo.&lt;/p&gt;
-&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901609</id>
     <name>STR_L2AUTH_BLOCK_TRADE_30</name>
     <body>&lt;p&gt;Sua conta foi suspensa por 30 dias de acordo com os termos e condições do contrato de serviço AION. Você negociou ou tentou negociar itens ou personagens (contas) do jogo com dinheiro, mercadorias ou itens de outro jogo.&lt;/p&gt;
-&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901610</id>
     <name>STR_L2AUTH_BLOCK_TRADE_EVER</name>
     <body>&lt;p&gt;Sua conta foi suspensa de acordo com os termos e condições do contrato de serviço AION. Você negociou ou tentou negociar itens ou personagens (contas) do jogo com dinheiro, mercadorias ou itens de outro jogo.&lt;/p&gt;
-&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901611</id>
     <name>STR_L2AUTH_BLOCK_TRADE_ACCOUNT_30</name>
     <body>&lt;p&gt;Sua conta foi suspensa por 30 dias de acordo com os termos e condições do contrato de serviço AION. Você negociou ou tentou negociar itens ou personagens (contas) do jogo com dinheiro, mercadorias ou itens de outro jogo.&lt;/p&gt;
-&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901612</id>
     <name>STR_L2AUTH_BLOCK_TRADE_ACCOUNT_EVER</name>
     <body>&lt;p&gt;Sua conta foi suspensa de acordo com os termos e condições do contrato de serviço AION. Você negociou ou tentou negociar itens ou personagens (contas) do jogo com dinheiro, mercadorias ou itens de outro jogo.&lt;/p&gt;
-&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901613</id>
     <name>STR_L2AUTH_BLOCK_TRADE_AGAIN</name>
     <body>&lt;p&gt;Sua conta foi suspensa de acordo com os termos e condições do contrato de serviço AION. Você relatou um incidente falso ou interferiu na operação do jogo.&lt;/p&gt;
-&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901614</id>
     <name>STR_L2AUTH_BLOCK_TRADE_ACCOUNT</name>
     <body>&lt;p&gt;Você não pode acessar sua conta, pois sua conta integrada foi suspensa de acordo com os termos e condições do contrato de serviço AION. Você negociou ou tentou negociar itens ou personagens (contas) do jogo com dinheiro, mercadorias ou itens de outro jogo.&lt;/p&gt;
-&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901615</id>
     <name>STR_L2AUTH_BLOCK_STOLEN_ACCOUNT_MAYBE</name>
-    <body>&lt;p&gt;Sua conta foi banida devido a roubo de conta. Se você nos forneceu um endereço de e-mail, enviamos uma notificação por e-mail. Se você acredita que não esteve envolvido em um caso de roubo de conta, entre em contato com o suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi banida devido a roubo de conta. Se você nos forneceu um endereço de e-mail, enviamos uma notificação por e-mail. Se você acredita que não esteve envolvido em um caso de roubo de conta, entre em contato com o suporte do AION (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901616</id>
     <name>STR_L2AUTH_BLOCK_STOLEN_ACCOUNT_LIE</name>
     <body>&lt;p&gt;Sua conta foi banida devido a roubo de conta. Se você nos forneceu um endereço de e-mail, enviamos uma notificação por e-mail.&lt;/p&gt;
-&lt;p&gt;Se você acredita que não esteve envolvido em um caso de roubo de conta, entre em contato com o suporte do AION (https://help.novaverso.online/). Você pode encontrar mais informações no site oficial do AION (https://aion.novaverso.online/).&lt;/p&gt;</body>
+&lt;p&gt;Se você acredita que não esteve envolvido em um caso de roubo de conta, entre em contato com o suporte do AION (http://aiononline.com.br). Você pode encontrar mais informações no site oficial do AION (https://aion.novaverso.online/).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901617</id>
     <name>STR_L2AUTH_BLOCK_STOLEN_ACCOUNT_NO_CONFIRM</name>
     <body>&lt;p&gt;Sua conta foi suspensa porque seu relatório de roubo de conta foi considerado falso, pois você não confirmou sua identidade dentro de 7 dias após o relatório de roubo de conta.&lt;/p&gt;
 &lt;p&gt;BMas, se você confirmar sua identidade dentro de 30 dias após o relatório, prosseguiremos com a investigação do seu relatório normalmente. Portanto, faça isso na central de atendimento ao cliente no site do AION.
-(https://help.novaverso.online/).&lt;/p&gt;</body>
+(http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901618</id>
     <name>STR_L2AUTH_BLOCK_FRAUD</name>
     <body>&lt;p&gt;Sua conta foi suspensa de acordo com os termos e condições do contrato de serviço AION. Você cometeu ou tentou cometer um ato que impede a segurança pública ou vai contra a ordem social (fraude).
-&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901619</id>
     <name>STR_L2AUTH_BLOCK_FRAUD_7</name>
     <body>&lt;p&gt;YSua conta foi bloqueada por 15 dias devido a tentativa de fraude ou conduta ilegal.&lt;/p&gt;
-&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901620</id>
     <name>STR_L2AUTH_BLOCK_FRAUD_EVER</name>
     <body>&lt;p&gt;Sua conta foi suspensa de acordo com os termos e condições do contrato de serviço AION. Você cometeu ou tentou cometer um ato que impede a segurança pública ou vai contra a ordem social.&lt;/p&gt;
-&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901621</id>
     <name>STR_L2AUTH_BLOCK_GAMBLE</name>
     <body>&lt;p&gt;Você não deve realizar nenhum dos atos listados ou semelhantes, incluindo a obstrução da ordem pública e comunicação indevida contra a boa reputação do jogo. Sua conta foi suspensa de acordo com os termos e condições do contrato de serviço AION.&lt;/p&gt;
-&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901622</id>
     <name>STR_L2AUTH_BLOCK_GAMBLE_30</name>
     <body>&lt;p&gt;Sua conta foi banida devido a um estilo de jogo prejudicial.&lt;/p&gt;
-&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901623</id>
     <name>STR_L2AUTH_BLOCK_GAMBLE_EVER</name>
     <body>&lt;p&gt;Sua conta foi suspensa de acordo com os termos e condições do contrato de serviço AION e da política de operação da empresa. Você participou de publicidade, apoio ou auxílio a jogos impróprios no jogo.&lt;/p&gt;
-&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901624</id>
     <name>STR_L2AUTH_BLOCK_BOT</name>
     <body>&lt;p&gt;Sua conta foi suspensa de acordo com os termos e condições do contrato de serviço Aion e da política de operação da empresa porque você usou software ilegal, o que não é permitido.&lt;/p&gt;
-&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901625</id>
     <name>STR_L2AUTH_BLOCK_ABUSE</name>
     <body>&lt;p&gt;Sua conta foi banida por abuso de erros do sistema.&lt;/p&gt;
 &lt;p&gt;O abuso de erros do sistema pode levar a problemas técnicos ou interrupções no equilíbrio do jogo.&lt;/p&gt;
-&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901626</id>
     <name>STR_L2AUTH_BLOCK_ABUSE_LIGHT</name>
     <body>&lt;p&gt;Sua conta foi suspensa de acordo com os termos e condições do contrato de serviço Aion porque você abusou do sistema ou afetou diretamente o jogo de maneira inadequada.&lt;/p&gt;
 &lt;p&gt;Para mais informações, entre em contato conosco usando a Petição 1:1 no site oficial do Aion.
-(https://help.novaverso.online/).&lt;/p&gt;</body>
+(http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901627</id>
     <name>STR_L2AUTH_BLOCK_ABUSE_SERIOUS</name>
     <body>&lt;p&gt;Sua conta foi suspensa de acordo com os termos e condições do contrato de serviço Aion porque você abusou do sistema ou afetou diretamente o jogo de maneira inadequada.&lt;/p&gt;
 &lt;p&gt;Para mais informações, entre em contato conosco usando a Petição 1:1 no site oficial do Aion.
-(https://help.novaverso.online/).&lt;/p&gt;</body>
+(http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901628</id>
     <name>STR_L2AUTH_BLOCK_OBSTRUCT</name>
     <body>&lt;p&gt;Sua conta foi suspensa de acordo com os termos e condições do contrato de serviço AION. Você cometeu ou tentou cometer um ato que impede a segurança pública ou vai contra a ordem social.&lt;/p&gt;
-&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901629</id>
     <name>STR_L2AUTH_BLOCK_BAD_LANGUAGE</name>
     <body>&lt;p&gt;Sua conta foi suspensa de acordo com os termos e condições do contrato de serviço AION. Você cometeu ou tentou cometer um ato que impede a segurança pública ou vai contra a ordem social.&lt;/p&gt;
-&lt;p&gt;For more information, contact us on the AION official website (https://help.novaverso.online/).&lt;/p&gt;</body>
+&lt;p&gt;For more information, contact us on the AION official website (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901630</id>
     <name>STR_L2AUTH_BLOCK_BAD_PROGRAM_BUT_BOT</name>
     <body>&lt;p&gt;Sua conta foi banida de acordo com as diretrizes do jogo e políticas de usuário, porque você usou software que a empresa proibiu o uso neste jogo.&lt;/p&gt;
-&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901631</id>
     <name>STR_L2AUTH_BLOCK_PRETEND_INSIDER</name>
     <body>&lt;p&gt;Sua conta foi suspensa de acordo com os termos e condições do contrato de serviço AION. Foi constatado que você se passou por um mestre de jogo (GM), um funcionário da empresa ou pela própria empresa.&lt;/p&gt;
-&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
+&lt;p&gt;Você pode encontrar mais informações no site oficial de suporte do AION (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901632</id>
@@ -10180,19 +10180,19 @@ Causa 8%% de dano extra e reduz o dano recebido em 8%%. Esse efeito só é váli
     <id>901635</id>
     <name>STR_L2AUTH_BLOCK_EXTERNAL_REQUEST</name>
     <body>&lt;p&gt;Sua conta foi suspensa por solicitação oficial de uma agência de aplicação da lei.&lt;/p&gt;
-&lt;p&gt;Essa ação foi tomada porque um pedido oficial de tal órgão tem implicações legais. Você pode encontrar mais informações no site oficial de suporte do AION (https://help.novaverso.online/).&lt;/p&gt;</body>
+&lt;p&gt;Essa ação foi tomada porque um pedido oficial de tal órgão tem implicações legais. Você pode encontrar mais informações no site oficial de suporte do AION (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901636</id>
     <name>STR_L2AUTH_BLOCK_UNPAIED</name>
-    <body>&lt;p&gt;Sua conta foi suspensa temporariamente porque você não fez um pagamento recente. Por favor, pague o valor pendente e, em seguida, confirme visitando o site de suporte do AION. (https://help.novaverso.online/).&lt;/p&gt;</body>
+    <body>&lt;p&gt;Sua conta foi suspensa temporariamente porque você não fez um pagamento recente. Por favor, pague o valor pendente e, em seguida, confirme visitando o site de suporte do AION. (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901637</id>
     <name>STR_L2AUTH_BLOCK_DETOUR_IP</name>
     <body>&lt;p&gt;Sua conta foi temporariamente suspensa porque você é suspeito de usar a identidade de outra pessoa sem permissão.&lt;/p&gt;
 &lt;p&gt;Se você não cometeu esses atos, conclua o processo de autorização na página inicial do AION para retomar o uso do serviço.&lt;/p&gt;
-&lt;p&gt;Para mais informações, entre em contato conosco em: (https://help.novaverso.online/).&lt;/p&gt;</body>
+&lt;p&gt;Para mais informações, entre em contato conosco em: (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901638</id>
@@ -10367,61 +10367,61 @@ Você pode entrar em contato conosco a qualquer momento no site oficial https://
     <id>901672</id>
     <name>STR_PLAYNC_BLOCK_SELF</name>
     <body>Todos os serviços de jogo usando esta conta foram suspensos a seu pedido.&lt;br&gt;
-Você pode encontrar mais informações no site oficial de suporte do Aion (https://help.novaverso.online/).</body>
+Você pode encontrar mais informações no site oficial de suporte do Aion (http://aiononline.com.br).</body>
   </string>
   <string>
     <id>901673</id>
     <name>STR_PLAYNC_BLOCK_BOT_AUTO</name>
     <body>Sua conta foi suspensa porque você usou software não autorizado no jogo.&lt;br&gt;
-Para mais informações, entre em contato conosco usando o formulário de suporte no site oficial do AION. (https://help.novaverso.online/).</body>
+Para mais informações, entre em contato conosco usando o formulário de suporte no site oficial do AION. (http://aiononline.com.br).</body>
   </string>
   <string>
     <id>901674</id>
     <name>STR_PLAYNC_BLOCK_BOT_MANUAL</name>
     <body>Sua conta foi suspensa porque você usou software não autorizado no jogo.&lt;br&gt;
-Para mais informações, entre em contato conosco usando o formulário de suporte no site oficial do AION. (https://help.novaverso.online/).</body>
+Para mais informações, entre em contato conosco usando o formulário de suporte no site oficial do AION. (http://aiononline.com.br).</body>
   </string>
   <string>
     <id>901675</id>
     <name>STR_PLAYNC_BLOCK_BOT_PERIOD</name>
     <body>Sua conta foi suspensa por 10 dias porque você usou software não autorizado no jogo.&lt;br&gt;
-Sua conta será permanentemente encerrada se a mesma violação ocorrer novamente. Para mais informações, entre em contato conosco usando o formulário de suporte no site oficial do AION (https://help.novaverso.online/).</body>
+Sua conta será permanentemente encerrada se a mesma violação ocorrer novamente. Para mais informações, entre em contato conosco usando o formulário de suporte no site oficial do AION (http://aiononline.com.br).</body>
   </string>
   <string>
     <id>901676</id>
     <name>STR_PLAYNC_BLOCK_TRADE_ACCOUNT</name>
     <body>Sua conta foi banida por negociação ilegal de conta, conforme nossos Termos e Condições e os Termos de Uso de nossos serviços.&lt;br&gt;
-Para mais informações, entre em contato com o Suporte do AION através do site oficial do AION (https://help.novaverso.online/).</body>
+Para mais informações, entre em contato com o Suporte do AION através do site oficial do AION (http://aiononline.com.br).</body>
   </string>
   <string>
     <id>901677</id>
     <name>STR_PLAYNC_BLOCK_STOLEN_PAY</name>
     <body>Sua conta foi suspensa porque você usou informações de pagamento de outra pessoa de forma fraudulenta.&lt;br&gt;
-Para mais informações, entre em contato com o Suporte do AION através do site oficial do AION (https://help.novaverso.online/).</body>
+Para mais informações, entre em contato com o Suporte do AION através do site oficial do AION (http://aiononline.com.br).</body>
   </string>
   <string>
     <id>901678</id>
     <name>STR_PLAYNC_BLOCK_STOLEN_ACCOUNT_MAYBE</name>
     <body>Sua conta foi suspensa porque você usou a identidade de outra pessoa para criar sua conta.&lt;br&gt;
-Se este não for o caso, verifique sua identidade através do nosso site (https://help.novaverso.online/).</body>
+Se este não for o caso, verifique sua identidade através do nosso site (http://aiononline.com.br).</body>
   </string>
   <string>
     <id>901679</id>
     <name>STR_PLAYNC_BLOCK_HOUSE</name>
     <body>Sua conta foi suspensa porque você usou o serviço de jogo para fins comerciais.&lt;br&gt;
-Para mais informações, entre em contato conosco usando o formulário de suporte no site oficial do AION. (https://help.novaverso.online/).</body>
+Para mais informações, entre em contato conosco usando o formulário de suporte no site oficial do AION. (http://aiononline.com.br).</body>
   </string>
   <string>
     <id>901680</id>
     <name>STR_PLAYNC_BLOCK_BAD_BOARDER</name>
     <body>Sua conta foi suspensa porque você regularmente fez publicações nos sites oficiais da Gameforge que violavam o Contrato de Licença do Usuário Final.&lt;br&gt;
-Para mais informações, entre em contato conosco usando o formulário de suporte no site oficial do AION. (https://help.novaverso.online/).</body>
+Para mais informações, entre em contato conosco usando o formulário de suporte no site oficial do AION. (http://aiononline.com.br).</body>
   </string>
   <string>
     <id>901681</id>
     <name>STR_PLAYNC_BLOCK_VIOLATION</name>
     <body>Sua conta foi suspensa porque você se envolveu em atividade ilegal ao usar o serviço de jogo.&lt;br&gt;
-Para mais informações, entre em contato conosco usando o formulário de suporte no site oficial do AION. (https://help.novaverso.online/).</body>
+Para mais informações, entre em contato conosco usando o formulário de suporte no site oficial do AION. (http://aiononline.com.br).</body>
   </string>
   <string>
     <id>901682</id>
@@ -10433,25 +10433,25 @@ Para mais informações, entre em contato conosco usando o formulário de suport
     <id>901683</id>
     <name>STR_PLAYNC_BLOCK_ABUSE_FREE_COIN</name>
     <body>Sua conta foi suspensa de acordo com o contrato de licença do usuário final. Você se envolveu em uso não autorizado de moedas AION.&lt;br&gt;
-Para mais informações, entre em contato conosco usando o formulário de suporte no site oficial do AION. (https://help.novaverso.online/).</body>
+Para mais informações, entre em contato conosco usando o formulário de suporte no site oficial do AION. (http://aiononline.com.br).</body>
   </string>
   <string>
     <id>901684</id>
     <name>STR_PLAYNC_BLOCK_BAD_PROGRAM</name>
     <body>Sua conta foi suspensa de acordo com os termos e condições do nosso contrato de serviço e política de operação porque você realizou atividades inapropriadas que o serviço Gameforge não permite, a fim de obter informações não divulgadas ou alterar nosso cliente de jogo.&lt;br&gt;
-Para mais informações, entre em contato com o Suporte do AION através do site oficial do AION the AION website (https://help.novaverso.online/).</body>
+Para mais informações, entre em contato com o Suporte do AION através do site oficial do AION the AION website (http://aiononline.com.br).</body>
   </string>
   <string>
     <id>901685</id>
     <name>STR_PLAYNC_BLOCK_VIRUS</name>
     <body>Sua conta foi suspensa de acordo com os termos e condições do nosso contrato de serviço e política de operação porque você se envolveu no uso ou distribuição de software ilegal que pode prejudicar nossos serviços, serviços de outras empresas ou computadores de usuários.&lt;br&gt;
-Para mais informações, entre em contato com o Suporte do AION através do site oficial do AION the AION website (https://help.novaverso.online/).</body>
+Para mais informações, entre em contato com o Suporte do AION através do site oficial do AION the AION website (http://aiononline.com.br).</body>
   </string>
   <string>
     <id>901686</id>
     <name>STR_PLAYNC_BLOCK_STOLEN_NAME</name>
     <body>Sua conta foi suspensa de acordo com os termos e condições do nosso contrato de serviço. Você usou a identidade de outra pessoa para criar sua conta.&lt;br&gt;
-Para mais informações, entre em contato com o Suporte do AION através do site oficial do AION the AION website (https://help.novaverso.online/).</body>
+Para mais informações, entre em contato com o Suporte do AION através do site oficial do AION the AION website (http://aiononline.com.br).</body>
   </string>
   <string>
     <id>901687</id>
@@ -10491,7 +10491,7 @@ Este item não pode ser restaurado depois de destruído.</body>
 Recebemos uma denúncia de que você fez login no AION em uma lan house e saiu deliberadamente sem pagar. &lt;br&gt;
 Usar uma lan house sem a intenção ou capacidade de pagar pelo serviço é roubo e, como tal, é uma violação da lei. &lt;br&gt;
 Se você não teve nada a ver com este ato, por favor, entre em contato conosco. &lt;br&gt;
-Você pode entrar em contato conosco a qualquer momento no site oficial https://help.novaverso.online/ para obter mais detalhes.</body>
+Você pode entrar em contato conosco a qualquer momento no site oficial http://aiononline.com.br para obter mais detalhes.</body>
   </string>
   <string>
     <id>901694</id>
@@ -10859,7 +10859,7 @@ Você deve decidir em %2 segundo(s).</body>
     <id>901768</id>
     <name>STR_L2AUTH_BLOCK_BOT_PROGRAM</name>
     <body>&lt;p&gt;Sua conta foi temporariamente suspensa porque você é suspeito de usar métodos inadequados para jogar o jogo. Se você não usou nenhum método inadequado, você pode retomar o jogo depois de passar pelo processo de autorização na página inicial do nosso site.&lt;/p&gt;
-&lt;p&gt;Para mais informações, acesse o serviço de Petição 1:1 disponível na central de atendimento ao cliente em nosso site (https://help.novaverso.online/).&lt;/p&gt;</body>
+&lt;p&gt;Para mais informações, acesse o serviço de Petição 1:1 disponível na central de atendimento ao cliente em nosso site (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901769</id>
@@ -11849,7 +11849,7 @@ Tem certeza de que deseja mudar sua aparência?&lt;/p&gt;</body>
   <string>
     <id>901959</id>
     <name>STR_SECURITYCARD_GAME_OVER</name>
-    <body>Você falhou várias vezes ao inserir o número correto do cartão de segurança, portanto, sua senha expirou. Por favor, altere sua senha no site oficial da AION (https://help.novaverso.online/).</body>
+    <body>Você falhou várias vezes ao inserir o número correto do cartão de segurança, portanto, sua senha expirou. Por favor, altere sua senha no site oficial da AION (http://aiononline.com.br).</body>
   </string>
   <string>
     <id>901960</id>
@@ -12345,7 +12345,7 @@ Por favor, pressione Retornar para tentar novamente.</body>
   <string>
     <id>902058</id>
     <name>STR_USB_BOT_DETECTED_AGAIN</name>
-    <body>&lt;p&gt;O jogo está sendo interrompido porque um acesso anormal foi confirmado. Por favor, tente se conectar novamente mais tarde.&lt;/p&gt;&lt;p&gt;Para mais informações, entre em contato conosco usando a Petição 1:1 no site oficial da Aion (https://help.novaverso.online/).&lt;/p&gt;</body>
+    <body>&lt;p&gt;O jogo está sendo interrompido porque um acesso anormal foi confirmado. Por favor, tente se conectar novamente mais tarde.&lt;/p&gt;&lt;p&gt;Para mais informações, entre em contato conosco usando a Petição 1:1 no site oficial da Aion (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>902059</id>
@@ -14321,7 +14321,7 @@ Você pode usar o comando '/Fatigue' para verificar o Nível de Fadiga.</body>
     <name>STR_L2AUTH_GAMEMONEY_CHEAT</name>
     <body>&lt;p&gt;Sua conta foi suspensa porque você explorou bugs no jogo ou se envolveu em atividades relacionadas no jogo.&lt;/p&gt;
 &lt;p&gt;O abuso de bugs pode causar sérias interrupções no serviço e destruir o equilíbrio do jogo.&lt;/p&gt;
-&lt;p&gt;Para mais informações, entre em contato pelo site da AION. (https://help.novaverso.online/).&lt;/p&gt;</body>
+&lt;p&gt;Para mais informações, entre em contato pelo site da AION. (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>902793</id>
