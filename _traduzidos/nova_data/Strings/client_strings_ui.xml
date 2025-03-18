@@ -323,17 +323,17 @@
   <string>
     <id>90004</id>
     <name>STR_ASK_EXTEND_INVENTORY_CONFIRM</name>
-    <body>Aumentar para o Cubo nível %0 custa &lt;font font_xml="v3_msgbox_money"&gt;%qina1&lt;/font&gt;. Continuar? Expansões de Cubo adicionais estão disponíveis na Loja: [%shoplink].</body>
+    <body>Aumentar para o Cubo nível %0 custa &lt;font font_xml="v3_msgbox_money"&gt;%qina1&lt;/font&gt;. Continuar? Expansões de Cubo adicionais estão disponíveis na loja: [%shoplink].</body>
   </string>
   <string>
     <id>90005</id>
     <name>STR_ASK_EXTEND_CHAR_WAREHOUSE_CONFIRM</name>
-    <body>Aumentar o nível do Baú para %0 custa &lt;font font_xml="v3_msgbox_money"&gt;%qina1&lt;/font&gt;. Continuar? Expansões de Baú adicionais estão disponíveis na Loja: [%shoplink]</body>
+    <body>Aumentar o nível do Baú para %0 custa &lt;font font_xml="v3_msgbox_money"&gt;%qina1&lt;/font&gt;. Continuar? Expansões de Baú adicionais estão disponíveis na loja: [%shoplink]</body>
   </string>
   <string>
     <id>90006</id>
     <name>STR_ASK_EXTEND_ACCOUNT_WAREHOUSE_CONFIRM</name>
-    <body>Aumentar o nível do Baú da Conta para %0 custa &lt;font font_xml="v3_msgbox_money"&gt;%qina1&lt;/font&gt;. Continuar? Expansões de Baú adicionais estão disponíveis na Loja: [%shoplink]</body>
+    <body>Aumentar o nível do Baú da Conta para %0 custa &lt;font font_xml="v3_msgbox_money"&gt;%qina1&lt;/font&gt;. Continuar? Expansões de Baú adicionais estão disponíveis na loja: [%shoplink]</body>
   </string>
   <string>
     <id>95000</id>
@@ -369,13 +369,13 @@
   <string>
     <id>95005</id>
     <name>STR_CHANGE_ITEM_SKIN_DO_YOU_WANT_CHANGE_SKIN</name>
-    <body>&lt;p&gt;Modificar a aparência do item &lt;font color="ffff00"&gt;%0&lt;/font&gt; custa &lt;font font_xml="v3_msgbox_money"&gt;%num2&lt;/font&gt; Uma vez concluído, o item &lt;font color="ff0000"&gt;%1&lt;/font&gt; será &lt;font color="ff0000"&gt;destruído&lt;/font&gt;.&lt;/p&gt;</body>
+    <body>&lt;p&gt;Modificar a aparência do item &lt;font color="ffff00"&gt;%0&lt;/font&gt; custa &lt;font font_xml="v3_msgbox_money"&gt;%num2&lt;/font&gt;. Uma vez concluído, o item &lt;font color="ff0000"&gt;%1&lt;/font&gt; será &lt;font color="ff0000"&gt;destruído&lt;/font&gt;.&#xA;&lt;/p&gt;</body>
   </string>
   <string>
     <id>95006</id>
     <name>STR_SOUL_BOUND_ITEM_DO_YOU_WANT_SOUL_BOUND</name>
-    <body>&lt;p&gt;&lt;font color="ffff00"&gt;%0%&lt;/font&gt; deve ser vinculado a esse personagem para poder equipar.&lt;/p&gt;
-&lt;p&gt;Você &lt;font color="ff0000"&gt;não pode trocar&lt;/font&gt; itens que foram vinculados a esse personagem.&lt;/p&gt;
+    <body>&lt;p&gt;&lt;font color="ffff00"&gt;%0%&lt;/font&gt; deve ser vinculado a esse personagem para poder equipar.&#xA;&lt;/p&gt;
+&lt;p&gt;Você &lt;font color="ff0000"&gt;não pode trocar&lt;/font&gt; itens que foram vinculados a esse personagem.&#xA;&lt;/p&gt;
 &lt;p&gt;Vincular esse item agora?&lt;/p&gt;</body>
   </string>
   <string>
@@ -2413,7 +2413,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>240319</id>
     <name>STR_WINDOWTEXT_MYSTATE</name>
-    <body>Meu Status</body>
+    <body>Status</body>
   </string>
   <string>
     <id>240320</id>
@@ -4300,7 +4300,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900437</id>
     <name>STR_GUILD_COMMENT</name>
-    <body>Observação</body>
+    <body>Obs.</body>
   </string>
   <string>
     <id>900438</id>
@@ -5774,7 +5774,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900732</id>
     <name>STR_SELECT_STAGE_DELETE_NOW</name>
-    <body>Confirmar Exclusão</body>
+    <body>Excluir</body>
   </string>
   <string>
     <id>900733</id>
@@ -6499,7 +6499,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>900877</id>
     <name>STR_BUDDYLIST_TODAYWORD</name>
-    <body>Mensagem do dia!</body>
+    <body>(Defina um status)</body>
   </string>
   <string>
     <id>900878</id>
@@ -7269,12 +7269,12 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>901032</id>
     <name>STR_WAIT_CHAR_DELETING</name>
-    <body>Exclusão pendente</body>
+    <body>Excluindo...</body>
   </string>
   <string>
     <id>901033</id>
     <name>STR_WAIT_CHAR_DELETING_TIME</name>
-    <body>Tempo restante</body>
+    <body>Finaliza em</body>
   </string>
   <string>
     <id>901034</id>
@@ -9737,7 +9737,7 @@ Causa 8%% de dano extra e reduz o dano recebido em 8%%. Esse efeito só é váli
   <string>
     <id>901557</id>
     <name>STR_MENU_WEB_KB</name>
-    <body>https://aion.novaverso.online/</body>
+    <body>http://aiononline.com.br</body>
   </string>
   <string>
     <id>901558</id>
@@ -9932,7 +9932,7 @@ Causa 8%% de dano extra e reduz o dano recebido em 8%%. Esse efeito só é váli
   <string>
     <id>901594</id>
     <name>STR_FAQ_WEB_ENCHANT_DESC</name>
-    <body>&lt;p&gt;&lt;font color="BC995B"&gt;https://aion.novaverso.online/! Aqui você pode encontrar tudo sobre AION! Clique no botão para abrir o site do AION..&lt;/font&gt;&lt;/p&gt;</body>
+    <body>&lt;p&gt;&lt;font color="BC995B"&gt;http://aiononline.com.br! Aqui você pode encontrar tudo sobre AION! Clique no botão para abrir o site do AION..&lt;/font&gt;&lt;/p&gt;</body>
   </string>
   <string>
     <id>901595</id>
@@ -9966,7 +9966,7 @@ Causa 8%% de dano extra e reduz o dano recebido em 8%%. Esse efeito só é váli
     <name>STR_L2AUTH_BLOCK_SELF_AUTH_EXPECTED</name>
     <body>&lt;p&gt;Para continuar jogando AION com esta conta, faça login em sua conta mestre da NCsoft e concorde em permitir que seus dados de jogo sejam transferidos para o serviço Gameforge.&lt;/p&gt;
 &lt;p&gt;Para mais informações, consulte o site oficial do AION.
-(https://aion.novaverso.online/).&lt;/p&gt;</body>
+(http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901601</id>
@@ -10061,7 +10061,7 @@ Causa 8%% de dano extra e reduz o dano recebido em 8%%. Esse efeito só é váli
     <id>901616</id>
     <name>STR_L2AUTH_BLOCK_STOLEN_ACCOUNT_LIE</name>
     <body>&lt;p&gt;Sua conta foi banida devido a roubo de conta. Se você nos forneceu um endereço de e-mail, enviamos uma notificação por e-mail.&lt;/p&gt;
-&lt;p&gt;Se você acredita que não esteve envolvido em um caso de roubo de conta, entre em contato com o suporte do AION (http://aiononline.com.br). Você pode encontrar mais informações no site oficial do AION (https://aion.novaverso.online/).&lt;/p&gt;</body>
+&lt;p&gt;Se você acredita que não esteve envolvido em um caso de roubo de conta, entre em contato com o suporte do AION (http://aiononline.com.br). Você pode encontrar mais informações no site oficial do AION (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>901617</id>
@@ -10361,7 +10361,7 @@ Causa 8%% de dano extra e reduz o dano recebido em 8%%. Esse efeito só é váli
 Recebemos uma denúncia de que você fez login no Aion em uma lan house e saiu deliberadamente sem pagar. &lt;br&gt;
 Usar uma lan house sem a intenção ou capacidade de pagar pelo serviço é roubo e, como tal, é uma violação da lei. &lt;br&gt;
 Se você não teve nada a ver com este ato, por favor, entre em contato conosco. &lt;br&gt;
-Você pode entrar em contato conosco a qualquer momento no site oficial https://aion.novaverso.online/ para obter mais detalhes.</body>
+Você pode entrar em contato conosco a qualquer momento no site oficial http://aiononline.com.br para obter mais detalhes.</body>
   </string>
   <string>
     <id>901672</id>
@@ -10466,13 +10466,13 @@ Para mais informações, entre em contato com o Suporte do AION através do site
   <string>
     <id>901689</id>
     <name>STR_DESTROY_CASH_ITEM_CONFIRM</name>
-    <body>Você realmente deseja &lt;font color="ff0000"&gt;destruir&lt;/font&gt; &lt;font color="ffff00"&gt;%0&lt;/font&gt;%?&lt;br&gt;
+    <body>Você realmente deseja &lt;font color="ff0000"&gt;destruir&lt;/font&gt; &lt;font color="ffff00"&gt;%0&lt;/font&gt;%?&lt;br&gt;&lt;br&gt;
 Este item não pode ser restaurado depois de destruído.</body>
   </string>
   <string>
     <id>901690</id>
     <name>STR_DESTROY_CASH_ITEM_NOW</name>
-    <body>Confirmar Destruição</body>
+    <body>Confirmar</body>
   </string>
   <string>
     <id>901691</id>
@@ -11378,17 +11378,17 @@ Usos restantes: %num3/%num4</body>
   <string>
     <id>901868</id>
     <name>STR_INSTANT_DUNGEON_SOLE_ENTER</name>
-    <body>Nova Entrada</body>
+    <body>Novo Grupo (solo)</body>
   </string>
   <string>
     <id>901869</id>
     <name>STR_INSTANT_DUNGEON_FAST_ENTER</name>
-    <body>Entrada Rápida</body>
+    <body>Entrada Rápida (solo)</body>
   </string>
   <string>
     <id>901870</id>
     <name>STR_INSTANT_DUNGEON_GROUP_ENTER</name>
-    <body>Entrada em Grupo</body>
+    <body>Aplicar Grupo Atual</body>
   </string>
   <string>
     <id>901871</id>
@@ -13529,7 +13529,7 @@ Você pode usar o comando '/Fatigue' para verificar o Nível de Fadiga.</body>
   <string>
     <id>902331</id>
     <name>STR_UI_TOYPET_LIST_INFO</name>
-    <body>Informações</body>
+    <body>Inform.</body>
   </string>
   <string>
     <id>902332</id>
@@ -15105,12 +15105,12 @@ Você pode usar o comando '/Fatigue' para verificar o Nível de Fadiga.</body>
   <string>
     <id>903006</id>
     <name>STR_GUILD_EVENT_DEPOSIT_ITEM</name>
-    <body>Depositou %1 %0s</body>
+    <body>Depositou %1 %0</body>
   </string>
   <string>
     <id>903007</id>
     <name>STR_GUILD_EVENT_RETRIEVE_ITEM</name>
-    <body>Retirou %1 %0s</body>
+    <body>Retirou %1 %0</body>
   </string>
   <string>
     <id>903008</id>
@@ -16080,7 +16080,7 @@ Você pode usar o comando '/Fatigue' para verificar o Nível de Fadiga.</body>
   <string>
     <id>903203</id>
     <name>STR_MAIL_CASH_PURCHASE_REFUND_UNREFUNDABLE</name>
-    <body>Você não pode retirar sua oferta para este item.</body>
+    <body>Não é possível devolver.</body>
   </string>
   <string>
     <id>903204</id>
@@ -16495,14 +16495,14 @@ Você pode usar o comando '/Fatigue' para verificar o Nível de Fadiga.</body>
   <string>
     <id>903287</id>
     <name>STR_INSTANCE_DUNGEON_DREADGION_GROUP</name>
-    <body>Entrada em Grupo</body>
+    <body>Aplicar Grupo</body>
   </string>
   <string>
     <id>903288</id>
     <name>STR_INSTANT_DUNGEON_WAITING_INFO_ADD_NAME</name>
-    <body>&lt;p align="left"&gt;Instância: %0 
-Tipo de entrada: %1 
-Progresso: %2 
+    <body>&lt;p align="left"&gt;Instância: %0 &lt;br&gt;
+Tipo de entrada: %1 &lt;br&gt;
+Progresso: %2 &lt;br&gt;
 Tempo de espera: %DURATIONTIME3 %4 &lt;/p&gt;</body>
   </string>
   <string>
@@ -19439,202 +19439,202 @@ Continuar?&lt;/p&gt;</body>
     <id>904293</id>
     <name>STR_PLAYNC_BLOCK_BAD_GAMEDATE_DATE</name>
     <body>Your account has been banned for %0 day(s) as per our T&amp;Cs and Terms of Use for our services because you undertook unauthorised activities to obtain confidential information or alter our game client.&lt;br&gt;
-You can find further information on the official AION Support website (https://aion.support.gameforge.com/en).</body>
+You can find further information on the official AION Support website (http://aiononline.com.br).</body>
   </string>
   <string>
     <id>904294</id>
     <name>STR_PLAYNC_BLOCK_BAD_GAMEDATE_EVER</name>
     <body>Your account has been banned as per our T&amp;Cs and Terms of Use for our services because you undertook unauthorised activities to obtain confidential information or alter our game client.&lt;br&gt;
-You can find further information on the official AION Support website (https://aion.support.gameforge.com/en).</body>
+You can find further information on the official AION Support website (http://aiononline.com.br).</body>
   </string>
   <string>
     <id>904295</id>
     <name>STR_L2AUTH_BLOCK_PLAY_ABNORMAL_DATE</name>
     <body>&lt;p&gt;Your account has been banned for %0 day(s) for system abuse.&lt;/p&gt;
-&lt;p&gt;You can find further information on the official AION Support website (https://aion.support.gameforge.com/en).&lt;/p&gt;</body>
+&lt;p&gt;You can find further information on the official AION Support website (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>904296</id>
     <name>STR_L2AUTH_BLOCK_FRAUD_DATE</name>
     <body>&lt;p&gt;Your account has been banned for %0 day(s) for attempted fraudulent activity or other illegal conduct as per our T&amp;Cs and Terms of Use for our services.&lt;/p&gt;
-&lt;p&gt;You can find further information on the official AION Support website (https://aion.support.gameforge.com/en).&lt;/p&gt;</body>
+&lt;p&gt;You can find further information on the official AION Support website (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>904297</id>
     <name>STR_L2AUTH_BLOCK_FRAUD_EVER2</name>
     <body>&lt;p&gt;Your account has been permanently banned for attempted fraud or other illegal conduct as per our T&amp;Cs and Terms of Use for our services.&lt;/p&gt;
-&lt;p&gt;You can find further information on the official AION Support website (https://aion.support.gameforge.com/en).&lt;/p&gt;</body>
+&lt;p&gt;You can find further information on the official AION Support website (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>904298</id>
     <name>STR_L2AUTH_BLOCK_FALSE_REPORT_DATE</name>
     <body>&lt;p&gt;Your account has been banned for %0 day(s) because you have illegally impersonated an employee, spread false information or have used unauthorised means to negatively impact other players and disrupt the company’s running the game.&lt;/p&gt;
-&lt;p&gt;You can find further information on the official AION Support website (https://aion.support.gameforge.com/en).&lt;/p&gt;</body>
+&lt;p&gt;You can find further information on the official AION Support website (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>904299</id>
     <name>STR_L2AUTH_BLOCK_FALSE_REPORT_EVER</name>
     <body>&lt;p&gt;Your account has been permanently banned because you have illegally impersonated an employee, spread false information or have used unauthorised means to negatively impact other players and disrupt the company’s running the game.&lt;/p&gt;
-&lt;p&gt;You can find further information on the official AION Support website (https://aion.support.gameforge.com/en).&lt;/p&gt;</body>
+&lt;p&gt;You can find further information on the official AION Support website (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>904300</id>
     <name>STR_L2AUTH_BLOCK_DISRUPT_GAME_PLAY_DATE</name>
     <body>&lt;p&gt;Your account has been banned for %0 day(s) for abusing the game and harassing other players.&lt;/p&gt;
-&lt;p&gt;You can find further information on the official AION Support website (https://aion.support.gameforge.com/en).&lt;/p&gt;</body>
+&lt;p&gt;You can find further information on the official AION Support website (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>904301</id>
     <name>STR_L2AUTH_BLOCK_ABUSE_DATE</name>
     <body>&lt;p&gt;Your account has been banned for %0 days for exploiting system errors or similar.&lt;/p&gt;
 &lt;p&gt;This abuse can lead to technical problems or disruptions to the balance of the game.&lt;/p&gt;
-&lt;p&gt;You can find further information on the official AION Support website (https://aion.support.gameforge.com/en).&lt;/p&gt;</body>
+&lt;p&gt;You can find further information on the official AION Support website (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>904302</id>
     <name>STR_L2AUTH_BLOCK_BAD_LANGUAGE_DATE</name>
     <body>&lt;p&gt;Your account has been banned for %0 day(s) for using profanities or verbal abuse as per our T&amp;Cs and Terms of Use for our services.&lt;/p&gt;
-&lt;p&gt;You can find further information on the official AION Support website (https://aion.support.gameforge.com/en).&lt;/p&gt;</body>
+&lt;p&gt;You can find further information on the official AION Support website (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>904303</id>
     <name>STR_L2AUTH_BLOCK_STOLEN_ACCOUNT_LIE_DATE</name>
     <body>&lt;p&gt;Your account has been banned for %0 day(s) as per our principles on account theft because you falsely reported an account theft.&lt;/p&gt;
 &lt;p&gt;Falsely reporting account theft can harm other players.&lt;/p&gt;
-&lt;p&gt;You can find further information on the official AION Support website (https://aion.support.gameforge.com/en).&lt;/p&gt;</body>
+&lt;p&gt;You can find further information on the official AION Support website (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>904304</id>
     <name>STR_L2AUTH_BLOCK_STOLEN_ACCOUNT_LIE_EVER</name>
     <body>&lt;p&gt;Your account has been banned as per our principles on account theft because you falsely reported an account theft.&lt;/p&gt;
 &lt;p&gt;Falsely reporting account theft can harm other players.&lt;/p&gt;
-&lt;p&gt;You can find further information on the official AION Support website (https://aion.support.gameforge.com/en).&lt;/p&gt;</body>
+&lt;p&gt;You can find further information on the official AION Support website (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>904305</id>
     <name>STR_L2AUTH_BLOCK_FRAUD_1_DATE</name>
     <body>&lt;p&gt;Your account has been blocked for %0 day(s) for attempted fraud or illegal conduct.&lt;/p&gt;
-&lt;p&gt;You can find further information on the official AION Support website (https://aion.support.gameforge.com/en).&lt;/p&gt;</body>
+&lt;p&gt;You can find further information on the official AION Support website (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>904306</id>
     <name>STR_L2AUTH_BLOCK_ATTEMPTED_FRAUD_DATE</name>
     <body>&lt;p&gt;Your account has been banned for %0 day(s) for attempted fraudulent activity or other illegal conduct as per our T&amp;Cs and Terms of Use for our services.&lt;/p&gt;
-&lt;p&gt;You can find further information on the official AION Support website (https://aion.support.gameforge.com/en).&lt;/p&gt;</body>
+&lt;p&gt;You can find further information on the official AION Support website (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>904307</id>
     <name>STR_L2AUTH_BLOCK_GAMBLE_DATE</name>
     <body>&lt;p&gt;Your account has been banned for %0 day(s) for illegal gambling.&lt;/p&gt;
-&lt;p&gt;You can find further information on the official AION Support website (https://aion.support.gameforge.com/en).&lt;/p&gt;</body>
+&lt;p&gt;You can find further information on the official AION Support website (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>904308</id>
     <name>STR_L2AUTH_BLOCK_GAMBLE_EVER2</name>
     <body>&lt;p&gt;Your account has been banned for illegal gambling.&lt;/p&gt;
-&lt;p&gt;You can find further information on the official AION Support website (https://aion.support.gameforge.com/en).&lt;/p&gt;</body>
+&lt;p&gt;You can find further information on the official AION Support website (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>904309</id>
     <name>STR_L2AUTH_BLOCK_BREAK_DEAL_DATE</name>
     <body>&lt;p&gt;Your account has been banned for %0 day(s) because you wrongfully took an item while playing in a group.&lt;/p&gt;
-&lt;p&gt;You can find further information on the official AION Support website (https://aion.support.gameforge.com/en).&lt;/p&gt;</body>
+&lt;p&gt;You can find further information on the official AION Support website (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>904310</id>
     <name>STR_L2AUTH_BLOCK_UNFAIR_PROFITS_DATE</name>
     <body>&lt;p&gt;Your account has been banned for %0 days for improper acquisition of XP, AP, GP and Kinah as per our T&amp;Cs and Terms of Use for our services.&lt;/p&gt;
-&lt;p&gt;You can find further information on the official AION Support website (https://aion.support.gameforge.com/en).&lt;/p&gt;</body>
+&lt;p&gt;You can find further information on the official AION Support website (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>904311</id>
     <name>STR_L2AUTH_BLOCK_UNFAIR_PROFITS_EVER</name>
     <body>&lt;p&gt;Your account has been banned for improper acquisition of XP, AP, GP and Kinah as per our T&amp;Cs and Terms of Use for our services.&lt;/p&gt;
-&lt;p&gt;You can find further information on the official AION Support website (https://aion.support.gameforge.com/en).&lt;/p&gt;</body>
+&lt;p&gt;You can find further information on the official AION Support website (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>904312</id>
     <name>STR_L2AUTH_BLOCK_CASHTRADE_DATE</name>
     <body>&lt;p&gt;Your account has been banned for %0 day(s) for illegal trading as per our T&amp;Cs and Terms of Use for our services.&lt;/p&gt;
-&lt;p&gt;You can find further information on the official AION Support website (https://aion.support.gameforge.com/en).&lt;/p&gt;</body>
+&lt;p&gt;You can find further information on the official AION Support website (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>904313</id>
     <name>STR_L2AUTH_BLOCK_CASHTRADE_EVER</name>
     <body>&lt;p&gt;Your account has been banned for illegal trading as per our T&amp;Cs and Terms of Use for our services.&lt;/p&gt;
-&lt;p&gt;You can find further information on the official AION Support website (https://aion.support.gameforge.com/en).&lt;/p&gt;</body>
+&lt;p&gt;You can find further information on the official AION Support website (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>904314</id>
     <name>STR_L2AUTH_BLOCK_TRADE_DATE</name>
     <body>&lt;p&gt;Your account has been banned for %0 day(s) for illegal trading as per our T&amp;Cs and Terms of Use for our services.&lt;/p&gt;
-&lt;p&gt;You can find further information on the official AION Support website (https://aion.support.gameforge.com/en).&lt;/p&gt;</body>
+&lt;p&gt;You can find further information on the official AION Support website (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>904315</id>
     <name>STR_L2AUTH_BLOCK_BREAK_DEAL_EVER</name>
     <body>&lt;p&gt;Your account has been banned because you wrongfully took an item while playing in the group.&lt;/p&gt;
-&lt;p&gt;You can find further information on the official AION Support website (https://aion.support.gameforge.com/en).&lt;/p&gt;</body>
+&lt;p&gt;You can find further information on the official AION Support website (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>904316</id>
     <name>STR_L2AUTH_BLOCK_COMMON</name>
     <body>&lt;p&gt;Your account rights have been restricted.&lt;/p&gt;
-&lt;p&gt;You can find further information on the official AION Support website (https://aion.support.gameforge.com/en).&lt;/p&gt;</body>
+&lt;p&gt;You can find further information on the official AION Support website (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>904317</id>
     <name>STR_L2AUTH_BLOCK_FRAUD_PERMANENT</name>
     <body>&lt;p&gt;Your account has been permanently locked for attempted fraud or illegal conduct.&lt;/p&gt;
-&lt;p&gt;You can find further information on the official AION Support website (https://aion.support.gameforge.com/en).&lt;/p&gt;</body>
+&lt;p&gt;You can find further information on the official AION Support website (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>904318</id>
     <name>STR_L2AUTH_BLOCK_HOLD_AUTH</name>
     <body>&lt;p&gt;Your account has been deactivated for security reasons while we verify your identity.&lt;/p&gt;
-&lt;p&gt;You can find further information on the official AION Support website (https://aion.support.gameforge.com/en).&lt;/p&gt;</body>
+&lt;p&gt;You can find further information on the official AION Support website (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>904319</id>
     <name>STR_L2AUTH_BLOCK_STOLEN_ACCOUNT_WAITING_CERTIFY</name>
     <body>&lt;p&gt;Your account has been banned due to account theft and illegal acquisition of items as per our T&amp;Cs and Terms of Use for our services.&lt;/p&gt;
 &lt;p&gt;Verify yourself via the homepage to continue to use the game.&lt;/p&gt;
-&lt;p&gt;You can find further information on the official AION Support website (https://aion.support.gameforge.com/en).&lt;/p&gt;</body>
+&lt;p&gt;You can find further information on the official AION Support website (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>904320</id>
     <name>STR_L2AUTH_BLOCK_STOLEN_NAME_ACCOUNT</name>
     <body>&lt;p&gt;Your account has been banned due to identity theft as per company policy.&lt;/p&gt;
-&lt;p&gt;You can find further information on the official AION Support website (https://aion.support.gameforge.com/en).&lt;/p&gt;</body>
+&lt;p&gt;You can find further information on the official AION Support website (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>904321</id>
     <name>STR_PLAYNC_BLOCK_AUTH_EXPECTED</name>
-    <body>Your account was banned temporarily due to suspicious activity. Verify yourself on the homepage to continue using the service as accustomed. You can find further information on the official AION Support website (https://aion.support.gameforge.com/en).</body>
+    <body>Your account was banned temporarily due to suspicious activity. Verify yourself on the homepage to continue using the service as accustomed. You can find further information on the official AION Support website (http://aiononline.com.br).</body>
   </string>
   <string>
     <id>904322</id>
     <name>STR_PLAYNC_BLOCK_COMMON</name>
     <body>&lt;p&gt;Your account rights have been restricted.&lt;/p&gt;
-&lt;p&gt;You can find further information on the official AION Support website (https://aion.support.gameforge.com/en).&lt;/p&gt;</body>
+&lt;p&gt;You can find further information on the official AION Support website (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>904323</id>
     <name>STR_PLAYNC_BLOCK_INTEG_ILLEGAL_USE_OF_ACCOUNT</name>
     <body>&lt;p&gt;Your account has been banned on all of our servers due to account theft as per our T&amp;Cs and Terms of Use for our services.&lt;/p&gt;
-&lt;p&gt;You can find further information on the official AION Support website (https://aion.support.gameforge.com/en).&lt;/p&gt;</body>
+&lt;p&gt;You can find further information on the official AION Support website (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>904324</id>
     <name>STR_PLAYNC_BLOCK_PROGRAM_FALSIFY</name>
     <body>&lt;p&gt;Your account has been banned for creating and/or distributing illegal software and/or modifying the client/server software as per our T&amp;Cs and Terms of Use for our services.&lt;/p&gt;
-&lt;p&gt;You can find further information on the official AION Support website (https://aion.support.gameforge.com/en).&lt;/p&gt;</body>
+&lt;p&gt;You can find further information on the official AION Support website (http://aiononline.com.br).&lt;/p&gt;</body>
   </string>
   <string>
     <id>904325</id>
     <name>STR_PLAYNC_BLOCK_STOLEN_PAY_ETERNAL</name>
     <body>Your account has been permanently banned on all of our servers due to outstanding payments as per our T&amp;Cs and Terms of Use for our services.&lt;br&gt;
-You can find further information on the official AION Support website (https://aion.support.gameforge.com/en).</body>
+You can find further information on the official AION Support website (http://aiononline.com.br).</body>
   </string>
   <string>
     <id>904326</id>
@@ -20611,12 +20611,12 @@ You can find further information on the official AION Support website (https://a
   <string>
     <id>905539</id>
     <name>STR_WEB_LINK_HELP_OTP</name>
-    <body>&lt;body&gt;&lt;p&gt;&lt;a href="http"//aion.plaync.co.kr/otp_help.html&gt;What is NC OTP?&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;</body>
+    <body>&lt;body&gt;&lt;p&gt;&lt;a href="http"//aiononline.com.br&gt;What is NC OTP?&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;</body>
   </string>
   <string>
     <id>905540</id>
     <name>STR_WEB_LINK_HELP_SECURITYCARD</name>
-    <body>&lt;body&gt;&lt;p&gt;&lt;a href="http"//aion.plaync.co.kr/sccard_help.html&gt;What is Security Card?&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;</body>
+    <body>&lt;body&gt;&lt;p&gt;&lt;a href="http"//aiononline.com.br&gt;What is Security Card?&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;</body>
   </string>
   <string>
     <id>905843</id>

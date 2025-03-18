@@ -68,7 +68,7 @@
   <string>
     <id>900200</id>
     <name>STR_LOBBY_SERVER__TITLE</name>
-    <body>Selecionar Servidor</body>
+    <body>Servidor</body>
   </string>
   <string>
     <id>900201</id>
@@ -108,7 +108,7 @@
   <string>
     <id>900300</id>
     <name>STR_LOBBY_SELECT__SERVER_LIST</name>
-    <body>Selecionar Servidor</body>
+    <body>Servidor</body>
   </string>
   <string>
     <id>900301</id>
@@ -3802,7 +3802,7 @@
   <string>
     <id>910647</id>
     <name>STR_DLG_GUILD_INFO__BUTTON_GUILD_WORDS</name>
-    <body>Observação</body>
+    <body>Obs.</body>
   </string>
   <string>
     <id>910648</id>
@@ -5324,7 +5324,7 @@
   <string>
     <id>910954</id>
     <name>STR_SKIN_CHANGE_DIALOG__DESC</name>
-    <body>Você só pode usar esta função quando atingir o nível 20. Coloque o item que deseja alterar a aparência na parte superior\ne o item com a nova aparência que você deseja na parte inferior.</body>
+    <body>Requer nível 20. Coloque o item que deseja alterar a aparência na parte superior, e o item com a nova aparência na parte inferior.</body>
   </string>
   <string>
     <id>910955</id>
@@ -5759,17 +5759,17 @@
   <string>
     <id>911041</id>
     <name>STR_WHO_DIALOG__BUDDY</name>
-    <body>Lista de Amigos</body>
+    <body>Amigos</body>
   </string>
   <string>
     <id>911042</id>
     <name>STR_WHO_DIALOG__BLOCK</name>
-    <body>Bloquear Jogador</body>
+    <body>Bloqueados</body>
   </string>
   <string>
     <id>911043</id>
     <name>STR_WHO_DIALOG__TODAY_WORDS</name>
-    <body>Observação</body>
+    <body>Obs.</body>
   </string>
   <string>
     <id>911044</id>
@@ -5779,12 +5779,12 @@
   <string>
     <id>911045</id>
     <name>STR_WHO_DIALOG__WHISPER</name>
-    <body>MP</body>
+    <body>Msg</body>
   </string>
   <string>
     <id>911046</id>
     <name>STR_WHO_DIALOG__INVITE_PARTY</name>
-    <body>Convidar para Grupo</body>
+    <body>Convidar</body>
   </string>
   <string>
     <id>911047</id>
@@ -8099,7 +8099,7 @@
   <string>
     <id>911509</id>
     <name>STR_WAIT_DIALOG__SERVER_SELECT</name>
-    <body>Selecionar Servidor</body>
+    <body>Servidor</body>
   </string>
   <string>
     <id>911510</id>
@@ -9119,7 +9119,7 @@
   <string>
     <id>911713</id>
     <name>STR_PARTY_MATCH_DIALOG__SEEK_PARTY</name>
-    <body>Procurar Grupo</body>
+    <body>LFG</body>
   </string>
   <string>
     <id>911714</id>
@@ -9154,7 +9154,7 @@
   <string>
     <id>911720</id>
     <name>STR_PARTY_MATCH_SEEK_DIALOG</name>
-    <body>Procurar Grupo</body>
+    <body>LFG</body>
   </string>
   <string>
     <id>911721</id>
@@ -10959,7 +10959,7 @@
   <string>
     <id>912081</id>
     <name>STR_CASH_PURCHASE_DIALOG__SENDER_LETTER</name>
-    <body>Observação</body>
+    <body>Obs.</body>
   </string>
   <string>
     <id>912082</id>
