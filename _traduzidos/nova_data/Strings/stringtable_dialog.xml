@@ -3568,7 +3568,7 @@
   <string>
     <id>910600</id>
     <name>STR_VENDOR_DIALOG__VENDOR_TAB_FRAME_WIDGET10</name>
-    <body>Total Vendidos</body>
+    <body>Total</body>
   </string>
   <string>
     <id>910601</id>
@@ -3847,7 +3847,7 @@
   <string>
     <id>910656</id>
     <name>STR_DLG_GUILD_INFO__COLUMN_HEAD_WORDS</name>
-    <body>Automático-apresentação</body>
+    <body>Apresentação</body>
   </string>
   <string>
     <id>910657</id>
@@ -8229,7 +8229,7 @@
   <string>
     <id>911535</id>
     <name>STR_WHO_DIALOG__SHOW_OFFLINE_BUDDY</name>
-    <body>Mostrar amigos offline</body>
+    <body>Mostrar offline</body>
   </string>
   <string>
     <id>911536</id>
@@ -8744,7 +8744,7 @@
   <string>
     <id>911638</id>
     <name>STR_CAPTCHA_DIALOG__TITLE</name>
-    <body>Palavra de Limpeza</body>
+    <body>Complete o Captcha</body>
   </string>
   <string>
     <id>911639</id>
@@ -8759,7 +8759,7 @@
   <string>
     <id>911641</id>
     <name>STR_MAILBOX_DIALOG__TABFRAME_BTN_SELECT_ALL_MAIL</name>
-    <body>Selec. Todos</body>
+    <body>Sel. Todos</body>
   </string>
   <string>
     <id>911642</id>
@@ -9039,7 +9039,7 @@
   <string>
     <id>911697</id>
     <name>STR_PARTY_MATCH_DIALOG</name>
-    <body>Procurar Grupos</body>
+    <body>LFG</body>
   </string>
   <string>
     <id>911698</id>
@@ -9359,7 +9359,7 @@
   <string>
     <id>911761</id>
     <name>STR_PARTY_MATCH_DIALOG__TOOLTIP_SEARCH_MINIMIZE</name>
-    <body>Procurar Grupos</body>
+    <body>LFG</body>
   </string>
   <string>
     <id>911762</id>
@@ -9774,7 +9774,7 @@
   <string>
     <id>911844</id>
     <name>STR_VENDOR_DIALOG__VENDOR_TAB_FRAME_SELLING_ITEM_LIST_EXPECT_TOTAL_PRICE</name>
-    <body>Estimativa Total</body>
+    <body>Estimativa</body>
   </string>
   <string>
     <id>911845</id>
@@ -11024,12 +11024,12 @@
   <string>
     <id>912094</id>
     <name>STR_PARTY_LINK_DIALOG__PARTY_MATCH</name>
-    <body>Procurar Grupos</body>
+    <body>LFG</body>
   </string>
   <string>
     <id>912095</id>
     <name>STR_FORCE_LINK_DIALOG__PARTY_MATCH</name>
-    <body>Procurar Grupos</body>
+    <body>LFG</body>
   </string>
   <string>
     <id>912096</id>
@@ -11064,7 +11064,7 @@
   <string>
     <id>912102</id>
     <name>STR_NEW_MAP_DIALOG__INFO_INDUN_PARTY_MATCH</name>
-    <body>Procurar Grupos</body>
+    <body>LFG</body>
   </string>
   <string>
     <id>912103</id>

@@ -2,37 +2,37 @@
 <sample_macro>
 	<macro>
 		<command>/AutomaticSelection</command>
-		<command>/Shout Attack [%Target]!</command>
+		<command>/Shout Atacar [%Target]!</command>
 		<command>/Attack</command>
-		<name>Attack</name>
+		<name>Atacar</name>
 		<icon>1</icon>
-		<desc>Shouts the name of the automatically selected target and starts attacking them.</desc>
+		<desc>Grita o nome do alvo selecionado automaticamente e começa a atacá-lo.</desc>
 	</macro>
 	<macro>
 		<command>/Select [%Group1]</command>
 		<command>/Skill Healing Light I</command>
 		<command>/Delay 2</command>
 		<command>/Select [%PreviousTarget]</command>
-		<name>Heal Ally</name>
+		<name>Curar Aliado</name>
 		<icon>2</icon>
-		<desc>Heals Group Member 1 and then reselects the previous target.</desc>
+		<desc>Cura o Membro do Grupo 1 e, em seguida, volta a selecionar o alvo anterior.</desc>
 	</macro>
 	<macro>
 		<command>/Select [%Group1]</command>
-		<command>/Group Attack [%TargetOfTarget] targeted by [%Group1]!</command>
+		<command>/Group Atacar [%TargetOfTarget], selecionado por [%Group1]!</command>
 		<command>/Attack</command>
-		<name>Assist</name>
+		<name>Assistência</name>
 		<icon>3</icon>
-		<desc>Attacks the target selected by group member 1.</desc>
+		<desc>Ataca o alvo selecionado pelo 1º Jogador do Grupo (em ordem decrescente).</desc>
 	</macro>
 	<macro>
 		<command>/AutomaticSelection</command>
 		<command>/Quickbar 1 1 1</command>
 		<command>/Delay 3</command>
 		<command>/Quickbar 1 1 2</command>
-		<name>Multi-Skills</name>
+		<name>Multi-habilidades</name>
 		<icon>4</icon>
-		<desc>Uses the skills registered in the first and second slots of the quickbar in succession.</desc>
+		<desc>Usa as habilidades registradas no primeiro e no segundo slots da barra rápida, sendo a segunda após 3 segundos de usar a primeira.</desc>
 	</macro>
 	<macro>
 		<command>/Variable 1 Blessing of Health I</command>
@@ -53,6 +53,6 @@
 		<command>/Delay 2</command>
 		<name>Variables</name>
 		<icon>1</icon>
-		<desc>Registers a skill in Variable1 and then applies it to the entire group.</desc>
+		<desc>Registra uma habilidade na Variable1, e depois aplica essa habilidade em todos os jogadores do grupo, 1 por 1, com um atraso de 2 segundos após cada uso.</desc>
 	</macro>
 </sample_macro>

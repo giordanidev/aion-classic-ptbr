@@ -21,16 +21,39 @@ for caminho, _, traduzir in os.walk(caminho_traduzidos):
 # Quando "ignorar_parse" for "Verdadeiro", o arquivo será traduzido por completo
 # Usado em arquivos que os itens não tem um campo DESC
 ignorar_parse = [
+                ]
+"""
+
                 "ui.xml",
                 "msg.xml",
                 "dialog.xml",
-                "level.xml"
-                ]
+                "level.xml",
+                "samplemacro.xml"
+"""
 # Esses arquivos não devem passar pelo parse por serem HTML.
 # Eles vão direto para a transcrição unicode e o repack.
 nao_parse = [
-            
             ]
+"""
+            "ui\\cleric_0.html",
+            "ui\\cleric_1.html",
+            "ui\\cleric_detail.html",
+            "ui\\mage_0.html",
+            "ui\\mage_1.html",
+            "ui\\mage_detail.html",
+            "ui\\scout_0.html",
+            "ui\\scout_1.html",
+            "ui\\scout_detail.html",
+            "ui\\warrior_0.html",
+            "ui\\warrior_1.html",
+            "ui\\warrior_detail.html",
+            "ui\\dark_desc_dimmed.html",
+            "ui\\dark_desc.html",
+            "ui\\light_desc_dimmed.html",
+            "ui\\light_desc.html",
+            "ui\\createinfos.html",
+            "ui\\useragreement.html""
+"""
 def verificar_arquivos(contagem_arquivo, iteracoes, dest):
     print(f"[{contagem_arquivo}/{iteracoes}] Verificando arquivo: {dest}", end="\r")
     if os.path.isfile(dest):
@@ -182,6 +205,7 @@ def unicode():
                 "&apos;": "'", "´": "'", "`": "'", "’": "'", "‘": "'", " ": " ", "–": "-"
             }
 
+            print(f"[{contagem_arquivo}/{iteracoes}] Iniciando transcrição: '{arquivo_final}'")
             contents="".join((char_unicode.get(x, x) for x in contents))
             
             print(f"[{contagem_arquivo}/{iteracoes}] Transcrição finalizada", end="\r")
