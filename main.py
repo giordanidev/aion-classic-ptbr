@@ -12,18 +12,18 @@ caminho_traduzidos = ".\\_traduzidos"
 caminho_parsed = ".\\_parsed"
 caminho_final = ".\\PAK"
 data_jogo = "E:\\JOGOS\\Nova Aion\\l10n\\enu\\data\\z_nova_data_ptBR.pak"
+ignorar_extencoes = [".html", ".htm"]
 
 arquivos_originais = [name for name in os.listdir(caminho_originais) if os.path.isdir(os.path.join(caminho_originais, name))] #puxa os diretorios na pasta _originais
 arquivos = []
 for caminho, _, traduzir in os.walk(caminho_traduzidos):
     for arquivo in traduzir:
         arquivos.append(re.sub(caminho_traduzidos, '', os.path.join(caminho, arquivo))) #puxa o caminho completo de todos os arquivos já traduzidos
-# Quando "ignorar_parse" for "Verdadeiro", o arquivo será traduzido por completo
+# Quando "ignorar_parse" for "Verdadeiro", o arquivo será transcrito por completo
 # Usado em arquivos que os itens não tem um campo DESC
 ignorar_parse = [
                 ]
 """
-
                 "ui.xml",
                 "msg.xml",
                 "dialog.xml",
@@ -82,6 +82,11 @@ def parsing():
         start_time_original = time.monotonic()
         ignorar_parse_desc = False
         for traducao in arquivos:
+            if verificarExtencao(arquivo) == True:
+                print(f"[{contagem_arquivo}/{iteracoes}] Arquivo HTML: '{arquivo_traduzido}' :: Não passará pela transcrição")
+                contagem_arquivo += 1
+                continue
+
             for texto in traducao.split("_"):
                 if texto in ignorar_parse:
                     ignorar_parse_desc = True
@@ -184,6 +189,11 @@ def unicode():
                 shutil.copy2(f".\\{arquivo}", arquivo_final)
             print(f"[{contagem_arquivo}/{iteracoes}] Copiando arquivo: '{arquivo_traduzido}' -> '{arquivo_final}' :: Arquivo copiado")
 
+            if verificarExtencao(arquivo) == True:
+                print(f"[{contagem_arquivo}/{iteracoes}] Arquivo HTML: '{arquivo_traduzido}' :: Não passará pela transcrição")
+                contagem_arquivo += 1
+                continue
+
             f = codecs.open(arquivo_final, encoding='utf-8')
             contents = f.read()
             f.close
@@ -261,6 +271,12 @@ def repack():
     execution_time = "%.2f" % (time.monotonic() - start_time_total)
     print(f"!!!!! REPACK FINALIZADO ({execution_time}s)")
 
+def verificarExtencao(arquivo):
+    if os.path.splitext(arquivo)[-1].lower() in ignorar_extencoes:
+        return True
+    else:
+        return False
+    
 #parsing()
 unicode()
 repack()
