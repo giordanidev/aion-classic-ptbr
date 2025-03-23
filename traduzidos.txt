@@ -5,7 +5,7 @@
 client_strings_ui.xml (100%)
 stringtable_dialog.xml (Revisar)
 client_strings_msg.xml (parcialmente, em andamento - 2997)
-client_strings_item.xml (parcialmente, em andamento - 241897)
+client_strings_item.xml (parcialmente, em andamento - 242972)
 client_strings_item2.xml (Iniciar)
 client_strings_skill.xml (parcialmente, em andamento - 3365)
 
