@@ -4,10 +4,10 @@
 \STRINGS
 client_strings_ui.xml (100%)
 stringtable_dialog.xml (Revisar)
-client_strings_msg.xml (parcialmente, em andamento - 2997)
-client_strings_item.xml (parcialmente, em andamento - 320047)
-client_strings_item2.xml (Iniciar)
-client_strings_skill.xml (parcialmente, em andamento - 3365)
+client_strings_msg.xml (parcialmente, em andamento - linha 2997)
+client_strings_item.xml (100%)
+client_strings_item2.xml (em andamento - linha 14274/184313)
+client_strings_skill.xml (parcialmente, em andamento - linha 3365)
 
 \DIALOGS
 \\10000_19999
