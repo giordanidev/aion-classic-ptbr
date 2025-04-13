@@ -1,4 +1,4 @@
-#AION NOVA VERSO 1.5
+# AION NOVA VERSO 1.5
 Visite aqui: [https://github.com/giordanidev/aion-classic-ptbr/tree/client_1.2](https://github.com/giordanidev/aion-classic-ptbr/tree/client_1.2)
 
 # Aion Classic EU pt_BR
