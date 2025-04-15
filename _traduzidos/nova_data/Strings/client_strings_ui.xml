@@ -19278,22 +19278,22 @@ Continuar?&lt;/p&gt;</body>
   <string>
     <id>904261</id>
     <name>STR_CLASSIC_ACCOUNT_MEMBERSHIP_EFFECT_TOOLTIP</name>
-    <body>Status: &lt;font color="00ff00"&gt;ON&lt;/font&gt; (VIP) &lt;br&gt;Ganho de EXP: 200% &lt;br&gt;Aquisição de Itens: 130% &lt;br&gt;Ganho de Kinah: 100% &lt;br&gt;Ganho de AP: 130% &lt;br&gt;Coleta: 125% &lt;br&gt;Criação de Itens: 125% &lt;br&gt;Loja Privada: possível &lt;br&gt;Recompensa de Missões: ilimitado &lt;br&gt;Troca de Relíquias: ilimitado</body>
+    <body>Status: &lt;font color="00ff00"&gt;ON&lt;/font&gt; (Ticket) &lt;br&gt;Ganho de EXP: 100% &lt;br&gt;Aquisição de Itens (raridade): ilimitado &lt;br&gt;Ganho de Kinah: ilimitado &lt;br&gt;Ganho de AP: ilimitado &lt;br&gt;Coleta: possível &lt;br&gt;Criação de Itens: possível &lt;br&gt;Loja Privada: possível &lt;br&gt;Recompensa de Missões: ilimitado &lt;br&gt;Troca de Relíquias: ilimitado</body>
   </string>
   <string>
     <id>904262</id>
     <name>STR_CLASSIC_ACCOUNT_PCROOM_EFFECT_TOOLTIP</name>
-    <body>Status: &lt;font color="00ff00"&gt;ON&lt;/font&gt; (VIP-LAN) &lt;br&gt;Ganho de EXP: 200% &lt;br&gt;Aquisição de Itens: 130% &lt;br&gt;Ganho de Kinah: 100% &lt;br&gt;Ganho de AP: 130% &lt;br&gt;Coleta: 125% &lt;br&gt;Criação de Itens: 125% &lt;br&gt;Loja Privada: possível &lt;br&gt;Recompensa de Missões: ilimitado &lt;br&gt;Troca de Relíquias: ilimitado</body>
+    <body>Status: &lt;font color="00ff00"&gt;ON&lt;/font&gt; (Extra) &lt;br&gt;Ganho de EXP: 100% &lt;br&gt;Aquisição de Itens (raridade): ilimitado &lt;br&gt;Ganho de Kinah: ilimitado &lt;br&gt;Ganho de AP: ilimitado &lt;br&gt;Coleta: possível &lt;br&gt;Criação de Itens: possível &lt;br&gt;Loja Privada: possível &lt;br&gt;Recompensa de Missões: ilimitado &lt;br&gt;Troca de Relíquias: ilimitado</body>
   </string>
   <string>
     <id>904263</id>
     <name>STR_CLASSIC_ACCOUNT_TRIAL_EFFECT_TOOLTIP</name>
-    <body>Status: &lt;font color="00ff00"&gt;ON&lt;/font&gt; (Grátis) &lt;br&gt;Ganho de EXP: 200% &lt;br&gt;Aquisição de Itens: 130% &lt;br&gt;Ganho de Kinah: 100% &lt;br&gt;Ganho de AP: 130% &lt;br&gt;Coleta: 125% &lt;br&gt;Criação de Itens: 125% &lt;br&gt;Loja Privada: possível &lt;br&gt;Recompensa de Missões: ilimitado &lt;br&gt;Troca de Relíquias: ilimitado</body>
+    <body>Status: &lt;font color="00ff00"&gt;ON&lt;/font&gt; (Grátis) &lt;br&gt;Ganho de EXP: 100% &lt;br&gt;Aquisição de Itens (raridade): ilimitado &lt;br&gt;Ganho de Kinah: ilimitado &lt;br&gt;Ganho de AP: ilimitado &lt;br&gt;Coleta: possível &lt;br&gt;Criação de Itens: possível &lt;br&gt;Loja Privada: possível &lt;br&gt;Recompensa de Missões: ilimitado &lt;br&gt;Troca de Relíquias: ilimitado</body>
   </string>
   <string>
     <id>904264</id>
     <name>STR_CLASSIC_ACCOUNT_TRIAL_FATIGUE_EFFECT_TOOLTIP</name>
-    <body>Status: &lt;font color="ff0000"&gt;OFF&lt;/font&gt; (Grátis) &lt;br&gt;Ganho de EXP: 100% &lt;br&gt;Aquisição de Itens: 100% &lt;br&gt;Ganho de Kinah: 100% &lt;br&gt;Ganho de AP: 100% &lt;br&gt;Coleta: 100% &lt;br&gt;Criação de Itens: 100% &lt;br&gt;Loja Privada: possível &lt;br&gt;Recompensa de Missões: ilimitado &lt;br&gt;Troca de Relíquias: não permitido</body>
+    <body>Status: &lt;font color="ff0000"&gt;OFF&lt;/font&gt; (Grátis) &lt;br&gt;Ganho de EXP: 50% &lt;br&gt;Aquisição de Itens (raridade): Common ou abaixo &lt;br&gt;Ganho de Kinah: não é possível &lt;br&gt;Ganho de AP: não é possível &lt;br&gt;Coleta: não permitido &lt;br&gt;Criação de Itens: possível &lt;br&gt;Loja Privada: não permitido &lt;br&gt;Recompensa de Missões: não recebe AP &lt;br&gt;Troca de Relíquias: não permitido</body>
   </string>
   <string>
     <id>904265</id>
