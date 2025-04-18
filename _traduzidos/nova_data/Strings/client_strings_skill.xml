@@ -3238,7 +3238,7 @@
   <string>
     <id>281964</id>
     <name>STR_SKILL_WA_RobustHit_G1_DESC</name>
-    <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo for um Balaur.
+    <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. Aumenta a Provocação do alvo contra você.
 Habilidade de Sequência nível 1.</body>
   </string>
   <string>
@@ -3249,7 +3249,7 @@ Habilidade de Sequência nível 1.</body>
   <string>
     <id>281966</id>
     <name>STR_SKILL_WA_AvengingCrash_G1_DESC</name>
-    <body>Causa [%e1.SkillATK_Instant.MaxDamage]~[%e1.SkillATK_Instant.MinDamage] de dano físico no alvo após um Block bem-sucedido e o deixa em choque (stun) temporatiamente. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo for um Balaur.
+    <body>Causa [%e1.SkillATK_Instant.MaxDamage]~[%e1.SkillATK_Instant.MinDamage] de dano físico no alvo após um Block bem-sucedido e o deixa em choque (stun) temporatiamente. Aumenta a Provocação do alvo contra você.
 Requer um Escudo</body>
   </string>
   <string>
@@ -3790,7 +3790,7 @@ Shock Wave – Seismic Billow.</body>
   <string>
     <id>282070</id>
     <name>STR_SKILL_FI_DefenseMode_G1_DESC</name>
-    <body>Aumenta seu [%e1.StatBoost.StatName] em [%e1.StatBoost.FixValue] e [%e2.StatBoost.StatName] em [%e2.StatBoost.FixValue] e aumenta a Provocação do alvo causada pelo seu ataque. Você sofre menos dano quando atacado por outro jogador.
+    <body>Aumenta seu [%e1.StatBoost.StatName] em [%e1.StatBoost.FixValue] e [%e2.StatBoost.StatName] em [%e2.StatBoost.FixValue] e aumenta a Provocação do alvo causada pelo seu ataque. Você sofre menos dano no PVP.
 Habilidade Ativa</body>
   </string>
   <string>
@@ -3801,7 +3801,7 @@ Habilidade Ativa</body>
   <string>
     <id>282072</id>
     <name>STR_SKILL_FI_AggressiveMode_G1_DESC</name>
-    <body>Aumenta seu [%e1.StatBoost.StatName] em [%e1.StatBoost.RateValue]%% e causa dano adicional ao atacar outro jogador.
+    <body>Aumenta seu [%e1.StatBoost.StatName] em [%e1.StatBoost.RateValue]%% e causa dano adicional no PVP.
 Habilidade Ativa</body>
   </string>
   <string>
@@ -4026,7 +4026,7 @@ Requer um Escudo</body>
   <string>
     <id>282116</id>
     <name>STR_SKILL_KN_AvengingBlade_G1_DESC</name>
-    <body>Causa [%e1.SkillATK_Instant.MaxDamage]~[%e1.SkillATK_Instant.MinDamage] de dano físico no alvo após um Block bem-sucedido. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo for um Balaur.
+    <body>Causa [%e1.SkillATK_Instant.MaxDamage]~[%e1.SkillATK_Instant.MinDamage] de dano físico no alvo após um Block bem-sucedido. Aumenta a Provocação do alvo contra você.
 Requer um Escudo
 Habilidade de Sequência nível 1.</body>
   </string>
@@ -4038,7 +4038,7 @@ Habilidade de Sequência nível 1.</body>
   <string>
     <id>282118</id>
     <name>STR_SKILL_KN_BlockAreaKnockDown_DESC</name>
-    <body>Ataca um alvo com o Escudo e derruba (knockdown) inimigos próximos após um Block bem-sucesdido. 
+    <body>Ataca um alvo com o Escudo e derruba (knockdown) inimigos próximos após um Block bem-sucedido.
 Requer um Escudo. 
 O alvo não pode desviar.</body>
   </string>
@@ -10927,7 +10927,7 @@ Shock Wave – Seismic Billow.</body>
   <string>
     <id>283517</id>
     <name>STR_SKILL_WA_Steadiness_G1_DESC</name>
-    <body>Aumenta seu [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].
+    <body>Aumenta sua [%e1.StatUp.StatName] em [%e1.StatUp.Value] por [%e1.StatUp.RemainTime].
 Habilidade de Stigma</body>
   </string>
   <string>
@@ -10969,7 +10969,7 @@ Habilidade de Stigma.</body>
   <string>
     <id>283525</id>
     <name>STR_SKILL_KN_GrandProtection_G1_DESC</name>
-    <body>For [%e1.Protect.RemainTime], you suffer [%e1.Protect.Value]%% damage instead of an ally within [%e1.Protect.Range]m radius whenever ally receives [%e1.Protect.Condition].
+    <body>Por [%e1.Protect.RemainTime], você sofre [%e1.Protect.Value]%% de dano em vez de um aliado dentro de um raio de [%e1.Protect.Range]m sempre que o aliado receber [%e1.Protect.Condition].
 Habilidade de Stigma.</body>
   </string>
   <string>
@@ -11002,7 +11002,7 @@ Habilidade de Stigma</body>
   <string>
     <id>283531</id>
     <name>STR_SKILL_KN_HamstringSlash_G1_DESC</name>
-    <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] and [%e3.StatDown.StatName] by [%e3.StatDown.Value] for [%e2.StatDown.RemainTime].</body>
+    <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, e reduz seu [%e2.StatDown.StatName] em [%e2.StatDown.Value] e [%e3.StatDown.StatName] em [%e3.StatDown.Value] por [%e2.StatDown.RemainTime].</body>
   </string>
   <string>
     <id>283532</id>
@@ -11033,7 +11033,7 @@ Cura a HP do alvo em [%e1.Heal_Instant.Heal].</body>
   <string>
     <id>283537</id>
     <name>STR_SKILL_KN_AvengingBlade_G2_DESC</name>
-    <body>When you succeed in using Block, Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo by bashing it with the shield.
+    <body>Quando você consegue um Block, causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo ao golpeá-lo com o escudo.
 Requer um Escudo
 Habilidade de Sequência nível 1.</body>
   </string>
@@ -22825,7 +22825,7 @@ Habilidade de Stigma</body>
   <string>
     <id>285903</id>
     <name>STR_SKILL_CH_ParryingStrike_G1_DESC</name>
-    <body>Upon success of parry, Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and stuns it temporarily.</body>
+    <body>Upon success of parry, causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and stuns it temporarily.</body>
   </string>
   <string>
     <id>285904</id>
@@ -22840,7 +22840,7 @@ Habilidade de Stigma</body>
   <string>
     <id>285906</id>
     <name>STR_SKILL_CH_ParryingStrike_G2_DESC</name>
-    <body>Upon success of parry, Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and stuns it temporarily.</body>
+    <body>Upon success of parry, causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and stuns it temporarily.</body>
   </string>
   <string>
     <id>285907</id>
@@ -24763,7 +24763,7 @@ Habilidade de Sequência nível 1</body>
   <string>
     <id>286271</id>
     <name>STR_SKILL_KN_AvengingBlade_G3_DESC</name>
-    <body>When you succeed in using Block, Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo by bashing it with the shield.
+    <body>Quando você consegue um Block, causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo ao golpeá-lo com o escudo.
 Requer um Escudo
 Habilidade de Sequência nível 1.</body>
   </string>
@@ -25071,7 +25071,7 @@ Multiplicador de dano aleatório: 1x ou 2x o dano</body>
   <string>
     <id>286329</id>
     <name>STR_SKILL_WA_ArmorBreak_G1_DESC</name>
-    <body>Inflicts [%e1.SkillATK_Instant.MinDamage] to [%e1.SkillATK_Instant.MaxDamage] physical damage on a target, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime] seconds. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo for um Balaur.</body>
+    <body>Inflicts [%e1.SkillATK_Instant.MinDamage] to [%e1.SkillATK_Instant.MaxDamage] physical damage on a target, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime] seconds. Aumenta a Provocação do alvo contra você.</body>
   </string>
   <string>
     <id>286330</id>
@@ -25086,7 +25086,7 @@ Multiplicador de dano aleatório: 1x ou 2x o dano</body>
   <string>
     <id>286332</id>
     <name>STR_SKILL_WA_ArmorBreak_G2_DESC</name>
-    <body>Inflicts [%e1.SkillATK_Instant.MinDamage] to [%e1.SkillATK_Instant.MaxDamage] physical damage on a target, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime] seconds. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo for um Balaur.</body>
+    <body>Inflicts [%e1.SkillATK_Instant.MinDamage] to [%e1.SkillATK_Instant.MaxDamage] physical damage on a target, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime] seconds. Aumenta a Provocação do alvo contra você.</body>
   </string>
   <string>
     <id>286333</id>
@@ -25101,7 +25101,7 @@ Multiplicador de dano aleatório: 1x ou 2x o dano</body>
   <string>
     <id>286335</id>
     <name>STR_SKILL_WA_ArmorBreak_G3_DESC</name>
-    <body>Inflicts [%e1.SkillATK_Instant.MinDamage] to [%e1.SkillATK_Instant.MaxDamage] physical damage on a target, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime] seconds. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo for um Balaur.</body>
+    <body>Inflicts [%e1.SkillATK_Instant.MinDamage] to [%e1.SkillATK_Instant.MaxDamage] physical damage on a target, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime] seconds. Aumenta a Provocação do alvo contra você.</body>
   </string>
   <string>
     <id>286336</id>
@@ -27437,7 +27437,7 @@ Stigma acquired</body>
   <string>
     <id>286797</id>
     <name>STR_SKILL_AS_DeadlyCounter_G1_DESC</name>
-    <body>Upon success of Parry, Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.</body>
+    <body>Upon success of Parry, causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.</body>
   </string>
   <string>
     <id>286798</id>
@@ -27741,7 +27741,7 @@ Habilidade Ativa</body>
   <string>
     <id>286855</id>
     <name>STR_SKILL_CH_CrossCounter_G1_DESC</name>
-    <body>Upon success of Parry, Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.</body>
+    <body>Upon success of Parry, causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.</body>
   </string>
   <string>
     <id>286856</id>
@@ -27835,7 +27835,7 @@ Habilidade Ativa</body>
   <string>
     <id>286873</id>
     <name>STR_SKILL_CH_ParryingStrike_G3_DESC</name>
-    <body>Upon success of parry, Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and stuns it temporarily.</body>
+    <body>Upon success of parry, causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and stuns it temporarily.</body>
   </string>
   <string>
     <id>286874</id>
@@ -28909,7 +28909,7 @@ Habilidade de Sequência nível 1</body>
   <string>
     <id>287071</id>
     <name>STR_SKILL_KN_AvengingBlade_G4_DESC</name>
-    <body>When you succeed in using Block, Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo by bashing it with the shield.
+    <body>Quando você consegue um Block, causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo ao golpeá-lo com o escudo.
 Requer um Escudo
 Habilidade de Sequência nível 1.</body>
   </string>
@@ -30054,7 +30054,7 @@ Swift Edge – Soul Slash</body>
   <string>
     <id>287289</id>
     <name>STR_SKILL_WA_ArmorBreak_G4_DESC</name>
-    <body>Inflicts [%e1.SkillATK_Instant.MinDamage] to [%e1.SkillATK_Instant.MaxDamage] physical damage on a target, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime] seconds. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo for um Balaur.</body>
+    <body>Inflicts [%e1.SkillATK_Instant.MinDamage] to [%e1.SkillATK_Instant.MaxDamage] physical damage on a target, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime] seconds. Aumenta a Provocação do alvo contra você.</body>
   </string>
   <string>
     <id>287290</id>
@@ -42195,7 +42195,7 @@ Habilidade de Ataque Especial</body>
   <string>
     <id>289700</id>
     <name>STR_SKILL_KN_AvengingBash_DESC</name>
-    <body>Deals [%e1.SkillATK_Instant.MinDamage] to [%e1.SkillATK_Instant.MaxDamage] physical damage after a successful block with the shield. Aumenta a Provocação do alvo contra você. Causa [%e1.SkillATK_Instant.AddDamage] de dano adicional se o alvo for um Balaur.
+    <body>Deals [%e1.SkillATK_Instant.MinDamage] to [%e1.SkillATK_Instant.MaxDamage] physical damage after a successful block with the shield. Aumenta a Provocação do alvo contra você.
 Requer um Escudo
 Habilidade de Sequência nível 1.</body>
   </string>
@@ -42303,7 +42303,7 @@ Habilidade de Sequência nível 1.</body>
   <string>
     <id>289720</id>
     <name>STR_SKILL_KN_LegBreak_DESC</name>
-    <body>Deals [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] physical damage to the target and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] and [%e3.StatDown.StatName] by [%e3.StatDown.Value] for [%e2.StatDown.RemainTime].
+    <body>Deals [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] physical damage to the target e reduz seu [%e2.StatDown.StatName] em [%e2.StatDown.Value] e [%e3.StatDown.StatName] em [%e3.StatDown.Value] por [%e2.StatDown.RemainTime].
 Habilidade de Sequência nível 1</body>
   </string>
   <string>
