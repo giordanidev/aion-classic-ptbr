@@ -2,7 +2,7 @@
 
 ### Só funciona para o Aion Classic NOVA VERSO 1.2!!!
 
-**Para ajudar por favor visitem o discord: [https://discord.com/invite/novaverso](https://discord.com/invite/novaverso)**
+**Para ajudar por favor visitem o discord: [https://discord.aiononline.com.br](https://discord.aiononline.com.br)**
 Procurem por @konkersgg.
 
 **Estamos jogando o Aion Classic NOVA VERSO 1.2: [http://classic.aiononline.com.br](http://classic.aiononline.com.br)**
@@ -18,7 +18,7 @@ Procurem por @konkersgg.
 
 Qualquer ajuda será muito bem vinda!
 
-- Para testar a tradução no estado atual baixem o arquivo [AQUI](https://github.com/giordanidev/aion-classic-ptbr/raw/refs/heads/client_1.2/_download/z_nova_data_ptBR.zip)
+# - Para testar a tradução no estado atual baixem o arquivo [AQUI](https://github.com/giordanidev/aion-classic-ptbr/raw/refs/heads/client_1.2/_download/z_nova_data_ptBR.zip)
 - Coloquem o arquivo na pasta "l10n/ENG/data" do jogo, como na imagem abaixo:
 ![Pasta](https://i.imgur.com/2YwIkRS.png)
 - Para remover a tradução apenas remova o arquivo da pasta novamente.
