@@ -3,13 +3,13 @@ Visite aqui: [https://github.com/giordanidev/aion-classic-ptbr/tree/client_1.2](
 
 # Aion Classic EU pt_BR
 
-### Só funciona para o CLASSIC EUROPEU por enquanto!!!
+### Só funciona para o CLASSIC EU por enquanto!!!
 
 > Comecei esse projeto para ajudar os BRs que não entendem Inglês e gostariam de uma tradução que facilitasse a vida!
 
 **Para ajudar por favor visitem o discord: [http://discord.aiononline.com.br](http://discord.aiononline.com.br)**
 
-**Estamos jogando o Aion Classic EU: [http://classic.aiononline.com.br](http://classic.aiononline.com.br)**
+**Aion Classic EU: [http://classiceu.aiononline.com.br](http://classiceu.aiononline.com.br)**
 
 ## Estado atual da tradução:
 - [x] 100% **UI** (ainda há ajustes a serem feitos, como por exemplo textos muito longos, mas está traduzido :tada:)
