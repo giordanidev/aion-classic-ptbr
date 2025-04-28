@@ -11,6 +11,7 @@ Procurem por @konkersgg.
 - [x] 100% **UI** (ainda há ajustes a serem feitos, como por exemplo textos muito longos, mas está traduzido :tada:)
 - [ ] &nbsp;&nbsp;70% **Itens** (poções, pergaminhos (scrolls), comidas, bebidas, etc) - Em andamento!
 - [ ] &nbsp;&nbsp;20% **Habilidades (skills)** - Necessita de revisão! Reportem erros encontrados, por favor.
+- [ ] &nbsp;&nbsp;20% **Mensagens** - Necessita de revisão! Reportem erros encontrados, por favor.
 - [ ] &nbsp;&nbsp;&nbsp;&nbsp;2% **Missões (quests)** - Essa vai ser a última etapa. Serão os últimos a serem traduzidos.
 - [ ] &nbsp;&nbsp;&nbsp;&nbsp;0% **Database pt_BR** - Quero lançar uma database em Português para o Aion (tipo aioncodex.com) no meu domínio, aiononline.com.br!!
 
