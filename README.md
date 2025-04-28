@@ -9,18 +9,18 @@ Procurem por @konkersgg.
 
 ## Estado atual da tradução:
 - [x] 100% **UI** (ainda há ajustes a serem feitos, como por exemplo textos muito longos, mas está traduzido :tada:)
-- [ ] &nbsp;&nbsp;80% **Itens** (poções, pergaminhos (scrolls), comidas, bebidas, etc) - Em andamento!
-- [ ] &nbsp;&nbsp;&nbsp;&nbsp;5% **Habilidades (skills)** - Necessita de revisão! Reportem erros encontrados, por favor.
+- [ ] &nbsp;&nbsp;70% **Itens** (poções, pergaminhos (scrolls), comidas, bebidas, etc) - Em andamento!
+- [ ] &nbsp;&nbsp;20% **Habilidades (skills)** - Necessita de revisão! Reportem erros encontrados, por favor.
+- [ ] &nbsp;&nbsp;&nbsp;&nbsp;2% **Missões (quests)** - Essa vai ser a última etapa. Serão os últimos a serem traduzidos.
 - [ ] &nbsp;&nbsp;&nbsp;&nbsp;0% **Database pt_BR** - Quero lançar uma database em Português para o Aion (tipo aioncodex.com) no meu domínio, aiononline.com.br!!
-- [ ] &nbsp;&nbsp;&nbsp;&nbsp;0% **Missões (quests)** - Essa vai ser a última etapa. Serão os últimos a serem traduzidos.
 
 **Nomes de itens, NPCs, áreas e títulos (incluindo títulos de missões) não serão traduzidos.**
 
 Qualquer ajuda será muito bem vinda!
 
-# - Para testar a tradução no estado atual baixem o arquivo [AQUI](https://github.com/giordanidev/aion-classic-ptbr/raw/refs/heads/client_1.2/_download/z_nova_data_ptBR.zip)
-- Coloquem o arquivo na pasta "l10n/ENG/data" do jogo, como na imagem abaixo:
-![Pasta](https://i.imgur.com/2YwIkRS.png)
+# Para testar a tradução no estado atual baixem o arquivo [AQUI](https://github.com/giordanidev/aion-classic-ptbr/raw/refs/heads/client_1.2/_download/z_nova_data_ptBR.zip)
+- Coloquem o arquivo na pasta "l10n/ENU/data" do jogo, como na imagem abaixo:
+![Pasta](https://imgur.com/6dkM4Sh.png)
 - Para remover a tradução apenas remova o arquivo da pasta novamente.
 
 # Imagens
