@@ -1309,12 +1309,12 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>240097</id>
     <name>STR_TOOLTIP_BOOK</name>
-    <body>Livro de Feitiços</body>
+    <body>Livro</body>
   </string>
   <string>
     <id>240098</id>
     <name>STR_TOOLTIP_TWOHANDEDSWORD</name>
-    <body>Espada Longa</body>
+    <body>Greatsword</body>
   </string>
   <string>
     <id>240099</id>
@@ -1454,7 +1454,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>240126</id>
     <name>STR_TOOLTIP_REQUIRED_BOOK</name>
-    <body>Disponível quando equipado com um Livro de Feitiços</body>
+    <body>Disponível quando equipado com um Livro</body>
   </string>
   <string>
     <id>240127</id>
@@ -1469,7 +1469,7 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>240129</id>
     <name>STR_TOOLTIP_REQUIRED_TWOHANDEDSWORD</name>
-    <body>Disponível quando equipado com uma Espada Longa</body>
+    <body>Disponível quando equipado com uma Greatsword</body>
   </string>
   <string>
     <id>240130</id>
@@ -7814,12 +7814,12 @@ Usos restantes: %num3 / %num4 vezes</body>
   <string>
     <id>901172</id>
     <name>STR_VENDOR_KIND_BOOK</name>
-    <body>Livro de Feitiços</body>
+    <body>Livro</body>
   </string>
   <string>
     <id>901173</id>
     <name>STR_VENDOR_KIND_TWOHANDSWORD</name>
-    <body>Espada Longa</body>
+    <body>Greatsword</body>
   </string>
   <string>
     <id>901174</id>
@@ -18618,7 +18618,7 @@ Continuar?&lt;/p&gt;</body>
   <string>
     <id>904129</id>
     <name>STR_CMD_EMERGENCY_ESCAPE</name>
-    <body>/Retreat,/EmergencyEscape,/Emergencia</body>
+    <body>/Retreat,/EmergencyEscape,/Emergencia,/Escapar,/Escape</body>
   </string>
   <string>
     <id>904130</id>

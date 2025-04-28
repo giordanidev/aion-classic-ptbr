@@ -3728,7 +3728,7 @@ Robust Blow – Rupture.</body>
     <id>282058</id>
     <name>STR_SKILL_FI_CripplingCut_G1_DESC</name>
     <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico em um inimigo caído (knockdown).
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>282059</id>
@@ -4304,7 +4304,7 @@ Habilidade de Stigma</body>
     <id>282170</id>
     <name>STR_SKILL_RA_HeavyShot_G1_DESC</name>
     <body>Dispara uma flecha em um alvo a até [%First_Target_Valid_Distance]m de distância de você para causar dano físico aleatório entre [%e1.SkillATK_Instant.MinDamage] e [%e1.SkillATK_Instant.MaxDamage]. O alvo fica em choque (stun) temporariamente.
-Multiplicador de dano aleatório: 1x ou 2x o dano
+Multiplicador de dano aleatório: 0.5x, 1x ou 2x o dano
 Habilidade de Sequência nível 1.</body>
   </string>
   <string>
@@ -4378,7 +4378,7 @@ Swift Edge – Soul Slash</body>
   <string>
     <id>282184</id>
     <name>STR_SKILL_RA_SwiftCrush_G1_DESC</name>
-    <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo e causa dano de sangramento (bleeding) de [%e2.Bleed.Damage] por [%e2.Bleed.RemainTime].</body>
+    <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo e causa dano de sangramento (bleeding) (bleeding) de [%e2.Bleed.Damage] por [%e2.Bleed.RemainTime].</body>
   </string>
   <string>
     <id>282185</id>
@@ -4458,7 +4458,7 @@ Swift Edge – Soul Slash</body>
   <string>
     <id>282200</id>
     <name>STR_SKILL_SC_WhisperofWind_G2_DESC</name>
-    <body>Há uma alta probabilidade de você evitar [%e1.AlwaysDodge.Count] ataques físicos por [%e1.AlwaysDodge.RemainTime]s.</body>
+    <body>Há uma alta probabilidade de você evitar [%e1.AlwaysDodge.Count] ataque(s) físico(s) por [%e1.AlwaysDodge.RemainTime]s.</body>
   </string>
   <string>
     <id>282201</id>
@@ -4478,7 +4478,7 @@ Swift Edge – Soul Slash</body>
   <string>
     <id>282204</id>
     <name>STR_SKILL_RA_StatupCritical_DESC</name>
-    <body>Crit Spell Chance Buff</body>
+    <body>Buff de Chance de Dano Mágico Crítico</body>
   </string>
   <string>
     <id>282205</id>
@@ -4488,7 +4488,7 @@ Swift Edge – Soul Slash</body>
   <string>
     <id>282206</id>
     <name>STR_SKILL_RA_Search_DESC</name>
-    <body>Invisibility Detection Buff</body>
+    <body>Buff para Detectar Invisibilidade</body>
   </string>
   <string>
     <id>282207</id>
@@ -4539,7 +4539,7 @@ Swift Edge – Soul Slash</body>
     <id>282216</id>
     <name>STR_SKILL_RA_StanceStatDownSpeAttSpe_DESC</name>
     <body>Dispara uma flecha imensamente poderosa.
-É usada quando você ataca enquanto está acampado em um local.</body>
+Não pode ser usada em movimento.</body>
   </string>
   <string>
     <id>282217</id>
@@ -4560,7 +4560,7 @@ Habilidade de Stigma</body>
   <string>
     <id>282220</id>
     <name>STR_SKILL_RA_Light_ExplosionTrap_G1_DESC</name>
-    <body>Usa 1 Tripeed Fruit para montar uma armadilha de um raio de 10m que permanece ativa por [%e1.SummonTrap.SummonTime] e explode quando um inimigo se aproxima.</body>
+    <body>Usa 1 Tripeed Fruit para montar uma armadilha que permanece ativa por [%e1.SummonTrap.SummonTime] e explode quando um inimigo se aproxima em um raio de 10m.</body>
   </string>
   <string>
     <id>282221</id>
@@ -4570,7 +4570,7 @@ Habilidade de Stigma</body>
   <string>
     <id>282222</id>
     <name>STR_SKILL_RA_TrapSilenceSlow_DESC</name>
-    <body>Silence: Sets a Trap of Slowing.</body>
+    <body>Silêncio (silence): Define uma Armadilha de Retardamento.</body>
   </string>
   <string>
     <id>282223</id>
@@ -4580,7 +4580,7 @@ Habilidade de Stigma</body>
   <string>
     <id>282224</id>
     <name>STR_SKILL_RA_TrapBleedSnare_DESC</name>
-    <body>Bleeding: Sets a Claw Trap.</body>
+    <body>Sangramento (bleeding): Define uma Armadilha de Garra.</body>
   </string>
   <string>
     <id>282225</id>
@@ -4590,7 +4590,7 @@ Habilidade de Stigma</body>
   <string>
     <id>282226</id>
     <name>STR_SKILL_RA_TrapDOTDamage_DESC</name>
-    <body>Sets a continuing damage trap.</body>
+    <body>Define uma armadilha de dano contínuo.</body>
   </string>
   <string>
     <id>282227</id>
@@ -4600,7 +4600,7 @@ Habilidade de Stigma</body>
   <string>
     <id>282228</id>
     <name>STR_SKILL_RA_TrapParalyze_DESC</name>
-    <body>Sets a Paralyse Trap.</body>
+    <body>Define uma Armadilha de Paralisia.</body>
   </string>
   <string>
     <id>282229</id>
@@ -4640,7 +4640,7 @@ Habilidade de Stigma</body>
   <string>
     <id>282236</id>
     <name>STR_SKILL_P_ConStatBoostCritical_G1_DESC</name>
-    <body>Aumenta a chance de ataques críticos quando [%e1.CondSkillLauncher.ConditionStat] cai abaixo de [%e1.CondSkillLauncher.Condition]%%.</body>
+    <body>Aumenta a chance de ataques críticos quando [%e1.CondSkillLauncher.ConditionStat] fica abaixo de [%e1.CondSkillLauncher.Condition]%%.</body>
   </string>
   <string>
     <id>282237</id>
@@ -4721,7 +4721,7 @@ Habilidade de Sequência nível 1.</body>
   <string>
     <id>282252</id>
     <name>STR_SKILL_AS_SwiftShock_G2_DESC</name>
-    <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. O alvo às vezes fica atordoado (stun) por [%e2.Stun.RemainTime].
+    <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. O alvo pode ficar atordoado (stun) por [%e2.Stun.RemainTime].
 Habilidade de Sequência nível 2
 Swift Edge – Soul Slash.</body>
   </string>
@@ -4838,12 +4838,12 @@ Swift Edge – Soul Slash.</body>
   <string>
     <id>282275</id>
     <name>STR_SKILL_AS_BlowStatDownDodgeParryBlock</name>
-    <body>Normal: Weakens the target's active defence for a while.</body>
+    <body>Normal: Enfraquece a defesa ativa do alvo por um tempo.</body>
   </string>
   <string>
     <id>282276</id>
     <name>STR_SKILL_AS_BlowStatDownDodgeParryBlock_DESC</name>
-    <body>Attacks the target and lowers its active defence at the same time.</body>
+    <body>Ataca o alvo e reduz sua defesa ativa ao mesmo tempo.</body>
   </string>
   <string>
     <id>282277</id>
@@ -4863,7 +4863,7 @@ Swift Edge – Soul Slash.</body>
   <string>
     <id>282280</id>
     <name>STR_SKILL_AS_Hide_G2_DESC</name>
-    <body>Você fica invisível (avançado) por [%e1.Hide.RemainTime]. Sua velocidade de movimento diminui em [%e1.Hide.Speed]%% enquanto a habilidade está ativa.
+    <body>Você fica invisível (avançado) por [%e1.Hide.RemainTime]. Sua Velocidade de Movimento diminui em [%e1.Hide.Speed]%% enquanto a habilidade está ativa.
 Você pode usar até 2 buffs mágicos em si mesmo e ainda permanecer invisível.</body>
   </string>
   <string>
@@ -4874,7 +4874,7 @@ Você pode usar até 2 buffs mágicos em si mesmo e ainda permanecer invisível.
   <string>
     <id>282282</id>
     <name>STR_SKILL_AS_StatUpCritical_DESC</name>
-    <body>Crit Spell Chance Buff</body>
+    <body>Buff de Chance de Dano Mágico Crítico</body>
   </string>
   <string>
     <id>282283</id>
@@ -4924,7 +4924,7 @@ Você pode usar até 2 buffs mágicos em si mesmo e ainda permanecer invisível.
   <string>
     <id>282292</id>
     <name>STR_SKILL_AS_ProcParalyze_DESC</name>
-    <body>Spreads poison on the weapon.</body>
+    <body>Espalha veneno na arma.</body>
   </string>
   <string>
     <id>282293</id>
@@ -4934,7 +4934,7 @@ Você pode usar até 2 buffs mágicos em si mesmo e ainda permanecer invisível.
   <string>
     <id>282294</id>
     <name>STR_SKILL_AS_Incarnation_DESC</name>
-    <body>Summons a clone to attack.</body>
+    <body>Invoca um clone para atacar.</body>
   </string>
   <string>
     <id>282295</id>
@@ -4954,7 +4954,7 @@ Você pode usar até 2 buffs mágicos em si mesmo e ainda permanecer invisível.
   <string>
     <id>282298</id>
     <name>STR_SKILL_AS_BreezeofCalm_G1_DESC</name>
-    <body>Reduz a Provocação de um alvo que esteja a uma distância de até [%First_Target_Valid_Distance]m de você. Também aumenta a resistência a Stun, Counterstroke, Stumble, Spin e Aether's Hold em 250 por 30 segundos.</body>
+    <body>Reduz a Provocação de um alvo que esteja a uma distância de até [%First_Target_Valid_Distance]m de você.</body>
   </string>
   <string>
     <id>282299</id>
@@ -5178,7 +5178,7 @@ Habilidade de Stigma</body>
   <string>
     <id>282342</id>
     <name>STR_SKILL_PR_Stun_DESC</name>
-    <body>Stuns the target.</body>
+    <body>Atordoa (stun) o alvo.</body>
   </string>
   <string>
     <id>282343</id>
@@ -5303,52 +5303,52 @@ Habilidade de Stigma</body>
   <string>
     <id>282369</id>
     <name>STR_SKILL_PR_TrapStatUpPhysicalDefense</name>
-    <body>Totem: Physical Def</body>
+    <body>Totem: Defesa Física</body>
   </string>
   <string>
-    <id>282370</id>
-    <name>STR_SKILL_PR_TrapStatUpPhysicalDefense_DESC</name>
-    <body>Sets up the Magical Physical Defence Symbol.</body>
+      <id>282370</id>
+      <name>STR_SKILL_PR_TrapStatUpPhysicalDefense_DESC</name>
+      <body>Configura o Símbolo de Defesa Física Mágica.</body>
   </string>
   <string>
-    <id>282371</id>
-    <name>STR_SKILL_PR_TrapStatUpMagicalDefense</name>
-    <body>Totem: Magic Defence</body>
+      <id>282371</id>
+      <name>STR_SKILL_PR_TrapStatUpMagicalDefense</name>
+      <body>Totem: Defesa Mágica</body>
   </string>
   <string>
-    <id>282372</id>
-    <name>STR_SKILL_PR_TrapStatUpMagicalDefense_DESC</name>
-    <body>Summons a symbol that blesses allies nearby.</body>
+      <id>282372</id>
+      <name>STR_SKILL_PR_TrapStatUpMagicalDefense_DESC</name>
+      <body>Invoca um símbolo que abençoa aliados próximos.</body>
   </string>
   <string>
-    <id>282373</id>
-    <name>STR_SKILL_PR_TrapStatUpResist</name>
-    <body>Totem: Elemental Resistance</body>
+      <id>282373</id>
+      <name>STR_SKILL_PR_TrapStatUpResist</name>
+      <body>Totem: Resistência Elemental</body>
   </string>
   <string>
-    <id>282374</id>
-    <name>STR_SKILL_PR_TrapStatUpResist_DESC</name>
-    <body>Summons a symbol that blesses allies nearby.</body>
+      <id>282374</id>
+      <name>STR_SKILL_PR_TrapStatUpResist_DESC</name>
+      <body>Invoca um símbolo que abençoa aliados próximos.</body>
   </string>
   <string>
-    <id>282375</id>
-    <name>STR_SKILL_PR_TrapMaintainShield</name>
-    <body>Totem: Divine Shield</body>
+      <id>282375</id>
+      <name>STR_SKILL_PR_TrapMaintainShield</name>
+      <body>Totem: Escudo Divino</body>
   </string>
   <string>
-    <id>282376</id>
-    <name>STR_SKILL_PR_TrapMaintainShield_DESC</name>
-    <body>Summons a symbol that blesses allies nearby.</body>
+      <id>282376</id>
+      <name>STR_SKILL_PR_TrapMaintainShield_DESC</name>
+      <body>Invoca um símbolo que abençoa aliados próximos.</body>
   </string>
   <string>
-    <id>282377</id>
-    <name>STR_SKILL_PR_TrapHeal</name>
-    <body>Recovery of Area Form Maintenance</body>
+      <id>282377</id>
+      <name>STR_SKILL_PR_TrapHeal</name>
+      <body>Recuperação de Manutenção em Área</body>
   </string>
   <string>
-    <id>282378</id>
-    <name>STR_SKILL_PR_TrapHeal_DESC</name>
-    <body>Summons a symbol that blesses allies nearby.</body>
+      <id>282378</id>
+      <name>STR_SKILL_PR_TrapHeal_DESC</name>
+      <body>Invoca um símbolo que abençoa aliados próximos.</body>
   </string>
   <string>
     <id>282379</id>
@@ -5358,7 +5358,7 @@ Habilidade de Stigma</body>
   <string>
     <id>282380</id>
     <name>STR_SKILL_PR_VisualField_DESC</name>
-    <body>Blinds the target to significantly reduce its visual range.</body>
+    <body>Cega o alvo para reduzir significativamente seu alcance visual.</body>
   </string>
   <string>
     <id>282381</id>
@@ -5368,7 +5368,7 @@ Habilidade de Stigma</body>
   <string>
     <id>282382</id>
     <name>STR_SKILL_P_RemainTime_G1_DESC</name>
-    <body>Increases the duration of boost magic skill.</body>
+    <body>Aumenta a duração da habilidade mágica de fortalecimento.</body>
   </string>
   <string>
     <id>282383</id>
@@ -5596,7 +5596,7 @@ Habilidade Ativa</body>
   <string>
     <id>282426</id>
     <name>STR_SKILL_CH_Chant_ImprovedHaste_G1_DESC</name>
-    <body>Aumenta a Velocidade de Ataque de você e dos membros do seu grupo dentro do raio de [%e1.Aura.Range]m de você.
+    <body>Aumenta a Velocidade de Ataque de você e dos membros do seu grupo dentro de um raio de [%e1.Aura.Range]m de você.
 Habilidade Ativa</body>
   </string>
   <string>
@@ -5648,7 +5648,7 @@ Habilidade Ativa</body>
   <string>
     <id>282436</id>
     <name>STR_SKILL_CH_StatDownAreaDodgeParryBlock_DESC</name>
-    <body>Sings a song that lowers the target's morale, reducing its active defence capability.</body>
+    <body>Canta uma canção que reduz a moral do alvo, diminuindo sua capacidade de defesa ativa.</body>
   </string>
   <string>
     <id>282437</id>
@@ -5658,7 +5658,7 @@ Habilidade Ativa</body>
   <string>
     <id>282438</id>
     <name>STR_SKILL_CH_StatDownAreaProvokerDMG_DESC</name>
-    <body>Sings a song that lowers the target's morale, causing damage when it takes an action.</body>
+    <body>Canta uma canção que reduz a moral do alvo, causando dano quando ele realiza uma ação.</body>
   </string>
   <string>
     <id>282439</id>
@@ -5678,7 +5678,7 @@ Habilidade Ativa</body>
   <string>
     <id>282442</id>
     <name>STR_SKILL_CH_DispelPhysical_DESC</name>
-    <body>Remove estados alterados mágicos.</body>
+    <body>Remove estados alterados físicos.</body>
   </string>
   <string>
     <id>282443</id>
@@ -5810,7 +5810,7 @@ Habilidade de Sequência nível 2.</body>
   <string>
     <id>282468</id>
     <name>STR_SKILL_WI_MediumBurstKonckDown_DESC</name>
-    <body>A magic attack that knocks down the target with an explosion.</body>
+    <body>Um ataque mágico que derruba o alvo com uma explosão.</body>
   </string>
   <string>
     <id>282469</id>
@@ -5841,7 +5841,7 @@ Habilidade de Stigma</body>
   <string>
     <id>282474</id>
     <name>STR_SKILL_WI_AreaBurstKnockBack_DESC</name>
-    <body>Summons a strong rainstorm to knock back the enemies on a straight path in front of you.</body>
+    <body>Invoca uma tempestade forte para repelir os inimigos em um caminho reto à sua frente.</body>
   </string>
   <string>
     <id>282475</id>
@@ -5861,7 +5861,7 @@ Habilidade de Stigma</body>
   <string>
     <id>282478</id>
     <name>STR_SKILL_WI_LargeBurstKnockDown_DESC</name>
-    <body>A magic attack only usable against enemies who have been knocked down.</body>
+    <body>Um ataque mágico que só pode ser usado contra inimigos que foram derrubados.</body>
   </string>
   <string>
     <id>282479</id>
@@ -5871,7 +5871,7 @@ Habilidade de Stigma</body>
   <string>
     <id>282480</id>
     <name>STR_SKILL_WI_Chain1BlowStun_DESC</name>
-    <body>A magic strike that stuns the target for a period of time.</body>
+    <body>Um golpe mágico que atordoa (stun) o alvo por um período de tempo.</body>
   </string>
   <string>
     <id>282481</id>
@@ -5972,7 +5972,7 @@ Por [%e1.Shield.RemainTime], cada vez que for atingido por [%e1.Shield.Condition
   <string>
     <id>282500</id>
     <name>STR_SKILL_WI_Sleep_G1_DESC</name>
-    <body>Força um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você a adormecer por [%e1.Sleep.RemainTime]s e aumenta sua [%e2.StatUp.StatName]. Se o alvo for um jogador, a duração é reduzida.</body>
+    <body>Força um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você a adormecer por [%e1.Sleep.RemainTime]s e aumenta sua [%e2.StatUp.StatName]. A duração é reduzida no PVP.</body>
   </string>
   <string>
     <id>282501</id>
@@ -6093,7 +6093,7 @@ Habilidade de Sequência nível 1.</body>
   <string>
     <id>282524</id>
     <name>STR_SKILL_EL_BurstSnare_DESC</name>
-    <body>Magic damage Debuff (lowers movement speed)</body>
+    <body>Debuff de dano mágico (reduz a Velocidade de Movimento).</body>
   </string>
   <string>
     <id>282525</id>
@@ -6115,10 +6115,10 @@ Habilidade de Sequência nível 1.</body>
     <name>STR_SKILL_EL_Pet_DefencePosition_G1_DESC</name>
     <body>Comanda o espírito para usar sua habilidade de ataque. Os espíritos têm habilidades que aumentam sua resistência mágica.
 
-Espírito da Água: Aumenta as magias físicas e de resistência (fraco)
-Espírito do Vento: Aumenta as magias físicas e de resistência e a evasão (forte)
-Espírito da Terra: Aumenta as magias físicas e de resistência (forte)
-Espírito do Fogo: aumenta as magias físicas e de resistência (fraco)</body>
+Espírito da Água (water): Aumenta as magias físicas e de resistência (fraco)
+Espírito do Vento (wind): Aumenta as magias físicas e de resistência e a evasão (forte)
+Espírito da Terra (earth): Aumenta as magias físicas e de resistência (forte)
+Espírito do Fogo (fire): aumenta as magias físicas e de resistência (fraco)</body>
   </string>
   <string>
     <id>282529</id>
@@ -6130,7 +6130,7 @@ Espírito do Fogo: aumenta as magias físicas e de resistência (fraco)</body>
     <name>STR_SKILL_EL_Pet_OffencePosition_G1_DESC</name>
     <body>Aumenta os seguintes atributos do espírito: [%e1.StatUp.StatName] em [%e1.StatUp.Value] e [%e2.StatUp.StatName] em [%e2.StatUp.Value] por [%e1.StatUp.RemainTime].
 Habilidade de Sequência nível 2
-Sprit: Basic Buff</body>
+Espírito: Buff Básico</body>
   </string>
   <string>
     <id>282531</id>
@@ -6209,7 +6209,7 @@ Sprit: Basic Buff</body>
   <string>
     <id>282548</id>
     <name>STR_SKILL_EL_Fear_G1_DESC</name>
-    <body>Transforma um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você em um Espírito do Fogo por [%e1.Fear.RandomTime]~[%e1.Fear.RemainTime] e faz com que o alvo seja dominado pelo medo. Se o alvo for um jogador, a duração é reduzida.</body>
+    <body>Transforma um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você em um Espírito do Fogo por [%e1.Fear.RandomTime]~[%e1.Fear.RemainTime] e faz com que o alvo seja dominado pelo medo. A duração é reduzida no PVP.</body>
   </string>
   <string>
     <id>282549</id>
@@ -6290,7 +6290,7 @@ Ele segue os comandos do seu mestre.</body>
   <string>
     <id>282564</id>
     <name>STR_SKILL_EL_Chain1SummonHomingMassiveLightning_DESC</name>
-    <body>Summons a fast ball of lightning that explodes on impact.</body>
+    <body>Invoca uma bola rápida de relâmpago que explode ao impacto.</body>
   </string>
   <string>
     <id>282565</id>
@@ -6300,6 +6300,7 @@ Ele segue os comandos do seu mestre.</body>
   <string>
     <id>282566</id>
     <name>STR_SKILL_EL_SummonWater_DESC</name>
+    <body>Invoca um Espírito da Água.</body>
   </string>
   <string>
     <id>282567</id>
@@ -6319,7 +6320,7 @@ Ele segue os comandos do seu mestre.</body>
   <string>
     <id>282570</id>
     <name>STR_SKILL_EL_ShortTeleport_DESC</name>
-    <body>Teletransporte Mágico (direção aleatória)</body>
+    <body>Teletransporte Mágico em uma direção aleatória.</body>
   </string>
   <string>
     <id>282571</id>
@@ -6414,12 +6415,12 @@ Ele segue os comandos do seu mestre.</body>
   <string>
     <id>282589</id>
     <name>STR_SKILL_LowHide</name>
-    <body>Invisível (Básico)</body>
+    <body>Invisible (Basic)</body>
   </string>
   <string>
     <id>282590</id>
     <name>STR_SKILL_LowHide_DESC</name>
-    <body>Hide Trap skill</body>
+    <body>Invisível (Básico).</body>
   </string>
   <string>
     <id>282591</id>
@@ -6434,22 +6435,22 @@ Ele segue os comandos do seu mestre.</body>
   <string>
     <id>282593</id>
     <name>STR_SKILL_HighHide</name>
-    <body>High-level Hide</body>
+    <body>Invisible (Advanced)</body>
   </string>
   <string>
     <id>282594</id>
     <name>STR_SKILL_HighHide_DESC</name>
-    <body>High level Hide skill</body>
+    <body>Invisível (Avançado).</body>
   </string>
   <string>
     <id>282595</id>
     <name>STR_SKILL_LowSearch</name>
-    <body>Low-level Search</body>
+    <body>Search (Basic)</body>
   </string>
   <string>
     <id>282596</id>
     <name>STR_SKILL_LowSearch_DESC</name>
-    <body>Low level Search skill</body>
+    <body>Procura (Básica).</body>
   </string>
   <string>
     <id>282597</id>
@@ -6464,12 +6465,12 @@ Ele segue os comandos do seu mestre.</body>
   <string>
     <id>282599</id>
     <name>STR_SKILL_HighSearch</name>
-    <body>High-level Search</body>
+    <body>Search (Advanced)</body>
   </string>
   <string>
     <id>282600</id>
     <name>STR_SKILL_HighSearch_DESC</name>
-    <body>High level Search skill</body>
+    <body>Procura (Avançada)</body>
   </string>
   <string>
     <id>282601</id>
@@ -6729,7 +6730,7 @@ Ele segue os comandos do seu mestre.</body>
   <string>
     <id>282652</id>
     <name>STR_SKILL_FI_FLY_BloodyFly_DESC</name>
-    <body>Consumes HP to extend flying time.</body>
+    <body>Consome HP para estender o Tempo de Voo.</body>
   </string>
   <string>
     <id>282653</id>
@@ -6950,7 +6951,7 @@ Habilidade Ativa</body>
   <string>
     <id>282696</id>
     <name>STR_SKILL_CL_SonicEruption_G1_DESC</name>
-    <body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de vento em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você, e às vezes atordoa (stun) o alvo temporariamente.
+    <body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de vento em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você, e pode atordoar (stun) o alvo temporariamente.
 Habilidade de Sequência nível 2
 Hallowed Strike – Infernal Blaze.</body>
   </string>
@@ -7190,7 +7191,7 @@ Habilidade de Sequência nível 1.</body>
   <string>
     <id>282744</id>
     <name>STR_SKILL_CL_SonicEruption_G2_DESC</name>
-    <body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de vento em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você, e às vezes atordoa (stun) o alvo temporariamente.
+    <body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de vento em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você, e pode atordoar (stun) o alvo temporariamente.
 Habilidade de Sequência nível 2
 Hallowed Strike – Infernal Blaze.</body>
   </string>
@@ -8305,8 +8306,8 @@ Habilidade de Ataque Especial</body>
   <string>
     <id>282962</id>
     <name>STR_SKILL_RA_BackdashStab_G1_DESC</name>
-    <body>Causa [%e1.BackDashATK.MinDamage]~[%e1.BackDashATK.MaxDamage] de dano físico no alvo e você é empurrado 25m para trás. O alvo às vezes fica atordoado (stun) por [%e2.Stun.RemainTime].
-Habilidade de Stigma.</body>
+    <body>Causa [%e1.BackDashATK.MinDamage]~[%e1.BackDashATK.MaxDamage] de dano físico no alvo e você é empurrado 25m para trás. O alvo pode ficar atordoado (stun) por [%e2.Stun.RemainTime].
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>282963</id>
@@ -8512,7 +8513,7 @@ Habilidade Ativa</body>
   <string>
     <id>283002</id>
     <name>STR_SKILL_RA_SwiftCrush_G2_DESC</name>
-    <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo e causa dano de sangramento de [%e2.Bleed.Damage] por [%e2.Bleed.RemainTime].</body>
+    <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo e causa dano de sangramento (bleeding) de [%e2.Bleed.Damage] por [%e2.Bleed.RemainTime].</body>
   </string>
   <string>
     <id>283003</id>
@@ -10672,7 +10673,7 @@ Flame Bolt – Blaze.</body>
   <string>
     <id>283469</id>
     <name>STR_SKILL_CL_ProcEntangleWindEffect_DESC</name>
-    <body>Magical wind strike</body>
+    <body>Golpe de vento mágico.</body>
   </string>
   <string>
     <id>283470</id>
@@ -10682,7 +10683,7 @@ Flame Bolt – Blaze.</body>
   <string>
     <id>283471</id>
     <name>STR_SKILL_SC_ProcSpritofGaleEffect_DESC</name>
-    <body>Movement Speed Increase</body>
+    <body>Aumento da Velocidade de Movimento.</body>
   </string>
   <string>
     <id>283472</id>
@@ -10703,7 +10704,7 @@ Flame Bolt – Blaze.</body>
     <id>283475</id>
     <name>STR_SKILL_FI_LockdownImpact_G1_DESC</name>
     <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. O alvo fica de mãos amarradas (bind) por [%e2.Bind.RemainTime].
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>283476</id>
@@ -10724,7 +10725,7 @@ Habilidade de Stigma.</body>
     <id>283479</id>
     <name>STR_SKILL_FI_LockdownImpact_G2_DESC</name>
     <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. O alvo fica de mãos amarradas (bind) por [%e2.Bind.RemainTime].
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>283480</id>
@@ -10855,7 +10856,7 @@ Rage – Rupture.</body>
     <id>283503</id>
     <name>STR_SKILL_FI_CripplingCut_G2_DESC</name>
     <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico em um inimigo caído (knockdown).
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>283504</id>
@@ -10875,7 +10876,7 @@ Habilidade de Stigma.</body>
   <string>
     <id>283507</id>
     <name>STR_SKILL_P_Tanacity_G1_DESC</name>
-    <body>Cada ataque tem chance de atordoar (stun) o alvo se [%e1.CondSkillLauncher.ConditionStat] cair abaixo de [%e1.CondSkillLauncher.Condition]%%.</body>
+    <body>Cada ataque tem chance de atordoar (stun) o alvo se [%e1.CondSkillLauncher.ConditionStat] ficar abaixo de [%e1.CondSkillLauncher.Condition]%%.</body>
   </string>
   <string>
     <id>283508</id>
@@ -10949,7 +10950,7 @@ Habilidade de Stigma</body>
     <id>283521</id>
     <name>STR_SKILL_FI_LockdownImpact_G3_DESC</name>
     <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. O alvo fica de mãos amarradas (bind) por [%e2.Bind.RemainTime].
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>283522</id>
@@ -10970,7 +10971,7 @@ Habilidade de Stigma.</body>
     <id>283525</id>
     <name>STR_SKILL_KN_GrandProtection_G1_DESC</name>
     <body>Por [%e1.Protect.RemainTime], você sofre [%e1.Protect.Value]%% de dano em vez de um aliado dentro de um raio de [%e1.Protect.Range]m sempre que o aliado receber [%e1.Protect.Condition].
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>283526</id>
@@ -11097,7 +11098,7 @@ Robust Blow – Steel Wall Defence</body>
   <string>
     <id>283549</id>
     <name>STR_SKILL_KN_Aura_HolyWrath_G2_DESC</name>
-    <body>Magical Aura
+    <body>Aura Mágica
 Faz com que aliados em um raio de [%e1.Aura.Range]m de você retornem ataques inimigos.
 Habilidade Ativa</body>
   </string>
@@ -11119,8 +11120,8 @@ Habilidade Ativa</body>
   <string>
     <id>283553</id>
     <name>STR_SKILL_KN_Aura_AntiMagic_G1_DESC</name>
-    <body>Magical Aura
-Boosts the resist magic of allies within [%e1.Aura.Range]m radius of you, and also allows them to reflect a portion of the damage received.
+    <body>Aura Mágica
+Aumenta a Resistência Mágica de aliados que estejam a até [%e1.Aura.Range]m de distância de você, e faz com que parte do dano sofrido por eles seja refletido.
 Habilidade Ativa</body>
   </string>
   <string>
@@ -11187,7 +11188,7 @@ Habilidade Ativa</body>
   <string>
     <id>283565</id>
     <name>STR_SKILL_KN_GrandProtection_G2_DESC</name>
-    <body>For [%e1.Protect.RemainTime], you absorb [%e1.Protect.Value]%% of the damage of an ally within [%e1.Protect.Range]m, whenever they receive [%e1.Protect.Condition].</body>
+    <body>Por [%e1.Protect.RemainTime], você absorve [%e1.Protect.Value]%% do dano de um aliado que esteja a até [%e1.Protect.Range]m, sempre que ele receber [%e1.Protect.Condition].</body>
   </string>
   <string>
     <id>283566</id>
@@ -11197,9 +11198,9 @@ Habilidade Ativa</body>
   <string>
     <id>283567</id>
     <name>STR_SKILL_KN_InvincibleBody_G1_DESC</name>
-    <body>Magical Buff
-For [%e1.Shield.RemainTime], has a [%e1.Shield.ConditionProb]%% chance to absorb [%e1.Shield.CoverValue] damage each time you are subject to [%e1.Shield.Condition].
-During that period, decreases [%e2.StatDown.StatName] by [%e2.StatDown.Value]%% and [%e3.StatUp.StatName] by [%e3.StatUp.Value]%%.</body>
+    <body>Buff Mágico
+      Por [%e1.Shield.RemainTime], há uma chance de [%e1.Shield.ConditionProb]%% de absorver [%e1.Shield.CoverValue] de dano toda vez que você receber [%e1.Shield.Condition].
+      Durante esse período, reduz [%e2.StatDown.StatName] em [%e2.StatDown.Value]%% e aumenta [%e3.StatUp.StatName] em [%e3.StatUp.Value]%%.</body>
   </string>
   <string>
     <id>283568</id>
@@ -11209,8 +11210,8 @@ During that period, decreases [%e2.StatDown.StatName] by [%e2.StatDown.Value]%% 
   <string>
     <id>283569</id>
     <name>STR_SKILL_KN_Aura_RepelArrow_G1_DESC</name>
-    <body>Magical Aura
-Aumenta a defesa física of allies within [%e1.Aura.Range]m radius of you, and also allows them to reflect a portion of the damage received.
+    <body>Aura Mágica
+Aumenta a Defesa Física dos aliados que estejam a até [%e1.Aura.Range]m de distância de você e faz com que repelem parte do dano recebido.
 Habilidade Ativa</body>
   </string>
   <string>
@@ -11243,7 +11244,7 @@ Habilidade de Stigma</body>
   <string>
     <id>283575</id>
     <name>STR_SKILL_KN_HamstringSlash_G2_DESC</name>
-    <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and decreases its [%e2.StatDown.StatName] and [%e3.StatDown.StatName] by [%e2.StatDown.Value] and [%e3.StatDown.Value] respectively for [%e2.StatDown.RemainTime].
+    <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, e reduz seu [%e2.StatDown.StatName] em [%e2.StatDown.Value] e [%e3.StatDown.StatName] em [%e3.StatDown.Value] por [%e2.StatDown.RemainTime].
 Habilidade de Sequência nível 2
 Shield Counter – Hamstring Slash.</body>
   </string>
@@ -11277,7 +11278,7 @@ Cura a HP do alvo em [%e1.Heal_Instant.Heal].</body>
   <string>
     <id>283581</id>
     <name>STR_SKILL_KN_GuardianStance_G1_DESC</name>
-    <body>Enters stance mode and blocks enemy's attack by using Block.
+    <body>Entra no modo de Postura e bloqueia o ataque do inimigo usando Block..
 Habilidade Ativa</body>
   </string>
   <string>
@@ -11288,7 +11289,7 @@ Habilidade Ativa</body>
   <string>
     <id>283583</id>
     <name>STR_SKILL_KN_CripplingWave_G1_DESC</name>
-    <body>Inflicts [%e1.SpellATK_Instant.FixDamage] magical damage on nearby enemies and reduces their movement speed for [%e2.Snare.RemainTime].</body>
+    <body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico aos inimigos próximos e reduz sua Velocidade de Movimento por [%e2.Snare.RemainTime].</body>
   </string>
   <string>
     <id>283584</id>
@@ -11298,7 +11299,7 @@ Habilidade Ativa</body>
   <string>
     <id>283585</id>
     <name>STR_SKILL_RA_MindsEye_G1_DESC</name>
-    <body>For [%e1.Search.RemainTime], you can see a target in its basic hide mode.</body>
+    <body>Por [%e1.Search.RemainTime], você pode ver um alvo Invisível (Básico).</body>
   </string>
   <string>
     <id>283586</id>
@@ -11308,7 +11309,7 @@ Habilidade Ativa</body>
   <string>
     <id>283587</id>
     <name>STR_SKILL_RA_MindsEye_G2_DESC</name>
-    <body>For [%e1.Search.RemainTime], you can see a target in its advanced hide mode.</body>
+    <body>Por [%e1.Search.RemainTime], você pode ver um alvo Invisível (Avançado).</body>
   </string>
   <string>
     <id>283588</id>
@@ -11339,7 +11340,7 @@ Habilidade Ativa</body>
     <id>283593</id>
     <name>STR_SKILL_RA_HeavyShot_G2_DESC</name>
     <body>Dispara uma flecha em um alvo a até [%First_Target_Valid_Distance]m de distância de você para causar dano físico aleatório entre [%e1.SkillATK_Instant.MinDamage] e [%e1.SkillATK_Instant.MaxDamage]. O alvo fica em choque (stun) temporariamente.
-Multiplicador de dano aleatório: 1x ou 2x o dano
+Multiplicador de dano aleatório: 0.5x, 1x ou 2x o dano
 Habilidade de Sequência nível 1.</body>
   </string>
   <string>
@@ -11350,7 +11351,7 @@ Habilidade de Sequência nível 1.</body>
   <string>
     <id>283595</id>
     <name>STR_SKILL_RA_BlindingArrow_G1_DESC</name>
-    <body>Reduces the visual range of the target by [%e1.OutofSight.SightRange]%% for [%e1.OutofSight.RemainTime].</body>
+    <body>Reduz o alcance visual do alvo em [%e1.OutofSight.SightRange]%% por [%e1.OutofSight.RemainTime].</body>
   </string>
   <string>
     <id>283596</id>
@@ -11360,7 +11361,7 @@ Habilidade de Sequência nível 1.</body>
   <string>
     <id>283597</id>
     <name>STR_SKILL_RA_Light_SandstormTrap_G1_DESC</name>
-    <body>Uses 3 Tripeed fruits to set up a ranged trap around you. The trap remains effective for [%e1.SummonTrap.SummonTime]. It blinds a target within a 10m radius and lengthens the casting time of its magical skills. While the trap is active, the target gradually loses HP.</body>
+    <body>Usa 3 Tripeed Fruits para armar uma armadilha de longo alcance ao seu redor. A armadilha permanece ativa por [%e1.SummonTrap.SummonTime]. Ela cega (blind) um alvo dentro de um raio de 10m e aumenta o tempo de conjuração de suas habilidades mágicas. Enquanto a armadilha estiver ativa, o alvo perde HP gradualmente.</body>
   </string>
   <string>
     <id>283598</id>
@@ -11370,8 +11371,8 @@ Habilidade de Sequência nível 1.</body>
   <string>
     <id>283599</id>
     <name>STR_SKILL_RA_BackdashStab_G2_DESC</name>
-    <body>Causa [%e1.BackDashATK.MinDamage]~[%e1.BackDashATK.MaxDamage] de dano físico no alvo e você é empurrado 25m para trás. O alvo às vezes fica atordoado (stun) por [%e2.Stun.RemainTime].
-Habilidade de Stigma.</body>
+    <body>Causa [%e1.BackDashATK.MinDamage]~[%e1.BackDashATK.MaxDamage] de dano físico no alvo e você é empurrado 25m para trás. O alvo pode ficar atordoado (stun) por [%e2.Stun.RemainTime].
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>283600</id>
@@ -11381,7 +11382,7 @@ Habilidade de Stigma.</body>
   <string>
     <id>283601</id>
     <name>STR_SKILL_RA_StreamingArrow_G2_DESC</name>
-    <body>Inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] physical damage on a distant target while in mid-air.</body>
+    <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico a um alvo distante enquanto estiver no ar (aetherhold).</body>
   </string>
   <string>
     <id>283602</id>
@@ -11391,8 +11392,8 @@ Habilidade de Stigma.</body>
   <string>
     <id>283603</id>
     <name>STR_SKILL_RA_SpoutArrow_G1_DESC</name>
-    <body>Inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] physical damage on a target within a [%First_Target_Valid_Distance]m radius of you and up to 3 other enemies within a 5m radius of the target.
-Habilidade de Stigma.</body>
+    <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico a um alvo dentro de um raio de [%First_Target_Valid_Distance]m de você e até 3 outros inimigos dentro de um raio de 5m do alvo.
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>283604</id>
@@ -11413,7 +11414,7 @@ Habilidade de Sequência nível 1.</body>
   <string>
     <id>283607</id>
     <name>STR_SKILL_RA_SwiftShock_G3_DESC</name>
-    <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. O alvo às vezes fica atordoado (stun) por [%e2.Stun.RemainTime].
+    <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. O alvo pode ficar atordoado (stun) por [%e2.Stun.RemainTime].
 Habilidade de Sequência nível 2
 Swift Edge – Soul Slash.</body>
   </string>
@@ -11445,7 +11446,7 @@ Swift Edge – Soul Slash.</body>
   <string>
     <id>283613</id>
     <name>STR_SKILL_RA_SwiftCrush_G3_DESC</name>
-    <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo e causa dano de sangramento de [%e2.Bleed.Damage] por [%e2.Bleed.RemainTime].</body>
+    <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo e causa dano de sangramento (bleeding) de [%e2.Bleed.Damage] por [%e2.Bleed.RemainTime].</body>
   </string>
   <string>
     <id>283614</id>
@@ -11476,7 +11477,7 @@ Habilidade de Stigma</body>
   <string>
     <id>283619</id>
     <name>STR_SKILL_RA_Light_ThornburstTrap_G1_DESC</name>
-    <body>Uses 2 Tripeed fruits to set up a trap. Remaining effective for [%e1.SummonTrap.SummonTime], the trap reduces the movement speed of the enemy that approaches within a 5m radius and also causes it to bleed.</body>
+    <body>Usa 2 Tripeed Fruits para montar uma armadilha. Permanecendo ativa por [%e1.SummonTrap.SummonTime], a armadilha reduz a Velocidade de Movimento do inimigo que se aproximar dentro de um raio de 5m e também causa sangramento.</body>
   </string>
   <string>
     <id>283620</id>
@@ -11486,7 +11487,7 @@ Habilidade de Stigma</body>
   <string>
     <id>283621</id>
     <name>STR_SKILL_RA_MarksmanStance_G1_DESC</name>
-    <body>You enter the stance mode, and the range of your bow is increased.
+    <body>Você entra no modo de Postura e o alcance do seu arco é aumentado.
 Habilidade Ativa</body>
   </string>
   <string>
@@ -11497,7 +11498,7 @@ Habilidade Ativa</body>
   <string>
     <id>283623</id>
     <name>STR_SKILL_RA_Light_ExplosionTrap_G3_DESC</name>
-    <body>Uses 4 Tripeed Fruits to set a trap. The trap lasts for [%e1.SummonTrap.SummonTime], and when an enemy comes within 5m of the trap, it explodes, causing damage to enemies within a 10m radius.</body>
+    <body>Usa 4 Tripeed Fruits para montar uma armadilha. A armadilha dura por [%e1.SummonTrap.SummonTime] e, quando um inimigo se aproxima a 5m dela, ela explode, causando dano aos inimigos dentro de um raio de 10m.</body>
   </string>
   <string>
     <id>283624</id>
@@ -11517,7 +11518,7 @@ Habilidade Ativa</body>
   <string>
     <id>283627</id>
     <name>STR_SKILL_RA_MindsEye_G3_DESC</name>
-    <body>For [%e1.Search.RemainTime], you can see a target in its basic hide mode.</body>
+    <body>Por [%e1.Search.RemainTime], você pode ver um alvo Invisível (Básico).</body>
   </string>
   <string>
     <id>283628</id>
@@ -11527,8 +11528,7 @@ Habilidade Ativa</body>
   <string>
     <id>283629</id>
     <name>STR_SKILL_RA_BurstArrow_G1_DESC</name>
-    <body>Inflicts [%e1.SpellATK_Instant.FixDamage] magical damage on the target,
-and stuns it for [%e2.Stun.RemainTime].</body>
+    <body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico ao alvo e o atordoa (stun) por [%e2.Stun.RemainTime].</body>
   </string>
   <string>
     <id>283630</id>
@@ -11538,8 +11538,8 @@ and stuns it for [%e2.Stun.RemainTime].</body>
   <string>
     <id>283631</id>
     <name>STR_SKILL_RA_BladeFury_G1_DESC</name>
-    <body>Attacks the target and inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] random physical damage.
-Multiplicador de dano aleatório: 1x ou 2x o dano</body>
+    <body>Ataca o alvo e causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico aleatório.
+Multiplicador de dano aleatório: 0.5x, 1x ou 2x o dano</body>
   </string>
   <string>
     <id>283632</id>
@@ -11570,7 +11570,7 @@ Multiplicador de dano aleatório: 1x ou 2x o dano</body>
     <id>283637</id>
     <name>STR_SKILL_RA_HeavyShot_G3_DESC</name>
     <body>Dispara uma flecha em um alvo a até [%First_Target_Valid_Distance]m de distância de você para causar dano físico aleatório entre [%e1.SkillATK_Instant.MinDamage] e [%e1.SkillATK_Instant.MaxDamage]. O alvo fica em choque (stun) temporariamente.
-Multiplicador de dano aleatório: 1x ou 2x o dano
+Multiplicador de dano aleatório: 0.5x, 1x ou 2x o dano
 Habilidade de Sequência nível 1.</body>
   </string>
   <string>
@@ -11581,7 +11581,7 @@ Habilidade de Sequência nível 1.</body>
   <string>
     <id>283639</id>
     <name>STR_SKILL_RA_BlindingArrow_G2_DESC</name>
-    <body>Reduces the visual range of the target by [%e1.OutofSight.SightRange]%% for [%e1.OutofSight.RemainTime].</body>
+    <body>Reduz o alcance visual do alvo em [%e1.OutofSight.SightRange]%% por [%e1.OutofSight.RemainTime].</body>
   </string>
   <string>
     <id>283640</id>
@@ -11591,7 +11591,7 @@ Habilidade de Sequência nível 1.</body>
   <string>
     <id>283641</id>
     <name>STR_SKILL_RA_Light_SandstormTrap_G2_DESC</name>
-    <body>Uses 5 Tripeed Fruits to set a trap. The trap lasts for [%e1.SummonTrap.SummonTime], and when an enemy comes within 5m of the trap, it explodes, causing blindness, increased casting time, and gradual HP loss to a target within a 10m radius.</body>
+    <body>Usa 5 Tripeed Fruits para armar uma armadilha de longo alcance ao seu redor. A armadilha permanece ativa por [%e1.SummonTrap.SummonTime]. Ela cega (blind) um alvo dentro de um raio de 10m e aumenta o tempo de conjuração de suas habilidades mágicas. Enquanto a armadilha estiver ativa, o alvo perde HP gradualmente.</body>
   </string>
   <string>
     <id>283642</id>
@@ -11601,7 +11601,7 @@ Habilidade de Sequência nível 1.</body>
   <string>
     <id>283643</id>
     <name>STR_SKILL_RA_Light_VacuumTrap_G1_DESC</name>
-    <body>Uses 9 Tripeed branches to set up a trap. The trap remains effective for [%e1.SummonTrap.SummonTime]. It inflicts magical wind damage on a target within a 5m radius and silences it.</body>
+    <body>Usa 9 Tripeed Branches para montar uma armadilha. A armadilha permanece ativa por [%e1.SummonTrap.SummonTime]. Ela causa dano mágico de vento a um alvo dentro de um raio de 5m e o silencia (silence).</body>
   </string>
   <string>
     <id>283644</id>
@@ -11611,8 +11611,8 @@ Habilidade de Sequência nível 1.</body>
   <string>
     <id>283645</id>
     <name>STR_SKILL_RA_Trishot_G1_DESC</name>
-    <body>Attacks the target and inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] random physical damage.
-Multiplicador de dano aleatório: 1x ou 2x o dano</body>
+    <body>Ataca o alvo e causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico aleatório.
+Multiplicador de dano aleatório: 0.5x, 1x ou 2x o dano</body>
   </string>
   <string>
     <id>283646</id>
@@ -11622,7 +11622,7 @@ Multiplicador de dano aleatório: 1x ou 2x o dano</body>
   <string>
     <id>283647</id>
     <name>STR_SKILL_AS_CarveSignet_G1_DESC</name>
-    <body>Inflicts [%e1.CarveSignet.MinDamage]~[%e1.CarveSignet.MaxDamage] physical damage on the target and has a chance to carve a rune on the target up to [%e1.CarveSignet.SignetGrade] level. 
+    <body>Causa [%e1.CarveSignet.MinDamage]~[%e1.CarveSignet.MaxDamage] de dano físico ao alvo e tem uma chance de cravar uma runa no alvo até o nível [%e1.CarveSignet.SignetGrade]. 
 Habilidade de Sequência nível 1.</body>
   </string>
   <string>
@@ -11633,8 +11633,8 @@ Habilidade de Sequência nível 1.</body>
   <string>
     <id>283649</id>
     <name>STR_SKILL_AS_SignetBurst_G1_DESC</name>
-    <body>Detonates the Runes carved on a target within [%First_Target_Valid_Distance]m, up to [%e1.SignetBurst.SignetGrade] runes, damaging and stunning the target. 
-Damage level and stunning probability vary depending on the Pattern level.</body>
+    <body>Detona as Runas cravadas em um alvo dentro de [%First_Target_Valid_Distance]m, até [%e1.SignetBurst.SignetGrade] runas, causando dano e atordoando (stun) o alvo. 
+O nível de dano e a probabilidade de atordoamento variam conforme o nível das Runas.</body>
   </string>
   <string>
     <id>283650</id>
@@ -11644,7 +11644,7 @@ Damage level and stunning probability vary depending on the Pattern level.</body
   <string>
     <id>283651</id>
     <name>STR_SKILL_AS_CarveSignet_G2_DESC</name>
-    <body>Inflicts [%e1.CarveSignet.MinDamage]~[%e1.CarveSignet.MaxDamage] physical damage on the target and has a chance to carve a rune on the target up to [%e1.CarveSignet.SignetGrade] level. 
+    <body>Causa [%e1.CarveSignet.MinDamage]~[%e1.CarveSignet.MaxDamage] de dano físico ao alvo e tem uma chance de cravar uma runa no alvo até o nível [%e1.CarveSignet.SignetGrade]. 
 Habilidade de Sequência nível 1.</body>
   </string>
   <string>
@@ -11655,8 +11655,8 @@ Habilidade de Sequência nível 1.</body>
   <string>
     <id>283653</id>
     <name>STR_SKILL_AS_SignetBurst_G2_DESC</name>
-    <body>Detonates the Runes carved on a target within [%First_Target_Valid_Distance]m, up to [%e1.SignetBurst.SignetGrade] runes, damaging and stunning the target. 
-Damage level and stunning probability vary depending on the Pattern level.</body>
+    <body>Detona as Runas cravadas em um alvo dentro de [%First_Target_Valid_Distance]m, até [%e1.SignetBurst.SignetGrade] runas, causando dano e atordoando (stun) o alvo. 
+O nível de dano e a probabilidade de atordoamento variam conforme o nível das Runas.</body>
   </string>
   <string>
     <id>283654</id>
@@ -11686,8 +11686,8 @@ Damage level and stunning probability vary depending on the Pattern level.</body
   <string>
     <id>283659</id>
     <name>STR_SKILL_AS_ViciousStab_G1_DESC</name>
-    <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and additionally reduces its [%e3.StatDown.StatName] by [%e3.StatDown.Value].
-The target also bleeds for [%e2.Bleed.RemainTime] if attacked from behind.</body>
+    <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, e reduz seu [%e3.StatDown.StatName] em [%e3.StatDown.Value].
+O alvo também sofre sangramento (bleed) por [%e2.Bleed.RemainTime] se for atacado por trás.</body>
   </string>
   <string>
     <id>283660</id>
@@ -11697,7 +11697,7 @@ The target also bleeds for [%e2.Bleed.RemainTime] if attacked from behind.</body
   <string>
     <id>283661</id>
     <name>STR_SKILL_AS_Hide_G3_DESC</name>
-    <body>Você fica invisível (avançado) por [%e1.Hide.RemainTime]. Sua velocidade de movimento diminui em [%e1.Hide.Speed]%% enquanto a habilidade está ativa.</body>
+    <body>Você fica invisível (avançado) por [%e1.Hide.RemainTime]. Sua Velocidade de Movimento diminui em [%e1.Hide.Speed]%% enquanto a habilidade está ativa.</body>
   </string>
   <string>
     <id>283662</id>
@@ -11768,7 +11768,7 @@ Habilidade de Sequência nível 1.</body>
   <string>
     <id>283675</id>
     <name>STR_SKILL_AS_SwiftShock_G3_DESC</name>
-    <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. O alvo às vezes fica atordoado (stun) por [%e2.Stun.RemainTime].
+    <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. O alvo pode ficar atordoado (stun) por [%e2.Stun.RemainTime].
 Habilidade de Sequência nível 2
 Swift Edge – Soul Slash.</body>
   </string>
@@ -11800,7 +11800,7 @@ Swift Edge – Soul Slash.</body>
   <string>
     <id>283681</id>
     <name>STR_SKILL_AS_PoisoningIntention_G3_DESC</name>
-    <body>Uses 3 Scolopen Poison on your weapon. For [%e1.Provoker.RemainTime], there is a [%e1.Provoker.ConditionProb]%% chance of poisoning the target with each attack.</body>
+    <body>Usa 3 Scolopen Poison para revestir uma arma. Por [%e1.Provoker.RemainTime], há uma chance de [%e1.Provoker.ConditionProb]%% de envenenar (poison) o alvo em cada ataque.</body>
   </string>
   <string>
     <id>283682</id>
@@ -11820,8 +11820,8 @@ Swift Edge – Soul Slash.</body>
   <string>
     <id>283685</id>
     <name>STR_SKILL_AS_BlindingBurst_G1_DESC</name>
-    <body>Blinds nearby enemies within a 15m radius of you for [%e1.Blind.RandomTime] to[%e1.Blind.RemainTime].
-Receive Stigmas</body>
+    <body>Cega inimigos próximos dentro de um raio de 15m de você por [%e1.Blind.RandomTime] a [%e1.Blind.RemainTime].
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>283686</id>
@@ -11870,7 +11870,7 @@ Receive Stigmas</body>
   <string>
     <id>283695</id>
     <name>STR_SKILL_AS_CarveSignet_G3_DESC</name>
-    <body>Inflicts [%e1.CarveSignet.MinDamage]~[%e1.CarveSignet.MaxDamage] physical damage on the target and has a chance to carve a rune on the target up to [%e1.CarveSignet.SignetGrade] level. 
+    <body>Causa [%e1.CarveSignet.MinDamage]~[%e1.CarveSignet.MaxDamage] de dano físico ao alvo e tem uma chance de cravar uma runa no alvo até o nível [%e1.CarveSignet.SignetGrade]. 
 Habilidade de Sequência nível 1.</body>
   </string>
   <string>
@@ -11881,8 +11881,8 @@ Habilidade de Sequência nível 1.</body>
   <string>
     <id>283697</id>
     <name>STR_SKILL_AS_SignetBurst_G3_DESC</name>
-    <body>Detonates the Runes carved on a target within [%First_Target_Valid_Distance]m, up to [%e1.SignetBurst.SignetGrade] runes, damaging and stunning the target. 
-Damage level and stunning probability vary depending on the Pattern level.</body>
+    <body>Detona as Runas cravadas em um alvo dentro de [%First_Target_Valid_Distance]m, até [%e1.SignetBurst.SignetGrade] runas, causando dano e atordoando (stun) o alvo. 
+O nível de dano e a probabilidade de atordoamento variam conforme o nível das Runas.</body>
   </string>
   <string>
     <id>283698</id>
@@ -11892,7 +11892,7 @@ Damage level and stunning probability vary depending on the Pattern level.</body
   <string>
     <id>283699</id>
     <name>STR_SKILL_AS_Sprint_G1_DESC</name>
-    <body>Boosts the movement speed by [%e1.Sprint.Value] for [%e1.Sprint.RemainTime]. The skill consumes MP continuously while in effect.</body>
+    <body>Aumenta a Velocidade de Movimento em [%e1.Sprint.Value] por [%e1.Sprint.RemainTime]. A habilidade consome MP continuamente enquanto estiver ativa.</body>
   </string>
   <string>
     <id>283700</id>
@@ -11903,7 +11903,7 @@ Damage level and stunning probability vary depending on the Pattern level.</body
     <id>283701</id>
     <name>STR_SKILL_AS_HeadBash_G1_DESC</name>
     <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo.
-The target is also put to Sleep for [%e2.Sleep.RemainTime] if attacked from behind.</body>
+O alvo também é colocado para Dormir (sleep) por [%e2.Sleep.RemainTime] se for atacado por trás.</body>
   </string>
   <string>
     <id>283702</id>
@@ -11923,7 +11923,7 @@ The target is also put to Sleep for [%e2.Sleep.RemainTime] if attacked from behi
   <string>
     <id>283705</id>
     <name>STR_SKILL_AS_CorruptingCut_G3_DESC</name>
-    <body>Inflicts [%e1.SkillATK_Instant.MinDamage]-[%e1.SkillATK_Instant.MaxDamage] physical damage on the target, and an additional [%e2.SpellATK.Damage] damage if the target takes poison damage.</body>
+    <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo e um dano adicional de [%e1.SkillATK_Instant.AddDamage] se o alvo estiver envenenado (poison) ou atordoado (stun).</body>
   </string>
   <string>
     <id>283706</id>
@@ -11933,8 +11933,8 @@ The target is also put to Sleep for [%e2.Sleep.RemainTime] if attacked from behi
   <string>
     <id>283707</id>
     <name>STR_SKILL_AS_ViciousStab_G2_DESC</name>
-    <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, and additionally reduces its [%e3.StatDown.StatName] by [%e3.StatDown.Value].
-The target also bleeds for [%e2.Bleed.RemainTime] if attacked from behind.</body>
+    <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo, e reduz seu [%e3.StatDown.StatName] em [%e3.StatDown.Value].
+O alvo também sofre sangramento (bleed) por [%e2.Bleed.RemainTime] se for atacado por trás.</body>
   </string>
   <string>
     <id>283708</id>
@@ -11944,8 +11944,8 @@ The target also bleeds for [%e2.Bleed.RemainTime] if attacked from behind.</body
   <string>
     <id>283709</id>
     <name>STR_SKILL_AS_Blindside_G1_DESC</name>
-    <body>Jumps behind a target's back within [%First_Target_Valid_Distance]m to inflict [%e1.MoveBehindATK.MinDamage]~[%e1.MoveBehindATK.MaxDamage] physical damage. May also stun it.
-Habilidade de Stigma.</body>
+    <body>Salta para trás de um alvo dentro de [%First_Target_Valid_Distance]m para causar [%e1.MoveBehindATK.MinDamage]~[%e1.MoveBehindATK.MaxDamage] de dano físico. Pode atordoar (stun) o alvo.
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>283710</id>
@@ -11955,8 +11955,8 @@ Habilidade de Stigma.</body>
   <string>
     <id>283711</id>
     <name>STR_SKILL_PR_ArcaneAftershock_G1_DESC</name>
-    <body>Magical Debuff
-For [%e1.Provoker.RemainTime], each time the target is hit by [%e1.Provoker.Condition] there is a [%e1.Provoker.ConditionProb]%% chance of it suffering additional damage.</body>
+    <body>Debuff Mágico
+Por [%e1.Provoker.RemainTime], cada vez que o alvo for atingido por [%e1.Provoker.Condition], há [%e1.Provoker.ConditionProb]%% de chance de ele sofrer dano adicional.</body>
   </string>
   <string>
     <id>283712</id>
@@ -11986,7 +11986,7 @@ For [%e1.Provoker.RemainTime], each time the target is hit by [%e1.Provoker.Cond
   <string>
     <id>283717</id>
     <name>STR_SKILL_PR_MassHeal_G2_DESC</name>
-    <body>Cura [%e1.Heal_Instant.Heal] de HP de você e de  membros do seu grupo em um raio de 25m.</body>
+    <body>Cura [%e1.Heal_Instant.Heal] de HP de você e de membros do seu grupo em um raio de 25m.</body>
   </string>
   <string>
     <id>283718</id>
@@ -11996,8 +11996,8 @@ For [%e1.Provoker.RemainTime], each time the target is hit by [%e1.Provoker.Cond
   <string>
     <id>283719</id>
     <name>STR_SKILL_PR_ArcaneAftershock_G2_DESC</name>
-    <body>Magical Debuff
-For [%e1.Provoker.RemainTime], each time the target is hit by [%e1.Provoker.Condition] there is a [%e1.Provoker.ConditionProb]%% chance of it suffering additional damage.</body>
+    <body>Debuff Mágico
+Por [%e1.Provoker.RemainTime], cada vez que o alvo for atingido por [%e1.Provoker.Condition], há [%e1.Provoker.ConditionProb]%% de chance de ele sofrer dano adicional.</body>
   </string>
   <string>
     <id>283720</id>
@@ -12007,7 +12007,7 @@ For [%e1.Provoker.RemainTime], each time the target is hit by [%e1.Provoker.Cond
   <string>
     <id>283721</id>
     <name>STR_SKILL_PR_BlessedShield_G1_DESC</name>
-    <body>Forms a protective shield that can absorb up to [%e1.Shield.CoverValue] damage for [%e1.Shield.RemainTime], and boosts the effects of healing-type skills by [%e2.OneTimeBoostHealEffect.BonusValue]%%. The protective shield remains effective until it absorbs a total of [%e1.Shield.ShieldValue] damage.</body>
+    <body>Forma um escudo protetor que pode absorver até [%e1.Shield.CoverValue] de dano por [%e1.Shield.RemainTime] e aumenta os efeitos de habilidades do tipo Cura em [%e2.OneTimeBoostHealEffect.BonusValue]%%. O escudo protetor permanece ativo até que absorva um total de [%e1.Shield.ShieldValue] de dano.</body>
   </string>
   <string>
     <id>283722</id>
@@ -12017,7 +12017,7 @@ For [%e1.Provoker.RemainTime], each time the target is hit by [%e1.Provoker.Cond
   <string>
     <id>283723</id>
     <name>STR_SKILL_PR_Revive_G3_DESC</name>
-    <body>Resurrects the selected target.</body>
+    <body>Ressuscita um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você.</body>
   </string>
   <string>
     <id>283724</id>
@@ -12048,7 +12048,7 @@ Habilidade de Stigma</body>
   <string>
     <id>283729</id>
     <name>STR_SKILL_PR_RapidRegeneration_G1_DESC</name>
-    <body>Restores the HP of a target within [%First_Target_Valid_Distance]m by [%e1.Heal.CheckTimeHeal] every [%e1.Heal.CheckTime] for [%e1.Heal.RemainTime].</body>
+    <body>Restaura o HP de um alvo dentro de [%First_Target_Valid_Distance]m em [%e1.Heal.CheckTimeHeal] a cada [%e1.Heal.CheckTime] por [%e1.Heal.RemainTime].</body>
   </string>
   <string>
     <id>283730</id>
@@ -12058,8 +12058,8 @@ Habilidade de Stigma</body>
   <string>
     <id>283731</id>
     <name>STR_SKILL_PR_WinterCircle_G1_DESC</name>
-    <body>Increases [%e1.StatUp.StatName] by [%e1.StatUp.Value] and [%e2.StatUp.StatName] by [%e2.StatUp.Value] of you and your group members within a 20 m radius for [%e1.StatUp.RemainTime].
-In the meantime both [%e3.StatDown.StatName] and [%e4.StatDown.StatName] decrease by [%e4.StatDown.Value].</body>
+    <body>Aumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value] e [%e2.StatUp.StatName] em [%e2.StatUp.Value] para você e os membros do seu grupo dentro de um raio de 20m por [%e1.StatUp.RemainTime].
+Enquanto isso, tanto [%e3.StatDown.StatName] quanto [%e4.StatDown.StatName] diminuem em [%e4.StatDown.Value].</body>
   </string>
   <string>
     <id>283732</id>
@@ -12133,7 +12133,7 @@ Smite – Thunderbolt.</body>
   <string>
     <id>283745</id>
     <name>STR_SKILL_PR_Meditation_G1_DESC</name>
-    <body>Restores your MP by [%e1.MPHeal.CheckTimeHeal] every [%e1.MPHeal.CheckTime] for [%e1.MPHeal.RemainTime]. But, your HP continues to decrease at the same time.</body>
+    <body>Restaura seu MP em [%e1.MPHeal.CheckTimeHeal] a cada [%e1.MPHeal.CheckTime] por [%e1.MPHeal.RemainTime]. Mas, ao mesmo tempo, consome seu HP.</body>
   </string>
   <string>
     <id>283746</id>
@@ -12208,7 +12208,7 @@ Inicialmente Cura o HP do alvo em [%e1.Heal_Instant.Heal] e depois recupera seu 
   <string>
     <id>283759</id>
     <name>STR_SKILL_PR_Tremor_G1_DESC</name>
-    <body>Inflicts [%e1.SpellATK_Instant.FixDamage] magical earth damage on enemies within a 5m radius of you, and stuns them with a low probability.</body>
+    <body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de terra aos inimigos dentro de um raio de 5m de você e os atordoa (stun) com baixa probabilidade.</body>
   </string>
   <string>
     <id>283760</id>
@@ -12218,8 +12218,8 @@ Inicialmente Cura o HP do alvo em [%e1.Heal_Instant.Heal] e depois recupera seu 
   <string>
     <id>283761</id>
     <name>STR_SKILL_PR_SummerCircle_G1_DESC</name>
-    <body>Increases [%e1.StatUp.StatName] by [%e1.StatUp.Value] and [%e2.StatUp.StatName] by [%e2.StatUp.Value] of you and your group members within a 20 m radius for [%e1.StatUp.RemainTime].
-In the meantime both [%e3.StatDown.StatName] and [%e4.StatDown.StatName] decrease by [%e4.StatDown.Value].</body>
+    <body>Aumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value] e [%e2.StatUp.StatName] em [%e2.StatUp.Value] para você e os membros do seu grupo dentro de um raio de 20m por [%e1.StatUp.RemainTime].
+Enquanto isso, tanto [%e3.StatDown.StatName] quanto [%e4.StatDown.StatName] diminuem em [%e4.StatDown.Value].</body>
   </string>
   <string>
     <id>283762</id>
@@ -12239,7 +12239,7 @@ In the meantime both [%e3.StatDown.StatName] and [%e4.StatDown.StatName] decreas
   <string>
     <id>283765</id>
     <name>STR_SKILL_PR_MassHeal_G3_DESC</name>
-    <body>Cura [%e1.Heal_Instant.Heal] de HP de você e de  membros do seu grupo em um raio de 25m.</body>
+    <body>Cura [%e1.Heal_Instant.Heal] de HP de você e de membros do seu grupo em um raio de 25m.</body>
   </string>
   <string>
     <id>283766</id>
@@ -12249,8 +12249,8 @@ In the meantime both [%e3.StatDown.StatName] and [%e4.StatDown.StatName] decreas
   <string>
     <id>283767</id>
     <name>STR_SKILL_PR_ArcaneAftershock_G3_DESC</name>
-    <body>Magical Debuff
-For [%e1.Provoker.RemainTime], each time the target is hit by [%e1.Provoker.Condition] there is a [%e1.Provoker.ConditionProb]%% chance of it suffering additional damage.</body>
+    <body>Debuff Mágico
+Por [%e1.Provoker.RemainTime], cada vez que o alvo for atingido por [%e1.Provoker.Condition], há [%e1.Provoker.ConditionProb]%% de chance de ele sofrer dano adicional.</body>
   </string>
   <string>
     <id>283768</id>
@@ -12260,7 +12260,7 @@ For [%e1.Provoker.RemainTime], each time the target is hit by [%e1.Provoker.Cond
   <string>
     <id>283769</id>
     <name>STR_SKILL_PR_BlessedShield_G2_DESC</name>
-    <body>Forms a protective shield that can absorb up to [%e1.Shield.CoverValue] damage for [%e1.Shield.RemainTime], and boosts the effects of healing-type skills by [%e2.OneTimeBoostHealEffect.BonusValue]%%. The protective shield remains effective until it absorbs a total of [%e1.Shield.ShieldValue] damage.</body>
+    <body>Forma um escudo protetor que pode absorver até [%e1.Shield.CoverValue] de dano por [%e1.Shield.RemainTime] e aumenta os efeitos de habilidades do tipo Cura em [%e2.OneTimeBoostHealEffect.BonusValue]%%. O escudo protetor permanece ativo até que absorva um total de [%e1.Shield.ShieldValue] de dano.</body>
   </string>
   <string>
     <id>283770</id>
@@ -12271,7 +12271,7 @@ For [%e1.Provoker.RemainTime], each time the target is hit by [%e1.Provoker.Cond
     <id>283771</id>
     <name>STR_SKILL_PR_ArcaneBackfire_G1_DESC</name>
     <body>Debuff Skill
-For [%e1.MagicCounterATK.RemainTime], inflicts [%e1.MagicCounterATK.Damage]%% damage on the target each time it attempts a magical attack. The inflicted damage cannot exceed [%e1.MagicCounterATK.MaxDamage].</body>
+Por [%e1.MagicCounterATK.RemainTime], causa [%e1.MagicCounterATK.Damage]%% de dano ao alvo a cada vez que ele tenta um ataque mágico. O dano causado não pode exceder [%e1.MagicCounterATK.MaxDamage].</body>
   </string>
   <string>
     <id>283772</id>
@@ -12281,7 +12281,7 @@ For [%e1.MagicCounterATK.RemainTime], inflicts [%e1.MagicCounterATK.Damage]%% da
   <string>
     <id>283773</id>
     <name>STR_SKILL_PR_MassEmergentHeal_G1_DESC</name>
-    <body>Restores the HP of you and your group members within a 25m radius by [%e1.Heal_Instant.Heal].
+    <body>Restaura seu HP e a HP dos membros do seu grupo dentro de um raio de 25m em [%e1.Heal_Instant.Heal].
 Habilidade de Stigma</body>
   </string>
   <string>
@@ -12292,7 +12292,7 @@ Habilidade de Stigma</body>
   <string>
     <id>283775</id>
     <name>STR_SKILL_CH_Chant_LifeTouch_G1_DESC</name>
-    <body>Whenever you and your group members within [%e1.Aura.Range]m radius attack, your physical and magical attack powers decrease while your HP is recovered.
+    <body>Sempre que você e os membros do seu grupo dentro de um raio de [%e1.Aura.Range]m atacam, seu poder de ataque físico e mágico diminui, enquanto seu HP é recuperado.
 Habilidade Ativa</body>
   </string>
   <string>
@@ -12315,7 +12315,7 @@ Meteor Strike - Incandescent Blow.</body>
   <string>
     <id>283779</id>
     <name>STR_SKILL_CH_Chant_LifeTouch_G2_DESC</name>
-    <body>Whenever you and your group members within [%e1.Aura.Range]m radius attack, your physical and magical attack powers decrease while your HP is recovered.
+    <body>Sempre que você e os membros do seu grupo dentro de um raio de [%e1.Aura.Range]m atacam, seu poder de ataque físico e mágico diminui, enquanto seu HP é recuperado.
 Habilidade Ativa</body>
   </string>
   <string>
@@ -12326,8 +12326,8 @@ Habilidade Ativa</body>
   <string>
     <id>283781</id>
     <name>STR_SKILL_CH_Chant_LifeStream_G1_DESC</name>
-    <body>Magical Chant
-Increases the healing rate of allies within [%e1.Aura.Range]m.
+    <body>Mantra Mágico
+Aumenta a taxa de cura dos aliados dentro de um raio de [%e1.Aura.Range]m.
 Habilidade Ativa</body>
   </string>
   <string>
@@ -12338,7 +12338,7 @@ Habilidade Ativa</body>
   <string>
     <id>283783</id>
     <name>STR_SKILL_CH_PushingAttack_G1_DESC</name>
-    <body>Inflicts [%e1.SpellATK_Instant.FixDamage] magical damage on the target and puts it in the [%e1.SpellATK_Instant.AddEffect] state.</body>
+    <body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico ao alvo e o coloca no estado [%e1.SpellATK_Instant.AddEffect].</body>
   </string>
   <string>
     <id>283784</id>
@@ -12358,7 +12358,7 @@ Habilidade Ativa</body>
   <string>
     <id>283787</id>
     <name>STR_SKILL_CH_Chant_ImprovedHaste_G2_DESC</name>
-    <body>Aumenta a Velocidade de Ataque de você e dos membros do seu grupo dentro do raio de [%e1.Aura.Range]m de você.
+    <body>Aumenta a Velocidade de Ataque de você e dos membros do seu grupo dentro de um raio de [%e1.Aura.Range]m de você.
 Habilidade Ativa</body>
   </string>
   <string>
@@ -12369,7 +12369,7 @@ Habilidade Ativa</body>
   <string>
     <id>283789</id>
     <name>STR_SKILL_CH_Chant_ImprovedWing_G2_DESC</name>
-    <body>Extends the flying time of you and your allies within [%e1.Aura.Range]m radius.
+    <body>Estende o Tempo de Voo para você e seus aliados dentro de um raio de [%e1.Aura.Range]m.
 Habilidade Ativa</body>
   </string>
   <string>
@@ -12380,7 +12380,7 @@ Habilidade Ativa</body>
   <string>
     <id>283791</id>
     <name>STR_SKILL_CH_Chant_ImprovedCritical_G1_DESC</name>
-    <body>Increases [%e1.Aura.OtherSkill.e1.StatUp.StatName] by [%e1.Aura.OtherSkill.e1.StatUp.Value], [%e1.Aura.OtherSkill.e1.StatUp.StatName2] by [%e1.Aura.OtherSkill.e1.StatUp.Value2], [%e1.Aura.OtherSkill.e2.StatUp.StatName] by [%e1.Aura.OtherSkill.e2.StatUp.Value], and [%e1.Aura.OtherSkill.e2.StatUp.StatName2] by [%e1.Aura.OtherSkill.e2.StatUp.Value2] for you and your group members within a [%e1.Aura.Range]m radius.
+    <body>Aumenta [%e1.Aura.OtherSkill.e1.StatUp.StatName] em [%e1.Aura.OtherSkill.e1.StatUp.Value], [%e1.Aura.OtherSkill.e1.StatUp.StatName2] em [%e1.Aura.OtherSkill.e1.StatUp.Value2], [%e1.Aura.OtherSkill.e2.StatUp.StatName] em [%e1.Aura.OtherSkill.e2.StatUp.Value] e [%e1.Aura.OtherSkill.e2.StatUp.StatName2] em [%e1.Aura.OtherSkill.e2.StatUp.Value2] para você e os membros do seu grupo dentro de um raio de [%e1.Aura.Range]m.
 Habilidade Ativa
 Habilidade de Stigma</body>
   </string>
@@ -12392,7 +12392,7 @@ Habilidade de Stigma</body>
   <string>
     <id>283793</id>
     <name>STR_SKILL_CH_Chant_ImprovedAccuracy_G1_DESC</name>
-    <body>Raises the accuracy of you and your allies within [%e1.Aura.Range]m radius.
+    <body>Aumenta a sua Precisão e a dos seus aliados dentro de um raio de [%e1.Aura.Range]m.
 Habilidade Ativa</body>
   </string>
   <string>
@@ -12458,7 +12458,7 @@ Habilidade de Sequência nível 1.</body>
   <string>
     <id>283805</id>
     <name>STR_SKILL_CH_BattleSong_G1_DESC</name>
-    <body>Reduces the MP cost of toggle-type skills by [%e1.BoostSkillToggleCost.CostBonus]%% for [%e1.BoostSkillToggleCost.RemainTime].</body>
+    <body>Reduz o custo de MP de habilidades do tipo alternável em [%e1.BoostSkillToggleCost.CostBonus]%% por [%e1.BoostSkillToggleCost.RemainTime].</body>
   </string>
   <string>
     <id>283806</id>
@@ -12566,8 +12566,8 @@ Habilidade Ativa</body>
   <string>
     <id>283825</id>
     <name>STR_SKILL_CH_Chant_LifeStream_G2_DESC</name>
-    <body>Magical Chant
-Increases the healing rate of allies within [%e1.Aura.Range]m.
+    <body>Mantra Mágico
+Aumenta a taxa de cura dos aliados dentro de um raio de [%e1.Aura.Range]m.
 Habilidade Ativa</body>
   </string>
   <string>
@@ -12578,7 +12578,7 @@ Habilidade Ativa</body>
   <string>
     <id>283827</id>
     <name>STR_SKILL_CH_PushingAttack_G2_DESC</name>
-    <body>Inflicts [%e1.SpellATK_Instant.FixDamage] magical damage on the target and puts it in the [%e1.SpellATK_Instant.AddEffect] state.</body>
+    <body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico ao alvo e o coloca no estado [%e1.SpellATK_Instant.AddEffect].</body>
   </string>
   <string>
     <id>283828</id>
@@ -12588,7 +12588,7 @@ Habilidade Ativa</body>
   <string>
     <id>283829</id>
     <name>STR_SKILL_CH_Chant_ManaTouch_G1_DESC</name>
-    <body>Magical Chant
+    <body>Mantra Mágico
 Increases the MP of allies within [%e1.Aura.Range]m radius, but at the same time, physical attack power is weakened.
 Habilidade Ativa</body>
   </string>
@@ -12660,7 +12660,7 @@ Habilidade Ativa</body>
   <string>
     <id>283843</id>
     <name>STR_SKILL_WI_Sleep_G2_DESC</name>
-    <body>Força um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você a adormecer por [%e1.Sleep.RemainTime]s e aumenta sua [%e2.StatUp.StatName]. Se o alvo for um jogador, a duração é reduzida.</body>
+    <body>Força um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você a adormecer por [%e1.Sleep.RemainTime]s e aumenta sua [%e2.StatUp.StatName]. A duração é reduzida no PVP.</body>
   </string>
   <string>
     <id>283844</id>
@@ -12967,10 +12967,10 @@ Habilidade de Sequência nível 1.</body>
     <name>STR_SKILL_EL_Pet_DefencePosition_G2_DESC</name>
     <body>Comanda o espírito para usar sua habilidade de ataque. Os espíritos têm habilidades que aumentam sua resistência mágica.
 
-Espírito da Água: Aumenta as magias físicas e de resistência (fraco)
-Espírito do Vento: Aumenta as magias físicas e de resistência e a evasão (forte)
-Espírito da Terra: Aumenta as magias físicas e de resistência (forte)
-Espírito do Fogo: aumenta as magias físicas e de resistência (fraco)</body>
+Espírito da Água (water): Aumenta as magias físicas e de resistência (fraco)
+Espírito do Vento (wind): Aumenta as magias físicas e de resistência e a evasão (forte)
+Espírito da Terra (earth): Aumenta as magias físicas e de resistência (forte)
+Espírito do Fogo (fire): aumenta as magias físicas e de resistência (fraco)</body>
   </string>
   <string>
     <id>283902</id>
@@ -12995,7 +12995,7 @@ Fire Spirit: Causes the strike effect.</body>
   <string>
     <id>283905</id>
     <name>STR_SKILL_EL_Enfeeblement_G1_DESC</name>
-    <body>Reduces the attack speed of target within [%First_Target_Valid_Distance]m radius for [%e1.Slow.RemainTime]. Increases targets casting time for magical skills and decreases [%e2.StatDown.StatName] by [%e2.StatDown.Value]. This effect can be removed with Dispel Magical Buff or Dispel Magical Debuff skills.
+    <body>Reduces the attack speed of target within [%First_Target_Valid_Distance]m radius for [%e1.Slow.RemainTime]. Increases targets casting time for magical skills and decreases [%e2.StatDown.StatName] by [%e2.StatDown.Value]. This effect can be removed with Dispel Magical Buff or Dispel Debuff Mágico skills.
 Habilidade de Stigma</body>
   </string>
   <string>
@@ -13016,7 +13016,7 @@ Habilidade de Stigma</body>
   <string>
     <id>283909</id>
     <name>STR_SKILL_EL_Fear_G2_DESC</name>
-    <body>Transforma um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você em um Espírito do Fogo por [%e1.Fear.RandomTime]~[%e1.Fear.RemainTime] e faz com que o alvo seja dominado pelo medo. Se o alvo for um jogador, a duração é reduzida.</body>
+    <body>Transforma um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você em um Espírito do Fogo por [%e1.Fear.RandomTime]~[%e1.Fear.RemainTime] e faz com que o alvo seja dominado pelo medo. A duração é reduzida no PVP.</body>
   </string>
   <string>
     <id>283910</id>
@@ -13116,7 +13116,7 @@ Habilidade de Stigma</body>
     <id>283929</id>
     <name>STR_SKILL_EL_EnchantmentBurst_G1_DESC</name>
     <body>Removes up to [%e1.DispelBuffCounterATK.DispelCount] buffs from the target and inflicts [%e1.DispelBuffCounterATK.Damage] damage for the first buff removed, as well as a further [%e1.DispelBuffCounterATK.AddDamage] damage for each additional buff removed.
-Receive Stigmas</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>283930</id>
@@ -13220,8 +13220,8 @@ Spriit: Basic Buff</body>
   <string>
     <id>283949</id>
     <name>STR_SKILL_EL_TerrorSpirit_G1_DESC</name>
-    <body>Transforms enemies within a 15m radius of you into Fire Spirits for [%e1.Fear.RandomTime] to [%e1.Fear.RemainTime], and the target becomes afraid and its movement speed is reduced. Se o alvo for um jogador, a duração é reduzida.
-Receive Stigmas</body>
+    <body>Transforms enemies within a 15m radius of you into Fire Spirits for [%e1.Fear.RandomTime] to [%e1.Fear.RemainTime], and the target becomes afraid and its movement speed is reduced. A duração é reduzida no PVP.
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>283950</id>
@@ -13263,10 +13263,10 @@ Receive Stigmas</body>
     <name>STR_SKILL_EL_Pet_DefencePosition_G3_DESC</name>
     <body>Comanda o espírito para usar sua habilidade de ataque. Os espíritos têm habilidades que aumentam sua resistência mágica.
 
-Espírito da Água: Aumenta as magias físicas e de resistência (fraco)
-Espírito do Vento: Aumenta as magias físicas e de resistência e a evasão (forte)
-Espírito da Terra: Aumenta as magias físicas e de resistência (forte)
-Espírito do Fogo: aumenta as magias físicas e de resistência (fraco)</body>
+Espírito da Água (water): Aumenta as magias físicas e de resistência (fraco)
+Espírito do Vento (wind): Aumenta as magias físicas e de resistência e a evasão (forte)
+Espírito da Terra (earth): Aumenta as magias físicas e de resistência (forte)
+Espírito do Fogo (fire): aumenta as magias físicas e de resistência (fraco)</body>
   </string>
   <string>
     <id>283958</id>
@@ -13715,7 +13715,7 @@ Flame Bolt – Blaze.</body>
   <string>
     <id>284065</id>
     <name>STR_SKILL_EL_IgnicBurn_G2_DESC</name>
-    <body>Magical wind strike (Habilidade de Sequência nível 2.)
+    <body>Golpe de vento mágico. (Habilidade de Sequência nível 2.)
 Wind Bolt I</body>
   </string>
   <string>
@@ -13726,7 +13726,7 @@ Wind Bolt I</body>
   <string>
     <id>284067</id>
     <name>STR_SKILL_EL_IgnicBurn_G3_DESC</name>
-    <body>Magical wind strike (Habilidade de Sequência nível 2.)
+    <body>Golpe de vento mágico. (Habilidade de Sequência nível 2.)
 Wind Bolt II</body>
   </string>
   <string>
@@ -13827,7 +13827,7 @@ Wind Bolt II</body>
   <string>
     <id>284087</id>
     <name>STR_SKILL_RA_Dark_ExplosionTrap_G1_DESC</name>
-    <body>Usa 1 Tripeed Fruit para montar uma armadilha de um raio de 10m que permanece ativa por [%e1.SummonTrap.SummonTime] e explode quando um inimigo se aproxima.</body>
+    <body>Usa 1 Tripeed Fruit para montar uma armadilha que permanece ativa por [%e1.SummonTrap.SummonTime] e explode quando um inimigo se aproxima em um raio de 10m.</body>
   </string>
   <string>
     <id>284088</id>
@@ -14538,7 +14538,7 @@ Stigma acquired</body>
   <string>
     <id>284235</id>
     <name>STR_SKILL_PR_RapidRegeneration_G2_DESC</name>
-    <body>Restores the HP of a target within [%First_Target_Valid_Distance]m by [%e1.Heal.CheckTimeHeal] every [%e1.Heal.CheckTime] for [%e1.Heal.RemainTime].</body>
+    <body>Restaura o HP de um alvo dentro de [%First_Target_Valid_Distance]m em [%e1.Heal.CheckTimeHeal] a cada [%e1.Heal.CheckTime] por [%e1.Heal.RemainTime].</body>
   </string>
   <string>
     <id>284236</id>
@@ -14792,8 +14792,8 @@ Tempest Spirit: Increases Critical Hit Success Rate and Attack speed.</body>
     <id>284281</id>
     <name>STR_SKILL_KN_DivineSlash_G1_DESC</name>
     <body>Inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] random physical damage on the target by wielding a Greatsword.
-Multiplicador de dano aleatório: 1x ou 2x o dano
-Habilidade de Stigma.</body>
+Multiplicador de dano aleatório: 0.5x, 1x ou 2x o dano
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>284282</id>
@@ -15001,7 +15001,7 @@ Habilidade de Stigma.</body>
   <string>
     <id>284325</id>
     <name>STR_SKILL_RA_Dark_ExplosionTrap_G3_DESC</name>
-    <body>Uses 4 Tripeed Fruits to set a trap. The trap lasts for [%e1.SummonTrap.SummonTime], and when an enemy comes within 5m of the trap, it explodes, causing damage to enemies within a 10m radius.</body>
+    <body>Usa 4 Tripeed Fruits para montar uma armadilha. A armadilha dura por [%e1.SummonTrap.SummonTime] e, quando um inimigo se aproxima a 5m dela, ela explode, causando dano aos inimigos dentro de um raio de 10m.</body>
   </string>
   <string>
     <id>284326</id>
@@ -15011,7 +15011,7 @@ Habilidade de Stigma.</body>
   <string>
     <id>284327</id>
     <name>STR_SKILL_RA_Dark_SandstormTrap_G1_DESC</name>
-    <body>Uses 3 Tripeed fruits to set up a ranged trap around you. The trap remains effective for [%e1.SummonTrap.SummonTime]. It blinds a target within a 10m radius and lengthens the casting time of its magical skills. While the trap is active, the target gradually loses HP.</body>
+    <body>Usa 3 Tripeed Fruits para armar uma armadilha de longo alcance ao seu redor. A armadilha permanece ativa por [%e1.SummonTrap.SummonTime]. Ela cega (blind) um alvo dentro de um raio de 10m e aumenta o tempo de conjuração de suas habilidades mágicas. Enquanto a armadilha estiver ativa, o alvo perde HP gradualmente.</body>
   </string>
   <string>
     <id>284328</id>
@@ -15021,7 +15021,7 @@ Habilidade de Stigma.</body>
   <string>
     <id>284329</id>
     <name>STR_SKILL_RA_Dark_SandstormTrap_G2_DESC</name>
-    <body>Uses 5 Tripeed Fruits to set a trap. The trap lasts for [%e1.SummonTrap.SummonTime], and when an enemy comes within 5m of the trap, it explodes, causing blindness, increased casting time, and gradual HP loss to a target within a 10m radius.</body>
+    <body>Usa 5 Tripeed Fruits para armar uma armadilha de longo alcance ao seu redor. A armadilha permanece ativa por [%e1.SummonTrap.SummonTime]. Ela cega (blind) um alvo dentro de um raio de 10m e aumenta o tempo de conjuração de suas habilidades mágicas. Enquanto a armadilha estiver ativa, o alvo perde HP gradualmente.</body>
   </string>
   <string>
     <id>284330</id>
@@ -15031,7 +15031,7 @@ Habilidade de Stigma.</body>
   <string>
     <id>284331</id>
     <name>STR_SKILL_RA_Dark_ThornburstTrap_G1_DESC</name>
-    <body>Uses 2 Tripeed fruits to set up a trap. Remaining effective for [%e1.SummonTrap.SummonTime], the trap reduces the movement speed of the enemy that approaches within a 5m radius and also causes it to bleed.</body>
+    <body>Usa 2 Tripeed Fruits para montar uma armadilha. Permanecendo ativa por [%e1.SummonTrap.SummonTime], a armadilha reduz a Velocidade de Movimento do inimigo que se aproximar dentro de um raio de 5m e também causa sangramento.</body>
   </string>
   <string>
     <id>284332</id>
@@ -15041,7 +15041,7 @@ Habilidade de Stigma.</body>
   <string>
     <id>284333</id>
     <name>STR_SKILL_RA_Dark_VacuumTrap_G1_DESC</name>
-    <body>Uses 9 Tripeed branches to set up a trap. The trap remains effective for [%e1.SummonTrap.SummonTime]. It inflicts magical wind damage on a target within a 5m radius and silences it.</body>
+    <body>Usa 9 Tripeed Branches para montar uma armadilha. A armadilha permanece ativa por [%e1.SummonTrap.SummonTime]. Ela causa dano mágico de vento a um alvo dentro de um raio de 5m e o silencia (silence).</body>
   </string>
   <string>
     <id>284334</id>
@@ -22321,8 +22321,8 @@ Tempest Spirit: Increases Enmity (strong)</body>
   <string>
     <id>285809</id>
     <name>STR_SKILL_AS_Blindside_G2_DESC</name>
-    <body>Jumps behind a target's back within [%First_Target_Valid_Distance]m to inflict [%e1.MoveBehindATK.MinDamage]~[%e1.MoveBehindATK.MaxDamage] physical damage. May also stun it.
-Habilidade de Stigma.</body>
+    <body>Salta para trás de um alvo dentro de [%First_Target_Valid_Distance]m para causar [%e1.MoveBehindATK.MinDamage]~[%e1.MoveBehindATK.MaxDamage] de dano físico. Pode atordoar (stun) o alvo.
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>285810</id>
@@ -23158,7 +23158,7 @@ Habilidade de Sequência nível 1.</body>
   <string>
     <id>285965</id>
     <name>STR_SKILL_CL_SonicEruption_G3_DESC</name>
-    <body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de vento em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você, e às vezes atordoa (stun) o alvo temporariamente.
+    <body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de vento em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você, e pode atordoar (stun) o alvo temporariamente.
 Habilidade de Sequência nível 2
 Hallowed Strike – Infernal Blaze.</body>
   </string>
@@ -23175,7 +23175,7 @@ Hallowed Strike – Infernal Blaze.</body>
   <string>
     <id>285968</id>
     <name>STR_SKILL_CL_SonicEruption_G4_DESC</name>
-    <body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de vento em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você, e às vezes atordoa (stun) o alvo temporariamente.
+    <body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de vento em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você, e pode atordoar (stun) o alvo temporariamente.
 Habilidade de Sequência nível 2
 Hallowed Strike – Infernal Blaze.</body>
   </string>
@@ -23751,7 +23751,7 @@ Habilidade de Stigma</body>
     <id>286076</id>
     <name>STR_SKILL_PR_CourseWound_G1_DESC</name>
     <body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você, and reduces the effect of recovery magic it receives by 50%% for [%e2.DeboostHealAmount.RemainTime].
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>286077</id>
@@ -23767,7 +23767,7 @@ Habilidade de Stigma.</body>
     <id>286079</id>
     <name>STR_SKILL_PR_CourseWound_G2_DESC</name>
     <body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de água em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você, and reduces the effect of recovery magic it receives by 50%% for [%e2.DeboostHealAmount.RemainTime].
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>286080</id>
@@ -23995,7 +23995,7 @@ Smite – Judgment of Earth.</body>
   <string>
     <id>286123</id>
     <name>STR_SKILL_PR_Meditation_G2_DESC</name>
-    <body>Restores your MP by [%e1.MPHeal.CheckTimeHeal] every [%e1.MPHeal.CheckTime] for [%e1.MPHeal.RemainTime]. But, your HP continues to decrease at the same time.</body>
+    <body>Restaura seu MP em [%e1.MPHeal.CheckTimeHeal] a cada [%e1.MPHeal.CheckTime] por [%e1.MPHeal.RemainTime]. Mas, ao mesmo tempo, consome seu HP.</body>
   </string>
   <string>
     <id>286124</id>
@@ -24010,7 +24010,7 @@ Smite – Judgment of Earth.</body>
   <string>
     <id>286126</id>
     <name>STR_SKILL_PR_RapidRegeneration_G3_DESC</name>
-    <body>Restores the HP of a target within [%First_Target_Valid_Distance]m by [%e1.Heal.CheckTimeHeal] every [%e1.Heal.CheckTime] for [%e1.Heal.RemainTime].</body>
+    <body>Restaura o HP de um alvo dentro de [%First_Target_Valid_Distance]m em [%e1.Heal.CheckTimeHeal] a cada [%e1.Heal.CheckTime] por [%e1.Heal.RemainTime].</body>
   </string>
   <string>
     <id>286127</id>
@@ -24082,8 +24082,8 @@ Habilidade de Stigma</body>
   <string>
     <id>286140</id>
     <name>STR_SKILL_PR_WinterCircle_G2_DESC</name>
-    <body>Increases [%e1.StatUp.StatName] by [%e1.StatUp.Value] and [%e2.StatUp.StatName] by [%e2.StatUp.Value] of you and your group members within a 20 m radius for [%e1.StatUp.RemainTime].
-In the meantime both [%e3.StatDown.StatName] and [%e4.StatDown.StatName] decrease by [%e4.StatDown.Value].</body>
+    <body>Aumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value] e [%e2.StatUp.StatName] em [%e2.StatUp.Value] para você e os membros do seu grupo dentro de um raio de 20m por [%e1.StatUp.RemainTime].
+Enquanto isso, tanto [%e3.StatDown.StatName] quanto [%e4.StatDown.StatName] diminuem em [%e4.StatDown.Value].</body>
   </string>
   <string>
     <id>286141</id>
@@ -24355,7 +24355,7 @@ Arrow Strike – Spiral Arrow.</body>
     <id>286192</id>
     <name>STR_SKILL_RA_SpoutArrow_G2_DESC</name>
     <body>Inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] physical damage on a target within [%First_Target_Valid_Distance]m of you and other enemies within a 5m radius of the target.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>286193</id>
@@ -24503,7 +24503,7 @@ Habilidade Ativa</body>
     <id>286220</id>
     <name>STR_SKILL_FI_CripplingCut_G3_DESC</name>
     <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico em um inimigo caído (knockdown).
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>286221</id>
@@ -24793,7 +24793,7 @@ Shield Bash – Blessing of Vigor.</body>
     <id>286276</id>
     <name>STR_SKILL_KN_BreakPower_G1_DESC</name>
     <body>Inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] physical damage on a stumbled target, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime]. While the skill is in effect, your [%e0.KN_BreakPower_G1_Buff.e1.StatUp.StatName] increases by [%e0.KN_BreakPower_G1_Buff.e1.StatUp.Value].
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>286277</id>
@@ -24839,8 +24839,8 @@ Habilidade de Stigma.</body>
     <id>286285</id>
     <name>STR_SKILL_KN_DivineSlash_G2_DESC</name>
     <body>Inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] random physical damage on the target by wielding a Greatsword.
-Multiplicador de dano aleatório: 1x ou 2x o dano
-Habilidade de Stigma.</body>
+Multiplicador de dano aleatório: 0.5x, 1x ou 2x o dano
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>286286</id>
@@ -25051,7 +25051,7 @@ Shield Counter, Provoking Shield Counter, Avenging Blow – Face Smash.</body>
     <id>286325</id>
     <name>STR_SKILL_KN_ShineSlash_G1_DESC</name>
     <body>Inflicts random physical damage between [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] on the target.
-Multiplicador de dano aleatório: 1x ou 2x o dano</body>
+Multiplicador de dano aleatório: 0.5x, 1x ou 2x o dano</body>
   </string>
   <string>
     <id>286326</id>
@@ -25066,7 +25066,7 @@ Multiplicador de dano aleatório: 1x ou 2x o dano</body>
   <string>
     <id>286328</id>
     <name>STR_SKILL_WA_ArmorBreak_G1</name>
-    <body>Severe Blow I</body>
+    <body>Weakening Blow I</body>
   </string>
   <string>
     <id>286329</id>
@@ -25081,7 +25081,7 @@ Multiplicador de dano aleatório: 1x ou 2x o dano</body>
   <string>
     <id>286331</id>
     <name>STR_SKILL_WA_ArmorBreak_G2</name>
-    <body>Severe Blow II</body>
+    <body>Weakening Blow II</body>
   </string>
   <string>
     <id>286332</id>
@@ -25096,7 +25096,7 @@ Multiplicador de dano aleatório: 1x ou 2x o dano</body>
   <string>
     <id>286334</id>
     <name>STR_SKILL_WA_ArmorBreak_G3</name>
-    <body>Severe Blow III</body>
+    <body>Weakening Blow III</body>
   </string>
   <string>
     <id>286335</id>
@@ -25255,8 +25255,8 @@ Habilidade Ativa</body>
   <string>
     <id>286363</id>
     <name>STR_SKILL_WI_CursedTree_G1_DESC</name>
-    <body>Transforms the target into a tree for [%e1.Deform.RemainTime] seconds. While the skill is in effect, the target can neither move nor use skills and [%e3.StatUp.StatName] is increased. Once the target is attacked, the effect disappears immediately. Se o alvo for um jogador, a duração é reduzida.
-Receive Stigmas</body>
+    <body>Transforms the target into a tree for [%e1.Deform.RemainTime] seconds. While the skill is in effect, the target can neither move nor use skills and [%e3.StatUp.StatName] is increased. Once the target is attacked, the effect disappears immediately. A duração é reduzida no PVP.
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>286364</id>
@@ -25272,7 +25272,7 @@ Receive Stigmas</body>
     <id>286366</id>
     <name>STR_SKILL_WI_Dark_FrostPillar_G1_DESC</name>
     <body>Inflicts magical water damage on up to 6 enemies within a selected area and reduces their movement speed for 20 seconds.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>286367</id>
@@ -25397,7 +25397,7 @@ Flame Bolt – Delayed Smash</body>
     <id>286390</id>
     <name>STR_SKILL_WI_Light_FrostPillar_G1_DESC</name>
     <body>Inflicts magical water damage on up to 6 enemies within a selected area and reduces their movement speed for 20 seconds.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>286391</id>
@@ -25613,7 +25613,7 @@ Flame Bolt – Blaze.</body>
   <string>
     <id>286431</id>
     <name>STR_NPR_SpellStun_Scream_DESC</name>
-    <body>Stuns the target.</body>
+    <body>Atordoa (stun) o alvo.</body>
   </string>
   <string>
     <id>286432</id>
@@ -25990,7 +25990,7 @@ Wind Spirit: Reduces Wind Defence</body>
     <id>286508</id>
     <name>STR_SKILL_EL_EnchantmentBurst_G2_DESC</name>
     <body>Removes up to [%e1.DispelBuffCounterATK.DispelCount] buffs from the target and inflicts [%e1.DispelBuffCounterATK.Damage] damage for the first buff removed, as well as a further [%e1.DispelBuffCounterATK.AddDamage] damage for each additional buff removed.
-Receive Stigmas</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>286509</id>
@@ -27362,8 +27362,8 @@ Habilidade de Stigma</body>
   <string>
     <id>286783</id>
     <name>STR_SKILL_AS_Blindside_G3_DESC</name>
-    <body>Jumps behind a target's back within [%First_Target_Valid_Distance]m to inflict [%e1.MoveBehindATK.MinDamage]~[%e1.MoveBehindATK.MaxDamage] physical damage. May also stun it.
-Habilidade de Stigma.</body>
+    <body>Salta para trás de um alvo dentro de [%First_Target_Valid_Distance]m para causar [%e1.MoveBehindATK.MinDamage]~[%e1.MoveBehindATK.MaxDamage] de dano físico. Pode atordoar (stun) o alvo.
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>286784</id>
@@ -27373,7 +27373,7 @@ Habilidade de Stigma.</body>
   <string>
     <id>286785</id>
     <name>STR_SKILL_AS_CarveSignet_G4_DESC</name>
-    <body>Inflicts [%e1.CarveSignet.MinDamage]~[%e1.CarveSignet.MaxDamage] physical damage on the target and has a chance to carve a rune on the target up to [%e1.CarveSignet.SignetGrade] level. 
+    <body>Causa [%e1.CarveSignet.MinDamage]~[%e1.CarveSignet.MaxDamage] de dano físico ao alvo e tem uma chance de cravar uma runa no alvo até o nível [%e1.CarveSignet.SignetGrade]. 
 Habilidade de Sequência nível 1.</body>
   </string>
   <string>
@@ -27407,7 +27407,7 @@ Stigma acquired</body>
   <string>
     <id>286791</id>
     <name>STR_SKILL_AS_CorruptingCut_G4_DESC</name>
-    <body>Inflicts [%e1.SkillATK_Instant.MinDamage]-[%e1.SkillATK_Instant.MaxDamage] physical damage on the target, and an additional [%e2.SpellATK.Damage] damage if the target takes poison damage.</body>
+    <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo e um dano adicional de [%e1.SkillATK_Instant.AddDamage] se o alvo estiver envenenado (poison) ou atordoado (stun).</body>
   </string>
   <string>
     <id>286792</id>
@@ -27508,7 +27508,7 @@ Habilidade de Sequência nível 1</body>
   <string>
     <id>286811</id>
     <name>STR_SKILL_AS_PoisoningIntention_G4_DESC</name>
-    <body>Uses 4 Scolopen Poison to spread poison on a weapon. For [%e1.Provoker.RemainTime] each attack has a [%e1.Provoker.ConditionProb]%% chance of poisoning the target.</body>
+    <body>Usa 4 Scolopen Poison para revestir uma arma. Por [%e1.Provoker.RemainTime], há uma chance de [%e1.Provoker.ConditionProb]%% de envenenar (poison) o alvo em cada ataque.</body>
   </string>
   <string>
     <id>286812</id>
@@ -27709,7 +27709,7 @@ Habilidade Ativa</body>
   <string>
     <id>286849</id>
     <name>STR_SKILL_CH_Chant_ImprovedHaste_G3_DESC</name>
-    <body>Aumenta a Velocidade de Ataque de você e dos membros do seu grupo dentro do raio de [%e1.Aura.Range]m de você.
+    <body>Aumenta a Velocidade de Ataque de você e dos membros do seu grupo dentro de um raio de [%e1.Aura.Range]m de você.
 Habilidade Ativa</body>
   </string>
   <string>
@@ -28075,7 +28075,7 @@ Habilidade de Sequência nível 1.</body>
   <string>
     <id>286917</id>
     <name>STR_SKILL_CL_SonicEruption_G5_DESC</name>
-    <body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de vento em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você, e às vezes atordoa (stun) o alvo temporariamente.
+    <body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de vento em um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você, e pode atordoar (stun) o alvo temporariamente.
 Habilidade de Sequência nível 2
 Hallowed Strike – Infernal Blaze.</body>
   </string>
@@ -28273,7 +28273,7 @@ Habilidade de Sequência nível 1.</body>
   <string>
     <id>286955</id>
     <name>STR_SKILL_EL_Fear_G3_DESC</name>
-    <body>Transforma um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você em um Espírito do Fogo por [%e1.Fear.RandomTime]~[%e1.Fear.RemainTime] e faz com que o alvo seja dominado pelo medo. Se o alvo for um jogador, a duração é reduzida.</body>
+    <body>Transforma um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você em um Espírito do Fogo por [%e1.Fear.RandomTime]~[%e1.Fear.RemainTime] e faz com que o alvo seja dominado pelo medo. A duração é reduzida no PVP.</body>
   </string>
   <string>
     <id>286956</id>
@@ -28469,10 +28469,10 @@ Fire Spirit: Reduces Ataque Físico Power</body>
     <name>STR_SKILL_EL_Pet_DefencePosition_G4_DESC</name>
     <body>Comanda o espírito para usar sua habilidade de ataque. Os espíritos têm habilidades que aumentam sua resistência mágica.
 
-Espírito da Água: Aumenta as magias físicas e de resistência (fraco)
-Espírito do Vento: Aumenta as magias físicas e de resistência e a evasão (forte)
-Espírito da Terra: Aumenta as magias físicas e de resistência (forte)
-Espírito do Fogo: aumenta as magias físicas e de resistência (fraco)</body>
+Espírito da Água (water): Aumenta as magias físicas e de resistência (fraco)
+Espírito do Vento (wind): Aumenta as magias físicas e de resistência e a evasão (forte)
+Espírito da Terra (earth): Aumenta as magias físicas e de resistência (forte)
+Espírito do Fogo (fire): aumenta as magias físicas e de resistência (fraco)</body>
   </string>
   <string>
     <id>286990</id>
@@ -28590,7 +28590,7 @@ Habilidade Ativa</body>
     <id>287011</id>
     <name>STR_SKILL_FI_CripplingCut_G4_DESC</name>
     <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico em um inimigo caído (knockdown).
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>287012</id>
@@ -28675,7 +28675,7 @@ Habilidade de Stigma</body>
     <id>287027</id>
     <name>STR_SKILL_FI_LockdownImpact_G4_DESC</name>
     <body>Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico no alvo. O alvo fica de mãos amarradas (bind) por [%e2.Bind.RemainTime].
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>287028</id>
@@ -28946,7 +28946,7 @@ Shield Bash – Blessing of Vigor.</body>
     <id>287077</id>
     <name>STR_SKILL_KN_BreakPower_G2_DESC</name>
     <body>Inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] physical damage on a stumbled target, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime]. While the skill is in effect, your [%e0.KN_BreakPower_G2_Buff.e1.StatUp.StatName] increases by [%e0.KN_BreakPower_G2_Buff.e1.StatUp.Value].
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>287078</id>
@@ -29001,8 +29001,8 @@ Snickering Roar – Damage Wave.</body>
     <id>287087</id>
     <name>STR_SKILL_KN_DivineSlash_G3_DESC</name>
     <body>Inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] random physical damage on the target by wielding a Greatsword.
-Multiplicador de dano aleatório: 1x ou 2x o dano
-Habilidade de Stigma.</body>
+Multiplicador de dano aleatório: 0.5x, 1x ou 2x o dano
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>287088</id>
@@ -29032,7 +29032,7 @@ Habilidade de Stigma.</body>
   <string>
     <id>287093</id>
     <name>STR_SKILL_KN_GrandProtection_G3_DESC</name>
-    <body>For [%e1.Protect.RemainTime], you absorb [%e1.Protect.Value]%% of the damage of an ally within [%e1.Protect.Range]m, whenever they receive [%e1.Protect.Condition].</body>
+    <body>Por [%e1.Protect.RemainTime], você absorve [%e1.Protect.Value]%% do dano de um aliado que esteja a até [%e1.Protect.Range]m, sempre que ele receber [%e1.Protect.Condition].</body>
   </string>
   <string>
     <id>287094</id>
@@ -29171,7 +29171,7 @@ Avenging Blow, Hamstring Slash – Face Smash.</body>
     <id>287119</id>
     <name>STR_SKILL_KN_ShineSlash_G2_DESC</name>
     <body>Inflicts random physical damage between [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] on the target.
-Multiplicador de dano aleatório: 1x ou 2x o dano</body>
+Multiplicador de dano aleatório: 0.5x, 1x ou 2x o dano</body>
   </string>
   <string>
     <id>287120</id>
@@ -29287,7 +29287,7 @@ Flame Bolt – Blaze.</body>
   <string>
     <id>287141</id>
     <name>STR_SKILL_PR_BlessedShield_G3_DESC</name>
-    <body>Forms a protective shield that can absorb up to [%e1.Shield.CoverValue] damage for [%e1.Shield.RemainTime], and boosts the effects of healing-type skills by [%e2.OneTimeBoostHealEffect.BonusValue]%%. The protective shield remains effective until it absorbs a total of [%e1.Shield.ShieldValue] damage.</body>
+    <body>Forma um escudo protetor que pode absorver até [%e1.Shield.CoverValue] de dano por [%e1.Shield.RemainTime] e aumenta os efeitos de habilidades do tipo Cura em [%e2.OneTimeBoostHealEffect.BonusValue]%%. O escudo protetor permanece ativo até que absorva um total de [%e1.Shield.ShieldValue] de dano.</body>
   </string>
   <string>
     <id>287142</id>
@@ -29515,7 +29515,7 @@ Smite – Thunderbolt.</body>
   <string>
     <id>287185</id>
     <name>STR_SKILL_PR_MassHeal_G4_DESC</name>
-    <body>Cura [%e1.Heal_Instant.Heal] de HP de você e de  membros do seu grupo em um raio de 25m.</body>
+    <body>Cura [%e1.Heal_Instant.Heal] de HP de você e de membros do seu grupo em um raio de 25m.</body>
   </string>
   <string>
     <id>287186</id>
@@ -29525,7 +29525,7 @@ Smite – Thunderbolt.</body>
   <string>
     <id>287187</id>
     <name>STR_SKILL_PR_Meditation_G3_DESC</name>
-    <body>Restores your MP by [%e1.MPHeal.CheckTimeHeal] every [%e1.MPHeal.CheckTime] for [%e1.MPHeal.RemainTime]. But, your HP continues to decrease at the same time.</body>
+    <body>Restaura seu MP em [%e1.MPHeal.CheckTimeHeal] a cada [%e1.MPHeal.CheckTime] por [%e1.MPHeal.RemainTime]. Mas, ao mesmo tempo, consome seu HP.</body>
   </string>
   <string>
     <id>287188</id>
@@ -29535,7 +29535,7 @@ Smite – Thunderbolt.</body>
   <string>
     <id>287189</id>
     <name>STR_SKILL_PR_RapidRegeneration_G4_DESC</name>
-    <body>Restores the HP of a target within [%First_Target_Valid_Distance]m by [%e1.Heal.CheckTimeHeal] every [%e1.Heal.CheckTime] for [%e1.Heal.RemainTime].</body>
+    <body>Restaura o HP de um alvo dentro de [%First_Target_Valid_Distance]m em [%e1.Heal.CheckTimeHeal] a cada [%e1.Heal.CheckTime] por [%e1.Heal.RemainTime].</body>
   </string>
   <string>
     <id>287190</id>
@@ -29606,8 +29606,8 @@ Habilidade de Stigma</body>
   <string>
     <id>287203</id>
     <name>STR_SKILL_PR_SummerCircle_G2_DESC</name>
-    <body>Increases [%e1.StatUp.StatName] by [%e1.StatUp.Value] and [%e2.StatUp.StatName] by [%e2.StatUp.Value] of you and your group members within a 20 m radius for [%e1.StatUp.RemainTime].
-In the meantime both [%e3.StatDown.StatName] and [%e4.StatDown.StatName] decrease by [%e4.StatDown.Value].</body>
+    <body>Aumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value] e [%e2.StatUp.StatName] em [%e2.StatUp.Value] para você e os membros do seu grupo dentro de um raio de 20m por [%e1.StatUp.RemainTime].
+Enquanto isso, tanto [%e3.StatDown.StatName] quanto [%e4.StatDown.StatName] diminuem em [%e4.StatDown.Value].</body>
   </string>
   <string>
     <id>287204</id>
@@ -29617,7 +29617,7 @@ In the meantime both [%e3.StatDown.StatName] and [%e4.StatDown.StatName] decreas
   <string>
     <id>287205</id>
     <name>STR_SKILL_PR_Tremor_G2_DESC</name>
-    <body>Inflicts [%e1.SpellATK_Instant.FixDamage] magical earth damage on enemies within a 5m radius of you, and stuns them with a low probability.</body>
+    <body>Causa [%e1.SpellATK_Instant.FixDamage] de dano mágico de terra aos inimigos dentro de um raio de 5m de você e os atordoa (stun) com baixa probabilidade.</body>
   </string>
   <string>
     <id>287206</id>
@@ -29649,8 +29649,8 @@ Swift Shot - Arrow Strike.</body>
   <string>
     <id>287211</id>
     <name>STR_SKILL_RA_BackdashStab_G3_DESC</name>
-    <body>Causa [%e1.BackDashATK.MinDamage]~[%e1.BackDashATK.MaxDamage] de dano físico no alvo e você é empurrado 25m para trás. O alvo às vezes fica atordoado (stun) por [%e2.Stun.RemainTime].
-Habilidade de Stigma.</body>
+    <body>Causa [%e1.BackDashATK.MinDamage]~[%e1.BackDashATK.MaxDamage] de dano físico no alvo e você é empurrado 25m para trás. O alvo pode ficar atordoado (stun) por [%e2.Stun.RemainTime].
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>287212</id>
@@ -29784,7 +29784,7 @@ Stunning Shot - Rupture Arrow</body>
     <id>287237</id>
     <name>STR_SKILL_RA_HeavyShot_G4_DESC</name>
     <body>Dispara uma flecha em um alvo a até [%First_Target_Valid_Distance]m de distância de você para causar dano físico aleatório entre [%e1.SkillATK_Instant.MinDamage] e [%e1.SkillATK_Instant.MaxDamage]. O alvo fica em choque (stun) temporariamente.
-Multiplicador de dano aleatório: 1x ou 2x o dano
+Multiplicador de dano aleatório: 0.5x, 1x ou 2x o dano
 Habilidade de Sequência nível 1.</body>
   </string>
   <string>
@@ -29805,7 +29805,7 @@ Habilidade de Sequência nível 1.</body>
   <string>
     <id>287241</id>
     <name>STR_SKILL_RA_Light_SandstormTrap_G3_DESC</name>
-    <body>Uses 5 Tripeed Fruits to set a trap. The trap lasts for [%e1.SummonTrap.SummonTime], and when an enemy comes within 5m of the trap, it explodes, causing blindness, increased casting time, and gradual HP loss to a target within a 10m radius.</body>
+    <body>Usa 5 Tripeed Fruits para armar uma armadilha de longo alcance ao seu redor. A armadilha permanece ativa por [%e1.SummonTrap.SummonTime]. Ela cega (blind) um alvo dentro de um raio de 10m e aumenta o tempo de conjuração de suas habilidades mágicas. Enquanto a armadilha estiver ativa, o alvo perde HP gradualmente.</body>
   </string>
   <string>
     <id>287242</id>
@@ -30049,7 +30049,7 @@ Swift Edge – Soul Slash</body>
   <string>
     <id>287288</id>
     <name>STR_SKILL_WA_ArmorBreak_G4</name>
-    <body>Severe Blow IV</body>
+    <body>Weakening Blow IV</body>
   </string>
   <string>
     <id>287289</id>
@@ -30192,7 +30192,7 @@ Habilidade de Sequência nível 1.</body>
     <id>287315</id>
     <name>STR_SKILL_WI_CursedTree_G2_DESC</name>
     <body>Transforms the target into a tree for [%e1.Deform.RemainTime]. The transformed target cannot move or act, and its [%e3.StatUp.StatName] increases. Once the target is attacked, the effect disappears immediately.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>287316</id>
@@ -30203,7 +30203,7 @@ Habilidade de Stigma.</body>
     <id>287317</id>
     <name>STR_SKILL_WI_Dark_FrostPillar_G2_DESC</name>
     <body>Inflicts magical water damage on up to 6 enemies within a selected area and reduces their movement speed for 20 seconds.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>287318</id>
@@ -30306,7 +30306,7 @@ Flood – Ice Cyclone</body>
     <id>287337</id>
     <name>STR_SKILL_WI_Light_FrostPillar_G2_DESC</name>
     <body>Inflicts magical water damage on up to 6 enemies within a selected area and reduces their movement speed for 20 seconds.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>287338</id>
@@ -30405,7 +30405,7 @@ Delayed Smash – Fire Column</body>
   <string>
     <id>287355</id>
     <name>STR_SKILL_WI_Sleep_G3_DESC</name>
-    <body>Força um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você a adormecer por [%e1.Sleep.RemainTime]s e aumenta sua [%e2.StatUp.StatName]. Se o alvo for um jogador, a duração é reduzida.</body>
+    <body>Força um alvo que esteja a até [%First_Target_Valid_Distance]m de distância de você a adormecer por [%e1.Sleep.RemainTime]s e aumenta sua [%e2.StatUp.StatName]. A duração é reduzida no PVP.</body>
   </string>
   <string>
     <id>287356</id>
@@ -32484,8 +32484,8 @@ Beastly Bite – Beastly Scratch</body>
   <string>
     <id>287772</id>
     <name>STR_SKILL_AS_SignetBurst_G4_DESC</name>
-    <body>Detonates the Runes carved on a target within [%First_Target_Valid_Distance]m, up to [%e1.SignetBurst.SignetGrade] runes, damaging and stunning the target. 
-Damage level and stunning probability vary depending on the Pattern level.</body>
+    <body>Detona as Runas cravadas em um alvo dentro de [%First_Target_Valid_Distance]m, até [%e1.SignetBurst.SignetGrade] runas, causando dano e atordoando (stun) o alvo. 
+O nível de dano e a probabilidade de atordoamento variam conforme o nível das Runas.</body>
   </string>
   <string>
     <id>287773</id>
@@ -32841,7 +32841,7 @@ Habilidade de Sequência nível 1.</body>
   <string>
     <id>287844</id>
     <name>STR_SYSTEM_SKILL_KN_Astray_G1_Proc_DESC</name>
-    <body>Stuns the target.</body>
+    <body>Atordoa (stun) o alvo.</body>
   </string>
   <string>
     <id>287845</id>
@@ -33954,7 +33954,7 @@ Habilidade de Sequência nível 1.</body>
   <string>
     <id>288067</id>
     <name>STR_SKILL_FI_AnkleGrab_G1</name>
-    <body>Ankle Grab I</body>
+    <body>Ankle Snare I</body>
   </string>
   <string>
     <id>288068</id>
@@ -49545,7 +49545,7 @@ Swift Shot – Poison Arrow</body>
     <id>291162</id>
     <name>STR_SKILL_RA_SilentArrow_DESC</name>
     <body>Fires an arrow at a target within [%First_Target_Valid_Distance]m to inflict [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] physical damage, and silences the target for [%e2.Silence.RandomTime]~[%e2.Silence.RemainTime].
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>291163</id>
@@ -49790,7 +49790,7 @@ Habilidade de Stigma</body>
     <id>291210</id>
     <name>STR_SKILL_AS_SignetWave_DESC</name>
     <body>Deals [%e1.CarveSignet.MinDamage]~[%e1.CarveSignet.MaxDamage] physical damage to a target within [%First_Target_Valid_Distance]m, and carves runes up to level [%e1.CarveSignet.SignetGrade]. 
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>291211</id>
@@ -49805,7 +49805,7 @@ Habilidade de Stigma.</body>
   <string>
     <id>291213</id>
     <name>STR_SKILL_AS_SixSense_G1_DESC</name>
-    <body>For [%e1.Search.RemainTime], you can see a target in its basic hide mode.</body>
+    <body>Por [%e1.Search.RemainTime], você pode ver um alvo Invisível (Básico).</body>
   </string>
   <string>
     <id>291214</id>
@@ -49820,7 +49820,7 @@ Habilidade de Stigma.</body>
   <string>
     <id>291216</id>
     <name>STR_SKILL_AS_SixSense_G2_DESC</name>
-    <body>For [%e1.Search.RemainTime], you can see a target in its advanced hide mode.</body>
+    <body>Por [%e1.Search.RemainTime], você pode ver um alvo Invisível (Avançado).</body>
   </string>
   <string>
     <id>291217</id>
@@ -50269,8 +50269,8 @@ Habilidade de Stigma</body>
   <string>
     <id>291306</id>
     <name>STR_SKILL_CH_SwordBind_DESC</name>
-    <body>Binds and reduces the movement speed of a target within [%First_Target_Valid_Distance]m for [%e1.Bind.RemainTime]. Se o alvo for um jogador, a duração é reduzida.
-Receive Stigmas</body>
+    <body>Binds and reduces the movement speed of a target within [%First_Target_Valid_Distance]m for [%e1.Bind.RemainTime]. A duração é reduzida no PVP.
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>291307</id>
@@ -50523,7 +50523,7 @@ Habilidade Ativa</body>
     <id>291355</id>
     <name>STR_SKILL_RA_FairyFlare_DESC</name>
     <body>Sets a trap at a point within [%First_Target_Valid_Distance]m of you. The trap lasts for [%e1.SummonTrap.SummonTime]. When an enemy approaches within 30m of the trap, it explodes, making the enemy visible.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>291356</id>
@@ -51713,7 +51713,7 @@ Em choque (stunned). Can't move, use skills and items, or attack.</body>
     <id>291592</id>
     <name>STR_SKILL_WA_GateCrush_G1_DESC</name>
     <body>Deals [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] physical damage to the target. Deals an extra [%e1.SkillATK_Instant.AddDamage] physical damage to castle gates.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>291593</id>
@@ -53811,7 +53811,7 @@ Cleave - Force Cleave.</body>
     <id>292012</id>
     <name>STR_SKILL_FI_HeavyImpact_G1_DESC</name>
     <body>Deals [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] physical damage on the enemies within a 10m radius of you and decreases their movement speed for [%e2.Snare.RandomTime]~[%e2.Snare.RemainTime].
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>292013</id>
@@ -53888,7 +53888,7 @@ Habilidade de Stigma.</body>
     <name>STR_SKILL_FI_BladeMode_G1_DESC</name>
     <body>Deals an additional 15%% damage when attacking a player. Additionally, [%e2.StatBoost.StatName] is increased by [%e2.StatBoost.FixValue].
 Habilidade Ativa
-Receive Stigmas</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>292028</id>
@@ -54029,7 +54029,7 @@ Habilidade de Stigma</body>
     <id>292054</id>
     <name>STR_SKILL_KN_BreakPower_G3_DESC</name>
     <body>Deals [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] physical damage to a stumbled target, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime]. While the skill is in effect, your [%e0.KN_BreakPower_G3_Buff.e1.StatUp.StatName] increases by [%e0.KN_BreakPower_G3_Buff.e1.StatUp.Value].
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>292055</id>
@@ -54250,8 +54250,8 @@ Habilidade de Stigma</body>
   <string>
     <id>292098</id>
     <name>STR_SKILL_PR_SummerCircle_G3_DESC</name>
-    <body>Increases [%e1.StatUp.StatName] by [%e1.StatUp.Value] and [%e2.StatUp.StatName] by [%e2.StatUp.Value] of you and your group members within a 20 m radius for [%e1.StatUp.RemainTime].
-In the meantime both [%e3.StatDown.StatName] and [%e4.StatDown.StatName] decrease by [%e4.StatDown.Value].</body>
+    <body>Aumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value] e [%e2.StatUp.StatName] em [%e2.StatUp.Value] para você e os membros do seu grupo dentro de um raio de 20m por [%e1.StatUp.RemainTime].
+Enquanto isso, tanto [%e3.StatDown.StatName] quanto [%e4.StatDown.StatName] diminuem em [%e4.StatDown.Value].</body>
   </string>
   <string>
     <id>292099</id>
@@ -54261,8 +54261,8 @@ In the meantime both [%e3.StatDown.StatName] and [%e4.StatDown.StatName] decreas
   <string>
     <id>292100</id>
     <name>STR_SKILL_PR_WinterCircle_G3_DESC</name>
-    <body>Increases [%e1.StatUp.StatName] by [%e1.StatUp.Value] and [%e2.StatUp.StatName] by [%e2.StatUp.Value] of you and your group members within a 20 m radius for [%e1.StatUp.RemainTime].
-In the meantime both [%e3.StatDown.StatName] and [%e4.StatDown.StatName] decrease by [%e4.StatDown.Value].</body>
+    <body>Aumenta [%e1.StatUp.StatName] em [%e1.StatUp.Value] e [%e2.StatUp.StatName] em [%e2.StatUp.Value] para você e os membros do seu grupo dentro de um raio de 20m por [%e1.StatUp.RemainTime].
+Enquanto isso, tanto [%e3.StatDown.StatName] quanto [%e4.StatDown.StatName] diminuem em [%e4.StatDown.Value].</body>
   </string>
   <string>
     <id>292101</id>
@@ -54423,7 +54423,7 @@ Habilidade Ativa</body>
     <id>292131</id>
     <name>STR_SKILL_CH_HeroicStrike_G1_DESC</name>
     <body>Deals [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] physical damage to a stunned target and causes it to become [%e1.SkillATK_Instant.AddEffect].
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>292132</id>
@@ -54673,7 +54673,7 @@ Habilidade de Stigma</body>
     <id>292180</id>
     <name>STR_SKILL_RA_BackdashStab_G4_DESC</name>
     <body>Deals [%e1.BackDashATK.MinDamage]~[%e1.BackDashATK.MaxDamage] physical damage to the target, and you jump back 25m. The target may become stunned for [%e2.Stun.RemainTime].
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>292181</id>
@@ -54684,7 +54684,7 @@ Habilidade de Stigma.</body>
     <id>292182</id>
     <name>STR_SKILL_RA_BackdashStab_G5_DESC</name>
     <body>Deals [%e1.BackDashATK.MinDamage]~[%e1.BackDashATK.MaxDamage] physical damage to the target, and you jump back 25m. The target may become stunned for [%e2.Stun.RemainTime].
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>292183</id>
@@ -54742,7 +54742,7 @@ Habilidade de Stigma.</body>
     <body>Deals [%e1.CarveSignet.MinDamage]~[%e1.CarveSignet.MaxDamage] physical damage to the target and carves a rune on the target up to level [%e1.CarveSignet.SignetGrade]. 
 Habilidade de Sequência nível 2
 Rune Carve – Sigil Strike
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>292194</id>
@@ -54783,7 +54783,7 @@ Habilidade de Stigma.</body>
     <id>292201</id>
     <name>STR_SKILL_AS_Blindside_G4_DESC</name>
     <body>You move behind a target within [%First_Target_Valid_Distance]m to inflict [%e1.MoveBehindATK.MinDamage]~[%e1.MoveBehindATK.MaxDamage] physical damage, and stuns it at a certain rate.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>292202</id>
@@ -54794,7 +54794,7 @@ Habilidade de Stigma.</body>
     <id>292203</id>
     <name>STR_SKILL_AS_MirrorAttack_G1_DESC</name>
     <body>Deals [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] physical damage to a target immobilized in mid-air within [%First_Target_Valid_Distance]m.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>292204</id>
@@ -54860,7 +54860,7 @@ Flight Only Skill.</body>
     <body>Deals [%e1.CarveSignet.MinDamage]~[%e1.CarveSignet.MaxDamage] physical damage to the target and carves a rune on the target up to level [%e1.CarveSignet.SignetGrade]. 
 Habilidade de Sequência nível 2
 Rune Carve – Sigil Strike
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>292216</id>
@@ -54882,7 +54882,7 @@ Habilidade de Stigma</body>
     <id>292219</id>
     <name>STR_SKILL_AS_Blindside_G5_DESC</name>
     <body>You move behind a target within [%First_Target_Valid_Distance]m to inflict [%e1.MoveBehindATK.MinDamage]~[%e1.MoveBehindATK.MaxDamage] physical damage, and stuns it at a certain rate.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>292220</id>
@@ -55163,7 +55163,7 @@ Habilidade de Stigma</body>
     <id>292276</id>
     <name>STR_SKILL_WI_Light_FrostPillar_G3_DESC</name>
     <body>Deals magical water damage to up to 6 enemies within a selected area of effect and reduces their movement speeds for 20 seconds.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>292277</id>
@@ -55223,7 +55223,7 @@ Habilidade de Stigma.</body>
   <string>
     <id>292288</id>
     <name>STR_SKILL_EL_FireFear_G1_DESC</name>
-    <body>Transforms a target within [%First_Target_Valid_Distance]m into a Fire Spirit for [%e1.Deform.RandomTime] to [%e1.Deform.RemainTime]. The target is afraid and its movement speed is reduced. [%e4.StatDown.StatName] is reduced by [%e4.StatDown.Value]. Se o alvo for um jogador, a duração é reduzida.</body>
+    <body>Transforms a target within [%First_Target_Valid_Distance]m into a Fire Spirit for [%e1.Deform.RandomTime] to [%e1.Deform.RemainTime]. The target is afraid and its movement speed is reduced. [%e4.StatDown.StatName] is reduced by [%e4.StatDown.Value]. A duração é reduzida no PVP.</body>
   </string>
   <string>
     <id>292289</id>
@@ -55238,7 +55238,7 @@ Habilidade de Stigma.</body>
   <string>
     <id>292291</id>
     <name>STR_SKILL_EL_WaterFear_G1_DESC</name>
-    <body>Transforms a target within [%First_Target_Valid_Distance]m into a Water Spirit for [%e1.Deform.RandomTime] to [%e1.Deform.RemainTime]. The target is afraid and its movement speed is reduced. [%e4.StatDown.StatName] is reduced by [%e4.StatDown.Value]. Se o alvo for um jogador, a duração é reduzida.</body>
+    <body>Transforms a target within [%First_Target_Valid_Distance]m into a Water Spirit for [%e1.Deform.RandomTime] to [%e1.Deform.RemainTime]. The target is afraid and its movement speed is reduced. [%e4.StatDown.StatName] is reduced by [%e4.StatDown.Value]. A duração é reduzida no PVP.</body>
   </string>
   <string>
     <id>292292</id>
@@ -57737,7 +57737,7 @@ Healing 300 HP every 10 seconds. Maximum HP increased by 6000.</body>
     <id>292784</id>
     <name>STR_SKILL_FI_RevengeSlash_G1_DESC</name>
     <body>Upon successful parry, inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] damage to the target.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>292785</id>
@@ -58181,7 +58181,7 @@ Habilidade de Sequência nível 1.</body>
     <id>292872</id>
     <name>STR_SKILL_FI_Stigma_ForceBlast_G1_DESC</name>
     <body>Deals [%e1.SkillATK_Instant.MinDamage]-[%e1.SkillATK_Instant.MaxDamage] physical damage to a target within [%First_Target_Valid_Distance]m of you and up to 5 enemies within a 10m radius of the target, and decreases their [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime].
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>292873</id>
@@ -58197,7 +58197,7 @@ Habilidade de Stigma.</body>
     <id>292875</id>
     <name>STR_SKILL_FI_Stigma_ShockImpulse_G1_DESC</name>
     <body>Deals [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] physical damage to up to 12 enemies within a 10m radius, and decreases their [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime].
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>292876</id>
@@ -58208,7 +58208,7 @@ Habilidade de Stigma.</body>
     <id>292877</id>
     <name>STR_SKILL_KN_Stigma_GodJudgement_G1_DESC</name>
     <body>Deals [%e1.SkillATK_Instant.MinDamage]-[%e1.SkillATK_Instant.MaxDamage] physical damage to the target and stuns it for [%e2.Stun.RemainTime].
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>292878</id>
@@ -58224,7 +58224,7 @@ Habilidade de Stigma.</body>
     <id>292880</id>
     <name>STR_SKILL_KN_Stigma_DrainSword_G1_DESC</name>
     <body>Deals [%e1.SkillATKDrain_Instant.MinDamage]-[%e1.SkillATKDrain_Instant.MaxDamage] physical damage to the target and absorbs [%e1.SkillATKDrain_Instant.HPHeal]%% of the damage as HP.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>292881</id>
@@ -58235,7 +58235,7 @@ Habilidade de Stigma.</body>
     <id>292882</id>
     <name>STR_SKILL_RA_Stigma_PhoenixArrow_G1_DESC</name>
     <body>Fires an arrow at a target within [%First_Target_Valid_Distance]m to deal [%e1.SkillATK_Instant.MinDamage]-[%e1.SkillATK_Instant.MaxDamage] physical damage. This attack has low accuracy.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>292883</id>
@@ -58246,7 +58246,7 @@ Habilidade de Stigma.</body>
     <id>292884</id>
     <name>STR_SKILL_RA_Stigma_DestructArrow_G1_DESC</name>
     <body>Fires an arrow at a target within [%First_Target_Valid_Distance]m to deal [%e1.SkillATK_Instant.MinDamage]-[%e1.SkillATK_Instant.MaxDamage] physical damage. This attack has low accuracy.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>292885</id>
@@ -58257,7 +58257,7 @@ Habilidade de Stigma.</body>
     <id>292886</id>
     <name>STR_SKILL_AS_Stigma_NovaBurst_G1_DESC</name>
     <body>Detonates up to [%e1.SignetBurst.SignetGrade] runes on a target within [%First_Target_Valid_Distance]m, dealing damage, silencing the target, and reducing its attack speed.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>292887</id>
@@ -58750,7 +58750,7 @@ Immobilized in mid-air.</body>
     <id>292980</id>
     <name>STR_SKILL_FI_Stigma_DrainCut_G1_DESC</name>
     <body>Deals [%e1.SkillATKDrain_Instant.MinDamage]-[%e1.SkillATKDrain_Instant.MaxDamage] physical damage to a stumbled enemy and absorbs [%e1.SkillATKDrain_Instant.HPHeal]%% of the damage as HP.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>292981</id>
@@ -58761,7 +58761,7 @@ Habilidade de Stigma.</body>
     <id>292982</id>
     <name>STR_SKILL_FI_Stigma_ForceBurst_G1_DESC</name>
     <body>Deals [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] physical damage to a target within [%First_Target_Valid_Distance]m of you and up to 18 enemies within a 10m radius of the target, and decreases their [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime].
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>292983</id>
@@ -58777,7 +58777,7 @@ Habilidade de Stigma.</body>
     <id>292985</id>
     <name>STR_SKILL_FI_Stigma_ShockBurst_G1_DESC</name>
     <body>Deals [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] physical damage to up to 18 enemies within a 10m radius, and decreases their [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime].
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>292986</id>
@@ -58804,7 +58804,7 @@ Habilidade de Stigma</body>
     <id>292990</id>
     <name>STR_SKILL_KN_Stigma_GodPunishment_G1_DESC</name>
     <body>Deals [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] physical damage to the target and stuns it for [%e2.Stun.RemainTime].
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>292991</id>
@@ -58820,7 +58820,7 @@ Habilidade de Stigma.</body>
     <id>292993</id>
     <name>STR_SKILL_KN_Stigma_DemonPunishment_G1_DESC</name>
     <body>Deals [%e1.SkillATKDrain_Instant.MinDamage]~[%e1.SkillATKDrain_Instant.MaxDamage] physical damage to the target and absorbs [%e1.SkillATKDrain_Instant.HPHeal]%% of the damage as HP.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>292994</id>
@@ -58831,7 +58831,7 @@ Habilidade de Stigma.</body>
     <id>292995</id>
     <name>STR_SKILL_RA_Stigma_TigerEye_G1_DESC</name>
     <body>Reduces [%e1.WeaponStatUp.StatName] by 15m for [%e1.WeaponStatUp.RemainTime], and increases [%e2.WeaponStatUp.StatName] of [%e1.WeaponStatUp.WeaponCategory] by [%e2.WeaponStatUp.Value]%% and [%e3.WeaponStatUp.StatName] by [%e3.WeaponStatUp.Value]%%.
-Receive Stigmas</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>292996</id>
@@ -58847,7 +58847,7 @@ Receive Stigmas</body>
     <id>292998</id>
     <name>STR_SKILL_RA_Stigma_AncientArrow_G1_DESC</name>
     <body>Fires an arrow at a target within [%First_Target_Valid_Distance]m to inflict [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] physical damage. This attack has low accuracy.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>292999</id>
@@ -58858,7 +58858,7 @@ Habilidade de Stigma.</body>
     <id>293000</id>
     <name>STR_SKILL_RA_Stigma_MysticArrow_G1_DESC</name>
     <body>Fires an arrow at a target within [%First_Target_Valid_Distance]m to inflict [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] physical damage. This attack has low accuracy.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>293001</id>
@@ -58887,7 +58887,7 @@ Habilidade de Stigma</body>
     <id>293005</id>
     <name>STR_SKILL_AS_Stigma_SunBurst_G1_DESC</name>
     <body>Detonates up to [%e1.SignetBurst.SignetGrade] runes on a target within [%First_Target_Valid_Distance]m, dealing damage, and also temporarily silencing the target and reducing its attack speed.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>293006</id>
@@ -60279,7 +60279,7 @@ Habilidade de Stigma</body>
     <name>STR_SKILL_EL_Escape_G1_DESC</name>
     <body>Puts group members within 20m of you into basic stealth for [%e1.Hide.RemainTime], during which they cannot move.
 Não pode usar durante a batalha.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>293278</id>
@@ -61259,13 +61259,13 @@ Habilidade de Stigma.</body>
   <string>
     <id>293473</id>
     <name>STR_SKILL_FI_EnfeebleHit_G1</name>
-    <body>Weakening Blow I</body>
+    <body>Severe Weakening Blow I</body>
   </string>
   <string>
     <id>293474</id>
     <name>STR_SKILL_FI_EnfeebleHit_G1_DESC</name>
-    <body>High probability to hit and then deals [%e1.SkillATK_Instant.MinDamage] - [%e1.SkillATK_Instant.MaxDamage]physical damage to the target. Decreases the target’s [%e2.StatDown.StatName] by [%e2.StatDown.Value] and [%e2.StatDown.StatName2] by [%e2.StatDown.Value2] for [%e2.StatDown.RemainTime].
-Receive Stigmas</body>
+    <body>Alta probabilidade de acertar. Causa [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] de dano físico ao alvo. Reduz [%e2.StatDown.StatName] em [%e2.StatDown.Value] por [%e2.StatDown.RemainTime].
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>293475</id>
@@ -61275,22 +61275,22 @@ Receive Stigmas</body>
   <string>
     <id>293476</id>
     <name>STR_SKILL_FI_EnfeebleHit_G2</name>
-    <body>Weakening Blow II</body>
+    <body>Severe Weakening Blow II</body>
   </string>
   <string>
     <id>293477</id>
     <name>STR_SKILL_FI_EnfeebleHit_G3</name>
-    <body>Weakening Blow III</body>
+    <body>Severe Weakening Blow III</body>
   </string>
   <string>
     <id>293478</id>
     <name>STR_SKILL_FI_EnfeebleHit_G4</name>
-    <body>Weakening Blow IV</body>
+    <body>Severe Weakening Blow IV</body>
   </string>
   <string>
     <id>293479</id>
     <name>STR_SKILL_FI_EnfeebleHit_G5</name>
-    <body>Weakening Blow V</body>
+    <body>Severe Weakening Blow V</body>
   </string>
   <string>
     <id>293480</id>
@@ -61327,7 +61327,7 @@ Habilidade de Stigma</body>
     <id>293486</id>
     <name>STR_SKILL_FI_ChargingHit_G1_DESC</name>
     <body>High probability to hit and then deals [%e1.SkillATK_Instant.MinDamage] - [%e1.SkillATK_Instant.MaxDamage]physical damage to the target.
-Receive Stigmas</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>293487</id>
@@ -61354,7 +61354,7 @@ Habilidade de Stigma</body>
     <id>293491</id>
     <name>STR_SKILL_FI_TechnicalCounter_G1_DESC</name>
     <body>Upon successful parry, inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] damage to the target and puts it in the [%e1.SkillATK_Instant.AddEffect] state.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>293492</id>
@@ -61371,7 +61371,7 @@ Habilidade de Stigma.</body>
     <name>STR_SKILL_FI_SharpnessHit_G1_DESC</name>
     <body>Inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] damage to the target.
 Habilidade de Sequência nível 1.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>293495</id>
@@ -61382,7 +61382,7 @@ Habilidade de Stigma.</body>
     <id>293496</id>
     <name>STR_SKILL_FI_ChargingShock_G1_DESC</name>
     <body>A further swing of the weapon deals [%e1.SkillATK_Instant.MinDamage]-[%e1.SkillATK_Instant.MaxDamage] physical damage to up to 6 opponents within a 7m radius. Has a high chance of hitting the target. Also has a certain probability of putting the opponent in the [%e1.SkillATK_Instant.AddEffect] state.
-Receive Stigmas</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>293497</id>
@@ -61395,7 +61395,7 @@ Receive Stigmas</body>
     <body>Inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] damage on the target.
 Habilidade de Sequência nível 2
 Sharp Strike - Severing Strike.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>293499</id>
@@ -61406,7 +61406,7 @@ Habilidade de Stigma.</body>
     <id>293500</id>
     <name>STR_SKILL_KN_HighProvoke_G1_DESC</name>
     <body>Aumenta a Provocação de um alvo a [%First_Target_Valid_Distance]m de distância de você.
-Receive Stigmas</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>293501</id>
@@ -61558,7 +61558,7 @@ Habilidade de Stigma</body>
     <id>293528</id>
     <name>STR_SKILL_RA_MovingShot_G1_DESC</name>
     <body>Inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] damage on a target within a [%First_Target_Valid_Distance]m radius.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>293529</id>
@@ -61580,7 +61580,7 @@ Habilidade de Stigma</body>
     <id>293532</id>
     <name>STR_SKILL_RA_ExplosionArrow_G1_DESC</name>
     <body>Deals [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] damage to a target within a [%First_Target_Valid_Distance]m radius.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>293533</id>
@@ -61602,7 +61602,7 @@ Habilidade de Stigma</body>
     <id>293536</id>
     <name>STR_SKILL_RA_ShadowArrow_G1_DESC</name>
     <body>Inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] damage to a target within a [%First_Target_Valid_Distance]m radius with a higher chance of inflicting a critical hit.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>293537</id>
@@ -61613,7 +61613,7 @@ Habilidade de Stigma.</body>
     <id>293538</id>
     <name>STR_SKILL_RA_MassExplosionArrow_G1_DESC</name>
     <body>High probability to hit within [%First_Target_Valid_Distance]m of you and then deals [%e1.SkillATK_Instant.MinDamage] - [%e1.SkillATK_Instant.MaxDamage]physical damage to the target.
-Receive Stigmas</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>293539</id>
@@ -61668,7 +61668,7 @@ Habilidade de Stigma</body>
     <body>Inflicts [%e1.CarveSignet.MinDamage]~[%e1.CarveSignet.MaxDamage] damage to the target and engraves a signet rune on the target up to the level of [%e1.CarveSignet.SignetGrade]. 
 Habilidade de Sequência nível 4
 Beastly Thrash - Beastly Scar
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>293549</id>
@@ -61681,7 +61681,7 @@ Habilidade de Stigma.</body>
     <body>Inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] damage to the target. Decreases the target's [%e2.StatDown.StatName] by [%e2.StatDown.Value] and [%e3.StatDown.StatName] by [%e3.StatDown.Value] for [%e2.StatDown.RemainTime].
 Habilidade de Sequência nível 2.
 Swift Edge - Agonizing Slash
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>293551</id>
@@ -61715,7 +61715,7 @@ Habilidade de Stigma</body>
     <body>Inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] damage to the target. The target's [%e2.StatDown.StatName] decreases by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime].
 Habilidade de Sequência nível 2
 Swift Edge - Lightning Slash
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>293557</id>
@@ -61744,7 +61744,7 @@ Habilidade de Stigma</body>
     <id>293561</id>
     <name>STR_SKILL_AS_AssaultSlash_G1_DESC</name>
     <body>Inflicts [%e1.DashATK.MinDamage]~[%e1.DashATK.MaxDamage] damage by charging the target within a [%First_Target_Valid_Distance]m radius.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>293562</id>
@@ -61813,7 +61813,7 @@ Habilidade de Stigma</body>
     <id>293574</id>
     <name>STR_SKILL_PR_PainLinks_G1_DESC</name>
     <body>Inflicts [%e1.SpellATK_Instant.FixDamage] earth damage to a target within a [%First_Target_Valid_Distance]m radius, and deals additional [%e2.SpellATK.Damage] damage every [%e2.SpellATK.CheckTime] for [%e2.SpellATK.RemainTime]. In addition, reduces the target's [%e4.StatDown.StatName] by [%e4.StatDown.Value]. If the target dies while the skill is in effect, it is resurrected at its registered Kisk or Obelisk.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>293575</id>
@@ -61909,7 +61909,7 @@ Habilidade de Stigma</body>
     <id>293592</id>
     <name>STR_SKILL_CH_SplashSwing_G1_DESC</name>
     <body>Upon successful parry, inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] damage to the target.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>293593</id>
@@ -61925,7 +61925,7 @@ Habilidade de Stigma.</body>
     <id>293595</id>
     <name>STR_SKILL_CH_Chakra_G1_DESC</name>
     <body>Restores HP by [%e1.Heal_Instant.Heal].
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>293596</id>
@@ -61936,7 +61936,7 @@ Habilidade de Stigma.</body>
     <id>293597</id>
     <name>STR_SKILL_CH_ImbuePower_G1_DESC</name>
     <body>For [%e1.Provoker.RemainTime], there is a [%e1.Provoker.ConditionProb]%% chance of inflicting additional [%e1.Provoker.OtherSkill.e1.ProcATK_Instant.Damage] damage to the target each time you [%e1.Provoker.Condition].
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>293598</id>
@@ -61963,7 +61963,7 @@ Habilidade de Stigma</body>
     <id>293602</id>
     <name>STR_SKILL_CH_BlessProtect_G1_DESC</name>
     <body>For [%e1.StatUp.RemainTime], increases [%e1.StatUp.StatName] of a target within [%First_Target_Valid_Distance]m distance by [%e1.StatUp.Value]%%, [%e2.StatUp.StatName] by [%e2.StatUp.Value] points and [%e3.StatUp.StatName] by [%e3.StatUp.Value]%% points.
-Receive Stigmas</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>293603</id>
@@ -61979,7 +61979,7 @@ Receive Stigmas</body>
     <id>293605</id>
     <name>STR_SKILL_CH_MountainCrash_G1_DESC</name>
     <body>Inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] damage to a target within a [%First_Target_Valid_Distance]m radius, and deals periodic [%e2.SpellATK.Damage] damage every [%e2.SpellATK.CheckTime] for [%e2.SpellATK.RemainTime].
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>293606</id>
@@ -62091,8 +62091,8 @@ Habilidade de Stigma</body>
   <string>
     <id>293626</id>
     <name>STR_SKILL_WI_SleepingStorm_G1_DESC</name>
-    <body>Forces a target within a [%First_Target_Valid_Distance]m radius and up to 6 enemies within a 12m radius of the target to fall asleep for [%e1.Sleep.RemainTime] and increases their [%e2.StatUp.StatName]. Se o alvo for um jogador, a duração é reduzida.
-Receive Stigmas</body>
+    <body>Forces a target within a [%First_Target_Valid_Distance]m radius and up to 6 enemies within a 12m radius of the target to fall asleep for [%e1.Sleep.RemainTime] and increases their [%e2.StatUp.StatName]. A duração é reduzida no PVP.
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>293627</id>
@@ -62182,12 +62182,12 @@ Habilidade de Stigma</body>
     <id>293643</id>
     <name>STR_SKILL_EL_ManaReverse_G1_DESC</name>
     <body>Removes up to [%e1.DispelBuffCounterATK.DispelCount] buffs from the target and inflicts [%e1.DispelBuffCounterATK.Damage] damage for the first buff removed, as well as a further [%e1.DispelBuffCounterATK.AddDamage] damage for each additional buff removed. The target also receives [%e2.SkillLauncher.OtherSkill.e1.SpellATK.Damage] damage every [%e2.SkillLauncher.OtherSkill.e1.SpellATK.CheckTime] for [%e2.SkillLauncher.OtherSkill.e1.SpellATK.RemainTime]. It can be removed with skills that dispel magical buffs or debuffs.
-Receive Stigmas</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>293644</id>
     <name>STR_SKILL_EL_ManaReverse_G1_Abnormal</name>
-    <body>You suffer [%e1.SpellATK.Damage] damage every [%e1.SpellATK.CheckTime]. It can be removed with Dispel Magical Buff or Dispel Magical Debuff skills.</body>
+    <body>You suffer [%e1.SpellATK.Damage] damage every [%e1.SpellATK.CheckTime]. It can be removed with Dispel Magical Buff or Dispel Debuff Mágico skills.</body>
   </string>
   <string>
     <id>293645</id>
@@ -63041,7 +63041,7 @@ Habilidade de Stigma</body>
   <string>
     <id>293814</id>
     <name>STR_PreChain_FI_EnfeebleHit</name>
-    <body>Weakening Blow</body>
+    <body>Severe Weakening Blow</body>
   </string>
   <string>
     <id>293815</id>
@@ -63681,7 +63681,7 @@ Habilidade de Stigma</body>
   <string>
     <id>293942</id>
     <name>STR_BNFI_SatkSDownPyDefDodge_Captain</name>
-    <body>Weakening Blow</body>
+    <body>Severe Weakening Blow</body>
   </string>
   <string>
     <id>293943</id>
@@ -63832,25 +63832,25 @@ Habilidade de Stigma</body>
     <id>293972</id>
     <name>STR_SKILL_RA_Light_ThrowingTrap_G2_DESC</name>
     <body>Uses 5 Tripeed seeds to set a trap. The trap lasts for [%e1.SummonTrap.SummonTime], and when an enemy approaches within 10m, it explodes, immobilizing the enemy and reducing its evasion.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>293973</id>
     <name>STR_SKILL_RA_Light_ThrowingTrap_G3_DESC</name>
     <body>Uses 10 Tripeed seeds to set a trap. The trap lasts for [%e1.SummonTrap.SummonTime], and when an enemy approaches within 10m, it explodes, immobilizing the enemy and reducing its evasion.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>293974</id>
     <name>STR_SKILL_RA_Dark_ThrowingTrap_G2_DESC</name>
     <body>Uses 5 Tripeed seeds to set a trap. The trap lasts for [%e1.SummonTrap.SummonTime], and when an enemy approaches within 10m, it explodes, immobilizing the enemy and reducing its evasion.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>293975</id>
     <name>STR_SKILL_RA_Dark_ThrowingTrap_G3_DESC</name>
     <body>Uses 10 Tripeed seeds to set a trap. The trap lasts for [%e1.SummonTrap.SummonTime], and when an enemy approaches within 10m, it explodes, immobilizing the enemy and reducing its evasion.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>293976</id>
@@ -66141,7 +66141,7 @@ Habilidade de Stigma.</body>
     <id>294436</id>
     <name>STR_SKILL_FI_JumpAttack_G1_DESC</name>
     <body>Inflicts [%e1.DashATK.MinDamage]~[%e1.DashATK.MaxDamage] damage by dashing to the target within a [%First_Target_Valid_Distance]m radius.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>294437</id>
@@ -67532,7 +67532,7 @@ Habilidade de Stigma</body>
     <id>294713</id>
     <name>STR_SKILL_WI_IcyShield_G1_DESC</name>
     <body>If an enemy within a [%e1.Reflector.MaxRange]m radius [%e1.Reflector.Condition]s you, you reflect [%e1.Reflector.FixedDamage] damage to the enemy for [%e1.Reflector.RemainTime] and decrease its movement and attack speed for [%e2.Provoker.OtherSkill.e1.Snare.RemainTime].
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>294714</id>
@@ -69058,7 +69058,7 @@ Remove Shock - Ferocity</body>
     <id>295015</id>
     <name>STR_SKILL_FI_KneeCrash_G1_DESC</name>
     <body>Inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] damage to the target and immobilizes it for [%e2.Root.RemainTime].
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>295016</id>
@@ -69122,7 +69122,7 @@ Habilidade de Stigma</body>
     <id>295027</id>
     <name>STR_SKILL_FI_BurserkLance_G1_DESC</name>
     <body>High probability to hit and then deals [%e1.SkillATK_Instant.MinDamage] - [%e1.SkillATK_Instant.MaxDamage]physical damage to the target.
-Receive Stigmas</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>295028</id>
@@ -69135,7 +69135,7 @@ Receive Stigmas</body>
     <body>Inflicts [%e1.SkillATKDrain_Instant.MinDamage]~[%e1.SkillATKDrain_Instant.MaxDamage] damage to the target and has a chance to absorb [%e1.SkillATKDrain_Instant.HPHeal]%% of the damage as HP.
 Habilidade de Sequência nível 3
 Severing Strike - Draining Sword
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>295030</id>
@@ -69184,7 +69184,7 @@ Requer um Escudo</body>
     <id>295038</id>
     <name>STR_SKILL_KN_Intimidation_G1_DESC</name>
     <body>Taunts a target within a [%First_Target_Valid_Distance]m radius, increasing its Enmity towards you, and decreasing its attack speed.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>295039</id>
@@ -69205,7 +69205,7 @@ Habilidade de Stigma.</body>
     <id>295042</id>
     <name>STR_SKILL_KN_FortitudeWave_G1_DESC</name>
     <body>Inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] damage on up to 6 enemies within a 7m radius, and immobilizes them for [%e2.Root.RemainTime].
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>295043</id>
@@ -69265,7 +69265,7 @@ Habilidade de Stigma</body>
     <name>STR_SKILL_KN_DestructShield_G1_DESC</name>
     <body>Has a high chance of dealing [%e1.SkillATK_Instant.MinDamage] - [%e1.SkillATK_Instant.MaxDamage] physical damage to the target and causes it to stumble.
 Requer um Escudo
-Receive Stigmas</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>295054</id>
@@ -69427,7 +69427,7 @@ Habilidade de Stigma</body>
     <id>295083</id>
     <name>STR_SKILL_RA_LightningShot_G1_DESC</name>
     <body>Fires an arrow that briefly stuns and inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] damage to a target within a [%First_Target_Valid_Distance]m radius.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>295084</id>
@@ -69438,7 +69438,7 @@ Habilidade de Stigma.</body>
     <id>295085</id>
     <name>STR_SKILL_RA_PainArrow_G1_DESC</name>
     <body>Inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] damage to a target within a [%First_Target_Valid_Distance]m radius and poisons it for [%e2.Poison.RemainTime].
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>295086</id>
@@ -69527,7 +69527,7 @@ Habilidade de Stigma</body>
     <id>295102</id>
     <name>STR_SKILL_AS_SenseBoost_G1_DESC</name>
     <body>Increases [%e1.StatUp.StatName] by [%e1.StatUp.Value] and [%e2.StatUp.StatName] by [%e2.StatUp.Value] for [%e1.StatUp.RemainTime].
-Receive Stigmas</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>295103</id>
@@ -69560,7 +69560,7 @@ Remove Shock - Cyclone Slash</body>
     <id>295108</id>
     <name>STR_SKILL_AS_VenomStab_G1_DESC</name>
     <body>Chance to inflict [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] damage and poison the target for [%e2.Poison.RemainTime]. If used on the target's back, inflicts an additional [%e1.SkillATK_Instant.AddDamage] damage.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>295109</id>
@@ -69608,7 +69608,7 @@ Habilidade de Stigma</body>
     <id>295117</id>
     <name>STR_SKILL_AS_VenomSlash_G1_DESC</name>
     <body>Inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] damage to the target, and inflicts an additional [%e1.SkillATK_Instant.AddDamage] damage and may stun the target if it is poisoned.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>295118</id>
@@ -69656,7 +69656,7 @@ Remove Shock - Impervious Veil</body>
     <id>295126</id>
     <name>STR_SKILL_PR_Light_HealingServent_G1_DESC</name>
     <body>Summons a healing servant in your vicinity. You cannot move, but [%e0.PR_Light_Totem_HealingServent_G1.e1.Heal_Instant.Heal] HP are restored to you and your allies within a radius of 30m. This force will disappear after a while.
-Receive Stigmas</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>295127</id>
@@ -69667,7 +69667,7 @@ Receive Stigmas</body>
     <id>295128</id>
     <name>STR_SKILL_PR_Dark_HealingServent_G1_DESC</name>
     <body>Summons a healing servant in your vicinity. You cannot move, but [%e0.PR_Dark_Totem_HealingServent_G1.e1.Heal_Instant.Heal] HP are restored to you and your allies within a radius of 30m. This force will disappear after a while.
-Receive Stigmas</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>295129</id>
@@ -69688,7 +69688,7 @@ Receive Stigmas</body>
     <id>295132</id>
     <name>STR_SKILL_PR_SufferMemory_G1_DESC</name>
     <body>Instantly inflicts [%e1.SpellATK_Instant.FixDamage] wind damage to a target within a [%First_Target_Valid_Distance]m radius, and inflicts periodic [%e2.SpellATK.Damage] earth damage to it every [%e2.SpellATK.CheckTime] for [%e2.SpellATK.RemainTime], while reducing its [%e3.StatDown.StatName] by [%e3.StatDown.Value].
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>295133</id>
@@ -69750,7 +69750,7 @@ Habilidade de Stigma</body>
     <name>STR_SKILL_PR_HealersHand_G1_DESC</name>
     <body>[%e1.StatUp.StatName] increases by [%e1.StatUp.Value], but 10%% more MP is consumed while the skill is in use.
 Habilidade Ativa
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>295144</id>
@@ -69863,7 +69863,7 @@ Remove Shock – Backshock.</body>
     <id>295164</id>
     <name>STR_SKILL_CH_SlowCrash_G1_DESC</name>
     <body>Inflicts [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] damage to the target, increasing the target's casting time by 50%%, and decreasing the target's attack speed for [%e2.Slow.RemainTime].
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>295165</id>
@@ -69937,7 +69937,7 @@ Remove Shock - Time and Space Jump</body>
     <id>295178</id>
     <name>STR_SKILL_WI_ElementalSeal_G1_DESC</name>
     <body>Increases [%e1.StatUp.StatName] by [%e1.StatUp.Value] and [%e2.StatUp.StatName] by [%e2.StatUp.Value] for [%e1.StatUp.RemainTime].
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>295179</id>
@@ -69978,7 +69978,7 @@ Habilidade de Stigma</body>
   <string>
     <id>295186</id>
     <name>STR_SKILL_WI_CursedCorruptTree_G1_DESC</name>
-    <body>Transforms a target within a [%First_Target_Valid_Distance]m radius into a cursed tree for [%e1.Deform.RemainTime]. While the condition is in effect, the target can neither move nor use skills and [%e3.StatUp.StatName] is increased. Once the target is attacked, the effect disappears immediately. Se o alvo for um jogador, a duração é reduzida.
+    <body>Transforms a target within a [%First_Target_Valid_Distance]m radius into a cursed tree for [%e1.Deform.RemainTime]. While the condition is in effect, the target can neither move nor use skills and [%e3.StatUp.StatName] is increased. Once the target is attacked, the effect disappears immediately. A duração é reduzida no PVP.
 Habilidade de Sequência nível 2
 Remove Shock - Curse of Old Roots</body>
   </string>
@@ -70080,8 +70080,8 @@ Habilidade de Stigma</body>
   <string>
     <id>295205</id>
     <name>STR_SKILL_EL_SleepingSpirit_G1_DESC</name>
-    <body>Forces a target within [%First_Target_Valid_Distance]m to fall asleep for [%e1.Sleep.RemainTime] and increases its [%e2.StatUp.StatName]. Se o alvo for um jogador, a duração é reduzida.
-Receive Stigmas</body>
+    <body>Forces a target within [%First_Target_Valid_Distance]m to fall asleep for [%e1.Sleep.RemainTime] and increases its [%e2.StatUp.StatName]. A duração é reduzida no PVP.
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>295206</id>
@@ -70101,7 +70101,7 @@ Receive Stigmas</body>
   <string>
     <id>295209</id>
     <name>STR_SKILL_EL_DespairCurse_G1_DESC</name>
-    <body>Transforms a target within [%First_Target_Valid_Distance]m into a Fire Spirit for [%e1.Fear.RemainTime]. It is afraid and cannot move. Se o alvo for um jogador, a duração é reduzida.
+    <body>Transforms a target within [%First_Target_Valid_Distance]m into a Fire Spirit for [%e1.Fear.RemainTime]. It is afraid and cannot move. A duração é reduzida no PVP.
 Habilidade de Sequência nível 2
 Remove Shock - Flames of Anguish</body>
   </string>
@@ -70119,7 +70119,7 @@ Remove Shock - Flames of Anguish</body>
     <id>295212</id>
     <name>STR_SKILL_EL_EnervationCurse_G1_DESC</name>
     <body>Reduces the maximum HP and maximum MP of a target within a [%First_Target_Valid_Distance]m radius by [%e1.Curse.Value] each for [%e1.Curse.RemainTime].
-It can be removed with a Dispel Magical Debuff skill.
+It can be removed with a Dispel Debuff Mágico skill.
 Habilidade de Stigma</body>
   </string>
   <string>
@@ -70157,7 +70157,7 @@ Habilidade de Stigma</body>
     <id>295219</id>
     <name>STR_SKILL_EL_HellCurse_G1_DESC</name>
     <body>Decreases [%e1.StatDown.StatName] by [%e1.StatDown.Value], [%e2.StatDown.StatName] by [%e2.StatDown.Value], and [%e2.StatDown.StatName2] by [%e2.StatDown.Value2] for a target within a [%First_Target_Valid_Distance]m radius for [%e1.StatDown.RemainTime].
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>295220</id>
@@ -70972,7 +70972,7 @@ Habilidade de Stigma.</body>
   <string>
     <id>295382</id>
     <name>STR_SKILL_FI_EnfeebleHit_G6</name>
-    <body>Weakening Blow VI</body>
+    <body>Severe Weakening Blow VI</body>
   </string>
   <string>
     <id>295383</id>
@@ -71058,7 +71058,7 @@ Habilidade de Stigma.</body>
     <id>295399</id>
     <name>STR_SKILL_KN_BreakPower_G4_DESC</name>
     <body>Deals [%e1.SkillATK_Instant.MinDamage]~[%e1.SkillATK_Instant.MaxDamage] physical damage to a stumbled target, and decreases its [%e2.StatDown.StatName] by [%e2.StatDown.Value] for [%e2.StatDown.RemainTime]. While the skill is in effect, your [%e0.KN_BreakPower_G3_Buff.e1.StatUp.StatName] increases by [%e0.KN_BreakPower_G3_Buff.e1.StatUp.Value].
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>295400</id>
@@ -71326,13 +71326,13 @@ Habilidade de Stigma</body>
     <id>295452</id>
     <name>STR_SKILL_RA_Light_ThrowingTrap_G4_DESC</name>
     <body>Uses 10 Tripeed seeds to set a trap. The trap lasts for [%e1.SummonTrap.SummonTime], and when an enemy approaches within 10m, it explodes, immobilizing the enemy and reducing its evasion.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>295453</id>
     <name>STR_SKILL_RA_Dark_ThrowingTrap_G4_DESC</name>
     <body>Uses 10 Tripeed seeds to set a trap. The trap lasts for [%e1.SummonTrap.SummonTime], and when an enemy approaches within 10m, it explodes, immobilizing the enemy and reducing its evasion.
-Habilidade de Stigma.</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>295454</id>
@@ -75256,13 +75256,13 @@ Habilidade de Stigma</body>
     <id>296297</id>
     <name>STR_SKILL_PR_Light_HealingServent_G2_DESC</name>
     <body>Summons a healing servant in your vicinity. You cannot move, but [%e0.PR_Light_Totem_HealingServent_G2.e1.Heal_Instant.Heal] HP are restored to you and an ally within a radius of 30m. This force will disappear after a while.
-Receive Stigmas</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>296298</id>
     <name>STR_SKILL_PR_Dark_HealingServent_G2_DESC</name>
     <body>Summons a healing servant in your vicinity. You cannot move, but [%e0.PR_Dark_Totem_HealingServent_G2.e1.Heal_Instant.Heal] HP are restored to you and an ally within a radius of 30m. This force will disappear after a while.
-Receive Stigmas</body>
+Habilidade de Stigma</body>
   </string>
   <string>
     <id>296299</id>
@@ -89720,7 +89720,7 @@ Consumes 20 Lightning Charge</body>
   <string>
     <id>2281217</id>
     <name>STR_SKILL_AS_BackAssault_G3</name>
-    <body>Weakening Blow III</body>
+    <body>Severe Weakening Blow III</body>
   </string>
   <string>
     <id>2281218</id>
@@ -93406,7 +93406,7 @@ Stigma Skill.</body>
   <string>
     <id>2282237</id>
     <name>STR_SKILL_CH_Chant_ImprovedCritical_G2_DESC</name>
-    <body>Increases [%e1.Aura.OtherSkill.e1.StatUp.StatName] by [%e1.Aura.OtherSkill.e1.StatUp.Value], [%e1.Aura.OtherSkill.e1.StatUp.StatName2] by [%e1.Aura.OtherSkill.e1.StatUp.Value2], [%e1.Aura.OtherSkill.e2.StatUp.StatName] by [%e1.Aura.OtherSkill.e2.StatUp.Value], and [%e1.Aura.OtherSkill.e2.StatUp.StatName2] by [%e1.Aura.OtherSkill.e2.StatUp.Value2] for you and your group members within a [%e1.Aura.Range]m radius.
+    <body>Aumenta [%e1.Aura.OtherSkill.e1.StatUp.StatName] em [%e1.Aura.OtherSkill.e1.StatUp.Value], [%e1.Aura.OtherSkill.e1.StatUp.StatName2] em [%e1.Aura.OtherSkill.e1.StatUp.Value2], [%e1.Aura.OtherSkill.e2.StatUp.StatName] em [%e1.Aura.OtherSkill.e2.StatUp.Value] e [%e1.Aura.OtherSkill.e2.StatUp.StatName2] em [%e1.Aura.OtherSkill.e2.StatUp.Value2] para você e os membros do seu grupo dentro de um raio de [%e1.Aura.Range]m.
 Active Skill
 Stigma Skill.</body>
   </string>
