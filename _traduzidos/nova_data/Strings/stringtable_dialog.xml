@@ -5764,7 +5764,7 @@
   <string>
     <id>911042</id>
     <name>STR_WHO_DIALOG__BLOCK</name>
-    <body>Bloqueados</body>
+    <body>Bloquear</body>
   </string>
   <string>
     <id>911043</id>
@@ -5789,7 +5789,7 @@
   <string>
     <id>911047</id>
     <name>STR_WHO_DIALOG__MY_PARTY_STATE</name>
-    <body>Meu Status</body>
+    <body>Status</body>
   </string>
   <string>
     <id>911048</id>

@@ -7,7 +7,7 @@ stringtable_dialog.xml (Revisar)
 client_strings_msg.xml (parcialmente, em andamento - linha 2997)
 client_strings_item.xml (100%)
 client_strings_item2.xml (em andamento - linha 14274/184313)
-client_strings_skill.xml (parcialmente, em andamento - linha 12461)
+client_strings_skill.xml (parcialmente, em andamento - linha 14009)
 
 \DIALOGS
 \\10000_19999
@@ -33,8 +33,23 @@ Espaço HTML 3x:
 # TEXTO EM AMARELO
 &lt;font color=&quot;ffff00&quot;&gt;TEXTO&lt;/font&gt;
 # NOVO PARÁGRAFO
- &lt;p align=&quot;center&quot;&gt; &lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; &lt;/p&gt;
 
- # EXPRESSÃO REGULAR PESQUISA:
- (.*?) (.*?)
- $1 $2
+# EXPRESSÃO REGULAR PESQUISA:
+(.*?) (.*?)
+$1 $2
+
+# INSTRUÇÕES DE TRADUÇÃO
+
+Traduza para o português estes textos de descrição de itens e missões de um MMORPG.
+Mantenha nomes de personagens e lugares.
+Mantenha títulos de personagens em Inglês, como Lord.
+Mantenha o código XML ou HTML quando houver tags.
+Não traduza variáveis, normalmente dentro de colchetes [*].
+Use "Causa" ao invés de "Inflige" em qualquer situação e quando houver citação de "wind", "water", "earth" ou "fire" no contexto de dano ou defesa mágica ou física, além da tradução para o português, adicione estes termos logo após a palavra traduzida dentro de parênteses, por exemplo: "de vento (wind)".
+Utilize a regra acima para os espíritos, por exemplo "Water Spirit" retorna "Espírito da Água (water)".
+Quando houver menção de "radius", utilizar "em um raio de até [distância] de você".
+Não use "tem uma" para percentagem, use apenas "tem".
+Não adicione comentários às traduções.
+
+Este efeito pode ser removido com as habilidades de Remover Buff ou Debuff mágicos.
