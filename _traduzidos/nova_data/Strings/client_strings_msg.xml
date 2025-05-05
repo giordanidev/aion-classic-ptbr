@@ -10252,7 +10252,7 @@
   <string>
     <id>1300485</id>
     <name>STR_SOUL_BOUND_ITEM_SUCCEED</name>
-    <body>Você vincilou %0 com sucesso.</body>
+    <body>Você vinculou %0 com sucesso.</body>
     <message_type>53</message_type>
     <display_type>3</display_type>
   </string>

@@ -118,7 +118,7 @@
   <string>
     <id>900302</id>
     <name>STR_LOBBY_SELECT__START</name>
-    <body>Começar</body>
+    <body>Entrar</body>
   </string>
   <string>
     <id>900303</id>
@@ -348,12 +348,12 @@
   <string>
     <id>900804</id>
     <name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE05</name>
-    <body>Largura Olhos</body>
+    <body>Larg. Olhos</body>
   </string>
   <string>
     <id>900805</id>
     <name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE06</name>
-    <body>Tamanho Olhos</body>
+    <body>Tam. Olhos</body>
   </string>
   <string>
     <id>900806</id>
@@ -368,17 +368,17 @@
   <string>
     <id>900808</id>
     <name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE09</name>
-    <body>Alt Sombrancelha</body>
+    <body>Alt. Sombranc.</body>
   </string>
   <string>
     <id>900809</id>
     <name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE10</name>
-    <body>Âng Sombrancelha</body>
+    <body>Âng. Sombranc.</body>
   </string>
   <string>
     <id>900810</id>
     <name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE11</name>
-    <body>Forma Sombrancelha</body>
+    <body>Forma Sombranc.</body>
   </string>
   <string>
     <id>900811</id>
@@ -413,12 +413,12 @@
   <string>
     <id>900817</id>
     <name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE18</name>
-    <body>Tama Boca</body>
+    <body>Tam. Boca</body>
   </string>
   <string>
     <id>900818</id>
     <name>STR_LOBBY_CREATE__CUSTOM_HEAD_DETAIL_TYPE19</name>
-    <body>Tam Lábios</body>
+    <body>Tam. Lábios</body>
   </string>
   <string>
     <id>900819</id>
@@ -448,7 +448,7 @@
   <string>
     <id>900824</id>
     <name>STR_LOBBY_CREATE__CUSTOM_BODY_DETAIL_TYPE01</name>
-    <body>Tam Cabeça</body>
+    <body>Tam. Cabeça</body>
   </string>
   <string>
     <id>900825</id>
@@ -458,12 +458,12 @@
   <string>
     <id>900826</id>
     <name>STR_LOBBY_CREATE__CUSTOM_BODY_DETAIL_TYPE03</name>
-    <body>Tam Pescoço</body>
+    <body>Tam. Pescoço</body>
   </string>
   <string>
     <id>900827</id>
     <name>STR_LOBBY_CREATE__CUSTOM_BODY_DETAIL_TYPE04</name>
-    <body>Tam Ombro</body>
+    <body>Tam. Ombro</body>
   </string>
   <string>
     <id>900828</id>
@@ -493,7 +493,7 @@
   <string>
     <id>900833</id>
     <name>STR_LOBBY_CREATE__CUSTOM_BODY_DETAIL_TYPE10</name>
-    <body>Tam Mãos</body>
+    <body>Tam. Mãos</body>
   </string>
   <string>
     <id>900834</id>
@@ -503,12 +503,12 @@
   <string>
     <id>900835</id>
     <name>STR_LOBBY_CREATE__CUSTOM_BODY_DETAIL_TYPE12</name>
-    <body>Tam Pés</body>
+    <body>Tam. Pés</body>
   </string>
   <string>
     <id>900836</id>
     <name>STR_LOBBY_CREATE__CUSTOM_BODY_DETAIL_TYPE13</name>
-    <body>Proporção Facial</body>
+    <body>Larg. Rosto</body>
   </string>
   <string>
     <id>900837</id>
@@ -518,12 +518,12 @@
   <string>
     <id>900838</id>
     <name>STR_LOBBY_CREATE__CUSTOM_BODY_DETAIL_TYPE15</name>
-    <body>Tam Braços</body>
+    <body>Tam. Braços</body>
   </string>
   <string>
     <id>900839</id>
     <name>STR_LOBBY_CREATE__CUSTOM_BODY_DETAIL_TYPE16</name>
-    <body>Tam Pernas</body>
+    <body>Tam. Pernas</body>
   </string>
   <string>
     <id>900840</id>
